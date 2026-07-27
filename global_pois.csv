@@ -1,0 +1,52 @@
+# lat,lng,id,name,building_type,type
+# Huntix Global POI Database - All categories merged
+# Cities: Roma, Milano, Napoli, Torino, Firenze, Bologna, Palermo, Catania
+41.8902,12.4924,poi_roma_colosseo,Colosseo,landmark,monumento
+41.8954,12.4843,poi_roma_piazza_venezia,Piazza Venezia,square,piazza
+41.9010,12.4830,poi_roma_fontana_di_trevi,Fontana di Trevi,fountain,monumento
+41.8980,12.4769,poi_roma_pantheon,Pantheon,building,monumento
+41.9418,12.4744,poi_roma_villa_borghese,Villa Borghese,park,naturale
+41.9109,12.4763,poi_roma_piazza_navona,Piazza Navona,square,piazza
+41.8897,12.4925,poi_roma_fori_imperiali,Fori Imperiali,landmark,monumento
+41.8930,12.4826,poi_roma_castel_santangelo,Castel Sant'Angelo,building,monumento
+41.9030,12.4540,poi_roma_vaticano,Basilica San Pietro,building,monumento
+41.9289,12.4791,poi_roma_piazzale_flaminio,Piazzale Flaminio,square,piazza
+41.9000,12.5000,poi_roma_terme_di_caracalla,Terme di Caracalla,landmark,monumento
+41.9320,12.4600,poi_roma_ponte_ritratto,Ponte del Risorgimento,bridge,ponte
+41.9470,12.4930,poi_roma_piazza_del_popolo,Piazza del Popolo,square,piazza
+45.4642,9.1900,poi_milano_duomo,Duomo di Milano,building,monumento
+45.4654,9.1712,poi_milano_castello_sforzesco,Castello Sforzesco,building,monumento
+45.4641,9.1856,poi_milano_galleria,Galleria Vittorio Emanuele II,building,shopping
+45.4627,9.1720,poi_milano_teatro_alla_scala,Teatro alla Scala,building,cultura
+45.4681,9.1795,poi_milano_parco_sempione,Parco Sempione,park,naturale
+45.4558,9.2040,poi_milano_navigli,Navigli,square,piazza
+45.4580,9.1750,poi_milano_brera,Brera,square,quartiere
+45.4781,9.2263,poi_milano_lambrate,Parco Lambro,park,naturale
+45.4518,9.1870,poi_milano_porta_romana,Porta Romana,gate,monumento
+40.8518,14.2681,poi_napoli_san_carlo,San Carlo all'Apolo,building,monumento
+40.8396,14.2524,poi_napoli_castel_nuovo,Castel Nuovo,building,monumento
+40.8486,14.2542,poi_napoli_piazza_plebiscito,Piazza del Plebiscito,square,piazza
+40.8530,14.2672,poi_napoli_via_toledo,Via Toledo,square,shopping
+40.8280,14.2370,poi_napoli_posillipo,Posillipo,park,naturale
+40.8490,14.2410,poi_napoli_vomero,Castel Sant'Elmo,building,monumento
+45.0703,7.6869,poi_torino_mole_antonelliana,Mole Antonelliana,building,monumento
+45.0635,7.6820,poi_torino_piazza_castello,Piazza Castello,square,piazza
+45.0710,7.7050,poi_torino_parco_valentino,Parco del Valentino,park,naturale
+45.0690,7.6760,poi_torino_cattedrale,Cattedrale di San Giovanni,building,monumento
+43.7696,11.2558,poi_firenze_duomo,Duomo di Firenze,building,monumento
+43.7730,11.2510,poi_firenze_ponte_vecchio,Ponte Vecchio,bridge,ponte
+43.7765,11.2543,poi_firenze_piazza_della_signoria,Piazza della Signoria,square,piazza
+43.7790,11.2465,poi_firenze_santa_maria_novella,Santa Maria Novella,building,monumento
+43.7680,11.2572,poi_firenze_boboli,Giardino di Boboli,park,naturale
+44.4949,11.3426,poi_bologna_piazza_maggiore,Piazza Maggiore,square,piazza
+44.4938,11.3428,poi_bologna_fontana_netture,Fontana del Nettuno,fountain,monumento
+44.4975,11.3540,poi_bologna_torre_asinelli,Torre degli Asinelli,building,monumento
+44.4983,11.3265,poi_bologna_san_petronio,Basilica di San Petronio,building,monumento
+38.1157,13.3615,poi_palermo_palazzo_dei_normanni,Palazzo dei Normanni,building,monumento
+38.1147,13.3605,poi_palermo_cappella_palatina,Cappella Palatina,building,monumento
+38.1109,13.3510,poi_palermo_piazza_vergini,Piazza Vergini,square,piazza
+38.1098,13.3570,poi_palermo_oratorio_di_san_lorenzo,Oratorio di San Lorenzo,building,monumento
+37.5079,15.0830,poi_catania_piazza_duomo,Piazza del Duomo,square,piazza
+37.5037,15.0873,poi_catania_anfiteatro_romano,Anfiteatro Romano,landmark,monumento
+37.5069,15.0850,poi_catania_fontana_achesiano,Fontana dell'Amenano,fountain,monumento
+37.5120,15.0730,poi_catania_parco_centrale,Parco della Liberta,park,naturale
