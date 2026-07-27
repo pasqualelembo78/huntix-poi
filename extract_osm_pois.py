@@ -261,15 +261,12 @@ def main():
     print()
     time.sleep(5)
 
-    # --- LANDMARKS ---
+    # --- LANDMARKS (unica query con union) ---
     print("🔍 landmarks...")
-    all_landmarks = []
-    for tag in LANDMARK_TAGS:
-        q = f'[out:json][timeout:90];(node[{tag}]({bbox});way[{tag}]({bbox}););out center tags;'
-        els = query_overpass(q)
-        pois = parse_pois(els, "monumento")
-        all_landmarks.extend(pois)
-        time.sleep(3)
+    lm_union = ";".join([f'node[{t}]({bbox});way[{t}]({bbox})' for t in LANDMARK_TAGS])
+    q = f'[out:json][timeout:120];({lm_union});out center tags;'
+    els = query_overpass(q)
+    all_landmarks = parse_pois(els, "monumento")
     # Deduplicate landmarks
     seen_lm = set()
     unique_landmarks = []
