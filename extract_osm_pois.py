@@ -76,6 +76,46 @@ def query_overpass(query_str, retries=3):
     return []
 
 
+def query_cities_in_region(bbox):
+    """Query all places (city/town/village) in the region for reverse assignment."""
+    q = f'[out:json][timeout:120];(node["place"~"city|town|village"]({bbox}););out tags;'
+    els = query_overpass(q)
+    cities = []
+    for el in els:
+        tags = el.get("tags", {})
+        name = tags.get("name") or tags.get("name:it")
+        lat, lng = el.get("lat"), el.get("lon")
+        if name and lat and lng:
+            cities.append({"name": name.strip(), "lat": lat, "lng": lng})
+    return cities
+
+
+def haversine_km(lat1, lng1, lat2, lng2):
+    """Haversine distance in km between two points."""
+    import math
+    R = 6371.0
+    dlat = math.radians(lat2 - lat1)
+    dlng = math.radians(lng2 - lng1)
+    a = math.sin(dlat / 2) ** 2 + math.cos(math.radians(lat1)) * math.cos(math.radians(lat2)) * math.sin(dlng / 2) ** 2
+    return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+
+
+def find_nearest_city(lat, lng, cities_cache):
+    """Find nearest city from pre-loaded cities list."""
+    if not cities_cache:
+        return None
+    best = None
+    best_dist = float("inf")
+    for c in cities_cache:
+        d = haversine_km(lat, lng, c["lat"], c["lng"])
+        if d < best_dist:
+            best_dist = d
+            best = c
+    if best_dist <= 30:
+        return best["name"]
+    return None
+
+
 def extract_city(tags):
     """Extract city name from OSM tags."""
     city = tags.get("addr:city") or tags.get("addr:town") or tags.get("addr:village")
@@ -97,7 +137,7 @@ def normalize_name(name):
     return name
 
 
-def parse_pois(elements, csv_type):
+def parse_pois(elements, csv_type, cities_cache=None):
     """Parse OSM elements into structured POI dicts."""
     pois = []
     seen = set()
@@ -114,6 +154,8 @@ def parse_pois(elements, csv_type):
         if not lat or not lng:
             continue
         city = extract_city(tags)
+        if not city and cities_cache:
+            city = find_nearest_city(lat, lng, cities_cache)
         name = name.replace('"', "").strip()[:60]
         key = f"{name}_{lat:.3f}_{lng:.3f}"
         if key in seen:
@@ -206,6 +248,11 @@ def main():
     print(f"\n📍 Regione: {region_name}")
     print(f"📦 Bounding box: {bbox}\n")
 
+    # Query all places in region for reverse geocoding
+    print("🏙️  Carico città/town/village per assegnazione...")
+    cities_cache = query_cities_in_region(bbox)
+    print(f"  📦 {len(cities_cache)} luoghi trovati\n")
+
     # Create directory structure
     region_dir = os.path.join(repo_dir, "italia", region_slug)
     os.makedirs(region_dir, exist_ok=True)
@@ -217,7 +264,7 @@ def main():
     print("🔍 hospitals...")
     q = f'[out:json][timeout:120];(node["amenity"="hospital"]({bbox});way["amenity"="hospital"]({bbox}););out center tags;'
     elements = query_overpass(q)
-    pois = parse_pois(elements, "hospital")
+    pois = parse_pois(elements, "hospital", cities_cache)
     print(f"  📦 {len(pois)} POI totali")
     for p in pois:
         city = p["city"] or "sconosciuta"
@@ -233,7 +280,7 @@ def main():
     print("🔍 restaurants...")
     q = f'[out:json][timeout:120];(node["amenity"~"restaurant|fast_food|pizzeria"]({bbox});way["amenity"~"restaurant|fast_food|pizzeria"]({bbox}););out center tags;'
     elements = query_overpass(q)
-    pois = parse_pois(elements, "ristorante")
+    pois = parse_pois(elements, "ristorante", cities_cache)
     print(f"  📦 {len(pois)} POI totali")
     for p in pois:
         city = p["city"] or "sconosciuta"
@@ -249,7 +296,7 @@ def main():
     print("🔍 gyms...")
     q = f'[out:json][timeout:120];(node["leisure"="fitness_centre"]({bbox});way["leisure"="fitness_centre"]({bbox}););out center tags;'
     elements = query_overpass(q)
-    pois = parse_pois(elements, "palestra")
+    pois = parse_pois(elements, "palestra", cities_cache)
     print(f"  📦 {len(pois)} POI totali")
     for p in pois:
         city = p["city"] or "sconosciuta"
@@ -266,7 +313,7 @@ def main():
     lm_union = ";".join([f'node[{t}]({bbox});way[{t}]({bbox})' for t in LANDMARK_TAGS])
     q = f'[out:json][timeout:120];({lm_union});out center tags;'
     els = query_overpass(q)
-    all_landmarks = parse_pois(els, "monumento")
+    all_landmarks = parse_pois(els, "monumento", cities_cache)
     # Deduplicate landmarks
     seen_lm = set()
     unique_landmarks = []
