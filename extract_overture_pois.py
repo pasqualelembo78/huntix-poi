@@ -281,20 +281,26 @@ def main():
             if city_slug not in city_pois:
                 city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
 
-            # Map basic_category to our type
-            type_map = {
-                "hospitals": "hospital",
-                "restaurants": "ristorante",
-                "bars_cafes": "bar_cafe",
-                "gyms": "palestra",
-                "landmarks": "monumento",
+            # Map basic_category to our type and buildingType for app compatibility
+            # type="building" + buildingType=HOUSE|RESTAURANT|SUPERMARKET|HOSPITAL|GYM|MONUMENT|MUSEUM
+            # For non-enterable POIs: type="landmark", buildingType=""
+            ov_to_building = {
+                "hospitals": ("building", "HOSPITAL"),
+                "restaurants": ("building", "RESTAURANT"),
+                "bars_cafes": ("building", "RESTAURANT"),
+                "gyms": ("building", "GYM"),
+                "landmarks": ("building", "MONUMENT"),
             }
+            csv_type, building_type = ov_to_building.get(cat_key, ("landmark", ""))
 
-            csv_type = type_map.get(cat_key, cat_key)
+            # Museums get MUSEUM buildingType
+            if cat_key == "landmarks" and basic_cat == "museum":
+                building_type = "MUSEUM"
+
             safe_name = name.replace('"', "").strip()[:60]
             safe_name_csv = f'"{safe_name}"' if "," in safe_name else safe_name
             pid = re.sub(r"[^a-zA-Z0-9]", "_", safe_name.lower())[:40]
-            line = f"{lat:.6f},{lng:.6f},ov_{pid}_{lat:.4f}_{lng:.4f},{safe_name_csv},{csv_type},{csv_type}"
+            line = f"{lat:.6f},{lng:.6f},ov_{pid}_{lat:.4f}_{lng:.4f},{safe_name_csv},{csv_type},{building_type}"
 
             city_pois[city_slug][cat_key].append(line)
             all_pois.append(line)
