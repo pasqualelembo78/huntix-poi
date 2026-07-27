@@ -108,10 +108,17 @@ def save_csv(filename, title, lines):
 
 
 def main():
+    import subprocess
+
     print("=" * 55)
     print("  🗺️  Huntix POI Extractor — OpenStreetMap")
     print("=" * 55)
     print()
+
+    # Detect repo directory (where this script lives)
+    repo_dir = os.path.dirname(os.path.abspath(__file__))
+    print(f"📁 Repo: {repo_dir}\n")
+
     print("Scegli la regione da scaricare:\n")
     for k, (name, _) in sorted(REGIONS.items(), key=lambda x: int(x[0])):
         label = f"  [{k:>2}] {name}"
@@ -126,13 +133,8 @@ def main():
         return
 
     region_name, bbox = REGIONS[choice]
-    clean_name = region_name.lower().replace(" ", "_").replace("'", "")
-    out_dir = f"/tmp/huntix-poi/{clean_name}"
-    os.makedirs(out_dir, exist_ok=True)
-
     print(f"\n📍 Regione: {region_name}")
-    print(f"📦 Bounding box: {bbox}")
-    print(f"📁 Output: {out_dir}\n")
+    print(f"📦 Bounding box: {bbox}\n")
 
     all_pois = []
 
@@ -141,7 +143,7 @@ def main():
         q = f'[out:json][timeout:120];(node[{tag_query}]({bbox});way[{tag_query}]({bbox}););out center;'
         elements = query_overpass(q)
         csv_lines = to_csv(elements, csv_type)
-        filepath = os.path.join(out_dir, filename)
+        filepath = os.path.join(repo_dir, filename)
         save_csv(filepath, f"Huntix {cat_key.title()} - {region_name}", csv_lines)
         all_pois.extend(csv_lines)
         print(f"  ✅ {len(csv_lines)} POI salvati in {filename}\n")
@@ -156,7 +158,6 @@ def main():
         csv_lines = to_csv(els, "monumento")
         all_landmarks.extend(csv_lines)
         time.sleep(3)
-    # Deduplicate landmarks
     seen_lm = set()
     unique_landmarks = []
     for l in all_landmarks:
@@ -165,15 +166,60 @@ def main():
         if key not in seen_lm:
             seen_lm.add(key)
             unique_landmarks.append(l)
-    lm_file = os.path.join(out_dir, "landmarks.csv")
+    lm_file = os.path.join(repo_dir, "landmarks.csv")
     save_csv(lm_file, f"Huntix Landmarks - {region_name}", unique_landmarks)
     all_pois.extend(unique_landmarks)
     print(f"  ✅ {len(unique_landmarks)} POI salvati in landmarks.csv\n")
 
-    global_file = os.path.join(out_dir, "global_pois.csv")
-    save_csv(global_file, f"Huntix Global POI - {region_name}", all_pois)
-    print(f"✅ {len(all_pois)} POI totali salvati in {out_dir}/")
-    print(f"   Copia i file in /tmp/huntix-poi/ per fare il push.\n")
+    # Merge into global_pois.csv: read existing + append new (dedup by name+coords)
+    global_file = os.path.join(repo_dir, "global_pois.csv")
+    existing_lines = set()
+    if os.path.exists(global_file):
+        with open(global_file, "r") as f:
+            for line in f:
+                if not line.startswith("#") and line.strip():
+                    existing_lines.add(line.strip())
+
+    new_global = list(existing_lines)
+    added = 0
+    for l in all_pois:
+        if l.strip() not in existing_lines:
+            new_global.append(l.strip())
+            added += 1
+
+    save_csv(global_file, f"Huntix Global POI - Tutte le regioni", new_global)
+    print(f"✅ {len(all_pois)} POI estratti ({added} nuovi)")
+    print(f"📊 Global totale: {len(new_global)} POI\n")
+
+    # --- GIT PUSH ---
+    print("=" * 55)
+    print("  📤 Push su GitHub")
+    print("=" * 55)
+    print()
+
+    token = input(">>> Inserisci il token GitHub (ghp_...): ").strip()
+    if not token:
+        print("❌ Token vuoto, push annullato.")
+        return
+
+    remote_url = f"https://pasqualelembo78:{token}@github.com/pasqualelembo78/huntix-poi.git"
+
+    try:
+        subprocess.run(["git", "add", "."], cwd=repo_dir, check=True)
+        subprocess.run(["git", "commit", "-m", f"POI {region_name} — {len(all_pois)} POI da OpenStreetMap"], cwd=repo_dir, check=True)
+        subprocess.run(["git", "remote", "set-url", "origin", remote_url], cwd=repo_dir, check=True)
+        result = subprocess.run(["git", "push", "origin", "main"], cwd=repo_dir, capture_output=True, text=True)
+        if result.returncode == 0:
+            print("\n🎉 Push completato con successo!")
+        else:
+            print(f"\n❌ Push fallito:\n{result.stderr}")
+            return
+    except subprocess.CalledProcessError as e:
+        print(f"\n❌ Errore git: {e}")
+        return
+    finally:
+        # Clean token from remote
+        subprocess.run(["git", "remote", "set-url", "origin", "https://github.com/pasqualelembo78/huntix-poi.git"], cwd=repo_dir)
 
 
 if __name__ == "__main__":
