@@ -3,14 +3,28 @@
 extract_overture_pois.py — Estrae POI italiani da Overture Maps (DuckDB + S3)
 Struttura: italia/{regione}/{citta}/{category}.csv
 
-Uso: pip install duckdb && python3 extract_overture_pois.py
+Uso: python3 extract_overture_pois.py
 """
+import subprocess
+import sys
+
+def ensure_deps():
+    """Install missing Python packages automatically."""
+    required = {"duckdb": "duckdb"}
+    for mod, pkg in required.items():
+        try:
+            __import__(mod)
+        except ImportError:
+            print(f"📦 Installazione {pkg}...")
+            subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", pkg])
+            print(f"  ✅ {pkg} installato")
+
+ensure_deps()
+
 import duckdb
 import re
 import math
 import os
-import subprocess
-import sys
 
 REGIONS = {
     "1": ("Abruzzo",           "39.5,13.0,42.5,14.8"),
@@ -202,12 +216,6 @@ def main():
     print("  🗺️  Huntix POI Extractor — Overture Maps")
     print("=" * 55)
     print()
-
-    try:
-        import duckdb
-    except ImportError:
-        print("❌ DuckDB non installato. Esegui: pip install duckdb")
-        return
 
     repo_dir = os.path.dirname(os.path.abspath(__file__))
     print(f"📁 Repo: {repo_dir}\n")
