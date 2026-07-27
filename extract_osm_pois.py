@@ -100,6 +100,46 @@ def to_csv(elements, csv_type):
     return lines
 
 
+def read_existing_csv(filename):
+    """Read existing CSV lines, return set of dedup keys + list of raw lines."""
+    lines = []
+    keys = set()
+    if not os.path.exists(filename):
+        return lines, keys
+    with open(filename, "r", encoding="utf-8") as f:
+        for line in f:
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#"):
+                continue
+            parts = stripped.split(",")
+            if len(parts) >= 4:
+                # key = name + rounded coords
+                key = f"{parts[3]}_{parts[0]}_{parts[1]}"
+                keys.add(key)
+            lines.append(stripped)
+    return lines, keys
+
+
+def merge_and_save(filename, title, new_lines):
+    """Merge new POI lines into existing CSV, skip duplicates."""
+    existing_lines, existing_keys = read_existing_csv(filename)
+    added = 0
+    for l in new_lines:
+        parts = l.split(",")
+        if len(parts) >= 4:
+            key = f"{parts[3]}_{parts[0]}_{parts[1]}"
+            if key in existing_keys:
+                continue
+            existing_keys.add(key)
+        existing_lines.append(l)
+        added += 1
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(f"# lat,lng,id,name,building_type,type\n# {title} - OpenStreetMap\n")
+        for l in existing_lines:
+            f.write(l + "\n")
+    return added, len(existing_lines)
+
+
 def save_csv(filename, title, lines):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# lat,lng,id,name,building_type,type\n# {title} - OpenStreetMap\n")
@@ -144,9 +184,9 @@ def main():
         elements = query_overpass(q)
         csv_lines = to_csv(elements, csv_type)
         filepath = os.path.join(repo_dir, filename)
-        save_csv(filepath, f"Huntix {cat_key.title()} - {region_name}", csv_lines)
+        added, total = merge_and_save(filepath, f"Huntix {cat_key.title()} — Tutte le regioni", csv_lines)
         all_pois.extend(csv_lines)
-        print(f"  ✅ {len(csv_lines)} POI salvati in {filename}\n")
+        print(f"  ✅ +{added} nuovi / {total} totali in {filename}\n")
         time.sleep(5)
 
     # Landmarks: query each tag separately to avoid OR syntax issues
@@ -167,29 +207,14 @@ def main():
             seen_lm.add(key)
             unique_landmarks.append(l)
     lm_file = os.path.join(repo_dir, "landmarks.csv")
-    save_csv(lm_file, f"Huntix Landmarks - {region_name}", unique_landmarks)
+    added, total = merge_and_save(lm_file, f"Huntix Landmarks — Tutte le regioni", unique_landmarks)
     all_pois.extend(unique_landmarks)
-    print(f"  ✅ {len(unique_landmarks)} POI salvati in landmarks.csv\n")
+    print(f"  ✅ +{added} nuovi / {total} totali in landmarks.csv\n")
 
-    # Merge into global_pois.csv: read existing + append new (dedup by name+coords)
+    # Merge into global_pois.csv
     global_file = os.path.join(repo_dir, "global_pois.csv")
-    existing_lines = set()
-    if os.path.exists(global_file):
-        with open(global_file, "r") as f:
-            for line in f:
-                if not line.startswith("#") and line.strip():
-                    existing_lines.add(line.strip())
-
-    new_global = list(existing_lines)
-    added = 0
-    for l in all_pois:
-        if l.strip() not in existing_lines:
-            new_global.append(l.strip())
-            added += 1
-
-    save_csv(global_file, f"Huntix Global POI - Tutte le regioni", new_global)
-    print(f"✅ {len(all_pois)} POI estratti ({added} nuovi)")
-    print(f"📊 Global totale: {len(new_global)} POI\n")
+    added, total = merge_and_save(global_file, f"Huntix Global POI — Tutte le regioni", all_pois)
+    print(f"📊 Global: +{added} nuovi / {total} totali\n")
 
     # --- GIT PUSH ---
     print("=" * 55)
