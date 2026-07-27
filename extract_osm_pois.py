@@ -288,30 +288,55 @@ def main():
     # --- SAVE FILES ---
     print("💾 Salvataggio...\n")
 
-    # Save per-city files
+    # Save per-city files + _all.csv per città
     total_cities = 0
     total_files = 0
+    city_coords = {}  # city_slug -> {lat_sum, lng_sum, count, city_name}
     for city_slug, data in sorted(city_pois.items()):
         city_dir = os.path.join(region_dir, city_slug)
         os.makedirs(city_dir, exist_ok=True)
+        all_city_lines = []
         for cat_key in ["hospitals", "restaurants", "gyms", "landmarks"]:
             lines = data[cat_key]
             if lines:
                 filepath = os.path.join(city_dir, f"{cat_key}.csv")
                 added, total = merge_csv(filepath, f"{data['city_name']} — {cat_key}", lines)
+                all_city_lines.extend(lines)
                 total_files += 1
+        # Create _all.csv per city
+        if all_city_lines:
+            all_file = os.path.join(city_dir, "_all.csv")
+            merge_csv(all_file, f"{data['city_name']} — Tutti i POI", all_city_lines)
+            total_files += 1
+        # Track city coordinates (centroid)
+        lat_sum, lng_sum, count = 0.0, 0.0, 0
+        for cat_key in ["hospitals", "restaurants", "gyms", "landmarks"]:
+            for line in data[cat_key]:
+                parts = line.split(",")
+                if len(parts) >= 2:
+                    try:
+                        lat_sum += float(parts[0])
+                        lng_sum += float(parts[1])
+                        count += 1
+                    except: pass
+        if count > 0:
+            city_coords[city_slug] = {
+                "lat": lat_sum / count,
+                "lng": lng_sum / count,
+                "name": data["city_name"],
+                "h": len(data["hospitals"]),
+                "r": len(data["restaurants"]),
+                "g": len(data["gyms"]),
+                "l": len(data["landmarks"]),
+            }
         total_cities += 1
 
-    # Save region index (_citta.csv)
+    # Save region index (_citta.csv) with coordinates
     index_file = os.path.join(region_dir, "_citta.csv")
     with open(index_file, "w", encoding="utf-8") as f:
-        f.write("# citta,slug,ospedali,ristoranti,palestre,monumenti\n")
-        for city_slug, data in sorted(city_pois.items()):
-            h = len(data["hospitals"])
-            r = len(data["restaurants"])
-            g = len(data["gyms"])
-            l = len(data["landmarks"])
-            f.write(f"{data['city_name']},{city_slug},{h},{r},{g},{l}\n")
+        f.write("# lat,lng,citta,slug,ospedali,ristoranti,palestre,monumenti\n")
+        for city_slug, coords in sorted(city_coords.items()):
+            f.write(f"{coords['lat']:.6f},{coords['lng']:.6f},{coords['name']},{city_slug},{coords['h']},{coords['r']},{coords['g']},{coords['l']}\n")
 
     # Save region summary (flat CSV for app)
     region_file = os.path.join(region_dir, "_all.csv")
