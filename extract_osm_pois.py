@@ -40,20 +40,22 @@ REGIONS = {
 
 CATEGORIES = [
     ("hospitals",  '"amenity"="hospital"',                       "hospital"),
-    ("restaurants",'"amenity"~"restaurant|fast_food|pizzeria"',  "ristorante"),
+    ("restaurants",'"amenity"~"restaurant|fast_food"',           "ristorante"),
+    ("bars_cafes", '"amenity"~"bar|cafe|pub"',                  "bar_cafe"),
     ("gyms",       '"leisure"="fitness_centre"',                 "palestra"),
 ]
 
 LANDMARK_TAGS = [
     '"tourism"="attraction"',
     '"tourism"="museum"',
-    '"tourism"="monument"',
     '"tourism"="castle"',
-    '"tourism"="archaeological_site"',
+    '"tourism"="gallery"',
     '"historic"="monument"',
     '"historic"="castle"',
     '"historic"="archaeological_site"',
     '"historic"="memorial"',
+    '"historic"="ruins"',
+    '"amenity"="place_of_worship"',
 ]
 
 
@@ -221,7 +223,7 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
         city_pois[city_slug]["hospitals"].append(p["line"])
         all_pois.append(p["line"])
     print()
@@ -237,7 +239,7 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
         city_pois[city_slug]["restaurants"].append(p["line"])
         all_pois.append(p["line"])
     print()
@@ -253,7 +255,7 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
         city_pois[city_slug]["gyms"].append(p["line"])
         all_pois.append(p["line"])
     print()
@@ -280,7 +282,7 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
         city_pois[city_slug]["landmarks"].append(p["line"])
         all_pois.append(p["line"])
     print()
@@ -296,7 +298,7 @@ def main():
         city_dir = os.path.join(region_dir, city_slug)
         os.makedirs(city_dir, exist_ok=True)
         all_city_lines = []
-        for cat_key in ["hospitals", "restaurants", "gyms", "landmarks"]:
+        for cat_key in ["hospitals", "restaurants", "bars_cafes", "gyms", "landmarks"]:
             lines = data[cat_key]
             if lines:
                 filepath = os.path.join(city_dir, f"{cat_key}.csv")
@@ -310,7 +312,7 @@ def main():
             total_files += 1
         # Track city coordinates (centroid)
         lat_sum, lng_sum, count = 0.0, 0.0, 0
-        for cat_key in ["hospitals", "restaurants", "gyms", "landmarks"]:
+        for cat_key in ["hospitals", "restaurants", "bars_cafes", "gyms", "landmarks"]:
             for line in data[cat_key]:
                 parts = line.split(",")
                 if len(parts) >= 2:
