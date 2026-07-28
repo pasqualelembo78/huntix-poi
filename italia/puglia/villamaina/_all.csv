@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Villamaina -- Tutti
-40.966472,15.104888,ov_agriturismo_iuorio_40.9665_15.1049,Agriturismo Iuorio,RESTAURANT,ristorante
-40.970090,15.090571,ov_caffetteria_flora_40.9701_15.0906,Caffetteria Flora,RESTAURANT,bar_cafe
-40.971085,15.088707,ov_asd_villamaina_40.9711_15.0887,ASD Villamaina,GYM,palestra
+40.966472,15.104888,ov_agriturismo_iuorio_40.9665_15.1049,Agriturismo Iuorio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villamaina/pages/agriturismo_iuorio_40.9665_15.1049.json,custom
+40.970090,15.090571,ov_caffetteria_flora_40.9701_15.0906,Caffetteria Flora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villamaina/pages/caffetteria_flora_40.9701_15.0906.json,custom
+40.971085,15.088707,ov_asd_villamaina_40.9711_15.0887,ASD Villamaina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villamaina/pages/asd_villamaina_40.9711_15.0887.json,custom

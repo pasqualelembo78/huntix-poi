@@ -1,10 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castri_di_lecce -- restaurants
-40.275502,18.261879,osm_pizzeria_dal_penga_40.2755_18.2619,Pizzeria Dal Penga,ristorante,ristorante
-40.273853,18.257319,osm_le_giovani_pizze_40.2739_18.2573,Le Giovani Pizze,ristorante,ristorante
-40.275040,18.265998,osm_lo_chalet_40.2750_18.2660,Lo Chalet,ristorante,ristorante
-40.272798,18.265825,osm_pizzeria_360_gradi_40.2728_18.2658,Pizzeria 360 gradi,ristorante,ristorante
-40.272103,18.261295,ov_pizzeria_da_cosimo_40.2721_18.2613,Pizzeria da Cosimo,RESTAURANT,ristorante
-40.274798,18.261707,ov_snack_cafe_40.2748_18.2617,Snack Cafe,RESTAURANT,ristorante
-40.274935,18.266109,ov_lo_chalet_40.2749_18.2661,Lo Chalet,RESTAURANT,ristorante
-40.273970,18.262248,ov_cinema_28_40.2740_18.2622,Cinema 28,RESTAURANT,ristorante
+40.272103,18.261295,ov_pizzeria_da_cosimo_40.2721_18.2613,Pizzeria da Cosimo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/pizzeria_da_cosimo_40.2721_18.2613.json,custom
+40.274798,18.261707,ov_snack_cafe_40.2748_18.2617,Snack Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/snack_cafe_40.2748_18.2617.json,custom
+40.274935,18.266109,ov_lo_chalet_40.2749_18.2661,Lo Chalet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/lo_chalet_40.2749_18.2661.json,custom
+40.273970,18.262248,ov_cinema_28_40.2740_18.2622,Cinema 28,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/cinema_28_40.2740_18.2622.json,custom
+40.275502,18.261879,osm_pizzeria_dal_penga_40.2755_18.2619,Pizzeria Dal Penga,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/pizzeria_dal_penga_40.2755_18.2619.json,custom
+40.273853,18.257319,osm_le_giovani_pizze_40.2739_18.2573,Le Giovani Pizze,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/le_giovani_pizze_40.2739_18.2573.json,custom
+40.272798,18.265825,osm_pizzeria_360_gradi_40.2728_18.2658,Pizzeria 360 gradi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/pizzeria_360_gradi_40.2728_18.2658.json,custom

@@ -1,31 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sassano -- Tutti
-40.359583,15.587730,osm_pizzeria_da_enzo_40.3596_15.5877,Pizzeria Da Enzo,ristorante,ristorante
-40.357458,15.586709,osm_la_campagnola_ristorante_40.3575_15.5867,La Campagnola Ristorante,ristorante,ristorante
-40.330523,15.591430,osm_lisa_pizzeria___braceria_40.3305_15.5914,Lisa Pizzeria & Braceria,ristorante,ristorante
-40.318738,15.573552,osm_agriturismo_orchidea_40.3187_15.5736,Agriturismo Orchidea,ristorante,ristorante
-40.325010,15.600610,ov_agriturismo_orchidea_40.3250_15.6006,Agriturismo Orchidea,RESTAURANT,ristorante
-40.318789,15.573629,ov_agriturismo_orchidea_40.3188_15.5736,Agriturismo Orchidea,RESTAURANT,ristorante
-40.333957,15.561280,ov_vesuvio___pizzeria___braceria_40.3340_15.5613,Vesuvio - Pizzeria & Braceria,RESTAURANT,ristorante
-40.337756,15.562369,ov_gabetti_franchising_vallodidiano_giordan_40.3378_15.5624,Gabetti Franchising Vallodidiano GIORDANO GIOVANNI d.i.,RESTAURANT,ristorante
-40.327283,15.615967,ov_voria_osteria_40.3273_15.6160,VORIA osteria,RESTAURANT,ristorante
-40.344217,15.582469,ov_il_broccolo_sassanese_40.3442_15.5825,Il Broccolo Sassanese,RESTAURANT,ristorante
-40.359538,15.587648,ov_pizzeria_da_enzo_40.3595_15.5876,Pizzeria Da Enzo,RESTAURANT,ristorante
-40.360004,15.588030,ov_new_king_ristorante_pizzeria_40.3600_15.5880,New King Ristorante Pizzeria,RESTAURANT,ristorante
-40.357481,15.586808,ov_trattoria_la_campagnola_40.3575_15.5868,Trattoria La Campagnola,RESTAURANT,ristorante
-40.332440,15.610436,ov_bar_caff__chicco_d_oro_40.3324_15.6104,Bar Caffè Chicco D'oro,RESTAURANT,bar_cafe
-40.350517,15.593135,ov_dolci_incontri_bar_tabacchi_gelateria_40.3505_15.5931,Dolci Incontri Bar Tabacchi Gelateria,RESTAURANT,bar_cafe
-40.345190,15.582840,ov_birrificio_prima_melior_40.3452_15.5828,Birrificio Prima Melior,RESTAURANT,bar_cafe
-40.340425,15.563254,ov_bar_caffetteria_l_incontro_40.3404_15.5633,Bar Caffetteria L'incontro,RESTAURANT,bar_cafe
-40.345522,15.571811,ov_bar_villabruna_40.3455_15.5718,Bar Villabruna,RESTAURANT,bar_cafe
-40.344600,15.564700,ov_vizi_e_sfizi___bar_caffetteria_tabacchi_40.3446_15.5647,Vizi e Sfizi - Bar Caffetteria Tabacchi,RESTAURANT,bar_cafe
-40.360948,15.588661,ov_colpo_grosso_di_rizzo_pasquale_40.3609_15.5887,Colpo Grosso Di Rizzo Pasquale,RESTAURANT,bar_cafe
-40.360744,15.588804,ov_bar_veronica_40.3607_15.5888,Bar Veronica,RESTAURANT,bar_cafe
-40.360617,15.585781,ov_nin__bar_40.3606_15.5858,Ninà Bar,RESTAURANT,bar_cafe
-40.360756,15.585496,ov_chakra_40.3608_15.5855,Chakra,RESTAURANT,bar_cafe
-40.358781,15.587008,ov_la_villa_caff__40.3588_15.5870,La Villa Caffè,RESTAURANT,bar_cafe
-40.359747,15.587716,ov_crema_e_cioccolato_sassano_40.3597_15.5877,Crema e Cioccolato Sassano,RESTAURANT,bar_cafe
-40.357300,15.594830,ov_sil_caf_40.3573_15.5948,sil.caf,RESTAURANT,bar_cafe
-40.368850,15.592900,ov_a_s_d_smile_40.3689_15.5929,A.S.D Smile,GYM,palestra
-40.318704,15.573584,ov_ecomuseo_della_valle_delle_orchidee_e_de_40.3187_15.5736,Ecomuseo della Valle delle Orchidee e delle Antiche Coltivaz,MUSEUM,monumento
-40.337060,15.561130,ov_pac___palazzo_delle_arti_contemporanee_40.3371_15.5611,PAC - Palazzo delle Arti Contemporanee,MUSEUM,monumento
+40.325010,15.600610,ov_agriturismo_orchidea_40.3250_15.6006,Agriturismo Orchidea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/agriturismo_orchidea_40.3250_15.6006.json,custom
+40.318789,15.573629,ov_agriturismo_orchidea_40.3188_15.5736,Agriturismo Orchidea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/agriturismo_orchidea_40.3188_15.5736.json,custom
+40.333957,15.561280,ov_vesuvio___pizzeria___braceria_40.3340_15.5613,Vesuvio - Pizzeria & Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/vesuvio_-_pizzeria_braceria_40.3340_15.5613.json,custom
+40.337756,15.562369,ov_gabetti_franchising_vallodidiano_giordan_40.3378_15.5624,Gabetti Franchising Vallodidiano GIORDANO GIOVANNI d.i.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/gabetti_franchising_vallodidiano_giordan_40.3378_15.5624.json,custom
+40.327283,15.615967,ov_voria_osteria_40.3273_15.6160,VORIA osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/voria_osteria_40.3273_15.6160.json,custom
+40.344217,15.582469,ov_il_broccolo_sassanese_40.3442_15.5825,Il Broccolo Sassanese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/il_broccolo_sassanese_40.3442_15.5825.json,custom
+40.359538,15.587648,ov_pizzeria_da_enzo_40.3595_15.5876,Pizzeria Da Enzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/pizzeria_da_enzo_40.3595_15.5876.json,custom
+40.360004,15.588030,ov_new_king_ristorante_pizzeria_40.3600_15.5880,New King Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/new_king_ristorante_pizzeria_40.3600_15.5880.json,custom
+40.357481,15.586808,ov_trattoria_la_campagnola_40.3575_15.5868,Trattoria La Campagnola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/trattoria_la_campagnola_40.3575_15.5868.json,custom
+40.357458,15.586709,osm_la_campagnola_ristorante_40.3575_15.5867,La Campagnola Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/la_campagnola_ristorante_40.3575_15.5867.json,custom
+40.330523,15.591430,osm_lisa_pizzeria___braceria_40.3305_15.5914,Lisa Pizzeria & Braceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/lisa_pizzeria_braceria_40.3305_15.5914.json,custom
+40.332440,15.610436,ov_bar_caff__chicco_d_oro_40.3324_15.6104,Bar Caffè Chicco D'oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/bar_caff_chicco_doro_40.3324_15.6104.json,custom
+40.350517,15.593135,ov_dolci_incontri_bar_tabacchi_gelateria_40.3505_15.5931,Dolci Incontri Bar Tabacchi Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/dolci_incontri_bar_tabacchi_gelateria_40.3505_15.5931.json,custom
+40.345190,15.582840,ov_birrificio_prima_melior_40.3452_15.5828,Birrificio Prima Melior,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/birrificio_prima_melior_40.3452_15.5828.json,custom
+40.340425,15.563254,ov_bar_caffetteria_l_incontro_40.3404_15.5633,Bar Caffetteria L'incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/bar_caffetteria_lincontro_40.3404_15.5633.json,custom
+40.345522,15.571811,ov_bar_villabruna_40.3455_15.5718,Bar Villabruna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/bar_villabruna_40.3455_15.5718.json,custom
+40.344600,15.564700,ov_vizi_e_sfizi___bar_caffetteria_tabacchi_40.3446_15.5647,Vizi e Sfizi - Bar Caffetteria Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/vizi_e_sfizi_-_bar_caffetteria_tabacchi_40.3446_15.5647.json,custom
+40.360948,15.588661,ov_colpo_grosso_di_rizzo_pasquale_40.3609_15.5887,Colpo Grosso Di Rizzo Pasquale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/colpo_grosso_di_rizzo_pasquale_40.3609_15.5887.json,custom
+40.360744,15.588804,ov_bar_veronica_40.3607_15.5888,Bar Veronica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/bar_veronica_40.3607_15.5888.json,custom
+40.360617,15.585781,ov_nin__bar_40.3606_15.5858,Ninà Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/nin_bar_40.3606_15.5858.json,custom
+40.360756,15.585496,ov_chakra_40.3608_15.5855,Chakra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/chakra_40.3608_15.5855.json,custom
+40.358781,15.587008,ov_la_villa_caff__40.3588_15.5870,La Villa Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/la_villa_caff_40.3588_15.5870.json,custom
+40.359747,15.587716,ov_crema_e_cioccolato_sassano_40.3597_15.5877,Crema e Cioccolato Sassano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/crema_e_cioccolato_sassano_40.3597_15.5877.json,custom
+40.357300,15.594830,ov_sil_caf_40.3573_15.5948,sil.caf,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/silcaf_40.3573_15.5948.json,custom
+40.368850,15.592900,ov_a_s_d_smile_40.3689_15.5929,A.S.D Smile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/asd_smile_40.3689_15.5929.json,custom
+40.318704,15.573584,ov_ecomuseo_della_valle_delle_orchidee_e_de_40.3187_15.5736,Ecomuseo della Valle delle Orchidee e delle Antiche Coltivaz,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/ecomuseo_della_valle_delle_orchidee_e_de_40.3187_15.5736.json,custom
+40.337060,15.561130,ov_pac___palazzo_delle_arti_contemporanee_40.3371_15.5611,PAC - Palazzo delle Arti Contemporanee,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sassano/pages/pac_-_palazzo_delle_arti_contemporanee_40.3371_15.5611.json,custom

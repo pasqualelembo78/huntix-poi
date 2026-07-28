@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # aquara -- bars_cafes
-40.442628,15.256434,ov_pub_fuori_luogo_40.4426_15.2564,Pub Fuori Luogo,RESTAURANT,bar_cafe
-40.442673,15.253979,ov_bar_caff__del_corso_40.4427_15.2540,Bar CaffÈ Del Corso,RESTAURANT,bar_cafe
-40.443960,15.255070,ov_m___b_bar_e_tabacchi_ricevitoria_40.4440_15.2551,M & B bar e tabacchi ricevitoria,RESTAURANT,bar_cafe
+40.442628,15.256434,ov_pub_fuori_luogo_40.4426_15.2564,Pub Fuori Luogo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquara/pages/pub_fuori_luogo_40.4426_15.2564.json,custom
+40.442673,15.253979,ov_bar_caff__del_corso_40.4427_15.2540,Bar CaffÈ Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquara/pages/bar_caff_del_corso_40.4427_15.2540.json,custom
+40.443960,15.255070,ov_m___b_bar_e_tabacchi_ricevitoria_40.4440_15.2551,M & B bar e tabacchi ricevitoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquara/pages/m_b_bar_e_tabacchi_ricevitoria_40.4440_15.2551.json,custom

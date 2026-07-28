@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giovanni_rotondo -- gyms
-41.706228,15.719630,ov_asd_alma_dance_41.7062_15.7196,ASD Alma Dance,GYM,palestra
-41.703119,15.720502,ov_centrodanza_41.7031_15.7205,Centrodanza,GYM,palestra
-41.705632,15.719380,ov_la_mecca_fitness_41.7056_15.7194,La Mecca fitness,GYM,palestra
-41.699707,15.714702,ov_asd_domino_urban_dance_area_41.6997_15.7147,Asd Domino urban dance area,GYM,palestra
-41.699516,15.716185,ov_fisiofit_41.6995_15.7162,Fisiofit,GYM,palestra
-41.700563,15.717761,ov_gym_life_41.7006_15.7178,Gym Life,GYM,palestra
-41.699870,15.727140,ov_technofitness_41.6999_15.7271,Technofitness,GYM,palestra
-41.705611,15.726871,ov_palestra_orientale_sport__fitness__circu_41.7056_15.7269,"Palestra Orientale Sport, Fitness, Circuito Training, Body B",GYM,palestra
-41.706155,15.725318,ov_associazione_culturale_solidale_mario_fi_41.7062_15.7253,Associazione Culturale Solidale Mario Fiore da 1990,GYM,palestra
-41.706804,15.725952,ov_nak_muay_gym_41.7068_15.7260,Nak Muay Gym,GYM,palestra
-41.707677,15.721683,ov_centro_yoga_wu_wei_41.7077_15.7217,Centro Yoga Wu Wei,GYM,palestra
-41.704247,15.730301,ov_ass__accademia_il_punto_41.7042_15.7303,Ass. Accademia Il Punto,GYM,palestra
-41.702290,15.732613,ov_bodyshape_totaltraining_41.7023_15.7326,BodyShape TotalTraining,GYM,palestra
-41.705604,15.734837,ov_scuola_calcio_real_san_giovanni_41.7056_15.7348,Scuola Calcio Real San Giovanni,GYM,palestra
+41.706228,15.719630,ov_asd_alma_dance_41.7062_15.7196,ASD Alma Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/asd_alma_dance_41.7062_15.7196.json,custom
+41.703119,15.720502,ov_centrodanza_41.7031_15.7205,Centrodanza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/centrodanza_41.7031_15.7205.json,custom
+41.705632,15.719380,ov_la_mecca_fitness_41.7056_15.7194,La Mecca fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/la_mecca_fitness_41.7056_15.7194.json,custom
+41.699707,15.714702,ov_asd_domino_urban_dance_area_41.6997_15.7147,Asd Domino urban dance area,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/asd_domino_urban_dance_area_41.6997_15.7147.json,custom
+41.699516,15.716185,ov_fisiofit_41.6995_15.7162,Fisiofit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/fisiofit_41.6995_15.7162.json,custom
+41.700563,15.717761,ov_gym_life_41.7006_15.7178,Gym Life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/gym_life_41.7006_15.7178.json,custom
+41.699870,15.727140,ov_technofitness_41.6999_15.7271,Technofitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/technofitness_41.6999_15.7271.json,custom
+41.705611,15.726871,ov_palestra_orientale_sport__fitness__circu_41.7056_15.7269,"Palestra Orientale Sport, Fitness, Circuito Training, Body B",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/palestra_orientale_sport_fitness_circuit_41.7056_15.7269.json,custom
+41.706155,15.725318,ov_associazione_culturale_solidale_mario_fi_41.7062_15.7253,Associazione Culturale Solidale Mario Fiore da 1990,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/associazione_culturale_solidale_mario_fi_41.7062_15.7253.json,custom
+41.706804,15.725952,ov_nak_muay_gym_41.7068_15.7260,Nak Muay Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/nak_muay_gym_41.7068_15.7260.json,custom
+41.707677,15.721683,ov_centro_yoga_wu_wei_41.7077_15.7217,Centro Yoga Wu Wei,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/centro_yoga_wu_wei_41.7077_15.7217.json,custom
+41.704247,15.730301,ov_ass__accademia_il_punto_41.7042_15.7303,Ass. Accademia Il Punto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/ass_accademia_il_punto_41.7042_15.7303.json,custom
+41.702290,15.732613,ov_bodyshape_totaltraining_41.7023_15.7326,BodyShape TotalTraining,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/bodyshape_totaltraining_41.7023_15.7326.json,custom
+41.705604,15.734837,ov_scuola_calcio_real_san_giovanni_41.7056_15.7348,Scuola Calcio Real San Giovanni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_rotondo/pages/scuola_calcio_real_san_giovanni_41.7056_15.7348.json,custom

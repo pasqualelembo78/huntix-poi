@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # apricena -- landmarks
-41.801263,15.420771,ov_campo_volo_apricena_fly_41.8013_15.4208,CAMPO VOLO Apricena FLY,MONUMENT,monumento
-41.756123,15.530507,ov_castelpagano_41.7561_15.5305,Castelpagano,MONUMENT,monumento
+41.801263,15.420771,ov_campo_volo_apricena_fly_41.8013_15.4208,CAMPO VOLO Apricena FLY,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/campo_volo_apricena_fly_41.8013_15.4208.json,custom
+41.756123,15.530507,ov_castelpagano_41.7561_15.5305,Castelpagano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/castelpagano_41.7561_15.5305.json,custom

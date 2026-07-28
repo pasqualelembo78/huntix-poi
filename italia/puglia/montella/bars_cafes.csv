@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montella -- bars_cafes
-40.843933,15.017276,ov_marvin_cafe_40.8439_15.0173,Marvin Cafe,RESTAURANT,bar_cafe
-40.844332,15.012877,ov_johnnie_walker_40.8443_15.0129,Johnnie Walker,RESTAURANT,bar_cafe
-40.840716,15.014861,ov_centro_sociale_di_montella_40.8407_15.0149,Centro Sociale di Montella,RESTAURANT,bar_cafe
-40.841613,15.020084,ov_ohana_bar_caffetteria_40.8416_15.0201,OHANA Bar Caffetteria,RESTAURANT,bar_cafe
-40.841630,15.020090,ov_bar_de_la_ville_40.8416_15.0201,BAR De La Ville,RESTAURANT,bar_cafe
-40.841710,15.017788,ov_la_vecchia_fontana_40.8417_15.0178,La Vecchia Fontana,RESTAURANT,bar_cafe
-40.842518,15.017768,ov_caffetteria_sabazio_40.8425_15.0178,Caffetteria Sabazio,RESTAURANT,bar_cafe
-40.842310,15.018140,ov_enoteca_km_0_40.8423_15.0181,Enoteca Km 0,RESTAURANT,bar_cafe
-40.842122,15.018816,ov_caff__stores_40.8421_15.0188,Caffè Stores,RESTAURANT,bar_cafe
-40.842271,15.023138,ov_bar_pic_nic_40.8423_15.0231,Bar Pic Nic,RESTAURANT,bar_cafe
-40.842273,15.023845,ov_l_angolo_del_caffe_40.8423_15.0238,L'angolo del Caffe,RESTAURANT,bar_cafe
-40.840210,15.017410,ov_romano_bar_montelladal_1960_40.8402_15.0174,Romano BAR MONTELLAdal 1960,RESTAURANT,bar_cafe
+40.843933,15.017276,ov_marvin_cafe_40.8439_15.0173,Marvin Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/marvin_cafe_40.8439_15.0173.json,custom
+40.844332,15.012877,ov_johnnie_walker_40.8443_15.0129,Johnnie Walker,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/johnnie_walker_40.8443_15.0129.json,custom
+40.840716,15.014861,ov_centro_sociale_di_montella_40.8407_15.0149,Centro Sociale di Montella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/centro_sociale_di_montella_40.8407_15.0149.json,custom
+40.841613,15.020084,ov_ohana_bar_caffetteria_40.8416_15.0201,OHANA Bar Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/ohana_bar_caffetteria_40.8416_15.0201.json,custom
+40.841630,15.020090,ov_bar_de_la_ville_40.8416_15.0201,BAR De La Ville,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/bar_de_la_ville_40.8416_15.0201.json,custom
+40.841710,15.017788,ov_la_vecchia_fontana_40.8417_15.0178,La Vecchia Fontana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/la_vecchia_fontana_40.8417_15.0178.json,custom
+40.842518,15.017768,ov_caffetteria_sabazio_40.8425_15.0178,Caffetteria Sabazio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/caffetteria_sabazio_40.8425_15.0178.json,custom
+40.842310,15.018140,ov_enoteca_km_0_40.8423_15.0181,Enoteca Km 0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/enoteca_km_0_40.8423_15.0181.json,custom
+40.842122,15.018816,ov_caff__stores_40.8421_15.0188,Caffè Stores,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/caff_stores_40.8421_15.0188.json,custom
+40.842271,15.023138,ov_bar_pic_nic_40.8423_15.0231,Bar Pic Nic,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/bar_pic_nic_40.8423_15.0231.json,custom
+40.842273,15.023845,ov_l_angolo_del_caffe_40.8423_15.0238,L'angolo del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/langolo_del_caffe_40.8423_15.0238.json,custom
+40.840210,15.017410,ov_romano_bar_montelladal_1960_40.8402_15.0174,Romano BAR MONTELLAdal 1960,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/romano_bar_montelladal_1960_40.8402_15.0174.json,custom

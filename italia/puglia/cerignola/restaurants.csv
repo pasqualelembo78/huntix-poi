@@ -1,139 +1,133 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cerignola -- restaurants
-41.295310,15.931324,osm_il_caminetto_41.2953_15.9313,Il Caminetto,ristorante,ristorante
-41.265732,15.907532,osm_m__m__41.2657_15.9075,Mò Mò,ristorante,ristorante
-41.265241,15.883574,osm_gambero_d_oro_41.2652_15.8836,Gambero d'Oro,ristorante,ristorante
-41.263618,15.906714,osm_mcdoner_41.2636_15.9067,McDoner,ristorante,ristorante
-41.305718,15.899179,osm_al_vecchio_casello_41.3057_15.8992,Al Vecchio Casello,ristorante,ristorante
-41.273237,15.915558,osm_l_antico_uliveto_41.2732_15.9156,L'Antico Uliveto,ristorante,ristorante
-41.197140,15.880651,osm_santa_lucia_41.1971_15.8807,Santa Lucia,ristorante,ristorante
-41.263075,15.911353,osm_tutti_pazzi_per_la_pizza_41.2631_15.9114,Tutti Pazzi per la Pizza,ristorante,ristorante
-41.264369,15.905762,osm_lo_spigolo_41.2644_15.9058,Lo Spigolo,ristorante,ristorante
-41.265835,15.887533,osm_lo_chalet_41.2658_15.8875,Lo Chalet,ristorante,ristorante
-41.266903,15.906466,osm_plebiscito_77_41.2669_15.9065,Plebiscito 77,ristorante,ristorante
-41.271020,15.897555,osm_pizzeria_corso_vecchio_41.2710_15.8976,Pizzeria Corso Vecchio,ristorante,ristorante
-41.262778,15.895886,osm_gold_fashion_41.2628_15.8959,Gold Fashion,ristorante,ristorante
-41.263311,15.898249,osm_pizzeria_10_fontane_41.2633_15.8982,Pizzeria 10 Fontane,ristorante,ristorante
-41.265800,15.908250,osm_hana___sushi_experience_41.2658_15.9082,Hana - Sushi Experience,ristorante,ristorante
-41.265873,15.907942,osm_la_volpe_e_l_uva_41.2659_15.9079,La Volpe e L'Uva,ristorante,ristorante
-41.265290,15.911879,osm_pizzeria_pulcinella_41.2653_15.9119,Pizzeria Pulcinella,ristorante,ristorante
-41.232621,15.729543,ov_country_club_ristopizza_41.2326_15.7295,Country Club Ristopizza,RESTAURANT,ristorante
-41.260581,15.880153,ov_stop_go_41.2606_15.8802,Stop&Go,RESTAURANT,ristorante
-41.260268,15.900527,ov_l_ammiraglio_41.2603_15.9005,L'Ammiraglio,RESTAURANT,ristorante
-41.260343,15.902394,ov_pizzeria_levante_41.2603_15.9024,Pizzeria Levante,RESTAURANT,ristorante
-41.260818,15.896159,ov_alicino_savina_41.2608_15.8962,Alicino Savina,RESTAURANT,ristorante
-41.260699,15.905835,ov_il_paladino_41.2607_15.9058,Il Paladino,RESTAURANT,ristorante
-41.260874,15.907783,ov_i_due_ghiottoni_junior_41.2609_15.9078,I Due Ghiottoni Junior,RESTAURANT,ristorante
-41.260628,15.905438,ov_la_fontana_41.2606_15.9054,La Fontana,RESTAURANT,ristorante
-41.260631,15.905258,ov_sayuri___japanese_cult_and_style_41.2606_15.9053,Sayuri - Japanese Cult and Style,RESTAURANT,ristorante
-41.260146,15.910203,ov_sushi_king_41.2601_15.9102,Sushi King,RESTAURANT,ristorante
-41.260020,15.900000,ov_torre_brayda_ricevimenti_41.2600_15.9000,Torre Brayda Ricevimenti,RESTAURANT,ristorante
-41.259722,15.895432,ov_peter_pan_41.2597_15.8954,Peter Pan,RESTAURANT,ristorante
-41.259730,15.898510,ov_los_pollos_hermanos_41.2597_15.8985,Los_Pollos_Hermanos,RESTAURANT,ristorante
-41.259853,15.900276,ov_dolce_mare_gastronomia_friggitoria_41.2599_15.9003,Dolce Mare Gastronomia Friggitoria,RESTAURANT,ristorante
-41.259315,15.896017,ov_somnia_pizza___burger_ritrovo_41.2593_15.8960,Somnia Pizza & Burger Ritrovo,RESTAURANT,ristorante
-41.262206,15.927120,ov_asselta_hotel_e_ristorante_41.2622_15.9271,Asselta Hotel e ristorante,RESTAURANT,ristorante
-41.262832,15.918810,ov_al_molino_41.2628_15.9188,Al Molino,RESTAURANT,ristorante
-41.263037,15.913284,ov_verve_restaurant_41.2630_15.9133,Verve Restaurant,RESTAURANT,ristorante
-41.263026,15.912981,ov_pizzeria_mezza_luna_41.2630_15.9130,Pizzeria Mezza Luna,RESTAURANT,ristorante
-41.263134,15.911357,ov_pizzeria_tutti_pazzi_per_la_pizza_41.2631_15.9114,Pizzeria Tutti Pazzi per la Pizza,RESTAURANT,ristorante
-41.263073,15.896113,ov_mistella_vino_pizza_e_cucina_41.2631_15.8961,Mistella Vino Pizza e Cucina,RESTAURANT,ristorante
-41.262770,15.901154,ov_bag_la_baguette_41.2628_15.9012,Bag La Baguette,RESTAURANT,ristorante
-41.262050,15.908152,ov_centro_posta_cerignola_41.2621_15.9082,Centro Posta Cerignola,RESTAURANT,ristorante
-41.261373,15.907392,ov_i_due_ghiottoni_41.2614_15.9074,I Due Ghiottoni,RESTAURANT,ristorante
-41.262150,15.902338,ov_ossobuco_steakhouse___restaurant_41.2621_15.9023,Ossobuco Steakhouse & Restaurant,RESTAURANT,ristorante
-41.262120,15.898620,ov_quei_bravi_ragazzi_41.2621_15.8986,Quei Bravi Ragazzi,RESTAURANT,ristorante
-41.261376,15.893438,ov_pizzeria_l_antico_granaio_41.2614_15.8934,Pizzeria L'antico Granaio,RESTAURANT,ristorante
-41.261206,15.891035,ov_somnia_pizza___burger_ritrovo_41.2612_15.8910,Somnia Pizza & Burger Ritrovo,RESTAURANT,ristorante
-41.262860,15.889980,ov_pinnelli_food_41.2629_15.8900,Pinnelli Food,RESTAURANT,ristorante
-41.262917,15.893663,ov_dal_maestro_41.2629_15.8937,Dal Maestro,RESTAURANT,ristorante
-41.262944,15.893806,ov_moma_la_galleria_del_gusto_41.2629_15.8938,Moma La Galleria Del Gusto,RESTAURANT,ristorante
-41.262974,15.893760,ov_la_pinseria_del_gigante_41.2630_15.8938,La Pinseria del Gigante,RESTAURANT,ristorante
-41.264244,15.893550,ov_nonna_pasqua_41.2642_15.8936,Nonna Pasqua,RESTAURANT,ristorante
-41.263293,15.898256,ov_pizzeria_10_fontane_41.2633_15.8983,Pizzeria 10 Fontane,RESTAURANT,ristorante
-41.263323,15.897657,ov_pizzeria_vecchia_europa_41.2633_15.8977,Pizzeria Vecchia Europa,RESTAURANT,ristorante
-41.263468,15.895684,ov_il_lascito_del_bue___braceria_41.2635_15.8957,Il Lascito del Bue - Braceria,RESTAURANT,ristorante
-41.263585,15.895608,ov_alchimia_cucina___vino_41.2636_15.8956,Alchimia Cucina & Vino,RESTAURANT,ristorante
-41.263636,15.896321,ov_31_grani_41.2636_15.8963,31 Grani,RESTAURANT,ristorante
-41.263812,15.900323,ov_pianeta_pesca_cerignola_41.2638_15.9003,Pianeta Pesca Cerignola,RESTAURANT,ristorante
-41.264680,15.897390,ov_era_ora___pizzeria_braceria_41.2647_15.8974,Era Ora - Pizzeria Braceria,RESTAURANT,ristorante
-41.264761,15.899001,ov_ristorante_il_duomo_41.2648_15.8990,Ristorante il Duomo,RESTAURANT,ristorante
-41.264826,15.900541,ov_ciak_si_sforna_41.2648_15.9005,Ciak si sforna,RESTAURANT,ristorante
-41.264628,15.902334,ov_al_ghiottone__dal_1967____panzerotti___p_41.2646_15.9023,Al Ghiottone (dal 1967) - Panzerotti & Panini,RESTAURANT,ristorante
-41.264495,15.903632,ov_u_vulesce_41.2645_15.9036,U Vulesce,RESTAURANT,ristorante
-41.264427,15.905749,ov_lo_spigolo_41.2644_15.9057,Lo Spigolo,RESTAURANT,ristorante
-41.265085,15.903136,ov_scalo111_41.2651_15.9031,SCALO111,RESTAURANT,ristorante
-41.264963,15.909245,ov_alfredo_pizza_e_cucina_41.2650_15.9092,Alfredo Pizza e Cucina,RESTAURANT,ristorante
-41.265064,15.909196,ov_la_baita_41.2651_15.9092,La Baita,RESTAURANT,ristorante
-41.265312,15.908851,ov_mordi_e_fuggi_41.2653_15.9089,Mordi e fuggi,RESTAURANT,ristorante
-41.265241,15.905872,ov_pronto_in_tavola_41.2652_15.9059,Pronto in Tavola,RESTAURANT,ristorante
-41.265141,15.883420,ov_pizzeria_gambero_d_oro_41.2651_15.8834,Pizzeria Gambero D'oro,RESTAURANT,ristorante
-41.265567,15.888812,ov_mister_pinuccio_paccari_41.2656_15.8888,Mister Pinuccio Paccari,RESTAURANT,ristorante
-41.265787,15.894129,ov_al_castello_41.2658_15.8941,Al Castello,RESTAURANT,ristorante
-41.265793,15.892536,ov_i_sapori_di_rosa_41.2658_15.8925,I Sapori di Rosa,RESTAURANT,ristorante
-41.265851,15.887483,ov_lo_chalet_41.2659_15.8875,Lo Chalet,RESTAURANT,ristorante
-41.265959,15.893453,ov_bar_falco_reale_junior_41.2660_15.8935,Bar Falco Reale Junior,RESTAURANT,ristorante
-41.266700,15.900000,ov_space_garden_41.2667_15.9000,SPACE Garden,RESTAURANT,ristorante
-41.266645,15.899475,ov_il_brigantino_41.2666_15.8995,Il Brigantino,RESTAURANT,ristorante
-41.266905,15.894221,ov_la_rosa_del_borgo_antico_41.2669_15.8942,La Rosa Del Borgo Antico,RESTAURANT,ristorante
-41.267419,15.909051,ov_pizzeria_ristorante_l_incontro_41.2674_15.9091,Pizzeria Ristorante L'incontro,RESTAURANT,ristorante
-41.266871,15.906521,ov_plebiscito_77_41.2669_15.9065,Plebiscito 77,RESTAURANT,ristorante
-41.266538,15.906575,ov_pizzeria_slurp_41.2665_15.9066,Pizzeria Slurp,RESTAURANT,ristorante
-41.266543,15.906803,ov_mcdonald_s_41.2665_15.9068,McDonald's,RESTAURANT,ristorante
-41.265938,15.908307,ov_hana_sushi_experience_cerignola___new_41.2659_15.9083,Hana Sushi Experience Cerignola - New,RESTAURANT,ristorante
-41.265961,15.908109,ov_la_volpe_e_l_uva_41.2660_15.9081,La Volpe e l'Uva,RESTAURANT,ristorante
-41.266080,15.907617,ov_pizzeria_mo_mo_41.2661_15.9076,Pizzeria Mo Mo,RESTAURANT,ristorante
-41.266120,15.902786,ov_pizzeria_400gradi_41.2661_15.9028,Pizzeria 400gradi,RESTAURANT,ristorante
-41.266108,15.902764,ov_pizzeria_giropizza_41.2661_15.9028,Pizzeria Giropizza,RESTAURANT,ristorante
-41.265938,15.895224,ov_al_borgo_antico_41.2659_15.8952,Al Borgo Antico,RESTAURANT,ristorante
-41.266044,15.897961,ov_safara_41.2660_15.8980,Safara,RESTAURANT,ristorante
-41.266051,15.902392,ov_pastificio_nonna_rosa_41.2661_15.9024,Pastificio Nonna Rosa,RESTAURANT,ristorante
-41.266014,15.900560,ov_scorpion_41.2660_15.9006,Scorpion,RESTAURANT,ristorante
-41.265780,15.894930,ov_country_lounge___food_41.2658_15.8949,Country Lounge & Food,RESTAURANT,ristorante
-41.265537,15.897985,ov_il_postaccio_41.2655_15.8980,Il Postaccio,RESTAURANT,ristorante
-41.265501,15.899501,ov_rock_and_roll_pizza_41.2655_15.8995,Rock and Roll Pizza,RESTAURANT,ristorante
-41.265748,15.918638,ov_figli_di_puglia_41.2657_15.9186,Figli di Puglia,RESTAURANT,ristorante
-41.266211,15.942241,ov_pugliasi_41.2662_15.9422,PugliaSi,RESTAURANT,ristorante
-41.265235,15.912003,ov_la_grotta_di_pulcinella_41.2652_15.9120,La Grotta di Pulcinella,RESTAURANT,ristorante
-41.263367,15.912256,ov_pescherja_41.2634_15.9123,Pescherja,RESTAURANT,ristorante
-41.263287,15.912227,ov_il_portico_41.2633_15.9122,Il Portico,RESTAURANT,ristorante
-41.258303,15.892571,ov_iaculli_matteo_41.2583_15.8926,Iaculli Matteo,RESTAURANT,ristorante
-41.258097,15.893055,ov_il_granaio_41.2581_15.8931,Il Granaio,RESTAURANT,ristorante
-41.256880,15.908160,ov_mo__veng_41.2569_15.9082,Mo' Veng,RESTAURANT,ristorante
-41.256642,15.909638,ov_marechiaro_pizzeria_ristorante_dal_1983_41.2566_15.9096,Marechiaro pizzeria ristorante dal 1983,RESTAURANT,ristorante
-41.256408,15.909782,ov_ristorante_il_principe_azzurro_41.2564_15.9098,Ristorante Il Principe Azzurro,RESTAURANT,ristorante
-41.256006,15.910604,ov_l_arcimboldo_41.2560_15.9106,L'Arcimboldo,RESTAURANT,ristorante
-41.245980,15.969560,ov_nik__osteria___pizza_41.2460_15.9696,Nikò Osteria & Pizza,RESTAURANT,ristorante
-41.248108,15.916802,ov_torre_brayda_ricevimenti_41.2481_15.9168,Torre Brayda Ricevimenti,RESTAURANT,ristorante
-41.249090,15.892493,ov_villa_d_este_41.2491_15.8925,Villa d'Este,RESTAURANT,ristorante
-41.197352,15.880827,ov_santa_lucia_41.1974_15.8808,Santa Lucia,RESTAURANT,ristorante
-41.192727,15.812429,ov_autogrill_41.1927_15.8124,Autogrill,RESTAURANT,ristorante
-41.197107,15.846066,ov_agriturismo_fattoria_del_sole_41.1971_15.8461,Agriturismo Fattoria del Sole,RESTAURANT,ristorante
-41.199017,15.852621,ov_masseria_cafora_41.1990_15.8526,Masseria Cafora,RESTAURANT,ristorante
-41.438567,15.588681,ov_pizzeria_ristorante_atleti_41.4386_15.5887,Pizzeria Ristorante Atleti,RESTAURANT,ristorante
-41.328728,15.876176,ov_ristorante_sarni_41.3287_15.8762,Ristorante Sarni,RESTAURANT,ristorante
-41.286998,15.843672,ov_agriturismo_oasi_ristorante_pizzeria_41.2870_15.8437,Agriturismo Oasi Ristorante Pizzeria,RESTAURANT,ristorante
-41.286483,15.843408,ov_oasi_le_fontanelle_41.2865_15.8434,Oasi Le Fontanelle,RESTAURANT,ristorante
-41.290128,15.839732,ov_villa_demetra_41.2901_15.8397,Villa Demetra,RESTAURANT,ristorante
-41.290711,15.839602,ov_ristorante_figli_di_puglia_41.2907_15.8396,Ristorante Figli di Puglia,RESTAURANT,ristorante
-41.277628,15.864428,ov_il_gusto_della_puglia_41.2776_15.8644,Il Gusto della Puglia,RESTAURANT,ristorante
-41.271147,15.897740,ov_corso_vecchio_41.2711_15.8977,Corso Vecchio,RESTAURANT,ristorante
-41.270975,15.896933,ov_focacceria_pestilli_41.2710_15.8969,Focacceria Pestilli,RESTAURANT,ristorante
-41.270858,15.896925,ov_da_tot__41.2709_15.8969,Da Totò,RESTAURANT,ristorante
-41.275620,15.912970,ov_il_caminetto_41.2756_15.9130,Il Caminetto,RESTAURANT,ristorante
-41.275614,15.912941,ov_quarto_natura_41.2756_15.9129,Quarto Natura,RESTAURANT,ristorante
-41.267819,15.903886,ov_regina_pizzeria_beri_sinaj_41.2678_15.9039,Regina pizzeria Beri sinaj,RESTAURANT,ristorante
-41.268259,15.903743,ov_la_reale_taverna_41.2683_15.9037,La Reale Taverna,RESTAURANT,ristorante
-41.268404,15.903716,ov_italian_aroma_41.2684_15.9037,Italian Aroma,RESTAURANT,ristorante
-41.268207,15.905272,ov_bib__pizzeria___ristorante_41.2682_15.9053,Bibò Pizzeria & Ristorante,RESTAURANT,ristorante
-41.268250,15.905160,ov_il_primitivo_41.2683_15.9052,Il Primitivo,RESTAURANT,ristorante
-41.269012,15.906419,ov_l_essenza___ristorante_41.2690_15.9064,L'essenza - Ristorante,RESTAURANT,ristorante
-41.268794,15.906047,ov_la_pergamena_41.2688_15.9060,La Pergamena,RESTAURANT,ristorante
-41.267742,15.906013,ov_sesto_senso_41.2677_15.9060,Sesto Senso,RESTAURANT,ristorante
-41.271076,15.909206,ov_al_caminetto_41.2711_15.9092,Al Caminetto,RESTAURANT,ristorante
-41.280393,15.935211,ov_il_primitivo_41.2804_15.9352,Il Primitivo,RESTAURANT,ristorante
-41.295332,15.931386,ov_il_caminetto_41.2953_15.9314,Il Caminetto,RESTAURANT,ristorante
-41.294042,15.922654,ov_masseria_torre_quarto_a_cerignola_41.2940_15.9227,Masseria Torre Quarto a Cerignola,RESTAURANT,ristorante
-41.321546,15.899961,ov_tenuta_santa_maria_dei_manzi_41.3215_15.9000,Tenuta Santa Maria dei Manzi,RESTAURANT,ristorante
-41.306016,15.899213,ov_al_vecchio_casello_41.3060_15.8992,Al Vecchio Casello,RESTAURANT,ristorante
-41.381570,15.904112,ov_tenuta_lupara_41.3816_15.9041,Tenuta Lupara,RESTAURANT,ristorante
+41.232621,15.729543,ov_country_club_ristopizza_41.2326_15.7295,Country Club Ristopizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/country_club_ristopizza_41.2326_15.7295.json,custom
+41.260581,15.880153,ov_stop_go_41.2606_15.8802,Stop&Go,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/stopgo_41.2606_15.8802.json,custom
+41.260268,15.900527,ov_l_ammiraglio_41.2603_15.9005,L'Ammiraglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lammiraglio_41.2603_15.9005.json,custom
+41.260343,15.902394,ov_pizzeria_levante_41.2603_15.9024,Pizzeria Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_levante_41.2603_15.9024.json,custom
+41.260818,15.896159,ov_alicino_savina_41.2608_15.8962,Alicino Savina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/alicino_savina_41.2608_15.8962.json,custom
+41.260699,15.905835,ov_il_paladino_41.2607_15.9058,Il Paladino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_paladino_41.2607_15.9058.json,custom
+41.260874,15.907783,ov_i_due_ghiottoni_junior_41.2609_15.9078,I Due Ghiottoni Junior,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/i_due_ghiottoni_junior_41.2609_15.9078.json,custom
+41.260628,15.905438,ov_la_fontana_41.2606_15.9054,La Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_fontana_41.2606_15.9054.json,custom
+41.260631,15.905258,ov_sayuri___japanese_cult_and_style_41.2606_15.9053,Sayuri - Japanese Cult and Style,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/sayuri_-_japanese_cult_and_style_41.2606_15.9053.json,custom
+41.260146,15.910203,ov_sushi_king_41.2601_15.9102,Sushi King,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/sushi_king_41.2601_15.9102.json,custom
+41.260020,15.900000,ov_torre_brayda_ricevimenti_41.2600_15.9000,Torre Brayda Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/torre_brayda_ricevimenti_41.2600_15.9000.json,custom
+41.259722,15.895432,ov_peter_pan_41.2597_15.8954,Peter Pan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/peter_pan_41.2597_15.8954.json,custom
+41.259730,15.898510,ov_los_pollos_hermanos_41.2597_15.8985,Los_Pollos_Hermanos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lospolloshermanos_41.2597_15.8985.json,custom
+41.259853,15.900276,ov_dolce_mare_gastronomia_friggitoria_41.2599_15.9003,Dolce Mare Gastronomia Friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/dolce_mare_gastronomia_friggitoria_41.2599_15.9003.json,custom
+41.259315,15.896017,ov_somnia_pizza___burger_ritrovo_41.2593_15.8960,Somnia Pizza & Burger Ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/somnia_pizza_burger_ritrovo_41.2593_15.8960.json,custom
+41.262206,15.927120,ov_asselta_hotel_e_ristorante_41.2622_15.9271,Asselta Hotel e ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/asselta_hotel_e_ristorante_41.2622_15.9271.json,custom
+41.262832,15.918810,ov_al_molino_41.2628_15.9188,Al Molino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_molino_41.2628_15.9188.json,custom
+41.263037,15.913284,ov_verve_restaurant_41.2630_15.9133,Verve Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/verve_restaurant_41.2630_15.9133.json,custom
+41.263026,15.912981,ov_pizzeria_mezza_luna_41.2630_15.9130,Pizzeria Mezza Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_mezza_luna_41.2630_15.9130.json,custom
+41.263134,15.911357,ov_pizzeria_tutti_pazzi_per_la_pizza_41.2631_15.9114,Pizzeria Tutti Pazzi per la Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_tutti_pazzi_per_la_pizza_41.2631_15.9114.json,custom
+41.263073,15.896113,ov_mistella_vino_pizza_e_cucina_41.2631_15.8961,Mistella Vino Pizza e Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mistella_vino_pizza_e_cucina_41.2631_15.8961.json,custom
+41.262770,15.901154,ov_bag_la_baguette_41.2628_15.9012,Bag La Baguette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/bag_la_baguette_41.2628_15.9012.json,custom
+41.262050,15.908152,ov_centro_posta_cerignola_41.2621_15.9082,Centro Posta Cerignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/centro_posta_cerignola_41.2621_15.9082.json,custom
+41.261373,15.907392,ov_i_due_ghiottoni_41.2614_15.9074,I Due Ghiottoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/i_due_ghiottoni_41.2614_15.9074.json,custom
+41.262150,15.902338,ov_ossobuco_steakhouse___restaurant_41.2621_15.9023,Ossobuco Steakhouse & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ossobuco_steakhouse_restaurant_41.2621_15.9023.json,custom
+41.262120,15.898620,ov_quei_bravi_ragazzi_41.2621_15.8986,Quei Bravi Ragazzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/quei_bravi_ragazzi_41.2621_15.8986.json,custom
+41.261376,15.893438,ov_pizzeria_l_antico_granaio_41.2614_15.8934,Pizzeria L'antico Granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_lantico_granaio_41.2614_15.8934.json,custom
+41.261206,15.891035,ov_somnia_pizza___burger_ritrovo_41.2612_15.8910,Somnia Pizza & Burger Ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/somnia_pizza_burger_ritrovo_41.2612_15.8910.json,custom
+41.262860,15.889980,ov_pinnelli_food_41.2629_15.8900,Pinnelli Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pinnelli_food_41.2629_15.8900.json,custom
+41.262917,15.893663,ov_dal_maestro_41.2629_15.8937,Dal Maestro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/dal_maestro_41.2629_15.8937.json,custom
+41.262944,15.893806,ov_moma_la_galleria_del_gusto_41.2629_15.8938,Moma La Galleria Del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/moma_la_galleria_del_gusto_41.2629_15.8938.json,custom
+41.262974,15.893760,ov_la_pinseria_del_gigante_41.2630_15.8938,La Pinseria del Gigante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_pinseria_del_gigante_41.2630_15.8938.json,custom
+41.264244,15.893550,ov_nonna_pasqua_41.2642_15.8936,Nonna Pasqua,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/nonna_pasqua_41.2642_15.8936.json,custom
+41.263293,15.898256,ov_pizzeria_10_fontane_41.2633_15.8983,Pizzeria 10 Fontane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_10_fontane_41.2633_15.8983.json,custom
+41.263323,15.897657,ov_pizzeria_vecchia_europa_41.2633_15.8977,Pizzeria Vecchia Europa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_vecchia_europa_41.2633_15.8977.json,custom
+41.263468,15.895684,ov_il_lascito_del_bue___braceria_41.2635_15.8957,Il Lascito del Bue - Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_lascito_del_bue_-_braceria_41.2635_15.8957.json,custom
+41.263585,15.895608,ov_alchimia_cucina___vino_41.2636_15.8956,Alchimia Cucina & Vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/alchimia_cucina_vino_41.2636_15.8956.json,custom
+41.263636,15.896321,ov_31_grani_41.2636_15.8963,31 Grani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/31_grani_41.2636_15.8963.json,custom
+41.263812,15.900323,ov_pianeta_pesca_cerignola_41.2638_15.9003,Pianeta Pesca Cerignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pianeta_pesca_cerignola_41.2638_15.9003.json,custom
+41.264680,15.897390,ov_era_ora___pizzeria_braceria_41.2647_15.8974,Era Ora - Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/era_ora_-_pizzeria_braceria_41.2647_15.8974.json,custom
+41.264761,15.899001,ov_ristorante_il_duomo_41.2648_15.8990,Ristorante il Duomo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ristorante_il_duomo_41.2648_15.8990.json,custom
+41.264826,15.900541,ov_ciak_si_sforna_41.2648_15.9005,Ciak si sforna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ciak_si_sforna_41.2648_15.9005.json,custom
+41.264628,15.902334,ov_al_ghiottone__dal_1967____panzerotti___p_41.2646_15.9023,Al Ghiottone (dal 1967) - Panzerotti & Panini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_ghiottone_dal_1967_-_panzerotti_panin_41.2646_15.9023.json,custom
+41.264495,15.903632,ov_u_vulesce_41.2645_15.9036,U Vulesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/u_vulesce_41.2645_15.9036.json,custom
+41.264427,15.905749,ov_lo_spigolo_41.2644_15.9057,Lo Spigolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lo_spigolo_41.2644_15.9057.json,custom
+41.265085,15.903136,ov_scalo111_41.2651_15.9031,SCALO111,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/scalo111_41.2651_15.9031.json,custom
+41.264963,15.909245,ov_alfredo_pizza_e_cucina_41.2650_15.9092,Alfredo Pizza e Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/alfredo_pizza_e_cucina_41.2650_15.9092.json,custom
+41.265064,15.909196,ov_la_baita_41.2651_15.9092,La Baita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_baita_41.2651_15.9092.json,custom
+41.265312,15.908851,ov_mordi_e_fuggi_41.2653_15.9089,Mordi e fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mordi_e_fuggi_41.2653_15.9089.json,custom
+41.265241,15.905872,ov_pronto_in_tavola_41.2652_15.9059,Pronto in Tavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pronto_in_tavola_41.2652_15.9059.json,custom
+41.265141,15.883420,ov_pizzeria_gambero_d_oro_41.2651_15.8834,Pizzeria Gambero D'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_gambero_doro_41.2651_15.8834.json,custom
+41.265567,15.888812,ov_mister_pinuccio_paccari_41.2656_15.8888,Mister Pinuccio Paccari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mister_pinuccio_paccari_41.2656_15.8888.json,custom
+41.265787,15.894129,ov_al_castello_41.2658_15.8941,Al Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_castello_41.2658_15.8941.json,custom
+41.265793,15.892536,ov_i_sapori_di_rosa_41.2658_15.8925,I Sapori di Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/i_sapori_di_rosa_41.2658_15.8925.json,custom
+41.265851,15.887483,ov_lo_chalet_41.2659_15.8875,Lo Chalet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lo_chalet_41.2659_15.8875.json,custom
+41.265959,15.893453,ov_bar_falco_reale_junior_41.2660_15.8935,Bar Falco Reale Junior,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/bar_falco_reale_junior_41.2660_15.8935.json,custom
+41.266700,15.900000,ov_space_garden_41.2667_15.9000,SPACE Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/space_garden_41.2667_15.9000.json,custom
+41.266645,15.899475,ov_il_brigantino_41.2666_15.8995,Il Brigantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_brigantino_41.2666_15.8995.json,custom
+41.266905,15.894221,ov_la_rosa_del_borgo_antico_41.2669_15.8942,La Rosa Del Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_rosa_del_borgo_antico_41.2669_15.8942.json,custom
+41.267419,15.909051,ov_pizzeria_ristorante_l_incontro_41.2674_15.9091,Pizzeria Ristorante L'incontro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_ristorante_lincontro_41.2674_15.9091.json,custom
+41.266871,15.906521,ov_plebiscito_77_41.2669_15.9065,Plebiscito 77,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/plebiscito_77_41.2669_15.9065.json,custom
+41.266538,15.906575,ov_pizzeria_slurp_41.2665_15.9066,Pizzeria Slurp,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_slurp_41.2665_15.9066.json,custom
+41.266543,15.906803,ov_mcdonald_s_41.2665_15.9068,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mcdonalds_41.2665_15.9068.json,custom
+41.265938,15.908307,ov_hana_sushi_experience_cerignola___new_41.2659_15.9083,Hana Sushi Experience Cerignola - New,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/hana_sushi_experience_cerignola_-_new_41.2659_15.9083.json,custom
+41.265961,15.908109,ov_la_volpe_e_l_uva_41.2660_15.9081,La Volpe e l'Uva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_volpe_e_luva_41.2660_15.9081.json,custom
+41.266080,15.907617,ov_pizzeria_mo_mo_41.2661_15.9076,Pizzeria Mo Mo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_mo_mo_41.2661_15.9076.json,custom
+41.266120,15.902786,ov_pizzeria_400gradi_41.2661_15.9028,Pizzeria 400gradi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_400gradi_41.2661_15.9028.json,custom
+41.266108,15.902764,ov_pizzeria_giropizza_41.2661_15.9028,Pizzeria Giropizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_giropizza_41.2661_15.9028.json,custom
+41.265938,15.895224,ov_al_borgo_antico_41.2659_15.8952,Al Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_borgo_antico_41.2659_15.8952.json,custom
+41.266044,15.897961,ov_safara_41.2660_15.8980,Safara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/safara_41.2660_15.8980.json,custom
+41.266051,15.902392,ov_pastificio_nonna_rosa_41.2661_15.9024,Pastificio Nonna Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pastificio_nonna_rosa_41.2661_15.9024.json,custom
+41.266014,15.900560,ov_scorpion_41.2660_15.9006,Scorpion,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/scorpion_41.2660_15.9006.json,custom
+41.265780,15.894930,ov_country_lounge___food_41.2658_15.8949,Country Lounge & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/country_lounge_food_41.2658_15.8949.json,custom
+41.265537,15.897985,ov_il_postaccio_41.2655_15.8980,Il Postaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_postaccio_41.2655_15.8980.json,custom
+41.265501,15.899501,ov_rock_and_roll_pizza_41.2655_15.8995,Rock and Roll Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/rock_and_roll_pizza_41.2655_15.8995.json,custom
+41.265748,15.918638,ov_figli_di_puglia_41.2657_15.9186,Figli di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/figli_di_puglia_41.2657_15.9186.json,custom
+41.266211,15.942241,ov_pugliasi_41.2662_15.9422,PugliaSi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pugliasi_41.2662_15.9422.json,custom
+41.265235,15.912003,ov_la_grotta_di_pulcinella_41.2652_15.9120,La Grotta di Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_grotta_di_pulcinella_41.2652_15.9120.json,custom
+41.263367,15.912256,ov_pescherja_41.2634_15.9123,Pescherja,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pescherja_41.2634_15.9123.json,custom
+41.263287,15.912227,ov_il_portico_41.2633_15.9122,Il Portico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_portico_41.2633_15.9122.json,custom
+41.258303,15.892571,ov_iaculli_matteo_41.2583_15.8926,Iaculli Matteo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/iaculli_matteo_41.2583_15.8926.json,custom
+41.258097,15.893055,ov_il_granaio_41.2581_15.8931,Il Granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_granaio_41.2581_15.8931.json,custom
+41.256880,15.908160,ov_mo__veng_41.2569_15.9082,Mo' Veng,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mo_veng_41.2569_15.9082.json,custom
+41.256642,15.909638,ov_marechiaro_pizzeria_ristorante_dal_1983_41.2566_15.9096,Marechiaro pizzeria ristorante dal 1983,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/marechiaro_pizzeria_ristorante_dal_1983_41.2566_15.9096.json,custom
+41.256408,15.909782,ov_ristorante_il_principe_azzurro_41.2564_15.9098,Ristorante Il Principe Azzurro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ristorante_il_principe_azzurro_41.2564_15.9098.json,custom
+41.256006,15.910604,ov_l_arcimboldo_41.2560_15.9106,L'Arcimboldo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/larcimboldo_41.2560_15.9106.json,custom
+41.245980,15.969560,ov_nik__osteria___pizza_41.2460_15.9696,Nikò Osteria & Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/nik_osteria_pizza_41.2460_15.9696.json,custom
+41.248108,15.916802,ov_torre_brayda_ricevimenti_41.2481_15.9168,Torre Brayda Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/torre_brayda_ricevimenti_41.2481_15.9168.json,custom
+41.249090,15.892493,ov_villa_d_este_41.2491_15.8925,Villa d'Este,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/villa_deste_41.2491_15.8925.json,custom
+41.197352,15.880827,ov_santa_lucia_41.1974_15.8808,Santa Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/santa_lucia_41.1974_15.8808.json,custom
+41.192727,15.812429,ov_autogrill_41.1927_15.8124,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/autogrill_41.1927_15.8124.json,custom
+41.197107,15.846066,ov_agriturismo_fattoria_del_sole_41.1971_15.8461,Agriturismo Fattoria del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/agriturismo_fattoria_del_sole_41.1971_15.8461.json,custom
+41.199017,15.852621,ov_masseria_cafora_41.1990_15.8526,Masseria Cafora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/masseria_cafora_41.1990_15.8526.json,custom
+41.438567,15.588681,ov_pizzeria_ristorante_atleti_41.4386_15.5887,Pizzeria Ristorante Atleti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_ristorante_atleti_41.4386_15.5887.json,custom
+41.328728,15.876176,ov_ristorante_sarni_41.3287_15.8762,Ristorante Sarni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ristorante_sarni_41.3287_15.8762.json,custom
+41.286998,15.843672,ov_agriturismo_oasi_ristorante_pizzeria_41.2870_15.8437,Agriturismo Oasi Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/agriturismo_oasi_ristorante_pizzeria_41.2870_15.8437.json,custom
+41.286483,15.843408,ov_oasi_le_fontanelle_41.2865_15.8434,Oasi Le Fontanelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/oasi_le_fontanelle_41.2865_15.8434.json,custom
+41.290128,15.839732,ov_villa_demetra_41.2901_15.8397,Villa Demetra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/villa_demetra_41.2901_15.8397.json,custom
+41.290711,15.839602,ov_ristorante_figli_di_puglia_41.2907_15.8396,Ristorante Figli di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/ristorante_figli_di_puglia_41.2907_15.8396.json,custom
+41.277628,15.864428,ov_il_gusto_della_puglia_41.2776_15.8644,Il Gusto della Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_gusto_della_puglia_41.2776_15.8644.json,custom
+41.271147,15.897740,ov_corso_vecchio_41.2711_15.8977,Corso Vecchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/corso_vecchio_41.2711_15.8977.json,custom
+41.270975,15.896933,ov_focacceria_pestilli_41.2710_15.8969,Focacceria Pestilli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/focacceria_pestilli_41.2710_15.8969.json,custom
+41.270858,15.896925,ov_da_tot__41.2709_15.8969,Da Totò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/da_tot_41.2709_15.8969.json,custom
+41.275620,15.912970,ov_il_caminetto_41.2756_15.9130,Il Caminetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_caminetto_41.2756_15.9130.json,custom
+41.275614,15.912941,ov_quarto_natura_41.2756_15.9129,Quarto Natura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/quarto_natura_41.2756_15.9129.json,custom
+41.267819,15.903886,ov_regina_pizzeria_beri_sinaj_41.2678_15.9039,Regina pizzeria Beri sinaj,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/regina_pizzeria_beri_sinaj_41.2678_15.9039.json,custom
+41.268259,15.903743,ov_la_reale_taverna_41.2683_15.9037,La Reale Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_reale_taverna_41.2683_15.9037.json,custom
+41.268404,15.903716,ov_italian_aroma_41.2684_15.9037,Italian Aroma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/italian_aroma_41.2684_15.9037.json,custom
+41.268207,15.905272,ov_bib__pizzeria___ristorante_41.2682_15.9053,Bibò Pizzeria & Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/bib_pizzeria_ristorante_41.2682_15.9053.json,custom
+41.268250,15.905160,ov_il_primitivo_41.2683_15.9052,Il Primitivo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_primitivo_41.2683_15.9052.json,custom
+41.269012,15.906419,ov_l_essenza___ristorante_41.2690_15.9064,L'essenza - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lessenza_-_ristorante_41.2690_15.9064.json,custom
+41.268794,15.906047,ov_la_pergamena_41.2688_15.9060,La Pergamena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/la_pergamena_41.2688_15.9060.json,custom
+41.267742,15.906013,ov_sesto_senso_41.2677_15.9060,Sesto Senso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/sesto_senso_41.2677_15.9060.json,custom
+41.271076,15.909206,ov_al_caminetto_41.2711_15.9092,Al Caminetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_caminetto_41.2711_15.9092.json,custom
+41.280393,15.935211,ov_il_primitivo_41.2804_15.9352,Il Primitivo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_primitivo_41.2804_15.9352.json,custom
+41.295332,15.931386,ov_il_caminetto_41.2953_15.9314,Il Caminetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/il_caminetto_41.2953_15.9314.json,custom
+41.294042,15.922654,ov_masseria_torre_quarto_a_cerignola_41.2940_15.9227,Masseria Torre Quarto a Cerignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/masseria_torre_quarto_a_cerignola_41.2940_15.9227.json,custom
+41.321546,15.899961,ov_tenuta_santa_maria_dei_manzi_41.3215_15.9000,Tenuta Santa Maria dei Manzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/tenuta_santa_maria_dei_manzi_41.3215_15.9000.json,custom
+41.306016,15.899213,ov_al_vecchio_casello_41.3060_15.8992,Al Vecchio Casello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/al_vecchio_casello_41.3060_15.8992.json,custom
+41.381570,15.904112,ov_tenuta_lupara_41.3816_15.9041,Tenuta Lupara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/tenuta_lupara_41.3816_15.9041.json,custom
+41.265732,15.907532,osm_m__m__41.2657_15.9075,Mò Mò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/m_m_41.2657_15.9075.json,custom
+41.265241,15.883574,osm_gambero_d_oro_41.2652_15.8836,Gambero d'Oro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/gambero_doro_41.2652_15.8836.json,custom
+41.263618,15.906714,osm_mcdoner_41.2636_15.9067,McDoner,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/mcdoner_41.2636_15.9067.json,custom
+41.273237,15.915558,osm_l_antico_uliveto_41.2732_15.9156,L'Antico Uliveto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lantico_uliveto_41.2732_15.9156.json,custom
+41.263075,15.911353,osm_tutti_pazzi_per_la_pizza_41.2631_15.9114,Tutti Pazzi per la Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/tutti_pazzi_per_la_pizza_41.2631_15.9114.json,custom
+41.265835,15.887533,osm_lo_chalet_41.2658_15.8875,Lo Chalet,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/lo_chalet_41.2658_15.8875.json,custom
+41.266903,15.906466,osm_plebiscito_77_41.2669_15.9065,Plebiscito 77,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/plebiscito_77_41.2669_15.9065.json,custom
+41.271020,15.897555,osm_pizzeria_corso_vecchio_41.2710_15.8976,Pizzeria Corso Vecchio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_corso_vecchio_41.2710_15.8976.json,custom
+41.262778,15.895886,osm_gold_fashion_41.2628_15.8959,Gold Fashion,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/gold_fashion_41.2628_15.8959.json,custom
+41.265800,15.908250,osm_hana___sushi_experience_41.2658_15.9082,Hana - Sushi Experience,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/hana_-_sushi_experience_41.2658_15.9082.json,custom
+41.265290,15.911879,osm_pizzeria_pulcinella_41.2653_15.9119,Pizzeria Pulcinella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/pizzeria_pulcinella_41.2653_15.9119.json,custom

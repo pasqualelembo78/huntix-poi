@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sangineto -- restaurants
-39.590576,15.861608,ov_ritual_sangineto_39.5906_15.8616,Ritual sangineto,RESTAURANT,ristorante
-39.590673,15.861893,ov_club24_39.5907_15.8619,Club24,RESTAURANT,ristorante
-39.590682,15.861545,ov_gi__pizza_39.5907_15.8615,Giò Pizza,RESTAURANT,ristorante
-39.591127,15.861426,ov_casa_vacanze_le_crete_39.5911_15.8614,Casa vacanze le crete,RESTAURANT,ristorante
-39.586994,15.872930,ov_convito_home_restaurant_39.5870_15.8729,Convito Home restaurant,RESTAURANT,ristorante
-39.581152,15.869474,ov_longo_pizza_and_bar_39.5812_15.8695,Longo Pizza and Bar,RESTAURANT,ristorante
-39.581708,15.868778,ov_jungle_village_pizzeria_napoletana_grigl_39.5817_15.8688,Jungle village Pizzeria Napoletana/griglieria Argentina,RESTAURANT,ristorante
-39.586909,15.865376,ov_la_portalba_39.5869_15.8654,La Portalba,RESTAURANT,ristorante
-39.604726,15.913064,ov_bar_marisa_39.6047_15.9131,Bar Marisa,RESTAURANT,ristorante
+39.590576,15.861608,ov_ritual_sangineto_39.5906_15.8616,Ritual sangineto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/ritual_sangineto_39.5906_15.8616.json,custom
+39.590673,15.861893,ov_club24_39.5907_15.8619,Club24,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/club24_39.5907_15.8619.json,custom
+39.590682,15.861545,ov_gi__pizza_39.5907_15.8615,Giò Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/gi_pizza_39.5907_15.8615.json,custom
+39.591127,15.861426,ov_casa_vacanze_le_crete_39.5911_15.8614,Casa vacanze le crete,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/casa_vacanze_le_crete_39.5911_15.8614.json,custom
+39.586994,15.872930,ov_convito_home_restaurant_39.5870_15.8729,Convito Home restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/convito_home_restaurant_39.5870_15.8729.json,custom
+39.581152,15.869474,ov_longo_pizza_and_bar_39.5812_15.8695,Longo Pizza and Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/longo_pizza_and_bar_39.5812_15.8695.json,custom
+39.581708,15.868778,ov_jungle_village_pizzeria_napoletana_grigl_39.5817_15.8688,Jungle village Pizzeria Napoletana/griglieria Argentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/jungle_village_pizzeria_napoletanagrigli_39.5817_15.8688.json,custom
+39.586909,15.865376,ov_la_portalba_39.5869_15.8654,La Portalba,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/la_portalba_39.5869_15.8654.json,custom
+39.604726,15.913064,ov_bar_marisa_39.6047_15.9131,Bar Marisa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sangineto/pages/bar_marisa_39.6047_15.9131.json,custom

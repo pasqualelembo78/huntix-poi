@@ -1,95 +1,91 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # giovinazzo -- restaurants
-41.185443,16.671960,osm_my_way_41.1854_16.6720,My Way,ristorante,ristorante
-41.188088,16.671854,osm_pugliaccio_41.1881_16.6719,Pugliaccio,ristorante,ristorante
-41.188798,16.674249,osm_la_creperia_41.1888_16.6742,La Creperia,ristorante,ristorante
-41.188305,16.669819,osm_rocket_41.1883_16.6698,Rocket,ristorante,ristorante
-41.189561,16.668062,osm_mundial_90_41.1896_16.6681,Mundial 90,ristorante,ristorante
-41.190251,16.664115,osm_il_pomodoro_beach_41.1903_16.6641,Il Pomodoro Beach,ristorante,ristorante
-41.188898,16.673242,osm_hostaria_san_domenico_41.1889_16.6732,Hostaria San Domenico,ristorante,ristorante
-41.187367,16.674721,osm_osteria_scvnazz_giovinazzo_41.1874_16.6747,Osteria Scvnazz Giovinazzo,ristorante,ristorante
-41.189640,16.674947,osm_opa_opa_on_the_beach_41.1896_16.6749,OPA OPA on the Beach,ristorante,ristorante
-41.187348,16.674590,osm_soso__41.1873_16.6746,SoSo',ristorante,ristorante
-41.190104,16.666984,osm_spiaggia_attrezzata_zerottanta_41.1901_16.6670,Spiaggia Attrezzata Zerottanta,ristorante,ristorante
-41.189477,16.669185,osm_al_porticciolo_41.1895_16.6692,Al Porticciolo,ristorante,ristorante
-41.182654,16.680532,osm_gatto_verde_41.1827_16.6805,Gatto Verde,ristorante,ristorante
-41.125742,16.705434,ov_masseria_san_marco_41.1257_16.7054,Masseria San Marco,RESTAURANT,ristorante
-41.164337,16.666162,ov_nuova_oasi_mediterraneo_giovinazzo__ba_41.1643_16.6662,Nuova Oasi Mediterraneo Giovinazzo- Ba,RESTAURANT,ristorante
-41.207408,16.583787,ov_l_aragosta_41.2074_16.5838,L'aragosta,RESTAURANT,ristorante
-41.188904,16.674665,ov_santa_fame_41.1889_16.6747,Santa Fame,RESTAURANT,ristorante
-41.189590,16.674055,ov_amaro_41.1896_16.6741,Amaro,RESTAURANT,ristorante
-41.189493,16.673165,ov_piccolo_borgo_antico_giovinazzo_41.1895_16.6732,Piccolo Borgo Antico Giovinazzo,RESTAURANT,ristorante
-41.189498,16.673683,ov_corner_41.1895_16.6737,Corner,RESTAURANT,ristorante
-41.189274,16.673945,ov_friccico_ner_core_41.1893_16.6739,Friccico ner Core,RESTAURANT,ristorante
-41.188769,16.674179,ov_la_creperia_41.1888_16.6742,La Creperia,RESTAURANT,ristorante
-41.188817,16.673010,ov_hostaria_san_domenico_41.1888_16.6730,Hostaria San Domenico,RESTAURANT,ristorante
-41.189145,16.671713,ov_ristorante_altamarea_41.1891_16.6717,Ristorante Altamarea,RESTAURANT,ristorante
-41.188707,16.671370,ov_panetteria_sant_antonio_41.1887_16.6714,Panetteria Sant'Antonio,RESTAURANT,ristorante
-41.189626,16.669221,ov_al_porticciolo_41.1896_16.6692,Al Porticciolo,RESTAURANT,ristorante
-41.189815,16.669202,ov_zama_urban_terraza_41.1898_16.6692,Zama Urban Terraza,RESTAURANT,ristorante
-41.189764,16.669808,ov_fuori_menu_pizzeria_41.1898_16.6698,Fuori Menu Pizzeria,RESTAURANT,ristorante
-41.189749,16.669431,ov_lo_schiribizzo_41.1897_16.6694,Lo Schiribizzo,RESTAURANT,ristorante
-41.189684,16.669686,ov_katiuscia_cocktail_e_altri_rimedi_41.1897_16.6697,Katiuscia Cocktail e Altri Rimedi,RESTAURANT,ristorante
-41.189683,16.669926,ov_crunch_41.1897_16.6699,Crunch,RESTAURANT,ristorante
-41.189681,16.670638,ov_il_portolano_41.1897_16.6706,Il Portolano,RESTAURANT,ristorante
-41.189735,16.671483,ov_fronte_del_porto_41.1897_16.6715,Fronte del Porto,RESTAURANT,ristorante
-41.191656,16.648227,ov_la_savorita_41.1917_16.6482,La savorita,RESTAURANT,ristorante
-41.191163,16.649460,ov_bacio_di_puglia_a_mare_41.1912_16.6495,Bacio di Puglia a Mare,RESTAURANT,ristorante
-41.190315,16.645798,ov_stop_over_41.1903_16.6458,Stop Over,RESTAURANT,ristorante
-41.189695,16.656013,ov_meraviglioso_41.1897_16.6560,Meraviglioso,RESTAURANT,ristorante
-41.191713,16.656355,ov_santi_e_marinai_41.1917_16.6564,Santi e Marinai,RESTAURANT,ristorante
-41.191809,16.656985,ov_satori_mystical_sensations_land_41.1918_16.6570,Satori Mystical Sensations Land,RESTAURANT,ristorante
-41.192157,16.657544,ov_nathan___osteria_di_mare_41.1922_16.6575,Nathan - Osteria di Mare,RESTAURANT,ristorante
-41.192057,16.657677,ov_apulia_food_restaurant___lido_azzurro_41.1921_16.6577,Apulia Food Restaurant - Lido Azzurro,RESTAURANT,ristorante
-41.192079,16.660741,ov_cala_marea_pizzeria_41.1921_16.6607,Cala Marea Pizzeria,RESTAURANT,ristorante
-41.189701,16.667462,ov_casa_diliso_41.1897_16.6675,Casa Diliso,RESTAURANT,ristorante
-41.190159,16.664263,ov_il_pomodoro_beach_41.1902_16.6643,Il Pomodoro Beach,RESTAURANT,ristorante
-41.189621,16.667431,ov_mundial_90_41.1896_16.6674,Mundial 90,RESTAURANT,ristorante
-41.187995,16.665637,ov_l_oasi_pizzeria_41.1880_16.6656,L'Oasi Pizzeria,RESTAURANT,ristorante
-41.185300,16.663252,ov_pitta_la_pizza_col_sorriso_41.1853_16.6633,Pitta La Pizza col Sorriso,RESTAURANT,ristorante
-41.186346,16.660682,ov_mamma_restaurant_41.1863_16.6607,Mamma Restaurant,RESTAURANT,ristorante
-41.185230,16.660460,ov_humus___vegan_food_truck_41.1852_16.6605,Humus - Vegan Food Truck,RESTAURANT,ristorante
-41.187530,16.660600,ov_bar_carlyto_s_41.1875_16.6606,Bar Carlyto's,RESTAURANT,ristorante
-41.188488,16.658923,ov_palapansini_giovinazzo_41.1885_16.6589,Palapansini Giovinazzo,RESTAURANT,ristorante
-41.182631,16.680466,ov_gatto_verde_41.1826_16.6805,Gatto Verde,RESTAURANT,ristorante
-41.183934,16.669587,ov_cibo_4_0_41.1839_16.6696,Cibo 4.0,RESTAURANT,ristorante
-41.184530,16.670410,ov_bottega_italiana_giovinazzo_41.1845_16.6704,Bottega Italiana Giovinazzo,RESTAURANT,ristorante
-41.184968,16.670736,ov_la_cucchiara_pizzeria_41.1850_16.6707,La Cucchiara Pizzeria,RESTAURANT,ristorante
-41.185458,16.672004,ov_my_way_41.1855_16.6720,My Way,RESTAURANT,ristorante
-41.185507,16.671628,ov_gastronomia_salotto_marconi_41.1855_16.6716,Gastronomia Salotto Marconi,RESTAURANT,ristorante
-41.186390,16.673720,ov_radici_pizzeria_41.1864_16.6737,Radici Pizzeria,RESTAURANT,ristorante
-41.186271,16.669862,ov_carpe_diem_41.1863_16.6699,Carpe Diem,RESTAURANT,ristorante
-41.187418,16.670157,ov_brari_41.1874_16.6702,Brari,RESTAURANT,ristorante
-41.187647,16.670808,ov_fiorentino_michele_41.1876_16.6708,Fiorentino Michele,RESTAURANT,ristorante
-41.187828,16.668983,ov_gali_41.1878_16.6690,Gali,RESTAURANT,ristorante
-41.187771,16.669989,ov_al_cantagallo_41.1878_16.6700,Al Cantagallo,RESTAURANT,ristorante
-41.188030,16.668878,ov_matthew_s_41.1880_16.6689,Matthew's,RESTAURANT,ristorante
-41.187809,16.671661,ov_pizza_in_piazza_41.1878_16.6717,Pizza in Piazza,RESTAURANT,ristorante
-41.187764,16.672902,ov_la_cucchiara_trattoria_41.1878_16.6729,La Cucchiara Trattoria,RESTAURANT,ristorante
-41.188205,16.671942,ov_pomodoro_e_mozzarella_41.1882_16.6719,Pomodoro e Mozzarella,RESTAURANT,ristorante
-41.188497,16.672451,ov_romanazzi_s_41.1885_16.6725,Romanazzi's,RESTAURANT,ristorante
-41.188561,16.673073,ov_pizzeria_mattarella_41.1886_16.6731,Pizzeria Mattarella,RESTAURANT,ristorante
-41.188210,16.672867,ov_pane_e_sapori_41.1882_16.6729,Pane e Sapori,RESTAURANT,ristorante
-41.188553,16.673193,ov_siamo_fritti_41.1886_16.6732,Siamo Fritti,RESTAURANT,ristorante
-41.188448,16.674084,ov_trappistventotto_41.1884_16.6741,Trappistventotto,RESTAURANT,ristorante
-41.187325,16.674652,ov_soso_vineria_e_cucina_41.1873_16.6747,SoSo Vineria e Cucina,RESTAURANT,ristorante
-41.187705,16.673067,ov_osteria_punto_e_a_capo_41.1877_16.6731,Osteria Punto e A Capo,RESTAURANT,ristorante
-41.187621,16.673070,ov_le_gramalo_41.1876_16.6731,Le Gramalo,RESTAURANT,ristorante
-41.187034,16.672893,ov_piazza_grande_41.1870_16.6729,Piazza Grande,RESTAURANT,ristorante
-41.187048,16.671671,ov_i_matti_del_panino_41.1870_16.6717,I Matti del Panino,RESTAURANT,ristorante
-41.186977,16.673040,ov_namaste_pizzeria_41.1870_16.6730,Namaste Pizzeria,RESTAURANT,ristorante
-41.186970,16.673333,ov_spizzicotto_di_ivan_riki_41.1870_16.6733,Spizzicotto di ivan&riki,RESTAURANT,ristorante
-41.187463,16.675128,ov_ventinove_restaurant_41.1875_16.6751,Ventinove Restaurant,RESTAURANT,ristorante
-41.187373,16.674786,ov_osteria_scvnazz_41.1874_16.6748,Osteria Scvnazz,RESTAURANT,ristorante
-41.187655,16.675396,ov_il_marcopolo_41.1877_16.6754,Il Marcopolo,RESTAURANT,ristorante
-41.188163,16.675266,ov_ristorante_alla_muraglia_41.1882_16.6753,Ristorante Alla Muraglia,RESTAURANT,ristorante
-41.188090,16.675290,ov_allamuraja_41.1881_16.6753,Allamuraja,RESTAURANT,ristorante
-41.186340,16.676394,ov_desire_41.1863_16.6764,Desire,RESTAURANT,ristorante
-41.186182,16.674690,ov_giovinazzo_citta_del_sole_41.1862_16.6747,Giovinazzo Citta Del Sole,RESTAURANT,ristorante
-41.185859,16.676722,ov_oltremare_pizza_experience_41.1859_16.6767,Oltremare pizza experience,RESTAURANT,ristorante
-41.184888,16.675974,ov_onda_blu_41.1849_16.6760,Onda Blu,RESTAURANT,ristorante
-41.185113,16.679320,ov_lungomare_esercito_italiano_41.1851_16.6793,Lungomare Esercito Italiano,RESTAURANT,ristorante
-41.181887,16.682358,ov_bote_de_mar_41.1819_16.6824,Bote de Mar,RESTAURANT,ristorante
-41.181540,16.681858,ov_toruccio_41.1815_16.6819,Toruccio,RESTAURANT,ristorante
-41.167912,16.704535,ov_autogrill_41.1679_16.7045,Autogrill,RESTAURANT,ristorante
-41.172183,16.715346,ov_ristorante_di_pesce_levante_41.1722_16.7153,Ristorante di pesce Levante,RESTAURANT,ristorante
+41.125742,16.705434,ov_masseria_san_marco_41.1257_16.7054,Masseria San Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/masseria_san_marco_41.1257_16.7054.json,custom
+41.164337,16.666162,ov_nuova_oasi_mediterraneo_giovinazzo__ba_41.1643_16.6662,Nuova Oasi Mediterraneo Giovinazzo- Ba,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/nuova_oasi_mediterraneo_giovinazzo-_ba_41.1643_16.6662.json,custom
+41.207408,16.583787,ov_l_aragosta_41.2074_16.5838,L'aragosta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/laragosta_41.2074_16.5838.json,custom
+41.188904,16.674665,ov_santa_fame_41.1889_16.6747,Santa Fame,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/santa_fame_41.1889_16.6747.json,custom
+41.189590,16.674055,ov_amaro_41.1896_16.6741,Amaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/amaro_41.1896_16.6741.json,custom
+41.189493,16.673165,ov_piccolo_borgo_antico_giovinazzo_41.1895_16.6732,Piccolo Borgo Antico Giovinazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/piccolo_borgo_antico_giovinazzo_41.1895_16.6732.json,custom
+41.189498,16.673683,ov_corner_41.1895_16.6737,Corner,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/corner_41.1895_16.6737.json,custom
+41.189274,16.673945,ov_friccico_ner_core_41.1893_16.6739,Friccico ner Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/friccico_ner_core_41.1893_16.6739.json,custom
+41.188769,16.674179,ov_la_creperia_41.1888_16.6742,La Creperia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/la_creperia_41.1888_16.6742.json,custom
+41.188817,16.673010,ov_hostaria_san_domenico_41.1888_16.6730,Hostaria San Domenico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/hostaria_san_domenico_41.1888_16.6730.json,custom
+41.189145,16.671713,ov_ristorante_altamarea_41.1891_16.6717,Ristorante Altamarea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/ristorante_altamarea_41.1891_16.6717.json,custom
+41.188707,16.671370,ov_panetteria_sant_antonio_41.1887_16.6714,Panetteria Sant'Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/panetteria_santantonio_41.1887_16.6714.json,custom
+41.189626,16.669221,ov_al_porticciolo_41.1896_16.6692,Al Porticciolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/al_porticciolo_41.1896_16.6692.json,custom
+41.189815,16.669202,ov_zama_urban_terraza_41.1898_16.6692,Zama Urban Terraza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/zama_urban_terraza_41.1898_16.6692.json,custom
+41.189764,16.669808,ov_fuori_menu_pizzeria_41.1898_16.6698,Fuori Menu Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/fuori_menu_pizzeria_41.1898_16.6698.json,custom
+41.189749,16.669431,ov_lo_schiribizzo_41.1897_16.6694,Lo Schiribizzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/lo_schiribizzo_41.1897_16.6694.json,custom
+41.189684,16.669686,ov_katiuscia_cocktail_e_altri_rimedi_41.1897_16.6697,Katiuscia Cocktail e Altri Rimedi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/katiuscia_cocktail_e_altri_rimedi_41.1897_16.6697.json,custom
+41.189683,16.669926,ov_crunch_41.1897_16.6699,Crunch,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/crunch_41.1897_16.6699.json,custom
+41.189681,16.670638,ov_il_portolano_41.1897_16.6706,Il Portolano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/il_portolano_41.1897_16.6706.json,custom
+41.189735,16.671483,ov_fronte_del_porto_41.1897_16.6715,Fronte del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/fronte_del_porto_41.1897_16.6715.json,custom
+41.191656,16.648227,ov_la_savorita_41.1917_16.6482,La savorita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/la_savorita_41.1917_16.6482.json,custom
+41.191163,16.649460,ov_bacio_di_puglia_a_mare_41.1912_16.6495,Bacio di Puglia a Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/bacio_di_puglia_a_mare_41.1912_16.6495.json,custom
+41.190315,16.645798,ov_stop_over_41.1903_16.6458,Stop Over,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/stop_over_41.1903_16.6458.json,custom
+41.189695,16.656013,ov_meraviglioso_41.1897_16.6560,Meraviglioso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/meraviglioso_41.1897_16.6560.json,custom
+41.191713,16.656355,ov_santi_e_marinai_41.1917_16.6564,Santi e Marinai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/santi_e_marinai_41.1917_16.6564.json,custom
+41.191809,16.656985,ov_satori_mystical_sensations_land_41.1918_16.6570,Satori Mystical Sensations Land,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/satori_mystical_sensations_land_41.1918_16.6570.json,custom
+41.192157,16.657544,ov_nathan___osteria_di_mare_41.1922_16.6575,Nathan - Osteria di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/nathan_-_osteria_di_mare_41.1922_16.6575.json,custom
+41.192057,16.657677,ov_apulia_food_restaurant___lido_azzurro_41.1921_16.6577,Apulia Food Restaurant - Lido Azzurro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/apulia_food_restaurant_-_lido_azzurro_41.1921_16.6577.json,custom
+41.192079,16.660741,ov_cala_marea_pizzeria_41.1921_16.6607,Cala Marea Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/cala_marea_pizzeria_41.1921_16.6607.json,custom
+41.189701,16.667462,ov_casa_diliso_41.1897_16.6675,Casa Diliso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/casa_diliso_41.1897_16.6675.json,custom
+41.190159,16.664263,ov_il_pomodoro_beach_41.1902_16.6643,Il Pomodoro Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/il_pomodoro_beach_41.1902_16.6643.json,custom
+41.189621,16.667431,ov_mundial_90_41.1896_16.6674,Mundial 90,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/mundial_90_41.1896_16.6674.json,custom
+41.187995,16.665637,ov_l_oasi_pizzeria_41.1880_16.6656,L'Oasi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/loasi_pizzeria_41.1880_16.6656.json,custom
+41.185300,16.663252,ov_pitta_la_pizza_col_sorriso_41.1853_16.6633,Pitta La Pizza col Sorriso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pitta_la_pizza_col_sorriso_41.1853_16.6633.json,custom
+41.186346,16.660682,ov_mamma_restaurant_41.1863_16.6607,Mamma Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/mamma_restaurant_41.1863_16.6607.json,custom
+41.185230,16.660460,ov_humus___vegan_food_truck_41.1852_16.6605,Humus - Vegan Food Truck,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/humus_-_vegan_food_truck_41.1852_16.6605.json,custom
+41.187530,16.660600,ov_bar_carlyto_s_41.1875_16.6606,Bar Carlyto's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/bar_carlytos_41.1875_16.6606.json,custom
+41.188488,16.658923,ov_palapansini_giovinazzo_41.1885_16.6589,Palapansini Giovinazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/palapansini_giovinazzo_41.1885_16.6589.json,custom
+41.182631,16.680466,ov_gatto_verde_41.1826_16.6805,Gatto Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/gatto_verde_41.1826_16.6805.json,custom
+41.183934,16.669587,ov_cibo_4_0_41.1839_16.6696,Cibo 4.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/cibo_40_41.1839_16.6696.json,custom
+41.184530,16.670410,ov_bottega_italiana_giovinazzo_41.1845_16.6704,Bottega Italiana Giovinazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/bottega_italiana_giovinazzo_41.1845_16.6704.json,custom
+41.184968,16.670736,ov_la_cucchiara_pizzeria_41.1850_16.6707,La Cucchiara Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/la_cucchiara_pizzeria_41.1850_16.6707.json,custom
+41.185458,16.672004,ov_my_way_41.1855_16.6720,My Way,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/my_way_41.1855_16.6720.json,custom
+41.185507,16.671628,ov_gastronomia_salotto_marconi_41.1855_16.6716,Gastronomia Salotto Marconi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/gastronomia_salotto_marconi_41.1855_16.6716.json,custom
+41.186390,16.673720,ov_radici_pizzeria_41.1864_16.6737,Radici Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/radici_pizzeria_41.1864_16.6737.json,custom
+41.186271,16.669862,ov_carpe_diem_41.1863_16.6699,Carpe Diem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/carpe_diem_41.1863_16.6699.json,custom
+41.187418,16.670157,ov_brari_41.1874_16.6702,Brari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/brari_41.1874_16.6702.json,custom
+41.187647,16.670808,ov_fiorentino_michele_41.1876_16.6708,Fiorentino Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/fiorentino_michele_41.1876_16.6708.json,custom
+41.187828,16.668983,ov_gali_41.1878_16.6690,Gali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/gali_41.1878_16.6690.json,custom
+41.187771,16.669989,ov_al_cantagallo_41.1878_16.6700,Al Cantagallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/al_cantagallo_41.1878_16.6700.json,custom
+41.188030,16.668878,ov_matthew_s_41.1880_16.6689,Matthew's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/matthews_41.1880_16.6689.json,custom
+41.187809,16.671661,ov_pizza_in_piazza_41.1878_16.6717,Pizza in Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pizza_in_piazza_41.1878_16.6717.json,custom
+41.187764,16.672902,ov_la_cucchiara_trattoria_41.1878_16.6729,La Cucchiara Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/la_cucchiara_trattoria_41.1878_16.6729.json,custom
+41.188205,16.671942,ov_pomodoro_e_mozzarella_41.1882_16.6719,Pomodoro e Mozzarella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pomodoro_e_mozzarella_41.1882_16.6719.json,custom
+41.188497,16.672451,ov_romanazzi_s_41.1885_16.6725,Romanazzi's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/romanazzis_41.1885_16.6725.json,custom
+41.188561,16.673073,ov_pizzeria_mattarella_41.1886_16.6731,Pizzeria Mattarella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pizzeria_mattarella_41.1886_16.6731.json,custom
+41.188210,16.672867,ov_pane_e_sapori_41.1882_16.6729,Pane e Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pane_e_sapori_41.1882_16.6729.json,custom
+41.188553,16.673193,ov_siamo_fritti_41.1886_16.6732,Siamo Fritti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/siamo_fritti_41.1886_16.6732.json,custom
+41.188448,16.674084,ov_trappistventotto_41.1884_16.6741,Trappistventotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/trappistventotto_41.1884_16.6741.json,custom
+41.187325,16.674652,ov_soso_vineria_e_cucina_41.1873_16.6747,SoSo Vineria e Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/soso_vineria_e_cucina_41.1873_16.6747.json,custom
+41.187705,16.673067,ov_osteria_punto_e_a_capo_41.1877_16.6731,Osteria Punto e A Capo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/osteria_punto_e_a_capo_41.1877_16.6731.json,custom
+41.187621,16.673070,ov_le_gramalo_41.1876_16.6731,Le Gramalo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/le_gramalo_41.1876_16.6731.json,custom
+41.187034,16.672893,ov_piazza_grande_41.1870_16.6729,Piazza Grande,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/piazza_grande_41.1870_16.6729.json,custom
+41.187048,16.671671,ov_i_matti_del_panino_41.1870_16.6717,I Matti del Panino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/i_matti_del_panino_41.1870_16.6717.json,custom
+41.186977,16.673040,ov_namaste_pizzeria_41.1870_16.6730,Namaste Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/namaste_pizzeria_41.1870_16.6730.json,custom
+41.186970,16.673333,ov_spizzicotto_di_ivan_riki_41.1870_16.6733,Spizzicotto di ivan&riki,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/spizzicotto_di_ivanriki_41.1870_16.6733.json,custom
+41.187463,16.675128,ov_ventinove_restaurant_41.1875_16.6751,Ventinove Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/ventinove_restaurant_41.1875_16.6751.json,custom
+41.187373,16.674786,ov_osteria_scvnazz_41.1874_16.6748,Osteria Scvnazz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/osteria_scvnazz_41.1874_16.6748.json,custom
+41.187655,16.675396,ov_il_marcopolo_41.1877_16.6754,Il Marcopolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/il_marcopolo_41.1877_16.6754.json,custom
+41.188163,16.675266,ov_ristorante_alla_muraglia_41.1882_16.6753,Ristorante Alla Muraglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/ristorante_alla_muraglia_41.1882_16.6753.json,custom
+41.188090,16.675290,ov_allamuraja_41.1881_16.6753,Allamuraja,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/allamuraja_41.1881_16.6753.json,custom
+41.186340,16.676394,ov_desire_41.1863_16.6764,Desire,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/desire_41.1863_16.6764.json,custom
+41.186182,16.674690,ov_giovinazzo_citta_del_sole_41.1862_16.6747,Giovinazzo Citta Del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/giovinazzo_citta_del_sole_41.1862_16.6747.json,custom
+41.185859,16.676722,ov_oltremare_pizza_experience_41.1859_16.6767,Oltremare pizza experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/oltremare_pizza_experience_41.1859_16.6767.json,custom
+41.184888,16.675974,ov_onda_blu_41.1849_16.6760,Onda Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/onda_blu_41.1849_16.6760.json,custom
+41.185113,16.679320,ov_lungomare_esercito_italiano_41.1851_16.6793,Lungomare Esercito Italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/lungomare_esercito_italiano_41.1851_16.6793.json,custom
+41.181887,16.682358,ov_bote_de_mar_41.1819_16.6824,Bote de Mar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/bote_de_mar_41.1819_16.6824.json,custom
+41.181540,16.681858,ov_toruccio_41.1815_16.6819,Toruccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/toruccio_41.1815_16.6819.json,custom
+41.167912,16.704535,ov_autogrill_41.1679_16.7045,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/autogrill_41.1679_16.7045.json,custom
+41.172183,16.715346,ov_ristorante_di_pesce_levante_41.1722_16.7153,Ristorante di pesce Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/ristorante_di_pesce_levante_41.1722_16.7153.json,custom
+41.188088,16.671854,osm_pugliaccio_41.1881_16.6719,Pugliaccio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/pugliaccio_41.1881_16.6719.json,custom
+41.188305,16.669819,osm_rocket_41.1883_16.6698,Rocket,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/rocket_41.1883_16.6698.json,custom
+41.189561,16.668062,osm_mundial_90_41.1896_16.6681,Mundial 90,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/mundial_90_41.1896_16.6681.json,custom
+41.187367,16.674721,osm_osteria_scvnazz_giovinazzo_41.1874_16.6747,Osteria Scvnazz Giovinazzo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/osteria_scvnazz_giovinazzo_41.1874_16.6747.json,custom
+41.189640,16.674947,osm_opa_opa_on_the_beach_41.1896_16.6749,OPA OPA on the Beach,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/opa_opa_on_the_beach_41.1896_16.6749.json,custom
+41.187348,16.674590,osm_soso__41.1873_16.6746,SoSo',ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/soso_41.1873_16.6746.json,custom
+41.190104,16.666984,osm_spiaggia_attrezzata_zerottanta_41.1901_16.6670,Spiaggia Attrezzata Zerottanta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/spiaggia_attrezzata_zerottanta_41.1901_16.6670.json,custom
+41.189477,16.669185,osm_al_porticciolo_41.1895_16.6692,Al Porticciolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/al_porticciolo_41.1895_16.6692.json,custom
+41.182654,16.680532,osm_gatto_verde_41.1827_16.6805,Gatto Verde,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/gatto_verde_41.1827_16.6805.json,custom

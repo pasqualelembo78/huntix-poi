@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vibonati -- bars_cafes
-40.074766,15.595631,ov_the_king_s_caf__40.0748_15.5956,The king's cafè,RESTAURANT,bar_cafe
-40.074619,15.592595,ov_mareluna_40.0746_15.5926,Mareluna,RESTAURANT,bar_cafe
-40.074838,15.591243,ov_batida_40.0748_15.5912,Batida,RESTAURANT,bar_cafe
-40.075011,15.591045,ov_bar_pasticceria_enzo_40.0750_15.5910,Bar Pasticceria Enzo,RESTAURANT,bar_cafe
-40.075651,15.589802,ov_bar_gelateria_maker__40.0757_15.5898,Bar Gelateria Makeré,RESTAURANT,bar_cafe
-40.077590,15.584810,ov_tiki_beach_40.0776_15.5848,Tiki Beach,RESTAURANT,bar_cafe
-40.099043,15.584495,ov_bar_gelateria_emma_40.0990_15.5845,Bar Gelateria EMMA,RESTAURANT,bar_cafe
-40.098864,15.584157,ov_bar_ok_di_alfano_caterina_40.0989_15.5842,Bar Ok Di Alfano Caterina,RESTAURANT,bar_cafe
+40.074766,15.595631,ov_the_king_s_caf__40.0748_15.5956,The king's cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/the_kings_caf_40.0748_15.5956.json,custom
+40.074619,15.592595,ov_mareluna_40.0746_15.5926,Mareluna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/mareluna_40.0746_15.5926.json,custom
+40.074838,15.591243,ov_batida_40.0748_15.5912,Batida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/batida_40.0748_15.5912.json,custom
+40.075011,15.591045,ov_bar_pasticceria_enzo_40.0750_15.5910,Bar Pasticceria Enzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/bar_pasticceria_enzo_40.0750_15.5910.json,custom
+40.075651,15.589802,ov_bar_gelateria_maker__40.0757_15.5898,Bar Gelateria Makeré,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/bar_gelateria_maker_40.0757_15.5898.json,custom
+40.077590,15.584810,ov_tiki_beach_40.0776_15.5848,Tiki Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/tiki_beach_40.0776_15.5848.json,custom
+40.099043,15.584495,ov_bar_gelateria_emma_40.0990_15.5845,Bar Gelateria EMMA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/bar_gelateria_emma_40.0990_15.5845.json,custom
+40.098864,15.584157,ov_bar_ok_di_alfano_caterina_40.0989_15.5842,Bar Ok Di Alfano Caterina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vibonati/pages/bar_ok_di_alfano_caterina_40.0989_15.5842.json,custom

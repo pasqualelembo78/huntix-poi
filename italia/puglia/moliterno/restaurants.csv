@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # moliterno -- restaurants
-40.239966,15.869532,osm_ristorante_arcimboldi_40.2400_15.8695,Ristorante Arcimboldi,ristorante,ristorante
-40.229325,15.851549,ov_ristorante_eco_del_fiume_moliterno_40.2293_15.8515,Ristorante Eco Del Fiume Moliterno,RESTAURANT,ristorante
-40.244450,15.857736,ov_pizzeria_zio_paolo_40.2445_15.8577,Pizzeria Zio Paolo,RESTAURANT,ristorante
-40.241878,15.863676,ov_delicatese_romanesti_40.2419_15.8637,Delicatese Romanesti,RESTAURANT,ristorante
-40.239762,15.867286,ov_l_antico_ritrovo_40.2398_15.8673,L'Antico Ritrovo,RESTAURANT,ristorante
-40.244944,15.869126,ov_moliendocaf__ristorante_pizzeria_40.2449_15.8691,Moliendocafè Ristorante Pizzeria,RESTAURANT,ristorante
-40.205925,15.876819,ov_agriturismo_la_vecchia_fattoria_40.2059_15.8768,Agriturismo La Vecchia Fattoria,RESTAURANT,ristorante
-40.183172,15.875741,ov_agriturismo_antica_tenuta_del_cavaliere_40.1832_15.8757,Agriturismo Antica Tenuta Del Cavaliere,RESTAURANT,ristorante
+40.229325,15.851549,ov_ristorante_eco_del_fiume_moliterno_40.2293_15.8515,Ristorante Eco Del Fiume Moliterno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/ristorante_eco_del_fiume_moliterno_40.2293_15.8515.json,custom
+40.244450,15.857736,ov_pizzeria_zio_paolo_40.2445_15.8577,Pizzeria Zio Paolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/pizzeria_zio_paolo_40.2445_15.8577.json,custom
+40.241878,15.863676,ov_delicatese_romanesti_40.2419_15.8637,Delicatese Romanesti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/delicatese_romanesti_40.2419_15.8637.json,custom
+40.239762,15.867286,ov_l_antico_ritrovo_40.2398_15.8673,L'Antico Ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/lantico_ritrovo_40.2398_15.8673.json,custom
+40.244944,15.869126,ov_moliendocaf__ristorante_pizzeria_40.2449_15.8691,Moliendocafè Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/moliendocaf_ristorante_pizzeria_40.2449_15.8691.json,custom
+40.205925,15.876819,ov_agriturismo_la_vecchia_fattoria_40.2059_15.8768,Agriturismo La Vecchia Fattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/agriturismo_la_vecchia_fattoria_40.2059_15.8768.json,custom
+40.183172,15.875741,ov_agriturismo_antica_tenuta_del_cavaliere_40.1832_15.8757,Agriturismo Antica Tenuta Del Cavaliere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/agriturismo_antica_tenuta_del_cavaliere_40.1832_15.8757.json,custom
+40.239966,15.869532,osm_ristorante_arcimboldi_40.2400_15.8695,Ristorante Arcimboldi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moliterno/pages/ristorante_arcimboldi_40.2400_15.8695.json,custom

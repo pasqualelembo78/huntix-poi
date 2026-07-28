@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Monteverde -- Tutti
-40.999596,15.533828,ov_al_giardino_di_terra_di_confini_40.9996_15.5338,Al Giardino di Terra di Confini,RESTAURANT,ristorante
-40.999560,15.533000,ov_bar_tabacchi_officina_del_caff__40.9996_15.5330,Bar Tabacchi Officina del Caffè,RESTAURANT,bar_cafe
-40.996716,15.534848,ov_bar_il_borgo_40.9967_15.5348,Bar Il Borgo,RESTAURANT,bar_cafe
-40.994926,15.538605,ov_serrocroce_40.9949_15.5386,Serrocroce,RESTAURANT,bar_cafe
+40.999596,15.533828,ov_al_giardino_di_terra_di_confini_40.9996_15.5338,Al Giardino di Terra di Confini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteverde/pages/al_giardino_di_terra_di_confini_40.9996_15.5338.json,custom
+40.999560,15.533000,ov_bar_tabacchi_officina_del_caff__40.9996_15.5330,Bar Tabacchi Officina del Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteverde/pages/bar_tabacchi_officina_del_caff_40.9996_15.5330.json,custom
+40.996716,15.534848,ov_bar_il_borgo_40.9967_15.5348,Bar Il Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteverde/pages/bar_il_borgo_40.9967_15.5348.json,custom
+40.994926,15.538605,ov_serrocroce_40.9949_15.5386,Serrocroce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteverde/pages/serrocroce_40.9949_15.5386.json,custom

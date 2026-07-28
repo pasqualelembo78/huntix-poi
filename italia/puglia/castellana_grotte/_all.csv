@@ -1,125 +1,122 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Castellana Grotte -- Tutti
-40.883604,17.168122,osm_bella_capri_40.8836_17.1681,Bella Capri,ristorante,ristorante
-40.875152,17.149653,osm_grotta_bianca_40.8752_17.1497,Grotta Bianca,ristorante,ristorante
-40.874936,17.149893,osm_taverna_degli_amici_40.8749_17.1499,Taverna Degli Amici,ristorante,ristorante
-40.886127,17.170994,osm_il_casalicchio_40.8861_17.1710,il Casalicchio,ristorante,ristorante
-40.878295,17.158665,osm_marian_40.8783_17.1587,Marian,ristorante,ristorante
-40.878985,17.170294,osm_verde_porpora_40.8790_17.1703,Verde Porpora,ristorante,ristorante
-40.884199,17.166463,osm_old_victoria_station_40.8842_17.1665,Old Victoria Station,ristorante,ristorante
-40.884612,17.166096,osm_crazy_pizza_40.8846_17.1661,Crazy Pizza,ristorante,ristorante
-40.883546,17.165809,osm_pizzeria_da_bernardo_40.8835_17.1658,Pizzeria da Bernardo,ristorante,ristorante
-40.884323,17.167750,osm_a_pollo__beer_40.8843_17.1678,A-Pollo& Beer,ristorante,ristorante
-40.883411,17.167560,osm_trattoria_arco_persio_40.8834_17.1676,Trattoria Arco Persio,ristorante,ristorante
-40.883760,17.168714,osm_u_crep_tt_paninoteca_40.8838_17.1687,U crepètt Paninoteca,ristorante,ristorante
-40.882908,17.167749,osm_scotta_40.8829_17.1677,Scotta,ristorante,ristorante
-40.882851,17.164496,ov_postazione_118_40.8829_17.1645,Postazione 118,HOSPITAL,hospital
-40.884018,17.155207,ov_hospital_saverio_de_bellis_40.8840_17.1552,Hospital Saverio De Bellis,HOSPITAL,hospital
-40.834978,17.241631,ov_agriturismo_monte_del_vento_40.8350_17.2416,Agriturismo Monte del Vento,RESTAURANT,ristorante
-40.897685,17.167159,ov_ristorante_al_pozzo_40.8977_17.1672,Ristorante Al Pozzo,RESTAURANT,ristorante
-40.898599,17.192544,ov_ristorante_il_piatto_fumante_40.8986_17.1925,Ristorante Il Piatto Fumante,RESTAURANT,ristorante
-40.916903,17.146281,ov_tenuta_rinaldi_40.9169_17.1463,Tenuta Rinaldi,RESTAURANT,ristorante
-40.885474,17.210488,ov_oro_verde_sapori_mediterranei_40.8855_17.2105,Oro Verde sapori mediterranei,RESTAURANT,ristorante
-40.895195,17.174999,ov_agriturismo_monte_della_vecchia_di_sgobb_40.8952_17.1750,Agriturismo Monte della Vecchia di Sgobba G. & F.,RESTAURANT,ristorante
-40.894694,17.167543,ov_gastronomia_perrelli_40.8947_17.1675,Gastronomia Perrelli,RESTAURANT,ristorante
-40.885631,17.164490,ov_cesarino_36_40.8856_17.1645,Cesarino 36,RESTAURANT,ristorante
-40.885861,17.164203,ov_il_gusto_del_fornello_40.8859_17.1642,Il gusto del fornello,RESTAURANT,ristorante
-40.887331,17.163540,ov_il_covo_40.8873_17.1635,Il Covo,RESTAURANT,ristorante
-40.888483,17.168712,ov_kimama_pizzeria_40.8885_17.1687,Kimama Pizzeria,RESTAURANT,ristorante
-40.887624,17.170023,ov_pizzae_spaghi_40.8876_17.1700,Pizzae Spaghi,RESTAURANT,ristorante
-40.887279,17.167746,ov_sabatelli_pasta_fresca_e_gastronomia_40.8873_17.1677,Sabatelli pasta fresca e gastronomia,RESTAURANT,ristorante
-40.887305,17.167739,ov_pescheria_la_lampara_40.8873_17.1677,Pescheria La Lampara,RESTAURANT,ristorante
-40.887257,17.167166,ov_da_mimmo_macelleria_steakhouse_40.8873_17.1672,Da Mimmo Macelleria Steakhouse,RESTAURANT,ristorante
-40.885170,17.165940,ov_gringo_s_mexican_taqueria_40.8852_17.1659,Gringo's Mexican Taqueria,RESTAURANT,ristorante
-40.885245,17.166644,ov_pizzeria_bella_italia_40.8852_17.1666,Pizzeria Bella Italia,RESTAURANT,ristorante
-40.886181,17.171065,ov_m_r_casalicchio_srl_40.8862_17.1711,M&R Casalicchio SRL,RESTAURANT,ristorante
-40.883811,17.169951,ov_circolo_pivot_castellana_grotte_40.8838_17.1700,Circolo Pivot Castellana Grotte,RESTAURANT,ristorante
-40.884468,17.170849,ov_amici_di_portagrande_40.8845_17.1708,Amici di Portagrande,RESTAURANT,ristorante
-40.884371,17.168882,ov_trattoria_la_barese_40.8844_17.1689,Trattoria la barese,RESTAURANT,ristorante
-40.884739,17.166369,ov_mannaretta_40.8847_17.1664,Mannaretta,RESTAURANT,ristorante
-40.884465,17.166560,ov_angolo_della_focaccia_40.8845_17.1666,Angolo Della Focaccia,RESTAURANT,ristorante
-40.884015,17.166124,ov_santoro_gastronomia_40.8840_17.1661,Santoro Gastronomia,RESTAURANT,ristorante
-40.883786,17.167260,ov_il_gozzetto_40.8838_17.1673,Il Gozzetto,RESTAURANT,ristorante
-40.883809,17.168723,ov_u_crep_tt_paninoteca_40.8838_17.1687,U Crepètt Paninoteca,RESTAURANT,ristorante
-40.883806,17.169287,ov_birreria_paninoteca_felix_40.8838_17.1693,Birreria Paninoteca Felix,RESTAURANT,ristorante
-40.883593,17.168138,ov_bella_capri_40.8836_17.1681,Bella Capri,RESTAURANT,ristorante
-40.883434,17.167462,ov_trattoria_arco_persio_40.8834_17.1675,Trattoria Arco Persio,RESTAURANT,ristorante
-40.883509,17.165815,ov_pizzeria_da_bernardo_40.8835_17.1658,Pizzeria da Bernardo,RESTAURANT,ristorante
-40.883225,17.166030,ov_osteria_caroseno_40.8832_17.1660,Osteria Caroseno,RESTAURANT,ristorante
-40.883290,17.171367,ov_antica_roma_pub_pizzeria_40.8833_17.1714,Antica Roma pub pizzeria,RESTAURANT,ristorante
-40.881610,17.166527,ov_le_bont__del_poveresito_40.8816_17.1665,Le Bontà del Poveresito,RESTAURANT,ristorante
-40.882069,17.167789,ov_pizzeria_carbonella_40.8821_17.1678,Pizzeria Carbonella,RESTAURANT,ristorante
-40.881361,17.163285,ov_pizzare_40.8814_17.1633,Pizzare,RESTAURANT,ristorante
-40.883141,17.161669,ov_la_fenice_pizzeria_braceria_40.8831_17.1617,La Fenice Pizzeria Braceria,RESTAURANT,ristorante
-40.874942,17.147152,ov_ristorantino_da_ciccio_40.8749_17.1472,Ristorantino Da Ciccio,RESTAURANT,ristorante
-40.875743,17.148948,ov_alla_piazzetta_bar_ristorante_40.8757_17.1489,Alla Piazzetta Bar Ristorante,RESTAURANT,ristorante
-40.875663,17.149636,ov_terre_di_puglia___cucina__pizza_e_braci_40.8757_17.1496,"Terre Di Puglia - Cucina, Pizza e Braci",RESTAURANT,ristorante
-40.875295,17.149426,ov_osteria_grotta_bianca_40.8753_17.1494,Osteria Grotta Bianca,RESTAURANT,ristorante
-40.875137,17.149006,ov_ca_fine_food_and_cafe_40.8751_17.1490,Ca Fine Food and Cafe,RESTAURANT,ristorante
-40.878349,17.158705,ov_marian_ristorante_pizzeria_40.8783_17.1587,Marian Ristorante Pizzeria,RESTAURANT,ristorante
-40.878935,17.169054,ov_bleu_belle_cafe_40.8789_17.1691,Bleu Belle Cafe,RESTAURANT,ristorante
-40.878944,17.170270,ov_verde_porpora_40.8789_17.1703,Verde Porpora,RESTAURANT,ristorante
-40.879255,17.173248,ov_i_giardini_dell_erbavoglio_sala_ricevime_40.8793_17.1732,I Giardini Dell'Erbavoglio Sala Ricevimenti Sharing,RESTAURANT,ristorante
-40.875845,17.176457,ov_ristorante_la_fontanina_40.8758_17.1765,Ristorante La Fontanina,RESTAURANT,ristorante
-40.861980,17.191870,ov_home_restaurant___gnam_gnam_40.8620_17.1919,Home Restaurant - Gnam Gnam,RESTAURANT,ristorante
-40.865265,17.224797,ov_masseria_centrone_piccolo_40.8653_17.2248,Masseria Centrone Piccolo,RESTAURANT,ristorante
-40.858030,17.239010,ov_trattoria_da_angelo_40.8580_17.2390,Trattoria Da Angelo,RESTAURANT,ristorante
-40.890290,17.168520,ov_time_caf__40.8903_17.1685,Time Cafè,RESTAURANT,bar_cafe
-40.890701,17.168506,ov_greed_caf__di_d_amore_vito_sante_40.8907_17.1685,Greed Cafè di D'amore Vito Sante,RESTAURANT,bar_cafe
-40.894920,17.158960,ov_24ore_castellana_40.8949_17.1590,24ore Castellana,RESTAURANT,bar_cafe
-40.885910,17.158580,ov_jaluke_cafe__castellana_40.8859_17.1586,Jaluke Cafe’ Castellana,RESTAURANT,bar_cafe
-40.886104,17.164216,ov_pineta_40.8861_17.1642,Pineta,RESTAURANT,bar_cafe
-40.889000,17.164716,ov_isola_del_caffe_40.8890_17.1647,Isola del Caffe,RESTAURANT,bar_cafe
-40.889079,17.164720,ov_florien_caffe_40.8891_17.1647,Florien Caffe,RESTAURANT,bar_cafe
-40.888289,17.168445,ov_reve_cafe_40.8883_17.1684,Reve Cafe,RESTAURANT,bar_cafe
-40.888580,17.169022,ov_dream_cafe_40.8886_17.1690,Dream Cafe,RESTAURANT,bar_cafe
-40.886703,17.167874,ov_tecnico79_caf__40.8867_17.1679,Tecnico79 cafè,RESTAURANT,bar_cafe
-40.886889,17.167781,ov_domini_caff__40.8869_17.1678,Domini Caffé,RESTAURANT,bar_cafe
-40.885370,17.166960,ov_bar_rond__40.8854_17.1670,Bar Rondò,RESTAURANT,bar_cafe
-40.885359,17.167874,ov_miro_cafe_40.8854_17.1679,Miro Cafe,RESTAURANT,bar_cafe
-40.885587,17.172139,ov_lieviteria_40.8856_17.1721,Lieviteria,RESTAURANT,bar_cafe
-40.884022,17.171463,ov_william_caff__lounge_bar_40.8840_17.1715,William Caffè lounge bar,RESTAURANT,bar_cafe
-40.883775,17.170878,ov_glamour_cafe_40.8838_17.1709,Glamour Cafe,RESTAURANT,bar_cafe
-40.884648,17.167632,ov_bar_vogue_40.8846_17.1676,Bar Vogue,RESTAURANT,bar_cafe
-40.884478,17.166638,ov_bar_la_plaza_40.8845_17.1666,Bar La Plaza,RESTAURANT,bar_cafe
-40.883794,17.165690,ov_madi_s_caf__40.8838_17.1657,Madi's Café,RESTAURANT,bar_cafe
-40.883846,17.169153,ov_enocentrica___vineria_dinamica_40.8838_17.1692,Enocentrica - Vineria Dinamica,RESTAURANT,bar_cafe
-40.883377,17.168833,ov_la_bodega_de_angelina_40.8834_17.1688,La Bodega de Angelina,RESTAURANT,bar_cafe
-40.883366,17.168699,ov_bar_espresso_40.8834_17.1687,Bar Espresso,RESTAURANT,bar_cafe
-40.882504,17.168005,ov_caff__del_teatro_40.8825_17.1680,Caffè del Teatro,RESTAURANT,bar_cafe
-40.880860,17.168613,ov_boulevard_40.8809_17.1686,Boulevard,RESTAURANT,bar_cafe
-40.881958,17.166768,ov_bar_america_40.8820_17.1668,Bar America,RESTAURANT,bar_cafe
-40.882059,17.164480,ov_moments_cafe_bar_40.8821_17.1645,Moments Cafe Bar,RESTAURANT,bar_cafe
-40.883471,17.162578,ov_glass_coffee_e_pastry_40.8835_17.1626,Glass Coffee e Pastry,RESTAURANT,bar_cafe
-40.884134,17.165393,ov_bar_kennedy_40.8841_17.1654,Bar Kennedy,RESTAURANT,bar_cafe
-40.880874,17.156854,ov_il_vinarium_di_de_bellis_roberto_prodott_40.8809_17.1569,Il Vinarium di De Bellis Roberto Prodotti Tipici Olio e Vino,RESTAURANT,bar_cafe
-40.875182,17.149497,ov_grotta_bianca_40.8752_17.1495,Grotta Bianca,RESTAURANT,bar_cafe
-40.876138,17.157700,ov_hollywood_cafe_40.8761_17.1577,Hollywood Cafe,RESTAURANT,bar_cafe
-40.878104,17.158455,ov_cloud_40.8781_17.1585,CLOUD,RESTAURANT,bar_cafe
-40.878358,17.158063,ov_nicole_cafe_40.8784_17.1581,Nicole Cafe,RESTAURANT,bar_cafe
-40.879070,17.167220,ov_farmacia_della_villa__la_farmacia_del_so_40.8791_17.1672,Farmacia della villa- La farmacia del sorriso,RESTAURANT,bar_cafe
-40.876321,17.149760,osm_terrafina_maria_40.8763_17.1498,Terrafina Maria,bar_cafe,bar_cafe
-40.993554,17.212230,osm_martin_caf__40.9936_17.2122,Martin cafè,bar_cafe,bar_cafe
-40.885231,17.171184,osm_bar_chantilly_40.8852_17.1712,Bar Chantilly,bar_cafe,bar_cafe
-40.876173,17.157828,osm_hollywood_caf__40.8762_17.1578,Hollywood Cafè,bar_cafe,bar_cafe
-40.878375,17.158188,osm_nicole_caf__40.8784_17.1582,Nicole Café,bar_cafe,bar_cafe
-40.880806,17.167413,osm_new_life_caf__40.8808_17.1674,New Life Café,bar_cafe,bar_cafe
-40.885429,17.171667,osm_info_point_ufficio_raccolta_differenziat_40.8854_17.1717,Info Point Ufficio Raccolta Differenziata,bar_cafe,bar_cafe
-40.884512,17.166578,osm_bar_la_plaza_40.8845_17.1666,Bar La Plaza,bar_cafe,bar_cafe
-40.884547,17.167072,osm_sorso_40.8845_17.1671,Sorso,bar_cafe,bar_cafe
-40.885138,17.167285,osm_bar_pitti_40.8851_17.1673,Bar Pitti,bar_cafe,bar_cafe
-40.885451,17.167916,osm_mir__caf__40.8855_17.1679,Mirò cafè,bar_cafe,bar_cafe
-40.883800,17.128898,ov_asd_perrone_40.8838_17.1289,ASD Perrone,GYM,palestra
-40.894116,17.187663,ov_palestra_semplice_40.8941_17.1877,Palestra Semplice,GYM,palestra
-40.885243,17.165205,ov_passione_danza_40.8852_17.1652,Passione Danza,GYM,palestra
-40.885837,17.162285,ov_asd_gym_rebels_40.8858_17.1623,Asd Gym Rebels,GYM,palestra
-40.888140,17.171546,ov_pass_to_bailante_asd_40.8881_17.1715,Passìto Bailante ASD,GYM,palestra
-40.886559,17.170863,ov_essenza_ballo_e_fitness_40.8866_17.1709,Essenza ballo e fitness,GYM,palestra
-40.880950,17.159064,ov_efeso_fitclub_40.8809_17.1591,Efeso Fitclub,GYM,palestra
-40.883918,17.163981,ov_star_dance_40.8839_17.1640,Star Dance,GYM,palestra
-40.883907,17.164485,ov_asd_insieme_in_movimento_40.8839_17.1645,ASD Insieme in Movimento,GYM,palestra
-40.882240,17.153070,ov_tensostatico_40.8822_17.1531,Tensostatico,GYM,palestra
-40.881661,17.155226,ov_sports_experience_40.8817_17.1552,Sports Experience,GYM,palestra
-40.884970,17.160850,ov_acquario_40.8850_17.1608,Acquario,MUSEUM,monumento
-40.880890,17.154188,ov_puzzle_ludoteca_40.8809_17.1542,PUZZLE Ludoteca,MUSEUM,monumento
-40.875580,17.147801,ov_museo_speleologico_franco_anelli_40.8756_17.1478,Museo Speleologico Franco Anelli,MUSEUM,monumento
+40.882851,17.164496,ov_postazione_118_40.8829_17.1645,Postazione 118,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/postazione_118_40.8829_17.1645.json,custom
+40.884018,17.155207,ov_hospital_saverio_de_bellis_40.8840_17.1552,Hospital Saverio De Bellis,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/hospital_saverio_de_bellis_40.8840_17.1552.json,custom
+40.834978,17.241631,ov_agriturismo_monte_del_vento_40.8350_17.2416,Agriturismo Monte del Vento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/agriturismo_monte_del_vento_40.8350_17.2416.json,custom
+40.897685,17.167159,ov_ristorante_al_pozzo_40.8977_17.1672,Ristorante Al Pozzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/ristorante_al_pozzo_40.8977_17.1672.json,custom
+40.898599,17.192544,ov_ristorante_il_piatto_fumante_40.8986_17.1925,Ristorante Il Piatto Fumante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/ristorante_il_piatto_fumante_40.8986_17.1925.json,custom
+40.916903,17.146281,ov_tenuta_rinaldi_40.9169_17.1463,Tenuta Rinaldi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/tenuta_rinaldi_40.9169_17.1463.json,custom
+40.885474,17.210488,ov_oro_verde_sapori_mediterranei_40.8855_17.2105,Oro Verde sapori mediterranei,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/oro_verde_sapori_mediterranei_40.8855_17.2105.json,custom
+40.895195,17.174999,ov_agriturismo_monte_della_vecchia_di_sgobb_40.8952_17.1750,Agriturismo Monte della Vecchia di Sgobba G. & F.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/agriturismo_monte_della_vecchia_di_sgobb_40.8952_17.1750.json,custom
+40.894694,17.167543,ov_gastronomia_perrelli_40.8947_17.1675,Gastronomia Perrelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/gastronomia_perrelli_40.8947_17.1675.json,custom
+40.885631,17.164490,ov_cesarino_36_40.8856_17.1645,Cesarino 36,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/cesarino_36_40.8856_17.1645.json,custom
+40.885861,17.164203,ov_il_gusto_del_fornello_40.8859_17.1642,Il gusto del fornello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/il_gusto_del_fornello_40.8859_17.1642.json,custom
+40.887331,17.163540,ov_il_covo_40.8873_17.1635,Il Covo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/il_covo_40.8873_17.1635.json,custom
+40.888483,17.168712,ov_kimama_pizzeria_40.8885_17.1687,Kimama Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/kimama_pizzeria_40.8885_17.1687.json,custom
+40.887624,17.170023,ov_pizzae_spaghi_40.8876_17.1700,Pizzae Spaghi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pizzae_spaghi_40.8876_17.1700.json,custom
+40.887279,17.167746,ov_sabatelli_pasta_fresca_e_gastronomia_40.8873_17.1677,Sabatelli pasta fresca e gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/sabatelli_pasta_fresca_e_gastronomia_40.8873_17.1677.json,custom
+40.887305,17.167739,ov_pescheria_la_lampara_40.8873_17.1677,Pescheria La Lampara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pescheria_la_lampara_40.8873_17.1677.json,custom
+40.887257,17.167166,ov_da_mimmo_macelleria_steakhouse_40.8873_17.1672,Da Mimmo Macelleria Steakhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/da_mimmo_macelleria_steakhouse_40.8873_17.1672.json,custom
+40.885170,17.165940,ov_gringo_s_mexican_taqueria_40.8852_17.1659,Gringo's Mexican Taqueria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/gringos_mexican_taqueria_40.8852_17.1659.json,custom
+40.885245,17.166644,ov_pizzeria_bella_italia_40.8852_17.1666,Pizzeria Bella Italia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pizzeria_bella_italia_40.8852_17.1666.json,custom
+40.886181,17.171065,ov_m_r_casalicchio_srl_40.8862_17.1711,M&R Casalicchio SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/mr_casalicchio_srl_40.8862_17.1711.json,custom
+40.883811,17.169951,ov_circolo_pivot_castellana_grotte_40.8838_17.1700,Circolo Pivot Castellana Grotte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/circolo_pivot_castellana_grotte_40.8838_17.1700.json,custom
+40.884468,17.170849,ov_amici_di_portagrande_40.8845_17.1708,Amici di Portagrande,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/amici_di_portagrande_40.8845_17.1708.json,custom
+40.884371,17.168882,ov_trattoria_la_barese_40.8844_17.1689,Trattoria la barese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/trattoria_la_barese_40.8844_17.1689.json,custom
+40.884739,17.166369,ov_mannaretta_40.8847_17.1664,Mannaretta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/mannaretta_40.8847_17.1664.json,custom
+40.884465,17.166560,ov_angolo_della_focaccia_40.8845_17.1666,Angolo Della Focaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/angolo_della_focaccia_40.8845_17.1666.json,custom
+40.884015,17.166124,ov_santoro_gastronomia_40.8840_17.1661,Santoro Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/santoro_gastronomia_40.8840_17.1661.json,custom
+40.883786,17.167260,ov_il_gozzetto_40.8838_17.1673,Il Gozzetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/il_gozzetto_40.8838_17.1673.json,custom
+40.883809,17.168723,ov_u_crep_tt_paninoteca_40.8838_17.1687,U Crepètt Paninoteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/u_creptt_paninoteca_40.8838_17.1687.json,custom
+40.883806,17.169287,ov_birreria_paninoteca_felix_40.8838_17.1693,Birreria Paninoteca Felix,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/birreria_paninoteca_felix_40.8838_17.1693.json,custom
+40.883593,17.168138,ov_bella_capri_40.8836_17.1681,Bella Capri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bella_capri_40.8836_17.1681.json,custom
+40.883434,17.167462,ov_trattoria_arco_persio_40.8834_17.1675,Trattoria Arco Persio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/trattoria_arco_persio_40.8834_17.1675.json,custom
+40.883509,17.165815,ov_pizzeria_da_bernardo_40.8835_17.1658,Pizzeria da Bernardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pizzeria_da_bernardo_40.8835_17.1658.json,custom
+40.883225,17.166030,ov_osteria_caroseno_40.8832_17.1660,Osteria Caroseno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/osteria_caroseno_40.8832_17.1660.json,custom
+40.883290,17.171367,ov_antica_roma_pub_pizzeria_40.8833_17.1714,Antica Roma pub pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/antica_roma_pub_pizzeria_40.8833_17.1714.json,custom
+40.881610,17.166527,ov_le_bont__del_poveresito_40.8816_17.1665,Le Bontà del Poveresito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/le_bont_del_poveresito_40.8816_17.1665.json,custom
+40.882069,17.167789,ov_pizzeria_carbonella_40.8821_17.1678,Pizzeria Carbonella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pizzeria_carbonella_40.8821_17.1678.json,custom
+40.881361,17.163285,ov_pizzare_40.8814_17.1633,Pizzare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pizzare_40.8814_17.1633.json,custom
+40.883141,17.161669,ov_la_fenice_pizzeria_braceria_40.8831_17.1617,La Fenice Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/la_fenice_pizzeria_braceria_40.8831_17.1617.json,custom
+40.874942,17.147152,ov_ristorantino_da_ciccio_40.8749_17.1472,Ristorantino Da Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/ristorantino_da_ciccio_40.8749_17.1472.json,custom
+40.875743,17.148948,ov_alla_piazzetta_bar_ristorante_40.8757_17.1489,Alla Piazzetta Bar Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/alla_piazzetta_bar_ristorante_40.8757_17.1489.json,custom
+40.875663,17.149636,ov_terre_di_puglia___cucina__pizza_e_braci_40.8757_17.1496,"Terre Di Puglia - Cucina, Pizza e Braci",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/terre_di_puglia_-_cucina_pizza_e_braci_40.8757_17.1496.json,custom
+40.875295,17.149426,ov_osteria_grotta_bianca_40.8753_17.1494,Osteria Grotta Bianca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/osteria_grotta_bianca_40.8753_17.1494.json,custom
+40.875137,17.149006,ov_ca_fine_food_and_cafe_40.8751_17.1490,Ca Fine Food and Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/ca_fine_food_and_cafe_40.8751_17.1490.json,custom
+40.878349,17.158705,ov_marian_ristorante_pizzeria_40.8783_17.1587,Marian Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/marian_ristorante_pizzeria_40.8783_17.1587.json,custom
+40.878935,17.169054,ov_bleu_belle_cafe_40.8789_17.1691,Bleu Belle Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bleu_belle_cafe_40.8789_17.1691.json,custom
+40.878944,17.170270,ov_verde_porpora_40.8789_17.1703,Verde Porpora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/verde_porpora_40.8789_17.1703.json,custom
+40.879255,17.173248,ov_i_giardini_dell_erbavoglio_sala_ricevime_40.8793_17.1732,I Giardini Dell'Erbavoglio Sala Ricevimenti Sharing,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/i_giardini_dellerbavoglio_sala_ricevimen_40.8793_17.1732.json,custom
+40.875845,17.176457,ov_ristorante_la_fontanina_40.8758_17.1765,Ristorante La Fontanina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/ristorante_la_fontanina_40.8758_17.1765.json,custom
+40.861980,17.191870,ov_home_restaurant___gnam_gnam_40.8620_17.1919,Home Restaurant - Gnam Gnam,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/home_restaurant_-_gnam_gnam_40.8620_17.1919.json,custom
+40.865265,17.224797,ov_masseria_centrone_piccolo_40.8653_17.2248,Masseria Centrone Piccolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/masseria_centrone_piccolo_40.8653_17.2248.json,custom
+40.858030,17.239010,ov_trattoria_da_angelo_40.8580_17.2390,Trattoria Da Angelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/trattoria_da_angelo_40.8580_17.2390.json,custom
+40.875152,17.149653,osm_grotta_bianca_40.8752_17.1497,Grotta Bianca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/grotta_bianca_40.8752_17.1497.json,custom
+40.874936,17.149893,osm_taverna_degli_amici_40.8749_17.1499,Taverna Degli Amici,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/taverna_degli_amici_40.8749_17.1499.json,custom
+40.886127,17.170994,osm_il_casalicchio_40.8861_17.1710,il Casalicchio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/il_casalicchio_40.8861_17.1710.json,custom
+40.878295,17.158665,osm_marian_40.8783_17.1587,Marian,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/marian_40.8783_17.1587.json,custom
+40.884199,17.166463,osm_old_victoria_station_40.8842_17.1665,Old Victoria Station,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/old_victoria_station_40.8842_17.1665.json,custom
+40.884612,17.166096,osm_crazy_pizza_40.8846_17.1661,Crazy Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/crazy_pizza_40.8846_17.1661.json,custom
+40.884323,17.167750,osm_a_pollo__beer_40.8843_17.1678,A-Pollo& Beer,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/a-pollo_beer_40.8843_17.1678.json,custom
+40.883411,17.167560,osm_trattoria_arco_persio_40.8834_17.1676,Trattoria Arco Persio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/trattoria_arco_persio_40.8834_17.1676.json,custom
+40.882908,17.167749,osm_scotta_40.8829_17.1677,Scotta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/scotta_40.8829_17.1677.json,custom
+40.890290,17.168520,ov_time_caf__40.8903_17.1685,Time Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/time_caf_40.8903_17.1685.json,custom
+40.890701,17.168506,ov_greed_caf__di_d_amore_vito_sante_40.8907_17.1685,Greed Cafè di D'amore Vito Sante,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/greed_caf_di_damore_vito_sante_40.8907_17.1685.json,custom
+40.894920,17.158960,ov_24ore_castellana_40.8949_17.1590,24ore Castellana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/24ore_castellana_40.8949_17.1590.json,custom
+40.885910,17.158580,ov_jaluke_cafe__castellana_40.8859_17.1586,Jaluke Cafe’ Castellana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/jaluke_cafe_castellana_40.8859_17.1586.json,custom
+40.886104,17.164216,ov_pineta_40.8861_17.1642,Pineta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/pineta_40.8861_17.1642.json,custom
+40.889000,17.164716,ov_isola_del_caffe_40.8890_17.1647,Isola del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/isola_del_caffe_40.8890_17.1647.json,custom
+40.889079,17.164720,ov_florien_caffe_40.8891_17.1647,Florien Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/florien_caffe_40.8891_17.1647.json,custom
+40.888289,17.168445,ov_reve_cafe_40.8883_17.1684,Reve Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/reve_cafe_40.8883_17.1684.json,custom
+40.888580,17.169022,ov_dream_cafe_40.8886_17.1690,Dream Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/dream_cafe_40.8886_17.1690.json,custom
+40.886703,17.167874,ov_tecnico79_caf__40.8867_17.1679,Tecnico79 cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/tecnico79_caf_40.8867_17.1679.json,custom
+40.886889,17.167781,ov_domini_caff__40.8869_17.1678,Domini Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/domini_caff_40.8869_17.1678.json,custom
+40.885370,17.166960,ov_bar_rond__40.8854_17.1670,Bar Rondò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_rond_40.8854_17.1670.json,custom
+40.885359,17.167874,ov_miro_cafe_40.8854_17.1679,Miro Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/miro_cafe_40.8854_17.1679.json,custom
+40.885587,17.172139,ov_lieviteria_40.8856_17.1721,Lieviteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/lieviteria_40.8856_17.1721.json,custom
+40.884022,17.171463,ov_william_caff__lounge_bar_40.8840_17.1715,William Caffè lounge bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/william_caff_lounge_bar_40.8840_17.1715.json,custom
+40.883775,17.170878,ov_glamour_cafe_40.8838_17.1709,Glamour Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/glamour_cafe_40.8838_17.1709.json,custom
+40.884648,17.167632,ov_bar_vogue_40.8846_17.1676,Bar Vogue,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_vogue_40.8846_17.1676.json,custom
+40.884478,17.166638,ov_bar_la_plaza_40.8845_17.1666,Bar La Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_la_plaza_40.8845_17.1666.json,custom
+40.883794,17.165690,ov_madi_s_caf__40.8838_17.1657,Madi's Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/madis_caf_40.8838_17.1657.json,custom
+40.883846,17.169153,ov_enocentrica___vineria_dinamica_40.8838_17.1692,Enocentrica - Vineria Dinamica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/enocentrica_-_vineria_dinamica_40.8838_17.1692.json,custom
+40.883377,17.168833,ov_la_bodega_de_angelina_40.8834_17.1688,La Bodega de Angelina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/la_bodega_de_angelina_40.8834_17.1688.json,custom
+40.883366,17.168699,ov_bar_espresso_40.8834_17.1687,Bar Espresso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_espresso_40.8834_17.1687.json,custom
+40.882504,17.168005,ov_caff__del_teatro_40.8825_17.1680,Caffè del Teatro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/caff_del_teatro_40.8825_17.1680.json,custom
+40.880860,17.168613,ov_boulevard_40.8809_17.1686,Boulevard,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/boulevard_40.8809_17.1686.json,custom
+40.881958,17.166768,ov_bar_america_40.8820_17.1668,Bar America,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_america_40.8820_17.1668.json,custom
+40.882059,17.164480,ov_moments_cafe_bar_40.8821_17.1645,Moments Cafe Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/moments_cafe_bar_40.8821_17.1645.json,custom
+40.883471,17.162578,ov_glass_coffee_e_pastry_40.8835_17.1626,Glass Coffee e Pastry,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/glass_coffee_e_pastry_40.8835_17.1626.json,custom
+40.884134,17.165393,ov_bar_kennedy_40.8841_17.1654,Bar Kennedy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_kennedy_40.8841_17.1654.json,custom
+40.880874,17.156854,ov_il_vinarium_di_de_bellis_roberto_prodott_40.8809_17.1569,Il Vinarium di De Bellis Roberto Prodotti Tipici Olio e Vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/il_vinarium_di_de_bellis_roberto_prodott_40.8809_17.1569.json,custom
+40.875182,17.149497,ov_grotta_bianca_40.8752_17.1495,Grotta Bianca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/grotta_bianca_40.8752_17.1495.json,custom
+40.876138,17.157700,ov_hollywood_cafe_40.8761_17.1577,Hollywood Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/hollywood_cafe_40.8761_17.1577.json,custom
+40.878104,17.158455,ov_cloud_40.8781_17.1585,CLOUD,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/cloud_40.8781_17.1585.json,custom
+40.878358,17.158063,ov_nicole_cafe_40.8784_17.1581,Nicole Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/nicole_cafe_40.8784_17.1581.json,custom
+40.879070,17.167220,ov_farmacia_della_villa__la_farmacia_del_so_40.8791_17.1672,Farmacia della villa- La farmacia del sorriso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/farmacia_della_villa-_la_farmacia_del_so_40.8791_17.1672.json,custom
+40.876321,17.149760,osm_terrafina_maria_40.8763_17.1498,Terrafina Maria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/terrafina_maria_40.8763_17.1498.json,custom
+40.993554,17.212230,osm_martin_caf__40.9936_17.2122,Martin cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/martin_caf_40.9936_17.2122.json,custom
+40.885231,17.171184,osm_bar_chantilly_40.8852_17.1712,Bar Chantilly,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_chantilly_40.8852_17.1712.json,custom
+40.876173,17.157828,osm_hollywood_caf__40.8762_17.1578,Hollywood Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/hollywood_caf_40.8762_17.1578.json,custom
+40.878375,17.158188,osm_nicole_caf__40.8784_17.1582,Nicole Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/nicole_caf_40.8784_17.1582.json,custom
+40.880806,17.167413,osm_new_life_caf__40.8808_17.1674,New Life Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/new_life_caf_40.8808_17.1674.json,custom
+40.885429,17.171667,osm_info_point_ufficio_raccolta_differenziat_40.8854_17.1717,Info Point Ufficio Raccolta Differenziata,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/info_point_ufficio_raccolta_differenziat_40.8854_17.1717.json,custom
+40.884512,17.166578,osm_bar_la_plaza_40.8845_17.1666,Bar La Plaza,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_la_plaza_40.8845_17.1666.json,custom
+40.884547,17.167072,osm_sorso_40.8845_17.1671,Sorso,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/sorso_40.8845_17.1671.json,custom
+40.885138,17.167285,osm_bar_pitti_40.8851_17.1673,Bar Pitti,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/bar_pitti_40.8851_17.1673.json,custom
+40.885451,17.167916,osm_mir__caf__40.8855_17.1679,Mirò cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/mir_caf_40.8855_17.1679.json,custom
+40.883800,17.128898,ov_asd_perrone_40.8838_17.1289,ASD Perrone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_perrone_40.8838_17.1289.json,custom
+40.894116,17.187663,ov_palestra_semplice_40.8941_17.1877,Palestra Semplice,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/palestra_semplice_40.8941_17.1877.json,custom
+40.885243,17.165205,ov_passione_danza_40.8852_17.1652,Passione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/passione_danza_40.8852_17.1652.json,custom
+40.885837,17.162285,ov_asd_gym_rebels_40.8858_17.1623,Asd Gym Rebels,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_gym_rebels_40.8858_17.1623.json,custom
+40.888140,17.171546,ov_pass_to_bailante_asd_40.8881_17.1715,Passìto Bailante ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/passto_bailante_asd_40.8881_17.1715.json,custom
+40.886559,17.170863,ov_essenza_ballo_e_fitness_40.8866_17.1709,Essenza ballo e fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/essenza_ballo_e_fitness_40.8866_17.1709.json,custom
+40.880950,17.159064,ov_efeso_fitclub_40.8809_17.1591,Efeso Fitclub,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/efeso_fitclub_40.8809_17.1591.json,custom
+40.883918,17.163981,ov_star_dance_40.8839_17.1640,Star Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/star_dance_40.8839_17.1640.json,custom
+40.883907,17.164485,ov_asd_insieme_in_movimento_40.8839_17.1645,ASD Insieme in Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_insieme_in_movimento_40.8839_17.1645.json,custom
+40.882240,17.153070,ov_tensostatico_40.8822_17.1531,Tensostatico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/tensostatico_40.8822_17.1531.json,custom
+40.881661,17.155226,ov_sports_experience_40.8817_17.1552,Sports Experience,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/sports_experience_40.8817_17.1552.json,custom
+40.890935,17.176590,osm_finix_club_40.8909_17.1766,Finix Club,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/finix_club_40.8909_17.1766.json,custom
+40.884970,17.160850,ov_acquario_40.8850_17.1608,Acquario,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/acquario_40.8850_17.1608.json,custom
+40.880890,17.154188,ov_puzzle_ludoteca_40.8809_17.1542,PUZZLE Ludoteca,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/puzzle_ludoteca_40.8809_17.1542.json,custom
+40.875580,17.147801,ov_museo_speleologico_franco_anelli_40.8756_17.1478,Museo Speleologico Franco Anelli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/museo_speleologico_franco_anelli_40.8756_17.1478.json,custom

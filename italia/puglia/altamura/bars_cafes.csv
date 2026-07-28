@@ -1,86 +1,86 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # altamura -- bars_cafes
-40.837919,16.541005,ov_nico_club_40.8379_16.5410,Nico Club,RESTAURANT,bar_cafe
-40.835334,16.552654,ov_sherwood_40.8353_16.5527,Sherwood,RESTAURANT,bar_cafe
-40.833450,16.546470,ov_pasticceria_loviglio_40.8334_16.5465,Pasticceria Loviglio,RESTAURANT,bar_cafe
-40.833756,16.554274,ov_stile_libero_40.8338_16.5543,Stile Libero,RESTAURANT,bar_cafe
-40.832661,16.554961,ov_caffeina_40.8327_16.5550,Caffeina,RESTAURANT,bar_cafe
-40.833840,16.558950,ov_adesso_caf__40.8338_16.5589,Adesso Cafè,RESTAURANT,bar_cafe
-40.833656,16.561023,ov_caffetteria_seven_40.8337_16.5610,Caffetteria Seven,RESTAURANT,bar_cafe
-40.833283,16.558165,ov_pasticceria_caffetteria_nene_40.8333_16.5582,Pasticceria Caffetteria Nene,RESTAURANT,bar_cafe
-40.835372,16.557706,ov_upper_wall_pub_40.8354_16.5577,Upper Wall Pub,RESTAURANT,bar_cafe
-40.835244,16.556861,ov_new_caspubar_40.8352_16.5569,New Caspubar,RESTAURANT,bar_cafe
-40.828691,16.559489,ov_click_caf__altamura_40.8287_16.5595,Click Café Altamura,RESTAURANT,bar_cafe
-40.828647,16.556454,ov_bar_rocco_40.8286_16.5565,Bar Rocco,RESTAURANT,bar_cafe
-40.828879,16.555859,ov_organic_korner_cafe_40.8289_16.5559,Organic Korner Cafe,RESTAURANT,bar_cafe
-40.830603,16.562060,ov_hamilton_cafe_40.8306_16.5621,Hamilton Cafe,RESTAURANT,bar_cafe
-40.831174,16.555346,ov_bar_ciccimarra_40.8312_16.5553,Bar Ciccimarra,RESTAURANT,bar_cafe
-40.832123,16.550121,ov_15_30_40.8321_16.5501,15 30,RESTAURANT,bar_cafe
-40.831909,16.547185,ov_bar_guste_40.8319_16.5472,Bar Guste,RESTAURANT,bar_cafe
-40.831442,16.553309,ov_futura_games_40.8314_16.5533,Futura Games,RESTAURANT,bar_cafe
-40.830316,16.553614,ov_caffetteria_del_viale_40.8303_16.5536,Caffetteria del Viale,RESTAURANT,bar_cafe
-40.830603,16.548099,ov_black___white_40.8306_16.5481,Black & White,RESTAURANT,bar_cafe
-40.832046,16.542883,ov_caffe_nuar_40.8320_16.5429,Caffe Nuar,RESTAURANT,bar_cafe
-40.832090,16.542990,ov_federik_2_40.8321_16.5430,Federik 2,RESTAURANT,bar_cafe
-40.828597,16.544067,ov_exte_40.8286_16.5441,Exte,RESTAURANT,bar_cafe
-40.829452,16.553278,ov_type_of_movies_40.8295_16.5533,Type Of Movies,RESTAURANT,bar_cafe
-40.829497,16.553290,ov_caffetteria_saicaf_40.8295_16.5533,Caffetteria Saicaf,RESTAURANT,bar_cafe
-40.829554,16.553751,ov_l_ignorante_enocaf__40.8296_16.5538,L'Ignorante Enocafé,RESTAURANT,bar_cafe
-40.829552,16.553692,ov_bar_trieste_40.8296_16.5537,Bar Trieste,RESTAURANT,bar_cafe
-40.829248,16.553711,ov_stasolla_vittorio_40.8292_16.5537,Stasolla Vittorio,RESTAURANT,bar_cafe
-40.829287,16.553347,ov_selavi_40.8293_16.5533,Selavi,RESTAURANT,bar_cafe
-40.829372,16.552640,ov_enoteca_la_vineria_di_federico_40.8294_16.5526,Enoteca La Vineria di Federico,RESTAURANT,bar_cafe
-40.829348,16.551620,ov_bargianni_40.8293_16.5516,BarGianni,RESTAURANT,bar_cafe
-40.828910,16.553720,ov_bookbar_40.8289_16.5537,BookBar,RESTAURANT,bar_cafe
-40.828830,16.551470,ov_murex_birrificio_artigianale_altamurano_40.8288_16.5515,MureX Birrificio artigianale Altamurano,RESTAURANT,bar_cafe
-40.828086,16.551890,ov_caffetteria_marconi_40.8281_16.5519,Caffetteria Marconi,RESTAURANT,bar_cafe
-40.828074,16.553382,ov_palazzo_mercadante_40.8281_16.5534,Palazzo Mercadante,RESTAURANT,bar_cafe
-40.827616,16.553459,ov_duomo_40.8276_16.5535,DUOMO,RESTAURANT,bar_cafe
-40.827367,16.553454,ov_extraordinary_plan_b_cafe_40.8274_16.5535,Extraordinary Plan B Cafe,RESTAURANT,bar_cafe
-40.827579,16.552441,ov_gelateria_caffetteria_mokambo_40.8276_16.5524,Gelateria Caffetteria Mokambo,RESTAURANT,bar_cafe
-40.827171,16.550919,ov_bebop_wine_40.8272_16.5509,Bebop Wine,RESTAURANT,bar_cafe
-40.827047,16.551759,ov_soma_enoteca_40.8270_16.5518,Soma Enoteca,RESTAURANT,bar_cafe
-40.827024,16.553039,ov_caff__ronchi_striccoli_40.8270_16.5530,Caffè Ronchi Striccoli,RESTAURANT,bar_cafe
-40.826682,16.553095,ov_ludi_84_40.8267_16.5531,Ludi 84,RESTAURANT,bar_cafe
-40.826148,16.552947,ov_caff__svevo_40.8261_16.5529,Caffè Svevo,RESTAURANT,bar_cafe
-40.827246,16.545044,ov_bar_degli_amici_40.8272_16.5450,Bar Degli Amici,RESTAURANT,bar_cafe
-40.825275,16.551165,ov_caffetteria_la_piazzetta_40.8253_16.5512,Caffetteria La Piazzetta,RESTAURANT,bar_cafe
-40.825442,16.553399,ov_midnite_s_40.8254_16.5534,MidNite's,RESTAURANT,bar_cafe
-40.825516,16.554422,ov_la_reina_empanadas_40.8255_16.5544,La Reina Empanadas,RESTAURANT,bar_cafe
-40.824822,16.554258,ov_minnamoro_40.8248_16.5543,Minnamoro,RESTAURANT,bar_cafe
-40.824627,16.553094,ov_la_caffetteria_40.8246_16.5531,La Caffetteria,RESTAURANT,bar_cafe
-40.824697,16.553018,ov_grieco_caff__40.8247_16.5530,Grieco Caffè,RESTAURANT,bar_cafe
-40.824309,16.552857,ov_bar_corona_40.8243_16.5529,Bar Corona,RESTAURANT,bar_cafe
-40.824354,16.552063,ov_bar_gelo_40.8244_16.5521,Bar Gelo,RESTAURANT,bar_cafe
-40.823958,16.551095,ov_3_chicchi_di_caff__40.8240_16.5511,3 chicchi di caffè,RESTAURANT,bar_cafe
-40.823662,16.557748,ov_caff__dell_angolo_40.8237_16.5577,Caffè dell'angolo,RESTAURANT,bar_cafe
-40.825514,16.555745,ov_la_galleria_del_caffe_40.8255_16.5557,La Galleria del Caffe,RESTAURANT,bar_cafe
-40.825987,16.556570,ov_aamo_caffe_40.8260_16.5566,Aamo Caffe,RESTAURANT,bar_cafe
-40.826351,16.556351,ov_bar_antiche_mura_pasticceria_delle_antic_40.8264_16.5564,Bar Antiche Mura Pasticceria delle Antiche Mura,RESTAURANT,bar_cafe
-40.826447,16.555610,ov_bar_storico_40.8264_16.5556,Bar storico,RESTAURANT,bar_cafe
-40.826520,16.555717,ov_sacre__bar_a__vin_40.8265_16.5557,Sacre' Bar A' Vin,RESTAURANT,bar_cafe
-40.827038,16.554649,ov_xovem_altamura_40.8270_16.5546,XOVEM Altamura,RESTAURANT,bar_cafe
-40.827052,16.567036,ov_j_bar_40.8271_16.5670,J Bar,RESTAURANT,bar_cafe
-40.819806,16.559104,ov_coffiamo_40.8198_16.5591,Coffiamo,RESTAURANT,bar_cafe
-40.820369,16.559223,ov_la_vie_en_rose_caf____altamura_40.8204_16.5592,La Vie en Rose Cafè - Altamura,RESTAURANT,bar_cafe
-40.820530,16.558815,ov_bar_manzoni_40.8205_16.5588,Bar Manzoni,RESTAURANT,bar_cafe
-40.822011,16.561054,ov_neroma_40.8220_16.5611,Neroma,RESTAURANT,bar_cafe
-40.822616,16.559685,ov_bar_boschetto_40.8226_16.5597,Bar Boschetto,RESTAURANT,bar_cafe
-40.822629,16.557941,ov_bar_florio_pasticceria_40.8226_16.5579,Bar Florio Pasticceria,RESTAURANT,bar_cafe
-40.822850,16.550720,ov_sorrento_co_onna_40.8229_16.5507,Sorrento Coòonna,RESTAURANT,bar_cafe
-40.821948,16.548678,ov_mercadante_donato_bar_pompei_40.8219_16.5487,Mercadante Donato Bar Pompei,RESTAURANT,bar_cafe
-40.821110,16.543040,ov_dileo_wine_house_40.8211_16.5430,Dileo Wine House,RESTAURANT,bar_cafe
-40.820693,16.546538,ov_koru_caffetteria_pasticceria_ritroveria_40.8207_16.5465,Koru caffetteria-pasticceria-ritroveria,RESTAURANT,bar_cafe
-40.820300,16.548749,ov_romagno_caffe_40.8203_16.5487,Romagno Caffe,RESTAURANT,bar_cafe
-40.820516,16.553794,ov_brothers_cafe_40.8205_16.5538,Brothers Cafe,RESTAURANT,bar_cafe
-40.819190,16.553839,ov_caffetteria_nicolas_40.8192_16.5538,Caffetteria Nicolas,RESTAURANT,bar_cafe
-40.819200,16.553860,ov_american_bar_di_lorusso_giuseppe_e_saver_40.8192_16.5539,American Bar di Lorusso Giuseppe e Saverio SNC,RESTAURANT,bar_cafe
-40.819006,16.540894,ov_pancaff__40.8190_16.5409,Pancaffè,RESTAURANT,bar_cafe
-40.814716,16.548986,ov_ibirrattieri_40.8147_16.5490,iBirrattieri,RESTAURANT,bar_cafe
-40.817290,16.560639,ov_bar_sister_galetta_40.8173_16.5606,Bar Sister Galetta,RESTAURANT,bar_cafe
-40.819020,16.564529,ov_pasticceria_rebi_40.8190_16.5645,Pasticceria Rebi,RESTAURANT,bar_cafe
-40.817963,16.570569,ov_l_artigianlegno_di_g_g_40.8180_16.5706,L'artigianlegno DI g&g,RESTAURANT,bar_cafe
-40.813054,16.551821,ov_katrin_caffe_40.8131_16.5518,Katrin Caffe,RESTAURANT,bar_cafe
-40.814156,16.544863,ov_birbacco_40.8142_16.5449,Birbacco,RESTAURANT,bar_cafe
-40.446713,17.921235,ov_caffetteria_piazza_municipio_40.4467_17.9212,Caffetteria Piazza Municipio,RESTAURANT,bar_cafe
-40.827087,16.553062,osm_caffe__ronchi_striccoli_40.8271_16.5531,Caffe' Ronchi Striccoli,bar_cafe,bar_cafe
+40.837919,16.541005,ov_nico_club_40.8379_16.5410,Nico Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/nico_club_40.8379_16.5410.json,custom
+40.835334,16.552654,ov_sherwood_40.8353_16.5527,Sherwood,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/sherwood_40.8353_16.5527.json,custom
+40.833450,16.546470,ov_pasticceria_loviglio_40.8334_16.5465,Pasticceria Loviglio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/pasticceria_loviglio_40.8334_16.5465.json,custom
+40.833756,16.554274,ov_stile_libero_40.8338_16.5543,Stile Libero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/stile_libero_40.8338_16.5543.json,custom
+40.832661,16.554961,ov_caffeina_40.8327_16.5550,Caffeina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffeina_40.8327_16.5550.json,custom
+40.833840,16.558950,ov_adesso_caf__40.8338_16.5589,Adesso Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/adesso_caf_40.8338_16.5589.json,custom
+40.833656,16.561023,ov_caffetteria_seven_40.8337_16.5610,Caffetteria Seven,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_seven_40.8337_16.5610.json,custom
+40.833283,16.558165,ov_pasticceria_caffetteria_nene_40.8333_16.5582,Pasticceria Caffetteria Nene,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/pasticceria_caffetteria_nene_40.8333_16.5582.json,custom
+40.835372,16.557706,ov_upper_wall_pub_40.8354_16.5577,Upper Wall Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/upper_wall_pub_40.8354_16.5577.json,custom
+40.835244,16.556861,ov_new_caspubar_40.8352_16.5569,New Caspubar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/new_caspubar_40.8352_16.5569.json,custom
+40.828691,16.559489,ov_click_caf__altamura_40.8287_16.5595,Click Café Altamura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/click_caf_altamura_40.8287_16.5595.json,custom
+40.828647,16.556454,ov_bar_rocco_40.8286_16.5565,Bar Rocco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_rocco_40.8286_16.5565.json,custom
+40.828879,16.555859,ov_organic_korner_cafe_40.8289_16.5559,Organic Korner Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/organic_korner_cafe_40.8289_16.5559.json,custom
+40.830603,16.562060,ov_hamilton_cafe_40.8306_16.5621,Hamilton Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/hamilton_cafe_40.8306_16.5621.json,custom
+40.831174,16.555346,ov_bar_ciccimarra_40.8312_16.5553,Bar Ciccimarra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_ciccimarra_40.8312_16.5553.json,custom
+40.832123,16.550121,ov_15_30_40.8321_16.5501,15 30,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/15_30_40.8321_16.5501.json,custom
+40.831909,16.547185,ov_bar_guste_40.8319_16.5472,Bar Guste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_guste_40.8319_16.5472.json,custom
+40.831442,16.553309,ov_futura_games_40.8314_16.5533,Futura Games,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/futura_games_40.8314_16.5533.json,custom
+40.830316,16.553614,ov_caffetteria_del_viale_40.8303_16.5536,Caffetteria del Viale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_del_viale_40.8303_16.5536.json,custom
+40.830603,16.548099,ov_black___white_40.8306_16.5481,Black & White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/black_white_40.8306_16.5481.json,custom
+40.832046,16.542883,ov_caffe_nuar_40.8320_16.5429,Caffe Nuar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffe_nuar_40.8320_16.5429.json,custom
+40.832090,16.542990,ov_federik_2_40.8321_16.5430,Federik 2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/federik_2_40.8321_16.5430.json,custom
+40.828597,16.544067,ov_exte_40.8286_16.5441,Exte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/exte_40.8286_16.5441.json,custom
+40.829452,16.553278,ov_type_of_movies_40.8295_16.5533,Type Of Movies,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/type_of_movies_40.8295_16.5533.json,custom
+40.829497,16.553290,ov_caffetteria_saicaf_40.8295_16.5533,Caffetteria Saicaf,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_saicaf_40.8295_16.5533.json,custom
+40.829554,16.553751,ov_l_ignorante_enocaf__40.8296_16.5538,L'Ignorante Enocafé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/lignorante_enocaf_40.8296_16.5538.json,custom
+40.829552,16.553692,ov_bar_trieste_40.8296_16.5537,Bar Trieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_trieste_40.8296_16.5537.json,custom
+40.829248,16.553711,ov_stasolla_vittorio_40.8292_16.5537,Stasolla Vittorio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/stasolla_vittorio_40.8292_16.5537.json,custom
+40.829287,16.553347,ov_selavi_40.8293_16.5533,Selavi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/selavi_40.8293_16.5533.json,custom
+40.829372,16.552640,ov_enoteca_la_vineria_di_federico_40.8294_16.5526,Enoteca La Vineria di Federico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/enoteca_la_vineria_di_federico_40.8294_16.5526.json,custom
+40.829348,16.551620,ov_bargianni_40.8293_16.5516,BarGianni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bargianni_40.8293_16.5516.json,custom
+40.828910,16.553720,ov_bookbar_40.8289_16.5537,BookBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bookbar_40.8289_16.5537.json,custom
+40.828830,16.551470,ov_murex_birrificio_artigianale_altamurano_40.8288_16.5515,MureX Birrificio artigianale Altamurano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/murex_birrificio_artigianale_altamurano_40.8288_16.5515.json,custom
+40.828086,16.551890,ov_caffetteria_marconi_40.8281_16.5519,Caffetteria Marconi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_marconi_40.8281_16.5519.json,custom
+40.828074,16.553382,ov_palazzo_mercadante_40.8281_16.5534,Palazzo Mercadante,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/palazzo_mercadante_40.8281_16.5534.json,custom
+40.827616,16.553459,ov_duomo_40.8276_16.5535,DUOMO,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/duomo_40.8276_16.5535.json,custom
+40.827367,16.553454,ov_extraordinary_plan_b_cafe_40.8274_16.5535,Extraordinary Plan B Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/extraordinary_plan_b_cafe_40.8274_16.5535.json,custom
+40.827579,16.552441,ov_gelateria_caffetteria_mokambo_40.8276_16.5524,Gelateria Caffetteria Mokambo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/gelateria_caffetteria_mokambo_40.8276_16.5524.json,custom
+40.827171,16.550919,ov_bebop_wine_40.8272_16.5509,Bebop Wine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bebop_wine_40.8272_16.5509.json,custom
+40.827047,16.551759,ov_soma_enoteca_40.8270_16.5518,Soma Enoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/soma_enoteca_40.8270_16.5518.json,custom
+40.827024,16.553039,ov_caff__ronchi_striccoli_40.8270_16.5530,Caffè Ronchi Striccoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caff_ronchi_striccoli_40.8270_16.5530.json,custom
+40.826682,16.553095,ov_ludi_84_40.8267_16.5531,Ludi 84,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/ludi_84_40.8267_16.5531.json,custom
+40.826148,16.552947,ov_caff__svevo_40.8261_16.5529,Caffè Svevo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caff_svevo_40.8261_16.5529.json,custom
+40.827246,16.545044,ov_bar_degli_amici_40.8272_16.5450,Bar Degli Amici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_degli_amici_40.8272_16.5450.json,custom
+40.825275,16.551165,ov_caffetteria_la_piazzetta_40.8253_16.5512,Caffetteria La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_la_piazzetta_40.8253_16.5512.json,custom
+40.825442,16.553399,ov_midnite_s_40.8254_16.5534,MidNite's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/midnites_40.8254_16.5534.json,custom
+40.825516,16.554422,ov_la_reina_empanadas_40.8255_16.5544,La Reina Empanadas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/la_reina_empanadas_40.8255_16.5544.json,custom
+40.824822,16.554258,ov_minnamoro_40.8248_16.5543,Minnamoro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/minnamoro_40.8248_16.5543.json,custom
+40.824627,16.553094,ov_la_caffetteria_40.8246_16.5531,La Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/la_caffetteria_40.8246_16.5531.json,custom
+40.824697,16.553018,ov_grieco_caff__40.8247_16.5530,Grieco Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/grieco_caff_40.8247_16.5530.json,custom
+40.824309,16.552857,ov_bar_corona_40.8243_16.5529,Bar Corona,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_corona_40.8243_16.5529.json,custom
+40.824354,16.552063,ov_bar_gelo_40.8244_16.5521,Bar Gelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_gelo_40.8244_16.5521.json,custom
+40.823958,16.551095,ov_3_chicchi_di_caff__40.8240_16.5511,3 chicchi di caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/3_chicchi_di_caff_40.8240_16.5511.json,custom
+40.823662,16.557748,ov_caff__dell_angolo_40.8237_16.5577,Caffè dell'angolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caff_dellangolo_40.8237_16.5577.json,custom
+40.825514,16.555745,ov_la_galleria_del_caffe_40.8255_16.5557,La Galleria del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/la_galleria_del_caffe_40.8255_16.5557.json,custom
+40.825987,16.556570,ov_aamo_caffe_40.8260_16.5566,Aamo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/aamo_caffe_40.8260_16.5566.json,custom
+40.826351,16.556351,ov_bar_antiche_mura_pasticceria_delle_antic_40.8264_16.5564,Bar Antiche Mura Pasticceria delle Antiche Mura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_antiche_mura_pasticceria_delle_antic_40.8264_16.5564.json,custom
+40.826447,16.555610,ov_bar_storico_40.8264_16.5556,Bar storico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_storico_40.8264_16.5556.json,custom
+40.826520,16.555717,ov_sacre__bar_a__vin_40.8265_16.5557,Sacre' Bar A' Vin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/sacre_bar_a_vin_40.8265_16.5557.json,custom
+40.827038,16.554649,ov_xovem_altamura_40.8270_16.5546,XOVEM Altamura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/xovem_altamura_40.8270_16.5546.json,custom
+40.827052,16.567036,ov_j_bar_40.8271_16.5670,J Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/j_bar_40.8271_16.5670.json,custom
+40.819806,16.559104,ov_coffiamo_40.8198_16.5591,Coffiamo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/coffiamo_40.8198_16.5591.json,custom
+40.820369,16.559223,ov_la_vie_en_rose_caf____altamura_40.8204_16.5592,La Vie en Rose Cafè - Altamura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/la_vie_en_rose_caf_-_altamura_40.8204_16.5592.json,custom
+40.820530,16.558815,ov_bar_manzoni_40.8205_16.5588,Bar Manzoni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_manzoni_40.8205_16.5588.json,custom
+40.822011,16.561054,ov_neroma_40.8220_16.5611,Neroma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/neroma_40.8220_16.5611.json,custom
+40.822616,16.559685,ov_bar_boschetto_40.8226_16.5597,Bar Boschetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_boschetto_40.8226_16.5597.json,custom
+40.822629,16.557941,ov_bar_florio_pasticceria_40.8226_16.5579,Bar Florio Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_florio_pasticceria_40.8226_16.5579.json,custom
+40.822850,16.550720,ov_sorrento_co_onna_40.8229_16.5507,Sorrento Coòonna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/sorrento_coonna_40.8229_16.5507.json,custom
+40.821948,16.548678,ov_mercadante_donato_bar_pompei_40.8219_16.5487,Mercadante Donato Bar Pompei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/mercadante_donato_bar_pompei_40.8219_16.5487.json,custom
+40.821110,16.543040,ov_dileo_wine_house_40.8211_16.5430,Dileo Wine House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/dileo_wine_house_40.8211_16.5430.json,custom
+40.820693,16.546538,ov_koru_caffetteria_pasticceria_ritroveria_40.8207_16.5465,Koru caffetteria-pasticceria-ritroveria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/koru_caffetteria-pasticceria-ritroveria_40.8207_16.5465.json,custom
+40.820300,16.548749,ov_romagno_caffe_40.8203_16.5487,Romagno Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/romagno_caffe_40.8203_16.5487.json,custom
+40.820516,16.553794,ov_brothers_cafe_40.8205_16.5538,Brothers Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/brothers_cafe_40.8205_16.5538.json,custom
+40.819190,16.553839,ov_caffetteria_nicolas_40.8192_16.5538,Caffetteria Nicolas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_nicolas_40.8192_16.5538.json,custom
+40.819200,16.553860,ov_american_bar_di_lorusso_giuseppe_e_saver_40.8192_16.5539,American Bar di Lorusso Giuseppe e Saverio SNC,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/american_bar_di_lorusso_giuseppe_e_saver_40.8192_16.5539.json,custom
+40.819006,16.540894,ov_pancaff__40.8190_16.5409,Pancaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/pancaff_40.8190_16.5409.json,custom
+40.814716,16.548986,ov_ibirrattieri_40.8147_16.5490,iBirrattieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/ibirrattieri_40.8147_16.5490.json,custom
+40.817290,16.560639,ov_bar_sister_galetta_40.8173_16.5606,Bar Sister Galetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/bar_sister_galetta_40.8173_16.5606.json,custom
+40.819020,16.564529,ov_pasticceria_rebi_40.8190_16.5645,Pasticceria Rebi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/pasticceria_rebi_40.8190_16.5645.json,custom
+40.817963,16.570569,ov_l_artigianlegno_di_g_g_40.8180_16.5706,L'artigianlegno DI g&g,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/lartigianlegno_di_gg_40.8180_16.5706.json,custom
+40.813054,16.551821,ov_katrin_caffe_40.8131_16.5518,Katrin Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/katrin_caffe_40.8131_16.5518.json,custom
+40.814156,16.544863,ov_birbacco_40.8142_16.5449,Birbacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/birbacco_40.8142_16.5449.json,custom
+40.446713,17.921235,ov_caffetteria_piazza_municipio_40.4467_17.9212,Caffetteria Piazza Municipio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffetteria_piazza_municipio_40.4467_17.9212.json,custom
+40.827087,16.553062,osm_caffe__ronchi_striccoli_40.8271_16.5531,Caffe' Ronchi Striccoli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altamura/pages/caffe_ronchi_striccoli_40.8271_16.5531.json,custom

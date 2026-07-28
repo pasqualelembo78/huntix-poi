@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castellana_grotte -- hospitals
-40.882851,17.164496,ov_postazione_118_40.8829_17.1645,Postazione 118,HOSPITAL,hospital
-40.884018,17.155207,ov_hospital_saverio_de_bellis_40.8840_17.1552,Hospital Saverio De Bellis,HOSPITAL,hospital
+40.882851,17.164496,ov_postazione_118_40.8829_17.1645,Postazione 118,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/postazione_118_40.8829_17.1645.json,custom
+40.884018,17.155207,ov_hospital_saverio_de_bellis_40.8840_17.1552,Hospital Saverio De Bellis,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/hospital_saverio_de_bellis_40.8840_17.1552.json,custom

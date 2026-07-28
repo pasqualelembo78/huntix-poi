@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # casarano -- hospitals
-40.010320,18.157150,ov_studio_nutrizionale_dottoressa_rita_legi_40.0103_18.1572,Studio Nutrizionale Dottoressa Rita Legittimo,HOSPITAL,hospital
-40.034600,18.167972,ov_complesso_poliriabilitativo_e_socio_sani_40.0346_18.1680,Complesso Poliriabilitativo e Socio Sanitario Euroitalia,HOSPITAL,hospital
-40.018216,18.157356,ov_ospedale_francesco_ferrari_40.0182_18.1574,Ospedale Francesco Ferrari,HOSPITAL,hospital
-40.015544,18.156064,ov_pronto_soccorso_di_casarano_40.0155_18.1561,Pronto Soccorso Di Casarano,HOSPITAL,hospital
-40.017200,18.158359,ov_ospedale_casarano_rep_oncologia_40.0172_18.1584,Ospedale Casarano Rep Oncologia,HOSPITAL,hospital
+40.010320,18.157150,ov_studio_nutrizionale_dottoressa_rita_legi_40.0103_18.1572,Studio Nutrizionale Dottoressa Rita Legittimo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casarano/pages/studio_nutrizionale_dottoressa_rita_legi_40.0103_18.1572.json,custom
+40.034600,18.167972,ov_complesso_poliriabilitativo_e_socio_sani_40.0346_18.1680,Complesso Poliriabilitativo e Socio Sanitario Euroitalia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casarano/pages/complesso_poliriabilitativo_e_socio_sani_40.0346_18.1680.json,custom
+40.018216,18.157356,ov_ospedale_francesco_ferrari_40.0182_18.1574,Ospedale Francesco Ferrari,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casarano/pages/ospedale_francesco_ferrari_40.0182_18.1574.json,custom
+40.015544,18.156064,ov_pronto_soccorso_di_casarano_40.0155_18.1561,Pronto Soccorso Di Casarano,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casarano/pages/pronto_soccorso_di_casarano_40.0155_18.1561.json,custom
+40.017200,18.158359,ov_ospedale_casarano_rep_oncologia_40.0172_18.1584,Ospedale Casarano Rep Oncologia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casarano/pages/ospedale_casarano_rep_oncologia_40.0172_18.1584.json,custom

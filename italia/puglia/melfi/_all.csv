@@ -1,94 +1,94 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Melfi -- Tutti
-40.993588,15.654032,osm_pizzeria_sfizio_40.9936_15.6540,Pizzeria Sfizio,ristorante,ristorante
-40.990039,15.652931,osm_sala_murano_40.9900_15.6529,Sala Murano,ristorante,ristorante
-40.996459,15.655829,osm_la_taverna_del_borgo_da_felice___pizzeri_40.9965_15.6558,La Taverna Del Borgo Da Felice - Pizzeria Ristorante,ristorante,ristorante
-40.991617,15.653289,osm_miseria_e_nobilt__40.9916_15.6533,Miseria e nobiltà,ristorante,ristorante
-40.991152,15.653284,osm_il_maesto_40.9912_15.6533,Il maesto,ristorante,ristorante
-40.990935,15.653139,osm_trattoria_oasi_gialloverde_40.9909_15.6531,Trattoria Oasi Gialloverde,ristorante,ristorante
-40.986378,15.642132,ov_a_i_a_s__associazione_italiana_assistenz_40.9864_15.6421,A.I.A.S. Associazione Italiana Assistenza Spastici,HOSPITAL,hospital
-40.997786,15.641096,ov_pronto_soccorso_ospedale_di_melfi_40.9978_15.6411,Pronto Soccorso Ospedale Di Melfi,HOSPITAL,hospital
-40.997018,15.641144,ov_hospital_san_giovanni_di_dio_40.9970_15.6411,Hospital San Giovanni di Dio,HOSPITAL,hospital
-41.080050,15.692810,ov_orto_mediterraneo_srl_41.0800_15.6928,Orto Mediterraneo srl,RESTAURANT,ristorante
-41.077082,15.603934,ov_autogrill_41.0771_15.6039,Autogrill,RESTAURANT,ristorante
-41.011495,15.625087,ov_agriturismo_la_villa_41.0115_15.6251,Agriturismo La Villa,RESTAURANT,ristorante
-41.013992,15.623205,ov_autogrill_41.0140_15.6232,Autogrill,RESTAURANT,ristorante
-41.000289,15.629293,ov_il_ponticello_41.0003_15.6293,Il Ponticello,RESTAURANT,ristorante
-40.998857,15.641969,ov_cocoloco_trattoria_pizzeria_40.9989_15.6420,Cocoloco Trattoria Pizzeria,RESTAURANT,ristorante
-41.005158,15.619634,ov_officina_della_pizza_41.0052_15.6196,Officina della Pizza,RESTAURANT,ristorante
-40.987020,15.645279,ov_melfi_contrada_santa_abruzzese_40.9870_15.6453,Melfi Contrada Santa Abruzzese,RESTAURANT,ristorante
-40.987962,15.645666,ov_vaddone_40.9880_15.6457,Vaddone,RESTAURANT,ristorante
-40.990297,15.648197,ov_sole_di_mezzanotte_40.9903_15.6482,Sole di Mezzanotte,RESTAURANT,ristorante
-40.991610,15.653316,ov_miseria_e_nobilt__la_spaghetteria_40.9916_15.6533,Miseria e Nobiltà La Spaghetteria,RESTAURANT,ristorante
-40.991598,15.653348,ov_agenzia_calandrelli_40.9916_15.6533,Agenzia Calandrelli,RESTAURANT,ristorante
-40.990931,15.653112,ov_oasi_giallo_verde_40.9909_15.6531,Oasi Giallo Verde,RESTAURANT,ristorante
-40.991210,15.653241,ov_il_maestro_paninoteca_40.9912_15.6532,Il Maestro Paninoteca,RESTAURANT,ristorante
-40.998025,15.641341,ov_imaginario_soul_kitchen_40.9980_15.6413,Imaginario Soul Kitchen,RESTAURANT,ristorante
-40.996961,15.637082,ov_jeans_restaurant_40.9970_15.6371,Jeans Restaurant,RESTAURANT,ristorante
-40.996006,15.639512,ov_re_sole_40.9960_15.6395,Re Sole,RESTAURANT,ristorante
-40.995727,15.639849,ov_lepo_re_la_pizza_contemporanea_40.9957_15.6398,Lepo Re La Pizza Contemporanea,RESTAURANT,ristorante
-40.995812,15.642078,ov_ristorante_pizzeria__da_mario_40.9958_15.6421,Ristorante Pizzeria  DA MARIO,RESTAURANT,ristorante
-40.995718,15.642768,ov_pizza_taxi_melfi_40.9957_15.6428,Pizza Taxi Melfi,RESTAURANT,ristorante
-40.995473,15.651148,ov_il_mulino_del_sole_40.9955_15.6511,Il Mulino del Sole,RESTAURANT,ristorante
-40.995241,15.653897,ov_kebab_ali_baba_melfi__40.9952_15.6539,Kebab Ali Baba Melfi.,RESTAURANT,ristorante
-40.995501,15.654078,ov_pizza_taxi_40.9955_15.6541,Pizza Taxi,RESTAURANT,ristorante
-40.995372,15.655295,ov_ristorante_gieffe_rauseo_antonio_40.9954_15.6553,Ristorante Gieffe Rauseo Antonio,RESTAURANT,ristorante
-40.995932,15.655326,ov_mani_in_pasta_40.9959_15.6553,Mani In Pasta,RESTAURANT,ristorante
-40.996244,15.659926,ov_eno_bar_40.9962_15.6599,Eno Bar,RESTAURANT,ristorante
-40.996674,15.656968,ov_ristorante_pizzeria_delle_rose_40.9967_15.6570,Ristorante Pizzeria delle Rose,RESTAURANT,ristorante
-40.996559,15.655960,ov_taverna_del_borgo_da_felice_40.9966_15.6560,Taverna Del Borgo Da Felice,RESTAURANT,ristorante
-40.995051,15.658396,ov_macelleria_braceria_rauseo_40.9951_15.6584,Macelleria Braceria Rauseo,RESTAURANT,ristorante
-40.995070,15.658293,ov_pizza_time_40.9951_15.6583,Pizza Time,RESTAURANT,ristorante
-40.994664,15.657004,ov_ristorante_lucano_40.9947_15.6570,Ristorante Lucano,RESTAURANT,ristorante
-40.994996,15.655600,ov_agriturismo_sant_agata_40.9950_15.6556,Agriturismo Sant'Agata,RESTAURANT,ristorante
-40.994971,15.655619,ov_la_rustica_ristorante_pizzeria_40.9950_15.6556,La Rustica Ristorante Pizzeria,RESTAURANT,ristorante
-40.995044,15.655642,ov_agriturismo_la_villa_40.9950_15.6556,Agriturismo La Villa,RESTAURANT,ristorante
-40.995162,15.655841,ov_pizzeria_trattoria_del_ponticello_40.9952_15.6558,Pizzeria Trattoria del Ponticello,RESTAURANT,ristorante
-40.994644,15.651108,ov_ristorante__hora_sesta_40.9946_15.6511,Ristorante  Hora Sesta,RESTAURANT,ristorante
-40.993533,15.653881,ov_sfizio_melfi_40.9935_15.6539,Sfizio Melfi,RESTAURANT,ristorante
-40.982384,15.618818,ov_trame_ristorante_melfi_40.9824_15.6188,Trame Ristorante Melfi,RESTAURANT,ristorante
-40.980439,15.658712,ov_agriturismo_sant_agata_40.9804_15.6587,Agriturismo Sant'Agata,RESTAURANT,ristorante
-41.079746,15.685424,ov_punto_nigro_cafe_41.0797_15.6854,Punto Nigro Cafe,RESTAURANT,bar_cafe
-41.080050,15.692810,ov_bar_happy_days_41.0800_15.6928,Bar Happy Days,RESTAURANT,bar_cafe
-41.075356,15.669763,ov_s_nicola_di_melfi_41.0754_15.6698,S Nicola Di Melfi,RESTAURANT,bar_cafe
-41.000367,15.631425,ov_la_dolce_vita_41.0004_15.6314,La Dolce Vita,RESTAURANT,bar_cafe
-41.000490,15.632990,ov_circolo_nord_est_41.0005_15.6330,Circolo Nord Est,RESTAURANT,bar_cafe
-40.999067,15.632668,ov_fashion_cafe_40.9991_15.6327,Fashion Cafe,RESTAURANT,bar_cafe
-41.003665,15.626302,ov_bar_mood_cafe_41.0037_15.6263,Bar Mood Cafe,RESTAURANT,bar_cafe
-41.004619,15.630835,ov_cantina_paternoster_41.0046_15.6308,Cantina Paternoster,RESTAURANT,bar_cafe
-40.990552,15.649938,ov_caffe_del_viale_40.9906_15.6499,Caffe del Viale,RESTAURANT,bar_cafe
-40.990024,15.648149,ov_blue_wave_music_club_40.9900_15.6481,Blue Wave Music Club,RESTAURANT,bar_cafe
-40.989976,15.647970,ov_hollywood_caf__sas_40.9900_15.6480,Hollywood Cafè SAS,RESTAURANT,bar_cafe
-40.989891,15.648108,ov_eramnesia_40.9899_15.6481,Eramnesia,RESTAURANT,bar_cafe
-40.991683,15.653235,ov_gossip_bar_40.9917_15.6532,Gossip bar,RESTAURANT,bar_cafe
-40.990785,15.647185,ov_origini___esperienza_liquida_40.9908_15.6472,Origini - Esperienza Liquida,RESTAURANT,bar_cafe
-40.991487,15.646513,ov_ete__prime_melfi_40.9915_15.6465,Ete' Prime Melfi,RESTAURANT,bar_cafe
-40.991789,15.645944,ov_cafe_and_sport_by_valleverde_40.9918_15.6459,Cafe and Sport by Valleverde,RESTAURANT,bar_cafe
-40.992894,15.638055,ov_on_the_way_caff__40.9929_15.6381,On the way caffè,RESTAURANT,bar_cafe
-40.997078,15.643183,ov_bar_dello_studente_40.9971_15.6432,Bar Dello Studente,RESTAURANT,bar_cafe
-40.996067,15.655795,ov_le_delizie_del_palato_40.9961_15.6558,Le delizie del palato,RESTAURANT,bar_cafe
-40.996035,15.658292,ov_vineria_d_autore_melfi_40.9960_15.6583,Vineria d'Autore Melfi,RESTAURANT,bar_cafe
-40.996720,15.656134,ov_birrificio_spirito_lucano_40.9967_15.6561,Birrificio Spirito Lucano,RESTAURANT,bar_cafe
-40.996650,15.656110,ov_birra_tre_leoni_40.9967_15.6561,Birra tre Leoni,RESTAURANT,bar_cafe
-40.996813,15.657958,ov_guiscardo_caf__40.9968_15.6580,Guiscardo Café,RESTAURANT,bar_cafe
-40.994417,15.662002,ov_caff__melfi_40.9944_15.6620,Caffè Melfi,RESTAURANT,bar_cafe
-40.993139,15.644153,ov_farinami_40.9931_15.6442,FarinAmi,RESTAURANT,bar_cafe
-40.992422,15.654010,osm_dolce_arte_40.9924_15.6540,Dolce Arte,bar_cafe,bar_cafe
-40.996073,15.655404,osm_bar_nazionale_40.9961_15.6554,Bar Nazionale,bar_cafe,bar_cafe
-40.994479,15.642233,osm_tiger_bar_40.9945_15.6422,Tiger Bar,bar_cafe,bar_cafe
-41.004890,15.616030,ov_gal_performance_41.0049_15.6160,GAL Performance,GYM,palestra
-41.005080,15.617250,ov_mvmnt_lab_41.0051_15.6173,MVMNT lab,GYM,palestra
-41.004840,15.623490,ov_bosco_nonna_maria_41.0048_15.6235,Bosco Nonna Maria,GYM,palestra
-41.005689,15.619115,ov_ginnic_tech_melfi_41.0057_15.6191,Ginnic Tech Melfi,GYM,palestra
-40.989885,15.648304,ov_glisse_academy_40.9899_15.6483,Glisse Academy,GYM,palestra
-40.994996,15.655600,ov_b_sportish_srls_40.9950_15.6556,B-Sportish Srls,GYM,palestra
-40.994996,15.655600,ov_palestra__body_planet_asd_libertas_40.9950_15.6556,Palestra  Body Planet asd Libertas,GYM,palestra
-40.994680,15.650315,ov_palasport_melfi_40.9947_15.6503,Palasport Melfi,GYM,palestra
-40.994019,15.652054,ov_palestra_comunale_40.9940_15.6521,Palestra Comunale,GYM,palestra
-40.994277,15.656280,ov_scuola_di_ballo_club_athena_melfi_luanad_40.9943_15.6563,Scuola di ballo Club Athena Melfi LuanaD'Adamo&MicheleVolgar,GYM,palestra
-40.984969,15.641020,ov_centro_equestre_la_gabbianella_40.9850_15.6410,Centro Equestre La Gabbianella,GYM,palestra
-40.998333,15.652730,ov_castello_di_melfi_40.9983_15.6527,Castello di Melfi,MONUMENT,monumento
-40.996328,15.658557,ov_museo_diocesano_40.9963_15.6586,Museo Diocesano,MUSEUM,monumento
-40.996415,15.658358,ov_palazzo_del_vescovado_40.9964_15.6584,Palazzo del Vescovado,MUSEUM,monumento
-40.997899,15.652939,ov_museo_archeologico_nazionale_del_vulture_40.9979_15.6529,Museo Archeologico Nazionale del Vulture e Melfese,MUSEUM,monumento
-40.998001,15.658400,ov_il_castello_di_melfi_40.9980_15.6584,Il Castello di Melfi,MONUMENT,monumento
+40.986378,15.642132,ov_a_i_a_s__associazione_italiana_assistenz_40.9864_15.6421,A.I.A.S. Associazione Italiana Assistenza Spastici,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/aias_associazione_italiana_assistenza_sp_40.9864_15.6421.json,custom
+40.997786,15.641096,ov_pronto_soccorso_ospedale_di_melfi_40.9978_15.6411,Pronto Soccorso Ospedale Di Melfi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pronto_soccorso_ospedale_di_melfi_40.9978_15.6411.json,custom
+40.997018,15.641144,ov_hospital_san_giovanni_di_dio_40.9970_15.6411,Hospital San Giovanni di Dio,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/hospital_san_giovanni_di_dio_40.9970_15.6411.json,custom
+41.080050,15.692810,ov_orto_mediterraneo_srl_41.0800_15.6928,Orto Mediterraneo srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/orto_mediterraneo_srl_41.0800_15.6928.json,custom
+41.077082,15.603934,ov_autogrill_41.0771_15.6039,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/autogrill_41.0771_15.6039.json,custom
+41.011495,15.625087,ov_agriturismo_la_villa_41.0115_15.6251,Agriturismo La Villa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/agriturismo_la_villa_41.0115_15.6251.json,custom
+41.013992,15.623205,ov_autogrill_41.0140_15.6232,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/autogrill_41.0140_15.6232.json,custom
+41.000289,15.629293,ov_il_ponticello_41.0003_15.6293,Il Ponticello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/il_ponticello_41.0003_15.6293.json,custom
+40.998857,15.641969,ov_cocoloco_trattoria_pizzeria_40.9989_15.6420,Cocoloco Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/cocoloco_trattoria_pizzeria_40.9989_15.6420.json,custom
+41.005158,15.619634,ov_officina_della_pizza_41.0052_15.6196,Officina della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/officina_della_pizza_41.0052_15.6196.json,custom
+40.987020,15.645279,ov_melfi_contrada_santa_abruzzese_40.9870_15.6453,Melfi Contrada Santa Abruzzese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/melfi_contrada_santa_abruzzese_40.9870_15.6453.json,custom
+40.987962,15.645666,ov_vaddone_40.9880_15.6457,Vaddone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/vaddone_40.9880_15.6457.json,custom
+40.990297,15.648197,ov_sole_di_mezzanotte_40.9903_15.6482,Sole di Mezzanotte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/sole_di_mezzanotte_40.9903_15.6482.json,custom
+40.991610,15.653316,ov_miseria_e_nobilt__la_spaghetteria_40.9916_15.6533,Miseria e Nobiltà La Spaghetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/miseria_e_nobilt_la_spaghetteria_40.9916_15.6533.json,custom
+40.991598,15.653348,ov_agenzia_calandrelli_40.9916_15.6533,Agenzia Calandrelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/agenzia_calandrelli_40.9916_15.6533.json,custom
+40.990931,15.653112,ov_oasi_giallo_verde_40.9909_15.6531,Oasi Giallo Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/oasi_giallo_verde_40.9909_15.6531.json,custom
+40.991210,15.653241,ov_il_maestro_paninoteca_40.9912_15.6532,Il Maestro Paninoteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/il_maestro_paninoteca_40.9912_15.6532.json,custom
+40.998025,15.641341,ov_imaginario_soul_kitchen_40.9980_15.6413,Imaginario Soul Kitchen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/imaginario_soul_kitchen_40.9980_15.6413.json,custom
+40.996961,15.637082,ov_jeans_restaurant_40.9970_15.6371,Jeans Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/jeans_restaurant_40.9970_15.6371.json,custom
+40.996006,15.639512,ov_re_sole_40.9960_15.6395,Re Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/re_sole_40.9960_15.6395.json,custom
+40.995727,15.639849,ov_lepo_re_la_pizza_contemporanea_40.9957_15.6398,Lepo Re La Pizza Contemporanea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/lepo_re_la_pizza_contemporanea_40.9957_15.6398.json,custom
+40.995812,15.642078,ov_ristorante_pizzeria__da_mario_40.9958_15.6421,Ristorante Pizzeria  DA MARIO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ristorante_pizzeria_da_mario_40.9958_15.6421.json,custom
+40.995718,15.642768,ov_pizza_taxi_melfi_40.9957_15.6428,Pizza Taxi Melfi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pizza_taxi_melfi_40.9957_15.6428.json,custom
+40.995473,15.651148,ov_il_mulino_del_sole_40.9955_15.6511,Il Mulino del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/il_mulino_del_sole_40.9955_15.6511.json,custom
+40.995241,15.653897,ov_kebab_ali_baba_melfi__40.9952_15.6539,Kebab Ali Baba Melfi.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/kebab_ali_baba_melfi_40.9952_15.6539.json,custom
+40.995501,15.654078,ov_pizza_taxi_40.9955_15.6541,Pizza Taxi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pizza_taxi_40.9955_15.6541.json,custom
+40.995372,15.655295,ov_ristorante_gieffe_rauseo_antonio_40.9954_15.6553,Ristorante Gieffe Rauseo Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ristorante_gieffe_rauseo_antonio_40.9954_15.6553.json,custom
+40.995932,15.655326,ov_mani_in_pasta_40.9959_15.6553,Mani In Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/mani_in_pasta_40.9959_15.6553.json,custom
+40.996244,15.659926,ov_eno_bar_40.9962_15.6599,Eno Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/eno_bar_40.9962_15.6599.json,custom
+40.996674,15.656968,ov_ristorante_pizzeria_delle_rose_40.9967_15.6570,Ristorante Pizzeria delle Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ristorante_pizzeria_delle_rose_40.9967_15.6570.json,custom
+40.996559,15.655960,ov_taverna_del_borgo_da_felice_40.9966_15.6560,Taverna Del Borgo Da Felice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/taverna_del_borgo_da_felice_40.9966_15.6560.json,custom
+40.995051,15.658396,ov_macelleria_braceria_rauseo_40.9951_15.6584,Macelleria Braceria Rauseo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/macelleria_braceria_rauseo_40.9951_15.6584.json,custom
+40.995070,15.658293,ov_pizza_time_40.9951_15.6583,Pizza Time,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pizza_time_40.9951_15.6583.json,custom
+40.994664,15.657004,ov_ristorante_lucano_40.9947_15.6570,Ristorante Lucano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ristorante_lucano_40.9947_15.6570.json,custom
+40.994996,15.655600,ov_agriturismo_sant_agata_40.9950_15.6556,Agriturismo Sant'Agata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/agriturismo_santagata_40.9950_15.6556.json,custom
+40.994971,15.655619,ov_la_rustica_ristorante_pizzeria_40.9950_15.6556,La Rustica Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/la_rustica_ristorante_pizzeria_40.9950_15.6556.json,custom
+40.995044,15.655642,ov_agriturismo_la_villa_40.9950_15.6556,Agriturismo La Villa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/agriturismo_la_villa_40.9950_15.6556.json,custom
+40.995162,15.655841,ov_pizzeria_trattoria_del_ponticello_40.9952_15.6558,Pizzeria Trattoria del Ponticello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pizzeria_trattoria_del_ponticello_40.9952_15.6558.json,custom
+40.994644,15.651108,ov_ristorante__hora_sesta_40.9946_15.6511,Ristorante  Hora Sesta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ristorante_hora_sesta_40.9946_15.6511.json,custom
+40.993533,15.653881,ov_sfizio_melfi_40.9935_15.6539,Sfizio Melfi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/sfizio_melfi_40.9935_15.6539.json,custom
+40.982384,15.618818,ov_trame_ristorante_melfi_40.9824_15.6188,Trame Ristorante Melfi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/trame_ristorante_melfi_40.9824_15.6188.json,custom
+40.980439,15.658712,ov_agriturismo_sant_agata_40.9804_15.6587,Agriturismo Sant'Agata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/agriturismo_santagata_40.9804_15.6587.json,custom
+40.993588,15.654032,osm_pizzeria_sfizio_40.9936_15.6540,Pizzeria Sfizio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/pizzeria_sfizio_40.9936_15.6540.json,custom
+40.990039,15.652931,osm_sala_murano_40.9900_15.6529,Sala Murano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/sala_murano_40.9900_15.6529.json,custom
+40.996459,15.655829,osm_la_taverna_del_borgo_da_felice___pizzeri_40.9965_15.6558,La Taverna Del Borgo Da Felice - Pizzeria Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/la_taverna_del_borgo_da_felice_-_pizzeri_40.9965_15.6558.json,custom
+40.991617,15.653289,osm_miseria_e_nobilt__40.9916_15.6533,Miseria e nobiltà,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/miseria_e_nobilt_40.9916_15.6533.json,custom
+40.991152,15.653284,osm_il_maesto_40.9912_15.6533,Il maesto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/il_maesto_40.9912_15.6533.json,custom
+40.990935,15.653139,osm_trattoria_oasi_gialloverde_40.9909_15.6531,Trattoria Oasi Gialloverde,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/trattoria_oasi_gialloverde_40.9909_15.6531.json,custom
+41.079746,15.685424,ov_punto_nigro_cafe_41.0797_15.6854,Punto Nigro Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/punto_nigro_cafe_41.0797_15.6854.json,custom
+41.080050,15.692810,ov_bar_happy_days_41.0800_15.6928,Bar Happy Days,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/bar_happy_days_41.0800_15.6928.json,custom
+41.075356,15.669763,ov_s_nicola_di_melfi_41.0754_15.6698,S Nicola Di Melfi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/s_nicola_di_melfi_41.0754_15.6698.json,custom
+41.000367,15.631425,ov_la_dolce_vita_41.0004_15.6314,La Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/la_dolce_vita_41.0004_15.6314.json,custom
+41.000490,15.632990,ov_circolo_nord_est_41.0005_15.6330,Circolo Nord Est,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/circolo_nord_est_41.0005_15.6330.json,custom
+40.999067,15.632668,ov_fashion_cafe_40.9991_15.6327,Fashion Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/fashion_cafe_40.9991_15.6327.json,custom
+41.003665,15.626302,ov_bar_mood_cafe_41.0037_15.6263,Bar Mood Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/bar_mood_cafe_41.0037_15.6263.json,custom
+41.004619,15.630835,ov_cantina_paternoster_41.0046_15.6308,Cantina Paternoster,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/cantina_paternoster_41.0046_15.6308.json,custom
+40.990552,15.649938,ov_caffe_del_viale_40.9906_15.6499,Caffe del Viale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/caffe_del_viale_40.9906_15.6499.json,custom
+40.990024,15.648149,ov_blue_wave_music_club_40.9900_15.6481,Blue Wave Music Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/blue_wave_music_club_40.9900_15.6481.json,custom
+40.989976,15.647970,ov_hollywood_caf__sas_40.9900_15.6480,Hollywood Cafè SAS,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/hollywood_caf_sas_40.9900_15.6480.json,custom
+40.989891,15.648108,ov_eramnesia_40.9899_15.6481,Eramnesia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/eramnesia_40.9899_15.6481.json,custom
+40.991683,15.653235,ov_gossip_bar_40.9917_15.6532,Gossip bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/gossip_bar_40.9917_15.6532.json,custom
+40.990785,15.647185,ov_origini___esperienza_liquida_40.9908_15.6472,Origini - Esperienza Liquida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/origini_-_esperienza_liquida_40.9908_15.6472.json,custom
+40.991487,15.646513,ov_ete__prime_melfi_40.9915_15.6465,Ete' Prime Melfi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ete_prime_melfi_40.9915_15.6465.json,custom
+40.991789,15.645944,ov_cafe_and_sport_by_valleverde_40.9918_15.6459,Cafe and Sport by Valleverde,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/cafe_and_sport_by_valleverde_40.9918_15.6459.json,custom
+40.992894,15.638055,ov_on_the_way_caff__40.9929_15.6381,On the way caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/on_the_way_caff_40.9929_15.6381.json,custom
+40.997078,15.643183,ov_bar_dello_studente_40.9971_15.6432,Bar Dello Studente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/bar_dello_studente_40.9971_15.6432.json,custom
+40.996067,15.655795,ov_le_delizie_del_palato_40.9961_15.6558,Le delizie del palato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/le_delizie_del_palato_40.9961_15.6558.json,custom
+40.996035,15.658292,ov_vineria_d_autore_melfi_40.9960_15.6583,Vineria d'Autore Melfi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/vineria_dautore_melfi_40.9960_15.6583.json,custom
+40.996720,15.656134,ov_birrificio_spirito_lucano_40.9967_15.6561,Birrificio Spirito Lucano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/birrificio_spirito_lucano_40.9967_15.6561.json,custom
+40.996650,15.656110,ov_birra_tre_leoni_40.9967_15.6561,Birra tre Leoni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/birra_tre_leoni_40.9967_15.6561.json,custom
+40.996813,15.657958,ov_guiscardo_caf__40.9968_15.6580,Guiscardo Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/guiscardo_caf_40.9968_15.6580.json,custom
+40.994417,15.662002,ov_caff__melfi_40.9944_15.6620,Caffè Melfi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/caff_melfi_40.9944_15.6620.json,custom
+40.993139,15.644153,ov_farinami_40.9931_15.6442,FarinAmi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/farinami_40.9931_15.6442.json,custom
+40.992422,15.654010,osm_dolce_arte_40.9924_15.6540,Dolce Arte,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/dolce_arte_40.9924_15.6540.json,custom
+40.996073,15.655404,osm_bar_nazionale_40.9961_15.6554,Bar Nazionale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/bar_nazionale_40.9961_15.6554.json,custom
+40.994479,15.642233,osm_tiger_bar_40.9945_15.6422,Tiger Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/tiger_bar_40.9945_15.6422.json,custom
+41.004890,15.616030,ov_gal_performance_41.0049_15.6160,GAL Performance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/gal_performance_41.0049_15.6160.json,custom
+41.005080,15.617250,ov_mvmnt_lab_41.0051_15.6173,MVMNT lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/mvmnt_lab_41.0051_15.6173.json,custom
+41.004840,15.623490,ov_bosco_nonna_maria_41.0048_15.6235,Bosco Nonna Maria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/bosco_nonna_maria_41.0048_15.6235.json,custom
+41.005689,15.619115,ov_ginnic_tech_melfi_41.0057_15.6191,Ginnic Tech Melfi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/ginnic_tech_melfi_41.0057_15.6191.json,custom
+40.989885,15.648304,ov_glisse_academy_40.9899_15.6483,Glisse Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/glisse_academy_40.9899_15.6483.json,custom
+40.994996,15.655600,ov_b_sportish_srls_40.9950_15.6556,B-Sportish Srls,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/b-sportish_srls_40.9950_15.6556.json,custom
+40.994996,15.655600,ov_palestra__body_planet_asd_libertas_40.9950_15.6556,Palestra  Body Planet asd Libertas,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/palestra_body_planet_asd_libertas_40.9950_15.6556.json,custom
+40.994680,15.650315,ov_palasport_melfi_40.9947_15.6503,Palasport Melfi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/palasport_melfi_40.9947_15.6503.json,custom
+40.994019,15.652054,ov_palestra_comunale_40.9940_15.6521,Palestra Comunale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/palestra_comunale_40.9940_15.6521.json,custom
+40.994277,15.656280,ov_scuola_di_ballo_club_athena_melfi_luanad_40.9943_15.6563,Scuola di ballo Club Athena Melfi LuanaD'Adamo&MicheleVolgar,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/scuola_di_ballo_club_athena_melfi_luanad_40.9943_15.6563.json,custom
+40.984969,15.641020,ov_centro_equestre_la_gabbianella_40.9850_15.6410,Centro Equestre La Gabbianella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/centro_equestre_la_gabbianella_40.9850_15.6410.json,custom
+40.998333,15.652730,ov_castello_di_melfi_40.9983_15.6527,Castello di Melfi,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/castello_di_melfi_40.9983_15.6527.json,custom
+40.996328,15.658557,ov_museo_diocesano_40.9963_15.6586,Museo Diocesano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/museo_diocesano_40.9963_15.6586.json,custom
+40.996415,15.658358,ov_palazzo_del_vescovado_40.9964_15.6584,Palazzo del Vescovado,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/palazzo_del_vescovado_40.9964_15.6584.json,custom
+40.997899,15.652939,ov_museo_archeologico_nazionale_del_vulture_40.9979_15.6529,Museo Archeologico Nazionale del Vulture e Melfese,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/museo_archeologico_nazionale_del_vulture_40.9979_15.6529.json,custom
+40.998001,15.658400,ov_il_castello_di_melfi_40.9980_15.6584,Il Castello di Melfi,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melfi/pages/il_castello_di_melfi_40.9980_15.6584.json,custom

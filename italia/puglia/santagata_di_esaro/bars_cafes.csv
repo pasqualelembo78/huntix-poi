@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santagata_di_esaro -- bars_cafes
-39.620405,15.983478,ov_ristopub_vecchio_borgo_39.6204_15.9835,RistoPub Vecchio Borgo,RESTAURANT,bar_cafe
-39.626648,15.998054,ov_tavola_dei_briganti_39.6266_15.9981,Tavola dei Briganti,RESTAURANT,bar_cafe
-39.620392,15.982955,ov_al_mio_bar_di_servidio_piero_39.6204_15.9830,Al Mio Bar Di Servidio Piero,RESTAURANT,bar_cafe
+39.620405,15.983478,ov_ristopub_vecchio_borgo_39.6204_15.9835,RistoPub Vecchio Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santagata_di_esaro/pages/ristopub_vecchio_borgo_39.6204_15.9835.json,custom
+39.626648,15.998054,ov_tavola_dei_briganti_39.6266_15.9981,Tavola dei Briganti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santagata_di_esaro/pages/tavola_dei_briganti_39.6266_15.9981.json,custom
+39.620392,15.982955,ov_al_mio_bar_di_servidio_piero_39.6204_15.9830,Al Mio Bar Di Servidio Piero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santagata_di_esaro/pages/al_mio_bar_di_servidio_piero_39.6204_15.9830.json,custom

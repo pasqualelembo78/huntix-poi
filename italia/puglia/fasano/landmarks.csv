@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fasano -- landmarks
-40.886627,17.387591,ov_museo_archeologico_di_egnazia_40.8866_17.3876,Museo Archeologico di Egnazia,MUSEUM,monumento
-40.814473,17.411880,ov_museo_laboratorio_arte_contadina_40.8145_17.4119,Museo Laboratorio Arte Contadina,MUSEUM,monumento
-40.835210,17.359002,ov_museo_della_casa_alla_fasanese_40.8352_17.3590,Museo della Casa alla fasanese,MUSEUM,monumento
-40.835132,17.358601,ov_associazione_u_mbracchie___fasano_40.8351_17.3586,Associazione U'mbracchie - Fasano,MUSEUM,monumento
-40.836570,17.357284,ov_ciaialab___laboratorio_urbano_40.8366_17.3573,CiaiaLab - Laboratorio Urbano,MUSEUM,monumento
-40.846050,17.354040,ov_museo_nazionale_e_parco_archeologico_di__40.8460_17.3540,Museo Nazionale e Parco Archeologico di Egnazia,MUSEUM,monumento
+40.886627,17.387591,ov_museo_archeologico_di_egnazia_40.8866_17.3876,Museo Archeologico di Egnazia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_archeologico_di_egnazia_40.8866_17.3876.json,custom
+40.814473,17.411880,ov_museo_laboratorio_arte_contadina_40.8145_17.4119,Museo Laboratorio Arte Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_laboratorio_arte_contadina_40.8145_17.4119.json,custom
+40.835210,17.359002,ov_museo_della_casa_alla_fasanese_40.8352_17.3590,Museo della Casa alla fasanese,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_della_casa_alla_fasanese_40.8352_17.3590.json,custom
+40.835132,17.358601,ov_associazione_u_mbracchie___fasano_40.8351_17.3586,Associazione U'mbracchie - Fasano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/associazione_umbracchie_-_fasano_40.8351_17.3586.json,custom
+40.836570,17.357284,ov_ciaialab___laboratorio_urbano_40.8366_17.3573,CiaiaLab - Laboratorio Urbano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ciaialab_-_laboratorio_urbano_40.8366_17.3573.json,custom
+40.846050,17.354040,ov_museo_nazionale_e_parco_archeologico_di__40.8460_17.3540,Museo Nazionale e Parco Archeologico di Egnazia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_nazionale_e_parco_archeologico_di__40.8460_17.3540.json,custom

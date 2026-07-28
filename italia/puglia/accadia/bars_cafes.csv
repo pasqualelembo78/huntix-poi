@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # accadia -- bars_cafes
-41.160087,15.336699,ov_viaborgosettantadue_lounge_bar___restaur_41.1601_15.3367,Viaborgosettantadue Lounge bar & Restaurant,RESTAURANT,bar_cafe
-41.158694,15.330688,ov_zanetti_franco_cafe_41.1587_15.3307,Zanetti Franco Cafe,RESTAURANT,bar_cafe
-41.158645,15.326213,ov_bar_zanetti_41.1586_15.3262,Bar Zanetti,RESTAURANT,bar_cafe
+41.160087,15.336699,ov_viaborgosettantadue_lounge_bar___restaur_41.1601_15.3367,Viaborgosettantadue Lounge bar & Restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/accadia/pages/viaborgosettantadue_lounge_bar_restauran_41.1601_15.3367.json,custom
+41.158694,15.330688,ov_zanetti_franco_cafe_41.1587_15.3307,Zanetti Franco Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/accadia/pages/zanetti_franco_cafe_41.1587_15.3307.json,custom
+41.158645,15.326213,ov_bar_zanetti_41.1586_15.3262,Bar Zanetti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/accadia/pages/bar_zanetti_41.1586_15.3262.json,custom

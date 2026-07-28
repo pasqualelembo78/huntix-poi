@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # molfetta -- landmarks
-41.185606,16.517919,ov_castello_di_trani_41.1856_16.5179,Castello di Trani,MONUMENT,monumento
-41.192909,16.586044,ov_rayan_gold_41.1929_16.5860,RAYAN GOLD,MUSEUM,monumento
-41.197944,16.583834,ov_museo_civico_archeologico_del_pulo_41.1979_16.5838,Museo Civico Archeologico del Pulo,MUSEUM,monumento
-41.204480,16.593958,ov_fabbrica_di_san_domenico___molfetta_41.2045_16.5940,Fabbrica di San Domenico - Molfetta,MUSEUM,monumento
-41.215530,16.571100,ov_torre_san_giacomo_41.2155_16.5711,Torre San Giacomo,MONUMENT,monumento
-41.204940,16.595860,ov_casa_poli_41.2049_16.5959,Casa Poli,MUSEUM,monumento
-41.204038,16.599447,ov_museo_diocesano_molfetta_41.2040_16.5994,Museo Diocesano Molfetta,MUSEUM,monumento
+41.185606,16.517919,ov_castello_di_trani_41.1856_16.5179,Castello di Trani,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/castello_di_trani_41.1856_16.5179.json,custom
+41.192909,16.586044,ov_rayan_gold_41.1929_16.5860,RAYAN GOLD,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/rayan_gold_41.1929_16.5860.json,custom
+41.197944,16.583834,ov_museo_civico_archeologico_del_pulo_41.1979_16.5838,Museo Civico Archeologico del Pulo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/museo_civico_archeologico_del_pulo_41.1979_16.5838.json,custom
+41.204480,16.593958,ov_fabbrica_di_san_domenico___molfetta_41.2045_16.5940,Fabbrica di San Domenico - Molfetta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/fabbrica_di_san_domenico_-_molfetta_41.2045_16.5940.json,custom
+41.215530,16.571100,ov_torre_san_giacomo_41.2155_16.5711,Torre San Giacomo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/torre_san_giacomo_41.2155_16.5711.json,custom
+41.204940,16.595860,ov_casa_poli_41.2049_16.5959,Casa Poli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/casa_poli_41.2049_16.5959.json,custom
+41.204038,16.599447,ov_museo_diocesano_molfetta_41.2040_16.5994,Museo Diocesano Molfetta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/museo_diocesano_molfetta_41.2040_16.5994.json,custom

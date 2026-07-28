@@ -1,214 +1,210 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Terlizzi -- Tutti
-41.131207,16.535057,osm_ospedale_michele_sarcone_41.1312_16.5351,Ospedale Michele Sarcone,hospital,hospital
-41.130769,16.540457,osm_il_vicolo_41.1308_16.5405,Il Vicolo,ristorante,ristorante
-41.130398,16.548901,osm_braci_piacenti_41.1304_16.5489,Braci piacenti,ristorante,ristorante
-41.130632,16.551418,osm_i_tre_maialini_41.1306_16.5514,I tre maialini,ristorante,ristorante
-41.129567,16.542512,osm_l_angolo_della_bont__41.1296_16.5425,L'angolo della bontà,ristorante,ristorante
-41.130493,16.547379,osm_ristor_la_ginestra_41.1305_16.5474,Ristor La Ginestra,ristorante,ristorante
-41.130657,16.547305,osm_kin_41.1307_16.5473,Kin,ristorante,ristorante
-41.130392,16.543827,osm_tentazioni_golose_41.1304_16.5438,Tentazioni Golose,ristorante,ristorante
-41.129056,16.541959,osm_buns_50_41.1291_16.5420,Buns 50,ristorante,ristorante
-41.130438,16.546607,osm_matilda_41.1304_16.5466,Matilda,ristorante,ristorante
-41.129965,16.542506,osm_eden_cucina_del_sud_41.1300_16.5425,Eden cucina del sud,ristorante,ristorante
-41.128909,16.542482,osm_nino_dei_tigli_41.1289_16.5425,Nino dei Tigli,ristorante,ristorante
-41.128956,16.542579,osm_alighieri_eventi_41.1290_16.5426,Alighieri Eventi,ristorante,ristorante
-41.128378,16.549118,osm_da_marchino_41.1284_16.5491,Da Marchino,ristorante,ristorante
-41.131679,16.536184,osm_pizzeria_il_ritrovo_41.1317_16.5362,Pizzeria il Ritrovo,ristorante,ristorante
-41.129004,16.547695,osm_macelleria_braceria_41.1290_16.5477,Macelleria Braceria,ristorante,ristorante
-41.128792,16.537175,osm_la_fornarina_41.1288_16.5372,La Fornarina,ristorante,ristorante
-41.130088,16.549882,osm_me_doner_41.1301_16.5499,Me Doner,ristorante,ristorante
-41.131319,16.543245,osm_macelleria_braceria_da_gianni_41.1313_16.5432,Macelleria Braceria Da Gianni,ristorante,ristorante
-41.132858,16.543606,osm_rosticceria_41.1329_16.5436,Rosticceria,ristorante,ristorante
-41.128614,16.543637,osm_gi__mazzini_41.1286_16.5436,Già mazzini,ristorante,ristorante
-41.128729,16.534704,osm_caravan_serraglio_41.1287_16.5347,Caravan serraglio,ristorante,ristorante
-41.129959,16.549688,osm_ghiottoneria_41.1300_16.5497,Ghiottoneria,ristorante,ristorante
-41.129078,16.542829,osm_sviniamo_41.1291_16.5428,Sviniamo,ristorante,ristorante
-41.130839,16.549040,osm_primi_di_tutto_41.1308_16.5490,Primi Di Tutto,ristorante,ristorante
-41.128026,16.557213,osm_il_gioco_dei_sensi_41.1280_16.5572,Il gioco dei sensi,ristorante,ristorante
-41.128667,16.540781,osm_chapeau_41.1287_16.5408,Chapeau,ristorante,ristorante
-41.129982,16.543206,osm_mingo_tauro_41.1300_16.5432,Mingo Tauro,ristorante,ristorante
-41.132857,16.544431,osm_ristor_dinner_41.1329_16.5444,Ristor Dinner,ristorante,ristorante
-41.130768,16.551234,osm_braceria_quercia_41.1308_16.5512,Braceria Quercia,ristorante,ristorante
-41.128826,16.541434,osm_fidelfo_41.1288_16.5414,Fidelfo,ristorante,ristorante
-41.136728,16.545786,osm_terra_mia_41.1367_16.5458,Terra Mia,ristorante,ristorante
-41.133586,16.539638,osm_dinapoli_41.1336_16.5396,Dinapoli,ristorante,ristorante
-41.133150,16.541319,osm_n__1_la_vita___bella_41.1332_16.5413,N. 1 la vita è bella,ristorante,ristorante
-41.128302,16.541419,osm_frank_sushi_club_41.1283_16.5414,FRANK Sushi Club,ristorante,ristorante
-41.128303,16.541475,osm_braceria_fidelfo_41.1283_16.5415,Braceria Fidelfo,ristorante,ristorante
-41.130925,16.544568,osm_33_giri_41.1309_16.5446,33 giri,ristorante,ristorante
-41.133252,16.542980,osm_o__vesuvio_41.1333_16.5430,O' Vesuvio,ristorante,ristorante
-41.131355,16.546050,osm_il_cubo_41.1314_16.5460,Il cubo,ristorante,ristorante
-41.130886,16.520323,ov_centro_sportivo_camarelle_41.1309_16.5203,Centro Sportivo Camarelle,RESTAURANT,ristorante
-41.131648,16.536176,ov_il_ritrovo_41.1316_16.5362,Il Ritrovo,RESTAURANT,ristorante
-41.131843,16.537119,ov_pescheria_il_corallo_41.1318_16.5371,Pescheria IL Corallo,RESTAURANT,ristorante
-41.131311,16.543324,ov_da_gianni_braceria_41.1313_16.5433,Da Gianni Braceria,RESTAURANT,ristorante
-41.131096,16.542400,ov_polleria_gaetano_mazzone_41.1311_16.5424,Polleria Gaetano Mazzone,RESTAURANT,ristorante
-41.130790,16.544573,ov_il_rosto_41.1308_16.5446,Il Rosto,RESTAURANT,ristorante
-41.130891,16.543273,ov_pizzeria_il_vicolo___terlizzi_41.1309_16.5433,Pizzeria Il Vicolo - Terlizzi,RESTAURANT,ristorante
-41.130362,16.543848,ov_tentazioni_golose_41.1304_16.5438,Tentazioni Golose,RESTAURANT,ristorante
-41.130734,16.540334,ov_il_vicolo_41.1307_16.5403,Il Vicolo,RESTAURANT,ristorante
-41.129923,16.543015,ov_mingotauro_41.1299_16.5430,Mingotauro,RESTAURANT,ristorante
-41.129072,16.542290,ov_gourm8_41.1291_16.5423,Gourm8,RESTAURANT,ristorante
-41.129010,16.542530,ov_tafuri_41.1290_16.5425,Tafuri,RESTAURANT,ristorante
-41.129151,16.542495,ov_dante___divino_convivio_41.1292_16.5425,Dante - Divino Convivio,RESTAURANT,ristorante
-41.129149,16.542247,ov_green34___risto_pizzeria_41.1291_16.5422,GREEN34 - risto pizzeria,RESTAURANT,ristorante
-41.128727,16.540755,ov_pizzeria_rosticceria_chapean_41.1287_16.5408,Pizzeria Rosticceria Chapean,RESTAURANT,ristorante
-41.128634,16.541411,ov_frank_sushi_club_41.1286_16.5414,FRANK Sushi Club,RESTAURANT,ristorante
-41.128961,16.542024,ov_buns_50_41.1290_16.5420,Buns 50,RESTAURANT,ristorante
-41.128542,16.543480,ov_pronto_pizza_41.1285_16.5435,Pronto Pizza,RESTAURANT,ristorante
-41.128556,16.541477,ov_braceria_fidelfo___carne_e_fuoco_41.1286_16.5415,Braceria Fidelfo - Carne e Fuoco,RESTAURANT,ristorante
-41.128560,16.541555,ov_il_tumm__41.1286_16.5416,Il Tummà,RESTAURANT,ristorante
-41.128764,16.534653,ov_caravanserraglio_41.1288_16.5347,Caravanserraglio,RESTAURANT,ristorante
-41.128878,16.537157,ov_pizzeria_la_fornarina_41.1289_16.5372,Pizzeria La Fornarina,RESTAURANT,ristorante
-41.126985,16.544530,ov_tamu___al_carradore_pizzeria_41.1270_16.5445,Tamu - Al Carradore Pizzeria,RESTAURANT,ristorante
-41.123344,16.515996,ov_davs_fidelfo___bar_risto_pizza_41.1233_16.5160,DAVS Fidelfo - Bar Risto Pizza,RESTAURANT,ristorante
-41.122951,16.527294,ov_villa_eranthe_41.1230_16.5273,Villa Eranthe,RESTAURANT,ristorante
-41.136678,16.545781,ov_pizzeria_terra_mia_41.1367_16.5458,Pizzeria Terra Mia,RESTAURANT,ristorante
-41.133887,16.545586,ov_the_barr_41.1339_16.5456,The Barr,RESTAURANT,ristorante
-41.133191,16.541301,ov_n_1_la_vita_e_bella_41.1332_16.5413,N.1 La Vita E Bella,RESTAURANT,ristorante
-41.133130,16.538960,ov_evviva___food___beer_fest_41.1331_16.5390,Evviva - Food & Beer Fest,RESTAURANT,ristorante
-41.132582,16.539133,ov_mama_pizza_amore_cucina_41.1326_16.5391,Mama Pizza Amore Cucina,RESTAURANT,ristorante
-41.080863,16.560482,ov_ristorante_villa_de_napoli_41.0809_16.5605,Ristorante Villa De Napoli,RESTAURANT,ristorante
-41.112727,16.548691,ov_il_gallo_41.1127_16.5487,Il gallo,RESTAURANT,ristorante
-41.125102,16.551505,ov_il_fiore_41.1251_16.5515,Il Fiore,RESTAURANT,ristorante
-41.124371,16.549819,ov_red_brick_22_41.1244_16.5498,Red Brick 22,RESTAURANT,ristorante
-41.126472,16.551580,ov_roberika_srl_41.1265_16.5516,Roberika SRL,RESTAURANT,ristorante
-41.128648,16.548733,ov_pescheria_e_friggitoria_41.1286_16.5487,Pescheria e friggitoria,RESTAURANT,ristorante
-41.128809,16.547853,ov_macelleria_di_mimmo_de_chirico_41.1288_16.5479,Macelleria di Mimmo De Chirico,RESTAURANT,ristorante
-41.128500,16.550815,ov_casa_del_tortellino_41.1285_16.5508,Casa Del Tortellino,RESTAURANT,ristorante
-41.128505,16.550916,ov_de_nicolo_pastai_41.1285_16.5509,De Nicolo Pastai,RESTAURANT,ristorante
-41.128332,16.549148,ov_pizzeria_da_marchino_41.1283_16.5491,Pizzeria da Marchino,RESTAURANT,ristorante
-41.128133,16.557376,ov_il_gioco_dei_sensi_pizzeria_41.1281_16.5574,Il Gioco dei Sensi Pizzeria,RESTAURANT,ristorante
-41.128190,16.557730,ov_trattoria_pizzeria_da_marchino_41.1282_16.5577,Trattoria-Pizzeria da Marchino,RESTAURANT,ristorante
-41.130603,16.551424,ov_i_tre_maialini_41.1306_16.5514,I tre maialini,RESTAURANT,ristorante
-41.130448,16.547373,ov_pizzeria_la_ginestra_41.1304_16.5474,Pizzeria La Ginestra,RESTAURANT,ristorante
-41.130363,16.548874,ov_braci_piacenti_41.1304_16.5489,Braci Piacenti,RESTAURANT,ristorante
-41.130560,16.547295,ov_kin_sushi_41.1306_16.5473,Kin sushi,RESTAURANT,ristorante
-41.131543,16.547526,ov_macelleria_braceria_d_aniello_41.1315_16.5475,Macelleria Braceria D'Aniello,RESTAURANT,ristorante
-41.131293,16.545909,ov_il_cubo_41.1313_16.5459,Il Cubo,RESTAURANT,ristorante
-41.132955,16.546156,ov_mare_e_padella_41.1330_16.5462,Mare e Padella,RESTAURANT,ristorante
-41.133195,16.546501,ov_pastificio_terlizzese_41.1332_16.5465,Pastificio Terlizzese,RESTAURANT,ristorante
-41.131530,16.536761,ov_mistertoto_bet_and_bar_41.1315_16.5368,Mistertoto Bet and Bar,RESTAURANT,bar_cafe
-41.132075,16.538258,ov_cafe_maxim_41.1321_16.5383,Cafe Maxim,RESTAURANT,bar_cafe
-41.132368,16.538756,ov_sottocoperta_bar_41.1324_16.5388,sottocoperta bar,RESTAURANT,bar_cafe
-41.131990,16.544110,ov_ferramenta_gisondo_m_c_41.1320_16.5441,Ferramenta gisondo M C,RESTAURANT,bar_cafe
-41.131379,16.538691,ov_art_coffee_41.1314_16.5387,Art Coffee,RESTAURANT,bar_cafe
-41.131273,16.540657,ov_prosit_cafe_41.1313_16.5407,Prosit Cafe,RESTAURANT,bar_cafe
-41.130570,16.542431,ov_gc_italia_41.1306_16.5424,GC Italia,RESTAURANT,bar_cafe
-41.130360,16.544140,ov_piccolo_bar_41.1304_16.5441,Piccolo Bar,RESTAURANT,bar_cafe
-41.130419,16.545318,ov_histoire_41.1304_16.5453,Histoire,RESTAURANT,bar_cafe
-41.130302,16.544961,ov_carpe_diem_41.1303_16.5450,Carpe Diem,RESTAURANT,bar_cafe
-41.130322,16.544311,ov_soleluna_cafe_41.1303_16.5443,Soleluna Cafe,RESTAURANT,bar_cafe
-41.130237,16.542918,ov_caffe_savoia_41.1302_16.5429,Caffe Savoia,RESTAURANT,bar_cafe
-41.130496,16.542729,ov_karma___lounge_bar___41.1305_16.5427,Karma - Lounge Bar -,RESTAURANT,bar_cafe
-41.130384,16.541197,ov_botanico___arco_arboreo_41.1304_16.5412,Botanico - Arco Arboreo,RESTAURANT,bar_cafe
-41.130369,16.538649,ov_l_ancora_cafe_41.1304_16.5386,L'Ancora Cafe,RESTAURANT,bar_cafe
-41.129619,16.537208,ov_zona75_2_0_41.1296_16.5372,Zona75 2.0,RESTAURANT,bar_cafe
-41.129478,16.540259,ov_bibap_coffee_break_terlizzi_41.1295_16.5403,Bibap coffee break Terlizzi,RESTAURANT,bar_cafe
-41.129674,16.541582,ov_vintage_cafe_41.1297_16.5416,Vintage Cafe,RESTAURANT,bar_cafe
-41.130129,16.540389,ov_fuori_posto_41.1301_16.5404,Fuori Posto,RESTAURANT,bar_cafe
-41.129978,16.542702,ov_borgo_35_41.1300_16.5427,Borgo 35,RESTAURANT,bar_cafe
-41.129110,16.542934,ov_sviniamo_41.1291_16.5429,Sviniamo,RESTAURANT,bar_cafe
-41.128935,16.540991,ov_banana_41.1289_16.5410,Banana,RESTAURANT,bar_cafe
-41.128829,16.541422,ov_marinelli_privilege_bar_41.1288_16.5414,Marinelli Privilege Bar,RESTAURANT,bar_cafe
-41.128741,16.540847,ov_chapeau_cafe_41.1287_16.5408,Chapeau Cafe,RESTAURANT,bar_cafe
-41.128788,16.541173,ov_marinico_caffe_h24_41.1288_16.5412,Marinico Caffe H24,RESTAURANT,bar_cafe
-41.128937,16.541850,ov_cordiale_41.1289_16.5419,Cordiale,RESTAURANT,bar_cafe
-41.128816,16.536841,ov_il_cibo_degli_dei_41.1288_16.5368,Il Cibo Degli Dei,RESTAURANT,bar_cafe
-41.109365,16.528931,ov_next_stop_snc_41.1094_16.5289,Next Stop Snc,RESTAURANT,bar_cafe
-41.135260,16.540850,ov_mat_bistrot_41.1353_16.5408,MAT bistrot,RESTAURANT,bar_cafe
-41.133160,16.542160,ov_cafe_aladdin_41.1332_16.5422,Cafe Aladdin,RESTAURANT,bar_cafe
-41.132848,16.539650,ov_caffetteria_elide_41.1328_16.5397,Caffetteria Elide,RESTAURANT,bar_cafe
-41.116536,16.582208,ov_sovero_snack_41.1165_16.5822,Sovero snack,RESTAURANT,bar_cafe
-41.117137,16.579724,ov_suberito_rooms_bar_41.1171_16.5797,Suberito rooms&bar,RESTAURANT,bar_cafe
-41.126781,16.546520,ov_wimm_cafe_41.1268_16.5465,Wimm Cafe,RESTAURANT,bar_cafe
-41.126469,16.551890,ov_boycott_il_rifugio_locale_41.1265_16.5519,Boycott Il Rifugio Locale,RESTAURANT,bar_cafe
-41.127230,16.548607,ov_bar_pizzeria_europa_41.1272_16.5486,Bar Pizzeria Europa,RESTAURANT,bar_cafe
-41.128546,16.551572,ov_stowaway_cafe_il_clandestino_41.1285_16.5516,Stowaway Cafe Il Clandestino,RESTAURANT,bar_cafe
-41.130931,16.552732,ov_gianicolo_coffee_bar_41.1309_16.5527,Gianicolo Coffee Bar,RESTAURANT,bar_cafe
-41.130569,16.551444,ov_harry_s_bar_terlizzi_41.1306_16.5514,Harry's Bar Terlizzi,RESTAURANT,bar_cafe
-41.130379,16.548159,ov_cin_cin_bar_41.1304_16.5482,Cin cin Bar,RESTAURANT,bar_cafe
-41.130366,16.548728,ov_night_and_day_bar_gelateria_41.1304_16.5487,Night and Day Bar Gelateria,RESTAURANT,bar_cafe
-41.130050,16.548240,ov_bar_da_gianna_viale_roma_49_terlizzi_41.1300_16.5482,Bar da gianna viale roma 49 terlizzi,RESTAURANT,bar_cafe
-41.130038,16.548831,ov_la_dolce_vita_gelateria_41.1300_16.5488,La Dolce Vita Gelateria,RESTAURANT,bar_cafe
-41.130290,16.545989,ov_trelicio_41.1303_16.5460,Trelicio,RESTAURANT,bar_cafe
-41.131995,16.548144,ov_plaza_cafe_41.1320_16.5481,Plaza Cafe,RESTAURANT,bar_cafe
-41.131856,16.550640,ov_the_drip_41.1319_16.5506,THE DRIP,RESTAURANT,bar_cafe
-41.133471,16.547308,ov_bar_veneto_41.1335_16.5473,Bar Veneto,RESTAURANT,bar_cafe
-41.133703,16.545940,ov_break_time_41.1337_16.5459,Break Time,RESTAURANT,bar_cafe
-41.133848,16.546689,ov_public_cafe_41.1338_16.5467,Public Cafe,RESTAURANT,bar_cafe
-41.130407,16.548148,osm_cin_cin_bar_2_0_41.1304_16.5481,Cin Cin Bar 2.0,bar_cafe,bar_cafe
-41.127531,16.548560,osm_sprite_41.1275_16.5486,Sprite,bar_cafe,bar_cafe
-41.130587,16.551474,osm_harry_s_bar_41.1306_16.5515,Harry's Bar,bar_cafe,bar_cafe
-41.130105,16.550790,osm_bar_orchidea_41.1301_16.5508,Bar Orchidea,bar_cafe,bar_cafe
-41.130294,16.542908,osm_caff__savoia_41.1303_16.5429,Caffè Savoia,bar_cafe,bar_cafe
-41.133813,16.543513,osm_bar_magik_41.1338_16.5435,Bar Magik,bar_cafe,bar_cafe
-41.130298,16.538736,osm_l_ancora_41.1303_16.5387,L'Ancora,bar_cafe,bar_cafe
-41.132986,16.539648,osm_alter_ego_41.1330_16.5396,Alter ego,bar_cafe,bar_cafe
-41.132063,16.538235,osm_caf__maxim_s_41.1321_16.5382,Cafè Maxim's,bar_cafe,bar_cafe
-41.131583,16.536695,osm_bet___bar_41.1316_16.5367,Bet & Bar,bar_cafe,bar_cafe
-41.130054,16.541105,osm_bar_cattedrale_41.1301_16.5411,Bar Cattedrale,bar_cafe,bar_cafe
-41.128579,16.541526,osm_caff__marinelli_41.1286_16.5415,Caffè Marinelli,bar_cafe,bar_cafe
-41.128524,16.549606,osm_stasi_bar_41.1285_16.5496,Stasi Bar,bar_cafe,bar_cafe
-41.133710,16.545934,osm_break_time_cafe__41.1337_16.5459,Break Time Cafe',bar_cafe,bar_cafe
-41.133844,16.545588,osm_the_barr_41.1338_16.5456,The Barr,bar_cafe,bar_cafe
-41.129660,16.541522,osm_vintage_caff__41.1297_16.5415,Vintage Caffè,bar_cafe,bar_cafe
-41.129508,16.540259,osm_bibap_41.1295_16.5403,Bibap,bar_cafe,bar_cafe
-41.129624,16.540795,osm_caminito_41.1296_16.5408,Caminito,bar_cafe,bar_cafe
-41.131537,16.538871,osm_dominga_caff__41.1315_16.5389,Dominga Caffè,bar_cafe,bar_cafe
-41.133550,16.547358,osm_bar_veneto_41.1335_16.5474,Bar Veneto,bar_cafe,bar_cafe
-41.130313,16.544377,osm_soleluna_41.1303_16.5444,SoleLuna,bar_cafe,bar_cafe
-41.126837,16.546618,osm_winn_caf__41.1268_16.5466,Winn Café,bar_cafe,bar_cafe
-41.129271,16.551590,osm_galaxy_caff__41.1293_16.5516,Galaxy Caffè,bar_cafe,bar_cafe
-41.132807,16.539360,osm_caffetteria___beer_shop_eli_de_41.1328_16.5394,Caffetteria - Beer Shop Eliìde,bar_cafe,bar_cafe
-41.129188,16.542558,osm_caffetteria_gelateria_michele_de_napoli_41.1292_16.5426,Caffetteria Gelateria Michele De Napoli,bar_cafe,bar_cafe
-41.118138,16.549806,osm_ulivi_di_san_giuliano_41.1181_16.5498,Ulivi di San Giuliano,bar_cafe,bar_cafe
-41.133840,16.546651,osm_blink_bar_41.1338_16.5467,Blink Bar,bar_cafe,bar_cafe
-41.129267,16.548503,osm_dolci_incontri_41.1293_16.5485,Dolci Incontri,bar_cafe,bar_cafe
-41.127235,16.548670,osm_pizzeria_piazza_europa_41.1272_16.5487,Pizzeria Piazza Europa,bar_cafe,bar_cafe
-41.128857,16.535466,osm_sottocoperta_bar_41.1289_16.5355,Sottocoperta Bar,bar_cafe,bar_cafe
-41.129903,16.549698,osm_caff__e_dintorni_41.1299_16.5497,caffè e dintorni,bar_cafe,bar_cafe
-41.130094,16.551727,osm_bam132_41.1301_16.5517,Bam132,bar_cafe,bar_cafe
-41.130094,16.550182,osm_chicco_d_oro_41.1301_16.5502,Chicco D'oro,bar_cafe,bar_cafe
-41.128967,16.538888,osm_bar_millico_41.1290_16.5389,Bar Millico,bar_cafe,bar_cafe
-41.126260,16.541057,osm_il_gal__41.1263_16.5411,Il Galè,bar_cafe,bar_cafe
-41.128553,16.551793,osm_stowaway_41.1286_16.5518,Stowaway,bar_cafe,bar_cafe
-41.131257,16.540687,osm_prosit_caf__41.1313_16.5407,Prosit Cafè,bar_cafe,bar_cafe
-41.130912,16.552741,osm_il_gianicolo_41.1309_16.5527,Il Gianicolo,bar_cafe,bar_cafe
-41.130094,16.540430,osm_fuoriposto_41.1301_16.5404,Fuoriposto,bar_cafe,bar_cafe
-41.128565,16.541345,osm_artemide_41.1286_16.5413,Artemide,bar_cafe,bar_cafe
-41.129221,16.542428,osm_dante___divino_convivio_41.1292_16.5424,Dante - Divino Convivio,bar_cafe,bar_cafe
-41.130948,16.542318,osm_pausa_caff__41.1309_16.5423,Pausa Caffè,bar_cafe,bar_cafe
-41.128673,16.540715,osm_chapeau_41.1287_16.5407,Chapeau,bar_cafe,bar_cafe
-41.130434,16.546481,osm_three_angels_41.1304_16.5465,Three Angels,bar_cafe,bar_cafe
-41.131941,16.544039,osm_caff__galitelli_41.1319_16.5440,Caffè Galitelli,bar_cafe,bar_cafe
-41.129913,16.542514,osm_borgo35_41.1299_16.5425,Borgo35,bar_cafe,bar_cafe
-41.130352,16.541159,osm_botanico_41.1304_16.5412,Botanico,bar_cafe,bar_cafe
-41.134739,16.541623,osm_famila_bistrot_41.1347_16.5416,Famila Bistrot,bar_cafe,bar_cafe
-41.132146,16.548364,osm_plaza_caf__41.1321_16.5484,Plaza cafè,bar_cafe,bar_cafe
-41.129606,16.537223,osm_zona_75_41.1296_16.5372,Zona 75,bar_cafe,bar_cafe
-41.130175,16.548686,osm_gelateria_il_desiderio_41.1302_16.5487,Gelateria Il Desiderio,bar_cafe,bar_cafe
-41.130178,16.547188,osm_gelateria_da_andrea_41.1302_16.5472,Gelateria Da Andrea,bar_cafe,bar_cafe
-41.117139,16.579822,osm_suberito_41.1171_16.5798,Suberito,bar_cafe,bar_cafe
-41.130792,16.519566,ov_campetti_salvatore_41.1308_16.5196,Campetti Salvatore,GYM,palestra
-41.131023,16.520251,ov_terlizzi_sporting_center_41.1310_16.5203,Terlizzi Sporting Center,GYM,palestra
-41.132391,16.542916,ov_oltreleondeasd_41.1324_16.5429,OltreLeOndeASD,GYM,palestra
-41.131250,16.545512,ov_fit_lab_personal_training_service_41.1313_16.5455,FIT LAB personal training service,GYM,palestra
-41.128642,16.543951,ov_arcadia_centro_discipline_orientali_41.1286_16.5440,Arcadia Centro Discipline Orientali,GYM,palestra
-41.127933,16.544513,ov_fitness_studio_41.1279_16.5445,Fitness Studio,GYM,palestra
-41.129107,16.535249,ov_villa__romanazzi_carducci__bari_41.1291_16.5352,Villa  Romanazzi Carducci  Bari,GYM,palestra
-41.133170,16.541575,ov_new_fitness_academy_41.1332_16.5416,New Fitness Academy,GYM,palestra
-41.123830,16.550050,ov_kombateam_puglia_41.1238_16.5500,Kombateam Puglia,GYM,palestra
-41.125439,16.547099,ov_danzarte_41.1254_16.5471,Danzarte,GYM,palestra
-41.125920,16.550580,ov_activity_center___dance_fitness_41.1259_16.5506,Activity Center - Dance&Fitness,GYM,palestra
-41.125940,16.550606,ov_siente_y_baila_conmigo_41.1259_16.5506,Siente y Baila conmigo,GYM,palestra
-41.127160,16.548330,ov_rainbow_ludoteca_41.1272_16.5483,rainbow ludoteca,GYM,palestra
-41.127393,16.545869,ov_abi_dance_41.1274_16.5459,ABI Dance,GYM,palestra
-41.129305,16.551291,ov_adrit_danceclass_41.1293_16.5513,AdriT Danceclass,GYM,palestra
-41.129727,16.547573,ov_magic_dance_1_41.1297_16.5476,Magic Dance 1,GYM,palestra
-41.130043,16.548081,ov_blu_shark_diving_41.1300_16.5481,Blu Shark Diving,GYM,palestra
-41.131009,16.546550,ov_dna_danza_41.1310_16.5465,Dna Danza,GYM,palestra
-41.132406,16.547083,ov_planet_fitness_gym_41.1324_16.5471,Planet Fitness Gym,GYM,palestra
-41.129039,16.542673,ov_pinacoteca_michele_de_napoli_41.1290_16.5427,Pinacoteca Michele de Napoli,MUSEUM,monumento
-41.129283,16.541495,ov_edicola_rara_41.1293_16.5415,Edicola RaRa,MUSEUM,monumento
+41.131207,16.535057,osm_ospedale_michele_sarcone_41.1312_16.5351,Ospedale Michele Sarcone,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ospedale_michele_sarcone_41.1312_16.5351.json,custom
+41.130886,16.520323,ov_centro_sportivo_camarelle_41.1309_16.5203,Centro Sportivo Camarelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/centro_sportivo_camarelle_41.1309_16.5203.json,custom
+41.131648,16.536176,ov_il_ritrovo_41.1316_16.5362,Il Ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_ritrovo_41.1316_16.5362.json,custom
+41.131843,16.537119,ov_pescheria_il_corallo_41.1318_16.5371,Pescheria IL Corallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pescheria_il_corallo_41.1318_16.5371.json,custom
+41.131311,16.543324,ov_da_gianni_braceria_41.1313_16.5433,Da Gianni Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/da_gianni_braceria_41.1313_16.5433.json,custom
+41.131096,16.542400,ov_polleria_gaetano_mazzone_41.1311_16.5424,Polleria Gaetano Mazzone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/polleria_gaetano_mazzone_41.1311_16.5424.json,custom
+41.130790,16.544573,ov_il_rosto_41.1308_16.5446,Il Rosto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_rosto_41.1308_16.5446.json,custom
+41.130891,16.543273,ov_pizzeria_il_vicolo___terlizzi_41.1309_16.5433,Pizzeria Il Vicolo - Terlizzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_il_vicolo_-_terlizzi_41.1309_16.5433.json,custom
+41.130362,16.543848,ov_tentazioni_golose_41.1304_16.5438,Tentazioni Golose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/tentazioni_golose_41.1304_16.5438.json,custom
+41.130734,16.540334,ov_il_vicolo_41.1307_16.5403,Il Vicolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_vicolo_41.1307_16.5403.json,custom
+41.129923,16.543015,ov_mingotauro_41.1299_16.5430,Mingotauro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mingotauro_41.1299_16.5430.json,custom
+41.129072,16.542290,ov_gourm8_41.1291_16.5423,Gourm8,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gourm8_41.1291_16.5423.json,custom
+41.129010,16.542530,ov_tafuri_41.1290_16.5425,Tafuri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/tafuri_41.1290_16.5425.json,custom
+41.129151,16.542495,ov_dante___divino_convivio_41.1292_16.5425,Dante - Divino Convivio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dante_-_divino_convivio_41.1292_16.5425.json,custom
+41.129149,16.542247,ov_green34___risto_pizzeria_41.1291_16.5422,GREEN34 - risto pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/green34_-_risto_pizzeria_41.1291_16.5422.json,custom
+41.128727,16.540755,ov_pizzeria_rosticceria_chapean_41.1287_16.5408,Pizzeria Rosticceria Chapean,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_rosticceria_chapean_41.1287_16.5408.json,custom
+41.128634,16.541411,ov_frank_sushi_club_41.1286_16.5414,FRANK Sushi Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/frank_sushi_club_41.1286_16.5414.json,custom
+41.128961,16.542024,ov_buns_50_41.1290_16.5420,Buns 50,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/buns_50_41.1290_16.5420.json,custom
+41.128542,16.543480,ov_pronto_pizza_41.1285_16.5435,Pronto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pronto_pizza_41.1285_16.5435.json,custom
+41.128556,16.541477,ov_braceria_fidelfo___carne_e_fuoco_41.1286_16.5415,Braceria Fidelfo - Carne e Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/braceria_fidelfo_-_carne_e_fuoco_41.1286_16.5415.json,custom
+41.128560,16.541555,ov_il_tumm__41.1286_16.5416,Il Tummà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_tumm_41.1286_16.5416.json,custom
+41.128764,16.534653,ov_caravanserraglio_41.1288_16.5347,Caravanserraglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caravanserraglio_41.1288_16.5347.json,custom
+41.128878,16.537157,ov_pizzeria_la_fornarina_41.1289_16.5372,Pizzeria La Fornarina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_la_fornarina_41.1289_16.5372.json,custom
+41.126985,16.544530,ov_tamu___al_carradore_pizzeria_41.1270_16.5445,Tamu - Al Carradore Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/tamu_-_al_carradore_pizzeria_41.1270_16.5445.json,custom
+41.123344,16.515996,ov_davs_fidelfo___bar_risto_pizza_41.1233_16.5160,DAVS Fidelfo - Bar Risto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/davs_fidelfo_-_bar_risto_pizza_41.1233_16.5160.json,custom
+41.122951,16.527294,ov_villa_eranthe_41.1230_16.5273,Villa Eranthe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/villa_eranthe_41.1230_16.5273.json,custom
+41.136678,16.545781,ov_pizzeria_terra_mia_41.1367_16.5458,Pizzeria Terra Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_terra_mia_41.1367_16.5458.json,custom
+41.133887,16.545586,ov_the_barr_41.1339_16.5456,The Barr,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/the_barr_41.1339_16.5456.json,custom
+41.133191,16.541301,ov_n_1_la_vita_e_bella_41.1332_16.5413,N.1 La Vita E Bella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/n1_la_vita_e_bella_41.1332_16.5413.json,custom
+41.133130,16.538960,ov_evviva___food___beer_fest_41.1331_16.5390,Evviva - Food & Beer Fest,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/evviva_-_food_beer_fest_41.1331_16.5390.json,custom
+41.132582,16.539133,ov_mama_pizza_amore_cucina_41.1326_16.5391,Mama Pizza Amore Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mama_pizza_amore_cucina_41.1326_16.5391.json,custom
+41.080863,16.560482,ov_ristorante_villa_de_napoli_41.0809_16.5605,Ristorante Villa De Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ristorante_villa_de_napoli_41.0809_16.5605.json,custom
+41.112727,16.548691,ov_il_gallo_41.1127_16.5487,Il gallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_gallo_41.1127_16.5487.json,custom
+41.125102,16.551505,ov_il_fiore_41.1251_16.5515,Il Fiore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_fiore_41.1251_16.5515.json,custom
+41.124371,16.549819,ov_red_brick_22_41.1244_16.5498,Red Brick 22,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/red_brick_22_41.1244_16.5498.json,custom
+41.126472,16.551580,ov_roberika_srl_41.1265_16.5516,Roberika SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/roberika_srl_41.1265_16.5516.json,custom
+41.128648,16.548733,ov_pescheria_e_friggitoria_41.1286_16.5487,Pescheria e friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pescheria_e_friggitoria_41.1286_16.5487.json,custom
+41.128809,16.547853,ov_macelleria_di_mimmo_de_chirico_41.1288_16.5479,Macelleria di Mimmo De Chirico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/macelleria_di_mimmo_de_chirico_41.1288_16.5479.json,custom
+41.128500,16.550815,ov_casa_del_tortellino_41.1285_16.5508,Casa Del Tortellino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/casa_del_tortellino_41.1285_16.5508.json,custom
+41.128505,16.550916,ov_de_nicolo_pastai_41.1285_16.5509,De Nicolo Pastai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/de_nicolo_pastai_41.1285_16.5509.json,custom
+41.128332,16.549148,ov_pizzeria_da_marchino_41.1283_16.5491,Pizzeria da Marchino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_da_marchino_41.1283_16.5491.json,custom
+41.128133,16.557376,ov_il_gioco_dei_sensi_pizzeria_41.1281_16.5574,Il Gioco dei Sensi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_gioco_dei_sensi_pizzeria_41.1281_16.5574.json,custom
+41.128190,16.557730,ov_trattoria_pizzeria_da_marchino_41.1282_16.5577,Trattoria-Pizzeria da Marchino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/trattoria-pizzeria_da_marchino_41.1282_16.5577.json,custom
+41.130603,16.551424,ov_i_tre_maialini_41.1306_16.5514,I tre maialini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/i_tre_maialini_41.1306_16.5514.json,custom
+41.130448,16.547373,ov_pizzeria_la_ginestra_41.1304_16.5474,Pizzeria La Ginestra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_la_ginestra_41.1304_16.5474.json,custom
+41.130363,16.548874,ov_braci_piacenti_41.1304_16.5489,Braci Piacenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/braci_piacenti_41.1304_16.5489.json,custom
+41.130560,16.547295,ov_kin_sushi_41.1306_16.5473,Kin sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/kin_sushi_41.1306_16.5473.json,custom
+41.131543,16.547526,ov_macelleria_braceria_d_aniello_41.1315_16.5475,Macelleria Braceria D'Aniello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/macelleria_braceria_daniello_41.1315_16.5475.json,custom
+41.131293,16.545909,ov_il_cubo_41.1313_16.5459,Il Cubo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_cubo_41.1313_16.5459.json,custom
+41.132955,16.546156,ov_mare_e_padella_41.1330_16.5462,Mare e Padella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mare_e_padella_41.1330_16.5462.json,custom
+41.133195,16.546501,ov_pastificio_terlizzese_41.1332_16.5465,Pastificio Terlizzese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pastificio_terlizzese_41.1332_16.5465.json,custom
+41.129567,16.542512,osm_l_angolo_della_bont__41.1296_16.5425,L'angolo della bontà,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/langolo_della_bont_41.1296_16.5425.json,custom
+41.130493,16.547379,osm_ristor_la_ginestra_41.1305_16.5474,Ristor La Ginestra,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ristor_la_ginestra_41.1305_16.5474.json,custom
+41.130657,16.547305,osm_kin_41.1307_16.5473,Kin,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/kin_41.1307_16.5473.json,custom
+41.130438,16.546607,osm_matilda_41.1304_16.5466,Matilda,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/matilda_41.1304_16.5466.json,custom
+41.129965,16.542506,osm_eden_cucina_del_sud_41.1300_16.5425,Eden cucina del sud,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/eden_cucina_del_sud_41.1300_16.5425.json,custom
+41.128909,16.542482,osm_nino_dei_tigli_41.1289_16.5425,Nino dei Tigli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/nino_dei_tigli_41.1289_16.5425.json,custom
+41.128956,16.542579,osm_alighieri_eventi_41.1290_16.5426,Alighieri Eventi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/alighieri_eventi_41.1290_16.5426.json,custom
+41.128378,16.549118,osm_da_marchino_41.1284_16.5491,Da Marchino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/da_marchino_41.1284_16.5491.json,custom
+41.131679,16.536184,osm_pizzeria_il_ritrovo_41.1317_16.5362,Pizzeria il Ritrovo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_il_ritrovo_41.1317_16.5362.json,custom
+41.129004,16.547695,osm_macelleria_braceria_41.1290_16.5477,Macelleria Braceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/macelleria_braceria_41.1290_16.5477.json,custom
+41.128792,16.537175,osm_la_fornarina_41.1288_16.5372,La Fornarina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/la_fornarina_41.1288_16.5372.json,custom
+41.130088,16.549882,osm_me_doner_41.1301_16.5499,Me Doner,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/me_doner_41.1301_16.5499.json,custom
+41.131319,16.543245,osm_macelleria_braceria_da_gianni_41.1313_16.5432,Macelleria Braceria Da Gianni,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/macelleria_braceria_da_gianni_41.1313_16.5432.json,custom
+41.132858,16.543606,osm_rosticceria_41.1329_16.5436,Rosticceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/rosticceria_41.1329_16.5436.json,custom
+41.128614,16.543637,osm_gi__mazzini_41.1286_16.5436,Già mazzini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gi_mazzini_41.1286_16.5436.json,custom
+41.128729,16.534704,osm_caravan_serraglio_41.1287_16.5347,Caravan serraglio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caravan_serraglio_41.1287_16.5347.json,custom
+41.129959,16.549688,osm_ghiottoneria_41.1300_16.5497,Ghiottoneria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ghiottoneria_41.1300_16.5497.json,custom
+41.129078,16.542829,osm_sviniamo_41.1291_16.5428,Sviniamo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sviniamo_41.1291_16.5428.json,custom
+41.130839,16.549040,osm_primi_di_tutto_41.1308_16.5490,Primi Di Tutto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/primi_di_tutto_41.1308_16.5490.json,custom
+41.128026,16.557213,osm_il_gioco_dei_sensi_41.1280_16.5572,Il gioco dei sensi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_gioco_dei_sensi_41.1280_16.5572.json,custom
+41.128667,16.540781,osm_chapeau_41.1287_16.5408,Chapeau,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/chapeau_41.1287_16.5408.json,custom
+41.129982,16.543206,osm_mingo_tauro_41.1300_16.5432,Mingo Tauro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mingo_tauro_41.1300_16.5432.json,custom
+41.132857,16.544431,osm_ristor_dinner_41.1329_16.5444,Ristor Dinner,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ristor_dinner_41.1329_16.5444.json,custom
+41.130768,16.551234,osm_braceria_quercia_41.1308_16.5512,Braceria Quercia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/braceria_quercia_41.1308_16.5512.json,custom
+41.128826,16.541434,osm_fidelfo_41.1288_16.5414,Fidelfo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fidelfo_41.1288_16.5414.json,custom
+41.136728,16.545786,osm_terra_mia_41.1367_16.5458,Terra Mia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/terra_mia_41.1367_16.5458.json,custom
+41.133586,16.539638,osm_dinapoli_41.1336_16.5396,Dinapoli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dinapoli_41.1336_16.5396.json,custom
+41.133150,16.541319,osm_n__1_la_vita___bella_41.1332_16.5413,N. 1 la vita è bella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/n_1_la_vita_bella_41.1332_16.5413.json,custom
+41.128302,16.541419,osm_frank_sushi_club_41.1283_16.5414,FRANK Sushi Club,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/frank_sushi_club_41.1283_16.5414.json,custom
+41.128303,16.541475,osm_braceria_fidelfo_41.1283_16.5415,Braceria Fidelfo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/braceria_fidelfo_41.1283_16.5415.json,custom
+41.130925,16.544568,osm_33_giri_41.1309_16.5446,33 giri,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/33_giri_41.1309_16.5446.json,custom
+41.133252,16.542980,osm_o__vesuvio_41.1333_16.5430,O' Vesuvio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/o_vesuvio_41.1333_16.5430.json,custom
+41.131530,16.536761,ov_mistertoto_bet_and_bar_41.1315_16.5368,Mistertoto Bet and Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mistertoto_bet_and_bar_41.1315_16.5368.json,custom
+41.132075,16.538258,ov_cafe_maxim_41.1321_16.5383,Cafe Maxim,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/cafe_maxim_41.1321_16.5383.json,custom
+41.132368,16.538756,ov_sottocoperta_bar_41.1324_16.5388,sottocoperta bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sottocoperta_bar_41.1324_16.5388.json,custom
+41.131990,16.544110,ov_ferramenta_gisondo_m_c_41.1320_16.5441,Ferramenta gisondo M C,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ferramenta_gisondo_m_c_41.1320_16.5441.json,custom
+41.131379,16.538691,ov_art_coffee_41.1314_16.5387,Art Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/art_coffee_41.1314_16.5387.json,custom
+41.131273,16.540657,ov_prosit_cafe_41.1313_16.5407,Prosit Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/prosit_cafe_41.1313_16.5407.json,custom
+41.130570,16.542431,ov_gc_italia_41.1306_16.5424,GC Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gc_italia_41.1306_16.5424.json,custom
+41.130360,16.544140,ov_piccolo_bar_41.1304_16.5441,Piccolo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/piccolo_bar_41.1304_16.5441.json,custom
+41.130419,16.545318,ov_histoire_41.1304_16.5453,Histoire,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/histoire_41.1304_16.5453.json,custom
+41.130302,16.544961,ov_carpe_diem_41.1303_16.5450,Carpe Diem,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/carpe_diem_41.1303_16.5450.json,custom
+41.130322,16.544311,ov_soleluna_cafe_41.1303_16.5443,Soleluna Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/soleluna_cafe_41.1303_16.5443.json,custom
+41.130237,16.542918,ov_caffe_savoia_41.1302_16.5429,Caffe Savoia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caffe_savoia_41.1302_16.5429.json,custom
+41.130496,16.542729,ov_karma___lounge_bar___41.1305_16.5427,Karma - Lounge Bar -,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/karma_-_lounge_bar_-_41.1305_16.5427.json,custom
+41.130384,16.541197,ov_botanico___arco_arboreo_41.1304_16.5412,Botanico - Arco Arboreo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/botanico_-_arco_arboreo_41.1304_16.5412.json,custom
+41.130369,16.538649,ov_l_ancora_cafe_41.1304_16.5386,L'Ancora Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/lancora_cafe_41.1304_16.5386.json,custom
+41.129619,16.537208,ov_zona75_2_0_41.1296_16.5372,Zona75 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/zona75_20_41.1296_16.5372.json,custom
+41.129478,16.540259,ov_bibap_coffee_break_terlizzi_41.1295_16.5403,Bibap coffee break Terlizzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bibap_coffee_break_terlizzi_41.1295_16.5403.json,custom
+41.129674,16.541582,ov_vintage_cafe_41.1297_16.5416,Vintage Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/vintage_cafe_41.1297_16.5416.json,custom
+41.130129,16.540389,ov_fuori_posto_41.1301_16.5404,Fuori Posto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fuori_posto_41.1301_16.5404.json,custom
+41.129978,16.542702,ov_borgo_35_41.1300_16.5427,Borgo 35,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/borgo_35_41.1300_16.5427.json,custom
+41.129110,16.542934,ov_sviniamo_41.1291_16.5429,Sviniamo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sviniamo_41.1291_16.5429.json,custom
+41.128935,16.540991,ov_banana_41.1289_16.5410,Banana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/banana_41.1289_16.5410.json,custom
+41.128829,16.541422,ov_marinelli_privilege_bar_41.1288_16.5414,Marinelli Privilege Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/marinelli_privilege_bar_41.1288_16.5414.json,custom
+41.128741,16.540847,ov_chapeau_cafe_41.1287_16.5408,Chapeau Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/chapeau_cafe_41.1287_16.5408.json,custom
+41.128788,16.541173,ov_marinico_caffe_h24_41.1288_16.5412,Marinico Caffe H24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/marinico_caffe_h24_41.1288_16.5412.json,custom
+41.128937,16.541850,ov_cordiale_41.1289_16.5419,Cordiale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/cordiale_41.1289_16.5419.json,custom
+41.128816,16.536841,ov_il_cibo_degli_dei_41.1288_16.5368,Il Cibo Degli Dei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_cibo_degli_dei_41.1288_16.5368.json,custom
+41.109365,16.528931,ov_next_stop_snc_41.1094_16.5289,Next Stop Snc,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/next_stop_snc_41.1094_16.5289.json,custom
+41.135260,16.540850,ov_mat_bistrot_41.1353_16.5408,MAT bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/mat_bistrot_41.1353_16.5408.json,custom
+41.133160,16.542160,ov_cafe_aladdin_41.1332_16.5422,Cafe Aladdin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/cafe_aladdin_41.1332_16.5422.json,custom
+41.132848,16.539650,ov_caffetteria_elide_41.1328_16.5397,Caffetteria Elide,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caffetteria_elide_41.1328_16.5397.json,custom
+41.116536,16.582208,ov_sovero_snack_41.1165_16.5822,Sovero snack,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sovero_snack_41.1165_16.5822.json,custom
+41.117137,16.579724,ov_suberito_rooms_bar_41.1171_16.5797,Suberito rooms&bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/suberito_roomsbar_41.1171_16.5797.json,custom
+41.126781,16.546520,ov_wimm_cafe_41.1268_16.5465,Wimm Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/wimm_cafe_41.1268_16.5465.json,custom
+41.126469,16.551890,ov_boycott_il_rifugio_locale_41.1265_16.5519,Boycott Il Rifugio Locale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/boycott_il_rifugio_locale_41.1265_16.5519.json,custom
+41.127230,16.548607,ov_bar_pizzeria_europa_41.1272_16.5486,Bar Pizzeria Europa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_pizzeria_europa_41.1272_16.5486.json,custom
+41.128546,16.551572,ov_stowaway_cafe_il_clandestino_41.1285_16.5516,Stowaway Cafe Il Clandestino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/stowaway_cafe_il_clandestino_41.1285_16.5516.json,custom
+41.130931,16.552732,ov_gianicolo_coffee_bar_41.1309_16.5527,Gianicolo Coffee Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gianicolo_coffee_bar_41.1309_16.5527.json,custom
+41.130569,16.551444,ov_harry_s_bar_terlizzi_41.1306_16.5514,Harry's Bar Terlizzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/harrys_bar_terlizzi_41.1306_16.5514.json,custom
+41.130379,16.548159,ov_cin_cin_bar_41.1304_16.5482,Cin cin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/cin_cin_bar_41.1304_16.5482.json,custom
+41.130366,16.548728,ov_night_and_day_bar_gelateria_41.1304_16.5487,Night and Day Bar Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/night_and_day_bar_gelateria_41.1304_16.5487.json,custom
+41.130050,16.548240,ov_bar_da_gianna_viale_roma_49_terlizzi_41.1300_16.5482,Bar da gianna viale roma 49 terlizzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_da_gianna_viale_roma_49_terlizzi_41.1300_16.5482.json,custom
+41.130038,16.548831,ov_la_dolce_vita_gelateria_41.1300_16.5488,La Dolce Vita Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/la_dolce_vita_gelateria_41.1300_16.5488.json,custom
+41.130290,16.545989,ov_trelicio_41.1303_16.5460,Trelicio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/trelicio_41.1303_16.5460.json,custom
+41.131995,16.548144,ov_plaza_cafe_41.1320_16.5481,Plaza Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/plaza_cafe_41.1320_16.5481.json,custom
+41.131856,16.550640,ov_the_drip_41.1319_16.5506,THE DRIP,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/the_drip_41.1319_16.5506.json,custom
+41.133471,16.547308,ov_bar_veneto_41.1335_16.5473,Bar Veneto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_veneto_41.1335_16.5473.json,custom
+41.133703,16.545940,ov_break_time_41.1337_16.5459,Break Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/break_time_41.1337_16.5459.json,custom
+41.133848,16.546689,ov_public_cafe_41.1338_16.5467,Public Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/public_cafe_41.1338_16.5467.json,custom
+41.130407,16.548148,osm_cin_cin_bar_2_0_41.1304_16.5481,Cin Cin Bar 2.0,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/cin_cin_bar_20_41.1304_16.5481.json,custom
+41.127531,16.548560,osm_sprite_41.1275_16.5486,Sprite,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sprite_41.1275_16.5486.json,custom
+41.130587,16.551474,osm_harry_s_bar_41.1306_16.5515,Harry's Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/harrys_bar_41.1306_16.5515.json,custom
+41.130105,16.550790,osm_bar_orchidea_41.1301_16.5508,Bar Orchidea,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_orchidea_41.1301_16.5508.json,custom
+41.130294,16.542908,osm_caff__savoia_41.1303_16.5429,Caffè Savoia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caff_savoia_41.1303_16.5429.json,custom
+41.133813,16.543513,osm_bar_magik_41.1338_16.5435,Bar Magik,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_magik_41.1338_16.5435.json,custom
+41.130298,16.538736,osm_l_ancora_41.1303_16.5387,L'Ancora,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/lancora_41.1303_16.5387.json,custom
+41.132986,16.539648,osm_alter_ego_41.1330_16.5396,Alter ego,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/alter_ego_41.1330_16.5396.json,custom
+41.132063,16.538235,osm_caf__maxim_s_41.1321_16.5382,Cafè Maxim's,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caf_maxims_41.1321_16.5382.json,custom
+41.131583,16.536695,osm_bet___bar_41.1316_16.5367,Bet & Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bet_bar_41.1316_16.5367.json,custom
+41.130054,16.541105,osm_bar_cattedrale_41.1301_16.5411,Bar Cattedrale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_cattedrale_41.1301_16.5411.json,custom
+41.128579,16.541526,osm_caff__marinelli_41.1286_16.5415,Caffè Marinelli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caff_marinelli_41.1286_16.5415.json,custom
+41.128524,16.549606,osm_stasi_bar_41.1285_16.5496,Stasi Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/stasi_bar_41.1285_16.5496.json,custom
+41.133710,16.545934,osm_break_time_cafe__41.1337_16.5459,Break Time Cafe',bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/break_time_cafe_41.1337_16.5459.json,custom
+41.133844,16.545588,osm_the_barr_41.1338_16.5456,The Barr,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/the_barr_41.1338_16.5456.json,custom
+41.129660,16.541522,osm_vintage_caff__41.1297_16.5415,Vintage Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/vintage_caff_41.1297_16.5415.json,custom
+41.129508,16.540259,osm_bibap_41.1295_16.5403,Bibap,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bibap_41.1295_16.5403.json,custom
+41.129624,16.540795,osm_caminito_41.1296_16.5408,Caminito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caminito_41.1296_16.5408.json,custom
+41.131537,16.538871,osm_dominga_caff__41.1315_16.5389,Dominga Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dominga_caff_41.1315_16.5389.json,custom
+41.133550,16.547358,osm_bar_veneto_41.1335_16.5474,Bar Veneto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_veneto_41.1335_16.5474.json,custom
+41.130313,16.544377,osm_soleluna_41.1303_16.5444,SoleLuna,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/soleluna_41.1303_16.5444.json,custom
+41.126837,16.546618,osm_winn_caf__41.1268_16.5466,Winn Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/winn_caf_41.1268_16.5466.json,custom
+41.129271,16.551590,osm_galaxy_caff__41.1293_16.5516,Galaxy Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/galaxy_caff_41.1293_16.5516.json,custom
+41.132807,16.539360,osm_caffetteria___beer_shop_eli_de_41.1328_16.5394,Caffetteria - Beer Shop Eliìde,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caffetteria_-_beer_shop_elide_41.1328_16.5394.json,custom
+41.129188,16.542558,osm_caffetteria_gelateria_michele_de_napoli_41.1292_16.5426,Caffetteria Gelateria Michele De Napoli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caffetteria_gelateria_michele_de_napoli_41.1292_16.5426.json,custom
+41.118138,16.549806,osm_ulivi_di_san_giuliano_41.1181_16.5498,Ulivi di San Giuliano,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/ulivi_di_san_giuliano_41.1181_16.5498.json,custom
+41.133840,16.546651,osm_blink_bar_41.1338_16.5467,Blink Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/blink_bar_41.1338_16.5467.json,custom
+41.129267,16.548503,osm_dolci_incontri_41.1293_16.5485,Dolci Incontri,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dolci_incontri_41.1293_16.5485.json,custom
+41.127235,16.548670,osm_pizzeria_piazza_europa_41.1272_16.5487,Pizzeria Piazza Europa,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pizzeria_piazza_europa_41.1272_16.5487.json,custom
+41.128857,16.535466,osm_sottocoperta_bar_41.1289_16.5355,Sottocoperta Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/sottocoperta_bar_41.1289_16.5355.json,custom
+41.129903,16.549698,osm_caff__e_dintorni_41.1299_16.5497,caffè e dintorni,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caff_e_dintorni_41.1299_16.5497.json,custom
+41.130094,16.551727,osm_bam132_41.1301_16.5517,Bam132,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bam132_41.1301_16.5517.json,custom
+41.130094,16.550182,osm_chicco_d_oro_41.1301_16.5502,Chicco D'oro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/chicco_doro_41.1301_16.5502.json,custom
+41.128967,16.538888,osm_bar_millico_41.1290_16.5389,Bar Millico,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/bar_millico_41.1290_16.5389.json,custom
+41.126260,16.541057,osm_il_gal__41.1263_16.5411,Il Galè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_gal_41.1263_16.5411.json,custom
+41.128553,16.551793,osm_stowaway_41.1286_16.5518,Stowaway,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/stowaway_41.1286_16.5518.json,custom
+41.131257,16.540687,osm_prosit_caf__41.1313_16.5407,Prosit Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/prosit_caf_41.1313_16.5407.json,custom
+41.130912,16.552741,osm_il_gianicolo_41.1309_16.5527,Il Gianicolo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/il_gianicolo_41.1309_16.5527.json,custom
+41.130094,16.540430,osm_fuoriposto_41.1301_16.5404,Fuoriposto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fuoriposto_41.1301_16.5404.json,custom
+41.128565,16.541345,osm_artemide_41.1286_16.5413,Artemide,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/artemide_41.1286_16.5413.json,custom
+41.129221,16.542428,osm_dante___divino_convivio_41.1292_16.5424,Dante - Divino Convivio,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dante_-_divino_convivio_41.1292_16.5424.json,custom
+41.130948,16.542318,osm_pausa_caff__41.1309_16.5423,Pausa Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pausa_caff_41.1309_16.5423.json,custom
+41.128673,16.540715,osm_chapeau_41.1287_16.5407,Chapeau,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/chapeau_41.1287_16.5407.json,custom
+41.130434,16.546481,osm_three_angels_41.1304_16.5465,Three Angels,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/three_angels_41.1304_16.5465.json,custom
+41.131941,16.544039,osm_caff__galitelli_41.1319_16.5440,Caffè Galitelli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/caff_galitelli_41.1319_16.5440.json,custom
+41.129913,16.542514,osm_borgo35_41.1299_16.5425,Borgo35,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/borgo35_41.1299_16.5425.json,custom
+41.130352,16.541159,osm_botanico_41.1304_16.5412,Botanico,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/botanico_41.1304_16.5412.json,custom
+41.134739,16.541623,osm_famila_bistrot_41.1347_16.5416,Famila Bistrot,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/famila_bistrot_41.1347_16.5416.json,custom
+41.132146,16.548364,osm_plaza_caf__41.1321_16.5484,Plaza cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/plaza_caf_41.1321_16.5484.json,custom
+41.129606,16.537223,osm_zona_75_41.1296_16.5372,Zona 75,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/zona_75_41.1296_16.5372.json,custom
+41.130175,16.548686,osm_gelateria_il_desiderio_41.1302_16.5487,Gelateria Il Desiderio,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gelateria_il_desiderio_41.1302_16.5487.json,custom
+41.130178,16.547188,osm_gelateria_da_andrea_41.1302_16.5472,Gelateria Da Andrea,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/gelateria_da_andrea_41.1302_16.5472.json,custom
+41.117139,16.579822,osm_suberito_41.1171_16.5798,Suberito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/suberito_41.1171_16.5798.json,custom
+41.130792,16.519566,ov_campetti_salvatore_41.1308_16.5196,Campetti Salvatore,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/campetti_salvatore_41.1308_16.5196.json,custom
+41.131023,16.520251,ov_terlizzi_sporting_center_41.1310_16.5203,Terlizzi Sporting Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/terlizzi_sporting_center_41.1310_16.5203.json,custom
+41.132391,16.542916,ov_oltreleondeasd_41.1324_16.5429,OltreLeOndeASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/oltreleondeasd_41.1324_16.5429.json,custom
+41.131250,16.545512,ov_fit_lab_personal_training_service_41.1313_16.5455,FIT LAB personal training service,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fit_lab_personal_training_service_41.1313_16.5455.json,custom
+41.128642,16.543951,ov_arcadia_centro_discipline_orientali_41.1286_16.5440,Arcadia Centro Discipline Orientali,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/arcadia_centro_discipline_orientali_41.1286_16.5440.json,custom
+41.127933,16.544513,ov_fitness_studio_41.1279_16.5445,Fitness Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fitness_studio_41.1279_16.5445.json,custom
+41.129107,16.535249,ov_villa__romanazzi_carducci__bari_41.1291_16.5352,Villa  Romanazzi Carducci  Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/villa_romanazzi_carducci_bari_41.1291_16.5352.json,custom
+41.133170,16.541575,ov_new_fitness_academy_41.1332_16.5416,New Fitness Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/new_fitness_academy_41.1332_16.5416.json,custom
+41.123830,16.550050,ov_kombateam_puglia_41.1238_16.5500,Kombateam Puglia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/kombateam_puglia_41.1238_16.5500.json,custom
+41.125439,16.547099,ov_danzarte_41.1254_16.5471,Danzarte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/danzarte_41.1254_16.5471.json,custom
+41.125920,16.550580,ov_activity_center___dance_fitness_41.1259_16.5506,Activity Center - Dance&Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/activity_center_-_dancefitness_41.1259_16.5506.json,custom
+41.125940,16.550606,ov_siente_y_baila_conmigo_41.1259_16.5506,Siente y Baila conmigo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/siente_y_baila_conmigo_41.1259_16.5506.json,custom
+41.127160,16.548330,ov_rainbow_ludoteca_41.1272_16.5483,rainbow ludoteca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/rainbow_ludoteca_41.1272_16.5483.json,custom
+41.127393,16.545869,ov_abi_dance_41.1274_16.5459,ABI Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/abi_dance_41.1274_16.5459.json,custom
+41.129305,16.551291,ov_adrit_danceclass_41.1293_16.5513,AdriT Danceclass,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/adrit_danceclass_41.1293_16.5513.json,custom
+41.129727,16.547573,ov_magic_dance_1_41.1297_16.5476,Magic Dance 1,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/magic_dance_1_41.1297_16.5476.json,custom
+41.130043,16.548081,ov_blu_shark_diving_41.1300_16.5481,Blu Shark Diving,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/blu_shark_diving_41.1300_16.5481.json,custom
+41.131009,16.546550,ov_dna_danza_41.1310_16.5465,Dna Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dna_danza_41.1310_16.5465.json,custom
+41.132406,16.547083,ov_planet_fitness_gym_41.1324_16.5471,Planet Fitness Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/planet_fitness_gym_41.1324_16.5471.json,custom
+41.128605,16.550651,osm_happy_forma_41.1286_16.5507,Happy Forma,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/happy_forma_41.1286_16.5507.json,custom
+41.132341,16.547052,osm_planet_gym_41.1323_16.5471,Planet Gym,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/planet_gym_41.1323_16.5471.json,custom
+41.129039,16.542673,ov_pinacoteca_michele_de_napoli_41.1290_16.5427,Pinacoteca Michele de Napoli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/pinacoteca_michele_de_napoli_41.1290_16.5427.json,custom
+41.129283,16.541495,ov_edicola_rara_41.1293_16.5415,Edicola RaRa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/edicola_rara_41.1293_16.5415.json,custom

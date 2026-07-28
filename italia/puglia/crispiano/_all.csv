@@ -1,71 +1,72 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Crispiano -- Tutti
-40.608697,17.234262,osm_saracino_pizza___passione_40.6087_17.2343,Saracino Pizza & Passione,ristorante,ristorante
-40.605000,17.230860,ov_saige_sanitaria_ortopedia_e_prima_infanz_40.6050_17.2309,Saige Sanitaria Ortopedia E PRIMA Infanzia,HOSPITAL,hospital
-40.577306,17.193283,ov_agriturismo_san_michele_in_triglie_40.5773_17.1933,Agriturismo San Michele in Triglie,RESTAURANT,ristorante
-40.601740,17.227538,ov_tuttobuono_40.6017_17.2275,Tuttobuono,RESTAURANT,ristorante
-40.602217,17.227898,ov_saracino_leonardo_pizzeria_ristorante_40.6022_17.2279,Saracino Leonardo Pizzeria Ristorante,RESTAURANT,ristorante
-40.603320,17.231735,ov_la_cueva_40.6033_17.2317,La Cueva,RESTAURANT,ristorante
-40.621888,17.187065,ov_masseria_la_pizzica_40.6219_17.1871,Masseria la Pizzica,RESTAURANT,ristorante
-40.604169,17.222087,ov_la_brace_40.6042_17.2221,La Brace,RESTAURANT,ristorante
-40.604751,17.229882,ov_pizzeria_trattoria_pentima_rossa_di_grec_40.6048_17.2299,Pizzeria Trattoria Pentima Rossa di Greco Angelo,RESTAURANT,ristorante
-40.603985,17.228847,ov_la_cuccagna_giro_di_vite_40.6040_17.2288,La Cuccagna Giro di Vite,RESTAURANT,ristorante
-40.603673,17.231359,ov_la_cucina_dei_desideri_40.6037_17.2314,La cucina dei desideri,RESTAURANT,ristorante
-40.605391,17.232566,ov_ristorante_la_sosta_40.6054_17.2326,Ristorante La Sosta,RESTAURANT,ristorante
-40.605330,17.232577,ov_cucina_e_bottega_40.6053_17.2326,Cucina e bottega,RESTAURANT,ristorante
-40.605011,17.233694,ov_ristorante_le_tre_lanterne_40.6050_17.2337,Ristorante Le Tre Lanterne,RESTAURANT,ristorante
-40.605177,17.234210,ov_nuovi_sapori_40.6052_17.2342,Nuovi Sapori,RESTAURANT,ristorante
-40.605641,17.230812,ov_tom__restaurant_40.6056_17.2308,Tomà Restaurant,RESTAURANT,ristorante
-40.605844,17.229357,ov_focacceria_pizzeria_nico_s_40.6058_17.2294,Focacceria Pizzeria Nico'S,RESTAURANT,ristorante
-40.608645,17.234234,ov_pizzeria_saracino_40.6086_17.2342,Pizzeria Saracino,RESTAURANT,ristorante
-40.608193,17.229185,ov_le_vetrine_del_gusto_40.6082_17.2292,Le Vetrine del Gusto,RESTAURANT,ristorante
-40.610533,17.231561,ov_l_essenza_in_vista_40.6105_17.2316,L'essenza In Vista,RESTAURANT,ristorante
-40.624143,17.227664,ov_ristorante_pizzeria_pentima_rossa_40.6241_17.2277,Ristorante Pizzeria Pentima Rossa,RESTAURANT,ristorante
-40.610678,17.243759,ov_rosticceria_al_brigantino_martellotta_40.6107_17.2438,Rosticceria Al Brigantino Martellotta,RESTAURANT,ristorante
-40.607700,17.234884,ov_focacceria_la_villetta_40.6077_17.2349,Focacceria La Villetta,RESTAURANT,ristorante
-40.607847,17.237101,ov_manhattan_pizza___grill_restaurant_40.6078_17.2371,Manhattan Pizza & Grill Restaurant,RESTAURANT,ristorante
-40.608180,17.236760,ov_non_solo_pizze_40.6082_17.2368,Non solo PIZZE,RESTAURANT,ristorante
-40.606589,17.237191,ov_braceria_gourmet_40.6066_17.2372,Braceria Gourmet,RESTAURANT,ristorante
-40.606325,17.237702,ov_pescheria_da_ivan_40.6063_17.2377,Pescheria da Ivan,RESTAURANT,ristorante
-40.605520,17.236625,ov_punto_caldo_fast_food_40.6055_17.2366,Punto Caldo Fast Food,RESTAURANT,ristorante
-40.604695,17.235280,ov_delizie_e_focacce_da_enzo_40.6047_17.2353,Delizie e focacce da Enzo,RESTAURANT,ristorante
-40.604429,17.235469,ov_ristorante_margherita_40.6044_17.2355,Ristorante Margherita,RESTAURANT,ristorante
-40.603820,17.237052,ov_la_marherita_40.6038_17.2371,La marherita,RESTAURANT,ristorante
-40.604135,17.237205,ov_la_piccola_botte_40.6041_17.2372,La Piccola Botte,RESTAURANT,ristorante
-40.640238,17.274197,ov_masseria_pilano_40.6402_17.2742,Masseria Pilano,RESTAURANT,ristorante
-40.603413,17.228567,ov_bar_raffy_40.6034_17.2286,Bar Raffy,RESTAURANT,bar_cafe
-40.603129,17.231403,ov_symposium_cafe_40.6031_17.2314,Symposium Cafe,RESTAURANT,bar_cafe
-40.600447,17.237597,ov_bar_new_dimensions_40.6004_17.2376,bar new dimensions,RESTAURANT,bar_cafe
-40.604278,17.184815,ov_vini_biologici_speziale_40.6043_17.1848,Vini Biologici Speziale,RESTAURANT,bar_cafe
-40.604158,17.222049,ov_microbirrificio_palmisano_40.6042_17.2220,Microbirrificio Palmisano,RESTAURANT,bar_cafe
-40.605282,17.231357,ov_bar_colucci_crispiano_40.6053_17.2314,Bar Colucci Crispiano,RESTAURANT,bar_cafe
-40.605282,17.231716,ov_bar_ideal_40.6053_17.2317,Bar Ideal,RESTAURANT,bar_cafe
-40.605473,17.228921,ov_bar_free_style_40.6055_17.2289,Bar Free Style,RESTAURANT,bar_cafe
-40.606761,17.233343,ov_carpediem_art_cafe_40.6068_17.2333,Carpediem Art Cafe,RESTAURANT,bar_cafe
-40.608616,17.225263,ov_la_dolce_vita_40.6086_17.2253,La dolce vita,RESTAURANT,bar_cafe
-40.608829,17.235578,ov_glam_caffe_di_attolino_carmine_40.6088_17.2356,Glam Caffe Di Attolino Carmine,RESTAURANT,bar_cafe
-40.606613,17.237572,ov_le_terrazze_wine_bar_40.6066_17.2376,Le Terrazze Wine Bar,RESTAURANT,bar_cafe
-40.607032,17.238648,ov_nirvana_2_srl_40.6070_17.2386,Nirvana 2 SRL,RESTAURANT,bar_cafe
-40.607127,17.238810,ov_vincent_caff__40.6071_17.2388,Vincent Caffè,RESTAURANT,bar_cafe
-40.605386,17.236619,ov_margent_crispiano_40.6054_17.2366,Margent Crispiano,RESTAURANT,bar_cafe
-40.604258,17.236094,ov_le_gardenie_40.6043_17.2361,Le Gardenie,RESTAURANT,bar_cafe
-40.604133,17.235861,ov_pasticceria_caffetteria_le_gardenie_40.6041_17.2359,Pasticceria caffetteria le gardenie,RESTAURANT,bar_cafe
-40.603834,17.237236,ov_bar_la_piccola_botte_40.6038_17.2372,Bar La Piccola Botte,RESTAURANT,bar_cafe
-40.603852,17.237160,ov_caff__carrieri_40.6039_17.2372,CAFFÈ Carrieri,RESTAURANT,bar_cafe
-40.615354,17.268674,ov_caffe_del_borgo_40.6154_17.2687,Caffe del Borgo,RESTAURANT,bar_cafe
-40.615155,17.268756,ov_san_simone_40.6152_17.2688,San Simone,RESTAURANT,bar_cafe
-40.605551,17.229091,osm_bar_free_style_40.6056_17.2291,Bar Free style,bar_cafe,bar_cafe
-40.607434,17.238484,osm_leone_caff__40.6074_17.2385,Leone Caffè,bar_cafe,bar_cafe
-40.605763,17.228588,osm_aleta_40.6058_17.2286,Aleta,bar_cafe,bar_cafe
-40.601057,17.227884,osm_blucksmith_40.6011_17.2279,Blucksmith,bar_cafe,bar_cafe
-40.587858,17.213220,ov_gold_s_gym_40.5879_17.2132,Gold's Gym,GYM,palestra
-40.600652,17.226368,ov_ocram_gym_functionalfit_40.6007_17.2264,Ocram Gym FunctionalFit,GYM,palestra
-40.606995,17.210864,ov_i_rampicanti_climbing_farm_40.6070_17.2109,I Rampicanti Climbing Farm,GYM,palestra
-40.604371,17.232560,ov_74012_fitness_40.6044_17.2326,74012 Fitness,GYM,palestra
-40.606601,17.228906,ov_moving_body_asd_40.6066_17.2289,Moving Body ASD,GYM,palestra
-40.607032,17.233323,ov_la_isla_cubana_40.6070_17.2333,La Isla Cubana,GYM,palestra
-40.608493,17.220906,ov_a_s_d_4horses_40.6085_17.2209,A.S.D 4Horses,GYM,palestra
-40.606060,17.237980,ov_cooperativa_sociale_skarabokkiando_40.6061_17.2380,Cooperativa sociale Skarabokkiando,GYM,palestra
-40.605028,17.234569,ov_asd_studio_danza_scarpette_rosa_40.6050_17.2346,ASD Studio Danza Scarpette Rosa,GYM,palestra
-40.605533,17.231172,ov_torre_cacace_40.6055_17.2312,Torre Cacace,MONUMENT,monumento
-40.620657,17.228213,ov_chiosco_pentimarossa_40.6207_17.2282,Chiosco Pentimarossa,MONUMENT,monumento
+40.605000,17.230860,ov_saige_sanitaria_ortopedia_e_prima_infanz_40.6050_17.2309,Saige Sanitaria Ortopedia E PRIMA Infanzia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/saige_sanitaria_ortopedia_e_prima_infanz_40.6050_17.2309.json,custom
+40.577306,17.193283,ov_agriturismo_san_michele_in_triglie_40.5773_17.1933,Agriturismo San Michele in Triglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/agriturismo_san_michele_in_triglie_40.5773_17.1933.json,custom
+40.601740,17.227538,ov_tuttobuono_40.6017_17.2275,Tuttobuono,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/tuttobuono_40.6017_17.2275.json,custom
+40.602217,17.227898,ov_saracino_leonardo_pizzeria_ristorante_40.6022_17.2279,Saracino Leonardo Pizzeria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/saracino_leonardo_pizzeria_ristorante_40.6022_17.2279.json,custom
+40.603320,17.231735,ov_la_cueva_40.6033_17.2317,La Cueva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_cueva_40.6033_17.2317.json,custom
+40.621888,17.187065,ov_masseria_la_pizzica_40.6219_17.1871,Masseria la Pizzica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/masseria_la_pizzica_40.6219_17.1871.json,custom
+40.604169,17.222087,ov_la_brace_40.6042_17.2221,La Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_brace_40.6042_17.2221.json,custom
+40.604751,17.229882,ov_pizzeria_trattoria_pentima_rossa_di_grec_40.6048_17.2299,Pizzeria Trattoria Pentima Rossa di Greco Angelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/pizzeria_trattoria_pentima_rossa_di_grec_40.6048_17.2299.json,custom
+40.603985,17.228847,ov_la_cuccagna_giro_di_vite_40.6040_17.2288,La Cuccagna Giro di Vite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_cuccagna_giro_di_vite_40.6040_17.2288.json,custom
+40.603673,17.231359,ov_la_cucina_dei_desideri_40.6037_17.2314,La cucina dei desideri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_cucina_dei_desideri_40.6037_17.2314.json,custom
+40.605391,17.232566,ov_ristorante_la_sosta_40.6054_17.2326,Ristorante La Sosta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ristorante_la_sosta_40.6054_17.2326.json,custom
+40.605330,17.232577,ov_cucina_e_bottega_40.6053_17.2326,Cucina e bottega,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/cucina_e_bottega_40.6053_17.2326.json,custom
+40.605011,17.233694,ov_ristorante_le_tre_lanterne_40.6050_17.2337,Ristorante Le Tre Lanterne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ristorante_le_tre_lanterne_40.6050_17.2337.json,custom
+40.605177,17.234210,ov_nuovi_sapori_40.6052_17.2342,Nuovi Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/nuovi_sapori_40.6052_17.2342.json,custom
+40.605641,17.230812,ov_tom__restaurant_40.6056_17.2308,Tomà Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/tom_restaurant_40.6056_17.2308.json,custom
+40.605844,17.229357,ov_focacceria_pizzeria_nico_s_40.6058_17.2294,Focacceria Pizzeria Nico'S,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/focacceria_pizzeria_nicos_40.6058_17.2294.json,custom
+40.608645,17.234234,ov_pizzeria_saracino_40.6086_17.2342,Pizzeria Saracino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/pizzeria_saracino_40.6086_17.2342.json,custom
+40.608193,17.229185,ov_le_vetrine_del_gusto_40.6082_17.2292,Le Vetrine del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/le_vetrine_del_gusto_40.6082_17.2292.json,custom
+40.610533,17.231561,ov_l_essenza_in_vista_40.6105_17.2316,L'essenza In Vista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/lessenza_in_vista_40.6105_17.2316.json,custom
+40.624143,17.227664,ov_ristorante_pizzeria_pentima_rossa_40.6241_17.2277,Ristorante Pizzeria Pentima Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ristorante_pizzeria_pentima_rossa_40.6241_17.2277.json,custom
+40.610678,17.243759,ov_rosticceria_al_brigantino_martellotta_40.6107_17.2438,Rosticceria Al Brigantino Martellotta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/rosticceria_al_brigantino_martellotta_40.6107_17.2438.json,custom
+40.607700,17.234884,ov_focacceria_la_villetta_40.6077_17.2349,Focacceria La Villetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/focacceria_la_villetta_40.6077_17.2349.json,custom
+40.607847,17.237101,ov_manhattan_pizza___grill_restaurant_40.6078_17.2371,Manhattan Pizza & Grill Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/manhattan_pizza_grill_restaurant_40.6078_17.2371.json,custom
+40.608180,17.236760,ov_non_solo_pizze_40.6082_17.2368,Non solo PIZZE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/non_solo_pizze_40.6082_17.2368.json,custom
+40.606589,17.237191,ov_braceria_gourmet_40.6066_17.2372,Braceria Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/braceria_gourmet_40.6066_17.2372.json,custom
+40.606325,17.237702,ov_pescheria_da_ivan_40.6063_17.2377,Pescheria da Ivan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/pescheria_da_ivan_40.6063_17.2377.json,custom
+40.605520,17.236625,ov_punto_caldo_fast_food_40.6055_17.2366,Punto Caldo Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/punto_caldo_fast_food_40.6055_17.2366.json,custom
+40.604695,17.235280,ov_delizie_e_focacce_da_enzo_40.6047_17.2353,Delizie e focacce da Enzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/delizie_e_focacce_da_enzo_40.6047_17.2353.json,custom
+40.604429,17.235469,ov_ristorante_margherita_40.6044_17.2355,Ristorante Margherita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ristorante_margherita_40.6044_17.2355.json,custom
+40.603820,17.237052,ov_la_marherita_40.6038_17.2371,La marherita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_marherita_40.6038_17.2371.json,custom
+40.604135,17.237205,ov_la_piccola_botte_40.6041_17.2372,La Piccola Botte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_piccola_botte_40.6041_17.2372.json,custom
+40.640238,17.274197,ov_masseria_pilano_40.6402_17.2742,Masseria Pilano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/masseria_pilano_40.6402_17.2742.json,custom
+40.608697,17.234262,osm_saracino_pizza___passione_40.6087_17.2343,Saracino Pizza & Passione,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/saracino_pizza_passione_40.6087_17.2343.json,custom
+40.603413,17.228567,ov_bar_raffy_40.6034_17.2286,Bar Raffy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_raffy_40.6034_17.2286.json,custom
+40.603129,17.231403,ov_symposium_cafe_40.6031_17.2314,Symposium Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/symposium_cafe_40.6031_17.2314.json,custom
+40.600447,17.237597,ov_bar_new_dimensions_40.6004_17.2376,bar new dimensions,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_new_dimensions_40.6004_17.2376.json,custom
+40.604278,17.184815,ov_vini_biologici_speziale_40.6043_17.1848,Vini Biologici Speziale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/vini_biologici_speziale_40.6043_17.1848.json,custom
+40.604158,17.222049,ov_microbirrificio_palmisano_40.6042_17.2220,Microbirrificio Palmisano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/microbirrificio_palmisano_40.6042_17.2220.json,custom
+40.605282,17.231357,ov_bar_colucci_crispiano_40.6053_17.2314,Bar Colucci Crispiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_colucci_crispiano_40.6053_17.2314.json,custom
+40.605282,17.231716,ov_bar_ideal_40.6053_17.2317,Bar Ideal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_ideal_40.6053_17.2317.json,custom
+40.605473,17.228921,ov_bar_free_style_40.6055_17.2289,Bar Free Style,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_free_style_40.6055_17.2289.json,custom
+40.606761,17.233343,ov_carpediem_art_cafe_40.6068_17.2333,Carpediem Art Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/carpediem_art_cafe_40.6068_17.2333.json,custom
+40.608616,17.225263,ov_la_dolce_vita_40.6086_17.2253,La dolce vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_dolce_vita_40.6086_17.2253.json,custom
+40.608829,17.235578,ov_glam_caffe_di_attolino_carmine_40.6088_17.2356,Glam Caffe Di Attolino Carmine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/glam_caffe_di_attolino_carmine_40.6088_17.2356.json,custom
+40.606613,17.237572,ov_le_terrazze_wine_bar_40.6066_17.2376,Le Terrazze Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/le_terrazze_wine_bar_40.6066_17.2376.json,custom
+40.607032,17.238648,ov_nirvana_2_srl_40.6070_17.2386,Nirvana 2 SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/nirvana_2_srl_40.6070_17.2386.json,custom
+40.607127,17.238810,ov_vincent_caff__40.6071_17.2388,Vincent Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/vincent_caff_40.6071_17.2388.json,custom
+40.605386,17.236619,ov_margent_crispiano_40.6054_17.2366,Margent Crispiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/margent_crispiano_40.6054_17.2366.json,custom
+40.604258,17.236094,ov_le_gardenie_40.6043_17.2361,Le Gardenie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/le_gardenie_40.6043_17.2361.json,custom
+40.604133,17.235861,ov_pasticceria_caffetteria_le_gardenie_40.6041_17.2359,Pasticceria caffetteria le gardenie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/pasticceria_caffetteria_le_gardenie_40.6041_17.2359.json,custom
+40.603834,17.237236,ov_bar_la_piccola_botte_40.6038_17.2372,Bar La Piccola Botte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_la_piccola_botte_40.6038_17.2372.json,custom
+40.603852,17.237160,ov_caff__carrieri_40.6039_17.2372,CAFFÈ Carrieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/caff_carrieri_40.6039_17.2372.json,custom
+40.615354,17.268674,ov_caffe_del_borgo_40.6154_17.2687,Caffe del Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/caffe_del_borgo_40.6154_17.2687.json,custom
+40.615155,17.268756,ov_san_simone_40.6152_17.2688,San Simone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/san_simone_40.6152_17.2688.json,custom
+40.605551,17.229091,osm_bar_free_style_40.6056_17.2291,Bar Free style,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_free_style_40.6056_17.2291.json,custom
+40.607434,17.238484,osm_leone_caff__40.6074_17.2385,Leone Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/leone_caff_40.6074_17.2385.json,custom
+40.605763,17.228588,osm_aleta_40.6058_17.2286,Aleta,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/aleta_40.6058_17.2286.json,custom
+40.601057,17.227884,osm_blucksmith_40.6011_17.2279,Blucksmith,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/blucksmith_40.6011_17.2279.json,custom
+40.587858,17.213220,ov_gold_s_gym_40.5879_17.2132,Gold's Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/golds_gym_40.5879_17.2132.json,custom
+40.600652,17.226368,ov_ocram_gym_functionalfit_40.6007_17.2264,Ocram Gym FunctionalFit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ocram_gym_functionalfit_40.6007_17.2264.json,custom
+40.606995,17.210864,ov_i_rampicanti_climbing_farm_40.6070_17.2109,I Rampicanti Climbing Farm,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/i_rampicanti_climbing_farm_40.6070_17.2109.json,custom
+40.604371,17.232560,ov_74012_fitness_40.6044_17.2326,74012 Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/74012_fitness_40.6044_17.2326.json,custom
+40.606601,17.228906,ov_moving_body_asd_40.6066_17.2289,Moving Body ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/moving_body_asd_40.6066_17.2289.json,custom
+40.607032,17.233323,ov_la_isla_cubana_40.6070_17.2333,La Isla Cubana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_isla_cubana_40.6070_17.2333.json,custom
+40.608493,17.220906,ov_a_s_d_4horses_40.6085_17.2209,A.S.D 4Horses,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/asd_4horses_40.6085_17.2209.json,custom
+40.606060,17.237980,ov_cooperativa_sociale_skarabokkiando_40.6061_17.2380,Cooperativa sociale Skarabokkiando,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/cooperativa_sociale_skarabokkiando_40.6061_17.2380.json,custom
+40.605028,17.234569,ov_asd_studio_danza_scarpette_rosa_40.6050_17.2346,ASD Studio Danza Scarpette Rosa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/asd_studio_danza_scarpette_rosa_40.6050_17.2346.json,custom
+40.604618,17.234945,osm_people_fitness_40.6046_17.2349,People Fitness,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/people_fitness_40.6046_17.2349.json,custom
+40.605533,17.231172,ov_torre_cacace_40.6055_17.2312,Torre Cacace,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/torre_cacace_40.6055_17.2312.json,custom
+40.620657,17.228213,ov_chiosco_pentimarossa_40.6207_17.2282,Chiosco Pentimarossa,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/chiosco_pentimarossa_40.6207_17.2282.json,custom

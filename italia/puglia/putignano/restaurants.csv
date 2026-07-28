@@ -1,72 +1,72 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # putignano -- restaurants
-40.848106,17.125296,osm_la_piazzetta_40.8481_17.1253,La Piazzetta,ristorante,ristorante
-40.849400,17.133194,osm_molino_pizzeria__il_trullo__40.8494_17.1332,Molino Pizzeria (IL TRULLO),ristorante,ristorante
-40.846300,17.005325,ov_bed___breakfast_masseria_montelli_40.8463_17.0053,Bed & Breakfast Masseria Montelli,RESTAURANT,ristorante
-40.828125,17.008005,ov_agriturismo_pedone_40.8281_17.0080,Agriturismo Pedone,RESTAURANT,ristorante
-40.795020,17.123682,ov_san_bernardo_pizzeria_40.7950_17.1237,San Bernardo Pizzeria,RESTAURANT,ristorante
-40.808174,17.176356,ov_agriturismo_barsentello_40.8082_17.1764,Agriturismo Barsentello,RESTAURANT,ristorante
-40.818104,17.167747,ov_agriturismo_terranostra_40.8181_17.1677,Agriturismo TerraNostra,RESTAURANT,ristorante
-40.852070,17.129120,ov_pizzeria_bella_napoli_40.8521_17.1291,Pizzeria Bella Napoli,RESTAURANT,ristorante
-40.850178,17.134723,ov_old_money_40.8502_17.1347,Old money,RESTAURANT,ristorante
-40.848170,17.125443,ov_la_piazzetta_di_pinto_giuseppe_40.8482_17.1254,La Piazzetta Di Pinto Giuseppe,RESTAURANT,ristorante
-40.848189,17.125341,ov_friggitoria_san_domenico_40.8482_17.1253,Friggitoria San Domenico,RESTAURANT,ristorante
-40.848398,17.124891,ov_strato_40.8484_17.1249,Strato,RESTAURANT,ristorante
-40.848023,17.123179,ov_le_delizie_del_mare_40.8480_17.1232,Le Delizie del Mare,RESTAURANT,ristorante
-40.847995,17.122592,ov_aufer_gastronomia_40.8480_17.1226,Aufer Gastronomia,RESTAURANT,ristorante
-40.848291,17.122370,ov_pizzeria_lievitomadre_40.8483_17.1224,Pizzeria LievitoMadre,RESTAURANT,ristorante
-40.847695,17.121379,ov_bollenti_piatti_40.8477_17.1214,Bollenti Piatti,RESTAURANT,ristorante
-40.846982,17.127354,ov_l_angolo_divino_40.8470_17.1274,L'Angolo Divino,RESTAURANT,ristorante
-40.847417,17.118500,ov_pizza_pi__40.8474_17.1185,Pizza Più,RESTAURANT,ristorante
-40.850870,17.118879,ov_acquolina_sulla_bocca_di_tutti_40.8509_17.1189,ACQUOLINA sulla bocca di tutti,RESTAURANT,ristorante
-40.850251,17.119641,ov_caff__roma_40.8503_17.1196,Caffè Roma,RESTAURANT,ristorante
-40.849187,17.119618,ov_dal_ghiottone_40.8492_17.1196,Dal Ghiottone,RESTAURANT,ristorante
-40.848850,17.121410,ov_lola_specialit__di_pollo_fritto_40.8488_17.1214,LOLA Specialità di pollo fritto,RESTAURANT,ristorante
-40.849224,17.119788,ov_il_piacere_della_pasta_fresca_40.8492_17.1198,Il Piacere della Pasta Fresca,RESTAURANT,ristorante
-40.849394,17.120005,ov_living___miscele_di_gusto_40.8494_17.1200,Living - Miscele di Gusto,RESTAURANT,ristorante
-40.849689,17.121609,ov_cicirinella_osteria_contadina_40.8497_17.1216,Cicirinella Osteria Contadina,RESTAURANT,ristorante
-40.849350,17.121931,ov_premiata_pizzeria_40.8493_17.1219,Premiata Pizzeria,RESTAURANT,ristorante
-40.849392,17.122060,ov_paolina___osteria_sincera_40.8494_17.1221,Paolina - Osteria Sincera,RESTAURANT,ristorante
-40.849700,17.121867,ov_la_farmacia_40.8497_17.1219,La Farmacia,RESTAURANT,ristorante
-40.849503,17.122710,ov_mirum_cantina_con_cucina_40.8495_17.1227,Mirum cantina con cucina,RESTAURANT,ristorante
-40.849013,17.123489,ov_chi_va_piano_40.8490_17.1235,Chi va Piano,RESTAURANT,ristorante
-40.849169,17.122764,ov_osteria_botteghe_antiche_40.8492_17.1228,Osteria Botteghe Antiche,RESTAURANT,ristorante
-40.849584,17.125608,ov_la_brace_stuzzicheria_40.8496_17.1256,La Brace Stuzzicheria,RESTAURANT,ristorante
-40.849558,17.125504,ov_la_rustica_voglia_di___40.8496_17.1255,La Rustica Voglia di….,RESTAURANT,ristorante
-40.850467,17.124578,ov_il_gamberetto_40.8505_17.1246,Il Gamberetto,RESTAURANT,ristorante
-40.850428,17.124687,ov_toni_hamburger_40.8504_17.1247,Toni Hamburger,RESTAURANT,ristorante
-40.850526,17.123825,ov_porta_nuova_40.8505_17.1238,Porta Nuova,RESTAURANT,ristorante
-40.850873,17.124281,ov_rosticceria_fantasia_40.8509_17.1243,Rosticceria Fantasia,RESTAURANT,ristorante
-40.850944,17.122144,ov_stravirs__bistrot_40.8509_17.1221,StravirS⁴ Bistrot,RESTAURANT,ristorante
-40.850635,17.123469,ov_stefan_40.8506_17.1235,Stefan,RESTAURANT,ristorante
-40.850160,17.123153,ov_santa_maria___fornello_pronto_40.8502_17.1232,Santa Maria - Fornello Pronto,RESTAURANT,ristorante
-40.850070,17.122605,ov_angelo_sabatelli_40.8501_17.1226,Angelo Sabatelli,RESTAURANT,ristorante
-40.850561,17.120562,ov_nagoya_putignano_40.8506_17.1206,Nagoya Putignano,RESTAURANT,ristorante
-40.850637,17.121074,ov_crisalide_caffetteria_40.8506_17.1211,Crisalide Caffetteria,RESTAURANT,ristorante
-40.850995,17.120826,ov_comb__pizzeria_40.8510_17.1208,Combà Pizzeria,RESTAURANT,ristorante
-40.851094,17.120230,ov_coffetto_bio_shop_40.8511_17.1202,Coffetto Bio Shop,RESTAURANT,ristorante
-40.851301,17.119872,ov_ristorante_mammam__40.8513_17.1199,Ristorante Mammamè,RESTAURANT,ristorante
-40.851389,17.119963,ov_barsento_40.8514_17.1200,Barsento,RESTAURANT,ristorante
-40.851250,17.120488,ov_bastion_40.8512_17.1205,Bastion,RESTAURANT,ristorante
-40.851264,17.120345,ov_alibaba_kebabberia_40.8513_17.1203,Alibaba Kebabberia,RESTAURANT,ristorante
-40.851480,17.119880,ov_michelangelo_chef_40.8515_17.1199,Michelangelo Chef,RESTAURANT,ristorante
-40.852011,17.120524,ov_pizza_go_go_40.8520_17.1205,Pizza Go-Go,RESTAURANT,ristorante
-40.852092,17.120184,ov_amplifon_corso_umberto_i__putignano_40.8521_17.1202,"Amplifon Corso Umberto I, Putignano",RESTAURANT,ristorante
-40.852019,17.120054,ov_le_delizie_di_michela_40.8520_17.1201,Le Delizie di Michela,RESTAURANT,ristorante
-40.852301,17.119742,ov_norcineria_il_simposio_40.8523_17.1197,Norcineria Il Simposio,RESTAURANT,ristorante
-40.852866,17.122536,ov_pizzeria_quattro_rose_40.8529_17.1225,Pizzeria Quattro Rose,RESTAURANT,ristorante
-40.853320,17.119906,ov_mode_sushi_putignano___ristorante_sushi_40.8533_17.1199,Mode Sushi Putignano | Ristorante Sushi,RESTAURANT,ristorante
-40.853593,17.119946,ov_guaglio_40.8536_17.1199,Guaglio,RESTAURANT,ristorante
-40.853403,17.119610,ov_la_casa_di_toto_40.8534_17.1196,La Casa di Toto,RESTAURANT,ristorante
-40.842428,17.105606,ov_biscottificio_panificio_farinella_40.8424_17.1056,Biscottificio Panificio Farinella,RESTAURANT,ristorante
-40.827459,17.051001,ov_essenza_agriturismo_by_querceta_40.8275_17.0510,Essenza Agriturismo by Querceta,RESTAURANT,ristorante
-40.824980,17.074510,ov_b_b__la_russa_40.8250_17.0745,B&B  La Russa,RESTAURANT,ristorante
-40.828498,17.022237,ov_masseria_spartaglio_40.8285_17.0222,Masseria Spartaglio,RESTAURANT,ristorante
-40.855172,17.118368,ov_pizzeria_pit_stop_40.8552_17.1184,Pizzeria Pit Stop,RESTAURANT,ristorante
-40.856329,17.119855,ov_ristorante_dal_mollusco_40.8563_17.1199,Ristorante Dal Mollusco,RESTAURANT,ristorante
-40.854405,17.120884,ov_pizzeria_l_acquario_40.8544_17.1209,Pizzeria L'Acquario,RESTAURANT,ristorante
-40.854072,17.121678,ov_antichi_sapori_40.8541_17.1217,Antichi Sapori,RESTAURANT,ristorante
-40.862805,17.118672,ov_fuegh_40.8628_17.1187,FUEGH,RESTAURANT,ristorante
-40.875130,17.080635,ov_masseria_foggiagrande_40.8751_17.0806,Masseria Foggiagrande,RESTAURANT,ristorante
-40.875613,17.058193,ov_la_reggia_del_bali_40.8756_17.0582,La Reggia del Bali,RESTAURANT,ristorante
-40.878738,17.053764,ov_masseria_la_lunghiera_40.8787_17.0538,Masseria La Lunghiera,RESTAURANT,ristorante
+40.846300,17.005325,ov_bed___breakfast_masseria_montelli_40.8463_17.0053,Bed & Breakfast Masseria Montelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/bed_breakfast_masseria_montelli_40.8463_17.0053.json,custom
+40.828125,17.008005,ov_agriturismo_pedone_40.8281_17.0080,Agriturismo Pedone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/agriturismo_pedone_40.8281_17.0080.json,custom
+40.795020,17.123682,ov_san_bernardo_pizzeria_40.7950_17.1237,San Bernardo Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/san_bernardo_pizzeria_40.7950_17.1237.json,custom
+40.808174,17.176356,ov_agriturismo_barsentello_40.8082_17.1764,Agriturismo Barsentello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/agriturismo_barsentello_40.8082_17.1764.json,custom
+40.818104,17.167747,ov_agriturismo_terranostra_40.8181_17.1677,Agriturismo TerraNostra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/agriturismo_terranostra_40.8181_17.1677.json,custom
+40.852070,17.129120,ov_pizzeria_bella_napoli_40.8521_17.1291,Pizzeria Bella Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizzeria_bella_napoli_40.8521_17.1291.json,custom
+40.850178,17.134723,ov_old_money_40.8502_17.1347,Old money,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/old_money_40.8502_17.1347.json,custom
+40.848170,17.125443,ov_la_piazzetta_di_pinto_giuseppe_40.8482_17.1254,La Piazzetta Di Pinto Giuseppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_piazzetta_di_pinto_giuseppe_40.8482_17.1254.json,custom
+40.848189,17.125341,ov_friggitoria_san_domenico_40.8482_17.1253,Friggitoria San Domenico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/friggitoria_san_domenico_40.8482_17.1253.json,custom
+40.848398,17.124891,ov_strato_40.8484_17.1249,Strato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/strato_40.8484_17.1249.json,custom
+40.848023,17.123179,ov_le_delizie_del_mare_40.8480_17.1232,Le Delizie del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/le_delizie_del_mare_40.8480_17.1232.json,custom
+40.847995,17.122592,ov_aufer_gastronomia_40.8480_17.1226,Aufer Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/aufer_gastronomia_40.8480_17.1226.json,custom
+40.848291,17.122370,ov_pizzeria_lievitomadre_40.8483_17.1224,Pizzeria LievitoMadre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizzeria_lievitomadre_40.8483_17.1224.json,custom
+40.847695,17.121379,ov_bollenti_piatti_40.8477_17.1214,Bollenti Piatti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/bollenti_piatti_40.8477_17.1214.json,custom
+40.846982,17.127354,ov_l_angolo_divino_40.8470_17.1274,L'Angolo Divino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/langolo_divino_40.8470_17.1274.json,custom
+40.847417,17.118500,ov_pizza_pi__40.8474_17.1185,Pizza Più,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizza_pi_40.8474_17.1185.json,custom
+40.850870,17.118879,ov_acquolina_sulla_bocca_di_tutti_40.8509_17.1189,ACQUOLINA sulla bocca di tutti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/acquolina_sulla_bocca_di_tutti_40.8509_17.1189.json,custom
+40.850251,17.119641,ov_caff__roma_40.8503_17.1196,Caffè Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/caff_roma_40.8503_17.1196.json,custom
+40.849187,17.119618,ov_dal_ghiottone_40.8492_17.1196,Dal Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/dal_ghiottone_40.8492_17.1196.json,custom
+40.848850,17.121410,ov_lola_specialit__di_pollo_fritto_40.8488_17.1214,LOLA Specialità di pollo fritto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/lola_specialit_di_pollo_fritto_40.8488_17.1214.json,custom
+40.849224,17.119788,ov_il_piacere_della_pasta_fresca_40.8492_17.1198,Il Piacere della Pasta Fresca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/il_piacere_della_pasta_fresca_40.8492_17.1198.json,custom
+40.849394,17.120005,ov_living___miscele_di_gusto_40.8494_17.1200,Living - Miscele di Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/living_-_miscele_di_gusto_40.8494_17.1200.json,custom
+40.849689,17.121609,ov_cicirinella_osteria_contadina_40.8497_17.1216,Cicirinella Osteria Contadina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/cicirinella_osteria_contadina_40.8497_17.1216.json,custom
+40.849350,17.121931,ov_premiata_pizzeria_40.8493_17.1219,Premiata Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/premiata_pizzeria_40.8493_17.1219.json,custom
+40.849392,17.122060,ov_paolina___osteria_sincera_40.8494_17.1221,Paolina - Osteria Sincera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/paolina_-_osteria_sincera_40.8494_17.1221.json,custom
+40.849700,17.121867,ov_la_farmacia_40.8497_17.1219,La Farmacia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_farmacia_40.8497_17.1219.json,custom
+40.849503,17.122710,ov_mirum_cantina_con_cucina_40.8495_17.1227,Mirum cantina con cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/mirum_cantina_con_cucina_40.8495_17.1227.json,custom
+40.849013,17.123489,ov_chi_va_piano_40.8490_17.1235,Chi va Piano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/chi_va_piano_40.8490_17.1235.json,custom
+40.849169,17.122764,ov_osteria_botteghe_antiche_40.8492_17.1228,Osteria Botteghe Antiche,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/osteria_botteghe_antiche_40.8492_17.1228.json,custom
+40.849584,17.125608,ov_la_brace_stuzzicheria_40.8496_17.1256,La Brace Stuzzicheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_brace_stuzzicheria_40.8496_17.1256.json,custom
+40.849558,17.125504,ov_la_rustica_voglia_di___40.8496_17.1255,La Rustica Voglia di….,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_rustica_voglia_di_40.8496_17.1255.json,custom
+40.850467,17.124578,ov_il_gamberetto_40.8505_17.1246,Il Gamberetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/il_gamberetto_40.8505_17.1246.json,custom
+40.850428,17.124687,ov_toni_hamburger_40.8504_17.1247,Toni Hamburger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/toni_hamburger_40.8504_17.1247.json,custom
+40.850526,17.123825,ov_porta_nuova_40.8505_17.1238,Porta Nuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/porta_nuova_40.8505_17.1238.json,custom
+40.850873,17.124281,ov_rosticceria_fantasia_40.8509_17.1243,Rosticceria Fantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/rosticceria_fantasia_40.8509_17.1243.json,custom
+40.850944,17.122144,ov_stravirs__bistrot_40.8509_17.1221,StravirS⁴ Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/stravirs_bistrot_40.8509_17.1221.json,custom
+40.850635,17.123469,ov_stefan_40.8506_17.1235,Stefan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/stefan_40.8506_17.1235.json,custom
+40.850160,17.123153,ov_santa_maria___fornello_pronto_40.8502_17.1232,Santa Maria - Fornello Pronto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/santa_maria_-_fornello_pronto_40.8502_17.1232.json,custom
+40.850070,17.122605,ov_angelo_sabatelli_40.8501_17.1226,Angelo Sabatelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/angelo_sabatelli_40.8501_17.1226.json,custom
+40.850561,17.120562,ov_nagoya_putignano_40.8506_17.1206,Nagoya Putignano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/nagoya_putignano_40.8506_17.1206.json,custom
+40.850637,17.121074,ov_crisalide_caffetteria_40.8506_17.1211,Crisalide Caffetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/crisalide_caffetteria_40.8506_17.1211.json,custom
+40.850995,17.120826,ov_comb__pizzeria_40.8510_17.1208,Combà Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/comb_pizzeria_40.8510_17.1208.json,custom
+40.851094,17.120230,ov_coffetto_bio_shop_40.8511_17.1202,Coffetto Bio Shop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/coffetto_bio_shop_40.8511_17.1202.json,custom
+40.851301,17.119872,ov_ristorante_mammam__40.8513_17.1199,Ristorante Mammamè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/ristorante_mammam_40.8513_17.1199.json,custom
+40.851389,17.119963,ov_barsento_40.8514_17.1200,Barsento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/barsento_40.8514_17.1200.json,custom
+40.851250,17.120488,ov_bastion_40.8512_17.1205,Bastion,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/bastion_40.8512_17.1205.json,custom
+40.851264,17.120345,ov_alibaba_kebabberia_40.8513_17.1203,Alibaba Kebabberia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/alibaba_kebabberia_40.8513_17.1203.json,custom
+40.851480,17.119880,ov_michelangelo_chef_40.8515_17.1199,Michelangelo Chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/michelangelo_chef_40.8515_17.1199.json,custom
+40.852011,17.120524,ov_pizza_go_go_40.8520_17.1205,Pizza Go-Go,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizza_go-go_40.8520_17.1205.json,custom
+40.852092,17.120184,ov_amplifon_corso_umberto_i__putignano_40.8521_17.1202,"Amplifon Corso Umberto I, Putignano",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/amplifon_corso_umberto_i_putignano_40.8521_17.1202.json,custom
+40.852019,17.120054,ov_le_delizie_di_michela_40.8520_17.1201,Le Delizie di Michela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/le_delizie_di_michela_40.8520_17.1201.json,custom
+40.852301,17.119742,ov_norcineria_il_simposio_40.8523_17.1197,Norcineria Il Simposio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/norcineria_il_simposio_40.8523_17.1197.json,custom
+40.852866,17.122536,ov_pizzeria_quattro_rose_40.8529_17.1225,Pizzeria Quattro Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizzeria_quattro_rose_40.8529_17.1225.json,custom
+40.853320,17.119906,ov_mode_sushi_putignano___ristorante_sushi_40.8533_17.1199,Mode Sushi Putignano | Ristorante Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/mode_sushi_putignano_ristorante_sushi_40.8533_17.1199.json,custom
+40.853593,17.119946,ov_guaglio_40.8536_17.1199,Guaglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/guaglio_40.8536_17.1199.json,custom
+40.853403,17.119610,ov_la_casa_di_toto_40.8534_17.1196,La Casa di Toto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_casa_di_toto_40.8534_17.1196.json,custom
+40.842428,17.105606,ov_biscottificio_panificio_farinella_40.8424_17.1056,Biscottificio Panificio Farinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/biscottificio_panificio_farinella_40.8424_17.1056.json,custom
+40.827459,17.051001,ov_essenza_agriturismo_by_querceta_40.8275_17.0510,Essenza Agriturismo by Querceta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/essenza_agriturismo_by_querceta_40.8275_17.0510.json,custom
+40.824980,17.074510,ov_b_b__la_russa_40.8250_17.0745,B&B  La Russa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/bb_la_russa_40.8250_17.0745.json,custom
+40.828498,17.022237,ov_masseria_spartaglio_40.8285_17.0222,Masseria Spartaglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/masseria_spartaglio_40.8285_17.0222.json,custom
+40.855172,17.118368,ov_pizzeria_pit_stop_40.8552_17.1184,Pizzeria Pit Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizzeria_pit_stop_40.8552_17.1184.json,custom
+40.856329,17.119855,ov_ristorante_dal_mollusco_40.8563_17.1199,Ristorante Dal Mollusco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/ristorante_dal_mollusco_40.8563_17.1199.json,custom
+40.854405,17.120884,ov_pizzeria_l_acquario_40.8544_17.1209,Pizzeria L'Acquario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/pizzeria_lacquario_40.8544_17.1209.json,custom
+40.854072,17.121678,ov_antichi_sapori_40.8541_17.1217,Antichi Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/antichi_sapori_40.8541_17.1217.json,custom
+40.862805,17.118672,ov_fuegh_40.8628_17.1187,FUEGH,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/fuegh_40.8628_17.1187.json,custom
+40.875130,17.080635,ov_masseria_foggiagrande_40.8751_17.0806,Masseria Foggiagrande,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/masseria_foggiagrande_40.8751_17.0806.json,custom
+40.875613,17.058193,ov_la_reggia_del_bali_40.8756_17.0582,La Reggia del Bali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_reggia_del_bali_40.8756_17.0582.json,custom
+40.878738,17.053764,ov_masseria_la_lunghiera_40.8787_17.0538,Masseria La Lunghiera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/masseria_la_lunghiera_40.8787_17.0538.json,custom
+40.848106,17.125296,osm_la_piazzetta_40.8481_17.1253,La Piazzetta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/la_piazzetta_40.8481_17.1253.json,custom
+40.849400,17.133194,osm_molino_pizzeria__il_trullo__40.8494_17.1332,Molino Pizzeria (IL TRULLO),ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/putignano/pages/molino_pizzeria_il_trullo_40.8494_17.1332.json,custom

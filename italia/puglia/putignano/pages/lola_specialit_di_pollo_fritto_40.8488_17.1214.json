@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "LOLA Specialità di pollo fritto",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=LOLA+-+Specialit%C3%A0+di+pollo+fritto&sca_esv=9687d88dd609da73&hl=it&authuser=0&sxsrf=AE3TifNBo7Pj9YTmrWIGzBSY0sIommHQRA%3A1756110559881&ei=3x6saOXENdLq7_UP-bGigA0&ved=0ahUKEwilsO7QxaWPAxVS9bsIHfmYCNAQ4dUDCBA&uact=5&oq=LOLA+-+Specialit%C3%A0+di+pollo+fritto&gs_lp=Egxnd3Mtd2l6LXNlcnAiIkxPTEEgLSBTcGVjaWFsaXTDoCBkaSBwb2xsbyBmcml0dG8yCBAAGLADGO8FMgsQABiABBiwAxiiBDIIEAAYsAMY7wUyCBAAGLADGO8FMgsQABiABBiwAxiiBEipBFAAWABwAXgAkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAICmAMAiAYBkAYFkgcBMaAHALIHALgHAMIHAzAuMcgHAQ&sclient=gws-wiz-serp"
+    }
+  ]
+}

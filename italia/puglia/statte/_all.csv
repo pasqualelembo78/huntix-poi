@@ -1,28 +1,28 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Statte -- Tutti
-40.539640,17.277065,osm_ospedale_san_giuseppe_moscati_40.5396_17.2771,Ospedale San Giuseppe Moscati,hospital,hospital
-40.565369,17.202244,ov_peperoncino_rosso_trattoria_40.5654_17.2022,Peperoncino rosso trattoria,RESTAURANT,ristorante
-40.568350,17.202560,ov_sanbasil_pizzeria_40.5684_17.2026,SanBasil pizzeria,RESTAURANT,ristorante
-40.579470,17.215630,ov_villa_five_senses_homerestaurant_40.5795_17.2156,Villa Five Senses HomeRestaurant,RESTAURANT,ristorante
-40.567044,17.205685,ov_alla_villa_da_bombo_40.5670_17.2057,Alla Villa da Bombo,RESTAURANT,ristorante
-40.565925,17.209994,ov_sapori_di_casa_40.5659_17.2100,Sapori di casa,RESTAURANT,ristorante
-40.567680,17.212620,ov_peterpan_40.5677_17.2126,Peterpan,RESTAURANT,ristorante
-40.564369,17.207097,ov_l_imperiale_40.5644_17.2071,L'Imperiale,RESTAURANT,ristorante
-40.562651,17.205024,ov_take_away_40.5627_17.2050,Take Away,RESTAURANT,ristorante
-40.563331,17.210790,ov_pizzeria_black___white_40.5633_17.2108,Pizzeria Black & White,RESTAURANT,ristorante
-40.561146,17.208531,ov_na_nuvola_40.5611_17.2085,Na Nuvola,RESTAURANT,ristorante
-40.553385,17.209077,ov_statte_provincia_di_taranto_40.5534_17.2091,Statte Provincia Di Taranto,RESTAURANT,ristorante
-40.568576,17.202288,ov_friend_s_caf__bar_tabacchi_40.5686_17.2023,Friend's Café Bar Tabacchi,RESTAURANT,bar_cafe
-40.567600,17.208691,ov_gualtieri_caf__40.5676_17.2087,Gualtieri Café,RESTAURANT,bar_cafe
-40.567377,17.212496,ov_bar_maia_40.5674_17.2125,Bar Maia,RESTAURANT,bar_cafe
-40.564830,17.214670,ov_the_new_las_vegas_40.5648_17.2147,The New Las Vegas,RESTAURANT,bar_cafe
-40.565027,17.210766,ov_underground_pub_statte_40.5650_17.2108,Underground Pub Statte,RESTAURANT,bar_cafe
-40.563943,17.210648,ov_new_sweet_life_40.5639_17.2106,New Sweet Life,RESTAURANT,bar_cafe
-40.563695,17.209160,ov_pizzeria_mangiafuoco_40.5637_17.2092,Pizzeria Mangiafuoco,RESTAURANT,bar_cafe
-40.561419,17.209301,ov_caff__e_dintorni_40.5614_17.2093,Caffè e Dintorni,RESTAURANT,bar_cafe
-40.561648,17.204709,ov_new_dinner_caffe_40.5616_17.2047,New Dinner caffe,RESTAURANT,bar_cafe
-40.548823,17.274790,ov_bar_tabacchi_nittoso_40.5488_17.2748,Bar Tabacchi Nittoso,RESTAURANT,bar_cafe
-40.566890,17.197440,ov_new_fitness_dance_40.5669_17.1974,New Fitness Dance,GYM,palestra
-40.563891,17.215304,ov_centro_sportivo_lucchese_cataldo_40.5639_17.2153,Centro Sportivo Lucchese Cataldo,GYM,palestra
-40.563860,17.209770,ov_centro_studi_danza_e_fitness_asd_dancexp_40.5639_17.2098,Centro studi danza e fitness ASD Dancexplosion,GYM,palestra
-40.535392,17.305468,ov_ippodromo_paolo_vi_40.5354_17.3055,Ippodromo Paolo VI,GYM,palestra
+40.539640,17.277065,osm_ospedale_san_giuseppe_moscati_40.5396_17.2771,Ospedale San Giuseppe Moscati,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/ospedale_san_giuseppe_moscati_40.5396_17.2771.json,custom
+40.565369,17.202244,ov_peperoncino_rosso_trattoria_40.5654_17.2022,Peperoncino rosso trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/peperoncino_rosso_trattoria_40.5654_17.2022.json,custom
+40.568350,17.202560,ov_sanbasil_pizzeria_40.5684_17.2026,SanBasil pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/sanbasil_pizzeria_40.5684_17.2026.json,custom
+40.579470,17.215630,ov_villa_five_senses_homerestaurant_40.5795_17.2156,Villa Five Senses HomeRestaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/villa_five_senses_homerestaurant_40.5795_17.2156.json,custom
+40.567044,17.205685,ov_alla_villa_da_bombo_40.5670_17.2057,Alla Villa da Bombo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/alla_villa_da_bombo_40.5670_17.2057.json,custom
+40.565925,17.209994,ov_sapori_di_casa_40.5659_17.2100,Sapori di casa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/sapori_di_casa_40.5659_17.2100.json,custom
+40.567680,17.212620,ov_peterpan_40.5677_17.2126,Peterpan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/peterpan_40.5677_17.2126.json,custom
+40.564369,17.207097,ov_l_imperiale_40.5644_17.2071,L'Imperiale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/limperiale_40.5644_17.2071.json,custom
+40.562651,17.205024,ov_take_away_40.5627_17.2050,Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/take_away_40.5627_17.2050.json,custom
+40.563331,17.210790,ov_pizzeria_black___white_40.5633_17.2108,Pizzeria Black & White,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/pizzeria_black_white_40.5633_17.2108.json,custom
+40.561146,17.208531,ov_na_nuvola_40.5611_17.2085,Na Nuvola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/na_nuvola_40.5611_17.2085.json,custom
+40.553385,17.209077,ov_statte_provincia_di_taranto_40.5534_17.2091,Statte Provincia Di Taranto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/statte_provincia_di_taranto_40.5534_17.2091.json,custom
+40.568576,17.202288,ov_friend_s_caf__bar_tabacchi_40.5686_17.2023,Friend's Café Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/friends_caf_bar_tabacchi_40.5686_17.2023.json,custom
+40.567600,17.208691,ov_gualtieri_caf__40.5676_17.2087,Gualtieri Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/gualtieri_caf_40.5676_17.2087.json,custom
+40.567377,17.212496,ov_bar_maia_40.5674_17.2125,Bar Maia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/bar_maia_40.5674_17.2125.json,custom
+40.564830,17.214670,ov_the_new_las_vegas_40.5648_17.2147,The New Las Vegas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/the_new_las_vegas_40.5648_17.2147.json,custom
+40.565027,17.210766,ov_underground_pub_statte_40.5650_17.2108,Underground Pub Statte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/underground_pub_statte_40.5650_17.2108.json,custom
+40.563943,17.210648,ov_new_sweet_life_40.5639_17.2106,New Sweet Life,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/new_sweet_life_40.5639_17.2106.json,custom
+40.563695,17.209160,ov_pizzeria_mangiafuoco_40.5637_17.2092,Pizzeria Mangiafuoco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/pizzeria_mangiafuoco_40.5637_17.2092.json,custom
+40.561419,17.209301,ov_caff__e_dintorni_40.5614_17.2093,Caffè e Dintorni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/caff_e_dintorni_40.5614_17.2093.json,custom
+40.561648,17.204709,ov_new_dinner_caffe_40.5616_17.2047,New Dinner caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/new_dinner_caffe_40.5616_17.2047.json,custom
+40.548823,17.274790,ov_bar_tabacchi_nittoso_40.5488_17.2748,Bar Tabacchi Nittoso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/bar_tabacchi_nittoso_40.5488_17.2748.json,custom
+40.566890,17.197440,ov_new_fitness_dance_40.5669_17.1974,New Fitness Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/new_fitness_dance_40.5669_17.1974.json,custom
+40.563891,17.215304,ov_centro_sportivo_lucchese_cataldo_40.5639_17.2153,Centro Sportivo Lucchese Cataldo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/centro_sportivo_lucchese_cataldo_40.5639_17.2153.json,custom
+40.563860,17.209770,ov_centro_studi_danza_e_fitness_asd_dancexp_40.5639_17.2098,Centro studi danza e fitness ASD Dancexplosion,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/centro_studi_danza_e_fitness_asd_dancexp_40.5639_17.2098.json,custom
+40.535392,17.305468,ov_ippodromo_paolo_vi_40.5354_17.3055,Ippodromo Paolo VI,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/ippodromo_paolo_vi_40.5354_17.3055.json,custom

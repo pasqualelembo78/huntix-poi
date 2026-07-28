@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montemilone -- restaurants
-41.031469,15.970564,ov_the_old_cave_41.0315_15.9706,The Old Cave,RESTAURANT,ristorante
-41.032570,15.971370,ov_ristorante_la_roulette_41.0326_15.9714,Ristorante la Roulette,RESTAURANT,ristorante
+41.031469,15.970564,ov_the_old_cave_41.0315_15.9706,The Old Cave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemilone/pages/the_old_cave_41.0315_15.9706.json,custom
+41.032570,15.971370,ov_ristorante_la_roulette_41.0326_15.9714,Ristorante la Roulette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemilone/pages/ristorante_la_roulette_41.0326_15.9714.json,custom

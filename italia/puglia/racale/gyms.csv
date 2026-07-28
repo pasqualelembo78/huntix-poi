@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # racale -- gyms
-40.139940,17.985323,ov_costa_del_sud_diving_service_40.1399_17.9853,Costa del Sud Diving Service,GYM,palestra
-39.954242,18.090552,ov_golden_eight_sport_39.9542_18.0906,Golden Eight Sport,GYM,palestra
-39.953109,18.089613,ov_globo_s_fitness_club_39.9531_18.0896,Globo's Fitness Club,GYM,palestra
-39.956373,18.084782,ov_apnea_mood_39.9564_18.0848,Apnea Mood,GYM,palestra
-39.965455,18.116015,ov_arke_39.9655_18.1160,Arke,GYM,palestra
-39.963640,18.097294,ov_kleosfit_calisthenics_school_39.9636_18.0973,Kleosfit Calisthenics School,GYM,palestra
-39.963577,18.104556,ov_dise_fitness_zone_39.9636_18.1046,DISE Fitness Zone,GYM,palestra
-39.961704,18.079631,ov_messapi_salento_crew_39.9617_18.0796,Messapi Salento Crew,GYM,palestra
-39.959861,18.090072,ov_oplitia_fitness_39.9599_18.0901,Oplitia Fitness,GYM,palestra
-39.959047,18.095316,ov_bandits_dance_studio_racale_39.9590_18.0953,Bandits Dance Studio Racale,GYM,palestra
+40.139940,17.985323,ov_costa_del_sud_diving_service_40.1399_17.9853,Costa del Sud Diving Service,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/costa_del_sud_diving_service_40.1399_17.9853.json,custom
+39.954242,18.090552,ov_golden_eight_sport_39.9542_18.0906,Golden Eight Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/golden_eight_sport_39.9542_18.0906.json,custom
+39.953109,18.089613,ov_globo_s_fitness_club_39.9531_18.0896,Globo's Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/globos_fitness_club_39.9531_18.0896.json,custom
+39.956373,18.084782,ov_apnea_mood_39.9564_18.0848,Apnea Mood,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/apnea_mood_39.9564_18.0848.json,custom
+39.965455,18.116015,ov_arke_39.9655_18.1160,Arke,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/arke_39.9655_18.1160.json,custom
+39.963640,18.097294,ov_kleosfit_calisthenics_school_39.9636_18.0973,Kleosfit Calisthenics School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/kleosfit_calisthenics_school_39.9636_18.0973.json,custom
+39.963577,18.104556,ov_dise_fitness_zone_39.9636_18.1046,DISE Fitness Zone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/dise_fitness_zone_39.9636_18.1046.json,custom
+39.961704,18.079631,ov_messapi_salento_crew_39.9617_18.0796,Messapi Salento Crew,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/messapi_salento_crew_39.9617_18.0796.json,custom
+39.959861,18.090072,ov_oplitia_fitness_39.9599_18.0901,Oplitia Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/oplitia_fitness_39.9599_18.0901.json,custom
+39.959047,18.095316,ov_bandits_dance_studio_racale_39.9590_18.0953,Bandits Dance Studio Racale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/bandits_dance_studio_racale_39.9590_18.0953.json,custom

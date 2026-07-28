@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # gorgoglione -- restaurants
-40.394892,16.143254,ov_bistrot_142_40.3949_16.1433,Bistrot 142,RESTAURANT,ristorante
-40.373510,16.154470,ov_ristorante_piccolo_ranch_40.3735_16.1545,Ristorante Piccolo Ranch,RESTAURANT,ristorante
+40.394892,16.143254,ov_bistrot_142_40.3949_16.1433,Bistrot 142,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gorgoglione/pages/bistrot_142_40.3949_16.1433.json,custom
+40.373510,16.154470,ov_ristorante_piccolo_ranch_40.3735_16.1545,Ristorante Piccolo Ranch,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gorgoglione/pages/ristorante_piccolo_ranch_40.3735_16.1545.json,custom

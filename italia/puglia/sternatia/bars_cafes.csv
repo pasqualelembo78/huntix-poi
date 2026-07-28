@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sternatia -- bars_cafes
-40.218090,18.225095,ov_rolling_cafe_40.2181_18.2251,Rolling Cafe,RESTAURANT,bar_cafe
-40.219365,18.225959,ov_vino_s_punto_40.2194_18.2260,Vino's Punto,RESTAURANT,bar_cafe
-40.220389,18.225526,ov_bar_caffetteria_greco_40.2204_18.2255,Bar Caffetteria Greco,RESTAURANT,bar_cafe
-40.220056,18.225687,ov_litari_caf__40.2201_18.2257,Litari Cafè,RESTAURANT,bar_cafe
-40.220683,18.225437,ov_taba_crazy_40.2207_18.2254,Taba Crazy,RESTAURANT,bar_cafe
-40.220966,18.225772,ov_plaza_caf__40.2210_18.2258,Plaza café,RESTAURANT,bar_cafe
+40.218090,18.225095,ov_rolling_cafe_40.2181_18.2251,Rolling Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/rolling_cafe_40.2181_18.2251.json,custom
+40.219365,18.225959,ov_vino_s_punto_40.2194_18.2260,Vino's Punto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/vinos_punto_40.2194_18.2260.json,custom
+40.220389,18.225526,ov_bar_caffetteria_greco_40.2204_18.2255,Bar Caffetteria Greco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/bar_caffetteria_greco_40.2204_18.2255.json,custom
+40.220056,18.225687,ov_litari_caf__40.2201_18.2257,Litari Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/litari_caf_40.2201_18.2257.json,custom
+40.220683,18.225437,ov_taba_crazy_40.2207_18.2254,Taba Crazy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/taba_crazy_40.2207_18.2254.json,custom
+40.220966,18.225772,ov_plaza_caf__40.2210_18.2258,Plaza café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/plaza_caf_40.2210_18.2258.json,custom

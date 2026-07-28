@@ -1,58 +1,58 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Giorgio Jonico -- Tutti
-40.459869,17.373980,ov_terapia_del_dolore_san_giorgio_jonico____40.4599_17.3740,Terapia del Dolore San Giorgio Jonico - Taranto,HOSPITAL,hospital
-40.461149,17.374424,ov_spaghettando_spaghetteria___ristorante_40.4611_17.3744,Spaghettando Spaghetteria - Ristorante,RESTAURANT,ristorante
-40.462097,17.385795,ov_la_friseria_40.4621_17.3858,La Friseria,RESTAURANT,ristorante
-40.462424,17.383586,ov_braceria_da_giuseppe_40.4624_17.3836,Braceria da Giuseppe,RESTAURANT,ristorante
-40.459549,17.384240,ov_pit_stop_40.4595_17.3842,Pit Stop,RESTAURANT,ristorante
-40.458784,17.386063,ov_da_boe_puccia_and_pizza_40.4588_17.3861,Da Boe Puccia and Pizza,RESTAURANT,ristorante
-40.458687,17.386084,ov_boe_s_house_40.4587_17.3861,Boe's House,RESTAURANT,ristorante
-40.459849,17.379479,ov_hedone_40.4598_17.3795,Hedone,RESTAURANT,ristorante
-40.458881,17.378893,ov_braceria_al_vecchio_corso_40.4589_17.3789,Braceria Al Vecchio Corso,RESTAURANT,ristorante
-40.457637,17.376211,ov_nonna_lucia_40.4576_17.3762,Nonna Lucia,RESTAURANT,ristorante
-40.457575,17.376171,ov_brio_restaurant_40.4576_17.3762,Brio Restaurant,RESTAURANT,ristorante
-40.457565,17.374724,ov_brace_e_sapori___meat_restaurant_40.4576_17.3747,Brace e Sapori - Meat Restaurant,RESTAURANT,ristorante
-40.457683,17.374390,ov_le_terrazze_40.4577_17.3744,Le Terrazze,RESTAURANT,ristorante
-40.457584,17.380819,ov_la_capannella_40.4576_17.3808,La Capannella,RESTAURANT,ristorante
-40.456853,17.383776,ov_capriccio2_di_giuseppe_pacciana_40.4569_17.3838,Capriccio2 di Giuseppe Pacciana,RESTAURANT,ristorante
-40.457303,17.386551,ov_pizzeria_la_bonta_40.4573_17.3866,Pizzeria La Bonta,RESTAURANT,ristorante
-40.453818,17.386610,ov_pizzeria_sombrero_40.4538_17.3866,Pizzeria Sombrero,RESTAURANT,ristorante
-40.454322,17.383580,ov_la_grande_famiglia_40.4543_17.3836,La Grande Famiglia,RESTAURANT,ristorante
-40.453165,17.385819,ov_punto_pizza_40.4532_17.3858,Punto Pizza,RESTAURANT,ristorante
-40.453201,17.386801,ov_la_braceria_del_birrificio_40.4532_17.3868,La Braceria del Birrificio,RESTAURANT,ristorante
-40.453218,17.386407,ov_wine___co_40.4532_17.3864,Wine & Co,RESTAURANT,ristorante
-40.454455,17.375603,ov_la_taverna_del_coccodrillo_40.4545_17.3756,La Taverna del Coccodrillo,RESTAURANT,ristorante
-40.459350,17.371517,ov_pub_shamrock_beer_e_grill_40.4593_17.3715,Pub SHAMROCK Beer e Grill,RESTAURANT,ristorante
-40.459457,17.371595,ov_carpe_diem_40.4595_17.3716,Carpe Diem,RESTAURANT,ristorante
-40.443338,17.302726,ov_jib__disco_40.4433_17.3027,Jibó Disco,RESTAURANT,ristorante
-40.454339,17.389533,ov_fritto_si_40.4543_17.3895,Fritto Si,RESTAURANT,ristorante
-40.460716,17.388019,ov_kebabberia_sabri_40.4607_17.3880,Kebabberia Sabri,RESTAURANT,ristorante
-40.460880,17.377687,ov_tulipano_40.4609_17.3777,Tulipano,RESTAURANT,bar_cafe
-40.461811,17.379833,ov_cocoa_bar_40.4618_17.3798,cocoa bar,RESTAURANT,bar_cafe
-40.462049,17.380585,ov_torrefazione_salento___caff__artigianali_40.4620_17.3806,Torrefazione Salento - caffè artigianali,RESTAURANT,bar_cafe
-40.460626,17.385813,ov_la_movida_40.4606_17.3858,La Movida,RESTAURANT,bar_cafe
-40.460521,17.386906,ov_kalua_lounge_cafe_40.4605_17.3869,Kalua Lounge Cafe,RESTAURANT,bar_cafe
-40.459806,17.377786,ov_vintage_dreams_40.4598_17.3778,Vintage Dreams,RESTAURANT,bar_cafe
-40.459142,17.373111,ov_bar_romantica_40.4591_17.3731,Bar Romantica,RESTAURANT,bar_cafe
-40.457275,17.379694,ov_barbapapa_40.4573_17.3797,Barbapapa,RESTAURANT,bar_cafe
-40.455670,17.382720,ov_cocoa_cafe__2_0_40.4557_17.3827,Cocoa cafe' 2.0,RESTAURANT,bar_cafe
-40.457180,17.386303,ov_familia_cafe_40.4572_17.3863,Familia Cafe,RESTAURANT,bar_cafe
-40.455852,17.387842,ov_bar_capri_40.4559_17.3878,Bar Capri,RESTAURANT,bar_cafe
-40.454481,17.384241,ov_isola_verde___food_drink___events_40.4545_17.3842,Isola Verde - Food Drink & Events,RESTAURANT,bar_cafe
-40.454794,17.384521,ov_al_chiosco_caffetteria_40.4548_17.3845,Al Chiosco Caffetteria,RESTAURANT,bar_cafe
-40.453171,17.386540,ov_birrificio_artigianale_fabbiano_40.4532_17.3865,Birrificio Artigianale Fabbiano,RESTAURANT,bar_cafe
-40.452625,17.386956,ov_cocoa_cafe_40.4526_17.3870,Cocoa Cafe,RESTAURANT,bar_cafe
-40.459955,17.371931,ov_l_enoteca_di_fabiana_40.4600_17.3719,L'Enoteca di Fabiana,RESTAURANT,bar_cafe
-40.460396,17.365745,ov_caffe_ninfole_40.4604_17.3657,Caffe ninfole,RESTAURANT,bar_cafe
-40.460931,17.378454,ov_dancing_my_life_40.4609_17.3785,Dancing my life,GYM,palestra
-40.461419,17.383940,ov_vibe_art_studio_asd_40.4614_17.3839,Vibe Art Studio ASD,GYM,palestra
-40.459856,17.378312,ov_gym_and_style_40.4599_17.3783,Gym And Style,GYM,palestra
-40.459077,17.373032,ov_asd_fabbiano_boxing_40.4591_17.3730,Asd Fabbiano Boxing,GYM,palestra
-40.456870,17.374250,ov_dojo_oyama_san_giorgio_jonico_40.4569_17.3742,Dojo Oyama San Giorgio Jonico,GYM,palestra
-40.455276,17.374648,ov_gdm_italiana_bambini___sez__san_giorgio__40.4553_17.3746,GDM Italiana Bambini - Sez. San Giorgio Ionico,GYM,palestra
-40.455274,17.387691,ov_a__s__d__fitness_exellence_40.4553_17.3877,A. S. D. Fitness Exellence,GYM,palestra
-40.453003,17.385683,ov_scuola_di_ballo_power_dance_40.4530_17.3857,Scuola di Ballo Power Dance,GYM,palestra
-40.458430,17.370520,ov_poligono_a_team_40.4584_17.3705,Poligono A-team,GYM,palestra
-40.449205,17.370616,ov_circolo_ippico_horse_club_terra_jonica_40.4492_17.3706,Circolo Ippico Horse Club Terra Jonica,GYM,palestra
-40.454583,17.388398,ov_l_etoile_forum_40.4546_17.3884,L'Etoile Forum,GYM,palestra
-40.455802,17.375430,ov_museo_dei_mestieri_in_bicicletta_40.4558_17.3754,Museo dei Mestieri in Bicicletta,MUSEUM,monumento
+40.459869,17.373980,ov_terapia_del_dolore_san_giorgio_jonico____40.4599_17.3740,Terapia del Dolore San Giorgio Jonico - Taranto,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/terapia_del_dolore_san_giorgio_jonico_-__40.4599_17.3740.json,custom
+40.461149,17.374424,ov_spaghettando_spaghetteria___ristorante_40.4611_17.3744,Spaghettando Spaghetteria - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/spaghettando_spaghetteria_-_ristorante_40.4611_17.3744.json,custom
+40.462097,17.385795,ov_la_friseria_40.4621_17.3858,La Friseria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_friseria_40.4621_17.3858.json,custom
+40.462424,17.383586,ov_braceria_da_giuseppe_40.4624_17.3836,Braceria da Giuseppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/braceria_da_giuseppe_40.4624_17.3836.json,custom
+40.459549,17.384240,ov_pit_stop_40.4595_17.3842,Pit Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pit_stop_40.4595_17.3842.json,custom
+40.458784,17.386063,ov_da_boe_puccia_and_pizza_40.4588_17.3861,Da Boe Puccia and Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/da_boe_puccia_and_pizza_40.4588_17.3861.json,custom
+40.458687,17.386084,ov_boe_s_house_40.4587_17.3861,Boe's House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/boes_house_40.4587_17.3861.json,custom
+40.459849,17.379479,ov_hedone_40.4598_17.3795,Hedone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/hedone_40.4598_17.3795.json,custom
+40.458881,17.378893,ov_braceria_al_vecchio_corso_40.4589_17.3789,Braceria Al Vecchio Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/braceria_al_vecchio_corso_40.4589_17.3789.json,custom
+40.457637,17.376211,ov_nonna_lucia_40.4576_17.3762,Nonna Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/nonna_lucia_40.4576_17.3762.json,custom
+40.457575,17.376171,ov_brio_restaurant_40.4576_17.3762,Brio Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/brio_restaurant_40.4576_17.3762.json,custom
+40.457565,17.374724,ov_brace_e_sapori___meat_restaurant_40.4576_17.3747,Brace e Sapori - Meat Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/brace_e_sapori_-_meat_restaurant_40.4576_17.3747.json,custom
+40.457683,17.374390,ov_le_terrazze_40.4577_17.3744,Le Terrazze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/le_terrazze_40.4577_17.3744.json,custom
+40.457584,17.380819,ov_la_capannella_40.4576_17.3808,La Capannella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_capannella_40.4576_17.3808.json,custom
+40.456853,17.383776,ov_capriccio2_di_giuseppe_pacciana_40.4569_17.3838,Capriccio2 di Giuseppe Pacciana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/capriccio2_di_giuseppe_pacciana_40.4569_17.3838.json,custom
+40.457303,17.386551,ov_pizzeria_la_bonta_40.4573_17.3866,Pizzeria La Bonta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pizzeria_la_bonta_40.4573_17.3866.json,custom
+40.453818,17.386610,ov_pizzeria_sombrero_40.4538_17.3866,Pizzeria Sombrero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pizzeria_sombrero_40.4538_17.3866.json,custom
+40.454322,17.383580,ov_la_grande_famiglia_40.4543_17.3836,La Grande Famiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_grande_famiglia_40.4543_17.3836.json,custom
+40.453165,17.385819,ov_punto_pizza_40.4532_17.3858,Punto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/punto_pizza_40.4532_17.3858.json,custom
+40.453201,17.386801,ov_la_braceria_del_birrificio_40.4532_17.3868,La Braceria del Birrificio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_braceria_del_birrificio_40.4532_17.3868.json,custom
+40.453218,17.386407,ov_wine___co_40.4532_17.3864,Wine & Co,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/wine_co_40.4532_17.3864.json,custom
+40.454455,17.375603,ov_la_taverna_del_coccodrillo_40.4545_17.3756,La Taverna del Coccodrillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_taverna_del_coccodrillo_40.4545_17.3756.json,custom
+40.459350,17.371517,ov_pub_shamrock_beer_e_grill_40.4593_17.3715,Pub SHAMROCK Beer e Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pub_shamrock_beer_e_grill_40.4593_17.3715.json,custom
+40.459457,17.371595,ov_carpe_diem_40.4595_17.3716,Carpe Diem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/carpe_diem_40.4595_17.3716.json,custom
+40.443338,17.302726,ov_jib__disco_40.4433_17.3027,Jibó Disco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/jib_disco_40.4433_17.3027.json,custom
+40.454339,17.389533,ov_fritto_si_40.4543_17.3895,Fritto Si,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/fritto_si_40.4543_17.3895.json,custom
+40.460716,17.388019,ov_kebabberia_sabri_40.4607_17.3880,Kebabberia Sabri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/kebabberia_sabri_40.4607_17.3880.json,custom
+40.460880,17.377687,ov_tulipano_40.4609_17.3777,Tulipano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/tulipano_40.4609_17.3777.json,custom
+40.461811,17.379833,ov_cocoa_bar_40.4618_17.3798,cocoa bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_bar_40.4618_17.3798.json,custom
+40.462049,17.380585,ov_torrefazione_salento___caff__artigianali_40.4620_17.3806,Torrefazione Salento - caffè artigianali,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/torrefazione_salento_-_caff_artigianali_40.4620_17.3806.json,custom
+40.460626,17.385813,ov_la_movida_40.4606_17.3858,La Movida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_movida_40.4606_17.3858.json,custom
+40.460521,17.386906,ov_kalua_lounge_cafe_40.4605_17.3869,Kalua Lounge Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/kalua_lounge_cafe_40.4605_17.3869.json,custom
+40.459806,17.377786,ov_vintage_dreams_40.4598_17.3778,Vintage Dreams,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/vintage_dreams_40.4598_17.3778.json,custom
+40.459142,17.373111,ov_bar_romantica_40.4591_17.3731,Bar Romantica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/bar_romantica_40.4591_17.3731.json,custom
+40.457275,17.379694,ov_barbapapa_40.4573_17.3797,Barbapapa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/barbapapa_40.4573_17.3797.json,custom
+40.455670,17.382720,ov_cocoa_cafe__2_0_40.4557_17.3827,Cocoa cafe' 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_cafe_20_40.4557_17.3827.json,custom
+40.457180,17.386303,ov_familia_cafe_40.4572_17.3863,Familia Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/familia_cafe_40.4572_17.3863.json,custom
+40.455852,17.387842,ov_bar_capri_40.4559_17.3878,Bar Capri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/bar_capri_40.4559_17.3878.json,custom
+40.454481,17.384241,ov_isola_verde___food_drink___events_40.4545_17.3842,Isola Verde - Food Drink & Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/isola_verde_-_food_drink_events_40.4545_17.3842.json,custom
+40.454794,17.384521,ov_al_chiosco_caffetteria_40.4548_17.3845,Al Chiosco Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/al_chiosco_caffetteria_40.4548_17.3845.json,custom
+40.453171,17.386540,ov_birrificio_artigianale_fabbiano_40.4532_17.3865,Birrificio Artigianale Fabbiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/birrificio_artigianale_fabbiano_40.4532_17.3865.json,custom
+40.452625,17.386956,ov_cocoa_cafe_40.4526_17.3870,Cocoa Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_cafe_40.4526_17.3870.json,custom
+40.459955,17.371931,ov_l_enoteca_di_fabiana_40.4600_17.3719,L'Enoteca di Fabiana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/lenoteca_di_fabiana_40.4600_17.3719.json,custom
+40.460396,17.365745,ov_caffe_ninfole_40.4604_17.3657,Caffe ninfole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/caffe_ninfole_40.4604_17.3657.json,custom
+40.460931,17.378454,ov_dancing_my_life_40.4609_17.3785,Dancing my life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/dancing_my_life_40.4609_17.3785.json,custom
+40.461419,17.383940,ov_vibe_art_studio_asd_40.4614_17.3839,Vibe Art Studio ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/vibe_art_studio_asd_40.4614_17.3839.json,custom
+40.459856,17.378312,ov_gym_and_style_40.4599_17.3783,Gym And Style,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/gym_and_style_40.4599_17.3783.json,custom
+40.459077,17.373032,ov_asd_fabbiano_boxing_40.4591_17.3730,Asd Fabbiano Boxing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/asd_fabbiano_boxing_40.4591_17.3730.json,custom
+40.456870,17.374250,ov_dojo_oyama_san_giorgio_jonico_40.4569_17.3742,Dojo Oyama San Giorgio Jonico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/dojo_oyama_san_giorgio_jonico_40.4569_17.3742.json,custom
+40.455276,17.374648,ov_gdm_italiana_bambini___sez__san_giorgio__40.4553_17.3746,GDM Italiana Bambini - Sez. San Giorgio Ionico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/gdm_italiana_bambini_-_sez_san_giorgio_i_40.4553_17.3746.json,custom
+40.455274,17.387691,ov_a__s__d__fitness_exellence_40.4553_17.3877,A. S. D. Fitness Exellence,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/a_s_d_fitness_exellence_40.4553_17.3877.json,custom
+40.453003,17.385683,ov_scuola_di_ballo_power_dance_40.4530_17.3857,Scuola di Ballo Power Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/scuola_di_ballo_power_dance_40.4530_17.3857.json,custom
+40.458430,17.370520,ov_poligono_a_team_40.4584_17.3705,Poligono A-team,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/poligono_a-team_40.4584_17.3705.json,custom
+40.449205,17.370616,ov_circolo_ippico_horse_club_terra_jonica_40.4492_17.3706,Circolo Ippico Horse Club Terra Jonica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/circolo_ippico_horse_club_terra_jonica_40.4492_17.3706.json,custom
+40.454583,17.388398,ov_l_etoile_forum_40.4546_17.3884,L'Etoile Forum,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/letoile_forum_40.4546_17.3884.json,custom
+40.455802,17.375430,ov_museo_dei_mestieri_in_bicicletta_40.4558_17.3754,Museo dei Mestieri in Bicicletta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/museo_dei_mestieri_in_bicicletta_40.4558_17.3754.json,custom

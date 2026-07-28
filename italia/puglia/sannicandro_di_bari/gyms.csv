@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sannicandro_di_bari -- gyms
-40.995152,16.742765,ov_levante_circuit_40.9952_16.7428,Levante Circuit,GYM,palestra
-40.999270,16.794075,ov_barbell_addiction_40.9993_16.7941,Barbell Addiction,GYM,palestra
-40.998470,16.802368,ov_body_sculpt_gym_40.9985_16.8024,body sculpt gym,GYM,palestra
-41.000430,16.793330,ov_shape__hata_yoga___fitness_41.0004_16.7933,"Shape, Hata Yoga & Fitness",GYM,palestra
+40.995152,16.742765,ov_levante_circuit_40.9952_16.7428,Levante Circuit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_di_bari/pages/levante_circuit_40.9952_16.7428.json,custom
+40.999270,16.794075,ov_barbell_addiction_40.9993_16.7941,Barbell Addiction,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_di_bari/pages/barbell_addiction_40.9993_16.7941.json,custom
+40.998470,16.802368,ov_body_sculpt_gym_40.9985_16.8024,body sculpt gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_di_bari/pages/body_sculpt_gym_40.9985_16.8024.json,custom
+41.000430,16.793330,ov_shape__hata_yoga___fitness_41.0004_16.7933,"Shape, Hata Yoga & Fitness",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_di_bari/pages/shape_hata_yoga_fitness_41.0004_16.7933.json,custom

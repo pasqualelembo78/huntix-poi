@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # atena_lucana -- gyms
-40.446977,15.541865,ov_kodokan_40.4470_15.5419,Kodokan,GYM,palestra
-40.460002,15.549699,ov_falesia_atena_lucana_40.4600_15.5497,Falesia Atena Lucana,GYM,palestra
-40.460104,15.535268,ov_bowling_athena_40.4601_15.5353,Bowling Athena,GYM,palestra
+40.446977,15.541865,ov_kodokan_40.4470_15.5419,Kodokan,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/kodokan_40.4470_15.5419.json,custom
+40.460002,15.549699,ov_falesia_atena_lucana_40.4600_15.5497,Falesia Atena Lucana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/falesia_atena_lucana_40.4600_15.5497.json,custom
+40.460104,15.535268,ov_bowling_athena_40.4601_15.5353,Bowling Athena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/bowling_athena_40.4601_15.5353.json,custom

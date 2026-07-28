@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_severino_lucano -- bars_cafes
-39.980650,16.176702,ov_bar_del_borgo_39.9807_16.1767,Bar del Borgo,RESTAURANT,bar_cafe
-40.018171,16.140352,ov_goccia_d_oro_40.0182_16.1404,Goccia D'Oro,RESTAURANT,bar_cafe
+39.980650,16.176702,ov_bar_del_borgo_39.9807_16.1767,Bar del Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_severino_lucano/pages/bar_del_borgo_39.9807_16.1767.json,custom
+40.018171,16.140352,ov_goccia_d_oro_40.0182_16.1404,Goccia D'Oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_severino_lucano/pages/goccia_doro_40.0182_16.1404.json,custom

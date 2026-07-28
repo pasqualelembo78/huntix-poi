@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lauria -- gyms
-40.054274,15.844062,ov_elite_fit_and_training_40.0543_15.8441,Elite Fit and Training,GYM,palestra
-40.031060,15.861370,ov_el_mesteno_ranch_di_nicola_carlomagno_40.0311_15.8614,El Mesteno Ranch di Nicola Carlomagno,GYM,palestra
-40.038129,15.839539,ov_cas_agnese_scaldaferri_40.0381_15.8395,CAS Agnese Scaldaferri,GYM,palestra
-40.053971,15.841731,ov_cam_sport_salute_40.0540_15.8417,CAM Sport&salute,GYM,palestra
-40.038928,15.829538,ov_asd_gymnasium_40.0389_15.8295,ASD Gymnasium,GYM,palestra
-40.038647,15.833657,ov_dance_team_basilicata_lauria_40.0386_15.8337,Dance Team Basilicata Lauria,GYM,palestra
-40.041619,15.834347,ov_cam_sport_e_salute_40.0416_15.8343,Cam Sport e Salute,GYM,palestra
+40.054274,15.844062,ov_elite_fit_and_training_40.0543_15.8441,Elite Fit and Training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/elite_fit_and_training_40.0543_15.8441.json,custom
+40.031060,15.861370,ov_el_mesteno_ranch_di_nicola_carlomagno_40.0311_15.8614,El Mesteno Ranch di Nicola Carlomagno,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/el_mesteno_ranch_di_nicola_carlomagno_40.0311_15.8614.json,custom
+40.038129,15.839539,ov_cas_agnese_scaldaferri_40.0381_15.8395,CAS Agnese Scaldaferri,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/cas_agnese_scaldaferri_40.0381_15.8395.json,custom
+40.053971,15.841731,ov_cam_sport_salute_40.0540_15.8417,CAM Sport&salute,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/cam_sportsalute_40.0540_15.8417.json,custom
+40.038928,15.829538,ov_asd_gymnasium_40.0389_15.8295,ASD Gymnasium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/asd_gymnasium_40.0389_15.8295.json,custom
+40.038647,15.833657,ov_dance_team_basilicata_lauria_40.0386_15.8337,Dance Team Basilicata Lauria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/dance_team_basilicata_lauria_40.0386_15.8337.json,custom
+40.041619,15.834347,ov_cam_sport_e_salute_40.0416_15.8343,Cam Sport e Salute,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/cam_sport_e_salute_40.0416_15.8343.json,custom

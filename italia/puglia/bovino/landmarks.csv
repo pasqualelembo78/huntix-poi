@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bovino -- landmarks
-41.251156,15.339688,ov_museo_diocesano_41.2512_15.3397,Museo Diocesano,MUSEUM,monumento
-41.251461,15.339001,ov_castello_di_bovino_41.2515_15.3390,Castello di Bovino,MONUMENT,monumento
-41.252173,15.341041,ov_museo_civico_carlo_gaetano_nicastro_41.2522_15.3410,Museo Civico Carlo Gaetano Nicastro,MUSEUM,monumento
+41.251156,15.339688,ov_museo_diocesano_41.2512_15.3397,Museo Diocesano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bovino/pages/museo_diocesano_41.2512_15.3397.json,custom
+41.251461,15.339001,ov_castello_di_bovino_41.2515_15.3390,Castello di Bovino,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bovino/pages/castello_di_bovino_41.2515_15.3390.json,custom
+41.252173,15.341041,ov_museo_civico_carlo_gaetano_nicastro_41.2522_15.3410,Museo Civico Carlo Gaetano Nicastro,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bovino/pages/museo_civico_carlo_gaetano_nicastro_41.2522_15.3410.json,custom

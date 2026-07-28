@@ -1,79 +1,79 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Mottola -- Tutti
-40.635384,17.027271,ov_ospedale_umberto_i_40.6354_17.0273,Ospedale Umberto I,HOSPITAL,hospital
-40.696006,17.010224,ov_agriturismo_e_agricampeggio_dolcemorso_40.6960_17.0102,Agriturismo e Agricampeggio DolceMorso,RESTAURANT,ristorante
-40.690369,16.974612,ov_sala_azzurra_40.6904_16.9746,Sala Azzurra,RESTAURANT,ristorante
-40.689227,16.977942,ov_antico_gusto_40.6892_16.9779,Antico Gusto,RESTAURANT,ristorante
-40.689174,16.978086,ov_ristorante_pizzeria_tommaso_cecere___san_40.6892_16.9781,Ristorante Pizzeria Tommaso Cecere - San Basilio,RESTAURANT,ristorante
-40.670157,16.966966,ov_masseria_belvedere___mottola___ta_40.6702_16.9670,Masseria Belvedere - Mottola - TA,RESTAURANT,ristorante
-40.610810,17.033021,ov_casina_buttiglione_40.6108_17.0330,Casina Buttiglione,RESTAURANT,ristorante
-40.642970,17.061390,ov_masseria_condivisa_mottola_40.6430_17.0614,Masseria Condivisa Mottola,RESTAURANT,ristorante
-40.634344,17.040416,ov_capriccio_di_mare_40.6343_17.0404,Capriccio di mare,RESTAURANT,ristorante
-40.634311,17.037217,ov_civico_32_40.6343_17.0372,Civico 32,RESTAURANT,ristorante
-40.633848,17.036283,ov_fantasie_caserecce_40.6338_17.0363,Fantasie caserecce,RESTAURANT,ristorante
-40.633685,17.038534,ov_la_tavernetta_40.6337_17.0385,La Tavernetta,RESTAURANT,ristorante
-40.633745,17.039140,ov_ristorante_pizzeria_vittorio_emanuele_40.6337_17.0391,Ristorante Pizzeria Vittorio Emanuele,RESTAURANT,ristorante
-40.633632,17.036188,ov_palato_beato_40.6336_17.0362,Palato Beato,RESTAURANT,ristorante
-40.632007,17.039772,ov_sottoscala_40.6320_17.0398,Sottoscala,RESTAURANT,ristorante
-40.632251,17.040299,ov_la_rotonda_40.6323_17.0403,La Rotonda,RESTAURANT,ristorante
-40.632261,17.040296,ov_laneve_dal_1962_di_gigante_stefano_40.6323_17.0403,Laneve dal 1962 di Gigante Stefano,RESTAURANT,ristorante
-40.631495,17.036014,ov_la_finestra_sul_cielo_40.6315_17.0360,La Finestra sul Cielo,RESTAURANT,ristorante
-40.626950,17.027567,ov_agriturismo_il_porticello_40.6269_17.0276,Agriturismo Il Porticello,RESTAURANT,ristorante
-40.632944,17.034520,ov_pizza_taxi_40.6329_17.0345,Pizza Taxi,RESTAURANT,ristorante
-40.633867,17.034208,ov_pizzeria_bordo_40.6339_17.0342,Pizzeria Bordo,RESTAURANT,ristorante
-40.634871,17.034491,ov_dea_dei_sapori_40.6349_17.0345,Dea Dei Sapori,RESTAURANT,ristorante
-40.634729,17.031505,ov_mal__40.6347_17.0315,Malù,RESTAURANT,ristorante
-40.634271,17.030873,ov_cuore_di_pizza_40.6343_17.0309,Cuore di Pizza,RESTAURANT,ristorante
-40.633759,17.027227,ov_casa_ferri_40.6338_17.0272,Casa Ferri,RESTAURANT,ristorante
-40.635915,17.033614,ov_take_away_di_gravina_lorenzo_40.6359_17.0336,Take Away Di Gravina Lorenzo,RESTAURANT,ristorante
-40.635610,17.034561,ov_hill_s_burger___chips_by_antonio_40.6356_17.0346,Hill's Burger & CHIPS by Antonio,RESTAURANT,ristorante
-40.635032,17.034878,ov_pizzburg_pizze_giganti_panzerotti_focacc_40.6350_17.0349,Pizzburg Pizze Giganti Panzerotti Focacce,RESTAURANT,ristorante
-40.635380,17.036593,ov_sale___pepe_40.6354_17.0366,Sale & Pepe,RESTAURANT,ristorante
-40.635567,17.036783,ov_braceria_dal_centurione_40.6356_17.0368,Braceria dal Centurione,RESTAURANT,ristorante
-40.637946,17.039515,ov_taverna_del_piffero_40.6379_17.0395,Taverna Del Piffero,RESTAURANT,ristorante
-40.637886,17.039798,ov_il_buon_gusto_40.6379_17.0398,Il Buon Gusto,RESTAURANT,ristorante
-40.638037,17.039627,ov_ristorante_pizzeria_k2_mottola_40.6380_17.0396,Ristorante Pizzeria K2 Mottola,RESTAURANT,ristorante
-40.638368,17.039250,ov_pizzeria_ok_40.6384_17.0392,Pizzeria OK,RESTAURANT,ristorante
-40.645104,17.027700,ov_store_centoni_40.6451_17.0277,Store Centoni,RESTAURANT,ristorante
-40.644380,17.023868,ov_contrada_marinara_40.6444_17.0239,Contrada Marinara,RESTAURANT,ristorante
-40.658891,17.068530,ov_ristorante_della_masseria_donna_teresa_40.6589_17.0685,Ristorante della Masseria Donna Teresa,RESTAURANT,ristorante
-40.679628,17.076872,ov_la_boara_40.6796_17.0769,La Boara,RESTAURANT,ristorante
-40.702611,17.091355,ov_agriturismo_parco_leone_40.7026_17.0914,Agriturismo Parco Leone,RESTAURANT,ristorante
-40.701988,17.073897,ov_masseria_colombo_sas_40.7020_17.0739,Masseria Colombo SAS,RESTAURANT,ristorante
-40.713827,17.059781,ov_masseria_colombo_40.7138_17.0598,Masseria Colombo,RESTAURANT,ristorante
-40.656840,16.975420,ov_massimiliano_scriboni___masseria_semerar_40.6568_16.9754,Massimiliano Scriboni - Masseria Semeraro,RESTAURANT,bar_cafe
-40.689950,16.974433,ov_joia_40.6900_16.9744,Joia,RESTAURANT,bar_cafe
-40.634841,17.038780,ov_caffe_del_plebiscito_40.6348_17.0388,Caffe Del Plebiscito,RESTAURANT,bar_cafe
-40.633756,17.038788,ov_caffetteria_piazza_grande_40.6338_17.0388,Caffetteria Piazza Grande,RESTAURANT,bar_cafe
-40.633617,17.039134,ov_bar_delle_poste_40.6336_17.0391,Bar delle Poste,RESTAURANT,bar_cafe
-40.633301,17.034202,ov_mario_le_figar__40.6333_17.0342,Mario Le Figaró,RESTAURANT,bar_cafe
-40.633500,17.035310,ov_bar_belvedere_40.6335_17.0353,Bar Belvedere,RESTAURANT,bar_cafe
-40.633856,17.033242,ov_champions__cafe_40.6339_17.0332,Champions' Cafe,RESTAURANT,bar_cafe
-40.636217,17.028832,ov_coffee_time_40.6362_17.0288,Coffee Time,RESTAURANT,bar_cafe
-40.635162,17.032654,ov_anto_bar_40.6352_17.0327,ANTO bar,RESTAURANT,bar_cafe
-40.635545,17.033192,ov_bar_40.6355_17.0332,Bar,RESTAURANT,bar_cafe
-40.635575,17.032789,ov_massimiliano_scriboni___masseria_semerar_40.6356_17.0328,Massimiliano Scriboni - Masseria Semeraro,RESTAURANT,bar_cafe
-40.635622,17.032543,ov_reale_caf__40.6356_17.0325,Reale Cafè,RESTAURANT,bar_cafe
-40.635622,17.032644,ov_blues_cafe_40.6356_17.0326,Blues Cafe,RESTAURANT,bar_cafe
-40.635917,17.034983,ov_fairplay_sport_caf__40.6359_17.0350,Fairplay Sport Cafè,RESTAURANT,bar_cafe
-40.635405,17.036378,ov_voozappp_caf__40.6354_17.0364,VooZappp Cafè,RESTAURANT,bar_cafe
-40.635280,17.036440,ov_stazione_di_servizio_q8_bar_voo_zapp_40.6353_17.0364,Stazione di Servizio Q8 Bar Voo Zapp,RESTAURANT,bar_cafe
-40.634993,17.036711,ov_il_rifugio_dei_vip_40.6350_17.0367,Il Rifugio Dei Vip,RESTAURANT,bar_cafe
-40.636015,17.037860,ov_iazzo_apulian_pub_40.6360_17.0379,Iazzo Apulian Pub,RESTAURANT,bar_cafe
-40.637262,17.037406,ov_gold_cafe_40.6373_17.0374,Gold Cafe,RESTAURANT,bar_cafe
-40.637995,17.038940,ov_bar_paninoteca_olimpo_40.6380_17.0389,Bar-Paninoteca Olimpo,RESTAURANT,bar_cafe
-40.639506,17.038719,ov_cafenzo_40.6395_17.0387,Cafenzo,RESTAURANT,bar_cafe
-40.795390,16.755390,ov_sporting_caforio_40.7954_16.7554,Sporting Caforio,GYM,palestra
-40.616314,17.033243,ov_kartodromo_mottola_40.6163_17.0332,Kartodromo Mottola,GYM,palestra
-40.633733,17.039724,ov_dreambody_40.6337_17.0397,Dreambody,GYM,palestra
-40.632799,17.040062,ov_centro_yoga_radhika_asd_affiliato_csen_40.6328_17.0401,Centro Yoga Radhika ASD Affiliato CSEN,GYM,palestra
-40.631039,17.037483,ov_ginnastica_artistica_mfc_mottola_40.6310_17.0375,Ginnastica Artistica MFC Mottola,GYM,palestra
-40.631155,17.039008,ov_asd_pugilistica_castellano_40.6312_17.0390,ASD Pugilistica Castellano,GYM,palestra
-40.631922,17.035363,ov_mfc_centro_fitness_40.6319_17.0354,MFC Centro Fitness,GYM,palestra
-40.631926,17.034868,ov_sculptorium_fitness_center_40.6319_17.0349,SCULPTORIUM Fitness center,GYM,palestra
-40.633724,17.032757,ov_artedanza_by_scarpette_rosa_40.6337_17.0328,Artedanza by Scarpette Rosa,GYM,palestra
-40.636490,17.031100,ov_l_arcobaleno_di_lilibeth_40.6365_17.0311,L'Arcobaleno di Lilibeth,GYM,palestra
-40.665200,17.045610,ov_asdpaintballdolcevita_40.6652_17.0456,ASDpaintballdolcevita,GYM,palestra
-40.663881,17.147351,ov_masseria_bellomo___asd_centro_ippico_la__40.6639_17.1474,Masseria Bellomo - ASD Centro Ippico La Stella,GYM,palestra
-40.718965,17.156868,ov_circolo_ippico_monaci_40.7190_17.1569,Circolo Ippico Monaci,GYM,palestra
-40.635260,17.036226,ov_monumento_ai_caduti_40.6353_17.0362,Monumento ai Caduti,MONUMENT,monumento
+40.635384,17.027271,ov_ospedale_umberto_i_40.6354_17.0273,Ospedale Umberto I,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ospedale_umberto_i_40.6354_17.0273.json,custom
+40.696006,17.010224,ov_agriturismo_e_agricampeggio_dolcemorso_40.6960_17.0102,Agriturismo e Agricampeggio DolceMorso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/agriturismo_e_agricampeggio_dolcemorso_40.6960_17.0102.json,custom
+40.690369,16.974612,ov_sala_azzurra_40.6904_16.9746,Sala Azzurra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/sala_azzurra_40.6904_16.9746.json,custom
+40.689227,16.977942,ov_antico_gusto_40.6892_16.9779,Antico Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/antico_gusto_40.6892_16.9779.json,custom
+40.689174,16.978086,ov_ristorante_pizzeria_tommaso_cecere___san_40.6892_16.9781,Ristorante Pizzeria Tommaso Cecere - San Basilio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ristorante_pizzeria_tommaso_cecere_-_san_40.6892_16.9781.json,custom
+40.670157,16.966966,ov_masseria_belvedere___mottola___ta_40.6702_16.9670,Masseria Belvedere - Mottola - TA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/masseria_belvedere_-_mottola_-_ta_40.6702_16.9670.json,custom
+40.610810,17.033021,ov_casina_buttiglione_40.6108_17.0330,Casina Buttiglione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/casina_buttiglione_40.6108_17.0330.json,custom
+40.642970,17.061390,ov_masseria_condivisa_mottola_40.6430_17.0614,Masseria Condivisa Mottola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/masseria_condivisa_mottola_40.6430_17.0614.json,custom
+40.634344,17.040416,ov_capriccio_di_mare_40.6343_17.0404,Capriccio di mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/capriccio_di_mare_40.6343_17.0404.json,custom
+40.634311,17.037217,ov_civico_32_40.6343_17.0372,Civico 32,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/civico_32_40.6343_17.0372.json,custom
+40.633848,17.036283,ov_fantasie_caserecce_40.6338_17.0363,Fantasie caserecce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/fantasie_caserecce_40.6338_17.0363.json,custom
+40.633685,17.038534,ov_la_tavernetta_40.6337_17.0385,La Tavernetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/la_tavernetta_40.6337_17.0385.json,custom
+40.633745,17.039140,ov_ristorante_pizzeria_vittorio_emanuele_40.6337_17.0391,Ristorante Pizzeria Vittorio Emanuele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ristorante_pizzeria_vittorio_emanuele_40.6337_17.0391.json,custom
+40.633632,17.036188,ov_palato_beato_40.6336_17.0362,Palato Beato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/palato_beato_40.6336_17.0362.json,custom
+40.632007,17.039772,ov_sottoscala_40.6320_17.0398,Sottoscala,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/sottoscala_40.6320_17.0398.json,custom
+40.632251,17.040299,ov_la_rotonda_40.6323_17.0403,La Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/la_rotonda_40.6323_17.0403.json,custom
+40.632261,17.040296,ov_laneve_dal_1962_di_gigante_stefano_40.6323_17.0403,Laneve dal 1962 di Gigante Stefano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/laneve_dal_1962_di_gigante_stefano_40.6323_17.0403.json,custom
+40.631495,17.036014,ov_la_finestra_sul_cielo_40.6315_17.0360,La Finestra sul Cielo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/la_finestra_sul_cielo_40.6315_17.0360.json,custom
+40.626950,17.027567,ov_agriturismo_il_porticello_40.6269_17.0276,Agriturismo Il Porticello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/agriturismo_il_porticello_40.6269_17.0276.json,custom
+40.632944,17.034520,ov_pizza_taxi_40.6329_17.0345,Pizza Taxi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/pizza_taxi_40.6329_17.0345.json,custom
+40.633867,17.034208,ov_pizzeria_bordo_40.6339_17.0342,Pizzeria Bordo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/pizzeria_bordo_40.6339_17.0342.json,custom
+40.634871,17.034491,ov_dea_dei_sapori_40.6349_17.0345,Dea Dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/dea_dei_sapori_40.6349_17.0345.json,custom
+40.634729,17.031505,ov_mal__40.6347_17.0315,Malù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/mal_40.6347_17.0315.json,custom
+40.634271,17.030873,ov_cuore_di_pizza_40.6343_17.0309,Cuore di Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/cuore_di_pizza_40.6343_17.0309.json,custom
+40.633759,17.027227,ov_casa_ferri_40.6338_17.0272,Casa Ferri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/casa_ferri_40.6338_17.0272.json,custom
+40.635915,17.033614,ov_take_away_di_gravina_lorenzo_40.6359_17.0336,Take Away Di Gravina Lorenzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/take_away_di_gravina_lorenzo_40.6359_17.0336.json,custom
+40.635610,17.034561,ov_hill_s_burger___chips_by_antonio_40.6356_17.0346,Hill's Burger & CHIPS by Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/hills_burger_chips_by_antonio_40.6356_17.0346.json,custom
+40.635032,17.034878,ov_pizzburg_pizze_giganti_panzerotti_focacc_40.6350_17.0349,Pizzburg Pizze Giganti Panzerotti Focacce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/pizzburg_pizze_giganti_panzerotti_focacc_40.6350_17.0349.json,custom
+40.635380,17.036593,ov_sale___pepe_40.6354_17.0366,Sale & Pepe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/sale_pepe_40.6354_17.0366.json,custom
+40.635567,17.036783,ov_braceria_dal_centurione_40.6356_17.0368,Braceria dal Centurione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/braceria_dal_centurione_40.6356_17.0368.json,custom
+40.637946,17.039515,ov_taverna_del_piffero_40.6379_17.0395,Taverna Del Piffero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/taverna_del_piffero_40.6379_17.0395.json,custom
+40.637886,17.039798,ov_il_buon_gusto_40.6379_17.0398,Il Buon Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/il_buon_gusto_40.6379_17.0398.json,custom
+40.638037,17.039627,ov_ristorante_pizzeria_k2_mottola_40.6380_17.0396,Ristorante Pizzeria K2 Mottola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ristorante_pizzeria_k2_mottola_40.6380_17.0396.json,custom
+40.638368,17.039250,ov_pizzeria_ok_40.6384_17.0392,Pizzeria OK,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/pizzeria_ok_40.6384_17.0392.json,custom
+40.645104,17.027700,ov_store_centoni_40.6451_17.0277,Store Centoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/store_centoni_40.6451_17.0277.json,custom
+40.644380,17.023868,ov_contrada_marinara_40.6444_17.0239,Contrada Marinara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/contrada_marinara_40.6444_17.0239.json,custom
+40.658891,17.068530,ov_ristorante_della_masseria_donna_teresa_40.6589_17.0685,Ristorante della Masseria Donna Teresa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ristorante_della_masseria_donna_teresa_40.6589_17.0685.json,custom
+40.679628,17.076872,ov_la_boara_40.6796_17.0769,La Boara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/la_boara_40.6796_17.0769.json,custom
+40.702611,17.091355,ov_agriturismo_parco_leone_40.7026_17.0914,Agriturismo Parco Leone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/agriturismo_parco_leone_40.7026_17.0914.json,custom
+40.701988,17.073897,ov_masseria_colombo_sas_40.7020_17.0739,Masseria Colombo SAS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/masseria_colombo_sas_40.7020_17.0739.json,custom
+40.713827,17.059781,ov_masseria_colombo_40.7138_17.0598,Masseria Colombo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/masseria_colombo_40.7138_17.0598.json,custom
+40.656840,16.975420,ov_massimiliano_scriboni___masseria_semerar_40.6568_16.9754,Massimiliano Scriboni - Masseria Semeraro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/massimiliano_scriboni_-_masseria_semerar_40.6568_16.9754.json,custom
+40.689950,16.974433,ov_joia_40.6900_16.9744,Joia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/joia_40.6900_16.9744.json,custom
+40.634841,17.038780,ov_caffe_del_plebiscito_40.6348_17.0388,Caffe Del Plebiscito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/caffe_del_plebiscito_40.6348_17.0388.json,custom
+40.633756,17.038788,ov_caffetteria_piazza_grande_40.6338_17.0388,Caffetteria Piazza Grande,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/caffetteria_piazza_grande_40.6338_17.0388.json,custom
+40.633617,17.039134,ov_bar_delle_poste_40.6336_17.0391,Bar delle Poste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/bar_delle_poste_40.6336_17.0391.json,custom
+40.633301,17.034202,ov_mario_le_figar__40.6333_17.0342,Mario Le Figaró,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/mario_le_figar_40.6333_17.0342.json,custom
+40.633500,17.035310,ov_bar_belvedere_40.6335_17.0353,Bar Belvedere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/bar_belvedere_40.6335_17.0353.json,custom
+40.633856,17.033242,ov_champions__cafe_40.6339_17.0332,Champions' Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/champions_cafe_40.6339_17.0332.json,custom
+40.636217,17.028832,ov_coffee_time_40.6362_17.0288,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/coffee_time_40.6362_17.0288.json,custom
+40.635162,17.032654,ov_anto_bar_40.6352_17.0327,ANTO bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/anto_bar_40.6352_17.0327.json,custom
+40.635545,17.033192,ov_bar_40.6355_17.0332,Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/bar_40.6355_17.0332.json,custom
+40.635575,17.032789,ov_massimiliano_scriboni___masseria_semerar_40.6356_17.0328,Massimiliano Scriboni - Masseria Semeraro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/massimiliano_scriboni_-_masseria_semerar_40.6356_17.0328.json,custom
+40.635622,17.032543,ov_reale_caf__40.6356_17.0325,Reale Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/reale_caf_40.6356_17.0325.json,custom
+40.635622,17.032644,ov_blues_cafe_40.6356_17.0326,Blues Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/blues_cafe_40.6356_17.0326.json,custom
+40.635917,17.034983,ov_fairplay_sport_caf__40.6359_17.0350,Fairplay Sport Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/fairplay_sport_caf_40.6359_17.0350.json,custom
+40.635405,17.036378,ov_voozappp_caf__40.6354_17.0364,VooZappp Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/voozappp_caf_40.6354_17.0364.json,custom
+40.635280,17.036440,ov_stazione_di_servizio_q8_bar_voo_zapp_40.6353_17.0364,Stazione di Servizio Q8 Bar Voo Zapp,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/stazione_di_servizio_q8_bar_voo_zapp_40.6353_17.0364.json,custom
+40.634993,17.036711,ov_il_rifugio_dei_vip_40.6350_17.0367,Il Rifugio Dei Vip,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/il_rifugio_dei_vip_40.6350_17.0367.json,custom
+40.636015,17.037860,ov_iazzo_apulian_pub_40.6360_17.0379,Iazzo Apulian Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/iazzo_apulian_pub_40.6360_17.0379.json,custom
+40.637262,17.037406,ov_gold_cafe_40.6373_17.0374,Gold Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/gold_cafe_40.6373_17.0374.json,custom
+40.637995,17.038940,ov_bar_paninoteca_olimpo_40.6380_17.0389,Bar-Paninoteca Olimpo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/bar-paninoteca_olimpo_40.6380_17.0389.json,custom
+40.639506,17.038719,ov_cafenzo_40.6395_17.0387,Cafenzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/cafenzo_40.6395_17.0387.json,custom
+40.795390,16.755390,ov_sporting_caforio_40.7954_16.7554,Sporting Caforio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/sporting_caforio_40.7954_16.7554.json,custom
+40.616314,17.033243,ov_kartodromo_mottola_40.6163_17.0332,Kartodromo Mottola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/kartodromo_mottola_40.6163_17.0332.json,custom
+40.633733,17.039724,ov_dreambody_40.6337_17.0397,Dreambody,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/dreambody_40.6337_17.0397.json,custom
+40.632799,17.040062,ov_centro_yoga_radhika_asd_affiliato_csen_40.6328_17.0401,Centro Yoga Radhika ASD Affiliato CSEN,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/centro_yoga_radhika_asd_affiliato_csen_40.6328_17.0401.json,custom
+40.631039,17.037483,ov_ginnastica_artistica_mfc_mottola_40.6310_17.0375,Ginnastica Artistica MFC Mottola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/ginnastica_artistica_mfc_mottola_40.6310_17.0375.json,custom
+40.631155,17.039008,ov_asd_pugilistica_castellano_40.6312_17.0390,ASD Pugilistica Castellano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/asd_pugilistica_castellano_40.6312_17.0390.json,custom
+40.631922,17.035363,ov_mfc_centro_fitness_40.6319_17.0354,MFC Centro Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/mfc_centro_fitness_40.6319_17.0354.json,custom
+40.631926,17.034868,ov_sculptorium_fitness_center_40.6319_17.0349,SCULPTORIUM Fitness center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/sculptorium_fitness_center_40.6319_17.0349.json,custom
+40.633724,17.032757,ov_artedanza_by_scarpette_rosa_40.6337_17.0328,Artedanza by Scarpette Rosa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/artedanza_by_scarpette_rosa_40.6337_17.0328.json,custom
+40.636490,17.031100,ov_l_arcobaleno_di_lilibeth_40.6365_17.0311,L'Arcobaleno di Lilibeth,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/larcobaleno_di_lilibeth_40.6365_17.0311.json,custom
+40.665200,17.045610,ov_asdpaintballdolcevita_40.6652_17.0456,ASDpaintballdolcevita,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/asdpaintballdolcevita_40.6652_17.0456.json,custom
+40.663881,17.147351,ov_masseria_bellomo___asd_centro_ippico_la__40.6639_17.1474,Masseria Bellomo - ASD Centro Ippico La Stella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/masseria_bellomo_-_asd_centro_ippico_la__40.6639_17.1474.json,custom
+40.718965,17.156868,ov_circolo_ippico_monaci_40.7190_17.1569,Circolo Ippico Monaci,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/circolo_ippico_monaci_40.7190_17.1569.json,custom
+40.635260,17.036226,ov_monumento_ai_caduti_40.6353_17.0362,Monumento ai Caduti,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottola/pages/monumento_ai_caduti_40.6353_17.0362.json,custom

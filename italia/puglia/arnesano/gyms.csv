@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # arnesano -- gyms
-40.338254,18.093964,ov_pulsar_40.3383_18.0940,Pulsar,GYM,palestra
-40.336802,18.090032,ov_piscina_villa_maresca_40.3368_18.0900,Piscina Villa Maresca,GYM,palestra
+40.338254,18.093964,ov_pulsar_40.3383_18.0940,Pulsar,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/arnesano/pages/pulsar_40.3383_18.0940.json,custom
+40.336802,18.090032,ov_piscina_villa_maresca_40.3368_18.0900,Piscina Villa Maresca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/arnesano/pages/piscina_villa_maresca_40.3368_18.0900.json,custom

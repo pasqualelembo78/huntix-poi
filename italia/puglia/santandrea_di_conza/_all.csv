@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sant'Andrea di Conza -- Tutti
-40.844713,15.371441,osm_da_fabiola_40.8447_15.3714,Da Fabiola,ristorante,ristorante
-40.843491,15.368074,ov_giobistrot_40.8435_15.3681,Giobistrot,RESTAURANT,ristorante
-40.838959,15.364332,ov_ristorante_pizzeria_del_sole_40.8390_15.3643,Ristorante Pizzeria Del Sole,RESTAURANT,ristorante
-40.842941,15.367489,ov_bar_pasticceria_pagoda_40.8429_15.3675,Bar Pasticceria Pagoda,RESTAURANT,bar_cafe
-40.845267,15.372859,ov_sant_andrea_di_conza_40.8453_15.3729,Sant'Andrea di Conza,RESTAURANT,bar_cafe
+40.843491,15.368074,ov_giobistrot_40.8435_15.3681,Giobistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/giobistrot_40.8435_15.3681.json,custom
+40.838959,15.364332,ov_ristorante_pizzeria_del_sole_40.8390_15.3643,Ristorante Pizzeria Del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/ristorante_pizzeria_del_sole_40.8390_15.3643.json,custom
+40.844713,15.371441,osm_da_fabiola_40.8447_15.3714,Da Fabiola,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/da_fabiola_40.8447_15.3714.json,custom
+40.842941,15.367489,ov_bar_pasticceria_pagoda_40.8429_15.3675,Bar Pasticceria Pagoda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/bar_pasticceria_pagoda_40.8429_15.3675.json,custom
+40.845267,15.372859,ov_sant_andrea_di_conza_40.8453_15.3729,Sant'Andrea di Conza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/santandrea_di_conza_40.8453_15.3729.json,custom

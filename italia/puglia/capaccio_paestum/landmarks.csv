@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # capaccio_paestum -- landmarks
-40.423297,15.006957,ov_museo_archeologico_di_paestum_40.4233_15.0070,Museo Archeologico di Paestum,MUSEUM,monumento
-40.420159,15.006236,ov_basilica___tempio_greco_40.4202_15.0062,Basilica - Tempio greco,MONUMENT,monumento
-40.406330,15.033820,ov_museo_della_bufala_e_della_mozzarella_40.4063_15.0338,Museo della Bufala e della Mozzarella,MUSEUM,monumento
-40.423780,15.081650,ov_mmmac_museo_materiali_minimi_d_arte_cont_40.4238_15.0816,MMMAC Museo Materiali Minimi d'Arte Contemporanea,MUSEUM,monumento
+40.423297,15.006957,ov_museo_archeologico_di_paestum_40.4233_15.0070,Museo Archeologico di Paestum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/museo_archeologico_di_paestum_40.4233_15.0070.json,custom
+40.420159,15.006236,ov_basilica___tempio_greco_40.4202_15.0062,Basilica - Tempio greco,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/basilica_-_tempio_greco_40.4202_15.0062.json,custom
+40.406330,15.033820,ov_museo_della_bufala_e_della_mozzarella_40.4063_15.0338,Museo della Bufala e della Mozzarella,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/museo_della_bufala_e_della_mozzarella_40.4063_15.0338.json,custom
+40.423780,15.081650,ov_mmmac_museo_materiali_minimi_d_arte_cont_40.4238_15.0816,MMMAC Museo Materiali Minimi d'Arte Contemporanea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/mmmac_museo_materiali_minimi_darte_conte_40.4238_15.0816.json,custom

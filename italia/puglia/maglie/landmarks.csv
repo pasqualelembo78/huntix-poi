@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # maglie -- landmarks
-40.120370,18.302955,ov_l_alca___museo_e_biblioteca_comunali_di__40.1204_18.3030,L'Alca - Museo e Biblioteca comunali di Maglie,MUSEUM,monumento
-40.123249,18.300372,ov_maito___maglie_40.1232_18.3004,MAITO - Maglie,MUSEUM,monumento
-40.124629,18.296228,ov_ex_conceria_lamarque_40.1246_18.2962,Ex Conceria Lamarque,MUSEUM,monumento
+40.120370,18.302955,ov_l_alca___museo_e_biblioteca_comunali_di__40.1204_18.3030,L'Alca - Museo e Biblioteca comunali di Maglie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/lalca_-_museo_e_biblioteca_comunali_di_m_40.1204_18.3030.json,custom
+40.123249,18.300372,ov_maito___maglie_40.1232_18.3004,MAITO - Maglie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/maito_-_maglie_40.1232_18.3004.json,custom
+40.124629,18.296228,ov_ex_conceria_lamarque_40.1246_18.2962,Ex Conceria Lamarque,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/ex_conceria_lamarque_40.1246_18.2962.json,custom

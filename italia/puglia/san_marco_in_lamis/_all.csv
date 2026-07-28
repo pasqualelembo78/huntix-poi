@@ -1,41 +1,41 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Marco in Lamis -- Tutti
-41.762238,15.727231,osm_azienda_agricola_le_chiancate_41.7622_15.7272,Azienda Agricola le Chiancate,ristorante,ristorante
-41.707015,15.696317,ov_fondazione_centri_di_riabilitazione_padr_41.7070_15.6963,Fondazione Centri di Riabilitazione Padre Pio ETS,HOSPITAL,hospital
-41.709703,15.643264,ov_officina_41.7097_15.6433,Officina,RESTAURANT,ristorante
-41.711768,15.643840,ov_de_gustibus_41.7118_15.6438,De Gustibus,RESTAURANT,ristorante
-41.710752,15.640217,ov_pane_e_pomodoro_41.7108_15.6402,Pane e Pomodoro,RESTAURANT,ristorante
-41.711080,15.639247,ov_la_fracchia_41.7111_15.6392,La Fracchia,RESTAURANT,ristorante
-41.712286,15.638019,ov_pizzeria_il_campanile_41.7123_15.6380,Pizzeria il Campanile,RESTAURANT,ristorante
-41.712455,15.636514,ov_pizzeria_l_antico_forno_41.7125_15.6365,Pizzeria L'Antico Forno,RESTAURANT,ristorante
-41.712576,15.637885,ov_agriturismo_gallo_d_oro_41.7126_15.6379,Agriturismo Gallo D'oro,RESTAURANT,ristorante
-41.712966,15.635755,ov_la_pizza_di_adamo_41.7130_15.6358,La Pizza di Adamo,RESTAURANT,ristorante
-41.713150,15.632109,ov_contrada_sambuchello_41.7131_15.6321,Contrada Sambuchello,RESTAURANT,ristorante
-41.712880,15.634690,ov_de_gustibus_41.7129_15.6347,De Gustibus,RESTAURANT,ristorante
-41.712571,15.635037,ov_punto_pizza_41.7126_15.6350,Punto Pizza,RESTAURANT,ristorante
-41.711836,15.634567,ov_pizzeria_la_baracca_41.7118_15.6346,Pizzeria la Baracca,RESTAURANT,ristorante
-41.711994,15.634306,ov_pizzamore_41.7120_15.6343,PizzAmore,RESTAURANT,ristorante
-41.705000,15.655036,ov_sombrero_41.7050_15.6550,Sombrero,RESTAURANT,ristorante
-41.704082,15.657890,ov_ristorante_ostaria_del_villaggio_41.7041_15.6579,Ristorante Ostaria Del Villaggio,RESTAURANT,ristorante
-41.706423,15.654398,ov_la_fabbrica_del_gusto_41.7064_15.6544,La Fabbrica del Gusto,RESTAURANT,ristorante
-41.712778,15.659975,ov_edera_41.7128_15.6600,Edera,RESTAURANT,ristorante
-41.703763,15.658568,ov_la_fracchia_ristorante_pizzeria_41.7038_15.6586,La Fracchia Ristorante Pizzeria,RESTAURANT,ristorante
-41.703722,15.658318,ov_ristorante_pizzeria_da_nonna_maria_41.7037_15.6583,Ristorante Pizzeria da Nonna Maria,RESTAURANT,ristorante
-41.701488,15.664371,ov_carsica_pizzeria_41.7015_15.6644,Carsica Pizzeria,RESTAURANT,ristorante
-41.765910,15.778370,ov_gallo_d_oro_41.7659_15.7784,Gallo d'Oro,RESTAURANT,ristorante
-41.769233,15.752965,ov_agriturismo_masseria_didattica_coppa_di__41.7692_15.7530,Agriturismo Masseria Didattica Coppa di Mezzo,RESTAURANT,ristorante
-41.805305,15.716088,ov_agriturismo_vecchia_masseria_papa__miche_41.8053_15.7161,Agriturismo Vecchia Masseria PAPA' Michele,RESTAURANT,ristorante
-41.710087,15.643355,ov_bar_champion_di_ciavarella_tiziana_41.7101_15.6434,Bar Champion di Ciavarella Tiziana,RESTAURANT,bar_cafe
-41.712183,15.643634,ov_hollywood_discobar_41.7122_15.6436,HOLLYWOOD discobar,RESTAURANT,bar_cafe
-41.711497,15.638147,ov_vintag____bar_caffetteria_41.7115_15.6381,Vintag& - Bar/Caffetteria,RESTAURANT,bar_cafe
-41.712715,15.636596,ov_bar_bacco_di_ciavarella_giovanni_41.7127_15.6366,Bar Bacco di Ciavarella Giovanni,RESTAURANT,bar_cafe
-41.714312,15.634466,ov_bar_oxford_stefania_41.7143_15.6345,BAR Oxford stefania,RESTAURANT,bar_cafe
-41.713116,15.632636,ov_bar_the_bridge_41.7131_15.6326,Bar The Bridge,RESTAURANT,bar_cafe
-41.713420,15.632350,ov_galullo_mille959_caffetteria_pasticceria_41.7134_15.6324,Galullo Mille959 Caffetteria Pasticceria Gelateria,RESTAURANT,bar_cafe
-41.711728,15.634803,ov_cafe_noir_41.7117_15.6348,Cafe Noir,RESTAURANT,bar_cafe
-41.704302,15.656358,ov_lo_chalet_41.7043_15.6564,Lo Chalet,RESTAURANT,bar_cafe
-41.710252,15.641400,ov_home_dance_studio_41.7103_15.6414,Home Dance Studio,GYM,palestra
-41.712262,15.643560,ov_body_planet_41.7123_15.6436,Body Planet,GYM,palestra
-41.711107,15.642615,ov_kim_sport_studio_terapia_41.7111_15.6426,Kim Sport Studio Terapia,GYM,palestra
-41.710240,15.643350,ov_arte_danza___san_marco_in_lamis_41.7102_15.6433,Arte Danza - San Marco in Lamis,GYM,palestra
-41.706677,15.652182,ov_museo_paleontologico_dei_dinosauri_41.7067_15.6522,Museo Paleontologico dei Dinosauri,MUSEUM,monumento
+41.707015,15.696317,ov_fondazione_centri_di_riabilitazione_padr_41.7070_15.6963,Fondazione Centri di Riabilitazione Padre Pio ETS,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/fondazione_centri_di_riabilitazione_padr_41.7070_15.6963.json,custom
+41.709703,15.643264,ov_officina_41.7097_15.6433,Officina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/officina_41.7097_15.6433.json,custom
+41.711768,15.643840,ov_de_gustibus_41.7118_15.6438,De Gustibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/de_gustibus_41.7118_15.6438.json,custom
+41.710752,15.640217,ov_pane_e_pomodoro_41.7108_15.6402,Pane e Pomodoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/pane_e_pomodoro_41.7108_15.6402.json,custom
+41.711080,15.639247,ov_la_fracchia_41.7111_15.6392,La Fracchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/la_fracchia_41.7111_15.6392.json,custom
+41.712286,15.638019,ov_pizzeria_il_campanile_41.7123_15.6380,Pizzeria il Campanile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/pizzeria_il_campanile_41.7123_15.6380.json,custom
+41.712455,15.636514,ov_pizzeria_l_antico_forno_41.7125_15.6365,Pizzeria L'Antico Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/pizzeria_lantico_forno_41.7125_15.6365.json,custom
+41.712576,15.637885,ov_agriturismo_gallo_d_oro_41.7126_15.6379,Agriturismo Gallo D'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/agriturismo_gallo_doro_41.7126_15.6379.json,custom
+41.712966,15.635755,ov_la_pizza_di_adamo_41.7130_15.6358,La Pizza di Adamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/la_pizza_di_adamo_41.7130_15.6358.json,custom
+41.713150,15.632109,ov_contrada_sambuchello_41.7131_15.6321,Contrada Sambuchello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/contrada_sambuchello_41.7131_15.6321.json,custom
+41.712880,15.634690,ov_de_gustibus_41.7129_15.6347,De Gustibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/de_gustibus_41.7129_15.6347.json,custom
+41.712571,15.635037,ov_punto_pizza_41.7126_15.6350,Punto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/punto_pizza_41.7126_15.6350.json,custom
+41.711836,15.634567,ov_pizzeria_la_baracca_41.7118_15.6346,Pizzeria la Baracca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/pizzeria_la_baracca_41.7118_15.6346.json,custom
+41.711994,15.634306,ov_pizzamore_41.7120_15.6343,PizzAmore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/pizzamore_41.7120_15.6343.json,custom
+41.705000,15.655036,ov_sombrero_41.7050_15.6550,Sombrero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/sombrero_41.7050_15.6550.json,custom
+41.704082,15.657890,ov_ristorante_ostaria_del_villaggio_41.7041_15.6579,Ristorante Ostaria Del Villaggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/ristorante_ostaria_del_villaggio_41.7041_15.6579.json,custom
+41.706423,15.654398,ov_la_fabbrica_del_gusto_41.7064_15.6544,La Fabbrica del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/la_fabbrica_del_gusto_41.7064_15.6544.json,custom
+41.712778,15.659975,ov_edera_41.7128_15.6600,Edera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/edera_41.7128_15.6600.json,custom
+41.703763,15.658568,ov_la_fracchia_ristorante_pizzeria_41.7038_15.6586,La Fracchia Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/la_fracchia_ristorante_pizzeria_41.7038_15.6586.json,custom
+41.703722,15.658318,ov_ristorante_pizzeria_da_nonna_maria_41.7037_15.6583,Ristorante Pizzeria da Nonna Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/ristorante_pizzeria_da_nonna_maria_41.7037_15.6583.json,custom
+41.701488,15.664371,ov_carsica_pizzeria_41.7015_15.6644,Carsica Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/carsica_pizzeria_41.7015_15.6644.json,custom
+41.765910,15.778370,ov_gallo_d_oro_41.7659_15.7784,Gallo d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/gallo_doro_41.7659_15.7784.json,custom
+41.769233,15.752965,ov_agriturismo_masseria_didattica_coppa_di__41.7692_15.7530,Agriturismo Masseria Didattica Coppa di Mezzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/agriturismo_masseria_didattica_coppa_di__41.7692_15.7530.json,custom
+41.805305,15.716088,ov_agriturismo_vecchia_masseria_papa__miche_41.8053_15.7161,Agriturismo Vecchia Masseria PAPA' Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/agriturismo_vecchia_masseria_papa_michel_41.8053_15.7161.json,custom
+41.762238,15.727231,osm_azienda_agricola_le_chiancate_41.7622_15.7272,Azienda Agricola le Chiancate,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/azienda_agricola_le_chiancate_41.7622_15.7272.json,custom
+41.710087,15.643355,ov_bar_champion_di_ciavarella_tiziana_41.7101_15.6434,Bar Champion di Ciavarella Tiziana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/bar_champion_di_ciavarella_tiziana_41.7101_15.6434.json,custom
+41.712183,15.643634,ov_hollywood_discobar_41.7122_15.6436,HOLLYWOOD discobar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/hollywood_discobar_41.7122_15.6436.json,custom
+41.711497,15.638147,ov_vintag____bar_caffetteria_41.7115_15.6381,Vintag& - Bar/Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/vintag_-_barcaffetteria_41.7115_15.6381.json,custom
+41.712715,15.636596,ov_bar_bacco_di_ciavarella_giovanni_41.7127_15.6366,Bar Bacco di Ciavarella Giovanni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/bar_bacco_di_ciavarella_giovanni_41.7127_15.6366.json,custom
+41.714312,15.634466,ov_bar_oxford_stefania_41.7143_15.6345,BAR Oxford stefania,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/bar_oxford_stefania_41.7143_15.6345.json,custom
+41.713116,15.632636,ov_bar_the_bridge_41.7131_15.6326,Bar The Bridge,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/bar_the_bridge_41.7131_15.6326.json,custom
+41.713420,15.632350,ov_galullo_mille959_caffetteria_pasticceria_41.7134_15.6324,Galullo Mille959 Caffetteria Pasticceria Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/galullo_mille959_caffetteria_pasticceria_41.7134_15.6324.json,custom
+41.711728,15.634803,ov_cafe_noir_41.7117_15.6348,Cafe Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/cafe_noir_41.7117_15.6348.json,custom
+41.704302,15.656358,ov_lo_chalet_41.7043_15.6564,Lo Chalet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/lo_chalet_41.7043_15.6564.json,custom
+41.710252,15.641400,ov_home_dance_studio_41.7103_15.6414,Home Dance Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/home_dance_studio_41.7103_15.6414.json,custom
+41.712262,15.643560,ov_body_planet_41.7123_15.6436,Body Planet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/body_planet_41.7123_15.6436.json,custom
+41.711107,15.642615,ov_kim_sport_studio_terapia_41.7111_15.6426,Kim Sport Studio Terapia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/kim_sport_studio_terapia_41.7111_15.6426.json,custom
+41.710240,15.643350,ov_arte_danza___san_marco_in_lamis_41.7102_15.6433,Arte Danza - San Marco in Lamis,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/arte_danza_-_san_marco_in_lamis_41.7102_15.6433.json,custom
+41.706677,15.652182,ov_museo_paleontologico_dei_dinosauri_41.7067_15.6522,Museo Paleontologico dei Dinosauri,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_in_lamis/pages/museo_paleontologico_dei_dinosauri_41.7067_15.6522.json,custom

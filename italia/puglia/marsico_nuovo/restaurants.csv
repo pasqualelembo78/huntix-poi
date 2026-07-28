@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # marsico_nuovo -- restaurants
-40.401429,15.739660,ov_opera_fuel_40.4014_15.7397,Opera Fuel,RESTAURANT,ristorante
-40.440108,15.737095,ov_restaurant_al_pergolato_40.4401_15.7371,Restaurant Al Pergolato,RESTAURANT,ristorante
-40.422305,15.733426,ov_agriturismo_vignola_40.4223_15.7334,Agriturismo Vignola,RESTAURANT,ristorante
-40.416700,15.733300,ov_al_pergolato_40.4167_15.7333,Al Pergolato,RESTAURANT,ristorante
-40.406860,15.732080,ov_azienda_agrituristica_vignola_40.4069_15.7321,Azienda Agrituristica Vignola,RESTAURANT,ristorante
-40.411141,15.728026,ov_agriturismo_vignola_40.4111_15.7280,Agriturismo Vignola,RESTAURANT,ristorante
-40.418052,15.685420,ov_la_grotta_dello_stivale_40.4181_15.6854,La grotta dello Stivale,RESTAURANT,ristorante
+40.401429,15.739660,ov_opera_fuel_40.4014_15.7397,Opera Fuel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/opera_fuel_40.4014_15.7397.json,custom
+40.440108,15.737095,ov_restaurant_al_pergolato_40.4401_15.7371,Restaurant Al Pergolato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/restaurant_al_pergolato_40.4401_15.7371.json,custom
+40.422305,15.733426,ov_agriturismo_vignola_40.4223_15.7334,Agriturismo Vignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/agriturismo_vignola_40.4223_15.7334.json,custom
+40.416700,15.733300,ov_al_pergolato_40.4167_15.7333,Al Pergolato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/al_pergolato_40.4167_15.7333.json,custom
+40.406860,15.732080,ov_azienda_agrituristica_vignola_40.4069_15.7321,Azienda Agrituristica Vignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/azienda_agrituristica_vignola_40.4069_15.7321.json,custom
+40.411141,15.728026,ov_agriturismo_vignola_40.4111_15.7280,Agriturismo Vignola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/agriturismo_vignola_40.4111_15.7280.json,custom
+40.418052,15.685420,ov_la_grotta_dello_stivale_40.4181_15.6854,La grotta dello Stivale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsico_nuovo/pages/la_grotta_dello_stivale_40.4181_15.6854.json,custom

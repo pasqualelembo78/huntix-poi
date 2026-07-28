@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Cancellara -- Tutti
-40.724957,15.924682,ov_bioagrisalute_40.7250_15.9247,BioAgriSalute,RESTAURANT,ristorante
-40.730020,15.925027,ov_masabar_pizzeria_40.7300_15.9250,Masabar pizzeria,RESTAURANT,ristorante
-40.730167,15.926108,ov_streat_umori_e_sapori_40.7302_15.9261,Streat Umori e Sapori,RESTAURANT,ristorante
-40.730655,15.923784,ov_the_golden_hen_castle_40.7307_15.9238,The Golden Hen Castle,RESTAURANT,bar_cafe
-40.732075,15.927867,ov_keke_smile_40.7321_15.9279,Keke Smile,RESTAURANT,bar_cafe
+40.724957,15.924682,ov_bioagrisalute_40.7250_15.9247,BioAgriSalute,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cancellara/pages/bioagrisalute_40.7250_15.9247.json,custom
+40.730020,15.925027,ov_masabar_pizzeria_40.7300_15.9250,Masabar pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cancellara/pages/masabar_pizzeria_40.7300_15.9250.json,custom
+40.730167,15.926108,ov_streat_umori_e_sapori_40.7302_15.9261,Streat Umori e Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cancellara/pages/streat_umori_e_sapori_40.7302_15.9261.json,custom
+40.730655,15.923784,ov_the_golden_hen_castle_40.7307_15.9238,The Golden Hen Castle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cancellara/pages/the_golden_hen_castle_40.7307_15.9238.json,custom
+40.732075,15.927867,ov_keke_smile_40.7321_15.9279,Keke Smile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cancellara/pages/keke_smile_40.7321_15.9279.json,custom

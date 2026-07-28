@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carovigno -- landmarks
-40.691836,17.762578,ov_borgata_serranova_40.6918_17.7626,Borgata Serranova,MONUMENT,monumento
-40.693564,17.763057,ov_laboratorio_di_archeologia_di_torre_guac_40.6936_17.7631,Laboratorio di Archeologia di Torre Guaceto,MUSEUM,monumento
-40.698495,17.762416,ov_castello_di_serranova_40.6985_17.7624,Castello di Serranova,MONUMENT,monumento
-40.755766,17.697899,ov_casa_vacanze_carovigno_laboratorio_museo_40.7558_17.6979,Casa Vacanze Carovigno Laboratorio Museo,MUSEUM,monumento
-40.707396,17.659391,ov_orologio_piazza_di_carovigno_40.7074_17.6594,orologio Piazza DI Carovigno,MUSEUM,monumento
-40.707275,17.657206,ov_castello_dentice_di_frasso_40.7073_17.6572,Castello Dentice di Frasso,MONUMENT,monumento
+40.691836,17.762578,ov_borgata_serranova_40.6918_17.7626,Borgata Serranova,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/borgata_serranova_40.6918_17.7626.json,custom
+40.693564,17.763057,ov_laboratorio_di_archeologia_di_torre_guac_40.6936_17.7631,Laboratorio di Archeologia di Torre Guaceto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/laboratorio_di_archeologia_di_torre_guac_40.6936_17.7631.json,custom
+40.698495,17.762416,ov_castello_di_serranova_40.6985_17.7624,Castello di Serranova,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/castello_di_serranova_40.6985_17.7624.json,custom
+40.755766,17.697899,ov_casa_vacanze_carovigno_laboratorio_museo_40.7558_17.6979,Casa Vacanze Carovigno Laboratorio Museo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/casa_vacanze_carovigno_laboratorio_museo_40.7558_17.6979.json,custom
+40.707396,17.659391,ov_orologio_piazza_di_carovigno_40.7074_17.6594,orologio Piazza DI Carovigno,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/orologio_piazza_di_carovigno_40.7074_17.6594.json,custom
+40.707275,17.657206,ov_castello_dentice_di_frasso_40.7073_17.6572,Castello Dentice di Frasso,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/castello_dentice_di_frasso_40.7073_17.6572.json,custom

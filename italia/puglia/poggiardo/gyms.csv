@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # poggiardo -- gyms
-40.044438,18.360043,ov_billions_games_poggiardo_40.0444_18.3600,Billions Games Poggiardo,GYM,palestra
-40.053458,18.382835,ov_kalimba_studio_dance_40.0535_18.3828,Kalimba Studio Dance,GYM,palestra
-40.053371,18.383082,ov_futura_training_space_40.0534_18.3831,Futura Training Space,GYM,palestra
-40.052056,18.384132,ov_style_fitness_40.0521_18.3841,Style Fitness,GYM,palestra
-40.050775,18.382457,ov_new_life_club_40.0508_18.3825,New Life Club,GYM,palestra
-40.050179,18.374217,ov_scuola_di_ballo_cuban_puglia_40.0502_18.3742,Scuola di Ballo Cuban Puglia,GYM,palestra
-40.050059,18.374564,ov_centro__amrit_40.0501_18.3746,Centro  AMRIT,GYM,palestra
-40.059033,18.375242,ov_scuola_di_danza_relev__40.0590_18.3752,Scuola di danza Relevé,GYM,palestra
+40.044438,18.360043,ov_billions_games_poggiardo_40.0444_18.3600,Billions Games Poggiardo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/billions_games_poggiardo_40.0444_18.3600.json,custom
+40.053458,18.382835,ov_kalimba_studio_dance_40.0535_18.3828,Kalimba Studio Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/kalimba_studio_dance_40.0535_18.3828.json,custom
+40.053371,18.383082,ov_futura_training_space_40.0534_18.3831,Futura Training Space,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/futura_training_space_40.0534_18.3831.json,custom
+40.052056,18.384132,ov_style_fitness_40.0521_18.3841,Style Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/style_fitness_40.0521_18.3841.json,custom
+40.050775,18.382457,ov_new_life_club_40.0508_18.3825,New Life Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/new_life_club_40.0508_18.3825.json,custom
+40.050179,18.374217,ov_scuola_di_ballo_cuban_puglia_40.0502_18.3742,Scuola di Ballo Cuban Puglia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/scuola_di_ballo_cuban_puglia_40.0502_18.3742.json,custom
+40.050059,18.374564,ov_centro__amrit_40.0501_18.3746,Centro  AMRIT,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/centro_amrit_40.0501_18.3746.json,custom
+40.059033,18.375242,ov_scuola_di_danza_relev__40.0590_18.3752,Scuola di danza Relevé,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/poggiardo/pages/scuola_di_danza_relev_40.0590_18.3752.json,custom

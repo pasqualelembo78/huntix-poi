@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # faggiano -- bars_cafes
-40.410922,17.388293,ov_cafe_maxangy_40.4109_17.3883,Cafe Maxangy,RESTAURANT,bar_cafe
-40.420379,17.386644,ov_caffetteria_vernile_40.4204_17.3866,Caffetteria Vernile,RESTAURANT,bar_cafe
-40.418658,17.385514,ov_bet_caf__40.4187_17.3855,Bet Café,RESTAURANT,bar_cafe
-40.417645,17.385838,ov_bar_salento_cafe_40.4176_17.3858,Bar Salento Cafe,RESTAURANT,bar_cafe
-40.419258,17.376619,ov_max_angy_caf__40.4193_17.3766,Max&Angy cafè,RESTAURANT,bar_cafe
+40.410922,17.388293,ov_cafe_maxangy_40.4109_17.3883,Cafe Maxangy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/cafe_maxangy_40.4109_17.3883.json,custom
+40.420379,17.386644,ov_caffetteria_vernile_40.4204_17.3866,Caffetteria Vernile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/caffetteria_vernile_40.4204_17.3866.json,custom
+40.418658,17.385514,ov_bet_caf__40.4187_17.3855,Bet Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/bet_caf_40.4187_17.3855.json,custom
+40.417645,17.385838,ov_bar_salento_cafe_40.4176_17.3858,Bar Salento Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/bar_salento_cafe_40.4176_17.3858.json,custom
+40.419258,17.376619,ov_max_angy_caf__40.4193_17.3766,Max&Angy cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/maxangy_caf_40.4193_17.3766.json,custom

@@ -1,34 +1,34 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cisternino -- bars_cafes
-40.741340,17.424945,ov_bar_vignola__cisternino__br__40.7413_17.4249,"Bar Vignola, Cisternino (br)",RESTAURANT,bar_cafe
-40.741411,17.425023,ov_centodiecicavalli_mozzarellabar_40.7414_17.4250,Centodiecicavalli Mozzarellabar,RESTAURANT,bar_cafe
-40.741376,17.425215,ov_110_cavalli_mozzarella_bar_40.7414_17.4252,110 Cavalli Mozzarella Bar,RESTAURANT,bar_cafe
-40.741268,17.425492,ov_oltremura_40.7413_17.4255,Oltremura,RESTAURANT,bar_cafe
-40.741010,17.425540,ov_ideal_caf__40.7410_17.4255,Ideal Cafè,RESTAURANT,bar_cafe
-40.739736,17.429777,ov_roxy_bar_40.7397_17.4298,Roxy Bar,RESTAURANT,bar_cafe
-40.740165,17.430230,ov_piccola_caffetteria_40.7402_17.4302,Piccola Caffetteria,RESTAURANT,bar_cafe
-40.741200,17.426784,ov_20m2_40.7412_17.4268,20m2,RESTAURANT,bar_cafe
-40.741598,17.427532,ov_vineria_del_borgo_40.7416_17.4275,Vineria del Borgo,RESTAURANT,bar_cafe
-40.741720,17.427078,ov_pub_diaulicchie_40.7417_17.4271,Pub Diaulicchie,RESTAURANT,bar_cafe
-40.741662,17.426462,ov_bar_fod_di_pinto_francesco_40.7417_17.4265,Bar FOD di Pinto Francesco,RESTAURANT,bar_cafe
-40.742355,17.427335,ov_bar_porta_piccola_40.7424_17.4273,Bar Porta Piccola,RESTAURANT,bar_cafe
-40.744003,17.425155,ov_non_solo_caffe_40.7440_17.4252,Non Solo Caffe,RESTAURANT,bar_cafe
-40.743352,17.424093,ov_caffe_sospeso_40.7434_17.4241,Caffe Sospeso,RESTAURANT,bar_cafe
-40.743169,17.424452,ov_snack_bar_top_service_da_pino_40.7432_17.4245,Snack Bar Top Service da Pino,RESTAURANT,bar_cafe
-40.742860,17.425930,ov_le_capase_bistrot_40.7429_17.4259,Le Capase Bistrot,RESTAURANT,bar_cafe
-40.741889,17.424446,ov_pharmacy_bar_40.7419_17.4244,Pharmacy Bar,RESTAURANT,bar_cafe
-40.744498,17.424070,ov_tris_bar_40.7445_17.4241,Tris bar,RESTAURANT,bar_cafe
-40.744860,17.424650,ov_this_one_cafe_40.7449_17.4246,This One Cafe,RESTAURANT,bar_cafe
-40.745426,17.423656,ov_bevande_salento_40.7454_17.4237,Bevande Salento,RESTAURANT,bar_cafe
-40.738128,17.470979,ov_bar_meeting_vignola_40.7381_17.4710,Bar Meeting Vignola,RESTAURANT,bar_cafe
-40.736972,17.471699,ov_tiffany_caff__40.7370_17.4717,Tiffany Caffè,RESTAURANT,bar_cafe
-40.770219,17.418767,ov_le_voyage_pub_40.7702_17.4188,Le Voyage Pub,RESTAURANT,bar_cafe
-40.749968,17.414099,ov_birrificio_punzi_40.7500_17.4141,Birrificio Punzi,RESTAURANT,bar_cafe
-40.734393,17.365477,ov_new_gioco_caffe_40.7344_17.3655,New Gioco Caffe,RESTAURANT,bar_cafe
-40.741610,17.426434,osm_bar_fod_40.7416_17.4264,Bar FOD,bar_cafe,bar_cafe
-40.743040,17.426034,osm_charlotte_40.7430_17.4260,Charlotte,bar_cafe,bar_cafe
-40.741767,17.427859,osm_bar_palazzo_40.7418_17.4279,Bar Palazzo,bar_cafe,bar_cafe
-40.741399,17.427776,osm_cin_cin_bar_40.7414_17.4278,Cin Cin Bar,bar_cafe,bar_cafe
-40.741844,17.429197,osm_desir__40.7418_17.4292,Desirè,bar_cafe,bar_cafe
-40.738179,17.471344,osm_enoteca_semeraro_40.7382_17.4713,Enoteca Semeraro,bar_cafe,bar_cafe
-40.744882,17.424643,osm_baci_e_abbracci_40.7449_17.4246,Baci e Abbracci,bar_cafe,bar_cafe
+40.741340,17.424945,ov_bar_vignola__cisternino__br__40.7413_17.4249,"Bar Vignola, Cisternino (br)",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_vignola_cisternino_br_40.7413_17.4249.json,custom
+40.741411,17.425023,ov_centodiecicavalli_mozzarellabar_40.7414_17.4250,Centodiecicavalli Mozzarellabar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/centodiecicavalli_mozzarellabar_40.7414_17.4250.json,custom
+40.741376,17.425215,ov_110_cavalli_mozzarella_bar_40.7414_17.4252,110 Cavalli Mozzarella Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/110_cavalli_mozzarella_bar_40.7414_17.4252.json,custom
+40.741268,17.425492,ov_oltremura_40.7413_17.4255,Oltremura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/oltremura_40.7413_17.4255.json,custom
+40.741010,17.425540,ov_ideal_caf__40.7410_17.4255,Ideal Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/ideal_caf_40.7410_17.4255.json,custom
+40.739736,17.429777,ov_roxy_bar_40.7397_17.4298,Roxy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/roxy_bar_40.7397_17.4298.json,custom
+40.740165,17.430230,ov_piccola_caffetteria_40.7402_17.4302,Piccola Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/piccola_caffetteria_40.7402_17.4302.json,custom
+40.741200,17.426784,ov_20m2_40.7412_17.4268,20m2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/20m2_40.7412_17.4268.json,custom
+40.741598,17.427532,ov_vineria_del_borgo_40.7416_17.4275,Vineria del Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/vineria_del_borgo_40.7416_17.4275.json,custom
+40.741720,17.427078,ov_pub_diaulicchie_40.7417_17.4271,Pub Diaulicchie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/pub_diaulicchie_40.7417_17.4271.json,custom
+40.741662,17.426462,ov_bar_fod_di_pinto_francesco_40.7417_17.4265,Bar FOD di Pinto Francesco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_fod_di_pinto_francesco_40.7417_17.4265.json,custom
+40.742355,17.427335,ov_bar_porta_piccola_40.7424_17.4273,Bar Porta Piccola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_porta_piccola_40.7424_17.4273.json,custom
+40.744003,17.425155,ov_non_solo_caffe_40.7440_17.4252,Non Solo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/non_solo_caffe_40.7440_17.4252.json,custom
+40.743352,17.424093,ov_caffe_sospeso_40.7434_17.4241,Caffe Sospeso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/caffe_sospeso_40.7434_17.4241.json,custom
+40.743169,17.424452,ov_snack_bar_top_service_da_pino_40.7432_17.4245,Snack Bar Top Service da Pino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/snack_bar_top_service_da_pino_40.7432_17.4245.json,custom
+40.742860,17.425930,ov_le_capase_bistrot_40.7429_17.4259,Le Capase Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/le_capase_bistrot_40.7429_17.4259.json,custom
+40.741889,17.424446,ov_pharmacy_bar_40.7419_17.4244,Pharmacy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/pharmacy_bar_40.7419_17.4244.json,custom
+40.744498,17.424070,ov_tris_bar_40.7445_17.4241,Tris bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/tris_bar_40.7445_17.4241.json,custom
+40.744860,17.424650,ov_this_one_cafe_40.7449_17.4246,This One Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/this_one_cafe_40.7449_17.4246.json,custom
+40.745426,17.423656,ov_bevande_salento_40.7454_17.4237,Bevande Salento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bevande_salento_40.7454_17.4237.json,custom
+40.738128,17.470979,ov_bar_meeting_vignola_40.7381_17.4710,Bar Meeting Vignola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_meeting_vignola_40.7381_17.4710.json,custom
+40.736972,17.471699,ov_tiffany_caff__40.7370_17.4717,Tiffany Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/tiffany_caff_40.7370_17.4717.json,custom
+40.770219,17.418767,ov_le_voyage_pub_40.7702_17.4188,Le Voyage Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/le_voyage_pub_40.7702_17.4188.json,custom
+40.749968,17.414099,ov_birrificio_punzi_40.7500_17.4141,Birrificio Punzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/birrificio_punzi_40.7500_17.4141.json,custom
+40.734393,17.365477,ov_new_gioco_caffe_40.7344_17.3655,New Gioco Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/new_gioco_caffe_40.7344_17.3655.json,custom
+40.741610,17.426434,osm_bar_fod_40.7416_17.4264,Bar FOD,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_fod_40.7416_17.4264.json,custom
+40.743040,17.426034,osm_charlotte_40.7430_17.4260,Charlotte,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/charlotte_40.7430_17.4260.json,custom
+40.741767,17.427859,osm_bar_palazzo_40.7418_17.4279,Bar Palazzo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/bar_palazzo_40.7418_17.4279.json,custom
+40.741399,17.427776,osm_cin_cin_bar_40.7414_17.4278,Cin Cin Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/cin_cin_bar_40.7414_17.4278.json,custom
+40.741844,17.429197,osm_desir__40.7418_17.4292,Desirè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/desir_40.7418_17.4292.json,custom
+40.738179,17.471344,osm_enoteca_semeraro_40.7382_17.4713,Enoteca Semeraro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/enoteca_semeraro_40.7382_17.4713.json,custom
+40.744882,17.424643,osm_baci_e_abbracci_40.7449_17.4246,Baci e Abbracci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cisternino/pages/baci_e_abbracci_40.7449_17.4246.json,custom

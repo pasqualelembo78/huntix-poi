@@ -1,74 +1,72 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grottaglie -- restaurants
-40.534942,17.440906,osm_pizzeria_il_top_40.5349_17.4409,Pizzeria Il Top,ristorante,ristorante
-40.537510,17.435256,osm_antica_pizzeria_del_corso_di_maurizio_bi_40.5375_17.4353,Antica Pizzeria del Corso di Maurizio Biondi,ristorante,ristorante
-40.528767,17.439942,osm_le_iene_40.5288_17.4399,Le Iene,ristorante,ristorante
-40.528855,17.436842,osm_la_piccola_rudie_40.5289_17.4368,La Piccola Rudie,ristorante,ristorante
-40.569175,17.386741,ov_notre_dame_40.5692_17.3867,Notre Dame,RESTAURANT,ristorante
-40.550149,17.441798,ov_ristorante_paradiso_40.5501_17.4418,Ristorante Paradiso,RESTAURANT,ristorante
-40.539449,17.430563,ov_il_forno_40.5394_17.4306,Il Forno,RESTAURANT,ristorante
-40.539652,17.432100,ov_frittoalvologrottaglie_40.5397_17.4321,frittoalvoloGrottaglie,RESTAURANT,ristorante
-40.545737,17.432678,ov_pizzeria_la_fenice_40.5457_17.4327,Pizzeria La Fenice,RESTAURANT,ristorante
-40.543437,17.435441,ov_aglio_olio_e_peperoncino_40.5434_17.4354,Aglio Olio E Peperoncino,RESTAURANT,ristorante
-40.544658,17.436184,ov_delizie_dal_mondo_40.5447_17.4362,Delizie dal Mondo,RESTAURANT,ristorante
-40.540487,17.437731,ov_enigma_fast_40.5405_17.4377,Enigma Fast,RESTAURANT,ristorante
-40.540010,17.439909,ov_prince_cafe___bistrot_40.5400_17.4399,Prince Cafe & Bistrot,RESTAURANT,ristorante
-40.538957,17.440433,ov_el_fuego_pizzeria_di_mancini_gaetano_40.5390_17.4404,El Fuego Pizzeria di Mancini Gaetano,RESTAURANT,ristorante
-40.540296,17.436005,ov_nuova_anema_e_core_40.5403_17.4360,Nuova Anema e Core,RESTAURANT,ristorante
-40.538304,17.435967,ov_l_angolo_della_pizza_40.5383_17.4360,L'Angolo della Pizza,RESTAURANT,ristorante
-40.538018,17.436261,ov_chili_peppers_40.5380_17.4363,Chili Peppers,RESTAURANT,ristorante
-40.537398,17.443706,ov_pizza___e_via_40.5374_17.4437,Pizza...e Via,RESTAURANT,ristorante
-40.536692,17.438357,ov_enigma_40.5367_17.4384,Enigma,RESTAURANT,ristorante
-40.537110,17.437963,ov_freeshop_40.5371_17.4380,Freeshop,RESTAURANT,ristorante
-40.537248,17.438997,ov_sunrise_very_food_40.5372_17.4390,Sunrise Very Food,RESTAURANT,ristorante
-40.537530,17.437650,ov_miami_sushi_40.5375_17.4377,Miami Sushi,RESTAURANT,ristorante
-40.537471,17.435295,ov_antica_pizzeria_del_corso_40.5375_17.4353,Antica Pizzeria del Corso,RESTAURANT,ristorante
-40.535939,17.435045,ov_360_gradi_40.5359_17.4350,360 Gradi,RESTAURANT,ristorante
-40.536141,17.434799,ov_brother_s_food_pizza_40.5361_17.4348,Brother's Food Pizza,RESTAURANT,ristorante
-40.536052,17.434645,ov_bar_piemonte_40.5361_17.4346,Bar Piemonte,RESTAURANT,ristorante
-40.535274,17.434035,ov_il_granaio_40.5353_17.4340,Il Granaio,RESTAURANT,ristorante
-40.534943,17.436733,ov_kailia_nutrifood_40.5349_17.4367,Kailia Nutrifood,RESTAURANT,ristorante
-40.534890,17.440980,ov_pizzeria_il_top_40.5349_17.4410,Pizzeria Il Top,RESTAURANT,ristorante
-40.534022,17.436745,ov_genesi_40.5340_17.4367,Genesi,RESTAURANT,ristorante
-40.532791,17.434553,ov_la_svolta_40.5328_17.4346,La Svolta,RESTAURANT,ristorante
-40.532836,17.434790,ov_masseria_oltreamici_40.5328_17.4348,Masseria OltreAmici,RESTAURANT,ristorante
-40.532273,17.438555,ov_pizzeria_da_mario_40.5323_17.4386,Pizzeria da Mario,RESTAURANT,ristorante
-40.532436,17.439089,ov_deluxe_pit_stop_di_ciro_vestita_40.5324_17.4391,Deluxe Pit Stop di Ciro Vestita,RESTAURANT,ristorante
-40.533575,17.442621,ov_izzica_di_antonio_turrisi_40.5336_17.4426,Izzica di Antonio Turrisi,RESTAURANT,ristorante
-40.527685,17.437448,ov_calabrese_fast_food_40.5277_17.4374,Calabrese Fast Food,RESTAURANT,ristorante
-40.528845,17.436813,ov_la_piccola_rudie_40.5288_17.4368,La Piccola Rudie,RESTAURANT,ristorante
-40.529804,17.437572,ov_giotto_1985_40.5298_17.4376,Giotto 1985,RESTAURANT,ristorante
-40.529409,17.440120,ov_le_iene_fast_food_40.5294_17.4401,Le Iene Fast Food,RESTAURANT,ristorante
-40.529474,17.441230,ov_cavamonti_pizzeria_gourmet_40.5295_17.4412,Cavamonti Pizzeria Gourmet,RESTAURANT,ristorante
-40.529799,17.441140,ov_sushi_kimo_40.5298_17.4411,Sushi Kimo,RESTAURANT,ristorante
-40.531606,17.433808,ov_ristorante_pizzeria_santa_sofia_40.5316_17.4338,Ristorante Pizzeria Santa Sofia,RESTAURANT,ristorante
-40.530676,17.430170,ov_hestia___ristorante_pizzeria_wine_bar_40.5307_17.4302,Hestia - Ristorante Pizzeria Wine Bar,RESTAURANT,ristorante
-40.531840,17.429100,ov_bemore___anima_cucina_40.5318_17.4291,BeMore - Anima&Cucina,RESTAURANT,ristorante
-40.532483,17.428686,ov_trattoria_la_luna_nel_pozzo_40.5325_17.4287,Trattoria la Luna nel Pozzo,RESTAURANT,ristorante
-40.532719,17.430259,ov_la__nchioscia_di_pepe_40.5327_17.4303,La 'Nchioscia di Pepe,RESTAURANT,ristorante
-40.532721,17.430303,ov_madera_restaurant_40.5327_17.4303,Madera Restaurant,RESTAURANT,ristorante
-40.532631,17.430484,ov_ristorante_convivium_40.5326_17.4305,Ristorante Convivium,RESTAURANT,ristorante
-40.532157,17.432778,ov_alfredo_laboratorio_gastronomico_40.5322_17.4328,Alfredo Laboratorio Gastronomico,RESTAURANT,ristorante
-40.532527,17.432253,ov_alfredo_ristorante_40.5325_17.4323,Alfredo Ristorante,RESTAURANT,ristorante
-40.534050,17.430590,ov_ricevimenti_paradiso_40.5341_17.4306,Ricevimenti Paradiso,RESTAURANT,ristorante
-40.534240,17.433461,ov_lo_spuntino_40.5342_17.4335,Lo Spuntino,RESTAURANT,ristorante
-40.534437,17.433314,ov_la_pupa_sorsi_di_mare_40.5344_17.4333,La Pupa sorsi di mare,RESTAURANT,ristorante
-40.534570,17.431642,ov_streat_food_40.5346_17.4316,Streat Food,RESTAURANT,ristorante
-40.534426,17.431596,ov_casa_merini_40.5344_17.4316,Casa Merini,RESTAURANT,ristorante
-40.534137,17.428325,ov_nel_borgo_40.5341_17.4283,Nel Borgo,RESTAURANT,ristorante
-40.534232,17.429956,ov_vico_51___food___drink_40.5342_17.4300,Vico 51 - food & Drink,RESTAURANT,ristorante
-40.533683,17.429461,ov_osteria_da_sora_michela_40.5337_17.4295,Osteria Da Sora Michela,RESTAURANT,ristorante
-40.533879,17.428029,ov_macchiaviva_bistrot_40.5339_17.4280,Macchiaviva Bistrot,RESTAURANT,ristorante
-40.533849,17.428072,ov_le_ballo_40.5338_17.4281,Le Ballo,RESTAURANT,ristorante
-40.534250,17.427715,ov_regina_margherita_40.5343_17.4277,Regina Margherita,RESTAURANT,ristorante
-40.535116,17.427755,ov_vicolove_40.5351_17.4278,VicoLove,RESTAURANT,ristorante
-40.535069,17.427473,ov_basiliano_40.5351_17.4275,Basiliano,RESTAURANT,ristorante
-40.535139,17.426947,ov_la_locanda_del_gallo_40.5351_17.4269,La Locanda del Gallo,RESTAURANT,ristorante
-40.534862,17.428490,ov_osteria_la_capasa_40.5349_17.4285,Osteria La Capasa,RESTAURANT,ristorante
-40.534815,17.429690,ov_c_ramique_40.5348_17.4297,Céramique,RESTAURANT,ristorante
-40.535115,17.432317,ov_la_torretta_40.5351_17.4323,La Torretta,RESTAURANT,ristorante
-40.536708,17.430303,ov_casa_lacorte_40.5367_17.4303,Casa Lacorte,RESTAURANT,ristorante
-40.536425,17.428578,ov_gran_men__40.5364_17.4286,Gran Menù,RESTAURANT,ristorante
-40.536448,17.427285,ov_all_nchianata_40.5364_17.4273,All'nchianata,RESTAURANT,ristorante
-40.537257,17.425068,ov_airport_ristorante_40.5373_17.4251,Airport Ristorante,RESTAURANT,ristorante
-40.536070,17.426108,ov_mordi_e_fuggi_40.5361_17.4261,Mordi E Fuggi,RESTAURANT,ristorante
+40.569175,17.386741,ov_notre_dame_40.5692_17.3867,Notre Dame,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/notre_dame_40.5692_17.3867.json,custom
+40.550149,17.441798,ov_ristorante_paradiso_40.5501_17.4418,Ristorante Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/ristorante_paradiso_40.5501_17.4418.json,custom
+40.539449,17.430563,ov_il_forno_40.5394_17.4306,Il Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/il_forno_40.5394_17.4306.json,custom
+40.539652,17.432100,ov_frittoalvologrottaglie_40.5397_17.4321,frittoalvoloGrottaglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/frittoalvologrottaglie_40.5397_17.4321.json,custom
+40.545737,17.432678,ov_pizzeria_la_fenice_40.5457_17.4327,Pizzeria La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/pizzeria_la_fenice_40.5457_17.4327.json,custom
+40.543437,17.435441,ov_aglio_olio_e_peperoncino_40.5434_17.4354,Aglio Olio E Peperoncino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/aglio_olio_e_peperoncino_40.5434_17.4354.json,custom
+40.544658,17.436184,ov_delizie_dal_mondo_40.5447_17.4362,Delizie dal Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/delizie_dal_mondo_40.5447_17.4362.json,custom
+40.540487,17.437731,ov_enigma_fast_40.5405_17.4377,Enigma Fast,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/enigma_fast_40.5405_17.4377.json,custom
+40.540010,17.439909,ov_prince_cafe___bistrot_40.5400_17.4399,Prince Cafe & Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/prince_cafe_bistrot_40.5400_17.4399.json,custom
+40.538957,17.440433,ov_el_fuego_pizzeria_di_mancini_gaetano_40.5390_17.4404,El Fuego Pizzeria di Mancini Gaetano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/el_fuego_pizzeria_di_mancini_gaetano_40.5390_17.4404.json,custom
+40.540296,17.436005,ov_nuova_anema_e_core_40.5403_17.4360,Nuova Anema e Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/nuova_anema_e_core_40.5403_17.4360.json,custom
+40.538304,17.435967,ov_l_angolo_della_pizza_40.5383_17.4360,L'Angolo della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/langolo_della_pizza_40.5383_17.4360.json,custom
+40.538018,17.436261,ov_chili_peppers_40.5380_17.4363,Chili Peppers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/chili_peppers_40.5380_17.4363.json,custom
+40.537398,17.443706,ov_pizza___e_via_40.5374_17.4437,Pizza...e Via,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/pizzae_via_40.5374_17.4437.json,custom
+40.536692,17.438357,ov_enigma_40.5367_17.4384,Enigma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/enigma_40.5367_17.4384.json,custom
+40.537110,17.437963,ov_freeshop_40.5371_17.4380,Freeshop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/freeshop_40.5371_17.4380.json,custom
+40.537248,17.438997,ov_sunrise_very_food_40.5372_17.4390,Sunrise Very Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/sunrise_very_food_40.5372_17.4390.json,custom
+40.537530,17.437650,ov_miami_sushi_40.5375_17.4377,Miami Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/miami_sushi_40.5375_17.4377.json,custom
+40.537471,17.435295,ov_antica_pizzeria_del_corso_40.5375_17.4353,Antica Pizzeria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/antica_pizzeria_del_corso_40.5375_17.4353.json,custom
+40.535939,17.435045,ov_360_gradi_40.5359_17.4350,360 Gradi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/360_gradi_40.5359_17.4350.json,custom
+40.536141,17.434799,ov_brother_s_food_pizza_40.5361_17.4348,Brother's Food Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/brothers_food_pizza_40.5361_17.4348.json,custom
+40.536052,17.434645,ov_bar_piemonte_40.5361_17.4346,Bar Piemonte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/bar_piemonte_40.5361_17.4346.json,custom
+40.535274,17.434035,ov_il_granaio_40.5353_17.4340,Il Granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/il_granaio_40.5353_17.4340.json,custom
+40.534943,17.436733,ov_kailia_nutrifood_40.5349_17.4367,Kailia Nutrifood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/kailia_nutrifood_40.5349_17.4367.json,custom
+40.534890,17.440980,ov_pizzeria_il_top_40.5349_17.4410,Pizzeria Il Top,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/pizzeria_il_top_40.5349_17.4410.json,custom
+40.534022,17.436745,ov_genesi_40.5340_17.4367,Genesi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/genesi_40.5340_17.4367.json,custom
+40.532791,17.434553,ov_la_svolta_40.5328_17.4346,La Svolta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_svolta_40.5328_17.4346.json,custom
+40.532836,17.434790,ov_masseria_oltreamici_40.5328_17.4348,Masseria OltreAmici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/masseria_oltreamici_40.5328_17.4348.json,custom
+40.532273,17.438555,ov_pizzeria_da_mario_40.5323_17.4386,Pizzeria da Mario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/pizzeria_da_mario_40.5323_17.4386.json,custom
+40.532436,17.439089,ov_deluxe_pit_stop_di_ciro_vestita_40.5324_17.4391,Deluxe Pit Stop di Ciro Vestita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/deluxe_pit_stop_di_ciro_vestita_40.5324_17.4391.json,custom
+40.533575,17.442621,ov_izzica_di_antonio_turrisi_40.5336_17.4426,Izzica di Antonio Turrisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/izzica_di_antonio_turrisi_40.5336_17.4426.json,custom
+40.527685,17.437448,ov_calabrese_fast_food_40.5277_17.4374,Calabrese Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/calabrese_fast_food_40.5277_17.4374.json,custom
+40.528845,17.436813,ov_la_piccola_rudie_40.5288_17.4368,La Piccola Rudie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_piccola_rudie_40.5288_17.4368.json,custom
+40.529804,17.437572,ov_giotto_1985_40.5298_17.4376,Giotto 1985,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/giotto_1985_40.5298_17.4376.json,custom
+40.529409,17.440120,ov_le_iene_fast_food_40.5294_17.4401,Le Iene Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/le_iene_fast_food_40.5294_17.4401.json,custom
+40.529474,17.441230,ov_cavamonti_pizzeria_gourmet_40.5295_17.4412,Cavamonti Pizzeria Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/cavamonti_pizzeria_gourmet_40.5295_17.4412.json,custom
+40.529799,17.441140,ov_sushi_kimo_40.5298_17.4411,Sushi Kimo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/sushi_kimo_40.5298_17.4411.json,custom
+40.531606,17.433808,ov_ristorante_pizzeria_santa_sofia_40.5316_17.4338,Ristorante Pizzeria Santa Sofia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/ristorante_pizzeria_santa_sofia_40.5316_17.4338.json,custom
+40.530676,17.430170,ov_hestia___ristorante_pizzeria_wine_bar_40.5307_17.4302,Hestia - Ristorante Pizzeria Wine Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/hestia_-_ristorante_pizzeria_wine_bar_40.5307_17.4302.json,custom
+40.531840,17.429100,ov_bemore___anima_cucina_40.5318_17.4291,BeMore - Anima&Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/bemore_-_animacucina_40.5318_17.4291.json,custom
+40.532483,17.428686,ov_trattoria_la_luna_nel_pozzo_40.5325_17.4287,Trattoria la Luna nel Pozzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/trattoria_la_luna_nel_pozzo_40.5325_17.4287.json,custom
+40.532719,17.430259,ov_la__nchioscia_di_pepe_40.5327_17.4303,La 'Nchioscia di Pepe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_nchioscia_di_pepe_40.5327_17.4303.json,custom
+40.532721,17.430303,ov_madera_restaurant_40.5327_17.4303,Madera Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/madera_restaurant_40.5327_17.4303.json,custom
+40.532631,17.430484,ov_ristorante_convivium_40.5326_17.4305,Ristorante Convivium,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/ristorante_convivium_40.5326_17.4305.json,custom
+40.532157,17.432778,ov_alfredo_laboratorio_gastronomico_40.5322_17.4328,Alfredo Laboratorio Gastronomico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/alfredo_laboratorio_gastronomico_40.5322_17.4328.json,custom
+40.532527,17.432253,ov_alfredo_ristorante_40.5325_17.4323,Alfredo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/alfredo_ristorante_40.5325_17.4323.json,custom
+40.534050,17.430590,ov_ricevimenti_paradiso_40.5341_17.4306,Ricevimenti Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/ricevimenti_paradiso_40.5341_17.4306.json,custom
+40.534240,17.433461,ov_lo_spuntino_40.5342_17.4335,Lo Spuntino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/lo_spuntino_40.5342_17.4335.json,custom
+40.534437,17.433314,ov_la_pupa_sorsi_di_mare_40.5344_17.4333,La Pupa sorsi di mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_pupa_sorsi_di_mare_40.5344_17.4333.json,custom
+40.534570,17.431642,ov_streat_food_40.5346_17.4316,Streat Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/streat_food_40.5346_17.4316.json,custom
+40.534426,17.431596,ov_casa_merini_40.5344_17.4316,Casa Merini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/casa_merini_40.5344_17.4316.json,custom
+40.534137,17.428325,ov_nel_borgo_40.5341_17.4283,Nel Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/nel_borgo_40.5341_17.4283.json,custom
+40.534232,17.429956,ov_vico_51___food___drink_40.5342_17.4300,Vico 51 - food & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/vico_51_-_food_drink_40.5342_17.4300.json,custom
+40.533683,17.429461,ov_osteria_da_sora_michela_40.5337_17.4295,Osteria Da Sora Michela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/osteria_da_sora_michela_40.5337_17.4295.json,custom
+40.533879,17.428029,ov_macchiaviva_bistrot_40.5339_17.4280,Macchiaviva Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/macchiaviva_bistrot_40.5339_17.4280.json,custom
+40.533849,17.428072,ov_le_ballo_40.5338_17.4281,Le Ballo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/le_ballo_40.5338_17.4281.json,custom
+40.534250,17.427715,ov_regina_margherita_40.5343_17.4277,Regina Margherita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/regina_margherita_40.5343_17.4277.json,custom
+40.535116,17.427755,ov_vicolove_40.5351_17.4278,VicoLove,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/vicolove_40.5351_17.4278.json,custom
+40.535069,17.427473,ov_basiliano_40.5351_17.4275,Basiliano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/basiliano_40.5351_17.4275.json,custom
+40.535139,17.426947,ov_la_locanda_del_gallo_40.5351_17.4269,La Locanda del Gallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_locanda_del_gallo_40.5351_17.4269.json,custom
+40.534862,17.428490,ov_osteria_la_capasa_40.5349_17.4285,Osteria La Capasa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/osteria_la_capasa_40.5349_17.4285.json,custom
+40.534815,17.429690,ov_c_ramique_40.5348_17.4297,Céramique,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/cramique_40.5348_17.4297.json,custom
+40.535115,17.432317,ov_la_torretta_40.5351_17.4323,La Torretta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/la_torretta_40.5351_17.4323.json,custom
+40.536708,17.430303,ov_casa_lacorte_40.5367_17.4303,Casa Lacorte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/casa_lacorte_40.5367_17.4303.json,custom
+40.536425,17.428578,ov_gran_men__40.5364_17.4286,Gran Menù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/gran_men_40.5364_17.4286.json,custom
+40.536448,17.427285,ov_all_nchianata_40.5364_17.4273,All'nchianata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/allnchianata_40.5364_17.4273.json,custom
+40.537257,17.425068,ov_airport_ristorante_40.5373_17.4251,Airport Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/airport_ristorante_40.5373_17.4251.json,custom
+40.536070,17.426108,ov_mordi_e_fuggi_40.5361_17.4261,Mordi E Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/mordi_e_fuggi_40.5361_17.4261.json,custom
+40.537510,17.435256,osm_antica_pizzeria_del_corso_di_maurizio_bi_40.5375_17.4353,Antica Pizzeria del Corso di Maurizio Biondi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/antica_pizzeria_del_corso_di_maurizio_bi_40.5375_17.4353.json,custom
+40.528767,17.439942,osm_le_iene_40.5288_17.4399,Le Iene,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/le_iene_40.5288_17.4399.json,custom

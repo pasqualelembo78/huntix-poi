@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # andrano -- bars_cafes
-39.965747,18.404622,ov_pisco_river_s_bar_39.9657_18.4046,PISCO River's Bar,RESTAURANT,bar_cafe
-39.965304,18.405085,ov_lido_cochabamba_39.9653_18.4051,Lido Cochabamba,RESTAURANT,bar_cafe
-39.963964,18.404224,ov_chiosco_grotta_verde_andrano_39.9640_18.4042,Chiosco Grotta Verde Andrano,RESTAURANT,bar_cafe
-39.973820,18.407440,ov_bar_alba_39.9738_18.4074,Bar Alba,RESTAURANT,bar_cafe
-39.972322,18.407030,ov_malib____marina_di_andrano_39.9723_18.4070,Malibù - Marina Di Andrano,RESTAURANT,bar_cafe
-39.981870,18.380601,ov_caffe_da_vinci_39.9819_18.3806,Caffe Da Vinci,RESTAURANT,bar_cafe
-39.982690,18.378540,ov_acquaviva_39.9827_18.3785,Acquaviva,RESTAURANT,bar_cafe
-39.985739,18.382894,ov_bar_ilio_39.9857_18.3829,Bar Ilio,RESTAURANT,bar_cafe
-39.983831,18.379238,ov_wonderwall_caf__castro_39.9838_18.3792,Wonderwall Cafè Castro,RESTAURANT,bar_cafe
-39.983167,18.385192,ov_il_piccolo_principe_39.9832_18.3852,Il Piccolo Principe,RESTAURANT,bar_cafe
-39.982734,18.388900,ov_bar_agora_39.9827_18.3889,Bar Agora,RESTAURANT,bar_cafe
-39.983149,18.349261,ov_chiosco_bar_sole_luna_39.9831_18.3493,Chiosco Bar Sole Luna,RESTAURANT,bar_cafe
+39.965747,18.404622,ov_pisco_river_s_bar_39.9657_18.4046,PISCO River's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/pisco_rivers_bar_39.9657_18.4046.json,custom
+39.965304,18.405085,ov_lido_cochabamba_39.9653_18.4051,Lido Cochabamba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/lido_cochabamba_39.9653_18.4051.json,custom
+39.963964,18.404224,ov_chiosco_grotta_verde_andrano_39.9640_18.4042,Chiosco Grotta Verde Andrano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/chiosco_grotta_verde_andrano_39.9640_18.4042.json,custom
+39.973820,18.407440,ov_bar_alba_39.9738_18.4074,Bar Alba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_alba_39.9738_18.4074.json,custom
+39.972322,18.407030,ov_malib____marina_di_andrano_39.9723_18.4070,Malibù - Marina Di Andrano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/malib_-_marina_di_andrano_39.9723_18.4070.json,custom
+39.981870,18.380601,ov_caffe_da_vinci_39.9819_18.3806,Caffe Da Vinci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/caffe_da_vinci_39.9819_18.3806.json,custom
+39.982690,18.378540,ov_acquaviva_39.9827_18.3785,Acquaviva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/acquaviva_39.9827_18.3785.json,custom
+39.985739,18.382894,ov_bar_ilio_39.9857_18.3829,Bar Ilio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_ilio_39.9857_18.3829.json,custom
+39.983831,18.379238,ov_wonderwall_caf__castro_39.9838_18.3792,Wonderwall Cafè Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/wonderwall_caf_castro_39.9838_18.3792.json,custom
+39.983167,18.385192,ov_il_piccolo_principe_39.9832_18.3852,Il Piccolo Principe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/il_piccolo_principe_39.9832_18.3852.json,custom
+39.982734,18.388900,ov_bar_agora_39.9827_18.3889,Bar Agora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_agora_39.9827_18.3889.json,custom
+39.983149,18.349261,ov_chiosco_bar_sole_luna_39.9831_18.3493,Chiosco Bar Sole Luna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/chiosco_bar_sole_luna_39.9831_18.3493.json,custom

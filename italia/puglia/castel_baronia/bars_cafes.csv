@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castel_baronia -- bars_cafes
-41.050743,15.190341,ov_bar_gelateria_zitola_41.0507_15.1903,Bar Gelateria Zitola,RESTAURANT,bar_cafe
-41.046381,15.185748,ov_tommy_bar_41.0464_15.1857,Tommy Bar,RESTAURANT,bar_cafe
+41.050743,15.190341,ov_bar_gelateria_zitola_41.0507_15.1903,Bar Gelateria Zitola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_baronia/pages/bar_gelateria_zitola_41.0507_15.1903.json,custom
+41.046381,15.185748,ov_tommy_bar_41.0464_15.1857,Tommy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_baronia/pages/tommy_bar_41.0464_15.1857.json,custom

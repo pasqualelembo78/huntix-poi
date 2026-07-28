@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montesano_sulla_marcellana -- restaurants
-40.286460,15.653769,ov_pizzeria_vallo_express_40.2865_15.6538,Pizzeria Vallo express,RESTAURANT,ristorante
-40.286246,15.653527,ov_tatami_away_40.2862_15.6535,Tatami Away,RESTAURANT,ristorante
-40.286111,15.653668,ov_russo_gastronomia_pizzeria_d_asporto_40.2861_15.6537,RUSSO Gastronomia Pizzeria d'asporto,RESTAURANT,ristorante
-40.283085,15.653564,ov_pierri_food_factory_40.2831_15.6536,Pierri Food Factory,RESTAURANT,ristorante
-40.283069,15.653621,ov_monna_lisa_bistrot_40.2831_15.6536,Monna Lisa Bistrot,RESTAURANT,ristorante
-40.279650,15.655270,ov_il_gatto_e_la_volpe_40.2796_15.6553,Il Gatto e La Volpe,RESTAURANT,ristorante
-40.280914,15.654435,ov_ristorante_gustor__40.2809_15.6544,Ristorante GustoRé,RESTAURANT,ristorante
-40.281860,15.656040,ov_pasta_orosa_40.2819_15.6560,Pasta Orosa,RESTAURANT,ristorante
-40.276345,15.703575,ov_trattoria_la_roccia_40.2763_15.7036,Trattoria La Roccia,RESTAURANT,ristorante
-40.284231,15.655422,ov_ristorante_peperoncino_40.2842_15.6554,Ristorante Peperoncino,RESTAURANT,ristorante
-40.284597,15.655342,ov_vassallo_francesco_40.2846_15.6553,Vassallo Francesco,RESTAURANT,ristorante
-40.285599,15.654523,ov_strabordo_40.2856_15.6545,Strabordo,RESTAURANT,ristorante
-40.286533,15.653824,ov_welcome_to_saint__tropez_40.2865_15.6538,Welcome to Saint' Tropez,RESTAURANT,ristorante
-40.285740,15.657830,ov_l_imperatore_montesano_40.2857_15.6578,L'Imperatore Montesano,RESTAURANT,ristorante
-40.299141,15.684602,ov_casa_cauli_agriturismo_40.2991_15.6846,Casa Cauli agriturismo,RESTAURANT,ristorante
-40.291787,15.690000,ov_agriturismo_dal_barone_40.2918_15.6900,Agriturismo dal Barone,RESTAURANT,ristorante
-40.272740,15.671790,ov_empagio_40.2727_15.6718,Empagio,RESTAURANT,ristorante
+40.286460,15.653769,ov_pizzeria_vallo_express_40.2865_15.6538,Pizzeria Vallo express,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/pizzeria_vallo_express_40.2865_15.6538.json,custom
+40.286246,15.653527,ov_tatami_away_40.2862_15.6535,Tatami Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/tatami_away_40.2862_15.6535.json,custom
+40.286111,15.653668,ov_russo_gastronomia_pizzeria_d_asporto_40.2861_15.6537,RUSSO Gastronomia Pizzeria d'asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/russo_gastronomia_pizzeria_dasporto_40.2861_15.6537.json,custom
+40.283085,15.653564,ov_pierri_food_factory_40.2831_15.6536,Pierri Food Factory,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/pierri_food_factory_40.2831_15.6536.json,custom
+40.283069,15.653621,ov_monna_lisa_bistrot_40.2831_15.6536,Monna Lisa Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/monna_lisa_bistrot_40.2831_15.6536.json,custom
+40.279650,15.655270,ov_il_gatto_e_la_volpe_40.2796_15.6553,Il Gatto e La Volpe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/il_gatto_e_la_volpe_40.2796_15.6553.json,custom
+40.280914,15.654435,ov_ristorante_gustor__40.2809_15.6544,Ristorante GustoRé,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/ristorante_gustor_40.2809_15.6544.json,custom
+40.281860,15.656040,ov_pasta_orosa_40.2819_15.6560,Pasta Orosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/pasta_orosa_40.2819_15.6560.json,custom
+40.276345,15.703575,ov_trattoria_la_roccia_40.2763_15.7036,Trattoria La Roccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/trattoria_la_roccia_40.2763_15.7036.json,custom
+40.284231,15.655422,ov_ristorante_peperoncino_40.2842_15.6554,Ristorante Peperoncino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/ristorante_peperoncino_40.2842_15.6554.json,custom
+40.284597,15.655342,ov_vassallo_francesco_40.2846_15.6553,Vassallo Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/vassallo_francesco_40.2846_15.6553.json,custom
+40.285599,15.654523,ov_strabordo_40.2856_15.6545,Strabordo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/strabordo_40.2856_15.6545.json,custom
+40.286533,15.653824,ov_welcome_to_saint__tropez_40.2865_15.6538,Welcome to Saint' Tropez,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/welcome_to_saint_tropez_40.2865_15.6538.json,custom
+40.285740,15.657830,ov_l_imperatore_montesano_40.2857_15.6578,L'Imperatore Montesano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/limperatore_montesano_40.2857_15.6578.json,custom
+40.299141,15.684602,ov_casa_cauli_agriturismo_40.2991_15.6846,Casa Cauli agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/casa_cauli_agriturismo_40.2991_15.6846.json,custom
+40.291787,15.690000,ov_agriturismo_dal_barone_40.2918_15.6900,Agriturismo dal Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/agriturismo_dal_barone_40.2918_15.6900.json,custom
+40.272740,15.671790,ov_empagio_40.2727_15.6718,Empagio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_sulla_marcellana/pages/empagio_40.2727_15.6718.json,custom

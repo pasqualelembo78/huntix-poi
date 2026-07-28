@@ -1,7 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # agropoli -- gyms
-40.385961,15.020936,ov_double_energy_agropoli_40.3860_15.0209,Double Energy Agropoli,GYM,palestra
-40.322460,15.029419,ov_diving_yoghi_40.3225_15.0294,Diving Yoghi,GYM,palestra
-40.342544,15.004250,ov_afrodite_fitness_agropoli_40.3425_15.0043,Afrodite Fitness Agropoli,GYM,palestra
-40.348222,15.000645,ov_gravity_wellness_center_40.3482_15.0006,Gravity Wellness Center,GYM,palestra
-40.348795,15.000805,ov_othalan_elite_40.3488_15.0008,Othalan Elite,GYM,palestra
+40.385961,15.020936,ov_double_energy_agropoli_40.3860_15.0209,Double Energy Agropoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/double_energy_agropoli_40.3860_15.0209.json,custom
+40.322460,15.029419,ov_diving_yoghi_40.3225_15.0294,Diving Yoghi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/diving_yoghi_40.3225_15.0294.json,custom
+40.342544,15.004250,ov_afrodite_fitness_agropoli_40.3425_15.0043,Afrodite Fitness Agropoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/afrodite_fitness_agropoli_40.3425_15.0043.json,custom
+40.348222,15.000645,ov_gravity_wellness_center_40.3482_15.0006,Gravity Wellness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/gravity_wellness_center_40.3482_15.0006.json,custom
+40.348795,15.000805,ov_othalan_elite_40.3488_15.0008,Othalan Elite,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/othalan_elite_40.3488_15.0008.json,custom
+40.385465,15.026524,osm_t_lab_40.3855_15.0265,T-Lab,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/t-lab_40.3855_15.0265.json,custom

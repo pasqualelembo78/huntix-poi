@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sogliano Cavour -- Tutti
-40.138196,18.204963,ov_fanny_ricevimenti_de_matteis_40.1382_18.2050,Fanny ricevimenti de matteis,RESTAURANT,ristorante
-40.137920,18.186738,ov_tenuta_pellegrino_40.1379_18.1867,Tenuta Pellegrino,RESTAURANT,ristorante
-40.144943,18.196896,ov_la_locanda_di_buck_40.1449_18.1969,La Locanda di Buck,RESTAURANT,ristorante
-40.151192,18.196230,ov_pizzeria_da_nicola_40.1512_18.1962,Pizzeria da Nicola,RESTAURANT,ristorante
-40.146799,18.197001,ov_san_lorenzo_bistrot_40.1468_18.1970,San Lorenzo Bistrot,RESTAURANT,ristorante
-40.142912,18.198604,ov_degbet_40.1429_18.1986,Degbet,RESTAURANT,bar_cafe
-40.150860,18.193700,ov_eni_sogliano_cavour_40.1509_18.1937,ENI Sogliano Cavour,RESTAURANT,bar_cafe
-40.151240,18.196970,ov_q8_soglianocavour_40.1512_18.1970,Q8 SoglianoCavour,RESTAURANT,bar_cafe
-40.148355,18.194409,ov_bar_mimosa_caff__40.1484_18.1944,Bar Mimosa Caffé,RESTAURANT,bar_cafe
-40.149486,18.194359,ov_jolly_bar_40.1495_18.1944,Jolly bar,RESTAURANT,bar_cafe
-40.150099,18.196984,ov_biblios_cafe_40.1501_18.1970,Biblios Cafe,RESTAURANT,bar_cafe
-40.148014,18.194216,ov_gertrude_groove_bar_40.1480_18.1942,Gertrude Groove Bar,RESTAURANT,bar_cafe
-40.148350,18.194303,osm_mimosa_cafe_40.1484_18.1943,Mimosa Cafe,bar_cafe,bar_cafe
-40.157318,18.212768,ov_la_pineta_dei_cavalli_40.1573_18.2128,La Pineta Dei Cavalli,GYM,palestra
-40.147368,18.200167,ov_fc_studio_fitness_40.1474_18.2002,FC Studio Fitness,GYM,palestra
+40.138196,18.204963,ov_fanny_ricevimenti_de_matteis_40.1382_18.2050,Fanny ricevimenti de matteis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/fanny_ricevimenti_de_matteis_40.1382_18.2050.json,custom
+40.137920,18.186738,ov_tenuta_pellegrino_40.1379_18.1867,Tenuta Pellegrino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/tenuta_pellegrino_40.1379_18.1867.json,custom
+40.144943,18.196896,ov_la_locanda_di_buck_40.1449_18.1969,La Locanda di Buck,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/la_locanda_di_buck_40.1449_18.1969.json,custom
+40.151192,18.196230,ov_pizzeria_da_nicola_40.1512_18.1962,Pizzeria da Nicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/pizzeria_da_nicola_40.1512_18.1962.json,custom
+40.146799,18.197001,ov_san_lorenzo_bistrot_40.1468_18.1970,San Lorenzo Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/san_lorenzo_bistrot_40.1468_18.1970.json,custom
+40.142912,18.198604,ov_degbet_40.1429_18.1986,Degbet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/degbet_40.1429_18.1986.json,custom
+40.150860,18.193700,ov_eni_sogliano_cavour_40.1509_18.1937,ENI Sogliano Cavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/eni_sogliano_cavour_40.1509_18.1937.json,custom
+40.151240,18.196970,ov_q8_soglianocavour_40.1512_18.1970,Q8 SoglianoCavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/q8_soglianocavour_40.1512_18.1970.json,custom
+40.148355,18.194409,ov_bar_mimosa_caff__40.1484_18.1944,Bar Mimosa Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/bar_mimosa_caff_40.1484_18.1944.json,custom
+40.149486,18.194359,ov_jolly_bar_40.1495_18.1944,Jolly bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/jolly_bar_40.1495_18.1944.json,custom
+40.150099,18.196984,ov_biblios_cafe_40.1501_18.1970,Biblios Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/biblios_cafe_40.1501_18.1970.json,custom
+40.148014,18.194216,ov_gertrude_groove_bar_40.1480_18.1942,Gertrude Groove Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/gertrude_groove_bar_40.1480_18.1942.json,custom
+40.148350,18.194303,osm_mimosa_cafe_40.1484_18.1943,Mimosa Cafe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/mimosa_cafe_40.1484_18.1943.json,custom
+40.157318,18.212768,ov_la_pineta_dei_cavalli_40.1573_18.2128,La Pineta Dei Cavalli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/la_pineta_dei_cavalli_40.1573_18.2128.json,custom
+40.147368,18.200167,ov_fc_studio_fitness_40.1474_18.2002,FC Studio Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sogliano_cavour/pages/fc_studio_fitness_40.1474_18.2002.json,custom

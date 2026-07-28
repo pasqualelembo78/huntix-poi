@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rocca_san_felice -- restaurants
-40.958740,15.155750,ov_agriturismo_radici_irpine_40.9587_15.1557,Agriturismo Radici Irpine,RESTAURANT,ristorante
-40.954767,15.167915,ov_ristorante_la_ruota_40.9548_15.1679,Ristorante La Ruota,RESTAURANT,ristorante
-40.953030,15.173224,ov_agriturismo_martone_40.9530_15.1732,Agriturismo Martone,RESTAURANT,ristorante
-40.951583,15.162736,ov_la_ripa_40.9516_15.1627,La Ripa,RESTAURANT,ristorante
-40.969288,15.149746,ov_da_zio_gerardo_40.9693_15.1497,Da zio Gerardo,RESTAURANT,ristorante
-40.968146,15.176392,ov_agriturismo_forgione_40.9681_15.1764,Agriturismo Forgione,RESTAURANT,ristorante
+40.958740,15.155750,ov_agriturismo_radici_irpine_40.9587_15.1557,Agriturismo Radici Irpine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/agriturismo_radici_irpine_40.9587_15.1557.json,custom
+40.954767,15.167915,ov_ristorante_la_ruota_40.9548_15.1679,Ristorante La Ruota,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/ristorante_la_ruota_40.9548_15.1679.json,custom
+40.953030,15.173224,ov_agriturismo_martone_40.9530_15.1732,Agriturismo Martone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/agriturismo_martone_40.9530_15.1732.json,custom
+40.951583,15.162736,ov_la_ripa_40.9516_15.1627,La Ripa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/la_ripa_40.9516_15.1627.json,custom
+40.969288,15.149746,ov_da_zio_gerardo_40.9693_15.1497,Da zio Gerardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/da_zio_gerardo_40.9693_15.1497.json,custom
+40.968146,15.176392,ov_agriturismo_forgione_40.9681_15.1764,Agriturismo Forgione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_san_felice/pages/agriturismo_forgione_40.9681_15.1764.json,custom

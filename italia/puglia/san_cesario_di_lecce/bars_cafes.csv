@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_cesario_di_lecce -- bars_cafes
-40.297990,18.160570,ov_galileo_caffe_40.2980_18.1606,Galileo Caffe,RESTAURANT,bar_cafe
-40.300790,18.160006,ov_caff__oriente_40.3008_18.1600,Caffè Oriente,RESTAURANT,bar_cafe
-40.302528,18.159485,ov_bar_scardino_40.3025_18.1595,Bar Scardino,RESTAURANT,bar_cafe
-40.303466,18.159785,ov_natale_pasticceria___san_cesario_di_lecc_40.3035_18.1598,"Natale Pasticceria , San Cesario Di Lecce.",RESTAURANT,bar_cafe
-40.303092,18.159341,ov_syskon_bar_40.3031_18.1593,Syskon bar,RESTAURANT,bar_cafe
-40.303232,18.160160,ov_garibaldi_cocktail_bar_40.3032_18.1602,Garibaldi cocktail bar,RESTAURANT,bar_cafe
-40.305322,18.158253,ov_bar_numero_14_40.3053_18.1583,Bar Numero 14,RESTAURANT,bar_cafe
-40.302058,18.403807,ov_redivino_40.3021_18.4038,Redivino,RESTAURANT,bar_cafe
-40.367106,18.203489,ov_tenuta__lu_farillu__40.3671_18.2035,Tenuta ‘Lu Farillu’,RESTAURANT,bar_cafe
-40.306754,18.158821,osm_miss_coffee_40.3068_18.1588,Miss Coffee,bar_cafe,bar_cafe
+40.297990,18.160570,ov_galileo_caffe_40.2980_18.1606,Galileo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/galileo_caffe_40.2980_18.1606.json,custom
+40.300790,18.160006,ov_caff__oriente_40.3008_18.1600,Caffè Oriente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/caff_oriente_40.3008_18.1600.json,custom
+40.302528,18.159485,ov_bar_scardino_40.3025_18.1595,Bar Scardino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/bar_scardino_40.3025_18.1595.json,custom
+40.303466,18.159785,ov_natale_pasticceria___san_cesario_di_lecc_40.3035_18.1598,"Natale Pasticceria , San Cesario Di Lecce.",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/natale_pasticceria_san_cesario_di_lecce_40.3035_18.1598.json,custom
+40.303092,18.159341,ov_syskon_bar_40.3031_18.1593,Syskon bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/syskon_bar_40.3031_18.1593.json,custom
+40.303232,18.160160,ov_garibaldi_cocktail_bar_40.3032_18.1602,Garibaldi cocktail bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/garibaldi_cocktail_bar_40.3032_18.1602.json,custom
+40.305322,18.158253,ov_bar_numero_14_40.3053_18.1583,Bar Numero 14,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/bar_numero_14_40.3053_18.1583.json,custom
+40.302058,18.403807,ov_redivino_40.3021_18.4038,Redivino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/redivino_40.3021_18.4038.json,custom
+40.367106,18.203489,ov_tenuta__lu_farillu__40.3671_18.2035,Tenuta ‘Lu Farillu’,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/tenuta_lu_farillu_40.3671_18.2035.json,custom
+40.306754,18.158821,osm_miss_coffee_40.3068_18.1588,Miss Coffee,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/miss_coffee_40.3068_18.1588.json,custom

@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rotonda -- restaurants
-39.940682,16.044464,ov_pizzeria_le_rose_39.9407_16.0445,Pizzeria Le Rose,RESTAURANT,ristorante
-39.947960,16.040120,ov_the_one_39.9480_16.0401,The ONE,RESTAURANT,ristorante
-39.948035,16.040064,ov_zio_franklin_39.9480_16.0401,Zio Franklin,RESTAURANT,ristorante
-39.949898,16.040864,ov_ristorante_pizzeria_girul__39.9499_16.0409,Ristorante Pizzeria Girulà,RESTAURANT,ristorante
-39.953878,16.040145,ov_ristorante_braceria_a_rimissa_39.9539_16.0401,Ristorante Braceria a Rimissa,RESTAURANT,ristorante
-39.953514,16.039845,ov_ristorante_da_peppe_39.9535_16.0398,Ristorante da Peppe,RESTAURANT,ristorante
-39.953587,16.039772,ov_peppe1980rotonda_39.9536_16.0398,Peppe1980rotonda,RESTAURANT,ristorante
-39.953958,16.039879,ov_pollino_divino_39.9540_16.0399,Pollino DiVino,RESTAURANT,ristorante
-39.954108,16.039600,ov_officine_la_rossa_39.9541_16.0396,Officine La Rossa,RESTAURANT,ristorante
-39.954077,16.039633,ov_baffone_39.9541_16.0396,Baffone,RESTAURANT,ristorante
-39.953488,16.038656,ov_pizzeria_a__carmata_39.9535_16.0387,Pizzeria A' Carmata,RESTAURANT,ristorante
-39.952639,16.037879,ov_la_bella_rotonda_39.9526_16.0379,La Bella Rotonda,RESTAURANT,ristorante
-39.917603,16.096028,ov_rifugio_fasanelli___rotonda__pz__39.9176_16.0960,Rifugio Fasanelli - Rotonda (PZ),RESTAURANT,ristorante
-39.948558,16.057079,ov_il_giardino_degli_ulivi_39.9486_16.0571,Il Giardino degli Ulivi,RESTAURANT,ristorante
-39.932978,16.069821,ov_agriturismo_civarra_39.9330_16.0698,Agriturismo Civarra,RESTAURANT,ristorante
+39.940682,16.044464,ov_pizzeria_le_rose_39.9407_16.0445,Pizzeria Le Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/pizzeria_le_rose_39.9407_16.0445.json,custom
+39.947960,16.040120,ov_the_one_39.9480_16.0401,The ONE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/the_one_39.9480_16.0401.json,custom
+39.948035,16.040064,ov_zio_franklin_39.9480_16.0401,Zio Franklin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/zio_franklin_39.9480_16.0401.json,custom
+39.949898,16.040864,ov_ristorante_pizzeria_girul__39.9499_16.0409,Ristorante Pizzeria Girulà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/ristorante_pizzeria_girul_39.9499_16.0409.json,custom
+39.953878,16.040145,ov_ristorante_braceria_a_rimissa_39.9539_16.0401,Ristorante Braceria a Rimissa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/ristorante_braceria_a_rimissa_39.9539_16.0401.json,custom
+39.953514,16.039845,ov_ristorante_da_peppe_39.9535_16.0398,Ristorante da Peppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/ristorante_da_peppe_39.9535_16.0398.json,custom
+39.953587,16.039772,ov_peppe1980rotonda_39.9536_16.0398,Peppe1980rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/peppe1980rotonda_39.9536_16.0398.json,custom
+39.953958,16.039879,ov_pollino_divino_39.9540_16.0399,Pollino DiVino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/pollino_divino_39.9540_16.0399.json,custom
+39.954108,16.039600,ov_officine_la_rossa_39.9541_16.0396,Officine La Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/officine_la_rossa_39.9541_16.0396.json,custom
+39.954077,16.039633,ov_baffone_39.9541_16.0396,Baffone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/baffone_39.9541_16.0396.json,custom
+39.953488,16.038656,ov_pizzeria_a__carmata_39.9535_16.0387,Pizzeria A' Carmata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/pizzeria_a_carmata_39.9535_16.0387.json,custom
+39.952639,16.037879,ov_la_bella_rotonda_39.9526_16.0379,La Bella Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/la_bella_rotonda_39.9526_16.0379.json,custom
+39.917603,16.096028,ov_rifugio_fasanelli___rotonda__pz__39.9176_16.0960,Rifugio Fasanelli - Rotonda (PZ),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/rifugio_fasanelli_-_rotonda_pz_39.9176_16.0960.json,custom
+39.948558,16.057079,ov_il_giardino_degli_ulivi_39.9486_16.0571,Il Giardino degli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/il_giardino_degli_ulivi_39.9486_16.0571.json,custom
+39.932978,16.069821,ov_agriturismo_civarra_39.9330_16.0698,Agriturismo Civarra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotonda/pages/agriturismo_civarra_39.9330_16.0698.json,custom

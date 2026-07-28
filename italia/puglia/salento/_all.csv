@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Salento -- Tutti
-40.257680,15.133540,ov_bar_planet_cafe_salerno_40.2577_15.1335,Bar Planet Cafe Salerno,RESTAURANT,bar_cafe
-40.227480,15.165049,ov_perfect_body_one_40.2275_15.1650,Perfect Body One,GYM,palestra
-40.251632,15.137083,ov_asd_cga_fasana_40.2516_15.1371,ASD CGA Fasana,GYM,palestra
+40.257680,15.133540,ov_bar_planet_cafe_salerno_40.2577_15.1335,Bar Planet Cafe Salerno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salento/pages/bar_planet_cafe_salerno_40.2577_15.1335.json,custom
+40.227480,15.165049,ov_perfect_body_one_40.2275_15.1650,Perfect Body One,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salento/pages/perfect_body_one_40.2275_15.1650.json,custom
+40.251632,15.137083,ov_asd_cga_fasana_40.2516_15.1371,ASD CGA Fasana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salento/pages/asd_cga_fasana_40.2516_15.1371.json,custom

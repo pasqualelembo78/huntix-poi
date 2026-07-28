@@ -1,82 +1,82 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # mesagne -- restaurants
-40.560181,17.806549,osm_all_anima____che_manino_40.5602_17.8065,All'anima... che manino,ristorante,ristorante
-40.559523,17.805063,osm_pizzeria_ciao_ciao_40.5595_17.8051,Pizzeria Ciao Ciao,ristorante,ristorante
-40.572503,17.753292,ov_tenuta_moreno_40.5725_17.7533,Tenuta Moreno,RESTAURANT,ristorante
-40.551445,17.717478,ov_pizza_time_40.5514_17.7175,Pizza time,RESTAURANT,ristorante
-40.559107,17.818358,ov_la_tegola_40.5591_17.8184,La Tegola,RESTAURANT,ristorante
-40.559066,17.809221,ov_il_mangiameduse_40.5591_17.8092,Il Mangiameduse,RESTAURANT,ristorante
-40.559014,17.809134,ov_felicit__pizza___more_40.5590_17.8091,Felicità Pizza & More,RESTAURANT,ristorante
-40.558763,17.809978,ov_soffuso_ristorante_40.5588_17.8100,Soffuso Ristorante,RESTAURANT,ristorante
-40.558320,17.809718,ov_sottospirito_40.5583_17.8097,Sottospirito,RESTAURANT,ristorante
-40.558214,17.809877,ov_aperitiveria_italiana_40.5582_17.8099,Aperitiveria Italiana,RESTAURANT,ristorante
-40.558395,17.810539,ov_antico_forno_40.5584_17.8105,Antico Forno,RESTAURANT,ristorante
-40.557611,17.810632,ov_bar_caffetteria_n1_40.5576_17.8106,Bar Caffetteria N1,RESTAURANT,ristorante
-40.557054,17.810935,ov_pizzeria_da_mino_40.5571_17.8109,Pizzeria da Mino,RESTAURANT,ristorante
-40.557638,17.814145,ov_braceria_ninni_barbecue_40.5576_17.8141,Braceria NINNI Barbecue,RESTAURANT,ristorante
-40.555855,17.812217,ov_ristobottega_gourmet_40.5559_17.8122,Ristobottega Gourmet,RESTAURANT,ristorante
-40.558680,17.808900,ov_antica_pizzelleria_1973___la_putea_40.5587_17.8089,Antica Pizzelleria 1973 - La Putea,RESTAURANT,ristorante
-40.558750,17.809005,ov_la_cilona_birrificio_artigianale_40.5587_17.8090,La Cilona-Birrificio Artigianale,RESTAURANT,ristorante
-40.558796,17.807384,ov_l_incontro_40.5588_17.8074,L'Incontro,RESTAURANT,ristorante
-40.559107,17.808913,ov_terracotta_food_space_40.5591_17.8089,Terracotta Food Space,RESTAURANT,ristorante
-40.559181,17.808560,ov_giudamino_40.5592_17.8086,Giudamino,RESTAURANT,ristorante
-40.559336,17.808914,ov_benvenuti_al_sud_40.5593_17.8089,Benvenuti al Sud,RESTAURANT,ristorante
-40.559519,17.804903,ov_ciao_ciao_martino_s_pizza_40.5595_17.8049,Ciao Ciao Martino's Pizza,RESTAURANT,ristorante
-40.559085,17.801905,ov_brooklyn__91_40.5591_17.8019,Brooklyn '91,RESTAURANT,ristorante
-40.559107,17.802206,ov_lu_pani_ti_lu_furnu_ti_petra_40.5591_17.8022,Lu Pani Ti Lu Furnu Ti Petra,RESTAURANT,ristorante
-40.559035,17.799036,ov_sapori_siciliani_40.5590_17.7990,Sapori Siciliani,RESTAURANT,ristorante
-40.557556,17.796258,ov_team_boxe_mesagne_asd_40.5576_17.7963,Team Boxe Mesagne asd,RESTAURANT,ristorante
-40.558253,17.794634,ov_chantal_40.5583_17.7946,Chantal,RESTAURANT,ristorante
-40.558436,17.791492,ov_ristorante_al_rusticone_40.5584_17.7915,Ristorante Al Rusticone,RESTAURANT,ristorante
-40.549911,17.808541,ov_gonia_pizzeria_fritti_e_cucina_40.5499_17.8085,Gonia Pizzeria fritti e cucina,RESTAURANT,ristorante
-40.549555,17.807033,ov_pizzeria_napoli_40.5496_17.8070,Pizzeria Napoli,RESTAURANT,ristorante
-40.552999,17.808835,ov_pizzeria_up_and_down_40.5530_17.8088,Pizzeria Up And Down,RESTAURANT,ristorante
-40.558160,17.779295,ov_il_covo_dei_sapori_40.5582_17.7793,Il Covo dei Sapori,RESTAURANT,ristorante
-40.558281,17.762795,ov_ristorante_sala_ricevimenti_parco_dei_pi_40.5583_17.7628,Ristorante Sala Ricevimenti Parco dei Pini,RESTAURANT,ristorante
-40.559810,17.796844,ov_lapiazzetta_40.5598_17.7968,LaPiazzetta,RESTAURANT,ristorante
-40.559672,17.796829,ov_blue_roses_garage_ristobar_40.5597_17.7968,Blue Roses Garage Ristobar,RESTAURANT,ristorante
-40.560555,17.798459,ov_mare_fish_and_food_40.5606_17.7985,Mare Fish and Food,RESTAURANT,ristorante
-40.560264,17.804291,ov_mr_kebab_40.5603_17.8043,Mr.kebab,RESTAURANT,ristorante
-40.560405,17.804485,ov_antica_pizzelleria_1973_40.5604_17.8045,Antica Pizzelleria 1973,RESTAURANT,ristorante
-40.561787,17.803962,ov_il_panzerotto_40.5618_17.8040,Il Panzerotto,RESTAURANT,ristorante
-40.561899,17.805158,ov_giusy_pizzeria_40.5619_17.8052,Giusy pizzeria,RESTAURANT,ristorante
-40.561956,17.804446,ov_grill_house___nuova_gestione_mesagne_40.5620_17.8044,Grill House - Nuova gestione Mesagne,RESTAURANT,ristorante
-40.561504,17.806537,ov_burgoso_40.5615_17.8065,Burgoso,RESTAURANT,ristorante
-40.561786,17.805465,ov_pizzeria_alfio_tavola_calda_40.5618_17.8055,Pizzeria Alfio Tavola Calda,RESTAURANT,ristorante
-40.561744,17.805555,ov_la_piadina_d_oro_40.5617_17.8056,La Piadina d'Oro,RESTAURANT,ristorante
-40.562163,17.806320,ov_la_polleria_40.5622_17.8063,La Polleria,RESTAURANT,ristorante
-40.561011,17.808058,ov_______________________40.5610_17.8081,𝗟𝗮 𝗕𝗼𝗺𝗯𝗲𝘁𝘁𝗲𝗿𝗶𝗮 𝗩𝗶𝘁𝗮𝗹𝗲,RESTAURANT,ristorante
-40.561080,17.808415,ov_me_sushi_40.5611_17.8084,Me Sushi,RESTAURANT,ristorante
-40.561045,17.808903,ov_la_forchetta_salentina_40.5610_17.8089,La forchetta Salentina,RESTAURANT,ristorante
-40.560939,17.808790,ov_la_baia_mesagne_40.5609_17.8088,La Baia Mesagne,RESTAURANT,ristorante
-40.560261,17.808364,ov_osteria_del_vicoletto_40.5603_17.8084,Osteria del Vicoletto,RESTAURANT,ristorante
-40.560318,17.808195,ov_barbanera_40.5603_17.8082,Barbanera,RESTAURANT,ristorante
-40.560930,17.805201,ov_la_puccia_40.5609_17.8052,La puccia,RESTAURANT,ristorante
-40.560368,17.805479,ov_non_solo_fritta_40.5604_17.8055,Non solo Fritta,RESTAURANT,ristorante
-40.560416,17.806178,ov_the_roof_mesagne_by_baguetteandmore_40.5604_17.8062,The Roof Mesagne by BaguetteandMore,RESTAURANT,ristorante
-40.559618,17.807285,ov_mangiafueco_40.5596_17.8073,Mangiafueco,RESTAURANT,ristorante
-40.560241,17.807983,ov_core_verace_pizzeria_napoletana_40.5602_17.8080,Core Verace Pizzeria Napoletana,RESTAURANT,ristorante
-40.560235,17.808806,ov_kiccoo_leccese___mesagne_40.5602_17.8088,Kiccoo Leccese - Mesagne,RESTAURANT,ristorante
-40.560085,17.808836,ov_pizzeria_rosticceria_lu_sitili_40.5601_17.8088,Pizzeria Rosticceria Lu Sitili,RESTAURANT,ristorante
-40.560014,17.808875,ov_burger_eat_40.5600_17.8089,Burger Eat,RESTAURANT,ristorante
-40.559879,17.808281,ov_ama___pizzeria___birreria_40.5599_17.8083,AMA - Pizzeria & Birreria,RESTAURANT,ristorante
-40.559719,17.808709,ov_osteria_del_leone_40.5597_17.8087,Osteria del leone,RESTAURANT,ristorante
-40.559635,17.809246,ov_trattoria_da_nonna_cochia_40.5596_17.8092,Trattoria da Nonna Cochia,RESTAURANT,ristorante
-40.559740,17.809346,ov_panzo_40.5597_17.8093,Panzo,RESTAURANT,ristorante
-40.560074,17.809492,ov_pepe_nero_40.5601_17.8095,PEPE NERO,RESTAURANT,ristorante
-40.560006,17.809411,ov_kami_soul_food_40.5600_17.8094,Kami Soul food,RESTAURANT,ristorante
-40.560014,17.809423,ov_osteria_fra_ma_40.5600_17.8094,Osteria FRA-MA,RESTAURANT,ristorante
-40.560070,17.809223,ov_il_connubio_vino___cucina_40.5601_17.8092,Il Connubio Vino & Cucina,RESTAURANT,ristorante
-40.560566,17.809964,ov_tipo_1_40.5606_17.8100,Tipo 1,RESTAURANT,ristorante
-40.560568,17.809212,ov_dadario_ristorante_40.5606_17.8092,DADARIO Ristorante,RESTAURANT,ristorante
-40.560450,17.810009,ov_la_naca_dei_messapi_40.5605_17.8100,La Naca dei Messapi,RESTAURANT,ristorante
-40.562460,17.810920,ov_masseria_baroni_nuovi___il_ristorante_40.5625_17.8109,Masseria Baroni Nuovi - Il ristorante,RESTAURANT,ristorante
-40.563831,17.813359,ov_apulia_love_garden_ristoro_40.5638_17.8134,Apulia Love Garden Ristoro,RESTAURANT,ristorante
-40.563693,17.804342,ov_pizzataxi_40.5637_17.8043,Pizzataxi,RESTAURANT,ristorante
-40.562804,17.802906,ov_pizzeria_canadese_40.5628_17.8029,Pizzeria Canadese,RESTAURANT,ristorante
-40.564142,17.801490,ov_trattoria_del_borgo_40.5641_17.8015,Trattoria del Borgo,RESTAURANT,ristorante
-40.575752,17.791274,ov_crisumma_philosophy_40.5758_17.7913,Crisumma philosophy,RESTAURANT,ristorante
-40.573640,17.790246,ov_officibo_40.5736_17.7902,Officibo,RESTAURANT,ristorante
-40.581905,17.812861,ov_masseria_elysium_puglia_40.5819_17.8129,Masseria Elysium Puglia,RESTAURANT,ristorante
-40.579849,17.838257,ov_mcdonald_s_40.5798_17.8383,McDonald's,RESTAURANT,ristorante
-40.486320,17.786590,ov_home_restaurant_il_coccio_40.4863_17.7866,Home Restaurant Il Coccio,RESTAURANT,ristorante
+40.572503,17.753292,ov_tenuta_moreno_40.5725_17.7533,Tenuta Moreno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/tenuta_moreno_40.5725_17.7533.json,custom
+40.551445,17.717478,ov_pizza_time_40.5514_17.7175,Pizza time,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizza_time_40.5514_17.7175.json,custom
+40.559107,17.818358,ov_la_tegola_40.5591_17.8184,La Tegola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_tegola_40.5591_17.8184.json,custom
+40.559066,17.809221,ov_il_mangiameduse_40.5591_17.8092,Il Mangiameduse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/il_mangiameduse_40.5591_17.8092.json,custom
+40.559014,17.809134,ov_felicit__pizza___more_40.5590_17.8091,Felicità Pizza & More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/felicit_pizza_more_40.5590_17.8091.json,custom
+40.558763,17.809978,ov_soffuso_ristorante_40.5588_17.8100,Soffuso Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/soffuso_ristorante_40.5588_17.8100.json,custom
+40.558320,17.809718,ov_sottospirito_40.5583_17.8097,Sottospirito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/sottospirito_40.5583_17.8097.json,custom
+40.558214,17.809877,ov_aperitiveria_italiana_40.5582_17.8099,Aperitiveria Italiana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/aperitiveria_italiana_40.5582_17.8099.json,custom
+40.558395,17.810539,ov_antico_forno_40.5584_17.8105,Antico Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/antico_forno_40.5584_17.8105.json,custom
+40.557611,17.810632,ov_bar_caffetteria_n1_40.5576_17.8106,Bar Caffetteria N1,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/bar_caffetteria_n1_40.5576_17.8106.json,custom
+40.557054,17.810935,ov_pizzeria_da_mino_40.5571_17.8109,Pizzeria da Mino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_da_mino_40.5571_17.8109.json,custom
+40.557638,17.814145,ov_braceria_ninni_barbecue_40.5576_17.8141,Braceria NINNI Barbecue,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/braceria_ninni_barbecue_40.5576_17.8141.json,custom
+40.555855,17.812217,ov_ristobottega_gourmet_40.5559_17.8122,Ristobottega Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/ristobottega_gourmet_40.5559_17.8122.json,custom
+40.558680,17.808900,ov_antica_pizzelleria_1973___la_putea_40.5587_17.8089,Antica Pizzelleria 1973 - La Putea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/antica_pizzelleria_1973_-_la_putea_40.5587_17.8089.json,custom
+40.558750,17.809005,ov_la_cilona_birrificio_artigianale_40.5587_17.8090,La Cilona-Birrificio Artigianale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_cilona-birrificio_artigianale_40.5587_17.8090.json,custom
+40.558796,17.807384,ov_l_incontro_40.5588_17.8074,L'Incontro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/lincontro_40.5588_17.8074.json,custom
+40.559107,17.808913,ov_terracotta_food_space_40.5591_17.8089,Terracotta Food Space,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/terracotta_food_space_40.5591_17.8089.json,custom
+40.559181,17.808560,ov_giudamino_40.5592_17.8086,Giudamino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/giudamino_40.5592_17.8086.json,custom
+40.559336,17.808914,ov_benvenuti_al_sud_40.5593_17.8089,Benvenuti al Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/benvenuti_al_sud_40.5593_17.8089.json,custom
+40.559519,17.804903,ov_ciao_ciao_martino_s_pizza_40.5595_17.8049,Ciao Ciao Martino's Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/ciao_ciao_martinos_pizza_40.5595_17.8049.json,custom
+40.559085,17.801905,ov_brooklyn__91_40.5591_17.8019,Brooklyn '91,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/brooklyn_91_40.5591_17.8019.json,custom
+40.559107,17.802206,ov_lu_pani_ti_lu_furnu_ti_petra_40.5591_17.8022,Lu Pani Ti Lu Furnu Ti Petra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/lu_pani_ti_lu_furnu_ti_petra_40.5591_17.8022.json,custom
+40.559035,17.799036,ov_sapori_siciliani_40.5590_17.7990,Sapori Siciliani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/sapori_siciliani_40.5590_17.7990.json,custom
+40.557556,17.796258,ov_team_boxe_mesagne_asd_40.5576_17.7963,Team Boxe Mesagne asd,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/team_boxe_mesagne_asd_40.5576_17.7963.json,custom
+40.558253,17.794634,ov_chantal_40.5583_17.7946,Chantal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/chantal_40.5583_17.7946.json,custom
+40.558436,17.791492,ov_ristorante_al_rusticone_40.5584_17.7915,Ristorante Al Rusticone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/ristorante_al_rusticone_40.5584_17.7915.json,custom
+40.549911,17.808541,ov_gonia_pizzeria_fritti_e_cucina_40.5499_17.8085,Gonia Pizzeria fritti e cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/gonia_pizzeria_fritti_e_cucina_40.5499_17.8085.json,custom
+40.549555,17.807033,ov_pizzeria_napoli_40.5496_17.8070,Pizzeria Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_napoli_40.5496_17.8070.json,custom
+40.552999,17.808835,ov_pizzeria_up_and_down_40.5530_17.8088,Pizzeria Up And Down,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_up_and_down_40.5530_17.8088.json,custom
+40.558160,17.779295,ov_il_covo_dei_sapori_40.5582_17.7793,Il Covo dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/il_covo_dei_sapori_40.5582_17.7793.json,custom
+40.558281,17.762795,ov_ristorante_sala_ricevimenti_parco_dei_pi_40.5583_17.7628,Ristorante Sala Ricevimenti Parco dei Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/ristorante_sala_ricevimenti_parco_dei_pi_40.5583_17.7628.json,custom
+40.559810,17.796844,ov_lapiazzetta_40.5598_17.7968,LaPiazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/lapiazzetta_40.5598_17.7968.json,custom
+40.559672,17.796829,ov_blue_roses_garage_ristobar_40.5597_17.7968,Blue Roses Garage Ristobar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/blue_roses_garage_ristobar_40.5597_17.7968.json,custom
+40.560555,17.798459,ov_mare_fish_and_food_40.5606_17.7985,Mare Fish and Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/mare_fish_and_food_40.5606_17.7985.json,custom
+40.560264,17.804291,ov_mr_kebab_40.5603_17.8043,Mr.kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/mrkebab_40.5603_17.8043.json,custom
+40.560405,17.804485,ov_antica_pizzelleria_1973_40.5604_17.8045,Antica Pizzelleria 1973,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/antica_pizzelleria_1973_40.5604_17.8045.json,custom
+40.561787,17.803962,ov_il_panzerotto_40.5618_17.8040,Il Panzerotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/il_panzerotto_40.5618_17.8040.json,custom
+40.561899,17.805158,ov_giusy_pizzeria_40.5619_17.8052,Giusy pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/giusy_pizzeria_40.5619_17.8052.json,custom
+40.561956,17.804446,ov_grill_house___nuova_gestione_mesagne_40.5620_17.8044,Grill House - Nuova gestione Mesagne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/grill_house_-_nuova_gestione_mesagne_40.5620_17.8044.json,custom
+40.561504,17.806537,ov_burgoso_40.5615_17.8065,Burgoso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/burgoso_40.5615_17.8065.json,custom
+40.561786,17.805465,ov_pizzeria_alfio_tavola_calda_40.5618_17.8055,Pizzeria Alfio Tavola Calda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_alfio_tavola_calda_40.5618_17.8055.json,custom
+40.561744,17.805555,ov_la_piadina_d_oro_40.5617_17.8056,La Piadina d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_piadina_doro_40.5617_17.8056.json,custom
+40.562163,17.806320,ov_la_polleria_40.5622_17.8063,La Polleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_polleria_40.5622_17.8063.json,custom
+40.561011,17.808058,ov_______________________40.5610_17.8081,𝗟𝗮 𝗕𝗼𝗺𝗯𝗲𝘁𝘁𝗲𝗿𝗶𝗮 𝗩𝗶𝘁𝗮𝗹𝗲,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/__40.5610_17.8081.json,custom
+40.561080,17.808415,ov_me_sushi_40.5611_17.8084,Me Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/me_sushi_40.5611_17.8084.json,custom
+40.561045,17.808903,ov_la_forchetta_salentina_40.5610_17.8089,La forchetta Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_forchetta_salentina_40.5610_17.8089.json,custom
+40.560939,17.808790,ov_la_baia_mesagne_40.5609_17.8088,La Baia Mesagne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_baia_mesagne_40.5609_17.8088.json,custom
+40.560261,17.808364,ov_osteria_del_vicoletto_40.5603_17.8084,Osteria del Vicoletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/osteria_del_vicoletto_40.5603_17.8084.json,custom
+40.560318,17.808195,ov_barbanera_40.5603_17.8082,Barbanera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/barbanera_40.5603_17.8082.json,custom
+40.560930,17.805201,ov_la_puccia_40.5609_17.8052,La puccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_puccia_40.5609_17.8052.json,custom
+40.560368,17.805479,ov_non_solo_fritta_40.5604_17.8055,Non solo Fritta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/non_solo_fritta_40.5604_17.8055.json,custom
+40.560416,17.806178,ov_the_roof_mesagne_by_baguetteandmore_40.5604_17.8062,The Roof Mesagne by BaguetteandMore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/the_roof_mesagne_by_baguetteandmore_40.5604_17.8062.json,custom
+40.559618,17.807285,ov_mangiafueco_40.5596_17.8073,Mangiafueco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/mangiafueco_40.5596_17.8073.json,custom
+40.560241,17.807983,ov_core_verace_pizzeria_napoletana_40.5602_17.8080,Core Verace Pizzeria Napoletana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/core_verace_pizzeria_napoletana_40.5602_17.8080.json,custom
+40.560235,17.808806,ov_kiccoo_leccese___mesagne_40.5602_17.8088,Kiccoo Leccese - Mesagne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/kiccoo_leccese_-_mesagne_40.5602_17.8088.json,custom
+40.560085,17.808836,ov_pizzeria_rosticceria_lu_sitili_40.5601_17.8088,Pizzeria Rosticceria Lu Sitili,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_rosticceria_lu_sitili_40.5601_17.8088.json,custom
+40.560014,17.808875,ov_burger_eat_40.5600_17.8089,Burger Eat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/burger_eat_40.5600_17.8089.json,custom
+40.559879,17.808281,ov_ama___pizzeria___birreria_40.5599_17.8083,AMA - Pizzeria & Birreria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/ama_-_pizzeria_birreria_40.5599_17.8083.json,custom
+40.559719,17.808709,ov_osteria_del_leone_40.5597_17.8087,Osteria del leone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/osteria_del_leone_40.5597_17.8087.json,custom
+40.559635,17.809246,ov_trattoria_da_nonna_cochia_40.5596_17.8092,Trattoria da Nonna Cochia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/trattoria_da_nonna_cochia_40.5596_17.8092.json,custom
+40.559740,17.809346,ov_panzo_40.5597_17.8093,Panzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/panzo_40.5597_17.8093.json,custom
+40.560074,17.809492,ov_pepe_nero_40.5601_17.8095,PEPE NERO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pepe_nero_40.5601_17.8095.json,custom
+40.560006,17.809411,ov_kami_soul_food_40.5600_17.8094,Kami Soul food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/kami_soul_food_40.5600_17.8094.json,custom
+40.560014,17.809423,ov_osteria_fra_ma_40.5600_17.8094,Osteria FRA-MA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/osteria_fra-ma_40.5600_17.8094.json,custom
+40.560070,17.809223,ov_il_connubio_vino___cucina_40.5601_17.8092,Il Connubio Vino & Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/il_connubio_vino_cucina_40.5601_17.8092.json,custom
+40.560566,17.809964,ov_tipo_1_40.5606_17.8100,Tipo 1,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/tipo_1_40.5606_17.8100.json,custom
+40.560568,17.809212,ov_dadario_ristorante_40.5606_17.8092,DADARIO Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/dadario_ristorante_40.5606_17.8092.json,custom
+40.560450,17.810009,ov_la_naca_dei_messapi_40.5605_17.8100,La Naca dei Messapi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/la_naca_dei_messapi_40.5605_17.8100.json,custom
+40.562460,17.810920,ov_masseria_baroni_nuovi___il_ristorante_40.5625_17.8109,Masseria Baroni Nuovi - Il ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/masseria_baroni_nuovi_-_il_ristorante_40.5625_17.8109.json,custom
+40.563831,17.813359,ov_apulia_love_garden_ristoro_40.5638_17.8134,Apulia Love Garden Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/apulia_love_garden_ristoro_40.5638_17.8134.json,custom
+40.563693,17.804342,ov_pizzataxi_40.5637_17.8043,Pizzataxi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzataxi_40.5637_17.8043.json,custom
+40.562804,17.802906,ov_pizzeria_canadese_40.5628_17.8029,Pizzeria Canadese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_canadese_40.5628_17.8029.json,custom
+40.564142,17.801490,ov_trattoria_del_borgo_40.5641_17.8015,Trattoria del Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/trattoria_del_borgo_40.5641_17.8015.json,custom
+40.575752,17.791274,ov_crisumma_philosophy_40.5758_17.7913,Crisumma philosophy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/crisumma_philosophy_40.5758_17.7913.json,custom
+40.573640,17.790246,ov_officibo_40.5736_17.7902,Officibo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/officibo_40.5736_17.7902.json,custom
+40.581905,17.812861,ov_masseria_elysium_puglia_40.5819_17.8129,Masseria Elysium Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/masseria_elysium_puglia_40.5819_17.8129.json,custom
+40.579849,17.838257,ov_mcdonald_s_40.5798_17.8383,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/mcdonalds_40.5798_17.8383.json,custom
+40.486320,17.786590,ov_home_restaurant_il_coccio_40.4863_17.7866,Home Restaurant Il Coccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/home_restaurant_il_coccio_40.4863_17.7866.json,custom
+40.560181,17.806549,osm_all_anima____che_manino_40.5602_17.8065,All'anima... che manino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/allanima_che_manino_40.5602_17.8065.json,custom
+40.559523,17.805063,osm_pizzeria_ciao_ciao_40.5595_17.8051,Pizzeria Ciao Ciao,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/pizzeria_ciao_ciao_40.5595_17.8051.json,custom

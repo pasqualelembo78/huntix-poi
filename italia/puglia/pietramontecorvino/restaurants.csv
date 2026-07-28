@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # pietramontecorvino -- restaurants
-41.543230,15.131750,ov_marimba_club_41.5432_15.1317,Marimba club,RESTAURANT,ristorante
-41.543469,15.127741,ov_locanda_di_ody_41.5435_15.1277,Locanda di Ody,RESTAURANT,ristorante
-41.544518,15.127208,ov_sasso_d_oro_41.5445_15.1272,Sasso d'Oro,RESTAURANT,ristorante
-41.541165,15.132599,ov_trattoria_pizzeria_peccati_di_gola_41.5412_15.1326,Trattoria Pizzeria Peccati di Gola,RESTAURANT,ristorante
-41.541228,15.130324,ov_birrificio_montalto_41.5412_15.1303,Birrificio Montalto,RESTAURANT,ristorante
-41.540780,15.126465,ov_la_locanda_del_borgo_41.5408_15.1265,La Locanda del Borgo,RESTAURANT,ristorante
+41.543230,15.131750,ov_marimba_club_41.5432_15.1317,Marimba club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/marimba_club_41.5432_15.1317.json,custom
+41.543469,15.127741,ov_locanda_di_ody_41.5435_15.1277,Locanda di Ody,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/locanda_di_ody_41.5435_15.1277.json,custom
+41.544518,15.127208,ov_sasso_d_oro_41.5445_15.1272,Sasso d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/sasso_doro_41.5445_15.1272.json,custom
+41.541165,15.132599,ov_trattoria_pizzeria_peccati_di_gola_41.5412_15.1326,Trattoria Pizzeria Peccati di Gola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/trattoria_pizzeria_peccati_di_gola_41.5412_15.1326.json,custom
+41.541228,15.130324,ov_birrificio_montalto_41.5412_15.1303,Birrificio Montalto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/birrificio_montalto_41.5412_15.1303.json,custom
+41.540780,15.126465,ov_la_locanda_del_borgo_41.5408_15.1265,La Locanda del Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pietramontecorvino/pages/la_locanda_del_borgo_41.5408_15.1265.json,custom

@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ariano_irpino -- gyms
-41.122150,15.065790,ov_asd_california_gym_41.1221_15.0658,ASD California Gym,GYM,palestra
-41.116856,15.081931,ov_inn_sport_41.1169_15.0819,Inn Sport,GYM,palestra
-41.148633,15.083087,ov_centro_studi_danza_professionale_tersico_41.1486_15.0831,Centro Studi Danza Professionale Tersicore,GYM,palestra
-41.136912,15.081987,ov_centro_fitness_ariano_41.1369_15.0820,Centro Fitness Ariano,GYM,palestra
-41.152070,15.083100,ov_aia___sezione_di_ariano_irpino_41.1521_15.0831,AIA - Sezione di Ariano Irpino,GYM,palestra
-41.152814,15.079168,ov_befit_exclusive_wellness_41.1528_15.0792,BeFit Exclusive Wellness,GYM,palestra
-41.155230,15.090160,ov_centro_studi_danza_roberta_musto_41.1552_15.0902,Centro Studi Danza Roberta Musto,GYM,palestra
-41.156361,15.091366,ov_studio_hanuman_41.1564_15.0914,Studio Hanuman,GYM,palestra
-41.152090,15.073585,ov_equiten__club_peluso__41.1521_15.0736,Equiten (Club Peluso),GYM,palestra
-41.248360,15.101330,ov_motocross_park_citt__di_ariano_irpino_41.2484_15.1013,Motocross Park città di ariano irpino,GYM,palestra
+41.122150,15.065790,ov_asd_california_gym_41.1221_15.0658,ASD California Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/asd_california_gym_41.1221_15.0658.json,custom
+41.116856,15.081931,ov_inn_sport_41.1169_15.0819,Inn Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/inn_sport_41.1169_15.0819.json,custom
+41.148633,15.083087,ov_centro_studi_danza_professionale_tersico_41.1486_15.0831,Centro Studi Danza Professionale Tersicore,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/centro_studi_danza_professionale_tersico_41.1486_15.0831.json,custom
+41.136912,15.081987,ov_centro_fitness_ariano_41.1369_15.0820,Centro Fitness Ariano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/centro_fitness_ariano_41.1369_15.0820.json,custom
+41.152070,15.083100,ov_aia___sezione_di_ariano_irpino_41.1521_15.0831,AIA - Sezione di Ariano Irpino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/aia_-_sezione_di_ariano_irpino_41.1521_15.0831.json,custom
+41.152814,15.079168,ov_befit_exclusive_wellness_41.1528_15.0792,BeFit Exclusive Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/befit_exclusive_wellness_41.1528_15.0792.json,custom
+41.155230,15.090160,ov_centro_studi_danza_roberta_musto_41.1552_15.0902,Centro Studi Danza Roberta Musto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/centro_studi_danza_roberta_musto_41.1552_15.0902.json,custom
+41.156361,15.091366,ov_studio_hanuman_41.1564_15.0914,Studio Hanuman,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/studio_hanuman_41.1564_15.0914.json,custom
+41.152090,15.073585,ov_equiten__club_peluso__41.1521_15.0736,Equiten (Club Peluso),GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/equiten_club_peluso_41.1521_15.0736.json,custom
+41.248360,15.101330,ov_motocross_park_citt__di_ariano_irpino_41.2484_15.1013,Motocross Park città di ariano irpino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ariano_irpino/pages/motocross_park_citt_di_ariano_irpino_41.2484_15.1013.json,custom

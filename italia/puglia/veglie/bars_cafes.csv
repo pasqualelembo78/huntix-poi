@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # veglie -- bars_cafes
-40.345894,17.969656,ov_bar_cristal_40.3459_17.9697,Bar Cristal,RESTAURANT,bar_cafe
-40.337634,17.958525,ov_caffetteria_pasticceria_chantilly_40.3376_17.9585,Caffetteria Pasticceria Chantilly,RESTAURANT,bar_cafe
-40.338079,17.963936,ov_fabbrica77_40.3381_17.9639,Fabbrica77,RESTAURANT,bar_cafe
-40.338047,17.966284,ov_gianna_rock_cafe_40.3380_17.9663,Gianna Rock Cafe,RESTAURANT,bar_cafe
-40.338522,17.968505,ov_civico52_40.3385_17.9685,Civico52,RESTAURANT,bar_cafe
-40.335256,17.966159,ov_bar_mazzotta_40.3353_17.9662,Bar Mazzotta,RESTAURANT,bar_cafe
-40.335711,17.964518,ov_cafe_40.3357_17.9645,Cafe,RESTAURANT,bar_cafe
-40.334892,17.962940,ov_pasticceria_helena_40.3349_17.9629,Pasticceria Helena,RESTAURANT,bar_cafe
-40.333900,17.962270,ov_alaska___restaurant___sala_eventi_40.3339_17.9623,Alaska - Restaurant & Sala Eventi,RESTAURANT,bar_cafe
-40.334906,17.969451,ov_o_brien_irish_pub_40.3349_17.9695,O'Brien Irish Pub,RESTAURANT,bar_cafe
-40.332673,17.967453,ov_bar_caffe_degli_artisti_40.3327_17.9675,Bar Caffe Degli Artisti,RESTAURANT,bar_cafe
-40.330880,17.968380,ov_lu_sanna_tabacchi_caffe_40.3309_17.9684,Lu Sanna Tabacchi Caffe,RESTAURANT,bar_cafe
-40.330560,17.969060,ov_bar_frisenda_40.3306_17.9691,Bar Frisenda,RESTAURANT,bar_cafe
-40.329574,17.967684,ov_pezzucci_40.3296_17.9677,Pezzucci,RESTAURANT,bar_cafe
-40.334540,17.970600,ov_bar_venezia_veglie_40.3345_17.9706,BAR Venezia Veglie,RESTAURANT,bar_cafe
-40.334652,17.970083,ov_la_chiazza_40.3347_17.9701,La Chiazza,RESTAURANT,bar_cafe
-40.336154,17.970060,ov_alibi_40.3362_17.9701,Alibi,RESTAURANT,bar_cafe
+40.345894,17.969656,ov_bar_cristal_40.3459_17.9697,Bar Cristal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/bar_cristal_40.3459_17.9697.json,custom
+40.337634,17.958525,ov_caffetteria_pasticceria_chantilly_40.3376_17.9585,Caffetteria Pasticceria Chantilly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/caffetteria_pasticceria_chantilly_40.3376_17.9585.json,custom
+40.338079,17.963936,ov_fabbrica77_40.3381_17.9639,Fabbrica77,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/fabbrica77_40.3381_17.9639.json,custom
+40.338047,17.966284,ov_gianna_rock_cafe_40.3380_17.9663,Gianna Rock Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/gianna_rock_cafe_40.3380_17.9663.json,custom
+40.338522,17.968505,ov_civico52_40.3385_17.9685,Civico52,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/civico52_40.3385_17.9685.json,custom
+40.335256,17.966159,ov_bar_mazzotta_40.3353_17.9662,Bar Mazzotta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/bar_mazzotta_40.3353_17.9662.json,custom
+40.335711,17.964518,ov_cafe_40.3357_17.9645,Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/cafe_40.3357_17.9645.json,custom
+40.334892,17.962940,ov_pasticceria_helena_40.3349_17.9629,Pasticceria Helena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/pasticceria_helena_40.3349_17.9629.json,custom
+40.333900,17.962270,ov_alaska___restaurant___sala_eventi_40.3339_17.9623,Alaska - Restaurant & Sala Eventi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/alaska_-_restaurant_sala_eventi_40.3339_17.9623.json,custom
+40.334906,17.969451,ov_o_brien_irish_pub_40.3349_17.9695,O'Brien Irish Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/obrien_irish_pub_40.3349_17.9695.json,custom
+40.332673,17.967453,ov_bar_caffe_degli_artisti_40.3327_17.9675,Bar Caffe Degli Artisti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/bar_caffe_degli_artisti_40.3327_17.9675.json,custom
+40.330880,17.968380,ov_lu_sanna_tabacchi_caffe_40.3309_17.9684,Lu Sanna Tabacchi Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/lu_sanna_tabacchi_caffe_40.3309_17.9684.json,custom
+40.330560,17.969060,ov_bar_frisenda_40.3306_17.9691,Bar Frisenda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/bar_frisenda_40.3306_17.9691.json,custom
+40.329574,17.967684,ov_pezzucci_40.3296_17.9677,Pezzucci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/pezzucci_40.3296_17.9677.json,custom
+40.334540,17.970600,ov_bar_venezia_veglie_40.3345_17.9706,BAR Venezia Veglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/bar_venezia_veglie_40.3345_17.9706.json,custom
+40.334652,17.970083,ov_la_chiazza_40.3347_17.9701,La Chiazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/la_chiazza_40.3347_17.9701.json,custom
+40.336154,17.970060,ov_alibi_40.3362_17.9701,Alibi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/alibi_40.3362_17.9701.json,custom

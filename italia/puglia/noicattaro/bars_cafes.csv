@@ -1,38 +1,38 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # noicattaro -- bars_cafes
-41.032475,16.984965,ov_bar_pannarale_41.0325_16.9850,Bar Pannarale,RESTAURANT,bar_cafe
-41.032330,16.983130,ov_al_123_41.0323_16.9831,Al 123,RESTAURANT,bar_cafe
-41.033584,16.988185,ov_galleria_41.0336_16.9882,Galleria,RESTAURANT,bar_cafe
-41.032999,16.988770,ov_bar_italia_41.0330_16.9888,Bar Italia,RESTAURANT,bar_cafe
-41.033370,16.988980,ov_navi__caff__41.0334_16.9890,NAVI' Caffè,RESTAURANT,bar_cafe
-41.033081,16.993384,ov_mojito___caffe_41.0331_16.9934,Mojito & Caffe,RESTAURANT,bar_cafe
-41.031846,16.994695,ov_bar_via_vai_di_scavo_antonio_41.0318_16.9947,Bar Via Vai di Scavo Antonio,RESTAURANT,bar_cafe
-41.033568,16.995166,ov_atlantique_pub_41.0336_16.9952,Atlantique Pub,RESTAURANT,bar_cafe
-41.034915,16.993615,ov_rendez_vous_41.0349_16.9936,Rendez Vous,RESTAURANT,bar_cafe
-41.034265,16.990576,ov_bar_nual_41.0343_16.9906,Bar Nual,RESTAURANT,bar_cafe
-41.035106,16.989769,ov_enoteca_ressa_41.0351_16.9898,Enoteca Ressa,RESTAURANT,bar_cafe
-41.034265,16.988424,ov_la_bottega_del_caffitaly_cialde_e_capsul_41.0343_16.9884,La Bottega del Caffitaly cialde e capsule Noicattaro,RESTAURANT,bar_cafe
-41.034688,16.985460,ov_louis_cafe_41.0347_16.9855,Louis Cafe,RESTAURANT,bar_cafe
-41.035409,16.984050,ov_gorgo_41.0354_16.9840,Gorgo,RESTAURANT,bar_cafe
-41.035331,16.982882,ov_rose_and_crowns_41.0353_16.9829,Rose and Crowns,RESTAURANT,bar_cafe
-41.036817,16.988204,ov_cafe_roma_41.0368_16.9882,Cafe Roma,RESTAURANT,bar_cafe
-41.036849,16.987751,ov_incontridivini_41.0368_16.9878,Incontridivini,RESTAURANT,bar_cafe
-41.037593,16.992531,ov_cafe_jolie_41.0376_16.9925,Cafe Jolie,RESTAURANT,bar_cafe
-41.037693,16.990147,ov_max_cafe_41.0377_16.9901,Max Cafe,RESTAURANT,bar_cafe
-41.038793,16.991998,ov_new_nelson_bar_41.0388_16.9920,New Nelson Bar,RESTAURANT,bar_cafe
-41.039301,16.993936,ov_pub_revolution_41.0393_16.9939,Pub Revolution,RESTAURANT,bar_cafe
-41.039170,16.994140,ov_dal__party_location_41.0392_16.9941,DALÍ party location,RESTAURANT,bar_cafe
-41.039247,16.991773,ov_la_dolce_vita_noicattaro_41.0392_16.9918,La Dolce Vita Noicattaro,RESTAURANT,bar_cafe
-41.040337,16.987563,ov_leonida_41.0403_16.9876,Leonida,RESTAURANT,bar_cafe
-41.040495,16.990897,ov_sweet_cafe_41.0405_16.9909,Sweet Cafe,RESTAURANT,bar_cafe
-41.040441,16.989715,ov_indivia_caffetteria_41.0404_16.9897,Indivia Caffetteria,RESTAURANT,bar_cafe
-41.029144,16.994780,ov_roxy_bar_41.0291_16.9948,Roxy Bar,RESTAURANT,bar_cafe
-41.029808,16.994934,ov_alexander_bar_41.0298_16.9949,Alexander Bar,RESTAURANT,bar_cafe
-41.031363,16.996213,ov_the_rock_caffe_41.0314_16.9962,The Rock Caffe,RESTAURANT,bar_cafe
-41.029824,16.987554,ov_barstazione_noicattaro_41.0298_16.9876,BarStazione Noicattaro,RESTAURANT,bar_cafe
-41.028370,16.992995,ov_maxim_bar_41.0284_16.9930,Maxim bar,RESTAURANT,bar_cafe
-41.027438,16.996934,ov_lab___l_ardito_birraio_41.0274_16.9969,LAB - L'Ardito Birraio,RESTAURANT,bar_cafe
-41.028389,16.996325,ov_pasticceria_il_piacere_41.0284_16.9963,Pasticceria Il Piacere,RESTAURANT,bar_cafe
-41.028385,16.996578,ov_caffeina_lounge_bar_yogurteria_41.0284_16.9966,Caffeina Lounge Bar Yogurteria,RESTAURANT,bar_cafe
-41.015000,16.963860,ov_bar_pepukkio_41.0150_16.9639,Bar Pepukkio,RESTAURANT,bar_cafe
-41.038352,16.984875,osm_dal__coffee___drink_41.0384_16.9849,DALÌ Coffee & Drink,bar_cafe,bar_cafe
+41.032475,16.984965,ov_bar_pannarale_41.0325_16.9850,Bar Pannarale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/bar_pannarale_41.0325_16.9850.json,custom
+41.032330,16.983130,ov_al_123_41.0323_16.9831,Al 123,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/al_123_41.0323_16.9831.json,custom
+41.033584,16.988185,ov_galleria_41.0336_16.9882,Galleria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/galleria_41.0336_16.9882.json,custom
+41.032999,16.988770,ov_bar_italia_41.0330_16.9888,Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/bar_italia_41.0330_16.9888.json,custom
+41.033370,16.988980,ov_navi__caff__41.0334_16.9890,NAVI' Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/navi_caff_41.0334_16.9890.json,custom
+41.033081,16.993384,ov_mojito___caffe_41.0331_16.9934,Mojito & Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/mojito_caffe_41.0331_16.9934.json,custom
+41.031846,16.994695,ov_bar_via_vai_di_scavo_antonio_41.0318_16.9947,Bar Via Vai di Scavo Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/bar_via_vai_di_scavo_antonio_41.0318_16.9947.json,custom
+41.033568,16.995166,ov_atlantique_pub_41.0336_16.9952,Atlantique Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/atlantique_pub_41.0336_16.9952.json,custom
+41.034915,16.993615,ov_rendez_vous_41.0349_16.9936,Rendez Vous,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/rendez_vous_41.0349_16.9936.json,custom
+41.034265,16.990576,ov_bar_nual_41.0343_16.9906,Bar Nual,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/bar_nual_41.0343_16.9906.json,custom
+41.035106,16.989769,ov_enoteca_ressa_41.0351_16.9898,Enoteca Ressa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/enoteca_ressa_41.0351_16.9898.json,custom
+41.034265,16.988424,ov_la_bottega_del_caffitaly_cialde_e_capsul_41.0343_16.9884,La Bottega del Caffitaly cialde e capsule Noicattaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/la_bottega_del_caffitaly_cialde_e_capsul_41.0343_16.9884.json,custom
+41.034688,16.985460,ov_louis_cafe_41.0347_16.9855,Louis Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/louis_cafe_41.0347_16.9855.json,custom
+41.035409,16.984050,ov_gorgo_41.0354_16.9840,Gorgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/gorgo_41.0354_16.9840.json,custom
+41.035331,16.982882,ov_rose_and_crowns_41.0353_16.9829,Rose and Crowns,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/rose_and_crowns_41.0353_16.9829.json,custom
+41.036817,16.988204,ov_cafe_roma_41.0368_16.9882,Cafe Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/cafe_roma_41.0368_16.9882.json,custom
+41.036849,16.987751,ov_incontridivini_41.0368_16.9878,Incontridivini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/incontridivini_41.0368_16.9878.json,custom
+41.037593,16.992531,ov_cafe_jolie_41.0376_16.9925,Cafe Jolie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/cafe_jolie_41.0376_16.9925.json,custom
+41.037693,16.990147,ov_max_cafe_41.0377_16.9901,Max Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/max_cafe_41.0377_16.9901.json,custom
+41.038793,16.991998,ov_new_nelson_bar_41.0388_16.9920,New Nelson Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/new_nelson_bar_41.0388_16.9920.json,custom
+41.039301,16.993936,ov_pub_revolution_41.0393_16.9939,Pub Revolution,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/pub_revolution_41.0393_16.9939.json,custom
+41.039170,16.994140,ov_dal__party_location_41.0392_16.9941,DALÍ party location,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/dal_party_location_41.0392_16.9941.json,custom
+41.039247,16.991773,ov_la_dolce_vita_noicattaro_41.0392_16.9918,La Dolce Vita Noicattaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/la_dolce_vita_noicattaro_41.0392_16.9918.json,custom
+41.040337,16.987563,ov_leonida_41.0403_16.9876,Leonida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/leonida_41.0403_16.9876.json,custom
+41.040495,16.990897,ov_sweet_cafe_41.0405_16.9909,Sweet Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/sweet_cafe_41.0405_16.9909.json,custom
+41.040441,16.989715,ov_indivia_caffetteria_41.0404_16.9897,Indivia Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/indivia_caffetteria_41.0404_16.9897.json,custom
+41.029144,16.994780,ov_roxy_bar_41.0291_16.9948,Roxy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/roxy_bar_41.0291_16.9948.json,custom
+41.029808,16.994934,ov_alexander_bar_41.0298_16.9949,Alexander Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/alexander_bar_41.0298_16.9949.json,custom
+41.031363,16.996213,ov_the_rock_caffe_41.0314_16.9962,The Rock Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/the_rock_caffe_41.0314_16.9962.json,custom
+41.029824,16.987554,ov_barstazione_noicattaro_41.0298_16.9876,BarStazione Noicattaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/barstazione_noicattaro_41.0298_16.9876.json,custom
+41.028370,16.992995,ov_maxim_bar_41.0284_16.9930,Maxim bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/maxim_bar_41.0284_16.9930.json,custom
+41.027438,16.996934,ov_lab___l_ardito_birraio_41.0274_16.9969,LAB - L'Ardito Birraio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/lab_-_lardito_birraio_41.0274_16.9969.json,custom
+41.028389,16.996325,ov_pasticceria_il_piacere_41.0284_16.9963,Pasticceria Il Piacere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/pasticceria_il_piacere_41.0284_16.9963.json,custom
+41.028385,16.996578,ov_caffeina_lounge_bar_yogurteria_41.0284_16.9966,Caffeina Lounge Bar Yogurteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/caffeina_lounge_bar_yogurteria_41.0284_16.9966.json,custom
+41.015000,16.963860,ov_bar_pepukkio_41.0150_16.9639,Bar Pepukkio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/bar_pepukkio_41.0150_16.9639.json,custom
+41.038352,16.984875,osm_dal__coffee___drink_41.0384_16.9849,DALÌ Coffee & Drink,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noicattaro/pages/dal_coffee_drink_41.0384_16.9849.json,custom

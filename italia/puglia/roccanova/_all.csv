@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Roccanova -- Tutti
-40.209509,16.205176,ov_la_villetta_40.2095_16.2052,La Villetta,RESTAURANT,ristorante
-40.201920,16.210980,ov_birrificio_birra_la_lucana_40.2019_16.2110,Birrificio Birra La Lucana,RESTAURANT,bar_cafe
-40.201946,16.212165,ov_meridian_bar_40.2019_16.2122,Meridian Bar,RESTAURANT,bar_cafe
-40.210454,16.204505,ov_bar_paninoteca_magna_magna_40.2105_16.2045,Bar Paninoteca Magna Magna,RESTAURANT,bar_cafe
-40.211511,16.202841,ov_circolo_ricreativo_enal_open_games_40.2115_16.2028,Circolo ricreativo enal Open games,RESTAURANT,bar_cafe
-40.211325,16.204413,ov_bar_blu_moon_40.2113_16.2044,Bar Blu Moon,RESTAURANT,bar_cafe
-40.211965,16.203718,ov_gio__bar_40.2120_16.2037,Gio` Bar,RESTAURANT,bar_cafe
-40.220812,16.208305,ov_monastero_santa_maria_di_orsoleo_40.2208_16.2083,Monastero santa Maria di Orsoleo,MONUMENT,monumento
+40.209509,16.205176,ov_la_villetta_40.2095_16.2052,La Villetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/la_villetta_40.2095_16.2052.json,custom
+40.201920,16.210980,ov_birrificio_birra_la_lucana_40.2019_16.2110,Birrificio Birra La Lucana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/birrificio_birra_la_lucana_40.2019_16.2110.json,custom
+40.201946,16.212165,ov_meridian_bar_40.2019_16.2122,Meridian Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/meridian_bar_40.2019_16.2122.json,custom
+40.210454,16.204505,ov_bar_paninoteca_magna_magna_40.2105_16.2045,Bar Paninoteca Magna Magna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/bar_paninoteca_magna_magna_40.2105_16.2045.json,custom
+40.211511,16.202841,ov_circolo_ricreativo_enal_open_games_40.2115_16.2028,Circolo ricreativo enal Open games,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/circolo_ricreativo_enal_open_games_40.2115_16.2028.json,custom
+40.211325,16.204413,ov_bar_blu_moon_40.2113_16.2044,Bar Blu Moon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/bar_blu_moon_40.2113_16.2044.json,custom
+40.211965,16.203718,ov_gio__bar_40.2120_16.2037,Gio` Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/gio_bar_40.2120_16.2037.json,custom
+40.220812,16.208305,ov_monastero_santa_maria_di_orsoleo_40.2208_16.2083,Monastero santa Maria di Orsoleo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccanova/pages/monastero_santa_maria_di_orsoleo_40.2208_16.2083.json,custom

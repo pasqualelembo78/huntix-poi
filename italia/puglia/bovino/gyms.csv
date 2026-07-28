@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bovino -- gyms
-41.251698,15.340819,ov_colosseum_gym_41.2517_15.3408,Colosseum Gym,GYM,palestra
-41.246896,15.339441,ov_sport_village_bovino_41.2469_15.3394,Sport village Bovino,GYM,palestra
+41.251698,15.340819,ov_colosseum_gym_41.2517_15.3408,Colosseum Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bovino/pages/colosseum_gym_41.2517_15.3408.json,custom
+41.246896,15.339441,ov_sport_village_bovino_41.2469_15.3394,Sport village Bovino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bovino/pages/sport_village_bovino_41.2469_15.3394.json,custom

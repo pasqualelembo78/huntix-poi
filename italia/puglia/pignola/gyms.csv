@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # pignola -- gyms
-40.563299,15.768499,ov_maneggio_ferretti_40.5633_15.7685,Maneggio Ferretti,GYM,palestra
-40.598650,15.742590,ov_scialla_sul_lago_40.5986_15.7426,Scialla sul Lago,GYM,palestra
-40.573982,15.783860,ov_revaivol_club_40.5740_15.7839,Revaivol Club,GYM,palestra
-40.571936,15.781282,ov_boot_camp_pignola_asd_40.5719_15.7813,Boot Camp Pignola ASD,GYM,palestra
-40.572561,15.791395,ov_la_compagnia_della_varroccia_40.5726_15.7914,La Compagnia Della Varroccia,GYM,palestra
+40.563299,15.768499,ov_maneggio_ferretti_40.5633_15.7685,Maneggio Ferretti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pignola/pages/maneggio_ferretti_40.5633_15.7685.json,custom
+40.598650,15.742590,ov_scialla_sul_lago_40.5986_15.7426,Scialla sul Lago,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pignola/pages/scialla_sul_lago_40.5986_15.7426.json,custom
+40.573982,15.783860,ov_revaivol_club_40.5740_15.7839,Revaivol Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pignola/pages/revaivol_club_40.5740_15.7839.json,custom
+40.571936,15.781282,ov_boot_camp_pignola_asd_40.5719_15.7813,Boot Camp Pignola ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pignola/pages/boot_camp_pignola_asd_40.5719_15.7813.json,custom
+40.572561,15.791395,ov_la_compagnia_della_varroccia_40.5726_15.7914,La Compagnia Della Varroccia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pignola/pages/la_compagnia_della_varroccia_40.5726_15.7914.json,custom

@@ -1,147 +1,147 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Gioia Del Colle -- Tutti
-40.797592,16.917196,osm_l_inam_asl_40.7976_16.9172,L'INAM ASL,hospital,hospital
-40.800043,16.922458,osm_cab__40.8000_16.9225,Cabò,ristorante,ristorante
-40.802047,16.927664,osm_su_x_gi__40.8020_16.9277,Su x Giù,ristorante,ristorante
-40.808596,16.924650,osm_izumi_sushi_40.8086_16.9247,Izumi Sushi,ristorante,ristorante
-40.798680,16.924587,osm_ristorante_pizzeria_il_mago_40.7987_16.9246,Ristorante Pizzeria Il Mago,ristorante,ristorante
-40.794078,16.924171,osm_angolo_divino_40.7941_16.9242,Angolo Divino,ristorante,ristorante
-40.803330,16.922946,osm_pizzeria_pub_artois_40.8033_16.9229,Pizzeria Pub Artois,ristorante,ristorante
-40.794084,16.924986,ov_ospedale_paradiso_40.7941_16.9250,Ospedale Paradiso,HOSPITAL,hospital
-40.833780,16.883950,ov_tenuta_antico_leccio_agriturismo___ricev_40.8338_16.8839,Tenuta Antico Leccio Agriturismo & Ricevimenti,RESTAURANT,ristorante
-40.808863,16.923722,ov_focacceria_fellini_40.8089_16.9237,Focacceria Fellini,RESTAURANT,ristorante
-40.808536,16.922947,ov_queens_gioia_pizzeria_40.8085_16.9229,Queens Gioia Pizzeria,RESTAURANT,ristorante
-40.808566,16.922829,ov_bello_ciccio_pizzeria_40.8086_16.9228,Bello Ciccio Pizzeria,RESTAURANT,ristorante
-40.807392,16.909420,ov_la_facenda_40.8074_16.9094,La Facenda,RESTAURANT,ristorante
-40.807814,16.924021,ov_marab__pizzeria_ristorante_40.8078_16.9240,Marabù Pizzeria-Ristorante,RESTAURANT,ristorante
-40.802371,16.927341,ov_su_x_gi__40.8024_16.9273,Su X Giù,RESTAURANT,ristorante
-40.804224,16.922857,ov_nun__40.8042_16.9229,Nunè,RESTAURANT,ristorante
-40.804403,16.922858,ov_pizzeria_la_lira_40.8044_16.9229,Pizzeria La Lira,RESTAURANT,ristorante
-40.801931,16.922902,ov_la_vecchia_gioia_40.8019_16.9229,La Vecchia Gioia,RESTAURANT,ristorante
-40.802082,16.920096,ov_il_pizzicagnolo_40.8021_16.9201,Il Pizzicagnolo,RESTAURANT,ristorante
-40.801632,16.919481,ov_ascatigno_40.8016_16.9195,Ascatigno,RESTAURANT,ristorante
-40.801690,16.922658,ov_alibaba_kebabberia_40.8017_16.9227,Alibaba kebabberia,RESTAURANT,ristorante
-40.801718,16.924182,ov_ciobio_by_secret_food_40.8017_16.9242,CioBio by Secret Food,RESTAURANT,ristorante
-40.801985,16.924441,ov_ristorante___enoteca_la_pergola_saracino_40.8020_16.9244,Ristorante - Enoteca La Pergola Saracino SRL,RESTAURANT,ristorante
-40.801220,16.922770,ov_taverna_da_romoletto_40.8012_16.9228,Taverna Da Romoletto,RESTAURANT,ristorante
-40.800763,16.922697,ov_bello_ciccio_40.8008_16.9227,Bello Ciccio,RESTAURANT,ristorante
-40.800611,16.921301,ov_youpizza_40.8006_16.9213,Youpizza,RESTAURANT,ristorante
-40.800910,16.923160,ov_la_golosa_di_puglia_40.8009_16.9232,La Golosa di Puglia,RESTAURANT,ristorante
-40.800586,16.925488,ov_red_pepper_40.8006_16.9255,Red Pepper,RESTAURANT,ristorante
-40.800140,16.923805,ov_piano___susci_italiano_40.8001_16.9238,Piano - Susci Italiano,RESTAURANT,ristorante
-40.799941,16.921171,ov_osteria_del_borgo_antico_40.7999_16.9212,Osteria del Borgo Antico,RESTAURANT,ristorante
-40.799942,16.921240,ov_borgo_antico_40.7999_16.9212,Borgo Antico,RESTAURANT,ristorante
-40.800008,16.922984,ov_mezzo_quinto_40.8000_16.9230,Mezzo Quinto,RESTAURANT,ristorante
-40.800087,16.922595,ov_cabo_tigelleria_40.8001_16.9226,Cabo Tigelleria,RESTAURANT,ristorante
-40.800343,16.922510,ov_trattoria_pugliese_40.8003_16.9225,Trattoria Pugliese,RESTAURANT,ristorante
-40.800367,16.922826,ov_al_castello_pizzeria_birreria_40.8004_16.9228,Al Castello Pizzeria Birreria,RESTAURANT,ristorante
-40.800420,16.922600,ov_________40.8004_16.9226,게임크리에이터,RESTAURANT,ristorante
-40.800221,16.918527,ov_novus_di_pietro_giorgio_40.8002_16.9185,Novus di Pietro Giorgio,RESTAURANT,ristorante
-40.799879,16.917165,ov_agriturismo_antico_leccio_40.7999_16.9172,Agriturismo Antico Leccio,RESTAURANT,ristorante
-40.797223,16.917694,ov_brando_pizza_bistrot_40.7972_16.9177,Brando Pizza Bistrot,RESTAURANT,ristorante
-40.798810,16.913078,ov_pizza_royal_40.7988_16.9131,Pizza Royal,RESTAURANT,ristorante
-40.798943,16.913076,ov_authentico_pizzeria_40.7989_16.9131,Authentico Pizzeria,RESTAURANT,ristorante
-40.799075,16.912538,ov_manhattan_40.7991_16.9125,Manhattan,RESTAURANT,ristorante
-40.799058,16.919258,ov_stargate_panzerotteria_pizzeria_40.7991_16.9193,Stargate Panzerotteria Pizzeria,RESTAURANT,ristorante
-40.798661,16.924619,ov_il_mago_della_pizza_40.7987_16.9246,Il Mago della Pizza,RESTAURANT,ristorante
-40.798417,16.924386,ov_124_food_40.7984_16.9244,124 Food,RESTAURANT,ristorante
-40.798304,16.925362,ov_pizza_e_bottega_40.7983_16.9254,Pizza e Bottega,RESTAURANT,ristorante
-40.798494,16.925324,ov_sbavo_40.7985_16.9253,Sbavo,RESTAURANT,ristorante
-40.798141,16.924436,ov_l_altra_corte_pizzeria_40.7981_16.9244,L'Altra Corte Pizzeria,RESTAURANT,ristorante
-40.798023,16.921979,ov_il_rifugio_40.7980_16.9220,Il Rifugio,RESTAURANT,ristorante
-40.797797,16.920100,ov_salotto_mescolanze_e_specialita_40.7978_16.9201,Salotto Mescolanze e Specialita,RESTAURANT,ristorante
-40.797918,16.922581,ov_dimora_sovrana_40.7979_16.9226,Dimora Sovrana,RESTAURANT,ristorante
-40.797661,16.920900,ov_lo_snoopy_40.7977_16.9209,Lo Snoopy,RESTAURANT,ristorante
-40.797442,16.919658,ov_osteria_s_lucia___pizzeria_40.7974_16.9197,Osteria S.Lucia - Pizzeria,RESTAURANT,ristorante
-40.800044,16.927577,ov_pasticceria_grand_cru_40.8000_16.9276,Pasticceria GRAND CRU,RESTAURANT,ristorante
-40.800081,16.927775,ov_munir_pizzeria_40.8001_16.9278,MUNIR Pizzeria,RESTAURANT,ristorante
-40.800081,16.927775,ov_sushi_gio_40.8001_16.9278,Sushi Gio,RESTAURANT,ristorante
-40.800081,16.927775,ov_la_kantina_40.8001_16.9278,La Kantina,RESTAURANT,ristorante
-40.795634,16.929489,ov_nero_carbone_braceria_40.7956_16.9295,Nero Carbone braceria,RESTAURANT,ristorante
-40.796922,16.923434,ov_io_gusto_bio_di_antonio_tria_40.7969_16.9234,Io Gusto Bio di Antonio Tria,RESTAURANT,ristorante
-40.797080,16.917370,ov_gustami_pizzeria_40.7971_16.9174,Gustami Pizzeria,RESTAURANT,ristorante
-40.795272,16.918176,ov_noipizza_40.7953_16.9182,NoiPizza,RESTAURANT,ristorante
-40.794937,16.922739,ov_gioia_di_pasta_40.7949_16.9227,Gioia Di Pasta,RESTAURANT,ristorante
-40.794251,16.920619,ov_mesa_libre_40.7943_16.9206,Mesa libre,RESTAURANT,ristorante
-40.794280,16.923802,ov_grill___barbecue_40.7943_16.9238,Grill & Barbecue,RESTAURANT,ristorante
-40.792969,16.918771,ov_vineriaroccacellarii_40.7930_16.9188,VineriaRoccaCellarii,RESTAURANT,ristorante
-40.784467,16.893172,ov_country_club__gioia_40.7845_16.8932,Country CLUB  Gioia,RESTAURANT,ristorante
-40.771215,16.836491,ov_i_sassini_40.7712_16.8365,I Sassini,RESTAURANT,ristorante
-40.778776,16.851161,ov_agriturismo_la_masseria_de_palma_40.7788_16.8512,Agriturismo La Masseria De Palma,RESTAURANT,ristorante
-40.777422,16.925812,ov_vetreria_vebad_40.7774_16.9258,vetreria vebad,RESTAURANT,ristorante
-40.755274,16.910588,ov_masseria_bosco_petraro_40.7553_16.9106,Masseria Bosco Petraro,RESTAURANT,ristorante
-40.750508,16.909332,ov_la_cicerchia_40.7505_16.9093,La Cicerchia,RESTAURANT,ristorante
-40.737720,16.866220,ov_ristorante_gallo_trani_40.7377_16.8662,Ristorante Gallo Trani,RESTAURANT,ristorante
-40.742250,16.811993,ov_masseria_capo_iazzo_40.7423_16.8120,Masseria Capo Iazzo,RESTAURANT,ristorante
-40.709938,16.822622,ov_la_dimora_dei_peuceti_40.7099_16.8226,La Dimora dei Peuceti,RESTAURANT,ristorante
-40.726083,16.836463,ov_pizzeria_dongiovanni_40.7261_16.8365,Pizzeria Dongiovanni,RESTAURANT,ristorante
-40.724539,16.892332,ov_agriturismo_regno_di_marzagaglia_40.7245_16.8923,Agriturismo Regno di Marzagaglia,RESTAURANT,ristorante
-40.949967,17.299225,ov_osteria_del_borgo_antico_40.9500_17.2992,Osteria del Borgo Antico,RESTAURANT,ristorante
-40.833663,16.932174,ov_stazione_di_servizio_sosta_autobus_marin_40.8337_16.9322,Stazione di Servizio Sosta Autobus Marino,RESTAURANT,bar_cafe
-40.798947,16.889863,ov_la_sosta_perfetta_40.7989_16.8899,La Sosta Perfetta,RESTAURANT,bar_cafe
-40.823715,16.931924,ov_la_kantina_40.8237_16.9319,La Kantina,RESTAURANT,bar_cafe
-40.806390,16.928088,ov_bar_mondrian_cafe_40.8064_16.9281,Bar Mondrian Cafe,RESTAURANT,bar_cafe
-40.805707,16.931354,ov_makk__bar_40.8057_16.9314,Makkè Bar,RESTAURANT,bar_cafe
-40.805915,16.924271,ov_enilive_caf__gioia_del_colle_40.8059_16.9243,Enilive Cafè Gioia del Colle,RESTAURANT,bar_cafe
-40.803848,16.923103,ov_il_piccolo_40.8038_16.9231,Il Piccolo,RESTAURANT,bar_cafe
-40.802780,16.923038,ov_l_artista_pub_40.8028_16.9230,L'Artista Pub,RESTAURANT,bar_cafe
-40.803163,16.922943,ov_pub_artois_40.8032_16.9229,Pub Artois,RESTAURANT,bar_cafe
-40.801783,16.923444,ov_rossini_cafe_40.8018_16.9234,Rossini Cafe,RESTAURANT,bar_cafe
-40.799576,16.921917,ov_panta_rei_40.7996_16.9219,Panta Rei,RESTAURANT,bar_cafe
-40.799697,16.921001,ov_napoli_40.7997_16.9210,Napoli,RESTAURANT,bar_cafe
-40.799950,16.922030,ov_sala_da_barba_filippo_losito_40.8000_16.9220,SALA DA BARBA filippo losito,RESTAURANT,bar_cafe
-40.800092,16.921488,ov_ott__40.8001_16.9215,Ottà,RESTAURANT,bar_cafe
-40.800294,16.921091,ov_caffetteria_cavour_40.8003_16.9211,Caffetteria CAVOUR,RESTAURANT,bar_cafe
-40.797561,16.918961,ov_the_strange_pub_40.7976_16.9190,The Strange Pub,RESTAURANT,bar_cafe
-40.798585,16.922680,ov_caramia_cafe_40.7986_16.9227,Caramia cafe,RESTAURANT,bar_cafe
-40.798681,16.921963,ov_zahir_time_cafe__2_0_40.7987_16.9220,Zahir Time Cafe' 2.0,RESTAURANT,bar_cafe
-40.798765,16.921260,ov_gran_caffe_40.7988_16.9213,Gran Caffe,RESTAURANT,bar_cafe
-40.799085,16.922102,ov_grand_italia_caff__40.7991_16.9221,Grand'Italia Caffè,RESTAURANT,bar_cafe
-40.799132,16.922630,ov_capsula_bar_40.7991_16.9226,Capsula Bar,RESTAURANT,bar_cafe
-40.798762,16.925739,ov_smeraldo_caffe_40.7988_16.9257,Smeraldo Caffe,RESTAURANT,bar_cafe
-40.798174,16.920761,ov_il_professore_40.7982_16.9208,Il Professore,RESTAURANT,bar_cafe
-40.797623,16.920648,ov_joda_pub_40.7976_16.9206,Joda Pub,RESTAURANT,bar_cafe
-40.794167,16.981741,ov_fully___future_stop_40.7942_16.9817,FULLY - Future Stop,RESTAURANT,bar_cafe
-40.792563,16.923870,ov_the_hills_pub_40.7926_16.9239,The Hills Pub,RESTAURANT,bar_cafe
-40.796450,16.922536,ov_carpe_diem_40.7964_16.9225,Carpe Diem,RESTAURANT,bar_cafe
-40.796835,16.920153,ov_caffett_eria_gelateria_alfieri_40.7968_16.9202,Caffett eria Gelateria Alfieri,RESTAURANT,bar_cafe
-40.796916,16.917067,ov_kennedy_40.7969_16.9171,Kennedy,RESTAURANT,bar_cafe
-40.796440,16.918835,ov_caffetteria_degli_studi_40.7964_16.9188,Caffetteria degli Studi,RESTAURANT,bar_cafe
-40.795869,16.919047,ov_belle_epoque_cafe_40.7959_16.9190,Belle Epoque Cafe,RESTAURANT,bar_cafe
-40.796015,16.920990,ov_caff__42_40.7960_16.9210,Caffè 42,RESTAURANT,bar_cafe
-40.795977,16.924262,ov_caff__milano_40.7960_16.9243,Caffè Milano,RESTAURANT,bar_cafe
-40.794492,16.924485,ov_living_cafe_s_r_l__40.7945_16.9245,Living Cafe S.r.l.,RESTAURANT,bar_cafe
-40.793785,16.922046,osm_la_dolce_vita_40.7938_16.9220,La Dolce vita,bar_cafe,bar_cafe
-40.798013,16.920642,osm_caffe_del_professore_40.7980_16.9206,Caffe Del Professore,bar_cafe,bar_cafe
-40.797655,16.921758,osm_per_se_40.7977_16.9218,Per Se,bar_cafe,bar_cafe
-40.794519,16.924456,osm_living_cafe_40.7945_16.9245,Living Cafe,bar_cafe,bar_cafe
-40.798802,16.924750,osm_covella_pasticceri_40.7988_16.9247,Covella Pasticceri,bar_cafe,bar_cafe
-40.804551,16.928107,osm_covella_pasticceri_40.8046_16.9281,Covella Pasticceri,bar_cafe,bar_cafe
-40.815183,16.946124,ov_centro_equestre_dg_arabian_stable_40.8152_16.9461,Centro Equestre DG Arabian Stable,GYM,palestra
-40.810899,16.929367,ov_box_zeta_i_s_s_d__a_r_l__40.8109_16.9294,Box Zeta I S.S.D. a R.L.,GYM,palestra
-40.811678,16.928331,ov_bailemos_accademia_di_ballo_40.8117_16.9283,Bailemos accademia di ballo,GYM,palestra
-40.807052,16.921613,ov_palestra_comunale_a__kouznetsov_40.8071_16.9216,Palestra Comunale A. Kouznetsov,GYM,palestra
-40.802310,16.930190,ov_ambito_di_gioia_del_colle___cap_minori_g_40.8023_16.9302,Ambito di Gioia del Colle - CAP Minori Gioia del Colle,GYM,palestra
-40.805376,16.933200,ov_palasport_pinuccio_capurso_40.8054_16.9332,Palasport Pinuccio Capurso,GYM,palestra
-40.804822,16.923760,ov_centro_sportivo_padre_semeria_40.8048_16.9238,Centro Sportivo Padre Semeria,GYM,palestra
-40.799590,16.915110,ov_6__energym_40.7996_16.9151,6+ Energym,GYM,palestra
-40.797241,16.918571,ov_bakhita_fitness___pilates_40.7972_16.9186,Bakhita Fitness & Pilates,GYM,palestra
-40.798610,16.912870,ov_california_palestra_40.7986_16.9129,California Palestra,GYM,palestra
-40.799082,16.913742,ov_ass__la_bachata_40.7991_16.9137,Ass. La Bachata,GYM,palestra
-40.798580,16.917751,ov_associazione_yoga_zen_e_benessere_40.7986_16.9178,Associazione Yoga Zen e Benessere,GYM,palestra
-40.798230,16.925740,ov_les_arts_asd___oltre_danza___40.7982_16.9257,Les Arts ASD - Oltre Danza -,GYM,palestra
-40.797842,16.930147,ov_e_motion_pole_studio_40.7978_16.9301,E-motion pole studio,GYM,palestra
-40.798790,16.927120,ov_pascal_fitness_gym_40.7988_16.9271,Pascal fitness gym,GYM,palestra
-40.800830,16.939794,ov_green_park_40.8008_16.9398,Green Park,GYM,palestra
-40.797008,16.918762,ov_mantra_yoga_studio_40.7970_16.9188,Mantra Yoga Studio,GYM,palestra
-40.795010,16.917630,ov_asd_new_arabesque_40.7950_16.9176,Asd New Arabesque,GYM,palestra
-40.796021,16.921586,ov_laboratorio_del_movimento_40.7960_16.9216,Laboratorio Del Movimento,GYM,palestra
-40.794057,16.924085,ov_fit_studio_gioia_del_colle_40.7941_16.9241,Fit Studio Gioia del Colle,GYM,palestra
-40.792940,16.919744,ov_alma_loca_asd_40.7929_16.9197,Alma Loca Asd,GYM,palestra
-40.808523,16.924975,ov_esso_gioia_del_colle_40.8085_16.9250,Esso Gioia Del Colle,MUSEUM,monumento
-40.804227,16.923424,ov_dumest_40.8042_16.9234,DUMEST,MUSEUM,monumento
-40.801338,16.919869,ov_pezzi_di_storia_40.8013_16.9199,PEZZI DI Storia,MUSEUM,monumento
-40.800244,16.923223,ov_castello_normanno_svevo_40.8002_16.9232,Castello Normanno Svevo,MONUMENT,monumento
-40.800224,16.923211,ov_museo_nazionale_archeologico_di_gioia_de_40.8002_16.9232,Museo Nazionale Archeologico di Gioia del Colle,MUSEUM,monumento
-40.800416,16.922257,ov_vetust__40.8004_16.9223,Vetustà,MUSEUM,monumento
-40.798266,16.923517,ov_palazzo_romano_eventi_meeting__cultura___40.7983_16.9235,"Palazzo Romano Eventi meeting, cultura & società",MONUMENT,monumento
+40.794084,16.924986,ov_ospedale_paradiso_40.7941_16.9250,Ospedale Paradiso,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ospedale_paradiso_40.7941_16.9250.json,custom
+40.797592,16.917196,osm_l_inam_asl_40.7976_16.9172,L'INAM ASL,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/linam_asl_40.7976_16.9172.json,custom
+40.833780,16.883950,ov_tenuta_antico_leccio_agriturismo___ricev_40.8338_16.8839,Tenuta Antico Leccio Agriturismo & Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/tenuta_antico_leccio_agriturismo_ricevim_40.8338_16.8839.json,custom
+40.808863,16.923722,ov_focacceria_fellini_40.8089_16.9237,Focacceria Fellini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/focacceria_fellini_40.8089_16.9237.json,custom
+40.808536,16.922947,ov_queens_gioia_pizzeria_40.8085_16.9229,Queens Gioia Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/queens_gioia_pizzeria_40.8085_16.9229.json,custom
+40.808566,16.922829,ov_bello_ciccio_pizzeria_40.8086_16.9228,Bello Ciccio Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bello_ciccio_pizzeria_40.8086_16.9228.json,custom
+40.807392,16.909420,ov_la_facenda_40.8074_16.9094,La Facenda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_facenda_40.8074_16.9094.json,custom
+40.807814,16.924021,ov_marab__pizzeria_ristorante_40.8078_16.9240,Marabù Pizzeria-Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/marab_pizzeria-ristorante_40.8078_16.9240.json,custom
+40.802371,16.927341,ov_su_x_gi__40.8024_16.9273,Su X Giù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/su_x_gi_40.8024_16.9273.json,custom
+40.804224,16.922857,ov_nun__40.8042_16.9229,Nunè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/nun_40.8042_16.9229.json,custom
+40.804403,16.922858,ov_pizzeria_la_lira_40.8044_16.9229,Pizzeria La Lira,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pizzeria_la_lira_40.8044_16.9229.json,custom
+40.801931,16.922902,ov_la_vecchia_gioia_40.8019_16.9229,La Vecchia Gioia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_vecchia_gioia_40.8019_16.9229.json,custom
+40.802082,16.920096,ov_il_pizzicagnolo_40.8021_16.9201,Il Pizzicagnolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/il_pizzicagnolo_40.8021_16.9201.json,custom
+40.801632,16.919481,ov_ascatigno_40.8016_16.9195,Ascatigno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ascatigno_40.8016_16.9195.json,custom
+40.801690,16.922658,ov_alibaba_kebabberia_40.8017_16.9227,Alibaba kebabberia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/alibaba_kebabberia_40.8017_16.9227.json,custom
+40.801718,16.924182,ov_ciobio_by_secret_food_40.8017_16.9242,CioBio by Secret Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ciobio_by_secret_food_40.8017_16.9242.json,custom
+40.801985,16.924441,ov_ristorante___enoteca_la_pergola_saracino_40.8020_16.9244,Ristorante - Enoteca La Pergola Saracino SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ristorante_-_enoteca_la_pergola_saracino_40.8020_16.9244.json,custom
+40.801220,16.922770,ov_taverna_da_romoletto_40.8012_16.9228,Taverna Da Romoletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/taverna_da_romoletto_40.8012_16.9228.json,custom
+40.800763,16.922697,ov_bello_ciccio_40.8008_16.9227,Bello Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bello_ciccio_40.8008_16.9227.json,custom
+40.800611,16.921301,ov_youpizza_40.8006_16.9213,Youpizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/youpizza_40.8006_16.9213.json,custom
+40.800910,16.923160,ov_la_golosa_di_puglia_40.8009_16.9232,La Golosa di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_golosa_di_puglia_40.8009_16.9232.json,custom
+40.800586,16.925488,ov_red_pepper_40.8006_16.9255,Red Pepper,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/red_pepper_40.8006_16.9255.json,custom
+40.800140,16.923805,ov_piano___susci_italiano_40.8001_16.9238,Piano - Susci Italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/piano_-_susci_italiano_40.8001_16.9238.json,custom
+40.799941,16.921171,ov_osteria_del_borgo_antico_40.7999_16.9212,Osteria del Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/osteria_del_borgo_antico_40.7999_16.9212.json,custom
+40.799942,16.921240,ov_borgo_antico_40.7999_16.9212,Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/borgo_antico_40.7999_16.9212.json,custom
+40.800008,16.922984,ov_mezzo_quinto_40.8000_16.9230,Mezzo Quinto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/mezzo_quinto_40.8000_16.9230.json,custom
+40.800087,16.922595,ov_cabo_tigelleria_40.8001_16.9226,Cabo Tigelleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/cabo_tigelleria_40.8001_16.9226.json,custom
+40.800343,16.922510,ov_trattoria_pugliese_40.8003_16.9225,Trattoria Pugliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/trattoria_pugliese_40.8003_16.9225.json,custom
+40.800367,16.922826,ov_al_castello_pizzeria_birreria_40.8004_16.9228,Al Castello Pizzeria Birreria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/al_castello_pizzeria_birreria_40.8004_16.9228.json,custom
+40.800420,16.922600,ov_________40.8004_16.9226,게임크리에이터,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/_40.8004_16.9226.json,custom
+40.800221,16.918527,ov_novus_di_pietro_giorgio_40.8002_16.9185,Novus di Pietro Giorgio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/novus_di_pietro_giorgio_40.8002_16.9185.json,custom
+40.799879,16.917165,ov_agriturismo_antico_leccio_40.7999_16.9172,Agriturismo Antico Leccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/agriturismo_antico_leccio_40.7999_16.9172.json,custom
+40.797223,16.917694,ov_brando_pizza_bistrot_40.7972_16.9177,Brando Pizza Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/brando_pizza_bistrot_40.7972_16.9177.json,custom
+40.798810,16.913078,ov_pizza_royal_40.7988_16.9131,Pizza Royal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pizza_royal_40.7988_16.9131.json,custom
+40.798943,16.913076,ov_authentico_pizzeria_40.7989_16.9131,Authentico Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/authentico_pizzeria_40.7989_16.9131.json,custom
+40.799075,16.912538,ov_manhattan_40.7991_16.9125,Manhattan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/manhattan_40.7991_16.9125.json,custom
+40.799058,16.919258,ov_stargate_panzerotteria_pizzeria_40.7991_16.9193,Stargate Panzerotteria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/stargate_panzerotteria_pizzeria_40.7991_16.9193.json,custom
+40.798661,16.924619,ov_il_mago_della_pizza_40.7987_16.9246,Il Mago della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/il_mago_della_pizza_40.7987_16.9246.json,custom
+40.798417,16.924386,ov_124_food_40.7984_16.9244,124 Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/124_food_40.7984_16.9244.json,custom
+40.798304,16.925362,ov_pizza_e_bottega_40.7983_16.9254,Pizza e Bottega,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pizza_e_bottega_40.7983_16.9254.json,custom
+40.798494,16.925324,ov_sbavo_40.7985_16.9253,Sbavo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/sbavo_40.7985_16.9253.json,custom
+40.798141,16.924436,ov_l_altra_corte_pizzeria_40.7981_16.9244,L'Altra Corte Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/laltra_corte_pizzeria_40.7981_16.9244.json,custom
+40.798023,16.921979,ov_il_rifugio_40.7980_16.9220,Il Rifugio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/il_rifugio_40.7980_16.9220.json,custom
+40.797797,16.920100,ov_salotto_mescolanze_e_specialita_40.7978_16.9201,Salotto Mescolanze e Specialita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/salotto_mescolanze_e_specialita_40.7978_16.9201.json,custom
+40.797918,16.922581,ov_dimora_sovrana_40.7979_16.9226,Dimora Sovrana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/dimora_sovrana_40.7979_16.9226.json,custom
+40.797661,16.920900,ov_lo_snoopy_40.7977_16.9209,Lo Snoopy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/lo_snoopy_40.7977_16.9209.json,custom
+40.797442,16.919658,ov_osteria_s_lucia___pizzeria_40.7974_16.9197,Osteria S.Lucia - Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/osteria_slucia_-_pizzeria_40.7974_16.9197.json,custom
+40.800044,16.927577,ov_pasticceria_grand_cru_40.8000_16.9276,Pasticceria GRAND CRU,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pasticceria_grand_cru_40.8000_16.9276.json,custom
+40.800081,16.927775,ov_munir_pizzeria_40.8001_16.9278,MUNIR Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/munir_pizzeria_40.8001_16.9278.json,custom
+40.800081,16.927775,ov_sushi_gio_40.8001_16.9278,Sushi Gio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/sushi_gio_40.8001_16.9278.json,custom
+40.800081,16.927775,ov_la_kantina_40.8001_16.9278,La Kantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_kantina_40.8001_16.9278.json,custom
+40.795634,16.929489,ov_nero_carbone_braceria_40.7956_16.9295,Nero Carbone braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/nero_carbone_braceria_40.7956_16.9295.json,custom
+40.796922,16.923434,ov_io_gusto_bio_di_antonio_tria_40.7969_16.9234,Io Gusto Bio di Antonio Tria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/io_gusto_bio_di_antonio_tria_40.7969_16.9234.json,custom
+40.797080,16.917370,ov_gustami_pizzeria_40.7971_16.9174,Gustami Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/gustami_pizzeria_40.7971_16.9174.json,custom
+40.795272,16.918176,ov_noipizza_40.7953_16.9182,NoiPizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/noipizza_40.7953_16.9182.json,custom
+40.794937,16.922739,ov_gioia_di_pasta_40.7949_16.9227,Gioia Di Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/gioia_di_pasta_40.7949_16.9227.json,custom
+40.794251,16.920619,ov_mesa_libre_40.7943_16.9206,Mesa libre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/mesa_libre_40.7943_16.9206.json,custom
+40.794280,16.923802,ov_grill___barbecue_40.7943_16.9238,Grill & Barbecue,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/grill_barbecue_40.7943_16.9238.json,custom
+40.792969,16.918771,ov_vineriaroccacellarii_40.7930_16.9188,VineriaRoccaCellarii,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/vineriaroccacellarii_40.7930_16.9188.json,custom
+40.784467,16.893172,ov_country_club__gioia_40.7845_16.8932,Country CLUB  Gioia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/country_club_gioia_40.7845_16.8932.json,custom
+40.771215,16.836491,ov_i_sassini_40.7712_16.8365,I Sassini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/i_sassini_40.7712_16.8365.json,custom
+40.778776,16.851161,ov_agriturismo_la_masseria_de_palma_40.7788_16.8512,Agriturismo La Masseria De Palma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/agriturismo_la_masseria_de_palma_40.7788_16.8512.json,custom
+40.777422,16.925812,ov_vetreria_vebad_40.7774_16.9258,vetreria vebad,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/vetreria_vebad_40.7774_16.9258.json,custom
+40.755274,16.910588,ov_masseria_bosco_petraro_40.7553_16.9106,Masseria Bosco Petraro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/masseria_bosco_petraro_40.7553_16.9106.json,custom
+40.750508,16.909332,ov_la_cicerchia_40.7505_16.9093,La Cicerchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_cicerchia_40.7505_16.9093.json,custom
+40.737720,16.866220,ov_ristorante_gallo_trani_40.7377_16.8662,Ristorante Gallo Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ristorante_gallo_trani_40.7377_16.8662.json,custom
+40.742250,16.811993,ov_masseria_capo_iazzo_40.7423_16.8120,Masseria Capo Iazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/masseria_capo_iazzo_40.7423_16.8120.json,custom
+40.709938,16.822622,ov_la_dimora_dei_peuceti_40.7099_16.8226,La Dimora dei Peuceti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_dimora_dei_peuceti_40.7099_16.8226.json,custom
+40.726083,16.836463,ov_pizzeria_dongiovanni_40.7261_16.8365,Pizzeria Dongiovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pizzeria_dongiovanni_40.7261_16.8365.json,custom
+40.724539,16.892332,ov_agriturismo_regno_di_marzagaglia_40.7245_16.8923,Agriturismo Regno di Marzagaglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/agriturismo_regno_di_marzagaglia_40.7245_16.8923.json,custom
+40.949967,17.299225,ov_osteria_del_borgo_antico_40.9500_17.2992,Osteria del Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/osteria_del_borgo_antico_40.9500_17.2992.json,custom
+40.800043,16.922458,osm_cab__40.8000_16.9225,Cabò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/cab_40.8000_16.9225.json,custom
+40.802047,16.927664,osm_su_x_gi__40.8020_16.9277,Su x Giù,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/su_x_gi_40.8020_16.9277.json,custom
+40.808596,16.924650,osm_izumi_sushi_40.8086_16.9247,Izumi Sushi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/izumi_sushi_40.8086_16.9247.json,custom
+40.798680,16.924587,osm_ristorante_pizzeria_il_mago_40.7987_16.9246,Ristorante Pizzeria Il Mago,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ristorante_pizzeria_il_mago_40.7987_16.9246.json,custom
+40.794078,16.924171,osm_angolo_divino_40.7941_16.9242,Angolo Divino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/angolo_divino_40.7941_16.9242.json,custom
+40.803330,16.922946,osm_pizzeria_pub_artois_40.8033_16.9229,Pizzeria Pub Artois,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pizzeria_pub_artois_40.8033_16.9229.json,custom
+40.833663,16.932174,ov_stazione_di_servizio_sosta_autobus_marin_40.8337_16.9322,Stazione di Servizio Sosta Autobus Marino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/stazione_di_servizio_sosta_autobus_marin_40.8337_16.9322.json,custom
+40.798947,16.889863,ov_la_sosta_perfetta_40.7989_16.8899,La Sosta Perfetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_sosta_perfetta_40.7989_16.8899.json,custom
+40.823715,16.931924,ov_la_kantina_40.8237_16.9319,La Kantina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_kantina_40.8237_16.9319.json,custom
+40.806390,16.928088,ov_bar_mondrian_cafe_40.8064_16.9281,Bar Mondrian Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bar_mondrian_cafe_40.8064_16.9281.json,custom
+40.805707,16.931354,ov_makk__bar_40.8057_16.9314,Makkè Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/makk_bar_40.8057_16.9314.json,custom
+40.805915,16.924271,ov_enilive_caf__gioia_del_colle_40.8059_16.9243,Enilive Cafè Gioia del Colle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/enilive_caf_gioia_del_colle_40.8059_16.9243.json,custom
+40.803848,16.923103,ov_il_piccolo_40.8038_16.9231,Il Piccolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/il_piccolo_40.8038_16.9231.json,custom
+40.802780,16.923038,ov_l_artista_pub_40.8028_16.9230,L'Artista Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/lartista_pub_40.8028_16.9230.json,custom
+40.803163,16.922943,ov_pub_artois_40.8032_16.9229,Pub Artois,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pub_artois_40.8032_16.9229.json,custom
+40.801783,16.923444,ov_rossini_cafe_40.8018_16.9234,Rossini Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/rossini_cafe_40.8018_16.9234.json,custom
+40.799576,16.921917,ov_panta_rei_40.7996_16.9219,Panta Rei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/panta_rei_40.7996_16.9219.json,custom
+40.799697,16.921001,ov_napoli_40.7997_16.9210,Napoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/napoli_40.7997_16.9210.json,custom
+40.799950,16.922030,ov_sala_da_barba_filippo_losito_40.8000_16.9220,SALA DA BARBA filippo losito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/sala_da_barba_filippo_losito_40.8000_16.9220.json,custom
+40.800092,16.921488,ov_ott__40.8001_16.9215,Ottà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ott_40.8001_16.9215.json,custom
+40.800294,16.921091,ov_caffetteria_cavour_40.8003_16.9211,Caffetteria CAVOUR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caffetteria_cavour_40.8003_16.9211.json,custom
+40.797561,16.918961,ov_the_strange_pub_40.7976_16.9190,The Strange Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/the_strange_pub_40.7976_16.9190.json,custom
+40.798585,16.922680,ov_caramia_cafe_40.7986_16.9227,Caramia cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caramia_cafe_40.7986_16.9227.json,custom
+40.798681,16.921963,ov_zahir_time_cafe__2_0_40.7987_16.9220,Zahir Time Cafe' 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/zahir_time_cafe_20_40.7987_16.9220.json,custom
+40.798765,16.921260,ov_gran_caffe_40.7988_16.9213,Gran Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/gran_caffe_40.7988_16.9213.json,custom
+40.799085,16.922102,ov_grand_italia_caff__40.7991_16.9221,Grand'Italia Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/granditalia_caff_40.7991_16.9221.json,custom
+40.799132,16.922630,ov_capsula_bar_40.7991_16.9226,Capsula Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/capsula_bar_40.7991_16.9226.json,custom
+40.798762,16.925739,ov_smeraldo_caffe_40.7988_16.9257,Smeraldo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/smeraldo_caffe_40.7988_16.9257.json,custom
+40.798174,16.920761,ov_il_professore_40.7982_16.9208,Il Professore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/il_professore_40.7982_16.9208.json,custom
+40.797623,16.920648,ov_joda_pub_40.7976_16.9206,Joda Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/joda_pub_40.7976_16.9206.json,custom
+40.794167,16.981741,ov_fully___future_stop_40.7942_16.9817,FULLY - Future Stop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/fully_-_future_stop_40.7942_16.9817.json,custom
+40.792563,16.923870,ov_the_hills_pub_40.7926_16.9239,The Hills Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/the_hills_pub_40.7926_16.9239.json,custom
+40.796450,16.922536,ov_carpe_diem_40.7964_16.9225,Carpe Diem,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/carpe_diem_40.7964_16.9225.json,custom
+40.796835,16.920153,ov_caffett_eria_gelateria_alfieri_40.7968_16.9202,Caffett eria Gelateria Alfieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caffett_eria_gelateria_alfieri_40.7968_16.9202.json,custom
+40.796916,16.917067,ov_kennedy_40.7969_16.9171,Kennedy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/kennedy_40.7969_16.9171.json,custom
+40.796440,16.918835,ov_caffetteria_degli_studi_40.7964_16.9188,Caffetteria degli Studi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caffetteria_degli_studi_40.7964_16.9188.json,custom
+40.795869,16.919047,ov_belle_epoque_cafe_40.7959_16.9190,Belle Epoque Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/belle_epoque_cafe_40.7959_16.9190.json,custom
+40.796015,16.920990,ov_caff__42_40.7960_16.9210,Caffè 42,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caff_42_40.7960_16.9210.json,custom
+40.795977,16.924262,ov_caff__milano_40.7960_16.9243,Caffè Milano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caff_milano_40.7960_16.9243.json,custom
+40.794492,16.924485,ov_living_cafe_s_r_l__40.7945_16.9245,Living Cafe S.r.l.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/living_cafe_srl_40.7945_16.9245.json,custom
+40.793785,16.922046,osm_la_dolce_vita_40.7938_16.9220,La Dolce vita,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/la_dolce_vita_40.7938_16.9220.json,custom
+40.798013,16.920642,osm_caffe_del_professore_40.7980_16.9206,Caffe Del Professore,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/caffe_del_professore_40.7980_16.9206.json,custom
+40.797655,16.921758,osm_per_se_40.7977_16.9218,Per Se,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/per_se_40.7977_16.9218.json,custom
+40.794519,16.924456,osm_living_cafe_40.7945_16.9245,Living Cafe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/living_cafe_40.7945_16.9245.json,custom
+40.798802,16.924750,osm_covella_pasticceri_40.7988_16.9247,Covella Pasticceri,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/covella_pasticceri_40.7988_16.9247.json,custom
+40.804551,16.928107,osm_covella_pasticceri_40.8046_16.9281,Covella Pasticceri,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/covella_pasticceri_40.8046_16.9281.json,custom
+40.815183,16.946124,ov_centro_equestre_dg_arabian_stable_40.8152_16.9461,Centro Equestre DG Arabian Stable,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/centro_equestre_dg_arabian_stable_40.8152_16.9461.json,custom
+40.810899,16.929367,ov_box_zeta_i_s_s_d__a_r_l__40.8109_16.9294,Box Zeta I S.S.D. a R.L.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/box_zeta_i_ssd_a_rl_40.8109_16.9294.json,custom
+40.811678,16.928331,ov_bailemos_accademia_di_ballo_40.8117_16.9283,Bailemos accademia di ballo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bailemos_accademia_di_ballo_40.8117_16.9283.json,custom
+40.807052,16.921613,ov_palestra_comunale_a__kouznetsov_40.8071_16.9216,Palestra Comunale A. Kouznetsov,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/palestra_comunale_a_kouznetsov_40.8071_16.9216.json,custom
+40.802310,16.930190,ov_ambito_di_gioia_del_colle___cap_minori_g_40.8023_16.9302,Ambito di Gioia del Colle - CAP Minori Gioia del Colle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ambito_di_gioia_del_colle_-_cap_minori_g_40.8023_16.9302.json,custom
+40.805376,16.933200,ov_palasport_pinuccio_capurso_40.8054_16.9332,Palasport Pinuccio Capurso,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/palasport_pinuccio_capurso_40.8054_16.9332.json,custom
+40.804822,16.923760,ov_centro_sportivo_padre_semeria_40.8048_16.9238,Centro Sportivo Padre Semeria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/centro_sportivo_padre_semeria_40.8048_16.9238.json,custom
+40.799590,16.915110,ov_6__energym_40.7996_16.9151,6+ Energym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/6_energym_40.7996_16.9151.json,custom
+40.797241,16.918571,ov_bakhita_fitness___pilates_40.7972_16.9186,Bakhita Fitness & Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bakhita_fitness_pilates_40.7972_16.9186.json,custom
+40.798610,16.912870,ov_california_palestra_40.7986_16.9129,California Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/california_palestra_40.7986_16.9129.json,custom
+40.799082,16.913742,ov_ass__la_bachata_40.7991_16.9137,Ass. La Bachata,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ass_la_bachata_40.7991_16.9137.json,custom
+40.798580,16.917751,ov_associazione_yoga_zen_e_benessere_40.7986_16.9178,Associazione Yoga Zen e Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/associazione_yoga_zen_e_benessere_40.7986_16.9178.json,custom
+40.798230,16.925740,ov_les_arts_asd___oltre_danza___40.7982_16.9257,Les Arts ASD - Oltre Danza -,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/les_arts_asd_-_oltre_danza_-_40.7982_16.9257.json,custom
+40.797842,16.930147,ov_e_motion_pole_studio_40.7978_16.9301,E-motion pole studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/e-motion_pole_studio_40.7978_16.9301.json,custom
+40.798790,16.927120,ov_pascal_fitness_gym_40.7988_16.9271,Pascal fitness gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pascal_fitness_gym_40.7988_16.9271.json,custom
+40.800830,16.939794,ov_green_park_40.8008_16.9398,Green Park,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/green_park_40.8008_16.9398.json,custom
+40.797008,16.918762,ov_mantra_yoga_studio_40.7970_16.9188,Mantra Yoga Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/mantra_yoga_studio_40.7970_16.9188.json,custom
+40.795010,16.917630,ov_asd_new_arabesque_40.7950_16.9176,Asd New Arabesque,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/asd_new_arabesque_40.7950_16.9176.json,custom
+40.796021,16.921586,ov_laboratorio_del_movimento_40.7960_16.9216,Laboratorio Del Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/laboratorio_del_movimento_40.7960_16.9216.json,custom
+40.794057,16.924085,ov_fit_studio_gioia_del_colle_40.7941_16.9241,Fit Studio Gioia del Colle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/fit_studio_gioia_del_colle_40.7941_16.9241.json,custom
+40.792940,16.919744,ov_alma_loca_asd_40.7929_16.9197,Alma Loca Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/alma_loca_asd_40.7929_16.9197.json,custom
+40.808523,16.924975,ov_esso_gioia_del_colle_40.8085_16.9250,Esso Gioia Del Colle,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/esso_gioia_del_colle_40.8085_16.9250.json,custom
+40.804227,16.923424,ov_dumest_40.8042_16.9234,DUMEST,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/dumest_40.8042_16.9234.json,custom
+40.801338,16.919869,ov_pezzi_di_storia_40.8013_16.9199,PEZZI DI Storia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pezzi_di_storia_40.8013_16.9199.json,custom
+40.800244,16.923223,ov_castello_normanno_svevo_40.8002_16.9232,Castello Normanno Svevo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/castello_normanno_svevo_40.8002_16.9232.json,custom
+40.800224,16.923211,ov_museo_nazionale_archeologico_di_gioia_de_40.8002_16.9232,Museo Nazionale Archeologico di Gioia del Colle,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/museo_nazionale_archeologico_di_gioia_de_40.8002_16.9232.json,custom
+40.800416,16.922257,ov_vetust__40.8004_16.9223,Vetustà,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/vetust_40.8004_16.9223.json,custom
+40.798266,16.923517,ov_palazzo_romano_eventi_meeting__cultura___40.7983_16.9235,"Palazzo Romano Eventi meeting, cultura & società",MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/palazzo_romano_eventi_meeting_cultura_so_40.7983_16.9235.json,custom

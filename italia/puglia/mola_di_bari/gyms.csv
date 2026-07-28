@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # mola_di_bari -- gyms
-41.039663,17.076553,ov_elevate_pole_mola_di_bari_41.0397_17.0766,Elevate Pole Mola di Bari,GYM,palestra
-41.040116,17.074749,ov_asd_friends_sporting_club_41.0401_17.0747,ASD Friends Sporting Club,GYM,palestra
-41.040840,17.052027,ov_asd_la_fortunata_41.0408_17.0520,asd La Fortunata,GYM,palestra
-41.056637,17.079888,ov_palazzetto_dello_sport_vito_pinto_41.0566_17.0799,Palazzetto dello Sport Vito Pinto,GYM,palestra
-41.056868,17.079638,ov_palapinto_41.0569_17.0796,Palapinto,GYM,palestra
-41.057297,17.084856,ov_faro_style_41.0573_17.0849,Faro Style,GYM,palestra
-41.058213,17.095274,ov_palestra_gymnica_41.0582_17.0953,Palestra Gymnica,GYM,palestra
-41.060022,17.088821,ov_art_ballet_studio_41.0600_17.0888,Art Ballet Studio,GYM,palestra
-41.060087,17.085962,ov_la_bottega_cicci_cocco_41.0601_17.0860,La Bottega Cicci Cocco,GYM,palestra
-41.059315,17.088709,ov_pianeta_scommesse_mola_di_bari_bux_gamin_41.0593_17.0887,Pianeta scommesse Mola di Bari Bux Gaming,GYM,palestra
-41.058602,17.085753,ov_body_energy_41.0586_17.0858,Body Energy,GYM,palestra
-41.058622,17.084402,ov_academie_de_danse_41.0586_17.0844,Academie De Danse,GYM,palestra
-41.058650,17.079560,ov_ginnastica_artistica_mola_di_bari___jigo_41.0587_17.0796,Ginnastica Artistica Mola Di Bari - Jigoro Kano,GYM,palestra
-41.058529,17.080605,ov_campo_sportivo_comunale_caduti_di_superg_41.0585_17.0806,Campo Sportivo Comunale Caduti Di Superga,GYM,palestra
-41.062680,17.085120,ov_kinesis_fit_center_mola_di_bari_41.0627_17.0851,Kinesis Fit Center Mola di Bari,GYM,palestra
-41.062969,17.074860,ov_gentlemen_s_fit_and_fight_academy_41.0630_17.0749,Gentlemen's Fit and Fight Academy,GYM,palestra
-41.062938,17.074655,ov_tribe_jiu_jitsu_mola_di_bari_41.0629_17.0747,Tribe Jiu Jitsu Mola di Bari,GYM,palestra
-41.061634,17.061347,ov_crossfit_mola_di_bari_41.0616_17.0613,CrossFit Mola di Bari,GYM,palestra
-41.074520,17.058726,ov_stand_up_paddle_mamaluna_41.0745_17.0587,Stand Up Paddle Mamaluna,GYM,palestra
-41.063725,17.084490,ov_spinning_palestra_gymnica_41.0637_17.0845,SPINNING Palestra Gymnica,GYM,palestra
-41.064178,17.084122,ov_athena_2000_41.0642_17.0841,Athena 2000,GYM,palestra
-41.063297,17.086578,ov_asd_blue_sky_41.0633_17.0866,Asd blue sky,GYM,palestra
+41.039663,17.076553,ov_elevate_pole_mola_di_bari_41.0397_17.0766,Elevate Pole Mola di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/elevate_pole_mola_di_bari_41.0397_17.0766.json,custom
+41.040116,17.074749,ov_asd_friends_sporting_club_41.0401_17.0747,ASD Friends Sporting Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/asd_friends_sporting_club_41.0401_17.0747.json,custom
+41.040840,17.052027,ov_asd_la_fortunata_41.0408_17.0520,asd La Fortunata,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/asd_la_fortunata_41.0408_17.0520.json,custom
+41.056637,17.079888,ov_palazzetto_dello_sport_vito_pinto_41.0566_17.0799,Palazzetto dello Sport Vito Pinto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/palazzetto_dello_sport_vito_pinto_41.0566_17.0799.json,custom
+41.056868,17.079638,ov_palapinto_41.0569_17.0796,Palapinto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/palapinto_41.0569_17.0796.json,custom
+41.057297,17.084856,ov_faro_style_41.0573_17.0849,Faro Style,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/faro_style_41.0573_17.0849.json,custom
+41.058213,17.095274,ov_palestra_gymnica_41.0582_17.0953,Palestra Gymnica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/palestra_gymnica_41.0582_17.0953.json,custom
+41.060022,17.088821,ov_art_ballet_studio_41.0600_17.0888,Art Ballet Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/art_ballet_studio_41.0600_17.0888.json,custom
+41.060087,17.085962,ov_la_bottega_cicci_cocco_41.0601_17.0860,La Bottega Cicci Cocco,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_bottega_cicci_cocco_41.0601_17.0860.json,custom
+41.059315,17.088709,ov_pianeta_scommesse_mola_di_bari_bux_gamin_41.0593_17.0887,Pianeta scommesse Mola di Bari Bux Gaming,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pianeta_scommesse_mola_di_bari_bux_gamin_41.0593_17.0887.json,custom
+41.058602,17.085753,ov_body_energy_41.0586_17.0858,Body Energy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/body_energy_41.0586_17.0858.json,custom
+41.058622,17.084402,ov_academie_de_danse_41.0586_17.0844,Academie De Danse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/academie_de_danse_41.0586_17.0844.json,custom
+41.058650,17.079560,ov_ginnastica_artistica_mola_di_bari___jigo_41.0587_17.0796,Ginnastica Artistica Mola Di Bari - Jigoro Kano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ginnastica_artistica_mola_di_bari_-_jigo_41.0587_17.0796.json,custom
+41.058529,17.080605,ov_campo_sportivo_comunale_caduti_di_superg_41.0585_17.0806,Campo Sportivo Comunale Caduti Di Superga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/campo_sportivo_comunale_caduti_di_superg_41.0585_17.0806.json,custom
+41.062680,17.085120,ov_kinesis_fit_center_mola_di_bari_41.0627_17.0851,Kinesis Fit Center Mola di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/kinesis_fit_center_mola_di_bari_41.0627_17.0851.json,custom
+41.062969,17.074860,ov_gentlemen_s_fit_and_fight_academy_41.0630_17.0749,Gentlemen's Fit and Fight Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/gentlemens_fit_and_fight_academy_41.0630_17.0749.json,custom
+41.062938,17.074655,ov_tribe_jiu_jitsu_mola_di_bari_41.0629_17.0747,Tribe Jiu Jitsu Mola di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/tribe_jiu_jitsu_mola_di_bari_41.0629_17.0747.json,custom
+41.061634,17.061347,ov_crossfit_mola_di_bari_41.0616_17.0613,CrossFit Mola di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/crossfit_mola_di_bari_41.0616_17.0613.json,custom
+41.074520,17.058726,ov_stand_up_paddle_mamaluna_41.0745_17.0587,Stand Up Paddle Mamaluna,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/stand_up_paddle_mamaluna_41.0745_17.0587.json,custom
+41.063725,17.084490,ov_spinning_palestra_gymnica_41.0637_17.0845,SPINNING Palestra Gymnica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/spinning_palestra_gymnica_41.0637_17.0845.json,custom
+41.064178,17.084122,ov_athena_2000_41.0642_17.0841,Athena 2000,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/athena_2000_41.0642_17.0841.json,custom
+41.063297,17.086578,ov_asd_blue_sky_41.0633_17.0866,Asd blue sky,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/asd_blue_sky_41.0633_17.0866.json,custom

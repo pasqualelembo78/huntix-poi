@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Casalvecchio di Puglia -- Tutti
-41.595357,15.111419,ov_pizzeria_del_corso_41.5954_15.1114,Pizzeria Del Corso,RESTAURANT,ristorante
-41.597767,15.113006,ov_jole_de_mauro_41.5978_15.1130,Jole De Mauro,RESTAURANT,ristorante
-41.593561,15.112260,ov_pizza_madre_41.5936_15.1123,Pizza Madre,RESTAURANT,ristorante
-41.595677,15.111804,ov_black___white_41.5957_15.1118,Black & White,RESTAURANT,bar_cafe
-41.594830,15.111059,ov_bar_incontro_41.5948_15.1111,Bar Incontro,RESTAURANT,bar_cafe
-41.478785,15.124375,ov_caff__del_corso_41.4788_15.1244,Caffè del Corso,RESTAURANT,bar_cafe
+41.595357,15.111419,ov_pizzeria_del_corso_41.5954_15.1114,Pizzeria Del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/pizzeria_del_corso_41.5954_15.1114.json,custom
+41.597767,15.113006,ov_jole_de_mauro_41.5978_15.1130,Jole De Mauro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/jole_de_mauro_41.5978_15.1130.json,custom
+41.593561,15.112260,ov_pizza_madre_41.5936_15.1123,Pizza Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/pizza_madre_41.5936_15.1123.json,custom
+41.595677,15.111804,ov_black___white_41.5957_15.1118,Black & White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/black_white_41.5957_15.1118.json,custom
+41.594830,15.111059,ov_bar_incontro_41.5948_15.1111,Bar Incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/bar_incontro_41.5948_15.1111.json,custom
+41.478785,15.124375,ov_caff__del_corso_41.4788_15.1244,Caffè del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/caff_del_corso_41.4788_15.1244.json,custom

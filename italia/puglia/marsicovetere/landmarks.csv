@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # marsicovetere -- landmarks
-40.349766,15.809981,ov_castello_di_moliterno_40.3498_15.8100,Castello di Moliterno,MONUMENT,monumento
-40.375191,15.825230,ov_la_casa_di_dorina_40.3752_15.8252,La casa di Dorina,MUSEUM,monumento
+40.349766,15.809981,ov_castello_di_moliterno_40.3498_15.8100,Castello di Moliterno,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/castello_di_moliterno_40.3498_15.8100.json,custom
+40.375191,15.825230,ov_la_casa_di_dorina_40.3752_15.8252,La casa di Dorina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/la_casa_di_dorina_40.3752_15.8252.json,custom

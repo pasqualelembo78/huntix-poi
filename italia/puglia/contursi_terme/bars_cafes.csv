@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # contursi_terme -- bars_cafes
-40.646070,15.245650,ov_golden_bar_40.6461_15.2456,Golden BAR,RESTAURANT,bar_cafe
-40.649852,15.239144,ov_old_bar_scavone_40.6499_15.2391,Old Bar Scavone,RESTAURANT,bar_cafe
-40.649800,15.238720,ov_carpe_diem_2_0_40.6498_15.2387,Carpe diem 2.0,RESTAURANT,bar_cafe
-40.649926,15.237023,ov_cristal_bar_40.6499_15.2370,Cristal Bar,RESTAURANT,bar_cafe
-40.649986,15.237824,ov_bar_da_david_ultras_salerno_1919_40.6500_15.2378,Bar Da David Ultras Salerno 1919,RESTAURANT,bar_cafe
-40.650841,15.238461,ov_amadeus_cafe_40.6508_15.2385,Amadeus Cafe,RESTAURANT,bar_cafe
-40.634339,15.235881,ov_bar_dolce_risveglio_paninoteca_40.6343_15.2359,Bar Dolce Risveglio Paninoteca,RESTAURANT,bar_cafe
-40.626122,15.231317,ov_caff__undici_40.6261_15.2313,Caffè Undici,RESTAURANT,bar_cafe
-40.681669,15.253788,ov_la_cantina_di_bacco_40.6817_15.2538,La Cantina Di Bacco,RESTAURANT,bar_cafe
-40.681601,15.253796,ov_caffe_kenon_40.6816_15.2538,Caffe Kenon,RESTAURANT,bar_cafe
-40.651796,15.231163,osm_bar_trattoria__il_faro__40.6518_15.2312,Bar Trattoria “Il Faro”,bar_cafe,bar_cafe
-40.650873,15.238562,osm_amadeus_caf__40.6509_15.2386,Amadeus Cafè,bar_cafe,bar_cafe
+40.646070,15.245650,ov_golden_bar_40.6461_15.2456,Golden BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/golden_bar_40.6461_15.2456.json,custom
+40.649852,15.239144,ov_old_bar_scavone_40.6499_15.2391,Old Bar Scavone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/old_bar_scavone_40.6499_15.2391.json,custom
+40.649800,15.238720,ov_carpe_diem_2_0_40.6498_15.2387,Carpe diem 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/carpe_diem_20_40.6498_15.2387.json,custom
+40.649926,15.237023,ov_cristal_bar_40.6499_15.2370,Cristal Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/cristal_bar_40.6499_15.2370.json,custom
+40.649986,15.237824,ov_bar_da_david_ultras_salerno_1919_40.6500_15.2378,Bar Da David Ultras Salerno 1919,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/bar_da_david_ultras_salerno_1919_40.6500_15.2378.json,custom
+40.650841,15.238461,ov_amadeus_cafe_40.6508_15.2385,Amadeus Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/amadeus_cafe_40.6508_15.2385.json,custom
+40.634339,15.235881,ov_bar_dolce_risveglio_paninoteca_40.6343_15.2359,Bar Dolce Risveglio Paninoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/bar_dolce_risveglio_paninoteca_40.6343_15.2359.json,custom
+40.626122,15.231317,ov_caff__undici_40.6261_15.2313,Caffè Undici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/caff_undici_40.6261_15.2313.json,custom
+40.681669,15.253788,ov_la_cantina_di_bacco_40.6817_15.2538,La Cantina Di Bacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/la_cantina_di_bacco_40.6817_15.2538.json,custom
+40.681601,15.253796,ov_caffe_kenon_40.6816_15.2538,Caffe Kenon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/caffe_kenon_40.6816_15.2538.json,custom
+40.651796,15.231163,osm_bar_trattoria__il_faro__40.6518_15.2312,Bar Trattoria “Il Faro”,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/bar_trattoria_il_faro_40.6518_15.2312.json,custom
+40.650873,15.238562,osm_amadeus_caf__40.6509_15.2386,Amadeus Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/contursi_terme/pages/amadeus_caf_40.6509_15.2386.json,custom

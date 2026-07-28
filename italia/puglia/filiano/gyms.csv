@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # filiano -- gyms
-40.847614,15.711809,ov_asd_american_horses_40.8476_15.7118,Asd american horses,GYM,palestra
-40.819386,15.725952,ov_il_cavallino_40.8194_15.7260,Il Cavallino,GYM,palestra
+40.847614,15.711809,ov_asd_american_horses_40.8476_15.7118,Asd american horses,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/filiano/pages/asd_american_horses_40.8476_15.7118.json,custom
+40.819386,15.725952,ov_il_cavallino_40.8194_15.7260,Il Cavallino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/filiano/pages/il_cavallino_40.8194_15.7260.json,custom

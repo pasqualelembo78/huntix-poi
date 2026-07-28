@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cerignola -- hospitals
-41.262935,15.911110,osm_centro_medico_riabilitazione_vita_41.2629_15.9111,Centro Medico Riabilitazione VITA,hospital,hospital
-41.263139,15.911116,ov_centro_medico_di_riabilitazione_vita_41.2631_15.9111,Centro Medico di Riabilitazione Vita,HOSPITAL,hospital
-41.431463,15.596876,ov_rssa_fondazione_giuseppe_palena_41.4315_15.5969,RSSA Fondazione Giuseppe Palena,HOSPITAL,hospital
-41.272370,15.918723,ov_presidio_ospedaliero_giuseppe_tatarella_41.2724_15.9187,Presidio Ospedaliero Giuseppe Tatarella,HOSPITAL,hospital
+41.263139,15.911116,ov_centro_medico_di_riabilitazione_vita_41.2631_15.9111,Centro Medico di Riabilitazione Vita,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/centro_medico_di_riabilitazione_vita_41.2631_15.9111.json,custom
+41.431463,15.596876,ov_rssa_fondazione_giuseppe_palena_41.4315_15.5969,RSSA Fondazione Giuseppe Palena,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/rssa_fondazione_giuseppe_palena_41.4315_15.5969.json,custom
+41.272370,15.918723,ov_presidio_ospedaliero_giuseppe_tatarella_41.2724_15.9187,Presidio Ospedaliero Giuseppe Tatarella,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/presidio_ospedaliero_giuseppe_tatarella_41.2724_15.9187.json,custom
+41.262935,15.911110,osm_centro_medico_riabilitazione_vita_41.2629_15.9111,Centro Medico Riabilitazione VITA,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerignola/pages/centro_medico_riabilitazione_vita_41.2629_15.9111.json,custom

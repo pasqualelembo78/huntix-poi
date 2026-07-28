@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # torre_santa_susanna -- restaurants
-40.463725,17.735574,ov_il_capriccio_autonegozio_fast_food_torre_40.4637_17.7356,Il Capriccio autonegozio fast food Torre Santa Susanna,RESTAURANT,ristorante
-40.465420,17.733420,ov_alla_sci__40.4654_17.7334,Alla Sciè,RESTAURANT,ristorante
-40.462439,17.736378,ov_b13_40.4624_17.7364,B13,RESTAURANT,ristorante
-40.462062,17.736217,ov_tutto_pronto_40.4621_17.7362,Tutto Pronto,RESTAURANT,ristorante
-40.461780,17.742652,ov_pizzeria_da_elio_40.4618_17.7427,Pizzeria da Elio,RESTAURANT,ristorante
-40.463525,17.746932,ov_bar_trattoria_pizzeria_havana_40.4635_17.7469,Bar trattoria Pizzeria Havana,RESTAURANT,ristorante
-40.464656,17.741315,ov_pizzeria_90_40.4647_17.7413,Pizzeria 90,RESTAURANT,ristorante
-40.465621,17.742254,ov_archi_salentini_40.4656_17.7423,Archi Salentini,RESTAURANT,ristorante
-40.465805,17.741820,ov_pizzeria_da_mimmo_40.4658_17.7418,Pizzeria da MIMMO,RESTAURANT,ristorante
-40.467068,17.740627,ov_due_grani_pizzeria_and_fingerfood_40.4671_17.7406,Due Grani Pizzeria and Fingerfood,RESTAURANT,ristorante
-40.471411,17.737404,ov_torre_santa_susanna_047_40.4714_17.7374,Torre santa Susanna 047,RESTAURANT,ristorante
-40.469425,17.735926,ov_the_grange_ristorante_pizzeria_40.4694_17.7359,The Grange Ristorante Pizzeria,RESTAURANT,ristorante
-40.466992,17.725891,ov_villa_pinciana_40.4670_17.7259,Villa Pinciana,RESTAURANT,ristorante
-40.474009,17.739331,ov_la_cueva_40.4740_17.7393,La Cueva,RESTAURANT,ristorante
-40.472045,17.738385,ov_la_nicchia_del_sapore_40.4720_17.7384,La nicchia del sapore,RESTAURANT,ristorante
+40.463725,17.735574,ov_il_capriccio_autonegozio_fast_food_torre_40.4637_17.7356,Il Capriccio autonegozio fast food Torre Santa Susanna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/il_capriccio_autonegozio_fast_food_torre_40.4637_17.7356.json,custom
+40.465420,17.733420,ov_alla_sci__40.4654_17.7334,Alla Sciè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/alla_sci_40.4654_17.7334.json,custom
+40.462439,17.736378,ov_b13_40.4624_17.7364,B13,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/b13_40.4624_17.7364.json,custom
+40.462062,17.736217,ov_tutto_pronto_40.4621_17.7362,Tutto Pronto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/tutto_pronto_40.4621_17.7362.json,custom
+40.461780,17.742652,ov_pizzeria_da_elio_40.4618_17.7427,Pizzeria da Elio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/pizzeria_da_elio_40.4618_17.7427.json,custom
+40.463525,17.746932,ov_bar_trattoria_pizzeria_havana_40.4635_17.7469,Bar trattoria Pizzeria Havana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/bar_trattoria_pizzeria_havana_40.4635_17.7469.json,custom
+40.464656,17.741315,ov_pizzeria_90_40.4647_17.7413,Pizzeria 90,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/pizzeria_90_40.4647_17.7413.json,custom
+40.465621,17.742254,ov_archi_salentini_40.4656_17.7423,Archi Salentini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/archi_salentini_40.4656_17.7423.json,custom
+40.465805,17.741820,ov_pizzeria_da_mimmo_40.4658_17.7418,Pizzeria da MIMMO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/pizzeria_da_mimmo_40.4658_17.7418.json,custom
+40.467068,17.740627,ov_due_grani_pizzeria_and_fingerfood_40.4671_17.7406,Due Grani Pizzeria and Fingerfood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/due_grani_pizzeria_and_fingerfood_40.4671_17.7406.json,custom
+40.471411,17.737404,ov_torre_santa_susanna_047_40.4714_17.7374,Torre santa Susanna 047,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/torre_santa_susanna_047_40.4714_17.7374.json,custom
+40.469425,17.735926,ov_the_grange_ristorante_pizzeria_40.4694_17.7359,The Grange Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/the_grange_ristorante_pizzeria_40.4694_17.7359.json,custom
+40.466992,17.725891,ov_villa_pinciana_40.4670_17.7259,Villa Pinciana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/villa_pinciana_40.4670_17.7259.json,custom
+40.474009,17.739331,ov_la_cueva_40.4740_17.7393,La Cueva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/la_cueva_40.4740_17.7393.json,custom
+40.472045,17.738385,ov_la_nicchia_del_sapore_40.4720_17.7384,La nicchia del sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_santa_susanna/pages/la_nicchia_del_sapore_40.4720_17.7384.json,custom

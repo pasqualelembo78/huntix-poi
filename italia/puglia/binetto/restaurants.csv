@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # binetto -- restaurants
-41.024031,16.710279,osm_le_vecchie_mura_41.0240_16.7103,Le Vecchie Mura,ristorante,ristorante
-41.023628,16.711153,ov_l_artigiano_della_pizza_41.0236_16.7112,L'artigiano della pizza,RESTAURANT,ristorante
+41.023628,16.711153,ov_l_artigiano_della_pizza_41.0236_16.7112,L'artigiano della pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/binetto/pages/lartigiano_della_pizza_41.0236_16.7112.json,custom
+41.024031,16.710279,osm_le_vecchie_mura_41.0240_16.7103,Le Vecchie Mura,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/binetto/pages/le_vecchie_mura_41.0240_16.7103.json,custom

@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # squinzano -- bars_cafes
-40.431591,18.050858,ov_bar_thepeople_40.4316_18.0509,Bar Thepeople,RESTAURANT,bar_cafe
-40.431940,18.039710,ov_il_club_dell_angolo_40.4319_18.0397,Il Club dell'Angolo,RESTAURANT,bar_cafe
-40.432573,18.036208,ov_alessandro_rizzato_pasticceria_40.4326_18.0362,Alessandro Rizzato Pasticceria,RESTAURANT,bar_cafe
-40.437378,18.032929,ov_caffe_raffaello_40.4374_18.0329,Caffe Raffaello,RESTAURANT,bar_cafe
-40.437387,18.034591,ov_caff__mir__40.4374_18.0346,CAFFÈ MIRÓ,RESTAURANT,bar_cafe
-40.436695,18.035067,ov_da_ray_40.4367_18.0351,Da Ray,RESTAURANT,bar_cafe
-40.435371,18.032498,ov_oveja_negra_40.4354_18.0325,Oveja Negra,RESTAURANT,bar_cafe
-40.435528,18.040238,ov_i_pausa_caff__40.4355_18.0402,I Pausa Caffè,RESTAURANT,bar_cafe
-40.436821,18.047128,ov_mare_40.4368_18.0471,Mare,RESTAURANT,bar_cafe
-40.433279,18.045502,ov_new_bar_stazione_40.4333_18.0455,New Bar Stazione,RESTAURANT,bar_cafe
-40.439370,18.053880,ov_stop_arlet_by_raffa_40.4394_18.0539,Stop Arlet by Raffa,RESTAURANT,bar_cafe
-40.439852,18.032892,ov_ver_si_pasticceria_gelateria_40.4399_18.0329,VER.SI Pasticceria-Gelateria,RESTAURANT,bar_cafe
-40.501019,18.118031,ov_vittoria_beach_casalabate_40.5010_18.1180,Vittoria Beach Casalabate,RESTAURANT,bar_cafe
-40.500498,18.118426,ov_marulli_40.5005_18.1184,Marulli,RESTAURANT,bar_cafe
-40.497721,18.122441,ov_bar_valentino_40.4977_18.1224,Bar Valentino,RESTAURANT,bar_cafe
-40.498821,18.120689,ov_mood_casalabate_40.4988_18.1207,Mood Casalabate,RESTAURANT,bar_cafe
-40.512737,18.100481,ov_mosquito_beach_bar_40.5127_18.1005,Mosquito Beach Bar,RESTAURANT,bar_cafe
+40.431591,18.050858,ov_bar_thepeople_40.4316_18.0509,Bar Thepeople,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/bar_thepeople_40.4316_18.0509.json,custom
+40.431940,18.039710,ov_il_club_dell_angolo_40.4319_18.0397,Il Club dell'Angolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/il_club_dellangolo_40.4319_18.0397.json,custom
+40.432573,18.036208,ov_alessandro_rizzato_pasticceria_40.4326_18.0362,Alessandro Rizzato Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/alessandro_rizzato_pasticceria_40.4326_18.0362.json,custom
+40.437378,18.032929,ov_caffe_raffaello_40.4374_18.0329,Caffe Raffaello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/caffe_raffaello_40.4374_18.0329.json,custom
+40.437387,18.034591,ov_caff__mir__40.4374_18.0346,CAFFÈ MIRÓ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/caff_mir_40.4374_18.0346.json,custom
+40.436695,18.035067,ov_da_ray_40.4367_18.0351,Da Ray,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/da_ray_40.4367_18.0351.json,custom
+40.435371,18.032498,ov_oveja_negra_40.4354_18.0325,Oveja Negra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/oveja_negra_40.4354_18.0325.json,custom
+40.435528,18.040238,ov_i_pausa_caff__40.4355_18.0402,I Pausa Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/i_pausa_caff_40.4355_18.0402.json,custom
+40.436821,18.047128,ov_mare_40.4368_18.0471,Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/mare_40.4368_18.0471.json,custom
+40.433279,18.045502,ov_new_bar_stazione_40.4333_18.0455,New Bar Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/new_bar_stazione_40.4333_18.0455.json,custom
+40.439370,18.053880,ov_stop_arlet_by_raffa_40.4394_18.0539,Stop Arlet by Raffa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/stop_arlet_by_raffa_40.4394_18.0539.json,custom
+40.439852,18.032892,ov_ver_si_pasticceria_gelateria_40.4399_18.0329,VER.SI Pasticceria-Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/versi_pasticceria-gelateria_40.4399_18.0329.json,custom
+40.501019,18.118031,ov_vittoria_beach_casalabate_40.5010_18.1180,Vittoria Beach Casalabate,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/vittoria_beach_casalabate_40.5010_18.1180.json,custom
+40.500498,18.118426,ov_marulli_40.5005_18.1184,Marulli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/marulli_40.5005_18.1184.json,custom
+40.497721,18.122441,ov_bar_valentino_40.4977_18.1224,Bar Valentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/bar_valentino_40.4977_18.1224.json,custom
+40.498821,18.120689,ov_mood_casalabate_40.4988_18.1207,Mood Casalabate,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/mood_casalabate_40.4988_18.1207.json,custom
+40.512737,18.100481,ov_mosquito_beach_bar_40.5127_18.1005,Mosquito Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/mosquito_beach_bar_40.5127_18.1005.json,custom

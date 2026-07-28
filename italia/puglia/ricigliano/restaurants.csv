@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ricigliano -- restaurants
-40.423363,15.334810,ov_agriturismo_villa_vea_40.4234_15.3348,Agriturismo Villa Vea,RESTAURANT,ristorante
-40.657463,15.443117,ov_agriturismo_calisto_40.6575_15.4431,Agriturismo Calisto,RESTAURANT,ristorante
-40.667100,15.477640,ov_il_cerro_40.6671_15.4776,IL CERRO,RESTAURANT,ristorante
-40.667875,15.478816,ov_pizzeria_radici_40.6679_15.4788,Pizzeria Radici,RESTAURANT,ristorante
-40.666536,15.480555,ov_agriturismo_l_antico_fienile_40.6665_15.4806,Agriturismo L'Antico Fienile,RESTAURANT,ristorante
+40.423363,15.334810,ov_agriturismo_villa_vea_40.4234_15.3348,Agriturismo Villa Vea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ricigliano/pages/agriturismo_villa_vea_40.4234_15.3348.json,custom
+40.657463,15.443117,ov_agriturismo_calisto_40.6575_15.4431,Agriturismo Calisto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ricigliano/pages/agriturismo_calisto_40.6575_15.4431.json,custom
+40.667100,15.477640,ov_il_cerro_40.6671_15.4776,IL CERRO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ricigliano/pages/il_cerro_40.6671_15.4776.json,custom
+40.667875,15.478816,ov_pizzeria_radici_40.6679_15.4788,Pizzeria Radici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ricigliano/pages/pizzeria_radici_40.6679_15.4788.json,custom
+40.666536,15.480555,ov_agriturismo_l_antico_fienile_40.6665_15.4806,Agriturismo L'Antico Fienile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ricigliano/pages/agriturismo_lantico_fienile_40.6665_15.4806.json,custom

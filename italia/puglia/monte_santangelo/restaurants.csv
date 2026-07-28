@@ -1,42 +1,42 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # monte_santangelo -- restaurants
-42.120997,15.504059,ov_da_enrichetta_42.1210_15.5041,Da Enrichetta,RESTAURANT,ristorante
-41.739760,15.818260,ov_da_sarni_a_macchia_41.7398_15.8183,Da Sarni a Macchia,RESTAURANT,ristorante
-41.644855,15.937753,ov_ristorante_bar_sarni_41.6449_15.9378,Ristorante/Bar Sarni,RESTAURANT,ristorante
-41.650816,15.936538,ov_villa_fazzino_amaranta_41.6508_15.9365,Villa Fazzino Amaranta,RESTAURANT,ristorante
-41.661222,15.948157,ov_tenuta_donna_isabella_41.6612_15.9482,Tenuta Donna Isabella,RESTAURANT,ristorante
-41.692720,15.909630,ov_relais_pulsano_41.6927_15.9096,Relais Pulsano,RESTAURANT,ristorante
-41.676840,15.907080,ov_santangelo___ristorante_41.6768_15.9071,Santangelo - Ristorante,RESTAURANT,ristorante
-41.706779,15.931370,ov_villa_regina_del_monte_41.7068_15.9314,Villa Regina del Monte,RESTAURANT,ristorante
-41.706365,15.937366,ov_ristorante_villa_regina_del_monte_41.7064_15.9374,Ristorante Villa Regina del Monte,RESTAURANT,ristorante
-41.706998,15.950553,ov_la_rocca_41.7070_15.9506,La Rocca,RESTAURANT,ristorante
-41.706849,15.950236,ov_ristorante___pizzeria_santangelo_41.7068_15.9502,Ristorante - Pizzeria Santangelo,RESTAURANT,ristorante
-41.706021,15.951972,ov_l_osteria_del_corso_41.7060_15.9520,L'Osteria del Corso,RESTAURANT,ristorante
-41.706491,15.956145,ov_borgo_antico_41.7065_15.9561,Borgo Antico,RESTAURANT,ristorante
-41.705895,15.956547,ov_templari_ristorante_pizzeria_41.7059_15.9565,Templari Ristorante Pizzeria,RESTAURANT,ristorante
-41.707101,15.955378,ov_bistro_71037_41.7071_15.9554,Bistro 71037,RESTAURANT,ristorante
-41.707159,15.955498,ov_li_jalantuumene_41.7072_15.9555,Li Jalantuumene,RESTAURANT,ristorante
-41.707390,15.955708,ov_al_barone_41.7074_15.9557,Al Barone,RESTAURANT,ristorante
-41.707491,15.955692,ov_ristorante_san_michele_41.7075_15.9557,Ristorante San Michele,RESTAURANT,ristorante
-41.706255,15.953405,ov_leko_gargano_craft_beer_41.7063_15.9534,LEKO Gargano craft beer,RESTAURANT,ristorante
-41.707691,15.953828,ov_il_boccone_41.7077_15.9538,Il Boccone,RESTAURANT,ristorante
-41.707596,15.954119,ov_medioevo_41.7076_15.9541,Medioevo,RESTAURANT,ristorante
-41.707723,15.954401,ov_cibus_41.7077_15.9544,Cibus,RESTAURANT,ristorante
-41.707523,15.954776,ov_al_campanile_41.7075_15.9548,Al Campanile,RESTAURANT,ristorante
-41.707581,15.954845,ov_al_battistero_41.7076_15.9548,Al Battistero,RESTAURANT,ristorante
-41.707681,15.954978,ov_ristorante_la_caravella_41.7077_15.9550,Ristorante La Caravella,RESTAURANT,ristorante
-41.707730,15.954902,ov_napul__street_food_41.7077_15.9549,Napulè Street Food,RESTAURANT,ristorante
-41.707675,15.955212,ov_gusto_41.7077_15.9552,Gusto,RESTAURANT,ristorante
-41.707612,15.955358,ov_sixtyseven_41.7076_15.9554,SixtySeven,RESTAURANT,ristorante
-41.707915,15.950837,ov_ristoro_degli_angeli_41.7079_15.9508,Ristoro degli Angeli,RESTAURANT,ristorante
-41.706533,15.960160,ov_giripizza_41.7065_15.9602,Giripizza,RESTAURANT,ristorante
-41.706920,15.958837,ov_de_roma_pizza___food___pinsa_e_burger_ar_41.7069_15.9588,De Roma Pizza & Food - Pinsa e Burger Artigianali,RESTAURANT,ristorante
-41.706026,15.957662,ov_profumo__osteria_del_gargano_41.7060_15.9577,"Profumo, Osteria del Gargano",RESTAURANT,ristorante
-41.704901,15.967722,ov_tenuta_tre_mariti_41.7049_15.9677,Tenuta TRE mariti,RESTAURANT,ristorante
-41.700000,15.950000,ov_ristorante_i_templari_monte_sant__sngelo_41.7000_15.9500,Ristorante i Templari monte sant' Sngelo,RESTAURANT,ristorante
-41.669247,15.954310,ov_grill_event_41.6692_15.9543,Grill Event,RESTAURANT,ristorante
-41.663674,15.950403,ov_tenuta_tre_mariti_41.6637_15.9504,Tenuta Tre Mariti,RESTAURANT,ristorante
-41.658874,15.982938,ov_lido_macchia_41.6589_15.9829,Lido Macchia,RESTAURANT,ristorante
-41.819653,15.999985,ov_trattoria_foresta_umbra_41.8197_16.0000,Trattoria Foresta Umbra,RESTAURANT,ristorante
-41.809903,15.982670,ov_agriturismo_cantoniera_d_umbra_41.8099_15.9827,Agriturismo Cantoniera d'Umbra,RESTAURANT,ristorante
-41.791160,16.006640,ov_agriturismo_nonno_peppe_41.7912_16.0066,Agriturismo Nonno Peppe,RESTAURANT,ristorante
+42.120997,15.504059,ov_da_enrichetta_42.1210_15.5041,Da Enrichetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/da_enrichetta_42.1210_15.5041.json,custom
+41.739760,15.818260,ov_da_sarni_a_macchia_41.7398_15.8183,Da Sarni a Macchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/da_sarni_a_macchia_41.7398_15.8183.json,custom
+41.644855,15.937753,ov_ristorante_bar_sarni_41.6449_15.9378,Ristorante/Bar Sarni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorantebar_sarni_41.6449_15.9378.json,custom
+41.650816,15.936538,ov_villa_fazzino_amaranta_41.6508_15.9365,Villa Fazzino Amaranta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/villa_fazzino_amaranta_41.6508_15.9365.json,custom
+41.661222,15.948157,ov_tenuta_donna_isabella_41.6612_15.9482,Tenuta Donna Isabella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/tenuta_donna_isabella_41.6612_15.9482.json,custom
+41.692720,15.909630,ov_relais_pulsano_41.6927_15.9096,Relais Pulsano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/relais_pulsano_41.6927_15.9096.json,custom
+41.676840,15.907080,ov_santangelo___ristorante_41.6768_15.9071,Santangelo - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/santangelo_-_ristorante_41.6768_15.9071.json,custom
+41.706779,15.931370,ov_villa_regina_del_monte_41.7068_15.9314,Villa Regina del Monte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/villa_regina_del_monte_41.7068_15.9314.json,custom
+41.706365,15.937366,ov_ristorante_villa_regina_del_monte_41.7064_15.9374,Ristorante Villa Regina del Monte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorante_villa_regina_del_monte_41.7064_15.9374.json,custom
+41.706998,15.950553,ov_la_rocca_41.7070_15.9506,La Rocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/la_rocca_41.7070_15.9506.json,custom
+41.706849,15.950236,ov_ristorante___pizzeria_santangelo_41.7068_15.9502,Ristorante - Pizzeria Santangelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorante_-_pizzeria_santangelo_41.7068_15.9502.json,custom
+41.706021,15.951972,ov_l_osteria_del_corso_41.7060_15.9520,L'Osteria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/losteria_del_corso_41.7060_15.9520.json,custom
+41.706491,15.956145,ov_borgo_antico_41.7065_15.9561,Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/borgo_antico_41.7065_15.9561.json,custom
+41.705895,15.956547,ov_templari_ristorante_pizzeria_41.7059_15.9565,Templari Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/templari_ristorante_pizzeria_41.7059_15.9565.json,custom
+41.707101,15.955378,ov_bistro_71037_41.7071_15.9554,Bistro 71037,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/bistro_71037_41.7071_15.9554.json,custom
+41.707159,15.955498,ov_li_jalantuumene_41.7072_15.9555,Li Jalantuumene,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/li_jalantuumene_41.7072_15.9555.json,custom
+41.707390,15.955708,ov_al_barone_41.7074_15.9557,Al Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/al_barone_41.7074_15.9557.json,custom
+41.707491,15.955692,ov_ristorante_san_michele_41.7075_15.9557,Ristorante San Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorante_san_michele_41.7075_15.9557.json,custom
+41.706255,15.953405,ov_leko_gargano_craft_beer_41.7063_15.9534,LEKO Gargano craft beer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/leko_gargano_craft_beer_41.7063_15.9534.json,custom
+41.707691,15.953828,ov_il_boccone_41.7077_15.9538,Il Boccone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/il_boccone_41.7077_15.9538.json,custom
+41.707596,15.954119,ov_medioevo_41.7076_15.9541,Medioevo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/medioevo_41.7076_15.9541.json,custom
+41.707723,15.954401,ov_cibus_41.7077_15.9544,Cibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/cibus_41.7077_15.9544.json,custom
+41.707523,15.954776,ov_al_campanile_41.7075_15.9548,Al Campanile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/al_campanile_41.7075_15.9548.json,custom
+41.707581,15.954845,ov_al_battistero_41.7076_15.9548,Al Battistero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/al_battistero_41.7076_15.9548.json,custom
+41.707681,15.954978,ov_ristorante_la_caravella_41.7077_15.9550,Ristorante La Caravella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorante_la_caravella_41.7077_15.9550.json,custom
+41.707730,15.954902,ov_napul__street_food_41.7077_15.9549,Napulè Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/napul_street_food_41.7077_15.9549.json,custom
+41.707675,15.955212,ov_gusto_41.7077_15.9552,Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/gusto_41.7077_15.9552.json,custom
+41.707612,15.955358,ov_sixtyseven_41.7076_15.9554,SixtySeven,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/sixtyseven_41.7076_15.9554.json,custom
+41.707915,15.950837,ov_ristoro_degli_angeli_41.7079_15.9508,Ristoro degli Angeli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristoro_degli_angeli_41.7079_15.9508.json,custom
+41.706533,15.960160,ov_giripizza_41.7065_15.9602,Giripizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/giripizza_41.7065_15.9602.json,custom
+41.706920,15.958837,ov_de_roma_pizza___food___pinsa_e_burger_ar_41.7069_15.9588,De Roma Pizza & Food - Pinsa e Burger Artigianali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/de_roma_pizza_food_-_pinsa_e_burger_arti_41.7069_15.9588.json,custom
+41.706026,15.957662,ov_profumo__osteria_del_gargano_41.7060_15.9577,"Profumo, Osteria del Gargano",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/profumo_osteria_del_gargano_41.7060_15.9577.json,custom
+41.704901,15.967722,ov_tenuta_tre_mariti_41.7049_15.9677,Tenuta TRE mariti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/tenuta_tre_mariti_41.7049_15.9677.json,custom
+41.700000,15.950000,ov_ristorante_i_templari_monte_sant__sngelo_41.7000_15.9500,Ristorante i Templari monte sant' Sngelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/ristorante_i_templari_monte_sant_sngelo_41.7000_15.9500.json,custom
+41.669247,15.954310,ov_grill_event_41.6692_15.9543,Grill Event,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/grill_event_41.6692_15.9543.json,custom
+41.663674,15.950403,ov_tenuta_tre_mariti_41.6637_15.9504,Tenuta Tre Mariti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/tenuta_tre_mariti_41.6637_15.9504.json,custom
+41.658874,15.982938,ov_lido_macchia_41.6589_15.9829,Lido Macchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/lido_macchia_41.6589_15.9829.json,custom
+41.819653,15.999985,ov_trattoria_foresta_umbra_41.8197_16.0000,Trattoria Foresta Umbra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/trattoria_foresta_umbra_41.8197_16.0000.json,custom
+41.809903,15.982670,ov_agriturismo_cantoniera_d_umbra_41.8099_15.9827,Agriturismo Cantoniera d'Umbra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/agriturismo_cantoniera_dumbra_41.8099_15.9827.json,custom
+41.791160,16.006640,ov_agriturismo_nonno_peppe_41.7912_16.0066,Agriturismo Nonno Peppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monte_santangelo/pages/agriturismo_nonno_peppe_41.7912_16.0066.json,custom

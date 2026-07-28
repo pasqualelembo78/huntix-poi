@@ -1,42 +1,42 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Bitetto -- Tutti
-41.013484,16.763431,ov_masseria_del_barone_41.0135_16.7634,Masseria Del Barone,RESTAURANT,ristorante
-41.032611,16.726169,ov_il_giardino_di_melody_41.0326_16.7262,Il Giardino di Melody,RESTAURANT,ristorante
-41.039296,16.739953,ov_la_cornice_perfetta_41.0393_16.7400,La Cornice Perfetta,RESTAURANT,ristorante
-41.044899,16.743321,ov_fantasy_ristorante_pizzeria_41.0449_16.7433,Fantasy Ristorante Pizzeria,RESTAURANT,ristorante
-41.044219,16.750825,ov_le_cinque_stagioni_41.0442_16.7508,Le Cinque Stagioni,RESTAURANT,ristorante
-41.042375,16.746308,ov_dorotea_la_spaghetteria_41.0424_16.7463,Dorotea La Spaghetteria,RESTAURANT,ristorante
-41.041197,16.748882,ov_civico_3_41.0412_16.7489,Civico 3,RESTAURANT,ristorante
-41.041745,16.747472,ov_beth_et___le_radici_della_terra_41.0417_16.7475,Beth Et - Le radici della terra,RESTAURANT,ristorante
-41.041323,16.745280,ov_rocco_trattoria_moderna_41.0413_16.7453,Rocco Trattoria Moderna,RESTAURANT,ristorante
-41.041320,16.746000,ov_madre_terra_41.0413_16.7460,Madre Terra,RESTAURANT,ristorante
-41.039600,16.745940,ov_sig__bean_legumeria_bitetto_41.0396_16.7459,Sig. bean legumeria Bitetto,RESTAURANT,ristorante
-41.039861,16.747338,ov_vizi_e_sfizi_41.0399_16.7473,Vizi e Sfizi,RESTAURANT,ristorante
-41.039528,16.746012,ov_bewith_41.0395_16.7460,Bewith,RESTAURANT,ristorante
-41.039511,16.747888,ov_lievita_41.0395_16.7479,Lievita,RESTAURANT,ristorante
-41.039557,16.748910,ov_arco_del_tempo_s_n_c__41.0396_16.7489,Arco Del Tempo S.n.c.,RESTAURANT,ristorante
-41.039898,16.748245,ov_movida_caff__41.0399_16.7482,Movida Caffè,RESTAURANT,ristorante
-41.038791,16.749816,ov_miky_fish_take_away_41.0388_16.7498,Miky Fish Take Away,RESTAURANT,ristorante
-41.038863,16.747568,ov_pizzeria_anima_e_pizza_41.0389_16.7476,Pizzeria Anima e Pizza,RESTAURANT,ristorante
-41.037306,16.752532,ov_tenuta_peuceta_41.0373_16.7525,Tenuta Peuceta,RESTAURANT,ristorante
-41.036653,16.750379,ov_pizzeria_holiday_di_valerio_sala_41.0367_16.7504,Pizzeria Holiday di Valerio Sala,RESTAURANT,ristorante
-41.031572,16.758559,ov_agriturismo_kedros_41.0316_16.7586,Agriturismo Kedros,RESTAURANT,ristorante
-41.050655,16.755977,ov_ferramenta_bistrot_41.0507_16.7560,Ferramenta Bistrot,RESTAURANT,bar_cafe
-41.045201,16.743910,ov_piro_cafe_41.0452_16.7439,Piro Cafe,RESTAURANT,bar_cafe
-41.044874,16.750372,ov_jackson_caffe_41.0449_16.7504,Jackson Caffe,RESTAURANT,bar_cafe
-41.043732,16.749244,ov_non_solo_caffe_41.0437_16.7492,Non Solo Caffe,RESTAURANT,bar_cafe
-41.042139,16.765163,ov_coffee_and_more_bitetto_41.0421_16.7652,Coffee and More Bitetto,RESTAURANT,bar_cafe
-41.041020,16.748390,ov_caff__sedile_41.0410_16.7484,Caffè Sedile,RESTAURANT,bar_cafe
-41.041399,16.747096,ov_vesp_cafe_41.0414_16.7471,Vesp'cafe,RESTAURANT,bar_cafe
-41.039804,16.746475,ov_vifer_bar_di_flora_luigi_41.0398_16.7465,Vifer Bar di Flora Luigi,RESTAURANT,bar_cafe
-41.039897,16.749060,ov_new_york_bar_41.0399_16.7491,New YORK BAR,RESTAURANT,bar_cafe
-41.040386,16.748092,ov_bar_roma_di_percoco_mario_41.0404_16.7481,Bar Roma di Percoco Mario,RESTAURANT,bar_cafe
-41.040654,16.748376,ov_bitetto_centro_storico_41.0407_16.7484,Bitetto Centro Storico,RESTAURANT,bar_cafe
-41.039018,16.749420,ov_pasticceriagrace_41.0390_16.7494,Pasticceriagrace,RESTAURANT,bar_cafe
-41.039250,16.744460,ov_al_monacello_events_41.0393_16.7445,Al Monacello Events,RESTAURANT,bar_cafe
-41.038567,16.741787,ov_lesamis_41.0386_16.7418,LesAmis,RESTAURANT,bar_cafe
-41.042949,16.744158,ov_nuova_danza_s__41.0429_16.7442,Nuova Danza Sì,GYM,palestra
-41.043276,16.750623,ov_asd_full_time_wellness_41.0433_16.7506,ASD Full Time Wellness,GYM,palestra
-41.043357,16.750635,ov_apulia_sport_fitness_41.0434_16.7506,Apulia Sport&Fitness,GYM,palestra
-41.037666,16.753387,ov_antonello_rossano_pt_41.0377_16.7534,Antonello Rossano PT,GYM,palestra
-41.039215,16.749233,ov_monumento_ai_caduti_della_guerra_41.0392_16.7492,Monumento ai Caduti della Guerra,MONUMENT,monumento
+41.013484,16.763431,ov_masseria_del_barone_41.0135_16.7634,Masseria Del Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/masseria_del_barone_41.0135_16.7634.json,custom
+41.032611,16.726169,ov_il_giardino_di_melody_41.0326_16.7262,Il Giardino di Melody,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/il_giardino_di_melody_41.0326_16.7262.json,custom
+41.039296,16.739953,ov_la_cornice_perfetta_41.0393_16.7400,La Cornice Perfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/la_cornice_perfetta_41.0393_16.7400.json,custom
+41.044899,16.743321,ov_fantasy_ristorante_pizzeria_41.0449_16.7433,Fantasy Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/fantasy_ristorante_pizzeria_41.0449_16.7433.json,custom
+41.044219,16.750825,ov_le_cinque_stagioni_41.0442_16.7508,Le Cinque Stagioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/le_cinque_stagioni_41.0442_16.7508.json,custom
+41.042375,16.746308,ov_dorotea_la_spaghetteria_41.0424_16.7463,Dorotea La Spaghetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/dorotea_la_spaghetteria_41.0424_16.7463.json,custom
+41.041197,16.748882,ov_civico_3_41.0412_16.7489,Civico 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/civico_3_41.0412_16.7489.json,custom
+41.041745,16.747472,ov_beth_et___le_radici_della_terra_41.0417_16.7475,Beth Et - Le radici della terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/beth_et_-_le_radici_della_terra_41.0417_16.7475.json,custom
+41.041323,16.745280,ov_rocco_trattoria_moderna_41.0413_16.7453,Rocco Trattoria Moderna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/rocco_trattoria_moderna_41.0413_16.7453.json,custom
+41.041320,16.746000,ov_madre_terra_41.0413_16.7460,Madre Terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/madre_terra_41.0413_16.7460.json,custom
+41.039600,16.745940,ov_sig__bean_legumeria_bitetto_41.0396_16.7459,Sig. bean legumeria Bitetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/sig_bean_legumeria_bitetto_41.0396_16.7459.json,custom
+41.039861,16.747338,ov_vizi_e_sfizi_41.0399_16.7473,Vizi e Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/vizi_e_sfizi_41.0399_16.7473.json,custom
+41.039528,16.746012,ov_bewith_41.0395_16.7460,Bewith,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/bewith_41.0395_16.7460.json,custom
+41.039511,16.747888,ov_lievita_41.0395_16.7479,Lievita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/lievita_41.0395_16.7479.json,custom
+41.039557,16.748910,ov_arco_del_tempo_s_n_c__41.0396_16.7489,Arco Del Tempo S.n.c.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/arco_del_tempo_snc_41.0396_16.7489.json,custom
+41.039898,16.748245,ov_movida_caff__41.0399_16.7482,Movida Caffè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/movida_caff_41.0399_16.7482.json,custom
+41.038791,16.749816,ov_miky_fish_take_away_41.0388_16.7498,Miky Fish Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/miky_fish_take_away_41.0388_16.7498.json,custom
+41.038863,16.747568,ov_pizzeria_anima_e_pizza_41.0389_16.7476,Pizzeria Anima e Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/pizzeria_anima_e_pizza_41.0389_16.7476.json,custom
+41.037306,16.752532,ov_tenuta_peuceta_41.0373_16.7525,Tenuta Peuceta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/tenuta_peuceta_41.0373_16.7525.json,custom
+41.036653,16.750379,ov_pizzeria_holiday_di_valerio_sala_41.0367_16.7504,Pizzeria Holiday di Valerio Sala,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/pizzeria_holiday_di_valerio_sala_41.0367_16.7504.json,custom
+41.031572,16.758559,ov_agriturismo_kedros_41.0316_16.7586,Agriturismo Kedros,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/agriturismo_kedros_41.0316_16.7586.json,custom
+41.050655,16.755977,ov_ferramenta_bistrot_41.0507_16.7560,Ferramenta Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/ferramenta_bistrot_41.0507_16.7560.json,custom
+41.045201,16.743910,ov_piro_cafe_41.0452_16.7439,Piro Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/piro_cafe_41.0452_16.7439.json,custom
+41.044874,16.750372,ov_jackson_caffe_41.0449_16.7504,Jackson Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/jackson_caffe_41.0449_16.7504.json,custom
+41.043732,16.749244,ov_non_solo_caffe_41.0437_16.7492,Non Solo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/non_solo_caffe_41.0437_16.7492.json,custom
+41.042139,16.765163,ov_coffee_and_more_bitetto_41.0421_16.7652,Coffee and More Bitetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/coffee_and_more_bitetto_41.0421_16.7652.json,custom
+41.041020,16.748390,ov_caff__sedile_41.0410_16.7484,Caffè Sedile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/caff_sedile_41.0410_16.7484.json,custom
+41.041399,16.747096,ov_vesp_cafe_41.0414_16.7471,Vesp'cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/vespcafe_41.0414_16.7471.json,custom
+41.039804,16.746475,ov_vifer_bar_di_flora_luigi_41.0398_16.7465,Vifer Bar di Flora Luigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/vifer_bar_di_flora_luigi_41.0398_16.7465.json,custom
+41.039897,16.749060,ov_new_york_bar_41.0399_16.7491,New YORK BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/new_york_bar_41.0399_16.7491.json,custom
+41.040386,16.748092,ov_bar_roma_di_percoco_mario_41.0404_16.7481,Bar Roma di Percoco Mario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/bar_roma_di_percoco_mario_41.0404_16.7481.json,custom
+41.040654,16.748376,ov_bitetto_centro_storico_41.0407_16.7484,Bitetto Centro Storico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/bitetto_centro_storico_41.0407_16.7484.json,custom
+41.039018,16.749420,ov_pasticceriagrace_41.0390_16.7494,Pasticceriagrace,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/pasticceriagrace_41.0390_16.7494.json,custom
+41.039250,16.744460,ov_al_monacello_events_41.0393_16.7445,Al Monacello Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/al_monacello_events_41.0393_16.7445.json,custom
+41.038567,16.741787,ov_lesamis_41.0386_16.7418,LesAmis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/lesamis_41.0386_16.7418.json,custom
+41.042949,16.744158,ov_nuova_danza_s__41.0429_16.7442,Nuova Danza Sì,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/nuova_danza_s_41.0429_16.7442.json,custom
+41.043276,16.750623,ov_asd_full_time_wellness_41.0433_16.7506,ASD Full Time Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/asd_full_time_wellness_41.0433_16.7506.json,custom
+41.043357,16.750635,ov_apulia_sport_fitness_41.0434_16.7506,Apulia Sport&Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/apulia_sportfitness_41.0434_16.7506.json,custom
+41.037666,16.753387,ov_antonello_rossano_pt_41.0377_16.7534,Antonello Rossano PT,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/antonello_rossano_pt_41.0377_16.7534.json,custom
+41.039215,16.749233,ov_monumento_ai_caduti_della_guerra_41.0392_16.7492,Monumento ai Caduti della Guerra,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/monumento_ai_caduti_della_guerra_41.0392_16.7492.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # mesagne -- landmarks
-40.560327,17.807976,ov_museo_del_territorio_ugo_granafei_40.5603_17.8080,Museo del Territorio Ugo Granafei,MUSEUM,monumento
-40.560035,17.809266,ov_il_borgo_dei_presepi_40.5600_17.8093,Il Borgo dei presepi,MUSEUM,monumento
+40.560327,17.807976,ov_museo_del_territorio_ugo_granafei_40.5603_17.8080,Museo del Territorio Ugo Granafei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/museo_del_territorio_ugo_granafei_40.5603_17.8080.json,custom
+40.560035,17.809266,ov_il_borgo_dei_presepi_40.5600_17.8093,Il Borgo dei presepi,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mesagne/pages/il_borgo_dei_presepi_40.5600_17.8093.json,custom

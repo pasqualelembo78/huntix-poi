@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cellino_san_marco -- bars_cafes
-40.473911,17.969968,ov_madeleine_cafe_40.4739_17.9700,Madeleine Cafe,RESTAURANT,bar_cafe
-40.474305,17.971666,ov_bar_lorysan_di_sandro_rollo_40.4743_17.9717,Bar Lorysan Di Sandro Rollo,RESTAURANT,bar_cafe
-40.474341,17.971722,ov_club_pub_music_restaurant_40.4743_17.9717,CLUB Pub-Music-Restaurant,RESTAURANT,bar_cafe
-40.475230,17.969141,ov_do_cafe_40.4752_17.9691,Do Cafe,RESTAURANT,bar_cafe
-40.473042,17.968020,ov_pink_bar_40.4730_17.9680,Pink bar,RESTAURANT,bar_cafe
-40.471630,17.965940,ov_ideal_bar_40.4716_17.9659,Ideal Bar,RESTAURANT,bar_cafe
-40.472088,17.964340,ov_cin_cin_bar_40.4721_17.9643,Cin Cin Bar,RESTAURANT,bar_cafe
-40.456180,17.967030,ov_3_emme_carburanti_40.4562_17.9670,3 EMME Carburanti,RESTAURANT,bar_cafe
-40.470366,17.962716,ov_luxury_lounge_bar_40.4704_17.9627,Luxury lounge bar,RESTAURANT,bar_cafe
-40.471480,17.965980,ov_bar_lux_40.4715_17.9660,Bar Lux,RESTAURANT,bar_cafe
-40.469040,17.968480,ov_bar_kiga_40.4690_17.9685,Bar Kiga,RESTAURANT,bar_cafe
-40.471515,17.966277,osm_bar_ideal_di_zullo_carla_40.4715_17.9663,Bar Ideal di Zullo Carla,bar_cafe,bar_cafe
-40.471586,17.965948,osm_bar_lux_di_pezzuto_marco_40.4716_17.9659,Bar Lux di Pezzuto Marco,bar_cafe,bar_cafe
+40.473911,17.969968,ov_madeleine_cafe_40.4739_17.9700,Madeleine Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/madeleine_cafe_40.4739_17.9700.json,custom
+40.474305,17.971666,ov_bar_lorysan_di_sandro_rollo_40.4743_17.9717,Bar Lorysan Di Sandro Rollo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/bar_lorysan_di_sandro_rollo_40.4743_17.9717.json,custom
+40.474341,17.971722,ov_club_pub_music_restaurant_40.4743_17.9717,CLUB Pub-Music-Restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/club_pub-music-restaurant_40.4743_17.9717.json,custom
+40.475230,17.969141,ov_do_cafe_40.4752_17.9691,Do Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/do_cafe_40.4752_17.9691.json,custom
+40.473042,17.968020,ov_pink_bar_40.4730_17.9680,Pink bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/pink_bar_40.4730_17.9680.json,custom
+40.471630,17.965940,ov_ideal_bar_40.4716_17.9659,Ideal Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/ideal_bar_40.4716_17.9659.json,custom
+40.472088,17.964340,ov_cin_cin_bar_40.4721_17.9643,Cin Cin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/cin_cin_bar_40.4721_17.9643.json,custom
+40.456180,17.967030,ov_3_emme_carburanti_40.4562_17.9670,3 EMME Carburanti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/3_emme_carburanti_40.4562_17.9670.json,custom
+40.470366,17.962716,ov_luxury_lounge_bar_40.4704_17.9627,Luxury lounge bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/luxury_lounge_bar_40.4704_17.9627.json,custom
+40.471480,17.965980,ov_bar_lux_40.4715_17.9660,Bar Lux,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/bar_lux_40.4715_17.9660.json,custom
+40.469040,17.968480,ov_bar_kiga_40.4690_17.9685,Bar Kiga,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/bar_kiga_40.4690_17.9685.json,custom
+40.471515,17.966277,osm_bar_ideal_di_zullo_carla_40.4715_17.9663,Bar Ideal di Zullo Carla,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/bar_ideal_di_zullo_carla_40.4715_17.9663.json,custom
+40.471586,17.965948,osm_bar_lux_di_pezzuto_marco_40.4716_17.9659,Bar Lux di Pezzuto Marco,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/bar_lux_di_pezzuto_marco_40.4716_17.9659.json,custom

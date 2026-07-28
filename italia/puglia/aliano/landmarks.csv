@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # aliano -- landmarks
-40.311796,16.232220,ov_pinacoteca_carlo_levi_40.3118_16.2322,Pinacoteca Carlo Levi,MUSEUM,monumento
-40.310499,16.231952,ov_museo_della_civilt__contadina_40.3105_16.2320,Museo della Civiltà Contadina,MUSEUM,monumento
+40.311796,16.232220,ov_pinacoteca_carlo_levi_40.3118_16.2322,Pinacoteca Carlo Levi,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aliano/pages/pinacoteca_carlo_levi_40.3118_16.2322.json,custom
+40.310499,16.231952,ov_museo_della_civilt__contadina_40.3105_16.2320,Museo della Civiltà Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aliano/pages/museo_della_civilt_contadina_40.3105_16.2320.json,custom

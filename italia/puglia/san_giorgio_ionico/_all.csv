@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Giorgio Ionico -- Tutti
-40.460670,17.387873,osm_kebabberia_sabri_40.4607_17.3879,Kebabberia Sabri,ristorante,ristorante
-40.464021,17.363846,ov_code_bar_40.4640_17.3638,Code Bar,RESTAURANT,bar_cafe
-40.464292,17.363431,ov_the_shed_pub_40.4643_17.3634,The Shed Pub,RESTAURANT,bar_cafe
-40.460399,17.386668,osm_kalua_risto___lounge_bar_40.4604_17.3867,Kalua Risto & Lounge Bar,bar_cafe,bar_cafe
-40.471166,17.359288,ov_poligono_tombstone_40.4712_17.3593,Poligono Tombstone,GYM,palestra
-40.469984,17.364063,ov_bowling_san_giorgio_ionico_40.4700_17.3641,Bowling San Giorgio Ionico,GYM,palestra
-40.464050,17.363866,ov_funny_dreams_bowling_and_games_40.4641_17.3639,Funny Dreams Bowling and Games,GYM,palestra
+40.460670,17.387873,osm_kebabberia_sabri_40.4607_17.3879,Kebabberia Sabri,ristorante,ristorante,
+40.464021,17.363846,ov_code_bar_40.4640_17.3638,Code Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/code_bar_40.4640_17.3638.json,custom
+40.464292,17.363431,ov_the_shed_pub_40.4643_17.3634,The Shed Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/the_shed_pub_40.4643_17.3634.json,custom
+40.460399,17.386668,osm_kalua_risto___lounge_bar_40.4604_17.3867,Kalua Risto & Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/kalua_risto_lounge_bar_40.4604_17.3867.json,custom
+40.471166,17.359288,ov_poligono_tombstone_40.4712_17.3593,Poligono Tombstone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/poligono_tombstone_40.4712_17.3593.json,custom
+40.469984,17.364063,ov_bowling_san_giorgio_ionico_40.4700_17.3641,Bowling San Giorgio Ionico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/bowling_san_giorgio_ionico_40.4700_17.3641.json,custom
+40.464050,17.363866,ov_funny_dreams_bowling_and_games_40.4641_17.3639,Funny Dreams Bowling and Games,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/funny_dreams_bowling_and_games_40.4641_17.3639.json,custom

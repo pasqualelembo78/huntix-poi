@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # oppido_lucano -- restaurants
-40.760430,15.977349,ov_agriturismo_la_cascina_40.7604_15.9773,Agriturismo La Cascina,RESTAURANT,ristorante
-40.765605,15.989832,ov_mir__bistrot_braceria_40.7656_15.9898,MiRò Bistrot Braceria,RESTAURANT,ristorante
-40.765855,15.993069,ov_la_cascina_bistrot_40.7659_15.9931,La Cascina Bistrot,RESTAURANT,ristorante
-40.764973,15.990853,ov_fantini_store_oppido_lucano_40.7650_15.9909,Fantini Store Oppido Lucano,RESTAURANT,ristorante
-40.763198,15.990711,ov_roma67_40.7632_15.9907,Roma67,RESTAURANT,ristorante
-40.774970,15.986390,ov_agriturismo_l_oasi_40.7750_15.9864,Agriturismo L'Oasi,RESTAURANT,ristorante
+40.760430,15.977349,ov_agriturismo_la_cascina_40.7604_15.9773,Agriturismo La Cascina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/agriturismo_la_cascina_40.7604_15.9773.json,custom
+40.765605,15.989832,ov_mir__bistrot_braceria_40.7656_15.9898,MiRò Bistrot Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/mir_bistrot_braceria_40.7656_15.9898.json,custom
+40.765855,15.993069,ov_la_cascina_bistrot_40.7659_15.9931,La Cascina Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/la_cascina_bistrot_40.7659_15.9931.json,custom
+40.764973,15.990853,ov_fantini_store_oppido_lucano_40.7650_15.9909,Fantini Store Oppido Lucano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/fantini_store_oppido_lucano_40.7650_15.9909.json,custom
+40.763198,15.990711,ov_roma67_40.7632_15.9907,Roma67,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/roma67_40.7632_15.9907.json,custom
+40.774970,15.986390,ov_agriturismo_l_oasi_40.7750_15.9864,Agriturismo L'Oasi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/agriturismo_loasi_40.7750_15.9864.json,custom

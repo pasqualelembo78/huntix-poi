@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # latronico -- gyms
-40.086861,16.010590,ov_kalidariumasdreal_40.0869_16.0106,Kalidariumasdreal,GYM,palestra
-40.089662,16.002990,ov_gold_gym_latronico_40.0897_16.0030,Gold Gym Latronico,GYM,palestra
-40.056219,16.056851,ov_maestro_di_sci_pasquale_larocca_40.0562_16.0569,Maestro di Sci Pasquale Larocca,GYM,palestra
-40.067950,16.060650,ov_oasi_del_fitness_e_del_benessere_40.0680_16.0606,Oasi Del Fitness E Del Benessere,GYM,palestra
+40.086861,16.010590,ov_kalidariumasdreal_40.0869_16.0106,Kalidariumasdreal,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/latronico/pages/kalidariumasdreal_40.0869_16.0106.json,custom
+40.089662,16.002990,ov_gold_gym_latronico_40.0897_16.0030,Gold Gym Latronico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/latronico/pages/gold_gym_latronico_40.0897_16.0030.json,custom
+40.056219,16.056851,ov_maestro_di_sci_pasquale_larocca_40.0562_16.0569,Maestro di Sci Pasquale Larocca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/latronico/pages/maestro_di_sci_pasquale_larocca_40.0562_16.0569.json,custom
+40.067950,16.060650,ov_oasi_del_fitness_e_del_benessere_40.0680_16.0606,Oasi Del Fitness E Del Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/latronico/pages/oasi_del_fitness_e_del_benessere_40.0680_16.0606.json,custom

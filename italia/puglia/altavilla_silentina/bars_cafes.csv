@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # altavilla_silentina -- bars_cafes
-40.530013,15.131824,ov_antica_caffetteria_40.5300_15.1318,Antica Caffetteria,RESTAURANT,bar_cafe
-40.529750,15.131251,ov_a_casa_di_carlo_40.5297_15.1313,A Casa Di Carlo,RESTAURANT,bar_cafe
-40.527594,15.107382,ov_cerrelli_cafe_40.5276_15.1074,Cerrelli Cafe,RESTAURANT,bar_cafe
-40.526381,15.105795,ov_bar_belvedere_40.5264_15.1058,Bar Belvedere,RESTAURANT,bar_cafe
-40.526763,15.105727,ov_bar_laura_40.5268_15.1057,Bar Laura,RESTAURANT,bar_cafe
-40.522557,15.074438,ov_hera_hora_bar_40.5226_15.0744,Hera Hora Bar,RESTAURANT,bar_cafe
-40.526010,15.067130,ov_ohana___lounge_bar_40.5260_15.0671,OHANA - Lounge BAR,RESTAURANT,bar_cafe
-40.527200,15.067040,ov_caf__la_quercia_40.5272_15.0670,Cafè La Quercia,RESTAURANT,bar_cafe
-40.531417,15.057809,ov_bar_franco_sas_40.5314_15.0578,Bar Franco Sas,RESTAURANT,bar_cafe
-40.531721,15.057685,ov_golden_bar_40.5317_15.0577,Golden Bar,RESTAURANT,bar_cafe
-40.531917,15.063973,ov_bar_nettunia_40.5319_15.0640,Bar nettunia,RESTAURANT,bar_cafe
-40.533138,15.058891,ov_bar_sara_40.5331_15.0589,Bar Sara,RESTAURANT,bar_cafe
-40.521554,15.069048,osm_caf__la_quercia_40.5216_15.0690,Cafè La Quercia,bar_cafe,bar_cafe
+40.530013,15.131824,ov_antica_caffetteria_40.5300_15.1318,Antica Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/antica_caffetteria_40.5300_15.1318.json,custom
+40.529750,15.131251,ov_a_casa_di_carlo_40.5297_15.1313,A Casa Di Carlo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/a_casa_di_carlo_40.5297_15.1313.json,custom
+40.527594,15.107382,ov_cerrelli_cafe_40.5276_15.1074,Cerrelli Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/cerrelli_cafe_40.5276_15.1074.json,custom
+40.526381,15.105795,ov_bar_belvedere_40.5264_15.1058,Bar Belvedere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/bar_belvedere_40.5264_15.1058.json,custom
+40.526763,15.105727,ov_bar_laura_40.5268_15.1057,Bar Laura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/bar_laura_40.5268_15.1057.json,custom
+40.522557,15.074438,ov_hera_hora_bar_40.5226_15.0744,Hera Hora Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/hera_hora_bar_40.5226_15.0744.json,custom
+40.526010,15.067130,ov_ohana___lounge_bar_40.5260_15.0671,OHANA - Lounge BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/ohana_-_lounge_bar_40.5260_15.0671.json,custom
+40.527200,15.067040,ov_caf__la_quercia_40.5272_15.0670,Cafè La Quercia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/caf_la_quercia_40.5272_15.0670.json,custom
+40.531417,15.057809,ov_bar_franco_sas_40.5314_15.0578,Bar Franco Sas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/bar_franco_sas_40.5314_15.0578.json,custom
+40.531721,15.057685,ov_golden_bar_40.5317_15.0577,Golden Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/golden_bar_40.5317_15.0577.json,custom
+40.531917,15.063973,ov_bar_nettunia_40.5319_15.0640,Bar nettunia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/bar_nettunia_40.5319_15.0640.json,custom
+40.533138,15.058891,ov_bar_sara_40.5331_15.0589,Bar Sara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/bar_sara_40.5331_15.0589.json,custom
+40.521554,15.069048,osm_caf__la_quercia_40.5216_15.0690,Cafè La Quercia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/altavilla_silentina/pages/caf_la_quercia_40.5216_15.0690.json,custom

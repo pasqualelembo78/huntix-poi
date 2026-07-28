@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # massafra -- hospitals
-40.592120,17.111100,ov_studio_dentistico_imperatrice_40.5921_17.1111,Studio Dentistico Imperatrice,HOSPITAL,hospital
-40.589902,17.119037,ov_ospedale_villa_bianca_40.5899_17.1190,Ospedale Villa Bianca,HOSPITAL,hospital
-40.582865,17.123576,ov_centro_polifunzionale_territoriale_proge_40.5829_17.1236,Centro Polifunzionale Territoriale Progetto Massafra,HOSPITAL,hospital
-40.583374,17.123017,ov_ospedale_pagliari_40.5834_17.1230,Ospedale pagliari,HOSPITAL,hospital
+40.592120,17.111100,ov_studio_dentistico_imperatrice_40.5921_17.1111,Studio Dentistico Imperatrice,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/studio_dentistico_imperatrice_40.5921_17.1111.json,custom
+40.589902,17.119037,ov_ospedale_villa_bianca_40.5899_17.1190,Ospedale Villa Bianca,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/ospedale_villa_bianca_40.5899_17.1190.json,custom
+40.582865,17.123576,ov_centro_polifunzionale_territoriale_proge_40.5829_17.1236,Centro Polifunzionale Territoriale Progetto Massafra,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/centro_polifunzionale_territoriale_proge_40.5829_17.1236.json,custom
+40.583374,17.123017,ov_ospedale_pagliari_40.5834_17.1230,Ospedale pagliari,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/ospedale_pagliari_40.5834_17.1230.json,custom

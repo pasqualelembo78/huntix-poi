@@ -1,36 +1,35 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alliste -- restaurants
-39.905269,18.082643,osm_la_cisternella_39.9053_18.0826,La Cisternella,ristorante,ristorante
-39.905268,18.082641,ov_la_cisternella_39.9053_18.0826,La Cisternella,RESTAURANT,ristorante
-39.915011,18.071002,ov_nonna_ntina_home_restaurant_39.9150_18.0710,Nonna Ntina Home Restaurant,RESTAURANT,ristorante
-39.921104,18.065066,ov_chiosco_allu_baffone__39.9211_18.0651,Chiosco ALLU Baffone.,RESTAURANT,ristorante
-39.921288,18.064601,ov_artisti_macellai_39.9213_18.0646,Artisti Macellai,RESTAURANT,ristorante
-39.921895,18.064285,ov_i_vigliacchi_39.9219_18.0643,I Vigliacchi,RESTAURANT,ristorante
-39.932524,18.046823,ov_marina_di_alliste_ristorante_ripademare_39.9325_18.0468,Marina Di Alliste Ristorante Ripademare,RESTAURANT,ristorante
-39.930015,18.048882,ov_a_casa_noscia_39.9300_18.0489,A Casa Noscia,RESTAURANT,ristorante
-39.928802,18.051811,ov_trattoria_octopus_____dal_2003__il_sapor_39.9288_18.0518,"Trattoria OCTOPUS ....dal 2003, il sapore del mare!!!",RESTAURANT,ristorante
-39.926995,18.098576,ov_erminia_cucina_agricola_39.9270_18.0986,Erminia Cucina Agricola,RESTAURANT,ristorante
-39.944282,18.094832,ov_pizzeria_lupetto_39.9443_18.0948,Pizzeria Lupetto,RESTAURANT,ristorante
-39.944250,18.092241,ov_trattoria_pizzeria_kaja_39.9443_18.0922,Trattoria Pizzeria Kaja,RESTAURANT,ristorante
-39.939236,18.113963,ov_pizzeria_da_gigi_39.9392_18.1140,Pizzeria da Gigi,RESTAURANT,ristorante
-39.936473,18.116741,ov_la_frazione___felline_39.9365_18.1167,La Frazione - Felline,RESTAURANT,ristorante
-39.936470,18.116211,ov_il_mulino_di_alcantara_39.9365_18.1162,Il Mulino di Alcantara,RESTAURANT,ristorante
-39.936041,18.116797,ov_antico_monastero_39.9360_18.1168,Antico Monastero,RESTAURANT,ristorante
-39.936018,18.117433,ov_il_muraglione_39.9360_18.1174,Il Muraglione,RESTAURANT,ristorante
-39.936306,18.116810,ov_zenotimer_39.9363_18.1168,Zenotimer,RESTAURANT,ristorante
-39.936208,18.116934,ov_vite_colta_39.9362_18.1169,Vite Colta,RESTAURANT,ristorante
-39.934746,18.046702,ov_le_carite_39.9347_18.0467,Le Carite,RESTAURANT,ristorante
-39.948047,18.090314,ov_1711_cio_cio_39.9480_18.0903,1711 Cio Cio,RESTAURANT,ristorante
-39.947946,18.090320,ov_trattoria_pizzeria_agrodolce_39.9479_18.0903,Trattoria Pizzeria Agrodolce,RESTAURANT,ristorante
-39.947693,18.090577,ov_antica_pucceria_39.9477_18.0906,Antica Pucceria,RESTAURANT,ristorante
-39.947622,18.089572,ov_entroterra_39.9476_18.0896,Entroterra,RESTAURANT,ristorante
-39.946754,18.089316,ov_trattoria_pizzeria_nonno_gigi_ex_paradis_39.9468_18.0893,Trattoria pizzeria nonno gigi(ex paradise),RESTAURANT,ristorante
-39.949924,18.094188,ov_il_mattero_39.9499_18.0942,Il Mattero,RESTAURANT,ristorante
-39.950440,18.089436,ov_pizzeria_la_stella_39.9504_18.0894,Pizzeria La Stella,RESTAURANT,ristorante
-39.949883,18.090128,ov_l_alternativa_pizzeria_39.9499_18.0901,L'Alternativa Pizzeria,RESTAURANT,ristorante
-39.949566,18.087791,ov_la_puteca_39.9496_18.0878,La Puteca,RESTAURANT,ristorante
-39.952577,18.089522,ov_mari_gio_39.9526_18.0895,Mari Gio,RESTAURANT,ristorante
-39.952087,18.087324,ov_ipizza_39.9521_18.0873,Ipizza,RESTAURANT,ristorante
-39.951976,18.088501,ov_venti_food_and_passion_39.9520_18.0885,VENTI Food and Passion,RESTAURANT,ristorante
-39.951960,18.090090,ov_clant__alla_cisternella_39.9520_18.0901,Clantò alla Cisternella,RESTAURANT,ristorante
-39.970151,18.121429,ov_delizie_di_pasta_da_antonella_39.9702_18.1214,Delizie Di Pasta da ANTONELLA,RESTAURANT,ristorante
+39.905268,18.082641,ov_la_cisternella_39.9053_18.0826,La Cisternella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/la_cisternella_39.9053_18.0826.json,custom
+39.915011,18.071002,ov_nonna_ntina_home_restaurant_39.9150_18.0710,Nonna Ntina Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/nonna_ntina_home_restaurant_39.9150_18.0710.json,custom
+39.921104,18.065066,ov_chiosco_allu_baffone__39.9211_18.0651,Chiosco ALLU Baffone.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/chiosco_allu_baffone_39.9211_18.0651.json,custom
+39.921288,18.064601,ov_artisti_macellai_39.9213_18.0646,Artisti Macellai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/artisti_macellai_39.9213_18.0646.json,custom
+39.921895,18.064285,ov_i_vigliacchi_39.9219_18.0643,I Vigliacchi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/i_vigliacchi_39.9219_18.0643.json,custom
+39.932524,18.046823,ov_marina_di_alliste_ristorante_ripademare_39.9325_18.0468,Marina Di Alliste Ristorante Ripademare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/marina_di_alliste_ristorante_ripademare_39.9325_18.0468.json,custom
+39.930015,18.048882,ov_a_casa_noscia_39.9300_18.0489,A Casa Noscia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/a_casa_noscia_39.9300_18.0489.json,custom
+39.928802,18.051811,ov_trattoria_octopus_____dal_2003__il_sapor_39.9288_18.0518,"Trattoria OCTOPUS ....dal 2003, il sapore del mare!!!",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/trattoria_octopus_dal_2003_il_sapore_del_39.9288_18.0518.json,custom
+39.926995,18.098576,ov_erminia_cucina_agricola_39.9270_18.0986,Erminia Cucina Agricola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/erminia_cucina_agricola_39.9270_18.0986.json,custom
+39.944282,18.094832,ov_pizzeria_lupetto_39.9443_18.0948,Pizzeria Lupetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/pizzeria_lupetto_39.9443_18.0948.json,custom
+39.944250,18.092241,ov_trattoria_pizzeria_kaja_39.9443_18.0922,Trattoria Pizzeria Kaja,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/trattoria_pizzeria_kaja_39.9443_18.0922.json,custom
+39.939236,18.113963,ov_pizzeria_da_gigi_39.9392_18.1140,Pizzeria da Gigi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/pizzeria_da_gigi_39.9392_18.1140.json,custom
+39.936473,18.116741,ov_la_frazione___felline_39.9365_18.1167,La Frazione - Felline,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/la_frazione_-_felline_39.9365_18.1167.json,custom
+39.936470,18.116211,ov_il_mulino_di_alcantara_39.9365_18.1162,Il Mulino di Alcantara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/il_mulino_di_alcantara_39.9365_18.1162.json,custom
+39.936041,18.116797,ov_antico_monastero_39.9360_18.1168,Antico Monastero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/antico_monastero_39.9360_18.1168.json,custom
+39.936018,18.117433,ov_il_muraglione_39.9360_18.1174,Il Muraglione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/il_muraglione_39.9360_18.1174.json,custom
+39.936306,18.116810,ov_zenotimer_39.9363_18.1168,Zenotimer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/zenotimer_39.9363_18.1168.json,custom
+39.936208,18.116934,ov_vite_colta_39.9362_18.1169,Vite Colta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/vite_colta_39.9362_18.1169.json,custom
+39.934746,18.046702,ov_le_carite_39.9347_18.0467,Le Carite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/le_carite_39.9347_18.0467.json,custom
+39.948047,18.090314,ov_1711_cio_cio_39.9480_18.0903,1711 Cio Cio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/1711_cio_cio_39.9480_18.0903.json,custom
+39.947946,18.090320,ov_trattoria_pizzeria_agrodolce_39.9479_18.0903,Trattoria Pizzeria Agrodolce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/trattoria_pizzeria_agrodolce_39.9479_18.0903.json,custom
+39.947693,18.090577,ov_antica_pucceria_39.9477_18.0906,Antica Pucceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/antica_pucceria_39.9477_18.0906.json,custom
+39.947622,18.089572,ov_entroterra_39.9476_18.0896,Entroterra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/entroterra_39.9476_18.0896.json,custom
+39.946754,18.089316,ov_trattoria_pizzeria_nonno_gigi_ex_paradis_39.9468_18.0893,Trattoria pizzeria nonno gigi(ex paradise),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/trattoria_pizzeria_nonno_gigiex_paradise_39.9468_18.0893.json,custom
+39.949924,18.094188,ov_il_mattero_39.9499_18.0942,Il Mattero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/il_mattero_39.9499_18.0942.json,custom
+39.950440,18.089436,ov_pizzeria_la_stella_39.9504_18.0894,Pizzeria La Stella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/pizzeria_la_stella_39.9504_18.0894.json,custom
+39.949883,18.090128,ov_l_alternativa_pizzeria_39.9499_18.0901,L'Alternativa Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/lalternativa_pizzeria_39.9499_18.0901.json,custom
+39.949566,18.087791,ov_la_puteca_39.9496_18.0878,La Puteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/la_puteca_39.9496_18.0878.json,custom
+39.952577,18.089522,ov_mari_gio_39.9526_18.0895,Mari Gio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/mari_gio_39.9526_18.0895.json,custom
+39.952087,18.087324,ov_ipizza_39.9521_18.0873,Ipizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/ipizza_39.9521_18.0873.json,custom
+39.951976,18.088501,ov_venti_food_and_passion_39.9520_18.0885,VENTI Food and Passion,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/venti_food_and_passion_39.9520_18.0885.json,custom
+39.951960,18.090090,ov_clant__alla_cisternella_39.9520_18.0901,Clantò alla Cisternella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/clant_alla_cisternella_39.9520_18.0901.json,custom
+39.970151,18.121429,ov_delizie_di_pasta_da_antonella_39.9702_18.1214,Delizie Di Pasta da ANTONELLA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/delizie_di_pasta_da_antonella_39.9702_18.1214.json,custom

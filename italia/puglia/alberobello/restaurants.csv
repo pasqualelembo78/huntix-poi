@@ -1,88 +1,84 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alberobello -- restaurants
-40.782396,17.237065,osm_l_aratro_40.7824_17.2371,L'Aratro,ristorante,ristorante
-40.781880,17.237081,osm_la_perla_dei_trulli_40.7819_17.2371,La Perla dei Trulli,ristorante,ristorante
-40.785599,17.235595,osm_pizzeria_easy_go_40.7856_17.2356,Pizzeria Easy Go,ristorante,ristorante
-40.787275,17.235161,osm_trattoria_terra_madre_40.7873_17.2352,Trattoria Terra Madre,ristorante,ristorante
-40.785051,17.237459,osm_trullo_d_oro_40.7851_17.2375,Trullo d'Oro,ristorante,ristorante
-40.783847,17.237193,osm_principotto_40.7838_17.2372,Principotto,ristorante,ristorante
-40.782758,17.237949,osm_la_filihusteria_40.7828_17.2379,la filihusteria,ristorante,ristorante
-40.767587,17.249702,ov_le_arcate_40.7676_17.2497,Le Arcate,RESTAURANT,ristorante
-40.765175,17.231835,ov_arboris_belli_pizzeria_con_cucina_40.7652_17.2318,Arboris Belli Pizzeria con cucina,RESTAURANT,ristorante
-40.780296,17.244546,ov_puglianova_40.7803_17.2445,Puglianova,RESTAURANT,ristorante
-40.779730,17.245140,ov_newynd_40.7797_17.2451,Newynd,RESTAURANT,ristorante
-40.777679,17.238092,ov_basilico_rosso_40.7777_17.2381,Basilico Rosso,RESTAURANT,ristorante
-40.780763,17.234817,ov_inari_alberobello_40.7808_17.2348,Inari Alberobello,RESTAURANT,ristorante
-40.781028,17.234661,ov_salumeria_il_salumaio_dei_trulli_40.7810_17.2347,Salumeria Il Salumaio dei Trulli,RESTAURANT,ristorante
-40.781831,17.236472,ov_la_locanda_del_gallo_40.7818_17.2365,La Locanda del Gallo,RESTAURANT,ristorante
-40.781771,17.237385,ov_la_perla_dei_trulli_40.7818_17.2374,La Perla dei Trulli,RESTAURANT,ristorante
-40.782107,17.237807,ov_il_trullo_antico_40.7821_17.2378,Il Trullo Antico,RESTAURANT,ristorante
-40.782106,17.237819,ov_corte_dei_trulli_40.7821_17.2378,Corte dei Trulli,RESTAURANT,ristorante
-40.781492,17.240157,ov_l_olmo_bello_40.7815_17.2402,L'Olmo Bello,RESTAURANT,ristorante
-40.782222,17.238993,ov_il_poeta_contadino_40.7822_17.2390,Il Poeta Contadino,RESTAURANT,ristorante
-40.782666,17.238468,ov_tremme_40.7827_17.2385,trEmme,RESTAURANT,ristorante
-40.782797,17.238734,ov_ristorante_terminal_40.7828_17.2387,Ristorante Terminal,RESTAURANT,ristorante
-40.783299,17.238531,ov_pozzo_contino_40.7833_17.2385,Pozzo Contino,RESTAURANT,ristorante
-40.783233,17.238164,ov_favola_in_tavola_ristorante_cucina___vin_40.7832_17.2382,Favola in Tavola Ristorante Cucina & Vini,RESTAURANT,ristorante
-40.783119,17.237491,ov_fast_food_crispus_40.7831_17.2375,Fast Food Crispus,RESTAURANT,ristorante
-40.783327,17.237737,ov_giardino_del_guercio___apulian_wine_tast_40.7833_17.2377,Giardino del Guercio - Apulian wine&taste,RESTAURANT,ristorante
-40.783319,17.236830,ov_coppino_alberobello_40.7833_17.2368,Coppino Alberobello,RESTAURANT,ristorante
-40.783206,17.236927,ov_ristorante_trattoria_largotrevisani___al_40.7832_17.2369,Ristorante Trattoria LargoTrevisani - Alberobello - Puglia,RESTAURANT,ristorante
-40.782984,17.237049,ov_braceria_la_fontana_40.7830_17.2370,Braceria La Fontana,RESTAURANT,ristorante
-40.783078,17.236706,ov_100_metricubi_40.7831_17.2367,100 Metricubi,RESTAURANT,ristorante
-40.782806,17.237695,ov_la_lira_focacceria_40.7828_17.2377,La Lira Focacceria,RESTAURANT,ristorante
-40.782808,17.238129,ov_la_filibusteria___italian_street_food_40.7828_17.2381,La Filibusteria - ITALIAN STREET FOOD,RESTAURANT,ristorante
-40.782761,17.237762,ov_terrazza_sui_trulli_40.7828_17.2378,Terrazza sui Trulli,RESTAURANT,ristorante
-40.782619,17.237614,ov_casa_nova_il_ristorante_40.7826_17.2376,Casa Nova Il Ristorante,RESTAURANT,ristorante
-40.782598,17.237612,ov_ristorante_casa_nova_40.7826_17.2376,Ristorante Casa Nova,RESTAURANT,ristorante
-40.782205,17.238214,ov_ristorante_il_pinnacolo_40.7822_17.2382,Ristorante Il Pinnacolo,RESTAURANT,ristorante
-40.782296,17.237666,ov_kama_food_40.7823_17.2377,Kama food,RESTAURANT,ristorante
-40.782386,17.237132,ov_l_aratro_di_laera_domenico_40.7824_17.2371,L'Aratro Di Laera Domenico,RESTAURANT,ristorante
-40.782700,17.236600,ov_osteriapuglia_40.7827_17.2366,OsteriaPuglia,RESTAURANT,ristorante
-40.782328,17.234654,ov_trullo_sotterraneo_40.7823_17.2347,Trullo Sotterraneo,RESTAURANT,ristorante
-40.783379,17.236389,ov_largo_dei_sapori_40.7834_17.2364,Largo Dei Sapori,RESTAURANT,ristorante
-40.783390,17.235842,ov_fral__40.7834_17.2358,Fralé,RESTAURANT,ristorante
-40.783820,17.235694,ov_grilled_chicken_40.7838_17.2357,Grilled Chicken,RESTAURANT,ristorante
-40.783488,17.236246,ov_noi_40.7835_17.2362,Noi,RESTAURANT,ristorante
-40.783986,17.238169,ov_cos__com_era_40.7840_17.2382,Così Com'era,RESTAURANT,ristorante
-40.783914,17.237141,ov_principotto_40.7839_17.2371,Principotto,RESTAURANT,ristorante
-40.784136,17.237057,ov_my_land_40.7841_17.2371,My Land,RESTAURANT,ristorante
-40.784503,17.237735,ov_cucina_dei_trulli_40.7845_17.2377,Cucina dei Trulli,RESTAURANT,ristorante
-40.785901,17.234771,ov_i_trulli_di_nonna_nella_40.7859_17.2348,I Trulli di Nonna Nella,RESTAURANT,ristorante
-40.785795,17.235577,ov_la_chiusa_di_chietri_wedding_40.7858_17.2356,La Chiusa di Chietri Wedding,RESTAURANT,ristorante
-40.786012,17.236285,ov_trullo_dei_sapori_40.7860_17.2363,Trullo dei Sapori,RESTAURANT,ristorante
-40.785904,17.236385,ov_le_bonta_del_central_40.7859_17.2364,Le Bonta Del Central,RESTAURANT,ristorante
-40.785686,17.235559,ov_pizzeria_easy_go_40.7857_17.2356,Pizzeria Easy Go,RESTAURANT,ristorante
-40.785657,17.236690,ov_i_primi_di_puglia_40.7857_17.2367,I Primi di Puglia,RESTAURANT,ristorante
-40.785523,17.238347,ov_trullo_garden_40.7855_17.2383,Trullo Garden,RESTAURANT,ristorante
-40.785239,17.236993,ov_il_guercio_di_puglia_40.7852_17.2370,Il Guercio di Puglia,RESTAURANT,ristorante
-40.785065,17.236979,ov_fcazz_e_birr_alberobello_40.7851_17.2370,Fcazz e Birr Alberobello,RESTAURANT,ristorante
-40.785087,17.236977,ov_ristorante_la_cantina_40.7851_17.2370,Ristorante La Cantina,RESTAURANT,ristorante
-40.785030,17.237477,ov_ristorante_trullo_d_oro_40.7850_17.2375,Ristorante Trullo D'Oro,RESTAURANT,ristorante
-40.784289,17.241721,ov_macelleria_braceria_miccolis_40.7843_17.2417,Macelleria Braceria Miccolis,RESTAURANT,ristorante
-40.784576,17.239169,ov_malerbe_40.7846_17.2392,Malerbe,RESTAURANT,ristorante
-40.784350,17.238397,ov_trattoria_amatulli_40.7844_17.2384,Trattoria Amatulli,RESTAURANT,ristorante
-40.783966,17.239527,ov_appero_40.7840_17.2395,Appero,RESTAURANT,ristorante
-40.784331,17.245386,ov_ristorante_fidelio_alberobello_40.7843_17.2454,Ristorante Fidelio Alberobello,RESTAURANT,ristorante
-40.785498,17.244277,ov_pescheria_friggitoria_il_corallo_40.7855_17.2443,Pescheria Friggitoria Il Corallo,RESTAURANT,ristorante
-40.785266,17.246366,ov_ristorante_gli_ulivi_40.7853_17.2464,Ristorante Gli Ulivi,RESTAURANT,ristorante
-40.780993,17.244135,ov_ristorante_miseria_e_nobilt__40.7810_17.2441,Ristorante Miseria e Nobiltà,RESTAURANT,ristorante
-40.781227,17.244759,ov_cibum_macelleria_ristogrill_40.7812_17.2448,CIBUM Macelleria Ristogrill,RESTAURANT,ristorante
-40.791195,17.245442,ov_sosta_e_gusta_40.7912_17.2454,Sosta e Gusta,RESTAURANT,ristorante
-40.791071,17.245547,ov_tavola_calda_da_peppone_40.7911_17.2455,Tavola Calda Da Peppone,RESTAURANT,ristorante
-40.786135,17.237001,ov_nos_ristorante_40.7861_17.2370,NOS Ristorante,RESTAURANT,ristorante
-40.786070,17.236186,ov_ristorante_tipicamente_40.7861_17.2362,Ristorante Tipicamente,RESTAURANT,ristorante
-40.787280,17.235151,ov_trattoria_terra_madre_40.7873_17.2352,Trattoria Terra Madre,RESTAURANT,ristorante
-40.787455,17.235015,ov_evo_ristorante_40.7875_17.2350,EVO Ristorante,RESTAURANT,ristorante
-40.786400,17.229060,ov_trattoria_dei_trulli_40.7864_17.2291,Trattoria dei Trulli,RESTAURANT,ristorante
-40.786836,17.230714,ov_mare_nostro_pescheria_tavola_calda_40.7868_17.2307,Mare Nostro Pescheria-Tavola Calda,RESTAURANT,ristorante
-40.782929,17.230909,ov_minato_sushi_restaurant_40.7829_17.2309,Minato sushi restaurant,RESTAURANT,ristorante
-40.781931,17.234368,ov_trullo_del_conte_40.7819_17.2344,Trullo del Conte,RESTAURANT,ristorante
-40.795971,17.241964,ov_ristorante_la_nicchia_40.7960_17.2420,Ristorante La Nicchia,RESTAURANT,ristorante
-40.791361,17.245172,ov_spazio_eccelsa_40.7914_17.2452,Spazio Eccelsa,RESTAURANT,ristorante
-40.804964,17.264754,ov_macelleria_braceria_bar_da_mimino_40.8050_17.2648,Macelleria Braceria Bar Da Mimino,RESTAURANT,ristorante
-40.805728,17.264922,ov_trattoria_da_donato_40.8057_17.2649,Trattoria Da Donato,RESTAURANT,ristorante
-40.798331,17.199881,ov_abbondanza_agriturismo_40.7983_17.1999,Abbondanza Agriturismo,RESTAURANT,ristorante
-40.820985,17.213605,ov_ristorante_nobis_40.8210_17.2136,Ristorante Nobis,RESTAURANT,ristorante
-40.818383,17.249023,ov_agriturismo_torrenuova_40.8184_17.2490,Agriturismo Torrenuova,RESTAURANT,ristorante
-40.804472,17.265527,ov_pizzeria_lo_stivale_40.8045_17.2655,Pizzeria Lo Stivale,RESTAURANT,ristorante
+40.767587,17.249702,ov_le_arcate_40.7676_17.2497,Le Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/le_arcate_40.7676_17.2497.json,custom
+40.765175,17.231835,ov_arboris_belli_pizzeria_con_cucina_40.7652_17.2318,Arboris Belli Pizzeria con cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/arboris_belli_pizzeria_con_cucina_40.7652_17.2318.json,custom
+40.780296,17.244546,ov_puglianova_40.7803_17.2445,Puglianova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/puglianova_40.7803_17.2445.json,custom
+40.779730,17.245140,ov_newynd_40.7797_17.2451,Newynd,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/newynd_40.7797_17.2451.json,custom
+40.777679,17.238092,ov_basilico_rosso_40.7777_17.2381,Basilico Rosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/basilico_rosso_40.7777_17.2381.json,custom
+40.780763,17.234817,ov_inari_alberobello_40.7808_17.2348,Inari Alberobello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/inari_alberobello_40.7808_17.2348.json,custom
+40.781028,17.234661,ov_salumeria_il_salumaio_dei_trulli_40.7810_17.2347,Salumeria Il Salumaio dei Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/salumeria_il_salumaio_dei_trulli_40.7810_17.2347.json,custom
+40.781831,17.236472,ov_la_locanda_del_gallo_40.7818_17.2365,La Locanda del Gallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_locanda_del_gallo_40.7818_17.2365.json,custom
+40.781771,17.237385,ov_la_perla_dei_trulli_40.7818_17.2374,La Perla dei Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_perla_dei_trulli_40.7818_17.2374.json,custom
+40.782107,17.237807,ov_il_trullo_antico_40.7821_17.2378,Il Trullo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/il_trullo_antico_40.7821_17.2378.json,custom
+40.782106,17.237819,ov_corte_dei_trulli_40.7821_17.2378,Corte dei Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/corte_dei_trulli_40.7821_17.2378.json,custom
+40.781492,17.240157,ov_l_olmo_bello_40.7815_17.2402,L'Olmo Bello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/lolmo_bello_40.7815_17.2402.json,custom
+40.782222,17.238993,ov_il_poeta_contadino_40.7822_17.2390,Il Poeta Contadino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/il_poeta_contadino_40.7822_17.2390.json,custom
+40.782666,17.238468,ov_tremme_40.7827_17.2385,trEmme,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/tremme_40.7827_17.2385.json,custom
+40.782797,17.238734,ov_ristorante_terminal_40.7828_17.2387,Ristorante Terminal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_terminal_40.7828_17.2387.json,custom
+40.783299,17.238531,ov_pozzo_contino_40.7833_17.2385,Pozzo Contino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pozzo_contino_40.7833_17.2385.json,custom
+40.783233,17.238164,ov_favola_in_tavola_ristorante_cucina___vin_40.7832_17.2382,Favola in Tavola Ristorante Cucina & Vini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/favola_in_tavola_ristorante_cucina_vini_40.7832_17.2382.json,custom
+40.783119,17.237491,ov_fast_food_crispus_40.7831_17.2375,Fast Food Crispus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/fast_food_crispus_40.7831_17.2375.json,custom
+40.783327,17.237737,ov_giardino_del_guercio___apulian_wine_tast_40.7833_17.2377,Giardino del Guercio - Apulian wine&taste,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/giardino_del_guercio_-_apulian_winetaste_40.7833_17.2377.json,custom
+40.783319,17.236830,ov_coppino_alberobello_40.7833_17.2368,Coppino Alberobello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/coppino_alberobello_40.7833_17.2368.json,custom
+40.783206,17.236927,ov_ristorante_trattoria_largotrevisani___al_40.7832_17.2369,Ristorante Trattoria LargoTrevisani - Alberobello - Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_trattoria_largotrevisani_-_al_40.7832_17.2369.json,custom
+40.782984,17.237049,ov_braceria_la_fontana_40.7830_17.2370,Braceria La Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/braceria_la_fontana_40.7830_17.2370.json,custom
+40.783078,17.236706,ov_100_metricubi_40.7831_17.2367,100 Metricubi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/100_metricubi_40.7831_17.2367.json,custom
+40.782806,17.237695,ov_la_lira_focacceria_40.7828_17.2377,La Lira Focacceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_lira_focacceria_40.7828_17.2377.json,custom
+40.782808,17.238129,ov_la_filibusteria___italian_street_food_40.7828_17.2381,La Filibusteria - ITALIAN STREET FOOD,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_filibusteria_-_italian_street_food_40.7828_17.2381.json,custom
+40.782761,17.237762,ov_terrazza_sui_trulli_40.7828_17.2378,Terrazza sui Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/terrazza_sui_trulli_40.7828_17.2378.json,custom
+40.782619,17.237614,ov_casa_nova_il_ristorante_40.7826_17.2376,Casa Nova Il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/casa_nova_il_ristorante_40.7826_17.2376.json,custom
+40.782598,17.237612,ov_ristorante_casa_nova_40.7826_17.2376,Ristorante Casa Nova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_casa_nova_40.7826_17.2376.json,custom
+40.782205,17.238214,ov_ristorante_il_pinnacolo_40.7822_17.2382,Ristorante Il Pinnacolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_il_pinnacolo_40.7822_17.2382.json,custom
+40.782296,17.237666,ov_kama_food_40.7823_17.2377,Kama food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/kama_food_40.7823_17.2377.json,custom
+40.782386,17.237132,ov_l_aratro_di_laera_domenico_40.7824_17.2371,L'Aratro Di Laera Domenico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/laratro_di_laera_domenico_40.7824_17.2371.json,custom
+40.782700,17.236600,ov_osteriapuglia_40.7827_17.2366,OsteriaPuglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/osteriapuglia_40.7827_17.2366.json,custom
+40.782328,17.234654,ov_trullo_sotterraneo_40.7823_17.2347,Trullo Sotterraneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_sotterraneo_40.7823_17.2347.json,custom
+40.783379,17.236389,ov_largo_dei_sapori_40.7834_17.2364,Largo Dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/largo_dei_sapori_40.7834_17.2364.json,custom
+40.783390,17.235842,ov_fral__40.7834_17.2358,Fralé,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/fral_40.7834_17.2358.json,custom
+40.783820,17.235694,ov_grilled_chicken_40.7838_17.2357,Grilled Chicken,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/grilled_chicken_40.7838_17.2357.json,custom
+40.783488,17.236246,ov_noi_40.7835_17.2362,Noi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/noi_40.7835_17.2362.json,custom
+40.783986,17.238169,ov_cos__com_era_40.7840_17.2382,Così Com'era,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/cos_comera_40.7840_17.2382.json,custom
+40.783914,17.237141,ov_principotto_40.7839_17.2371,Principotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/principotto_40.7839_17.2371.json,custom
+40.784136,17.237057,ov_my_land_40.7841_17.2371,My Land,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/my_land_40.7841_17.2371.json,custom
+40.784503,17.237735,ov_cucina_dei_trulli_40.7845_17.2377,Cucina dei Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/cucina_dei_trulli_40.7845_17.2377.json,custom
+40.785901,17.234771,ov_i_trulli_di_nonna_nella_40.7859_17.2348,I Trulli di Nonna Nella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/i_trulli_di_nonna_nella_40.7859_17.2348.json,custom
+40.785795,17.235577,ov_la_chiusa_di_chietri_wedding_40.7858_17.2356,La Chiusa di Chietri Wedding,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_chiusa_di_chietri_wedding_40.7858_17.2356.json,custom
+40.786012,17.236285,ov_trullo_dei_sapori_40.7860_17.2363,Trullo dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_dei_sapori_40.7860_17.2363.json,custom
+40.785904,17.236385,ov_le_bonta_del_central_40.7859_17.2364,Le Bonta Del Central,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/le_bonta_del_central_40.7859_17.2364.json,custom
+40.785686,17.235559,ov_pizzeria_easy_go_40.7857_17.2356,Pizzeria Easy Go,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pizzeria_easy_go_40.7857_17.2356.json,custom
+40.785657,17.236690,ov_i_primi_di_puglia_40.7857_17.2367,I Primi di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/i_primi_di_puglia_40.7857_17.2367.json,custom
+40.785523,17.238347,ov_trullo_garden_40.7855_17.2383,Trullo Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_garden_40.7855_17.2383.json,custom
+40.785239,17.236993,ov_il_guercio_di_puglia_40.7852_17.2370,Il Guercio di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/il_guercio_di_puglia_40.7852_17.2370.json,custom
+40.785065,17.236979,ov_fcazz_e_birr_alberobello_40.7851_17.2370,Fcazz e Birr Alberobello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/fcazz_e_birr_alberobello_40.7851_17.2370.json,custom
+40.785087,17.236977,ov_ristorante_la_cantina_40.7851_17.2370,Ristorante La Cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_la_cantina_40.7851_17.2370.json,custom
+40.785030,17.237477,ov_ristorante_trullo_d_oro_40.7850_17.2375,Ristorante Trullo D'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_trullo_doro_40.7850_17.2375.json,custom
+40.784289,17.241721,ov_macelleria_braceria_miccolis_40.7843_17.2417,Macelleria Braceria Miccolis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/macelleria_braceria_miccolis_40.7843_17.2417.json,custom
+40.784576,17.239169,ov_malerbe_40.7846_17.2392,Malerbe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/malerbe_40.7846_17.2392.json,custom
+40.784350,17.238397,ov_trattoria_amatulli_40.7844_17.2384,Trattoria Amatulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trattoria_amatulli_40.7844_17.2384.json,custom
+40.783966,17.239527,ov_appero_40.7840_17.2395,Appero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/appero_40.7840_17.2395.json,custom
+40.784331,17.245386,ov_ristorante_fidelio_alberobello_40.7843_17.2454,Ristorante Fidelio Alberobello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_fidelio_alberobello_40.7843_17.2454.json,custom
+40.785498,17.244277,ov_pescheria_friggitoria_il_corallo_40.7855_17.2443,Pescheria Friggitoria Il Corallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pescheria_friggitoria_il_corallo_40.7855_17.2443.json,custom
+40.785266,17.246366,ov_ristorante_gli_ulivi_40.7853_17.2464,Ristorante Gli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_gli_ulivi_40.7853_17.2464.json,custom
+40.780993,17.244135,ov_ristorante_miseria_e_nobilt__40.7810_17.2441,Ristorante Miseria e Nobiltà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_miseria_e_nobilt_40.7810_17.2441.json,custom
+40.781227,17.244759,ov_cibum_macelleria_ristogrill_40.7812_17.2448,CIBUM Macelleria Ristogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/cibum_macelleria_ristogrill_40.7812_17.2448.json,custom
+40.791195,17.245442,ov_sosta_e_gusta_40.7912_17.2454,Sosta e Gusta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/sosta_e_gusta_40.7912_17.2454.json,custom
+40.791071,17.245547,ov_tavola_calda_da_peppone_40.7911_17.2455,Tavola Calda Da Peppone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/tavola_calda_da_peppone_40.7911_17.2455.json,custom
+40.786135,17.237001,ov_nos_ristorante_40.7861_17.2370,NOS Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/nos_ristorante_40.7861_17.2370.json,custom
+40.786070,17.236186,ov_ristorante_tipicamente_40.7861_17.2362,Ristorante Tipicamente,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_tipicamente_40.7861_17.2362.json,custom
+40.787280,17.235151,ov_trattoria_terra_madre_40.7873_17.2352,Trattoria Terra Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trattoria_terra_madre_40.7873_17.2352.json,custom
+40.787455,17.235015,ov_evo_ristorante_40.7875_17.2350,EVO Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/evo_ristorante_40.7875_17.2350.json,custom
+40.786400,17.229060,ov_trattoria_dei_trulli_40.7864_17.2291,Trattoria dei Trulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trattoria_dei_trulli_40.7864_17.2291.json,custom
+40.786836,17.230714,ov_mare_nostro_pescheria_tavola_calda_40.7868_17.2307,Mare Nostro Pescheria-Tavola Calda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/mare_nostro_pescheria-tavola_calda_40.7868_17.2307.json,custom
+40.782929,17.230909,ov_minato_sushi_restaurant_40.7829_17.2309,Minato sushi restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/minato_sushi_restaurant_40.7829_17.2309.json,custom
+40.781931,17.234368,ov_trullo_del_conte_40.7819_17.2344,Trullo del Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_del_conte_40.7819_17.2344.json,custom
+40.795971,17.241964,ov_ristorante_la_nicchia_40.7960_17.2420,Ristorante La Nicchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_la_nicchia_40.7960_17.2420.json,custom
+40.791361,17.245172,ov_spazio_eccelsa_40.7914_17.2452,Spazio Eccelsa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/spazio_eccelsa_40.7914_17.2452.json,custom
+40.804964,17.264754,ov_macelleria_braceria_bar_da_mimino_40.8050_17.2648,Macelleria Braceria Bar Da Mimino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/macelleria_braceria_bar_da_mimino_40.8050_17.2648.json,custom
+40.805728,17.264922,ov_trattoria_da_donato_40.8057_17.2649,Trattoria Da Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trattoria_da_donato_40.8057_17.2649.json,custom
+40.798331,17.199881,ov_abbondanza_agriturismo_40.7983_17.1999,Abbondanza Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/abbondanza_agriturismo_40.7983_17.1999.json,custom
+40.820985,17.213605,ov_ristorante_nobis_40.8210_17.2136,Ristorante Nobis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/ristorante_nobis_40.8210_17.2136.json,custom
+40.818383,17.249023,ov_agriturismo_torrenuova_40.8184_17.2490,Agriturismo Torrenuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/agriturismo_torrenuova_40.8184_17.2490.json,custom
+40.804472,17.265527,ov_pizzeria_lo_stivale_40.8045_17.2655,Pizzeria Lo Stivale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pizzeria_lo_stivale_40.8045_17.2655.json,custom
+40.782396,17.237065,osm_l_aratro_40.7824_17.2371,L'Aratro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/laratro_40.7824_17.2371.json,custom
+40.785051,17.237459,osm_trullo_d_oro_40.7851_17.2375,Trullo d'Oro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_doro_40.7851_17.2375.json,custom
+40.782758,17.237949,osm_la_filihusteria_40.7828_17.2379,la filihusteria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/la_filihusteria_40.7828_17.2379.json,custom

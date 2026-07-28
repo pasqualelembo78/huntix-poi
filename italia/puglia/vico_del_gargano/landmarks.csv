@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vico_del_gargano -- landmarks
-41.935526,15.943727,ov_torre_dei_preposti_41.9355_15.9437,Torre dei Preposti,MONUMENT,monumento
-41.897450,15.952270,ov_ecomuseo_necropoli_di_monte_pucci_41.8974_15.9523,Ecomuseo Necropoli di Monte Pucci,MUSEUM,monumento
-41.897389,15.952880,ov_museo_trappeto_maratea_41.8974_15.9529,Museo Trappeto Maratea,MUSEUM,monumento
-41.897503,15.954403,ov_museo_civico_archeologico_francesco_dell_41.8975_15.9544,Museo Civico Archeologico Francesco Delli Muti,MUSEUM,monumento
-41.895861,15.962730,ov_liuteria_rignanese_41.8959_15.9627,Liuteria Rignanese,MUSEUM,monumento
-41.900601,15.968171,ov_convento_dei_cappuccini_41.9006_15.9682,Convento Dei Cappuccini,MUSEUM,monumento
+41.935526,15.943727,ov_torre_dei_preposti_41.9355_15.9437,Torre dei Preposti,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/torre_dei_preposti_41.9355_15.9437.json,custom
+41.897450,15.952270,ov_ecomuseo_necropoli_di_monte_pucci_41.8974_15.9523,Ecomuseo Necropoli di Monte Pucci,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/ecomuseo_necropoli_di_monte_pucci_41.8974_15.9523.json,custom
+41.897389,15.952880,ov_museo_trappeto_maratea_41.8974_15.9529,Museo Trappeto Maratea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/museo_trappeto_maratea_41.8974_15.9529.json,custom
+41.897503,15.954403,ov_museo_civico_archeologico_francesco_dell_41.8975_15.9544,Museo Civico Archeologico Francesco Delli Muti,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/museo_civico_archeologico_francesco_dell_41.8975_15.9544.json,custom
+41.895861,15.962730,ov_liuteria_rignanese_41.8959_15.9627,Liuteria Rignanese,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/liuteria_rignanese_41.8959_15.9627.json,custom
+41.900601,15.968171,ov_convento_dei_cappuccini_41.9006_15.9682,Convento Dei Cappuccini,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vico_del_gargano/pages/convento_dei_cappuccini_41.9006_15.9682.json,custom

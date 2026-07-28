@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montella -- gyms
-40.842973,15.016318,ov_palestra_harmony_40.8430_15.0163,Palestra Harmony,GYM,palestra
-40.840634,15.027454,ov_bar_new_bet___corner_snai_40.8406_15.0275,Bar New Bet - Corner Snai,GYM,palestra
-40.862300,15.043031,ov_il_piccolo_ranch_40.8623_15.0430,Il Piccolo Ranch,GYM,palestra
+40.842973,15.016318,ov_palestra_harmony_40.8430_15.0163,Palestra Harmony,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/palestra_harmony_40.8430_15.0163.json,custom
+40.840634,15.027454,ov_bar_new_bet___corner_snai_40.8406_15.0275,Bar New Bet - Corner Snai,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/bar_new_bet_-_corner_snai_40.8406_15.0275.json,custom
+40.862300,15.043031,ov_il_piccolo_ranch_40.8623_15.0430,Il Piccolo Ranch,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montella/pages/il_piccolo_ranch_40.8623_15.0430.json,custom

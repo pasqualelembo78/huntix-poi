@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cerchiara_di_calabria -- bars_cafes
-39.859562,16.381800,ov_bar_sport_39.8596_16.3818,Bar Sport,RESTAURANT,bar_cafe
-39.861750,16.381318,ov_bar_fontana_vecchia_39.8617_16.3813,Bar Fontana Vecchia,RESTAURANT,bar_cafe
-39.817218,16.411426,ov_no_name_bar_39.8172_16.4114,No Name Bar,RESTAURANT,bar_cafe
-39.817763,16.407355,ov_bar_tabacchi_lottomatica_marrazzo_39.8178_16.4074,Bar Tabacchi Lottomatica Marrazzo,RESTAURANT,bar_cafe
-39.814169,16.430938,ov_bar_caff__italiano_39.8142_16.4309,Bar Caffè Italiano,RESTAURANT,bar_cafe
+39.859562,16.381800,ov_bar_sport_39.8596_16.3818,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerchiara_di_calabria/pages/bar_sport_39.8596_16.3818.json,custom
+39.861750,16.381318,ov_bar_fontana_vecchia_39.8617_16.3813,Bar Fontana Vecchia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerchiara_di_calabria/pages/bar_fontana_vecchia_39.8617_16.3813.json,custom
+39.817218,16.411426,ov_no_name_bar_39.8172_16.4114,No Name Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerchiara_di_calabria/pages/no_name_bar_39.8172_16.4114.json,custom
+39.817763,16.407355,ov_bar_tabacchi_lottomatica_marrazzo_39.8178_16.4074,Bar Tabacchi Lottomatica Marrazzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerchiara_di_calabria/pages/bar_tabacchi_lottomatica_marrazzo_39.8178_16.4074.json,custom
+39.814169,16.430938,ov_bar_caff__italiano_39.8142_16.4309,Bar Caffè Italiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cerchiara_di_calabria/pages/bar_caff_italiano_39.8142_16.4309.json,custom

@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Paolo di Civitate -- Tutti
-41.734400,15.261992,osm_asl_41.7344_15.2620,Asl,hospital,hospital
-41.739138,15.260622,ov_pizzeria_la_civetta_41.7391_15.2606,Pizzeria La Civetta,RESTAURANT,ristorante
-41.739502,15.260891,ov_mad_beer___food_41.7395_15.2609,Mad Beer & Food,RESTAURANT,ristorante
-41.738713,15.261644,ov_pizza_e_sfizi_41.7387_15.2616,Pizza e Sfizi,RESTAURANT,ristorante
-41.739678,15.262298,ov_osteria_la_botte_41.7397_15.2623,Osteria La Botte,RESTAURANT,ristorante
-41.739971,15.260863,ov_trattoria_del_buongustaio_41.7400_15.2609,Trattoria Del Buongustaio,RESTAURANT,ristorante
-41.739797,15.260641,ov_lievitiamo_41.7398_15.2606,Lievitiamo,RESTAURANT,ristorante
-41.739942,15.260383,ov_pizzeria_il_ritrovo_41.7399_15.2604,Pizzeria Il Ritrovo,RESTAURANT,ristorante
-41.740442,15.258309,ov_l_elite_del_gusto_41.7404_15.2583,L'Elite del Gusto,RESTAURANT,ristorante
-41.740252,15.258850,ov_l_imperium_41.7403_15.2589,L'imperium,RESTAURANT,ristorante
-41.740386,15.260050,ov_pizzeria_mitho_41.7404_15.2600,Pizzeria Mitho,RESTAURANT,ristorante
-41.739170,15.261236,ov_ludwig_pub_da_antonella_41.7392_15.2612,LUDWIG PUB da Antonella,RESTAURANT,bar_cafe
-41.738666,15.261698,ov_onil_41.7387_15.2617,Onil,RESTAURANT,bar_cafe
-41.738784,15.261467,ov_bar_delle_vergini_41.7388_15.2615,Bar delle Vergini,RESTAURANT,bar_cafe
-41.740063,15.260565,ov_bar_bernardo_41.7401_15.2606,Bar Bernardo,RESTAURANT,bar_cafe
-41.742973,15.263121,ov_drink_house_f_lli_corrado_srl_41.7430_15.2631,Drink House F.lli Corrado SRL,RESTAURANT,bar_cafe
-41.740107,15.259337,ov_fragema_41.7401_15.2593,Fragema,RESTAURANT,bar_cafe
-41.741294,15.259425,ov_bar_della_villa_41.7413_15.2594,Bar della Villa,RESTAURANT,bar_cafe
-41.734437,15.261363,osm_bar_ll_chioschetto_41.7344_15.2614,Bar Ll Chioschetto,bar_cafe,bar_cafe
-41.739217,15.257618,ov_home_fit_41.7392_15.2576,HOME fit,GYM,palestra
-41.623662,15.105741,ov_museo_civico_archeologico_41.6237_15.1057,Museo Civico Archeologico,MUSEUM,monumento
-41.740713,15.258798,ov_museo_civico_archeologico_41.7407_15.2588,Museo Civico Archeologico,MUSEUM,monumento
+41.734400,15.261992,osm_asl_41.7344_15.2620,Asl,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/asl_41.7344_15.2620.json,custom
+41.739138,15.260622,ov_pizzeria_la_civetta_41.7391_15.2606,Pizzeria La Civetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/pizzeria_la_civetta_41.7391_15.2606.json,custom
+41.739502,15.260891,ov_mad_beer___food_41.7395_15.2609,Mad Beer & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/mad_beer_food_41.7395_15.2609.json,custom
+41.738713,15.261644,ov_pizza_e_sfizi_41.7387_15.2616,Pizza e Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/pizza_e_sfizi_41.7387_15.2616.json,custom
+41.739678,15.262298,ov_osteria_la_botte_41.7397_15.2623,Osteria La Botte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/osteria_la_botte_41.7397_15.2623.json,custom
+41.739971,15.260863,ov_trattoria_del_buongustaio_41.7400_15.2609,Trattoria Del Buongustaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/trattoria_del_buongustaio_41.7400_15.2609.json,custom
+41.739797,15.260641,ov_lievitiamo_41.7398_15.2606,Lievitiamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/lievitiamo_41.7398_15.2606.json,custom
+41.739942,15.260383,ov_pizzeria_il_ritrovo_41.7399_15.2604,Pizzeria Il Ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/pizzeria_il_ritrovo_41.7399_15.2604.json,custom
+41.740442,15.258309,ov_l_elite_del_gusto_41.7404_15.2583,L'Elite del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/lelite_del_gusto_41.7404_15.2583.json,custom
+41.740252,15.258850,ov_l_imperium_41.7403_15.2589,L'imperium,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/limperium_41.7403_15.2589.json,custom
+41.740386,15.260050,ov_pizzeria_mitho_41.7404_15.2600,Pizzeria Mitho,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/pizzeria_mitho_41.7404_15.2600.json,custom
+41.739170,15.261236,ov_ludwig_pub_da_antonella_41.7392_15.2612,LUDWIG PUB da Antonella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/ludwig_pub_da_antonella_41.7392_15.2612.json,custom
+41.738666,15.261698,ov_onil_41.7387_15.2617,Onil,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/onil_41.7387_15.2617.json,custom
+41.738784,15.261467,ov_bar_delle_vergini_41.7388_15.2615,Bar delle Vergini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_delle_vergini_41.7388_15.2615.json,custom
+41.740063,15.260565,ov_bar_bernardo_41.7401_15.2606,Bar Bernardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_bernardo_41.7401_15.2606.json,custom
+41.742973,15.263121,ov_drink_house_f_lli_corrado_srl_41.7430_15.2631,Drink House F.lli Corrado SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/drink_house_flli_corrado_srl_41.7430_15.2631.json,custom
+41.740107,15.259337,ov_fragema_41.7401_15.2593,Fragema,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/fragema_41.7401_15.2593.json,custom
+41.741294,15.259425,ov_bar_della_villa_41.7413_15.2594,Bar della Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_della_villa_41.7413_15.2594.json,custom
+41.734437,15.261363,osm_bar_ll_chioschetto_41.7344_15.2614,Bar Ll Chioschetto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_ll_chioschetto_41.7344_15.2614.json,custom
+41.739217,15.257618,ov_home_fit_41.7392_15.2576,HOME fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/home_fit_41.7392_15.2576.json,custom
+41.623662,15.105741,ov_museo_civico_archeologico_41.6237_15.1057,Museo Civico Archeologico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/museo_civico_archeologico_41.6237_15.1057.json,custom
+41.740713,15.258798,ov_museo_civico_archeologico_41.7407_15.2588,Museo Civico Archeologico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/museo_civico_archeologico_41.7407_15.2588.json,custom

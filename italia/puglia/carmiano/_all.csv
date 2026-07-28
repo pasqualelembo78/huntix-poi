@@ -1,45 +1,45 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Carmiano -- Tutti
-40.345720,18.047372,osm_corte_celestini_40.3457_18.0474,Corte Celestini,ristorante,ristorante
-40.346340,18.050460,ov_reggio_valerio_studio_odontoiatrico_40.3463_18.0505,Reggio Valerio Studio Odontoiatrico,HOSPITAL,hospital
-40.338400,18.061687,ov_la_maglianese_40.3384_18.0617,La Maglianese,RESTAURANT,ristorante
-40.339706,18.059666,ov_pizza_express__magliano__provincia_di_le_40.3397_18.0597,PIZZA EXPRESS (MAGLIANO) provincia di LECCE,RESTAURANT,ristorante
-40.339388,18.051259,ov_la_cascina_di_maria_pia_40.3394_18.0513,La Cascina di Maria Pia,RESTAURANT,ristorante
-40.344411,18.037780,ov_la_bella_vita_40.3444_18.0378,La Bella Vita,RESTAURANT,ristorante
-40.343382,18.043359,ov_nonno_celestino_pizzeria_40.3434_18.0434,Nonno Celestino Pizzeria,RESTAURANT,ristorante
-40.340183,18.044698,ov_il_palato_salato_carmiano_40.3402_18.0447,Il Palato Salato CARMIANO,RESTAURANT,ristorante
-40.348333,18.042699,ov_il_nido_food_drink_40.3483_18.0427,Il Nido food&drink,RESTAURANT,ristorante
-40.344709,18.043948,ov_bistr__4stagioni_40.3447_18.0439,Bistrò 4Stagioni,RESTAURANT,ristorante
-40.345023,18.046191,ov_fuori_orario_40.3450_18.0462,Fuori Orario,RESTAURANT,ristorante
-40.345695,18.047532,ov_corte_celestini_40.3457_18.0475,Corte Celestini,RESTAURANT,ristorante
-40.345680,18.047520,ov_brac_a___tagli___distillati_40.3457_18.0475,Bracìa - Tagli & Distillati,RESTAURANT,ristorante
-40.346349,18.040976,ov_andrea_lavinia_40.3463_18.0410,Andrea Lavinia,RESTAURANT,ristorante
-40.345112,18.038663,ov_ristorante_pizzeria_salento_40.3451_18.0387,Ristorante Pizzeria Salento,RESTAURANT,ristorante
-40.348496,18.037709,ov_pizzeria_la_piazzetta_40.3485_18.0377,Pizzeria La Piazzetta,RESTAURANT,ristorante
-40.350882,18.037969,ov_ottoemezzo_40.3509_18.0380,Ottoemezzo,RESTAURANT,ristorante
-40.338870,18.042175,ov_desire_40.3389_18.0422,Desire,RESTAURANT,bar_cafe
-40.338621,18.041863,ov_bar_bello_40.3386_18.0419,Bar bello,RESTAURANT,bar_cafe
-40.337816,18.062587,ov_gioia_40.3378_18.0626,Gioia,RESTAURANT,bar_cafe
-40.338137,18.061870,ov_new_frontier_40.3381_18.0619,New Frontier,RESTAURANT,bar_cafe
-40.340210,18.039090,ov_caffetteria_liberty_40.3402_18.0391,Caffetteria Liberty,RESTAURANT,bar_cafe
-40.343862,18.044322,ov_il_bacio_di_vino_40.3439_18.0443,Il bacio di_vino,RESTAURANT,bar_cafe
-40.342160,18.057700,ov_politi_caff__40.3422_18.0577,Politi Caffè,RESTAURANT,bar_cafe
-40.341919,18.043797,ov_bar_fiore_40.3419_18.0438,Bar Fiore,RESTAURANT,bar_cafe
-40.348798,18.041401,ov_old_street_cafe_40.3488_18.0414,Old Street Cafe,RESTAURANT,bar_cafe
-40.347179,18.044779,ov_li_birbanti_40.3472_18.0448,Li Birbanti,RESTAURANT,bar_cafe
-40.346910,18.045546,ov_rizzo_40.3469_18.0455,Rizzo,RESTAURANT,bar_cafe
-40.344516,18.044965,ov_caffe_diaz_40.3445_18.0450,Caffe Diaz,RESTAURANT,bar_cafe
-40.344831,18.040634,ov_miro_40.3448_18.0406,Miro,RESTAURANT,bar_cafe
-40.350290,18.038790,ov_rebis_cocktail_lab_40.3503_18.0388,Rebis Cocktail Lab,RESTAURANT,bar_cafe
-40.349286,18.039076,ov_burlesq_fashionable_40.3493_18.0391,Burlesq Fashionable,RESTAURANT,bar_cafe
-40.568000,15.495590,ov_a_s_d_latin_art_academy_caggiano_40.5680_15.4956,A.S.D Latin Art Academy Caggiano,GYM,palestra
-40.321922,18.041544,ov_paradise_sports_center_40.3219_18.0415,Paradise Sports Center,GYM,palestra
-40.331807,18.048294,ov_palazzetto_dello_sport_40.3318_18.0483,Palazzetto dello Sport,GYM,palestra
-40.333023,18.047711,ov_ecole_de_danse_kledi_dance_40.3330_18.0477,Ecole De Danse Kledi Dance,GYM,palestra
-40.337043,18.042869,ov_asd_il_panno_verde_40.3370_18.0429,Asd Il Panno Verde,GYM,palestra
-40.338099,18.033214,ov_centro_ippico_le_cheval_40.3381_18.0332,Centro Ippico Le Cheval,GYM,palestra
-40.341359,18.057241,ov_oltre_danza_40.3414_18.0572,Oltre Danza,GYM,palestra
-40.344906,18.045638,ov_le_kicche_di_lorena_40.3449_18.0456,Le kicche di Lorena,GYM,palestra
-40.345284,18.038411,ov_danza_e_passione_40.3453_18.0384,Danza e Passione,GYM,palestra
-40.349953,18.045813,ov_centro_fitness_s_s_d__40.3500_18.0458,Centro Fitness S.S.D.,GYM,palestra
-40.359233,18.036374,ov_scuderia_crazy_horse_40.3592_18.0364,Scuderia Crazy Horse,GYM,palestra
+40.346340,18.050460,ov_reggio_valerio_studio_odontoiatrico_40.3463_18.0505,Reggio Valerio Studio Odontoiatrico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/reggio_valerio_studio_odontoiatrico_40.3463_18.0505.json,custom
+40.338400,18.061687,ov_la_maglianese_40.3384_18.0617,La Maglianese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_maglianese_40.3384_18.0617.json,custom
+40.339706,18.059666,ov_pizza_express__magliano__provincia_di_le_40.3397_18.0597,PIZZA EXPRESS (MAGLIANO) provincia di LECCE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/pizza_express_magliano_provincia_di_lecc_40.3397_18.0597.json,custom
+40.339388,18.051259,ov_la_cascina_di_maria_pia_40.3394_18.0513,La Cascina di Maria Pia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_cascina_di_maria_pia_40.3394_18.0513.json,custom
+40.344411,18.037780,ov_la_bella_vita_40.3444_18.0378,La Bella Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_bella_vita_40.3444_18.0378.json,custom
+40.343382,18.043359,ov_nonno_celestino_pizzeria_40.3434_18.0434,Nonno Celestino Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/nonno_celestino_pizzeria_40.3434_18.0434.json,custom
+40.340183,18.044698,ov_il_palato_salato_carmiano_40.3402_18.0447,Il Palato Salato CARMIANO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/il_palato_salato_carmiano_40.3402_18.0447.json,custom
+40.348333,18.042699,ov_il_nido_food_drink_40.3483_18.0427,Il Nido food&drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/il_nido_fooddrink_40.3483_18.0427.json,custom
+40.344709,18.043948,ov_bistr__4stagioni_40.3447_18.0439,Bistrò 4Stagioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/bistr_4stagioni_40.3447_18.0439.json,custom
+40.345023,18.046191,ov_fuori_orario_40.3450_18.0462,Fuori Orario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/fuori_orario_40.3450_18.0462.json,custom
+40.345695,18.047532,ov_corte_celestini_40.3457_18.0475,Corte Celestini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/corte_celestini_40.3457_18.0475.json,custom
+40.345680,18.047520,ov_brac_a___tagli___distillati_40.3457_18.0475,Bracìa - Tagli & Distillati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/braca_-_tagli_distillati_40.3457_18.0475.json,custom
+40.346349,18.040976,ov_andrea_lavinia_40.3463_18.0410,Andrea Lavinia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/andrea_lavinia_40.3463_18.0410.json,custom
+40.345112,18.038663,ov_ristorante_pizzeria_salento_40.3451_18.0387,Ristorante Pizzeria Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ristorante_pizzeria_salento_40.3451_18.0387.json,custom
+40.348496,18.037709,ov_pizzeria_la_piazzetta_40.3485_18.0377,Pizzeria La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/pizzeria_la_piazzetta_40.3485_18.0377.json,custom
+40.350882,18.037969,ov_ottoemezzo_40.3509_18.0380,Ottoemezzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ottoemezzo_40.3509_18.0380.json,custom
+40.345720,18.047372,osm_corte_celestini_40.3457_18.0474,Corte Celestini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/corte_celestini_40.3457_18.0474.json,custom
+40.338870,18.042175,ov_desire_40.3389_18.0422,Desire,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/desire_40.3389_18.0422.json,custom
+40.338621,18.041863,ov_bar_bello_40.3386_18.0419,Bar bello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/bar_bello_40.3386_18.0419.json,custom
+40.337816,18.062587,ov_gioia_40.3378_18.0626,Gioia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/gioia_40.3378_18.0626.json,custom
+40.338137,18.061870,ov_new_frontier_40.3381_18.0619,New Frontier,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/new_frontier_40.3381_18.0619.json,custom
+40.340210,18.039090,ov_caffetteria_liberty_40.3402_18.0391,Caffetteria Liberty,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/caffetteria_liberty_40.3402_18.0391.json,custom
+40.343862,18.044322,ov_il_bacio_di_vino_40.3439_18.0443,Il bacio di_vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/il_bacio_divino_40.3439_18.0443.json,custom
+40.342160,18.057700,ov_politi_caff__40.3422_18.0577,Politi Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/politi_caff_40.3422_18.0577.json,custom
+40.341919,18.043797,ov_bar_fiore_40.3419_18.0438,Bar Fiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/bar_fiore_40.3419_18.0438.json,custom
+40.348798,18.041401,ov_old_street_cafe_40.3488_18.0414,Old Street Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/old_street_cafe_40.3488_18.0414.json,custom
+40.347179,18.044779,ov_li_birbanti_40.3472_18.0448,Li Birbanti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/li_birbanti_40.3472_18.0448.json,custom
+40.346910,18.045546,ov_rizzo_40.3469_18.0455,Rizzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/rizzo_40.3469_18.0455.json,custom
+40.344516,18.044965,ov_caffe_diaz_40.3445_18.0450,Caffe Diaz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/caffe_diaz_40.3445_18.0450.json,custom
+40.344831,18.040634,ov_miro_40.3448_18.0406,Miro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/miro_40.3448_18.0406.json,custom
+40.350290,18.038790,ov_rebis_cocktail_lab_40.3503_18.0388,Rebis Cocktail Lab,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/rebis_cocktail_lab_40.3503_18.0388.json,custom
+40.349286,18.039076,ov_burlesq_fashionable_40.3493_18.0391,Burlesq Fashionable,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/burlesq_fashionable_40.3493_18.0391.json,custom
+40.568000,15.495590,ov_a_s_d_latin_art_academy_caggiano_40.5680_15.4956,A.S.D Latin Art Academy Caggiano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/asd_latin_art_academy_caggiano_40.5680_15.4956.json,custom
+40.321922,18.041544,ov_paradise_sports_center_40.3219_18.0415,Paradise Sports Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/paradise_sports_center_40.3219_18.0415.json,custom
+40.331807,18.048294,ov_palazzetto_dello_sport_40.3318_18.0483,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/palazzetto_dello_sport_40.3318_18.0483.json,custom
+40.333023,18.047711,ov_ecole_de_danse_kledi_dance_40.3330_18.0477,Ecole De Danse Kledi Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ecole_de_danse_kledi_dance_40.3330_18.0477.json,custom
+40.337043,18.042869,ov_asd_il_panno_verde_40.3370_18.0429,Asd Il Panno Verde,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/asd_il_panno_verde_40.3370_18.0429.json,custom
+40.338099,18.033214,ov_centro_ippico_le_cheval_40.3381_18.0332,Centro Ippico Le Cheval,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/centro_ippico_le_cheval_40.3381_18.0332.json,custom
+40.341359,18.057241,ov_oltre_danza_40.3414_18.0572,Oltre Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/oltre_danza_40.3414_18.0572.json,custom
+40.344906,18.045638,ov_le_kicche_di_lorena_40.3449_18.0456,Le kicche di Lorena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/le_kicche_di_lorena_40.3449_18.0456.json,custom
+40.345284,18.038411,ov_danza_e_passione_40.3453_18.0384,Danza e Passione,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/danza_e_passione_40.3453_18.0384.json,custom
+40.349953,18.045813,ov_centro_fitness_s_s_d__40.3500_18.0458,Centro Fitness S.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/centro_fitness_ssd_40.3500_18.0458.json,custom
+40.359233,18.036374,ov_scuderia_crazy_horse_40.3592_18.0364,Scuderia Crazy Horse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/scuderia_crazy_horse_40.3592_18.0364.json,custom

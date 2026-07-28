@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # minervino_di_lecce -- gyms
-40.093173,18.425555,ov_palestra_acquario_a_s_d__40.0932_18.4256,Palestra Acquario a.s.d.,GYM,palestra
-40.088560,18.424550,ov_luca_polisportiva_futura_40.0886_18.4245,Luca Polisportiva Futura,GYM,palestra
-40.088483,18.424577,ov_futura_fitness_and_wellness_center_40.0885_18.4246,Futura Fitness and Wellness Center,GYM,palestra
+40.093173,18.425555,ov_palestra_acquario_a_s_d__40.0932_18.4256,Palestra Acquario a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/palestra_acquario_asd_40.0932_18.4256.json,custom
+40.088560,18.424550,ov_luca_polisportiva_futura_40.0886_18.4245,Luca Polisportiva Futura,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/luca_polisportiva_futura_40.0886_18.4245.json,custom
+40.088483,18.424577,ov_futura_fitness_and_wellness_center_40.0885_18.4246,Futura Fitness and Wellness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/futura_fitness_and_wellness_center_40.0885_18.4246.json,custom

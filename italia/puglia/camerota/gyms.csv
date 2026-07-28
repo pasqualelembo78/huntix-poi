@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # camerota -- gyms
-40.009034,15.372336,ov_studio_ginnico_e_posturale_40.0090_15.3723,Studio Ginnico e Posturale,GYM,palestra
-40.000507,15.383495,ov_spiaggia_lentiscelle_40.0005_15.3835,Spiaggia Lentiscelle,GYM,palestra
-40.000585,15.377675,ov_parco_giochi_gonfiabili_jump_sea_40.0006_15.3777,Parco giochi gonfiabili Jump Sea,GYM,palestra
-40.002145,15.379320,ov_diving_continente_blu_40.0021_15.3793,Diving Continente Blu,GYM,palestra
-39.999277,15.373815,ov_apnea_porto_infreschi_a_s_d_39.9993_15.3738,Apnea Porto Infreschi a.s.d,GYM,palestra
-40.000223,15.372195,ov_camerotasportfishing_40.0002_15.3722,CamerotaSportFishing,GYM,palestra
-39.998726,15.371296,ov_guide_sub_palinuro_39.9987_15.3713,Guide Sub Palinuro,GYM,palestra
-40.005058,15.360623,ov_expression_fitness_club_40.0051_15.3606,Expression Fitness Club,GYM,palestra
-40.056216,15.358711,ov_centro_benessere___licusati_40.0562_15.3587,Centro Benessere - Licusati,GYM,palestra
+40.009034,15.372336,ov_studio_ginnico_e_posturale_40.0090_15.3723,Studio Ginnico e Posturale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/studio_ginnico_e_posturale_40.0090_15.3723.json,custom
+40.000507,15.383495,ov_spiaggia_lentiscelle_40.0005_15.3835,Spiaggia Lentiscelle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/spiaggia_lentiscelle_40.0005_15.3835.json,custom
+40.000585,15.377675,ov_parco_giochi_gonfiabili_jump_sea_40.0006_15.3777,Parco giochi gonfiabili Jump Sea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/parco_giochi_gonfiabili_jump_sea_40.0006_15.3777.json,custom
+40.002145,15.379320,ov_diving_continente_blu_40.0021_15.3793,Diving Continente Blu,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/diving_continente_blu_40.0021_15.3793.json,custom
+39.999277,15.373815,ov_apnea_porto_infreschi_a_s_d_39.9993_15.3738,Apnea Porto Infreschi a.s.d,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/apnea_porto_infreschi_asd_39.9993_15.3738.json,custom
+40.000223,15.372195,ov_camerotasportfishing_40.0002_15.3722,CamerotaSportFishing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/camerotasportfishing_40.0002_15.3722.json,custom
+39.998726,15.371296,ov_guide_sub_palinuro_39.9987_15.3713,Guide Sub Palinuro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/guide_sub_palinuro_39.9987_15.3713.json,custom
+40.005058,15.360623,ov_expression_fitness_club_40.0051_15.3606,Expression Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/expression_fitness_club_40.0051_15.3606.json,custom
+40.056216,15.358711,ov_centro_benessere___licusati_40.0562_15.3587,Centro Benessere - Licusati,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/centro_benessere_-_licusati_40.0562_15.3587.json,custom

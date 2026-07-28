@@ -1,94 +1,81 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # francavilla_fontana -- restaurants
-40.526632,17.588721,osm_moku_sushi_40.5266_17.5887,Moku Sushi,ristorante,ristorante
-40.529482,17.584130,osm_queen_s_40.5295_17.5841,Queen's,ristorante,ristorante
-40.527143,17.588226,osm_kebabberia_sabri_40.5271_17.5882,Kebabberia sabri,ristorante,ristorante
-40.526995,17.588360,osm_new_pizza_40.5270_17.5884,New Pizza,ristorante,ristorante
-40.525960,17.584043,osm_uma_40.5260_17.5840,UMA,ristorante,ristorante
-40.530655,17.582591,osm_suite_77_40.5307_17.5826,Suite 77,ristorante,ristorante
-40.531062,17.582871,osm_pizzeria_napule_40.5311_17.5829,Pizzeria Napule,ristorante,ristorante
-40.531317,17.583210,osm_bracito_pizza___grill_40.5313_17.5832,Bracito Pizza & Grill,ristorante,ristorante
-40.531255,17.582817,osm_attrattoria___cibo_e_vino_40.5313_17.5828,Attrattoria - cibo e vino,ristorante,ristorante
-40.531430,17.581844,osm_il_ghiottone_40.5314_17.5818,Il Ghiottone,ristorante,ristorante
-40.531265,17.582131,osm_ristorante_arco_olimpio_40.5313_17.5821,Ristorante Arco Olimpio,ristorante,ristorante
-40.531747,17.584411,osm_trecentogradi_pizzeria_40.5317_17.5844,Trecentogradi pizzeria,ristorante,ristorante
-40.533209,17.585192,osm_pizzeria_paninoteca_briciole_40.5332_17.5852,Pizzeria Paninoteca Briciole,ristorante,ristorante
-40.532610,17.585121,osm_la_rustichella_40.5326_17.5851,La Rustichella,ristorante,ristorante
-40.529919,17.583414,osm_la_bottega_del_pizzaiolo_40.5299_17.5834,La bottega del pizzaiolo,ristorante,ristorante
-40.525156,17.586716,osm_quinto_borgo___ristorante_pizzeria_brace_40.5252_17.5867,Quinto Borgo - Ristorante Pizzeria Braceria,ristorante,ristorante
-40.534668,17.577889,osm_blu_food_street_food__da_marco__40.5347_17.5779,Blu Food Street Food (da Marco),ristorante,ristorante
-40.535191,17.578470,osm_la_fenice_40.5352_17.5785,La Fenice,ristorante,ristorante
-40.532400,17.588946,osm_pizzeria_giangi_s_40.5324_17.5889,Pizzeria Giangi's,ristorante,ristorante
-40.529526,17.605201,osm_lucignolo_40.5295_17.6052,Lucignolo,ristorante,ristorante
-40.536319,17.582747,osm_pizzeria_la_buona_luna_40.5363_17.5827,Pizzeria La Buona Luna,ristorante,ristorante
-40.531900,17.577722,osm_di_coste_macelleria_braceria_40.5319_17.5777,di Coste Macelleria&Braceria,ristorante,ristorante
-40.533941,17.581116,osm_pizzeria_amore___passione_40.5339_17.5811,Pizzeria Amore & Passione,ristorante,ristorante
-40.533426,17.581631,osm_patres_40.5334_17.5816,Patres,ristorante,ristorante
-40.529935,17.582370,osm_tavernacolo_40.5299_17.5824,Tavernacolo,ristorante,ristorante
-40.529722,17.582446,osm__aroma_40.5297_17.5824,'aroma,ristorante,ristorante
-40.509004,17.554695,osm_casina_spina_agriturismo_40.5090_17.5547,Casina Spina Agriturismo,ristorante,ristorante
-40.531665,17.584058,osm_trecentogradi_fast_food_40.5317_17.5841,Trecentogradi fast food,ristorante,ristorante
-40.477167,17.609603,ov_ristorante_parco_laurito_40.4772_17.6096,Ristorante Parco Laurito,RESTAURANT,ristorante
-40.491223,17.594676,ov_agriturismo_monteciminiello_40.4912_17.5947,Agriturismo Monteciminiello,RESTAURANT,ristorante
-40.509110,17.554670,ov_casina_spina_agriturismo_40.5091_17.5547,Casina Spina Agriturismo,RESTAURANT,ristorante
-40.525940,17.583961,ov_uma_japanese_ristorante_40.5259_17.5840,Uma Japanese Ristorante,RESTAURANT,ristorante
-40.525214,17.586649,ov_quinto_borgo_40.5252_17.5866,Quinto Borgo,RESTAURANT,ristorante
-40.524764,17.584101,ov_cin_cin_bar_40.5248_17.5841,Cin Cin Bar,RESTAURANT,ristorante
-40.524058,17.584616,ov_galipa_ristorante_40.5241_17.5846,Galipa Ristorante,RESTAURANT,ristorante
-40.526258,17.587345,ov_da_gianni_40.5263_17.5873,Da Gianni,RESTAURANT,ristorante
-40.526499,17.590380,ov_trattoria__pizzeria_sgrano_40.5265_17.5904,Trattoria- Pizzeria sgrano,RESTAURANT,ristorante
-40.529492,17.605178,ov_lucignolo_40.5295_17.6052,Lucignolo,RESTAURANT,ristorante
-40.534370,17.587356,ov_carpe_diem_la_pizzeria_40.5344_17.5874,Carpe Diem La Pizzeria,RESTAURANT,ristorante
-40.532410,17.588932,ov_pizzeria_giangi_s_40.5324_17.5889,Pizzeria Giangi's,RESTAURANT,ristorante
-40.532081,17.591399,ov_rosso_130_pizza___grill_40.5321_17.5914,Rosso 130 Pizza & Grill,RESTAURANT,ristorante
-40.531096,17.599943,ov_pizzeria_boomerang_40.5311_17.5999,Pizzeria Boomerang,RESTAURANT,ristorante
-40.526711,17.588471,ov_moku_sushi_40.5267_17.5885,Moku Sushi,RESTAURANT,ristorante
-40.527308,17.587380,ov_pizzeria_da_zio_ciccio_40.5273_17.5874,Pizzeria Da Zio Ciccio,RESTAURANT,ristorante
-40.531873,17.589828,ov_al_gusto_divino_40.5319_17.5898,Al Gusto Divino,RESTAURANT,ristorante
-40.531462,17.583325,ov_bracito_pizza_grill_40.5315_17.5833,Bracito Pizza&Grill,RESTAURANT,ristorante
-40.531786,17.584342,ov_trecentogradi_pizzeria_40.5318_17.5843,Trecentogradi pizzeria,RESTAURANT,ristorante
-40.531730,17.584081,ov_trecentogradi_fast_food_smash_burger_40.5317_17.5841,Trecentogradi fast food smash burger,RESTAURANT,ristorante
-40.531688,17.583054,ov_borgo_san_giovanni_40.5317_17.5831,Borgo San Giovanni,RESTAURANT,ristorante
-40.531447,17.582774,ov_attrattoria___cibo_e_vino_40.5314_17.5828,Attrattoria - cibo e vino,RESTAURANT,ristorante
-40.531417,17.582647,ov_trattoria_corrado_40.5314_17.5826,Trattoria Corrado,RESTAURANT,ristorante
-40.531226,17.582040,ov_ristorante_arco_olimpio_40.5312_17.5820,Ristorante Arco Olimpio,RESTAURANT,ristorante
-40.531064,17.582892,ov_pizzeria_napule_40.5311_17.5829,Pizzeria Napule,RESTAURANT,ristorante
-40.530763,17.582371,ov_18_metri_quadri_40.5308_17.5824,18 Metri Quadri,RESTAURANT,ristorante
-40.530790,17.582359,ov_creperia_da_annamaria_40.5308_17.5824,Creperia da Annamaria,RESTAURANT,ristorante
-40.530547,17.582829,ov_suite_77_40.5305_17.5828,Suite 77,RESTAURANT,ristorante
-40.530530,17.582875,ov_pizza_a_pezzi_in_piazza_40.5305_17.5829,Pizza a Pezzi in Piazza,RESTAURANT,ristorante
-40.530581,17.582751,ov_casa_resta_40.5306_17.5828,Casa Resta,RESTAURANT,ristorante
-40.530167,17.582570,ov_giba_cafe_40.5302_17.5826,Giba Cafe,RESTAURANT,ristorante
-40.530032,17.581558,ov_sal8_quisibeve_40.5300_17.5816,Sal8.quisibeve,RESTAURANT,ristorante
-40.530604,17.581718,ov_la_bodeghita_40.5306_17.5817,La Bodeghita,RESTAURANT,ristorante
-40.529712,17.582447,ov__aroma_40.5297_17.5824,'aroma,RESTAURANT,ristorante
-40.529529,17.584051,ov_pizzeria_queen_s_40.5295_17.5841,Pizzeria Queen's,RESTAURANT,ristorante
-40.529466,17.584504,ov_pescheria_l_aragosta_40.5295_17.5845,Pescheria l'aragosta,RESTAURANT,ristorante
-40.529790,17.583666,ov_mordi___fuggi_40.5298_17.5837,Mordi & Fuggi,RESTAURANT,ristorante
-40.529926,17.583479,ov_la_bottega_del_pizzaiolo_40.5299_17.5835,La bottega del pizzaiolo,RESTAURANT,ristorante
-40.529246,17.584650,ov_hamburgo_food_drink_40.5292_17.5846,Hamburgo Food&Drink,RESTAURANT,ristorante
-40.528513,17.586542,ov_l_arco_dei_sapori_40.5285_17.5865,L'Arco Dei Sapori,RESTAURANT,ristorante
-40.527431,17.582336,ov_al_piccolo_mondo_40.5274_17.5823,Al Piccolo Mondo,RESTAURANT,ristorante
-40.526880,17.583149,ov_casa_resta_40.5269_17.5831,Casa Resta,RESTAURANT,ristorante
-40.527870,17.580560,ov_pyro_s_food_40.5279_17.5806,Pyro's Food,RESTAURANT,ristorante
-40.528434,17.580419,ov_pizzeria_da_gianni_di_caliandro_giovanni_40.5284_17.5804,Pizzeria da Gianni di Caliandro Giovanni,RESTAURANT,ristorante
-40.528435,17.582901,ov_amare_fish___food_40.5284_17.5829,Amare Fish & Food,RESTAURANT,ristorante
-40.528799,17.582457,ov_la_locanda_dei_marinai_40.5288_17.5825,La locanda dei marinai,RESTAURANT,ristorante
-40.528778,17.582407,ov_trattoria_pizzeria_la_strettula_40.5288_17.5824,Trattoria Pizzeria La Strettula,RESTAURANT,ristorante
-40.531947,17.575352,ov_borgo_pizza_40.5319_17.5754,Borgo Pizza,RESTAURANT,ristorante
-40.533320,17.582664,ov_porta_roccella_40.5333_17.5827,Porta Roccella,RESTAURANT,ristorante
-40.532207,17.583476,ov_il_rosso_piccante_40.5322_17.5835,Il Rosso Piccante,RESTAURANT,ristorante
-40.532585,17.585100,ov_la_rustichella_40.5326_17.5851,La Rustichella,RESTAURANT,ristorante
-40.533108,17.585185,ov_pizzeria_paninoteca_briciole_40.5331_17.5852,Pizzeria Paninoteca Briciole,RESTAURANT,ristorante
-40.533571,17.581678,ov_patres_40.5336_17.5817,Patres,RESTAURANT,ristorante
-40.533979,17.581096,ov_pizzeria_amore___passione_40.5340_17.5811,Pizzeria Amore & Passione,RESTAURANT,ristorante
-40.536269,17.582760,ov_pizzeria_la_buona_luna_40.5363_17.5828,Pizzeria La Buona Luna,RESTAURANT,ristorante
-40.535233,17.578544,ov_la_fenice_40.5352_17.5785,La Fenice,RESTAURANT,ristorante
-40.558361,17.594538,ov_level_up_ristopub_pizzeria_40.5584_17.5945,Level Up Ristopub Pizzeria,RESTAURANT,ristorante
-40.555420,17.594280,ov_da_mery_dace_pizzeria_40.5554_17.5943,Da Mery dace pizzeria,RESTAURANT,ristorante
-40.548669,17.571493,ov_coimbra_brothers___francavilla_fontana_40.5487_17.5715,Coimbra Brothers - Francavilla Fontana,RESTAURANT,ristorante
-40.581723,17.615686,ov_ristorante_villareale_40.5817_17.6157,Ristorante Villareale,RESTAURANT,ristorante
-40.581613,17.615365,ov_villa_reale_40.5816_17.6154,Villa Reale,RESTAURANT,ristorante
-40.574418,17.581125,ov_farm_stay_tredicina_40.5744_17.5811,Farm Stay Tredicina,RESTAURANT,ristorante
-40.559621,17.659463,ov_masseria_giulio_40.5596_17.6595,Masseria Giulio,RESTAURANT,ristorante
-40.536762,17.647369,ov_autogrill_40.5368_17.6474,Autogrill,RESTAURANT,ristorante
+40.477167,17.609603,ov_ristorante_parco_laurito_40.4772_17.6096,Ristorante Parco Laurito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/ristorante_parco_laurito_40.4772_17.6096.json,custom
+40.491223,17.594676,ov_agriturismo_monteciminiello_40.4912_17.5947,Agriturismo Monteciminiello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/agriturismo_monteciminiello_40.4912_17.5947.json,custom
+40.509110,17.554670,ov_casina_spina_agriturismo_40.5091_17.5547,Casina Spina Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/casina_spina_agriturismo_40.5091_17.5547.json,custom
+40.525940,17.583961,ov_uma_japanese_ristorante_40.5259_17.5840,Uma Japanese Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/uma_japanese_ristorante_40.5259_17.5840.json,custom
+40.525214,17.586649,ov_quinto_borgo_40.5252_17.5866,Quinto Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/quinto_borgo_40.5252_17.5866.json,custom
+40.524764,17.584101,ov_cin_cin_bar_40.5248_17.5841,Cin Cin Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/cin_cin_bar_40.5248_17.5841.json,custom
+40.524058,17.584616,ov_galipa_ristorante_40.5241_17.5846,Galipa Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/galipa_ristorante_40.5241_17.5846.json,custom
+40.526258,17.587345,ov_da_gianni_40.5263_17.5873,Da Gianni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/da_gianni_40.5263_17.5873.json,custom
+40.526499,17.590380,ov_trattoria__pizzeria_sgrano_40.5265_17.5904,Trattoria- Pizzeria sgrano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trattoria-_pizzeria_sgrano_40.5265_17.5904.json,custom
+40.529492,17.605178,ov_lucignolo_40.5295_17.6052,Lucignolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/lucignolo_40.5295_17.6052.json,custom
+40.534370,17.587356,ov_carpe_diem_la_pizzeria_40.5344_17.5874,Carpe Diem La Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/carpe_diem_la_pizzeria_40.5344_17.5874.json,custom
+40.532410,17.588932,ov_pizzeria_giangi_s_40.5324_17.5889,Pizzeria Giangi's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_giangis_40.5324_17.5889.json,custom
+40.532081,17.591399,ov_rosso_130_pizza___grill_40.5321_17.5914,Rosso 130 Pizza & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/rosso_130_pizza_grill_40.5321_17.5914.json,custom
+40.531096,17.599943,ov_pizzeria_boomerang_40.5311_17.5999,Pizzeria Boomerang,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_boomerang_40.5311_17.5999.json,custom
+40.526711,17.588471,ov_moku_sushi_40.5267_17.5885,Moku Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/moku_sushi_40.5267_17.5885.json,custom
+40.527308,17.587380,ov_pizzeria_da_zio_ciccio_40.5273_17.5874,Pizzeria Da Zio Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_da_zio_ciccio_40.5273_17.5874.json,custom
+40.531873,17.589828,ov_al_gusto_divino_40.5319_17.5898,Al Gusto Divino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/al_gusto_divino_40.5319_17.5898.json,custom
+40.531462,17.583325,ov_bracito_pizza_grill_40.5315_17.5833,Bracito Pizza&Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/bracito_pizzagrill_40.5315_17.5833.json,custom
+40.531786,17.584342,ov_trecentogradi_pizzeria_40.5318_17.5843,Trecentogradi pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trecentogradi_pizzeria_40.5318_17.5843.json,custom
+40.531730,17.584081,ov_trecentogradi_fast_food_smash_burger_40.5317_17.5841,Trecentogradi fast food smash burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trecentogradi_fast_food_smash_burger_40.5317_17.5841.json,custom
+40.531688,17.583054,ov_borgo_san_giovanni_40.5317_17.5831,Borgo San Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/borgo_san_giovanni_40.5317_17.5831.json,custom
+40.531447,17.582774,ov_attrattoria___cibo_e_vino_40.5314_17.5828,Attrattoria - cibo e vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/attrattoria_-_cibo_e_vino_40.5314_17.5828.json,custom
+40.531417,17.582647,ov_trattoria_corrado_40.5314_17.5826,Trattoria Corrado,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trattoria_corrado_40.5314_17.5826.json,custom
+40.531226,17.582040,ov_ristorante_arco_olimpio_40.5312_17.5820,Ristorante Arco Olimpio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/ristorante_arco_olimpio_40.5312_17.5820.json,custom
+40.531064,17.582892,ov_pizzeria_napule_40.5311_17.5829,Pizzeria Napule,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_napule_40.5311_17.5829.json,custom
+40.530763,17.582371,ov_18_metri_quadri_40.5308_17.5824,18 Metri Quadri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/18_metri_quadri_40.5308_17.5824.json,custom
+40.530790,17.582359,ov_creperia_da_annamaria_40.5308_17.5824,Creperia da Annamaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/creperia_da_annamaria_40.5308_17.5824.json,custom
+40.530547,17.582829,ov_suite_77_40.5305_17.5828,Suite 77,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/suite_77_40.5305_17.5828.json,custom
+40.530530,17.582875,ov_pizza_a_pezzi_in_piazza_40.5305_17.5829,Pizza a Pezzi in Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizza_a_pezzi_in_piazza_40.5305_17.5829.json,custom
+40.530581,17.582751,ov_casa_resta_40.5306_17.5828,Casa Resta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/casa_resta_40.5306_17.5828.json,custom
+40.530167,17.582570,ov_giba_cafe_40.5302_17.5826,Giba Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/giba_cafe_40.5302_17.5826.json,custom
+40.530032,17.581558,ov_sal8_quisibeve_40.5300_17.5816,Sal8.quisibeve,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/sal8quisibeve_40.5300_17.5816.json,custom
+40.530604,17.581718,ov_la_bodeghita_40.5306_17.5817,La Bodeghita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_bodeghita_40.5306_17.5817.json,custom
+40.529712,17.582447,ov__aroma_40.5297_17.5824,'aroma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/aroma_40.5297_17.5824.json,custom
+40.529529,17.584051,ov_pizzeria_queen_s_40.5295_17.5841,Pizzeria Queen's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_queens_40.5295_17.5841.json,custom
+40.529466,17.584504,ov_pescheria_l_aragosta_40.5295_17.5845,Pescheria l'aragosta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pescheria_laragosta_40.5295_17.5845.json,custom
+40.529790,17.583666,ov_mordi___fuggi_40.5298_17.5837,Mordi & Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/mordi_fuggi_40.5298_17.5837.json,custom
+40.529926,17.583479,ov_la_bottega_del_pizzaiolo_40.5299_17.5835,La bottega del pizzaiolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_bottega_del_pizzaiolo_40.5299_17.5835.json,custom
+40.529246,17.584650,ov_hamburgo_food_drink_40.5292_17.5846,Hamburgo Food&Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/hamburgo_fooddrink_40.5292_17.5846.json,custom
+40.528513,17.586542,ov_l_arco_dei_sapori_40.5285_17.5865,L'Arco Dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/larco_dei_sapori_40.5285_17.5865.json,custom
+40.527431,17.582336,ov_al_piccolo_mondo_40.5274_17.5823,Al Piccolo Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/al_piccolo_mondo_40.5274_17.5823.json,custom
+40.526880,17.583149,ov_casa_resta_40.5269_17.5831,Casa Resta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/casa_resta_40.5269_17.5831.json,custom
+40.527870,17.580560,ov_pyro_s_food_40.5279_17.5806,Pyro's Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pyros_food_40.5279_17.5806.json,custom
+40.528434,17.580419,ov_pizzeria_da_gianni_di_caliandro_giovanni_40.5284_17.5804,Pizzeria da Gianni di Caliandro Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_da_gianni_di_caliandro_giovanni_40.5284_17.5804.json,custom
+40.528435,17.582901,ov_amare_fish___food_40.5284_17.5829,Amare Fish & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/amare_fish_food_40.5284_17.5829.json,custom
+40.528799,17.582457,ov_la_locanda_dei_marinai_40.5288_17.5825,La locanda dei marinai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_locanda_dei_marinai_40.5288_17.5825.json,custom
+40.528778,17.582407,ov_trattoria_pizzeria_la_strettula_40.5288_17.5824,Trattoria Pizzeria La Strettula,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trattoria_pizzeria_la_strettula_40.5288_17.5824.json,custom
+40.531947,17.575352,ov_borgo_pizza_40.5319_17.5754,Borgo Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/borgo_pizza_40.5319_17.5754.json,custom
+40.533320,17.582664,ov_porta_roccella_40.5333_17.5827,Porta Roccella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/porta_roccella_40.5333_17.5827.json,custom
+40.532207,17.583476,ov_il_rosso_piccante_40.5322_17.5835,Il Rosso Piccante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/il_rosso_piccante_40.5322_17.5835.json,custom
+40.532585,17.585100,ov_la_rustichella_40.5326_17.5851,La Rustichella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_rustichella_40.5326_17.5851.json,custom
+40.533108,17.585185,ov_pizzeria_paninoteca_briciole_40.5331_17.5852,Pizzeria Paninoteca Briciole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_paninoteca_briciole_40.5331_17.5852.json,custom
+40.533571,17.581678,ov_patres_40.5336_17.5817,Patres,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/patres_40.5336_17.5817.json,custom
+40.533979,17.581096,ov_pizzeria_amore___passione_40.5340_17.5811,Pizzeria Amore & Passione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_amore_passione_40.5340_17.5811.json,custom
+40.536269,17.582760,ov_pizzeria_la_buona_luna_40.5363_17.5828,Pizzeria La Buona Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/pizzeria_la_buona_luna_40.5363_17.5828.json,custom
+40.535233,17.578544,ov_la_fenice_40.5352_17.5785,La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_fenice_40.5352_17.5785.json,custom
+40.558361,17.594538,ov_level_up_ristopub_pizzeria_40.5584_17.5945,Level Up Ristopub Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/level_up_ristopub_pizzeria_40.5584_17.5945.json,custom
+40.555420,17.594280,ov_da_mery_dace_pizzeria_40.5554_17.5943,Da Mery dace pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/da_mery_dace_pizzeria_40.5554_17.5943.json,custom
+40.548669,17.571493,ov_coimbra_brothers___francavilla_fontana_40.5487_17.5715,Coimbra Brothers - Francavilla Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/coimbra_brothers_-_francavilla_fontana_40.5487_17.5715.json,custom
+40.581723,17.615686,ov_ristorante_villareale_40.5817_17.6157,Ristorante Villareale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/ristorante_villareale_40.5817_17.6157.json,custom
+40.581613,17.615365,ov_villa_reale_40.5816_17.6154,Villa Reale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/villa_reale_40.5816_17.6154.json,custom
+40.574418,17.581125,ov_farm_stay_tredicina_40.5744_17.5811,Farm Stay Tredicina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/farm_stay_tredicina_40.5744_17.5811.json,custom
+40.559621,17.659463,ov_masseria_giulio_40.5596_17.6595,Masseria Giulio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/masseria_giulio_40.5596_17.6595.json,custom
+40.536762,17.647369,ov_autogrill_40.5368_17.6474,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/autogrill_40.5368_17.6474.json,custom
+40.526632,17.588721,osm_moku_sushi_40.5266_17.5887,Moku Sushi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/moku_sushi_40.5266_17.5887.json,custom
+40.529482,17.584130,osm_queen_s_40.5295_17.5841,Queen's,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/queens_40.5295_17.5841.json,custom
+40.527143,17.588226,osm_kebabberia_sabri_40.5271_17.5882,Kebabberia sabri,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/kebabberia_sabri_40.5271_17.5882.json,custom
+40.526995,17.588360,osm_new_pizza_40.5270_17.5884,New Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/new_pizza_40.5270_17.5884.json,custom
+40.525960,17.584043,osm_uma_40.5260_17.5840,UMA,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/uma_40.5260_17.5840.json,custom
+40.531317,17.583210,osm_bracito_pizza___grill_40.5313_17.5832,Bracito Pizza & Grill,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/bracito_pizza_grill_40.5313_17.5832.json,custom
+40.531430,17.581844,osm_il_ghiottone_40.5314_17.5818,Il Ghiottone,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/il_ghiottone_40.5314_17.5818.json,custom
+40.525156,17.586716,osm_quinto_borgo___ristorante_pizzeria_brace_40.5252_17.5867,Quinto Borgo - Ristorante Pizzeria Braceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/quinto_borgo_-_ristorante_pizzeria_brace_40.5252_17.5867.json,custom
+40.534668,17.577889,osm_blu_food_street_food__da_marco__40.5347_17.5779,Blu Food Street Food (da Marco),ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/blu_food_street_food_da_marco_40.5347_17.5779.json,custom
+40.535191,17.578470,osm_la_fenice_40.5352_17.5785,La Fenice,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/la_fenice_40.5352_17.5785.json,custom
+40.529526,17.605201,osm_lucignolo_40.5295_17.6052,Lucignolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/lucignolo_40.5295_17.6052.json,custom
+40.531900,17.577722,osm_di_coste_macelleria_braceria_40.5319_17.5777,di Coste Macelleria&Braceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/di_coste_macelleriabraceria_40.5319_17.5777.json,custom
+40.533426,17.581631,osm_patres_40.5334_17.5816,Patres,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/patres_40.5334_17.5816.json,custom
+40.529935,17.582370,osm_tavernacolo_40.5299_17.5824,Tavernacolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/tavernacolo_40.5299_17.5824.json,custom
+40.531665,17.584058,osm_trecentogradi_fast_food_40.5317_17.5841,Trecentogradi fast food,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/trecentogradi_fast_food_40.5317_17.5841.json,custom

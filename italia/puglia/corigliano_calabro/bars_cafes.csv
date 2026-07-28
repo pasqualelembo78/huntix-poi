@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corigliano_calabro -- bars_cafes
-39.692599,16.519950,ov_lido_the_cube_39.6926_16.5199,Lido the cube,RESTAURANT,bar_cafe
-39.645882,16.495628,ov_beer_corner_heineken_39.6459_16.4956,Beer Corner Heineken,RESTAURANT,bar_cafe
-39.630477,16.520667,ov_mozart_caff__srl_39.6305_16.5207,Mozart Caffè SRL,RESTAURANT,bar_cafe
-39.629498,16.504757,osm_bar_tabaccheria_laudone_39.6295_16.5048,BAR TABACCHERIA LAUDONE,bar_cafe,bar_cafe
+39.692599,16.519950,ov_lido_the_cube_39.6926_16.5199,Lido the cube,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_calabro/pages/lido_the_cube_39.6926_16.5199.json,custom
+39.645882,16.495628,ov_beer_corner_heineken_39.6459_16.4956,Beer Corner Heineken,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_calabro/pages/beer_corner_heineken_39.6459_16.4956.json,custom
+39.630477,16.520667,ov_mozart_caff__srl_39.6305_16.5207,Mozart Caffè SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_calabro/pages/mozart_caff_srl_39.6305_16.5207.json,custom
+39.629498,16.504757,osm_bar_tabaccheria_laudone_39.6295_16.5048,BAR TABACCHERIA LAUDONE,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_calabro/pages/bar_tabaccheria_laudone_39.6295_16.5048.json,custom

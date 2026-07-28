@@ -1,0 +1,12 @@
+{
+  "banner": { "icon": "\uD83C\uDFDB\uFE0F", "title": "{name}", "subtitle": "Museo", "color": "#455A64" },
+  "sections": [
+    {"type":"text","title":"Mostre","content":"Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."},
+    {"type":"menu","title":"Attivit\u00e0","items":[
+      {"name":"Visita Guidata","price":"\u20ac0","emoji":"\uD83D\uDCD6","action":{"type":"consume","need":"fun","gain":30}},
+      {"name":"Laboratorio","price":"\u20ac0","emoji":"\uD83C\uDFA8","action":{"type":"consume","need":"fun","gain":25}}
+    ]},
+    {"type":"action","title":"Esplora","emoji":"\uD83D\uDD0D","action":{"type":"consume","need":"fun","gain":30}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

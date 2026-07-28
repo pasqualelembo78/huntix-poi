@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # frascineto -- bars_cafes
-39.835665,16.267079,ov_bar_del_corso_39.8357_16.2671,Bar Del Corso,RESTAURANT,bar_cafe
-39.832292,16.258935,ov_bar_caffetteria_perrone_39.8323_16.2589,Bar Caffetteria Perrone,RESTAURANT,bar_cafe
+39.835665,16.267079,ov_bar_del_corso_39.8357_16.2671,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/bar_del_corso_39.8357_16.2671.json,custom
+39.832292,16.258935,ov_bar_caffetteria_perrone_39.8323_16.2589,Bar Caffetteria Perrone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/bar_caffetteria_perrone_39.8323_16.2589.json,custom

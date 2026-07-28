@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carapelle -- restaurants
-41.365933,15.692649,ov_tu__ami_41.3659_15.6926,Tu’ Ami,RESTAURANT,ristorante
-41.366030,15.692821,ov_paninoteca_spaghetteria_musica_e_morsi_41.3660_15.6928,Paninoteca Spaghetteria Musica e Morsi,RESTAURANT,ristorante
-41.366178,15.694255,ov_pizzeria_snack_41.3662_15.6943,Pizzeria Snack,RESTAURANT,ristorante
-41.365647,15.694098,ov_la_piramide_di_sardella_maria_41.3656_15.6941,La Piramide di Sardella Maria,RESTAURANT,ristorante
-41.365076,15.693643,ov_cueva_bistrot_41.3651_15.6936,Cueva Bistrot,RESTAURANT,ristorante
-41.364907,15.693765,ov_montereale_dinner_s_wine_41.3649_15.6938,Montereale Dinner's Wine,RESTAURANT,ristorante
-41.358120,15.695885,ov_pizzeria_i_tavern_41.3581_15.6959,Pizzeria I Tavern,RESTAURANT,ristorante
+41.365933,15.692649,ov_tu__ami_41.3659_15.6926,Tu’ Ami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/tu_ami_41.3659_15.6926.json,custom
+41.366030,15.692821,ov_paninoteca_spaghetteria_musica_e_morsi_41.3660_15.6928,Paninoteca Spaghetteria Musica e Morsi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/paninoteca_spaghetteria_musica_e_morsi_41.3660_15.6928.json,custom
+41.366178,15.694255,ov_pizzeria_snack_41.3662_15.6943,Pizzeria Snack,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/pizzeria_snack_41.3662_15.6943.json,custom
+41.365647,15.694098,ov_la_piramide_di_sardella_maria_41.3656_15.6941,La Piramide di Sardella Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/la_piramide_di_sardella_maria_41.3656_15.6941.json,custom
+41.365076,15.693643,ov_cueva_bistrot_41.3651_15.6936,Cueva Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/cueva_bistrot_41.3651_15.6936.json,custom
+41.364907,15.693765,ov_montereale_dinner_s_wine_41.3649_15.6938,Montereale Dinner's Wine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/montereale_dinners_wine_41.3649_15.6938.json,custom
+41.358120,15.695885,ov_pizzeria_i_tavern_41.3581_15.6959,Pizzeria I Tavern,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carapelle/pages/pizzeria_i_tavern_41.3581_15.6959.json,custom

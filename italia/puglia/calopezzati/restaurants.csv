@@ -1,11 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # calopezzati -- restaurants
-39.580572,16.819198,osm_la_lanterna_39.5806_16.8192,La lanterna,ristorante,ristorante
-39.561010,16.803148,osm_la_tavernetta_39.5610_16.8031,La tavernetta,ristorante,ristorante
-39.561450,16.831079,osm_ristorante_pizzeria_calabria_da_tonino_39.5614_16.8311,Ristorante Pizzeria Calabria da Tonino,ristorante,ristorante
-39.560928,16.803064,ov_la_tavernetta_39.5609_16.8031,La Tavernetta,RESTAURANT,ristorante
-39.580484,16.819214,ov_la_lanterna_39.5805_16.8192,La Lanterna,RESTAURANT,ristorante
-39.580981,16.818285,ov_griglieria_blacona_39.5810_16.8183,Griglieria Blacona,RESTAURANT,ristorante
-39.580852,16.818274,ov_casbah_pizzeria_rosticceria_39.5809_16.8183,"Casbah,Pizzeria-Rosticceria",RESTAURANT,ristorante
-39.567346,16.822907,ov_la_lanterna_39.5673_16.8229,La Lanterna,RESTAURANT,ristorante
-39.561427,16.831049,ov_ristorante_pizzeria_calabria_39.5614_16.8310,Ristorante Pizzeria Calabria,RESTAURANT,ristorante
+39.560928,16.803064,ov_la_tavernetta_39.5609_16.8031,La Tavernetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/la_tavernetta_39.5609_16.8031.json,custom
+39.580484,16.819214,ov_la_lanterna_39.5805_16.8192,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/la_lanterna_39.5805_16.8192.json,custom
+39.580981,16.818285,ov_griglieria_blacona_39.5810_16.8183,Griglieria Blacona,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/griglieria_blacona_39.5810_16.8183.json,custom
+39.580852,16.818274,ov_casbah_pizzeria_rosticceria_39.5809_16.8183,"Casbah,Pizzeria-Rosticceria",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/casbahpizzeria-rosticceria_39.5809_16.8183.json,custom
+39.567346,16.822907,ov_la_lanterna_39.5673_16.8229,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/la_lanterna_39.5673_16.8229.json,custom
+39.561427,16.831049,ov_ristorante_pizzeria_calabria_39.5614_16.8310,Ristorante Pizzeria Calabria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/ristorante_pizzeria_calabria_39.5614_16.8310.json,custom
+39.580572,16.819198,osm_la_lanterna_39.5806_16.8192,La lanterna,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/la_lanterna_39.5806_16.8192.json,custom
+39.561450,16.831079,osm_ristorante_pizzeria_calabria_da_tonino_39.5614_16.8311,Ristorante Pizzeria Calabria da Tonino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calopezzati/pages/ristorante_pizzeria_calabria_da_tonino_39.5614_16.8311.json,custom

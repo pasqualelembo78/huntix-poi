@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alliste -- bars_cafes
-39.921348,18.064168,ov_torre_sinfon__39.9213_18.0642,Torre Sinfonò,RESTAURANT,bar_cafe
-39.928214,18.051537,ov_kaletta_valeriano_s_bar_39.9282_18.0515,Kaletta Valeriano's Bar,RESTAURANT,bar_cafe
-39.936993,18.117558,ov_rosa_caffe_39.9370_18.1176,Rosa Caffe,RESTAURANT,bar_cafe
-39.934865,18.045886,ov_sunset_cafe_39.9349_18.0459,Sunset Cafe,RESTAURANT,bar_cafe
-39.948316,18.088783,ov_d_an_v__39.9483_18.0888,D'an.vè,RESTAURANT,bar_cafe
-39.947719,18.089313,ov_kalimba_39.9477_18.0893,Kalimba,RESTAURANT,bar_cafe
-39.947365,18.089764,ov_cafe_dei_napoli_39.9474_18.0898,Cafe Dei Napoli,RESTAURANT,bar_cafe
+39.921348,18.064168,ov_torre_sinfon__39.9213_18.0642,Torre Sinfonò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/torre_sinfon_39.9213_18.0642.json,custom
+39.928214,18.051537,ov_kaletta_valeriano_s_bar_39.9282_18.0515,Kaletta Valeriano's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/kaletta_valerianos_bar_39.9282_18.0515.json,custom
+39.936993,18.117558,ov_rosa_caffe_39.9370_18.1176,Rosa Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/rosa_caffe_39.9370_18.1176.json,custom
+39.934865,18.045886,ov_sunset_cafe_39.9349_18.0459,Sunset Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/sunset_cafe_39.9349_18.0459.json,custom
+39.948316,18.088783,ov_d_an_v__39.9483_18.0888,D'an.vè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/danv_39.9483_18.0888.json,custom
+39.947719,18.089313,ov_kalimba_39.9477_18.0893,Kalimba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/kalimba_39.9477_18.0893.json,custom
+39.947365,18.089764,ov_cafe_dei_napoli_39.9474_18.0898,Cafe Dei Napoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/cafe_dei_napoli_39.9474_18.0898.json,custom

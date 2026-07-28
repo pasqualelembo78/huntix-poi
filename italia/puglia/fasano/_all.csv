@@ -1,301 +1,300 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Fasano -- Tutti
-40.796762,17.476152,osm_masseria_oasi_san_giovanni_battista_40.7968_17.4762,Masseria Oasi San Giovanni Battista,ristorante,ristorante
-40.840084,17.468894,osm_amare_40.8401_17.4689,Amare,ristorante,ristorante
-40.871666,17.411860,osm_da_renzina_40.8717_17.4119,Da Renzina,ristorante,ristorante
-40.839644,17.468228,osm_el_chiringuito_40.8396_17.4682,El Chiringuito,ristorante,ristorante
-40.832743,17.356721,ov_cardiologia_di_fasano_40.8327_17.3567,Cardiologia di Fasano,HOSPITAL,hospital
-40.832478,17.356896,ov_postazione_118_fasano_40.8325_17.3569,Postazione 118 Fasano,HOSPITAL,hospital
-40.832521,17.356722,ov_ospedale_civile_umberto_i_40.8325_17.3567,Ospedale Civile Umberto I,HOSPITAL,hospital
-40.828532,17.356307,ov_clinica_mater_day_bari_40.8285_17.3563,Clinica Mater Day Bari,HOSPITAL,hospital
-40.857370,17.350220,ov_mcdonald_s_40.8574_17.3502,McDonald's,RESTAURANT,ristorante
-40.859546,17.387363,ov_ristorante_carosello_40.8595_17.3874,Ristorante Carosello,RESTAURANT,ristorante
-40.875190,17.397885,ov_due_camini_40.8752_17.3979,Due Camini,RESTAURANT,ristorante
-40.875678,17.409020,ov_la_sorgente_savelletri_40.8757_17.4090,La Sorgente Savelletri,RESTAURANT,ristorante
-40.878440,17.403650,ov_cala_masciola_40.8784_17.4037,Cala Masciola,RESTAURANT,ristorante
-40.864383,17.423738,ov_born___marezzature_40.8644_17.4237,BORN - Marezzature,RESTAURANT,ristorante
-40.873457,17.410815,ov_luna_rossa_40.8735_17.4108,Luna Rossa,RESTAURANT,ristorante
-40.873276,17.410948,ov_serri_bistrot_40.8733_17.4109,Serri Bistrot,RESTAURANT,ristorante
-40.873185,17.411149,ov_momo_40.8732_17.4111,Momo,RESTAURANT,ristorante
-40.872845,17.411385,ov_la_taverna_di_umberto_40.8728_17.4114,La Taverna di Umberto,RESTAURANT,ristorante
-40.872720,17.411655,ov_braceria_sabatelli_40.8727_17.4117,Braceria Sabatelli,RESTAURANT,ristorante
-40.872747,17.411839,ov_pescheria_2_mari_40.8727_17.4118,Pescheria 2 Mari,RESTAURANT,ristorante
-40.872632,17.412005,ov_anema_e_core_40.8726_17.4120,Anema e core,RESTAURANT,ristorante
-40.871910,17.411755,ov_mareducato_40.8719_17.4118,Mareducato,RESTAURANT,ristorante
-40.871541,17.411836,ov_ristorante_da_maddalena_40.8715_17.4118,Ristorante da Maddalena,RESTAURANT,ristorante
-40.872051,17.407346,ov_so_co_pesca_40.8721_17.4073,So.Co.Pesca,RESTAURANT,ristorante
-40.872286,17.408191,ov_la_marea_ristorante_savelletri_40.8723_17.4082,La Marea ristorante Savelletri,RESTAURANT,ristorante
-40.872876,17.410188,ov_la_salumeria_del_gusto__savelletri_40.8729_17.4102,"La Salumeria del gusto, Savelletri",RESTAURANT,ristorante
-40.873554,17.408917,ov_la_rosa_dei_venti_savelletri_40.8736_17.4089,La Rosa Dei Venti Savelletri,RESTAURANT,ristorante
-40.873514,17.409514,ov_don_pesce_40.8735_17.4095,Don Pesce,RESTAURANT,ristorante
-40.873362,17.409653,ov_fronte_mare_40.8734_17.4097,Fronte Mare,RESTAURANT,ristorante
-40.873304,17.410333,ov_osteria_del_porto_40.8733_17.4103,Osteria del Porto,RESTAURANT,ristorante
-40.873362,17.410479,ov_sapore_di_sale_ristorante_carpacceria_sa_40.8734_17.4105,Sapore di Sale ristorante carpacceria Savelletri,RESTAURANT,ristorante
-40.873213,17.395391,ov_ristorante_la_frasca_40.8732_17.3954,Ristorante La Frasca,RESTAURANT,ristorante
-40.855431,17.431394,ov_savelletri___torre_canne_40.8554_17.4314,Savelletri - Torre Canne,RESTAURANT,ristorante
-40.864096,17.424804,ov_pettolecchia___il_lido_40.8641_17.4248,Pettolecchia - Il Lido,RESTAURANT,ristorante
-40.856985,17.437170,ov_alba_chiara_40.8570_17.4372,Alba Chiara,RESTAURANT,ristorante
-40.856808,17.438628,ov_la_rotonda_40.8568_17.4386,La Rotonda,RESTAURANT,ristorante
-40.855762,17.441013,ov_la_locanda_del_riccio_40.8558_17.4410,La locanda del riccio,RESTAURANT,ristorante
-40.854336,17.444677,ov_ricciolandia_40.8543_17.4447,Ricciolandia,RESTAURANT,ristorante
-40.846330,17.452080,ov_gaudium_40.8463_17.4521,Gaudium,RESTAURANT,ristorante
-40.843807,17.464261,ov_dal_moro_40.8438_17.4643,Dal Moro,RESTAURANT,ristorante
-40.843670,17.464402,ov_la_perla_del_mare_40.8437_17.4644,La perla del mare,RESTAURANT,ristorante
-40.840061,17.469759,ov_la_baia_torre_canne_40.8401_17.4698,La Baia Torre Canne,RESTAURANT,ristorante
-40.839979,17.468978,ov_amare_40.8400_17.4690,Amare,RESTAURANT,ristorante
-40.839442,17.467130,ov_cirie_40.8394_17.4671,Cirie,RESTAURANT,ristorante
-40.841161,17.468211,ov_surfish_street_seafood_40.8412_17.4682,SURFISH street seafood,RESTAURANT,ristorante
-40.841200,17.468250,ov_dadooda_panzerotti_dal_classico_al_gourm_40.8412_17.4683,Dadooda Panzerotti dal Classico al Gourmet Bari,RESTAURANT,ristorante
-40.841310,17.468621,ov_piccadilly_bistrot_40.8413_17.4686,Piccadilly Bistrot,RESTAURANT,ristorante
-40.840892,17.470116,ov_vico_pescatori_40.8409_17.4701,Vico Pescatori,RESTAURANT,ristorante
-40.841521,17.469964,ov_pescheria_da_vittorio_40.8415_17.4700,Pescheria Da Vittorio,RESTAURANT,ristorante
-40.841418,17.468650,ov_andr____aperitivi___cucina_40.8414_17.4686,Andrè - Aperitivi & Cucina,RESTAURANT,ristorante
-40.841473,17.468709,ov_osteria_del_porticciolo_40.8415_17.4687,Osteria Del Porticciolo,RESTAURANT,ristorante
-40.842671,17.468274,ov_ristorante_al_buco_40.8427_17.4683,Ristorante Al Buco,RESTAURANT,ristorante
-40.842430,17.468103,ov_tutto_pronto_da_gianni_torre_canne_40.8424_17.4681,Tutto pronto da Gianni torre canne,RESTAURANT,ristorante
-40.842061,17.467531,ov_l_ombelico_del_mondo_40.8421_17.4675,L'ombelico del Mondo,RESTAURANT,ristorante
-40.843124,17.465996,ov_la_rotonda_40.8431_17.4660,La Rotonda,RESTAURANT,ristorante
-40.840496,17.462466,ov_anticalama_40.8405_17.4625,Anticalama,RESTAURANT,ristorante
-40.812340,17.495889,ov_ristorante_pizzeria_la_forchetta_d_oro_40.8123_17.4959,Ristorante-Pizzeria La Forchetta d'Oro,RESTAURANT,ristorante
-40.812128,17.455198,ov_ristorante_l_agrumeto_40.8121_17.4552,Ristorante l'Agrumeto,RESTAURANT,ristorante
-40.829901,17.475886,ov_autentico_wine___restaurant_40.8299_17.4759,Autentico Wine & Restaurant,RESTAURANT,ristorante
-40.829459,17.475266,ov_gi_ammare_osteria_contemporanea_40.8295_17.4753,Giùammare Osteria Contemporanea,RESTAURANT,ristorante
-40.830592,17.472785,ov_la_brace_40.8306_17.4728,La Brace,RESTAURANT,ristorante
-40.830788,17.471866,ov_dubonnet_40.8308_17.4719,Dubonnet,RESTAURANT,ristorante
-40.831316,17.441940,ov_masseria_stefanodelconte_40.8313_17.4419,Masseria Stefanodelconte,RESTAURANT,ristorante
-40.822555,17.424730,ov_ristorante_sciurlicchio_40.8226_17.4247,Ristorante Sciurlicchio,RESTAURANT,ristorante
-40.812189,17.418641,ov_masseria_priore_40.8122_17.4186,Masseria Priore,RESTAURANT,ristorante
-40.815380,17.418707,ov_braceria_cofano_40.8154_17.4187,Braceria Cofano,RESTAURANT,ristorante
-40.821442,17.423199,ov_torretta_san_martino_40.8214_17.4232,Torretta San Martino,RESTAURANT,ristorante
-40.821710,17.412439,ov_savoia_cafe_40.8217_17.4124,Savoia Cafe,RESTAURANT,ristorante
-40.817936,17.406226,ov_agricola_laterza_40.8179_17.4062,Agricola Laterza,RESTAURANT,ristorante
-40.815248,17.410878,ov_pizzeria_la_baita_40.8152_17.4109,Pizzeria La Baita,RESTAURANT,ristorante
-40.813883,17.417428,ov_la_giara_40.8139_17.4174,La Giara,RESTAURANT,ristorante
-40.813204,17.411222,ov_malibu_pizza_e_food_pezze_di_greco_40.8132_17.4112,Malibu pizza e food Pezze di Greco,RESTAURANT,ristorante
-40.814171,17.409499,ov_pizzeria_da_peppino_40.8142_17.4095,Pizzeria da Peppino,RESTAURANT,ristorante
-40.816184,17.404945,ov_gli_archi_40.8162_17.4049,Gli Archi,RESTAURANT,ristorante
-40.833050,17.393121,ov_gioblu_restaurant_fish_bar_40.8331_17.3931,Gioblu Restaurant Fish Bar,RESTAURANT,ristorante
-40.853172,17.447333,ov_l_oasi_del_riccio_40.8532_17.4473,L'Oasi del Riccio,RESTAURANT,ristorante
-40.853748,17.445982,ov_il_principe_del_mare_40.8537_17.4460,Il Principe del Mare,RESTAURANT,ristorante
-40.853518,17.443920,ov_the_captain_s_inn_40.8535_17.4439,The Captain's Inn,RESTAURANT,ristorante
-40.833121,17.365530,ov_la_pizzichella_40.8331_17.3655,La Pizzichella,RESTAURANT,ristorante
-40.835473,17.366049,ov_tutto_pronto_da_gianni_40.8355_17.3660,Tutto Pronto da Gianni,RESTAURANT,ristorante
-40.835190,17.362700,ov_panificio_la_vetrina_del_fornaio_40.8352_17.3627,Panificio la vetrina del fornaio,RESTAURANT,ristorante
-40.835150,17.362770,ov_piemme_petroli_40.8351_17.3628,Piemme Petroli,RESTAURANT,ristorante
-40.834397,17.364637,ov_miyabi_fusion_restaurant_40.8344_17.3646,Miyabi Fusion Restaurant,RESTAURANT,ristorante
-40.834132,17.359695,ov_ecom__pizzeria_40.8341_17.3597,Ecomè Pizzeria,RESTAURANT,ristorante
-40.833410,17.357233,ov_area_break_40.8334_17.3572,Area Break,RESTAURANT,ristorante
-40.834470,17.358666,ov_da_michele_vini___gusto_40.8345_17.3587,Da Michele Vini & Gusto,RESTAURANT,ristorante
-40.835082,17.360693,ov_comeacasafasano_40.8351_17.3607,comeacasafasano,RESTAURANT,ristorante
-40.834925,17.358766,ov_trattino___vita_in_piazzetta_40.8349_17.3588,Trattino - Vita In Piazzetta,RESTAURANT,ristorante
-40.834975,17.358280,ov_la_locanda_di_martume_40.8350_17.3583,La Locanda di Martume,RESTAURANT,ristorante
-40.835130,17.357658,ov_corazon_40.8351_17.3577,Corazon,RESTAURANT,ristorante
-40.835327,17.357589,ov_pizzeria_del_portico_40.8353_17.3576,Pizzeria Del Portico,RESTAURANT,ristorante
-40.835479,17.357796,ov_i_santi___braceria_pugliese_40.8355_17.3578,I Santi - Braceria Pugliese,RESTAURANT,ristorante
-40.835524,17.357947,ov_ciporti_40.8355_17.3579,Ciporti,RESTAURANT,ristorante
-40.835624,17.358363,ov_crepi_il_luppolo_40.8356_17.3584,Crepi Il Luppolo,RESTAURANT,ristorante
-40.836388,17.359112,ov_shalla___culture_e_cotture_40.8364_17.3591,Shalla - culture e cotture,RESTAURANT,ristorante
-40.836019,17.359335,ov_artefarina_lievitati_40.8360_17.3593,Artefarina lievitati,RESTAURANT,ristorante
-40.835748,17.359797,ov_forcella___cucina_e_cantina_40.8357_17.3598,Forcella - Cucina e Cantina,RESTAURANT,ristorante
-40.835821,17.361619,ov_cala_masciola_40.8358_17.3616,Cala Masciola,RESTAURANT,ristorante
-40.835910,17.361583,ov_la_baia_40.8359_17.3616,La Baia,RESTAURANT,ristorante
-40.835965,17.362814,ov_la_tana_dell_orso_40.8360_17.3628,La tana dell'Orso,RESTAURANT,ristorante
-40.836260,17.363637,ov_il_matterello_40.8363_17.3636,IL Matterello,RESTAURANT,ristorante
-40.836493,17.361748,ov_pentole_e_provette_40.8365_17.3617,Pentole e Provette,RESTAURANT,ristorante
-40.837638,17.361873,ov_da_pollastro_40.8376_17.3619,Da Pollastro,RESTAURANT,ristorante
-40.838312,17.360006,ov_osteria_popolare_40.8383_17.3600,Osteria Popolare,RESTAURANT,ristorante
-40.838822,17.360613,ov_zerodoppiozero_40.8388_17.3606,ZeroDoppioZero,RESTAURANT,ristorante
-40.838857,17.358843,ov_masseria_parco_di_castro_40.8389_17.3588,Masseria Parco di Castro,RESTAURANT,ristorante
-40.841014,17.357538,ov_bloodymary_40.8410_17.3575,BloodyMary,RESTAURANT,ristorante
-40.839348,17.356348,ov_mediterranea_acqua_di_mare_40.8393_17.3563,Mediterranea Acqua di Mare,RESTAURANT,ristorante
-40.838436,17.356046,ov_peyote_40.8384_17.3560,Peyote,RESTAURANT,ristorante
-40.837972,17.355851,ov_pizzeria_trimalchione_40.8380_17.3559,Pizzeria Trimalchione,RESTAURANT,ristorante
-40.837753,17.356117,ov_fuori_menu_40.8378_17.3561,Fuori Menu,RESTAURANT,ristorante
-40.837545,17.356787,ov_terantiga_40.8375_17.3568,Terantiga,RESTAURANT,ristorante
-40.837266,17.356722,ov_ardecuore_40.8373_17.3567,Ardecuore,RESTAURANT,ristorante
-40.837067,17.356926,ov_doppio_gusto_40.8371_17.3569,Doppio Gusto,RESTAURANT,ristorante
-40.837648,17.354803,ov_salumeria_e_gastronomia_sabatelli_40.8376_17.3548,Salumeria e Gastronomia Sabatelli,RESTAURANT,ristorante
-40.835892,17.354130,ov_la_ruota_40.8359_17.3541,La Ruota,RESTAURANT,ristorante
-40.835916,17.356886,ov_focacceria_la_cambusa_2_40.8359_17.3569,Focacceria La Cambusa 2,RESTAURANT,ristorante
-40.835867,17.356782,ov_la_diavola_pizzeria_ristorante_40.8359_17.3568,La Diavola Pizzeria Ristorante,RESTAURANT,ristorante
-40.835037,17.356977,ov_silv__40.8350_17.3570,Silvè,RESTAURANT,ristorante
-40.834224,17.354056,ov_la_tana_dei_lupi_40.8342_17.3541,La Tana dei Lupi,RESTAURANT,ristorante
-40.834337,17.354866,ov_lo_le__pizzeria_40.8343_17.3549,Lo-Le` Pizzeria,RESTAURANT,ristorante
-40.834298,17.354894,ov_pizzeria_ca__pummarola_e_cosa_40.8343_17.3549,Pizzeria Ca' Pummarola e Cosa,RESTAURANT,ristorante
-40.834341,17.356689,ov_gambrinus_40.8343_17.3567,Gambrinus,RESTAURANT,ristorante
-40.833364,17.355447,ov_yorokobi_40.8334_17.3554,Yorokobi,RESTAURANT,ristorante
-40.834217,17.354405,ov_il_buffet_40.8342_17.3544,Il Buffet,RESTAURANT,ristorante
-40.845405,17.340702,ov_masseria_don_sante_40.8454_17.3407,Masseria Don Sante,RESTAURANT,ristorante
-40.849128,17.350217,ov_le_gastronomie_pugliesi_40.8491_17.3502,Le Gastronomie Pugliesi,RESTAURANT,ristorante
-40.849028,17.351537,ov_sbiruli_40.8490_17.3515,Sbiruli,RESTAURANT,ristorante
-40.851053,17.352450,ov_caseificio_notarnicola_40.8511_17.3524,Caseificio Notarnicola,RESTAURANT,ristorante
-40.831551,17.325894,ov_borgo_lucia_40.8316_17.3259,Borgo Lucia,RESTAURANT,ristorante
-40.828441,17.321114,ov_porto_selva_40.8284_17.3211,Porto Selva,RESTAURANT,ristorante
-40.828910,17.318864,ov_pizzeria_cosi_com_e_40.8289_17.3189,Pizzeria Cosi Com'e,RESTAURANT,ristorante
-40.826520,17.326160,ov_ristorante_la_siesta_selva_di_fasano_40.8265_17.3262,Ristorante La Siesta Selva Di Fasano,RESTAURANT,ristorante
-40.827182,17.321375,ov_il_fagiano_40.8272_17.3214,Il Fagiano,RESTAURANT,ristorante
-40.822835,17.320187,ov_la_grande_quercia_40.8228_17.3202,La Grande Quercia,RESTAURANT,ristorante
-40.820232,17.323571,ov_ristorante_castelluccio_40.8202_17.3236,Ristorante Castelluccio,RESTAURANT,ristorante
-40.813580,17.333954,ov_osteria_antichi_sapori_40.8136_17.3340,Osteria Antichi Sapori,RESTAURANT,ristorante
-40.824870,17.328650,ov_pizzichella_40.8249_17.3286,Pizzichella,RESTAURANT,ristorante
-40.823830,17.333275,ov_hotel_restaurant_la_silvana_40.8238_17.3333,Hotel Restaurant La Silvana,RESTAURANT,ristorante
-40.831969,17.338540,ov_masseria_pedali_40.8320_17.3385,Masseria Pedali,RESTAURANT,ristorante
-40.831064,17.355759,ov_pop84_40.8311_17.3558,POP84,RESTAURANT,ristorante
-40.824634,17.349327,ov_happetito___il_giardino_delle_eccellenze_40.8246_17.3493,Happetito - Il Giardino delle Eccellenze,RESTAURANT,ristorante
-40.827566,17.361044,ov_imbiss_kebab_40.8276_17.3610,Imbiss kebab,RESTAURANT,ristorante
-40.828022,17.359032,ov_pizzeria_rosticceria_lo_sfizio__di_vito__40.8280_17.3590,"Pizzeria-Rosticceria Lo Sfizio, di Vito e Marghy",RESTAURANT,ristorante
-40.829362,17.362642,ov_braceria_da_vincenzo_40.8294_17.3626,Braceria da Vincenzo,RESTAURANT,ristorante
-40.832780,17.357973,ov_il_rifugio_dei_ghiottoni_40.8328_17.3580,Il Rifugio dei Ghiottoni,RESTAURANT,ristorante
-40.831871,17.363422,ov_margherita_self_bistr__40.8319_17.3634,Margherita Self Bistrò,RESTAURANT,ristorante
-40.831865,17.363485,ov_maxi_paninazzo_40.8319_17.3635,Maxi paninazzo,RESTAURANT,ristorante
-40.827422,17.385664,ov_centro_agroalimentare_40.8274_17.3857,Centro Agroalimentare,RESTAURANT,ristorante
-40.826933,17.381972,ov_planet_games_40.8269_17.3820,Planet Games,RESTAURANT,ristorante
-40.800870,17.350910,ov_ristorante_l_erbavoglio_40.8009_17.3509,Ristorante L'Erbavoglio,RESTAURANT,ristorante
-40.800569,17.352501,ov_locanda_don_mim__40.8006_17.3525,Locanda Don Mimì,RESTAURANT,ristorante
-40.800560,17.352349,ov_la_neviera_40.8006_17.3523,La Neviera,RESTAURANT,ristorante
-40.796929,17.349543,ov_pizzeria_dei_platani_40.7969_17.3495,Pizzeria dei Platani,RESTAURANT,ristorante
-40.811327,17.341083,ov_pizzeria_il_canale_da_tommaso_40.8113_17.3411,Pizzeria Il Canale Da Tommaso,RESTAURANT,ristorante
-40.811665,17.336333,ov_locanda_ventura_40.8117_17.3363,Locanda Ventura,RESTAURANT,ristorante
-40.779468,17.446983,ov_masseria_conte_40.7795_17.4470,Masseria Conte,RESTAURANT,ristorante
-40.782580,17.435644,ov_masseria_parco_della_grava_40.7826_17.4356,Masseria Parco della Grava,RESTAURANT,ristorante
-40.806852,17.398610,ov_masseria_salamina_40.8069_17.3986,Masseria Salamina,RESTAURANT,ristorante
-40.811971,17.414652,ov_raparossa_40.8120_17.4147,Raparossa,RESTAURANT,ristorante
-40.812059,17.414639,ov_viantica_40.8121_17.4146,Viantica,RESTAURANT,ristorante
-40.810087,17.434427,ov_masseria_montenapoleone_40.8101_17.4344,Masseria Montenapoleone,RESTAURANT,ristorante
-40.791299,17.460562,ov_il_cortiletto_40.7913_17.4606,Il Cortiletto,RESTAURANT,ristorante
-40.810467,17.454501,ov_ristorante_la_manna_del_pozzo_40.8105_17.4545,Ristorante La Manna del Pozzo,RESTAURANT,ristorante
-40.781898,17.480997,ov_capatosta_40.7819_17.4810,Capatosta,RESTAURANT,ristorante
-40.789874,17.463925,ov_masseria_narducci_40.7899_17.4639,Masseria Narducci,RESTAURANT,ristorante
-40.789792,17.458587,ov_vitemia_ristorante_40.7898_17.4586,Vitemia Ristorante,RESTAURANT,ristorante
-40.782908,17.477764,ov_la_lanterna_40.7829_17.4778,La Lanterna,RESTAURANT,ristorante
-40.776746,17.475457,ov_da_veleno_40.7767_17.4755,Da Veleno,RESTAURANT,ristorante
-40.777660,17.480520,ov_braceria_mola_40.7777_17.4805,Braceria Mola,RESTAURANT,ristorante
-40.895808,17.376133,ov_piano_b___extraordinary_beach_40.8958_17.3761,Piano B - Extraordinary Beach,RESTAURANT,bar_cafe
-40.875200,17.395939,ov_bar_del_portico_40.8752_17.3959,Bar del Portico,RESTAURANT,bar_cafe
-40.872689,17.411717,ov_skipper_bar_40.8727_17.4117,Skipper Bar,RESTAURANT,bar_cafe
-40.872381,17.412154,ov_alchemicamente_40.8724_17.4122,Alchemicamente,RESTAURANT,bar_cafe
-40.870803,17.412658,ov_la_sirenetta_ristorante___savelletri_40.8708_17.4127,La Sirenetta Ristorante - Savelletri,RESTAURANT,bar_cafe
-40.873900,17.409142,ov_bar_il_marchese_40.8739_17.4091,Bar il marchese,RESTAURANT,bar_cafe
-40.874481,17.408463,ov_non_solo_caffe_40.8745_17.4085,Non Solo Caffe,RESTAURANT,bar_cafe
-40.874531,17.408421,ov_bar_riviera_di_pentassuglia_40.8745_17.4084,Bar Riviera di Pentassuglia,RESTAURANT,bar_cafe
-40.863178,17.426330,ov_lido_verdemare_40.8632_17.4263,Lido Verdemare,RESTAURANT,bar_cafe
-40.848520,17.457011,ov_luce___il_santos_40.8485_17.4570,Luce - Il Santos,RESTAURANT,bar_cafe
-40.839607,17.468227,ov_el_chiringuito_la_capinera_40.8396_17.4682,El Chiringuito La Capinera,RESTAURANT,bar_cafe
-40.840016,17.470163,ov_ciporti_cocktail_and_soul_40.8400_17.4702,Ciporti Cocktail and Soul,RESTAURANT,bar_cafe
-40.841060,17.468247,ov_ham___beer_40.8411_17.4682,Ham & Beer,RESTAURANT,bar_cafe
-40.840913,17.470424,ov_terrazza_101_40.8409_17.4704,Terrazza 101,RESTAURANT,bar_cafe
-40.841418,17.468643,ov_a_un_passo_dal_faro_40.8414_17.4686,A un passo dal faro,RESTAURANT,bar_cafe
-40.842664,17.468217,ov_punto_bar_torre_canne_di_fasano_40.8427_17.4682,Punto Bar Torre Canne di fasano,RESTAURANT,bar_cafe
-40.835560,17.464224,ov_bella_vita_40.8356_17.4642,Bella Vita,RESTAURANT,bar_cafe
-40.836020,17.467618,ov_cafe_de_mar_40.8360_17.4676,Cafe de mar,RESTAURANT,bar_cafe
-40.836551,17.467876,ov_apulia_hotel_lido_40.8366_17.4679,Apulia hotel lido,RESTAURANT,bar_cafe
-40.836935,17.467892,ov_settebello_40.8369_17.4679,Settebello,RESTAURANT,bar_cafe
-40.826839,17.484011,ov_lido_verde___torre_canne_40.8268_17.4840,lido verde...torre canne,RESTAURANT,bar_cafe
-40.824796,17.487114,ov_lido_bizzarro_40.8248_17.4871,Lido Bizzarro,RESTAURANT,bar_cafe
-40.820752,17.491324,ov_ristir_caffe_40.8208_17.4913,Ristir Caffe,RESTAURANT,bar_cafe
-40.820909,17.491584,ov_bar_ristir_379_agip_torre_canne_40.8209_17.4916,Bar Ristir 379 Agip Torre Canne,RESTAURANT,bar_cafe
-40.812379,17.413719,ov_gran_caffe_del_corso_40.8124_17.4137,Gran Caffe del Corso,RESTAURANT,bar_cafe
-40.813153,17.411809,ov_caffe_roma_40.8132_17.4118,Caffe Roma,RESTAURANT,bar_cafe
-40.813378,17.410970,ov_caffe_italia_40.8134_17.4110,Caffe Italia,RESTAURANT,bar_cafe
-40.814457,17.409164,ov_bar_desir_e_40.8145_17.4092,Bar Desirèe,RESTAURANT,bar_cafe
-40.826360,17.395530,ov_da_mina___caffetteria_paninoteca_40.8264_17.3955,Da Mina - Caffetteria Paninoteca,RESTAURANT,bar_cafe
-40.838382,17.375063,ov_bs_cafe_40.8384_17.3751,BS Cafe,RESTAURANT,bar_cafe
-40.836962,17.365457,ov_punto_gin_40.8370_17.3655,Punto Gin,RESTAURANT,bar_cafe
-40.835668,17.366117,ov_pasticceria_artistica_colibr__40.8357_17.3661,Pasticceria Artistica Colibrì,RESTAURANT,bar_cafe
-40.834018,17.365185,ov_crema_cioccolato_di_michele_fanigliulo_f_40.8340_17.3652,Crema&Cioccolato di Michele Fanigliulo Fasano,RESTAURANT,bar_cafe
-40.833914,17.364232,ov_giusto_un_caffe_40.8339_17.3642,Giusto un Caffe,RESTAURANT,bar_cafe
-40.833688,17.358892,ov_bar_caffe_antico_40.8337_17.3589,Bar Caffe Antico,RESTAURANT,bar_cafe
-40.834480,17.359851,ov_caffe_bella_napoli_40.8345_17.3599,Caffe Bella Napoli,RESTAURANT,bar_cafe
-40.834276,17.359535,ov_faso_cafe_40.8343_17.3595,Faso Cafe,RESTAURANT,bar_cafe
-40.834534,17.360717,ov_fashion_bet_40.8345_17.3607,Fashion Bet,RESTAURANT,bar_cafe
-40.835005,17.360735,ov_happy_bar_40.8350_17.3607,Happy Bar,RESTAURANT,bar_cafe
-40.835358,17.359201,ov_new_smile_bar_40.8354_17.3592,New Smile Bar,RESTAURANT,bar_cafe
-40.835294,17.358063,ov_enoteca_argento_40.8353_17.3581,Enoteca Argento,RESTAURANT,bar_cafe
-40.835306,17.358174,ov_portici_cafe_40.8353_17.3582,Portici Cafe,RESTAURANT,bar_cafe
-40.835714,17.358403,ov_bar_clav__40.8357_17.3584,Bar Claví,RESTAURANT,bar_cafe
-40.836090,17.357707,ov_caffe_vittorio_emanuele_40.8361_17.3577,Caffe Vittorio Emanuele,RESTAURANT,bar_cafe
-40.836591,17.357594,ov_centochicchi_store_40.8366_17.3576,Centochicchi STORE,RESTAURANT,bar_cafe
-40.836528,17.358544,ov_tan_bar_40.8365_17.3585,Tan Bar,RESTAURANT,bar_cafe
-40.836228,17.359726,ov_paninoteca_caff__dal_1966_40.8362_17.3597,Paninoteca Caffè dal 1966,RESTAURANT,bar_cafe
-40.836338,17.359210,ov_fil_a___food___beverage_40.8363_17.3592,Filìa - Food & Beverage,RESTAURANT,bar_cafe
-40.835853,17.360236,ov_fiocco_di_neve_40.8359_17.3602,Fiocco di Neve,RESTAURANT,bar_cafe
-40.835835,17.361838,ov_oriental_bar___pasticceria_e_gastronomia_40.8358_17.3618,Oriental Bar | Pasticceria e gastronomia,RESTAURANT,bar_cafe
-40.836348,17.363565,ov_tiffany_caff__40.8363_17.3636,Tiffany caffè,RESTAURANT,bar_cafe
-40.836350,17.361249,ov_bar_livei_40.8364_17.3612,Bar Livei,RESTAURANT,bar_cafe
-40.837943,17.362961,ov_over_coffee_40.8379_17.3630,Over Coffee,RESTAURANT,bar_cafe
-40.838145,17.357484,ov_classic_cafe_40.8381_17.3575,Classic Cafe,RESTAURANT,bar_cafe
-40.838730,17.358970,ov_reraise_fasano_40.8387_17.3590,Reraise Fasano,RESTAURANT,bar_cafe
-40.839420,17.359490,ov_nonescodirado_40.8394_17.3595,Nonescodirado,RESTAURANT,bar_cafe
-40.839419,17.362742,ov_santid__40.8394_17.3627,SANTIDÈ,RESTAURANT,bar_cafe
-40.838250,17.367900,ov_happy_bar_fasano_40.8383_17.3679,Happy Bar Fasano,RESTAURANT,bar_cafe
-40.840955,17.357498,ov_versus_caffe_40.8410_17.3575,Versus Caffe,RESTAURANT,bar_cafe
-40.842818,17.352263,ov_revolution_business___bar__punto_ristoro_40.8428_17.3523,"Revolution Business - Bar, Punto Ristoro",RESTAURANT,bar_cafe
-40.838253,17.355464,ov_pasticceria_lorusso_40.8383_17.3555,Pasticceria Lorusso,RESTAURANT,bar_cafe
-40.837755,17.355986,ov_demon_cafe_40.8378_17.3560,Demon Cafe,RESTAURANT,bar_cafe
-40.837561,17.356672,ov_meni_cafe_40.8376_17.3567,Meni Cafe,RESTAURANT,bar_cafe
-40.837138,17.356098,ov_bikal_pub_40.8371_17.3561,Bikal Pub,RESTAURANT,bar_cafe
-40.836693,17.357009,ov_bar_del_corso_40.8367_17.3570,Bar Del Corso,RESTAURANT,bar_cafe
-40.835326,17.355917,ov_bar_venere_40.8353_17.3559,Bar Venere,RESTAURANT,bar_cafe
-40.835101,17.352629,ov_bar_royal_40.8351_17.3526,Bar Royal,RESTAURANT,bar_cafe
-40.850075,17.350925,ov_la_dolce_vita_40.8501_17.3509,La dolce vita,RESTAURANT,bar_cafe
-40.850870,17.350726,ov_la_rustica_40.8509_17.3507,La Rustica,RESTAURANT,bar_cafe
-40.828399,17.320987,ov_barrino_40.8284_17.3210,Barrino,RESTAURANT,bar_cafe
-40.827846,17.328019,ov_newoneway_40.8278_17.3280,Newoneway,RESTAURANT,bar_cafe
-40.825272,17.348875,ov_24ore_bar_fasano_40.8253_17.3489,24ore BAR Fasano,RESTAURANT,bar_cafe
-40.827701,17.360808,ov_barbacco_40.8277_17.3608,Barbacco,RESTAURANT,bar_cafe
-40.831314,17.360608,ov_collodi_caf__40.8313_17.3606,Collodi Cafè,RESTAURANT,bar_cafe
-40.832360,17.358060,ov_jeanclaude_cafe_40.8324_17.3581,Jeanclaude Cafe,RESTAURANT,bar_cafe
-40.832622,17.359194,ov_forcatella_40.8326_17.3592,Forcatella,RESTAURANT,bar_cafe
-40.832487,17.361592,ov_caff__pitagora_40.8325_17.3616,Caffè Pitagora,RESTAURANT,bar_cafe
-40.788330,17.359300,ov_bar_lamie_40.7883_17.3593,Bar Lamie,RESTAURANT,bar_cafe
-40.810660,17.416942,ov_via_di_fuga_40.8107_17.4169,Via di Fuga,RESTAURANT,bar_cafe
-40.806351,17.450568,ov_madonnella_bar_40.8064_17.4506,Madonnella Bar,RESTAURANT,bar_cafe
-40.790588,17.456962,ov_tony_bar_40.7906_17.4570,Tony Bar,RESTAURANT,bar_cafe
-40.780289,17.476302,ov_euroscarpe_ostuni_40.7803_17.4763,Euroscarpe Ostuni,RESTAURANT,bar_cafe
-40.779287,17.478743,ov_easy_caf__40.7793_17.4787,Easy Cafè,RESTAURANT,bar_cafe
-40.775839,17.478774,ov_ugo_la_caffetteria_40.7758_17.4788,Ugo La Caffetteria,RESTAURANT,bar_cafe
-40.777326,17.479944,ov_mapa_40.7773_17.4799,Mapa,RESTAURANT,bar_cafe
-40.796986,17.350721,osm_la_villetta_40.7970_17.3507,La Villetta,bar_cafe,bar_cafe
-40.839789,17.378771,osm_snack_bar_pizzeria_40.8398_17.3788,Snack Bar Pizzeria,bar_cafe,bar_cafe
-40.520448,17.274437,ov_goldbet_fasano_40.5204_17.2744,Goldbet Fasano,GYM,palestra
-40.862993,17.376566,ov_kartodromo_fasano_40.8630_17.3766,Kartodromo Fasano,GYM,palestra
-40.876642,17.405848,ov_lido_ottagono_40.8766_17.4058,Lido Ottagono,GYM,palestra
-40.872005,17.409173,ov_nautica_de_mattia_srl_40.8720_17.4092,Nautica De Mattia SRL,GYM,palestra
-40.839867,17.467408,ov_la_boa_40.8399_17.4674,La Boa,GYM,palestra
-40.814721,17.448660,ov_centro_ippico_luigi_zizzi_40.8147_17.4487,Centro ippico luigi zizzi,GYM,palestra
-40.836608,17.366011,ov_authentic_gym_40.8366_17.3660,Authentic Gym,GYM,palestra
-40.836057,17.366088,ov_centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661,Centro Ludico Prima Infanzia Zucchero Filato,GYM,palestra
-40.835701,17.366132,ov_gym_moving_club_40.8357_17.3661,Gym Moving Club,GYM,palestra
-40.833437,17.366342,ov_fitness_academy_fasano_40.8334_17.3663,Fitness Academy Fasano,GYM,palestra
-40.835338,17.366660,ov_palestra_franco_zizzi_40.8353_17.3667,Palestra Franco Zizzi,GYM,palestra
-40.834794,17.364267,ov_a_s_d__corpus_40.8348_17.3643,A.S.D. Corpus,GYM,palestra
-40.834392,17.364534,ov_core_be_wellness_40.8344_17.3645,CORE be wellness,GYM,palestra
-40.834430,17.364258,ov_studio_danza_e_balletto_40.8344_17.3643,Studio Danza e Balletto,GYM,palestra
-40.833009,17.358710,ov_new_pas_de_deux_40.8330_17.3587,New Pas de deux,GYM,palestra
-40.835812,17.357803,ov_pas_de_deux_scuola_40.8358_17.3578,Pas De Deux Scuola,GYM,palestra
-40.836615,17.361435,ov_yalla_academy_asd_40.8366_17.3614,Yalla Academy Asd,GYM,palestra
-40.837273,17.364296,ov_hekaclub_asd_pilates___body_fly_40.8373_17.3643,HekaClub Asd Pilates & Body Fly,GYM,palestra
-40.838033,17.357718,ov_scuderia_ferrari_club_fasano_40.8380_17.3577,Scuderia Ferrari Club Fasano,GYM,palestra
-40.840360,17.359457,ov_olistik_selva_40.8404_17.3595,Olistik Selva,GYM,palestra
-40.842331,17.352796,ov_gofit_egnazia_40.8423_17.3528,GoFit Egnazia,GYM,palestra
-40.835541,17.354338,ov_green_bar_40.8355_17.3543,Green Bar,GYM,palestra
-40.835442,17.355006,ov_tensostatico_40.8354_17.3550,Tensostatico,GYM,palestra
-40.834159,17.355713,ov_oratorio_del_fanciullo_40.8342_17.3557,Oratorio del Fanciullo,GYM,palestra
-40.843442,17.351076,ov_handstand_gym_40.8434_17.3511,Handstand Gym,GYM,palestra
-40.844390,17.353420,ov_coppa_selva_di_fasano_40.8444_17.3534,Coppa Selva di Fasano,GYM,palestra
-40.844779,17.353515,ov_asd_team_top_dance_academy_40.8448_17.3535,Asd Team Top Dance Academy,GYM,palestra
-40.845370,17.353850,ov_become_40.8454_17.3539,Become,GYM,palestra
-40.845570,17.350170,ov_whitefit_ostuni_40.8456_17.3502,Whitefit Ostuni,GYM,palestra
-40.846045,17.352988,ov_doms_academy_40.8460_17.3530,DOMS Academy,GYM,palestra
-40.851261,17.350088,ov_sportproject_fasano_40.8513_17.3501,SportProject Fasano,GYM,palestra
-40.851158,17.350703,ov_fenice_asd_40.8512_17.3507,Fenice ASD,GYM,palestra
-40.831746,17.353993,ov_l_officina_dell_essere_40.8317_17.3540,L'Officina dell'Essere,GYM,palestra
-40.827058,17.379684,ov_timo_s_park_40.8271_17.3797,Timo's Park,GYM,palestra
-40.810561,17.492500,ov_centro_equestre_parco_di_mare_40.8106_17.4925,Centro Equestre Parco di Mare,GYM,palestra
-40.703080,17.657110,ov_asd_adriatic_scuba_divers_40.7031_17.6571,ASD Adriatic Scuba Divers,GYM,palestra
-40.886627,17.387591,ov_museo_archeologico_di_egnazia_40.8866_17.3876,Museo Archeologico di Egnazia,MUSEUM,monumento
-40.814473,17.411880,ov_museo_laboratorio_arte_contadina_40.8145_17.4119,Museo Laboratorio Arte Contadina,MUSEUM,monumento
-40.835210,17.359002,ov_museo_della_casa_alla_fasanese_40.8352_17.3590,Museo della Casa alla fasanese,MUSEUM,monumento
-40.835132,17.358601,ov_associazione_u_mbracchie___fasano_40.8351_17.3586,Associazione U'mbracchie - Fasano,MUSEUM,monumento
-40.836570,17.357284,ov_ciaialab___laboratorio_urbano_40.8366_17.3573,CiaiaLab - Laboratorio Urbano,MUSEUM,monumento
-40.846050,17.354040,ov_museo_nazionale_e_parco_archeologico_di__40.8460_17.3540,Museo Nazionale e Parco Archeologico di Egnazia,MUSEUM,monumento
+40.832743,17.356721,ov_cardiologia_di_fasano_40.8327_17.3567,Cardiologia di Fasano,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cardiologia_di_fasano_40.8327_17.3567.json,custom
+40.832478,17.356896,ov_postazione_118_fasano_40.8325_17.3569,Postazione 118 Fasano,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/postazione_118_fasano_40.8325_17.3569.json,custom
+40.832521,17.356722,ov_ospedale_civile_umberto_i_40.8325_17.3567,Ospedale Civile Umberto I,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ospedale_civile_umberto_i_40.8325_17.3567.json,custom
+40.828532,17.356307,ov_clinica_mater_day_bari_40.8285_17.3563,Clinica Mater Day Bari,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/clinica_mater_day_bari_40.8285_17.3563.json,custom
+40.857370,17.350220,ov_mcdonald_s_40.8574_17.3502,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/mcdonalds_40.8574_17.3502.json,custom
+40.859546,17.387363,ov_ristorante_carosello_40.8595_17.3874,Ristorante Carosello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_carosello_40.8595_17.3874.json,custom
+40.875190,17.397885,ov_due_camini_40.8752_17.3979,Due Camini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/due_camini_40.8752_17.3979.json,custom
+40.875678,17.409020,ov_la_sorgente_savelletri_40.8757_17.4090,La Sorgente Savelletri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_sorgente_savelletri_40.8757_17.4090.json,custom
+40.878440,17.403650,ov_cala_masciola_40.8784_17.4037,Cala Masciola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cala_masciola_40.8784_17.4037.json,custom
+40.864383,17.423738,ov_born___marezzature_40.8644_17.4237,BORN - Marezzature,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/born_-_marezzature_40.8644_17.4237.json,custom
+40.873457,17.410815,ov_luna_rossa_40.8735_17.4108,Luna Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/luna_rossa_40.8735_17.4108.json,custom
+40.873276,17.410948,ov_serri_bistrot_40.8733_17.4109,Serri Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/serri_bistrot_40.8733_17.4109.json,custom
+40.873185,17.411149,ov_momo_40.8732_17.4111,Momo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/momo_40.8732_17.4111.json,custom
+40.872845,17.411385,ov_la_taverna_di_umberto_40.8728_17.4114,La Taverna di Umberto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_taverna_di_umberto_40.8728_17.4114.json,custom
+40.872720,17.411655,ov_braceria_sabatelli_40.8727_17.4117,Braceria Sabatelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/braceria_sabatelli_40.8727_17.4117.json,custom
+40.872747,17.411839,ov_pescheria_2_mari_40.8727_17.4118,Pescheria 2 Mari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pescheria_2_mari_40.8727_17.4118.json,custom
+40.872632,17.412005,ov_anema_e_core_40.8726_17.4120,Anema e core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/anema_e_core_40.8726_17.4120.json,custom
+40.871910,17.411755,ov_mareducato_40.8719_17.4118,Mareducato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/mareducato_40.8719_17.4118.json,custom
+40.871541,17.411836,ov_ristorante_da_maddalena_40.8715_17.4118,Ristorante da Maddalena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_da_maddalena_40.8715_17.4118.json,custom
+40.872051,17.407346,ov_so_co_pesca_40.8721_17.4073,So.Co.Pesca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/socopesca_40.8721_17.4073.json,custom
+40.872286,17.408191,ov_la_marea_ristorante_savelletri_40.8723_17.4082,La Marea ristorante Savelletri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_marea_ristorante_savelletri_40.8723_17.4082.json,custom
+40.872876,17.410188,ov_la_salumeria_del_gusto__savelletri_40.8729_17.4102,"La Salumeria del gusto, Savelletri",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_salumeria_del_gusto_savelletri_40.8729_17.4102.json,custom
+40.873554,17.408917,ov_la_rosa_dei_venti_savelletri_40.8736_17.4089,La Rosa Dei Venti Savelletri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_rosa_dei_venti_savelletri_40.8736_17.4089.json,custom
+40.873514,17.409514,ov_don_pesce_40.8735_17.4095,Don Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/don_pesce_40.8735_17.4095.json,custom
+40.873362,17.409653,ov_fronte_mare_40.8734_17.4097,Fronte Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fronte_mare_40.8734_17.4097.json,custom
+40.873304,17.410333,ov_osteria_del_porto_40.8733_17.4103,Osteria del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/osteria_del_porto_40.8733_17.4103.json,custom
+40.873362,17.410479,ov_sapore_di_sale_ristorante_carpacceria_sa_40.8734_17.4105,Sapore di Sale ristorante carpacceria Savelletri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/sapore_di_sale_ristorante_carpacceria_sa_40.8734_17.4105.json,custom
+40.873213,17.395391,ov_ristorante_la_frasca_40.8732_17.3954,Ristorante La Frasca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_la_frasca_40.8732_17.3954.json,custom
+40.855431,17.431394,ov_savelletri___torre_canne_40.8554_17.4314,Savelletri - Torre Canne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/savelletri_-_torre_canne_40.8554_17.4314.json,custom
+40.864096,17.424804,ov_pettolecchia___il_lido_40.8641_17.4248,Pettolecchia - Il Lido,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pettolecchia_-_il_lido_40.8641_17.4248.json,custom
+40.856985,17.437170,ov_alba_chiara_40.8570_17.4372,Alba Chiara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/alba_chiara_40.8570_17.4372.json,custom
+40.856808,17.438628,ov_la_rotonda_40.8568_17.4386,La Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_rotonda_40.8568_17.4386.json,custom
+40.855762,17.441013,ov_la_locanda_del_riccio_40.8558_17.4410,La locanda del riccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_locanda_del_riccio_40.8558_17.4410.json,custom
+40.854336,17.444677,ov_ricciolandia_40.8543_17.4447,Ricciolandia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ricciolandia_40.8543_17.4447.json,custom
+40.846330,17.452080,ov_gaudium_40.8463_17.4521,Gaudium,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gaudium_40.8463_17.4521.json,custom
+40.843807,17.464261,ov_dal_moro_40.8438_17.4643,Dal Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/dal_moro_40.8438_17.4643.json,custom
+40.843670,17.464402,ov_la_perla_del_mare_40.8437_17.4644,La perla del mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_perla_del_mare_40.8437_17.4644.json,custom
+40.840061,17.469759,ov_la_baia_torre_canne_40.8401_17.4698,La Baia Torre Canne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_baia_torre_canne_40.8401_17.4698.json,custom
+40.839979,17.468978,ov_amare_40.8400_17.4690,Amare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/amare_40.8400_17.4690.json,custom
+40.839442,17.467130,ov_cirie_40.8394_17.4671,Cirie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cirie_40.8394_17.4671.json,custom
+40.841161,17.468211,ov_surfish_street_seafood_40.8412_17.4682,SURFISH street seafood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/surfish_street_seafood_40.8412_17.4682.json,custom
+40.841200,17.468250,ov_dadooda_panzerotti_dal_classico_al_gourm_40.8412_17.4683,Dadooda Panzerotti dal Classico al Gourmet Bari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/dadooda_panzerotti_dal_classico_al_gourm_40.8412_17.4683.json,custom
+40.841310,17.468621,ov_piccadilly_bistrot_40.8413_17.4686,Piccadilly Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/piccadilly_bistrot_40.8413_17.4686.json,custom
+40.840892,17.470116,ov_vico_pescatori_40.8409_17.4701,Vico Pescatori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/vico_pescatori_40.8409_17.4701.json,custom
+40.841521,17.469964,ov_pescheria_da_vittorio_40.8415_17.4700,Pescheria Da Vittorio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pescheria_da_vittorio_40.8415_17.4700.json,custom
+40.841418,17.468650,ov_andr____aperitivi___cucina_40.8414_17.4686,Andrè - Aperitivi & Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/andr_-_aperitivi_cucina_40.8414_17.4686.json,custom
+40.841473,17.468709,ov_osteria_del_porticciolo_40.8415_17.4687,Osteria Del Porticciolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/osteria_del_porticciolo_40.8415_17.4687.json,custom
+40.842671,17.468274,ov_ristorante_al_buco_40.8427_17.4683,Ristorante Al Buco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_al_buco_40.8427_17.4683.json,custom
+40.842430,17.468103,ov_tutto_pronto_da_gianni_torre_canne_40.8424_17.4681,Tutto pronto da Gianni torre canne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tutto_pronto_da_gianni_torre_canne_40.8424_17.4681.json,custom
+40.842061,17.467531,ov_l_ombelico_del_mondo_40.8421_17.4675,L'ombelico del Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lombelico_del_mondo_40.8421_17.4675.json,custom
+40.843124,17.465996,ov_la_rotonda_40.8431_17.4660,La Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_rotonda_40.8431_17.4660.json,custom
+40.840496,17.462466,ov_anticalama_40.8405_17.4625,Anticalama,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/anticalama_40.8405_17.4625.json,custom
+40.812340,17.495889,ov_ristorante_pizzeria_la_forchetta_d_oro_40.8123_17.4959,Ristorante-Pizzeria La Forchetta d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante-pizzeria_la_forchetta_doro_40.8123_17.4959.json,custom
+40.812128,17.455198,ov_ristorante_l_agrumeto_40.8121_17.4552,Ristorante l'Agrumeto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_lagrumeto_40.8121_17.4552.json,custom
+40.829901,17.475886,ov_autentico_wine___restaurant_40.8299_17.4759,Autentico Wine & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/autentico_wine_restaurant_40.8299_17.4759.json,custom
+40.829459,17.475266,ov_gi_ammare_osteria_contemporanea_40.8295_17.4753,Giùammare Osteria Contemporanea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/giammare_osteria_contemporanea_40.8295_17.4753.json,custom
+40.830592,17.472785,ov_la_brace_40.8306_17.4728,La Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_brace_40.8306_17.4728.json,custom
+40.830788,17.471866,ov_dubonnet_40.8308_17.4719,Dubonnet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/dubonnet_40.8308_17.4719.json,custom
+40.831316,17.441940,ov_masseria_stefanodelconte_40.8313_17.4419,Masseria Stefanodelconte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_stefanodelconte_40.8313_17.4419.json,custom
+40.822555,17.424730,ov_ristorante_sciurlicchio_40.8226_17.4247,Ristorante Sciurlicchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_sciurlicchio_40.8226_17.4247.json,custom
+40.812189,17.418641,ov_masseria_priore_40.8122_17.4186,Masseria Priore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_priore_40.8122_17.4186.json,custom
+40.815380,17.418707,ov_braceria_cofano_40.8154_17.4187,Braceria Cofano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/braceria_cofano_40.8154_17.4187.json,custom
+40.821442,17.423199,ov_torretta_san_martino_40.8214_17.4232,Torretta San Martino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/torretta_san_martino_40.8214_17.4232.json,custom
+40.821710,17.412439,ov_savoia_cafe_40.8217_17.4124,Savoia Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/savoia_cafe_40.8217_17.4124.json,custom
+40.817936,17.406226,ov_agricola_laterza_40.8179_17.4062,Agricola Laterza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/agricola_laterza_40.8179_17.4062.json,custom
+40.815248,17.410878,ov_pizzeria_la_baita_40.8152_17.4109,Pizzeria La Baita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_la_baita_40.8152_17.4109.json,custom
+40.813883,17.417428,ov_la_giara_40.8139_17.4174,La Giara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_giara_40.8139_17.4174.json,custom
+40.813204,17.411222,ov_malibu_pizza_e_food_pezze_di_greco_40.8132_17.4112,Malibu pizza e food Pezze di Greco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/malibu_pizza_e_food_pezze_di_greco_40.8132_17.4112.json,custom
+40.814171,17.409499,ov_pizzeria_da_peppino_40.8142_17.4095,Pizzeria da Peppino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_da_peppino_40.8142_17.4095.json,custom
+40.816184,17.404945,ov_gli_archi_40.8162_17.4049,Gli Archi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gli_archi_40.8162_17.4049.json,custom
+40.833050,17.393121,ov_gioblu_restaurant_fish_bar_40.8331_17.3931,Gioblu Restaurant Fish Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gioblu_restaurant_fish_bar_40.8331_17.3931.json,custom
+40.853172,17.447333,ov_l_oasi_del_riccio_40.8532_17.4473,L'Oasi del Riccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/loasi_del_riccio_40.8532_17.4473.json,custom
+40.853748,17.445982,ov_il_principe_del_mare_40.8537_17.4460,Il Principe del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_principe_del_mare_40.8537_17.4460.json,custom
+40.853518,17.443920,ov_the_captain_s_inn_40.8535_17.4439,The Captain's Inn,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/the_captains_inn_40.8535_17.4439.json,custom
+40.833121,17.365530,ov_la_pizzichella_40.8331_17.3655,La Pizzichella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_pizzichella_40.8331_17.3655.json,custom
+40.835473,17.366049,ov_tutto_pronto_da_gianni_40.8355_17.3660,Tutto Pronto da Gianni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tutto_pronto_da_gianni_40.8355_17.3660.json,custom
+40.835190,17.362700,ov_panificio_la_vetrina_del_fornaio_40.8352_17.3627,Panificio la vetrina del fornaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/panificio_la_vetrina_del_fornaio_40.8352_17.3627.json,custom
+40.835150,17.362770,ov_piemme_petroli_40.8351_17.3628,Piemme Petroli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/piemme_petroli_40.8351_17.3628.json,custom
+40.834397,17.364637,ov_miyabi_fusion_restaurant_40.8344_17.3646,Miyabi Fusion Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/miyabi_fusion_restaurant_40.8344_17.3646.json,custom
+40.834132,17.359695,ov_ecom__pizzeria_40.8341_17.3597,Ecomè Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ecom_pizzeria_40.8341_17.3597.json,custom
+40.833410,17.357233,ov_area_break_40.8334_17.3572,Area Break,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/area_break_40.8334_17.3572.json,custom
+40.834470,17.358666,ov_da_michele_vini___gusto_40.8345_17.3587,Da Michele Vini & Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/da_michele_vini_gusto_40.8345_17.3587.json,custom
+40.835082,17.360693,ov_comeacasafasano_40.8351_17.3607,comeacasafasano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/comeacasafasano_40.8351_17.3607.json,custom
+40.834925,17.358766,ov_trattino___vita_in_piazzetta_40.8349_17.3588,Trattino - Vita In Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/trattino_-_vita_in_piazzetta_40.8349_17.3588.json,custom
+40.834975,17.358280,ov_la_locanda_di_martume_40.8350_17.3583,La Locanda di Martume,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_locanda_di_martume_40.8350_17.3583.json,custom
+40.835130,17.357658,ov_corazon_40.8351_17.3577,Corazon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/corazon_40.8351_17.3577.json,custom
+40.835327,17.357589,ov_pizzeria_del_portico_40.8353_17.3576,Pizzeria Del Portico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_del_portico_40.8353_17.3576.json,custom
+40.835479,17.357796,ov_i_santi___braceria_pugliese_40.8355_17.3578,I Santi - Braceria Pugliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/i_santi_-_braceria_pugliese_40.8355_17.3578.json,custom
+40.835524,17.357947,ov_ciporti_40.8355_17.3579,Ciporti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ciporti_40.8355_17.3579.json,custom
+40.835624,17.358363,ov_crepi_il_luppolo_40.8356_17.3584,Crepi Il Luppolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/crepi_il_luppolo_40.8356_17.3584.json,custom
+40.836388,17.359112,ov_shalla___culture_e_cotture_40.8364_17.3591,Shalla - culture e cotture,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/shalla_-_culture_e_cotture_40.8364_17.3591.json,custom
+40.836019,17.359335,ov_artefarina_lievitati_40.8360_17.3593,Artefarina lievitati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/artefarina_lievitati_40.8360_17.3593.json,custom
+40.835748,17.359797,ov_forcella___cucina_e_cantina_40.8357_17.3598,Forcella - Cucina e Cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/forcella_-_cucina_e_cantina_40.8357_17.3598.json,custom
+40.835821,17.361619,ov_cala_masciola_40.8358_17.3616,Cala Masciola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cala_masciola_40.8358_17.3616.json,custom
+40.835910,17.361583,ov_la_baia_40.8359_17.3616,La Baia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_baia_40.8359_17.3616.json,custom
+40.835965,17.362814,ov_la_tana_dell_orso_40.8360_17.3628,La tana dell'Orso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_tana_dellorso_40.8360_17.3628.json,custom
+40.836260,17.363637,ov_il_matterello_40.8363_17.3636,IL Matterello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_matterello_40.8363_17.3636.json,custom
+40.836493,17.361748,ov_pentole_e_provette_40.8365_17.3617,Pentole e Provette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pentole_e_provette_40.8365_17.3617.json,custom
+40.837638,17.361873,ov_da_pollastro_40.8376_17.3619,Da Pollastro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/da_pollastro_40.8376_17.3619.json,custom
+40.838312,17.360006,ov_osteria_popolare_40.8383_17.3600,Osteria Popolare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/osteria_popolare_40.8383_17.3600.json,custom
+40.838822,17.360613,ov_zerodoppiozero_40.8388_17.3606,ZeroDoppioZero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/zerodoppiozero_40.8388_17.3606.json,custom
+40.838857,17.358843,ov_masseria_parco_di_castro_40.8389_17.3588,Masseria Parco di Castro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_parco_di_castro_40.8389_17.3588.json,custom
+40.841014,17.357538,ov_bloodymary_40.8410_17.3575,BloodyMary,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bloodymary_40.8410_17.3575.json,custom
+40.839348,17.356348,ov_mediterranea_acqua_di_mare_40.8393_17.3563,Mediterranea Acqua di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/mediterranea_acqua_di_mare_40.8393_17.3563.json,custom
+40.838436,17.356046,ov_peyote_40.8384_17.3560,Peyote,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/peyote_40.8384_17.3560.json,custom
+40.837972,17.355851,ov_pizzeria_trimalchione_40.8380_17.3559,Pizzeria Trimalchione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_trimalchione_40.8380_17.3559.json,custom
+40.837753,17.356117,ov_fuori_menu_40.8378_17.3561,Fuori Menu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fuori_menu_40.8378_17.3561.json,custom
+40.837545,17.356787,ov_terantiga_40.8375_17.3568,Terantiga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/terantiga_40.8375_17.3568.json,custom
+40.837266,17.356722,ov_ardecuore_40.8373_17.3567,Ardecuore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ardecuore_40.8373_17.3567.json,custom
+40.837067,17.356926,ov_doppio_gusto_40.8371_17.3569,Doppio Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/doppio_gusto_40.8371_17.3569.json,custom
+40.837648,17.354803,ov_salumeria_e_gastronomia_sabatelli_40.8376_17.3548,Salumeria e Gastronomia Sabatelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/salumeria_e_gastronomia_sabatelli_40.8376_17.3548.json,custom
+40.835892,17.354130,ov_la_ruota_40.8359_17.3541,La Ruota,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_ruota_40.8359_17.3541.json,custom
+40.835916,17.356886,ov_focacceria_la_cambusa_2_40.8359_17.3569,Focacceria La Cambusa 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/focacceria_la_cambusa_2_40.8359_17.3569.json,custom
+40.835867,17.356782,ov_la_diavola_pizzeria_ristorante_40.8359_17.3568,La Diavola Pizzeria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_diavola_pizzeria_ristorante_40.8359_17.3568.json,custom
+40.835037,17.356977,ov_silv__40.8350_17.3570,Silvè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/silv_40.8350_17.3570.json,custom
+40.834224,17.354056,ov_la_tana_dei_lupi_40.8342_17.3541,La Tana dei Lupi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_tana_dei_lupi_40.8342_17.3541.json,custom
+40.834337,17.354866,ov_lo_le__pizzeria_40.8343_17.3549,Lo-Le` Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lo-le_pizzeria_40.8343_17.3549.json,custom
+40.834298,17.354894,ov_pizzeria_ca__pummarola_e_cosa_40.8343_17.3549,Pizzeria Ca' Pummarola e Cosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_ca_pummarola_e_cosa_40.8343_17.3549.json,custom
+40.834341,17.356689,ov_gambrinus_40.8343_17.3567,Gambrinus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gambrinus_40.8343_17.3567.json,custom
+40.833364,17.355447,ov_yorokobi_40.8334_17.3554,Yorokobi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/yorokobi_40.8334_17.3554.json,custom
+40.834217,17.354405,ov_il_buffet_40.8342_17.3544,Il Buffet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_buffet_40.8342_17.3544.json,custom
+40.845405,17.340702,ov_masseria_don_sante_40.8454_17.3407,Masseria Don Sante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_don_sante_40.8454_17.3407.json,custom
+40.849128,17.350217,ov_le_gastronomie_pugliesi_40.8491_17.3502,Le Gastronomie Pugliesi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/le_gastronomie_pugliesi_40.8491_17.3502.json,custom
+40.849028,17.351537,ov_sbiruli_40.8490_17.3515,Sbiruli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/sbiruli_40.8490_17.3515.json,custom
+40.851053,17.352450,ov_caseificio_notarnicola_40.8511_17.3524,Caseificio Notarnicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caseificio_notarnicola_40.8511_17.3524.json,custom
+40.831551,17.325894,ov_borgo_lucia_40.8316_17.3259,Borgo Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/borgo_lucia_40.8316_17.3259.json,custom
+40.828441,17.321114,ov_porto_selva_40.8284_17.3211,Porto Selva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/porto_selva_40.8284_17.3211.json,custom
+40.828910,17.318864,ov_pizzeria_cosi_com_e_40.8289_17.3189,Pizzeria Cosi Com'e,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_cosi_come_40.8289_17.3189.json,custom
+40.826520,17.326160,ov_ristorante_la_siesta_selva_di_fasano_40.8265_17.3262,Ristorante La Siesta Selva Di Fasano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_la_siesta_selva_di_fasano_40.8265_17.3262.json,custom
+40.827182,17.321375,ov_il_fagiano_40.8272_17.3214,Il Fagiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_fagiano_40.8272_17.3214.json,custom
+40.822835,17.320187,ov_la_grande_quercia_40.8228_17.3202,La Grande Quercia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_grande_quercia_40.8228_17.3202.json,custom
+40.820232,17.323571,ov_ristorante_castelluccio_40.8202_17.3236,Ristorante Castelluccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_castelluccio_40.8202_17.3236.json,custom
+40.813580,17.333954,ov_osteria_antichi_sapori_40.8136_17.3340,Osteria Antichi Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/osteria_antichi_sapori_40.8136_17.3340.json,custom
+40.824870,17.328650,ov_pizzichella_40.8249_17.3286,Pizzichella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzichella_40.8249_17.3286.json,custom
+40.823830,17.333275,ov_hotel_restaurant_la_silvana_40.8238_17.3333,Hotel Restaurant La Silvana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/hotel_restaurant_la_silvana_40.8238_17.3333.json,custom
+40.831969,17.338540,ov_masseria_pedali_40.8320_17.3385,Masseria Pedali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_pedali_40.8320_17.3385.json,custom
+40.831064,17.355759,ov_pop84_40.8311_17.3558,POP84,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pop84_40.8311_17.3558.json,custom
+40.824634,17.349327,ov_happetito___il_giardino_delle_eccellenze_40.8246_17.3493,Happetito - Il Giardino delle Eccellenze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/happetito_-_il_giardino_delle_eccellenze_40.8246_17.3493.json,custom
+40.827566,17.361044,ov_imbiss_kebab_40.8276_17.3610,Imbiss kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/imbiss_kebab_40.8276_17.3610.json,custom
+40.828022,17.359032,ov_pizzeria_rosticceria_lo_sfizio__di_vito__40.8280_17.3590,"Pizzeria-Rosticceria Lo Sfizio, di Vito e Marghy",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria-rosticceria_lo_sfizio_di_vito_e_40.8280_17.3590.json,custom
+40.829362,17.362642,ov_braceria_da_vincenzo_40.8294_17.3626,Braceria da Vincenzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/braceria_da_vincenzo_40.8294_17.3626.json,custom
+40.832780,17.357973,ov_il_rifugio_dei_ghiottoni_40.8328_17.3580,Il Rifugio dei Ghiottoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_rifugio_dei_ghiottoni_40.8328_17.3580.json,custom
+40.831871,17.363422,ov_margherita_self_bistr__40.8319_17.3634,Margherita Self Bistrò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/margherita_self_bistr_40.8319_17.3634.json,custom
+40.831865,17.363485,ov_maxi_paninazzo_40.8319_17.3635,Maxi paninazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/maxi_paninazzo_40.8319_17.3635.json,custom
+40.827422,17.385664,ov_centro_agroalimentare_40.8274_17.3857,Centro Agroalimentare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_agroalimentare_40.8274_17.3857.json,custom
+40.826933,17.381972,ov_planet_games_40.8269_17.3820,Planet Games,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/planet_games_40.8269_17.3820.json,custom
+40.800870,17.350910,ov_ristorante_l_erbavoglio_40.8009_17.3509,Ristorante L'Erbavoglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_lerbavoglio_40.8009_17.3509.json,custom
+40.800569,17.352501,ov_locanda_don_mim__40.8006_17.3525,Locanda Don Mimì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/locanda_don_mim_40.8006_17.3525.json,custom
+40.800560,17.352349,ov_la_neviera_40.8006_17.3523,La Neviera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_neviera_40.8006_17.3523.json,custom
+40.796929,17.349543,ov_pizzeria_dei_platani_40.7969_17.3495,Pizzeria dei Platani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_dei_platani_40.7969_17.3495.json,custom
+40.811327,17.341083,ov_pizzeria_il_canale_da_tommaso_40.8113_17.3411,Pizzeria Il Canale Da Tommaso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pizzeria_il_canale_da_tommaso_40.8113_17.3411.json,custom
+40.811665,17.336333,ov_locanda_ventura_40.8117_17.3363,Locanda Ventura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/locanda_ventura_40.8117_17.3363.json,custom
+40.779468,17.446983,ov_masseria_conte_40.7795_17.4470,Masseria Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_conte_40.7795_17.4470.json,custom
+40.782580,17.435644,ov_masseria_parco_della_grava_40.7826_17.4356,Masseria Parco della Grava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_parco_della_grava_40.7826_17.4356.json,custom
+40.806852,17.398610,ov_masseria_salamina_40.8069_17.3986,Masseria Salamina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_salamina_40.8069_17.3986.json,custom
+40.811971,17.414652,ov_raparossa_40.8120_17.4147,Raparossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/raparossa_40.8120_17.4147.json,custom
+40.812059,17.414639,ov_viantica_40.8121_17.4146,Viantica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/viantica_40.8121_17.4146.json,custom
+40.810087,17.434427,ov_masseria_montenapoleone_40.8101_17.4344,Masseria Montenapoleone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_montenapoleone_40.8101_17.4344.json,custom
+40.791299,17.460562,ov_il_cortiletto_40.7913_17.4606,Il Cortiletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/il_cortiletto_40.7913_17.4606.json,custom
+40.810467,17.454501,ov_ristorante_la_manna_del_pozzo_40.8105_17.4545,Ristorante La Manna del Pozzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristorante_la_manna_del_pozzo_40.8105_17.4545.json,custom
+40.781898,17.480997,ov_capatosta_40.7819_17.4810,Capatosta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/capatosta_40.7819_17.4810.json,custom
+40.789874,17.463925,ov_masseria_narducci_40.7899_17.4639,Masseria Narducci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_narducci_40.7899_17.4639.json,custom
+40.789792,17.458587,ov_vitemia_ristorante_40.7898_17.4586,Vitemia Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/vitemia_ristorante_40.7898_17.4586.json,custom
+40.782908,17.477764,ov_la_lanterna_40.7829_17.4778,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_lanterna_40.7829_17.4778.json,custom
+40.776746,17.475457,ov_da_veleno_40.7767_17.4755,Da Veleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/da_veleno_40.7767_17.4755.json,custom
+40.777660,17.480520,ov_braceria_mola_40.7777_17.4805,Braceria Mola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/braceria_mola_40.7777_17.4805.json,custom
+40.796762,17.476152,osm_masseria_oasi_san_giovanni_battista_40.7968_17.4762,Masseria Oasi San Giovanni Battista,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/masseria_oasi_san_giovanni_battista_40.7968_17.4762.json,custom
+40.871666,17.411860,osm_da_renzina_40.8717_17.4119,Da Renzina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/da_renzina_40.8717_17.4119.json,custom
+40.839644,17.468228,osm_el_chiringuito_40.8396_17.4682,El Chiringuito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/el_chiringuito_40.8396_17.4682.json,custom
+40.895808,17.376133,ov_piano_b___extraordinary_beach_40.8958_17.3761,Piano B - Extraordinary Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/piano_b_-_extraordinary_beach_40.8958_17.3761.json,custom
+40.875200,17.395939,ov_bar_del_portico_40.8752_17.3959,Bar del Portico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_del_portico_40.8752_17.3959.json,custom
+40.872689,17.411717,ov_skipper_bar_40.8727_17.4117,Skipper Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/skipper_bar_40.8727_17.4117.json,custom
+40.872381,17.412154,ov_alchemicamente_40.8724_17.4122,Alchemicamente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/alchemicamente_40.8724_17.4122.json,custom
+40.870803,17.412658,ov_la_sirenetta_ristorante___savelletri_40.8708_17.4127,La Sirenetta Ristorante - Savelletri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_sirenetta_ristorante_-_savelletri_40.8708_17.4127.json,custom
+40.873900,17.409142,ov_bar_il_marchese_40.8739_17.4091,Bar il marchese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_il_marchese_40.8739_17.4091.json,custom
+40.874481,17.408463,ov_non_solo_caffe_40.8745_17.4085,Non Solo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/non_solo_caffe_40.8745_17.4085.json,custom
+40.874531,17.408421,ov_bar_riviera_di_pentassuglia_40.8745_17.4084,Bar Riviera di Pentassuglia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_riviera_di_pentassuglia_40.8745_17.4084.json,custom
+40.863178,17.426330,ov_lido_verdemare_40.8632_17.4263,Lido Verdemare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lido_verdemare_40.8632_17.4263.json,custom
+40.848520,17.457011,ov_luce___il_santos_40.8485_17.4570,Luce - Il Santos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/luce_-_il_santos_40.8485_17.4570.json,custom
+40.839607,17.468227,ov_el_chiringuito_la_capinera_40.8396_17.4682,El Chiringuito La Capinera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/el_chiringuito_la_capinera_40.8396_17.4682.json,custom
+40.840016,17.470163,ov_ciporti_cocktail_and_soul_40.8400_17.4702,Ciporti Cocktail and Soul,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ciporti_cocktail_and_soul_40.8400_17.4702.json,custom
+40.841060,17.468247,ov_ham___beer_40.8411_17.4682,Ham & Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ham_beer_40.8411_17.4682.json,custom
+40.840913,17.470424,ov_terrazza_101_40.8409_17.4704,Terrazza 101,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/terrazza_101_40.8409_17.4704.json,custom
+40.841418,17.468643,ov_a_un_passo_dal_faro_40.8414_17.4686,A un passo dal faro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/a_un_passo_dal_faro_40.8414_17.4686.json,custom
+40.842664,17.468217,ov_punto_bar_torre_canne_di_fasano_40.8427_17.4682,Punto Bar Torre Canne di fasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/punto_bar_torre_canne_di_fasano_40.8427_17.4682.json,custom
+40.835560,17.464224,ov_bella_vita_40.8356_17.4642,Bella Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bella_vita_40.8356_17.4642.json,custom
+40.836020,17.467618,ov_cafe_de_mar_40.8360_17.4676,Cafe de mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cafe_de_mar_40.8360_17.4676.json,custom
+40.836551,17.467876,ov_apulia_hotel_lido_40.8366_17.4679,Apulia hotel lido,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/apulia_hotel_lido_40.8366_17.4679.json,custom
+40.836935,17.467892,ov_settebello_40.8369_17.4679,Settebello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/settebello_40.8369_17.4679.json,custom
+40.826839,17.484011,ov_lido_verde___torre_canne_40.8268_17.4840,lido verde...torre canne,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lido_verdetorre_canne_40.8268_17.4840.json,custom
+40.824796,17.487114,ov_lido_bizzarro_40.8248_17.4871,Lido Bizzarro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lido_bizzarro_40.8248_17.4871.json,custom
+40.820752,17.491324,ov_ristir_caffe_40.8208_17.4913,Ristir Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ristir_caffe_40.8208_17.4913.json,custom
+40.820909,17.491584,ov_bar_ristir_379_agip_torre_canne_40.8209_17.4916,Bar Ristir 379 Agip Torre Canne,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_ristir_379_agip_torre_canne_40.8209_17.4916.json,custom
+40.812379,17.413719,ov_gran_caffe_del_corso_40.8124_17.4137,Gran Caffe del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gran_caffe_del_corso_40.8124_17.4137.json,custom
+40.813153,17.411809,ov_caffe_roma_40.8132_17.4118,Caffe Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caffe_roma_40.8132_17.4118.json,custom
+40.813378,17.410970,ov_caffe_italia_40.8134_17.4110,Caffe Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caffe_italia_40.8134_17.4110.json,custom
+40.814457,17.409164,ov_bar_desir_e_40.8145_17.4092,Bar Desirèe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_desire_40.8145_17.4092.json,custom
+40.826360,17.395530,ov_da_mina___caffetteria_paninoteca_40.8264_17.3955,Da Mina - Caffetteria Paninoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/da_mina_-_caffetteria_paninoteca_40.8264_17.3955.json,custom
+40.838382,17.375063,ov_bs_cafe_40.8384_17.3751,BS Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bs_cafe_40.8384_17.3751.json,custom
+40.836962,17.365457,ov_punto_gin_40.8370_17.3655,Punto Gin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/punto_gin_40.8370_17.3655.json,custom
+40.835668,17.366117,ov_pasticceria_artistica_colibr__40.8357_17.3661,Pasticceria Artistica Colibrì,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pasticceria_artistica_colibr_40.8357_17.3661.json,custom
+40.834018,17.365185,ov_crema_cioccolato_di_michele_fanigliulo_f_40.8340_17.3652,Crema&Cioccolato di Michele Fanigliulo Fasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/cremacioccolato_di_michele_fanigliulo_fa_40.8340_17.3652.json,custom
+40.833914,17.364232,ov_giusto_un_caffe_40.8339_17.3642,Giusto un Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/giusto_un_caffe_40.8339_17.3642.json,custom
+40.833688,17.358892,ov_bar_caffe_antico_40.8337_17.3589,Bar Caffe Antico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_caffe_antico_40.8337_17.3589.json,custom
+40.834480,17.359851,ov_caffe_bella_napoli_40.8345_17.3599,Caffe Bella Napoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caffe_bella_napoli_40.8345_17.3599.json,custom
+40.834276,17.359535,ov_faso_cafe_40.8343_17.3595,Faso Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/faso_cafe_40.8343_17.3595.json,custom
+40.834534,17.360717,ov_fashion_bet_40.8345_17.3607,Fashion Bet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fashion_bet_40.8345_17.3607.json,custom
+40.835005,17.360735,ov_happy_bar_40.8350_17.3607,Happy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/happy_bar_40.8350_17.3607.json,custom
+40.835358,17.359201,ov_new_smile_bar_40.8354_17.3592,New Smile Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/new_smile_bar_40.8354_17.3592.json,custom
+40.835294,17.358063,ov_enoteca_argento_40.8353_17.3581,Enoteca Argento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/enoteca_argento_40.8353_17.3581.json,custom
+40.835306,17.358174,ov_portici_cafe_40.8353_17.3582,Portici Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/portici_cafe_40.8353_17.3582.json,custom
+40.835714,17.358403,ov_bar_clav__40.8357_17.3584,Bar Claví,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_clav_40.8357_17.3584.json,custom
+40.836090,17.357707,ov_caffe_vittorio_emanuele_40.8361_17.3577,Caffe Vittorio Emanuele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caffe_vittorio_emanuele_40.8361_17.3577.json,custom
+40.836591,17.357594,ov_centochicchi_store_40.8366_17.3576,Centochicchi STORE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centochicchi_store_40.8366_17.3576.json,custom
+40.836528,17.358544,ov_tan_bar_40.8365_17.3585,Tan Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tan_bar_40.8365_17.3585.json,custom
+40.836228,17.359726,ov_paninoteca_caff__dal_1966_40.8362_17.3597,Paninoteca Caffè dal 1966,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/paninoteca_caff_dal_1966_40.8362_17.3597.json,custom
+40.836338,17.359210,ov_fil_a___food___beverage_40.8363_17.3592,Filìa - Food & Beverage,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fila_-_food_beverage_40.8363_17.3592.json,custom
+40.835853,17.360236,ov_fiocco_di_neve_40.8359_17.3602,Fiocco di Neve,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fiocco_di_neve_40.8359_17.3602.json,custom
+40.835835,17.361838,ov_oriental_bar___pasticceria_e_gastronomia_40.8358_17.3618,Oriental Bar | Pasticceria e gastronomia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/oriental_bar_pasticceria_e_gastronomia_40.8358_17.3618.json,custom
+40.836348,17.363565,ov_tiffany_caff__40.8363_17.3636,Tiffany caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tiffany_caff_40.8363_17.3636.json,custom
+40.836350,17.361249,ov_bar_livei_40.8364_17.3612,Bar Livei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_livei_40.8364_17.3612.json,custom
+40.837943,17.362961,ov_over_coffee_40.8379_17.3630,Over Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/over_coffee_40.8379_17.3630.json,custom
+40.838145,17.357484,ov_classic_cafe_40.8381_17.3575,Classic Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/classic_cafe_40.8381_17.3575.json,custom
+40.838730,17.358970,ov_reraise_fasano_40.8387_17.3590,Reraise Fasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/reraise_fasano_40.8387_17.3590.json,custom
+40.839420,17.359490,ov_nonescodirado_40.8394_17.3595,Nonescodirado,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/nonescodirado_40.8394_17.3595.json,custom
+40.839419,17.362742,ov_santid__40.8394_17.3627,SANTIDÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/santid_40.8394_17.3627.json,custom
+40.838250,17.367900,ov_happy_bar_fasano_40.8383_17.3679,Happy Bar Fasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/happy_bar_fasano_40.8383_17.3679.json,custom
+40.840955,17.357498,ov_versus_caffe_40.8410_17.3575,Versus Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/versus_caffe_40.8410_17.3575.json,custom
+40.842818,17.352263,ov_revolution_business___bar__punto_ristoro_40.8428_17.3523,"Revolution Business - Bar, Punto Ristoro",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/revolution_business_-_bar_punto_ristoro_40.8428_17.3523.json,custom
+40.838253,17.355464,ov_pasticceria_lorusso_40.8383_17.3555,Pasticceria Lorusso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pasticceria_lorusso_40.8383_17.3555.json,custom
+40.837755,17.355986,ov_demon_cafe_40.8378_17.3560,Demon Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/demon_cafe_40.8378_17.3560.json,custom
+40.837561,17.356672,ov_meni_cafe_40.8376_17.3567,Meni Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/meni_cafe_40.8376_17.3567.json,custom
+40.837138,17.356098,ov_bikal_pub_40.8371_17.3561,Bikal Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bikal_pub_40.8371_17.3561.json,custom
+40.836693,17.357009,ov_bar_del_corso_40.8367_17.3570,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_del_corso_40.8367_17.3570.json,custom
+40.835326,17.355917,ov_bar_venere_40.8353_17.3559,Bar Venere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_venere_40.8353_17.3559.json,custom
+40.835101,17.352629,ov_bar_royal_40.8351_17.3526,Bar Royal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_royal_40.8351_17.3526.json,custom
+40.850075,17.350925,ov_la_dolce_vita_40.8501_17.3509,La dolce vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_dolce_vita_40.8501_17.3509.json,custom
+40.850870,17.350726,ov_la_rustica_40.8509_17.3507,La Rustica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_rustica_40.8509_17.3507.json,custom
+40.828399,17.320987,ov_barrino_40.8284_17.3210,Barrino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/barrino_40.8284_17.3210.json,custom
+40.827846,17.328019,ov_newoneway_40.8278_17.3280,Newoneway,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/newoneway_40.8278_17.3280.json,custom
+40.825272,17.348875,ov_24ore_bar_fasano_40.8253_17.3489,24ore BAR Fasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/24ore_bar_fasano_40.8253_17.3489.json,custom
+40.827701,17.360808,ov_barbacco_40.8277_17.3608,Barbacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/barbacco_40.8277_17.3608.json,custom
+40.831314,17.360608,ov_collodi_caf__40.8313_17.3606,Collodi Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/collodi_caf_40.8313_17.3606.json,custom
+40.832360,17.358060,ov_jeanclaude_cafe_40.8324_17.3581,Jeanclaude Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/jeanclaude_cafe_40.8324_17.3581.json,custom
+40.832622,17.359194,ov_forcatella_40.8326_17.3592,Forcatella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/forcatella_40.8326_17.3592.json,custom
+40.832487,17.361592,ov_caff__pitagora_40.8325_17.3616,Caffè Pitagora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/caff_pitagora_40.8325_17.3616.json,custom
+40.788330,17.359300,ov_bar_lamie_40.7883_17.3593,Bar Lamie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/bar_lamie_40.7883_17.3593.json,custom
+40.810660,17.416942,ov_via_di_fuga_40.8107_17.4169,Via di Fuga,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/via_di_fuga_40.8107_17.4169.json,custom
+40.806351,17.450568,ov_madonnella_bar_40.8064_17.4506,Madonnella Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/madonnella_bar_40.8064_17.4506.json,custom
+40.790588,17.456962,ov_tony_bar_40.7906_17.4570,Tony Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tony_bar_40.7906_17.4570.json,custom
+40.780289,17.476302,ov_euroscarpe_ostuni_40.7803_17.4763,Euroscarpe Ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/euroscarpe_ostuni_40.7803_17.4763.json,custom
+40.779287,17.478743,ov_easy_caf__40.7793_17.4787,Easy Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/easy_caf_40.7793_17.4787.json,custom
+40.775839,17.478774,ov_ugo_la_caffetteria_40.7758_17.4788,Ugo La Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ugo_la_caffetteria_40.7758_17.4788.json,custom
+40.777326,17.479944,ov_mapa_40.7773_17.4799,Mapa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/mapa_40.7773_17.4799.json,custom
+40.796986,17.350721,osm_la_villetta_40.7970_17.3507,La Villetta,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_villetta_40.7970_17.3507.json,custom
+40.839789,17.378771,osm_snack_bar_pizzeria_40.8398_17.3788,Snack Bar Pizzeria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/snack_bar_pizzeria_40.8398_17.3788.json,custom
+40.520448,17.274437,ov_goldbet_fasano_40.5204_17.2744,Goldbet Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/goldbet_fasano_40.5204_17.2744.json,custom
+40.862993,17.376566,ov_kartodromo_fasano_40.8630_17.3766,Kartodromo Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/kartodromo_fasano_40.8630_17.3766.json,custom
+40.876642,17.405848,ov_lido_ottagono_40.8766_17.4058,Lido Ottagono,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lido_ottagono_40.8766_17.4058.json,custom
+40.872005,17.409173,ov_nautica_de_mattia_srl_40.8720_17.4092,Nautica De Mattia SRL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/nautica_de_mattia_srl_40.8720_17.4092.json,custom
+40.839867,17.467408,ov_la_boa_40.8399_17.4674,La Boa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_boa_40.8399_17.4674.json,custom
+40.814721,17.448660,ov_centro_ippico_luigi_zizzi_40.8147_17.4487,Centro ippico luigi zizzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_ippico_luigi_zizzi_40.8147_17.4487.json,custom
+40.836608,17.366011,ov_authentic_gym_40.8366_17.3660,Authentic Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/authentic_gym_40.8366_17.3660.json,custom
+40.836057,17.366088,ov_centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661,Centro Ludico Prima Infanzia Zucchero Filato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661.json,custom
+40.835701,17.366132,ov_gym_moving_club_40.8357_17.3661,Gym Moving Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gym_moving_club_40.8357_17.3661.json,custom
+40.833437,17.366342,ov_fitness_academy_fasano_40.8334_17.3663,Fitness Academy Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fitness_academy_fasano_40.8334_17.3663.json,custom
+40.835338,17.366660,ov_palestra_franco_zizzi_40.8353_17.3667,Palestra Franco Zizzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/palestra_franco_zizzi_40.8353_17.3667.json,custom
+40.834794,17.364267,ov_a_s_d__corpus_40.8348_17.3643,A.S.D. Corpus,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_corpus_40.8348_17.3643.json,custom
+40.834392,17.364534,ov_core_be_wellness_40.8344_17.3645,CORE be wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/core_be_wellness_40.8344_17.3645.json,custom
+40.834430,17.364258,ov_studio_danza_e_balletto_40.8344_17.3643,Studio Danza e Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/studio_danza_e_balletto_40.8344_17.3643.json,custom
+40.833009,17.358710,ov_new_pas_de_deux_40.8330_17.3587,New Pas de deux,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/new_pas_de_deux_40.8330_17.3587.json,custom
+40.835812,17.357803,ov_pas_de_deux_scuola_40.8358_17.3578,Pas De Deux Scuola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pas_de_deux_scuola_40.8358_17.3578.json,custom
+40.836615,17.361435,ov_yalla_academy_asd_40.8366_17.3614,Yalla Academy Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/yalla_academy_asd_40.8366_17.3614.json,custom
+40.837273,17.364296,ov_hekaclub_asd_pilates___body_fly_40.8373_17.3643,HekaClub Asd Pilates & Body Fly,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/hekaclub_asd_pilates_body_fly_40.8373_17.3643.json,custom
+40.838033,17.357718,ov_scuderia_ferrari_club_fasano_40.8380_17.3577,Scuderia Ferrari Club Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/scuderia_ferrari_club_fasano_40.8380_17.3577.json,custom
+40.840360,17.359457,ov_olistik_selva_40.8404_17.3595,Olistik Selva,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/olistik_selva_40.8404_17.3595.json,custom
+40.842331,17.352796,ov_gofit_egnazia_40.8423_17.3528,GoFit Egnazia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gofit_egnazia_40.8423_17.3528.json,custom
+40.835541,17.354338,ov_green_bar_40.8355_17.3543,Green Bar,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/green_bar_40.8355_17.3543.json,custom
+40.835442,17.355006,ov_tensostatico_40.8354_17.3550,Tensostatico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tensostatico_40.8354_17.3550.json,custom
+40.834159,17.355713,ov_oratorio_del_fanciullo_40.8342_17.3557,Oratorio del Fanciullo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/oratorio_del_fanciullo_40.8342_17.3557.json,custom
+40.843442,17.351076,ov_handstand_gym_40.8434_17.3511,Handstand Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/handstand_gym_40.8434_17.3511.json,custom
+40.844390,17.353420,ov_coppa_selva_di_fasano_40.8444_17.3534,Coppa Selva di Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/coppa_selva_di_fasano_40.8444_17.3534.json,custom
+40.844779,17.353515,ov_asd_team_top_dance_academy_40.8448_17.3535,Asd Team Top Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_team_top_dance_academy_40.8448_17.3535.json,custom
+40.845370,17.353850,ov_become_40.8454_17.3539,Become,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/become_40.8454_17.3539.json,custom
+40.845570,17.350170,ov_whitefit_ostuni_40.8456_17.3502,Whitefit Ostuni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/whitefit_ostuni_40.8456_17.3502.json,custom
+40.846045,17.352988,ov_doms_academy_40.8460_17.3530,DOMS Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/doms_academy_40.8460_17.3530.json,custom
+40.851261,17.350088,ov_sportproject_fasano_40.8513_17.3501,SportProject Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/sportproject_fasano_40.8513_17.3501.json,custom
+40.851158,17.350703,ov_fenice_asd_40.8512_17.3507,Fenice ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fenice_asd_40.8512_17.3507.json,custom
+40.831746,17.353993,ov_l_officina_dell_essere_40.8317_17.3540,L'Officina dell'Essere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lofficina_dellessere_40.8317_17.3540.json,custom
+40.827058,17.379684,ov_timo_s_park_40.8271_17.3797,Timo's Park,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/timos_park_40.8271_17.3797.json,custom
+40.810561,17.492500,ov_centro_equestre_parco_di_mare_40.8106_17.4925,Centro Equestre Parco di Mare,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_equestre_parco_di_mare_40.8106_17.4925.json,custom
+40.703080,17.657110,ov_asd_adriatic_scuba_divers_40.7031_17.6571,ASD Adriatic Scuba Divers,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_adriatic_scuba_divers_40.7031_17.6571.json,custom
+40.886627,17.387591,ov_museo_archeologico_di_egnazia_40.8866_17.3876,Museo Archeologico di Egnazia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_archeologico_di_egnazia_40.8866_17.3876.json,custom
+40.814473,17.411880,ov_museo_laboratorio_arte_contadina_40.8145_17.4119,Museo Laboratorio Arte Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_laboratorio_arte_contadina_40.8145_17.4119.json,custom
+40.835210,17.359002,ov_museo_della_casa_alla_fasanese_40.8352_17.3590,Museo della Casa alla fasanese,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_della_casa_alla_fasanese_40.8352_17.3590.json,custom
+40.835132,17.358601,ov_associazione_u_mbracchie___fasano_40.8351_17.3586,Associazione U'mbracchie - Fasano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/associazione_umbracchie_-_fasano_40.8351_17.3586.json,custom
+40.836570,17.357284,ov_ciaialab___laboratorio_urbano_40.8366_17.3573,CiaiaLab - Laboratorio Urbano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/ciaialab_-_laboratorio_urbano_40.8366_17.3573.json,custom
+40.846050,17.354040,ov_museo_nazionale_e_parco_archeologico_di__40.8460_17.3540,Museo Nazionale e Parco Archeologico di Egnazia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/museo_nazionale_e_parco_archeologico_di__40.8460_17.3540.json,custom

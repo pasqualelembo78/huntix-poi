@@ -1,38 +1,38 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # laterza -- restaurants
-40.627789,16.795346,osm_frumento_40.6278_16.7953,Frumento,ristorante,ristorante
-40.618592,16.809151,ov_agriturismo_nigro_40.6186_16.8092,Agriturismo Nigro,RESTAURANT,ristorante
-40.614965,16.821574,ov_la_selva_n_zaccacrist_40.6150_16.8216,La Selva N'Zaccacrist,RESTAURANT,ristorante
-40.624886,16.799200,ov_blizard_40.6249_16.7992,Blizard,RESTAURANT,ristorante
-40.624275,16.796549,ov_la_cantina_del_cacciatore_40.6243_16.7965,La Cantina del Cacciatore,RESTAURANT,ristorante
-40.624676,16.797949,ov_sinfonia_40.6247_16.7979,Sinfonia,RESTAURANT,ristorante
-40.625067,16.797080,ov_trattoria_del_muraglione_40.6251_16.7971,Trattoria del Muraglione,RESTAURANT,ristorante
-40.624994,16.797907,ov_picaboca___trattoria_pizzeria_40.6250_16.7979,PICABOCA   trattoria pizzeria,RESTAURANT,ristorante
-40.625140,16.797750,ov_la_rotonda_40.6251_16.7978,La Rotonda,RESTAURANT,ristorante
-40.625144,16.797826,ov_gourv__40.6251_16.7978,GourVÈ,RESTAURANT,ristorante
-40.623338,16.793913,ov_il_vecchio_frantoio_40.6233_16.7939,Il Vecchio Frantoio,RESTAURANT,ristorante
-40.622269,16.798135,ov_pizzeria_trattoria_del_purgatorio_40.6223_16.7981,Pizzeria Trattoria del Purgatorio,RESTAURANT,ristorante
-40.622541,16.797575,ov_fontana_fanelli_40.6225_16.7976,Fontana Fanelli,RESTAURANT,ristorante
-40.623060,16.794953,ov_beat__restaurant_lounge_bar_40.6231_16.7950,"Beat, Restaurant Lounge Bar",RESTAURANT,ristorante
-40.623527,16.798722,ov_antica_rosticceria_da_luca_40.6235_16.7987,Antica rosticceria da Luca,RESTAURANT,ristorante
-40.623621,16.798312,ov_da_donato_40.6236_16.7983,Da Donato,RESTAURANT,ristorante
-40.619368,16.795860,ov_i_tre_sapori_40.6194_16.7959,I Tre Sapori,RESTAURANT,ristorante
-40.621921,16.790991,ov_hermitage_40.6219_16.7910,Hermitage,RESTAURANT,ristorante
-40.621226,16.781911,ov_tenuta_dell_aquila_40.6212_16.7819,Tenuta Dell'Aquila,RESTAURANT,ristorante
-40.625814,16.792789,ov_pizzeria_speedy_gonzales_40.6258_16.7928,Pizzeria Speedy Gonzales,RESTAURANT,ristorante
-40.625380,16.795492,ov_pizzeria_la_piazzetta_40.6254_16.7955,Pizzeria La Piazzetta,RESTAURANT,ristorante
-40.625523,16.797883,ov_mingo_s_food_40.6255_16.7979,Mingo's Food,RESTAURANT,ristorante
-40.625589,16.799679,ov_la_nobile_braceria_40.6256_16.7997,La Nobile Braceria,RESTAURANT,ristorante
-40.626650,16.797728,ov_pizza_e_sfizi_40.6266_16.7977,Pizza E Sfizi,RESTAURANT,ristorante
-40.627480,16.798846,ov_michele_rosticceria_macelleria_cellaro_40.6275_16.7988,Michele Rosticceria Macelleria Cellaro,RESTAURANT,ristorante
-40.628324,16.798507,ov_315_ristopizza_40.6283_16.7985,315 Ristopizza,RESTAURANT,ristorante
-40.629258,16.791795,ov_natana___la_cicchetteria_40.6293_16.7918,Natana - La cicchetteria,RESTAURANT,ristorante
-40.630387,16.799185,ov_civico_105_40.6304_16.7992,Civico 105,RESTAURANT,ristorante
-40.630858,16.799383,ov_rosa_wanda_pizzeria_e_panzerotteria_40.6309_16.7994,Rosa&Wanda Pizzeria e Panzerotteria,RESTAURANT,ristorante
-40.630804,16.799435,ov_la_bonta_pizzeria_40.6308_16.7994,La Bonta Pizzeria,RESTAURANT,ristorante
-40.631288,16.799781,ov_ricevimenti_ciccarone_40.6313_16.7998,Ricevimenti Ciccarone,RESTAURANT,ristorante
-40.633403,16.799524,ov_tengfei_sushi_restaurant_40.6334_16.7995,TengFei Sushi Restaurant,RESTAURANT,ristorante
-40.633950,16.791700,ov_ristorante_fior_di_sale_40.6340_16.7917,Ristorante Fior Di Sale,RESTAURANT,ristorante
-40.632147,16.795720,ov_servito_srl_40.6321_16.7957,Servito Srl,RESTAURANT,ristorante
-40.638391,16.810220,ov_saletta_venere_40.6384_16.8102,Saletta Venere,RESTAURANT,ristorante
-40.658080,16.767583,ov_home_restaurant_perrone_40.6581_16.7676,Home Restaurant Perrone,RESTAURANT,ristorante
+40.618592,16.809151,ov_agriturismo_nigro_40.6186_16.8092,Agriturismo Nigro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/agriturismo_nigro_40.6186_16.8092.json,custom
+40.614965,16.821574,ov_la_selva_n_zaccacrist_40.6150_16.8216,La Selva N'Zaccacrist,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_selva_nzaccacrist_40.6150_16.8216.json,custom
+40.624886,16.799200,ov_blizard_40.6249_16.7992,Blizard,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/blizard_40.6249_16.7992.json,custom
+40.624275,16.796549,ov_la_cantina_del_cacciatore_40.6243_16.7965,La Cantina del Cacciatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_cantina_del_cacciatore_40.6243_16.7965.json,custom
+40.624676,16.797949,ov_sinfonia_40.6247_16.7979,Sinfonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/sinfonia_40.6247_16.7979.json,custom
+40.625067,16.797080,ov_trattoria_del_muraglione_40.6251_16.7971,Trattoria del Muraglione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/trattoria_del_muraglione_40.6251_16.7971.json,custom
+40.624994,16.797907,ov_picaboca___trattoria_pizzeria_40.6250_16.7979,PICABOCA   trattoria pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/picaboca_trattoria_pizzeria_40.6250_16.7979.json,custom
+40.625140,16.797750,ov_la_rotonda_40.6251_16.7978,La Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_rotonda_40.6251_16.7978.json,custom
+40.625144,16.797826,ov_gourv__40.6251_16.7978,GourVÈ,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/gourv_40.6251_16.7978.json,custom
+40.623338,16.793913,ov_il_vecchio_frantoio_40.6233_16.7939,Il Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/il_vecchio_frantoio_40.6233_16.7939.json,custom
+40.622269,16.798135,ov_pizzeria_trattoria_del_purgatorio_40.6223_16.7981,Pizzeria Trattoria del Purgatorio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/pizzeria_trattoria_del_purgatorio_40.6223_16.7981.json,custom
+40.622541,16.797575,ov_fontana_fanelli_40.6225_16.7976,Fontana Fanelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/fontana_fanelli_40.6225_16.7976.json,custom
+40.623060,16.794953,ov_beat__restaurant_lounge_bar_40.6231_16.7950,"Beat, Restaurant Lounge Bar",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/beat_restaurant_lounge_bar_40.6231_16.7950.json,custom
+40.623527,16.798722,ov_antica_rosticceria_da_luca_40.6235_16.7987,Antica rosticceria da Luca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/antica_rosticceria_da_luca_40.6235_16.7987.json,custom
+40.623621,16.798312,ov_da_donato_40.6236_16.7983,Da Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/da_donato_40.6236_16.7983.json,custom
+40.619368,16.795860,ov_i_tre_sapori_40.6194_16.7959,I Tre Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/i_tre_sapori_40.6194_16.7959.json,custom
+40.621921,16.790991,ov_hermitage_40.6219_16.7910,Hermitage,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/hermitage_40.6219_16.7910.json,custom
+40.621226,16.781911,ov_tenuta_dell_aquila_40.6212_16.7819,Tenuta Dell'Aquila,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/tenuta_dellaquila_40.6212_16.7819.json,custom
+40.625814,16.792789,ov_pizzeria_speedy_gonzales_40.6258_16.7928,Pizzeria Speedy Gonzales,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/pizzeria_speedy_gonzales_40.6258_16.7928.json,custom
+40.625380,16.795492,ov_pizzeria_la_piazzetta_40.6254_16.7955,Pizzeria La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/pizzeria_la_piazzetta_40.6254_16.7955.json,custom
+40.625523,16.797883,ov_mingo_s_food_40.6255_16.7979,Mingo's Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/mingos_food_40.6255_16.7979.json,custom
+40.625589,16.799679,ov_la_nobile_braceria_40.6256_16.7997,La Nobile Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_nobile_braceria_40.6256_16.7997.json,custom
+40.626650,16.797728,ov_pizza_e_sfizi_40.6266_16.7977,Pizza E Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/pizza_e_sfizi_40.6266_16.7977.json,custom
+40.627480,16.798846,ov_michele_rosticceria_macelleria_cellaro_40.6275_16.7988,Michele Rosticceria Macelleria Cellaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/michele_rosticceria_macelleria_cellaro_40.6275_16.7988.json,custom
+40.628324,16.798507,ov_315_ristopizza_40.6283_16.7985,315 Ristopizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/315_ristopizza_40.6283_16.7985.json,custom
+40.629258,16.791795,ov_natana___la_cicchetteria_40.6293_16.7918,Natana - La cicchetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/natana_-_la_cicchetteria_40.6293_16.7918.json,custom
+40.630387,16.799185,ov_civico_105_40.6304_16.7992,Civico 105,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/civico_105_40.6304_16.7992.json,custom
+40.630858,16.799383,ov_rosa_wanda_pizzeria_e_panzerotteria_40.6309_16.7994,Rosa&Wanda Pizzeria e Panzerotteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/rosawanda_pizzeria_e_panzerotteria_40.6309_16.7994.json,custom
+40.630804,16.799435,ov_la_bonta_pizzeria_40.6308_16.7994,La Bonta Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_bonta_pizzeria_40.6308_16.7994.json,custom
+40.631288,16.799781,ov_ricevimenti_ciccarone_40.6313_16.7998,Ricevimenti Ciccarone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/ricevimenti_ciccarone_40.6313_16.7998.json,custom
+40.633403,16.799524,ov_tengfei_sushi_restaurant_40.6334_16.7995,TengFei Sushi Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/tengfei_sushi_restaurant_40.6334_16.7995.json,custom
+40.633950,16.791700,ov_ristorante_fior_di_sale_40.6340_16.7917,Ristorante Fior Di Sale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/ristorante_fior_di_sale_40.6340_16.7917.json,custom
+40.632147,16.795720,ov_servito_srl_40.6321_16.7957,Servito Srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/servito_srl_40.6321_16.7957.json,custom
+40.638391,16.810220,ov_saletta_venere_40.6384_16.8102,Saletta Venere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/saletta_venere_40.6384_16.8102.json,custom
+40.658080,16.767583,ov_home_restaurant_perrone_40.6581_16.7676,Home Restaurant Perrone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/home_restaurant_perrone_40.6581_16.7676.json,custom
+40.627789,16.795346,osm_frumento_40.6278_16.7953,Frumento,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/frumento_40.6278_16.7953.json,custom

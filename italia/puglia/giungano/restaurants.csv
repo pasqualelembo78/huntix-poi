@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # giungano -- restaurants
-40.384316,15.073230,ov_molecola_40.3843_15.0732,Molecola,RESTAURANT,ristorante
-40.384590,15.072530,ov_ristorante_pizzeria_miracapri_40.3846_15.0725,Ristorante Pizzeria MiraCapri,RESTAURANT,ristorante
-40.383400,15.105900,ov_molecola_40.3834_15.1059,Molecola,RESTAURANT,ristorante
-40.387160,15.106410,ov_locanda_neruda_40.3872_15.1064,Locanda Neruda,RESTAURANT,ristorante
-40.395800,15.104913,ov_cilentum_pizza_experience_40.3958_15.1049,Cilentum Pizza Experience,RESTAURANT,ristorante
-40.394181,15.108393,ov_la_torretta_40.3942_15.1084,La Torretta,RESTAURANT,ristorante
-40.397423,15.099110,ov_pizzeria_tre_monti_40.3974_15.0991,Pizzeria Tre Monti,RESTAURANT,ristorante
-40.400082,15.087061,ov_ristorante_pizzeria_la_panoramica_40.4001_15.0871,"Ristorante,pizzeria La Panoramica",RESTAURANT,ristorante
-40.391740,15.073998,ov_bar_degli_amici_40.3917_15.0740,Bar Degli Amici,RESTAURANT,ristorante
-40.403157,15.082101,ov_la_panoramica_40.4032_15.0821,La Panoramica,RESTAURANT,ristorante
+40.384316,15.073230,ov_molecola_40.3843_15.0732,Molecola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/molecola_40.3843_15.0732.json,custom
+40.384590,15.072530,ov_ristorante_pizzeria_miracapri_40.3846_15.0725,Ristorante Pizzeria MiraCapri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/ristorante_pizzeria_miracapri_40.3846_15.0725.json,custom
+40.383400,15.105900,ov_molecola_40.3834_15.1059,Molecola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/molecola_40.3834_15.1059.json,custom
+40.387160,15.106410,ov_locanda_neruda_40.3872_15.1064,Locanda Neruda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/locanda_neruda_40.3872_15.1064.json,custom
+40.395800,15.104913,ov_cilentum_pizza_experience_40.3958_15.1049,Cilentum Pizza Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/cilentum_pizza_experience_40.3958_15.1049.json,custom
+40.394181,15.108393,ov_la_torretta_40.3942_15.1084,La Torretta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/la_torretta_40.3942_15.1084.json,custom
+40.397423,15.099110,ov_pizzeria_tre_monti_40.3974_15.0991,Pizzeria Tre Monti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/pizzeria_tre_monti_40.3974_15.0991.json,custom
+40.400082,15.087061,ov_ristorante_pizzeria_la_panoramica_40.4001_15.0871,"Ristorante,pizzeria La Panoramica",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/ristorantepizzeria_la_panoramica_40.4001_15.0871.json,custom
+40.391740,15.073998,ov_bar_degli_amici_40.3917_15.0740,Bar Degli Amici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/bar_degli_amici_40.3917_15.0740.json,custom
+40.403157,15.082101,ov_la_panoramica_40.4032_15.0821,La Panoramica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giungano/pages/la_panoramica_40.4032_15.0821.json,custom

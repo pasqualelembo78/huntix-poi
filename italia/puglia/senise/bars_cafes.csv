@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # senise -- bars_cafes
-40.135293,16.304363,ov_bar_primo_pino_40.1353_16.3044,Bar Primo Pino,RESTAURANT,bar_cafe
-40.143674,16.289370,ov_gran_caffe_bar_italia_40.1437_16.2894,Gran Caffe Bar Italia,RESTAURANT,bar_cafe
-40.148304,16.289943,ov_eldorado_pub_40.1483_16.2899,Eldorado Pub,RESTAURANT,bar_cafe
-40.149004,16.288273,ov_sunset_italian_coffee_40.1490_16.2883,Sunset Italian Coffee,RESTAURANT,bar_cafe
-40.149404,16.287440,ov_caffe__rendez_vous_senise__40.1494_16.2874,Caffe' Rendez Vous Senise.,RESTAURANT,bar_cafe
-40.150260,16.286960,ov_euro_bar_40.1503_16.2870,Euro Bar,RESTAURANT,bar_cafe
-40.149935,16.286740,ov_caff__la_piazzetta_40.1499_16.2867,Caffé La Piazzetta,RESTAURANT,bar_cafe
-40.149815,16.286123,ov_bar_botero_40.1498_16.2861,Bar Botero,RESTAURANT,bar_cafe
-40.143894,16.285873,ov_la_cantina_di_andrea_40.1439_16.2859,La cantina di Andrea,RESTAURANT,bar_cafe
-40.142531,16.285228,ov_l_angolo_del_caffe_40.1425_16.2852,L'Angolo del Caffe,RESTAURANT,bar_cafe
-40.142229,16.284733,ov_bar_gran_caff__senise_40.1422_16.2847,BAR GRAN CAFFè SeNiSe,RESTAURANT,bar_cafe
+40.135293,16.304363,ov_bar_primo_pino_40.1353_16.3044,Bar Primo Pino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_primo_pino_40.1353_16.3044.json,custom
+40.143674,16.289370,ov_gran_caffe_bar_italia_40.1437_16.2894,Gran Caffe Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/gran_caffe_bar_italia_40.1437_16.2894.json,custom
+40.148304,16.289943,ov_eldorado_pub_40.1483_16.2899,Eldorado Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/eldorado_pub_40.1483_16.2899.json,custom
+40.149004,16.288273,ov_sunset_italian_coffee_40.1490_16.2883,Sunset Italian Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/sunset_italian_coffee_40.1490_16.2883.json,custom
+40.149404,16.287440,ov_caffe__rendez_vous_senise__40.1494_16.2874,Caffe' Rendez Vous Senise.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/caffe_rendez_vous_senise_40.1494_16.2874.json,custom
+40.150260,16.286960,ov_euro_bar_40.1503_16.2870,Euro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/euro_bar_40.1503_16.2870.json,custom
+40.149935,16.286740,ov_caff__la_piazzetta_40.1499_16.2867,Caffé La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/caff_la_piazzetta_40.1499_16.2867.json,custom
+40.149815,16.286123,ov_bar_botero_40.1498_16.2861,Bar Botero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_botero_40.1498_16.2861.json,custom
+40.143894,16.285873,ov_la_cantina_di_andrea_40.1439_16.2859,La cantina di Andrea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/la_cantina_di_andrea_40.1439_16.2859.json,custom
+40.142531,16.285228,ov_l_angolo_del_caffe_40.1425_16.2852,L'Angolo del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/langolo_del_caffe_40.1425_16.2852.json,custom
+40.142229,16.284733,ov_bar_gran_caff__senise_40.1422_16.2847,BAR GRAN CAFFè SeNiSe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_gran_caff_senise_40.1422_16.2847.json,custom

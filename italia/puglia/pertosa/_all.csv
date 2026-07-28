@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Pertosa -- Tutti
-40.538561,15.454538,ov_ba_aretz_40.5386_15.4545,Ba'aretz,RESTAURANT,ristorante
-40.537610,15.454322,ov_ristorante_bar_venosa_40.5376_15.4543,Ristorante Bar Venosa,RESTAURANT,ristorante
-40.537197,15.455032,ov_bar_rio_negro_40.5372_15.4550,Bar Rio Negro,RESTAURANT,ristorante
-40.546393,15.440981,ov_villa_delle_rose_40.5464_15.4410,Villa delle Rose,RESTAURANT,ristorante
-40.543103,15.449769,ov_bar_tequila_sunrise_c_so_umberto_i__11_40.5431_15.4498,"Bar Tequila sunrise C/so Umberto I ,11",RESTAURANT,bar_cafe
-40.543040,15.450119,ov_barv_40.5430_15.4501,BarV,RESTAURANT,bar_cafe
-40.538594,15.453432,ov_museo_del_suolo_40.5386_15.4534,Museo del Suolo,MUSEUM,monumento
-40.543622,15.450127,ov_museo_speleo_archeologico_40.5436_15.4501,Museo Speleo Archeologico,MUSEUM,monumento
+40.538561,15.454538,ov_ba_aretz_40.5386_15.4545,Ba'aretz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/baaretz_40.5386_15.4545.json,custom
+40.537610,15.454322,ov_ristorante_bar_venosa_40.5376_15.4543,Ristorante Bar Venosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/ristorante_bar_venosa_40.5376_15.4543.json,custom
+40.537197,15.455032,ov_bar_rio_negro_40.5372_15.4550,Bar Rio Negro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/bar_rio_negro_40.5372_15.4550.json,custom
+40.546393,15.440981,ov_villa_delle_rose_40.5464_15.4410,Villa delle Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/villa_delle_rose_40.5464_15.4410.json,custom
+40.543103,15.449769,ov_bar_tequila_sunrise_c_so_umberto_i__11_40.5431_15.4498,"Bar Tequila sunrise C/so Umberto I ,11",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/bar_tequila_sunrise_cso_umberto_i_11_40.5431_15.4498.json,custom
+40.543040,15.450119,ov_barv_40.5430_15.4501,BarV,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/barv_40.5430_15.4501.json,custom
+40.538594,15.453432,ov_museo_del_suolo_40.5386_15.4534,Museo del Suolo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/museo_del_suolo_40.5386_15.4534.json,custom
+40.543622,15.450127,ov_museo_speleo_archeologico_40.5436_15.4501,Museo Speleo Archeologico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pertosa/pages/museo_speleo_archeologico_40.5436_15.4501.json,custom

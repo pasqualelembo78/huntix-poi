@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Celle di Bulgheria -- Tutti
-40.094821,15.362015,ov_kairos_lounge_bar_40.0948_15.3620,Kairos Lounge Bar,RESTAURANT,ristorante
-40.095916,15.375292,ov_ristorante_pizzeria_paradise_40.0959_15.3753,Ristorante Pizzeria Paradise,RESTAURANT,ristorante
-40.126041,15.388268,ov_agriturismo_amaltea_40.1260_15.3883,Agriturismo Amaltea,RESTAURANT,ristorante
-40.095770,15.402840,ov_ristorante_pizzeria_dolcesalato_40.0958_15.4028,Ristorante/pizzeria DolceSalato,RESTAURANT,ristorante
-40.095312,15.404146,ov_dolce_e_salato_40.0953_15.4041,Dolce e Salato,RESTAURANT,ristorante
-40.094113,15.384531,ov_simon_s_bar_40.0941_15.3845,Simon's Bar,RESTAURANT,bar_cafe
-40.093710,15.381711,ov_bar_kiwi_gelateria_40.0937_15.3817,Bar kiwi Gelateria,RESTAURANT,bar_cafe
-40.094676,15.402400,ov_caffe_al_bivio_40.0947_15.4024,Caffe al Bivio,RESTAURANT,bar_cafe
-40.094154,15.404483,ov_moka_bar_hour_40.0942_15.4045,Moka Bar Hour,RESTAURANT,bar_cafe
-40.095756,15.404319,ov_bar_di_palma_40.0958_15.4043,Bar Di Palma,RESTAURANT,bar_cafe
-40.092270,15.383620,ov_bulgheria_in_quad_40.0923_15.3836,Bulgheria in QUAD,GYM,palestra
-40.092974,15.403280,ov_happyvdance__valentina_oricchio_40.0930_15.4033,Happyvdance  Valentina Oricchio,GYM,palestra
+40.094821,15.362015,ov_kairos_lounge_bar_40.0948_15.3620,Kairos Lounge Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/kairos_lounge_bar_40.0948_15.3620.json,custom
+40.095916,15.375292,ov_ristorante_pizzeria_paradise_40.0959_15.3753,Ristorante Pizzeria Paradise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/ristorante_pizzeria_paradise_40.0959_15.3753.json,custom
+40.126041,15.388268,ov_agriturismo_amaltea_40.1260_15.3883,Agriturismo Amaltea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/agriturismo_amaltea_40.1260_15.3883.json,custom
+40.095770,15.402840,ov_ristorante_pizzeria_dolcesalato_40.0958_15.4028,Ristorante/pizzeria DolceSalato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/ristorantepizzeria_dolcesalato_40.0958_15.4028.json,custom
+40.095312,15.404146,ov_dolce_e_salato_40.0953_15.4041,Dolce e Salato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/dolce_e_salato_40.0953_15.4041.json,custom
+40.094113,15.384531,ov_simon_s_bar_40.0941_15.3845,Simon's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/simons_bar_40.0941_15.3845.json,custom
+40.093710,15.381711,ov_bar_kiwi_gelateria_40.0937_15.3817,Bar kiwi Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/bar_kiwi_gelateria_40.0937_15.3817.json,custom
+40.094676,15.402400,ov_caffe_al_bivio_40.0947_15.4024,Caffe al Bivio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/caffe_al_bivio_40.0947_15.4024.json,custom
+40.094154,15.404483,ov_moka_bar_hour_40.0942_15.4045,Moka Bar Hour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/moka_bar_hour_40.0942_15.4045.json,custom
+40.095756,15.404319,ov_bar_di_palma_40.0958_15.4043,Bar Di Palma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/bar_di_palma_40.0958_15.4043.json,custom
+40.092270,15.383620,ov_bulgheria_in_quad_40.0923_15.3836,Bulgheria in QUAD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/bulgheria_in_quad_40.0923_15.3836.json,custom
+40.092974,15.403280,ov_happyvdance__valentina_oricchio_40.0930_15.4033,Happyvdance  Valentina Oricchio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_bulgheria/pages/happyvdance_valentina_oricchio_40.0930_15.4033.json,custom

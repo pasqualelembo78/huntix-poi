@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # capaccio_scalo -- bars_cafes
-40.453212,15.011903,osm_roxy_bar_40.4532_15.0119,Roxy Bar,bar_cafe,bar_cafe
-40.446367,15.021672,osm_tenuta_vannulo_40.4464_15.0217,Tenuta Vannulo,bar_cafe,bar_cafe
+40.453212,15.011903,osm_roxy_bar_40.4532_15.0119,Roxy Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_scalo/pages/roxy_bar_40.4532_15.0119.json,custom
+40.446367,15.021672,osm_tenuta_vannulo_40.4464_15.0217,Tenuta Vannulo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_scalo/pages/tenuta_vannulo_40.4464_15.0217.json,custom

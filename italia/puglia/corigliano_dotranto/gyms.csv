@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corigliano_dotranto -- gyms
-40.158951,18.260802,ov_sabor_cubano_40.1590_18.2608,Sabor Cubano,GYM,palestra
-40.154294,18.249083,ov_meg_fit_40.1543_18.2491,MEG fit,GYM,palestra
-40.154345,18.249064,ov_palestra_metroflex_40.1543_18.2491,Palestra Metroflex,GYM,palestra
+40.158951,18.260802,ov_sabor_cubano_40.1590_18.2608,Sabor Cubano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/sabor_cubano_40.1590_18.2608.json,custom
+40.154294,18.249083,ov_meg_fit_40.1543_18.2491,MEG fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/meg_fit_40.1543_18.2491.json,custom
+40.154345,18.249064,ov_palestra_metroflex_40.1543_18.2491,Palestra Metroflex,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/palestra_metroflex_40.1543_18.2491.json,custom

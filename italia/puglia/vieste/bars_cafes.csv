@@ -1,49 +1,49 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vieste -- bars_cafes
-41.859235,16.166724,ov_bar_fazzini_istituto_fazzini_giuliani_vi_41.8592_16.1667,Bar Fazzini istituto Fazzini-Giuliani Vieste,RESTAURANT,bar_cafe
-41.859160,16.173849,ov_ristorante_bar_pizzeria_camping_adriatic_41.8592_16.1738,Ristorante-Bar-Pizzeria Camping Adriatico da Loredana,RESTAURANT,bar_cafe
-41.844100,16.180997,ov_lido_azzurro_41.8441_16.1810,Lido Azzurro,RESTAURANT,bar_cafe
-41.882161,16.182142,ov_c_a_r_p_e_n_t_e_r_wine_bar_bistrot_41.8822_16.1821,C a R P E N T E R Wine Bar Bistrot,RESTAURANT,bar_cafe
-41.882138,16.182236,ov_carpenter_41.8821_16.1822,Carpenter,RESTAURANT,bar_cafe
-41.882245,16.181833,ov_dragut_41.8822_16.1818,Dragut,RESTAURANT,bar_cafe
-41.882859,16.180750,ov_cristal_cafe_41.8829_16.1808,Cristal Cafe,RESTAURANT,bar_cafe
-41.883317,16.180705,ov_bar_gelateria_sottozero_41.8833_16.1807,Bar Gelateria Sottozero,RESTAURANT,bar_cafe
-41.883363,16.180932,ov_brezza_lounge_bar_caffetteria_41.8834_16.1809,Brezza lounge bar-caffetteria,RESTAURANT,bar_cafe
-41.884498,16.179770,ov_tutto_in_un_calice_41.8845_16.1798,Tutto in un Calice,RESTAURANT,bar_cafe
-41.883320,16.180339,ov_bar_garibaldi_41.8833_16.1803,Bar Garibaldi,RESTAURANT,bar_cafe
-41.882852,16.180332,ov_snai_caffe_41.8829_16.1803,Snai Caffe,RESTAURANT,bar_cafe
-41.883235,16.179829,ov_casa_chicchella_41.8832_16.1798,Casa Chicchella,RESTAURANT,bar_cafe
-41.882824,16.177017,ov_white_bart_s_cafe_41.8828_16.1770,White Bart's Cafe,RESTAURANT,bar_cafe
-41.883031,16.175660,ov_rock_n_roll_emma_41.8830_16.1757,Rock'n'roll Emma,RESTAURANT,bar_cafe
-41.888626,16.175189,ov_blocco_sette_41.8886_16.1752,Blocco Sette,RESTAURANT,bar_cafe
-41.883300,16.166700,ov_porto_di_vieste_41.8833_16.1667,Porto Di Vieste,RESTAURANT,bar_cafe
-41.883271,16.168072,ov_la_rotonda_sul_mare_41.8833_16.1681,La Rotonda Sul Mare,RESTAURANT,bar_cafe
-41.885786,16.168469,ov_travel_caffe_41.8858_16.1685,Travel Caffe,RESTAURANT,bar_cafe
-41.885346,16.171029,ov_memento_cafe_41.8853_16.1710,Memento Cafe,RESTAURANT,bar_cafe
-41.885389,16.170602,ov_vistamare_authentic_cafe_41.8854_16.1706,Vistamare Authentic Cafe,RESTAURANT,bar_cafe
-41.883306,16.172265,ov_bar_gel_rossini_41.8833_16.1723,Bar Gel Rossini,RESTAURANT,bar_cafe
-41.879115,16.165575,ov_bar_38___tabaccheria_bar_41.8791_16.1656,Bar 38 - Tabaccheria Bar,RESTAURANT,bar_cafe
-41.877582,16.176426,ov_falcone___2_mari_beach_41.8776_16.1764,Falcone & 2 Mari Beach,RESTAURANT,bar_cafe
-41.878505,16.175110,ov_reload_41.8785_16.1751,Reload,RESTAURANT,bar_cafe
-41.881750,16.173708,ov_lidoazzurro_41.8818_16.1737,Lidoazzurro,RESTAURANT,bar_cafe
-41.881750,16.173708,ov_bar_ristorante_marina_piccola_41.8818_16.1737,Bar Ristorante Marina Piccola,RESTAURANT,bar_cafe
-41.881528,16.175636,ov_in_joy_food_caf____vieste___41.8815_16.1756,In Joy food Cafè - Vieste -,RESTAURANT,bar_cafe
-41.879475,16.175900,ov_caffetteria_il_faraglione_41.8795_16.1759,Caffetteria Il Faraglione,RESTAURANT,bar_cafe
-41.878862,16.176923,ov_lido_l_approdo_41.8789_16.1769,Lido L'Approdo,RESTAURANT,bar_cafe
-41.882452,16.176670,ov_bar_pasticceria_la_dolce_vita_41.8825_16.1767,Bar Pasticceria La Dolce Vita,RESTAURANT,bar_cafe
-41.882665,16.176716,ov_morrison_pub_41.8827_16.1767,Morrison Pub,RESTAURANT,bar_cafe
-41.882411,16.177343,ov_cafe_del_mare_41.8824_16.1773,Cafe del Mare,RESTAURANT,bar_cafe
-41.882420,16.177410,ov_piero_mascia_41.8824_16.1774,Piero Mascia,RESTAURANT,bar_cafe
-41.882708,16.178342,ov_alba_love_champagneria_41.8827_16.1783,Alba love Champagneria,RESTAURANT,bar_cafe
-41.881929,16.178333,ov_locale_cocktail_and_wine_bar_41.8819_16.1783,Locale Cocktail and Wine Bar,RESTAURANT,bar_cafe
-41.881941,16.179110,ov_doppio_malto_vieste_41.8819_16.1791,Doppio Malto Vieste,RESTAURANT,bar_cafe
-41.882596,16.178790,ov_bar_del_corso_41.8826_16.1788,Bar del Corso,RESTAURANT,bar_cafe
-41.881779,16.180037,ov_bar_gelateria_maggiore_41.8818_16.1800,Bar Gelateria Maggiore,RESTAURANT,bar_cafe
-41.876727,16.176722,ov_spiaggia_degli_aranci_41.8767_16.1767,Spiaggia degli Aranci,RESTAURANT,bar_cafe
-41.867619,16.174844,ov_havana_s_beach_club_vieste_41.8676_16.1748,Havana's Beach Club Vieste,RESTAURANT,bar_cafe
-41.868915,16.175299,ov_blanco_beach_lounge_music___cocktails_vi_41.8689_16.1753,Blanco Beach Lounge Music & Cocktails Vieste,RESTAURANT,bar_cafe
-41.895130,16.153550,ov_bar_soldano_41.8951_16.1535,BAR Soldano,RESTAURANT,bar_cafe
-41.943050,16.019100,ov_desiderio_beach_41.9430_16.0191,Desiderio Beach,RESTAURANT,bar_cafe
-41.907450,16.143270,ov_mezzaluna_41.9074_16.1433,Mezzaluna,RESTAURANT,bar_cafe
-41.898672,16.145482,ov_iqos_partner___vesta_carburanti_41.8987_16.1455,IQOS Partner - Vesta Carburanti,RESTAURANT,bar_cafe
-41.917305,16.115930,osm_zucchero_velato_41.9173_16.1159,Zucchero Velato,bar_cafe,bar_cafe
+41.859235,16.166724,ov_bar_fazzini_istituto_fazzini_giuliani_vi_41.8592_16.1667,Bar Fazzini istituto Fazzini-Giuliani Vieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_fazzini_istituto_fazzini-giuliani_vi_41.8592_16.1667.json,custom
+41.859160,16.173849,ov_ristorante_bar_pizzeria_camping_adriatic_41.8592_16.1738,Ristorante-Bar-Pizzeria Camping Adriatico da Loredana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/ristorante-bar-pizzeria_camping_adriatic_41.8592_16.1738.json,custom
+41.844100,16.180997,ov_lido_azzurro_41.8441_16.1810,Lido Azzurro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/lido_azzurro_41.8441_16.1810.json,custom
+41.882161,16.182142,ov_c_a_r_p_e_n_t_e_r_wine_bar_bistrot_41.8822_16.1821,C a R P E N T E R Wine Bar Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/c_a_r_p_e_n_t_e_r_wine_bar_bistrot_41.8822_16.1821.json,custom
+41.882138,16.182236,ov_carpenter_41.8821_16.1822,Carpenter,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/carpenter_41.8821_16.1822.json,custom
+41.882245,16.181833,ov_dragut_41.8822_16.1818,Dragut,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/dragut_41.8822_16.1818.json,custom
+41.882859,16.180750,ov_cristal_cafe_41.8829_16.1808,Cristal Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/cristal_cafe_41.8829_16.1808.json,custom
+41.883317,16.180705,ov_bar_gelateria_sottozero_41.8833_16.1807,Bar Gelateria Sottozero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_gelateria_sottozero_41.8833_16.1807.json,custom
+41.883363,16.180932,ov_brezza_lounge_bar_caffetteria_41.8834_16.1809,Brezza lounge bar-caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/brezza_lounge_bar-caffetteria_41.8834_16.1809.json,custom
+41.884498,16.179770,ov_tutto_in_un_calice_41.8845_16.1798,Tutto in un Calice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/tutto_in_un_calice_41.8845_16.1798.json,custom
+41.883320,16.180339,ov_bar_garibaldi_41.8833_16.1803,Bar Garibaldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_garibaldi_41.8833_16.1803.json,custom
+41.882852,16.180332,ov_snai_caffe_41.8829_16.1803,Snai Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/snai_caffe_41.8829_16.1803.json,custom
+41.883235,16.179829,ov_casa_chicchella_41.8832_16.1798,Casa Chicchella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/casa_chicchella_41.8832_16.1798.json,custom
+41.882824,16.177017,ov_white_bart_s_cafe_41.8828_16.1770,White Bart's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/white_barts_cafe_41.8828_16.1770.json,custom
+41.883031,16.175660,ov_rock_n_roll_emma_41.8830_16.1757,Rock'n'roll Emma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/rocknroll_emma_41.8830_16.1757.json,custom
+41.888626,16.175189,ov_blocco_sette_41.8886_16.1752,Blocco Sette,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/blocco_sette_41.8886_16.1752.json,custom
+41.883300,16.166700,ov_porto_di_vieste_41.8833_16.1667,Porto Di Vieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/porto_di_vieste_41.8833_16.1667.json,custom
+41.883271,16.168072,ov_la_rotonda_sul_mare_41.8833_16.1681,La Rotonda Sul Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/la_rotonda_sul_mare_41.8833_16.1681.json,custom
+41.885786,16.168469,ov_travel_caffe_41.8858_16.1685,Travel Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/travel_caffe_41.8858_16.1685.json,custom
+41.885346,16.171029,ov_memento_cafe_41.8853_16.1710,Memento Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/memento_cafe_41.8853_16.1710.json,custom
+41.885389,16.170602,ov_vistamare_authentic_cafe_41.8854_16.1706,Vistamare Authentic Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/vistamare_authentic_cafe_41.8854_16.1706.json,custom
+41.883306,16.172265,ov_bar_gel_rossini_41.8833_16.1723,Bar Gel Rossini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_gel_rossini_41.8833_16.1723.json,custom
+41.879115,16.165575,ov_bar_38___tabaccheria_bar_41.8791_16.1656,Bar 38 - Tabaccheria Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_38_-_tabaccheria_bar_41.8791_16.1656.json,custom
+41.877582,16.176426,ov_falcone___2_mari_beach_41.8776_16.1764,Falcone & 2 Mari Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/falcone_2_mari_beach_41.8776_16.1764.json,custom
+41.878505,16.175110,ov_reload_41.8785_16.1751,Reload,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/reload_41.8785_16.1751.json,custom
+41.881750,16.173708,ov_lidoazzurro_41.8818_16.1737,Lidoazzurro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/lidoazzurro_41.8818_16.1737.json,custom
+41.881750,16.173708,ov_bar_ristorante_marina_piccola_41.8818_16.1737,Bar Ristorante Marina Piccola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_ristorante_marina_piccola_41.8818_16.1737.json,custom
+41.881528,16.175636,ov_in_joy_food_caf____vieste___41.8815_16.1756,In Joy food Cafè - Vieste -,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/in_joy_food_caf_-_vieste_-_41.8815_16.1756.json,custom
+41.879475,16.175900,ov_caffetteria_il_faraglione_41.8795_16.1759,Caffetteria Il Faraglione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/caffetteria_il_faraglione_41.8795_16.1759.json,custom
+41.878862,16.176923,ov_lido_l_approdo_41.8789_16.1769,Lido L'Approdo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/lido_lapprodo_41.8789_16.1769.json,custom
+41.882452,16.176670,ov_bar_pasticceria_la_dolce_vita_41.8825_16.1767,Bar Pasticceria La Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_pasticceria_la_dolce_vita_41.8825_16.1767.json,custom
+41.882665,16.176716,ov_morrison_pub_41.8827_16.1767,Morrison Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/morrison_pub_41.8827_16.1767.json,custom
+41.882411,16.177343,ov_cafe_del_mare_41.8824_16.1773,Cafe del Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/cafe_del_mare_41.8824_16.1773.json,custom
+41.882420,16.177410,ov_piero_mascia_41.8824_16.1774,Piero Mascia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/piero_mascia_41.8824_16.1774.json,custom
+41.882708,16.178342,ov_alba_love_champagneria_41.8827_16.1783,Alba love Champagneria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/alba_love_champagneria_41.8827_16.1783.json,custom
+41.881929,16.178333,ov_locale_cocktail_and_wine_bar_41.8819_16.1783,Locale Cocktail and Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/locale_cocktail_and_wine_bar_41.8819_16.1783.json,custom
+41.881941,16.179110,ov_doppio_malto_vieste_41.8819_16.1791,Doppio Malto Vieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/doppio_malto_vieste_41.8819_16.1791.json,custom
+41.882596,16.178790,ov_bar_del_corso_41.8826_16.1788,Bar del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_del_corso_41.8826_16.1788.json,custom
+41.881779,16.180037,ov_bar_gelateria_maggiore_41.8818_16.1800,Bar Gelateria Maggiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_gelateria_maggiore_41.8818_16.1800.json,custom
+41.876727,16.176722,ov_spiaggia_degli_aranci_41.8767_16.1767,Spiaggia degli Aranci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/spiaggia_degli_aranci_41.8767_16.1767.json,custom
+41.867619,16.174844,ov_havana_s_beach_club_vieste_41.8676_16.1748,Havana's Beach Club Vieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/havanas_beach_club_vieste_41.8676_16.1748.json,custom
+41.868915,16.175299,ov_blanco_beach_lounge_music___cocktails_vi_41.8689_16.1753,Blanco Beach Lounge Music & Cocktails Vieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/blanco_beach_lounge_music_cocktails_vies_41.8689_16.1753.json,custom
+41.895130,16.153550,ov_bar_soldano_41.8951_16.1535,BAR Soldano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/bar_soldano_41.8951_16.1535.json,custom
+41.943050,16.019100,ov_desiderio_beach_41.9430_16.0191,Desiderio Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/desiderio_beach_41.9430_16.0191.json,custom
+41.907450,16.143270,ov_mezzaluna_41.9074_16.1433,Mezzaluna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/mezzaluna_41.9074_16.1433.json,custom
+41.898672,16.145482,ov_iqos_partner___vesta_carburanti_41.8987_16.1455,IQOS Partner - Vesta Carburanti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/iqos_partner_-_vesta_carburanti_41.8987_16.1455.json,custom
+41.917305,16.115930,osm_zucchero_velato_41.9173_16.1159,Zucchero Velato,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/zucchero_velato_41.9173_16.1159.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ordona -- landmarks
-41.314936,15.631253,ov_i_love_museo_archeologico_di_ordona_41.3149_15.6313,I Love Museo Archeologico di Ordona,MUSEUM,monumento
-41.313237,15.628742,ov_museo_archeologico_herdonia___herma_41.3132_15.6287,Museo Archeologico Herdonia - HERMA,MUSEUM,monumento
+41.314936,15.631253,ov_i_love_museo_archeologico_di_ordona_41.3149_15.6313,I Love Museo Archeologico di Ordona,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ordona/pages/i_love_museo_archeologico_di_ordona_41.3149_15.6313.json,custom
+41.313237,15.628742,ov_museo_archeologico_herdonia___herma_41.3132_15.6287,Museo Archeologico Herdonia - HERMA,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ordona/pages/museo_archeologico_herdonia_-_herma_41.3132_15.6287.json,custom

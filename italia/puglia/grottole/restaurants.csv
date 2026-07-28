@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grottole -- restaurants
-40.620936,16.411144,osm_podus_mangio_dunque_sono_40.6209_16.4111,Podus Mangio dunque sono,ristorante,ristorante
-40.604655,16.377004,ov_podus___mangio_dunque_sono_40.6047_16.3770,PODUS - Mangio dunque sono,RESTAURANT,ristorante
-40.601232,16.383723,ov_bosco_coste_bar_ristorante_pizzeria_40.6012_16.3837,Bosco Coste Bar Ristorante Pizzeria,RESTAURANT,ristorante
-40.597050,16.389869,ov_vikyann_40.5971_16.3899,VikyAnn,RESTAURANT,ristorante
+40.604655,16.377004,ov_podus___mangio_dunque_sono_40.6047_16.3770,PODUS - Mangio dunque sono,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottole/pages/podus_-_mangio_dunque_sono_40.6047_16.3770.json,custom
+40.601232,16.383723,ov_bosco_coste_bar_ristorante_pizzeria_40.6012_16.3837,Bosco Coste Bar Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottole/pages/bosco_coste_bar_ristorante_pizzeria_40.6012_16.3837.json,custom
+40.597050,16.389869,ov_vikyann_40.5971_16.3899,VikyAnn,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottole/pages/vikyann_40.5971_16.3899.json,custom
+40.620936,16.411144,osm_podus_mangio_dunque_sono_40.6209_16.4111,Podus Mangio dunque sono,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottole/pages/podus_mangio_dunque_sono_40.6209_16.4111.json,custom

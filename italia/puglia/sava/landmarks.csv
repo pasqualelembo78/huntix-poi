@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sava -- landmarks
-40.403967,17.556847,ov_museo_dell_olio_40.4040_17.5568,Museo dell'Olio,MUSEUM,monumento
-40.400681,17.556742,ov_casa_del_gusto_40.4007_17.5567,Casa del Gusto,MUSEUM,monumento
-40.402507,17.552664,ov_museo_missionario_cinese_e_di_storia_nat_40.4025_17.5527,Museo Missionario Cinese e di Storia Naturale,MUSEUM,monumento
-40.403426,17.556290,ov_museo_etnologico_40.4034_17.5563,Museo Etnologico,MUSEUM,monumento
-40.388503,17.516586,ov_santuario_della_madonna_di_pasano_40.3885_17.5166,Santuario della Madonna di Pasano,MONUMENT,monumento
+40.403967,17.556847,ov_museo_dell_olio_40.4040_17.5568,Museo dell'Olio,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/museo_dellolio_40.4040_17.5568.json,custom
+40.400681,17.556742,ov_casa_del_gusto_40.4007_17.5567,Casa del Gusto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/casa_del_gusto_40.4007_17.5567.json,custom
+40.402507,17.552664,ov_museo_missionario_cinese_e_di_storia_nat_40.4025_17.5527,Museo Missionario Cinese e di Storia Naturale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/museo_missionario_cinese_e_di_storia_nat_40.4025_17.5527.json,custom
+40.403426,17.556290,ov_museo_etnologico_40.4034_17.5563,Museo Etnologico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/museo_etnologico_40.4034_17.5563.json,custom
+40.388503,17.516586,ov_santuario_della_madonna_di_pasano_40.3885_17.5166,Santuario della Madonna di Pasano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/santuario_della_madonna_di_pasano_40.3885_17.5166.json,custom

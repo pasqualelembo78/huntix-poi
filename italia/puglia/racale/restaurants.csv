@@ -1,35 +1,35 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # racale -- restaurants
-39.949232,18.033096,osm_solatio_costa_ionica_39.9492_18.0331,Solatio Costa Ionica,ristorante,ristorante
-39.961138,18.092241,osm_principe_di_napoli_39.9611_18.0922,Principe di Napoli,ristorante,ristorante
-39.938967,18.114966,ov_camere_a_sud_salento_39.9390_18.1150,Camere a Sud Salento,RESTAURANT,ristorante
-39.937512,18.042728,ov_meraviglia_by_farmacia_dei_sani_39.9375_18.0427,Meraviglia by Farmacia dei Sani,RESTAURANT,ristorante
-39.941315,18.039300,ov_pizzeria_il_mirto_39.9413_18.0393,Pizzeria Il Mirto,RESTAURANT,ristorante
-39.946007,18.034550,ov_mahja_39.9460_18.0346,Mahja,RESTAURANT,ristorante
-39.950473,18.032108,ov_da_sasa_39.9505_18.0321,Da Sasa,RESTAURANT,ristorante
-39.949832,18.032686,ov_alegria_park_39.9498_18.0327,Alegria park,RESTAURANT,ristorante
-39.951157,18.036315,ov_ripatemare_39.9512_18.0363,Ripatemare,RESTAURANT,ristorante
-39.946181,18.046558,ov_ristorante_maramau_39.9462_18.0466,Ristorante Maramau,RESTAURANT,ristorante
-39.953593,18.092732,ov_trattoria_tu_zi_brunu_39.9536_18.0927,Trattoria Tu Zi Brunu,RESTAURANT,ristorante
-39.953770,18.037770,ov_rascia_39.9538_18.0378,Rascia,RESTAURANT,ristorante
-39.954280,18.030580,ov_bella_napoli_39.9543_18.0306,Bella napoli,RESTAURANT,ristorante
-39.958283,18.029138,ov_bella_napoli_39.9583_18.0291,Bella Napoli,RESTAURANT,ristorante
-39.965260,18.024287,ov_preferisco_la_trattoria_sul_mare_39.9653_18.0243,PREFERISCO La Trattoria sul Mare,RESTAURANT,ristorante
-39.964070,18.091421,ov_trampolini_elastici_mancaversa_39.9641_18.0914,Trampolini Elastici Mancaversa,RESTAURANT,ristorante
-39.964002,18.089193,ov_in_pasta_39.9640_18.0892,In Pasta,RESTAURANT,ristorante
-39.966175,18.090596,ov_cibus_39.9662_18.0906,Cibus,RESTAURANT,ristorante
-39.960297,18.095960,ov_ristorante_torre_dell__orologio___racale_39.9603_18.0960,Ristorante TORRE Dell' Orologio - Racale,RESTAURANT,ristorante
-39.960291,18.096368,ov_one_way_food___beer_39.9603_18.0964,One Way Food + Beer,RESTAURANT,ristorante
-39.960278,18.094729,ov_ristorante_il_brigantino_39.9603_18.0947,Ristorante Il Brigantino,RESTAURANT,ristorante
-39.960587,18.096104,ov_mcmanni_steak_house_39.9606_18.0961,McManni Steak House,RESTAURANT,ristorante
-39.960769,18.094614,ov_a_celi_perti_39.9608_18.0946,A Celi Perti,RESTAURANT,ristorante
-39.960756,18.095077,ov_l_acchiatura_ristorante_39.9608_18.0951,L'Acchiatura Ristorante,RESTAURANT,ristorante
-39.960961,18.095292,ov_pizzeria_il_castello_39.9610_18.0953,Pizzeria Il Castello,RESTAURANT,ristorante
-39.962734,18.094767,ov_sancesario_food_service_39.9627_18.0948,Sancesario Food Service,RESTAURANT,ristorante
-39.960865,18.091763,ov_pizzeria_la_lanterna_39.9609_18.0918,Pizzeria La Lanterna,RESTAURANT,ristorante
-39.959394,18.091885,ov_made_in_sud_2_0_pizza_e_non_solo_39.9594_18.0919,Made in Sud 2.0 Pizza e non solo,RESTAURANT,ristorante
-39.958102,18.096411,ov_milano8_39.9581_18.0964,Milano8,RESTAURANT,ristorante
-39.958583,18.094256,ov_citt__vecchia_trattoria_pizzeria_39.9586_18.0943,Città Vecchia Trattoria Pizzeria,RESTAURANT,ristorante
-39.959289,18.095540,ov_mambu_39.9593_18.0955,Mambu,RESTAURANT,ristorante
-39.959703,18.096829,ov_streusa_gastronomia_39.9597_18.0968,streusa gastronomia,RESTAURANT,ristorante
-39.974279,18.043956,ov_agriturismo_tenuta_san_martino_39.9743_18.0440,Agriturismo Tenuta San Martino,RESTAURANT,ristorante
+39.938967,18.114966,ov_camere_a_sud_salento_39.9390_18.1150,Camere a Sud Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/camere_a_sud_salento_39.9390_18.1150.json,custom
+39.937512,18.042728,ov_meraviglia_by_farmacia_dei_sani_39.9375_18.0427,Meraviglia by Farmacia dei Sani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/meraviglia_by_farmacia_dei_sani_39.9375_18.0427.json,custom
+39.941315,18.039300,ov_pizzeria_il_mirto_39.9413_18.0393,Pizzeria Il Mirto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/pizzeria_il_mirto_39.9413_18.0393.json,custom
+39.946007,18.034550,ov_mahja_39.9460_18.0346,Mahja,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/mahja_39.9460_18.0346.json,custom
+39.950473,18.032108,ov_da_sasa_39.9505_18.0321,Da Sasa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/da_sasa_39.9505_18.0321.json,custom
+39.949832,18.032686,ov_alegria_park_39.9498_18.0327,Alegria park,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/alegria_park_39.9498_18.0327.json,custom
+39.951157,18.036315,ov_ripatemare_39.9512_18.0363,Ripatemare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/ripatemare_39.9512_18.0363.json,custom
+39.946181,18.046558,ov_ristorante_maramau_39.9462_18.0466,Ristorante Maramau,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/ristorante_maramau_39.9462_18.0466.json,custom
+39.953593,18.092732,ov_trattoria_tu_zi_brunu_39.9536_18.0927,Trattoria Tu Zi Brunu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/trattoria_tu_zi_brunu_39.9536_18.0927.json,custom
+39.953770,18.037770,ov_rascia_39.9538_18.0378,Rascia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/rascia_39.9538_18.0378.json,custom
+39.954280,18.030580,ov_bella_napoli_39.9543_18.0306,Bella napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/bella_napoli_39.9543_18.0306.json,custom
+39.958283,18.029138,ov_bella_napoli_39.9583_18.0291,Bella Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/bella_napoli_39.9583_18.0291.json,custom
+39.965260,18.024287,ov_preferisco_la_trattoria_sul_mare_39.9653_18.0243,PREFERISCO La Trattoria sul Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/preferisco_la_trattoria_sul_mare_39.9653_18.0243.json,custom
+39.964070,18.091421,ov_trampolini_elastici_mancaversa_39.9641_18.0914,Trampolini Elastici Mancaversa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/trampolini_elastici_mancaversa_39.9641_18.0914.json,custom
+39.964002,18.089193,ov_in_pasta_39.9640_18.0892,In Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/in_pasta_39.9640_18.0892.json,custom
+39.966175,18.090596,ov_cibus_39.9662_18.0906,Cibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/cibus_39.9662_18.0906.json,custom
+39.960297,18.095960,ov_ristorante_torre_dell__orologio___racale_39.9603_18.0960,Ristorante TORRE Dell' Orologio - Racale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/ristorante_torre_dell_orologio_-_racale_39.9603_18.0960.json,custom
+39.960291,18.096368,ov_one_way_food___beer_39.9603_18.0964,One Way Food + Beer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/one_way_food_beer_39.9603_18.0964.json,custom
+39.960278,18.094729,ov_ristorante_il_brigantino_39.9603_18.0947,Ristorante Il Brigantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/ristorante_il_brigantino_39.9603_18.0947.json,custom
+39.960587,18.096104,ov_mcmanni_steak_house_39.9606_18.0961,McManni Steak House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/mcmanni_steak_house_39.9606_18.0961.json,custom
+39.960769,18.094614,ov_a_celi_perti_39.9608_18.0946,A Celi Perti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/a_celi_perti_39.9608_18.0946.json,custom
+39.960756,18.095077,ov_l_acchiatura_ristorante_39.9608_18.0951,L'Acchiatura Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/lacchiatura_ristorante_39.9608_18.0951.json,custom
+39.960961,18.095292,ov_pizzeria_il_castello_39.9610_18.0953,Pizzeria Il Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/pizzeria_il_castello_39.9610_18.0953.json,custom
+39.962734,18.094767,ov_sancesario_food_service_39.9627_18.0948,Sancesario Food Service,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/sancesario_food_service_39.9627_18.0948.json,custom
+39.960865,18.091763,ov_pizzeria_la_lanterna_39.9609_18.0918,Pizzeria La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/pizzeria_la_lanterna_39.9609_18.0918.json,custom
+39.959394,18.091885,ov_made_in_sud_2_0_pizza_e_non_solo_39.9594_18.0919,Made in Sud 2.0 Pizza e non solo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/made_in_sud_20_pizza_e_non_solo_39.9594_18.0919.json,custom
+39.958102,18.096411,ov_milano8_39.9581_18.0964,Milano8,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/milano8_39.9581_18.0964.json,custom
+39.958583,18.094256,ov_citt__vecchia_trattoria_pizzeria_39.9586_18.0943,Città Vecchia Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/citt_vecchia_trattoria_pizzeria_39.9586_18.0943.json,custom
+39.959289,18.095540,ov_mambu_39.9593_18.0955,Mambu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/mambu_39.9593_18.0955.json,custom
+39.959703,18.096829,ov_streusa_gastronomia_39.9597_18.0968,streusa gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/streusa_gastronomia_39.9597_18.0968.json,custom
+39.974279,18.043956,ov_agriturismo_tenuta_san_martino_39.9743_18.0440,Agriturismo Tenuta San Martino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/agriturismo_tenuta_san_martino_39.9743_18.0440.json,custom
+39.949232,18.033096,osm_solatio_costa_ionica_39.9492_18.0331,Solatio Costa Ionica,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/solatio_costa_ionica_39.9492_18.0331.json,custom
+39.961138,18.092241,osm_principe_di_napoli_39.9611_18.0922,Principe di Napoli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/racale/pages/principe_di_napoli_39.9611_18.0922.json,custom

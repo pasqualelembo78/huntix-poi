@@ -1,88 +1,88 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # peschici -- restaurants
-41.946704,16.012875,osm_piccolo_paradiso_da_mario_s_41.9467_16.0129,Piccolo Paradiso da Mario’s,ristorante,ristorante
-41.931050,16.042115,osm_pizzeria_da_maria_41.9310_16.0421,Pizzeria da Maria,ristorante,ristorante
-41.940701,16.076877,ov_camavite_41.9407_16.0769,Camavite,RESTAURANT,ristorante
-41.940620,16.079603,ov_cala_paradiso_peschici_41.9406_16.0796,Cala Paradiso Peschici,RESTAURANT,ristorante
-41.936187,16.078054,ov_ristorante_texas_41.9362_16.0781,Ristorante Texas,RESTAURANT,ristorante
-41.924270,16.049450,ov_ristorante_pizzeria_millepini_41.9243_16.0495,Ristorante Pizzeria Millepini,RESTAURANT,ristorante
-41.936570,16.049738,ov_pepenero_peschici_41.9366_16.0497,PepeNero Peschici,RESTAURANT,ristorante
-41.948529,16.043833,ov_il_trabucco_da_elia_41.9485_16.0438,Il Trabucco da Elia,RESTAURANT,ristorante
-41.948851,16.043605,ov_trabucco_spiaggia_zaiana_peschici_41.9489_16.0436,Trabucco Spiaggia Zaiana Peschici,RESTAURANT,ristorante
-41.948650,16.043447,ov_ristorante_il_trabucco_41.9487_16.0434,Ristorante Il Trabucco,RESTAURANT,ristorante
-41.945743,16.042191,ov_il_grottone_41.9457_16.0422,Il Grottone,RESTAURANT,ristorante
-41.945942,16.046285,ov_lido_la_rosa_dei_venti_41.9459_16.0463,Lido La Rosa dei Venti,RESTAURANT,ristorante
-41.945791,16.047681,ov_ristorante_bar_onda_azzurra_41.9458_16.0477,Ristorante Bar Onda Azzurra,RESTAURANT,ristorante
-41.945274,16.032178,ov_la_paranza_41.9453_16.0322,La Paranza,RESTAURANT,ristorante
-41.947573,16.030483,ov_al_trabucco_da_mimi_41.9476_16.0305,Al Trabucco da Mimi,RESTAURANT,ristorante
-41.946323,16.030875,ov_veranda_sul_mare_41.9463_16.0309,Veranda Sul Mare,RESTAURANT,ristorante
-41.945579,16.016023,ov_braceria_il_piacere_della_carne_di_franc_41.9456_16.0160,Braceria Il Piacere Della Carne Di Francesco & Maddy,RESTAURANT,ristorante
-41.943512,16.018463,ov_biscottificio_ristorante_imperatrice_41.9435_16.0185,Biscottificio-ristorante Imperatrice,RESTAURANT,ristorante
-41.941045,16.021258,ov_ristorante_alba_dei_pini_41.9410_16.0213,Ristorante Alba dei Pini,RESTAURANT,ristorante
-41.942821,16.028767,ov_la_perla_41.9428_16.0288,La Perla,RESTAURANT,ristorante
-41.943978,16.029648,ov_ristorante_pizzeria_nido_verde_41.9440_16.0296,Ristorante Pizzeria Nido Verde,RESTAURANT,ristorante
-41.934016,16.031014,ov_piazzola_verde_41.9340_16.0310,Piazzola verde,RESTAURANT,ristorante
-41.932195,16.018169,ov_ristorante_valle_dei_greci_41.9322_16.0182,Ristorante Valle dei Greci,RESTAURANT,ristorante
-41.932891,16.033108,ov_angolo_del_break_41.9329_16.0331,Angolo Del Break,RESTAURANT,ristorante
-41.931886,16.037201,ov_ristorante_tenuta_le_difense_41.9319_16.0372,Ristorante Tenuta le difense,RESTAURANT,ristorante
-41.929877,16.037911,ov_ristorante_pizzeria_la_buria_41.9299_16.0379,Ristorante pizzeria La Buria,RESTAURANT,ristorante
-41.930965,16.042123,ov_ristorante_da_maria_41.9310_16.0421,Ristorante da Maria,RESTAURANT,ristorante
-41.915791,16.015898,ov_pane_e_vino_41.9158_16.0159,Pane e Vino,RESTAURANT,ristorante
-41.935072,16.090465,ov_ristorante_pizzeria_grotta_dell_acqua_41.9351_16.0905,Ristorante Pizzeria Grotta dell'Acqua,RESTAURANT,ristorante
-41.928726,16.002338,ov_agriturismo_torre_dei_preti_41.9287_16.0023,Agriturismo Torre dei Preti,RESTAURANT,ristorante
-41.931929,16.014897,ov_trattoria_pizzeria_carusel_41.9319_16.0149,Trattoria Pizzeria Carusel,RESTAURANT,ristorante
-41.944724,16.002508,ov_danger_contemporary_bistrot_41.9447_16.0025,Danger Contemporary Bistrot,RESTAURANT,ristorante
-41.943154,16.004978,ov_ristorante_pizzeria_incontro_41.9432_16.0050,Ristorante Pizzeria Incontro,RESTAURANT,ristorante
-41.941224,16.005165,ov_trattoria_pastorello_41.9412_16.0052,Trattoria Pastorello,RESTAURANT,ristorante
-41.940455,16.006532,ov_chic_nick_peschici_41.9405_16.0065,Chic Nick Peschici,RESTAURANT,ristorante
-41.946750,16.009004,ov_ristorante_sabbia_d_oro_41.9467_16.0090,Ristorante Sabbia D'Oro,RESTAURANT,ristorante
-41.948286,16.010439,ov_eden_41.9483_16.0104,Eden,RESTAURANT,ristorante
-41.947761,16.010680,ov_lido_orchidea_41.9478_16.0107,Lido Orchidea,RESTAURANT,ristorante
-41.947774,16.010439,ov_ristorante_il_corsario_peschici_41.9478_16.0104,Ristorante Il Corsario Peschici,RESTAURANT,ristorante
-41.945310,16.011140,ov_m_in_peschici_41.9453_16.0111,Màin Peschici,RESTAURANT,ristorante
-41.946804,16.012688,ov_agriturismo_mille_pini_41.9468_16.0127,Agriturismo Mille Pini,RESTAURANT,ristorante
-41.946854,16.012732,ov_ristorante_il_pescatore_41.9469_16.0127,Ristorante il Pescatore,RESTAURANT,ristorante
-41.946782,16.012967,ov_piccolo_paradiso_da_mario_41.9468_16.0130,Piccolo Paradiso da Mario,RESTAURANT,ristorante
-41.945987,16.013717,ov_the_big_burger_41.9460_16.0137,The Big Burger,RESTAURANT,ristorante
-41.945716,16.013991,ov_pizzeria_san_michele_41.9457_16.0140,Pizzeria San Michele,RESTAURANT,ristorante
-41.946311,16.014615,ov_luna_rossa_41.9463_16.0146,Luna Rossa,RESTAURANT,ristorante
-41.946940,16.015002,ov_sabbia_d_oro_41.9469_16.0150,Sabbia d'oro,RESTAURANT,ristorante
-41.946868,16.014269,ov_scilibo_41.9469_16.0143,Scilibo,RESTAURANT,ristorante
-41.946121,16.013811,ov_pizzeria_bella_peschici_41.9461_16.0138,Pizzeria Bella Peschici,RESTAURANT,ristorante
-41.946259,16.013761,ov_frittole_41.9463_16.0138,Frittole,RESTAURANT,ristorante
-41.946368,16.013534,ov_cotto_e_mangiato_peschici_41.9464_16.0135,Cotto e Mangiato Peschici,RESTAURANT,ristorante
-41.946209,16.013552,ov_l_angolo_della_pizza_41.9462_16.0136,L'Angolo Della Pizza,RESTAURANT,ristorante
-41.946470,16.013364,ov_il_tramonto_41.9465_16.0134,Il Tramonto,RESTAURANT,ristorante
-41.946656,16.013590,ov_da_tea_ristorante_sugli_scogli_41.9467_16.0136,Da Tea Ristorante Sugli Scogli,RESTAURANT,ristorante
-41.946718,16.013509,ov_pizzeria_la_piazzettada_nino_l_inventore_41.9467_16.0135,Pizzeria La Piazzettada Nino l'inventore della pizza a'vamp,RESTAURANT,ristorante
-41.946932,16.013719,ov_pizzeria_marianna_41.9469_16.0137,Pizzeria Marianna,RESTAURANT,ristorante
-41.947375,16.013570,ov_antichi_sapori_trattoria_41.9474_16.0136,Antichi Sapori Trattoria,RESTAURANT,ristorante
-41.947730,16.013524,ov_l_angolo_antico_41.9477_16.0135,L'Angolo Antico,RESTAURANT,ristorante
-41.947733,16.013678,ov_ristorante_pizzeria_da_celestina_41.9477_16.0137,Ristorante Pizzeria da Celestina,RESTAURANT,ristorante
-41.947494,16.013555,ov_ristorante_da_peppino_41.9475_16.0136,Ristorante da Peppino,RESTAURANT,ristorante
-41.947717,16.014081,ov_la_divina_piadina_41.9477_16.0141,La Divina Piadina,RESTAURANT,ristorante
-41.947326,16.014000,ov_braceria_da_gregorio___peschici_41.9473_16.0140,Braceria da Gregorio | Peschici,RESTAURANT,ristorante
-41.947412,16.014658,ov_pizzeria_derby_41.9474_16.0147,Pizzeria Derby,RESTAURANT,ristorante
-41.947265,16.014721,ov_fiore_rauzino_chef_41.9473_16.0147,Fiore Rauzino Chef,RESTAURANT,ristorante
-41.947342,16.014908,ov_piccadilly_41.9473_16.0149,Piccadilly,RESTAURANT,ristorante
-41.948194,16.014224,ov_la_lanterna_41.9482_16.0142,La Lanterna,RESTAURANT,ristorante
-41.948029,16.013505,ov_eccellenze_di_puglia_tipico_41.9480_16.0135,Eccellenze di Puglia Tipico,RESTAURANT,ristorante
-41.948020,16.013440,ov_fra_stefano_41.9480_16.0134,Fra Stefano,RESTAURANT,ristorante
-41.948841,16.012965,ov_vecchia_peschici_41.9488_16.0130,Vecchia Peschici,RESTAURANT,ristorante
-41.948873,16.012843,ov_borgo_antico_41.9489_16.0128,Borgo Antico,RESTAURANT,ristorante
-41.948390,16.012361,ov_pizzeria_la_svolta_da_elia_e_cinzia_41.9484_16.0124,Pizzeria La Svolta da Elia e Cinzia,RESTAURANT,ristorante
-41.948355,16.012871,ov_enoteca_da_mario_41.9484_16.0129,Enoteca da Mario,RESTAURANT,ristorante
-41.948297,16.013007,ov_ristorante_la_piazzetta_41.9483_16.0130,Ristorante La Piazzetta,RESTAURANT,ristorante
-41.948422,16.013177,ov_la_taverna_di_peschici_41.9484_16.0132,La Taverna di Peschici,RESTAURANT,ristorante
-41.948249,16.013166,ov_pizzeria_le_ripe_41.9482_16.0132,Pizzeria Le Ripe,RESTAURANT,ristorante
-41.948123,16.013148,ov_moro_s_paposceria_peschici_41.9481_16.0131,Moro's Paposceria Peschici,RESTAURANT,ristorante
-41.947666,16.013218,ov_al_vecchio_frantoio_41.9477_16.0132,Al Vecchio Frantoio,RESTAURANT,ristorante
-41.947348,16.011855,ov_osteria_pane___vino_41.9473_16.0119,Osteria Pane & Vino,RESTAURANT,ristorante
-41.948764,16.011477,ov_costamarina_41.9488_16.0115,Costamarina,RESTAURANT,ristorante
-41.949706,16.012168,ov_pizzeria_al_castello_41.9497_16.0122,Pizzeria Al Castello,RESTAURANT,ristorante
-41.949486,16.012406,ov_lido_sabbia_d_oro_41.9495_16.0124,Lido Sabbia d'Oro,RESTAURANT,ristorante
-41.949539,16.012475,ov_locanda_al_castello___peschici_41.9495_16.0125,Locanda Al Castello - Peschici,RESTAURANT,ristorante
-41.949388,16.013019,ov_porta_di_basso_41.9494_16.0130,Porta Di Basso,RESTAURANT,ristorante
-41.949122,16.010128,ov_la_grotta_delle_rondini_41.9491_16.0101,La Grotta delle Rondini,RESTAURANT,ristorante
-41.945269,16.002999,ov_il_pirata_bar_ristorante_pizzeria_41.9453_16.0030,Il Pirata Bar Ristorante Pizzeria,RESTAURANT,ristorante
-41.947762,15.993340,ov_trabucco_di_monte_pucci___peschici_41.9478_15.9933,Trabucco di Monte Pucci | Peschici,RESTAURANT,ristorante
+41.940701,16.076877,ov_camavite_41.9407_16.0769,Camavite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/camavite_41.9407_16.0769.json,custom
+41.940620,16.079603,ov_cala_paradiso_peschici_41.9406_16.0796,Cala Paradiso Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/cala_paradiso_peschici_41.9406_16.0796.json,custom
+41.936187,16.078054,ov_ristorante_texas_41.9362_16.0781,Ristorante Texas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_texas_41.9362_16.0781.json,custom
+41.924270,16.049450,ov_ristorante_pizzeria_millepini_41.9243_16.0495,Ristorante Pizzeria Millepini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_millepini_41.9243_16.0495.json,custom
+41.936570,16.049738,ov_pepenero_peschici_41.9366_16.0497,PepeNero Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pepenero_peschici_41.9366_16.0497.json,custom
+41.948529,16.043833,ov_il_trabucco_da_elia_41.9485_16.0438,Il Trabucco da Elia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/il_trabucco_da_elia_41.9485_16.0438.json,custom
+41.948851,16.043605,ov_trabucco_spiaggia_zaiana_peschici_41.9489_16.0436,Trabucco Spiaggia Zaiana Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/trabucco_spiaggia_zaiana_peschici_41.9489_16.0436.json,custom
+41.948650,16.043447,ov_ristorante_il_trabucco_41.9487_16.0434,Ristorante Il Trabucco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_il_trabucco_41.9487_16.0434.json,custom
+41.945743,16.042191,ov_il_grottone_41.9457_16.0422,Il Grottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/il_grottone_41.9457_16.0422.json,custom
+41.945942,16.046285,ov_lido_la_rosa_dei_venti_41.9459_16.0463,Lido La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/lido_la_rosa_dei_venti_41.9459_16.0463.json,custom
+41.945791,16.047681,ov_ristorante_bar_onda_azzurra_41.9458_16.0477,Ristorante Bar Onda Azzurra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_bar_onda_azzurra_41.9458_16.0477.json,custom
+41.945274,16.032178,ov_la_paranza_41.9453_16.0322,La Paranza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_paranza_41.9453_16.0322.json,custom
+41.947573,16.030483,ov_al_trabucco_da_mimi_41.9476_16.0305,Al Trabucco da Mimi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/al_trabucco_da_mimi_41.9476_16.0305.json,custom
+41.946323,16.030875,ov_veranda_sul_mare_41.9463_16.0309,Veranda Sul Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/veranda_sul_mare_41.9463_16.0309.json,custom
+41.945579,16.016023,ov_braceria_il_piacere_della_carne_di_franc_41.9456_16.0160,Braceria Il Piacere Della Carne Di Francesco & Maddy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/braceria_il_piacere_della_carne_di_franc_41.9456_16.0160.json,custom
+41.943512,16.018463,ov_biscottificio_ristorante_imperatrice_41.9435_16.0185,Biscottificio-ristorante Imperatrice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/biscottificio-ristorante_imperatrice_41.9435_16.0185.json,custom
+41.941045,16.021258,ov_ristorante_alba_dei_pini_41.9410_16.0213,Ristorante Alba dei Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_alba_dei_pini_41.9410_16.0213.json,custom
+41.942821,16.028767,ov_la_perla_41.9428_16.0288,La Perla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_perla_41.9428_16.0288.json,custom
+41.943978,16.029648,ov_ristorante_pizzeria_nido_verde_41.9440_16.0296,Ristorante Pizzeria Nido Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_nido_verde_41.9440_16.0296.json,custom
+41.934016,16.031014,ov_piazzola_verde_41.9340_16.0310,Piazzola verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/piazzola_verde_41.9340_16.0310.json,custom
+41.932195,16.018169,ov_ristorante_valle_dei_greci_41.9322_16.0182,Ristorante Valle dei Greci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_valle_dei_greci_41.9322_16.0182.json,custom
+41.932891,16.033108,ov_angolo_del_break_41.9329_16.0331,Angolo Del Break,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/angolo_del_break_41.9329_16.0331.json,custom
+41.931886,16.037201,ov_ristorante_tenuta_le_difense_41.9319_16.0372,Ristorante Tenuta le difense,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_tenuta_le_difense_41.9319_16.0372.json,custom
+41.929877,16.037911,ov_ristorante_pizzeria_la_buria_41.9299_16.0379,Ristorante pizzeria La Buria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_la_buria_41.9299_16.0379.json,custom
+41.930965,16.042123,ov_ristorante_da_maria_41.9310_16.0421,Ristorante da Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_da_maria_41.9310_16.0421.json,custom
+41.915791,16.015898,ov_pane_e_vino_41.9158_16.0159,Pane e Vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pane_e_vino_41.9158_16.0159.json,custom
+41.935072,16.090465,ov_ristorante_pizzeria_grotta_dell_acqua_41.9351_16.0905,Ristorante Pizzeria Grotta dell'Acqua,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_grotta_dellacqua_41.9351_16.0905.json,custom
+41.928726,16.002338,ov_agriturismo_torre_dei_preti_41.9287_16.0023,Agriturismo Torre dei Preti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/agriturismo_torre_dei_preti_41.9287_16.0023.json,custom
+41.931929,16.014897,ov_trattoria_pizzeria_carusel_41.9319_16.0149,Trattoria Pizzeria Carusel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/trattoria_pizzeria_carusel_41.9319_16.0149.json,custom
+41.944724,16.002508,ov_danger_contemporary_bistrot_41.9447_16.0025,Danger Contemporary Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/danger_contemporary_bistrot_41.9447_16.0025.json,custom
+41.943154,16.004978,ov_ristorante_pizzeria_incontro_41.9432_16.0050,Ristorante Pizzeria Incontro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_incontro_41.9432_16.0050.json,custom
+41.941224,16.005165,ov_trattoria_pastorello_41.9412_16.0052,Trattoria Pastorello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/trattoria_pastorello_41.9412_16.0052.json,custom
+41.940455,16.006532,ov_chic_nick_peschici_41.9405_16.0065,Chic Nick Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/chic_nick_peschici_41.9405_16.0065.json,custom
+41.946750,16.009004,ov_ristorante_sabbia_d_oro_41.9467_16.0090,Ristorante Sabbia D'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_sabbia_doro_41.9467_16.0090.json,custom
+41.948286,16.010439,ov_eden_41.9483_16.0104,Eden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/eden_41.9483_16.0104.json,custom
+41.947761,16.010680,ov_lido_orchidea_41.9478_16.0107,Lido Orchidea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/lido_orchidea_41.9478_16.0107.json,custom
+41.947774,16.010439,ov_ristorante_il_corsario_peschici_41.9478_16.0104,Ristorante Il Corsario Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_il_corsario_peschici_41.9478_16.0104.json,custom
+41.945310,16.011140,ov_m_in_peschici_41.9453_16.0111,Màin Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/min_peschici_41.9453_16.0111.json,custom
+41.946804,16.012688,ov_agriturismo_mille_pini_41.9468_16.0127,Agriturismo Mille Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/agriturismo_mille_pini_41.9468_16.0127.json,custom
+41.946854,16.012732,ov_ristorante_il_pescatore_41.9469_16.0127,Ristorante il Pescatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_il_pescatore_41.9469_16.0127.json,custom
+41.946782,16.012967,ov_piccolo_paradiso_da_mario_41.9468_16.0130,Piccolo Paradiso da Mario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/piccolo_paradiso_da_mario_41.9468_16.0130.json,custom
+41.945987,16.013717,ov_the_big_burger_41.9460_16.0137,The Big Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/the_big_burger_41.9460_16.0137.json,custom
+41.945716,16.013991,ov_pizzeria_san_michele_41.9457_16.0140,Pizzeria San Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_san_michele_41.9457_16.0140.json,custom
+41.946311,16.014615,ov_luna_rossa_41.9463_16.0146,Luna Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/luna_rossa_41.9463_16.0146.json,custom
+41.946940,16.015002,ov_sabbia_d_oro_41.9469_16.0150,Sabbia d'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/sabbia_doro_41.9469_16.0150.json,custom
+41.946868,16.014269,ov_scilibo_41.9469_16.0143,Scilibo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/scilibo_41.9469_16.0143.json,custom
+41.946121,16.013811,ov_pizzeria_bella_peschici_41.9461_16.0138,Pizzeria Bella Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_bella_peschici_41.9461_16.0138.json,custom
+41.946259,16.013761,ov_frittole_41.9463_16.0138,Frittole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/frittole_41.9463_16.0138.json,custom
+41.946368,16.013534,ov_cotto_e_mangiato_peschici_41.9464_16.0135,Cotto e Mangiato Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/cotto_e_mangiato_peschici_41.9464_16.0135.json,custom
+41.946209,16.013552,ov_l_angolo_della_pizza_41.9462_16.0136,L'Angolo Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/langolo_della_pizza_41.9462_16.0136.json,custom
+41.946470,16.013364,ov_il_tramonto_41.9465_16.0134,Il Tramonto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/il_tramonto_41.9465_16.0134.json,custom
+41.946656,16.013590,ov_da_tea_ristorante_sugli_scogli_41.9467_16.0136,Da Tea Ristorante Sugli Scogli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/da_tea_ristorante_sugli_scogli_41.9467_16.0136.json,custom
+41.946718,16.013509,ov_pizzeria_la_piazzettada_nino_l_inventore_41.9467_16.0135,Pizzeria La Piazzettada Nino l'inventore della pizza a'vamp,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_la_piazzettada_nino_linventore__41.9467_16.0135.json,custom
+41.946932,16.013719,ov_pizzeria_marianna_41.9469_16.0137,Pizzeria Marianna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_marianna_41.9469_16.0137.json,custom
+41.947375,16.013570,ov_antichi_sapori_trattoria_41.9474_16.0136,Antichi Sapori Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/antichi_sapori_trattoria_41.9474_16.0136.json,custom
+41.947730,16.013524,ov_l_angolo_antico_41.9477_16.0135,L'Angolo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/langolo_antico_41.9477_16.0135.json,custom
+41.947733,16.013678,ov_ristorante_pizzeria_da_celestina_41.9477_16.0137,Ristorante Pizzeria da Celestina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_pizzeria_da_celestina_41.9477_16.0137.json,custom
+41.947494,16.013555,ov_ristorante_da_peppino_41.9475_16.0136,Ristorante da Peppino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_da_peppino_41.9475_16.0136.json,custom
+41.947717,16.014081,ov_la_divina_piadina_41.9477_16.0141,La Divina Piadina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_divina_piadina_41.9477_16.0141.json,custom
+41.947326,16.014000,ov_braceria_da_gregorio___peschici_41.9473_16.0140,Braceria da Gregorio | Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/braceria_da_gregorio_peschici_41.9473_16.0140.json,custom
+41.947412,16.014658,ov_pizzeria_derby_41.9474_16.0147,Pizzeria Derby,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_derby_41.9474_16.0147.json,custom
+41.947265,16.014721,ov_fiore_rauzino_chef_41.9473_16.0147,Fiore Rauzino Chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/fiore_rauzino_chef_41.9473_16.0147.json,custom
+41.947342,16.014908,ov_piccadilly_41.9473_16.0149,Piccadilly,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/piccadilly_41.9473_16.0149.json,custom
+41.948194,16.014224,ov_la_lanterna_41.9482_16.0142,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_lanterna_41.9482_16.0142.json,custom
+41.948029,16.013505,ov_eccellenze_di_puglia_tipico_41.9480_16.0135,Eccellenze di Puglia Tipico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/eccellenze_di_puglia_tipico_41.9480_16.0135.json,custom
+41.948020,16.013440,ov_fra_stefano_41.9480_16.0134,Fra Stefano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/fra_stefano_41.9480_16.0134.json,custom
+41.948841,16.012965,ov_vecchia_peschici_41.9488_16.0130,Vecchia Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/vecchia_peschici_41.9488_16.0130.json,custom
+41.948873,16.012843,ov_borgo_antico_41.9489_16.0128,Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/borgo_antico_41.9489_16.0128.json,custom
+41.948390,16.012361,ov_pizzeria_la_svolta_da_elia_e_cinzia_41.9484_16.0124,Pizzeria La Svolta da Elia e Cinzia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_la_svolta_da_elia_e_cinzia_41.9484_16.0124.json,custom
+41.948355,16.012871,ov_enoteca_da_mario_41.9484_16.0129,Enoteca da Mario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/enoteca_da_mario_41.9484_16.0129.json,custom
+41.948297,16.013007,ov_ristorante_la_piazzetta_41.9483_16.0130,Ristorante La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ristorante_la_piazzetta_41.9483_16.0130.json,custom
+41.948422,16.013177,ov_la_taverna_di_peschici_41.9484_16.0132,La Taverna di Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_taverna_di_peschici_41.9484_16.0132.json,custom
+41.948249,16.013166,ov_pizzeria_le_ripe_41.9482_16.0132,Pizzeria Le Ripe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_le_ripe_41.9482_16.0132.json,custom
+41.948123,16.013148,ov_moro_s_paposceria_peschici_41.9481_16.0131,Moro's Paposceria Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/moros_paposceria_peschici_41.9481_16.0131.json,custom
+41.947666,16.013218,ov_al_vecchio_frantoio_41.9477_16.0132,Al Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/al_vecchio_frantoio_41.9477_16.0132.json,custom
+41.947348,16.011855,ov_osteria_pane___vino_41.9473_16.0119,Osteria Pane & Vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/osteria_pane_vino_41.9473_16.0119.json,custom
+41.948764,16.011477,ov_costamarina_41.9488_16.0115,Costamarina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/costamarina_41.9488_16.0115.json,custom
+41.949706,16.012168,ov_pizzeria_al_castello_41.9497_16.0122,Pizzeria Al Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_al_castello_41.9497_16.0122.json,custom
+41.949486,16.012406,ov_lido_sabbia_d_oro_41.9495_16.0124,Lido Sabbia d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/lido_sabbia_doro_41.9495_16.0124.json,custom
+41.949539,16.012475,ov_locanda_al_castello___peschici_41.9495_16.0125,Locanda Al Castello - Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/locanda_al_castello_-_peschici_41.9495_16.0125.json,custom
+41.949388,16.013019,ov_porta_di_basso_41.9494_16.0130,Porta Di Basso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/porta_di_basso_41.9494_16.0130.json,custom
+41.949122,16.010128,ov_la_grotta_delle_rondini_41.9491_16.0101,La Grotta delle Rondini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/la_grotta_delle_rondini_41.9491_16.0101.json,custom
+41.945269,16.002999,ov_il_pirata_bar_ristorante_pizzeria_41.9453_16.0030,Il Pirata Bar Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/il_pirata_bar_ristorante_pizzeria_41.9453_16.0030.json,custom
+41.947762,15.993340,ov_trabucco_di_monte_pucci___peschici_41.9478_15.9933,Trabucco di Monte Pucci | Peschici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/trabucco_di_monte_pucci_peschici_41.9478_15.9933.json,custom
+41.946704,16.012875,osm_piccolo_paradiso_da_mario_s_41.9467_16.0129,Piccolo Paradiso da Mario’s,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/piccolo_paradiso_da_marios_41.9467_16.0129.json,custom
+41.931050,16.042115,osm_pizzeria_da_maria_41.9310_16.0421,Pizzeria da Maria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pizzeria_da_maria_41.9310_16.0421.json,custom

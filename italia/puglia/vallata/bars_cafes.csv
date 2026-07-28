@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vallata -- bars_cafes
-40.056125,15.361357,ov_barcollo___the_original_40.0561_15.3614,Barcollo - The Original,RESTAURANT,bar_cafe
-41.060814,15.291585,ov_vallata_av__41.0608_15.2916,Vallata(AV),RESTAURANT,bar_cafe
-41.035784,15.251858,ov_wanda_41.0358_15.2519,Wanda,RESTAURANT,bar_cafe
-41.036043,15.251872,ov_punto_snai___vallata_41.0360_15.2519,PUNTO SNAI - Vallata,RESTAURANT,bar_cafe
-41.035529,15.251676,ov_blues_bar_41.0355_15.2517,Blues Bar,RESTAURANT,bar_cafe
-41.041000,15.258202,ov_bar_sport_di_nufrio_gerardo_41.0410_15.2582,Bar Sport Di Nufrio Gerardo,RESTAURANT,bar_cafe
+40.056125,15.361357,ov_barcollo___the_original_40.0561_15.3614,Barcollo - The Original,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/barcollo_-_the_original_40.0561_15.3614.json,custom
+41.060814,15.291585,ov_vallata_av__41.0608_15.2916,Vallata(AV),RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/vallataav_41.0608_15.2916.json,custom
+41.035784,15.251858,ov_wanda_41.0358_15.2519,Wanda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/wanda_41.0358_15.2519.json,custom
+41.036043,15.251872,ov_punto_snai___vallata_41.0360_15.2519,PUNTO SNAI - Vallata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/punto_snai_-_vallata_41.0360_15.2519.json,custom
+41.035529,15.251676,ov_blues_bar_41.0355_15.2517,Blues Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/blues_bar_41.0355_15.2517.json,custom
+41.041000,15.258202,ov_bar_sport_di_nufrio_gerardo_41.0410_15.2582,Bar Sport Di Nufrio Gerardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vallata/pages/bar_sport_di_nufrio_gerardo_41.0410_15.2582.json,custom

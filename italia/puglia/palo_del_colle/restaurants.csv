@@ -1,29 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palo_del_colle -- restaurants
-41.043166,16.683630,ov_show_lounge_41.0432_16.6836,Show Lounge,RESTAURANT,ristorante
-41.043183,16.683409,ov_steak_house_restaurant___pizzeria_bracer_41.0432_16.6834,Steak House Restaurant - Pizzeria Braceria,RESTAURANT,ristorante
-41.043450,16.682470,ov_fast_food_gogo_41.0434_16.6825,Fast Food GoGo,RESTAURANT,ristorante
-41.051811,16.710667,ov_de_gustibus_ristorante_41.0518_16.7107,De Gustibus Ristorante,RESTAURANT,ristorante
-41.057492,16.699771,ov_gumi_store_41.0575_16.6998,GUMI Store,RESTAURANT,ristorante
-41.057784,16.699682,ov_la_tana_41.0578_16.6997,La Tana,RESTAURANT,ristorante
-41.056668,16.703471,ov_pizzeria_mavimi_41.0567_16.7035,Pizzeria Mavimi,RESTAURANT,ristorante
-41.055991,16.705226,ov_tanveer_asian_food_41.0560_16.7052,Tanveer Asian Food,RESTAURANT,ristorante
-41.056340,16.699320,ov_pizzeria_l_artista_41.0563_16.6993,Pizzeria L'Artista,RESTAURANT,ristorante
-41.055341,16.706945,ov_fishe_41.0553_16.7069,Fishe,RESTAURANT,ristorante
-41.056475,16.706582,ov_koin_sushi_41.0565_16.7066,Koin Sushi,RESTAURANT,ristorante
-41.056722,16.706462,ov_cara_mamma_ristorante_41.0567_16.7065,Cara Mamma Ristorante,RESTAURANT,ristorante
-41.057481,16.709438,ov_sala_delle_rose_41.0575_16.7094,Sala delle Rose,RESTAURANT,ristorante
-41.054693,16.706188,ov_taverna_del_borghese_41.0547_16.7062,Taverna del Borghese,RESTAURANT,ristorante
-41.054193,16.707518,ov_il_grifone_41.0542_16.7075,Il Grifone,RESTAURANT,ristorante
-41.058152,16.709460,ov_al_caminetto_41.0582_16.7095,Al Caminetto,RESTAURANT,ristorante
-41.058411,16.706762,ov_pizzeria_antiche_mura_41.0584_16.7068,Pizzeria Antiche Mura,RESTAURANT,ristorante
-41.058263,16.707189,ov_bistr__3000_41.0583_16.7072,Bistrò 3000,RESTAURANT,ristorante
-41.058510,16.705240,ov_di__bi_pizza_pizzeria_d_asporto_41.0585_16.7052,Di. Bi Pizza Pizzeria D'asporto,RESTAURANT,ristorante
-41.058730,16.706020,ov_cotto___mangiato_41.0587_16.7060,Cotto & Mangiato,RESTAURANT,ristorante
-41.058793,16.707881,ov_ai_5_sapori_41.0588_16.7079,Ai 5 sapori,RESTAURANT,ristorante
-41.058939,16.705840,ov_giacuda_braceria_41.0589_16.7058,Giacuda Braceria,RESTAURANT,ristorante
-41.058933,16.703980,ov_salottoventotto_41.0589_16.7040,SalottoVentotto,RESTAURANT,ristorante
-41.058645,16.702233,ov_pizzeria_modi_41.0586_16.7022,Pizzeria Modi,RESTAURANT,ristorante
-41.061886,16.700921,ov_pizzeria_manatthan_41.0619_16.7009,Pizzeria Manatthan,RESTAURANT,ristorante
-41.056371,16.649615,ov_ristorante_masseria_vero_41.0564_16.6496,Ristorante Masseria Vero,RESTAURANT,ristorante
-41.075415,16.703091,ov_siciliani_spa_41.0754_16.7031,Siciliani Spa,RESTAURANT,ristorante
+41.043166,16.683630,ov_show_lounge_41.0432_16.6836,Show Lounge,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/show_lounge_41.0432_16.6836.json,custom
+41.043183,16.683409,ov_steak_house_restaurant___pizzeria_bracer_41.0432_16.6834,Steak House Restaurant - Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/steak_house_restaurant_-_pizzeria_bracer_41.0432_16.6834.json,custom
+41.043450,16.682470,ov_fast_food_gogo_41.0434_16.6825,Fast Food GoGo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/fast_food_gogo_41.0434_16.6825.json,custom
+41.051811,16.710667,ov_de_gustibus_ristorante_41.0518_16.7107,De Gustibus Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/de_gustibus_ristorante_41.0518_16.7107.json,custom
+41.057492,16.699771,ov_gumi_store_41.0575_16.6998,GUMI Store,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/gumi_store_41.0575_16.6998.json,custom
+41.057784,16.699682,ov_la_tana_41.0578_16.6997,La Tana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/la_tana_41.0578_16.6997.json,custom
+41.056668,16.703471,ov_pizzeria_mavimi_41.0567_16.7035,Pizzeria Mavimi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/pizzeria_mavimi_41.0567_16.7035.json,custom
+41.055991,16.705226,ov_tanveer_asian_food_41.0560_16.7052,Tanveer Asian Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/tanveer_asian_food_41.0560_16.7052.json,custom
+41.056340,16.699320,ov_pizzeria_l_artista_41.0563_16.6993,Pizzeria L'Artista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/pizzeria_lartista_41.0563_16.6993.json,custom
+41.055341,16.706945,ov_fishe_41.0553_16.7069,Fishe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/fishe_41.0553_16.7069.json,custom
+41.056475,16.706582,ov_koin_sushi_41.0565_16.7066,Koin Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/koin_sushi_41.0565_16.7066.json,custom
+41.056722,16.706462,ov_cara_mamma_ristorante_41.0567_16.7065,Cara Mamma Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/cara_mamma_ristorante_41.0567_16.7065.json,custom
+41.057481,16.709438,ov_sala_delle_rose_41.0575_16.7094,Sala delle Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/sala_delle_rose_41.0575_16.7094.json,custom
+41.054693,16.706188,ov_taverna_del_borghese_41.0547_16.7062,Taverna del Borghese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/taverna_del_borghese_41.0547_16.7062.json,custom
+41.054193,16.707518,ov_il_grifone_41.0542_16.7075,Il Grifone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/il_grifone_41.0542_16.7075.json,custom
+41.058152,16.709460,ov_al_caminetto_41.0582_16.7095,Al Caminetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/al_caminetto_41.0582_16.7095.json,custom
+41.058411,16.706762,ov_pizzeria_antiche_mura_41.0584_16.7068,Pizzeria Antiche Mura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/pizzeria_antiche_mura_41.0584_16.7068.json,custom
+41.058263,16.707189,ov_bistr__3000_41.0583_16.7072,Bistrò 3000,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/bistr_3000_41.0583_16.7072.json,custom
+41.058510,16.705240,ov_di__bi_pizza_pizzeria_d_asporto_41.0585_16.7052,Di. Bi Pizza Pizzeria D'asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/di_bi_pizza_pizzeria_dasporto_41.0585_16.7052.json,custom
+41.058730,16.706020,ov_cotto___mangiato_41.0587_16.7060,Cotto & Mangiato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/cotto_mangiato_41.0587_16.7060.json,custom
+41.058793,16.707881,ov_ai_5_sapori_41.0588_16.7079,Ai 5 sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/ai_5_sapori_41.0588_16.7079.json,custom
+41.058939,16.705840,ov_giacuda_braceria_41.0589_16.7058,Giacuda Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/giacuda_braceria_41.0589_16.7058.json,custom
+41.058933,16.703980,ov_salottoventotto_41.0589_16.7040,SalottoVentotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/salottoventotto_41.0589_16.7040.json,custom
+41.058645,16.702233,ov_pizzeria_modi_41.0586_16.7022,Pizzeria Modi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/pizzeria_modi_41.0586_16.7022.json,custom
+41.061886,16.700921,ov_pizzeria_manatthan_41.0619_16.7009,Pizzeria Manatthan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/pizzeria_manatthan_41.0619_16.7009.json,custom
+41.056371,16.649615,ov_ristorante_masseria_vero_41.0564_16.6496,Ristorante Masseria Vero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/ristorante_masseria_vero_41.0564_16.6496.json,custom
+41.075415,16.703091,ov_siciliani_spa_41.0754_16.7031,Siciliani Spa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/siciliani_spa_41.0754_16.7031.json,custom

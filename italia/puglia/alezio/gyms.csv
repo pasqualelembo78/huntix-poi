@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alezio -- gyms
-40.058934,18.053473,ov_palestra_performance_40.0589_18.0535,Palestra Performance,GYM,palestra
-40.056000,18.032330,ov_centro_ippico_a_s_d_windstorm_horse_club_40.0560_18.0323,Centro Ippico A.S.D Windstorm Horse Club,GYM,palestra
-40.058392,18.030723,ov_circolo_ippico_barone_asd_40.0584_18.0307,Circolo Ippico Barone asd,GYM,palestra
-40.066778,18.062887,ov_tiro_a_segno_nazionale_40.0668_18.0629,Tiro a Segno Nazionale,GYM,palestra
-40.066251,18.054463,ov_scuba_one_di_emilio_campasena_40.0663_18.0545,Scuba One Di Emilio Campasena,GYM,palestra
-40.065438,18.056720,ov_iron_life_fitness_center_40.0654_18.0567,Iron life Fitness Center,GYM,palestra
+40.058934,18.053473,ov_palestra_performance_40.0589_18.0535,Palestra Performance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/palestra_performance_40.0589_18.0535.json,custom
+40.056000,18.032330,ov_centro_ippico_a_s_d_windstorm_horse_club_40.0560_18.0323,Centro Ippico A.S.D Windstorm Horse Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/centro_ippico_asd_windstorm_horse_club_40.0560_18.0323.json,custom
+40.058392,18.030723,ov_circolo_ippico_barone_asd_40.0584_18.0307,Circolo Ippico Barone asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/circolo_ippico_barone_asd_40.0584_18.0307.json,custom
+40.066778,18.062887,ov_tiro_a_segno_nazionale_40.0668_18.0629,Tiro a Segno Nazionale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/tiro_a_segno_nazionale_40.0668_18.0629.json,custom
+40.066251,18.054463,ov_scuba_one_di_emilio_campasena_40.0663_18.0545,Scuba One Di Emilio Campasena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/scuba_one_di_emilio_campasena_40.0663_18.0545.json,custom
+40.065438,18.056720,ov_iron_life_fitness_center_40.0654_18.0567,Iron life Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alezio/pages/iron_life_fitness_center_40.0654_18.0567.json,custom

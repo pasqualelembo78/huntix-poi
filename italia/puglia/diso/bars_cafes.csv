@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # diso -- bars_cafes
-39.991527,18.413952,ov_chiaro_di_luna_39.9915_18.4140,Chiaro di Luna,RESTAURANT,bar_cafe
-40.008543,18.392191,ov_coffee_time_40.0085_18.3922,Coffee Time,RESTAURANT,bar_cafe
-40.008249,18.389844,ov_portici_1983_40.0082_18.3898,Portici 1983,RESTAURANT,bar_cafe
-39.995169,18.398137,ov_prince_bar_39.9952_18.3981,Prince Bar,RESTAURANT,bar_cafe
-39.995788,18.398119,ov_fantasy_bar_39.9958_18.3981,Fantasy Bar,RESTAURANT,bar_cafe
-40.002350,18.411990,ov_sherwood_caf__40.0023_18.4120,Sherwood Café,RESTAURANT,bar_cafe
+39.991527,18.413952,ov_chiaro_di_luna_39.9915_18.4140,Chiaro di Luna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/chiaro_di_luna_39.9915_18.4140.json,custom
+40.008543,18.392191,ov_coffee_time_40.0085_18.3922,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/coffee_time_40.0085_18.3922.json,custom
+40.008249,18.389844,ov_portici_1983_40.0082_18.3898,Portici 1983,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/portici_1983_40.0082_18.3898.json,custom
+39.995169,18.398137,ov_prince_bar_39.9952_18.3981,Prince Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/prince_bar_39.9952_18.3981.json,custom
+39.995788,18.398119,ov_fantasy_bar_39.9958_18.3981,Fantasy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/fantasy_bar_39.9958_18.3981.json,custom
+40.002350,18.411990,ov_sherwood_caf__40.0023_18.4120,Sherwood Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/diso/pages/sherwood_caf_40.0023_18.4120.json,custom

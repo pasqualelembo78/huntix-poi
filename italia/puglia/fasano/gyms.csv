@@ -1,38 +1,38 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fasano -- gyms
-40.520448,17.274437,ov_goldbet_fasano_40.5204_17.2744,Goldbet Fasano,GYM,palestra
-40.862993,17.376566,ov_kartodromo_fasano_40.8630_17.3766,Kartodromo Fasano,GYM,palestra
-40.876642,17.405848,ov_lido_ottagono_40.8766_17.4058,Lido Ottagono,GYM,palestra
-40.872005,17.409173,ov_nautica_de_mattia_srl_40.8720_17.4092,Nautica De Mattia SRL,GYM,palestra
-40.839867,17.467408,ov_la_boa_40.8399_17.4674,La Boa,GYM,palestra
-40.814721,17.448660,ov_centro_ippico_luigi_zizzi_40.8147_17.4487,Centro ippico luigi zizzi,GYM,palestra
-40.836608,17.366011,ov_authentic_gym_40.8366_17.3660,Authentic Gym,GYM,palestra
-40.836057,17.366088,ov_centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661,Centro Ludico Prima Infanzia Zucchero Filato,GYM,palestra
-40.835701,17.366132,ov_gym_moving_club_40.8357_17.3661,Gym Moving Club,GYM,palestra
-40.833437,17.366342,ov_fitness_academy_fasano_40.8334_17.3663,Fitness Academy Fasano,GYM,palestra
-40.835338,17.366660,ov_palestra_franco_zizzi_40.8353_17.3667,Palestra Franco Zizzi,GYM,palestra
-40.834794,17.364267,ov_a_s_d__corpus_40.8348_17.3643,A.S.D. Corpus,GYM,palestra
-40.834392,17.364534,ov_core_be_wellness_40.8344_17.3645,CORE be wellness,GYM,palestra
-40.834430,17.364258,ov_studio_danza_e_balletto_40.8344_17.3643,Studio Danza e Balletto,GYM,palestra
-40.833009,17.358710,ov_new_pas_de_deux_40.8330_17.3587,New Pas de deux,GYM,palestra
-40.835812,17.357803,ov_pas_de_deux_scuola_40.8358_17.3578,Pas De Deux Scuola,GYM,palestra
-40.836615,17.361435,ov_yalla_academy_asd_40.8366_17.3614,Yalla Academy Asd,GYM,palestra
-40.837273,17.364296,ov_hekaclub_asd_pilates___body_fly_40.8373_17.3643,HekaClub Asd Pilates & Body Fly,GYM,palestra
-40.838033,17.357718,ov_scuderia_ferrari_club_fasano_40.8380_17.3577,Scuderia Ferrari Club Fasano,GYM,palestra
-40.840360,17.359457,ov_olistik_selva_40.8404_17.3595,Olistik Selva,GYM,palestra
-40.842331,17.352796,ov_gofit_egnazia_40.8423_17.3528,GoFit Egnazia,GYM,palestra
-40.835541,17.354338,ov_green_bar_40.8355_17.3543,Green Bar,GYM,palestra
-40.835442,17.355006,ov_tensostatico_40.8354_17.3550,Tensostatico,GYM,palestra
-40.834159,17.355713,ov_oratorio_del_fanciullo_40.8342_17.3557,Oratorio del Fanciullo,GYM,palestra
-40.843442,17.351076,ov_handstand_gym_40.8434_17.3511,Handstand Gym,GYM,palestra
-40.844390,17.353420,ov_coppa_selva_di_fasano_40.8444_17.3534,Coppa Selva di Fasano,GYM,palestra
-40.844779,17.353515,ov_asd_team_top_dance_academy_40.8448_17.3535,Asd Team Top Dance Academy,GYM,palestra
-40.845370,17.353850,ov_become_40.8454_17.3539,Become,GYM,palestra
-40.845570,17.350170,ov_whitefit_ostuni_40.8456_17.3502,Whitefit Ostuni,GYM,palestra
-40.846045,17.352988,ov_doms_academy_40.8460_17.3530,DOMS Academy,GYM,palestra
-40.851261,17.350088,ov_sportproject_fasano_40.8513_17.3501,SportProject Fasano,GYM,palestra
-40.851158,17.350703,ov_fenice_asd_40.8512_17.3507,Fenice ASD,GYM,palestra
-40.831746,17.353993,ov_l_officina_dell_essere_40.8317_17.3540,L'Officina dell'Essere,GYM,palestra
-40.827058,17.379684,ov_timo_s_park_40.8271_17.3797,Timo's Park,GYM,palestra
-40.810561,17.492500,ov_centro_equestre_parco_di_mare_40.8106_17.4925,Centro Equestre Parco di Mare,GYM,palestra
-40.703080,17.657110,ov_asd_adriatic_scuba_divers_40.7031_17.6571,ASD Adriatic Scuba Divers,GYM,palestra
+40.520448,17.274437,ov_goldbet_fasano_40.5204_17.2744,Goldbet Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/goldbet_fasano_40.5204_17.2744.json,custom
+40.862993,17.376566,ov_kartodromo_fasano_40.8630_17.3766,Kartodromo Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/kartodromo_fasano_40.8630_17.3766.json,custom
+40.876642,17.405848,ov_lido_ottagono_40.8766_17.4058,Lido Ottagono,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lido_ottagono_40.8766_17.4058.json,custom
+40.872005,17.409173,ov_nautica_de_mattia_srl_40.8720_17.4092,Nautica De Mattia SRL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/nautica_de_mattia_srl_40.8720_17.4092.json,custom
+40.839867,17.467408,ov_la_boa_40.8399_17.4674,La Boa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/la_boa_40.8399_17.4674.json,custom
+40.814721,17.448660,ov_centro_ippico_luigi_zizzi_40.8147_17.4487,Centro ippico luigi zizzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_ippico_luigi_zizzi_40.8147_17.4487.json,custom
+40.836608,17.366011,ov_authentic_gym_40.8366_17.3660,Authentic Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/authentic_gym_40.8366_17.3660.json,custom
+40.836057,17.366088,ov_centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661,Centro Ludico Prima Infanzia Zucchero Filato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_ludico_prima_infanzia_zucchero_fi_40.8361_17.3661.json,custom
+40.835701,17.366132,ov_gym_moving_club_40.8357_17.3661,Gym Moving Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gym_moving_club_40.8357_17.3661.json,custom
+40.833437,17.366342,ov_fitness_academy_fasano_40.8334_17.3663,Fitness Academy Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fitness_academy_fasano_40.8334_17.3663.json,custom
+40.835338,17.366660,ov_palestra_franco_zizzi_40.8353_17.3667,Palestra Franco Zizzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/palestra_franco_zizzi_40.8353_17.3667.json,custom
+40.834794,17.364267,ov_a_s_d__corpus_40.8348_17.3643,A.S.D. Corpus,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_corpus_40.8348_17.3643.json,custom
+40.834392,17.364534,ov_core_be_wellness_40.8344_17.3645,CORE be wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/core_be_wellness_40.8344_17.3645.json,custom
+40.834430,17.364258,ov_studio_danza_e_balletto_40.8344_17.3643,Studio Danza e Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/studio_danza_e_balletto_40.8344_17.3643.json,custom
+40.833009,17.358710,ov_new_pas_de_deux_40.8330_17.3587,New Pas de deux,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/new_pas_de_deux_40.8330_17.3587.json,custom
+40.835812,17.357803,ov_pas_de_deux_scuola_40.8358_17.3578,Pas De Deux Scuola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/pas_de_deux_scuola_40.8358_17.3578.json,custom
+40.836615,17.361435,ov_yalla_academy_asd_40.8366_17.3614,Yalla Academy Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/yalla_academy_asd_40.8366_17.3614.json,custom
+40.837273,17.364296,ov_hekaclub_asd_pilates___body_fly_40.8373_17.3643,HekaClub Asd Pilates & Body Fly,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/hekaclub_asd_pilates_body_fly_40.8373_17.3643.json,custom
+40.838033,17.357718,ov_scuderia_ferrari_club_fasano_40.8380_17.3577,Scuderia Ferrari Club Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/scuderia_ferrari_club_fasano_40.8380_17.3577.json,custom
+40.840360,17.359457,ov_olistik_selva_40.8404_17.3595,Olistik Selva,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/olistik_selva_40.8404_17.3595.json,custom
+40.842331,17.352796,ov_gofit_egnazia_40.8423_17.3528,GoFit Egnazia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/gofit_egnazia_40.8423_17.3528.json,custom
+40.835541,17.354338,ov_green_bar_40.8355_17.3543,Green Bar,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/green_bar_40.8355_17.3543.json,custom
+40.835442,17.355006,ov_tensostatico_40.8354_17.3550,Tensostatico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/tensostatico_40.8354_17.3550.json,custom
+40.834159,17.355713,ov_oratorio_del_fanciullo_40.8342_17.3557,Oratorio del Fanciullo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/oratorio_del_fanciullo_40.8342_17.3557.json,custom
+40.843442,17.351076,ov_handstand_gym_40.8434_17.3511,Handstand Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/handstand_gym_40.8434_17.3511.json,custom
+40.844390,17.353420,ov_coppa_selva_di_fasano_40.8444_17.3534,Coppa Selva di Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/coppa_selva_di_fasano_40.8444_17.3534.json,custom
+40.844779,17.353515,ov_asd_team_top_dance_academy_40.8448_17.3535,Asd Team Top Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_team_top_dance_academy_40.8448_17.3535.json,custom
+40.845370,17.353850,ov_become_40.8454_17.3539,Become,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/become_40.8454_17.3539.json,custom
+40.845570,17.350170,ov_whitefit_ostuni_40.8456_17.3502,Whitefit Ostuni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/whitefit_ostuni_40.8456_17.3502.json,custom
+40.846045,17.352988,ov_doms_academy_40.8460_17.3530,DOMS Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/doms_academy_40.8460_17.3530.json,custom
+40.851261,17.350088,ov_sportproject_fasano_40.8513_17.3501,SportProject Fasano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/sportproject_fasano_40.8513_17.3501.json,custom
+40.851158,17.350703,ov_fenice_asd_40.8512_17.3507,Fenice ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/fenice_asd_40.8512_17.3507.json,custom
+40.831746,17.353993,ov_l_officina_dell_essere_40.8317_17.3540,L'Officina dell'Essere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/lofficina_dellessere_40.8317_17.3540.json,custom
+40.827058,17.379684,ov_timo_s_park_40.8271_17.3797,Timo's Park,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/timos_park_40.8271_17.3797.json,custom
+40.810561,17.492500,ov_centro_equestre_parco_di_mare_40.8106_17.4925,Centro Equestre Parco di Mare,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/centro_equestre_parco_di_mare_40.8106_17.4925.json,custom
+40.703080,17.657110,ov_asd_adriatic_scuba_divers_40.7031_17.6571,ASD Adriatic Scuba Divers,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fasano/pages/asd_adriatic_scuba_divers_40.7031_17.6571.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castel_san_lorenzo -- bars_cafes
-40.417384,15.229049,ov_bar_blu_notte_40.4174_15.2290,Bar Blu Notte,RESTAURANT,bar_cafe
-40.420520,15.221186,ov_new_paradise__rosticceria__pizzeria__bar_40.4205_15.2212,"New Paradise, Rosticceria, Pizzeria, Bar.",RESTAURANT,bar_cafe
-40.423820,15.212705,ov_joker_bar_40.4238_15.2127,JOKER BAR,RESTAURANT,bar_cafe
+40.417384,15.229049,ov_bar_blu_notte_40.4174_15.2290,Bar Blu Notte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/bar_blu_notte_40.4174_15.2290.json,custom
+40.420520,15.221186,ov_new_paradise__rosticceria__pizzeria__bar_40.4205_15.2212,"New Paradise, Rosticceria, Pizzeria, Bar.",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/new_paradise_rosticceria_pizzeria_bar_40.4205_15.2212.json,custom
+40.423820,15.212705,ov_joker_bar_40.4238_15.2127,JOKER BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/joker_bar_40.4238_15.2127.json,custom

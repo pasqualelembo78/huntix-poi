@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tuglie -- bars_cafes
-40.066250,18.101897,ov_traffic_q8_tuglie_40.0663_18.1019,Traffic Q8 Tuglie,RESTAURANT,bar_cafe
-40.071163,18.095448,ov_bar_illollo__40.0712_18.0954,BAR Illollo',RESTAURANT,bar_cafe
-40.069869,18.091330,ov_oronero_caff__40.0699_18.0913,OroNero Caffè,RESTAURANT,bar_cafe
-40.072163,18.101021,ov_la_villetta_40.0722_18.1010,La Villetta,RESTAURANT,bar_cafe
-40.071517,18.103557,ov_birrificio_cal_nder_40.0715_18.1036,Birrificio Calènder,RESTAURANT,bar_cafe
-40.071896,18.101331,ov_largo_20_40.0719_18.1013,Largo 20,RESTAURANT,bar_cafe
-40.072531,18.097705,ov_caff__per_caso_40.0725_18.0977,Caffè per Caso,RESTAURANT,bar_cafe
-40.072539,18.097915,ov_bar_provenzano_piazza_garibaldi_40.0725_18.0979,Bar Provenzano Piazza Garibaldi,RESTAURANT,bar_cafe
-40.079015,18.094281,ov_origini_cafe_40.0790_18.0943,Origini Cafe,RESTAURANT,bar_cafe
+40.066250,18.101897,ov_traffic_q8_tuglie_40.0663_18.1019,Traffic Q8 Tuglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/traffic_q8_tuglie_40.0663_18.1019.json,custom
+40.071163,18.095448,ov_bar_illollo__40.0712_18.0954,BAR Illollo',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/bar_illollo_40.0712_18.0954.json,custom
+40.069869,18.091330,ov_oronero_caff__40.0699_18.0913,OroNero Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/oronero_caff_40.0699_18.0913.json,custom
+40.072163,18.101021,ov_la_villetta_40.0722_18.1010,La Villetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/la_villetta_40.0722_18.1010.json,custom
+40.071517,18.103557,ov_birrificio_cal_nder_40.0715_18.1036,Birrificio Calènder,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/birrificio_calnder_40.0715_18.1036.json,custom
+40.071896,18.101331,ov_largo_20_40.0719_18.1013,Largo 20,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/largo_20_40.0719_18.1013.json,custom
+40.072531,18.097705,ov_caff__per_caso_40.0725_18.0977,Caffè per Caso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/caff_per_caso_40.0725_18.0977.json,custom
+40.072539,18.097915,ov_bar_provenzano_piazza_garibaldi_40.0725_18.0979,Bar Provenzano Piazza Garibaldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/bar_provenzano_piazza_garibaldi_40.0725_18.0979.json,custom
+40.079015,18.094281,ov_origini_cafe_40.0790_18.0943,Origini Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/origini_cafe_40.0790_18.0943.json,custom

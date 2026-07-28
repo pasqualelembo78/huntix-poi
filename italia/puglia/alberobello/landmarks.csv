@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alberobello -- landmarks
-40.782045,17.238059,ov_trullo_siamese_40.7820_17.2381,Trullo Siamese,MONUMENT,monumento
-40.784496,17.237977,ov_casa_d_amore_40.7845_17.2380,Casa D'Amore,MONUMENT,monumento
-40.784028,17.239069,ov_museo_del_territorio_casa_pezzolla_40.7840_17.2391,Museo del Territorio Casa Pezzolla,MUSEUM,monumento
+40.782045,17.238059,ov_trullo_siamese_40.7820_17.2381,Trullo Siamese,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trullo_siamese_40.7820_17.2381.json,custom
+40.784496,17.237977,ov_casa_d_amore_40.7845_17.2380,Casa D'Amore,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/casa_damore_40.7845_17.2380.json,custom
+40.784028,17.239069,ov_museo_del_territorio_casa_pezzolla_40.7840_17.2391,Museo del Territorio Casa Pezzolla,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/museo_del_territorio_casa_pezzolla_40.7840_17.2391.json,custom

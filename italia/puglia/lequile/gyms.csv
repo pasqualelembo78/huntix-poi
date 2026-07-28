@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lequile -- gyms
-40.297732,18.141977,ov_asd_studio_danze_lequile_40.2977_18.1420,ASD Studio Danze Lequile,GYM,palestra
-40.297016,18.141694,ov_artedanza_lequile_40.2970_18.1417,Artedanza Lequile,GYM,palestra
-40.295060,18.138220,ov_warfare_elite_paintball_lecce_40.2951_18.1382,Warfare Elite Paintball Lecce,GYM,palestra
-40.306916,18.137016,ov_de_giorgi_sport_and_health_40.3069_18.1370,De Giorgi Sport and Health,GYM,palestra
-40.306878,18.138822,ov_parkour_lecce_ninja_academy_40.3069_18.1388,Parkour Lecce Ninja Academy,GYM,palestra
-40.314950,18.142775,ov_easy_fit_40.3150_18.1428,Easy Fit,GYM,palestra
-40.315043,18.142913,ov_palestra_easyfit___lequile_40.3150_18.1429,Palestra Easyfit - Lequile,GYM,palestra
+40.297732,18.141977,ov_asd_studio_danze_lequile_40.2977_18.1420,ASD Studio Danze Lequile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/asd_studio_danze_lequile_40.2977_18.1420.json,custom
+40.297016,18.141694,ov_artedanza_lequile_40.2970_18.1417,Artedanza Lequile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/artedanza_lequile_40.2970_18.1417.json,custom
+40.295060,18.138220,ov_warfare_elite_paintball_lecce_40.2951_18.1382,Warfare Elite Paintball Lecce,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/warfare_elite_paintball_lecce_40.2951_18.1382.json,custom
+40.306916,18.137016,ov_de_giorgi_sport_and_health_40.3069_18.1370,De Giorgi Sport and Health,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/de_giorgi_sport_and_health_40.3069_18.1370.json,custom
+40.306878,18.138822,ov_parkour_lecce_ninja_academy_40.3069_18.1388,Parkour Lecce Ninja Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/parkour_lecce_ninja_academy_40.3069_18.1388.json,custom
+40.314950,18.142775,ov_easy_fit_40.3150_18.1428,Easy Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/easy_fit_40.3150_18.1428.json,custom
+40.315043,18.142913,ov_palestra_easyfit___lequile_40.3150_18.1429,Palestra Easyfit - Lequile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lequile/pages/palestra_easyfit_-_lequile_40.3150_18.1429.json,custom

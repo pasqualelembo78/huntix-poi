@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # nard -- hospitals
-40.172520,18.033970,ov_presidio_territoriale_di_assistenza_nard_40.1725_18.0340,Presidio Territoriale di Assistenza Nardò,HOSPITAL,hospital
-40.172320,18.035330,ov_comitato_per_la_tutela_dell_ex_ospedale__40.1723_18.0353,Comitato per la tutela dell'ex ospedale di Nardò,HOSPITAL,hospital
-40.172117,18.034316,ov_asl_le_pronto_soccorso_ospedale_40.1721_18.0343,Asl Le Pronto Soccorso Ospedale,HOSPITAL,hospital
-40.171578,18.034991,ov_pronto_soccorso_ospedale_civile_giuseppe_40.1716_18.0350,Pronto Soccorso Ospedale Civile Giuseppe Sambiasi,HOSPITAL,hospital
-40.180400,18.034470,ov_medicina_di_coppia_40.1804_18.0345,Medicina di Coppia,HOSPITAL,hospital
+40.172520,18.033970,ov_presidio_territoriale_di_assistenza_nard_40.1725_18.0340,Presidio Territoriale di Assistenza Nardò,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nard/pages/presidio_territoriale_di_assistenza_nard_40.1725_18.0340.json,custom
+40.172320,18.035330,ov_comitato_per_la_tutela_dell_ex_ospedale__40.1723_18.0353,Comitato per la tutela dell'ex ospedale di Nardò,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nard/pages/comitato_per_la_tutela_dellex_ospedale_d_40.1723_18.0353.json,custom
+40.172117,18.034316,ov_asl_le_pronto_soccorso_ospedale_40.1721_18.0343,Asl Le Pronto Soccorso Ospedale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nard/pages/asl_le_pronto_soccorso_ospedale_40.1721_18.0343.json,custom
+40.171578,18.034991,ov_pronto_soccorso_ospedale_civile_giuseppe_40.1716_18.0350,Pronto Soccorso Ospedale Civile Giuseppe Sambiasi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nard/pages/pronto_soccorso_ospedale_civile_giuseppe_40.1716_18.0350.json,custom
+40.180400,18.034470,ov_medicina_di_coppia_40.1804_18.0345,Medicina di Coppia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nard/pages/medicina_di_coppia_40.1804_18.0345.json,custom

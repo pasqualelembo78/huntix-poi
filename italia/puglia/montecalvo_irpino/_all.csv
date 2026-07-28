@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Montecalvo Irpino -- Tutti
-41.174925,15.005164,ov_azienda_agriturististica_antico_feudo_41.1749_15.0052,Azienda agriturististica antico feudo,RESTAURANT,ristorante
-41.192964,15.020488,ov_le_2_lune_41.1930_15.0205,Le 2 Lune,RESTAURANT,ristorante
-41.195601,15.051071,ov_agriturismo_serafino_family_41.1956_15.0511,Agriturismo Serafino Family,RESTAURANT,ristorante
-41.195037,15.043095,ov_pizzeria_arcadia_41.1950_15.0431,Pizzeria Arcadia,RESTAURANT,ristorante
-41.195133,15.033072,ov_pizzeria_pulcinella_41.1951_15.0331,Pizzeria Pulcinella,RESTAURANT,ristorante
-41.197757,15.037249,ov_da_alfredo_41.1978_15.0372,Da Alfredo,RESTAURANT,ristorante
-41.199337,15.029683,ov_la_cantina_di_baffone_41.1993_15.0297,La Cantina di Baffone,RESTAURANT,ristorante
-41.253718,15.065153,ov_agriturismo_le_bolle_41.2537_15.0652,Agriturismo Le Bolle,RESTAURANT,ristorante
-41.192245,15.032099,ov_lu_varrile_41.1922_15.0321,Lu Varrile,RESTAURANT,bar_cafe
-41.197071,15.037958,ov_cento_passi_41.1971_15.0380,Cento Passi,RESTAURANT,bar_cafe
-41.196542,15.034776,ov_antica_caffetteria_pappano_41.1965_15.0348,Antica Caffetteria Pappano,RESTAURANT,bar_cafe
-41.195900,15.033536,ov_black_out_bar_41.1959_15.0335,Black Out Bar,RESTAURANT,bar_cafe
-41.196223,15.034419,ov_bar_del_corso_di_caccese_albino_41.1962_15.0344,Bar Del Corso Di Caccese Albino,RESTAURANT,bar_cafe
-41.196045,15.037239,ov_la_taranta_public_house_41.1960_15.0372,La Taranta Public House,RESTAURANT,bar_cafe
-41.192961,15.031207,ov_castle_pignatelli_41.1930_15.0312,Castle Pignatelli,MONUMENT,monumento
-41.216400,15.028730,ov_montecalvo_irpino__museo_diffuso_41.2164_15.0287,Montecalvo Irpino  Museo diffuso,MUSEUM,monumento
+41.174925,15.005164,ov_azienda_agriturististica_antico_feudo_41.1749_15.0052,Azienda agriturististica antico feudo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/azienda_agriturististica_antico_feudo_41.1749_15.0052.json,custom
+41.192964,15.020488,ov_le_2_lune_41.1930_15.0205,Le 2 Lune,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/le_2_lune_41.1930_15.0205.json,custom
+41.195601,15.051071,ov_agriturismo_serafino_family_41.1956_15.0511,Agriturismo Serafino Family,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/agriturismo_serafino_family_41.1956_15.0511.json,custom
+41.195037,15.043095,ov_pizzeria_arcadia_41.1950_15.0431,Pizzeria Arcadia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/pizzeria_arcadia_41.1950_15.0431.json,custom
+41.195133,15.033072,ov_pizzeria_pulcinella_41.1951_15.0331,Pizzeria Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/pizzeria_pulcinella_41.1951_15.0331.json,custom
+41.197757,15.037249,ov_da_alfredo_41.1978_15.0372,Da Alfredo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/da_alfredo_41.1978_15.0372.json,custom
+41.199337,15.029683,ov_la_cantina_di_baffone_41.1993_15.0297,La Cantina di Baffone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/la_cantina_di_baffone_41.1993_15.0297.json,custom
+41.253718,15.065153,ov_agriturismo_le_bolle_41.2537_15.0652,Agriturismo Le Bolle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/agriturismo_le_bolle_41.2537_15.0652.json,custom
+41.192245,15.032099,ov_lu_varrile_41.1922_15.0321,Lu Varrile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/lu_varrile_41.1922_15.0321.json,custom
+41.197071,15.037958,ov_cento_passi_41.1971_15.0380,Cento Passi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/cento_passi_41.1971_15.0380.json,custom
+41.196542,15.034776,ov_antica_caffetteria_pappano_41.1965_15.0348,Antica Caffetteria Pappano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/antica_caffetteria_pappano_41.1965_15.0348.json,custom
+41.195900,15.033536,ov_black_out_bar_41.1959_15.0335,Black Out Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/black_out_bar_41.1959_15.0335.json,custom
+41.196223,15.034419,ov_bar_del_corso_di_caccese_albino_41.1962_15.0344,Bar Del Corso Di Caccese Albino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/bar_del_corso_di_caccese_albino_41.1962_15.0344.json,custom
+41.196045,15.037239,ov_la_taranta_public_house_41.1960_15.0372,La Taranta Public House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/la_taranta_public_house_41.1960_15.0372.json,custom
+41.192961,15.031207,ov_castle_pignatelli_41.1930_15.0312,Castle Pignatelli,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/castle_pignatelli_41.1930_15.0312.json,custom
+41.216400,15.028730,ov_montecalvo_irpino__museo_diffuso_41.2164_15.0287,Montecalvo Irpino  Museo diffuso,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/montecalvo_irpino_museo_diffuso_41.2164_15.0287.json,custom

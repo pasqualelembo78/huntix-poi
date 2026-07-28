@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Seclì -- Tutti
-40.132149,18.106377,ov_l_ostello_40.1321_18.1064,L'Ostello,RESTAURANT,ristorante
-40.132007,18.105017,ov_l_angolo_della_pizza_40.1320_18.1050,L'Angolo Della Pizza,RESTAURANT,ristorante
-40.131040,18.100564,ov_pizzart_40.1310_18.1006,PizzArt,RESTAURANT,ristorante
-40.130883,18.107981,ov_senza_pensieri_pizzeria_ristorante_brace_40.1309_18.1080,Senza Pensieri Pizzeria Ristorante Braceria,RESTAURANT,ristorante
-40.116750,18.109350,ov_il_vizio_bar_40.1168_18.1093,Il Vizio Bar,RESTAURANT,bar_cafe
-40.132146,18.104319,ov_k_80_caf__40.1321_18.1043,K'80 Cafè,RESTAURANT,bar_cafe
-40.132019,18.105320,ov_plaza_cafe_40.1320_18.1053,Plaza Cafe,RESTAURANT,bar_cafe
-40.114432,18.110977,ov_arena_fitness_club_40.1144_18.1110,Arena Fitness Club,GYM,palestra
-40.130702,18.099182,ov_pietra_leccese_stone_angel_di_barrotta_s_40.1307_18.0992,Pietra Leccese Stone Angel di Barrotta Salvatore,MUSEUM,monumento
+40.132149,18.106377,ov_l_ostello_40.1321_18.1064,L'Ostello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/lostello_40.1321_18.1064.json,custom
+40.132007,18.105017,ov_l_angolo_della_pizza_40.1320_18.1050,L'Angolo Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/langolo_della_pizza_40.1320_18.1050.json,custom
+40.131040,18.100564,ov_pizzart_40.1310_18.1006,PizzArt,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/pizzart_40.1310_18.1006.json,custom
+40.130883,18.107981,ov_senza_pensieri_pizzeria_ristorante_brace_40.1309_18.1080,Senza Pensieri Pizzeria Ristorante Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/senza_pensieri_pizzeria_ristorante_brace_40.1309_18.1080.json,custom
+40.116750,18.109350,ov_il_vizio_bar_40.1168_18.1093,Il Vizio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/il_vizio_bar_40.1168_18.1093.json,custom
+40.132146,18.104319,ov_k_80_caf__40.1321_18.1043,K'80 Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/k80_caf_40.1321_18.1043.json,custom
+40.132019,18.105320,ov_plaza_cafe_40.1320_18.1053,Plaza Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/plaza_cafe_40.1320_18.1053.json,custom
+40.114432,18.110977,ov_arena_fitness_club_40.1144_18.1110,Arena Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/arena_fitness_club_40.1144_18.1110.json,custom
+40.130702,18.099182,ov_pietra_leccese_stone_angel_di_barrotta_s_40.1307_18.0992,Pietra Leccese Stone Angel di Barrotta Salvatore,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/secl/pages/pietra_leccese_stone_angel_di_barrotta_s_40.1307_18.0992.json,custom

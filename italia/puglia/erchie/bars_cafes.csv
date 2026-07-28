@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # erchie -- bars_cafes
-40.432744,17.735295,ov_sirius_black_art_cafe_40.4327_17.7353,Sirius Black Art Cafe,RESTAURANT,bar_cafe
-40.429889,17.738334,ov_hendrix_40.4299_17.7383,Hendrix,RESTAURANT,bar_cafe
-40.437881,17.732890,ov_la_veneziana_40.4379_17.7329,La Veneziana,RESTAURANT,bar_cafe
-40.437838,17.732646,ov_bar_chiosco_40.4378_17.7326,Bar Chiosco,RESTAURANT,bar_cafe
-40.437156,17.734596,ov_bean_bar_40.4372_17.7346,Bean Bar,RESTAURANT,bar_cafe
-40.437066,17.734787,ov_bar_absinthe_40.4371_17.7348,Bar Absinthe,RESTAURANT,bar_cafe
-40.436642,17.733989,ov_fellini_40.4366_17.7340,Fellini,RESTAURANT,bar_cafe
-40.434057,17.735687,ov_kiccoo_leccese___eib_group_40.4341_17.7357,Kiccoo Leccese - EiB Group,RESTAURANT,bar_cafe
-40.435588,17.736244,ov_flatus_vitae_beer_pub_40.4356_17.7362,Flatus Vitae Beer Pub,RESTAURANT,bar_cafe
-40.434801,17.731639,ov_mimi_cafe_40.4348_17.7316,Mimi Cafe,RESTAURANT,bar_cafe
-40.437436,17.730379,ov_il_rigoletto_40.4374_17.7304,Il Rigoletto,RESTAURANT,bar_cafe
+40.432744,17.735295,ov_sirius_black_art_cafe_40.4327_17.7353,Sirius Black Art Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/sirius_black_art_cafe_40.4327_17.7353.json,custom
+40.429889,17.738334,ov_hendrix_40.4299_17.7383,Hendrix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/hendrix_40.4299_17.7383.json,custom
+40.437881,17.732890,ov_la_veneziana_40.4379_17.7329,La Veneziana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/la_veneziana_40.4379_17.7329.json,custom
+40.437838,17.732646,ov_bar_chiosco_40.4378_17.7326,Bar Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/bar_chiosco_40.4378_17.7326.json,custom
+40.437156,17.734596,ov_bean_bar_40.4372_17.7346,Bean Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/bean_bar_40.4372_17.7346.json,custom
+40.437066,17.734787,ov_bar_absinthe_40.4371_17.7348,Bar Absinthe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/bar_absinthe_40.4371_17.7348.json,custom
+40.436642,17.733989,ov_fellini_40.4366_17.7340,Fellini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/fellini_40.4366_17.7340.json,custom
+40.434057,17.735687,ov_kiccoo_leccese___eib_group_40.4341_17.7357,Kiccoo Leccese - EiB Group,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/kiccoo_leccese_-_eib_group_40.4341_17.7357.json,custom
+40.435588,17.736244,ov_flatus_vitae_beer_pub_40.4356_17.7362,Flatus Vitae Beer Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/flatus_vitae_beer_pub_40.4356_17.7362.json,custom
+40.434801,17.731639,ov_mimi_cafe_40.4348_17.7316,Mimi Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/mimi_cafe_40.4348_17.7316.json,custom
+40.437436,17.730379,ov_il_rigoletto_40.4374_17.7304,Il Rigoletto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/il_rigoletto_40.4374_17.7304.json,custom

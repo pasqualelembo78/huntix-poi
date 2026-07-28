@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Montemarano -- Tutti
-40.917378,15.016754,ov_tenuta_giave_40.9174_15.0168,Tenuta Giave,RESTAURANT,ristorante
-40.898092,15.037051,ov_il_gastronomo_40.8981_15.0371,Il Gastronomo,RESTAURANT,ristorante
-40.913297,15.035964,ov_ristorante_albergo_milano_40.9133_15.0360,Ristorante Albergo Milano,RESTAURANT,ristorante
-40.932389,15.011217,ov_bar_fred_di_gallo_gino_40.9324_15.0112,Bar Fred Di Gallo Gino,RESTAURANT,bar_cafe
-40.897212,15.037361,ov_korovapub_bar_40.8972_15.0374,Korovapub Bar,RESTAURANT,bar_cafe
-40.913348,15.036132,ov_cresta_vincenzo_40.9133_15.0361,Cresta Vincenzo,RESTAURANT,bar_cafe
-41.018766,15.070031,ov_bar_b_b_pietra_spaccata_41.0188_15.0700,Bar B&B Pietra Spaccata,RESTAURANT,bar_cafe
-40.931110,15.040200,ov_yes_we_dance_di_fabrizio_formica_40.9311_15.0402,YES WE DANCE di Fabrizio Formica,GYM,palestra
+40.917378,15.016754,ov_tenuta_giave_40.9174_15.0168,Tenuta Giave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/tenuta_giave_40.9174_15.0168.json,custom
+40.898092,15.037051,ov_il_gastronomo_40.8981_15.0371,Il Gastronomo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/il_gastronomo_40.8981_15.0371.json,custom
+40.913297,15.035964,ov_ristorante_albergo_milano_40.9133_15.0360,Ristorante Albergo Milano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/ristorante_albergo_milano_40.9133_15.0360.json,custom
+40.932389,15.011217,ov_bar_fred_di_gallo_gino_40.9324_15.0112,Bar Fred Di Gallo Gino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/bar_fred_di_gallo_gino_40.9324_15.0112.json,custom
+40.897212,15.037361,ov_korovapub_bar_40.8972_15.0374,Korovapub Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/korovapub_bar_40.8972_15.0374.json,custom
+40.913348,15.036132,ov_cresta_vincenzo_40.9133_15.0361,Cresta Vincenzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/cresta_vincenzo_40.9133_15.0361.json,custom
+41.018766,15.070031,ov_bar_b_b_pietra_spaccata_41.0188_15.0700,Bar B&B Pietra Spaccata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/bar_bb_pietra_spaccata_41.0188_15.0700.json,custom
+40.931110,15.040200,ov_yes_we_dance_di_fabrizio_formica_40.9311_15.0402,YES WE DANCE di Fabrizio Formica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemarano/pages/yes_we_dance_di_fabrizio_formica_40.9311_15.0402.json,custom

@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sternatia -- restaurants
-40.234878,18.243487,osm_masseria_chicco_rizzo_40.2349_18.2435,Masseria Chicco Rizzo,ristorante,ristorante
-40.217747,18.238648,ov_sapori_nosci_40.2177_18.2386,Sapori Nosci,RESTAURANT,ristorante
-40.219513,18.225819,ov_li_caloveri_40.2195_18.2258,Li Caloveri,RESTAURANT,ristorante
-40.222001,18.240293,ov_agriturismo_mirodia_40.2220_18.2403,Agriturismo Mirodia,RESTAURANT,ristorante
-40.222453,18.226547,ov_la_porta_antica_40.2225_18.2265,La Porta Antica,RESTAURANT,ristorante
-40.245242,18.224553,ov_mille_e_una_notte_ricevimenti_40.2452_18.2246,Mille e Una Notte Ricevimenti,RESTAURANT,ristorante
+40.217747,18.238648,ov_sapori_nosci_40.2177_18.2386,Sapori Nosci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/sapori_nosci_40.2177_18.2386.json,custom
+40.219513,18.225819,ov_li_caloveri_40.2195_18.2258,Li Caloveri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/li_caloveri_40.2195_18.2258.json,custom
+40.222001,18.240293,ov_agriturismo_mirodia_40.2220_18.2403,Agriturismo Mirodia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/agriturismo_mirodia_40.2220_18.2403.json,custom
+40.222453,18.226547,ov_la_porta_antica_40.2225_18.2265,La Porta Antica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/la_porta_antica_40.2225_18.2265.json,custom
+40.245242,18.224553,ov_mille_e_una_notte_ricevimenti_40.2452_18.2246,Mille e Una Notte Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/mille_e_una_notte_ricevimenti_40.2452_18.2246.json,custom
+40.234878,18.243487,osm_masseria_chicco_rizzo_40.2349_18.2435,Masseria Chicco Rizzo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sternatia/pages/masseria_chicco_rizzo_40.2349_18.2435.json,custom

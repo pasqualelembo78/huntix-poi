@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sanarica -- restaurants
-40.087858,18.341648,ov_stellarena_40.0879_18.3416,StellaRena,RESTAURANT,ristorante
-40.088170,18.348580,ov_sfex___salento_food_experience_40.0882_18.3486,SFex - Salento Food Experience,RESTAURANT,ristorante
+40.087858,18.341648,ov_stellarena_40.0879_18.3416,StellaRena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanarica/pages/stellarena_40.0879_18.3416.json,custom
+40.088170,18.348580,ov_sfex___salento_food_experience_40.0882_18.3486,SFex - Salento Food Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanarica/pages/sfex_-_salento_food_experience_40.0882_18.3486.json,custom

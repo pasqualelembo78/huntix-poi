@@ -1,37 +1,37 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Taurisano -- Tutti
-39.960916,18.216668,ov_don_calogero_39.9609_18.2167,Don Calogero,RESTAURANT,ristorante
-39.962127,18.215333,ov_da_dada_39.9621_18.2153,Da Dada,RESTAURANT,ristorante
-39.960876,18.206523,ov_the_windsor_taurisano_39.9609_18.2065,The Windsor Taurisano,RESTAURANT,ristorante
-39.957707,18.209371,ov_la_ragnatela_39.9577_18.2094,La Ragnatela,RESTAURANT,ristorante
-39.957442,18.210211,ov_mangiamo_qualita_39.9574_18.2102,Mangiamo Qualita,RESTAURANT,ristorante
-39.957455,18.213519,ov_il_melograno_39.9575_18.2135,Il Melograno,RESTAURANT,ristorante
-39.958156,18.217187,ov_caroli_food_39.9582_18.2172,Caroli Food,RESTAURANT,ristorante
-39.959182,18.213540,ov_31_maggio_39.9592_18.2135,31 Maggio,RESTAURANT,ristorante
-39.955911,18.212896,ov_dolciumi_puzzello_39.9559_18.2129,Dolciumi Puzzello,RESTAURANT,ristorante
-39.955496,18.221045,ov_capricci_di_pizza_39.9555_18.2210,Capricci di Pizza,RESTAURANT,ristorante
-39.954932,18.216490,ov_lu_spilu_39.9549_18.2165,Lu Spilu,RESTAURANT,ristorante
-39.952552,18.216250,ov_fantasia_dei_sapori_39.9526_18.2163,Fantasia dei Sapori,RESTAURANT,ristorante
-39.956567,18.207849,ov_mareientu_ristorante_39.9566_18.2078,Mareientu Ristorante,RESTAURANT,ristorante
-39.964591,18.207356,ov_fuel_bar_caffetteria_39.9646_18.2074,Fuel Bar Caffetteria,RESTAURANT,bar_cafe
-39.961399,18.235674,ov_le_gourmand_basile_39.9614_18.2357,Le Gourmand Basile,RESTAURANT,bar_cafe
-39.960170,18.213671,ov_caf__universo_39.9602_18.2137,Café Universo,RESTAURANT,bar_cafe
-39.957950,18.210230,ov_danesi_caff__salento___conc_carlino_39.9579_18.2102,Danesi Caffè Salento - Conc.Carlino,RESTAURANT,bar_cafe
-39.957480,18.212380,ov_da_claudio_39.9575_18.2124,Da Claudio,RESTAURANT,bar_cafe
-39.957740,18.213005,ov_larry_39.9577_18.2130,Larry,RESTAURANT,bar_cafe
-39.957680,18.212890,ov_c_c_caff__in_cialde_e_capsule_39.9577_18.2129,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe
-39.958144,18.217028,ov_di_vino_enoteca_vino_sfuso_39.9581_18.2170,Di Vino Enoteca Vino Sfuso,RESTAURANT,bar_cafe
-39.958738,18.212603,ov_maxima_39.9587_18.2126,Maxima,RESTAURANT,bar_cafe
-39.956502,18.218256,ov_kafka_39.9565_18.2183,Kafka,RESTAURANT,bar_cafe
-39.956250,18.214118,ov_caffe_italia_39.9562_18.2141,Caffe Italia,RESTAURANT,bar_cafe
-39.953030,18.213184,ov_periferia_39.9530_18.2132,Periferia,RESTAURANT,bar_cafe
-39.953621,18.209680,ov_taki_aperitif_caf__39.9536_18.2097,Taki Aperitif Café,RESTAURANT,bar_cafe
-39.951668,18.202817,ov_parmente_on_the_road_39.9517_18.2028,Parmente on the Road,RESTAURANT,bar_cafe
-39.956720,18.211173,ov_euphoria_cocktail_bar_39.9567_18.2112,Euphoria Cocktail Bar,RESTAURANT,bar_cafe
-39.956782,18.211219,ov_le_parmente_taurisano_39.9568_18.2112,Le Parmente Taurisano,RESTAURANT,bar_cafe
-39.950307,18.217800,ov_la_siesta_disco_bar_39.9503_18.2178,La Siesta Disco Bar,RESTAURANT,bar_cafe
-39.950984,18.217460,ov_mini_bar_taurisano_39.9510_18.2175,Mini Bar Taurisano,RESTAURANT,bar_cafe
-39.963129,18.214541,osm_bar_pasticceria_pollara_39.9631_18.2145,Bar Pasticceria Pollara,bar_cafe,bar_cafe
-39.956010,18.208247,ov_palestra_extragym_marathon_asd_39.9560_18.2082,Palestra Extragym Marathon asd,GYM,palestra
-39.950669,18.219190,ov_asd_be_fit_39.9507_18.2192,Asd Be Fit,GYM,palestra
-39.947010,18.219190,ov_accademia_del_sud_39.9470_18.2192,Accademia del Sud,GYM,palestra
+39.960916,18.216668,ov_don_calogero_39.9609_18.2167,Don Calogero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/don_calogero_39.9609_18.2167.json,custom
+39.962127,18.215333,ov_da_dada_39.9621_18.2153,Da Dada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/da_dada_39.9621_18.2153.json,custom
+39.960876,18.206523,ov_the_windsor_taurisano_39.9609_18.2065,The Windsor Taurisano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/the_windsor_taurisano_39.9609_18.2065.json,custom
+39.957707,18.209371,ov_la_ragnatela_39.9577_18.2094,La Ragnatela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/la_ragnatela_39.9577_18.2094.json,custom
+39.957442,18.210211,ov_mangiamo_qualita_39.9574_18.2102,Mangiamo Qualita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/mangiamo_qualita_39.9574_18.2102.json,custom
+39.957455,18.213519,ov_il_melograno_39.9575_18.2135,Il Melograno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/il_melograno_39.9575_18.2135.json,custom
+39.958156,18.217187,ov_caroli_food_39.9582_18.2172,Caroli Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/caroli_food_39.9582_18.2172.json,custom
+39.959182,18.213540,ov_31_maggio_39.9592_18.2135,31 Maggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/31_maggio_39.9592_18.2135.json,custom
+39.955911,18.212896,ov_dolciumi_puzzello_39.9559_18.2129,Dolciumi Puzzello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/dolciumi_puzzello_39.9559_18.2129.json,custom
+39.955496,18.221045,ov_capricci_di_pizza_39.9555_18.2210,Capricci di Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/capricci_di_pizza_39.9555_18.2210.json,custom
+39.954932,18.216490,ov_lu_spilu_39.9549_18.2165,Lu Spilu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/lu_spilu_39.9549_18.2165.json,custom
+39.952552,18.216250,ov_fantasia_dei_sapori_39.9526_18.2163,Fantasia dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/fantasia_dei_sapori_39.9526_18.2163.json,custom
+39.956567,18.207849,ov_mareientu_ristorante_39.9566_18.2078,Mareientu Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/mareientu_ristorante_39.9566_18.2078.json,custom
+39.964591,18.207356,ov_fuel_bar_caffetteria_39.9646_18.2074,Fuel Bar Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/fuel_bar_caffetteria_39.9646_18.2074.json,custom
+39.961399,18.235674,ov_le_gourmand_basile_39.9614_18.2357,Le Gourmand Basile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/le_gourmand_basile_39.9614_18.2357.json,custom
+39.960170,18.213671,ov_caf__universo_39.9602_18.2137,Café Universo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/caf_universo_39.9602_18.2137.json,custom
+39.957950,18.210230,ov_danesi_caff__salento___conc_carlino_39.9579_18.2102,Danesi Caffè Salento - Conc.Carlino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/danesi_caff_salento_-_conccarlino_39.9579_18.2102.json,custom
+39.957480,18.212380,ov_da_claudio_39.9575_18.2124,Da Claudio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/da_claudio_39.9575_18.2124.json,custom
+39.957740,18.213005,ov_larry_39.9577_18.2130,Larry,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/larry_39.9577_18.2130.json,custom
+39.957680,18.212890,ov_c_c_caff__in_cialde_e_capsule_39.9577_18.2129,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/cc_caff_in_cialde_e_capsule_39.9577_18.2129.json,custom
+39.958144,18.217028,ov_di_vino_enoteca_vino_sfuso_39.9581_18.2170,Di Vino Enoteca Vino Sfuso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/di_vino_enoteca_vino_sfuso_39.9581_18.2170.json,custom
+39.958738,18.212603,ov_maxima_39.9587_18.2126,Maxima,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/maxima_39.9587_18.2126.json,custom
+39.956502,18.218256,ov_kafka_39.9565_18.2183,Kafka,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/kafka_39.9565_18.2183.json,custom
+39.956250,18.214118,ov_caffe_italia_39.9562_18.2141,Caffe Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/caffe_italia_39.9562_18.2141.json,custom
+39.953030,18.213184,ov_periferia_39.9530_18.2132,Periferia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/periferia_39.9530_18.2132.json,custom
+39.953621,18.209680,ov_taki_aperitif_caf__39.9536_18.2097,Taki Aperitif Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/taki_aperitif_caf_39.9536_18.2097.json,custom
+39.951668,18.202817,ov_parmente_on_the_road_39.9517_18.2028,Parmente on the Road,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/parmente_on_the_road_39.9517_18.2028.json,custom
+39.956720,18.211173,ov_euphoria_cocktail_bar_39.9567_18.2112,Euphoria Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/euphoria_cocktail_bar_39.9567_18.2112.json,custom
+39.956782,18.211219,ov_le_parmente_taurisano_39.9568_18.2112,Le Parmente Taurisano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/le_parmente_taurisano_39.9568_18.2112.json,custom
+39.950307,18.217800,ov_la_siesta_disco_bar_39.9503_18.2178,La Siesta Disco Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/la_siesta_disco_bar_39.9503_18.2178.json,custom
+39.950984,18.217460,ov_mini_bar_taurisano_39.9510_18.2175,Mini Bar Taurisano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/mini_bar_taurisano_39.9510_18.2175.json,custom
+39.963129,18.214541,osm_bar_pasticceria_pollara_39.9631_18.2145,Bar Pasticceria Pollara,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/bar_pasticceria_pollara_39.9631_18.2145.json,custom
+39.956010,18.208247,ov_palestra_extragym_marathon_asd_39.9560_18.2082,Palestra Extragym Marathon asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/palestra_extragym_marathon_asd_39.9560_18.2082.json,custom
+39.950669,18.219190,ov_asd_be_fit_39.9507_18.2192,Asd Be Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/asd_be_fit_39.9507_18.2192.json,custom
+39.947010,18.219190,ov_accademia_del_sud_39.9470_18.2192,Accademia del Sud,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taurisano/pages/accademia_del_sud_39.9470_18.2192.json,custom

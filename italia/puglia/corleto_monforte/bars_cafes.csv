@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corleto_monforte -- bars_cafes
-40.437342,15.380789,ov_bar_90_minuto_40.4373_15.3808,Bar 90 Minuto,RESTAURANT,bar_cafe
-40.436823,15.381423,ov_bar_young_pub_40.4368_15.3814,Bar Young Pub,RESTAURANT,bar_cafe
-40.436600,15.381340,ov_the_young_pub_40.4366_15.3813,The young pub,RESTAURANT,bar_cafe
-40.434094,15.383015,ov_belmont_saloon_greco_antonio_40.4341_15.3830,Belmont Saloon Greco Antonio,RESTAURANT,bar_cafe
+40.437342,15.380789,ov_bar_90_minuto_40.4373_15.3808,Bar 90 Minuto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corleto_monforte/pages/bar_90_minuto_40.4373_15.3808.json,custom
+40.436823,15.381423,ov_bar_young_pub_40.4368_15.3814,Bar Young Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corleto_monforte/pages/bar_young_pub_40.4368_15.3814.json,custom
+40.436600,15.381340,ov_the_young_pub_40.4366_15.3813,The young pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corleto_monforte/pages/the_young_pub_40.4366_15.3813.json,custom
+40.434094,15.383015,ov_belmont_saloon_greco_antonio_40.4341_15.3830,Belmont Saloon Greco Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corleto_monforte/pages/belmont_saloon_greco_antonio_40.4341_15.3830.json,custom

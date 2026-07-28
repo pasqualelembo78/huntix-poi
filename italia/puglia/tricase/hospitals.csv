@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tricase -- hospitals
-39.938738,18.355772,ov_centro_diurno_tricase_giovanni_paolo_ii_39.9387_18.3558,Centro Diurno Tricase Giovanni Paolo II,HOSPITAL,hospital
-39.936304,18.356395,ov_ospedale_panico_tricase_39.9363_18.3564,Ospedale panico tricase,HOSPITAL,hospital
-39.933560,18.347230,ov_dr__francesco_cito_39.9336_18.3472,Dr. Francesco Cito,HOSPITAL,hospital
+39.938738,18.355772,ov_centro_diurno_tricase_giovanni_paolo_ii_39.9387_18.3558,Centro Diurno Tricase Giovanni Paolo II,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/centro_diurno_tricase_giovanni_paolo_ii_39.9387_18.3558.json,custom
+39.936304,18.356395,ov_ospedale_panico_tricase_39.9363_18.3564,Ospedale panico tricase,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ospedale_panico_tricase_39.9363_18.3564.json,custom
+39.933560,18.347230,ov_dr__francesco_cito_39.9336_18.3472,Dr. Francesco Cito,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/dr_francesco_cito_39.9336_18.3472.json,custom

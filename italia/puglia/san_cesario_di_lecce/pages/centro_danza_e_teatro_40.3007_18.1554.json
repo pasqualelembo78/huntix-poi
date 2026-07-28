@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "Centro Danza e Teatro",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://centro-danza-e-teatro.webnode.it/?_ga=2.122994507.133280317.1688728303-1661660558.1686998118&_gl=1%2A8kd2pn%2A_ga%2AMTY2MTY2MDU1OC4xNjg2OTk4MTE4%2A_ga_YSX1HV0KT8%2AMTY4ODcyODMwMy4yLjEuMTY4ODcyODMxMy4wLjAuMA.."
+    }
+  ]
+}

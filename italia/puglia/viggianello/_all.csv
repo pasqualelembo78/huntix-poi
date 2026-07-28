@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Viggianello -- Tutti
-39.986058,16.171497,ov_torre_vecchia_39.9861_16.1715,Torre Vecchia,RESTAURANT,ristorante
-40.031463,16.118067,ov_agriturismo_bosco_principe_40.0315_16.1181,Agriturismo Bosco Principe,RESTAURANT,ristorante
-40.016747,16.117440,ov_ristorante_pizzeria_oasi_40.0167_16.1174,Ristorante Pizzeria Oasi,RESTAURANT,ristorante
-40.023565,16.120049,ov_il_ruscello_40.0236_16.1200,Il Ruscello,RESTAURANT,ristorante
-40.006034,16.105397,ov_il_ristoro_del_carbonaio_40.0060_16.1054,Il Ristoro del Carbonaio,RESTAURANT,ristorante
-39.993375,16.063025,ov_la_lumera_39.9934_16.0630,La Lumera,RESTAURANT,ristorante
-39.972814,16.085672,ov_ristorante_oro_verde_39.9728_16.0857,Ristorante Oro Verde,RESTAURANT,ristorante
-39.973258,16.084864,ov_oro_verde_39.9733_16.0849,ORO VERDE,RESTAURANT,ristorante
-39.973507,16.084795,ov_la_dimora_antica_restaurant_39.9735_16.0848,La Dimora Antica Restaurant,RESTAURANT,ristorante
-39.953068,16.072762,ov_agriturismo_masseria_campolerose_39.9531_16.0728,Agriturismo Masseria Campolerose,RESTAURANT,ristorante
-39.940594,16.147654,ov_bar_ristoro_la_baita_39.9406_16.1477,Bar Ristoro La Baita,RESTAURANT,ristorante
-39.957145,16.139800,ov_bar_piano_ruggio_39.9571_16.1398,Bar Piano Ruggio,RESTAURANT,bar_cafe
-39.970282,16.080002,ov_happyhour_viggianello_39.9703_16.0800,HappyHour Viggianello,RESTAURANT,bar_cafe
-39.972618,16.087083,ov_bar_del_centro___da_peppone_39.9726_16.0871,BAR DEL CENTRO...da Peppone,RESTAURANT,bar_cafe
-39.972652,16.084080,ov_la_tana_del_pollino_39.9727_16.0841,La Tana Del Pollino,RESTAURANT,bar_cafe
-39.947260,16.069310,ov_acqua_trekking_39.9473_16.0693,Acqua Trekking,GYM,palestra
+39.986058,16.171497,ov_torre_vecchia_39.9861_16.1715,Torre Vecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/torre_vecchia_39.9861_16.1715.json,custom
+40.031463,16.118067,ov_agriturismo_bosco_principe_40.0315_16.1181,Agriturismo Bosco Principe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/agriturismo_bosco_principe_40.0315_16.1181.json,custom
+40.016747,16.117440,ov_ristorante_pizzeria_oasi_40.0167_16.1174,Ristorante Pizzeria Oasi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/ristorante_pizzeria_oasi_40.0167_16.1174.json,custom
+40.023565,16.120049,ov_il_ruscello_40.0236_16.1200,Il Ruscello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/il_ruscello_40.0236_16.1200.json,custom
+40.006034,16.105397,ov_il_ristoro_del_carbonaio_40.0060_16.1054,Il Ristoro del Carbonaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/il_ristoro_del_carbonaio_40.0060_16.1054.json,custom
+39.993375,16.063025,ov_la_lumera_39.9934_16.0630,La Lumera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/la_lumera_39.9934_16.0630.json,custom
+39.972814,16.085672,ov_ristorante_oro_verde_39.9728_16.0857,Ristorante Oro Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/ristorante_oro_verde_39.9728_16.0857.json,custom
+39.973258,16.084864,ov_oro_verde_39.9733_16.0849,ORO VERDE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/oro_verde_39.9733_16.0849.json,custom
+39.973507,16.084795,ov_la_dimora_antica_restaurant_39.9735_16.0848,La Dimora Antica Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/la_dimora_antica_restaurant_39.9735_16.0848.json,custom
+39.953068,16.072762,ov_agriturismo_masseria_campolerose_39.9531_16.0728,Agriturismo Masseria Campolerose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/agriturismo_masseria_campolerose_39.9531_16.0728.json,custom
+39.940594,16.147654,ov_bar_ristoro_la_baita_39.9406_16.1477,Bar Ristoro La Baita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/bar_ristoro_la_baita_39.9406_16.1477.json,custom
+39.957145,16.139800,ov_bar_piano_ruggio_39.9571_16.1398,Bar Piano Ruggio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/bar_piano_ruggio_39.9571_16.1398.json,custom
+39.970282,16.080002,ov_happyhour_viggianello_39.9703_16.0800,HappyHour Viggianello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/happyhour_viggianello_39.9703_16.0800.json,custom
+39.972618,16.087083,ov_bar_del_centro___da_peppone_39.9726_16.0871,BAR DEL CENTRO...da Peppone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/bar_del_centroda_peppone_39.9726_16.0871.json,custom
+39.972652,16.084080,ov_la_tana_del_pollino_39.9727_16.0841,La Tana Del Pollino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/la_tana_del_pollino_39.9727_16.0841.json,custom
+39.947260,16.069310,ov_acqua_trekking_39.9473_16.0693,Acqua Trekking,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/viggianello/pages/acqua_trekking_39.9473_16.0693.json,custom

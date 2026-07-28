@@ -1,80 +1,71 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tricase -- restaurants
-39.930921,18.361156,osm_pizzeria_borgo_antico_39.9309_18.3612,Pizzeria Borgo Antico,ristorante,ristorante
-39.932758,18.353408,osm_el_paso_39.9328_18.3534,El Paso,ristorante,ristorante
-39.929953,18.364105,osm_la_cistareddha_39.9300_18.3641,La Cistareddha,ristorante,ristorante
-39.930615,18.360789,osm_locanda_del_levante_39.9306_18.3608,Locanda del Levante,ristorante,ristorante
-39.930595,18.359278,osm_le_strittule_39.9306_18.3593,Le Strittule,ristorante,ristorante
-39.932055,18.353392,osm_ristorante_119_39.9321_18.3534,Ristorante 119,ristorante,ristorante
-39.933467,18.320365,osm_trattoria_iolanda_39.9335_18.3204,Trattoria Iolanda,ristorante,ristorante
-39.933584,18.395497,osm_anime_sante_ittiturismo_39.9336_18.3955,Anime Sante Ittiturismo,ristorante,ristorante
-39.932198,18.395929,osm_porto_vecchio_39.9322_18.3959,Porto Vecchio,ristorante,ristorante
-39.931259,18.361521,osm_creperia_movida_39.9313_18.3615,Creperia Movida,ristorante,ristorante
-39.928641,18.359540,osm_la_prima_39.9286_18.3595,La Prima,ristorante,ristorante
-39.930135,18.356197,osm_pizza_roma_71_39.9301_18.3562,Pizza Roma 71,ristorante,ristorante
-39.933254,18.359824,osm_indino_gastronomia_39.9333_18.3598,Indino Gastronomia,ristorante,ristorante
-39.932039,18.360435,osm_lem__cozze___gin_39.9320_18.3604,Lemì Cozze & Gin,ristorante,ristorante
-39.931867,18.356942,osm_la_puccia_loca_39.9319_18.3569,La Puccia Loca,ristorante,ristorante
-39.932192,18.356650,osm_kashmir_kebab_39.9322_18.3566,Kashmir Kebab,ristorante,ristorante
-39.928914,18.358230,osm_pizzeria_pinocchio_39.9289_18.3582,Pizzeria Pinocchio,ristorante,ristorante
-39.931214,18.361501,osm_gallone_39.9312_18.3615,Gallone,ristorante,ristorante
-39.910457,18.392345,osm_jamao_39.9105_18.3923,Jamao,ristorante,ristorante
-39.934682,18.396016,osm_a_casa_mia_39.9347_18.3960,A casa mia,ristorante,ristorante
-39.930060,18.394294,osm_taverna_del_porto_39.9301_18.3943,Taverna del Porto,ristorante,ristorante
-39.937503,18.321264,osm_la_passeggiata_39.9375_18.3213,La Passeggiata,ristorante,ristorante
-39.930623,18.323798,osm_agriturismo_santa_croce_39.9306_18.3238,Agriturismo Santa Croce,ristorante,ristorante
-39.934402,18.395970,ov_ristorante_a_casa_mia_39.9344_18.3960,Ristorante A Casa Mia,RESTAURANT,ristorante
-39.935385,18.391751,ov_ristorante_bellavista_39.9354_18.3918,Ristorante Bellavista,RESTAURANT,ristorante
-39.941234,18.367757,ov_masseria_aia_nova_39.9412_18.3678,Masseria Aia Nova,RESTAURANT,ristorante
-39.937967,18.320374,ov_il_gambero_39.9380_18.3204,Il Gambero,RESTAURANT,ristorante
-39.935914,18.353189,ov_gusto_e_tradizione_39.9359_18.3532,Gusto e Tradizione,RESTAURANT,ristorante
-39.934511,18.350000,ov_limanda_39.9345_18.3500,Limanda,RESTAURANT,ristorante
-39.934795,18.350169,ov_castello_di_tutino_39.9348_18.3502,Castello di Tutino,RESTAURANT,ristorante
-39.935396,18.354498,ov_spicchi_d_arte_39.9354_18.3545,Spicchi d'Arte,RESTAURANT,ristorante
-39.934863,18.355175,ov_la_dolce_vita_39.9349_18.3552,La Dolce Vita,RESTAURANT,ristorante
-39.934238,18.353249,ov_i_fornelli_di_teresa_39.9342_18.3532,I Fornelli di Teresa,RESTAURANT,ristorante
-39.933223,18.356055,ov_dolamaro_39.9332_18.3561,DOLAMARO,RESTAURANT,ristorante
-39.932767,18.353270,ov_pizzeria_el_paso_39.9328_18.3533,Pizzeria El Paso,RESTAURANT,ristorante
-39.932167,18.353476,ov_119_restaurant_and_wine_bar_39.9322_18.3535,119 Restaurant and Wine Bar,RESTAURANT,ristorante
-39.932156,18.356678,ov_kashmir_kebab_di_afzal_39.9322_18.3567,Kashmir Kebab di Afzal,RESTAURANT,ristorante
-39.931151,18.356908,ov_overline_food___gin_inspiration_39.9312_18.3569,Overline Food & Gin Inspiration,RESTAURANT,ristorante
-39.930763,18.357478,ov_clandestino_13_39.9308_18.3575,Clandestino 13,RESTAURANT,ristorante
-39.930690,18.348809,ov_forno_a_legna_de_filippis_39.9307_18.3488,FORNO A LEGNA De filippis,RESTAURANT,ristorante
-39.930238,18.350615,ov_de_carbu_39.9302_18.3506,de carbu,RESTAURANT,ristorante
-39.930192,18.352372,ov_a__verace_pizzeria_napoletana_39.9302_18.3524,A' Verace Pizzeria Napoletana,RESTAURANT,ristorante
-39.930581,18.358241,ov_wonderoll_39.9306_18.3582,Wonderoll,RESTAURANT,ristorante
-39.928859,18.358313,ov_pizzeria_pinocchio_39.9289_18.3583,Pizzeria Pinocchio,RESTAURANT,ristorante
-39.930642,18.323754,ov_agriturismo_santa_croce_39.9306_18.3238,Agriturismo Santa Croce,RESTAURANT,ristorante
-39.933469,18.320449,ov_trattoria_iolanda_39.9335_18.3204,Trattoria Iolanda,RESTAURANT,ristorante
-39.933641,18.319369,ov_trattoria_il_castello_di_momo_39.9336_18.3194,Trattoria il castello di Momo,RESTAURANT,ristorante
-39.927689,18.358577,ov_pizzeria_da_luigi_39.9277_18.3586,Pizzeria Da Luigi,RESTAURANT,ristorante
-39.926656,18.351662,ov_sakura_39.9267_18.3517,Sakura,RESTAURANT,ristorante
-39.926917,18.353401,ov_made_in_sud_pizzeria_trattoria_39.9269_18.3534,Made in Sud Pizzeria Trattoria,RESTAURANT,ristorante
-39.926258,18.357489,ov_pescheria_nobilis_da_rosario_39.9263_18.3575,Pescheria Nobilis da Rosario,RESTAURANT,ristorante
-39.923113,18.362428,ov_pizzeria_lu_salentu_39.9231_18.3624,Pizzeria Lu Salentu,RESTAURANT,ristorante
-39.924211,18.359119,ov_da_umberto_tricase_39.9242_18.3591,Da Umberto Tricase,RESTAURANT,ristorante
-39.925381,18.389643,ov_tricase_due_porto_39.9254_18.3896,Tricase Due Porto,RESTAURANT,ristorante
-39.926414,18.359237,ov_dinastya_sushi_di_tricase_39.9264_18.3592,Dinastya sushi di Tricase,RESTAURANT,ristorante
-39.928108,18.361979,ov_triticum_39.9281_18.3620,Triticum,RESTAURANT,ristorante
-39.928607,18.359585,ov_pizzeria_la_prima_39.9286_18.3596,Pizzeria la Prima,RESTAURANT,ristorante
-39.929997,18.364111,ov_la_cistareddha_39.9300_18.3641,La Cistareddha,RESTAURANT,ristorante
-39.930529,18.360773,ov_locanda_del_levante_39.9305_18.3608,Locanda Del Levante,RESTAURANT,ristorante
-39.930622,18.359269,ov_le_strittule_39.9306_18.3593,Le Strittule,RESTAURANT,ristorante
-39.930916,18.361154,ov_pizzeria_borgo_antico_39.9309_18.3612,Pizzeria Borgo Antico,RESTAURANT,ristorante
-39.931289,18.361551,ov_creperia_movida_39.9313_18.3616,Creperia Movida,RESTAURANT,ristorante
-39.931173,18.361431,ov_gallone_real_pub___tricase_39.9312_18.3614,Gallone Real Pub - Tricase,RESTAURANT,ristorante
-39.931041,18.360480,ov_bonasciana_marina_serra_39.9310_18.3605,Bonasciana Marina Serra,RESTAURANT,ristorante
-39.931842,18.359193,ov_chiostro_degli_scolopi_39.9318_18.3592,Chiostro degli Scolopi,RESTAURANT,ristorante
-39.931881,18.359869,ov_vesoma___pizzeria___local_cuisine_39.9319_18.3599,Vesoma - Pizzeria & Local Cuisine,RESTAURANT,ristorante
-39.931852,18.359953,ov_mannaggia_l_osteria___trattoria_e_cantin_39.9319_18.3600,Mannaggia l'Osteria - Trattoria e Cantina,RESTAURANT,ristorante
-39.932181,18.372010,ov_agriturismo_fica_torta_39.9322_18.3720,Agriturismo Fica Torta,RESTAURANT,ristorante
-39.932062,18.365919,ov_donna_maria_39.9321_18.3659,Donna Maria,RESTAURANT,ristorante
-39.932039,18.360435,ov_bar_lem____cozze___gin_39.9320_18.3604,Bar Lemì - Cozze & Gin,RESTAURANT,ristorante
-39.932100,18.359790,ov_lu_trave_39.9321_18.3598,Lu Trave,RESTAURANT,ristorante
-39.933270,18.359807,ov_ristorante_gastronomia_indino_39.9333_18.3598,Ristorante Gastronomia Indino,RESTAURANT,ristorante
-39.933608,18.395526,ov_anime_sante_39.9336_18.3955,Anime Sante,RESTAURANT,ristorante
-39.933811,18.395715,ov_bolina___tricase_porto_39.9338_18.3957,Bolina - Tricase Porto,RESTAURANT,ristorante
-39.934032,18.395952,ov_ristorante_bolina_39.9340_18.3960,Ristorante Bolina,RESTAURANT,ristorante
-39.930074,18.394337,ov_taverna_del_porto_39.9301_18.3943,Taverna del Porto,RESTAURANT,ristorante
-39.916940,18.392100,ov_lupicciu2022_39.9169_18.3921,LuPicciu2022,RESTAURANT,ristorante
-39.909606,18.391680,ov_ristorante_grotta_matrona_39.9096_18.3917,Ristorante Grotta Matrona,RESTAURANT,ristorante
+39.934402,18.395970,ov_ristorante_a_casa_mia_39.9344_18.3960,Ristorante A Casa Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_a_casa_mia_39.9344_18.3960.json,custom
+39.935385,18.391751,ov_ristorante_bellavista_39.9354_18.3918,Ristorante Bellavista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_bellavista_39.9354_18.3918.json,custom
+39.941234,18.367757,ov_masseria_aia_nova_39.9412_18.3678,Masseria Aia Nova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/masseria_aia_nova_39.9412_18.3678.json,custom
+39.937967,18.320374,ov_il_gambero_39.9380_18.3204,Il Gambero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/il_gambero_39.9380_18.3204.json,custom
+39.935914,18.353189,ov_gusto_e_tradizione_39.9359_18.3532,Gusto e Tradizione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/gusto_e_tradizione_39.9359_18.3532.json,custom
+39.934511,18.350000,ov_limanda_39.9345_18.3500,Limanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/limanda_39.9345_18.3500.json,custom
+39.934795,18.350169,ov_castello_di_tutino_39.9348_18.3502,Castello di Tutino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/castello_di_tutino_39.9348_18.3502.json,custom
+39.935396,18.354498,ov_spicchi_d_arte_39.9354_18.3545,Spicchi d'Arte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/spicchi_darte_39.9354_18.3545.json,custom
+39.934863,18.355175,ov_la_dolce_vita_39.9349_18.3552,La Dolce Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/la_dolce_vita_39.9349_18.3552.json,custom
+39.934238,18.353249,ov_i_fornelli_di_teresa_39.9342_18.3532,I Fornelli di Teresa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/i_fornelli_di_teresa_39.9342_18.3532.json,custom
+39.933223,18.356055,ov_dolamaro_39.9332_18.3561,DOLAMARO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/dolamaro_39.9332_18.3561.json,custom
+39.932767,18.353270,ov_pizzeria_el_paso_39.9328_18.3533,Pizzeria El Paso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_el_paso_39.9328_18.3533.json,custom
+39.932167,18.353476,ov_119_restaurant_and_wine_bar_39.9322_18.3535,119 Restaurant and Wine Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/119_restaurant_and_wine_bar_39.9322_18.3535.json,custom
+39.932156,18.356678,ov_kashmir_kebab_di_afzal_39.9322_18.3567,Kashmir Kebab di Afzal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/kashmir_kebab_di_afzal_39.9322_18.3567.json,custom
+39.931151,18.356908,ov_overline_food___gin_inspiration_39.9312_18.3569,Overline Food & Gin Inspiration,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/overline_food_gin_inspiration_39.9312_18.3569.json,custom
+39.930763,18.357478,ov_clandestino_13_39.9308_18.3575,Clandestino 13,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/clandestino_13_39.9308_18.3575.json,custom
+39.930690,18.348809,ov_forno_a_legna_de_filippis_39.9307_18.3488,FORNO A LEGNA De filippis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/forno_a_legna_de_filippis_39.9307_18.3488.json,custom
+39.930238,18.350615,ov_de_carbu_39.9302_18.3506,de carbu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/de_carbu_39.9302_18.3506.json,custom
+39.930192,18.352372,ov_a__verace_pizzeria_napoletana_39.9302_18.3524,A' Verace Pizzeria Napoletana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/a_verace_pizzeria_napoletana_39.9302_18.3524.json,custom
+39.930581,18.358241,ov_wonderoll_39.9306_18.3582,Wonderoll,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/wonderoll_39.9306_18.3582.json,custom
+39.928859,18.358313,ov_pizzeria_pinocchio_39.9289_18.3583,Pizzeria Pinocchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_pinocchio_39.9289_18.3583.json,custom
+39.930642,18.323754,ov_agriturismo_santa_croce_39.9306_18.3238,Agriturismo Santa Croce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/agriturismo_santa_croce_39.9306_18.3238.json,custom
+39.933469,18.320449,ov_trattoria_iolanda_39.9335_18.3204,Trattoria Iolanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/trattoria_iolanda_39.9335_18.3204.json,custom
+39.933641,18.319369,ov_trattoria_il_castello_di_momo_39.9336_18.3194,Trattoria il castello di Momo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/trattoria_il_castello_di_momo_39.9336_18.3194.json,custom
+39.927689,18.358577,ov_pizzeria_da_luigi_39.9277_18.3586,Pizzeria Da Luigi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_da_luigi_39.9277_18.3586.json,custom
+39.926656,18.351662,ov_sakura_39.9267_18.3517,Sakura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/sakura_39.9267_18.3517.json,custom
+39.926917,18.353401,ov_made_in_sud_pizzeria_trattoria_39.9269_18.3534,Made in Sud Pizzeria Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/made_in_sud_pizzeria_trattoria_39.9269_18.3534.json,custom
+39.926258,18.357489,ov_pescheria_nobilis_da_rosario_39.9263_18.3575,Pescheria Nobilis da Rosario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pescheria_nobilis_da_rosario_39.9263_18.3575.json,custom
+39.923113,18.362428,ov_pizzeria_lu_salentu_39.9231_18.3624,Pizzeria Lu Salentu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_lu_salentu_39.9231_18.3624.json,custom
+39.924211,18.359119,ov_da_umberto_tricase_39.9242_18.3591,Da Umberto Tricase,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/da_umberto_tricase_39.9242_18.3591.json,custom
+39.925381,18.389643,ov_tricase_due_porto_39.9254_18.3896,Tricase Due Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/tricase_due_porto_39.9254_18.3896.json,custom
+39.926414,18.359237,ov_dinastya_sushi_di_tricase_39.9264_18.3592,Dinastya sushi di Tricase,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/dinastya_sushi_di_tricase_39.9264_18.3592.json,custom
+39.928108,18.361979,ov_triticum_39.9281_18.3620,Triticum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/triticum_39.9281_18.3620.json,custom
+39.928607,18.359585,ov_pizzeria_la_prima_39.9286_18.3596,Pizzeria la Prima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_la_prima_39.9286_18.3596.json,custom
+39.929997,18.364111,ov_la_cistareddha_39.9300_18.3641,La Cistareddha,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/la_cistareddha_39.9300_18.3641.json,custom
+39.930529,18.360773,ov_locanda_del_levante_39.9305_18.3608,Locanda Del Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/locanda_del_levante_39.9305_18.3608.json,custom
+39.930622,18.359269,ov_le_strittule_39.9306_18.3593,Le Strittule,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/le_strittule_39.9306_18.3593.json,custom
+39.930916,18.361154,ov_pizzeria_borgo_antico_39.9309_18.3612,Pizzeria Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizzeria_borgo_antico_39.9309_18.3612.json,custom
+39.931289,18.361551,ov_creperia_movida_39.9313_18.3616,Creperia Movida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/creperia_movida_39.9313_18.3616.json,custom
+39.931173,18.361431,ov_gallone_real_pub___tricase_39.9312_18.3614,Gallone Real Pub - Tricase,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/gallone_real_pub_-_tricase_39.9312_18.3614.json,custom
+39.931041,18.360480,ov_bonasciana_marina_serra_39.9310_18.3605,Bonasciana Marina Serra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/bonasciana_marina_serra_39.9310_18.3605.json,custom
+39.931842,18.359193,ov_chiostro_degli_scolopi_39.9318_18.3592,Chiostro degli Scolopi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/chiostro_degli_scolopi_39.9318_18.3592.json,custom
+39.931881,18.359869,ov_vesoma___pizzeria___local_cuisine_39.9319_18.3599,Vesoma - Pizzeria & Local Cuisine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/vesoma_-_pizzeria_local_cuisine_39.9319_18.3599.json,custom
+39.931852,18.359953,ov_mannaggia_l_osteria___trattoria_e_cantin_39.9319_18.3600,Mannaggia l'Osteria - Trattoria e Cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/mannaggia_losteria_-_trattoria_e_cantina_39.9319_18.3600.json,custom
+39.932181,18.372010,ov_agriturismo_fica_torta_39.9322_18.3720,Agriturismo Fica Torta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/agriturismo_fica_torta_39.9322_18.3720.json,custom
+39.932062,18.365919,ov_donna_maria_39.9321_18.3659,Donna Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/donna_maria_39.9321_18.3659.json,custom
+39.932039,18.360435,ov_bar_lem____cozze___gin_39.9320_18.3604,Bar Lemì - Cozze & Gin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/bar_lem_-_cozze_gin_39.9320_18.3604.json,custom
+39.932100,18.359790,ov_lu_trave_39.9321_18.3598,Lu Trave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/lu_trave_39.9321_18.3598.json,custom
+39.933270,18.359807,ov_ristorante_gastronomia_indino_39.9333_18.3598,Ristorante Gastronomia Indino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_gastronomia_indino_39.9333_18.3598.json,custom
+39.933608,18.395526,ov_anime_sante_39.9336_18.3955,Anime Sante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/anime_sante_39.9336_18.3955.json,custom
+39.933811,18.395715,ov_bolina___tricase_porto_39.9338_18.3957,Bolina - Tricase Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/bolina_-_tricase_porto_39.9338_18.3957.json,custom
+39.934032,18.395952,ov_ristorante_bolina_39.9340_18.3960,Ristorante Bolina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_bolina_39.9340_18.3960.json,custom
+39.930074,18.394337,ov_taverna_del_porto_39.9301_18.3943,Taverna del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/taverna_del_porto_39.9301_18.3943.json,custom
+39.916940,18.392100,ov_lupicciu2022_39.9169_18.3921,LuPicciu2022,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/lupicciu2022_39.9169_18.3921.json,custom
+39.909606,18.391680,ov_ristorante_grotta_matrona_39.9096_18.3917,Ristorante Grotta Matrona,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_grotta_matrona_39.9096_18.3917.json,custom
+39.932758,18.353408,osm_el_paso_39.9328_18.3534,El Paso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/el_paso_39.9328_18.3534.json,custom
+39.932055,18.353392,osm_ristorante_119_39.9321_18.3534,Ristorante 119,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/ristorante_119_39.9321_18.3534.json,custom
+39.933584,18.395497,osm_anime_sante_ittiturismo_39.9336_18.3955,Anime Sante Ittiturismo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/anime_sante_ittiturismo_39.9336_18.3955.json,custom
+39.932198,18.395929,osm_porto_vecchio_39.9322_18.3959,Porto Vecchio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/porto_vecchio_39.9322_18.3959.json,custom
+39.928641,18.359540,osm_la_prima_39.9286_18.3595,La Prima,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/la_prima_39.9286_18.3595.json,custom
+39.930135,18.356197,osm_pizza_roma_71_39.9301_18.3562,Pizza Roma 71,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/pizza_roma_71_39.9301_18.3562.json,custom
+39.933254,18.359824,osm_indino_gastronomia_39.9333_18.3598,Indino Gastronomia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/indino_gastronomia_39.9333_18.3598.json,custom
+39.932039,18.360435,osm_lem__cozze___gin_39.9320_18.3604,Lemì Cozze & Gin,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/lem_cozze_gin_39.9320_18.3604.json,custom
+39.931867,18.356942,osm_la_puccia_loca_39.9319_18.3569,La Puccia Loca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/la_puccia_loca_39.9319_18.3569.json,custom
+39.932192,18.356650,osm_kashmir_kebab_39.9322_18.3566,Kashmir Kebab,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/kashmir_kebab_39.9322_18.3566.json,custom
+39.931214,18.361501,osm_gallone_39.9312_18.3615,Gallone,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/gallone_39.9312_18.3615.json,custom
+39.910457,18.392345,osm_jamao_39.9105_18.3923,Jamao,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/jamao_39.9105_18.3923.json,custom
+39.934682,18.396016,osm_a_casa_mia_39.9347_18.3960,A casa mia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/a_casa_mia_39.9347_18.3960.json,custom
+39.937503,18.321264,osm_la_passeggiata_39.9375_18.3213,La Passeggiata,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricase/pages/la_passeggiata_39.9375_18.3213.json,custom

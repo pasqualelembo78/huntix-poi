@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # guagnano -- restaurants
-40.417508,17.965465,ov_outside_lounge_bar_40.4175_17.9655,Outside lounge bar,RESTAURANT,ristorante
-40.399591,17.952915,ov_l_orecchietta_40.3996_17.9529,L'Orecchietta,RESTAURANT,ristorante
-40.400315,17.942935,ov_l_aja_noa_40.4003_17.9429,L'Aja Noa,RESTAURANT,ristorante
-40.400213,17.944244,ov_mordi_e_fuggi_40.4002_17.9442,Mordi e Fuggi,RESTAURANT,ristorante
-40.400729,17.946722,ov_terre_d_incanto_40.4007_17.9467,Terre d'Incanto,RESTAURANT,ristorante
-40.401297,17.943743,ov_doctor_b_40.4013_17.9437,Doctor B,RESTAURANT,ristorante
-40.402032,17.956986,ov_la_favorita_40.4020_17.9570,La Favorita,RESTAURANT,ristorante
+40.417508,17.965465,ov_outside_lounge_bar_40.4175_17.9655,Outside lounge bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/outside_lounge_bar_40.4175_17.9655.json,custom
+40.399591,17.952915,ov_l_orecchietta_40.3996_17.9529,L'Orecchietta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/lorecchietta_40.3996_17.9529.json,custom
+40.400315,17.942935,ov_l_aja_noa_40.4003_17.9429,L'Aja Noa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/laja_noa_40.4003_17.9429.json,custom
+40.400213,17.944244,ov_mordi_e_fuggi_40.4002_17.9442,Mordi e Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/mordi_e_fuggi_40.4002_17.9442.json,custom
+40.400729,17.946722,ov_terre_d_incanto_40.4007_17.9467,Terre d'Incanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/terre_dincanto_40.4007_17.9467.json,custom
+40.401297,17.943743,ov_doctor_b_40.4013_17.9437,Doctor B,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/doctor_b_40.4013_17.9437.json,custom
+40.402032,17.956986,ov_la_favorita_40.4020_17.9570,La Favorita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/guagnano/pages/la_favorita_40.4020_17.9570.json,custom

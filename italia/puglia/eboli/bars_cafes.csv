@@ -1,66 +1,66 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # eboli -- bars_cafes
-40.525927,15.000308,ov_bar_emiliy_40.5259_15.0003,Bar Emiliy,RESTAURANT,bar_cafe
-40.525057,15.000609,ov_bar_riva_40.5251_15.0006,Bar Riva,RESTAURANT,bar_cafe
-40.524515,15.001427,ov_bar_impero_di_donato_domini_40.5245_15.0014,Bar Impero Di Donato Domini,RESTAURANT,bar_cafe
-40.522385,15.003561,ov_festival_snack_bar_40.5224_15.0036,Festival Snack Bar,RESTAURANT,bar_cafe
-40.521761,15.003423,ov_bar_gran_caffe_40.5218_15.0034,Bar Gran Caffe,RESTAURANT,bar_cafe
-40.528983,15.009363,ov_caffetteria_i_gemelli_40.5290_15.0094,Caffetteria i gemelli,RESTAURANT,bar_cafe
-40.530756,15.012137,ov_new_cubalibre_caf__40.5308_15.0121,New cubalibre cafè,RESTAURANT,bar_cafe
-40.596411,15.026945,ov_mocambo_caf__40.5964_15.0269,Mocambo Cafè,RESTAURANT,bar_cafe
-40.593470,15.028138,ov_monte_carmelo_srl_40.5935_15.0281,Monte Carmelo Srl,RESTAURANT,bar_cafe
-40.541040,15.025275,ov_bar_pyper_40.5410_15.0253,BAR PYPER,RESTAURANT,bar_cafe
-40.502350,15.010830,ov_fox_inn_santa_cecilia_40.5023_15.0108,Fox Inn Santa Cecilia,RESTAURANT,bar_cafe
-40.604870,15.055116,ov_bluespirit_40.6049_15.0551,Bluespirit,RESTAURANT,bar_cafe
-40.604253,15.051979,ov_papillon_cafe_40.6043_15.0520,Papillon Cafe,RESTAURANT,bar_cafe
-40.604057,15.048202,ov_bar_jolly_40.6041_15.0482,Bar Jolly,RESTAURANT,bar_cafe
-40.604491,15.048553,ov_bar_willy_caffe_40.6045_15.0486,Bar Willy Caffe,RESTAURANT,bar_cafe
-40.611226,15.052481,ov_obelix_experss_eboli_40.6112_15.0525,Obelix Experss Eboli,RESTAURANT,bar_cafe
-40.611987,15.049144,ov_vinili___blaring_wine_by_rago_40.6120_15.0491,Vinili - Blaring Wine by Rago,RESTAURANT,bar_cafe
-40.614644,15.048472,ov_caffetteria_dello_studente_2_0_40.6146_15.0485,Caffetteria dello Studente 2.0,RESTAURANT,bar_cafe
-40.616500,15.052176,ov_bar_la_terrazza_40.6165_15.0522,Bar La Terrazza,RESTAURANT,bar_cafe
-40.615810,15.054173,ov_caff__del_corso_40.6158_15.0542,Caffè Del Corso,RESTAURANT,bar_cafe
-40.615872,15.054165,ov_new_caf__pigal_40.6159_15.0542,New Cafè Pigal,RESTAURANT,bar_cafe
-40.616288,15.054785,ov_bar_dream_40.6163_15.0548,Bar Dream,RESTAURANT,bar_cafe
-40.616268,15.055340,ov_vero_caffe_40.6163_15.0553,Vero Caffe,RESTAURANT,bar_cafe
-40.616483,15.055949,ov_ilbaretto_40.6165_15.0559,IlBaretto,RESTAURANT,bar_cafe
-40.616460,15.054750,ov_ritz_eboli_40.6165_15.0548,Ritz Eboli,RESTAURANT,bar_cafe
-40.616460,15.054750,ov_bar_struscio_40.6165_15.0548,Bar struscio,RESTAURANT,bar_cafe
-40.618550,15.053580,ov_family_cafe_a_a_40.6185_15.0536,Family cafe A&A,RESTAURANT,bar_cafe
-40.618622,15.053928,ov_aripa_caffe_40.6186_15.0539,Aripa Caffe,RESTAURANT,bar_cafe
-40.618058,15.055917,ov_living_room_40.6181_15.0559,Living Room,RESTAURANT,bar_cafe
-40.618051,15.055811,ov_caffetteria_monsieur_40.6181_15.0558,Caffetteria Monsieur,RESTAURANT,bar_cafe
-40.618060,15.056340,ov_valitutto_40.6181_15.0563,Valitutto,RESTAURANT,bar_cafe
-40.618040,15.055357,ov_via_matteo_ripa_40.6180_15.0554,Via Matteo Ripa,RESTAURANT,bar_cafe
-40.617784,15.054071,ov_d_amore_caff__40.6178_15.0541,D'Amore Caffè,RESTAURANT,bar_cafe
-40.617668,15.056091,ov_rifrullo_40.6177_15.0561,Rifrullo,RESTAURANT,bar_cafe
-40.617873,15.057297,ov_volume_40.6179_15.0573,Volume,RESTAURANT,bar_cafe
-40.618686,15.060391,ov_rosy_caff__40.6187_15.0604,Rosy Caffè,RESTAURANT,bar_cafe
-40.617320,15.062500,ov_spetteguless_cafe_40.6173_15.0625,Spetteguless Cafe,RESTAURANT,bar_cafe
-40.617340,15.057870,ov_bar_pasticceria_ginetti_40.6173_15.0579,Bar Pasticceria Ginetti,RESTAURANT,bar_cafe
-40.616780,15.057594,ov_bar_sport_40.6168_15.0576,Bar Sport,RESTAURANT,bar_cafe
-40.616818,15.058755,ov_caffe_paradiso_40.6168_15.0588,Caffe Paradiso,RESTAURANT,bar_cafe
-40.616520,15.058020,ov_il_puntaspilli_merceria_40.6165_15.0580,IL Puntaspilli merceria,RESTAURANT,bar_cafe
-40.616034,15.060390,ov_cin_cin_bar_40.6160_15.0604,Cin Cin Bar,RESTAURANT,bar_cafe
-40.615034,15.060757,ov_paestum_lido_40.6150_15.0608,Paestum Lido,RESTAURANT,bar_cafe
-40.614930,15.058711,ov_dolce_caffe_40.6149_15.0587,Dolce Caffe,RESTAURANT,bar_cafe
-40.615089,15.052972,ov_caffe_amendola_40.6151_15.0530,Caffe Amendola,RESTAURANT,bar_cafe
-40.614824,15.049031,ov_nuova_apertura_bar_40.6148_15.0490,Nuova apertura bar,RESTAURANT,bar_cafe
-40.614460,15.054160,ov_hurrypel_country_bar_40.6145_15.0542,Hurrypel Country Bar,RESTAURANT,bar_cafe
-40.614764,15.052900,ov_bar_pigal_40.6148_15.0529,Bar Pigal,RESTAURANT,bar_cafe
-40.614301,15.055621,ov_royal_beards_burger_40.6143_15.0556,Royal Beards Burger,RESTAURANT,bar_cafe
-40.613424,15.053855,ov_bar_sociale_40.6134_15.0539,Bar Sociale,RESTAURANT,bar_cafe
-40.613474,15.051028,ov_bar_re_caff__40.6135_15.0510,Bar Re Caffé,RESTAURANT,bar_cafe
-40.613710,15.051670,ov_amaro_don_carlo_40.6137_15.0517,Amaro Don Carlo,RESTAURANT,bar_cafe
-40.613400,15.051813,ov_geminus_pub_40.6134_15.0518,Geminus Pub,RESTAURANT,bar_cafe
-40.612900,15.053845,ov_bar_jolly_40.6129_15.0538,Bar Jolly,RESTAURANT,bar_cafe
-40.613020,15.063330,ov_universal_caf__40.6130_15.0633,Universal Café,RESTAURANT,bar_cafe
-40.614270,15.078640,ov_il_mito_bar_40.6143_15.0786,Il MiTo Bar,RESTAURANT,bar_cafe
-40.614958,15.075819,ov_toni_s_bar_snc_di_viviani_a____perruso_c_40.6150_15.0758,Toni's Bar SNC di Viviani A. & Perruso C.,RESTAURANT,bar_cafe
-40.610365,15.088131,ov_new_york_caf__bar_40.6104_15.0881,New York Café Bar,RESTAURANT,bar_cafe
-40.622154,15.056882,ov_associazione_musicalmente_40.6222_15.0569,Associazione Musicalmente,RESTAURANT,bar_cafe
-40.619847,15.059010,ov_ideal_bar_40.6198_15.0590,Ideal Bar,RESTAURANT,bar_cafe
-40.619769,15.055662,ov_ritrovo_40.6198_15.0557,Ritrovo,RESTAURANT,bar_cafe
-40.619077,15.056096,ov_sotto_posto_40.6191_15.0561,Sotto Posto,RESTAURANT,bar_cafe
-40.621936,15.053981,ov_il_ristoro_del_pellegrino_40.6219_15.0540,Il Ristoro Del Pellegrino,RESTAURANT,bar_cafe
-40.618577,15.054246,osm_old_caffe_40.6186_15.0542,Old Caffe,bar_cafe,bar_cafe
+40.525927,15.000308,ov_bar_emiliy_40.5259_15.0003,Bar Emiliy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_emiliy_40.5259_15.0003.json,custom
+40.525057,15.000609,ov_bar_riva_40.5251_15.0006,Bar Riva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_riva_40.5251_15.0006.json,custom
+40.524515,15.001427,ov_bar_impero_di_donato_domini_40.5245_15.0014,Bar Impero Di Donato Domini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_impero_di_donato_domini_40.5245_15.0014.json,custom
+40.522385,15.003561,ov_festival_snack_bar_40.5224_15.0036,Festival Snack Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/festival_snack_bar_40.5224_15.0036.json,custom
+40.521761,15.003423,ov_bar_gran_caffe_40.5218_15.0034,Bar Gran Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_gran_caffe_40.5218_15.0034.json,custom
+40.528983,15.009363,ov_caffetteria_i_gemelli_40.5290_15.0094,Caffetteria i gemelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caffetteria_i_gemelli_40.5290_15.0094.json,custom
+40.530756,15.012137,ov_new_cubalibre_caf__40.5308_15.0121,New cubalibre cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/new_cubalibre_caf_40.5308_15.0121.json,custom
+40.596411,15.026945,ov_mocambo_caf__40.5964_15.0269,Mocambo Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/mocambo_caf_40.5964_15.0269.json,custom
+40.593470,15.028138,ov_monte_carmelo_srl_40.5935_15.0281,Monte Carmelo Srl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/monte_carmelo_srl_40.5935_15.0281.json,custom
+40.541040,15.025275,ov_bar_pyper_40.5410_15.0253,BAR PYPER,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_pyper_40.5410_15.0253.json,custom
+40.502350,15.010830,ov_fox_inn_santa_cecilia_40.5023_15.0108,Fox Inn Santa Cecilia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/fox_inn_santa_cecilia_40.5023_15.0108.json,custom
+40.604870,15.055116,ov_bluespirit_40.6049_15.0551,Bluespirit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bluespirit_40.6049_15.0551.json,custom
+40.604253,15.051979,ov_papillon_cafe_40.6043_15.0520,Papillon Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/papillon_cafe_40.6043_15.0520.json,custom
+40.604057,15.048202,ov_bar_jolly_40.6041_15.0482,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_jolly_40.6041_15.0482.json,custom
+40.604491,15.048553,ov_bar_willy_caffe_40.6045_15.0486,Bar Willy Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_willy_caffe_40.6045_15.0486.json,custom
+40.611226,15.052481,ov_obelix_experss_eboli_40.6112_15.0525,Obelix Experss Eboli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/obelix_experss_eboli_40.6112_15.0525.json,custom
+40.611987,15.049144,ov_vinili___blaring_wine_by_rago_40.6120_15.0491,Vinili - Blaring Wine by Rago,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/vinili_-_blaring_wine_by_rago_40.6120_15.0491.json,custom
+40.614644,15.048472,ov_caffetteria_dello_studente_2_0_40.6146_15.0485,Caffetteria dello Studente 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caffetteria_dello_studente_20_40.6146_15.0485.json,custom
+40.616500,15.052176,ov_bar_la_terrazza_40.6165_15.0522,Bar La Terrazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_la_terrazza_40.6165_15.0522.json,custom
+40.615810,15.054173,ov_caff__del_corso_40.6158_15.0542,Caffè Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caff_del_corso_40.6158_15.0542.json,custom
+40.615872,15.054165,ov_new_caf__pigal_40.6159_15.0542,New Cafè Pigal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/new_caf_pigal_40.6159_15.0542.json,custom
+40.616288,15.054785,ov_bar_dream_40.6163_15.0548,Bar Dream,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_dream_40.6163_15.0548.json,custom
+40.616268,15.055340,ov_vero_caffe_40.6163_15.0553,Vero Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/vero_caffe_40.6163_15.0553.json,custom
+40.616483,15.055949,ov_ilbaretto_40.6165_15.0559,IlBaretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/ilbaretto_40.6165_15.0559.json,custom
+40.616460,15.054750,ov_ritz_eboli_40.6165_15.0548,Ritz Eboli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/ritz_eboli_40.6165_15.0548.json,custom
+40.616460,15.054750,ov_bar_struscio_40.6165_15.0548,Bar struscio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_struscio_40.6165_15.0548.json,custom
+40.618550,15.053580,ov_family_cafe_a_a_40.6185_15.0536,Family cafe A&A,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/family_cafe_aa_40.6185_15.0536.json,custom
+40.618622,15.053928,ov_aripa_caffe_40.6186_15.0539,Aripa Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/aripa_caffe_40.6186_15.0539.json,custom
+40.618058,15.055917,ov_living_room_40.6181_15.0559,Living Room,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/living_room_40.6181_15.0559.json,custom
+40.618051,15.055811,ov_caffetteria_monsieur_40.6181_15.0558,Caffetteria Monsieur,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caffetteria_monsieur_40.6181_15.0558.json,custom
+40.618060,15.056340,ov_valitutto_40.6181_15.0563,Valitutto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/valitutto_40.6181_15.0563.json,custom
+40.618040,15.055357,ov_via_matteo_ripa_40.6180_15.0554,Via Matteo Ripa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/via_matteo_ripa_40.6180_15.0554.json,custom
+40.617784,15.054071,ov_d_amore_caff__40.6178_15.0541,D'Amore Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/damore_caff_40.6178_15.0541.json,custom
+40.617668,15.056091,ov_rifrullo_40.6177_15.0561,Rifrullo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/rifrullo_40.6177_15.0561.json,custom
+40.617873,15.057297,ov_volume_40.6179_15.0573,Volume,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/volume_40.6179_15.0573.json,custom
+40.618686,15.060391,ov_rosy_caff__40.6187_15.0604,Rosy Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/rosy_caff_40.6187_15.0604.json,custom
+40.617320,15.062500,ov_spetteguless_cafe_40.6173_15.0625,Spetteguless Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/spetteguless_cafe_40.6173_15.0625.json,custom
+40.617340,15.057870,ov_bar_pasticceria_ginetti_40.6173_15.0579,Bar Pasticceria Ginetti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_pasticceria_ginetti_40.6173_15.0579.json,custom
+40.616780,15.057594,ov_bar_sport_40.6168_15.0576,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_sport_40.6168_15.0576.json,custom
+40.616818,15.058755,ov_caffe_paradiso_40.6168_15.0588,Caffe Paradiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caffe_paradiso_40.6168_15.0588.json,custom
+40.616520,15.058020,ov_il_puntaspilli_merceria_40.6165_15.0580,IL Puntaspilli merceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/il_puntaspilli_merceria_40.6165_15.0580.json,custom
+40.616034,15.060390,ov_cin_cin_bar_40.6160_15.0604,Cin Cin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/cin_cin_bar_40.6160_15.0604.json,custom
+40.615034,15.060757,ov_paestum_lido_40.6150_15.0608,Paestum Lido,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/paestum_lido_40.6150_15.0608.json,custom
+40.614930,15.058711,ov_dolce_caffe_40.6149_15.0587,Dolce Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/dolce_caffe_40.6149_15.0587.json,custom
+40.615089,15.052972,ov_caffe_amendola_40.6151_15.0530,Caffe Amendola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/caffe_amendola_40.6151_15.0530.json,custom
+40.614824,15.049031,ov_nuova_apertura_bar_40.6148_15.0490,Nuova apertura bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/nuova_apertura_bar_40.6148_15.0490.json,custom
+40.614460,15.054160,ov_hurrypel_country_bar_40.6145_15.0542,Hurrypel Country Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/hurrypel_country_bar_40.6145_15.0542.json,custom
+40.614764,15.052900,ov_bar_pigal_40.6148_15.0529,Bar Pigal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_pigal_40.6148_15.0529.json,custom
+40.614301,15.055621,ov_royal_beards_burger_40.6143_15.0556,Royal Beards Burger,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/royal_beards_burger_40.6143_15.0556.json,custom
+40.613424,15.053855,ov_bar_sociale_40.6134_15.0539,Bar Sociale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_sociale_40.6134_15.0539.json,custom
+40.613474,15.051028,ov_bar_re_caff__40.6135_15.0510,Bar Re Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_re_caff_40.6135_15.0510.json,custom
+40.613710,15.051670,ov_amaro_don_carlo_40.6137_15.0517,Amaro Don Carlo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/amaro_don_carlo_40.6137_15.0517.json,custom
+40.613400,15.051813,ov_geminus_pub_40.6134_15.0518,Geminus Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/geminus_pub_40.6134_15.0518.json,custom
+40.612900,15.053845,ov_bar_jolly_40.6129_15.0538,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/bar_jolly_40.6129_15.0538.json,custom
+40.613020,15.063330,ov_universal_caf__40.6130_15.0633,Universal Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/universal_caf_40.6130_15.0633.json,custom
+40.614270,15.078640,ov_il_mito_bar_40.6143_15.0786,Il MiTo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/il_mito_bar_40.6143_15.0786.json,custom
+40.614958,15.075819,ov_toni_s_bar_snc_di_viviani_a____perruso_c_40.6150_15.0758,Toni's Bar SNC di Viviani A. & Perruso C.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/tonis_bar_snc_di_viviani_a_perruso_c_40.6150_15.0758.json,custom
+40.610365,15.088131,ov_new_york_caf__bar_40.6104_15.0881,New York Café Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/new_york_caf_bar_40.6104_15.0881.json,custom
+40.622154,15.056882,ov_associazione_musicalmente_40.6222_15.0569,Associazione Musicalmente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/associazione_musicalmente_40.6222_15.0569.json,custom
+40.619847,15.059010,ov_ideal_bar_40.6198_15.0590,Ideal Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/ideal_bar_40.6198_15.0590.json,custom
+40.619769,15.055662,ov_ritrovo_40.6198_15.0557,Ritrovo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/ritrovo_40.6198_15.0557.json,custom
+40.619077,15.056096,ov_sotto_posto_40.6191_15.0561,Sotto Posto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/sotto_posto_40.6191_15.0561.json,custom
+40.621936,15.053981,ov_il_ristoro_del_pellegrino_40.6219_15.0540,Il Ristoro Del Pellegrino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/il_ristoro_del_pellegrino_40.6219_15.0540.json,custom
+40.618577,15.054246,osm_old_caffe_40.6186_15.0542,Old Caffe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/old_caffe_40.6186_15.0542.json,custom

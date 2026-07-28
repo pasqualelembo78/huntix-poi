@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sarconi -- restaurants
-40.246063,15.887841,ov_haricots_40.2461_15.8878,Haricots,RESTAURANT,ristorante
-40.247698,15.888652,ov_ristorante_narciso_40.2477_15.8887,Ristorante Narciso,RESTAURANT,ristorante
+40.246063,15.887841,ov_haricots_40.2461_15.8878,Haricots,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sarconi/pages/haricots_40.2461_15.8878.json,custom
+40.247698,15.888652,ov_ristorante_narciso_40.2477_15.8887,Ristorante Narciso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sarconi/pages/ristorante_narciso_40.2477_15.8887.json,custom

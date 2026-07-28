@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # chiaromonte -- restaurants
-40.063903,16.150959,osm_la_selva_40.0639_16.1510,La Selva,ristorante,ristorante
-40.063864,16.150822,ov_la_selva_resort_ristorante_pizzeria_40.0639_16.1508,La Selva Resort Ristorante Pizzeria,RESTAURANT,ristorante
-40.117539,16.208812,ov_costa_casale_40.1175_16.2088,Costa Casale,RESTAURANT,ristorante
-40.123478,16.214372,ov_la_selva_ristorante_pizzeria_40.1235_16.2144,La Selva Ristorante Pizzeria,RESTAURANT,ristorante
-40.125457,16.215243,ov_ristorante_pizzeria_la_torre_chiaromonte_40.1255_16.2152,Ristorante Pizzeria La Torre Chiaromonte ( PZ ),RESTAURANT,ristorante
-40.125104,16.216069,ov_pizzeria_bar_rosticceria_la_villetta_40.1251_16.2161,Pizzeria Bar Rosticceria La Villetta,RESTAURANT,ristorante
+40.063864,16.150822,ov_la_selva_resort_ristorante_pizzeria_40.0639_16.1508,La Selva Resort Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/la_selva_resort_ristorante_pizzeria_40.0639_16.1508.json,custom
+40.117539,16.208812,ov_costa_casale_40.1175_16.2088,Costa Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/costa_casale_40.1175_16.2088.json,custom
+40.123478,16.214372,ov_la_selva_ristorante_pizzeria_40.1235_16.2144,La Selva Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/la_selva_ristorante_pizzeria_40.1235_16.2144.json,custom
+40.125457,16.215243,ov_ristorante_pizzeria_la_torre_chiaromonte_40.1255_16.2152,Ristorante Pizzeria La Torre Chiaromonte ( PZ ),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/ristorante_pizzeria_la_torre_chiaromonte_40.1255_16.2152.json,custom
+40.125104,16.216069,ov_pizzeria_bar_rosticceria_la_villetta_40.1251_16.2161,Pizzeria Bar Rosticceria La Villetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/pizzeria_bar_rosticceria_la_villetta_40.1251_16.2161.json,custom
+40.063903,16.150959,osm_la_selva_40.0639_16.1510,La Selva,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/chiaromonte/pages/la_selva_40.0639_16.1510.json,custom

@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # amendolara -- restaurants
-39.928576,16.589814,ov_masseria_cielogreco_39.9286_16.5898,Masseria Cielogreco,RESTAURANT,ristorante
-39.934156,16.606082,ov_lido_ubi_maior_39.9342_16.6061,Lido ubi maior,RESTAURANT,ristorante
-39.934168,16.606090,ov_lido_zeus_39.9342_16.6061,Lido Zeus,RESTAURANT,ristorante
-39.935200,16.603100,ov_atlantis_pizzeria_39.9352_16.6031,Atlantis pizzeria,RESTAURANT,ristorante
-39.938089,16.606582,ov_pizzeria_il_pirata_39.9381_16.6066,Pizzeria Il Pirata,RESTAURANT,ristorante
-39.947913,16.609671,ov_agriturismo_agricarrozza_39.9479_16.6097,Agriturismo Agricarrozza,RESTAURANT,ristorante
-39.942980,16.610010,ov_ristorantebar2023_39.9430_16.6100,RistoranteBar2023,RESTAURANT,ristorante
-39.962095,16.622035,ov_la_taverna_del_macellaio_39.9621_16.6220,La Taverna del Macellaio,RESTAURANT,ristorante
-39.961594,16.610220,ov_il_ritrovo_tra_gli_ulivi_39.9616_16.6102,Il Ritrovo Tra Gli Ulivi,RESTAURANT,ristorante
-39.956669,16.620418,ov_brace_mia___amendolara_39.9567_16.6204,Brace Mia - Amendolara,RESTAURANT,ristorante
-39.956620,16.620590,ov_ristorante__germano_39.9566_16.6206,Ristorante  Germano,RESTAURANT,ristorante
-39.973445,16.563841,ov_agriturismo_masseria_farina_39.9734_16.5638,Agriturismo Masseria Farina,RESTAURANT,ristorante
+39.928576,16.589814,ov_masseria_cielogreco_39.9286_16.5898,Masseria Cielogreco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/masseria_cielogreco_39.9286_16.5898.json,custom
+39.934156,16.606082,ov_lido_ubi_maior_39.9342_16.6061,Lido ubi maior,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/lido_ubi_maior_39.9342_16.6061.json,custom
+39.934168,16.606090,ov_lido_zeus_39.9342_16.6061,Lido Zeus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/lido_zeus_39.9342_16.6061.json,custom
+39.935200,16.603100,ov_atlantis_pizzeria_39.9352_16.6031,Atlantis pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/atlantis_pizzeria_39.9352_16.6031.json,custom
+39.938089,16.606582,ov_pizzeria_il_pirata_39.9381_16.6066,Pizzeria Il Pirata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/pizzeria_il_pirata_39.9381_16.6066.json,custom
+39.947913,16.609671,ov_agriturismo_agricarrozza_39.9479_16.6097,Agriturismo Agricarrozza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/agriturismo_agricarrozza_39.9479_16.6097.json,custom
+39.942980,16.610010,ov_ristorantebar2023_39.9430_16.6100,RistoranteBar2023,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/ristorantebar2023_39.9430_16.6100.json,custom
+39.962095,16.622035,ov_la_taverna_del_macellaio_39.9621_16.6220,La Taverna del Macellaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/la_taverna_del_macellaio_39.9621_16.6220.json,custom
+39.961594,16.610220,ov_il_ritrovo_tra_gli_ulivi_39.9616_16.6102,Il Ritrovo Tra Gli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/il_ritrovo_tra_gli_ulivi_39.9616_16.6102.json,custom
+39.956669,16.620418,ov_brace_mia___amendolara_39.9567_16.6204,Brace Mia - Amendolara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/brace_mia_-_amendolara_39.9567_16.6204.json,custom
+39.956620,16.620590,ov_ristorante__germano_39.9566_16.6206,Ristorante  Germano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/ristorante_germano_39.9566_16.6206.json,custom
+39.973445,16.563841,ov_agriturismo_masseria_farina_39.9734_16.5638,Agriturismo Masseria Farina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/amendolara/pages/agriturismo_masseria_farina_39.9734_16.5638.json,custom

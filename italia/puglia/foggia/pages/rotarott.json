@@ -1,0 +1,49 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Rotarott",
+    "subtitle": "Ristorante & Pizza dal 1990",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Le Nostre Pizze",
+      "items": [
+        {"name": "Margherita", "price": "€5,00", "emoji": "🍕", "action": {"type":"consume","need":"hunger","gain":30}},
+        {"name": "Diavola", "price": "€6,00", "emoji": "🌶️", "action": {"type":"consume","need":"hunger","gain":32}},
+        {"name": "Quattro Stagioni", "price": "€7,00", "emoji": "🍄", "action": {"type":"consume","need":"hunger","gain":35}},
+        {"name": "Capricciosa", "price": "€7,50", "emoji": "🥚", "action": {"type":"consume","need":"hunger","gain":33}}
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Primi Piatti",
+      "items": [
+        {"name": "Pasta al Pomodoro", "price": "€8,00", "emoji": "🍝", "action": {"type":"consume","need":"hunger","gain":25}},
+        {"name": "Lasagna Classica", "price": "€9,00", "emoji": "🟫", "action": {"type":"consume","need":"hunger","gain":35}}
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLunedì: Chiuso"
+    },
+    {
+      "type": "divider",
+      "title": ""
+    },
+    {
+      "type": "action",
+      "title": "Ordina una Pizza",
+      "emoji": "🛵",
+      "action": {"type":"consume","need":"hunger","gain":40}
+    },
+    {
+      "type": "link",
+      "title": "Prenota un Tavolo",
+      "emoji": "📞",
+      "url": "https://www.rotarott.it/prenota"
+    }
+  ]
+}

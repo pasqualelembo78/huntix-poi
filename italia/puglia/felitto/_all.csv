@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Felitto -- Tutti
-40.354621,15.271346,osm_ristorante_il_rustico_40.3546_15.2713,Ristorante Il Rustico,ristorante,ristorante
-40.366363,15.253042,osm_ristorante_e_pizzeria_remolino_40.3664_15.2530,Ristorante e Pizzeria Remolino,ristorante,ristorante
-40.383389,15.249198,ov_felitto_l__cchiano_40.3834_15.2492,Felitto L'òcchiano,RESTAURANT,ristorante
-40.366433,15.253036,ov_remolino_40.3664_15.2530,Remolino,RESTAURANT,ristorante
-40.373048,15.244845,ov_bar_italia_40.3730_15.2448,Bar Italia,RESTAURANT,bar_cafe
-40.373300,15.243441,ov_bar_sport_40.3733_15.2434,Bar Sport,RESTAURANT,bar_cafe
-40.373672,15.243264,ov_bar_impero_40.3737_15.2433,Bar Impero,RESTAURANT,bar_cafe
-40.373062,15.244495,osm_shoot_pub_40.3731_15.2445,Shoot Pub,bar_cafe,bar_cafe
-40.370936,15.248698,osm_pasticceria___bar_i_dolci_di_rosa_40.3709_15.2487,Pasticceria - Bar I dolci di Rosa,bar_cafe,bar_cafe
+40.383389,15.249198,ov_felitto_l__cchiano_40.3834_15.2492,Felitto L'òcchiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/felitto_lcchiano_40.3834_15.2492.json,custom
+40.366433,15.253036,ov_remolino_40.3664_15.2530,Remolino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/remolino_40.3664_15.2530.json,custom
+40.354621,15.271346,osm_ristorante_il_rustico_40.3546_15.2713,Ristorante Il Rustico,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/ristorante_il_rustico_40.3546_15.2713.json,custom
+40.366363,15.253042,osm_ristorante_e_pizzeria_remolino_40.3664_15.2530,Ristorante e Pizzeria Remolino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/ristorante_e_pizzeria_remolino_40.3664_15.2530.json,custom
+40.373048,15.244845,ov_bar_italia_40.3730_15.2448,Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/bar_italia_40.3730_15.2448.json,custom
+40.373300,15.243441,ov_bar_sport_40.3733_15.2434,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/bar_sport_40.3733_15.2434.json,custom
+40.373672,15.243264,ov_bar_impero_40.3737_15.2433,Bar Impero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/bar_impero_40.3737_15.2433.json,custom
+40.373062,15.244495,osm_shoot_pub_40.3731_15.2445,Shoot Pub,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/shoot_pub_40.3731_15.2445.json,custom
+40.370936,15.248698,osm_pasticceria___bar_i_dolci_di_rosa_40.3709_15.2487,Pasticceria - Bar I dolci di Rosa,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/felitto/pages/pasticceria_-_bar_i_dolci_di_rosa_40.3709_15.2487.json,custom

@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Pietro al Tanagro -- Tutti
-40.450280,15.498826,ov_ristorante_paon_dor__40.4503_15.4988,Ristorante Paon Dorè,RESTAURANT,ristorante
-40.452296,15.490382,ov_casale_san_pietro_ristopub_40.4523_15.4904,Casale San Pietro Ristopub,RESTAURANT,ristorante
-40.444197,15.504195,ov_dago_red_40.4442_15.5042,Dago Red,RESTAURANT,ristorante
-40.452330,15.490230,ov_flame_bar_40.4523_15.4902,Flame bar,RESTAURANT,bar_cafe
-40.456941,15.480702,ov_caffe_88_40.4569_15.4807,Caffe 88,RESTAURANT,bar_cafe
-40.446947,15.468750,ov_asd_scuderie_p_z__palace_giustiniana_40.4469_15.4688,ASD Scuderie P.Z. Palace Giustiniana,GYM,palestra
+40.450280,15.498826,ov_ristorante_paon_dor__40.4503_15.4988,Ristorante Paon Dorè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/ristorante_paon_dor_40.4503_15.4988.json,custom
+40.452296,15.490382,ov_casale_san_pietro_ristopub_40.4523_15.4904,Casale San Pietro Ristopub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/casale_san_pietro_ristopub_40.4523_15.4904.json,custom
+40.444197,15.504195,ov_dago_red_40.4442_15.5042,Dago Red,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/dago_red_40.4442_15.5042.json,custom
+40.452330,15.490230,ov_flame_bar_40.4523_15.4902,Flame bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/flame_bar_40.4523_15.4902.json,custom
+40.456941,15.480702,ov_caffe_88_40.4569_15.4807,Caffe 88,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/caffe_88_40.4569_15.4807.json,custom
+40.446947,15.468750,ov_asd_scuderie_p_z__palace_giustiniana_40.4469_15.4688,ASD Scuderie P.Z. Palace Giustiniana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_al_tanagro/pages/asd_scuderie_pz_palace_giustiniana_40.4469_15.4688.json,custom

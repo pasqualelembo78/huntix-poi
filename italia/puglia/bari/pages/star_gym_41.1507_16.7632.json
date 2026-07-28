@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "Star Gym",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fsites.google.com%2Fd%2F1GecH5EI9W2n8iri8LCQ2NBArMMZqEAu_%2Fp%2F1dOS6zf0q3RjxIlmi4M0JKtQmNmi6RO1V%2Fedit&e=ATNtziu8_LV3x0BrVMQxKYHlBDtlGjbxFu13Nu7Vt-9fopF_2A0yQ5GzpQaDI0eDfn-8HzEpVV8xHlr8l8_vd5s&s=1"
+    }
+  ]
+}

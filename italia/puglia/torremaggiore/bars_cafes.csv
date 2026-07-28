@@ -1,26 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # torremaggiore -- bars_cafes
-41.692310,15.285890,ov_coffee_street_41.6923_15.2859,Coffee Street,RESTAURANT,bar_cafe
-41.689204,15.291605,ov_la_bottega_dei_miracoli_41.6892_15.2916,La Bottega dei Miracoli,RESTAURANT,bar_cafe
-41.689709,15.291824,ov_plaza_caff__41.6897_15.2918,Plaza Caffè,RESTAURANT,bar_cafe
-41.689290,15.289931,ov_publo_abnormal_pub_41.6893_15.2899,PUBLO abnormal pub,RESTAURANT,bar_cafe
-41.689325,15.289927,ov_manhattan_bar_41.6893_15.2899,Manhattan BAR,RESTAURANT,bar_cafe
-41.690550,15.292599,ov_bar_jolly_41.6905_15.2926,Bar Jolly,RESTAURANT,bar_cafe
-41.694257,15.293648,ov_caffe_san_giacomo_41.6943_15.2936,Caffe San Giacomo,RESTAURANT,bar_cafe
-41.690825,15.294215,ov_bar_tropical_41.6908_15.2942,Bar Tropical,RESTAURANT,bar_cafe
-41.690620,15.294385,ov_al_saloon_41.6906_15.2944,Al Saloon,RESTAURANT,bar_cafe
-41.689760,15.294558,ov_caff__degli_artisti_41.6898_15.2946,Caffè degli Artisti,RESTAURANT,bar_cafe
-41.689649,15.293737,ov_corso_98_41.6896_15.2937,Corso 98,RESTAURANT,bar_cafe
-41.689505,15.293020,ov_la_methode_du_cafe_41.6895_15.2930,La Methode du Cafe,RESTAURANT,bar_cafe
-41.689340,15.292560,ov_caff__del_centro_41.6893_15.2926,Caffè del Centro,RESTAURANT,bar_cafe
-41.690158,15.295191,ov_bar_jolly_41.6902_15.2952,Bar Jolly,RESTAURANT,bar_cafe
-41.690298,15.295883,ov_degustibus_41.6903_15.2959,Degustibus,RESTAURANT,bar_cafe
-41.688649,15.296999,ov_mama_mia_s_41.6886_15.2970,Mama Mia's,RESTAURANT,bar_cafe
-41.689160,15.297495,ov_plaza_cornetteria_41.6892_15.2975,Plaza Cornetteria,RESTAURANT,bar_cafe
-41.691764,15.298394,ov_famous_cafe_41.6918_15.2984,Famous Cafe,RESTAURANT,bar_cafe
-41.690618,15.295959,ov_loop88_41.6906_15.2960,LOOP88,RESTAURANT,bar_cafe
-41.690202,15.301046,ov_micro_bar_41.6902_15.3010,Micro bar,RESTAURANT,bar_cafe
-41.689886,15.304749,ov_garden_rose_41.6899_15.3047,Garden Rose,RESTAURANT,bar_cafe
-41.690440,15.308850,ov_rubino_caf__41.6904_15.3088,Rubino Cafè,RESTAURANT,bar_cafe
-41.689596,15.317211,ov_excel_cafe_41.6896_15.3172,Excel Cafe,RESTAURANT,bar_cafe
-41.694244,15.293562,osm_san_giacomo_41.6942_15.2936,San Giacomo,bar_cafe,bar_cafe
+41.692310,15.285890,ov_coffee_street_41.6923_15.2859,Coffee Street,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/coffee_street_41.6923_15.2859.json,custom
+41.689204,15.291605,ov_la_bottega_dei_miracoli_41.6892_15.2916,La Bottega dei Miracoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/la_bottega_dei_miracoli_41.6892_15.2916.json,custom
+41.689709,15.291824,ov_plaza_caff__41.6897_15.2918,Plaza Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/plaza_caff_41.6897_15.2918.json,custom
+41.689290,15.289931,ov_publo_abnormal_pub_41.6893_15.2899,PUBLO abnormal pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/publo_abnormal_pub_41.6893_15.2899.json,custom
+41.689325,15.289927,ov_manhattan_bar_41.6893_15.2899,Manhattan BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/manhattan_bar_41.6893_15.2899.json,custom
+41.690550,15.292599,ov_bar_jolly_41.6905_15.2926,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/bar_jolly_41.6905_15.2926.json,custom
+41.694257,15.293648,ov_caffe_san_giacomo_41.6943_15.2936,Caffe San Giacomo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/caffe_san_giacomo_41.6943_15.2936.json,custom
+41.690825,15.294215,ov_bar_tropical_41.6908_15.2942,Bar Tropical,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/bar_tropical_41.6908_15.2942.json,custom
+41.690620,15.294385,ov_al_saloon_41.6906_15.2944,Al Saloon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/al_saloon_41.6906_15.2944.json,custom
+41.689760,15.294558,ov_caff__degli_artisti_41.6898_15.2946,Caffè degli Artisti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/caff_degli_artisti_41.6898_15.2946.json,custom
+41.689649,15.293737,ov_corso_98_41.6896_15.2937,Corso 98,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/corso_98_41.6896_15.2937.json,custom
+41.689505,15.293020,ov_la_methode_du_cafe_41.6895_15.2930,La Methode du Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/la_methode_du_cafe_41.6895_15.2930.json,custom
+41.689340,15.292560,ov_caff__del_centro_41.6893_15.2926,Caffè del Centro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/caff_del_centro_41.6893_15.2926.json,custom
+41.690158,15.295191,ov_bar_jolly_41.6902_15.2952,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/bar_jolly_41.6902_15.2952.json,custom
+41.690298,15.295883,ov_degustibus_41.6903_15.2959,Degustibus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/degustibus_41.6903_15.2959.json,custom
+41.688649,15.296999,ov_mama_mia_s_41.6886_15.2970,Mama Mia's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/mama_mias_41.6886_15.2970.json,custom
+41.689160,15.297495,ov_plaza_cornetteria_41.6892_15.2975,Plaza Cornetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/plaza_cornetteria_41.6892_15.2975.json,custom
+41.691764,15.298394,ov_famous_cafe_41.6918_15.2984,Famous Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/famous_cafe_41.6918_15.2984.json,custom
+41.690618,15.295959,ov_loop88_41.6906_15.2960,LOOP88,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/loop88_41.6906_15.2960.json,custom
+41.690202,15.301046,ov_micro_bar_41.6902_15.3010,Micro bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/micro_bar_41.6902_15.3010.json,custom
+41.689886,15.304749,ov_garden_rose_41.6899_15.3047,Garden Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/garden_rose_41.6899_15.3047.json,custom
+41.690440,15.308850,ov_rubino_caf__41.6904_15.3088,Rubino Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/rubino_caf_41.6904_15.3088.json,custom
+41.689596,15.317211,ov_excel_cafe_41.6896_15.3172,Excel Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/excel_cafe_41.6896_15.3172.json,custom
+41.694244,15.293562,osm_san_giacomo_41.6942_15.2936,San Giacomo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/san_giacomo_41.6942_15.2936.json,custom

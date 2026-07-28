@@ -1,47 +1,47 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sannicola -- Tutti
-40.106221,18.044411,osm_masseria_relais_santa_teresa_40.1062_18.0444,Masseria Relais Santa Teresa,ristorante,ristorante
-41.625790,15.908640,ov_pensione_belvedere_41.6258_15.9086,Pensione Belvedere,RESTAURANT,ristorante
-40.080038,18.066611,ov_ristorante_il_petrosino_40.0800_18.0666,Ristorante il Petrosino,RESTAURANT,ristorante
-40.080965,18.081051,ov_la_corte_dei_simonari_40.0810_18.0811,La Corte dei Simonari,RESTAURANT,ristorante
-40.081586,18.081223,ov_osteria_vecchia_cantina_40.0816_18.0812,Osteria Vecchia Cantina,RESTAURANT,ristorante
-40.083098,18.080681,ov_ristorante_pizzeria_da_zi_mbertu_40.0831_18.0807,Ristorante Pizzeria da Zi'mbertu,RESTAURANT,ristorante
-40.086813,18.054890,ov_shamba_premium_restaurant_and_club_40.0868_18.0549,Shamba Premium Restaurant and Club,RESTAURANT,ristorante
-40.086843,18.054918,ov_santu_mauru_40.0868_18.0549,Santu Mauru,RESTAURANT,ristorante
-40.085064,18.056434,ov_la_pendula_40.0851_18.0564,La Pendula,RESTAURANT,ristorante
-40.084884,18.056425,ov_pizzeria_gi_c__40.0849_18.0564,Pizzeria Giòcò,RESTAURANT,ristorante
-40.089519,18.047227,ov_giardini_raimondi_40.0895_18.0472,Giardini Raimondi,RESTAURANT,ristorante
-40.091342,18.064924,ov_jolcrijess_gastronomia_d_asporto_40.0913_18.0649,Jolcrijess Gastronomia D'Asporto,RESTAURANT,ristorante
-40.094269,18.063415,ov_braceria_il_casolare_40.0943_18.0634,Braceria Il Casolare,RESTAURANT,ristorante
-40.094210,18.063167,ov_ragno_40.0942_18.0632,Ragno,RESTAURANT,ristorante
-40.093721,18.064001,ov_il_segreto_di_pulcinella_40.0937_18.0640,Il Segreto Di Pulcinella,RESTAURANT,ristorante
-40.093689,18.064086,ov_pizzeria_il_segreto_di_pulcinella_40.0937_18.0641,Pizzeria Il Segreto di Pulcinella,RESTAURANT,ristorante
-40.093549,18.064838,ov_ristorante_vecchio_camino_40.0935_18.0648,Ristorante Vecchio Camino,RESTAURANT,ristorante
-40.093572,18.064124,ov_ristorante_la_fontana_40.0936_18.0641,Ristorante La Fontana,RESTAURANT,ristorante
-40.093668,18.060531,ov_villa_excelsa_40.0937_18.0605,Villa Excelsa,RESTAURANT,ristorante
-40.092856,18.064219,ov_lo_spiedo_40.0929_18.0642,Lo Spiedo,RESTAURANT,ristorante
-40.096712,18.058697,ov_spicchio_pizza_40.0967_18.0587,Spicchio Pizza,RESTAURANT,ristorante
-40.099885,18.029203,ov_trattoria_pizzeria_lu_furese_40.0999_18.0292,Trattoria Pizzeria Lu Furese,RESTAURANT,ristorante
-40.100889,18.020131,ov_mambo_italiano_40.1009_18.0201,Mambo Italiano,RESTAURANT,ristorante
-40.109139,18.056900,ov_scapece_manno_srl_40.1091_18.0569,Scapece Manno srl,RESTAURANT,ristorante
-40.112643,18.009145,ov_trattoria_da_pippi_40.1126_18.0091,Trattoria Da Pippi,RESTAURANT,ristorante
-40.113121,18.007657,ov_controvento_trattoria_40.1131_18.0077,Controvento Trattoria,RESTAURANT,ristorante
-40.114143,18.005373,ov_ristoro_montagna_spaccata_di_santagiulia_40.1141_18.0054,Ristoro Montagna Spaccata di Santagiuliana Chiara,RESTAURANT,ristorante
-40.175085,18.031317,ov_porca_vacca_40.1751_18.0313,Porca Vacca,RESTAURANT,ristorante
-40.081280,18.082440,ov_daniel_s_caf__40.0813_18.0824,Daniel's Cafè,RESTAURANT,bar_cafe
-40.085001,18.077037,ov_bar_l_angolo_40.0850_18.0770,Bar L'Angolo,RESTAURANT,bar_cafe
-40.091343,18.064069,ov_sauvage_club_40.0913_18.0641,Sauvage Club,RESTAURANT,bar_cafe
-40.096235,18.061994,ov_ortensia_lounge_cafe_40.0962_18.0620,Ortensia Lounge Cafe,RESTAURANT,bar_cafe
-40.094065,18.063982,ov_bar_la_palma_di_valentina_carrisi_40.0941_18.0640,Bar la palma di Valentina Carrisi,RESTAURANT,bar_cafe
-40.093732,18.064697,ov_bar_tazza_d_oro_40.0937_18.0647,Bar Tazza D'Oro,RESTAURANT,bar_cafe
-40.093325,18.063694,ov_bar_perlage_cocktail___wine_40.0933_18.0637,Bar perlage cocktail & wine,RESTAURANT,bar_cafe
-40.093418,18.063663,ov_caf__noir_40.0934_18.0637,Cafè Noir,RESTAURANT,bar_cafe
-40.093354,18.063641,ov_mr__pag_40.0934_18.0636,Mr. Pag,RESTAURANT,bar_cafe
-40.093714,18.063363,ov_caffetteria_rodogallo_40.0937_18.0634,Caffetteria Rodogallo,RESTAURANT,bar_cafe
-40.102427,18.020335,ov_salento_bike_caf__40.1024_18.0203,Salento Bike Cafè,RESTAURANT,bar_cafe
-40.108215,18.010911,ov_oasi_bar_lido_conchiglie_40.1082_18.0109,Oasi Bar Lido Conchiglie,RESTAURANT,bar_cafe
-40.109173,18.011590,ov_bar_civico_52_40.1092_18.0116,Bar Civico 52,RESTAURANT,bar_cafe
-40.113614,18.050588,ov_route_101___food___drink_40.1136_18.0506,Route 101 - Food & Drink,RESTAURANT,bar_cafe
-40.117769,18.002475,ov_kilometrozero_gasoline_40.1178_18.0025,KilometroZero Gasoline,RESTAURANT,bar_cafe
-40.102614,18.020396,osm_salento_bike_caf__40.1026_18.0204,Salento Bike Cafè,bar_cafe,bar_cafe
-40.098961,18.060930,ov_agon_academy_a_s_d__40.0990_18.0609,Agon Academy A.S.D.,GYM,palestra
+41.625790,15.908640,ov_pensione_belvedere_41.6258_15.9086,Pensione Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/pensione_belvedere_41.6258_15.9086.json,custom
+40.080038,18.066611,ov_ristorante_il_petrosino_40.0800_18.0666,Ristorante il Petrosino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ristorante_il_petrosino_40.0800_18.0666.json,custom
+40.080965,18.081051,ov_la_corte_dei_simonari_40.0810_18.0811,La Corte dei Simonari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/la_corte_dei_simonari_40.0810_18.0811.json,custom
+40.081586,18.081223,ov_osteria_vecchia_cantina_40.0816_18.0812,Osteria Vecchia Cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/osteria_vecchia_cantina_40.0816_18.0812.json,custom
+40.083098,18.080681,ov_ristorante_pizzeria_da_zi_mbertu_40.0831_18.0807,Ristorante Pizzeria da Zi'mbertu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ristorante_pizzeria_da_zimbertu_40.0831_18.0807.json,custom
+40.086813,18.054890,ov_shamba_premium_restaurant_and_club_40.0868_18.0549,Shamba Premium Restaurant and Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/shamba_premium_restaurant_and_club_40.0868_18.0549.json,custom
+40.086843,18.054918,ov_santu_mauru_40.0868_18.0549,Santu Mauru,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/santu_mauru_40.0868_18.0549.json,custom
+40.085064,18.056434,ov_la_pendula_40.0851_18.0564,La Pendula,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/la_pendula_40.0851_18.0564.json,custom
+40.084884,18.056425,ov_pizzeria_gi_c__40.0849_18.0564,Pizzeria Giòcò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/pizzeria_gic_40.0849_18.0564.json,custom
+40.089519,18.047227,ov_giardini_raimondi_40.0895_18.0472,Giardini Raimondi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/giardini_raimondi_40.0895_18.0472.json,custom
+40.091342,18.064924,ov_jolcrijess_gastronomia_d_asporto_40.0913_18.0649,Jolcrijess Gastronomia D'Asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/jolcrijess_gastronomia_dasporto_40.0913_18.0649.json,custom
+40.094269,18.063415,ov_braceria_il_casolare_40.0943_18.0634,Braceria Il Casolare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/braceria_il_casolare_40.0943_18.0634.json,custom
+40.094210,18.063167,ov_ragno_40.0942_18.0632,Ragno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ragno_40.0942_18.0632.json,custom
+40.093721,18.064001,ov_il_segreto_di_pulcinella_40.0937_18.0640,Il Segreto Di Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/il_segreto_di_pulcinella_40.0937_18.0640.json,custom
+40.093689,18.064086,ov_pizzeria_il_segreto_di_pulcinella_40.0937_18.0641,Pizzeria Il Segreto di Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/pizzeria_il_segreto_di_pulcinella_40.0937_18.0641.json,custom
+40.093549,18.064838,ov_ristorante_vecchio_camino_40.0935_18.0648,Ristorante Vecchio Camino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ristorante_vecchio_camino_40.0935_18.0648.json,custom
+40.093572,18.064124,ov_ristorante_la_fontana_40.0936_18.0641,Ristorante La Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ristorante_la_fontana_40.0936_18.0641.json,custom
+40.093668,18.060531,ov_villa_excelsa_40.0937_18.0605,Villa Excelsa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/villa_excelsa_40.0937_18.0605.json,custom
+40.092856,18.064219,ov_lo_spiedo_40.0929_18.0642,Lo Spiedo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/lo_spiedo_40.0929_18.0642.json,custom
+40.096712,18.058697,ov_spicchio_pizza_40.0967_18.0587,Spicchio Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/spicchio_pizza_40.0967_18.0587.json,custom
+40.099885,18.029203,ov_trattoria_pizzeria_lu_furese_40.0999_18.0292,Trattoria Pizzeria Lu Furese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/trattoria_pizzeria_lu_furese_40.0999_18.0292.json,custom
+40.100889,18.020131,ov_mambo_italiano_40.1009_18.0201,Mambo Italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/mambo_italiano_40.1009_18.0201.json,custom
+40.109139,18.056900,ov_scapece_manno_srl_40.1091_18.0569,Scapece Manno srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/scapece_manno_srl_40.1091_18.0569.json,custom
+40.112643,18.009145,ov_trattoria_da_pippi_40.1126_18.0091,Trattoria Da Pippi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/trattoria_da_pippi_40.1126_18.0091.json,custom
+40.113121,18.007657,ov_controvento_trattoria_40.1131_18.0077,Controvento Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/controvento_trattoria_40.1131_18.0077.json,custom
+40.114143,18.005373,ov_ristoro_montagna_spaccata_di_santagiulia_40.1141_18.0054,Ristoro Montagna Spaccata di Santagiuliana Chiara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ristoro_montagna_spaccata_di_santagiulia_40.1141_18.0054.json,custom
+40.175085,18.031317,ov_porca_vacca_40.1751_18.0313,Porca Vacca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/porca_vacca_40.1751_18.0313.json,custom
+40.106221,18.044411,osm_masseria_relais_santa_teresa_40.1062_18.0444,Masseria Relais Santa Teresa,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/masseria_relais_santa_teresa_40.1062_18.0444.json,custom
+40.081280,18.082440,ov_daniel_s_caf__40.0813_18.0824,Daniel's Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/daniels_caf_40.0813_18.0824.json,custom
+40.085001,18.077037,ov_bar_l_angolo_40.0850_18.0770,Bar L'Angolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/bar_langolo_40.0850_18.0770.json,custom
+40.091343,18.064069,ov_sauvage_club_40.0913_18.0641,Sauvage Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/sauvage_club_40.0913_18.0641.json,custom
+40.096235,18.061994,ov_ortensia_lounge_cafe_40.0962_18.0620,Ortensia Lounge Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/ortensia_lounge_cafe_40.0962_18.0620.json,custom
+40.094065,18.063982,ov_bar_la_palma_di_valentina_carrisi_40.0941_18.0640,Bar la palma di Valentina Carrisi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/bar_la_palma_di_valentina_carrisi_40.0941_18.0640.json,custom
+40.093732,18.064697,ov_bar_tazza_d_oro_40.0937_18.0647,Bar Tazza D'Oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/bar_tazza_doro_40.0937_18.0647.json,custom
+40.093325,18.063694,ov_bar_perlage_cocktail___wine_40.0933_18.0637,Bar perlage cocktail & wine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/bar_perlage_cocktail_wine_40.0933_18.0637.json,custom
+40.093418,18.063663,ov_caf__noir_40.0934_18.0637,Cafè Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/caf_noir_40.0934_18.0637.json,custom
+40.093354,18.063641,ov_mr__pag_40.0934_18.0636,Mr. Pag,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/mr_pag_40.0934_18.0636.json,custom
+40.093714,18.063363,ov_caffetteria_rodogallo_40.0937_18.0634,Caffetteria Rodogallo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/caffetteria_rodogallo_40.0937_18.0634.json,custom
+40.102427,18.020335,ov_salento_bike_caf__40.1024_18.0203,Salento Bike Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/salento_bike_caf_40.1024_18.0203.json,custom
+40.108215,18.010911,ov_oasi_bar_lido_conchiglie_40.1082_18.0109,Oasi Bar Lido Conchiglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/oasi_bar_lido_conchiglie_40.1082_18.0109.json,custom
+40.109173,18.011590,ov_bar_civico_52_40.1092_18.0116,Bar Civico 52,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/bar_civico_52_40.1092_18.0116.json,custom
+40.113614,18.050588,ov_route_101___food___drink_40.1136_18.0506,Route 101 - Food & Drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/route_101_-_food_drink_40.1136_18.0506.json,custom
+40.117769,18.002475,ov_kilometrozero_gasoline_40.1178_18.0025,KilometroZero Gasoline,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/kilometrozero_gasoline_40.1178_18.0025.json,custom
+40.102614,18.020396,osm_salento_bike_caf__40.1026_18.0204,Salento Bike Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/salento_bike_caf_40.1026_18.0204.json,custom
+40.098961,18.060930,ov_agon_academy_a_s_d__40.0990_18.0609,Agon Academy A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicola/pages/agon_academy_asd_40.0990_18.0609.json,custom

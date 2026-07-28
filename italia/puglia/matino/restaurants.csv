@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # matino -- restaurants
-40.040655,18.133343,osm_greenwood_40.0407_18.1333,Greenwood,ristorante,ristorante
-40.009864,18.118335,ov_puntusu___pizzeria_trattoria_40.0099_18.1183,Puntusu - Pizzeria Trattoria,RESTAURANT,ristorante
-40.009829,18.118676,ov_trattoria_pizzeria_puntuso_40.0098_18.1187,Trattoria Pizzeria Puntuso,RESTAURANT,ristorante
-40.028419,18.132336,ov_pizzeria_tevere_40.0284_18.1323,Pizzeria tevere,RESTAURANT,ristorante
-40.027775,18.137119,ov_l_arte_della_pizza_40.0278_18.1371,L'Arte della Pizza,RESTAURANT,ristorante
-40.031118,18.131358,ov_danilo_osteria_creativa_40.0311_18.1314,Danilo Osteria Creativa,RESTAURANT,ristorante
-40.031737,18.134665,ov_affetto___pane__vino_e_cose_40.0317_18.1347,"Affetto - pane, vino e cose",RESTAURANT,ristorante
-40.031944,18.134362,ov_foscolo_ristorante_40.0319_18.1344,Foscolo Ristorante,RESTAURANT,ristorante
-40.032047,18.134786,ov_murusanza_40.0320_18.1348,Murusanza,RESTAURANT,ristorante
-40.033698,18.131527,ov_smile_40.0337_18.1315,Smile,RESTAURANT,ristorante
-40.034993,18.132319,ov_lu_riale_40.0350_18.1323,Lu Riale,RESTAURANT,ristorante
-40.035576,18.132183,ov_vinha_40.0356_18.1322,Vinha,RESTAURANT,ristorante
-40.040021,18.133575,ov_city_pizza_40.0400_18.1336,City Pizza,RESTAURANT,ristorante
-40.040673,18.128466,ov_imprimis_pizza_40.0407_18.1285,Imprimis Pizza,RESTAURANT,ristorante
-40.048766,18.129673,ov_foscolo_ristorante_e_cocktail_bar_40.0488_18.1297,Foscolo Ristorante e Cocktail Bar,RESTAURANT,ristorante
+40.009864,18.118335,ov_puntusu___pizzeria_trattoria_40.0099_18.1183,Puntusu - Pizzeria Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/puntusu_-_pizzeria_trattoria_40.0099_18.1183.json,custom
+40.009829,18.118676,ov_trattoria_pizzeria_puntuso_40.0098_18.1187,Trattoria Pizzeria Puntuso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/trattoria_pizzeria_puntuso_40.0098_18.1187.json,custom
+40.028419,18.132336,ov_pizzeria_tevere_40.0284_18.1323,Pizzeria tevere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/pizzeria_tevere_40.0284_18.1323.json,custom
+40.027775,18.137119,ov_l_arte_della_pizza_40.0278_18.1371,L'Arte della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/larte_della_pizza_40.0278_18.1371.json,custom
+40.031118,18.131358,ov_danilo_osteria_creativa_40.0311_18.1314,Danilo Osteria Creativa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/danilo_osteria_creativa_40.0311_18.1314.json,custom
+40.031737,18.134665,ov_affetto___pane__vino_e_cose_40.0317_18.1347,"Affetto - pane, vino e cose",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/affetto_-_pane_vino_e_cose_40.0317_18.1347.json,custom
+40.031944,18.134362,ov_foscolo_ristorante_40.0319_18.1344,Foscolo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/foscolo_ristorante_40.0319_18.1344.json,custom
+40.032047,18.134786,ov_murusanza_40.0320_18.1348,Murusanza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/murusanza_40.0320_18.1348.json,custom
+40.033698,18.131527,ov_smile_40.0337_18.1315,Smile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/smile_40.0337_18.1315.json,custom
+40.034993,18.132319,ov_lu_riale_40.0350_18.1323,Lu Riale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/lu_riale_40.0350_18.1323.json,custom
+40.035576,18.132183,ov_vinha_40.0356_18.1322,Vinha,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/vinha_40.0356_18.1322.json,custom
+40.040021,18.133575,ov_city_pizza_40.0400_18.1336,City Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/city_pizza_40.0400_18.1336.json,custom
+40.040673,18.128466,ov_imprimis_pizza_40.0407_18.1285,Imprimis Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/imprimis_pizza_40.0407_18.1285.json,custom
+40.048766,18.129673,ov_foscolo_ristorante_e_cocktail_bar_40.0488_18.1297,Foscolo Ristorante e Cocktail Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/foscolo_ristorante_e_cocktail_bar_40.0488_18.1297.json,custom
+40.040655,18.133343,osm_greenwood_40.0407_18.1333,Greenwood,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matino/pages/greenwood_40.0407_18.1333.json,custom

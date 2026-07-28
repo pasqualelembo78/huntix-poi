@@ -1,81 +1,77 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Castrignano del Capo -- Tutti
-39.798809,18.361217,osm_hosteria_al_pardo_39.7988_18.3612,Hosteria Al Pardo,ristorante,ristorante
-39.793914,18.351858,osm_24re_39.7939_18.3519,24re,ristorante,ristorante
-39.796339,18.353430,osm_hotel_rizieri_ristorante_39.7963_18.3534,Hotel Rizieri Ristorante,ristorante,ristorante
-39.797599,18.364686,osm_ristorante_fedele_39.7976_18.3647,Ristorante Fedele,ristorante,ristorante
-39.835813,18.346823,osm_braceria_petracca_39.8358_18.3468,Braceria Petracca,ristorante,ristorante
-39.833871,18.351420,osm_braceria__osteria_del_macellaio_39.8339_18.3514,"Braceria, Osteria Del Macellaio",ristorante,ristorante
-39.832056,18.350671,osm_retr____casa_museo___cucina_tipica_salen_39.8321_18.3507,Retrò - Casa Museo - cucina tipica salentina,ristorante,ristorante
-39.799964,18.364494,osm_bacio_di_puglia_39.8000_18.3645,Bacio di Puglia,ristorante,ristorante
-39.795605,18.353170,osm_lido_azzurro_39.7956_18.3532,Lido Azzurro,ristorante,ristorante
-39.794875,18.352617,osm_samarinda_39.7949_18.3526,Samarinda,ristorante,ristorante
-39.797119,18.358571,osm_gnam_39.7971_18.3586,Gnam,ristorante,ristorante
-39.797173,18.359925,ov_lega_navale_39.7972_18.3599,Lega Navale,RESTAURANT,ristorante
-39.797609,18.364656,ov_ristorante_fedele_39.7976_18.3647,Ristorante Fedele,RESTAURANT,ristorante
-39.798485,18.359664,ov_hosteria_del_pardo_39.7985_18.3597,Hosteria del Pardo,RESTAURANT,ristorante
-39.798434,18.360517,ov_l_angolo_azzurro_pescheria_friggitoria_39.7984_18.3605,L angolo azzurro Pescheria Friggitoria,RESTAURANT,ristorante
-39.799424,18.363920,ov_mediterraneo_fish_39.7994_18.3639,Mediterraneo fish,RESTAURANT,ristorante
-39.799308,18.364324,ov_boccaccio_la_poesia_in_un_barattolo_39.7993_18.3643,Boccaccio la Poesia in un Barattolo,RESTAURANT,ristorante
-39.799620,18.368104,ov_leucalta_39.7996_18.3681,Leucalta,RESTAURANT,ristorante
-39.804780,18.328656,ov_mattia_cordella___cucina_di_mare_39.8048_18.3287,Mattia Cordella - Cucina di Mare,RESTAURANT,ristorante
-39.802144,18.330392,ov_mangiamare_39.8021_18.3304,Mangiamare,RESTAURANT,ristorante
-39.801290,18.357509,ov_ristorante_2_mari_39.8013_18.3575,Ristorante 2 Mari,RESTAURANT,ristorante
-39.799550,18.356069,ov_pizzeria_da_leo_39.7996_18.3561,Pizzeria Da Leo,RESTAURANT,ristorante
-39.798697,18.354245,ov_boccondivino_39.7987_18.3542,Boccondivino,RESTAURANT,ristorante
-39.798670,18.357383,ov_pizzeria_napoletana_della_corte_39.7987_18.3574,Pizzeria Napoletana della Corte,RESTAURANT,ristorante
-39.798040,18.352900,ov_costa_di_ponente_39.7980_18.3529,Costa di Ponente,RESTAURANT,ristorante
-39.798254,18.353595,ov_home_restaurant_39.7983_18.3536,Home Restaurant,RESTAURANT,ristorante
-39.796474,18.335810,ov_trattoria_tatanka_39.7965_18.3358,Trattoria Tatanka,RESTAURANT,ristorante
-39.796933,18.354315,ov_sacrestia_restaurant_39.7969_18.3543,Sacrestia Restaurant,RESTAURANT,ristorante
-39.796655,18.354205,ov_calura_leuca_39.7967_18.3542,Calura Leuca,RESTAURANT,ristorante
-39.796440,18.354533,ov_fujimu_ristorante_39.7964_18.3545,Fujimu Ristorante,RESTAURANT,ristorante
-39.796603,18.355118,ov_pasta_leuca_39.7966_18.3551,Pasta Leuca,RESTAURANT,ristorante
-39.796192,18.355903,ov_santa_maria_39.7962_18.3559,Santa Maria,RESTAURANT,ristorante
-39.796276,18.356595,ov_lupo_di_mare_39.7963_18.3566,Lupo di Mare,RESTAURANT,ristorante
-39.796381,18.354200,ov_caf__d__mar_39.7964_18.3542,Cafè dò Mar,RESTAURANT,ristorante
-39.796303,18.353886,ov_la_conchiglia_39.7963_18.3539,La Conchiglia,RESTAURANT,ristorante
-39.795800,18.352986,ov_la_fica_paccia_39.7958_18.3530,La Fica Paccia,RESTAURANT,ristorante
-39.795715,18.353186,ov_lido_azzurro_39.7957_18.3532,Lido Azzurro,RESTAURANT,ristorante
-39.793806,18.350918,ov_ristorante_loquita_39.7938_18.3509,Ristorante Loquita,RESTAURANT,ristorante
-39.793761,18.348651,ov_molo_29_39.7938_18.3487,Molo 29,RESTAURANT,ristorante
-39.794346,18.351727,ov_athena_ristorante_pizzeria_39.7943_18.3517,Athena Ristorante Pizzeria,RESTAURANT,ristorante
-39.794939,18.352594,ov_samarinda_fine_beach_39.7949_18.3526,Samarinda Fine Beach,RESTAURANT,ristorante
-39.815198,18.349995,ov_agriturismo_serine_da_agricoltura_biolog_39.8152_18.3500,Agriturismo Serine da agricoltura biologica,RESTAURANT,ristorante
-39.809090,18.327060,ov_stuzzichiamo_39.8091_18.3271,Stuzzichiamo,RESTAURANT,ristorante
-39.829637,18.352450,ov_ristorante_del_sud_39.8296_18.3524,Ristorante del sud,RESTAURANT,ristorante
-39.835801,18.346784,ov_braceria_petracca_39.8358_18.3468,Braceria Petracca,RESTAURANT,ristorante
-39.833824,18.351447,ov_osteria_del_macellaio_39.8338_18.3514,Osteria del Macellaio,RESTAURANT,ristorante
-39.834125,18.348008,ov_pizzeria_acqua_e_farina_39.8341_18.3480,Pizzeria Acqua e Farina,RESTAURANT,ristorante
-39.835085,18.351160,ov_osteria_patrizio_39.8351_18.3512,Osteria Patrizio,RESTAURANT,ristorante
-39.834866,18.347604,ov_dolci_tentazioni_siciliane_39.8349_18.3476,Dolci tentazioni siciliane,RESTAURANT,ristorante
-39.832014,18.350672,ov_retro__casa_museo_bar_piccolo_ristoro_39.8320_18.3507,Retro' Casa Museo Bar Piccolo Ristoro,RESTAURANT,ristorante
-39.841962,18.365559,ov_re_sole_39.8420_18.3656,Re sole,RESTAURANT,ristorante
-39.847862,18.337312,ov_fulana_39.8479_18.3373,Fulana,RESTAURANT,ristorante
-39.833871,18.351420,osm_braceria__osteria_del_macellaio_39.8339_18.3514,Braceria, Osteria Del Macellaio,ristorante,ristorante
-39.797502,18.364759,ov_bar_del_porto_39.7975_18.3648,Bar Del Porto,RESTAURANT,bar_cafe
-39.797691,18.362517,ov_mazu_39.7977_18.3625,Mazu,RESTAURANT,bar_cafe
-39.798541,18.362759,ov_l_approdo_cocktail_bar_39.7985_18.3628,L'Approdo cocktail Bar,RESTAURANT,bar_cafe
-39.800486,18.367979,ov_bar_2_7_5_39.8005_18.3680,Bar 2.7.5,RESTAURANT,bar_cafe
-39.798030,18.352920,ov_scalo_57_39.7980_18.3529,Scalo 57,RESTAURANT,bar_cafe
-39.797701,18.355369,ov_vesoma_39.7977_18.3554,Vesoma,RESTAURANT,bar_cafe
-39.797074,18.358576,ov_gnam_39.7971_18.3586,Gnam,RESTAURANT,bar_cafe
-39.796319,18.353476,ov_cafe_riz_39.7963_18.3535,Cafe Riz,RESTAURANT,bar_cafe
-39.795706,18.355785,ov_blanc_leuca_39.7957_18.3558,Blanc Leuca,RESTAURANT,bar_cafe
-39.795764,18.340822,ov_costa_di_ponente___nuova_gestione_39.7958_18.3408,Costa di Ponente - NUOVA Gestione,RESTAURANT,bar_cafe
-39.790336,18.345780,ov_ananasso_leucano_39.7903_18.3458,Ananasso Leucano,RESTAURANT,bar_cafe
-39.835040,18.357091,ov_nicola_s_cafe_39.8350_18.3571,Nicola's Cafe,RESTAURANT,bar_cafe
-39.833205,18.349105,ov_chat_bar___centro_scommesse_betitaly_39.8332_18.3491,Chat Bar - Centro Scommesse Betitaly,RESTAURANT,bar_cafe
-39.842674,18.337811,ov_bar_movie_39.8427_18.3378,Bar Movie,RESTAURANT,bar_cafe
-39.920651,18.065209,ov_camilla_westcoast_39.9207_18.0652,Camilla WestCoast,RESTAURANT,bar_cafe
-40.264627,18.187339,ov_retr__casa_museo_bar_piccolo_ristoro_40.2646_18.1873,Retrò casa museo Bar Piccolo Ristoro,RESTAURANT,bar_cafe
-40.346826,18.115419,ov_santamaria_di_leuca_40.3468_18.1154,Santamaria Di Leuca,RESTAURANT,bar_cafe
-40.371191,18.214077,ov_bar_leuca_40.3712_18.2141,Bar Leuca,RESTAURANT,bar_cafe
-39.798398,18.360493,osm_santa_chiara_enoteca_wine_bar_39.7984_18.3605,Santa Chiara Enoteca Wine Bar,bar_cafe,bar_cafe
-39.834059,18.348087,osm_castrum_bar_aperitivi_39.8341_18.3481,Castrum Bar Aperitivi,bar_cafe,bar_cafe
-39.796946,18.356117,osm_caffetteria_martinucci_39.7969_18.3561,Caffetteria Martinucci,bar_cafe,bar_cafe
-39.798590,18.359772,ov_gnu_diving_salento_39.7986_18.3598,Gnu Diving Salento,GYM,palestra
-39.801753,18.363240,ov_volley_camp_nuzzosan_39.8018_18.3632,Volley Camp Nuzzosan,GYM,palestra
-39.796381,18.336015,ov_tre_porte_leuca_39.7964_18.3360,Tre Porte Leuca,GYM,palestra
-39.851154,18.339022,ov_laboratorio_urbano_giovanile___lug___giu_39.8512_18.3390,Laboratorio Urbano Giovanile - LUG - Giuliano di Lecce,GYM,palestra
-39.797435,18.351456,ov_museo_civico_del_corallo_bianco_leukos_39.7974_18.3515,Museo Civico del Corallo Bianco Leukos,MUSEUM,monumento
+39.797173,18.359925,ov_lega_navale_39.7972_18.3599,Lega Navale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/lega_navale_39.7972_18.3599.json,custom
+39.797609,18.364656,ov_ristorante_fedele_39.7976_18.3647,Ristorante Fedele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/ristorante_fedele_39.7976_18.3647.json,custom
+39.798485,18.359664,ov_hosteria_del_pardo_39.7985_18.3597,Hosteria del Pardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/hosteria_del_pardo_39.7985_18.3597.json,custom
+39.798434,18.360517,ov_l_angolo_azzurro_pescheria_friggitoria_39.7984_18.3605,L angolo azzurro Pescheria Friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/l_angolo_azzurro_pescheria_friggitoria_39.7984_18.3605.json,custom
+39.799424,18.363920,ov_mediterraneo_fish_39.7994_18.3639,Mediterraneo fish,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/mediterraneo_fish_39.7994_18.3639.json,custom
+39.799308,18.364324,ov_boccaccio_la_poesia_in_un_barattolo_39.7993_18.3643,Boccaccio la Poesia in un Barattolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/boccaccio_la_poesia_in_un_barattolo_39.7993_18.3643.json,custom
+39.799620,18.368104,ov_leucalta_39.7996_18.3681,Leucalta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/leucalta_39.7996_18.3681.json,custom
+39.804780,18.328656,ov_mattia_cordella___cucina_di_mare_39.8048_18.3287,Mattia Cordella - Cucina di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/mattia_cordella_-_cucina_di_mare_39.8048_18.3287.json,custom
+39.802144,18.330392,ov_mangiamare_39.8021_18.3304,Mangiamare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/mangiamare_39.8021_18.3304.json,custom
+39.801290,18.357509,ov_ristorante_2_mari_39.8013_18.3575,Ristorante 2 Mari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/ristorante_2_mari_39.8013_18.3575.json,custom
+39.799550,18.356069,ov_pizzeria_da_leo_39.7996_18.3561,Pizzeria Da Leo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/pizzeria_da_leo_39.7996_18.3561.json,custom
+39.798697,18.354245,ov_boccondivino_39.7987_18.3542,Boccondivino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/boccondivino_39.7987_18.3542.json,custom
+39.798670,18.357383,ov_pizzeria_napoletana_della_corte_39.7987_18.3574,Pizzeria Napoletana della Corte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/pizzeria_napoletana_della_corte_39.7987_18.3574.json,custom
+39.798040,18.352900,ov_costa_di_ponente_39.7980_18.3529,Costa di Ponente,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/costa_di_ponente_39.7980_18.3529.json,custom
+39.798254,18.353595,ov_home_restaurant_39.7983_18.3536,Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/home_restaurant_39.7983_18.3536.json,custom
+39.796474,18.335810,ov_trattoria_tatanka_39.7965_18.3358,Trattoria Tatanka,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/trattoria_tatanka_39.7965_18.3358.json,custom
+39.796933,18.354315,ov_sacrestia_restaurant_39.7969_18.3543,Sacrestia Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/sacrestia_restaurant_39.7969_18.3543.json,custom
+39.796655,18.354205,ov_calura_leuca_39.7967_18.3542,Calura Leuca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/calura_leuca_39.7967_18.3542.json,custom
+39.796440,18.354533,ov_fujimu_ristorante_39.7964_18.3545,Fujimu Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/fujimu_ristorante_39.7964_18.3545.json,custom
+39.796603,18.355118,ov_pasta_leuca_39.7966_18.3551,Pasta Leuca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/pasta_leuca_39.7966_18.3551.json,custom
+39.796192,18.355903,ov_santa_maria_39.7962_18.3559,Santa Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/santa_maria_39.7962_18.3559.json,custom
+39.796276,18.356595,ov_lupo_di_mare_39.7963_18.3566,Lupo di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/lupo_di_mare_39.7963_18.3566.json,custom
+39.796381,18.354200,ov_caf__d__mar_39.7964_18.3542,Cafè dò Mar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/caf_d_mar_39.7964_18.3542.json,custom
+39.796303,18.353886,ov_la_conchiglia_39.7963_18.3539,La Conchiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/la_conchiglia_39.7963_18.3539.json,custom
+39.795800,18.352986,ov_la_fica_paccia_39.7958_18.3530,La Fica Paccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/la_fica_paccia_39.7958_18.3530.json,custom
+39.795715,18.353186,ov_lido_azzurro_39.7957_18.3532,Lido Azzurro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/lido_azzurro_39.7957_18.3532.json,custom
+39.793806,18.350918,ov_ristorante_loquita_39.7938_18.3509,Ristorante Loquita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/ristorante_loquita_39.7938_18.3509.json,custom
+39.793761,18.348651,ov_molo_29_39.7938_18.3487,Molo 29,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/molo_29_39.7938_18.3487.json,custom
+39.794346,18.351727,ov_athena_ristorante_pizzeria_39.7943_18.3517,Athena Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/athena_ristorante_pizzeria_39.7943_18.3517.json,custom
+39.794939,18.352594,ov_samarinda_fine_beach_39.7949_18.3526,Samarinda Fine Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/samarinda_fine_beach_39.7949_18.3526.json,custom
+39.815198,18.349995,ov_agriturismo_serine_da_agricoltura_biolog_39.8152_18.3500,Agriturismo Serine da agricoltura biologica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/agriturismo_serine_da_agricoltura_biolog_39.8152_18.3500.json,custom
+39.809090,18.327060,ov_stuzzichiamo_39.8091_18.3271,Stuzzichiamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/stuzzichiamo_39.8091_18.3271.json,custom
+39.829637,18.352450,ov_ristorante_del_sud_39.8296_18.3524,Ristorante del sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/ristorante_del_sud_39.8296_18.3524.json,custom
+39.835801,18.346784,ov_braceria_petracca_39.8358_18.3468,Braceria Petracca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/braceria_petracca_39.8358_18.3468.json,custom
+39.833824,18.351447,ov_osteria_del_macellaio_39.8338_18.3514,Osteria del Macellaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/osteria_del_macellaio_39.8338_18.3514.json,custom
+39.834125,18.348008,ov_pizzeria_acqua_e_farina_39.8341_18.3480,Pizzeria Acqua e Farina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/pizzeria_acqua_e_farina_39.8341_18.3480.json,custom
+39.835085,18.351160,ov_osteria_patrizio_39.8351_18.3512,Osteria Patrizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/osteria_patrizio_39.8351_18.3512.json,custom
+39.834866,18.347604,ov_dolci_tentazioni_siciliane_39.8349_18.3476,Dolci tentazioni siciliane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/dolci_tentazioni_siciliane_39.8349_18.3476.json,custom
+39.832014,18.350672,ov_retro__casa_museo_bar_piccolo_ristoro_39.8320_18.3507,Retro' Casa Museo Bar Piccolo Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/retro_casa_museo_bar_piccolo_ristoro_39.8320_18.3507.json,custom
+39.841962,18.365559,ov_re_sole_39.8420_18.3656,Re sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/re_sole_39.8420_18.3656.json,custom
+39.847862,18.337312,ov_fulana_39.8479_18.3373,Fulana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/fulana_39.8479_18.3373.json,custom
+39.798809,18.361217,osm_hosteria_al_pardo_39.7988_18.3612,Hosteria Al Pardo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/hosteria_al_pardo_39.7988_18.3612.json,custom
+39.793914,18.351858,osm_24re_39.7939_18.3519,24re,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/24re_39.7939_18.3519.json,custom
+39.796339,18.353430,osm_hotel_rizieri_ristorante_39.7963_18.3534,Hotel Rizieri Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/hotel_rizieri_ristorante_39.7963_18.3534.json,custom
+39.833871,18.351420,osm_braceria__osteria_del_macellaio_39.8339_18.3514,Braceria, Osteria Del Macellaio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/braceria_osteria_del_macellaio_39.8339_18.3514.json,custom
+39.832056,18.350671,osm_retr____casa_museo___cucina_tipica_salen_39.8321_18.3507,Retrò - Casa Museo - cucina tipica salentina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/retr_-_casa_museo_-_cucina_tipica_salent_39.8321_18.3507.json,custom
+39.799964,18.364494,osm_bacio_di_puglia_39.8000_18.3645,Bacio di Puglia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/bacio_di_puglia_39.8000_18.3645.json,custom
+39.794875,18.352617,osm_samarinda_39.7949_18.3526,Samarinda,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/samarinda_39.7949_18.3526.json,custom
+39.797119,18.358571,osm_gnam_39.7971_18.3586,Gnam,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/gnam_39.7971_18.3586.json,custom
+39.797502,18.364759,ov_bar_del_porto_39.7975_18.3648,Bar Del Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/bar_del_porto_39.7975_18.3648.json,custom
+39.797691,18.362517,ov_mazu_39.7977_18.3625,Mazu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/mazu_39.7977_18.3625.json,custom
+39.798541,18.362759,ov_l_approdo_cocktail_bar_39.7985_18.3628,L'Approdo cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/lapprodo_cocktail_bar_39.7985_18.3628.json,custom
+39.800486,18.367979,ov_bar_2_7_5_39.8005_18.3680,Bar 2.7.5,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/bar_275_39.8005_18.3680.json,custom
+39.798030,18.352920,ov_scalo_57_39.7980_18.3529,Scalo 57,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/scalo_57_39.7980_18.3529.json,custom
+39.797701,18.355369,ov_vesoma_39.7977_18.3554,Vesoma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/vesoma_39.7977_18.3554.json,custom
+39.797074,18.358576,ov_gnam_39.7971_18.3586,Gnam,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/gnam_39.7971_18.3586.json,custom
+39.796319,18.353476,ov_cafe_riz_39.7963_18.3535,Cafe Riz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/cafe_riz_39.7963_18.3535.json,custom
+39.795706,18.355785,ov_blanc_leuca_39.7957_18.3558,Blanc Leuca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/blanc_leuca_39.7957_18.3558.json,custom
+39.795764,18.340822,ov_costa_di_ponente___nuova_gestione_39.7958_18.3408,Costa di Ponente - NUOVA Gestione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/costa_di_ponente_-_nuova_gestione_39.7958_18.3408.json,custom
+39.790336,18.345780,ov_ananasso_leucano_39.7903_18.3458,Ananasso Leucano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/ananasso_leucano_39.7903_18.3458.json,custom
+39.835040,18.357091,ov_nicola_s_cafe_39.8350_18.3571,Nicola's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/nicolas_cafe_39.8350_18.3571.json,custom
+39.833205,18.349105,ov_chat_bar___centro_scommesse_betitaly_39.8332_18.3491,Chat Bar - Centro Scommesse Betitaly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/chat_bar_-_centro_scommesse_betitaly_39.8332_18.3491.json,custom
+39.842674,18.337811,ov_bar_movie_39.8427_18.3378,Bar Movie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/bar_movie_39.8427_18.3378.json,custom
+39.920651,18.065209,ov_camilla_westcoast_39.9207_18.0652,Camilla WestCoast,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/camilla_westcoast_39.9207_18.0652.json,custom
+40.264627,18.187339,ov_retr__casa_museo_bar_piccolo_ristoro_40.2646_18.1873,Retrò casa museo Bar Piccolo Ristoro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/retr_casa_museo_bar_piccolo_ristoro_40.2646_18.1873.json,custom
+40.346826,18.115419,ov_santamaria_di_leuca_40.3468_18.1154,Santamaria Di Leuca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/santamaria_di_leuca_40.3468_18.1154.json,custom
+40.371191,18.214077,ov_bar_leuca_40.3712_18.2141,Bar Leuca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/bar_leuca_40.3712_18.2141.json,custom
+39.798398,18.360493,osm_santa_chiara_enoteca_wine_bar_39.7984_18.3605,Santa Chiara Enoteca Wine Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/santa_chiara_enoteca_wine_bar_39.7984_18.3605.json,custom
+39.834059,18.348087,osm_castrum_bar_aperitivi_39.8341_18.3481,Castrum Bar Aperitivi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/castrum_bar_aperitivi_39.8341_18.3481.json,custom
+39.796946,18.356117,osm_caffetteria_martinucci_39.7969_18.3561,Caffetteria Martinucci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/caffetteria_martinucci_39.7969_18.3561.json,custom
+39.798590,18.359772,ov_gnu_diving_salento_39.7986_18.3598,Gnu Diving Salento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/gnu_diving_salento_39.7986_18.3598.json,custom
+39.801753,18.363240,ov_volley_camp_nuzzosan_39.8018_18.3632,Volley Camp Nuzzosan,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/volley_camp_nuzzosan_39.8018_18.3632.json,custom
+39.796381,18.336015,ov_tre_porte_leuca_39.7964_18.3360,Tre Porte Leuca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/tre_porte_leuca_39.7964_18.3360.json,custom
+39.851154,18.339022,ov_laboratorio_urbano_giovanile___lug___giu_39.8512_18.3390,Laboratorio Urbano Giovanile - LUG - Giuliano di Lecce,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/laboratorio_urbano_giovanile_-_lug_-_giu_39.8512_18.3390.json,custom
+39.797435,18.351456,ov_museo_civico_del_corallo_bianco_leukos_39.7974_18.3515,Museo Civico del Corallo Bianco Leukos,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_del_capo/pages/museo_civico_del_corallo_bianco_leukos_39.7974_18.3515.json,custom

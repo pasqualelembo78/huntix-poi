@@ -1,91 +1,91 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # martina_franca -- bars_cafes
-40.644682,17.316659,ov_bar_san_paolo_tabacchi_40.6447_17.3167,Bar San Paolo Tabacchi,RESTAURANT,bar_cafe
-40.631206,17.316059,ov_new_bar_villa_bianca_40.6312_17.3161,New BAR Villa Bianca,RESTAURANT,bar_cafe
-40.707958,17.331265,ov_new_desideri_40.7080_17.3313,New Desideri,RESTAURANT,bar_cafe
-40.708082,17.332795,ov_mondo_caffe_40.7081_17.3328,Mondo Caffe,RESTAURANT,bar_cafe
-40.707943,17.338141,ov_divino_wine_bar_40.7079_17.3381,Divino Wine Bar,RESTAURANT,bar_cafe
-40.717762,17.330725,ov_itria_caffe_di_gianni_e_mirela_40.7178_17.3307,Itria Caffe di Gianni e Mirela,RESTAURANT,bar_cafe
-40.704189,17.346866,ov_moussology_bar_morola_40.7042_17.3469,Moussology Bar Morola,RESTAURANT,bar_cafe
-40.702788,17.344299,ov_ester_bar_ricevitoria_40.7028_17.3443,Ester Bar Ricevitoria,RESTAURANT,bar_cafe
-40.705045,17.342692,ov_caff__delle_rose_40.7050_17.3427,Caffè delle Rose,RESTAURANT,bar_cafe
-40.706636,17.338670,ov_pub_el_paso_saloon_40.7066_17.3387,Pub El Paso Saloon,RESTAURANT,bar_cafe
-40.706830,17.341661,ov_old_fashion_cafe_40.7068_17.3417,Old Fashion Cafe,RESTAURANT,bar_cafe
-40.706134,17.341588,ov_enoteca_terruli_40.7061_17.3416,Enoteca Terruli,RESTAURANT,bar_cafe
-40.705532,17.339277,ov_sale_a_martina_franca_40.7055_17.3393,Sale a Martina Franca,RESTAURANT,bar_cafe
-40.705356,17.337386,ov_dreams_cocktail_bar_40.7054_17.3374,Dreams Cocktail-bar,RESTAURANT,bar_cafe
-40.705344,17.336547,ov_pensieri_vaganti_40.7053_17.3365,Pensieri Vaganti,RESTAURANT,bar_cafe
-40.705734,17.336555,ov_viadeimattinumerozero_di_liuzzi_antonio__40.7057_17.3366,Viadeimattinumerozero di Liuzzi Antonio e Christian Stifano,RESTAURANT,bar_cafe
-40.705782,17.335566,ov_caff__tripoli_40.7058_17.3356,Caffè Tripoli,RESTAURANT,bar_cafe
-40.705901,17.335441,ov_delle_virt__e_dei_vizi_in_particolare_40.7059_17.3354,Delle virtù e dei vizi in particolare,RESTAURANT,bar_cafe
-40.705584,17.336030,ov_caffetteria_cremeria_vienna_40.7056_17.3360,Caffetteria Cremeria Vienna,RESTAURANT,bar_cafe
-40.705540,17.335691,ov_il_bacareto_40.7055_17.3357,Il bacareto,RESTAURANT,bar_cafe
-40.705411,17.335987,ov_chi_se_ne_food_40.7054_17.3360,Chi Se Ne Food,RESTAURANT,bar_cafe
-40.707661,17.334311,ov_bar_la_piazzetta_40.7077_17.3343,Bar La Piazzetta,RESTAURANT,bar_cafe
-40.706548,17.331314,ov_enoteca_dioniso_40.7065_17.3313,Enoteca Dioniso,RESTAURANT,bar_cafe
-40.706072,17.334002,ov_burrata_bar_40.7061_17.3340,Burrata Bar,RESTAURANT,bar_cafe
-40.705436,17.332434,ov_bar_cubana_40.7054_17.3324,Bar Cubana,RESTAURANT,bar_cafe
-40.703097,17.328460,ov_terrazza_ferrari_palazzo_digiuseppe_40.7031_17.3285,Terrazza Ferrari Palazzo Digiuseppe,RESTAURANT,bar_cafe
-40.704233,17.334299,ov_bar_2000_40.7042_17.3343,Bar 2000,RESTAURANT,bar_cafe
-40.704422,17.334529,ov_il_quartino_40.7044_17.3345,Il Quartino,RESTAURANT,bar_cafe
-40.704936,17.336426,ov_il_bar_pi__piccolo_del_mondo_40.7049_17.3364,Il Bar Più Piccolo del Mondo,RESTAURANT,bar_cafe
-40.704934,17.336427,ov_alla_frutta_40.7049_17.3364,alla Frutta,RESTAURANT,bar_cafe
-40.704298,17.339471,ov_muscato_caffe_40.7043_17.3395,Muscato Caffe,RESTAURANT,bar_cafe
-40.704521,17.339212,ov_bar_xx_settembre_40.7045_17.3392,Bar XX Settembre,RESTAURANT,bar_cafe
-40.705223,17.338394,ov_birreria_fratelli_di_pinta_40.7052_17.3384,Birreria Fratelli Di Pinta,RESTAURANT,bar_cafe
-40.705193,17.338451,ov_u_cur_net_40.7052_17.3385,U Cur.net,RESTAURANT,bar_cafe
-40.705185,17.338792,ov_l_aperitivo_40.7052_17.3388,L'Aperitivo,RESTAURANT,bar_cafe
-40.705045,17.338713,ov_arcadia_tap_bar_40.7050_17.3387,Arcadia Tap Bar,RESTAURANT,bar_cafe
-40.704977,17.338748,ov_superbar_carriero_40.7050_17.3387,Superbar Carriero,RESTAURANT,bar_cafe
-40.705010,17.339740,ov_meme_40.7050_17.3397,Meme,RESTAURANT,bar_cafe
-40.704792,17.339056,ov_bolla_community_bar_40.7048_17.3391,Bolla Community Bar,RESTAURANT,bar_cafe
-40.704854,17.339188,ov_bar_carriero_40.7049_17.3392,Bar Carriero,RESTAURANT,bar_cafe
-40.704743,17.339460,ov_cotidiano_40.7047_17.3395,Cotidiano,RESTAURANT,bar_cafe
-40.704739,17.339812,ov_grand_caffe_40.7047_17.3398,Grand Caffe,RESTAURANT,bar_cafe
-40.704978,17.339893,ov_convivium_wine_bar_40.7050_17.3399,Convivium Wine Bar,RESTAURANT,bar_cafe
-40.704015,17.339880,ov_new_martina_caff__40.7040_17.3399,New Martina Caffè,RESTAURANT,bar_cafe
-40.704122,17.341064,ov_cocoa_cafe_40.7041_17.3411,Cocoa Cafe,RESTAURANT,bar_cafe
-40.704280,17.341500,ov_antico_forno_i_sassi_di_matera_40.7043_17.3415,Antico Forno i Sassi di Matera,RESTAURANT,bar_cafe
-40.703861,17.341576,ov_civico_45_cafe__40.7039_17.3416,Civico 45 cafe',RESTAURANT,bar_cafe
-40.703479,17.341555,ov_nuovo_caffe_del_corso_40.7035_17.3416,Nuovo Caffe del Corso,RESTAURANT,bar_cafe
-40.703689,17.338843,ov_cellar_guinness_pub_40.7037_17.3388,Cellar Guinness Pub,RESTAURANT,bar_cafe
-40.703594,17.338841,ov_zena_martina_franca_40.7036_17.3388,ZENA Martina Franca,RESTAURANT,bar_cafe
-40.703427,17.339205,ov_taverna_vini_di_nicchia_40.7034_17.3392,Taverna Vini di Nicchia,RESTAURANT,bar_cafe
-40.702866,17.339262,ov_adua_40.7029_17.3393,Adua,RESTAURANT,bar_cafe
-40.703224,17.341714,ov_class_caf__40.7032_17.3417,Class Cafè,RESTAURANT,bar_cafe
-40.702929,17.341548,ov_eden_bar_40.7029_17.3415,Eden Bar,RESTAURANT,bar_cafe
-40.702613,17.339436,ov_bis_bar_40.7026_17.3394,Bis Bar,RESTAURANT,bar_cafe
-40.702538,17.339128,ov_morola_40.7025_17.3391,Morola,RESTAURANT,bar_cafe
-40.702239,17.338959,ov_mood_40.7022_17.3390,Mood,RESTAURANT,bar_cafe
-40.702148,17.339808,ov_fish___chips_40.7021_17.3398,Fish & Chips,RESTAURANT,bar_cafe
-40.701555,17.339473,ov_punto_ristoro_40.7016_17.3395,Punto Ristoro,RESTAURANT,bar_cafe
-40.701659,17.340432,ov_annette_caf__40.7017_17.3404,Annette cafè,RESTAURANT,bar_cafe
-40.700441,17.341085,ov_da_nic____food___beverage_40.7004_17.3411,Da Nicò - Food & Beverage,RESTAURANT,bar_cafe
-40.700556,17.339559,ov_caffetteria_dolce_e_salato_40.7006_17.3396,Caffetteria Dolce e Salato,RESTAURANT,bar_cafe
-40.700699,17.335954,ov_eclair_cafe_40.7007_17.3360,Eclair Cafe,RESTAURANT,bar_cafe
-40.701567,17.334331,ov_nuovo_tripoli_caf__40.7016_17.3343,Nuovo Tripoli Cafè,RESTAURANT,bar_cafe
-40.701498,17.333838,ov_nuovotripoli_di_colucci_nicola_40.7015_17.3338,Nuovotripoli di Colucci Nicola,RESTAURANT,bar_cafe
-40.700487,17.330368,ov_cafe_le_vetrine_40.7005_17.3304,Cafe Le Vetrine,RESTAURANT,bar_cafe
-40.701111,17.331793,ov_bar_moderno_40.7011_17.3318,Bar Moderno,RESTAURANT,bar_cafe
-40.698654,17.336915,ov_florien_caffe_40.6987_17.3369,Florien Caffe,RESTAURANT,bar_cafe
-40.699054,17.335535,ov_afa_caff__40.6991_17.3355,AFA CAFFÈ,RESTAURANT,bar_cafe
-40.699008,17.335093,ov_bar_tyffany_s_40.6990_17.3351,Bar Tyffany's,RESTAURANT,bar_cafe
-40.699088,17.335569,ov_layla_s_caf__40.6991_17.3356,Layla's Café,RESTAURANT,bar_cafe
-40.699371,17.335466,ov_time_cafe_40.6994_17.3355,Time Cafe,RESTAURANT,bar_cafe
-40.699675,17.338224,ov_mood_40.6997_17.3382,Mood,RESTAURANT,bar_cafe
-40.698631,17.338521,ov_barley_pub_40.6986_17.3385,Barley Pub,RESTAURANT,bar_cafe
-40.697612,17.338720,ov_enoteca_argento_40.6976_17.3387,Enoteca Argento,RESTAURANT,bar_cafe
-40.697597,17.340674,ov_saint_martin_40.6976_17.3407,Saint Martin,RESTAURANT,bar_cafe
-40.697659,17.343406,ov_zerotondo_40.6977_17.3434,Zerotondo,RESTAURANT,bar_cafe
-40.699941,17.345896,ov_caf__noir_40.6999_17.3459,Cafè Noir,RESTAURANT,bar_cafe
-40.699166,17.344791,ov_da_vinci_cafe_40.6992_17.3448,da Vinci Cafe,RESTAURANT,bar_cafe
-40.699806,17.343599,ov_caffe_lore_40.6998_17.3436,Caffe Lore,RESTAURANT,bar_cafe
-40.701456,17.342024,ov_taranto_40.7015_17.3420,Taranto,RESTAURANT,bar_cafe
-40.701889,17.343290,ov_d_angio_bar_40.7019_17.3433,D'Angio Bar,RESTAURANT,bar_cafe
-40.702273,17.342542,ov_pinky_pub_di_ricci_michele_40.7023_17.3425,Pinky Pub di Ricci Michele,RESTAURANT,bar_cafe
-40.702455,17.343310,ov_treseizero_pubblicita__40.7025_17.3433,Treseizero Pubblicita',RESTAURANT,bar_cafe
-40.702206,17.343795,ov_caf__paris_40.7022_17.3438,Café Paris,RESTAURANT,bar_cafe
-40.696693,17.339660,ov_martina_caff__40.6967_17.3397,Martina Caffè,RESTAURANT,bar_cafe
-40.705615,17.336025,osm_cremeria_vienna_40.7056_17.3360,Cremeria Vienna,bar_cafe,bar_cafe
-40.700549,17.330600,osm_le_vetrine_40.7005_17.3306,Le Vetrine,bar_cafe,bar_cafe
-40.701873,17.343304,osm_d_angi__bar___food_40.7019_17.3433,D'Angiò Bar & Food,bar_cafe,bar_cafe
+40.644682,17.316659,ov_bar_san_paolo_tabacchi_40.6447_17.3167,Bar San Paolo Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_san_paolo_tabacchi_40.6447_17.3167.json,custom
+40.631206,17.316059,ov_new_bar_villa_bianca_40.6312_17.3161,New BAR Villa Bianca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/new_bar_villa_bianca_40.6312_17.3161.json,custom
+40.707958,17.331265,ov_new_desideri_40.7080_17.3313,New Desideri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/new_desideri_40.7080_17.3313.json,custom
+40.708082,17.332795,ov_mondo_caffe_40.7081_17.3328,Mondo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/mondo_caffe_40.7081_17.3328.json,custom
+40.707943,17.338141,ov_divino_wine_bar_40.7079_17.3381,Divino Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/divino_wine_bar_40.7079_17.3381.json,custom
+40.717762,17.330725,ov_itria_caffe_di_gianni_e_mirela_40.7178_17.3307,Itria Caffe di Gianni e Mirela,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/itria_caffe_di_gianni_e_mirela_40.7178_17.3307.json,custom
+40.704189,17.346866,ov_moussology_bar_morola_40.7042_17.3469,Moussology Bar Morola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/moussology_bar_morola_40.7042_17.3469.json,custom
+40.702788,17.344299,ov_ester_bar_ricevitoria_40.7028_17.3443,Ester Bar Ricevitoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/ester_bar_ricevitoria_40.7028_17.3443.json,custom
+40.705045,17.342692,ov_caff__delle_rose_40.7050_17.3427,Caffè delle Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caff_delle_rose_40.7050_17.3427.json,custom
+40.706636,17.338670,ov_pub_el_paso_saloon_40.7066_17.3387,Pub El Paso Saloon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/pub_el_paso_saloon_40.7066_17.3387.json,custom
+40.706830,17.341661,ov_old_fashion_cafe_40.7068_17.3417,Old Fashion Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/old_fashion_cafe_40.7068_17.3417.json,custom
+40.706134,17.341588,ov_enoteca_terruli_40.7061_17.3416,Enoteca Terruli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/enoteca_terruli_40.7061_17.3416.json,custom
+40.705532,17.339277,ov_sale_a_martina_franca_40.7055_17.3393,Sale a Martina Franca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/sale_a_martina_franca_40.7055_17.3393.json,custom
+40.705356,17.337386,ov_dreams_cocktail_bar_40.7054_17.3374,Dreams Cocktail-bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/dreams_cocktail-bar_40.7054_17.3374.json,custom
+40.705344,17.336547,ov_pensieri_vaganti_40.7053_17.3365,Pensieri Vaganti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/pensieri_vaganti_40.7053_17.3365.json,custom
+40.705734,17.336555,ov_viadeimattinumerozero_di_liuzzi_antonio__40.7057_17.3366,Viadeimattinumerozero di Liuzzi Antonio e Christian Stifano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/viadeimattinumerozero_di_liuzzi_antonio__40.7057_17.3366.json,custom
+40.705782,17.335566,ov_caff__tripoli_40.7058_17.3356,Caffè Tripoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caff_tripoli_40.7058_17.3356.json,custom
+40.705901,17.335441,ov_delle_virt__e_dei_vizi_in_particolare_40.7059_17.3354,Delle virtù e dei vizi in particolare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/delle_virt_e_dei_vizi_in_particolare_40.7059_17.3354.json,custom
+40.705584,17.336030,ov_caffetteria_cremeria_vienna_40.7056_17.3360,Caffetteria Cremeria Vienna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caffetteria_cremeria_vienna_40.7056_17.3360.json,custom
+40.705540,17.335691,ov_il_bacareto_40.7055_17.3357,Il bacareto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/il_bacareto_40.7055_17.3357.json,custom
+40.705411,17.335987,ov_chi_se_ne_food_40.7054_17.3360,Chi Se Ne Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/chi_se_ne_food_40.7054_17.3360.json,custom
+40.707661,17.334311,ov_bar_la_piazzetta_40.7077_17.3343,Bar La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_la_piazzetta_40.7077_17.3343.json,custom
+40.706548,17.331314,ov_enoteca_dioniso_40.7065_17.3313,Enoteca Dioniso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/enoteca_dioniso_40.7065_17.3313.json,custom
+40.706072,17.334002,ov_burrata_bar_40.7061_17.3340,Burrata Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/burrata_bar_40.7061_17.3340.json,custom
+40.705436,17.332434,ov_bar_cubana_40.7054_17.3324,Bar Cubana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_cubana_40.7054_17.3324.json,custom
+40.703097,17.328460,ov_terrazza_ferrari_palazzo_digiuseppe_40.7031_17.3285,Terrazza Ferrari Palazzo Digiuseppe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/terrazza_ferrari_palazzo_digiuseppe_40.7031_17.3285.json,custom
+40.704233,17.334299,ov_bar_2000_40.7042_17.3343,Bar 2000,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_2000_40.7042_17.3343.json,custom
+40.704422,17.334529,ov_il_quartino_40.7044_17.3345,Il Quartino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/il_quartino_40.7044_17.3345.json,custom
+40.704936,17.336426,ov_il_bar_pi__piccolo_del_mondo_40.7049_17.3364,Il Bar Più Piccolo del Mondo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/il_bar_pi_piccolo_del_mondo_40.7049_17.3364.json,custom
+40.704934,17.336427,ov_alla_frutta_40.7049_17.3364,alla Frutta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/alla_frutta_40.7049_17.3364.json,custom
+40.704298,17.339471,ov_muscato_caffe_40.7043_17.3395,Muscato Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/muscato_caffe_40.7043_17.3395.json,custom
+40.704521,17.339212,ov_bar_xx_settembre_40.7045_17.3392,Bar XX Settembre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_xx_settembre_40.7045_17.3392.json,custom
+40.705223,17.338394,ov_birreria_fratelli_di_pinta_40.7052_17.3384,Birreria Fratelli Di Pinta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/birreria_fratelli_di_pinta_40.7052_17.3384.json,custom
+40.705193,17.338451,ov_u_cur_net_40.7052_17.3385,U Cur.net,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/u_curnet_40.7052_17.3385.json,custom
+40.705185,17.338792,ov_l_aperitivo_40.7052_17.3388,L'Aperitivo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/laperitivo_40.7052_17.3388.json,custom
+40.705045,17.338713,ov_arcadia_tap_bar_40.7050_17.3387,Arcadia Tap Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/arcadia_tap_bar_40.7050_17.3387.json,custom
+40.704977,17.338748,ov_superbar_carriero_40.7050_17.3387,Superbar Carriero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/superbar_carriero_40.7050_17.3387.json,custom
+40.705010,17.339740,ov_meme_40.7050_17.3397,Meme,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/meme_40.7050_17.3397.json,custom
+40.704792,17.339056,ov_bolla_community_bar_40.7048_17.3391,Bolla Community Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bolla_community_bar_40.7048_17.3391.json,custom
+40.704854,17.339188,ov_bar_carriero_40.7049_17.3392,Bar Carriero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_carriero_40.7049_17.3392.json,custom
+40.704743,17.339460,ov_cotidiano_40.7047_17.3395,Cotidiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/cotidiano_40.7047_17.3395.json,custom
+40.704739,17.339812,ov_grand_caffe_40.7047_17.3398,Grand Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/grand_caffe_40.7047_17.3398.json,custom
+40.704978,17.339893,ov_convivium_wine_bar_40.7050_17.3399,Convivium Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/convivium_wine_bar_40.7050_17.3399.json,custom
+40.704015,17.339880,ov_new_martina_caff__40.7040_17.3399,New Martina Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/new_martina_caff_40.7040_17.3399.json,custom
+40.704122,17.341064,ov_cocoa_cafe_40.7041_17.3411,Cocoa Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/cocoa_cafe_40.7041_17.3411.json,custom
+40.704280,17.341500,ov_antico_forno_i_sassi_di_matera_40.7043_17.3415,Antico Forno i Sassi di Matera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/antico_forno_i_sassi_di_matera_40.7043_17.3415.json,custom
+40.703861,17.341576,ov_civico_45_cafe__40.7039_17.3416,Civico 45 cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/civico_45_cafe_40.7039_17.3416.json,custom
+40.703479,17.341555,ov_nuovo_caffe_del_corso_40.7035_17.3416,Nuovo Caffe del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/nuovo_caffe_del_corso_40.7035_17.3416.json,custom
+40.703689,17.338843,ov_cellar_guinness_pub_40.7037_17.3388,Cellar Guinness Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/cellar_guinness_pub_40.7037_17.3388.json,custom
+40.703594,17.338841,ov_zena_martina_franca_40.7036_17.3388,ZENA Martina Franca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/zena_martina_franca_40.7036_17.3388.json,custom
+40.703427,17.339205,ov_taverna_vini_di_nicchia_40.7034_17.3392,Taverna Vini di Nicchia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/taverna_vini_di_nicchia_40.7034_17.3392.json,custom
+40.702866,17.339262,ov_adua_40.7029_17.3393,Adua,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/adua_40.7029_17.3393.json,custom
+40.703224,17.341714,ov_class_caf__40.7032_17.3417,Class Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/class_caf_40.7032_17.3417.json,custom
+40.702929,17.341548,ov_eden_bar_40.7029_17.3415,Eden Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/eden_bar_40.7029_17.3415.json,custom
+40.702613,17.339436,ov_bis_bar_40.7026_17.3394,Bis Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bis_bar_40.7026_17.3394.json,custom
+40.702538,17.339128,ov_morola_40.7025_17.3391,Morola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/morola_40.7025_17.3391.json,custom
+40.702239,17.338959,ov_mood_40.7022_17.3390,Mood,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/mood_40.7022_17.3390.json,custom
+40.702148,17.339808,ov_fish___chips_40.7021_17.3398,Fish & Chips,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/fish_chips_40.7021_17.3398.json,custom
+40.701555,17.339473,ov_punto_ristoro_40.7016_17.3395,Punto Ristoro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/punto_ristoro_40.7016_17.3395.json,custom
+40.701659,17.340432,ov_annette_caf__40.7017_17.3404,Annette cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/annette_caf_40.7017_17.3404.json,custom
+40.700441,17.341085,ov_da_nic____food___beverage_40.7004_17.3411,Da Nicò - Food & Beverage,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/da_nic_-_food_beverage_40.7004_17.3411.json,custom
+40.700556,17.339559,ov_caffetteria_dolce_e_salato_40.7006_17.3396,Caffetteria Dolce e Salato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caffetteria_dolce_e_salato_40.7006_17.3396.json,custom
+40.700699,17.335954,ov_eclair_cafe_40.7007_17.3360,Eclair Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/eclair_cafe_40.7007_17.3360.json,custom
+40.701567,17.334331,ov_nuovo_tripoli_caf__40.7016_17.3343,Nuovo Tripoli Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/nuovo_tripoli_caf_40.7016_17.3343.json,custom
+40.701498,17.333838,ov_nuovotripoli_di_colucci_nicola_40.7015_17.3338,Nuovotripoli di Colucci Nicola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/nuovotripoli_di_colucci_nicola_40.7015_17.3338.json,custom
+40.700487,17.330368,ov_cafe_le_vetrine_40.7005_17.3304,Cafe Le Vetrine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/cafe_le_vetrine_40.7005_17.3304.json,custom
+40.701111,17.331793,ov_bar_moderno_40.7011_17.3318,Bar Moderno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_moderno_40.7011_17.3318.json,custom
+40.698654,17.336915,ov_florien_caffe_40.6987_17.3369,Florien Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/florien_caffe_40.6987_17.3369.json,custom
+40.699054,17.335535,ov_afa_caff__40.6991_17.3355,AFA CAFFÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/afa_caff_40.6991_17.3355.json,custom
+40.699008,17.335093,ov_bar_tyffany_s_40.6990_17.3351,Bar Tyffany's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/bar_tyffanys_40.6990_17.3351.json,custom
+40.699088,17.335569,ov_layla_s_caf__40.6991_17.3356,Layla's Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/laylas_caf_40.6991_17.3356.json,custom
+40.699371,17.335466,ov_time_cafe_40.6994_17.3355,Time Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/time_cafe_40.6994_17.3355.json,custom
+40.699675,17.338224,ov_mood_40.6997_17.3382,Mood,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/mood_40.6997_17.3382.json,custom
+40.698631,17.338521,ov_barley_pub_40.6986_17.3385,Barley Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/barley_pub_40.6986_17.3385.json,custom
+40.697612,17.338720,ov_enoteca_argento_40.6976_17.3387,Enoteca Argento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/enoteca_argento_40.6976_17.3387.json,custom
+40.697597,17.340674,ov_saint_martin_40.6976_17.3407,Saint Martin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/saint_martin_40.6976_17.3407.json,custom
+40.697659,17.343406,ov_zerotondo_40.6977_17.3434,Zerotondo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/zerotondo_40.6977_17.3434.json,custom
+40.699941,17.345896,ov_caf__noir_40.6999_17.3459,Cafè Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caf_noir_40.6999_17.3459.json,custom
+40.699166,17.344791,ov_da_vinci_cafe_40.6992_17.3448,da Vinci Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/da_vinci_cafe_40.6992_17.3448.json,custom
+40.699806,17.343599,ov_caffe_lore_40.6998_17.3436,Caffe Lore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caffe_lore_40.6998_17.3436.json,custom
+40.701456,17.342024,ov_taranto_40.7015_17.3420,Taranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/taranto_40.7015_17.3420.json,custom
+40.701889,17.343290,ov_d_angio_bar_40.7019_17.3433,D'Angio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/dangio_bar_40.7019_17.3433.json,custom
+40.702273,17.342542,ov_pinky_pub_di_ricci_michele_40.7023_17.3425,Pinky Pub di Ricci Michele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/pinky_pub_di_ricci_michele_40.7023_17.3425.json,custom
+40.702455,17.343310,ov_treseizero_pubblicita__40.7025_17.3433,Treseizero Pubblicita',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/treseizero_pubblicita_40.7025_17.3433.json,custom
+40.702206,17.343795,ov_caf__paris_40.7022_17.3438,Café Paris,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/caf_paris_40.7022_17.3438.json,custom
+40.696693,17.339660,ov_martina_caff__40.6967_17.3397,Martina Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/martina_caff_40.6967_17.3397.json,custom
+40.705615,17.336025,osm_cremeria_vienna_40.7056_17.3360,Cremeria Vienna,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/cremeria_vienna_40.7056_17.3360.json,custom
+40.700549,17.330600,osm_le_vetrine_40.7005_17.3306,Le Vetrine,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/le_vetrine_40.7005_17.3306.json,custom
+40.701873,17.343304,osm_d_angi__bar___food_40.7019_17.3433,D'Angiò Bar & Food,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/dangi_bar_food_40.7019_17.3433.json,custom

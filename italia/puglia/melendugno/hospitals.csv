@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # melendugno -- hospitals
-40.268643,18.419002,ov_centro_narconon_il_gabbiano_40.2686_18.4190,Centro Narconon Il Gabbiano,HOSPITAL,hospital
-40.275390,18.333510,ov_cmd_santa_lucia_40.2754_18.3335,CMD Santa Lucia,HOSPITAL,hospital
+40.268643,18.419002,ov_centro_narconon_il_gabbiano_40.2686_18.4190,Centro Narconon Il Gabbiano,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/centro_narconon_il_gabbiano_40.2686_18.4190.json,custom
+40.275390,18.333510,ov_cmd_santa_lucia_40.2754_18.3335,CMD Santa Lucia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/cmd_santa_lucia_40.2754_18.3335.json,custom

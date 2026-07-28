@@ -1,19 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alessano -- restaurants
-39.891563,18.328331,osm_caff__trattoria_da_eleonora_39.8916_18.3283,Caffè Trattoria Da Eleonora,ristorante,ristorante
-39.919588,18.326131,osm_ristorante_da_enzo_39.9196_18.3261,Ristorante Da Enzo,ristorante,ristorante
-39.876857,18.357660,ov_masseria_galatea_39.8769_18.3577,Masseria Galatea,RESTAURANT,ristorante
-39.880170,18.336531,ov_pizzeria_sapor__39.8802_18.3365,Pizzeria Saporé,RESTAURANT,ristorante
-39.884442,18.334375,ov_li_chiani_39.8844_18.3344,Li Chiani,RESTAURANT,ristorante
-39.895412,18.333408,ov_citt__del_sole_39.8954_18.3334,Città del Sole,RESTAURANT,ristorante
-39.894011,18.333615,ov_lievit_amo_39.8940_18.3336,Lievit’amo,RESTAURANT,ristorante
-39.891562,18.328399,ov_caff__trattoria_da_eleonora_39.8916_18.3284,Caffè Trattoria Da Eleonora,RESTAURANT,ristorante
-39.888938,18.333022,ov_braceria_gastronomia_macelleria_da_giova_39.8889_18.3330,Braceria Gastronomia Macelleria da Giovanni,RESTAURANT,ristorante
-39.889337,18.331143,ov_pizza_dal_giudice_39.8893_18.3311,Pizza Dal Giudice,RESTAURANT,ristorante
-39.889886,18.331072,ov_macelleria_della_piazza_39.8899_18.3311,Macelleria della Piazza,RESTAURANT,ristorante
-39.890219,18.330859,ov_la_lanterna_39.8902_18.3309,La Lanterna,RESTAURANT,ristorante
-39.890769,18.331589,ov_pepedoro_39.8908_18.3316,Pepedoro,RESTAURANT,ristorante
-39.860589,18.391428,ov_lo_scalo_di_novaglie_39.8606_18.3914,Lo Scalo di Novaglie,RESTAURANT,ristorante
-39.914818,18.326941,ov_ristorante_da_enzo_39.9148_18.3269,Ristorante da Enzo,RESTAURANT,ristorante
-39.915052,18.326785,ov_agriturismo_matine_39.9151_18.3268,Agriturismo Matine,RESTAURANT,ristorante
-39.919359,18.325548,ov_ristorante_da_enzo_39.9194_18.3255,Ristorante da Enzo,RESTAURANT,ristorante
+39.876857,18.357660,ov_masseria_galatea_39.8769_18.3577,Masseria Galatea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/masseria_galatea_39.8769_18.3577.json,custom
+39.880170,18.336531,ov_pizzeria_sapor__39.8802_18.3365,Pizzeria Saporé,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/pizzeria_sapor_39.8802_18.3365.json,custom
+39.884442,18.334375,ov_li_chiani_39.8844_18.3344,Li Chiani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/li_chiani_39.8844_18.3344.json,custom
+39.895412,18.333408,ov_citt__del_sole_39.8954_18.3334,Città del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/citt_del_sole_39.8954_18.3334.json,custom
+39.894011,18.333615,ov_lievit_amo_39.8940_18.3336,Lievit’amo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/lievitamo_39.8940_18.3336.json,custom
+39.891562,18.328399,ov_caff__trattoria_da_eleonora_39.8916_18.3284,Caffè Trattoria Da Eleonora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/caff_trattoria_da_eleonora_39.8916_18.3284.json,custom
+39.888938,18.333022,ov_braceria_gastronomia_macelleria_da_giova_39.8889_18.3330,Braceria Gastronomia Macelleria da Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/braceria_gastronomia_macelleria_da_giova_39.8889_18.3330.json,custom
+39.889337,18.331143,ov_pizza_dal_giudice_39.8893_18.3311,Pizza Dal Giudice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/pizza_dal_giudice_39.8893_18.3311.json,custom
+39.889886,18.331072,ov_macelleria_della_piazza_39.8899_18.3311,Macelleria della Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/macelleria_della_piazza_39.8899_18.3311.json,custom
+39.890219,18.330859,ov_la_lanterna_39.8902_18.3309,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/la_lanterna_39.8902_18.3309.json,custom
+39.890769,18.331589,ov_pepedoro_39.8908_18.3316,Pepedoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/pepedoro_39.8908_18.3316.json,custom
+39.860589,18.391428,ov_lo_scalo_di_novaglie_39.8606_18.3914,Lo Scalo di Novaglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/lo_scalo_di_novaglie_39.8606_18.3914.json,custom
+39.914818,18.326941,ov_ristorante_da_enzo_39.9148_18.3269,Ristorante da Enzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/ristorante_da_enzo_39.9148_18.3269.json,custom
+39.915052,18.326785,ov_agriturismo_matine_39.9151_18.3268,Agriturismo Matine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/agriturismo_matine_39.9151_18.3268.json,custom
+39.919359,18.325548,ov_ristorante_da_enzo_39.9194_18.3255,Ristorante da Enzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/ristorante_da_enzo_39.9194_18.3255.json,custom
+39.919588,18.326131,osm_ristorante_da_enzo_39.9196_18.3261,Ristorante Da Enzo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/ristorante_da_enzo_39.9196_18.3261.json,custom

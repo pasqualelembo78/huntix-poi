@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # leporano -- gyms
-40.380626,17.297937,ov_dive_reporters_40.3806_17.2979,Dive Reporters,GYM,palestra
-40.380651,17.296790,ov_sup_academy_40.3807_17.2968,SUP Academy,GYM,palestra
-40.382450,17.298830,ov_asd_lido_gandoli_beach_tennis_40.3824_17.2988,ASD Lido Gandoli Beach Tennis,GYM,palestra
-40.379057,17.312715,ov_abyss_apnea_italia_40.3791_17.3127,Abyss Apnea Italia,GYM,palestra
-40.383109,17.327411,ov_mister_padel_40.3831_17.3274,Mister Padel,GYM,palestra
-40.382060,17.335160,ov_africa_club___avetrana___centro_sportivo_40.3821_17.3352,Africa Club - Avetrana - Centro Sportivo,GYM,palestra
-40.379013,17.334395,ov_palazzetto_dello_sport_di_leporano_40.3790_17.3344,Palazzetto dello sport di Leporano,GYM,palestra
+40.380626,17.297937,ov_dive_reporters_40.3806_17.2979,Dive Reporters,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/dive_reporters_40.3806_17.2979.json,custom
+40.380651,17.296790,ov_sup_academy_40.3807_17.2968,SUP Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/sup_academy_40.3807_17.2968.json,custom
+40.382450,17.298830,ov_asd_lido_gandoli_beach_tennis_40.3824_17.2988,ASD Lido Gandoli Beach Tennis,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/asd_lido_gandoli_beach_tennis_40.3824_17.2988.json,custom
+40.379057,17.312715,ov_abyss_apnea_italia_40.3791_17.3127,Abyss Apnea Italia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/abyss_apnea_italia_40.3791_17.3127.json,custom
+40.383109,17.327411,ov_mister_padel_40.3831_17.3274,Mister Padel,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/mister_padel_40.3831_17.3274.json,custom
+40.382060,17.335160,ov_africa_club___avetrana___centro_sportivo_40.3821_17.3352,Africa Club - Avetrana - Centro Sportivo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/africa_club_-_avetrana_-_centro_sportivo_40.3821_17.3352.json,custom
+40.379013,17.334395,ov_palazzetto_dello_sport_di_leporano_40.3790_17.3344,Palazzetto dello sport di Leporano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/palazzetto_dello_sport_di_leporano_40.3790_17.3344.json,custom

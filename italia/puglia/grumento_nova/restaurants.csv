@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grumento_nova -- restaurants
-40.266017,15.899171,ov_parco_verde_40.2660_15.8992,Parco Verde,RESTAURANT,ristorante
-40.280429,15.906022,ov_agriturismo_parco_verde_40.2804_15.9060,Agriturismo Parco Verde,RESTAURANT,ristorante
-40.284132,15.888862,ov_pizzeria_da_gennaro_40.2841_15.8889,Pizzeria da Gennaro,RESTAURANT,ristorante
-40.285064,15.889775,ov_la_locanda_del_sole_40.2851_15.8898,La Locanda del Sole,RESTAURANT,ristorante
+40.266017,15.899171,ov_parco_verde_40.2660_15.8992,Parco Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/parco_verde_40.2660_15.8992.json,custom
+40.280429,15.906022,ov_agriturismo_parco_verde_40.2804_15.9060,Agriturismo Parco Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/agriturismo_parco_verde_40.2804_15.9060.json,custom
+40.284132,15.888862,ov_pizzeria_da_gennaro_40.2841_15.8889,Pizzeria da Gennaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/pizzeria_da_gennaro_40.2841_15.8889.json,custom
+40.285064,15.889775,ov_la_locanda_del_sole_40.2851_15.8898,La Locanda del Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/la_locanda_del_sole_40.2851_15.8898.json,custom

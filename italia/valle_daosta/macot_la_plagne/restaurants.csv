@@ -1,33 +1,32 @@
-# lat,lng,id,name,building_type,type
-# Macot La Plagne — restaurants
-45.506277,6.675640,osm_le_refuge_45.5063_6.6756,Le Refuge,ristorante,ristorante
-45.513148,6.697170,osm_l_annexe_45.5131_6.6972,L'Annexe,ristorante,ristorante
-45.505911,6.676636,osm_le_plant__du_b_ton_45.5059_6.6766,Le Planté du Bâton,ristorante,ristorante
-45.513976,6.678516,osm_le_lauzes_45.5140_6.6785,Le Lauzes,ristorante,ristorante
-45.513993,6.678365,osm_la_cantine_45.5140_6.6784,La Cantine,ristorante,ristorante
-45.505137,6.673283,osm_araucaria_45.5051_6.6733,Araucaria,ristorante,ristorante
-45.506552,6.675627,osm_le_floe_bar_45.5066_6.6756,Le Floe Bar,ristorante,ristorante
-45.506676,6.676325,osm_la_k_bine_45.5067_6.6763,La K'bine,ristorante,ristorante
-45.505947,6.676862,osm_le_vega___brasserie___pizzeria_45.5059_6.6769,Le Vega - Brasserie - Pizzeria,ristorante,ristorante
-45.505477,6.675826,osm_le_croq_neige_45.5055_6.6758,Le Croq'Neige,ristorante,ristorante
-45.505463,6.675566,osm_la_vache_rouge_45.5055_6.6756,La Vache Rouge,ristorante,ristorante
-45.506059,6.675600,osm_la_joya_45.5061_6.6756,La Joya,ristorante,ristorante
-45.506518,6.677411,osm_a_tavola_45.5065_6.6774,A Tavola,ristorante,ristorante
-45.506480,6.677275,osm_le_far_on_45.5065_6.6773,Le Farçon,ristorante,ristorante
-45.506492,6.677201,osm_la_m_tairie_45.5065_6.6772,La Métairie,ristorante,ristorante
-45.506529,6.677465,osm_l_estaminet_45.5065_6.6775,L'Estaminet,ristorante,ristorante
-45.506501,6.677347,osm_chez_marie_45.5065_6.6773,Chez Marie,ristorante,ristorante
-45.506233,6.676687,osm_la_chemin_e_45.5062_6.6767,La Cheminée,ristorante,ristorante
-45.506099,6.676718,osm_le_ti___yu_45.5061_6.6767,Le Ti & Yu,ristorante,ristorante
-45.506212,6.676649,osm_caprice_des_neiges_45.5062_6.6766,Caprice des Neiges,ristorante,ristorante
-45.506562,6.677610,osm_id_e_o_artisan_delicatessen_and_events_45.5066_6.6776,Idée'O Artisan Delicatessen and Events,ristorante,ristorante
-45.506134,6.676626,osm_le_petit_comptoir_45.5061_6.6766,Le Petit Comptoir,ristorante,ristorante
-45.505847,6.677589,osm_restaurant_scolaire_45.5058_6.6776,Restaurant Scolaire,ristorante,ristorante
-45.514005,6.697877,osm_le_mouflon_45.5140_6.6979,Le Mouflon,ristorante,ristorante
-45.513691,6.697259,osm_pizzeria_i_tifosi_45.5137_6.6973,Pizzeria I Tifosi,ristorante,ristorante
-45.511694,6.696834,osm_le_chalet_des_colosses_45.5117_6.6968,Le Chalet des Colosses,ristorante,ristorante
-45.505701,6.676255,osm_les_cocottes_45.5057_6.6763,Les Cocottes,ristorante,ristorante
-45.508716,6.675418,osm_kanailles_45.5087_6.6754,Kanailles,ristorante,ristorante
-45.512726,6.675344,osm_le_petit_chaperon_rouge_45.5127_6.6753,Le Petit Chaperon Rouge,ristorante,ristorante
-45.513390,6.676407,osm_le_loup_blanc_45.5134_6.6764,Le Loup Blanc,ristorante,ristorante
-45.512050,6.699716,osm_le_bonnet_45.5121_6.6997,Le Bonnet,ristorante,ristorante
+# lat,lng,id,name,building_type,type,url,page_type
+45.506277,6.675640,osm_le_refuge_45.5063_6.6756,Le Refuge,ristorante,ristorante,
+45.513148,6.697170,osm_l_annexe_45.5131_6.6972,L'Annexe,ristorante,ristorante,
+45.505911,6.676636,osm_le_plant__du_b_ton_45.5059_6.6766,Le Planté du Bâton,ristorante,ristorante,
+45.513976,6.678516,osm_le_lauzes_45.5140_6.6785,Le Lauzes,ristorante,ristorante,
+45.513993,6.678365,osm_la_cantine_45.5140_6.6784,La Cantine,ristorante,ristorante,
+45.505137,6.673283,osm_araucaria_45.5051_6.6733,Araucaria,ristorante,ristorante,
+45.506552,6.675627,osm_le_floe_bar_45.5066_6.6756,Le Floe Bar,ristorante,ristorante,
+45.506676,6.676325,osm_la_k_bine_45.5067_6.6763,La K'bine,ristorante,ristorante,
+45.505947,6.676862,osm_le_vega___brasserie___pizzeria_45.5059_6.6769,Le Vega - Brasserie - Pizzeria,ristorante,ristorante,
+45.505477,6.675826,osm_le_croq_neige_45.5055_6.6758,Le Croq'Neige,ristorante,ristorante,
+45.505463,6.675566,osm_la_vache_rouge_45.5055_6.6756,La Vache Rouge,ristorante,ristorante,
+45.506059,6.675600,osm_la_joya_45.5061_6.6756,La Joya,ristorante,ristorante,
+45.506518,6.677411,osm_a_tavola_45.5065_6.6774,A Tavola,ristorante,ristorante,
+45.506480,6.677275,osm_le_far_on_45.5065_6.6773,Le Farçon,ristorante,ristorante,
+45.506492,6.677201,osm_la_m_tairie_45.5065_6.6772,La Métairie,ristorante,ristorante,
+45.506529,6.677465,osm_l_estaminet_45.5065_6.6775,L'Estaminet,ristorante,ristorante,
+45.506501,6.677347,osm_chez_marie_45.5065_6.6773,Chez Marie,ristorante,ristorante,
+45.506233,6.676687,osm_la_chemin_e_45.5062_6.6767,La Cheminée,ristorante,ristorante,
+45.506099,6.676718,osm_le_ti___yu_45.5061_6.6767,Le Ti & Yu,ristorante,ristorante,
+45.506212,6.676649,osm_caprice_des_neiges_45.5062_6.6766,Caprice des Neiges,ristorante,ristorante,
+45.506562,6.677610,osm_id_e_o_artisan_delicatessen_and_events_45.5066_6.6776,Idée'O Artisan Delicatessen and Events,ristorante,ristorante,
+45.506134,6.676626,osm_le_petit_comptoir_45.5061_6.6766,Le Petit Comptoir,ristorante,ristorante,
+45.505847,6.677589,osm_restaurant_scolaire_45.5058_6.6776,Restaurant Scolaire,ristorante,ristorante,
+45.514005,6.697877,osm_le_mouflon_45.5140_6.6979,Le Mouflon,ristorante,ristorante,
+45.513691,6.697259,osm_pizzeria_i_tifosi_45.5137_6.6973,Pizzeria I Tifosi,ristorante,ristorante,
+45.511694,6.696834,osm_le_chalet_des_colosses_45.5117_6.6968,Le Chalet des Colosses,ristorante,ristorante,
+45.505701,6.676255,osm_les_cocottes_45.5057_6.6763,Les Cocottes,ristorante,ristorante,
+45.508716,6.675418,osm_kanailles_45.5087_6.6754,Kanailles,ristorante,ristorante,
+45.512726,6.675344,osm_le_petit_chaperon_rouge_45.5127_6.6753,Le Petit Chaperon Rouge,ristorante,ristorante,
+45.513390,6.676407,osm_le_loup_blanc_45.5134_6.6764,Le Loup Blanc,ristorante,ristorante,
+45.512050,6.699716,osm_le_bonnet_45.5121_6.6997,Le Bonnet,ristorante,ristorante,

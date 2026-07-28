@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # gallipoli -- gyms
-40.061099,17.994270,ov_betty_boop_dance_academy_40.0611_17.9943,Betty Boop Dance Academy,GYM,palestra
-40.056245,17.978416,ov_porto_di_gallipoli_40.0562_17.9784,Porto di Gallipoli,GYM,palestra
-40.055430,17.985910,ov_pilates_con_luciana_de_benedetto_40.0554_17.9859,Pilates Con Luciana De Benedetto,GYM,palestra
-40.054038,17.992827,ov_scuola_di_balletto_classico_cinzia_ria_40.0540_17.9928,Scuola di Balletto Classico Cinzia Ria,GYM,palestra
-40.057370,17.998470,ov_new_fitness___gallipoli_40.0574_17.9985,New Fitness - Gallipoli,GYM,palestra
-40.053191,17.996603,ov_disc_n_roll_40.0532_17.9966,Disc'n Roll,GYM,palestra
-40.048569,18.002399,ov_salento_coast_ovest_kitesurf_school___fi_40.0486_18.0024,Salento Coast Ovest Kitesurf School - FIV e IKO,GYM,palestra
-40.049270,18.004540,ov_meeting_gym_40.0493_18.0045,Meeting Gym,GYM,palestra
-40.049591,18.002806,ov_palestra_rizzello_srl_40.0496_18.0028,Palestra Rizzello Srl,GYM,palestra
-40.054639,18.004589,ov_mr_fit_lab_40.0546_18.0046,Mr Fit Lab,GYM,palestra
-40.055074,18.004597,ov_ics___incorporesano_40.0551_18.0046,ICS - Incorporesano,GYM,palestra
-40.056436,18.031889,ov_evergreengallipoli_40.0564_18.0319,EvergreenGallipoli,GYM,palestra
-40.068651,18.003762,ov_fisiokinesis___fitness_cataldi_40.0687_18.0038,Fisiokinesis & Fitness Cataldi,GYM,palestra
+40.061099,17.994270,ov_betty_boop_dance_academy_40.0611_17.9943,Betty Boop Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/betty_boop_dance_academy_40.0611_17.9943.json,custom
+40.056245,17.978416,ov_porto_di_gallipoli_40.0562_17.9784,Porto di Gallipoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/porto_di_gallipoli_40.0562_17.9784.json,custom
+40.055430,17.985910,ov_pilates_con_luciana_de_benedetto_40.0554_17.9859,Pilates Con Luciana De Benedetto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/pilates_con_luciana_de_benedetto_40.0554_17.9859.json,custom
+40.054038,17.992827,ov_scuola_di_balletto_classico_cinzia_ria_40.0540_17.9928,Scuola di Balletto Classico Cinzia Ria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/scuola_di_balletto_classico_cinzia_ria_40.0540_17.9928.json,custom
+40.057370,17.998470,ov_new_fitness___gallipoli_40.0574_17.9985,New Fitness - Gallipoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/new_fitness_-_gallipoli_40.0574_17.9985.json,custom
+40.053191,17.996603,ov_disc_n_roll_40.0532_17.9966,Disc'n Roll,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/discn_roll_40.0532_17.9966.json,custom
+40.048569,18.002399,ov_salento_coast_ovest_kitesurf_school___fi_40.0486_18.0024,Salento Coast Ovest Kitesurf School - FIV e IKO,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/salento_coast_ovest_kitesurf_school_-_fi_40.0486_18.0024.json,custom
+40.049270,18.004540,ov_meeting_gym_40.0493_18.0045,Meeting Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/meeting_gym_40.0493_18.0045.json,custom
+40.049591,18.002806,ov_palestra_rizzello_srl_40.0496_18.0028,Palestra Rizzello Srl,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/palestra_rizzello_srl_40.0496_18.0028.json,custom
+40.054639,18.004589,ov_mr_fit_lab_40.0546_18.0046,Mr Fit Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/mr_fit_lab_40.0546_18.0046.json,custom
+40.055074,18.004597,ov_ics___incorporesano_40.0551_18.0046,ICS - Incorporesano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/ics_-_incorporesano_40.0551_18.0046.json,custom
+40.056436,18.031889,ov_evergreengallipoli_40.0564_18.0319,EvergreenGallipoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/evergreengallipoli_40.0564_18.0319.json,custom
+40.068651,18.003762,ov_fisiokinesis___fitness_cataldi_40.0687_18.0038,Fisiokinesis & Fitness Cataldi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/fisiokinesis_fitness_cataldi_40.0687_18.0038.json,custom

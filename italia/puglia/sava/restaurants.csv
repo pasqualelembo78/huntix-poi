@@ -1,37 +1,36 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sava -- restaurants
-40.405548,17.558992,osm_la_furata_40.4055_17.5590,La Furata,ristorante,ristorante
-40.407620,17.551456,osm_la_trattoria_40.4076_17.5515,La Trattoria,ristorante,ristorante
-40.407297,17.545298,osm_i_soliti_40.4073_17.5453,I soliti,ristorante,ristorante
-40.399406,17.566983,osm_old_times_pub_pizzeria_40.3994_17.5670,Old Times Pub Pizzeria,ristorante,ristorante
-40.407327,17.545347,ov_i_soliti__streed_food__40.4073_17.5453,I soliti (streed food),RESTAURANT,ristorante
-40.406651,17.553211,ov_ristorante_la_paranza_sava_40.4067_17.5532,Ristorante La Paranza Sava,RESTAURANT,ristorante
-40.407416,17.551402,ov_la_trattoria_40.4074_17.5514,La Trattoria,RESTAURANT,ristorante
-40.405512,17.558926,ov_la_furata_40.4055_17.5589,La Furata,RESTAURANT,ristorante
-40.403817,17.567035,ov_pizzeria_il_cocorito_40.4038_17.5670,Pizzeria Il Cocorito,RESTAURANT,ristorante
-40.402808,17.567003,ov_the_red_lion_sava_40.4028_17.5670,The Red Lion Sava,RESTAURANT,ristorante
-40.404445,17.567730,ov_acqua_e_sale___gastronomia__trattoria__p_40.4044_17.5677,"Acqua e Sale - Gastronomia, Trattoria, Pausa Pranzo, Ristora",RESTAURANT,ristorante
-40.404754,17.564527,ov_calici_e_taglieri_40.4048_17.5645,Calici e Taglieri,RESTAURANT,ristorante
-40.404700,17.561240,ov_mister_panino_40.4047_17.5612,Mister Panino,RESTAURANT,ristorante
-40.404696,17.561280,ov_kebabberia_italia_40.4047_17.5613,Kebabberia Italia,RESTAURANT,ristorante
-40.404290,17.562050,ov_la_nchianata_bistr__40.4043_17.5620,La'Nchianata Bistrò,RESTAURANT,ristorante
-40.405066,17.561598,ov_boulevard_hamburgeria_e_american_bar_40.4051_17.5616,Boulevard Hamburgeria e American Bar,RESTAURANT,ristorante
-40.404963,17.558641,ov_non_solo_pizzeria_8_0__40.4050_17.5586,Non solo Pizzeria 8.0+,RESTAURANT,ristorante
-40.404398,17.556943,ov_siro_accento_di_gusto_40.4044_17.5569,Siro Accento di Gusto,RESTAURANT,ristorante
-40.402210,17.556750,ov_che_t_affetto___40.4022_17.5568,Che T'Affetto™️,RESTAURANT,ristorante
-40.402014,17.556796,ov_pizzeria_bugsbunny___sava_40.4020_17.5568,Pizzeria BugsBunny - Sava,RESTAURANT,ristorante
-40.401962,17.557381,ov_sorsi_e_morsi_40.4020_17.5574,Sorsi e Morsi,RESTAURANT,ristorante
-40.401649,17.557179,ov_il_vero_artigianale_40.4016_17.5572,Il vero artigianale,RESTAURANT,ristorante
-40.400191,17.560682,ov_pizzeria_la_piazzetta_ex_taulieri_40.4002_17.5607,Pizzeria La Piazzetta Ex Taulieri,RESTAURANT,ristorante
-40.400200,17.561970,ov_lo_stuzzichino_pizzeria_40.4002_17.5620,Lo Stuzzichino Pizzeria,RESTAURANT,ristorante
-40.399370,17.556681,ov_dolce_e_salato_40.3994_17.5567,Dolce e Salato,RESTAURANT,ristorante
-40.399602,17.549395,ov_pizzeria_si_viene_e_si_va_40.3996_17.5494,Pizzeria Si Viene e Si Va,RESTAURANT,ristorante
-40.397839,17.555382,ov_pizzeria_40_40.3978_17.5554,Pizzeria 40,RESTAURANT,ristorante
-40.397094,17.554339,ov_lu_spizzicu_40.3971_17.5543,Lu Spizzicu,RESTAURANT,ristorante
-40.400832,17.552730,ov_la_paranza_40.4008_17.5527,La Paranza,RESTAURANT,ristorante
-40.402665,17.550864,ov_pizzeria_roma_40.4027_17.5509,Pizzeria Roma,RESTAURANT,ristorante
-40.405235,17.551732,ov_ristorante_pizzeria_siesta_40.4052_17.5517,Ristorante Pizzeria Siesta,RESTAURANT,ristorante
-40.405370,17.551610,ov_joe_s_pizzeria___ristorante_40.4054_17.5516,Joe's Pizzeria - Ristorante,RESTAURANT,ristorante
-40.400391,17.581580,ov_reggia_domizia_restaurant_40.4004_17.5816,Reggia Domizia Restaurant,RESTAURANT,ristorante
-40.374567,17.521659,ov_la_pergola_ristorante_mediterraneo_40.3746_17.5217,La Pergola Ristorante Mediterraneo,RESTAURANT,ristorante
-40.372087,17.560883,ov_qui_mediterraneo_40.3721_17.5609,Qui Mediterraneo,RESTAURANT,ristorante
+40.407327,17.545347,ov_i_soliti__streed_food__40.4073_17.5453,I soliti (streed food),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/i_soliti_streed_food_40.4073_17.5453.json,custom
+40.406651,17.553211,ov_ristorante_la_paranza_sava_40.4067_17.5532,Ristorante La Paranza Sava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/ristorante_la_paranza_sava_40.4067_17.5532.json,custom
+40.407416,17.551402,ov_la_trattoria_40.4074_17.5514,La Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/la_trattoria_40.4074_17.5514.json,custom
+40.405512,17.558926,ov_la_furata_40.4055_17.5589,La Furata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/la_furata_40.4055_17.5589.json,custom
+40.403817,17.567035,ov_pizzeria_il_cocorito_40.4038_17.5670,Pizzeria Il Cocorito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_il_cocorito_40.4038_17.5670.json,custom
+40.402808,17.567003,ov_the_red_lion_sava_40.4028_17.5670,The Red Lion Sava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/the_red_lion_sava_40.4028_17.5670.json,custom
+40.404445,17.567730,ov_acqua_e_sale___gastronomia__trattoria__p_40.4044_17.5677,"Acqua e Sale - Gastronomia, Trattoria, Pausa Pranzo, Ristora",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/acqua_e_sale_-_gastronomia_trattoria_pau_40.4044_17.5677.json,custom
+40.404754,17.564527,ov_calici_e_taglieri_40.4048_17.5645,Calici e Taglieri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/calici_e_taglieri_40.4048_17.5645.json,custom
+40.404700,17.561240,ov_mister_panino_40.4047_17.5612,Mister Panino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/mister_panino_40.4047_17.5612.json,custom
+40.404696,17.561280,ov_kebabberia_italia_40.4047_17.5613,Kebabberia Italia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/kebabberia_italia_40.4047_17.5613.json,custom
+40.404290,17.562050,ov_la_nchianata_bistr__40.4043_17.5620,La'Nchianata Bistrò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/lanchianata_bistr_40.4043_17.5620.json,custom
+40.405066,17.561598,ov_boulevard_hamburgeria_e_american_bar_40.4051_17.5616,Boulevard Hamburgeria e American Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/boulevard_hamburgeria_e_american_bar_40.4051_17.5616.json,custom
+40.404963,17.558641,ov_non_solo_pizzeria_8_0__40.4050_17.5586,Non solo Pizzeria 8.0+,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/non_solo_pizzeria_80_40.4050_17.5586.json,custom
+40.404398,17.556943,ov_siro_accento_di_gusto_40.4044_17.5569,Siro Accento di Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/siro_accento_di_gusto_40.4044_17.5569.json,custom
+40.402210,17.556750,ov_che_t_affetto___40.4022_17.5568,Che T'Affetto™️,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/che_taffetto_40.4022_17.5568.json,custom
+40.402014,17.556796,ov_pizzeria_bugsbunny___sava_40.4020_17.5568,Pizzeria BugsBunny - Sava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_bugsbunny_-_sava_40.4020_17.5568.json,custom
+40.401962,17.557381,ov_sorsi_e_morsi_40.4020_17.5574,Sorsi e Morsi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/sorsi_e_morsi_40.4020_17.5574.json,custom
+40.401649,17.557179,ov_il_vero_artigianale_40.4016_17.5572,Il vero artigianale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/il_vero_artigianale_40.4016_17.5572.json,custom
+40.400191,17.560682,ov_pizzeria_la_piazzetta_ex_taulieri_40.4002_17.5607,Pizzeria La Piazzetta Ex Taulieri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_la_piazzetta_ex_taulieri_40.4002_17.5607.json,custom
+40.400200,17.561970,ov_lo_stuzzichino_pizzeria_40.4002_17.5620,Lo Stuzzichino Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/lo_stuzzichino_pizzeria_40.4002_17.5620.json,custom
+40.399370,17.556681,ov_dolce_e_salato_40.3994_17.5567,Dolce e Salato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/dolce_e_salato_40.3994_17.5567.json,custom
+40.399602,17.549395,ov_pizzeria_si_viene_e_si_va_40.3996_17.5494,Pizzeria Si Viene e Si Va,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_si_viene_e_si_va_40.3996_17.5494.json,custom
+40.397839,17.555382,ov_pizzeria_40_40.3978_17.5554,Pizzeria 40,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_40_40.3978_17.5554.json,custom
+40.397094,17.554339,ov_lu_spizzicu_40.3971_17.5543,Lu Spizzicu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/lu_spizzicu_40.3971_17.5543.json,custom
+40.400832,17.552730,ov_la_paranza_40.4008_17.5527,La Paranza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/la_paranza_40.4008_17.5527.json,custom
+40.402665,17.550864,ov_pizzeria_roma_40.4027_17.5509,Pizzeria Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pizzeria_roma_40.4027_17.5509.json,custom
+40.405235,17.551732,ov_ristorante_pizzeria_siesta_40.4052_17.5517,Ristorante Pizzeria Siesta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/ristorante_pizzeria_siesta_40.4052_17.5517.json,custom
+40.405370,17.551610,ov_joe_s_pizzeria___ristorante_40.4054_17.5516,Joe's Pizzeria - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/joes_pizzeria_-_ristorante_40.4054_17.5516.json,custom
+40.400391,17.581580,ov_reggia_domizia_restaurant_40.4004_17.5816,Reggia Domizia Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/reggia_domizia_restaurant_40.4004_17.5816.json,custom
+40.374567,17.521659,ov_la_pergola_ristorante_mediterraneo_40.3746_17.5217,La Pergola Ristorante Mediterraneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/la_pergola_ristorante_mediterraneo_40.3746_17.5217.json,custom
+40.372087,17.560883,ov_qui_mediterraneo_40.3721_17.5609,Qui Mediterraneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/qui_mediterraneo_40.3721_17.5609.json,custom
+40.407620,17.551456,osm_la_trattoria_40.4076_17.5515,La Trattoria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/la_trattoria_40.4076_17.5515.json,custom
+40.407297,17.545298,osm_i_soliti_40.4073_17.5453,I soliti,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/i_soliti_40.4073_17.5453.json,custom
+40.399406,17.566983,osm_old_times_pub_pizzeria_40.3994_17.5670,Old Times Pub Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/old_times_pub_pizzeria_40.3994_17.5670.json,custom

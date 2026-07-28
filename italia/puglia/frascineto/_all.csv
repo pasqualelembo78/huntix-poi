@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Frascineto -- Tutti
-39.831471,16.254843,ov_ristorante_b_b_tre_stelle_39.8315_16.2548,Ristorante b&b Tre Stelle,RESTAURANT,ristorante
-39.831405,16.256510,ov_ohi_mamma_39.8314_16.2565,Ohi Mamma,RESTAURANT,ristorante
-39.832203,16.258974,ov_citta_frascineto_39.8322_16.2590,Citta Frascineto,RESTAURANT,ristorante
-39.835665,16.267079,ov_bar_del_corso_39.8357_16.2671,Bar Del Corso,RESTAURANT,bar_cafe
-39.832292,16.258935,ov_bar_caffetteria_perrone_39.8323_16.2589,Bar Caffetteria Perrone,RESTAURANT,bar_cafe
-39.831546,16.260999,ov_genesis_fit_evolution_39.8315_16.2610,Genesis Fit Evolution,GYM,palestra
-39.834881,16.271900,ov_museo_delle_icone_frascineto_39.8349_16.2719,Museo Delle Icone Frascineto,MUSEUM,monumento
+39.831471,16.254843,ov_ristorante_b_b_tre_stelle_39.8315_16.2548,Ristorante b&b Tre Stelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/ristorante_bb_tre_stelle_39.8315_16.2548.json,custom
+39.831405,16.256510,ov_ohi_mamma_39.8314_16.2565,Ohi Mamma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/ohi_mamma_39.8314_16.2565.json,custom
+39.832203,16.258974,ov_citta_frascineto_39.8322_16.2590,Citta Frascineto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/citta_frascineto_39.8322_16.2590.json,custom
+39.835665,16.267079,ov_bar_del_corso_39.8357_16.2671,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/bar_del_corso_39.8357_16.2671.json,custom
+39.832292,16.258935,ov_bar_caffetteria_perrone_39.8323_16.2589,Bar Caffetteria Perrone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/bar_caffetteria_perrone_39.8323_16.2589.json,custom
+39.831546,16.260999,ov_genesis_fit_evolution_39.8315_16.2610,Genesis Fit Evolution,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/genesis_fit_evolution_39.8315_16.2610.json,custom
+39.834881,16.271900,ov_museo_delle_icone_frascineto_39.8349_16.2719,Museo Delle Icone Frascineto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frascineto/pages/museo_delle_icone_frascineto_39.8349_16.2719.json,custom

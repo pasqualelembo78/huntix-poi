@@ -1,7 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # borgata_marina -- restaurants
-39.975107,16.619307,osm_la_vela_39.9751_16.6193,La Vela,ristorante,ristorante
-39.973067,16.621334,osm_old_school_pizzeria_39.9731_16.6213,Old School Pizzeria,ristorante,ristorante
-39.969782,16.621536,osm_la_fermata_39.9698_16.6215,La Fermata,ristorante,ristorante
-39.969996,16.624399,osm_la_terrazza_del_gusto_39.9700_16.6244,La terrazza del gusto,ristorante,ristorante
-39.970089,16.624635,osm_ristorante_pizzeria_la_stiva_39.9701_16.6246,Ristorante Pizzeria La Stiva,ristorante,ristorante
+39.975107,16.619307,osm_la_vela_39.9751_16.6193,La Vela,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/borgata_marina/pages/la_vela_39.9751_16.6193.json,custom
+39.973067,16.621334,osm_old_school_pizzeria_39.9731_16.6213,Old School Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/borgata_marina/pages/old_school_pizzeria_39.9731_16.6213.json,custom
+39.969996,16.624399,osm_la_terrazza_del_gusto_39.9700_16.6244,La terrazza del gusto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/borgata_marina/pages/la_terrazza_del_gusto_39.9700_16.6244.json,custom
+39.970089,16.624635,osm_ristorante_pizzeria_la_stiva_39.9701_16.6246,Ristorante Pizzeria La Stiva,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/borgata_marina/pages/ristorante_pizzeria_la_stiva_39.9701_16.6246.json,custom

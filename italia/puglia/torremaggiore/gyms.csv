@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # torremaggiore -- gyms
-41.694494,15.282397,ov_olympia_club_polisportiva_asd_torremaggi_41.6945_15.2824,"Olympia Club Polisportiva ASD,Torremaggiore-Fg",GYM,palestra
-41.696365,15.282251,ov_sonido_latino_41.6964_15.2823,Sonido Latino,GYM,palestra
-41.696364,15.282242,ov_fit_gym_health___fitness_center_41.6964_15.2822,Fit Gym Health & Fitness Center,GYM,palestra
-41.699363,15.282360,ov_lam_fitness_club_41.6994_15.2824,Lam Fitness Club,GYM,palestra
-41.693730,15.284435,ov_tennis_club_torremaggiore_asd_41.6937_15.2844,Tennis Club Torremaggiore Asd,GYM,palestra
-41.692111,15.284963,ov_palestra_deimos_41.6921_15.2850,Palestra Deimos,GYM,palestra
-41.688961,15.288580,ov_mxpark_torre_41.6890_15.2886,MxPark Torre,GYM,palestra
-41.692196,15.298292,ov_area_naturale_lago_pescara___biccari_41.6922_15.2983,Area Naturale Lago Pescara - Biccari,GYM,palestra
-41.694087,15.305357,ov_studio_danza_new_ars_life_41.6941_15.3054,Studio Danza New Ars Life,GYM,palestra
-41.692009,15.302891,ov_palestra_vigor_sport_41.6920_15.3029,Palestra Vigor Sport,GYM,palestra
-41.687246,15.302762,ov_palestra_body_line___torremaggiore_41.6872_15.3028,Palestra Body Line - Torremaggiore,GYM,palestra
-41.694498,15.306714,ov_ginnastica_artistica_41.6945_15.3067,Ginnastica Artistica,GYM,palestra
+41.694494,15.282397,ov_olympia_club_polisportiva_asd_torremaggi_41.6945_15.2824,"Olympia Club Polisportiva ASD,Torremaggiore-Fg",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/olympia_club_polisportiva_asdtorremaggio_41.6945_15.2824.json,custom
+41.696365,15.282251,ov_sonido_latino_41.6964_15.2823,Sonido Latino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/sonido_latino_41.6964_15.2823.json,custom
+41.696364,15.282242,ov_fit_gym_health___fitness_center_41.6964_15.2822,Fit Gym Health & Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/fit_gym_health_fitness_center_41.6964_15.2822.json,custom
+41.699363,15.282360,ov_lam_fitness_club_41.6994_15.2824,Lam Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/lam_fitness_club_41.6994_15.2824.json,custom
+41.693730,15.284435,ov_tennis_club_torremaggiore_asd_41.6937_15.2844,Tennis Club Torremaggiore Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/tennis_club_torremaggiore_asd_41.6937_15.2844.json,custom
+41.692111,15.284963,ov_palestra_deimos_41.6921_15.2850,Palestra Deimos,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/palestra_deimos_41.6921_15.2850.json,custom
+41.688961,15.288580,ov_mxpark_torre_41.6890_15.2886,MxPark Torre,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/mxpark_torre_41.6890_15.2886.json,custom
+41.692196,15.298292,ov_area_naturale_lago_pescara___biccari_41.6922_15.2983,Area Naturale Lago Pescara - Biccari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/area_naturale_lago_pescara_-_biccari_41.6922_15.2983.json,custom
+41.694087,15.305357,ov_studio_danza_new_ars_life_41.6941_15.3054,Studio Danza New Ars Life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/studio_danza_new_ars_life_41.6941_15.3054.json,custom
+41.692009,15.302891,ov_palestra_vigor_sport_41.6920_15.3029,Palestra Vigor Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/palestra_vigor_sport_41.6920_15.3029.json,custom
+41.687246,15.302762,ov_palestra_body_line___torremaggiore_41.6872_15.3028,Palestra Body Line - Torremaggiore,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/palestra_body_line_-_torremaggiore_41.6872_15.3028.json,custom
+41.694498,15.306714,ov_ginnastica_artistica_41.6945_15.3067,Ginnastica Artistica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torremaggiore/pages/ginnastica_artistica_41.6945_15.3067.json,custom

@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # melpignano -- restaurants
-40.143470,18.290550,ov_fit21_caf____pizza_and_more_40.1435_18.2905,FIT21 Cafè - Pizza and More,RESTAURANT,ristorante
-40.139834,18.288373,ov_bartolini_40.1398_18.2884,Bartolini,RESTAURANT,ristorante
-40.151534,18.286713,ov_il_fusticino_40.1515_18.2867,Il Fusticino,RESTAURANT,ristorante
-40.156122,18.293115,ov_vizio_40.1561_18.2931,Vizio,RESTAURANT,ristorante
-40.157280,18.294096,ov_portico_san_giorgio_40.1573_18.2941,Portico San Giorgio,RESTAURANT,ristorante
-40.157827,18.292290,ov_melpigos_taverna_40.1578_18.2923,Melpigos Taverna,RESTAURANT,ristorante
-40.161346,18.293539,ov_pizzeria_ristorante_coraffia_40.1613_18.2935,Pizzeria Ristorante Coraffia,RESTAURANT,ristorante
+40.143470,18.290550,ov_fit21_caf____pizza_and_more_40.1435_18.2905,FIT21 Cafè - Pizza and More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/fit21_caf_-_pizza_and_more_40.1435_18.2905.json,custom
+40.139834,18.288373,ov_bartolini_40.1398_18.2884,Bartolini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/bartolini_40.1398_18.2884.json,custom
+40.151534,18.286713,ov_il_fusticino_40.1515_18.2867,Il Fusticino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/il_fusticino_40.1515_18.2867.json,custom
+40.156122,18.293115,ov_vizio_40.1561_18.2931,Vizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/vizio_40.1561_18.2931.json,custom
+40.157280,18.294096,ov_portico_san_giorgio_40.1573_18.2941,Portico San Giorgio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/portico_san_giorgio_40.1573_18.2941.json,custom
+40.157827,18.292290,ov_melpigos_taverna_40.1578_18.2923,Melpigos Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/melpigos_taverna_40.1578_18.2923.json,custom
+40.161346,18.293539,ov_pizzeria_ristorante_coraffia_40.1613_18.2935,Pizzeria Ristorante Coraffia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melpignano/pages/pizzeria_ristorante_coraffia_40.1613_18.2935.json,custom

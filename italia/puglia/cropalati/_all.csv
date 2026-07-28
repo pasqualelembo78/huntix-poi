@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Cropalati -- Tutti
-39.516552,16.725069,ov_acropolis_bar_pizzeria_ristorante_39.5166_16.7251,Acropolis Bar~Pizzeria~Ristorante,RESTAURANT,ristorante
-39.517377,16.727805,ov_fornace_parrilla_dal_1832_39.5174_16.7278,Fornace Parrilla dal 1832,RESTAURANT,ristorante
-39.512926,16.723657,ov_il_granaio_39.5129_16.7237,Il granaio,RESTAURANT,ristorante
-39.516700,16.716700,ov_agriturismo_il_giardino_dei_ciliegi_39.5167_16.7167,Agriturismo Il Giardino dei Ciliegi,RESTAURANT,ristorante
-39.516860,16.725270,ov_vineria_civico17_39.5169_16.7253,Vineria Civico17,RESTAURANT,bar_cafe
-39.514866,16.724888,ov_villetta_paraiso_96_39.5149_16.7249,Villetta Paraiso 96,RESTAURANT,bar_cafe
+39.516552,16.725069,ov_acropolis_bar_pizzeria_ristorante_39.5166_16.7251,Acropolis Bar~Pizzeria~Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/acropolis_barpizzeriaristorante_39.5166_16.7251.json,custom
+39.517377,16.727805,ov_fornace_parrilla_dal_1832_39.5174_16.7278,Fornace Parrilla dal 1832,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/fornace_parrilla_dal_1832_39.5174_16.7278.json,custom
+39.512926,16.723657,ov_il_granaio_39.5129_16.7237,Il granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/il_granaio_39.5129_16.7237.json,custom
+39.516700,16.716700,ov_agriturismo_il_giardino_dei_ciliegi_39.5167_16.7167,Agriturismo Il Giardino dei Ciliegi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/agriturismo_il_giardino_dei_ciliegi_39.5167_16.7167.json,custom
+39.516860,16.725270,ov_vineria_civico17_39.5169_16.7253,Vineria Civico17,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/vineria_civico17_39.5169_16.7253.json,custom
+39.514866,16.724888,ov_villetta_paraiso_96_39.5149_16.7249,Villetta Paraiso 96,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cropalati/pages/villetta_paraiso_96_39.5149_16.7249.json,custom

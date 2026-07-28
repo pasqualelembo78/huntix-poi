@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Flumeri -- Tutti
-41.085868,15.132993,ov_agriturismo_l_angelo_raffaele_41.0859_15.1330,Agriturismo L'Angelo Raffaele,RESTAURANT,ristorante
-41.083803,15.156542,ov_petrilli___agriturismo__azienda_agricola_41.0838_15.1565,"Petrilli - Agriturismo, Azienda Agricola, Frantoio",RESTAURANT,ristorante
-41.077885,15.148552,ov_doppiozero_41.0779_15.1486,Doppiozero,RESTAURANT,ristorante
-41.074982,15.107008,ov_l_aragonese_41.0750_15.1070,L'aragonese,RESTAURANT,ristorante
-41.081036,15.107373,ov_villa_relais_imperatrice_41.0810_15.1074,Villa Relais Imperatrice,RESTAURANT,ristorante
-41.065500,15.161630,ov_agriturismo_capacchione_41.0655_15.1616,Agriturismo Capacchione,RESTAURANT,ristorante
-41.073666,15.202361,ov_bar_tabacchi_via_piano_41.0737_15.2024,Bar Tabacchi Via Piano,RESTAURANT,bar_cafe
-41.075827,15.151901,ov_era_ora_41.0758_15.1519,Era ora,RESTAURANT,bar_cafe
-41.076218,15.151277,ov_botanicalbar_flumeri_41.0762_15.1513,Botanicalbar_flumeri,RESTAURANT,bar_cafe
-41.056851,15.126892,ov_bar_trattoria_60_41.0569_15.1269,Bar Trattoria 60,RESTAURANT,bar_cafe
-41.058670,15.136610,ov_bar_trattoria_60_41.0587_15.1366,Bar Trattoria 60,RESTAURANT,bar_cafe
-41.136483,15.082461,ov_vitale_bar_ristoro_carburante_e_gas_41.1365_15.0825,Vitale BAR ristoro carburante e Gas,RESTAURANT,bar_cafe
-41.076471,15.151301,osm_bot_nical_bar_41.0765_15.1513,Botànical Bar,bar_cafe,bar_cafe
+41.085868,15.132993,ov_agriturismo_l_angelo_raffaele_41.0859_15.1330,Agriturismo L'Angelo Raffaele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/agriturismo_langelo_raffaele_41.0859_15.1330.json,custom
+41.083803,15.156542,ov_petrilli___agriturismo__azienda_agricola_41.0838_15.1565,"Petrilli - Agriturismo, Azienda Agricola, Frantoio",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/petrilli_-_agriturismo_azienda_agricola__41.0838_15.1565.json,custom
+41.077885,15.148552,ov_doppiozero_41.0779_15.1486,Doppiozero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/doppiozero_41.0779_15.1486.json,custom
+41.074982,15.107008,ov_l_aragonese_41.0750_15.1070,L'aragonese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/laragonese_41.0750_15.1070.json,custom
+41.081036,15.107373,ov_villa_relais_imperatrice_41.0810_15.1074,Villa Relais Imperatrice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/villa_relais_imperatrice_41.0810_15.1074.json,custom
+41.065500,15.161630,ov_agriturismo_capacchione_41.0655_15.1616,Agriturismo Capacchione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/agriturismo_capacchione_41.0655_15.1616.json,custom
+41.073666,15.202361,ov_bar_tabacchi_via_piano_41.0737_15.2024,Bar Tabacchi Via Piano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/bar_tabacchi_via_piano_41.0737_15.2024.json,custom
+41.075827,15.151901,ov_era_ora_41.0758_15.1519,Era ora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/era_ora_41.0758_15.1519.json,custom
+41.076218,15.151277,ov_botanicalbar_flumeri_41.0762_15.1513,Botanicalbar_flumeri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/botanicalbarflumeri_41.0762_15.1513.json,custom
+41.056851,15.126892,ov_bar_trattoria_60_41.0569_15.1269,Bar Trattoria 60,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/bar_trattoria_60_41.0569_15.1269.json,custom
+41.058670,15.136610,ov_bar_trattoria_60_41.0587_15.1366,Bar Trattoria 60,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/bar_trattoria_60_41.0587_15.1366.json,custom
+41.136483,15.082461,ov_vitale_bar_ristoro_carburante_e_gas_41.1365_15.0825,Vitale BAR ristoro carburante e Gas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/vitale_bar_ristoro_carburante_e_gas_41.1365_15.0825.json,custom
+41.076471,15.151301,osm_bot_nical_bar_41.0765_15.1513,Botànical Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/flumeri/pages/botnical_bar_41.0765_15.1513.json,custom

@@ -1,28 +1,28 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giorgio_jonico -- restaurants
-40.461149,17.374424,ov_spaghettando_spaghetteria___ristorante_40.4611_17.3744,Spaghettando Spaghetteria - Ristorante,RESTAURANT,ristorante
-40.462097,17.385795,ov_la_friseria_40.4621_17.3858,La Friseria,RESTAURANT,ristorante
-40.462424,17.383586,ov_braceria_da_giuseppe_40.4624_17.3836,Braceria da Giuseppe,RESTAURANT,ristorante
-40.459549,17.384240,ov_pit_stop_40.4595_17.3842,Pit Stop,RESTAURANT,ristorante
-40.458784,17.386063,ov_da_boe_puccia_and_pizza_40.4588_17.3861,Da Boe Puccia and Pizza,RESTAURANT,ristorante
-40.458687,17.386084,ov_boe_s_house_40.4587_17.3861,Boe's House,RESTAURANT,ristorante
-40.459849,17.379479,ov_hedone_40.4598_17.3795,Hedone,RESTAURANT,ristorante
-40.458881,17.378893,ov_braceria_al_vecchio_corso_40.4589_17.3789,Braceria Al Vecchio Corso,RESTAURANT,ristorante
-40.457637,17.376211,ov_nonna_lucia_40.4576_17.3762,Nonna Lucia,RESTAURANT,ristorante
-40.457575,17.376171,ov_brio_restaurant_40.4576_17.3762,Brio Restaurant,RESTAURANT,ristorante
-40.457565,17.374724,ov_brace_e_sapori___meat_restaurant_40.4576_17.3747,Brace e Sapori - Meat Restaurant,RESTAURANT,ristorante
-40.457683,17.374390,ov_le_terrazze_40.4577_17.3744,Le Terrazze,RESTAURANT,ristorante
-40.457584,17.380819,ov_la_capannella_40.4576_17.3808,La Capannella,RESTAURANT,ristorante
-40.456853,17.383776,ov_capriccio2_di_giuseppe_pacciana_40.4569_17.3838,Capriccio2 di Giuseppe Pacciana,RESTAURANT,ristorante
-40.457303,17.386551,ov_pizzeria_la_bonta_40.4573_17.3866,Pizzeria La Bonta,RESTAURANT,ristorante
-40.453818,17.386610,ov_pizzeria_sombrero_40.4538_17.3866,Pizzeria Sombrero,RESTAURANT,ristorante
-40.454322,17.383580,ov_la_grande_famiglia_40.4543_17.3836,La Grande Famiglia,RESTAURANT,ristorante
-40.453165,17.385819,ov_punto_pizza_40.4532_17.3858,Punto Pizza,RESTAURANT,ristorante
-40.453201,17.386801,ov_la_braceria_del_birrificio_40.4532_17.3868,La Braceria del Birrificio,RESTAURANT,ristorante
-40.453218,17.386407,ov_wine___co_40.4532_17.3864,Wine & Co,RESTAURANT,ristorante
-40.454455,17.375603,ov_la_taverna_del_coccodrillo_40.4545_17.3756,La Taverna del Coccodrillo,RESTAURANT,ristorante
-40.459350,17.371517,ov_pub_shamrock_beer_e_grill_40.4593_17.3715,Pub SHAMROCK Beer e Grill,RESTAURANT,ristorante
-40.459457,17.371595,ov_carpe_diem_40.4595_17.3716,Carpe Diem,RESTAURANT,ristorante
-40.443338,17.302726,ov_jib__disco_40.4433_17.3027,Jibó Disco,RESTAURANT,ristorante
-40.454339,17.389533,ov_fritto_si_40.4543_17.3895,Fritto Si,RESTAURANT,ristorante
-40.460716,17.388019,ov_kebabberia_sabri_40.4607_17.3880,Kebabberia Sabri,RESTAURANT,ristorante
+40.461149,17.374424,ov_spaghettando_spaghetteria___ristorante_40.4611_17.3744,Spaghettando Spaghetteria - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/spaghettando_spaghetteria_-_ristorante_40.4611_17.3744.json,custom
+40.462097,17.385795,ov_la_friseria_40.4621_17.3858,La Friseria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_friseria_40.4621_17.3858.json,custom
+40.462424,17.383586,ov_braceria_da_giuseppe_40.4624_17.3836,Braceria da Giuseppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/braceria_da_giuseppe_40.4624_17.3836.json,custom
+40.459549,17.384240,ov_pit_stop_40.4595_17.3842,Pit Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pit_stop_40.4595_17.3842.json,custom
+40.458784,17.386063,ov_da_boe_puccia_and_pizza_40.4588_17.3861,Da Boe Puccia and Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/da_boe_puccia_and_pizza_40.4588_17.3861.json,custom
+40.458687,17.386084,ov_boe_s_house_40.4587_17.3861,Boe's House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/boes_house_40.4587_17.3861.json,custom
+40.459849,17.379479,ov_hedone_40.4598_17.3795,Hedone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/hedone_40.4598_17.3795.json,custom
+40.458881,17.378893,ov_braceria_al_vecchio_corso_40.4589_17.3789,Braceria Al Vecchio Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/braceria_al_vecchio_corso_40.4589_17.3789.json,custom
+40.457637,17.376211,ov_nonna_lucia_40.4576_17.3762,Nonna Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/nonna_lucia_40.4576_17.3762.json,custom
+40.457575,17.376171,ov_brio_restaurant_40.4576_17.3762,Brio Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/brio_restaurant_40.4576_17.3762.json,custom
+40.457565,17.374724,ov_brace_e_sapori___meat_restaurant_40.4576_17.3747,Brace e Sapori - Meat Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/brace_e_sapori_-_meat_restaurant_40.4576_17.3747.json,custom
+40.457683,17.374390,ov_le_terrazze_40.4577_17.3744,Le Terrazze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/le_terrazze_40.4577_17.3744.json,custom
+40.457584,17.380819,ov_la_capannella_40.4576_17.3808,La Capannella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_capannella_40.4576_17.3808.json,custom
+40.456853,17.383776,ov_capriccio2_di_giuseppe_pacciana_40.4569_17.3838,Capriccio2 di Giuseppe Pacciana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/capriccio2_di_giuseppe_pacciana_40.4569_17.3838.json,custom
+40.457303,17.386551,ov_pizzeria_la_bonta_40.4573_17.3866,Pizzeria La Bonta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pizzeria_la_bonta_40.4573_17.3866.json,custom
+40.453818,17.386610,ov_pizzeria_sombrero_40.4538_17.3866,Pizzeria Sombrero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pizzeria_sombrero_40.4538_17.3866.json,custom
+40.454322,17.383580,ov_la_grande_famiglia_40.4543_17.3836,La Grande Famiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_grande_famiglia_40.4543_17.3836.json,custom
+40.453165,17.385819,ov_punto_pizza_40.4532_17.3858,Punto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/punto_pizza_40.4532_17.3858.json,custom
+40.453201,17.386801,ov_la_braceria_del_birrificio_40.4532_17.3868,La Braceria del Birrificio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_braceria_del_birrificio_40.4532_17.3868.json,custom
+40.453218,17.386407,ov_wine___co_40.4532_17.3864,Wine & Co,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/wine_co_40.4532_17.3864.json,custom
+40.454455,17.375603,ov_la_taverna_del_coccodrillo_40.4545_17.3756,La Taverna del Coccodrillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_taverna_del_coccodrillo_40.4545_17.3756.json,custom
+40.459350,17.371517,ov_pub_shamrock_beer_e_grill_40.4593_17.3715,Pub SHAMROCK Beer e Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/pub_shamrock_beer_e_grill_40.4593_17.3715.json,custom
+40.459457,17.371595,ov_carpe_diem_40.4595_17.3716,Carpe Diem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/carpe_diem_40.4595_17.3716.json,custom
+40.443338,17.302726,ov_jib__disco_40.4433_17.3027,Jibó Disco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/jib_disco_40.4433_17.3027.json,custom
+40.454339,17.389533,ov_fritto_si_40.4543_17.3895,Fritto Si,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/fritto_si_40.4543_17.3895.json,custom
+40.460716,17.388019,ov_kebabberia_sabri_40.4607_17.3880,Kebabberia Sabri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/kebabberia_sabri_40.4607_17.3880.json,custom

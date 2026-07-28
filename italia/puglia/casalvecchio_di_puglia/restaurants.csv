@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # casalvecchio_di_puglia -- restaurants
-41.595357,15.111419,ov_pizzeria_del_corso_41.5954_15.1114,Pizzeria Del Corso,RESTAURANT,ristorante
-41.597767,15.113006,ov_jole_de_mauro_41.5978_15.1130,Jole De Mauro,RESTAURANT,ristorante
-41.593561,15.112260,ov_pizza_madre_41.5936_15.1123,Pizza Madre,RESTAURANT,ristorante
+41.595357,15.111419,ov_pizzeria_del_corso_41.5954_15.1114,Pizzeria Del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/pizzeria_del_corso_41.5954_15.1114.json,custom
+41.597767,15.113006,ov_jole_de_mauro_41.5978_15.1130,Jole De Mauro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/jole_de_mauro_41.5978_15.1130.json,custom
+41.593561,15.112260,ov_pizza_madre_41.5936_15.1123,Pizza Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalvecchio_di_puglia/pages/pizza_madre_41.5936_15.1123.json,custom

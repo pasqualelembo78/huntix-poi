@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castro -- bars_cafes
-40.012548,18.432602,ov_nicola_s_bar_40.0125_18.4326,Nicola's Bar,RESTAURANT,bar_cafe
-40.011663,18.422729,ov_wonderwall_cafe_40.0117_18.4227,Wonderwall Cafe,RESTAURANT,bar_cafe
-40.009110,18.425546,ov_caffetteria_baccaro_40.0091_18.4255,Caffetteria Baccaro,RESTAURANT,bar_cafe
-40.004933,18.427567,ov_delizie_in_contea_40.0049_18.4276,Delizie in Contea,RESTAURANT,bar_cafe
-40.005617,18.427522,ov_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,RESTAURANT,bar_cafe
-40.007357,18.426751,ov_crazy_discount_40.0074_18.4268,Crazy Discount,RESTAURANT,bar_cafe
-40.007360,18.427009,ov_quarta_caffe_40.0074_18.4270,Quarta Caffe,RESTAURANT,bar_cafe
-39.998338,18.420710,ov_nicola_s_bar_castro_39.9983_18.4207,Nicola's Bar Castro,RESTAURANT,bar_cafe
-39.998904,18.422219,ov_loc__argentiera_39.9989_18.4222,Loc. Argentiera,RESTAURANT,bar_cafe
-40.000792,18.422789,ov_le_currenti_40.0008_18.4228,Le Currenti,RESTAURANT,bar_cafe
-40.000646,18.425714,ov_molo_castro_40.0006_18.4257,Molo Castro,RESTAURANT,bar_cafe
-40.001299,18.425833,ov_ilios_caf__40.0013_18.4258,Ilios Café,RESTAURANT,bar_cafe
-40.001334,18.425658,ov_sottovento_bar_sul_mare___colazioni__pra_40.0013_18.4257,"Sottovento Bar Sul Mare | Colazioni, Pranzi, Aperitivi front",RESTAURANT,bar_cafe
-40.005586,18.427487,osm_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,bar_cafe,bar_cafe
+40.012548,18.432602,ov_nicola_s_bar_40.0125_18.4326,Nicola's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/nicolas_bar_40.0125_18.4326.json,custom
+40.011663,18.422729,ov_wonderwall_cafe_40.0117_18.4227,Wonderwall Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/wonderwall_cafe_40.0117_18.4227.json,custom
+40.009110,18.425546,ov_caffetteria_baccaro_40.0091_18.4255,Caffetteria Baccaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/caffetteria_baccaro_40.0091_18.4255.json,custom
+40.004933,18.427567,ov_delizie_in_contea_40.0049_18.4276,Delizie in Contea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/delizie_in_contea_40.0049_18.4276.json,custom
+40.005617,18.427522,ov_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/fonte_dei_messapi_40.0056_18.4275.json,custom
+40.007357,18.426751,ov_crazy_discount_40.0074_18.4268,Crazy Discount,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/crazy_discount_40.0074_18.4268.json,custom
+40.007360,18.427009,ov_quarta_caffe_40.0074_18.4270,Quarta Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/quarta_caffe_40.0074_18.4270.json,custom
+39.998338,18.420710,ov_nicola_s_bar_castro_39.9983_18.4207,Nicola's Bar Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/nicolas_bar_castro_39.9983_18.4207.json,custom
+39.998904,18.422219,ov_loc__argentiera_39.9989_18.4222,Loc. Argentiera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/loc_argentiera_39.9989_18.4222.json,custom
+40.000792,18.422789,ov_le_currenti_40.0008_18.4228,Le Currenti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/le_currenti_40.0008_18.4228.json,custom
+40.000646,18.425714,ov_molo_castro_40.0006_18.4257,Molo Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/molo_castro_40.0006_18.4257.json,custom
+40.001299,18.425833,ov_ilios_caf__40.0013_18.4258,Ilios Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ilios_caf_40.0013_18.4258.json,custom
+40.001334,18.425658,ov_sottovento_bar_sul_mare___colazioni__pra_40.0013_18.4257,"Sottovento Bar Sul Mare | Colazioni, Pranzi, Aperitivi front",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/sottovento_bar_sul_mare_colazioni_pranzi_40.0013_18.4257.json,custom
+40.005586,18.427487,osm_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/fonte_dei_messapi_40.0056_18.4275.json,custom

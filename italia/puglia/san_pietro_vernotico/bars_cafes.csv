@@ -1,27 +1,27 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_pietro_vernotico -- bars_cafes
-40.499400,17.993537,ov_oronero_40.4994_17.9935,Oronero,RESTAURANT,bar_cafe
-40.496340,17.995410,ov_il_girotondo_40.4963_17.9954,Il Girotondo,RESTAURANT,bar_cafe
-40.497233,17.994372,ov_marilyn_cafe_40.4972_17.9944,Marilyn Cafe,RESTAURANT,bar_cafe
-40.494080,17.995455,ov_spili_coffe___food_40.4941_17.9955,Spili Coffe & Food,RESTAURANT,bar_cafe
-40.492440,17.995900,ov_ciomba_oil_bar_40.4924_17.9959,Ciomba Oil Bar,RESTAURANT,bar_cafe
-40.490997,17.996338,ov_cosma_bar_40.4910_17.9963,Cosma Bar,RESTAURANT,bar_cafe
-40.489560,17.996838,ov_coffee_bet_cinzia_di_maiorano_40.4896_17.9968,Coffee Bet Cinzia Di Maiorano,RESTAURANT,bar_cafe
-40.488052,17.997382,ov_el_barrio_40.4881_17.9974,El Barrio,RESTAURANT,bar_cafe
-40.486500,17.993623,ov_prato_bistrot_40.4865_17.9936,Prato Bistrot,RESTAURANT,bar_cafe
-40.487636,17.995817,ov_li_turchi_40.4876_17.9958,Li Turchi,RESTAURANT,bar_cafe
-40.486929,17.995102,ov_salento_caf__40.4869_17.9951,Salento Cafè,RESTAURANT,bar_cafe
-40.486722,17.995027,ov_altavilla_s_pub_40.4867_17.9950,Altavilla's Pub,RESTAURANT,bar_cafe
-40.487208,17.998004,ov_one_love_social_bar_40.4872_17.9980,One Love Social Bar,RESTAURANT,bar_cafe
-40.487438,17.997172,ov_a_tutta_birra_40.4874_17.9972,A Tutta Birra,RESTAURANT,bar_cafe
-40.487709,17.999201,ov_bar_pasticceria_fiorentino_40.4877_17.9992,Bar Pasticceria Fiorentino,RESTAURANT,bar_cafe
-40.483867,17.994408,ov_new_boomerang___san_pietro_v_co_40.4839_17.9944,New Boomerang - San Pietro V.co,RESTAURANT,bar_cafe
-40.483310,18.002900,ov_bar_tabacchi_pronto_pronto_40.4833_18.0029,Bar tabacchi Pronto Pronto,RESTAURANT,bar_cafe
-40.484874,18.001846,ov_bar_president_40.4849_18.0018,Bar President,RESTAURANT,bar_cafe
-40.485376,18.001173,ov_bar_venezia_40.4854_18.0012,Bar Venezia,RESTAURANT,bar_cafe
-40.488818,18.000458,ov_bar_stazione_40.4888_18.0005,Bar Stazione,RESTAURANT,bar_cafe
-40.537708,18.068440,ov_coffee_beach_40.5377_18.0684,Coffee Beach,RESTAURANT,bar_cafe
-40.539213,18.066127,ov_bar_louis_40.5392_18.0661,Bar Louis,RESTAURANT,bar_cafe
-40.542286,18.065588,ov_lido_calidoski_beach_bar_40.5423_18.0656,Lido Calidoski beach bar,RESTAURANT,bar_cafe
-40.539560,18.070269,ov_bella_vista_caffe_40.5396_18.0703,Bella Vista Caffe,RESTAURANT,bar_cafe
-40.491448,17.996209,osm_cosma_pasticcerie_40.4914_17.9962,Cosma Pasticcerie,bar_cafe,bar_cafe
+40.499400,17.993537,ov_oronero_40.4994_17.9935,Oronero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/oronero_40.4994_17.9935.json,custom
+40.496340,17.995410,ov_il_girotondo_40.4963_17.9954,Il Girotondo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/il_girotondo_40.4963_17.9954.json,custom
+40.497233,17.994372,ov_marilyn_cafe_40.4972_17.9944,Marilyn Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/marilyn_cafe_40.4972_17.9944.json,custom
+40.494080,17.995455,ov_spili_coffe___food_40.4941_17.9955,Spili Coffe & Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/spili_coffe_food_40.4941_17.9955.json,custom
+40.492440,17.995900,ov_ciomba_oil_bar_40.4924_17.9959,Ciomba Oil Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/ciomba_oil_bar_40.4924_17.9959.json,custom
+40.490997,17.996338,ov_cosma_bar_40.4910_17.9963,Cosma Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/cosma_bar_40.4910_17.9963.json,custom
+40.489560,17.996838,ov_coffee_bet_cinzia_di_maiorano_40.4896_17.9968,Coffee Bet Cinzia Di Maiorano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/coffee_bet_cinzia_di_maiorano_40.4896_17.9968.json,custom
+40.488052,17.997382,ov_el_barrio_40.4881_17.9974,El Barrio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/el_barrio_40.4881_17.9974.json,custom
+40.486500,17.993623,ov_prato_bistrot_40.4865_17.9936,Prato Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/prato_bistrot_40.4865_17.9936.json,custom
+40.487636,17.995817,ov_li_turchi_40.4876_17.9958,Li Turchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/li_turchi_40.4876_17.9958.json,custom
+40.486929,17.995102,ov_salento_caf__40.4869_17.9951,Salento Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/salento_caf_40.4869_17.9951.json,custom
+40.486722,17.995027,ov_altavilla_s_pub_40.4867_17.9950,Altavilla's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/altavillas_pub_40.4867_17.9950.json,custom
+40.487208,17.998004,ov_one_love_social_bar_40.4872_17.9980,One Love Social Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/one_love_social_bar_40.4872_17.9980.json,custom
+40.487438,17.997172,ov_a_tutta_birra_40.4874_17.9972,A Tutta Birra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/a_tutta_birra_40.4874_17.9972.json,custom
+40.487709,17.999201,ov_bar_pasticceria_fiorentino_40.4877_17.9992,Bar Pasticceria Fiorentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_pasticceria_fiorentino_40.4877_17.9992.json,custom
+40.483867,17.994408,ov_new_boomerang___san_pietro_v_co_40.4839_17.9944,New Boomerang - San Pietro V.co,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/new_boomerang_-_san_pietro_vco_40.4839_17.9944.json,custom
+40.483310,18.002900,ov_bar_tabacchi_pronto_pronto_40.4833_18.0029,Bar tabacchi Pronto Pronto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_tabacchi_pronto_pronto_40.4833_18.0029.json,custom
+40.484874,18.001846,ov_bar_president_40.4849_18.0018,Bar President,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_president_40.4849_18.0018.json,custom
+40.485376,18.001173,ov_bar_venezia_40.4854_18.0012,Bar Venezia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_venezia_40.4854_18.0012.json,custom
+40.488818,18.000458,ov_bar_stazione_40.4888_18.0005,Bar Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_stazione_40.4888_18.0005.json,custom
+40.537708,18.068440,ov_coffee_beach_40.5377_18.0684,Coffee Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/coffee_beach_40.5377_18.0684.json,custom
+40.539213,18.066127,ov_bar_louis_40.5392_18.0661,Bar Louis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_louis_40.5392_18.0661.json,custom
+40.542286,18.065588,ov_lido_calidoski_beach_bar_40.5423_18.0656,Lido Calidoski beach bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lido_calidoski_beach_bar_40.5423_18.0656.json,custom
+40.539560,18.070269,ov_bella_vista_caffe_40.5396_18.0703,Bella Vista Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bella_vista_caffe_40.5396_18.0703.json,custom
+40.491448,17.996209,osm_cosma_pasticcerie_40.4914_17.9962,Cosma Pasticcerie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/cosma_pasticcerie_40.4914_17.9962.json,custom

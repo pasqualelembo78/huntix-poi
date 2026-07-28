@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_nicandro_garganico -- bars_cafes
-41.833133,15.575308,ov_artemide_bar_stuzzicheria_41.8331_15.5753,Artemide Bar Stuzzicheria,RESTAURANT,bar_cafe
-41.833468,15.574005,ov_sante_la_gineria_41.8335_15.5740,Sante La Gineria,RESTAURANT,bar_cafe
-41.829855,15.561870,ov_scacco_matto_41.8299_15.5619,Scacco Matto,RESTAURANT,bar_cafe
-41.836160,15.564140,ov_square_cosmopolitan_bar_41.8362_15.5641,Square Cosmopolitan Bar,RESTAURANT,bar_cafe
-41.830950,15.564650,ov_bar_c_era_una_volta_da_enzo_41.8310_15.5647,Bar C'era una volta da Enzo,RESTAURANT,bar_cafe
-41.832425,15.569586,ov_dhanny__s_caf__41.8324_15.5696,Dhanny 's café,RESTAURANT,bar_cafe
-41.841896,15.563056,ov_kebab_tropical_41.8419_15.5631,Kebab tropical,RESTAURANT,bar_cafe
-41.841828,15.564988,ov_la_veronese_41.8418_15.5650,La Veronese,RESTAURANT,bar_cafe
-41.836589,15.563811,ov_mamani_41.8366_15.5638,Mamani,RESTAURANT,bar_cafe
-41.837276,15.563033,ov_backout_cocktail_bistrot_bar_41.8373_15.5630,Backout Cocktail Bistrot Bar,RESTAURANT,bar_cafe
-41.837530,15.563040,ov_green__hops_41.8375_15.5630,green__hops,RESTAURANT,bar_cafe
-41.837494,15.562988,ov_gran_caffe_dalis_41.8375_15.5630,Gran Caffe Dalis,RESTAURANT,bar_cafe
-41.837148,15.562084,ov_il_chioschetto_long_drink_panineria_41.8371_15.5621,Il Chioschetto Long Drink panineria,RESTAURANT,bar_cafe
-41.838419,15.562277,ov_blackout_caf__41.8384_15.5623,Blackout cafè,RESTAURANT,bar_cafe
-41.842249,15.562704,ov_glass_41.8422_15.5627,Glass,RESTAURANT,bar_cafe
-41.876078,15.525462,ov_il_cacciatore_41.8761_15.5255,Il Cacciatore,RESTAURANT,bar_cafe
-41.837086,15.567457,osm_new_games_di_solimando_michele_41.8371_15.5675,New Games di Solimando Michele,bar_cafe,bar_cafe
+41.833133,15.575308,ov_artemide_bar_stuzzicheria_41.8331_15.5753,Artemide Bar Stuzzicheria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/artemide_bar_stuzzicheria_41.8331_15.5753.json,custom
+41.833468,15.574005,ov_sante_la_gineria_41.8335_15.5740,Sante La Gineria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/sante_la_gineria_41.8335_15.5740.json,custom
+41.829855,15.561870,ov_scacco_matto_41.8299_15.5619,Scacco Matto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/scacco_matto_41.8299_15.5619.json,custom
+41.836160,15.564140,ov_square_cosmopolitan_bar_41.8362_15.5641,Square Cosmopolitan Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/square_cosmopolitan_bar_41.8362_15.5641.json,custom
+41.830950,15.564650,ov_bar_c_era_una_volta_da_enzo_41.8310_15.5647,Bar C'era una volta da Enzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/bar_cera_una_volta_da_enzo_41.8310_15.5647.json,custom
+41.832425,15.569586,ov_dhanny__s_caf__41.8324_15.5696,Dhanny 's café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/dhanny_s_caf_41.8324_15.5696.json,custom
+41.841896,15.563056,ov_kebab_tropical_41.8419_15.5631,Kebab tropical,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/kebab_tropical_41.8419_15.5631.json,custom
+41.841828,15.564988,ov_la_veronese_41.8418_15.5650,La Veronese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/la_veronese_41.8418_15.5650.json,custom
+41.836589,15.563811,ov_mamani_41.8366_15.5638,Mamani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/mamani_41.8366_15.5638.json,custom
+41.837276,15.563033,ov_backout_cocktail_bistrot_bar_41.8373_15.5630,Backout Cocktail Bistrot Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/backout_cocktail_bistrot_bar_41.8373_15.5630.json,custom
+41.837530,15.563040,ov_green__hops_41.8375_15.5630,green__hops,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/greenhops_41.8375_15.5630.json,custom
+41.837494,15.562988,ov_gran_caffe_dalis_41.8375_15.5630,Gran Caffe Dalis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/gran_caffe_dalis_41.8375_15.5630.json,custom
+41.837148,15.562084,ov_il_chioschetto_long_drink_panineria_41.8371_15.5621,Il Chioschetto Long Drink panineria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/il_chioschetto_long_drink_panineria_41.8371_15.5621.json,custom
+41.838419,15.562277,ov_blackout_caf__41.8384_15.5623,Blackout cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/blackout_caf_41.8384_15.5623.json,custom
+41.842249,15.562704,ov_glass_41.8422_15.5627,Glass,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/glass_41.8422_15.5627.json,custom
+41.876078,15.525462,ov_il_cacciatore_41.8761_15.5255,Il Cacciatore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/il_cacciatore_41.8761_15.5255.json,custom
+41.837086,15.567457,osm_new_games_di_solimando_michele_41.8371_15.5675,New Games di Solimando Michele,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_nicandro_garganico/pages/new_games_di_solimando_michele_41.8371_15.5675.json,custom

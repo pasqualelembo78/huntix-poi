@@ -1,25 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ostuni -- gyms
-40.778211,17.495780,ov_a_s_d__gli_ulivi_40.7782_17.4958,A.S.D. Gli Ulivi,GYM,palestra
-40.787660,17.587754,ov_centro_sportivo_mare_sport_40.7877_17.5878,Centro Sportivo Mare Sport,GYM,palestra
-40.788174,17.587097,ov_star_nautica_40.7882_17.5871,Star Nautica,GYM,palestra
-40.769620,17.662893,ov_asd_suprise_40.7696_17.6629,Asd Suprise,GYM,palestra
-40.729712,17.543262,ov_parco_avventura_ciuchino_birichino_40.7297_17.5433,Parco Avventura Ciuchino Birichino,GYM,palestra
-40.731347,17.570797,ov_new_performance_palestra_40.7313_17.5708,New Performance Palestra,GYM,palestra
-40.748944,17.581036,ov_bowling_ostuni_40.7489_17.5810,Bowling Ostuni,GYM,palestra
-40.721323,17.602694,ov_pesistica_ostuni_40.7213_17.6027,Pesistica Ostuni,GYM,palestra
-40.720981,17.602903,ov_la_mariposa_del_caribe_40.7210_17.6029,La Mariposa del Caribe,GYM,palestra
-40.722430,17.578387,ov_mcm_fitness_da_carletto_40.7224_17.5784,MCM Fitness Da Carletto,GYM,palestra
-40.724121,17.588563,ov_cclub_centro_sportivo_polivalente_40.7241_17.5886,Cclub Centro Sportivo Polivalente,GYM,palestra
-40.723841,17.588360,ov_maison_du_ballet_40.7238_17.5884,Maison du Ballet,GYM,palestra
-40.723822,17.588363,ov_asd_laboratorio_del_benessere_40.7238_17.5884,Asd Laboratorio Del Benessere,GYM,palestra
-40.724357,17.591895,ov_palestra_giuseppe_40.7244_17.5919,Palestra Giuseppe,GYM,palestra
-40.724584,17.581602,ov_corporis_disciplina_by_francesca_40.7246_17.5816,Corporis Disciplina By Francesca,GYM,palestra
-40.723509,17.580869,ov_ssd_a_rl_centro_equestre_parco_di_mare_40.7235_17.5809,SSD a RL Centro Equestre Parco di Mare,GYM,palestra
-40.724961,17.580265,ov_asd_atp_creator_ostuni_40.7250_17.5803,ASD Atp Creator Ostuni,GYM,palestra
-40.725456,17.582562,ov_a_s__gli_immergibili_diving_club_40.7255_17.5826,A.S. Gli Immergibili Diving Club,GYM,palestra
-40.724364,17.579021,ov_aret__wellness_club_40.7244_17.5790,Aretè Wellness Club,GYM,palestra
-40.724057,17.575624,ov_physicenter_fitness_wellness_40.7241_17.5756,PhysiCenter Fitness&wellness,GYM,palestra
-40.723718,17.575325,ov_asd_salus_sport_40.7237_17.5753,Asd Salus Sport,GYM,palestra
-40.727739,17.576440,ov_palestra_aurora_40.7277_17.5764,Palestra Aurora,GYM,palestra
-40.728321,17.570828,ov_new_perfect_line_40.7283_17.5708,New Perfect Line,GYM,palestra
+40.778211,17.495780,ov_a_s_d__gli_ulivi_40.7782_17.4958,A.S.D. Gli Ulivi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asd_gli_ulivi_40.7782_17.4958.json,custom
+40.787660,17.587754,ov_centro_sportivo_mare_sport_40.7877_17.5878,Centro Sportivo Mare Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/centro_sportivo_mare_sport_40.7877_17.5878.json,custom
+40.788174,17.587097,ov_star_nautica_40.7882_17.5871,Star Nautica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/star_nautica_40.7882_17.5871.json,custom
+40.769620,17.662893,ov_asd_suprise_40.7696_17.6629,Asd Suprise,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asd_suprise_40.7696_17.6629.json,custom
+40.729712,17.543262,ov_parco_avventura_ciuchino_birichino_40.7297_17.5433,Parco Avventura Ciuchino Birichino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/parco_avventura_ciuchino_birichino_40.7297_17.5433.json,custom
+40.731347,17.570797,ov_new_performance_palestra_40.7313_17.5708,New Performance Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/new_performance_palestra_40.7313_17.5708.json,custom
+40.748944,17.581036,ov_bowling_ostuni_40.7489_17.5810,Bowling Ostuni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bowling_ostuni_40.7489_17.5810.json,custom
+40.721323,17.602694,ov_pesistica_ostuni_40.7213_17.6027,Pesistica Ostuni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pesistica_ostuni_40.7213_17.6027.json,custom
+40.720981,17.602903,ov_la_mariposa_del_caribe_40.7210_17.6029,La Mariposa del Caribe,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_mariposa_del_caribe_40.7210_17.6029.json,custom
+40.722430,17.578387,ov_mcm_fitness_da_carletto_40.7224_17.5784,MCM Fitness Da Carletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mcm_fitness_da_carletto_40.7224_17.5784.json,custom
+40.724121,17.588563,ov_cclub_centro_sportivo_polivalente_40.7241_17.5886,Cclub Centro Sportivo Polivalente,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/cclub_centro_sportivo_polivalente_40.7241_17.5886.json,custom
+40.723841,17.588360,ov_maison_du_ballet_40.7238_17.5884,Maison du Ballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/maison_du_ballet_40.7238_17.5884.json,custom
+40.723822,17.588363,ov_asd_laboratorio_del_benessere_40.7238_17.5884,Asd Laboratorio Del Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asd_laboratorio_del_benessere_40.7238_17.5884.json,custom
+40.724357,17.591895,ov_palestra_giuseppe_40.7244_17.5919,Palestra Giuseppe,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/palestra_giuseppe_40.7244_17.5919.json,custom
+40.724584,17.581602,ov_corporis_disciplina_by_francesca_40.7246_17.5816,Corporis Disciplina By Francesca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/corporis_disciplina_by_francesca_40.7246_17.5816.json,custom
+40.723509,17.580869,ov_ssd_a_rl_centro_equestre_parco_di_mare_40.7235_17.5809,SSD a RL Centro Equestre Parco di Mare,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ssd_a_rl_centro_equestre_parco_di_mare_40.7235_17.5809.json,custom
+40.724961,17.580265,ov_asd_atp_creator_ostuni_40.7250_17.5803,ASD Atp Creator Ostuni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asd_atp_creator_ostuni_40.7250_17.5803.json,custom
+40.725456,17.582562,ov_a_s__gli_immergibili_diving_club_40.7255_17.5826,A.S. Gli Immergibili Diving Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/as_gli_immergibili_diving_club_40.7255_17.5826.json,custom
+40.724364,17.579021,ov_aret__wellness_club_40.7244_17.5790,Aretè Wellness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/aret_wellness_club_40.7244_17.5790.json,custom
+40.724057,17.575624,ov_physicenter_fitness_wellness_40.7241_17.5756,PhysiCenter Fitness&wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/physicenter_fitnesswellness_40.7241_17.5756.json,custom
+40.723718,17.575325,ov_asd_salus_sport_40.7237_17.5753,Asd Salus Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asd_salus_sport_40.7237_17.5753.json,custom
+40.727739,17.576440,ov_palestra_aurora_40.7277_17.5764,Palestra Aurora,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/palestra_aurora_40.7277_17.5764.json,custom
+40.728321,17.570828,ov_new_perfect_line_40.7283_17.5708,New Perfect Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/new_perfect_line_40.7283_17.5708.json,custom
+40.731951,17.553234,osm_namaste_spazio_olistico___scuola_di_yoga_40.7320_17.5532,Namaste Spazio Olistico & Scuola di Yoga,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/namaste_spazio_olistico_scuola_di_yoga_40.7320_17.5532.json,custom

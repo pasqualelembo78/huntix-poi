@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Pietro in Bevagna -- Tutti
-40.312748,17.696999,osm_villa_sala_bianca_40.3127_17.6970,Villa Sala Bianca,ristorante,ristorante
-40.304821,17.686118,osm_bar_beach_40.3048_17.6861,Bar Beach,bar_cafe,bar_cafe
+40.312748,17.696999,osm_villa_sala_bianca_40.3127_17.6970,Villa Sala Bianca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_bevagna/pages/villa_sala_bianca_40.3127_17.6970.json,custom
+40.304821,17.686118,osm_bar_beach_40.3048_17.6861,Bar Beach,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_bevagna/pages/bar_beach_40.3048_17.6861.json,custom

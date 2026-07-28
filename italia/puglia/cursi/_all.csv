@@ -1,17 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Cursi -- Tutti
-40.150958,18.314851,osm_conacan__trattoria_pizzeria_40.1510_18.3149,Conacanà Trattoria Pizzeria,ristorante,ristorante
-40.148232,18.312821,osm_dal_bambino_40.1482_18.3128,Dal Bambino,ristorante,ristorante
-40.150050,18.315272,osm_alogne_40.1500_18.3153,Alogne,ristorante,ristorante
-40.148173,18.312801,ov_dal_bambino_40.1482_18.3128,Dal Bambino,RESTAURANT,ristorante
-40.150228,18.314770,ov_la_cosacca_40.1502_18.3148,La Cosacca,RESTAURANT,ristorante
-40.150097,18.315342,ov_kilo_ristobraceria_40.1501_18.3153,Kilo Ristobraceria,RESTAURANT,ristorante
-40.149854,18.313266,ov_le_ricordanze_40.1499_18.3133,Le Ricordanze,RESTAURANT,ristorante
-40.150971,18.314850,ov_conacan__40.1510_18.3148,Conacanà,RESTAURANT,ristorante
-40.144930,18.321160,ov_chilling_40.1449_18.3212,Chilling,RESTAURANT,bar_cafe
-40.145967,18.311765,ov_prosit_bar_40.1460_18.3118,Prosit Bar,RESTAURANT,bar_cafe
-40.150443,18.315095,osm_bar_orion_40.1504_18.3151,Bar Orion,bar_cafe,bar_cafe
-40.149970,18.314279,osm_bar_sport_40.1500_18.3143,Bar Sport,bar_cafe,bar_cafe
-40.150141,18.314791,osm_bar_central_40.1501_18.3148,Bar Central,bar_cafe,bar_cafe
-40.145119,18.329145,ov_asd_un_cavallo_per_amico_40.1451_18.3291,Asd Un cavallo per amico,GYM,palestra
-40.150176,18.314337,ov_ecomuseo_della_pietra_leccese_40.1502_18.3143,Ecomuseo della Pietra Leccese,MUSEUM,monumento
+40.148173,18.312801,ov_dal_bambino_40.1482_18.3128,Dal Bambino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/dal_bambino_40.1482_18.3128.json,custom
+40.150228,18.314770,ov_la_cosacca_40.1502_18.3148,La Cosacca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/la_cosacca_40.1502_18.3148.json,custom
+40.150097,18.315342,ov_kilo_ristobraceria_40.1501_18.3153,Kilo Ristobraceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/kilo_ristobraceria_40.1501_18.3153.json,custom
+40.149854,18.313266,ov_le_ricordanze_40.1499_18.3133,Le Ricordanze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/le_ricordanze_40.1499_18.3133.json,custom
+40.150971,18.314850,ov_conacan__40.1510_18.3148,Conacanà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/conacan_40.1510_18.3148.json,custom
+40.150958,18.314851,osm_conacan__trattoria_pizzeria_40.1510_18.3149,Conacanà Trattoria Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/conacan_trattoria_pizzeria_40.1510_18.3149.json,custom
+40.150050,18.315272,osm_alogne_40.1500_18.3153,Alogne,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/alogne_40.1500_18.3153.json,custom
+40.144930,18.321160,ov_chilling_40.1449_18.3212,Chilling,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/chilling_40.1449_18.3212.json,custom
+40.145967,18.311765,ov_prosit_bar_40.1460_18.3118,Prosit Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/prosit_bar_40.1460_18.3118.json,custom
+40.150443,18.315095,osm_bar_orion_40.1504_18.3151,Bar Orion,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_orion_40.1504_18.3151.json,custom
+40.149970,18.314279,osm_bar_sport_40.1500_18.3143,Bar Sport,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_sport_40.1500_18.3143.json,custom
+40.150141,18.314791,osm_bar_central_40.1501_18.3148,Bar Central,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_central_40.1501_18.3148.json,custom
+40.145119,18.329145,ov_asd_un_cavallo_per_amico_40.1451_18.3291,Asd Un cavallo per amico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/asd_un_cavallo_per_amico_40.1451_18.3291.json,custom
+40.150176,18.314337,ov_ecomuseo_della_pietra_leccese_40.1502_18.3143,Ecomuseo della Pietra Leccese,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/ecomuseo_della_pietra_leccese_40.1502_18.3143.json,custom

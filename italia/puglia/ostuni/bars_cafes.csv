@@ -1,101 +1,101 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ostuni -- bars_cafes
-40.647750,17.508798,ov_apulia_professional_srl_40.6478_17.5088,Apulia Professional SRL,RESTAURANT,bar_cafe
-40.696477,17.417768,ov_minimarket_pannofino_s_r_l__40.6965_17.4178,Minimarket Pannofino S.r.l.,RESTAURANT,bar_cafe
-40.706076,17.505757,ov_ladies_cafe__40.7061_17.5058,Ladies Cafe',RESTAURANT,bar_cafe
-40.816946,17.507387,ov_santocielo_40.8169_17.5074,SantoCielo,RESTAURANT,bar_cafe
-40.808064,17.529834,ov_nomade_ostuni_40.8081_17.5298,Nomade Ostuni,RESTAURANT,bar_cafe
-40.808609,17.529162,ov_lido_lullabay_40.8086_17.5292,Lido LullaBay,RESTAURANT,bar_cafe
-40.806503,17.535858,ov_al_tiziano_40.8065_17.5359,Al Tiziano,RESTAURANT,bar_cafe
-40.793203,17.546509,ov_caff__del_consorzio_40.7932_17.5465,Caffè Del Consorzio,RESTAURANT,bar_cafe
-40.786991,17.596324,ov_bar_del_sole_40.7870_17.5963,Bar del Sole,RESTAURANT,bar_cafe
-40.789538,17.587768,ov_p_p_panini_e_poesia_40.7895_17.5878,P&P Panini e Poesia,RESTAURANT,bar_cafe
-40.790285,17.587834,ov_bar_la_caletta_40.7903_17.5878,Bar La Caletta,RESTAURANT,bar_cafe
-40.789980,17.586715,ov_bar_del_porto___caffetteria_pasticciotte_40.7900_17.5867,Bar del Porto - Caffetteria Pasticciotteria Tabaccheria,RESTAURANT,bar_cafe
-40.775919,17.641922,ov_mediterraneo_ristorante_pizzeria_ostuni_40.7759_17.6419,Mediterraneo ristorante pizzeria Ostuni,RESTAURANT,bar_cafe
-40.764880,17.663650,ov_framari_nature___beach_bar_40.7649_17.6637,FraMari nature & beach bar,RESTAURANT,bar_cafe
-40.769597,17.662900,ov_framari_nature_and_beach_bar_40.7696_17.6629,FraMari Nature and Beach Bar,RESTAURANT,bar_cafe
-40.752081,17.580906,ov_bar_la_stazione_40.7521_17.5809,Bar La Stazione,RESTAURANT,bar_cafe
-40.729410,17.578567,ov_bar_della_villa_40.7294_17.5786,Bar della Villa,RESTAURANT,bar_cafe
-40.729558,17.578230,ov_caffe_orlando_40.7296_17.5782,Caffe Orlando,RESTAURANT,bar_cafe
-40.729398,17.577000,ov_tabar_40.7294_17.5770,Tabar,RESTAURANT,bar_cafe
-40.730838,17.575087,ov_ashworth_villa_bar_40.7308_17.5751,Ashworth Villa Bar,RESTAURANT,bar_cafe
-40.731913,17.574906,ov_caffe_mazzini_tabaccheria_40.7319_17.5749,Caffe Mazzini Tabaccheria,RESTAURANT,bar_cafe
-40.731920,17.574440,ov_la_caletta_40.7319_17.5744,La Caletta,RESTAURANT,bar_cafe
-40.733582,17.578961,ov_centro_storico_caffe_bistrot_40.7336_17.5790,Centro Storico Caffe Bistrot,RESTAURANT,bar_cafe
-40.733161,17.579111,ov_kidra_pub_40.7332_17.5791,Kidra Pub,RESTAURANT,bar_cafe
-40.733092,17.577999,ov_parisi_cafe_40.7331_17.5780,Parisi Cafe,RESTAURANT,bar_cafe
-40.732859,17.578508,ov_passion_pub_da_franchino_40.7329_17.5785,Passion Pub da Franchino,RESTAURANT,bar_cafe
-40.732436,17.578274,ov_caff__ayroldi_40.7324_17.5783,caffè Ayroldi,RESTAURANT,bar_cafe
-40.732368,17.578651,ov_il_gatto_rosso_40.7324_17.5787,Il Gatto Rosso,RESTAURANT,bar_cafe
-40.732176,17.579044,ov_pausa_cafe_40.7322_17.5790,Pausa Cafe,RESTAURANT,bar_cafe
-40.732085,17.578753,ov_casbah_risto_cafe_40.7321_17.5788,Casbah Risto Cafe,RESTAURANT,bar_cafe
-40.732114,17.578655,ov_caffe_garibaldi_40.7321_17.5787,Caffe Garibaldi,RESTAURANT,bar_cafe
-40.732296,17.578064,ov_caff__centrale_40.7323_17.5781,Caffè Centrale,RESTAURANT,bar_cafe
-40.732370,17.576795,ov_caffetteria_d_amico_40.7324_17.5768,Caffetteria D'Amico,RESTAURANT,bar_cafe
-40.731944,17.578511,ov_caff__trieste_40.7319_17.5785,Caffè Trieste,RESTAURANT,bar_cafe
-40.731951,17.579028,ov_etre_40.7320_17.5790,Etre,RESTAURANT,bar_cafe
-40.731676,17.578870,ov_new_life_caf___caff__fanelli_40.7317_17.5789,New life cafè  caffè Fanelli,RESTAURANT,bar_cafe
-40.731470,17.578756,ov_passaporto_ostuni___alchimia_e_cucina_40.7315_17.5788,Passaporto Ostuni / Alchimia e Cucina,RESTAURANT,bar_cafe
-40.731426,17.578932,ov_caff__cavour_40.7314_17.5789,Caffè Cavour,RESTAURANT,bar_cafe
-40.731422,17.579174,ov_risto_caffe_cavour_40.7314_17.5792,Risto Caffe Cavour,RESTAURANT,bar_cafe
-40.731525,17.579195,ov_freaks_bar___food_40.7315_17.5792,Freaks Bar & Food,RESTAURANT,bar_cafe
-40.731778,17.579885,ov_caffe_fadi_40.7318_17.5799,Caffe Fadi,RESTAURANT,bar_cafe
-40.731756,17.579883,ov_bloom_ostuni_40.7318_17.5799,Bloom Ostuni,RESTAURANT,bar_cafe
-40.732285,17.579877,ov_bellinfusto_40.7323_17.5799,Bellinfusto,RESTAURANT,bar_cafe
-40.732416,17.579411,ov_hanky_panky_40.7324_17.5794,Hanky Panky,RESTAURANT,bar_cafe
-40.733300,17.583300,ov_cryspy_caf__40.7333_17.5833,Cryspy Café,RESTAURANT,bar_cafe
-40.733731,17.583634,ov_terrazza_sant_eligio_40.7337_17.5836,Terrazza Sant'Eligio,RESTAURANT,bar_cafe
-40.730994,17.579509,ov_la_fernandina___casa_del_daiquiri_40.7310_17.5795,La Fernandina - Casa del Daiquiri,RESTAURANT,bar_cafe
-40.730691,17.580037,ov_boulevard_caffe_40.7307_17.5800,Boulevard Caffe,RESTAURANT,bar_cafe
-40.730299,17.580199,ov_bar_nepenta_40.7303_17.5802,Bar Nepenta,RESTAURANT,bar_cafe
-40.734075,17.579649,ov_enoteca_divino_40.7341_17.5796,Enoteca Divino,RESTAURANT,bar_cafe
-40.734056,17.579342,ov_gipas_111_40.7341_17.5793,Gipas 111,RESTAURANT,bar_cafe
-40.734196,17.579644,ov_la_gilda_40.7342_17.5796,La Gilda,RESTAURANT,bar_cafe
-40.734485,17.579521,ov_bar_perso_40.7345_17.5795,Bar Perso,RESTAURANT,bar_cafe
-40.734870,17.579495,ov_empire_cocktail_bar_40.7349_17.5795,Empire Cocktail Bar,RESTAURANT,bar_cafe
-40.734612,17.580184,ov_avenida_40_40.7346_17.5802,Avenida 40,RESTAURANT,bar_cafe
-40.734717,17.578806,ov_riccardo_caff__40.7347_17.5788,Riccardo Caffè,RESTAURANT,bar_cafe
-40.734531,17.578058,ov_bianc_ostuni_40.7345_17.5781,Bianc'ostuni,RESTAURANT,bar_cafe
-40.721293,17.602170,ov_artigian_bar_40.7213_17.6022,Artigian Bar,RESTAURANT,bar_cafe
-40.720168,17.604479,ov_macondo_birreria_40.7202_17.6045,Macondo Birreria,RESTAURANT,bar_cafe
-40.722065,17.573916,ov_bar_gelateria_matrix_40.7221_17.5739,Bar Gelateria Matrix,RESTAURANT,bar_cafe
-40.722196,17.573344,ov_tiffany___bar_caffetteria_40.7222_17.5733,Tiffany - Bar Caffetteria,RESTAURANT,bar_cafe
-40.722231,17.576288,ov_bar_del_pozzo_40.7222_17.5763,Bar Del Pozzo,RESTAURANT,bar_cafe
-40.722955,17.577441,ov_gran_bar_pasticceria_gelateria_40.7230_17.5774,Gran Bar Pasticceria Gelateria,RESTAURANT,bar_cafe
-40.723453,17.578481,ov_cafe_noir_40.7235_17.5785,CAFE NOIR,RESTAURANT,bar_cafe
-40.723330,17.579100,ov_break___il_bar_del_circolo_40.7233_17.5791,Break - Il Bar Del Circolo,RESTAURANT,bar_cafe
-40.721390,17.576975,ov_caffe_sheraton_40.7214_17.5770,Caffe Sheraton,RESTAURANT,bar_cafe
-40.723334,17.579665,ov_vini_e_spuntini_40.7233_17.5797,Vini e Spuntini,RESTAURANT,bar_cafe
-40.723440,17.581571,ov_caffe_manhattan_40.7234_17.5816,Caffe Manhattan,RESTAURANT,bar_cafe
-40.721070,17.601972,ov_sala_biliardo_associazione_sportiva_jack_40.7211_17.6020,Sala Biliardo Associazione Sportiva Jackal Ostuni,RESTAURANT,bar_cafe
-40.724300,17.592269,ov_bar_transit_40.7243_17.5923,Bar Transit,RESTAURANT,bar_cafe
-40.727892,17.584661,ov_family___usa_40.7279_17.5847,Family - USA,RESTAURANT,bar_cafe
-40.727748,17.579884,ov_caffe_pink_lady_40.7277_17.5799,Caffe Pink Lady,RESTAURANT,bar_cafe
-40.726910,17.579964,ov_tuf_tuf_40.7269_17.5800,Tuf Tuf,RESTAURANT,bar_cafe
-40.725932,17.583849,ov_il_seven_40.7259_17.5838,Il seven,RESTAURANT,bar_cafe
-40.724328,17.585241,ov_enoteca_vini_di_puglia_40.7243_17.5852,Enoteca vini di puglia,RESTAURANT,bar_cafe
-40.723736,17.581694,ov_bar_83_40.7237_17.5817,Bar 83,RESTAURANT,bar_cafe
-40.726100,17.578365,ov_enoteca_asciano_40.7261_17.5784,Enoteca Asciano,RESTAURANT,bar_cafe
-40.725675,17.578243,ov_ciccio_in_piazza_40.7257_17.5782,Ciccio in Piazza,RESTAURANT,bar_cafe
-40.725695,17.577079,ov_bar_citt__bianca_40.7257_17.5771,Bar Città Bianca,RESTAURANT,bar_cafe
-40.724946,17.578728,ov_tiki_taka_caffe_40.7249_17.5787,Tiki taka caffe,RESTAURANT,bar_cafe
-40.724573,17.578269,ov_excelsior_caff__40.7246_17.5783,Excelsior Caffé,RESTAURANT,bar_cafe
-40.723530,17.577360,ov_mokamokacaff__40.7235_17.5774,MokaMokaCaffè,RESTAURANT,bar_cafe
-40.723823,17.576284,ov_caffe_vivere_40.7238_17.5763,Caffe Vivere,RESTAURANT,bar_cafe
-40.724254,17.576860,ov_blu_night_cafe_40.7243_17.5769,Blu Night Cafe,RESTAURANT,bar_cafe
-40.725874,17.575035,ov_caffe_risorgimento_40.7259_17.5750,Caffe Risorgimento,RESTAURANT,bar_cafe
-40.726343,17.573417,ov_bar_inside_4_40.7263_17.5734,Bar Inside 4,RESTAURANT,bar_cafe
-40.726740,17.573088,ov_bar_pasticceria_gelateria_tar__40.7267_17.5731,BAR Pasticceria Gelateria TARì,RESTAURANT,bar_cafe
-40.726569,17.576778,ov_temple_bar_public_house_40.7266_17.5768,Temple Bar Public House,RESTAURANT,bar_cafe
-40.726200,17.577964,ov_bar_paradiso_40.7262_17.5780,Bar Paradiso,RESTAURANT,bar_cafe
-40.726808,17.576816,ov_caff__diana_40.7268_17.5768,Caffè Diana,RESTAURANT,bar_cafe
-40.727672,17.574944,ov_kennedy_pasticceria_40.7277_17.5749,Kennedy pasticceria,RESTAURANT,bar_cafe
-40.727646,17.575013,ov_bar_kennedy_40.7276_17.5750,Bar Kennedy,RESTAURANT,bar_cafe
-40.727768,17.570756,ov_soul_origins_cafe_40.7278_17.5708,Soul Origins Cafe,RESTAURANT,bar_cafe
-40.727767,17.570812,ov_easy_bar_40.7278_17.5708,Easy Bar,RESTAURANT,bar_cafe
-40.733789,17.580213,osm_braceria_riccardo_caff__40.7338_17.5802,Braceria;Riccardo Caffè,bar_cafe,bar_cafe
-40.731708,17.579212,osm_freaks_bar_40.7317_17.5792,Freaks Bar,bar_cafe,bar_cafe
-40.732325,17.578616,osm_bar_italia__ceramiche_40.7323_17.5786,Bar Italia- Ceramiche,bar_cafe,bar_cafe
-40.733975,17.580367,osm_riccardo_caff__40.7340_17.5804,Riccardo Caffè,bar_cafe,bar_cafe
-40.732669,17.577463,osm_bar_pasticceria_da_pasquale_40.7327_17.5775,Bar Pasticceria da Pasquale,bar_cafe,bar_cafe
+40.647750,17.508798,ov_apulia_professional_srl_40.6478_17.5088,Apulia Professional SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/apulia_professional_srl_40.6478_17.5088.json,custom
+40.696477,17.417768,ov_minimarket_pannofino_s_r_l__40.6965_17.4178,Minimarket Pannofino S.r.l.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/minimarket_pannofino_srl_40.6965_17.4178.json,custom
+40.706076,17.505757,ov_ladies_cafe__40.7061_17.5058,Ladies Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ladies_cafe_40.7061_17.5058.json,custom
+40.816946,17.507387,ov_santocielo_40.8169_17.5074,SantoCielo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/santocielo_40.8169_17.5074.json,custom
+40.808064,17.529834,ov_nomade_ostuni_40.8081_17.5298,Nomade Ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/nomade_ostuni_40.8081_17.5298.json,custom
+40.808609,17.529162,ov_lido_lullabay_40.8086_17.5292,Lido LullaBay,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lido_lullabay_40.8086_17.5292.json,custom
+40.806503,17.535858,ov_al_tiziano_40.8065_17.5359,Al Tiziano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/al_tiziano_40.8065_17.5359.json,custom
+40.793203,17.546509,ov_caff__del_consorzio_40.7932_17.5465,Caffè Del Consorzio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_del_consorzio_40.7932_17.5465.json,custom
+40.786991,17.596324,ov_bar_del_sole_40.7870_17.5963,Bar del Sole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_del_sole_40.7870_17.5963.json,custom
+40.789538,17.587768,ov_p_p_panini_e_poesia_40.7895_17.5878,P&P Panini e Poesia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pp_panini_e_poesia_40.7895_17.5878.json,custom
+40.790285,17.587834,ov_bar_la_caletta_40.7903_17.5878,Bar La Caletta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_la_caletta_40.7903_17.5878.json,custom
+40.789980,17.586715,ov_bar_del_porto___caffetteria_pasticciotte_40.7900_17.5867,Bar del Porto - Caffetteria Pasticciotteria Tabaccheria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_del_porto_-_caffetteria_pasticciotte_40.7900_17.5867.json,custom
+40.775919,17.641922,ov_mediterraneo_ristorante_pizzeria_ostuni_40.7759_17.6419,Mediterraneo ristorante pizzeria Ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mediterraneo_ristorante_pizzeria_ostuni_40.7759_17.6419.json,custom
+40.764880,17.663650,ov_framari_nature___beach_bar_40.7649_17.6637,FraMari nature & beach bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/framari_nature_beach_bar_40.7649_17.6637.json,custom
+40.769597,17.662900,ov_framari_nature_and_beach_bar_40.7696_17.6629,FraMari Nature and Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/framari_nature_and_beach_bar_40.7696_17.6629.json,custom
+40.752081,17.580906,ov_bar_la_stazione_40.7521_17.5809,Bar La Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_la_stazione_40.7521_17.5809.json,custom
+40.729410,17.578567,ov_bar_della_villa_40.7294_17.5786,Bar della Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_della_villa_40.7294_17.5786.json,custom
+40.729558,17.578230,ov_caffe_orlando_40.7296_17.5782,Caffe Orlando,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_orlando_40.7296_17.5782.json,custom
+40.729398,17.577000,ov_tabar_40.7294_17.5770,Tabar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tabar_40.7294_17.5770.json,custom
+40.730838,17.575087,ov_ashworth_villa_bar_40.7308_17.5751,Ashworth Villa Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ashworth_villa_bar_40.7308_17.5751.json,custom
+40.731913,17.574906,ov_caffe_mazzini_tabaccheria_40.7319_17.5749,Caffe Mazzini Tabaccheria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_mazzini_tabaccheria_40.7319_17.5749.json,custom
+40.731920,17.574440,ov_la_caletta_40.7319_17.5744,La Caletta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_caletta_40.7319_17.5744.json,custom
+40.733582,17.578961,ov_centro_storico_caffe_bistrot_40.7336_17.5790,Centro Storico Caffe Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/centro_storico_caffe_bistrot_40.7336_17.5790.json,custom
+40.733161,17.579111,ov_kidra_pub_40.7332_17.5791,Kidra Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/kidra_pub_40.7332_17.5791.json,custom
+40.733092,17.577999,ov_parisi_cafe_40.7331_17.5780,Parisi Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/parisi_cafe_40.7331_17.5780.json,custom
+40.732859,17.578508,ov_passion_pub_da_franchino_40.7329_17.5785,Passion Pub da Franchino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/passion_pub_da_franchino_40.7329_17.5785.json,custom
+40.732436,17.578274,ov_caff__ayroldi_40.7324_17.5783,caffè Ayroldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_ayroldi_40.7324_17.5783.json,custom
+40.732368,17.578651,ov_il_gatto_rosso_40.7324_17.5787,Il Gatto Rosso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_gatto_rosso_40.7324_17.5787.json,custom
+40.732176,17.579044,ov_pausa_cafe_40.7322_17.5790,Pausa Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pausa_cafe_40.7322_17.5790.json,custom
+40.732085,17.578753,ov_casbah_risto_cafe_40.7321_17.5788,Casbah Risto Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/casbah_risto_cafe_40.7321_17.5788.json,custom
+40.732114,17.578655,ov_caffe_garibaldi_40.7321_17.5787,Caffe Garibaldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_garibaldi_40.7321_17.5787.json,custom
+40.732296,17.578064,ov_caff__centrale_40.7323_17.5781,Caffè Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_centrale_40.7323_17.5781.json,custom
+40.732370,17.576795,ov_caffetteria_d_amico_40.7324_17.5768,Caffetteria D'Amico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffetteria_damico_40.7324_17.5768.json,custom
+40.731944,17.578511,ov_caff__trieste_40.7319_17.5785,Caffè Trieste,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_trieste_40.7319_17.5785.json,custom
+40.731951,17.579028,ov_etre_40.7320_17.5790,Etre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/etre_40.7320_17.5790.json,custom
+40.731676,17.578870,ov_new_life_caf___caff__fanelli_40.7317_17.5789,New life cafè  caffè Fanelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/new_life_caf_caff_fanelli_40.7317_17.5789.json,custom
+40.731470,17.578756,ov_passaporto_ostuni___alchimia_e_cucina_40.7315_17.5788,Passaporto Ostuni / Alchimia e Cucina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/passaporto_ostuni_alchimia_e_cucina_40.7315_17.5788.json,custom
+40.731426,17.578932,ov_caff__cavour_40.7314_17.5789,Caffè Cavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_cavour_40.7314_17.5789.json,custom
+40.731422,17.579174,ov_risto_caffe_cavour_40.7314_17.5792,Risto Caffe Cavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/risto_caffe_cavour_40.7314_17.5792.json,custom
+40.731525,17.579195,ov_freaks_bar___food_40.7315_17.5792,Freaks Bar & Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/freaks_bar_food_40.7315_17.5792.json,custom
+40.731778,17.579885,ov_caffe_fadi_40.7318_17.5799,Caffe Fadi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_fadi_40.7318_17.5799.json,custom
+40.731756,17.579883,ov_bloom_ostuni_40.7318_17.5799,Bloom Ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bloom_ostuni_40.7318_17.5799.json,custom
+40.732285,17.579877,ov_bellinfusto_40.7323_17.5799,Bellinfusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bellinfusto_40.7323_17.5799.json,custom
+40.732416,17.579411,ov_hanky_panky_40.7324_17.5794,Hanky Panky,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/hanky_panky_40.7324_17.5794.json,custom
+40.733300,17.583300,ov_cryspy_caf__40.7333_17.5833,Cryspy Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/cryspy_caf_40.7333_17.5833.json,custom
+40.733731,17.583634,ov_terrazza_sant_eligio_40.7337_17.5836,Terrazza Sant'Eligio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/terrazza_santeligio_40.7337_17.5836.json,custom
+40.730994,17.579509,ov_la_fernandina___casa_del_daiquiri_40.7310_17.5795,La Fernandina - Casa del Daiquiri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_fernandina_-_casa_del_daiquiri_40.7310_17.5795.json,custom
+40.730691,17.580037,ov_boulevard_caffe_40.7307_17.5800,Boulevard Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/boulevard_caffe_40.7307_17.5800.json,custom
+40.730299,17.580199,ov_bar_nepenta_40.7303_17.5802,Bar Nepenta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_nepenta_40.7303_17.5802.json,custom
+40.734075,17.579649,ov_enoteca_divino_40.7341_17.5796,Enoteca Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/enoteca_divino_40.7341_17.5796.json,custom
+40.734056,17.579342,ov_gipas_111_40.7341_17.5793,Gipas 111,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/gipas_111_40.7341_17.5793.json,custom
+40.734196,17.579644,ov_la_gilda_40.7342_17.5796,La Gilda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_gilda_40.7342_17.5796.json,custom
+40.734485,17.579521,ov_bar_perso_40.7345_17.5795,Bar Perso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_perso_40.7345_17.5795.json,custom
+40.734870,17.579495,ov_empire_cocktail_bar_40.7349_17.5795,Empire Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/empire_cocktail_bar_40.7349_17.5795.json,custom
+40.734612,17.580184,ov_avenida_40_40.7346_17.5802,Avenida 40,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/avenida_40_40.7346_17.5802.json,custom
+40.734717,17.578806,ov_riccardo_caff__40.7347_17.5788,Riccardo Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/riccardo_caff_40.7347_17.5788.json,custom
+40.734531,17.578058,ov_bianc_ostuni_40.7345_17.5781,Bianc'ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/biancostuni_40.7345_17.5781.json,custom
+40.721293,17.602170,ov_artigian_bar_40.7213_17.6022,Artigian Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/artigian_bar_40.7213_17.6022.json,custom
+40.720168,17.604479,ov_macondo_birreria_40.7202_17.6045,Macondo Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/macondo_birreria_40.7202_17.6045.json,custom
+40.722065,17.573916,ov_bar_gelateria_matrix_40.7221_17.5739,Bar Gelateria Matrix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_gelateria_matrix_40.7221_17.5739.json,custom
+40.722196,17.573344,ov_tiffany___bar_caffetteria_40.7222_17.5733,Tiffany - Bar Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tiffany_-_bar_caffetteria_40.7222_17.5733.json,custom
+40.722231,17.576288,ov_bar_del_pozzo_40.7222_17.5763,Bar Del Pozzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_del_pozzo_40.7222_17.5763.json,custom
+40.722955,17.577441,ov_gran_bar_pasticceria_gelateria_40.7230_17.5774,Gran Bar Pasticceria Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/gran_bar_pasticceria_gelateria_40.7230_17.5774.json,custom
+40.723453,17.578481,ov_cafe_noir_40.7235_17.5785,CAFE NOIR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/cafe_noir_40.7235_17.5785.json,custom
+40.723330,17.579100,ov_break___il_bar_del_circolo_40.7233_17.5791,Break - Il Bar Del Circolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/break_-_il_bar_del_circolo_40.7233_17.5791.json,custom
+40.721390,17.576975,ov_caffe_sheraton_40.7214_17.5770,Caffe Sheraton,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_sheraton_40.7214_17.5770.json,custom
+40.723334,17.579665,ov_vini_e_spuntini_40.7233_17.5797,Vini e Spuntini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/vini_e_spuntini_40.7233_17.5797.json,custom
+40.723440,17.581571,ov_caffe_manhattan_40.7234_17.5816,Caffe Manhattan,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_manhattan_40.7234_17.5816.json,custom
+40.721070,17.601972,ov_sala_biliardo_associazione_sportiva_jack_40.7211_17.6020,Sala Biliardo Associazione Sportiva Jackal Ostuni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/sala_biliardo_associazione_sportiva_jack_40.7211_17.6020.json,custom
+40.724300,17.592269,ov_bar_transit_40.7243_17.5923,Bar Transit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_transit_40.7243_17.5923.json,custom
+40.727892,17.584661,ov_family___usa_40.7279_17.5847,Family - USA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/family_-_usa_40.7279_17.5847.json,custom
+40.727748,17.579884,ov_caffe_pink_lady_40.7277_17.5799,Caffe Pink Lady,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_pink_lady_40.7277_17.5799.json,custom
+40.726910,17.579964,ov_tuf_tuf_40.7269_17.5800,Tuf Tuf,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tuf_tuf_40.7269_17.5800.json,custom
+40.725932,17.583849,ov_il_seven_40.7259_17.5838,Il seven,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_seven_40.7259_17.5838.json,custom
+40.724328,17.585241,ov_enoteca_vini_di_puglia_40.7243_17.5852,Enoteca vini di puglia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/enoteca_vini_di_puglia_40.7243_17.5852.json,custom
+40.723736,17.581694,ov_bar_83_40.7237_17.5817,Bar 83,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_83_40.7237_17.5817.json,custom
+40.726100,17.578365,ov_enoteca_asciano_40.7261_17.5784,Enoteca Asciano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/enoteca_asciano_40.7261_17.5784.json,custom
+40.725675,17.578243,ov_ciccio_in_piazza_40.7257_17.5782,Ciccio in Piazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ciccio_in_piazza_40.7257_17.5782.json,custom
+40.725695,17.577079,ov_bar_citt__bianca_40.7257_17.5771,Bar Città Bianca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_citt_bianca_40.7257_17.5771.json,custom
+40.724946,17.578728,ov_tiki_taka_caffe_40.7249_17.5787,Tiki taka caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tiki_taka_caffe_40.7249_17.5787.json,custom
+40.724573,17.578269,ov_excelsior_caff__40.7246_17.5783,Excelsior Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/excelsior_caff_40.7246_17.5783.json,custom
+40.723530,17.577360,ov_mokamokacaff__40.7235_17.5774,MokaMokaCaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mokamokacaff_40.7235_17.5774.json,custom
+40.723823,17.576284,ov_caffe_vivere_40.7238_17.5763,Caffe Vivere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_vivere_40.7238_17.5763.json,custom
+40.724254,17.576860,ov_blu_night_cafe_40.7243_17.5769,Blu Night Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/blu_night_cafe_40.7243_17.5769.json,custom
+40.725874,17.575035,ov_caffe_risorgimento_40.7259_17.5750,Caffe Risorgimento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_risorgimento_40.7259_17.5750.json,custom
+40.726343,17.573417,ov_bar_inside_4_40.7263_17.5734,Bar Inside 4,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_inside_4_40.7263_17.5734.json,custom
+40.726740,17.573088,ov_bar_pasticceria_gelateria_tar__40.7267_17.5731,BAR Pasticceria Gelateria TARì,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_pasticceria_gelateria_tar_40.7267_17.5731.json,custom
+40.726569,17.576778,ov_temple_bar_public_house_40.7266_17.5768,Temple Bar Public House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/temple_bar_public_house_40.7266_17.5768.json,custom
+40.726200,17.577964,ov_bar_paradiso_40.7262_17.5780,Bar Paradiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_paradiso_40.7262_17.5780.json,custom
+40.726808,17.576816,ov_caff__diana_40.7268_17.5768,Caffè Diana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caff_diana_40.7268_17.5768.json,custom
+40.727672,17.574944,ov_kennedy_pasticceria_40.7277_17.5749,Kennedy pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/kennedy_pasticceria_40.7277_17.5749.json,custom
+40.727646,17.575013,ov_bar_kennedy_40.7276_17.5750,Bar Kennedy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_kennedy_40.7276_17.5750.json,custom
+40.727768,17.570756,ov_soul_origins_cafe_40.7278_17.5708,Soul Origins Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/soul_origins_cafe_40.7278_17.5708.json,custom
+40.727767,17.570812,ov_easy_bar_40.7278_17.5708,Easy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/easy_bar_40.7278_17.5708.json,custom
+40.733789,17.580213,osm_braceria_riccardo_caff__40.7338_17.5802,Braceria;Riccardo Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/braceriariccardo_caff_40.7338_17.5802.json,custom
+40.731708,17.579212,osm_freaks_bar_40.7317_17.5792,Freaks Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/freaks_bar_40.7317_17.5792.json,custom
+40.732325,17.578616,osm_bar_italia__ceramiche_40.7323_17.5786,Bar Italia- Ceramiche,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_italia-_ceramiche_40.7323_17.5786.json,custom
+40.733975,17.580367,osm_riccardo_caff__40.7340_17.5804,Riccardo Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/riccardo_caff_40.7340_17.5804.json,custom
+40.732669,17.577463,osm_bar_pasticceria_da_pasquale_40.7327_17.5775,Bar Pasticceria da Pasquale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bar_pasticceria_da_pasquale_40.7327_17.5775.json,custom

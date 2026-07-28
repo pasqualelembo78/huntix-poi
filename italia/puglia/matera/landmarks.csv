@@ -1,31 +1,31 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # matera -- landmarks
-40.666459,16.603549,ov_museo_storico___gen_ignazio_pisciotta_40.6665_16.6035,Museo Storico   Gen.Ignazio Pisciotta,MUSEUM,monumento
-40.666912,16.606482,ov_palombaro_lungo_40.6669_16.6065,Palombaro Lungo,MONUMENT,monumento
-40.666090,16.612291,ov_musma_40.6661_16.6123,MUSMA,MUSEUM,monumento
-40.666900,16.611470,ov_duomo_di_matera_40.6669_16.6115,Duomo di Matera,MONUMENT,monumento
-40.666631,16.612383,ov_fondazione_southeritage_per_l_arte_conte_40.6666_16.6124,Fondazione SoutHeritage per l'Arte Contemporanea,MUSEUM,monumento
-40.667170,16.611113,ov_museo_diocesano_40.6672_16.6111,Museo Diocesano,MUSEUM,monumento
-40.667558,16.610113,ov_casa_grotta_c_era_una_volta_40.6676_16.6101,Casa Grotta C'era una Volta,MUSEUM,monumento
-40.667591,16.609843,ov_museo_laboratorio_della_civilta_contadin_40.6676_16.6098,Museo Laboratorio della Civilta Contadina,MUSEUM,monumento
-40.667899,16.610701,ov_moyseion_matera_40.6679_16.6107,MOYSEION Matera,MUSEUM,monumento
-40.667248,16.607266,ov_mit___museo_immersivo_teatrale_40.6672_16.6073,MIT - Museo Immersivo Teatrale,MUSEUM,monumento
-40.668405,16.608436,ov_museo_dello_scavo_matera_40.6684_16.6084,Museo dello Scavo Matera,MUSEUM,monumento
-40.668202,16.608714,ov_museo_della_tortura_40.6682_16.6087,Museo della Tortura,MUSEUM,monumento
-40.668369,16.610852,ov_casa_ortega_40.6684_16.6109,Casa Ortega,MUSEUM,monumento
-40.668185,16.611577,ov_cinema_nei_sassi___museo_fotografico_del_40.6682_16.6116,Cinema nei Sassi - Museo Fotografico del Cinema,MUSEUM,monumento
-40.670840,16.606600,ov_casa_museo_storia_del_comunismo_40.6708_16.6066,Casa Museo Storia del Comunismo,MUSEUM,monumento
-40.664898,16.610844,ov_torre_del_capone_40.6649_16.6108,Torre del Capone,MUSEUM,monumento
-40.663895,16.609350,ov_musei_nazionali_di_matera_40.6639_16.6093,Musei nazionali di Matera,MUSEUM,monumento
-40.664275,16.609211,ov_tam___tower_art_museum_40.6643_16.6092,TAM - Tower Art Museum,MUSEUM,monumento
-40.664012,16.605894,ov_castello_tramontano_40.6640_16.6059,Castello Tramontano,MONUMENT,monumento
-40.663077,16.610338,ov_palazzo_lanfranchi_40.6631_16.6103,Palazzo Lanfranchi,MUSEUM,monumento
-40.663013,16.610422,ov_antica_casa_grotta_senza_nidd_40.6630_16.6104,Antica Casa Grotta Senza Nidd,MUSEUM,monumento
-40.663328,16.610208,ov_museo_nazionale_d_arte_medievale_e_moder_40.6633_16.6102,Museo Nazionale d'Arte Medievale e Moderna della Basilicata,MUSEUM,monumento
-40.663610,16.612150,ov_storica_casa_grotta_matera_40.6636_16.6121,Storica Casa Grotta Matera,MUSEUM,monumento
-40.663358,16.611284,ov_la_raccolta_delle_acque___matera_40.6634_16.6113,La raccolta delle acque - Matera,MONUMENT,monumento
-40.662506,16.611803,ov_racconti_in_pietra_40.6625_16.6118,Racconti in Pietra,MUSEUM,monumento
-40.662292,16.612087,ov_casa_grotta_del_casalnuovo_40.6623_16.6121,Casa Grotta del Casalnuovo,MUSEUM,monumento
-40.661545,16.611686,ov_moom___matera_olive_oil_museum_40.6615_16.6117,MOOM / Matera Olive Oil Museum,MUSEUM,monumento
-40.680311,16.606469,ov_cava_paradiso_40.6803_16.6065,Cava Paradiso,MUSEUM,monumento
-40.681001,16.542291,ov_sparkme_space_academy_40.6810_16.5423,Sparkme Space Academy,MUSEUM,monumento
+40.666459,16.603549,ov_museo_storico___gen_ignazio_pisciotta_40.6665_16.6035,Museo Storico   Gen.Ignazio Pisciotta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_storico_genignazio_pisciotta_40.6665_16.6035.json,custom
+40.666912,16.606482,ov_palombaro_lungo_40.6669_16.6065,Palombaro Lungo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/palombaro_lungo_40.6669_16.6065.json,custom
+40.666090,16.612291,ov_musma_40.6661_16.6123,MUSMA,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/musma_40.6661_16.6123.json,custom
+40.666900,16.611470,ov_duomo_di_matera_40.6669_16.6115,Duomo di Matera,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/duomo_di_matera_40.6669_16.6115.json,custom
+40.666631,16.612383,ov_fondazione_southeritage_per_l_arte_conte_40.6666_16.6124,Fondazione SoutHeritage per l'Arte Contemporanea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/fondazione_southeritage_per_larte_contem_40.6666_16.6124.json,custom
+40.667170,16.611113,ov_museo_diocesano_40.6672_16.6111,Museo Diocesano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_diocesano_40.6672_16.6111.json,custom
+40.667558,16.610113,ov_casa_grotta_c_era_una_volta_40.6676_16.6101,Casa Grotta C'era una Volta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/casa_grotta_cera_una_volta_40.6676_16.6101.json,custom
+40.667591,16.609843,ov_museo_laboratorio_della_civilta_contadin_40.6676_16.6098,Museo Laboratorio della Civilta Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_laboratorio_della_civilta_contadin_40.6676_16.6098.json,custom
+40.667899,16.610701,ov_moyseion_matera_40.6679_16.6107,MOYSEION Matera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/moyseion_matera_40.6679_16.6107.json,custom
+40.667248,16.607266,ov_mit___museo_immersivo_teatrale_40.6672_16.6073,MIT - Museo Immersivo Teatrale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mit_-_museo_immersivo_teatrale_40.6672_16.6073.json,custom
+40.668405,16.608436,ov_museo_dello_scavo_matera_40.6684_16.6084,Museo dello Scavo Matera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_dello_scavo_matera_40.6684_16.6084.json,custom
+40.668202,16.608714,ov_museo_della_tortura_40.6682_16.6087,Museo della Tortura,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_della_tortura_40.6682_16.6087.json,custom
+40.668369,16.610852,ov_casa_ortega_40.6684_16.6109,Casa Ortega,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/casa_ortega_40.6684_16.6109.json,custom
+40.668185,16.611577,ov_cinema_nei_sassi___museo_fotografico_del_40.6682_16.6116,Cinema nei Sassi - Museo Fotografico del Cinema,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cinema_nei_sassi_-_museo_fotografico_del_40.6682_16.6116.json,custom
+40.670840,16.606600,ov_casa_museo_storia_del_comunismo_40.6708_16.6066,Casa Museo Storia del Comunismo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/casa_museo_storia_del_comunismo_40.6708_16.6066.json,custom
+40.664898,16.610844,ov_torre_del_capone_40.6649_16.6108,Torre del Capone,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/torre_del_capone_40.6649_16.6108.json,custom
+40.663895,16.609350,ov_musei_nazionali_di_matera_40.6639_16.6093,Musei nazionali di Matera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/musei_nazionali_di_matera_40.6639_16.6093.json,custom
+40.664275,16.609211,ov_tam___tower_art_museum_40.6643_16.6092,TAM - Tower Art Museum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/tam_-_tower_art_museum_40.6643_16.6092.json,custom
+40.664012,16.605894,ov_castello_tramontano_40.6640_16.6059,Castello Tramontano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/castello_tramontano_40.6640_16.6059.json,custom
+40.663077,16.610338,ov_palazzo_lanfranchi_40.6631_16.6103,Palazzo Lanfranchi,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/palazzo_lanfranchi_40.6631_16.6103.json,custom
+40.663013,16.610422,ov_antica_casa_grotta_senza_nidd_40.6630_16.6104,Antica Casa Grotta Senza Nidd,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/antica_casa_grotta_senza_nidd_40.6630_16.6104.json,custom
+40.663328,16.610208,ov_museo_nazionale_d_arte_medievale_e_moder_40.6633_16.6102,Museo Nazionale d'Arte Medievale e Moderna della Basilicata,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/museo_nazionale_darte_medievale_e_modern_40.6633_16.6102.json,custom
+40.663610,16.612150,ov_storica_casa_grotta_matera_40.6636_16.6121,Storica Casa Grotta Matera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/storica_casa_grotta_matera_40.6636_16.6121.json,custom
+40.663358,16.611284,ov_la_raccolta_delle_acque___matera_40.6634_16.6113,La raccolta delle acque - Matera,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_raccolta_delle_acque_-_matera_40.6634_16.6113.json,custom
+40.662506,16.611803,ov_racconti_in_pietra_40.6625_16.6118,Racconti in Pietra,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/racconti_in_pietra_40.6625_16.6118.json,custom
+40.662292,16.612087,ov_casa_grotta_del_casalnuovo_40.6623_16.6121,Casa Grotta del Casalnuovo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/casa_grotta_del_casalnuovo_40.6623_16.6121.json,custom
+40.661545,16.611686,ov_moom___matera_olive_oil_museum_40.6615_16.6117,MOOM / Matera Olive Oil Museum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/moom_matera_olive_oil_museum_40.6615_16.6117.json,custom
+40.680311,16.606469,ov_cava_paradiso_40.6803_16.6065,Cava Paradiso,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cava_paradiso_40.6803_16.6065.json,custom
+40.681001,16.542291,ov_sparkme_space_academy_40.6810_16.5423,Sparkme Space Academy,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sparkme_space_academy_40.6810_16.5423.json,custom

@@ -1,25 +1,25 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Bisaccia -- Tutti
-41.007361,15.356712,ov_ospedale_civile_di_guglielmo___bisaccia_41.0074_15.3567,Ospedale Civile di Guglielmo - Bisaccia,HOSPITAL,hospital
-41.007059,15.360612,ov_master_food_41.0071_15.3606,Master Food,RESTAURANT,ristorante
-41.006369,15.360880,ov_pizza_e_dintorni_41.0064_15.3609,Pizza e Dintorni,RESTAURANT,ristorante
-41.006885,15.355371,ov_albergo_ristorante_e_pizzeria_zi_nicolin_41.0069_15.3554,Albergo Ristorante e Pizzeria Zi Nicolina,RESTAURANT,ristorante
-41.006978,15.357312,ov_bisaccia_nuova_41.0070_15.3573,Bisaccia Nuova,RESTAURANT,ristorante
-41.010733,15.355637,ov_soleado_di_solazzo_lucia_41.0107_15.3556,Soleado di Solazzo Lucia,RESTAURANT,ristorante
-41.042009,15.342182,ov_agriturismo_radici_contadine_41.0420_15.3422,Agriturismo Radici Contadine,RESTAURANT,ristorante
-41.007404,15.360283,ov_vizi_e_sfizi_41.0074_15.3603,Vizi e sfizi,RESTAURANT,bar_cafe
-41.005329,15.360776,ov_joppy_caff__41.0053_15.3608,JoPpy caffé,RESTAURANT,bar_cafe
-41.006291,15.358914,ov_friaus_pub_41.0063_15.3589,Friaus Pub,RESTAURANT,bar_cafe
-41.006445,15.359621,ov_bombay_bar_41.0064_15.3596,Bombay Bar,RESTAURANT,bar_cafe
-41.007101,15.357924,ov_bar_planet_41.0071_15.3579,Bar Planet,RESTAURANT,bar_cafe
-41.007700,15.358155,ov_snack_bar_sant_antonio_41.0077_15.3582,Snack Bar Sant'Antonio,RESTAURANT,bar_cafe
-41.008312,15.375395,ov_blackout_bar_2_0_41.0083_15.3754,Blackout bar 2.0,RESTAURANT,bar_cafe
-41.011192,15.374977,ov_caradonna_antonietta_41.0112_15.3750,Caradonna Antonietta,RESTAURANT,bar_cafe
-41.016451,15.374946,ov_essential_lounge_bar_41.0165_15.3749,Essential Lounge Bar,RESTAURANT,bar_cafe
-41.015428,15.375026,ov_bar_solazzo_41.0154_15.3750,Bar Solazzo,RESTAURANT,bar_cafe
-41.014100,15.374895,ov_scottish_bar_41.0141_15.3749,Scottish Bar,RESTAURANT,bar_cafe
-41.017345,15.374714,ov_bar_al_convento_41.0173_15.3747,Bar Al Convento,RESTAURANT,bar_cafe
-41.017251,15.374911,ov_il_rubino_american_bar_41.0173_15.3749,Il Rubino American Bar,RESTAURANT,bar_cafe
-41.020213,15.354477,ov_agip_bar_41.0202_15.3545,Agip Bar,RESTAURANT,bar_cafe
-41.014518,15.375641,ov_museo_civico_archeologico_di_bisaccia_41.0145_15.3756,Museo Civico Archeologico di Bisaccia,MUSEUM,monumento
-41.014422,15.375207,ov_castello_ducale_di_bisaccia_41.0144_15.3752,Castello Ducale di Bisaccia,MONUMENT,monumento
+41.007361,15.356712,ov_ospedale_civile_di_guglielmo___bisaccia_41.0074_15.3567,Ospedale Civile di Guglielmo - Bisaccia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/ospedale_civile_di_guglielmo_-_bisaccia_41.0074_15.3567.json,custom
+41.007059,15.360612,ov_master_food_41.0071_15.3606,Master Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/master_food_41.0071_15.3606.json,custom
+41.006369,15.360880,ov_pizza_e_dintorni_41.0064_15.3609,Pizza e Dintorni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/pizza_e_dintorni_41.0064_15.3609.json,custom
+41.006885,15.355371,ov_albergo_ristorante_e_pizzeria_zi_nicolin_41.0069_15.3554,Albergo Ristorante e Pizzeria Zi Nicolina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/albergo_ristorante_e_pizzeria_zi_nicolin_41.0069_15.3554.json,custom
+41.006978,15.357312,ov_bisaccia_nuova_41.0070_15.3573,Bisaccia Nuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/bisaccia_nuova_41.0070_15.3573.json,custom
+41.010733,15.355637,ov_soleado_di_solazzo_lucia_41.0107_15.3556,Soleado di Solazzo Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/soleado_di_solazzo_lucia_41.0107_15.3556.json,custom
+41.042009,15.342182,ov_agriturismo_radici_contadine_41.0420_15.3422,Agriturismo Radici Contadine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/agriturismo_radici_contadine_41.0420_15.3422.json,custom
+41.007404,15.360283,ov_vizi_e_sfizi_41.0074_15.3603,Vizi e sfizi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/vizi_e_sfizi_41.0074_15.3603.json,custom
+41.005329,15.360776,ov_joppy_caff__41.0053_15.3608,JoPpy caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/joppy_caff_41.0053_15.3608.json,custom
+41.006291,15.358914,ov_friaus_pub_41.0063_15.3589,Friaus Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/friaus_pub_41.0063_15.3589.json,custom
+41.006445,15.359621,ov_bombay_bar_41.0064_15.3596,Bombay Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/bombay_bar_41.0064_15.3596.json,custom
+41.007101,15.357924,ov_bar_planet_41.0071_15.3579,Bar Planet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/bar_planet_41.0071_15.3579.json,custom
+41.007700,15.358155,ov_snack_bar_sant_antonio_41.0077_15.3582,Snack Bar Sant'Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/snack_bar_santantonio_41.0077_15.3582.json,custom
+41.008312,15.375395,ov_blackout_bar_2_0_41.0083_15.3754,Blackout bar 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/blackout_bar_20_41.0083_15.3754.json,custom
+41.011192,15.374977,ov_caradonna_antonietta_41.0112_15.3750,Caradonna Antonietta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/caradonna_antonietta_41.0112_15.3750.json,custom
+41.016451,15.374946,ov_essential_lounge_bar_41.0165_15.3749,Essential Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/essential_lounge_bar_41.0165_15.3749.json,custom
+41.015428,15.375026,ov_bar_solazzo_41.0154_15.3750,Bar Solazzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/bar_solazzo_41.0154_15.3750.json,custom
+41.014100,15.374895,ov_scottish_bar_41.0141_15.3749,Scottish Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/scottish_bar_41.0141_15.3749.json,custom
+41.017345,15.374714,ov_bar_al_convento_41.0173_15.3747,Bar Al Convento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/bar_al_convento_41.0173_15.3747.json,custom
+41.017251,15.374911,ov_il_rubino_american_bar_41.0173_15.3749,Il Rubino American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/il_rubino_american_bar_41.0173_15.3749.json,custom
+41.020213,15.354477,ov_agip_bar_41.0202_15.3545,Agip Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/agip_bar_41.0202_15.3545.json,custom
+41.014518,15.375641,ov_museo_civico_archeologico_di_bisaccia_41.0145_15.3756,Museo Civico Archeologico di Bisaccia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/museo_civico_archeologico_di_bisaccia_41.0145_15.3756.json,custom
+41.014422,15.375207,ov_castello_ducale_di_bisaccia_41.0144_15.3752,Castello Ducale di Bisaccia,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisaccia/pages/castello_ducale_di_bisaccia_41.0144_15.3752.json,custom

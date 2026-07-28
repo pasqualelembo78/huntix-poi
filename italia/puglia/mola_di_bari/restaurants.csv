@@ -1,71 +1,71 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # mola_di_bari -- restaurants
-41.102340,16.882791,ov_bugigattolo_41.1023_16.8828,Bugigattolo,RESTAURANT,ristorante
-41.032480,17.062190,ov_agriturismo_terramarebio_41.0325_17.0622,Agriturismo TerramareBio,RESTAURANT,ristorante
-41.034917,17.047774,ov_sombrero_41.0349_17.0478,Sombrero,RESTAURANT,ristorante
-41.055797,17.087145,ov_san_giorgio_41.0558_17.0871,San Giorgio,RESTAURANT,ristorante
-41.062778,17.093334,ov_ristorante_gambero_rozzo_mola_di_bari_41.0628_17.0933,Ristorante Gambero Rozzo Mola Di Bari,RESTAURANT,ristorante
-41.062515,17.092759,ov_la_vedetta_41.0625_17.0928,La Vedetta,RESTAURANT,ristorante
-41.062413,17.093296,ov_il_galeone_braceria_ristorante_41.0624_17.0933,Il galeone braceria ristorante,RESTAURANT,ristorante
-41.062553,17.092780,ov_ristorante_la_cantina_dei_briganti_41.0626_17.0928,Ristorante La Cantina dei Briganti,RESTAURANT,ristorante
-41.062143,17.092892,ov_trattoria_la_bussola_41.0621_17.0929,Trattoria La Bussola,RESTAURANT,ristorante
-41.062099,17.091998,ov_il_ministero_della_brace_41.0621_17.0920,Il Ministero Della Brace,RESTAURANT,ristorante
-41.061905,17.092078,ov_al_quadrato_41.0619_17.0921,Al Quadrato,RESTAURANT,ristorante
-41.061787,17.092668,ov_la_casetta_del_pescatore_41.0618_17.0927,La Casetta del Pescatore,RESTAURANT,ristorante
-41.061568,17.092956,ov_pescheria_vito_errico_41.0616_17.0930,Pescheria Vito Errico,RESTAURANT,ristorante
-41.061602,17.092815,ov_nonna_rosa_41.0616_17.0928,Nonna Rosa,RESTAURANT,ristorante
-41.061655,17.091966,ov_pizzeria_da_ded__41.0617_17.0920,Pizzeria Da Dedè,RESTAURANT,ristorante
-41.061116,17.091341,ov_mangiafuoco_41.0611_17.0913,Mangiafuoco,RESTAURANT,ristorante
-41.060976,17.092888,ov_oshi_sushi_experience_41.0610_17.0929,Oshi Sushi Experience,RESTAURANT,ristorante
-41.061000,17.092600,ov_pav__friggitoria_cucina_di_mare_41.0610_17.0926,Pavì Friggitoria Cucina di Mare,RESTAURANT,ristorante
-41.061014,17.091314,ov_pizzeria_l_archetto_41.0610_17.0913,Pizzeria L'Archetto,RESTAURANT,ristorante
-41.060831,17.091258,ov_f__p__service_di_perillo_francesco_41.0608_17.0913,F. P. Service Di Perillo Francesco,RESTAURANT,ristorante
-41.060715,17.092572,ov_mangiafuoco_2_0_41.0607_17.0926,Mangiafuoco 2.0,RESTAURANT,ristorante
-41.060729,17.091801,ov_antica_pizzeria_guglielmi_41.0607_17.0918,Antica Pizzeria Guglielmi,RESTAURANT,ristorante
-41.060703,17.091393,ov_hostaria_41.0607_17.0914,Hostaria,RESTAURANT,ristorante
-41.060599,17.091846,ov_pizzeria_70042_41.0606_17.0918,Pizzeria 70042,RESTAURANT,ristorante
-41.058573,17.092543,ov_the_big_apple_41.0586_17.0925,The Big Apple,RESTAURANT,ristorante
-41.058502,17.093585,ov_pugliainbocca_41.0585_17.0936,Pugliainbocca,RESTAURANT,ristorante
-41.059385,17.096169,ov_lega_navale_italiana_sez__mola_di_bari_41.0594_17.0962,Lega Navale Italiana sez. Mola di Bari,RESTAURANT,ristorante
-41.060325,17.093711,ov_ristorante_pizzeria_la_lampara_41.0603_17.0937,Ristorante Pizzeria La Lampara,RESTAURANT,ristorante
-41.060408,17.093548,ov_makkepok____mola_di_bari_41.0604_17.0935,Makkepokè - Mola di Bari,RESTAURANT,ristorante
-41.060038,17.094214,ov_il_veliero_pizzeria_41.0600_17.0942,Il veliero pizzeria,RESTAURANT,ristorante
-41.059917,17.094077,ov_pizzeria_paparazzi_41.0599_17.0941,Pizzeria Paparazzi,RESTAURANT,ristorante
-41.059886,17.093629,ov_ristorante_van_westerhout_41.0599_17.0936,Ristorante Van Westerhout,RESTAURANT,ristorante
-41.060387,17.089520,ov_pastificio_artigiano_molese_41.0604_17.0895,Pastificio Artigiano Molese,RESTAURANT,ristorante
-41.059773,17.090076,ov_vito_nicola_delle_cozze_41.0598_17.0901,Vito nicola delle cozze,RESTAURANT,ristorante
-41.058540,17.086599,ov_graffiti_41.0585_17.0866,Graffiti,RESTAURANT,ristorante
-41.058550,17.088010,ov_pizzeria_altri_tempi_41.0586_17.0880,Pizzeria Altri Tempi,RESTAURANT,ristorante
-41.060264,17.081877,ov_la_porta_del_levante_41.0603_17.0819,La Porta del Levante,RESTAURANT,ristorante
-41.060585,17.086661,ov_antica_guglielmi_41.0606_17.0867,Antica Guglielmi,RESTAURANT,ristorante
-41.060710,17.090154,ov_stella_41.0607_17.0902,Stella,RESTAURANT,ristorante
-41.061219,17.090547,ov_parlapiano_bistrot_41.0612_17.0905,ParlaPiano Bistrot,RESTAURANT,ristorante
-41.061532,17.089525,ov_pizzeria_angelo_di_tonia_e_angela_41.0615_17.0895,Pizzeria Angelo di Tonia e Angela,RESTAURANT,ristorante
-41.061326,17.086745,ov_old_bridge_41.0613_17.0867,Old Bridge,RESTAURANT,ristorante
-41.061541,17.085608,ov_appena_pescato_41.0615_17.0856,Appena Pescato,RESTAURANT,ristorante
-41.061860,17.088847,ov_lospuntino_mola_di_bari_41.0619_17.0888,LoSpuntino Mola di Bari,RESTAURANT,ristorante
-41.062586,17.090331,ov_la_rotonda_bistrot_41.0626_17.0903,La Rotonda Bistrot,RESTAURANT,ristorante
-41.062638,17.090195,ov_la_rotonda_ristorante_pizzeria_41.0626_17.0902,La Rotonda Ristorante Pizzeria,RESTAURANT,ristorante
-41.062859,17.089240,ov_friggo___mangi_41.0629_17.0892,Friggo & Mangi,RESTAURANT,ristorante
-41.062445,17.082158,ov_m______gusto_qui_41.0624_17.0822,Mò - è gusto qui,RESTAURANT,ristorante
-41.061358,17.075902,ov_speedy_pizza_di_vernone_nicola_41.0614_17.0759,Speedy Pizza Di Vernone Nicola,RESTAURANT,ristorante
-41.057090,17.077940,ov_cine_lumi_re_41.0571_17.0779,Cine Lumière,RESTAURANT,ristorante
-41.054459,17.075035,ov_voyager_41.0545_17.0750,Voyager,RESTAURANT,ristorante
-41.052882,17.078917,ov_pizzeria_100__da_mirko_41.0529_17.0789,Pizzeria 100% da Mirko,RESTAURANT,ristorante
-41.066939,17.041579,ov_plenilunio_alla_fortezza_41.0669_17.0416,Plenilunio alla Fortezza,RESTAURANT,ristorante
-41.063140,17.079435,ov_macelleria_cisternino_41.0631_17.0794,Macelleria Cisternino,RESTAURANT,ristorante
-41.063549,17.079891,ov_trattoria_pizzeria_fantasy_41.0635_17.0799,Trattoria Pizzeria Fantasy,RESTAURANT,ristorante
-41.063369,17.083552,ov_vice___hamburgeria_41.0634_17.0836,Vice - Hamburgeria,RESTAURANT,ristorante
-41.064059,17.083895,ov_pizzeria_il_colosseo_41.0641_17.0839,Pizzeria Il Colosseo,RESTAURANT,ristorante
-41.064437,17.085209,ov_la_conchiglia_ricevimenti_41.0644_17.0852,La Conchiglia Ricevimenti,RESTAURANT,ristorante
-41.063768,17.085710,ov_pic_nic_pizza_41.0638_17.0857,Pic-Nic Pizza,RESTAURANT,ristorante
-41.063970,17.087067,ov_al_bel_paese_41.0640_17.0871,Al Bel Paese,RESTAURANT,ristorante
-41.063453,17.087810,ov_da_tommy_del_gambero_rozzo_41.0635_17.0878,Da Tommy del Gambero ROZZO,RESTAURANT,ristorante
-41.063510,17.087478,ov_dam__pizza_experience__41.0635_17.0875,DAM -Pizza Experience-,RESTAURANT,ristorante
-41.063293,17.087870,ov_ruthless_grill_and_beer_41.0633_17.0879,Ruthless Grill and Beer,RESTAURANT,ristorante
-41.063172,17.089018,ov_bartecchia_41.0632_17.0890,Bartecchia,RESTAURANT,ristorante
-41.038774,17.139334,ov_las_palmas_bar_41.0388_17.1393,Las Palmas Bar,RESTAURANT,ristorante
-41.038245,17.138087,ov_focacceria_genovese_41.0382_17.1381,Focacceria genovese,RESTAURANT,ristorante
-41.037549,17.138309,ov_il_guardiano_del_faro_41.0375_17.1383,Il Guardiano DEL FARO,RESTAURANT,ristorante
-41.037799,17.141236,ov_oasi_41.0378_17.1412,Oasi,RESTAURANT,ristorante
-41.038537,17.139598,ov_fast_food_adriatica_41.0385_17.1396,Fast Food Adriatica,RESTAURANT,ristorante
+41.102340,16.882791,ov_bugigattolo_41.1023_16.8828,Bugigattolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/bugigattolo_41.1023_16.8828.json,custom
+41.032480,17.062190,ov_agriturismo_terramarebio_41.0325_17.0622,Agriturismo TerramareBio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/agriturismo_terramarebio_41.0325_17.0622.json,custom
+41.034917,17.047774,ov_sombrero_41.0349_17.0478,Sombrero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/sombrero_41.0349_17.0478.json,custom
+41.055797,17.087145,ov_san_giorgio_41.0558_17.0871,San Giorgio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/san_giorgio_41.0558_17.0871.json,custom
+41.062778,17.093334,ov_ristorante_gambero_rozzo_mola_di_bari_41.0628_17.0933,Ristorante Gambero Rozzo Mola Di Bari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ristorante_gambero_rozzo_mola_di_bari_41.0628_17.0933.json,custom
+41.062515,17.092759,ov_la_vedetta_41.0625_17.0928,La Vedetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_vedetta_41.0625_17.0928.json,custom
+41.062413,17.093296,ov_il_galeone_braceria_ristorante_41.0624_17.0933,Il galeone braceria ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/il_galeone_braceria_ristorante_41.0624_17.0933.json,custom
+41.062553,17.092780,ov_ristorante_la_cantina_dei_briganti_41.0626_17.0928,Ristorante La Cantina dei Briganti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ristorante_la_cantina_dei_briganti_41.0626_17.0928.json,custom
+41.062143,17.092892,ov_trattoria_la_bussola_41.0621_17.0929,Trattoria La Bussola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/trattoria_la_bussola_41.0621_17.0929.json,custom
+41.062099,17.091998,ov_il_ministero_della_brace_41.0621_17.0920,Il Ministero Della Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/il_ministero_della_brace_41.0621_17.0920.json,custom
+41.061905,17.092078,ov_al_quadrato_41.0619_17.0921,Al Quadrato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/al_quadrato_41.0619_17.0921.json,custom
+41.061787,17.092668,ov_la_casetta_del_pescatore_41.0618_17.0927,La Casetta del Pescatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_casetta_del_pescatore_41.0618_17.0927.json,custom
+41.061568,17.092956,ov_pescheria_vito_errico_41.0616_17.0930,Pescheria Vito Errico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pescheria_vito_errico_41.0616_17.0930.json,custom
+41.061602,17.092815,ov_nonna_rosa_41.0616_17.0928,Nonna Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/nonna_rosa_41.0616_17.0928.json,custom
+41.061655,17.091966,ov_pizzeria_da_ded__41.0617_17.0920,Pizzeria Da Dedè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_da_ded_41.0617_17.0920.json,custom
+41.061116,17.091341,ov_mangiafuoco_41.0611_17.0913,Mangiafuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/mangiafuoco_41.0611_17.0913.json,custom
+41.060976,17.092888,ov_oshi_sushi_experience_41.0610_17.0929,Oshi Sushi Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/oshi_sushi_experience_41.0610_17.0929.json,custom
+41.061000,17.092600,ov_pav__friggitoria_cucina_di_mare_41.0610_17.0926,Pavì Friggitoria Cucina di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pav_friggitoria_cucina_di_mare_41.0610_17.0926.json,custom
+41.061014,17.091314,ov_pizzeria_l_archetto_41.0610_17.0913,Pizzeria L'Archetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_larchetto_41.0610_17.0913.json,custom
+41.060831,17.091258,ov_f__p__service_di_perillo_francesco_41.0608_17.0913,F. P. Service Di Perillo Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/f_p_service_di_perillo_francesco_41.0608_17.0913.json,custom
+41.060715,17.092572,ov_mangiafuoco_2_0_41.0607_17.0926,Mangiafuoco 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/mangiafuoco_20_41.0607_17.0926.json,custom
+41.060729,17.091801,ov_antica_pizzeria_guglielmi_41.0607_17.0918,Antica Pizzeria Guglielmi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/antica_pizzeria_guglielmi_41.0607_17.0918.json,custom
+41.060703,17.091393,ov_hostaria_41.0607_17.0914,Hostaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/hostaria_41.0607_17.0914.json,custom
+41.060599,17.091846,ov_pizzeria_70042_41.0606_17.0918,Pizzeria 70042,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_70042_41.0606_17.0918.json,custom
+41.058573,17.092543,ov_the_big_apple_41.0586_17.0925,The Big Apple,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/the_big_apple_41.0586_17.0925.json,custom
+41.058502,17.093585,ov_pugliainbocca_41.0585_17.0936,Pugliainbocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pugliainbocca_41.0585_17.0936.json,custom
+41.059385,17.096169,ov_lega_navale_italiana_sez__mola_di_bari_41.0594_17.0962,Lega Navale Italiana sez. Mola di Bari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/lega_navale_italiana_sez_mola_di_bari_41.0594_17.0962.json,custom
+41.060325,17.093711,ov_ristorante_pizzeria_la_lampara_41.0603_17.0937,Ristorante Pizzeria La Lampara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ristorante_pizzeria_la_lampara_41.0603_17.0937.json,custom
+41.060408,17.093548,ov_makkepok____mola_di_bari_41.0604_17.0935,Makkepokè - Mola di Bari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/makkepok_-_mola_di_bari_41.0604_17.0935.json,custom
+41.060038,17.094214,ov_il_veliero_pizzeria_41.0600_17.0942,Il veliero pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/il_veliero_pizzeria_41.0600_17.0942.json,custom
+41.059917,17.094077,ov_pizzeria_paparazzi_41.0599_17.0941,Pizzeria Paparazzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_paparazzi_41.0599_17.0941.json,custom
+41.059886,17.093629,ov_ristorante_van_westerhout_41.0599_17.0936,Ristorante Van Westerhout,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ristorante_van_westerhout_41.0599_17.0936.json,custom
+41.060387,17.089520,ov_pastificio_artigiano_molese_41.0604_17.0895,Pastificio Artigiano Molese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pastificio_artigiano_molese_41.0604_17.0895.json,custom
+41.059773,17.090076,ov_vito_nicola_delle_cozze_41.0598_17.0901,Vito nicola delle cozze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/vito_nicola_delle_cozze_41.0598_17.0901.json,custom
+41.058540,17.086599,ov_graffiti_41.0585_17.0866,Graffiti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/graffiti_41.0585_17.0866.json,custom
+41.058550,17.088010,ov_pizzeria_altri_tempi_41.0586_17.0880,Pizzeria Altri Tempi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_altri_tempi_41.0586_17.0880.json,custom
+41.060264,17.081877,ov_la_porta_del_levante_41.0603_17.0819,La Porta del Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_porta_del_levante_41.0603_17.0819.json,custom
+41.060585,17.086661,ov_antica_guglielmi_41.0606_17.0867,Antica Guglielmi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/antica_guglielmi_41.0606_17.0867.json,custom
+41.060710,17.090154,ov_stella_41.0607_17.0902,Stella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/stella_41.0607_17.0902.json,custom
+41.061219,17.090547,ov_parlapiano_bistrot_41.0612_17.0905,ParlaPiano Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/parlapiano_bistrot_41.0612_17.0905.json,custom
+41.061532,17.089525,ov_pizzeria_angelo_di_tonia_e_angela_41.0615_17.0895,Pizzeria Angelo di Tonia e Angela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_angelo_di_tonia_e_angela_41.0615_17.0895.json,custom
+41.061326,17.086745,ov_old_bridge_41.0613_17.0867,Old Bridge,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/old_bridge_41.0613_17.0867.json,custom
+41.061541,17.085608,ov_appena_pescato_41.0615_17.0856,Appena Pescato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/appena_pescato_41.0615_17.0856.json,custom
+41.061860,17.088847,ov_lospuntino_mola_di_bari_41.0619_17.0888,LoSpuntino Mola di Bari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/lospuntino_mola_di_bari_41.0619_17.0888.json,custom
+41.062586,17.090331,ov_la_rotonda_bistrot_41.0626_17.0903,La Rotonda Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_rotonda_bistrot_41.0626_17.0903.json,custom
+41.062638,17.090195,ov_la_rotonda_ristorante_pizzeria_41.0626_17.0902,La Rotonda Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_rotonda_ristorante_pizzeria_41.0626_17.0902.json,custom
+41.062859,17.089240,ov_friggo___mangi_41.0629_17.0892,Friggo & Mangi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/friggo_mangi_41.0629_17.0892.json,custom
+41.062445,17.082158,ov_m______gusto_qui_41.0624_17.0822,Mò - è gusto qui,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/m_-_gusto_qui_41.0624_17.0822.json,custom
+41.061358,17.075902,ov_speedy_pizza_di_vernone_nicola_41.0614_17.0759,Speedy Pizza Di Vernone Nicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/speedy_pizza_di_vernone_nicola_41.0614_17.0759.json,custom
+41.057090,17.077940,ov_cine_lumi_re_41.0571_17.0779,Cine Lumière,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/cine_lumire_41.0571_17.0779.json,custom
+41.054459,17.075035,ov_voyager_41.0545_17.0750,Voyager,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/voyager_41.0545_17.0750.json,custom
+41.052882,17.078917,ov_pizzeria_100__da_mirko_41.0529_17.0789,Pizzeria 100% da Mirko,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_100_da_mirko_41.0529_17.0789.json,custom
+41.066939,17.041579,ov_plenilunio_alla_fortezza_41.0669_17.0416,Plenilunio alla Fortezza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/plenilunio_alla_fortezza_41.0669_17.0416.json,custom
+41.063140,17.079435,ov_macelleria_cisternino_41.0631_17.0794,Macelleria Cisternino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/macelleria_cisternino_41.0631_17.0794.json,custom
+41.063549,17.079891,ov_trattoria_pizzeria_fantasy_41.0635_17.0799,Trattoria Pizzeria Fantasy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/trattoria_pizzeria_fantasy_41.0635_17.0799.json,custom
+41.063369,17.083552,ov_vice___hamburgeria_41.0634_17.0836,Vice - Hamburgeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/vice_-_hamburgeria_41.0634_17.0836.json,custom
+41.064059,17.083895,ov_pizzeria_il_colosseo_41.0641_17.0839,Pizzeria Il Colosseo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pizzeria_il_colosseo_41.0641_17.0839.json,custom
+41.064437,17.085209,ov_la_conchiglia_ricevimenti_41.0644_17.0852,La Conchiglia Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/la_conchiglia_ricevimenti_41.0644_17.0852.json,custom
+41.063768,17.085710,ov_pic_nic_pizza_41.0638_17.0857,Pic-Nic Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/pic-nic_pizza_41.0638_17.0857.json,custom
+41.063970,17.087067,ov_al_bel_paese_41.0640_17.0871,Al Bel Paese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/al_bel_paese_41.0640_17.0871.json,custom
+41.063453,17.087810,ov_da_tommy_del_gambero_rozzo_41.0635_17.0878,Da Tommy del Gambero ROZZO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/da_tommy_del_gambero_rozzo_41.0635_17.0878.json,custom
+41.063510,17.087478,ov_dam__pizza_experience__41.0635_17.0875,DAM -Pizza Experience-,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/dam_-pizza_experience-_41.0635_17.0875.json,custom
+41.063293,17.087870,ov_ruthless_grill_and_beer_41.0633_17.0879,Ruthless Grill and Beer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/ruthless_grill_and_beer_41.0633_17.0879.json,custom
+41.063172,17.089018,ov_bartecchia_41.0632_17.0890,Bartecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/bartecchia_41.0632_17.0890.json,custom
+41.038774,17.139334,ov_las_palmas_bar_41.0388_17.1393,Las Palmas Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/las_palmas_bar_41.0388_17.1393.json,custom
+41.038245,17.138087,ov_focacceria_genovese_41.0382_17.1381,Focacceria genovese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/focacceria_genovese_41.0382_17.1381.json,custom
+41.037549,17.138309,ov_il_guardiano_del_faro_41.0375_17.1383,Il Guardiano DEL FARO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/il_guardiano_del_faro_41.0375_17.1383.json,custom
+41.037799,17.141236,ov_oasi_41.0378_17.1412,Oasi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/oasi_41.0378_17.1412.json,custom
+41.038537,17.139598,ov_fast_food_adriatica_41.0385_17.1396,Fast Food Adriatica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mola_di_bari/pages/fast_food_adriatica_41.0385_17.1396.json,custom

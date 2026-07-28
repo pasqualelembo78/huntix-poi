@@ -1,31 +1,31 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # peschici -- bars_cafes
-41.947608,16.061902,ov_da_tea_41.9476_16.0619,Da Tea,RESTAURANT,bar_cafe
-41.946291,16.044841,ov_lido_carbonelli_41.9463_16.0448,Lido Carbonelli,RESTAURANT,bar_cafe
-41.945211,16.032496,ov_bar_pegaso_41.9452_16.0325,Bar Pegaso,RESTAURANT,bar_cafe
-41.945454,16.031371,ov_lido_cafe__del_mar_41.9455_16.0314,Lido Cafe' Del Mar,RESTAURANT,bar_cafe
-41.950000,16.016700,ov_bai_san_nicola_41.9500_16.0167,Bai san nicola,RESTAURANT,bar_cafe
-41.945986,16.015529,ov_bar_europa_di_marino_sandra_41.9460_16.0155,Bar Europa di Marino Sandra,RESTAURANT,bar_cafe
-41.938780,16.020456,ov_pitstop_rosticceria_bar_paninoteca_41.9388_16.0205,Pitstop Rosticceria bar-paninoteca,RESTAURANT,bar_cafe
-41.943659,16.029355,ov_scinni_s_risto_pub_41.9437_16.0294,Scinni's Risto Pub,RESTAURANT,bar_cafe
-41.934959,16.091049,ov_arvini_beach_club_41.9350_16.0910,Arvini Beach Club,RESTAURANT,bar_cafe
-41.944281,16.008967,ov_fuoribordo_41.9443_16.0090,Fuoribordo,RESTAURANT,bar_cafe
-41.945460,16.013960,ov_kaffeina_store_peschici_41.9455_16.0140,Kaffeina Store Peschici,RESTAURANT,bar_cafe
-41.946530,16.014470,ov_bar_il_tramonto_41.9465_16.0145,Bar il tramonto,RESTAURANT,bar_cafe
-41.946824,16.014282,ov_roxy_bar_tossett__41.9468_16.0143,Roxy Bar Tossett',RESTAURANT,bar_cafe
-41.946853,16.014037,ov_birreria_di_birra_del_gargano_41.9469_16.0140,BIRRERIA di Birra del Gargano,RESTAURANT,bar_cafe
-41.946935,16.014023,ov_l_angolo_divino_41.9469_16.0140,L'Angolo Divino,RESTAURANT,bar_cafe
-41.946236,16.013772,ov_enoteca_n59_41.9462_16.0138,Enoteca N59,RESTAURANT,bar_cafe
-41.946090,16.013544,ov_bar_la_rotonda_41.9461_16.0135,Bar La Rotonda,RESTAURANT,bar_cafe
-41.946115,16.013350,ov_bar_funno_peschici_41.9461_16.0133,Bar Funno Peschici,RESTAURANT,bar_cafe
-41.946935,16.013730,ov_ripasso_beer_bistrot_41.9469_16.0137,Ripasso Beer Bistrot,RESTAURANT,bar_cafe
-41.947008,16.013607,ov_caf__barocco_41.9470_16.0136,Cafè Barocco,RESTAURANT,bar_cafe
-41.947466,16.013558,ov_bar_la_terrazza_41.9475_16.0136,Bar La Terrazza,RESTAURANT,bar_cafe
-41.948619,16.013170,ov_cocktails_bar_la_piazzetta_41.9486_16.0132,Cocktails Bar La Piazzetta,RESTAURANT,bar_cafe
-41.948570,16.013179,ov_devinum_41.9486_16.0132,DeVinum,RESTAURANT,bar_cafe
-41.948691,16.013002,ov_gianni_s_wine___more_41.9487_16.0130,Gianni's Wine & more,RESTAURANT,bar_cafe
-41.948620,16.012920,ov_whynot_ruinpub_41.9486_16.0129,WhyNot_RuinPub,RESTAURANT,bar_cafe
-41.948611,16.012920,ov_mokerhapa_lounge_bar_41.9486_16.0129,Mokerhapa Lounge Bar,RESTAURANT,bar_cafe
-41.948521,16.012819,ov_toda_joia_41.9485_16.0128,TODA JOIA,RESTAURANT,bar_cafe
-41.939914,16.074393,osm_internazionale_manaccore_41.9399_16.0744,Internazionale Manaccore,bar_cafe,bar_cafe
-41.943530,16.017688,osm_bar_lamanna_41.9435_16.0177,Bar Lamanna,bar_cafe,bar_cafe
+41.947608,16.061902,ov_da_tea_41.9476_16.0619,Da Tea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/da_tea_41.9476_16.0619.json,custom
+41.946291,16.044841,ov_lido_carbonelli_41.9463_16.0448,Lido Carbonelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/lido_carbonelli_41.9463_16.0448.json,custom
+41.945211,16.032496,ov_bar_pegaso_41.9452_16.0325,Bar Pegaso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_pegaso_41.9452_16.0325.json,custom
+41.945454,16.031371,ov_lido_cafe__del_mar_41.9455_16.0314,Lido Cafe' Del Mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/lido_cafe_del_mar_41.9455_16.0314.json,custom
+41.950000,16.016700,ov_bai_san_nicola_41.9500_16.0167,Bai san nicola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bai_san_nicola_41.9500_16.0167.json,custom
+41.945986,16.015529,ov_bar_europa_di_marino_sandra_41.9460_16.0155,Bar Europa di Marino Sandra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_europa_di_marino_sandra_41.9460_16.0155.json,custom
+41.938780,16.020456,ov_pitstop_rosticceria_bar_paninoteca_41.9388_16.0205,Pitstop Rosticceria bar-paninoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/pitstop_rosticceria_bar-paninoteca_41.9388_16.0205.json,custom
+41.943659,16.029355,ov_scinni_s_risto_pub_41.9437_16.0294,Scinni's Risto Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/scinnis_risto_pub_41.9437_16.0294.json,custom
+41.934959,16.091049,ov_arvini_beach_club_41.9350_16.0910,Arvini Beach Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/arvini_beach_club_41.9350_16.0910.json,custom
+41.944281,16.008967,ov_fuoribordo_41.9443_16.0090,Fuoribordo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/fuoribordo_41.9443_16.0090.json,custom
+41.945460,16.013960,ov_kaffeina_store_peschici_41.9455_16.0140,Kaffeina Store Peschici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/kaffeina_store_peschici_41.9455_16.0140.json,custom
+41.946530,16.014470,ov_bar_il_tramonto_41.9465_16.0145,Bar il tramonto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_il_tramonto_41.9465_16.0145.json,custom
+41.946824,16.014282,ov_roxy_bar_tossett__41.9468_16.0143,Roxy Bar Tossett',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/roxy_bar_tossett_41.9468_16.0143.json,custom
+41.946853,16.014037,ov_birreria_di_birra_del_gargano_41.9469_16.0140,BIRRERIA di Birra del Gargano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/birreria_di_birra_del_gargano_41.9469_16.0140.json,custom
+41.946935,16.014023,ov_l_angolo_divino_41.9469_16.0140,L'Angolo Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/langolo_divino_41.9469_16.0140.json,custom
+41.946236,16.013772,ov_enoteca_n59_41.9462_16.0138,Enoteca N59,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/enoteca_n59_41.9462_16.0138.json,custom
+41.946090,16.013544,ov_bar_la_rotonda_41.9461_16.0135,Bar La Rotonda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_la_rotonda_41.9461_16.0135.json,custom
+41.946115,16.013350,ov_bar_funno_peschici_41.9461_16.0133,Bar Funno Peschici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_funno_peschici_41.9461_16.0133.json,custom
+41.946935,16.013730,ov_ripasso_beer_bistrot_41.9469_16.0137,Ripasso Beer Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/ripasso_beer_bistrot_41.9469_16.0137.json,custom
+41.947008,16.013607,ov_caf__barocco_41.9470_16.0136,Cafè Barocco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/caf_barocco_41.9470_16.0136.json,custom
+41.947466,16.013558,ov_bar_la_terrazza_41.9475_16.0136,Bar La Terrazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_la_terrazza_41.9475_16.0136.json,custom
+41.948619,16.013170,ov_cocktails_bar_la_piazzetta_41.9486_16.0132,Cocktails Bar La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/cocktails_bar_la_piazzetta_41.9486_16.0132.json,custom
+41.948570,16.013179,ov_devinum_41.9486_16.0132,DeVinum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/devinum_41.9486_16.0132.json,custom
+41.948691,16.013002,ov_gianni_s_wine___more_41.9487_16.0130,Gianni's Wine & more,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/giannis_wine_more_41.9487_16.0130.json,custom
+41.948620,16.012920,ov_whynot_ruinpub_41.9486_16.0129,WhyNot_RuinPub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/whynotruinpub_41.9486_16.0129.json,custom
+41.948611,16.012920,ov_mokerhapa_lounge_bar_41.9486_16.0129,Mokerhapa Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/mokerhapa_lounge_bar_41.9486_16.0129.json,custom
+41.948521,16.012819,ov_toda_joia_41.9485_16.0128,TODA JOIA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/toda_joia_41.9485_16.0128.json,custom
+41.939914,16.074393,osm_internazionale_manaccore_41.9399_16.0744,Internazionale Manaccore,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/internazionale_manaccore_41.9399_16.0744.json,custom
+41.943530,16.017688,osm_bar_lamanna_41.9435_16.0177,Bar Lamanna,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/peschici/pages/bar_lamanna_41.9435_16.0177.json,custom

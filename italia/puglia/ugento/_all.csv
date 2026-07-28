@@ -1,155 +1,150 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Ugento -- Tutti
-39.886018,18.114064,osm_friggitoria_del_porto_39.8860_18.1141,Friggitoria del Porto,ristorante,ristorante
-39.887230,18.112829,osm_pescheria_maggio_39.8872_18.1128,Pescheria Maggio,ristorante,ristorante
-39.888906,18.112125,osm_sani_sensi_39.8889_18.1121,Sani Sensi,ristorante,ristorante
-39.889196,18.111809,osm_azzurra_39.8892_18.1118,Azzurra,ristorante,ristorante
-39.889271,18.111759,osm_l_approdo_39.8893_18.1118,L'Approdo,ristorante,ristorante
-39.889630,18.111386,osm_petra_nera_39.8896_18.1114,Petra Nera,ristorante,ristorante
-39.889722,18.111259,osm_caff__teatro_39.8897_18.1113,Caffè Teatro,ristorante,ristorante
-39.891152,18.108083,osm_trattoria_da_otello_39.8912_18.1081,Trattoria da Otello,ristorante,ristorante
-39.928805,18.161723,osm_l_arte_del_mangiare____al_duomo_39.9288_18.1617,L'Arte del Mangiare... Al Duomo,ristorante,ristorante
-39.888402,18.112341,osm_bojo_burger_39.8884_18.1123,Bojo Burger,ristorante,ristorante
-39.889161,18.111958,osm_baxter_39.8892_18.1120,Baxter,ristorante,ristorante
-39.891853,18.107026,osm_a_piuccia_salentina_39.8919_18.1070,A piuccia salentina,ristorante,ristorante
-39.873625,18.135987,osm_lido_fontanelle_39.8736_18.1360,Lido Fontanelle,ristorante,ristorante
-39.849052,18.184050,ov_blue_moon_lidomarini_39.8491_18.1841,Blue Moon lidomarini,RESTAURANT,ristorante
-39.850604,18.185387,ov_pescheria_friggitoria_da_claudio_39.8506_18.1854,Pescheria Friggitoria da Claudio,RESTAURANT,ristorante
-39.850621,18.185481,ov_friggitoria_trattoria_la_regina_39.8506_18.1855,Friggitoria Trattoria La Regina,RESTAURANT,ristorante
-39.850679,18.184987,ov_miseria_e_nobilt__39.8507_18.1850,Miseria e Nobiltà,RESTAURANT,ristorante
-39.851184,18.185655,ov_spilu___flavor_of_salento_39.8512_18.1857,Spilu - Flavor of Salento,RESTAURANT,ristorante
-39.851181,18.185320,ov_ristorante_pizzeria_la_staffa_39.8512_18.1853,Ristorante Pizzeria LA STAFFA,RESTAURANT,ristorante
-39.851664,18.186421,ov_da_alfredo_39.8517_18.1864,Da Alfredo,RESTAURANT,ristorante
-39.857243,18.165841,ov_da_gianni_ristorante_39.8572_18.1658,Da Gianni Ristorante,RESTAURANT,ristorante
-39.859382,18.162301,ov_fratelli_e_fornelli_39.8594_18.1623,Fratelli e Fornelli,RESTAURANT,ristorante
-39.856160,18.197430,ov_lido_sabbioso_39.8562_18.1974,Lido Sabbioso,RESTAURANT,ristorante
-39.859670,18.164151,ov_pizzeria_peperino_39.8597_18.1642,Pizzeria Peperino,RESTAURANT,ristorante
-39.871266,18.143941,ov_ristorante_artas_39.8713_18.1439,Ristorante Artas,RESTAURANT,ristorante
-39.872619,18.137163,ov_rivadamare_39.8726_18.1372,Rivadamare,RESTAURANT,ristorante
-39.876002,18.140693,ov_taverna_antica_39.8760_18.1407,Taverna Antica,RESTAURANT,ristorante
-39.886533,18.113516,ov_trattoria_lu_pescatore_39.8865_18.1135,Trattoria Lu Pescatore,RESTAURANT,ristorante
-39.886214,18.114059,ov_pescheria_del_porto_39.8862_18.1141,Pescheria del Porto,RESTAURANT,ristorante
-39.886143,18.114083,ov_friggitoria_del_porto_39.8861_18.1141,Friggitoria del porto,RESTAURANT,ristorante
-39.887253,18.112793,ov_pescheria_maggio_39.8873_18.1128,Pescheria Maggio,RESTAURANT,ristorante
-39.887331,18.112689,ov_cucinapesci_39.8873_18.1127,Cucinapesci,RESTAURANT,ristorante
-39.887039,18.113403,ov_ristorante_pizzeria_nauticus_39.8870_18.1134,Ristorante Pizzeria Nauticus,RESTAURANT,ristorante
-39.887912,18.112898,ov_megusta_restaurant_39.8879_18.1129,Megusta Restaurant,RESTAURANT,ristorante
-39.887649,18.115228,ov_famechimica_39.8876_18.1152,Famechimica,RESTAURANT,ristorante
-39.887562,18.115538,ov_fico_fish_39.8876_18.1155,Fico Fish,RESTAURANT,ristorante
-39.897770,18.104810,ov_trattoria_pizzeria_centro_colonico_39.8978_18.1048,Trattoria Pizzeria Centro Colonico,RESTAURANT,ristorante
-39.895097,18.101310,ov_pizzeria_trattoria_degli_amici_contrada__39.8951_18.1013,Pizzeria Trattoria degli Amici Contrada Pazze,RESTAURANT,ristorante
-39.892396,18.120198,ov_exedra_39.8924_18.1202,Exedra,RESTAURANT,ristorante
-39.891390,18.114749,ov_il_gusto_giusto___torre_san_giovanni__ug_39.8914_18.1147,"Il Gusto Giusto - Torre San Giovanni, Ugento",RESTAURANT,ristorante
-39.891286,18.115830,ov_mamma_chiara_39.8913_18.1158,Mamma Chiara,RESTAURANT,ristorante
-39.891930,18.107131,ov_siamo_fritti_39.8919_18.1071,Siamo Fritti,RESTAURANT,ristorante
-39.891783,18.106995,ov_a_puccia_salentina_39.8918_18.1070,A Puccia Salentina,RESTAURANT,ristorante
-39.891795,18.106477,ov_vespera_39.8918_18.1065,Vespera,RESTAURANT,ristorante
-39.891135,18.108049,ov_trattoria_da_otello_39.8911_18.1080,Trattoria Da Otello,RESTAURANT,ristorante
-39.890928,18.107487,ov_porto_ausonio_39.8909_18.1075,Porto Ausonio,RESTAURANT,ristorante
-39.889707,18.111255,ov_caff__teatro_39.8897_18.1113,Caffè Teatro,RESTAURANT,ristorante
-39.889692,18.111270,ov_bloom_food_and_beer_39.8897_18.1113,Bloom Food and Beer,RESTAURANT,ristorante
-39.889813,18.114519,ov_benvenuti_al_sud_torre_san_giovanni_39.8898_18.1145,Benvenuti Al Sud Torre San Giovanni,RESTAURANT,ristorante
-39.889905,18.115409,ov_nicolo_pizzeria_hurgada_39.8899_18.1154,Nicolo Pizzeria Hurgada,RESTAURANT,ristorante
-39.890069,18.111277,ov_ristorante_luna_39.8901_18.1113,Ristorante Luna,RESTAURANT,ristorante
-39.891062,18.108813,ov_gosh_39.8911_18.1088,Gosh,RESTAURANT,ristorante
-39.891105,18.109244,ov_ristorante_arcobaleno_39.8911_18.1092,Ristorante Arcobaleno,RESTAURANT,ristorante
-39.890861,18.112049,ov_cool_garden_39.8909_18.1120,Cool Garden,RESTAURANT,ristorante
-39.889425,18.116291,ov_il_quartiere_39.8894_18.1163,Il Quartiere,RESTAURANT,ristorante
-39.889566,18.114017,ov_da_gino___pizza_e_sostanza_39.8896_18.1140,Da Gino - Pizza e Sostanza,RESTAURANT,ristorante
-39.889604,18.111475,ov_trattoria_il_riccio_39.8896_18.1115,Trattoria Il Riccio,RESTAURANT,ristorante
-39.889246,18.111822,ov_torre_san_giovanni_39.8892_18.1118,Torre San Giovanni,RESTAURANT,ristorante
-39.889219,18.111831,ov_baxter_restaurant_39.8892_18.1118,Baxter Restaurant,RESTAURANT,ristorante
-39.889236,18.111777,ov_ristorante_pizzeria_azzurra_1986_39.8892_18.1118,Ristorante Pizzeria Azzurra 1986,RESTAURANT,ristorante
-39.889113,18.113399,ov_antichi_sapori_del_salento_39.8891_18.1134,Antichi Sapori del Salento,RESTAURANT,ristorante
-39.889104,18.112651,ov_bottega_dei_sapori___ristorante___tratto_39.8891_18.1127,Bottega dei Sapori | Ristorante - Trattoria tipica salentina,RESTAURANT,ristorante
-39.883482,18.123832,ov_le_dune_39.8835_18.1238,Le Dune,RESTAURANT,ristorante
-39.879202,18.145336,ov_blue_marlin_39.8792_18.1453,Blue Marlin,RESTAURANT,ristorante
-39.876958,18.142440,ov_ristorante_pizzeria_riva_di_ugento_39.8770_18.1424,Ristorante Pizzeria Riva di Ugento,RESTAURANT,ristorante
-39.922112,18.157525,ov_euro_bar_pizzeria_39.9221_18.1575,Euro bar-pizzeria,RESTAURANT,ristorante
-39.910881,18.187054,ov_crazy_pizza_39.9109_18.1871,Crazy Pizza,RESTAURANT,ristorante
-39.910321,18.185826,ov_farnari_39.9103_18.1858,Farnari,RESTAURANT,ristorante
-39.900143,18.134635,ov_la_camascia_39.9001_18.1346,La Camascia,RESTAURANT,ristorante
-39.901928,18.125170,ov_la_piadineria_39.9019_18.1252,La Piadineria,RESTAURANT,ristorante
-39.901919,18.089014,ov_ristorante_morfeo_39.9019_18.0890,Ristorante Morfeo,RESTAURANT,ristorante
-39.928321,18.158580,ov_pomodoro_pizzeria_ugento_39.9283_18.1586,Pomodoro Pizzeria Ugento,RESTAURANT,ristorante
-39.928350,18.159670,ov_bar_pizzeria_pasticceria_causo_39.9284_18.1597,Bar pizzeria pasticceria Causo,RESTAURANT,ristorante
-39.927799,18.160760,ov_padamalma_39.9278_18.1608,Padamalma,RESTAURANT,ristorante
-39.928146,18.161252,ov_ritrovo_del_viandante_39.9281_18.1613,Ritrovo del Viandante,RESTAURANT,ristorante
-39.927323,18.161535,ov_il_geco_39.9273_18.1615,Il Geco,RESTAURANT,ristorante
-39.927359,18.161191,ov_locanda_ozan_cadillac_39.9274_18.1612,Locanda Ozan Cadillac,RESTAURANT,ristorante
-39.927214,18.160848,ov_trattoria_la_vecchia_botte_39.9272_18.1608,Trattoria La Vecchia Botte,RESTAURANT,ristorante
-39.923599,18.156943,ov_mani_in_pasta_ugento_39.9236_18.1569,Mani in Pasta Ugento,RESTAURANT,ristorante
-39.923342,18.160917,ov_la_bottega_italiana_39.9233_18.1609,La Bottega Italiana,RESTAURANT,ristorante
-39.932937,18.157089,ov_peccati_di_gola_39.9329_18.1571,Peccati Di Gola,RESTAURANT,ristorante
-39.931680,18.159050,ov_il_fungo_39.9317_18.1591,Il fungo,RESTAURANT,ristorante
-39.928939,18.163913,ov_spicchio_not_only_pizza_39.9289_18.1639,Spicchio Not only pizza,RESTAURANT,ristorante
-39.928900,18.163900,ov_bazar_s_r_l_39.9289_18.1639,Bazar S.R.L,RESTAURANT,ristorante
-39.928723,18.164637,ov_ristorante_morfeo_39.9287_18.1646,Ristorante Morfeo,RESTAURANT,ristorante
-39.928573,18.161741,ov_the_phonogram_club_39.9286_18.1617,The Phonogram Club,RESTAURANT,ristorante
-39.928832,18.161703,ov_l_arte_del_mangiare_al_duomo_39.9288_18.1617,L'Arte del Mangiare al Duomo,RESTAURANT,ristorante
-39.929119,18.160097,ov_del_corso_pizzabar_39.9291_18.1601,Del Corso Pizzabar,RESTAURANT,ristorante
-39.930510,18.161413,ov_duca_39.9305_18.1614,Duca,RESTAURANT,ristorante
-39.941002,18.039491,ov_mahja_salento_39.9410_18.0395,Mahja Salento,RESTAURANT,ristorante
-39.978293,18.192378,ov_scarlin_pizza_39.9783_18.1924,Scarlin Pizza,RESTAURANT,ristorante
-39.849926,18.183702,ov_bar_marini_39.8499_18.1837,Bar Marini,RESTAURANT,bar_cafe
-39.850387,18.183738,ov_primopiano_lounge_bar_39.8504_18.1837,Primopiano Lounge Bar,RESTAURANT,bar_cafe
-39.850289,18.183816,ov_kalidria_lounge___wine_bar_39.8503_18.1838,Kalidria Lounge & Wine Bar,RESTAURANT,bar_cafe
-39.850482,18.182660,ov_chalet_beach_39.8505_18.1827,Chalet Beach,RESTAURANT,bar_cafe
-39.850508,18.182617,ov_mamir__vacanze_39.8505_18.1826,Mamirè Vacanze,RESTAURANT,bar_cafe
-39.850667,18.184077,ov_la_rosa_dei_venti_39.8507_18.1841,La Rosa dei Venti,RESTAURANT,bar_cafe
-39.850809,18.184751,ov_l_angolo_divino_39.8508_18.1848,L'Angolo Divino,RESTAURANT,bar_cafe
-39.852427,18.189468,ov_pasticceria_martinucci_39.8524_18.1895,Pasticceria Martinucci,RESTAURANT,bar_cafe
-39.858950,18.163890,ov____________39.8590_18.1639,𝘼𝙇𝙈𝘼𝙇𝙄𝘾̧𝙄𝘼,RESTAURANT,bar_cafe
-39.859874,18.159318,ov_baia_tam_39.8599_18.1593,Baia Tam,RESTAURANT,bar_cafe
-39.860313,18.157893,ov_almalicia_39.8603_18.1579,Almalicia,RESTAURANT,bar_cafe
-39.860907,18.156009,ov_balelido_beach_club_39.8609_18.1560,Balelido Beach Club,RESTAURANT,bar_cafe
-39.873632,18.136042,ov_lido_fontanelle_39.8736_18.1360,Lido Fontanelle,RESTAURANT,bar_cafe
-39.875482,18.149088,ov_torre_san_giovanni__lecce_39.8755_18.1491,"Torre San Giovanni, Lecce",RESTAURANT,bar_cafe
-39.887420,18.113744,ov_bar_underground_39.8874_18.1137,Bar Underground,RESTAURANT,bar_cafe
-39.887729,18.117035,ov_kite_beach_bar_39.8877_18.1170,Kite Beach Bar,RESTAURANT,bar_cafe
-39.891540,18.107400,ov_yo_island_39.8915_18.1074,YO ISLAND,RESTAURANT,bar_cafe
-39.891206,18.108304,ov_hi_food_sea_39.8912_18.1083,Hi-Food Sea,RESTAURANT,bar_cafe
-39.893561,18.104796,ov_eurobeach_tikibar_39.8936_18.1048,Eurobeach TikiBar,RESTAURANT,bar_cafe
-39.890060,18.111552,ov_terenzano_club_39.8901_18.1116,Terenzano Club,RESTAURANT,bar_cafe
-39.889604,18.111356,ov_petra_nera_39.8896_18.1114,Petra Nera,RESTAURANT,bar_cafe
-39.888662,18.112157,ov_bar_jonio_39.8887_18.1122,Bar Jonio,RESTAURANT,bar_cafe
-39.888290,18.112135,ov_exotic_caf__39.8883_18.1121,Exotic Cafè,RESTAURANT,bar_cafe
-39.893638,18.126142,ov_vanilla_39.8936_18.1261,Vanilla,RESTAURANT,bar_cafe
-39.919982,18.155133,ov_snack_caf__39.9200_18.1551,Snack Cafè,RESTAURANT,bar_cafe
-39.922421,18.163892,ov_coffee_speed_39.9224_18.1639,Coffee SPEED,RESTAURANT,bar_cafe
-39.922456,18.163840,ov_concessionario_necta___industria_4_0_39.9225_18.1638,Concessionario NECTA - Industria 4.0,RESTAURANT,bar_cafe
-39.922243,18.157410,ov_folium_39.9222_18.1574,Folium,RESTAURANT,bar_cafe
-39.915298,18.151954,ov_quartiere_ugentino_39.9153_18.1520,Quartiere Ugentino,RESTAURANT,bar_cafe
-39.910442,18.186460,ov_bar_queen_square_39.9104_18.1865,Bar Queen Square,RESTAURANT,bar_cafe
-39.899765,18.092672,ov_bar_pizzeria_degli_amici___forno_a_legna_39.8998_18.0927,Bar Pizzeria degli Amici...forno a legna...dal 1971,RESTAURANT,bar_cafe
-39.927760,18.160890,ov_c_c_caff__in_cialde_e_capsule_39.9278_18.1609,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe
-39.927505,18.160802,ov_terenga_2_0_rock_caf__39.9275_18.1608,Terenga 2.0 Rock Cafè,RESTAURANT,bar_cafe
-39.924048,18.161423,ov_crema___cioccolato_39.9240_18.1614,Crema & Cioccolato,RESTAURANT,bar_cafe
-39.923506,18.157257,ov_gia__mar__tabaccheria_bar_39.9235_18.1573,Gia. Mar. Tabaccheria&Bar,RESTAURANT,bar_cafe
-39.933300,18.166700,ov_slotcaf__39.9333_18.1667,Slotcafè,RESTAURANT,bar_cafe
-39.928502,18.157137,ov_sinatra_hole_live_pub_ugento__le__39.9285_18.1571,Sinatra hole Live pub Ugento (Le),RESTAURANT,bar_cafe
-39.930676,18.162523,ov_bar_borgo_antico_39.9307_18.1625,Bar Borgo Antico,RESTAURANT,bar_cafe
-39.933088,18.148148,ov_snack_caf__2_0_39.9331_18.1481,Snack Cafè 2.0,RESTAURANT,bar_cafe
-39.938705,18.136751,ov_eni_bar_ugento_39.9387_18.1368,Eni bar Ugento,RESTAURANT,bar_cafe
-39.889025,18.111998,osm_terrazza_caf__39.8890_18.1120,Terrazza Cafè,bar_cafe,bar_cafe
-39.889976,18.111143,osm_martinucci_39.8900_18.1111,Martinucci,bar_cafe,bar_cafe
-39.888944,18.112066,osm_sani_sensi_39.8889_18.1121,Sani Sensi,bar_cafe,bar_cafe
-39.928553,18.161768,osm_the_phonogram_club_39.9286_18.1618,The Phonogram Club,bar_cafe,bar_cafe
-39.882902,18.123174,osm_lido_isola_beach_39.8829_18.1232,Lido Isola Beach,bar_cafe,bar_cafe
-39.891931,18.107095,osm_bar_pasticceria_gelateria_artigianale_fr_39.8919_18.1071,Bar Pasticceria Gelateria Artigianale Frisullo Donato,bar_cafe,bar_cafe
-39.927111,18.161406,osm_pasticceria_causo_39.9271_18.1614,Pasticceria Causo,bar_cafe,bar_cafe
-39.927352,18.161138,osm_ozan_39.9274_18.1611,Ozan,bar_cafe,bar_cafe
-39.876091,18.132528,ov_locals_crew_39.8761_18.1325,Locals Crew,GYM,palestra
-39.890140,18.115280,ov_pista_salentina_39.8901_18.1153,Pista Salentina,GYM,palestra
-39.891794,18.133807,ov_t_ng_kho_s__qu_n__o___c_anh_39.8918_18.1338,Tổng Kho Sỉ Quần Áo Đức Anh,GYM,palestra
-39.882096,18.125743,ov_bros_sport_family_asd_39.8821_18.1257,Bros Sport Family asd,GYM,palestra
-39.881501,18.124168,ov_locals_salento_kitesurf_39.8815_18.1242,Locals Salento Kitesurf,GYM,palestra
-39.920926,18.157000,ov_the_massive_gym_39.9209_18.1570,The Massive Gym,GYM,palestra
-39.922461,18.153889,ov_new_play_sport_e_fitness_39.9225_18.1539,New Play Sport e Fitness,GYM,palestra
-39.928554,18.164555,ov_training_lab_39.9286_18.1646,Training Lab,GYM,palestra
-39.929880,18.166759,ov_palaozan_tiziano_manni_39.9299_18.1668,PalaOzan Tiziano Manni,GYM,palestra
-39.931208,18.152245,ov_energym_39.9312_18.1522,Energym,GYM,palestra
-39.931049,18.152014,ov_koin__danza_39.9310_18.1520,Koinè Danza,GYM,palestra
-39.872010,18.167910,ov_specchia_del_corno_39.8720_18.1679,Specchia del Corno,MONUMENT,monumento
-39.928789,18.160802,ov_nuovo_museo_archeologico_di_ugento_39.9288_18.1608,Nuovo Museo Archeologico di Ugento,MUSEUM,monumento
-39.928823,18.162808,ov_museo_diocesano_di_ugento_39.9288_18.1628,Museo Diocesano di Ugento,MUSEUM,monumento
+39.849052,18.184050,ov_blue_moon_lidomarini_39.8491_18.1841,Blue Moon lidomarini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/blue_moon_lidomarini_39.8491_18.1841.json,custom
+39.850604,18.185387,ov_pescheria_friggitoria_da_claudio_39.8506_18.1854,Pescheria Friggitoria da Claudio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pescheria_friggitoria_da_claudio_39.8506_18.1854.json,custom
+39.850621,18.185481,ov_friggitoria_trattoria_la_regina_39.8506_18.1855,Friggitoria Trattoria La Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/friggitoria_trattoria_la_regina_39.8506_18.1855.json,custom
+39.850679,18.184987,ov_miseria_e_nobilt__39.8507_18.1850,Miseria e Nobiltà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/miseria_e_nobilt_39.8507_18.1850.json,custom
+39.851184,18.185655,ov_spilu___flavor_of_salento_39.8512_18.1857,Spilu - Flavor of Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/spilu_-_flavor_of_salento_39.8512_18.1857.json,custom
+39.851181,18.185320,ov_ristorante_pizzeria_la_staffa_39.8512_18.1853,Ristorante Pizzeria LA STAFFA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_pizzeria_la_staffa_39.8512_18.1853.json,custom
+39.851664,18.186421,ov_da_alfredo_39.8517_18.1864,Da Alfredo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/da_alfredo_39.8517_18.1864.json,custom
+39.857243,18.165841,ov_da_gianni_ristorante_39.8572_18.1658,Da Gianni Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/da_gianni_ristorante_39.8572_18.1658.json,custom
+39.859382,18.162301,ov_fratelli_e_fornelli_39.8594_18.1623,Fratelli e Fornelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/fratelli_e_fornelli_39.8594_18.1623.json,custom
+39.856160,18.197430,ov_lido_sabbioso_39.8562_18.1974,Lido Sabbioso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/lido_sabbioso_39.8562_18.1974.json,custom
+39.859670,18.164151,ov_pizzeria_peperino_39.8597_18.1642,Pizzeria Peperino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pizzeria_peperino_39.8597_18.1642.json,custom
+39.871266,18.143941,ov_ristorante_artas_39.8713_18.1439,Ristorante Artas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_artas_39.8713_18.1439.json,custom
+39.872619,18.137163,ov_rivadamare_39.8726_18.1372,Rivadamare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/rivadamare_39.8726_18.1372.json,custom
+39.876002,18.140693,ov_taverna_antica_39.8760_18.1407,Taverna Antica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/taverna_antica_39.8760_18.1407.json,custom
+39.886533,18.113516,ov_trattoria_lu_pescatore_39.8865_18.1135,Trattoria Lu Pescatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/trattoria_lu_pescatore_39.8865_18.1135.json,custom
+39.886214,18.114059,ov_pescheria_del_porto_39.8862_18.1141,Pescheria del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pescheria_del_porto_39.8862_18.1141.json,custom
+39.886143,18.114083,ov_friggitoria_del_porto_39.8861_18.1141,Friggitoria del porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/friggitoria_del_porto_39.8861_18.1141.json,custom
+39.887253,18.112793,ov_pescheria_maggio_39.8873_18.1128,Pescheria Maggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pescheria_maggio_39.8873_18.1128.json,custom
+39.887331,18.112689,ov_cucinapesci_39.8873_18.1127,Cucinapesci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/cucinapesci_39.8873_18.1127.json,custom
+39.887039,18.113403,ov_ristorante_pizzeria_nauticus_39.8870_18.1134,Ristorante Pizzeria Nauticus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_pizzeria_nauticus_39.8870_18.1134.json,custom
+39.887912,18.112898,ov_megusta_restaurant_39.8879_18.1129,Megusta Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/megusta_restaurant_39.8879_18.1129.json,custom
+39.887649,18.115228,ov_famechimica_39.8876_18.1152,Famechimica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/famechimica_39.8876_18.1152.json,custom
+39.887562,18.115538,ov_fico_fish_39.8876_18.1155,Fico Fish,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/fico_fish_39.8876_18.1155.json,custom
+39.897770,18.104810,ov_trattoria_pizzeria_centro_colonico_39.8978_18.1048,Trattoria Pizzeria Centro Colonico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/trattoria_pizzeria_centro_colonico_39.8978_18.1048.json,custom
+39.895097,18.101310,ov_pizzeria_trattoria_degli_amici_contrada__39.8951_18.1013,Pizzeria Trattoria degli Amici Contrada Pazze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pizzeria_trattoria_degli_amici_contrada__39.8951_18.1013.json,custom
+39.892396,18.120198,ov_exedra_39.8924_18.1202,Exedra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/exedra_39.8924_18.1202.json,custom
+39.891390,18.114749,ov_il_gusto_giusto___torre_san_giovanni__ug_39.8914_18.1147,"Il Gusto Giusto - Torre San Giovanni, Ugento",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/il_gusto_giusto_-_torre_san_giovanni_uge_39.8914_18.1147.json,custom
+39.891286,18.115830,ov_mamma_chiara_39.8913_18.1158,Mamma Chiara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/mamma_chiara_39.8913_18.1158.json,custom
+39.891930,18.107131,ov_siamo_fritti_39.8919_18.1071,Siamo Fritti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/siamo_fritti_39.8919_18.1071.json,custom
+39.891783,18.106995,ov_a_puccia_salentina_39.8918_18.1070,A Puccia Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/a_puccia_salentina_39.8918_18.1070.json,custom
+39.891795,18.106477,ov_vespera_39.8918_18.1065,Vespera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/vespera_39.8918_18.1065.json,custom
+39.891135,18.108049,ov_trattoria_da_otello_39.8911_18.1080,Trattoria Da Otello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/trattoria_da_otello_39.8911_18.1080.json,custom
+39.890928,18.107487,ov_porto_ausonio_39.8909_18.1075,Porto Ausonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/porto_ausonio_39.8909_18.1075.json,custom
+39.889707,18.111255,ov_caff__teatro_39.8897_18.1113,Caffè Teatro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/caff_teatro_39.8897_18.1113.json,custom
+39.889692,18.111270,ov_bloom_food_and_beer_39.8897_18.1113,Bloom Food and Beer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bloom_food_and_beer_39.8897_18.1113.json,custom
+39.889813,18.114519,ov_benvenuti_al_sud_torre_san_giovanni_39.8898_18.1145,Benvenuti Al Sud Torre San Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/benvenuti_al_sud_torre_san_giovanni_39.8898_18.1145.json,custom
+39.889905,18.115409,ov_nicolo_pizzeria_hurgada_39.8899_18.1154,Nicolo Pizzeria Hurgada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/nicolo_pizzeria_hurgada_39.8899_18.1154.json,custom
+39.890069,18.111277,ov_ristorante_luna_39.8901_18.1113,Ristorante Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_luna_39.8901_18.1113.json,custom
+39.891062,18.108813,ov_gosh_39.8911_18.1088,Gosh,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/gosh_39.8911_18.1088.json,custom
+39.891105,18.109244,ov_ristorante_arcobaleno_39.8911_18.1092,Ristorante Arcobaleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_arcobaleno_39.8911_18.1092.json,custom
+39.890861,18.112049,ov_cool_garden_39.8909_18.1120,Cool Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/cool_garden_39.8909_18.1120.json,custom
+39.889425,18.116291,ov_il_quartiere_39.8894_18.1163,Il Quartiere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/il_quartiere_39.8894_18.1163.json,custom
+39.889566,18.114017,ov_da_gino___pizza_e_sostanza_39.8896_18.1140,Da Gino - Pizza e Sostanza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/da_gino_-_pizza_e_sostanza_39.8896_18.1140.json,custom
+39.889604,18.111475,ov_trattoria_il_riccio_39.8896_18.1115,Trattoria Il Riccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/trattoria_il_riccio_39.8896_18.1115.json,custom
+39.889246,18.111822,ov_torre_san_giovanni_39.8892_18.1118,Torre San Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/torre_san_giovanni_39.8892_18.1118.json,custom
+39.889219,18.111831,ov_baxter_restaurant_39.8892_18.1118,Baxter Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/baxter_restaurant_39.8892_18.1118.json,custom
+39.889236,18.111777,ov_ristorante_pizzeria_azzurra_1986_39.8892_18.1118,Ristorante Pizzeria Azzurra 1986,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_pizzeria_azzurra_1986_39.8892_18.1118.json,custom
+39.889113,18.113399,ov_antichi_sapori_del_salento_39.8891_18.1134,Antichi Sapori del Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/antichi_sapori_del_salento_39.8891_18.1134.json,custom
+39.889104,18.112651,ov_bottega_dei_sapori___ristorante___tratto_39.8891_18.1127,Bottega dei Sapori | Ristorante - Trattoria tipica salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bottega_dei_sapori_ristorante_-_trattori_39.8891_18.1127.json,custom
+39.883482,18.123832,ov_le_dune_39.8835_18.1238,Le Dune,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/le_dune_39.8835_18.1238.json,custom
+39.879202,18.145336,ov_blue_marlin_39.8792_18.1453,Blue Marlin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/blue_marlin_39.8792_18.1453.json,custom
+39.876958,18.142440,ov_ristorante_pizzeria_riva_di_ugento_39.8770_18.1424,Ristorante Pizzeria Riva di Ugento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_pizzeria_riva_di_ugento_39.8770_18.1424.json,custom
+39.922112,18.157525,ov_euro_bar_pizzeria_39.9221_18.1575,Euro bar-pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/euro_bar-pizzeria_39.9221_18.1575.json,custom
+39.910881,18.187054,ov_crazy_pizza_39.9109_18.1871,Crazy Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/crazy_pizza_39.9109_18.1871.json,custom
+39.910321,18.185826,ov_farnari_39.9103_18.1858,Farnari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/farnari_39.9103_18.1858.json,custom
+39.900143,18.134635,ov_la_camascia_39.9001_18.1346,La Camascia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/la_camascia_39.9001_18.1346.json,custom
+39.901928,18.125170,ov_la_piadineria_39.9019_18.1252,La Piadineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/la_piadineria_39.9019_18.1252.json,custom
+39.901919,18.089014,ov_ristorante_morfeo_39.9019_18.0890,Ristorante Morfeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_morfeo_39.9019_18.0890.json,custom
+39.928321,18.158580,ov_pomodoro_pizzeria_ugento_39.9283_18.1586,Pomodoro Pizzeria Ugento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pomodoro_pizzeria_ugento_39.9283_18.1586.json,custom
+39.928350,18.159670,ov_bar_pizzeria_pasticceria_causo_39.9284_18.1597,Bar pizzeria pasticceria Causo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_pizzeria_pasticceria_causo_39.9284_18.1597.json,custom
+39.927799,18.160760,ov_padamalma_39.9278_18.1608,Padamalma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/padamalma_39.9278_18.1608.json,custom
+39.928146,18.161252,ov_ritrovo_del_viandante_39.9281_18.1613,Ritrovo del Viandante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ritrovo_del_viandante_39.9281_18.1613.json,custom
+39.927323,18.161535,ov_il_geco_39.9273_18.1615,Il Geco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/il_geco_39.9273_18.1615.json,custom
+39.927359,18.161191,ov_locanda_ozan_cadillac_39.9274_18.1612,Locanda Ozan Cadillac,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/locanda_ozan_cadillac_39.9274_18.1612.json,custom
+39.927214,18.160848,ov_trattoria_la_vecchia_botte_39.9272_18.1608,Trattoria La Vecchia Botte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/trattoria_la_vecchia_botte_39.9272_18.1608.json,custom
+39.923599,18.156943,ov_mani_in_pasta_ugento_39.9236_18.1569,Mani in Pasta Ugento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/mani_in_pasta_ugento_39.9236_18.1569.json,custom
+39.923342,18.160917,ov_la_bottega_italiana_39.9233_18.1609,La Bottega Italiana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/la_bottega_italiana_39.9233_18.1609.json,custom
+39.932937,18.157089,ov_peccati_di_gola_39.9329_18.1571,Peccati Di Gola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/peccati_di_gola_39.9329_18.1571.json,custom
+39.931680,18.159050,ov_il_fungo_39.9317_18.1591,Il fungo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/il_fungo_39.9317_18.1591.json,custom
+39.928939,18.163913,ov_spicchio_not_only_pizza_39.9289_18.1639,Spicchio Not only pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/spicchio_not_only_pizza_39.9289_18.1639.json,custom
+39.928900,18.163900,ov_bazar_s_r_l_39.9289_18.1639,Bazar S.R.L,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bazar_srl_39.9289_18.1639.json,custom
+39.928723,18.164637,ov_ristorante_morfeo_39.9287_18.1646,Ristorante Morfeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ristorante_morfeo_39.9287_18.1646.json,custom
+39.928573,18.161741,ov_the_phonogram_club_39.9286_18.1617,The Phonogram Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/the_phonogram_club_39.9286_18.1617.json,custom
+39.928832,18.161703,ov_l_arte_del_mangiare_al_duomo_39.9288_18.1617,L'Arte del Mangiare al Duomo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/larte_del_mangiare_al_duomo_39.9288_18.1617.json,custom
+39.929119,18.160097,ov_del_corso_pizzabar_39.9291_18.1601,Del Corso Pizzabar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/del_corso_pizzabar_39.9291_18.1601.json,custom
+39.930510,18.161413,ov_duca_39.9305_18.1614,Duca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/duca_39.9305_18.1614.json,custom
+39.941002,18.039491,ov_mahja_salento_39.9410_18.0395,Mahja Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/mahja_salento_39.9410_18.0395.json,custom
+39.978293,18.192378,ov_scarlin_pizza_39.9783_18.1924,Scarlin Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/scarlin_pizza_39.9783_18.1924.json,custom
+39.888906,18.112125,osm_sani_sensi_39.8889_18.1121,Sani Sensi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/sani_sensi_39.8889_18.1121.json,custom
+39.889196,18.111809,osm_azzurra_39.8892_18.1118,Azzurra,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/azzurra_39.8892_18.1118.json,custom
+39.889271,18.111759,osm_l_approdo_39.8893_18.1118,L'Approdo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/lapprodo_39.8893_18.1118.json,custom
+39.889630,18.111386,osm_petra_nera_39.8896_18.1114,Petra Nera,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/petra_nera_39.8896_18.1114.json,custom
+39.888402,18.112341,osm_bojo_burger_39.8884_18.1123,Bojo Burger,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bojo_burger_39.8884_18.1123.json,custom
+39.889161,18.111958,osm_baxter_39.8892_18.1120,Baxter,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/baxter_39.8892_18.1120.json,custom
+39.891853,18.107026,osm_a_piuccia_salentina_39.8919_18.1070,A piuccia salentina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/a_piuccia_salentina_39.8919_18.1070.json,custom
+39.873625,18.135987,osm_lido_fontanelle_39.8736_18.1360,Lido Fontanelle,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/lido_fontanelle_39.8736_18.1360.json,custom
+39.849926,18.183702,ov_bar_marini_39.8499_18.1837,Bar Marini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_marini_39.8499_18.1837.json,custom
+39.850387,18.183738,ov_primopiano_lounge_bar_39.8504_18.1837,Primopiano Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/primopiano_lounge_bar_39.8504_18.1837.json,custom
+39.850289,18.183816,ov_kalidria_lounge___wine_bar_39.8503_18.1838,Kalidria Lounge & Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/kalidria_lounge_wine_bar_39.8503_18.1838.json,custom
+39.850482,18.182660,ov_chalet_beach_39.8505_18.1827,Chalet Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/chalet_beach_39.8505_18.1827.json,custom
+39.850508,18.182617,ov_mamir__vacanze_39.8505_18.1826,Mamirè Vacanze,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/mamir_vacanze_39.8505_18.1826.json,custom
+39.850667,18.184077,ov_la_rosa_dei_venti_39.8507_18.1841,La Rosa dei Venti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/la_rosa_dei_venti_39.8507_18.1841.json,custom
+39.850809,18.184751,ov_l_angolo_divino_39.8508_18.1848,L'Angolo Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/langolo_divino_39.8508_18.1848.json,custom
+39.852427,18.189468,ov_pasticceria_martinucci_39.8524_18.1895,Pasticceria Martinucci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pasticceria_martinucci_39.8524_18.1895.json,custom
+39.858950,18.163890,ov____________39.8590_18.1639,𝘼𝙇𝙈𝘼𝙇𝙄𝘾̧𝙄𝘼,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/_39.8590_18.1639.json,custom
+39.859874,18.159318,ov_baia_tam_39.8599_18.1593,Baia Tam,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/baia_tam_39.8599_18.1593.json,custom
+39.860313,18.157893,ov_almalicia_39.8603_18.1579,Almalicia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/almalicia_39.8603_18.1579.json,custom
+39.860907,18.156009,ov_balelido_beach_club_39.8609_18.1560,Balelido Beach Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/balelido_beach_club_39.8609_18.1560.json,custom
+39.873632,18.136042,ov_lido_fontanelle_39.8736_18.1360,Lido Fontanelle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/lido_fontanelle_39.8736_18.1360.json,custom
+39.875482,18.149088,ov_torre_san_giovanni__lecce_39.8755_18.1491,"Torre San Giovanni, Lecce",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/torre_san_giovanni_lecce_39.8755_18.1491.json,custom
+39.887420,18.113744,ov_bar_underground_39.8874_18.1137,Bar Underground,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_underground_39.8874_18.1137.json,custom
+39.887729,18.117035,ov_kite_beach_bar_39.8877_18.1170,Kite Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/kite_beach_bar_39.8877_18.1170.json,custom
+39.891540,18.107400,ov_yo_island_39.8915_18.1074,YO ISLAND,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/yo_island_39.8915_18.1074.json,custom
+39.891206,18.108304,ov_hi_food_sea_39.8912_18.1083,Hi-Food Sea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/hi-food_sea_39.8912_18.1083.json,custom
+39.893561,18.104796,ov_eurobeach_tikibar_39.8936_18.1048,Eurobeach TikiBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/eurobeach_tikibar_39.8936_18.1048.json,custom
+39.890060,18.111552,ov_terenzano_club_39.8901_18.1116,Terenzano Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/terenzano_club_39.8901_18.1116.json,custom
+39.889604,18.111356,ov_petra_nera_39.8896_18.1114,Petra Nera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/petra_nera_39.8896_18.1114.json,custom
+39.888662,18.112157,ov_bar_jonio_39.8887_18.1122,Bar Jonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_jonio_39.8887_18.1122.json,custom
+39.888290,18.112135,ov_exotic_caf__39.8883_18.1121,Exotic Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/exotic_caf_39.8883_18.1121.json,custom
+39.893638,18.126142,ov_vanilla_39.8936_18.1261,Vanilla,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/vanilla_39.8936_18.1261.json,custom
+39.919982,18.155133,ov_snack_caf__39.9200_18.1551,Snack Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/snack_caf_39.9200_18.1551.json,custom
+39.922421,18.163892,ov_coffee_speed_39.9224_18.1639,Coffee SPEED,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/coffee_speed_39.9224_18.1639.json,custom
+39.922456,18.163840,ov_concessionario_necta___industria_4_0_39.9225_18.1638,Concessionario NECTA - Industria 4.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/concessionario_necta_-_industria_40_39.9225_18.1638.json,custom
+39.922243,18.157410,ov_folium_39.9222_18.1574,Folium,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/folium_39.9222_18.1574.json,custom
+39.915298,18.151954,ov_quartiere_ugentino_39.9153_18.1520,Quartiere Ugentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/quartiere_ugentino_39.9153_18.1520.json,custom
+39.910442,18.186460,ov_bar_queen_square_39.9104_18.1865,Bar Queen Square,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_queen_square_39.9104_18.1865.json,custom
+39.899765,18.092672,ov_bar_pizzeria_degli_amici___forno_a_legna_39.8998_18.0927,Bar Pizzeria degli Amici...forno a legna...dal 1971,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_pizzeria_degli_amiciforno_a_legnadal_39.8998_18.0927.json,custom
+39.927760,18.160890,ov_c_c_caff__in_cialde_e_capsule_39.9278_18.1609,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/cc_caff_in_cialde_e_capsule_39.9278_18.1609.json,custom
+39.927505,18.160802,ov_terenga_2_0_rock_caf__39.9275_18.1608,Terenga 2.0 Rock Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/terenga_20_rock_caf_39.9275_18.1608.json,custom
+39.924048,18.161423,ov_crema___cioccolato_39.9240_18.1614,Crema & Cioccolato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/crema_cioccolato_39.9240_18.1614.json,custom
+39.923506,18.157257,ov_gia__mar__tabaccheria_bar_39.9235_18.1573,Gia. Mar. Tabaccheria&Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/gia_mar_tabaccheriabar_39.9235_18.1573.json,custom
+39.933300,18.166700,ov_slotcaf__39.9333_18.1667,Slotcafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/slotcaf_39.9333_18.1667.json,custom
+39.928502,18.157137,ov_sinatra_hole_live_pub_ugento__le__39.9285_18.1571,Sinatra hole Live pub Ugento (Le),RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/sinatra_hole_live_pub_ugento_le_39.9285_18.1571.json,custom
+39.930676,18.162523,ov_bar_borgo_antico_39.9307_18.1625,Bar Borgo Antico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_borgo_antico_39.9307_18.1625.json,custom
+39.933088,18.148148,ov_snack_caf__2_0_39.9331_18.1481,Snack Cafè 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/snack_caf_20_39.9331_18.1481.json,custom
+39.938705,18.136751,ov_eni_bar_ugento_39.9387_18.1368,Eni bar Ugento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/eni_bar_ugento_39.9387_18.1368.json,custom
+39.889025,18.111998,osm_terrazza_caf__39.8890_18.1120,Terrazza Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/terrazza_caf_39.8890_18.1120.json,custom
+39.889976,18.111143,osm_martinucci_39.8900_18.1111,Martinucci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/martinucci_39.8900_18.1111.json,custom
+39.888944,18.112066,osm_sani_sensi_39.8889_18.1121,Sani Sensi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/sani_sensi_39.8889_18.1121.json,custom
+39.928553,18.161768,osm_the_phonogram_club_39.9286_18.1618,The Phonogram Club,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/the_phonogram_club_39.9286_18.1618.json,custom
+39.882902,18.123174,osm_lido_isola_beach_39.8829_18.1232,Lido Isola Beach,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/lido_isola_beach_39.8829_18.1232.json,custom
+39.891931,18.107095,osm_bar_pasticceria_gelateria_artigianale_fr_39.8919_18.1071,Bar Pasticceria Gelateria Artigianale Frisullo Donato,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bar_pasticceria_gelateria_artigianale_fr_39.8919_18.1071.json,custom
+39.927111,18.161406,osm_pasticceria_causo_39.9271_18.1614,Pasticceria Causo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pasticceria_causo_39.9271_18.1614.json,custom
+39.927352,18.161138,osm_ozan_39.9274_18.1611,Ozan,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/ozan_39.9274_18.1611.json,custom
+39.876091,18.132528,ov_locals_crew_39.8761_18.1325,Locals Crew,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/locals_crew_39.8761_18.1325.json,custom
+39.890140,18.115280,ov_pista_salentina_39.8901_18.1153,Pista Salentina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pista_salentina_39.8901_18.1153.json,custom
+39.891794,18.133807,ov_t_ng_kho_s__qu_n__o___c_anh_39.8918_18.1338,Tổng Kho Sỉ Quần Áo Đức Anh,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/tng_kho_s_qun_o_c_anh_39.8918_18.1338.json,custom
+39.882096,18.125743,ov_bros_sport_family_asd_39.8821_18.1257,Bros Sport Family asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bros_sport_family_asd_39.8821_18.1257.json,custom
+39.881501,18.124168,ov_locals_salento_kitesurf_39.8815_18.1242,Locals Salento Kitesurf,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/locals_salento_kitesurf_39.8815_18.1242.json,custom
+39.920926,18.157000,ov_the_massive_gym_39.9209_18.1570,The Massive Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/the_massive_gym_39.9209_18.1570.json,custom
+39.922461,18.153889,ov_new_play_sport_e_fitness_39.9225_18.1539,New Play Sport e Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/new_play_sport_e_fitness_39.9225_18.1539.json,custom
+39.928554,18.164555,ov_training_lab_39.9286_18.1646,Training Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/training_lab_39.9286_18.1646.json,custom
+39.929880,18.166759,ov_palaozan_tiziano_manni_39.9299_18.1668,PalaOzan Tiziano Manni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/palaozan_tiziano_manni_39.9299_18.1668.json,custom
+39.931208,18.152245,ov_energym_39.9312_18.1522,Energym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/energym_39.9312_18.1522.json,custom
+39.931049,18.152014,ov_koin__danza_39.9310_18.1520,Koinè Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/koin_danza_39.9310_18.1520.json,custom
+39.872010,18.167910,ov_specchia_del_corno_39.8720_18.1679,Specchia del Corno,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/specchia_del_corno_39.8720_18.1679.json,custom
+39.928789,18.160802,ov_nuovo_museo_archeologico_di_ugento_39.9288_18.1608,Nuovo Museo Archeologico di Ugento,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/nuovo_museo_archeologico_di_ugento_39.9288_18.1608.json,custom
+39.928823,18.162808,ov_museo_diocesano_di_ugento_39.9288_18.1628,Museo Diocesano di Ugento,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/museo_diocesano_di_ugento_39.9288_18.1628.json,custom

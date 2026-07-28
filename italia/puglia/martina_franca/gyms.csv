@@ -1,34 +1,34 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # martina_franca -- gyms
-40.666530,17.366427,ov_asd_circolo_ippico_la_pineta_40.6665_17.3664,ASD Circolo Ippico La Pineta,GYM,palestra
-40.691727,17.295390,ov_a_s_d__innovations_dance_40.6917_17.2954,A.S.D. Innovations Dance,GYM,palestra
-40.702928,17.325831,ov_fitness_center_ssd_arl_40.7029_17.3258,Fitness Center SSD ARL,GYM,palestra
-40.714350,17.337960,ov_beachvolley_martina_franca_bvf_40.7144_17.3380,Beachvolley Martina Franca BvF,GYM,palestra
-40.703312,17.347289,ov_butterfly_dance_academy_40.7033_17.3473,Butterfly Dance Academy,GYM,palestra
-40.703310,17.346584,ov_spacefit_academy_40.7033_17.3466,SpaceFit Academy,GYM,palestra
-40.704429,17.344577,ov_wellness_project_40.7044_17.3446,Wellness Project,GYM,palestra
-40.706320,17.336560,ov_centro_equestre_i_trulli_maneggio_e_alle_40.7063_17.3366,Centro Equestre I Trulli Maneggio e Allevamento cavalli,GYM,palestra
-40.702790,17.329440,ov_pickleball_master_40.7028_17.3294,Pickleball Master,GYM,palestra
-40.703210,17.332110,ov_claudio_pt_05_40.7032_17.3321,claudio_pt_05,GYM,palestra
-40.703247,17.331792,ov_gianfranco_ponte_trainer_40.7032_17.3318,Gianfranco Ponte Trainer,GYM,palestra
-40.703279,17.331444,ov_la_palestra_40.7033_17.3314,La Palestra,GYM,palestra
-40.705169,17.341100,ov_spazio_integro_40.7052_17.3411,Spazio Integro,GYM,palestra
-40.700379,17.340239,ov_eliana_minardi_counselor_40.7004_17.3402,Eliana Minardi Counselor,GYM,palestra
-40.701980,17.336741,ov_accademia_della_formazione_40.7020_17.3367,Accademia Della Formazione,GYM,palestra
-40.700781,17.330462,ov_el_sol_natural_40.7008_17.3305,El Sol Natural,GYM,palestra
-40.701037,17.332288,ov_uniko_ems___pilates_reformer___martina_f_40.7010_17.3323,Uniko EMS & Pilates Reformer - Martina Franca,GYM,palestra
-40.701183,17.332410,ov_unika_fitness_club_40.7012_17.3324,Unika Fitness Club,GYM,palestra
-40.699035,17.334170,ov_pole_room_martina_franca_40.6990_17.3342,POLE Room Martina Franca,GYM,palestra
-40.697790,17.347161,ov_polisportiva_arci_martina_40.6978_17.3472,Polisportiva Arci Martina,GYM,palestra
-40.697710,17.347200,ov_scuola_di_danza_chor_graphie_di_antonell_40.6977_17.3472,Scuola di danza Chorégraphie di Antonella Chirulli,GYM,palestra
-40.702165,17.346226,ov_moving_club_40.7022_17.3462,Moving Club,GYM,palestra
-40.702230,17.346440,ov_sensual_dance_fit___grazia___martina_fra_40.7022_17.3464,Sensual Dance Fit - Grazia - Martina Franca,GYM,palestra
-40.702280,17.346418,ov_salsipop_school_40.7023_17.3464,Salsipop School,GYM,palestra
-40.695993,17.344680,ov_scuola_di_danza_rossella_brescia_40.6960_17.3447,Scuola di Danza Rossella Brescia,GYM,palestra
-40.695520,17.344873,ov_la_mezcla_perfecta_40.6955_17.3449,La Mezcla Perfecta,GYM,palestra
-40.697012,17.342883,ov_foxtail_arrampicata_indoor_40.6970_17.3429,Foxtail Arrampicata Indoor,GYM,palestra
-40.697069,17.342869,ov_timefit_40.6971_17.3429,Timefit,GYM,palestra
-40.695311,17.339563,ov_shanti_sadhana_40.6953_17.3396,Shanti Sadhana,GYM,palestra
-40.695835,17.339001,ov_zerolimits_40.6958_17.3390,ZeroLimits,GYM,palestra
-40.733190,17.289378,ov_equus_club_40.7332_17.2894,Equus club,GYM,palestra
-40.739162,17.285579,ov_team_p_grassi___vaccari_equestrian_40.7392_17.2856,Team P Grassi - Vaccari Equestrian,GYM,palestra
+40.666530,17.366427,ov_asd_circolo_ippico_la_pineta_40.6665_17.3664,ASD Circolo Ippico La Pineta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/asd_circolo_ippico_la_pineta_40.6665_17.3664.json,custom
+40.691727,17.295390,ov_a_s_d__innovations_dance_40.6917_17.2954,A.S.D. Innovations Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/asd_innovations_dance_40.6917_17.2954.json,custom
+40.702928,17.325831,ov_fitness_center_ssd_arl_40.7029_17.3258,Fitness Center SSD ARL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/fitness_center_ssd_arl_40.7029_17.3258.json,custom
+40.714350,17.337960,ov_beachvolley_martina_franca_bvf_40.7144_17.3380,Beachvolley Martina Franca BvF,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/beachvolley_martina_franca_bvf_40.7144_17.3380.json,custom
+40.703312,17.347289,ov_butterfly_dance_academy_40.7033_17.3473,Butterfly Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/butterfly_dance_academy_40.7033_17.3473.json,custom
+40.703310,17.346584,ov_spacefit_academy_40.7033_17.3466,SpaceFit Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/spacefit_academy_40.7033_17.3466.json,custom
+40.704429,17.344577,ov_wellness_project_40.7044_17.3446,Wellness Project,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/wellness_project_40.7044_17.3446.json,custom
+40.706320,17.336560,ov_centro_equestre_i_trulli_maneggio_e_alle_40.7063_17.3366,Centro Equestre I Trulli Maneggio e Allevamento cavalli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/centro_equestre_i_trulli_maneggio_e_alle_40.7063_17.3366.json,custom
+40.702790,17.329440,ov_pickleball_master_40.7028_17.3294,Pickleball Master,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/pickleball_master_40.7028_17.3294.json,custom
+40.703210,17.332110,ov_claudio_pt_05_40.7032_17.3321,claudio_pt_05,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/claudiopt05_40.7032_17.3321.json,custom
+40.703247,17.331792,ov_gianfranco_ponte_trainer_40.7032_17.3318,Gianfranco Ponte Trainer,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/gianfranco_ponte_trainer_40.7032_17.3318.json,custom
+40.703279,17.331444,ov_la_palestra_40.7033_17.3314,La Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/la_palestra_40.7033_17.3314.json,custom
+40.705169,17.341100,ov_spazio_integro_40.7052_17.3411,Spazio Integro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/spazio_integro_40.7052_17.3411.json,custom
+40.700379,17.340239,ov_eliana_minardi_counselor_40.7004_17.3402,Eliana Minardi Counselor,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/eliana_minardi_counselor_40.7004_17.3402.json,custom
+40.701980,17.336741,ov_accademia_della_formazione_40.7020_17.3367,Accademia Della Formazione,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/accademia_della_formazione_40.7020_17.3367.json,custom
+40.700781,17.330462,ov_el_sol_natural_40.7008_17.3305,El Sol Natural,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/el_sol_natural_40.7008_17.3305.json,custom
+40.701037,17.332288,ov_uniko_ems___pilates_reformer___martina_f_40.7010_17.3323,Uniko EMS & Pilates Reformer - Martina Franca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/uniko_ems_pilates_reformer_-_martina_fra_40.7010_17.3323.json,custom
+40.701183,17.332410,ov_unika_fitness_club_40.7012_17.3324,Unika Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/unika_fitness_club_40.7012_17.3324.json,custom
+40.699035,17.334170,ov_pole_room_martina_franca_40.6990_17.3342,POLE Room Martina Franca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/pole_room_martina_franca_40.6990_17.3342.json,custom
+40.697790,17.347161,ov_polisportiva_arci_martina_40.6978_17.3472,Polisportiva Arci Martina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/polisportiva_arci_martina_40.6978_17.3472.json,custom
+40.697710,17.347200,ov_scuola_di_danza_chor_graphie_di_antonell_40.6977_17.3472,Scuola di danza Chorégraphie di Antonella Chirulli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/scuola_di_danza_chorgraphie_di_antonella_40.6977_17.3472.json,custom
+40.702165,17.346226,ov_moving_club_40.7022_17.3462,Moving Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/moving_club_40.7022_17.3462.json,custom
+40.702230,17.346440,ov_sensual_dance_fit___grazia___martina_fra_40.7022_17.3464,Sensual Dance Fit - Grazia - Martina Franca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/sensual_dance_fit_-_grazia_-_martina_fra_40.7022_17.3464.json,custom
+40.702280,17.346418,ov_salsipop_school_40.7023_17.3464,Salsipop School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/salsipop_school_40.7023_17.3464.json,custom
+40.695993,17.344680,ov_scuola_di_danza_rossella_brescia_40.6960_17.3447,Scuola di Danza Rossella Brescia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/scuola_di_danza_rossella_brescia_40.6960_17.3447.json,custom
+40.695520,17.344873,ov_la_mezcla_perfecta_40.6955_17.3449,La Mezcla Perfecta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/la_mezcla_perfecta_40.6955_17.3449.json,custom
+40.697012,17.342883,ov_foxtail_arrampicata_indoor_40.6970_17.3429,Foxtail Arrampicata Indoor,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/foxtail_arrampicata_indoor_40.6970_17.3429.json,custom
+40.697069,17.342869,ov_timefit_40.6971_17.3429,Timefit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/timefit_40.6971_17.3429.json,custom
+40.695311,17.339563,ov_shanti_sadhana_40.6953_17.3396,Shanti Sadhana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/shanti_sadhana_40.6953_17.3396.json,custom
+40.695835,17.339001,ov_zerolimits_40.6958_17.3390,ZeroLimits,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/zerolimits_40.6958_17.3390.json,custom
+40.733190,17.289378,ov_equus_club_40.7332_17.2894,Equus club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/equus_club_40.7332_17.2894.json,custom
+40.739162,17.285579,ov_team_p_grassi___vaccari_equestrian_40.7392_17.2856,Team P Grassi - Vaccari Equestrian,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/team_p_grassi_-_vaccari_equestrian_40.7392_17.2856.json,custom

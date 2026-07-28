@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # gagliano_del_capo -- restaurants
-39.805733,18.375133,ov_la_passeggiata___litoranea_novaglie_leuc_39.8057_18.3751,La Passeggiata - Litoranea Novaglie-Leuca,RESTAURANT,ristorante
-39.821891,18.370372,ov_ristorante_re_sole_39.8219_18.3704,Ristorante Re Sole,RESTAURANT,ristorante
-39.826369,18.381296,ov_masseria_alcorico_39.8264_18.3813,Masseria Alcorico,RESTAURANT,ristorante
-39.843462,18.369814,ov_latte_e_pane_39.8435_18.3698,Latte e Pane,RESTAURANT,ristorante
-39.843251,18.372597,ov_trattoria_da_giuseppina_39.8433_18.3726,Trattoria Da Giuseppina,RESTAURANT,ristorante
-39.843210,18.371980,ov_lumiere_39.8432_18.3720,Lumiere,RESTAURANT,ristorante
-39.844638,18.386289,ov_l_incanto_39.8446_18.3863,L'Incanto,RESTAURANT,ristorante
-39.844852,18.373185,ov_macelleria___braceria_savarelli_39.8449_18.3732,Macelleria & Braceria Savarelli,RESTAURANT,ristorante
-39.845174,18.369681,ov_pizzeria_core_a_core_39.8452_18.3697,Pizzeria Core a Core,RESTAURANT,ristorante
-39.844048,18.371574,ov_osteria_sud_est_39.8440_18.3716,Osteria Sud Est,RESTAURANT,ristorante
-39.844040,18.371580,ov_passatempo_39.8440_18.3716,Passatempo,RESTAURANT,ristorante
-39.845364,18.370258,ov_moi_moi_39.8454_18.3703,Moi Moi,RESTAURANT,ristorante
-39.846167,18.375448,ov_lo_scalo_204_39.8462_18.3754,Lo Scalo 204,RESTAURANT,ristorante
-39.846283,18.353904,ov_agriturismo_baccole_39.8463_18.3539,Agriturismo Baccole,RESTAURANT,ristorante
+39.805733,18.375133,ov_la_passeggiata___litoranea_novaglie_leuc_39.8057_18.3751,La Passeggiata - Litoranea Novaglie-Leuca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/la_passeggiata_-_litoranea_novaglie-leuc_39.8057_18.3751.json,custom
+39.821891,18.370372,ov_ristorante_re_sole_39.8219_18.3704,Ristorante Re Sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/ristorante_re_sole_39.8219_18.3704.json,custom
+39.826369,18.381296,ov_masseria_alcorico_39.8264_18.3813,Masseria Alcorico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/masseria_alcorico_39.8264_18.3813.json,custom
+39.843462,18.369814,ov_latte_e_pane_39.8435_18.3698,Latte e Pane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/latte_e_pane_39.8435_18.3698.json,custom
+39.843251,18.372597,ov_trattoria_da_giuseppina_39.8433_18.3726,Trattoria Da Giuseppina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/trattoria_da_giuseppina_39.8433_18.3726.json,custom
+39.843210,18.371980,ov_lumiere_39.8432_18.3720,Lumiere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/lumiere_39.8432_18.3720.json,custom
+39.844638,18.386289,ov_l_incanto_39.8446_18.3863,L'Incanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/lincanto_39.8446_18.3863.json,custom
+39.844852,18.373185,ov_macelleria___braceria_savarelli_39.8449_18.3732,Macelleria & Braceria Savarelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/macelleria_braceria_savarelli_39.8449_18.3732.json,custom
+39.845174,18.369681,ov_pizzeria_core_a_core_39.8452_18.3697,Pizzeria Core a Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/pizzeria_core_a_core_39.8452_18.3697.json,custom
+39.844048,18.371574,ov_osteria_sud_est_39.8440_18.3716,Osteria Sud Est,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/osteria_sud_est_39.8440_18.3716.json,custom
+39.844040,18.371580,ov_passatempo_39.8440_18.3716,Passatempo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/passatempo_39.8440_18.3716.json,custom
+39.845364,18.370258,ov_moi_moi_39.8454_18.3703,Moi Moi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/moi_moi_39.8454_18.3703.json,custom
+39.846167,18.375448,ov_lo_scalo_204_39.8462_18.3754,Lo Scalo 204,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/lo_scalo_204_39.8462_18.3754.json,custom
+39.846283,18.353904,ov_agriturismo_baccole_39.8463_18.3539,Agriturismo Baccole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gagliano_del_capo/pages/agriturismo_baccole_39.8463_18.3539.json,custom

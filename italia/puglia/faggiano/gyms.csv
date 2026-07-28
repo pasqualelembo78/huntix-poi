@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # faggiano -- gyms
-40.426609,17.383183,ov_centro_sportivo_hellas_taranto_40.4266_17.3832,Centro sportivo Hellas Taranto,GYM,palestra
-40.416725,17.387559,ov_fascination_dance_40.4167_17.3876,Fascination dance,GYM,palestra
-40.455910,17.257740,ov_el_sol_natural___taranto_40.4559_17.2577,El Sol Natural - Taranto,GYM,palestra
+40.426609,17.383183,ov_centro_sportivo_hellas_taranto_40.4266_17.3832,Centro sportivo Hellas Taranto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/centro_sportivo_hellas_taranto_40.4266_17.3832.json,custom
+40.416725,17.387559,ov_fascination_dance_40.4167_17.3876,Fascination dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/fascination_dance_40.4167_17.3876.json,custom
+40.455910,17.257740,ov_el_sol_natural___taranto_40.4559_17.2577,El Sol Natural - Taranto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/el_sol_natural_-_taranto_40.4559_17.2577.json,custom

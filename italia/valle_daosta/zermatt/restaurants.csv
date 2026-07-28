@@ -1,42 +1,41 @@
-# lat,lng,id,name,building_type,type
-# Zermatt — restaurants
-46.022906,7.747540,osm_mcdonald_s_46.0229_7.7475,McDonald's,ristorante,ristorante
-46.015928,7.743374,osm_la_taverne_46.0159_7.7434,la Taverne,ristorante,ristorante
-46.018895,7.748343,osm_old_zermatt_46.0189_7.7483,Old Zermatt,ristorante,ristorante
-46.020528,7.746551,osm_stadel_46.0205_7.7466,Stadel,ristorante,ristorante
-46.020696,7.746491,osm_p_stli_st_bli_46.0207_7.7465,Pöstli Stübli,ristorante,ristorante
-46.018183,7.749532,osm_stockhorn_by_the_rex_46.0182_7.7495,Stockhorn by the rex,ristorante,ristorante
-46.020330,7.746234,osm_whymper_stube_46.0203_7.7462,Whymper-Stube,ristorante,ristorante
-46.020899,7.749008,osm_la_ferme_46.0209_7.7490,La Ferme,ristorante,ristorante
-46.019199,7.747489,osm_brasserie_uno_46.0192_7.7475,Brasserie Uno,ristorante,ristorante
-46.020931,7.746470,osm_le_gitan_46.0209_7.7465,Le Gitan,ristorante,ristorante
-46.018111,7.749339,osm_roma_46.0181_7.7493,Roma,ristorante,ristorante
-46.021812,7.754304,osm_ferdinand_46.0218_7.7543,Ferdinand,ristorante,ristorante
-46.018125,7.747561,osm_fuji_46.0181_7.7476,Fuji,ristorante,ristorante
-46.018085,7.747635,osm_rua_thai_46.0181_7.7476,Rua Thai,ristorante,ristorante
-46.013067,7.744954,osm_sonnmatten_46.0131_7.7450,Sonnmatten,ristorante,ristorante
-46.012493,7.745269,osm_waldhaus_46.0125_7.7453,Waldhaus,ristorante,ristorante
-46.013036,7.742220,osm_bergstube_46.0130_7.7422,Bergstube,ristorante,ristorante
-46.024309,7.749034,osm_rosstall_46.0243_7.7490,Rosstall,ristorante,ristorante
-46.024277,7.748794,osm_casamia_46.0243_7.7488,CasaMia,ristorante,ristorante
-46.023761,7.748533,osm_golden_india_zermatt_46.0238_7.7485,Golden India Zermatt,ristorante,ristorante
-46.022790,7.749990,osm_pavillon_46.0228_7.7500,Pavillon,ristorante,ristorante
-46.020813,7.749138,osm_le_mazot_46.0208_7.7491,Le Mazot,ristorante,ristorante
-46.020766,7.746512,osm_vivanda_46.0208_7.7465,Vivanda,ristorante,ristorante
-46.019945,7.746640,osm_prato_borni_46.0199_7.7466,Prato Borni,ristorante,ristorante
-46.019156,7.745419,osm_take_it_d_ner_46.0192_7.7454,Take it Döner,ristorante,ristorante
-46.019138,7.747008,osm_chez_gaby_46.0191_7.7470,Chez Gaby,ristorante,ristorante
-46.024195,7.748260,osm_pizza_delivery_zermatt_46.0242_7.7483,Pizza Delivery Zermatt,ristorante,ristorante
-46.023650,7.746991,osm_alex_grill_46.0237_7.7470,Alex Grill,ristorante,ristorante
-46.022649,7.746956,osm_china_garden_46.0226_7.7470,China Garden,ristorante,ristorante
-46.021844,7.747026,osm_walliserkanne_46.0218_7.7470,Walliserkanne,ristorante,ristorante
-46.021488,7.746648,osm_molino_pizzeria_ristorante_46.0215_7.7466,Molino Pizzeria Ristorante,ristorante,ristorante
-46.020174,7.745837,osm_1818_46.0202_7.7458,1818,ristorante,ristorante
-46.022532,7.750774,osm_l_atelier_grandsire_46.0225_7.7508,L'Atelier Grandsire,ristorante,ristorante
-46.020520,7.749410,osm_zermatt_kitchen_46.0205_7.7494,Zermatt Kitchen,ristorante,ristorante
-46.022360,7.746933,osm_shogun_sushi_restaurant_46.0224_7.7469,Shogun Sushi Restaurant,ristorante,ristorante
-46.021735,7.748195,osm_capri_46.0217_7.7482,Capri,ristorante,ristorante
-46.023101,7.747550,osm_potato_fine_food_restaurant_46.0231_7.7475,Potato-FINE FOOD RESTAURANT,ristorante,ristorante
-46.021810,7.754243,osm_madre_nostra_46.0218_7.7542,Madre Nostra,ristorante,ristorante
-46.023011,7.747869,osm_la_mu_a_46.0230_7.7479,La Muña,ristorante,ristorante
-46.012803,7.762994,osm_adler_hitta_46.0128_7.7630,Adler Hitta,ristorante,ristorante
+# lat,lng,id,name,building_type,type,url,page_type
+46.022906,7.747540,osm_mcdonald_s_46.0229_7.7475,McDonald's,ristorante,ristorante,
+46.015928,7.743374,osm_la_taverne_46.0159_7.7434,la Taverne,ristorante,ristorante,
+46.018895,7.748343,osm_old_zermatt_46.0189_7.7483,Old Zermatt,ristorante,ristorante,
+46.020528,7.746551,osm_stadel_46.0205_7.7466,Stadel,ristorante,ristorante,
+46.020696,7.746491,osm_p_stli_st_bli_46.0207_7.7465,Pöstli Stübli,ristorante,ristorante,
+46.018183,7.749532,osm_stockhorn_by_the_rex_46.0182_7.7495,Stockhorn by the rex,ristorante,ristorante,
+46.020330,7.746234,osm_whymper_stube_46.0203_7.7462,Whymper-Stube,ristorante,ristorante,
+46.020899,7.749008,osm_la_ferme_46.0209_7.7490,La Ferme,ristorante,ristorante,
+46.019199,7.747489,osm_brasserie_uno_46.0192_7.7475,Brasserie Uno,ristorante,ristorante,
+46.020931,7.746470,osm_le_gitan_46.0209_7.7465,Le Gitan,ristorante,ristorante,
+46.018111,7.749339,osm_roma_46.0181_7.7493,Roma,ristorante,ristorante,
+46.021812,7.754304,osm_ferdinand_46.0218_7.7543,Ferdinand,ristorante,ristorante,
+46.018125,7.747561,osm_fuji_46.0181_7.7476,Fuji,ristorante,ristorante,
+46.018085,7.747635,osm_rua_thai_46.0181_7.7476,Rua Thai,ristorante,ristorante,
+46.013067,7.744954,osm_sonnmatten_46.0131_7.7450,Sonnmatten,ristorante,ristorante,
+46.012493,7.745269,osm_waldhaus_46.0125_7.7453,Waldhaus,ristorante,ristorante,
+46.013036,7.742220,osm_bergstube_46.0130_7.7422,Bergstube,ristorante,ristorante,
+46.024309,7.749034,osm_rosstall_46.0243_7.7490,Rosstall,ristorante,ristorante,
+46.024277,7.748794,osm_casamia_46.0243_7.7488,CasaMia,ristorante,ristorante,
+46.023761,7.748533,osm_golden_india_zermatt_46.0238_7.7485,Golden India Zermatt,ristorante,ristorante,
+46.022790,7.749990,osm_pavillon_46.0228_7.7500,Pavillon,ristorante,ristorante,
+46.020813,7.749138,osm_le_mazot_46.0208_7.7491,Le Mazot,ristorante,ristorante,
+46.020766,7.746512,osm_vivanda_46.0208_7.7465,Vivanda,ristorante,ristorante,
+46.019945,7.746640,osm_prato_borni_46.0199_7.7466,Prato Borni,ristorante,ristorante,
+46.019156,7.745419,osm_take_it_d_ner_46.0192_7.7454,Take it Döner,ristorante,ristorante,
+46.019138,7.747008,osm_chez_gaby_46.0191_7.7470,Chez Gaby,ristorante,ristorante,
+46.024195,7.748260,osm_pizza_delivery_zermatt_46.0242_7.7483,Pizza Delivery Zermatt,ristorante,ristorante,
+46.023650,7.746991,osm_alex_grill_46.0237_7.7470,Alex Grill,ristorante,ristorante,
+46.022649,7.746956,osm_china_garden_46.0226_7.7470,China Garden,ristorante,ristorante,
+46.021844,7.747026,osm_walliserkanne_46.0218_7.7470,Walliserkanne,ristorante,ristorante,
+46.021488,7.746648,osm_molino_pizzeria_ristorante_46.0215_7.7466,Molino Pizzeria Ristorante,ristorante,ristorante,
+46.020174,7.745837,osm_1818_46.0202_7.7458,1818,ristorante,ristorante,
+46.022532,7.750774,osm_l_atelier_grandsire_46.0225_7.7508,L'Atelier Grandsire,ristorante,ristorante,
+46.020520,7.749410,osm_zermatt_kitchen_46.0205_7.7494,Zermatt Kitchen,ristorante,ristorante,
+46.022360,7.746933,osm_shogun_sushi_restaurant_46.0224_7.7469,Shogun Sushi Restaurant,ristorante,ristorante,
+46.021735,7.748195,osm_capri_46.0217_7.7482,Capri,ristorante,ristorante,
+46.023101,7.747550,osm_potato_fine_food_restaurant_46.0231_7.7475,Potato-FINE FOOD RESTAURANT,ristorante,ristorante,
+46.021810,7.754243,osm_madre_nostra_46.0218_7.7542,Madre Nostra,ristorante,ristorante,
+46.023011,7.747869,osm_la_mu_a_46.0230_7.7479,La Muña,ristorante,ristorante,
+46.012803,7.762994,osm_adler_hitta_46.0128_7.7630,Adler Hitta,ristorante,ristorante,

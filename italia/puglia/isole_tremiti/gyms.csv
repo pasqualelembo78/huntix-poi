@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # isole_tremiti -- gyms
-42.115853,15.491469,ov_marlintremiti_42.1159_15.4915,Marlintremiti,GYM,palestra
-42.120155,15.495973,ov_tremiti_diving_center_di_cappelletti_ant_42.1202_15.4960,Tremiti Diving Center di Cappelletti Antonio,GYM,palestra
-42.119869,15.503310,ov_noleggio_gommoni_i_pirati_delle_tremiti_42.1199_15.5033,Noleggio Gommoni i Pirati delle Tremiti,GYM,palestra
+42.115853,15.491469,ov_marlintremiti_42.1159_15.4915,Marlintremiti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/marlintremiti_42.1159_15.4915.json,custom
+42.120155,15.495973,ov_tremiti_diving_center_di_cappelletti_ant_42.1202_15.4960,Tremiti Diving Center di Cappelletti Antonio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/tremiti_diving_center_di_cappelletti_ant_42.1202_15.4960.json,custom
+42.119869,15.503310,ov_noleggio_gommoni_i_pirati_delle_tremiti_42.1199_15.5033,Noleggio Gommoni i Pirati delle Tremiti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/noleggio_gommoni_i_pirati_delle_tremiti_42.1199_15.5033.json,custom

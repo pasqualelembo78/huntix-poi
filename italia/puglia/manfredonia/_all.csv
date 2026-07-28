@@ -1,284 +1,284 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Manfredonia -- Tutti
-41.632185,15.917550,osm_calafuria_41.6322_15.9176,Calafuria,ristorante,ristorante
-41.634666,15.917373,ov_ospedale_riuniti_foggia_41.6347_15.9174,Ospedale Riuniti Foggia,HOSPITAL,hospital
-41.632672,15.923461,ov_ospedale_casa_sollievo_della_sofferenza_41.6327_15.9235,Ospedale Casa Sollievo della Sofferenza,HOSPITAL,hospital
-41.632951,15.919189,ov_ospedale_san_camillo_de_lellis_41.6330_15.9192,Ospedale San Camillo de Lellis,HOSPITAL,hospital
-41.630226,15.917423,ov_studio_medico_dottoressa_squillante_41.6302_15.9174,Studio Medico Dottoressa Squillante,HOSPITAL,hospital
-41.627500,15.916830,ov_medicina_estetica_e_nutrizione_umana_dr__41.6275_15.9168,Medicina Estetica E Nutrizione Umana Dr. Michele Renzullo,HOSPITAL,hospital
-41.622668,15.906444,ov_studio_medico_associato_galeno_manfredon_41.6227_15.9064,Studio Medico Associato Galeno Manfredonia,HOSPITAL,hospital
-41.681486,15.866772,ov_mare_monti_41.6815_15.8668,Mare Monti,RESTAURANT,ristorante
-41.679564,15.864369,ov_villa_artemide_41.6796_15.8644,Villa Artemide,RESTAURANT,ristorante
-41.679721,15.862730,ov_locanda_nonna_rosa_41.6797_15.8627,Locanda Nonna Rosa,RESTAURANT,ristorante
-41.653074,15.873139,ov_masseria_monticelli_41.6531_15.8731,Masseria Monticelli,RESTAURANT,ristorante
-41.597849,15.835831,ov_tenuta_donna_isabella_41.5978_15.8358,Tenuta Donna Isabella,RESTAURANT,ristorante
-41.540984,15.668576,ov_masseria_greco_41.5410_15.6686,Masseria Greco,RESTAURANT,ristorante
-41.408240,15.740985,ov_la_perla_del_golfo_41.4082_15.7410,La Perla Del Golfo,RESTAURANT,ristorante
-41.407530,15.735590,ov_masseria_monticelli_41.4075_15.7356,Masseria Monticelli,RESTAURANT,ristorante
-41.509910,15.912537,ov_bar_ristorante_pizzeria__la_masseria_ipp_41.5099_15.9125,Bar-Ristorante-Pizzeria  La Masseria Ippocampo,RESTAURANT,ristorante
-41.511797,15.911213,ov_pizzeria_marachero_41.5118_15.9112,Pizzeria Marachero,RESTAURANT,ristorante
-41.529270,15.897270,ov_reginella_41.5293_15.8973,Reginella,RESTAURANT,ristorante
-41.532295,15.899078,ov_marachero_41.5323_15.8991,Marachero,RESTAURANT,ristorante
-41.561389,15.890122,ov_al_casone_41.5614_15.8901,Al Casone,RESTAURANT,ristorante
-41.635828,15.933464,ov_cala_delle_sirene_centro_nautica_srl_41.6358_15.9335,Cala delle Sirene Centro Nautica SRL,RESTAURANT,ristorante
-41.635846,15.933580,ov_arnold_s_manfredonia_41.6358_15.9336,Arnold's Manfredonia,RESTAURANT,ristorante
-41.636130,15.933877,ov_darsena_food_and_drink_41.6361_15.9339,Darsena Food and Drink,RESTAURANT,ristorante
-41.640329,15.929243,ov_la_locanda_degli_svevi_41.6403_15.9292,La Locanda degli Svevi,RESTAURANT,ristorante
-41.635169,15.930700,ov_la_perla_del_golfo_41.6352_15.9307,La Perla del Golfo,RESTAURANT,ristorante
-41.634847,15.929839,ov_paninoteca_miramare_41.6348_15.9298,Paninoteca Miramare,RESTAURANT,ristorante
-41.635200,15.927870,ov_tentazoni_culinarie_41.6352_15.9279,Tentazoni culinarie,RESTAURANT,ristorante
-41.633906,15.927308,ov_ristorante_il_cappero_41.6339_15.9273,Ristorante Il Cappero,RESTAURANT,ristorante
-41.635224,15.924565,ov_euro_pizza_41.6352_15.9246,Euro Pizza,RESTAURANT,ristorante
-41.635900,15.925640,ov_profumo_di_pane_manfred_41.6359_15.9256,Profumo Di Pane Manfred,RESTAURANT,ristorante
-41.636970,15.925960,ov_atena_41.6370_15.9260,Atena,RESTAURANT,ristorante
-41.638040,15.924740,ov_oasi_lago_salso_41.6380_15.9247,Oasi lago salso,RESTAURANT,ristorante
-41.638609,15.926300,ov_big_paninomania_nunzio_41.6386_15.9263,Big paninomania Nunzio,RESTAURANT,ristorante
-41.637270,15.921149,ov_levante_41.6373_15.9211,Levante,RESTAURANT,ristorante
-41.636141,15.922900,ov_gustati_la_vita_41.6361_15.9229,Gustati la Vita,RESTAURANT,ristorante
-41.634330,15.924173,ov_antico_forno_zapptell_41.6343_15.9242,Antico forno zapptell,RESTAURANT,ristorante
-41.633056,15.922267,ov_pizzeria_malecon_41.6331_15.9223,Pizzeria Malecon,RESTAURANT,ristorante
-41.632004,15.922466,ov_misspok__41.6320_15.9225,MissPoké,RESTAURANT,ristorante
-41.630290,15.923290,ov_ristorante_pizzeria__l_approdo__manfredo_41.6303_15.9233,Ristorante Pizzeria “L’Approdo” Manfredonia,RESTAURANT,ristorante
-41.630290,15.923290,ov_ristorante_riviera_di_luigi_totaro_41.6303_15.9233,Ristorante Riviera di Luigi Totaro,RESTAURANT,ristorante
-41.630290,15.923290,ov_kebab_casablanca_manfredonia_41.6303_15.9233,Kebab Casablanca Manfredonia,RESTAURANT,ristorante
-41.630290,15.923290,ov_officina_del_pesce_41.6303_15.9233,Officina del Pesce,RESTAURANT,ristorante
-41.629922,15.922794,ov_alba_del_re_41.6299_15.9228,Alba del Re,RESTAURANT,ristorante
-41.631050,15.923060,ov_pizzeria_il_galletto_41.6311_15.9231,Pizzeria il galletto,RESTAURANT,ristorante
-41.631452,15.922669,ov_coppola_rossa_41.6315_15.9227,Coppola Rossa,RESTAURANT,ristorante
-41.631385,15.921736,ov_pizza_in_villa_nuova_gestione_41.6314_15.9217,Pizza in villa nuova gestione,RESTAURANT,ristorante
-41.629800,15.921290,ov_re_manfredi___birreria_pizzeria_41.6298_15.9213,Re Manfredi - Birreria Pizzeria,RESTAURANT,ristorante
-41.629952,15.921097,ov_ristorante_il_porto_manfredonia_41.6300_15.9211,Ristorante Il Porto Manfredonia,RESTAURANT,ristorante
-41.629918,15.920767,ov_calafuria_41.6299_15.9208,Calafuria,RESTAURANT,ristorante
-41.630455,15.920550,ov_mangiamoci_41.6305_15.9206,Mangiamoci,RESTAURANT,ristorante
-41.630769,15.920490,ov_la_maison_della_farrata_41.6308_15.9205,La Maison della Farrata,RESTAURANT,ristorante
-41.630730,15.920940,ov_gaudium_ristorante_41.6307_15.9209,Gaudium Ristorante,RESTAURANT,ristorante
-41.631196,15.920608,ov_ristorante_fuoco_lento_41.6312_15.9206,Ristorante fuoco lento,RESTAURANT,ristorante
-41.631700,15.922080,ov_pizzeria_al_castello_manfredonia_41.6317_15.9221,Pizzeria Al Castello Manfredonia,RESTAURANT,ristorante
-41.632817,15.921878,ov_braceria_trattoria_al_dottore_41.6328_15.9219,Braceria Trattoria Al Dottore,RESTAURANT,ristorante
-41.631820,15.918887,ov_lievito_madre___manfredonia_41.6318_15.9189,Lievito Madre - Manfredonia,RESTAURANT,ristorante
-41.631698,15.918427,ov_regina_41.6317_15.9184,Regina,RESTAURANT,ristorante
-41.633300,15.916700,ov_villa_manfredi___manfredonia_41.6333_15.9167,Villa Manfredi - Manfredonia,RESTAURANT,ristorante
-41.631035,15.917348,ov_sweet_life_41.6310_15.9173,Sweet Life,RESTAURANT,ristorante
-41.631033,15.917301,ov_al_molo_20_lounge_bar_41.6310_15.9173,Al Molo 20 Lounge Bar,RESTAURANT,ristorante
-41.631099,15.917284,ov_pizzeria_il_ghiottone_41.6311_15.9173,Pizzeria Il Ghiottone,RESTAURANT,ristorante
-41.631122,15.917311,ov_casa_28___brasserie_41.6311_15.9173,Casa 28 - Brasserie,RESTAURANT,ristorante
-41.631185,15.917561,ov_la_locanda_del_torrione_41.6312_15.9176,La Locanda del Torrione,RESTAURANT,ristorante
-41.630735,15.916510,ov_borrelli_41.6307_15.9165,Borrelli,RESTAURANT,ristorante
-41.631553,15.919783,ov_pizzeria_alfo__41.6316_15.9198,Pizzeria Alfo',RESTAURANT,ristorante
-41.630536,15.919767,ov_via_tre_grazie___cibo_felicit__41.6305_15.9198,Via Tre Grazie - Cibo&felicità,RESTAURANT,ristorante
-41.630010,15.919429,ov_ja__j____la_baguette_del_buon_umore_41.6300_15.9194,Ja' Jò . La baguette del buon umore,RESTAURANT,ristorante
-41.628952,15.919435,ov_its_turismo_sede_manfredonia_41.6290_15.9194,ITS turismo sede Manfredonia,RESTAURANT,ristorante
-41.628405,15.919748,ov_cala_diomede_41.6284_15.9197,Cala Diomede,RESTAURANT,ristorante
-41.628855,15.919135,ov_pizza_in_piazza_41.6289_15.9191,Pizza in Piazza,RESTAURANT,ristorante
-41.629426,15.917892,ov_il_duomo_spizzicherie_41.6294_15.9179,Il Duomo Spizzicherie,RESTAURANT,ristorante
-41.628852,15.917135,ov_calice_rosa_41.6289_15.9171,Calice rosa,RESTAURANT,ristorante
-41.629173,15.916808,ov_moody_al_campanile_41.6292_15.9168,Moody Al Campanile,RESTAURANT,ristorante
-41.629435,15.916746,ov_bottega_signorini_41.6294_15.9167,Bottega Signorini,RESTAURANT,ristorante
-41.628749,15.916846,ov_fermento_41.6287_15.9168,Fermento,RESTAURANT,ristorante
-41.628466,15.916568,ov_pizzeria_grasso_41.6285_15.9166,Pizzeria Grasso,RESTAURANT,ristorante
-41.627811,15.917002,ov_tucson_41.6278_15.9170,Tucson,RESTAURANT,ristorante
-41.627860,15.917316,ov_ginger_food___drink_41.6279_15.9173,Ginger Food & Drink,RESTAURANT,ristorante
-41.628484,15.918123,ov_piazza_buonagustai_41.6285_15.9181,Piazza Buonagustai,RESTAURANT,ristorante
-41.627885,15.917905,ov_osteria_boccolicchio_41.6279_15.9179,Osteria Boccolicchio,RESTAURANT,ristorante
-41.627352,15.917734,ov_calamarando_41.6274_15.9177,Calamarando,RESTAURANT,ristorante
-41.627586,15.916846,ov_baciati_dal_mare_41.6276_15.9168,Baciati dal Mare,RESTAURANT,ristorante
-41.629412,15.920962,ov_pizzeria_vista_mare_41.6294_15.9210,Pizzeria Vista Mare,RESTAURANT,ristorante
-41.629324,15.923344,ov_un_posto_al_faro_41.6293_15.9233,Un Posto al Faro,RESTAURANT,ristorante
-41.632716,15.925522,ov_miramare_41.6327_15.9255,Miramare,RESTAURANT,ristorante
-41.632910,15.925910,ov_la_terrazza_sul_mare_41.6329_15.9259,La Terrazza Sul Mare,RESTAURANT,ristorante
-41.633310,15.926610,ov_alberghiero_manfredonia_bm_41.6333_15.9266,Alberghiero Manfredonia-BM,RESTAURANT,ristorante
-41.603711,15.896359,ov_capolinea_beach_41.6037_15.8964,Capolinea Beach,RESTAURANT,ristorante
-41.608080,15.897230,ov_oasi_del_mare_41.6081_15.8972,Oasi del Mare,RESTAURANT,ristorante
-41.608843,15.897917,ov_ristorante_marincanto_41.6088_15.8979,Ristorante Marincanto,RESTAURANT,ristorante
-41.608693,15.897431,ov_kursaal_wellness_beach_41.6087_15.8974,Kursaal Wellness Beach,RESTAURANT,ristorante
-41.608363,15.897151,ov_happiness_in_the_sea_41.6084_15.8972,Happiness in the Sea,RESTAURANT,ristorante
-41.614684,15.895263,ov_pizzeria_antipasteria_la_veranda_41.6147_15.8953,Pizzeria Antipasteria La Veranda,RESTAURANT,ristorante
-41.613200,15.892002,ov_tenuta_rinaldi_41.6132_15.8920,Tenuta Rinaldi,RESTAURANT,ristorante
-41.611321,15.894959,ov_trattoria_pizzeria_regina_41.6113_15.8950,Trattoria Pizzeria Regina,RESTAURANT,ristorante
-41.611129,15.894981,ov_rewind_41.6111_15.8950,Rewind,RESTAURANT,ristorante
-41.610931,15.897323,ov_qbar_41.6109_15.8973,QBar,RESTAURANT,ristorante
-41.611550,15.896399,ov_minami_restaurant___lounge_41.6116_15.8964,Minami Restaurant & Lounge,RESTAURANT,ristorante
-41.610643,15.897545,ov_panzerotto_d_oro_41.6106_15.8975,Panzerotto d'Oro,RESTAURANT,ristorante
-41.610228,15.897975,ov_ristorante_il_maestrale_41.6102_15.8980,Ristorante Il Maestrale,RESTAURANT,ristorante
-41.610173,15.898149,ov_brezza_marina_41.6102_15.8981,Brezza Marina,RESTAURANT,ristorante
-41.614064,15.899974,ov_la_conchiglia_41.6141_15.9000,La Conchiglia,RESTAURANT,ristorante
-41.617762,15.900478,ov_pizzeria_terra_mia_41.6178_15.9005,Pizzeria Terra Mia,RESTAURANT,ristorante
-41.621320,15.907830,ov_val_autuori_41.6213_15.9078,VAL_autuori,RESTAURANT,ristorante
-41.620829,15.909144,ov_marincanto_ristorante_41.6208_15.9091,Marincanto Ristorante,RESTAURANT,ristorante
-41.620270,15.909986,ov_panzaria_41.6203_15.9100,Panzaria,RESTAURANT,ristorante
-41.619347,15.911054,ov_ai_due_dottori_41.6193_15.9111,Ai Due Dottori,RESTAURANT,ristorante
-41.622634,15.913810,ov_bacalajo_41.6226_15.9138,Bacalajo,RESTAURANT,ristorante
-41.622176,15.914440,ov_seashell_restaurant_41.6222_15.9144,Seashell Restaurant,RESTAURANT,ristorante
-41.622518,15.914029,ov_flamingo_41.6225_15.9140,Flamingo,RESTAURANT,ristorante
-41.622253,15.915667,ov_al_molo_20_41.6223_15.9157,Al Molo 20,RESTAURANT,ristorante
-41.623408,15.914119,ov_l_approdo_restaurant___live_music_41.6234_15.9141,L'Approdo Restaurant & Live Music,RESTAURANT,ristorante
-41.625267,15.910443,ov_new_cotto_e_mangiato_41.6253_15.9104,New Cotto E Mangiato,RESTAURANT,ristorante
-41.622429,15.909319,ov_sushi_xian_2_41.6224_15.9093,Sushi Xian 2,RESTAURANT,ristorante
-41.624200,15.908570,ov_forno_rinaldi_pane_pizza___food_41.6242_15.9086,Forno Rinaldi Pane Pizza & Food,RESTAURANT,ristorante
-41.625509,15.909721,ov_nella_i_lievitati_41.6255_15.9097,Nella I Lievitati,RESTAURANT,ristorante
-41.625721,15.909818,ov_pasta_fresca_nella_41.6257_15.9098,Pasta Fresca Nella,RESTAURANT,ristorante
-41.623930,15.906180,ov_soul_kitchen_cibo_per_l_anima_41.6239_15.9062,Soul Kitchen Cibo per l'anima,RESTAURANT,ristorante
-41.622565,15.906644,ov_c_e_pizza_per_te_41.6226_15.9066,C'e pizza per te,RESTAURANT,ristorante
-41.622684,15.905771,ov_bringaloo_41.6227_15.9058,Bringaloo,RESTAURANT,ristorante
-41.622974,15.907428,ov_pizza_al_volo_41.6230_15.9074,Pizza al Volo,RESTAURANT,ristorante
-41.621161,15.904938,ov_pizzeria_tot__sapore_41.6212_15.9049,Pizzeria Totò Sapore,RESTAURANT,ristorante
-41.621472,15.904743,ov_ristorante_il_gallo_d_oro_41.6215_15.9047,Ristorante Il Gallo D'oro,RESTAURANT,ristorante
-41.624086,15.902524,ov_magna_magna_41.6241_15.9025,Magna Magna,RESTAURANT,ristorante
-41.626100,15.907577,ov_retro_gusto_41.6261_15.9076,Retro Gusto,RESTAURANT,ristorante
-41.627061,15.909543,ov_pesce_fresco_41.6271_15.9095,pesce fresco,RESTAURANT,ristorante
-41.626189,15.912064,ov_pummarella_41.6262_15.9121,Pummarella,RESTAURANT,ristorante
-41.627537,15.913191,ov_p_h_p__41.6275_15.9132,P.H.P.,RESTAURANT,ristorante
-41.627054,15.913677,ov_lo_scellerato_41.6271_15.9137,Lo Scellerato,RESTAURANT,ristorante
-41.626165,15.914523,ov_aki_sushi_41.6262_15.9145,Aki Sushi,RESTAURANT,ristorante
-41.626680,15.915357,ov_restaurant_coppola_rossa_41.6267_15.9154,Restaurant Coppola Rossa,RESTAURANT,ristorante
-41.626380,15.915140,ov_farmaenergy_point___manfredonia_41.6264_15.9151,Farmaenergy Point - Manfredonia,RESTAURANT,ristorante
-41.627208,15.915531,ov_la_locanda_del_centro_41.6272_15.9155,La Locanda Del Centro,RESTAURANT,ristorante
-41.627792,15.915982,ov_il_baracchio_41.6278_15.9160,Il Baracchio,RESTAURANT,ristorante
-41.628722,15.914812,ov_pizza_in_largo_41.6287_15.9148,Pizza in Largo,RESTAURANT,ristorante
-41.629389,15.914016,ov_antiche_mura_41.6294_15.9140,Antiche Mura,RESTAURANT,ristorante
-41.629142,15.913458,ov_grasso_antica_pizzeria_41.6291_15.9135,Grasso Antica Pizzeria,RESTAURANT,ristorante
-41.629668,15.915186,ov_vetus_vallum_pizzeria_41.6297_15.9152,Vetus Vallum Pizzeria,RESTAURANT,ristorante
-41.630597,15.915533,ov_pizza_41.6306_15.9155,Pizza,RESTAURANT,ristorante
-41.632381,15.914933,ov_panificio_pizzeria_mille_sapori_41.6324_15.9149,Panificio Pizzeria Mille Sapori,RESTAURANT,ristorante
-41.632880,15.914490,ov_pane_e_fantasia_41.6329_15.9145,Pane e Fantasia,RESTAURANT,ristorante
-41.636239,15.908310,ov_vela_d_oro_41.6362_15.9083,Vela D'oro,RESTAURANT,ristorante
-41.634494,15.913398,ov_leo_pizza_41.6345_15.9134,LEO PIZZA,RESTAURANT,ristorante
-41.635442,15.900650,ov_famila_bistro_41.6354_15.9006,Famila Bistro,RESTAURANT,ristorante
-41.642551,15.896307,ov_tarassaco_41.6426_15.8963,Tarassaco,RESTAURANT,ristorante
-41.569808,15.752826,ov_camer_caffe_41.5698_15.7528,Camer Caffe,RESTAURANT,bar_cafe
-41.445627,15.793911,ov_bar_spaccio_fonterosa_41.4456_15.7939,Bar Spaccio Fonterosa,RESTAURANT,bar_cafe
-41.511623,15.914642,ov_bar_lido_blue_marine_41.5116_15.9146,Bar Lido Blue Marine,RESTAURANT,bar_cafe
-41.635276,15.930764,ov_caffetteria_albatros_41.6353_15.9308,Caffetteria Albatros,RESTAURANT,bar_cafe
-41.635334,15.928835,ov_bar_tabacchi_autuori_gianluca_41.6353_15.9288,Bar Tabacchi Autuori Gianluca,RESTAURANT,bar_cafe
-41.637226,15.929122,ov_dolceamore_41.6372_15.9291,Dolceamore,RESTAURANT,bar_cafe
-41.635118,15.924502,ov_bar_olimpia_41.6351_15.9245,Bar Olimpia,RESTAURANT,bar_cafe
-41.635773,15.925864,ov_decanter_wine_bar_41.6358_15.9259,Decanter Wine Bar,RESTAURANT,bar_cafe
-41.636672,15.925824,ov_bar_pace_41.6367_15.9258,Bar Pace,RESTAURANT,bar_cafe
-41.639117,15.926321,ov_sweetmeet_cafe_41.6391_15.9263,SweetMeet Cafe,RESTAURANT,bar_cafe
-41.636471,15.918773,ov_baraccabar_41.6365_15.9188,Baraccabar,RESTAURANT,bar_cafe
-41.634011,15.917849,ov_new_bar_41.6340_15.9178,New Bar,RESTAURANT,bar_cafe
-41.635303,15.919489,ov_happy_days_cafe_41.6353_15.9195,Happy Days Cafe,RESTAURANT,bar_cafe
-41.633188,15.922695,ov_bar_haiti_41.6332_15.9227,Bar Haiti,RESTAURANT,bar_cafe
-41.632341,15.922908,ov_la_fenice_41.6323_15.9229,La Fenice,RESTAURANT,bar_cafe
-41.631160,15.923656,ov_sopramare_41.6312_15.9237,Sopramare,RESTAURANT,bar_cafe
-41.630290,15.923290,ov_bar_redmoon_41.6303_15.9233,BAR Redmoon,RESTAURANT,bar_cafe
-41.631072,15.921325,ov_frank_on_tap_41.6311_15.9213,Frank on Tap,RESTAURANT,bar_cafe
-41.629805,15.922224,ov_porto_vecchio_41.6298_15.9222,Porto Vecchio,RESTAURANT,bar_cafe
-41.630151,15.920337,ov_dubliners_pub_41.6302_15.9203,Dubliners Pub,RESTAURANT,bar_cafe
-41.630897,15.921037,ov_bar_delle_rose_41.6309_15.9210,Bar delle Rose,RESTAURANT,bar_cafe
-41.631032,15.920829,ov_john_bull_41.6310_15.9208,John Bull,RESTAURANT,bar_cafe
-41.631044,15.920746,ov_martyn_vinyl___beer_41.6310_15.9207,Martyn Vinyl & Beer,RESTAURANT,bar_cafe
-41.631160,15.921197,ov_civicocinque_americanbar_41.6312_15.9212,Civicocinque Americanbar,RESTAURANT,bar_cafe
-41.631769,15.920367,ov_l_arte_del_caff__41.6318_15.9204,L'Arte Del Caffè,RESTAURANT,bar_cafe
-41.632407,15.921276,ov_bar_prosit_41.6324_15.9213,Bar Prosit,RESTAURANT,bar_cafe
-41.632393,15.921472,ov_mon_amour_cafe_41.6324_15.9215,Mon Amour Cafe,RESTAURANT,bar_cafe
-41.632844,15.922118,ov_peccati_di_gola_41.6328_15.9221,Peccati di Gola,RESTAURANT,bar_cafe
-41.632616,15.919317,ov_bar_san_camillo_manfredonia_bsc_41.6326_15.9193,Bar San Camillo Manfredonia BSC,RESTAURANT,bar_cafe
-41.632496,15.919921,ov_principe_umberto_41.6325_15.9199,Principe Umberto,RESTAURANT,bar_cafe
-41.631717,15.918235,ov_twenty_caf__41.6317_15.9182,Twenty cafè,RESTAURANT,bar_cafe
-41.631684,15.917321,ov_caffetteria_del_sole_41.6317_15.9173,Caffetteria Del Sole,RESTAURANT,bar_cafe
-41.631515,15.916302,ov_madam_caf__41.6315_15.9163,Madam Cafè,RESTAURANT,bar_cafe
-41.630666,15.918355,ov_bar_buccino_41.6307_15.9184,Bar Buccino,RESTAURANT,bar_cafe
-41.629683,15.919842,ov_caf__des_artistes_41.6297_15.9198,Café Des Artistes,RESTAURANT,bar_cafe
-41.629461,15.919916,ov_sottoscala_41.6295_15.9199,Sottoscala,RESTAURANT,bar_cafe
-41.628859,15.919308,ov_caffe_plaza_41.6289_15.9193,Caffe Plaza,RESTAURANT,bar_cafe
-41.628571,15.918853,ov_dominus_cafe_41.6286_15.9189,Dominus Cafe,RESTAURANT,bar_cafe
-41.628975,15.918646,ov_caff__aulisa_41.6290_15.9186,Caffè Aulisa,RESTAURANT,bar_cafe
-41.628677,15.917935,ov_bar_centrale_1904_41.6287_15.9179,Bar Centrale 1904,RESTAURANT,bar_cafe
-41.629040,15.917656,ov_caf__al_duomo_41.6290_15.9177,Café Al Duomo,RESTAURANT,bar_cafe
-41.629420,15.916710,ov_la_quintessenza_american_bar_41.6294_15.9167,La Quintessenza American Bar,RESTAURANT,bar_cafe
-41.627768,15.917263,ov_club_1920_41.6278_15.9173,Club 1920,RESTAURANT,bar_cafe
-41.628319,15.917700,ov_caff__del_corso_41.6283_15.9177,Caffè del corso,RESTAURANT,bar_cafe
-41.627656,15.917085,ov_bacco_tabacco_e_venere_41.6277_15.9171,Bacco Tabacco e Venere,RESTAURANT,bar_cafe
-41.629456,15.920459,ov_mandracchio_41.6295_15.9205,Mandracchio,RESTAURANT,bar_cafe
-41.629386,15.920775,ov_cornetteria_the_owl_41.6294_15.9208,Cornetteria The Owl,RESTAURANT,bar_cafe
-41.606780,15.896990,ov_melagodo_41.6068_15.8970,Melagodo,RESTAURANT,bar_cafe
-41.607190,15.897130,ov_bar_movida_41.6072_15.8971,BAR Movida,RESTAURANT,bar_cafe
-41.607196,15.897062,ov_lido_adriatico_41.6072_15.8971,Lido Adriatico,RESTAURANT,bar_cafe
-41.610778,15.890591,ov_totalerg_siponto_41.6108_15.8906,Totalerg Siponto,RESTAURANT,bar_cafe
-41.619920,15.898540,ov_5sensi_manfredonia_41.6199_15.8985,5sensi Manfredonia,RESTAURANT,bar_cafe
-41.616496,15.897101,ov_san_carlo_41.6165_15.8971,San Carlo,RESTAURANT,bar_cafe
-41.611367,15.896414,ov_little_john_pub_41.6114_15.8964,Little John Pub,RESTAURANT,bar_cafe
-41.611434,15.895870,ov_bar_sport_pallotta_41.6114_15.8959,Bar Sport Pallotta,RESTAURANT,bar_cafe
-41.614015,15.895593,ov_fanky_bar_di_massimo_ed_anna_maria_41.6140_15.8956,Fanky Bar di Massimo ed Anna Maria,RESTAURANT,bar_cafe
-41.611630,15.898400,ov_spritzzeria_manfredonia_41.6116_15.8984,Spritzzeria Manfredonia,RESTAURANT,bar_cafe
-41.611095,15.897949,ov_seashell_restaurant_bar_caf__41.6111_15.8979,Seashell Restaurant Bar Cafè,RESTAURANT,bar_cafe
-41.620334,15.910021,ov_casa_28_brasserie_41.6203_15.9100,Casa 28 Brasserie,RESTAURANT,bar_cafe
-41.622510,15.913640,ov_la_bodeguita_manfredonia_41.6225_15.9136,La Bodeguita Manfredonia,RESTAURANT,bar_cafe
-41.625028,15.909971,ov_bar_baykus_41.6250_15.9100,Bar Baykus,RESTAURANT,bar_cafe
-41.624360,15.907439,ov_bar_sipontino_41.6244_15.9074,bar sipontino,RESTAURANT,bar_cafe
-41.623541,15.906535,ov_kailua_41.6235_15.9065,Kailua,RESTAURANT,bar_cafe
-41.623635,15.907793,ov_bar_della_stazione_41.6236_15.9078,Bar della Stazione,RESTAURANT,bar_cafe
-41.622736,15.906939,ov_caffetteria_silver_41.6227_15.9069,Caffetteria Silver,RESTAURANT,bar_cafe
-41.620320,15.903790,ov_bar_sprint_41.6203_15.9038,BAR Sprint,RESTAURANT,bar_cafe
-41.620281,15.903683,ov_family_bar_41.6203_15.9037,Family bar,RESTAURANT,bar_cafe
-41.621536,15.905442,ov_bar_di_vittorio_41.6215_15.9054,Bar di Vittorio,RESTAURANT,bar_cafe
-41.620216,15.903598,ov_caffetteria_cristal_41.6202_15.9036,Caffetteria Cristal,RESTAURANT,bar_cafe
-41.619783,15.903039,ov_oasi_cafe_41.6198_15.9030,Oasi Cafe,RESTAURANT,bar_cafe
-41.618946,15.901958,ov_caff__incontro_41.6189_15.9020,Caffè Incontro,RESTAURANT,bar_cafe
-41.631961,15.902832,ov_tattoo_pub_41.6320_15.9028,Tattoo Pub,RESTAURANT,bar_cafe
-41.627267,15.905787,ov_gaudi_cafe_41.6273_15.9058,Gaudi Cafe,RESTAURANT,bar_cafe
-41.629057,15.911824,ov_angel_s_cafe_41.6291_15.9118,Angel's Cafe,RESTAURANT,bar_cafe
-41.625925,15.910200,ov_bosco_bar_41.6259_15.9102,Bosco Bar,RESTAURANT,bar_cafe
-41.625777,15.911270,ov_roxy_bar_41.6258_15.9113,Roxy Bar,RESTAURANT,bar_cafe
-41.626250,15.912164,ov_sweet_point_41.6262_15.9122,Sweet Point,RESTAURANT,bar_cafe
-41.627125,15.912177,ov_bar_carpe_diem_41.6271_15.9122,Bar Carpe Diem,RESTAURANT,bar_cafe
-41.626790,15.913492,ov__lite_bar_41.6268_15.9135,Èlite Bar,RESTAURANT,bar_cafe
-41.626609,15.915202,ov_coyote_ugly_manfredonia_41.6266_15.9152,Coyote Ugly Manfredonia,RESTAURANT,bar_cafe
-41.627164,15.915428,ov_tienda_de_vinos_41.6272_15.9154,Tienda De Vinos,RESTAURANT,bar_cafe
-41.627430,15.915610,ov_bar_gatta_41.6274_15.9156,Bar Gatta,RESTAURANT,bar_cafe
-41.626797,15.914063,ov_impero_41.6268_15.9141,Impero,RESTAURANT,bar_cafe
-41.628672,15.914152,ov_la_traccia_nascosta___sound_recording_st_41.6287_15.9142,La Traccia Nascosta - Sound Recording Studio,RESTAURANT,bar_cafe
-41.630310,15.912660,ov_last_caf__41.6303_15.9127,Last Cafè,RESTAURANT,bar_cafe
-41.630477,15.912570,ov_piazza_d_uomo_41.6305_15.9126,Piazza d'Uomo,RESTAURANT,bar_cafe
-41.635902,15.909042,ov_bar_al_tramonto_41.6359_15.9090,Bar Al Tramonto,RESTAURANT,bar_cafe
-41.635741,15.910472,ov_paradise_caffe_41.6357_15.9105,Paradise Caffe,RESTAURANT,bar_cafe
-41.634227,15.913247,ov_bar_fiore_f_lli_bisceglia_41.6342_15.9132,Bar Fiore F.lli Bisceglia,RESTAURANT,bar_cafe
-41.633554,15.906293,ov_barcaffetteria_redmoon_41.6336_15.9063,Barcaffetteria Redmoon,RESTAURANT,bar_cafe
-41.634582,15.906613,ov_red_moon_bar_caffetteria_41.6346_15.9066,RED MOON bar caffetteria,RESTAURANT,bar_cafe
-41.634396,15.895052,ov_cafe_d32_41.6344_15.8951,Cafe D32,RESTAURANT,bar_cafe
-41.633478,15.895508,ov_dauniamatik_41.6335_15.8955,Dauniamatik,RESTAURANT,bar_cafe
-41.637318,15.928866,osm_bar_ungaretti_41.6373_15.9289,Bar Ungaretti,bar_cafe,bar_cafe
-41.635331,15.928717,osm_bar_autuori_41.6353_15.9287,Bar Autuori,bar_cafe,bar_cafe
-41.635211,15.930684,osm_albatros_41.6352_15.9307,Albatros,bar_cafe,bar_cafe
-41.626937,15.912017,osm_caf__carpe_diem_41.6269_15.9120,Cafè Carpe Diem,bar_cafe,bar_cafe
-41.638328,15.932771,ov_centro_fitness_level_up_41.6383_15.9328,Centro Fitness Level Up,GYM,palestra
-41.637126,15.927374,ov_playa_del_nino_41.6371_15.9274,Playa del Nino,GYM,palestra
-41.636146,15.928307,ov_palestra_paladante_41.6361_15.9283,Palestra PalaDante,GYM,palestra
-41.634980,15.925290,ov_new_line_41.6350_15.9253,New Line,GYM,palestra
-41.638007,15.926188,ov_a_s_d__isola_fitness_41.6380_15.9262,A.S.D. Isola Fitness,GYM,palestra
-41.638074,15.927145,ov_palestra_sanitas_major_41.6381_15.9271,Palestra Sanitas Major,GYM,palestra
-41.630895,15.920392,ov_arci_caccia_foggia_41.6309_15.9204,Arci Caccia Foggia,GYM,palestra
-41.632624,15.920362,ov_mary_j_style_41.6326_15.9204,Mary J Style,GYM,palestra
-41.632593,15.920322,ov_gymnasia_41.6326_15.9203,GYMNASIA,GYM,palestra
-41.631805,15.919708,ov_palestra_olimpia_41.6318_15.9197,Palestra Olimpia,GYM,palestra
-41.630545,15.917387,ov_studio_reformer_posturale_rossella_brigi_41.6305_15.9174,Studio Reformer Posturale Rossella Brigida,GYM,palestra
-41.629054,15.916809,ov_padma_yoga_e_benessere_41.6291_15.9168,Padma Yoga e Benessere,GYM,palestra
-41.608696,15.897462,ov_scuola_artistica_ninni_backstage_41.6087_15.8975,Scuola Artistica Ninni Backstage,GYM,palestra
-41.617318,15.899824,ov_caribe_dance_academy_41.6173_15.8998,Caribe Dance Academy,GYM,palestra
-41.623843,15.908021,ov_beauty___sport_nutrition_41.6238_15.9080,Beauty & Sport Nutrition,GYM,palestra
-41.623899,15.904830,ov_coreutica_danza_manfredonia_41.6239_15.9048,Coreutica Danza Manfredonia,GYM,palestra
-41.623736,15.904220,ov_art_ballet_dance_studio_41.6237_15.9042,Art Ballet Dance Studio,GYM,palestra
-41.622814,15.904209,ov_a_s_d_prioletti_dance_academy_41.6228_15.9042,A.s.d Prioletti Dance Academy,GYM,palestra
-41.620777,15.904312,ov_palestra_asd_sport_center_magnum_41.6208_15.9043,Palestra ASD Sport Center Magnum,GYM,palestra
-41.621833,15.903504,ov_duemme_41.6218_15.9035,Duemme,GYM,palestra
-41.619657,15.902985,ov_centri_polivalenti_per_diversamente_abil_41.6197_15.9030,Centri Polivalenti per Diversamente Abili Matteo Tricarico,GYM,palestra
-41.622160,15.903178,ov_accademia_scherma_re_manfredi_41.6222_15.9032,Accademia Scherma RE Manfredi,GYM,palestra
-41.630972,15.905534,ov_stella_maris___centro_sportivo_sipontino_41.6310_15.9055,Stella Maris - Centro Sportivo Sipontino,GYM,palestra
-41.629626,15.911738,ov_mp_dance_studio_asd_41.6296_15.9117,MP Dance Studio ASD,GYM,palestra
-41.628984,15.911751,ov_stelle_della_daunia_41.6290_15.9118,Stelle della Daunia,GYM,palestra
-41.626756,15.912710,ov_sabor_diferente_academy_41.6268_15.9127,Sabor Diferente Academy,GYM,palestra
-41.627737,15.912442,ov_new_perfect_41.6277_15.9124,New Perfect,GYM,palestra
-41.629290,15.912744,ov_palestra_body_art_41.6293_15.9127,Palestra Body Art,GYM,palestra
-41.632602,15.915637,ov_asd_armonia_fitness_41.6326_15.9156,ASD Armonia Fitness,GYM,palestra
-41.629646,15.911414,ov_asd_universo_manfredonia_41.6296_15.9114,Asd Universo Manfredonia,GYM,palestra
-41.636340,15.912080,ov_palestra_california_gym_41.6363_15.9121,Palestra California GYM,GYM,palestra
-41.634177,15.896128,ov_up_level___manfredonia_41.6342_15.8961,UP level - Manfredonia,GYM,palestra
-41.643133,15.895448,ov_polisportiva_salvemini_41.6431_15.8954,Polisportiva Salvemini,GYM,palestra
-41.596598,15.813735,ov_san_leonardo_basilica_41.5966_15.8137,San Leonardo Basilica,MONUMENT,monumento
-41.603427,15.845130,ov_museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451,Museo Storico dei Pompieri e della Croce Rossa Italiana,MUSEUM,monumento
-41.635689,15.923133,ov_museo_nazionale_archeologico_di_manfredo_41.6357_15.9231,Museo nazionale archeologico di Manfredonia,MUSEUM,monumento
-41.630311,15.921997,ov_castello_svevo_angioino_aragonese__manfr_41.6303_15.9220,"Castello Svevo Angioino Aragonese, Manfredonia.",MONUMENT,monumento
-41.630447,15.920494,ov_museo_nazionale_di_manfredonia_41.6304_15.9205,Museo nazionale di Manfredonia,MUSEUM,monumento
-41.628851,15.918444,ov_stele_daunie_41.6289_15.9184,Stele Daunie,MUSEUM,monumento
-41.627019,15.915045,ov_palazzo_dei_celestini___manfredonia_41.6270_15.9150,Palazzo dei Celestini - Manfredonia,MUSEUM,monumento
+41.634666,15.917373,ov_ospedale_riuniti_foggia_41.6347_15.9174,Ospedale Riuniti Foggia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ospedale_riuniti_foggia_41.6347_15.9174.json,custom
+41.632672,15.923461,ov_ospedale_casa_sollievo_della_sofferenza_41.6327_15.9235,Ospedale Casa Sollievo della Sofferenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ospedale_casa_sollievo_della_sofferenza_41.6327_15.9235.json,custom
+41.632951,15.919189,ov_ospedale_san_camillo_de_lellis_41.6330_15.9192,Ospedale San Camillo de Lellis,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ospedale_san_camillo_de_lellis_41.6330_15.9192.json,custom
+41.630226,15.917423,ov_studio_medico_dottoressa_squillante_41.6302_15.9174,Studio Medico Dottoressa Squillante,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/studio_medico_dottoressa_squillante_41.6302_15.9174.json,custom
+41.627500,15.916830,ov_medicina_estetica_e_nutrizione_umana_dr__41.6275_15.9168,Medicina Estetica E Nutrizione Umana Dr. Michele Renzullo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/medicina_estetica_e_nutrizione_umana_dr__41.6275_15.9168.json,custom
+41.622668,15.906444,ov_studio_medico_associato_galeno_manfredon_41.6227_15.9064,Studio Medico Associato Galeno Manfredonia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/studio_medico_associato_galeno_manfredon_41.6227_15.9064.json,custom
+41.681486,15.866772,ov_mare_monti_41.6815_15.8668,Mare Monti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mare_monti_41.6815_15.8668.json,custom
+41.679564,15.864369,ov_villa_artemide_41.6796_15.8644,Villa Artemide,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/villa_artemide_41.6796_15.8644.json,custom
+41.679721,15.862730,ov_locanda_nonna_rosa_41.6797_15.8627,Locanda Nonna Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/locanda_nonna_rosa_41.6797_15.8627.json,custom
+41.653074,15.873139,ov_masseria_monticelli_41.6531_15.8731,Masseria Monticelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/masseria_monticelli_41.6531_15.8731.json,custom
+41.597849,15.835831,ov_tenuta_donna_isabella_41.5978_15.8358,Tenuta Donna Isabella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tenuta_donna_isabella_41.5978_15.8358.json,custom
+41.540984,15.668576,ov_masseria_greco_41.5410_15.6686,Masseria Greco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/masseria_greco_41.5410_15.6686.json,custom
+41.408240,15.740985,ov_la_perla_del_golfo_41.4082_15.7410,La Perla Del Golfo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_perla_del_golfo_41.4082_15.7410.json,custom
+41.407530,15.735590,ov_masseria_monticelli_41.4075_15.7356,Masseria Monticelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/masseria_monticelli_41.4075_15.7356.json,custom
+41.509910,15.912537,ov_bar_ristorante_pizzeria__la_masseria_ipp_41.5099_15.9125,Bar-Ristorante-Pizzeria  La Masseria Ippocampo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar-ristorante-pizzeria_la_masseria_ippo_41.5099_15.9125.json,custom
+41.511797,15.911213,ov_pizzeria_marachero_41.5118_15.9112,Pizzeria Marachero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_marachero_41.5118_15.9112.json,custom
+41.529270,15.897270,ov_reginella_41.5293_15.8973,Reginella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/reginella_41.5293_15.8973.json,custom
+41.532295,15.899078,ov_marachero_41.5323_15.8991,Marachero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/marachero_41.5323_15.8991.json,custom
+41.561389,15.890122,ov_al_casone_41.5614_15.8901,Al Casone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/al_casone_41.5614_15.8901.json,custom
+41.635828,15.933464,ov_cala_delle_sirene_centro_nautica_srl_41.6358_15.9335,Cala delle Sirene Centro Nautica SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/cala_delle_sirene_centro_nautica_srl_41.6358_15.9335.json,custom
+41.635846,15.933580,ov_arnold_s_manfredonia_41.6358_15.9336,Arnold's Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/arnolds_manfredonia_41.6358_15.9336.json,custom
+41.636130,15.933877,ov_darsena_food_and_drink_41.6361_15.9339,Darsena Food and Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/darsena_food_and_drink_41.6361_15.9339.json,custom
+41.640329,15.929243,ov_la_locanda_degli_svevi_41.6403_15.9292,La Locanda degli Svevi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_locanda_degli_svevi_41.6403_15.9292.json,custom
+41.635169,15.930700,ov_la_perla_del_golfo_41.6352_15.9307,La Perla del Golfo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_perla_del_golfo_41.6352_15.9307.json,custom
+41.634847,15.929839,ov_paninoteca_miramare_41.6348_15.9298,Paninoteca Miramare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/paninoteca_miramare_41.6348_15.9298.json,custom
+41.635200,15.927870,ov_tentazoni_culinarie_41.6352_15.9279,Tentazoni culinarie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tentazoni_culinarie_41.6352_15.9279.json,custom
+41.633906,15.927308,ov_ristorante_il_cappero_41.6339_15.9273,Ristorante Il Cappero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_il_cappero_41.6339_15.9273.json,custom
+41.635224,15.924565,ov_euro_pizza_41.6352_15.9246,Euro Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/euro_pizza_41.6352_15.9246.json,custom
+41.635900,15.925640,ov_profumo_di_pane_manfred_41.6359_15.9256,Profumo Di Pane Manfred,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/profumo_di_pane_manfred_41.6359_15.9256.json,custom
+41.636970,15.925960,ov_atena_41.6370_15.9260,Atena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/atena_41.6370_15.9260.json,custom
+41.638040,15.924740,ov_oasi_lago_salso_41.6380_15.9247,Oasi lago salso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/oasi_lago_salso_41.6380_15.9247.json,custom
+41.638609,15.926300,ov_big_paninomania_nunzio_41.6386_15.9263,Big paninomania Nunzio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/big_paninomania_nunzio_41.6386_15.9263.json,custom
+41.637270,15.921149,ov_levante_41.6373_15.9211,Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/levante_41.6373_15.9211.json,custom
+41.636141,15.922900,ov_gustati_la_vita_41.6361_15.9229,Gustati la Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/gustati_la_vita_41.6361_15.9229.json,custom
+41.634330,15.924173,ov_antico_forno_zapptell_41.6343_15.9242,Antico forno zapptell,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/antico_forno_zapptell_41.6343_15.9242.json,custom
+41.633056,15.922267,ov_pizzeria_malecon_41.6331_15.9223,Pizzeria Malecon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_malecon_41.6331_15.9223.json,custom
+41.632004,15.922466,ov_misspok__41.6320_15.9225,MissPoké,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/misspok_41.6320_15.9225.json,custom
+41.630290,15.923290,ov_ristorante_pizzeria__l_approdo__manfredo_41.6303_15.9233,Ristorante Pizzeria “L’Approdo” Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_pizzeria_lapprodo_manfredonia_41.6303_15.9233.json,custom
+41.630290,15.923290,ov_ristorante_riviera_di_luigi_totaro_41.6303_15.9233,Ristorante Riviera di Luigi Totaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_riviera_di_luigi_totaro_41.6303_15.9233.json,custom
+41.630290,15.923290,ov_kebab_casablanca_manfredonia_41.6303_15.9233,Kebab Casablanca Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/kebab_casablanca_manfredonia_41.6303_15.9233.json,custom
+41.630290,15.923290,ov_officina_del_pesce_41.6303_15.9233,Officina del Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/officina_del_pesce_41.6303_15.9233.json,custom
+41.629922,15.922794,ov_alba_del_re_41.6299_15.9228,Alba del Re,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/alba_del_re_41.6299_15.9228.json,custom
+41.631050,15.923060,ov_pizzeria_il_galletto_41.6311_15.9231,Pizzeria il galletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_il_galletto_41.6311_15.9231.json,custom
+41.631452,15.922669,ov_coppola_rossa_41.6315_15.9227,Coppola Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/coppola_rossa_41.6315_15.9227.json,custom
+41.631385,15.921736,ov_pizza_in_villa_nuova_gestione_41.6314_15.9217,Pizza in villa nuova gestione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizza_in_villa_nuova_gestione_41.6314_15.9217.json,custom
+41.629800,15.921290,ov_re_manfredi___birreria_pizzeria_41.6298_15.9213,Re Manfredi - Birreria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/re_manfredi_-_birreria_pizzeria_41.6298_15.9213.json,custom
+41.629952,15.921097,ov_ristorante_il_porto_manfredonia_41.6300_15.9211,Ristorante Il Porto Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_il_porto_manfredonia_41.6300_15.9211.json,custom
+41.629918,15.920767,ov_calafuria_41.6299_15.9208,Calafuria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/calafuria_41.6299_15.9208.json,custom
+41.630455,15.920550,ov_mangiamoci_41.6305_15.9206,Mangiamoci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mangiamoci_41.6305_15.9206.json,custom
+41.630769,15.920490,ov_la_maison_della_farrata_41.6308_15.9205,La Maison della Farrata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_maison_della_farrata_41.6308_15.9205.json,custom
+41.630730,15.920940,ov_gaudium_ristorante_41.6307_15.9209,Gaudium Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/gaudium_ristorante_41.6307_15.9209.json,custom
+41.631196,15.920608,ov_ristorante_fuoco_lento_41.6312_15.9206,Ristorante fuoco lento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_fuoco_lento_41.6312_15.9206.json,custom
+41.631700,15.922080,ov_pizzeria_al_castello_manfredonia_41.6317_15.9221,Pizzeria Al Castello Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_al_castello_manfredonia_41.6317_15.9221.json,custom
+41.632817,15.921878,ov_braceria_trattoria_al_dottore_41.6328_15.9219,Braceria Trattoria Al Dottore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/braceria_trattoria_al_dottore_41.6328_15.9219.json,custom
+41.631820,15.918887,ov_lievito_madre___manfredonia_41.6318_15.9189,Lievito Madre - Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/lievito_madre_-_manfredonia_41.6318_15.9189.json,custom
+41.631698,15.918427,ov_regina_41.6317_15.9184,Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/regina_41.6317_15.9184.json,custom
+41.633300,15.916700,ov_villa_manfredi___manfredonia_41.6333_15.9167,Villa Manfredi - Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/villa_manfredi_-_manfredonia_41.6333_15.9167.json,custom
+41.631035,15.917348,ov_sweet_life_41.6310_15.9173,Sweet Life,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sweet_life_41.6310_15.9173.json,custom
+41.631033,15.917301,ov_al_molo_20_lounge_bar_41.6310_15.9173,Al Molo 20 Lounge Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/al_molo_20_lounge_bar_41.6310_15.9173.json,custom
+41.631099,15.917284,ov_pizzeria_il_ghiottone_41.6311_15.9173,Pizzeria Il Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_il_ghiottone_41.6311_15.9173.json,custom
+41.631122,15.917311,ov_casa_28___brasserie_41.6311_15.9173,Casa 28 - Brasserie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/casa_28_-_brasserie_41.6311_15.9173.json,custom
+41.631185,15.917561,ov_la_locanda_del_torrione_41.6312_15.9176,La Locanda del Torrione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_locanda_del_torrione_41.6312_15.9176.json,custom
+41.630735,15.916510,ov_borrelli_41.6307_15.9165,Borrelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/borrelli_41.6307_15.9165.json,custom
+41.631553,15.919783,ov_pizzeria_alfo__41.6316_15.9198,Pizzeria Alfo',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_alfo_41.6316_15.9198.json,custom
+41.630536,15.919767,ov_via_tre_grazie___cibo_felicit__41.6305_15.9198,Via Tre Grazie - Cibo&felicità,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/via_tre_grazie_-_cibofelicit_41.6305_15.9198.json,custom
+41.630010,15.919429,ov_ja__j____la_baguette_del_buon_umore_41.6300_15.9194,Ja' Jò . La baguette del buon umore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ja_j_la_baguette_del_buon_umore_41.6300_15.9194.json,custom
+41.628952,15.919435,ov_its_turismo_sede_manfredonia_41.6290_15.9194,ITS turismo sede Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/its_turismo_sede_manfredonia_41.6290_15.9194.json,custom
+41.628405,15.919748,ov_cala_diomede_41.6284_15.9197,Cala Diomede,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/cala_diomede_41.6284_15.9197.json,custom
+41.628855,15.919135,ov_pizza_in_piazza_41.6289_15.9191,Pizza in Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizza_in_piazza_41.6289_15.9191.json,custom
+41.629426,15.917892,ov_il_duomo_spizzicherie_41.6294_15.9179,Il Duomo Spizzicherie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/il_duomo_spizzicherie_41.6294_15.9179.json,custom
+41.628852,15.917135,ov_calice_rosa_41.6289_15.9171,Calice rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/calice_rosa_41.6289_15.9171.json,custom
+41.629173,15.916808,ov_moody_al_campanile_41.6292_15.9168,Moody Al Campanile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/moody_al_campanile_41.6292_15.9168.json,custom
+41.629435,15.916746,ov_bottega_signorini_41.6294_15.9167,Bottega Signorini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bottega_signorini_41.6294_15.9167.json,custom
+41.628749,15.916846,ov_fermento_41.6287_15.9168,Fermento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/fermento_41.6287_15.9168.json,custom
+41.628466,15.916568,ov_pizzeria_grasso_41.6285_15.9166,Pizzeria Grasso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_grasso_41.6285_15.9166.json,custom
+41.627811,15.917002,ov_tucson_41.6278_15.9170,Tucson,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tucson_41.6278_15.9170.json,custom
+41.627860,15.917316,ov_ginger_food___drink_41.6279_15.9173,Ginger Food & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ginger_food_drink_41.6279_15.9173.json,custom
+41.628484,15.918123,ov_piazza_buonagustai_41.6285_15.9181,Piazza Buonagustai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/piazza_buonagustai_41.6285_15.9181.json,custom
+41.627885,15.917905,ov_osteria_boccolicchio_41.6279_15.9179,Osteria Boccolicchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/osteria_boccolicchio_41.6279_15.9179.json,custom
+41.627352,15.917734,ov_calamarando_41.6274_15.9177,Calamarando,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/calamarando_41.6274_15.9177.json,custom
+41.627586,15.916846,ov_baciati_dal_mare_41.6276_15.9168,Baciati dal Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/baciati_dal_mare_41.6276_15.9168.json,custom
+41.629412,15.920962,ov_pizzeria_vista_mare_41.6294_15.9210,Pizzeria Vista Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_vista_mare_41.6294_15.9210.json,custom
+41.629324,15.923344,ov_un_posto_al_faro_41.6293_15.9233,Un Posto al Faro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/un_posto_al_faro_41.6293_15.9233.json,custom
+41.632716,15.925522,ov_miramare_41.6327_15.9255,Miramare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/miramare_41.6327_15.9255.json,custom
+41.632910,15.925910,ov_la_terrazza_sul_mare_41.6329_15.9259,La Terrazza Sul Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_terrazza_sul_mare_41.6329_15.9259.json,custom
+41.633310,15.926610,ov_alberghiero_manfredonia_bm_41.6333_15.9266,Alberghiero Manfredonia-BM,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/alberghiero_manfredonia-bm_41.6333_15.9266.json,custom
+41.603711,15.896359,ov_capolinea_beach_41.6037_15.8964,Capolinea Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/capolinea_beach_41.6037_15.8964.json,custom
+41.608080,15.897230,ov_oasi_del_mare_41.6081_15.8972,Oasi del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/oasi_del_mare_41.6081_15.8972.json,custom
+41.608843,15.897917,ov_ristorante_marincanto_41.6088_15.8979,Ristorante Marincanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_marincanto_41.6088_15.8979.json,custom
+41.608693,15.897431,ov_kursaal_wellness_beach_41.6087_15.8974,Kursaal Wellness Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/kursaal_wellness_beach_41.6087_15.8974.json,custom
+41.608363,15.897151,ov_happiness_in_the_sea_41.6084_15.8972,Happiness in the Sea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/happiness_in_the_sea_41.6084_15.8972.json,custom
+41.614684,15.895263,ov_pizzeria_antipasteria_la_veranda_41.6147_15.8953,Pizzeria Antipasteria La Veranda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_antipasteria_la_veranda_41.6147_15.8953.json,custom
+41.613200,15.892002,ov_tenuta_rinaldi_41.6132_15.8920,Tenuta Rinaldi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tenuta_rinaldi_41.6132_15.8920.json,custom
+41.611321,15.894959,ov_trattoria_pizzeria_regina_41.6113_15.8950,Trattoria Pizzeria Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/trattoria_pizzeria_regina_41.6113_15.8950.json,custom
+41.611129,15.894981,ov_rewind_41.6111_15.8950,Rewind,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/rewind_41.6111_15.8950.json,custom
+41.610931,15.897323,ov_qbar_41.6109_15.8973,QBar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/qbar_41.6109_15.8973.json,custom
+41.611550,15.896399,ov_minami_restaurant___lounge_41.6116_15.8964,Minami Restaurant & Lounge,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/minami_restaurant_lounge_41.6116_15.8964.json,custom
+41.610643,15.897545,ov_panzerotto_d_oro_41.6106_15.8975,Panzerotto d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/panzerotto_doro_41.6106_15.8975.json,custom
+41.610228,15.897975,ov_ristorante_il_maestrale_41.6102_15.8980,Ristorante Il Maestrale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_il_maestrale_41.6102_15.8980.json,custom
+41.610173,15.898149,ov_brezza_marina_41.6102_15.8981,Brezza Marina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/brezza_marina_41.6102_15.8981.json,custom
+41.614064,15.899974,ov_la_conchiglia_41.6141_15.9000,La Conchiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_conchiglia_41.6141_15.9000.json,custom
+41.617762,15.900478,ov_pizzeria_terra_mia_41.6178_15.9005,Pizzeria Terra Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_terra_mia_41.6178_15.9005.json,custom
+41.621320,15.907830,ov_val_autuori_41.6213_15.9078,VAL_autuori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/valautuori_41.6213_15.9078.json,custom
+41.620829,15.909144,ov_marincanto_ristorante_41.6208_15.9091,Marincanto Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/marincanto_ristorante_41.6208_15.9091.json,custom
+41.620270,15.909986,ov_panzaria_41.6203_15.9100,Panzaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/panzaria_41.6203_15.9100.json,custom
+41.619347,15.911054,ov_ai_due_dottori_41.6193_15.9111,Ai Due Dottori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ai_due_dottori_41.6193_15.9111.json,custom
+41.622634,15.913810,ov_bacalajo_41.6226_15.9138,Bacalajo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bacalajo_41.6226_15.9138.json,custom
+41.622176,15.914440,ov_seashell_restaurant_41.6222_15.9144,Seashell Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/seashell_restaurant_41.6222_15.9144.json,custom
+41.622518,15.914029,ov_flamingo_41.6225_15.9140,Flamingo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/flamingo_41.6225_15.9140.json,custom
+41.622253,15.915667,ov_al_molo_20_41.6223_15.9157,Al Molo 20,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/al_molo_20_41.6223_15.9157.json,custom
+41.623408,15.914119,ov_l_approdo_restaurant___live_music_41.6234_15.9141,L'Approdo Restaurant & Live Music,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/lapprodo_restaurant_live_music_41.6234_15.9141.json,custom
+41.625267,15.910443,ov_new_cotto_e_mangiato_41.6253_15.9104,New Cotto E Mangiato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/new_cotto_e_mangiato_41.6253_15.9104.json,custom
+41.622429,15.909319,ov_sushi_xian_2_41.6224_15.9093,Sushi Xian 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sushi_xian_2_41.6224_15.9093.json,custom
+41.624200,15.908570,ov_forno_rinaldi_pane_pizza___food_41.6242_15.9086,Forno Rinaldi Pane Pizza & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/forno_rinaldi_pane_pizza_food_41.6242_15.9086.json,custom
+41.625509,15.909721,ov_nella_i_lievitati_41.6255_15.9097,Nella I Lievitati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/nella_i_lievitati_41.6255_15.9097.json,custom
+41.625721,15.909818,ov_pasta_fresca_nella_41.6257_15.9098,Pasta Fresca Nella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pasta_fresca_nella_41.6257_15.9098.json,custom
+41.623930,15.906180,ov_soul_kitchen_cibo_per_l_anima_41.6239_15.9062,Soul Kitchen Cibo per l'anima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/soul_kitchen_cibo_per_lanima_41.6239_15.9062.json,custom
+41.622565,15.906644,ov_c_e_pizza_per_te_41.6226_15.9066,C'e pizza per te,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ce_pizza_per_te_41.6226_15.9066.json,custom
+41.622684,15.905771,ov_bringaloo_41.6227_15.9058,Bringaloo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bringaloo_41.6227_15.9058.json,custom
+41.622974,15.907428,ov_pizza_al_volo_41.6230_15.9074,Pizza al Volo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizza_al_volo_41.6230_15.9074.json,custom
+41.621161,15.904938,ov_pizzeria_tot__sapore_41.6212_15.9049,Pizzeria Totò Sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizzeria_tot_sapore_41.6212_15.9049.json,custom
+41.621472,15.904743,ov_ristorante_il_gallo_d_oro_41.6215_15.9047,Ristorante Il Gallo D'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/ristorante_il_gallo_doro_41.6215_15.9047.json,custom
+41.624086,15.902524,ov_magna_magna_41.6241_15.9025,Magna Magna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/magna_magna_41.6241_15.9025.json,custom
+41.626100,15.907577,ov_retro_gusto_41.6261_15.9076,Retro Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/retro_gusto_41.6261_15.9076.json,custom
+41.627061,15.909543,ov_pesce_fresco_41.6271_15.9095,pesce fresco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pesce_fresco_41.6271_15.9095.json,custom
+41.626189,15.912064,ov_pummarella_41.6262_15.9121,Pummarella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pummarella_41.6262_15.9121.json,custom
+41.627537,15.913191,ov_p_h_p__41.6275_15.9132,P.H.P.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/php_41.6275_15.9132.json,custom
+41.627054,15.913677,ov_lo_scellerato_41.6271_15.9137,Lo Scellerato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/lo_scellerato_41.6271_15.9137.json,custom
+41.626165,15.914523,ov_aki_sushi_41.6262_15.9145,Aki Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/aki_sushi_41.6262_15.9145.json,custom
+41.626680,15.915357,ov_restaurant_coppola_rossa_41.6267_15.9154,Restaurant Coppola Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/restaurant_coppola_rossa_41.6267_15.9154.json,custom
+41.626380,15.915140,ov_farmaenergy_point___manfredonia_41.6264_15.9151,Farmaenergy Point - Manfredonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/farmaenergy_point_-_manfredonia_41.6264_15.9151.json,custom
+41.627208,15.915531,ov_la_locanda_del_centro_41.6272_15.9155,La Locanda Del Centro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_locanda_del_centro_41.6272_15.9155.json,custom
+41.627792,15.915982,ov_il_baracchio_41.6278_15.9160,Il Baracchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/il_baracchio_41.6278_15.9160.json,custom
+41.628722,15.914812,ov_pizza_in_largo_41.6287_15.9148,Pizza in Largo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizza_in_largo_41.6287_15.9148.json,custom
+41.629389,15.914016,ov_antiche_mura_41.6294_15.9140,Antiche Mura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/antiche_mura_41.6294_15.9140.json,custom
+41.629142,15.913458,ov_grasso_antica_pizzeria_41.6291_15.9135,Grasso Antica Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/grasso_antica_pizzeria_41.6291_15.9135.json,custom
+41.629668,15.915186,ov_vetus_vallum_pizzeria_41.6297_15.9152,Vetus Vallum Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/vetus_vallum_pizzeria_41.6297_15.9152.json,custom
+41.630597,15.915533,ov_pizza_41.6306_15.9155,Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pizza_41.6306_15.9155.json,custom
+41.632381,15.914933,ov_panificio_pizzeria_mille_sapori_41.6324_15.9149,Panificio Pizzeria Mille Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/panificio_pizzeria_mille_sapori_41.6324_15.9149.json,custom
+41.632880,15.914490,ov_pane_e_fantasia_41.6329_15.9145,Pane e Fantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/pane_e_fantasia_41.6329_15.9145.json,custom
+41.636239,15.908310,ov_vela_d_oro_41.6362_15.9083,Vela D'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/vela_doro_41.6362_15.9083.json,custom
+41.634494,15.913398,ov_leo_pizza_41.6345_15.9134,LEO PIZZA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/leo_pizza_41.6345_15.9134.json,custom
+41.635442,15.900650,ov_famila_bistro_41.6354_15.9006,Famila Bistro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/famila_bistro_41.6354_15.9006.json,custom
+41.642551,15.896307,ov_tarassaco_41.6426_15.8963,Tarassaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tarassaco_41.6426_15.8963.json,custom
+41.632185,15.917550,osm_calafuria_41.6322_15.9176,Calafuria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/calafuria_41.6322_15.9176.json,custom
+41.569808,15.752826,ov_camer_caffe_41.5698_15.7528,Camer Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/camer_caffe_41.5698_15.7528.json,custom
+41.445627,15.793911,ov_bar_spaccio_fonterosa_41.4456_15.7939,Bar Spaccio Fonterosa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_spaccio_fonterosa_41.4456_15.7939.json,custom
+41.511623,15.914642,ov_bar_lido_blue_marine_41.5116_15.9146,Bar Lido Blue Marine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_lido_blue_marine_41.5116_15.9146.json,custom
+41.635276,15.930764,ov_caffetteria_albatros_41.6353_15.9308,Caffetteria Albatros,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caffetteria_albatros_41.6353_15.9308.json,custom
+41.635334,15.928835,ov_bar_tabacchi_autuori_gianluca_41.6353_15.9288,Bar Tabacchi Autuori Gianluca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_tabacchi_autuori_gianluca_41.6353_15.9288.json,custom
+41.637226,15.929122,ov_dolceamore_41.6372_15.9291,Dolceamore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/dolceamore_41.6372_15.9291.json,custom
+41.635118,15.924502,ov_bar_olimpia_41.6351_15.9245,Bar Olimpia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_olimpia_41.6351_15.9245.json,custom
+41.635773,15.925864,ov_decanter_wine_bar_41.6358_15.9259,Decanter Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/decanter_wine_bar_41.6358_15.9259.json,custom
+41.636672,15.925824,ov_bar_pace_41.6367_15.9258,Bar Pace,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_pace_41.6367_15.9258.json,custom
+41.639117,15.926321,ov_sweetmeet_cafe_41.6391_15.9263,SweetMeet Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sweetmeet_cafe_41.6391_15.9263.json,custom
+41.636471,15.918773,ov_baraccabar_41.6365_15.9188,Baraccabar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/baraccabar_41.6365_15.9188.json,custom
+41.634011,15.917849,ov_new_bar_41.6340_15.9178,New Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/new_bar_41.6340_15.9178.json,custom
+41.635303,15.919489,ov_happy_days_cafe_41.6353_15.9195,Happy Days Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/happy_days_cafe_41.6353_15.9195.json,custom
+41.633188,15.922695,ov_bar_haiti_41.6332_15.9227,Bar Haiti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_haiti_41.6332_15.9227.json,custom
+41.632341,15.922908,ov_la_fenice_41.6323_15.9229,La Fenice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_fenice_41.6323_15.9229.json,custom
+41.631160,15.923656,ov_sopramare_41.6312_15.9237,Sopramare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sopramare_41.6312_15.9237.json,custom
+41.630290,15.923290,ov_bar_redmoon_41.6303_15.9233,BAR Redmoon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_redmoon_41.6303_15.9233.json,custom
+41.631072,15.921325,ov_frank_on_tap_41.6311_15.9213,Frank on Tap,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/frank_on_tap_41.6311_15.9213.json,custom
+41.629805,15.922224,ov_porto_vecchio_41.6298_15.9222,Porto Vecchio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/porto_vecchio_41.6298_15.9222.json,custom
+41.630151,15.920337,ov_dubliners_pub_41.6302_15.9203,Dubliners Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/dubliners_pub_41.6302_15.9203.json,custom
+41.630897,15.921037,ov_bar_delle_rose_41.6309_15.9210,Bar delle Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_delle_rose_41.6309_15.9210.json,custom
+41.631032,15.920829,ov_john_bull_41.6310_15.9208,John Bull,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/john_bull_41.6310_15.9208.json,custom
+41.631044,15.920746,ov_martyn_vinyl___beer_41.6310_15.9207,Martyn Vinyl & Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/martyn_vinyl_beer_41.6310_15.9207.json,custom
+41.631160,15.921197,ov_civicocinque_americanbar_41.6312_15.9212,Civicocinque Americanbar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/civicocinque_americanbar_41.6312_15.9212.json,custom
+41.631769,15.920367,ov_l_arte_del_caff__41.6318_15.9204,L'Arte Del Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/larte_del_caff_41.6318_15.9204.json,custom
+41.632407,15.921276,ov_bar_prosit_41.6324_15.9213,Bar Prosit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_prosit_41.6324_15.9213.json,custom
+41.632393,15.921472,ov_mon_amour_cafe_41.6324_15.9215,Mon Amour Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mon_amour_cafe_41.6324_15.9215.json,custom
+41.632844,15.922118,ov_peccati_di_gola_41.6328_15.9221,Peccati di Gola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/peccati_di_gola_41.6328_15.9221.json,custom
+41.632616,15.919317,ov_bar_san_camillo_manfredonia_bsc_41.6326_15.9193,Bar San Camillo Manfredonia BSC,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_san_camillo_manfredonia_bsc_41.6326_15.9193.json,custom
+41.632496,15.919921,ov_principe_umberto_41.6325_15.9199,Principe Umberto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/principe_umberto_41.6325_15.9199.json,custom
+41.631717,15.918235,ov_twenty_caf__41.6317_15.9182,Twenty cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/twenty_caf_41.6317_15.9182.json,custom
+41.631684,15.917321,ov_caffetteria_del_sole_41.6317_15.9173,Caffetteria Del Sole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caffetteria_del_sole_41.6317_15.9173.json,custom
+41.631515,15.916302,ov_madam_caf__41.6315_15.9163,Madam Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/madam_caf_41.6315_15.9163.json,custom
+41.630666,15.918355,ov_bar_buccino_41.6307_15.9184,Bar Buccino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_buccino_41.6307_15.9184.json,custom
+41.629683,15.919842,ov_caf__des_artistes_41.6297_15.9198,Café Des Artistes,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caf_des_artistes_41.6297_15.9198.json,custom
+41.629461,15.919916,ov_sottoscala_41.6295_15.9199,Sottoscala,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sottoscala_41.6295_15.9199.json,custom
+41.628859,15.919308,ov_caffe_plaza_41.6289_15.9193,Caffe Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caffe_plaza_41.6289_15.9193.json,custom
+41.628571,15.918853,ov_dominus_cafe_41.6286_15.9189,Dominus Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/dominus_cafe_41.6286_15.9189.json,custom
+41.628975,15.918646,ov_caff__aulisa_41.6290_15.9186,Caffè Aulisa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caff_aulisa_41.6290_15.9186.json,custom
+41.628677,15.917935,ov_bar_centrale_1904_41.6287_15.9179,Bar Centrale 1904,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_centrale_1904_41.6287_15.9179.json,custom
+41.629040,15.917656,ov_caf__al_duomo_41.6290_15.9177,Café Al Duomo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caf_al_duomo_41.6290_15.9177.json,custom
+41.629420,15.916710,ov_la_quintessenza_american_bar_41.6294_15.9167,La Quintessenza American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_quintessenza_american_bar_41.6294_15.9167.json,custom
+41.627768,15.917263,ov_club_1920_41.6278_15.9173,Club 1920,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/club_1920_41.6278_15.9173.json,custom
+41.628319,15.917700,ov_caff__del_corso_41.6283_15.9177,Caffè del corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caff_del_corso_41.6283_15.9177.json,custom
+41.627656,15.917085,ov_bacco_tabacco_e_venere_41.6277_15.9171,Bacco Tabacco e Venere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bacco_tabacco_e_venere_41.6277_15.9171.json,custom
+41.629456,15.920459,ov_mandracchio_41.6295_15.9205,Mandracchio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mandracchio_41.6295_15.9205.json,custom
+41.629386,15.920775,ov_cornetteria_the_owl_41.6294_15.9208,Cornetteria The Owl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/cornetteria_the_owl_41.6294_15.9208.json,custom
+41.606780,15.896990,ov_melagodo_41.6068_15.8970,Melagodo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/melagodo_41.6068_15.8970.json,custom
+41.607190,15.897130,ov_bar_movida_41.6072_15.8971,BAR Movida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_movida_41.6072_15.8971.json,custom
+41.607196,15.897062,ov_lido_adriatico_41.6072_15.8971,Lido Adriatico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/lido_adriatico_41.6072_15.8971.json,custom
+41.610778,15.890591,ov_totalerg_siponto_41.6108_15.8906,Totalerg Siponto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/totalerg_siponto_41.6108_15.8906.json,custom
+41.619920,15.898540,ov_5sensi_manfredonia_41.6199_15.8985,5sensi Manfredonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/5sensi_manfredonia_41.6199_15.8985.json,custom
+41.616496,15.897101,ov_san_carlo_41.6165_15.8971,San Carlo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/san_carlo_41.6165_15.8971.json,custom
+41.611367,15.896414,ov_little_john_pub_41.6114_15.8964,Little John Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/little_john_pub_41.6114_15.8964.json,custom
+41.611434,15.895870,ov_bar_sport_pallotta_41.6114_15.8959,Bar Sport Pallotta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_sport_pallotta_41.6114_15.8959.json,custom
+41.614015,15.895593,ov_fanky_bar_di_massimo_ed_anna_maria_41.6140_15.8956,Fanky Bar di Massimo ed Anna Maria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/fanky_bar_di_massimo_ed_anna_maria_41.6140_15.8956.json,custom
+41.611630,15.898400,ov_spritzzeria_manfredonia_41.6116_15.8984,Spritzzeria Manfredonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/spritzzeria_manfredonia_41.6116_15.8984.json,custom
+41.611095,15.897949,ov_seashell_restaurant_bar_caf__41.6111_15.8979,Seashell Restaurant Bar Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/seashell_restaurant_bar_caf_41.6111_15.8979.json,custom
+41.620334,15.910021,ov_casa_28_brasserie_41.6203_15.9100,Casa 28 Brasserie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/casa_28_brasserie_41.6203_15.9100.json,custom
+41.622510,15.913640,ov_la_bodeguita_manfredonia_41.6225_15.9136,La Bodeguita Manfredonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_bodeguita_manfredonia_41.6225_15.9136.json,custom
+41.625028,15.909971,ov_bar_baykus_41.6250_15.9100,Bar Baykus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_baykus_41.6250_15.9100.json,custom
+41.624360,15.907439,ov_bar_sipontino_41.6244_15.9074,bar sipontino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_sipontino_41.6244_15.9074.json,custom
+41.623541,15.906535,ov_kailua_41.6235_15.9065,Kailua,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/kailua_41.6235_15.9065.json,custom
+41.623635,15.907793,ov_bar_della_stazione_41.6236_15.9078,Bar della Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_della_stazione_41.6236_15.9078.json,custom
+41.622736,15.906939,ov_caffetteria_silver_41.6227_15.9069,Caffetteria Silver,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caffetteria_silver_41.6227_15.9069.json,custom
+41.620320,15.903790,ov_bar_sprint_41.6203_15.9038,BAR Sprint,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_sprint_41.6203_15.9038.json,custom
+41.620281,15.903683,ov_family_bar_41.6203_15.9037,Family bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/family_bar_41.6203_15.9037.json,custom
+41.621536,15.905442,ov_bar_di_vittorio_41.6215_15.9054,Bar di Vittorio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_di_vittorio_41.6215_15.9054.json,custom
+41.620216,15.903598,ov_caffetteria_cristal_41.6202_15.9036,Caffetteria Cristal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caffetteria_cristal_41.6202_15.9036.json,custom
+41.619783,15.903039,ov_oasi_cafe_41.6198_15.9030,Oasi Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/oasi_cafe_41.6198_15.9030.json,custom
+41.618946,15.901958,ov_caff__incontro_41.6189_15.9020,Caffè Incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caff_incontro_41.6189_15.9020.json,custom
+41.631961,15.902832,ov_tattoo_pub_41.6320_15.9028,Tattoo Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tattoo_pub_41.6320_15.9028.json,custom
+41.627267,15.905787,ov_gaudi_cafe_41.6273_15.9058,Gaudi Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/gaudi_cafe_41.6273_15.9058.json,custom
+41.629057,15.911824,ov_angel_s_cafe_41.6291_15.9118,Angel's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/angels_cafe_41.6291_15.9118.json,custom
+41.625925,15.910200,ov_bosco_bar_41.6259_15.9102,Bosco Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bosco_bar_41.6259_15.9102.json,custom
+41.625777,15.911270,ov_roxy_bar_41.6258_15.9113,Roxy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/roxy_bar_41.6258_15.9113.json,custom
+41.626250,15.912164,ov_sweet_point_41.6262_15.9122,Sweet Point,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sweet_point_41.6262_15.9122.json,custom
+41.627125,15.912177,ov_bar_carpe_diem_41.6271_15.9122,Bar Carpe Diem,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_carpe_diem_41.6271_15.9122.json,custom
+41.626790,15.913492,ov__lite_bar_41.6268_15.9135,Èlite Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/lite_bar_41.6268_15.9135.json,custom
+41.626609,15.915202,ov_coyote_ugly_manfredonia_41.6266_15.9152,Coyote Ugly Manfredonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/coyote_ugly_manfredonia_41.6266_15.9152.json,custom
+41.627164,15.915428,ov_tienda_de_vinos_41.6272_15.9154,Tienda De Vinos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/tienda_de_vinos_41.6272_15.9154.json,custom
+41.627430,15.915610,ov_bar_gatta_41.6274_15.9156,Bar Gatta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_gatta_41.6274_15.9156.json,custom
+41.626797,15.914063,ov_impero_41.6268_15.9141,Impero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/impero_41.6268_15.9141.json,custom
+41.628672,15.914152,ov_la_traccia_nascosta___sound_recording_st_41.6287_15.9142,La Traccia Nascosta - Sound Recording Studio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/la_traccia_nascosta_-_sound_recording_st_41.6287_15.9142.json,custom
+41.630310,15.912660,ov_last_caf__41.6303_15.9127,Last Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/last_caf_41.6303_15.9127.json,custom
+41.630477,15.912570,ov_piazza_d_uomo_41.6305_15.9126,Piazza d'Uomo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/piazza_duomo_41.6305_15.9126.json,custom
+41.635902,15.909042,ov_bar_al_tramonto_41.6359_15.9090,Bar Al Tramonto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_al_tramonto_41.6359_15.9090.json,custom
+41.635741,15.910472,ov_paradise_caffe_41.6357_15.9105,Paradise Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/paradise_caffe_41.6357_15.9105.json,custom
+41.634227,15.913247,ov_bar_fiore_f_lli_bisceglia_41.6342_15.9132,Bar Fiore F.lli Bisceglia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_fiore_flli_bisceglia_41.6342_15.9132.json,custom
+41.633554,15.906293,ov_barcaffetteria_redmoon_41.6336_15.9063,Barcaffetteria Redmoon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/barcaffetteria_redmoon_41.6336_15.9063.json,custom
+41.634582,15.906613,ov_red_moon_bar_caffetteria_41.6346_15.9066,RED MOON bar caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/red_moon_bar_caffetteria_41.6346_15.9066.json,custom
+41.634396,15.895052,ov_cafe_d32_41.6344_15.8951,Cafe D32,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/cafe_d32_41.6344_15.8951.json,custom
+41.633478,15.895508,ov_dauniamatik_41.6335_15.8955,Dauniamatik,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/dauniamatik_41.6335_15.8955.json,custom
+41.637318,15.928866,osm_bar_ungaretti_41.6373_15.9289,Bar Ungaretti,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_ungaretti_41.6373_15.9289.json,custom
+41.635331,15.928717,osm_bar_autuori_41.6353_15.9287,Bar Autuori,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/bar_autuori_41.6353_15.9287.json,custom
+41.635211,15.930684,osm_albatros_41.6352_15.9307,Albatros,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/albatros_41.6352_15.9307.json,custom
+41.626937,15.912017,osm_caf__carpe_diem_41.6269_15.9120,Cafè Carpe Diem,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caf_carpe_diem_41.6269_15.9120.json,custom
+41.638328,15.932771,ov_centro_fitness_level_up_41.6383_15.9328,Centro Fitness Level Up,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/centro_fitness_level_up_41.6383_15.9328.json,custom
+41.637126,15.927374,ov_playa_del_nino_41.6371_15.9274,Playa del Nino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/playa_del_nino_41.6371_15.9274.json,custom
+41.636146,15.928307,ov_palestra_paladante_41.6361_15.9283,Palestra PalaDante,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_paladante_41.6361_15.9283.json,custom
+41.634980,15.925290,ov_new_line_41.6350_15.9253,New Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/new_line_41.6350_15.9253.json,custom
+41.638007,15.926188,ov_a_s_d__isola_fitness_41.6380_15.9262,A.S.D. Isola Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/asd_isola_fitness_41.6380_15.9262.json,custom
+41.638074,15.927145,ov_palestra_sanitas_major_41.6381_15.9271,Palestra Sanitas Major,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_sanitas_major_41.6381_15.9271.json,custom
+41.630895,15.920392,ov_arci_caccia_foggia_41.6309_15.9204,Arci Caccia Foggia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/arci_caccia_foggia_41.6309_15.9204.json,custom
+41.632624,15.920362,ov_mary_j_style_41.6326_15.9204,Mary J Style,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mary_j_style_41.6326_15.9204.json,custom
+41.632593,15.920322,ov_gymnasia_41.6326_15.9203,GYMNASIA,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/gymnasia_41.6326_15.9203.json,custom
+41.631805,15.919708,ov_palestra_olimpia_41.6318_15.9197,Palestra Olimpia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_olimpia_41.6318_15.9197.json,custom
+41.630545,15.917387,ov_studio_reformer_posturale_rossella_brigi_41.6305_15.9174,Studio Reformer Posturale Rossella Brigida,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/studio_reformer_posturale_rossella_brigi_41.6305_15.9174.json,custom
+41.629054,15.916809,ov_padma_yoga_e_benessere_41.6291_15.9168,Padma Yoga e Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/padma_yoga_e_benessere_41.6291_15.9168.json,custom
+41.608696,15.897462,ov_scuola_artistica_ninni_backstage_41.6087_15.8975,Scuola Artistica Ninni Backstage,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/scuola_artistica_ninni_backstage_41.6087_15.8975.json,custom
+41.617318,15.899824,ov_caribe_dance_academy_41.6173_15.8998,Caribe Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/caribe_dance_academy_41.6173_15.8998.json,custom
+41.623843,15.908021,ov_beauty___sport_nutrition_41.6238_15.9080,Beauty & Sport Nutrition,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/beauty_sport_nutrition_41.6238_15.9080.json,custom
+41.623899,15.904830,ov_coreutica_danza_manfredonia_41.6239_15.9048,Coreutica Danza Manfredonia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/coreutica_danza_manfredonia_41.6239_15.9048.json,custom
+41.623736,15.904220,ov_art_ballet_dance_studio_41.6237_15.9042,Art Ballet Dance Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/art_ballet_dance_studio_41.6237_15.9042.json,custom
+41.622814,15.904209,ov_a_s_d_prioletti_dance_academy_41.6228_15.9042,A.s.d Prioletti Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/asd_prioletti_dance_academy_41.6228_15.9042.json,custom
+41.620777,15.904312,ov_palestra_asd_sport_center_magnum_41.6208_15.9043,Palestra ASD Sport Center Magnum,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_asd_sport_center_magnum_41.6208_15.9043.json,custom
+41.621833,15.903504,ov_duemme_41.6218_15.9035,Duemme,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/duemme_41.6218_15.9035.json,custom
+41.619657,15.902985,ov_centri_polivalenti_per_diversamente_abil_41.6197_15.9030,Centri Polivalenti per Diversamente Abili Matteo Tricarico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/centri_polivalenti_per_diversamente_abil_41.6197_15.9030.json,custom
+41.622160,15.903178,ov_accademia_scherma_re_manfredi_41.6222_15.9032,Accademia Scherma RE Manfredi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/accademia_scherma_re_manfredi_41.6222_15.9032.json,custom
+41.630972,15.905534,ov_stella_maris___centro_sportivo_sipontino_41.6310_15.9055,Stella Maris - Centro Sportivo Sipontino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/stella_maris_-_centro_sportivo_sipontino_41.6310_15.9055.json,custom
+41.629626,15.911738,ov_mp_dance_studio_asd_41.6296_15.9117,MP Dance Studio ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/mp_dance_studio_asd_41.6296_15.9117.json,custom
+41.628984,15.911751,ov_stelle_della_daunia_41.6290_15.9118,Stelle della Daunia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/stelle_della_daunia_41.6290_15.9118.json,custom
+41.626756,15.912710,ov_sabor_diferente_academy_41.6268_15.9127,Sabor Diferente Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/sabor_diferente_academy_41.6268_15.9127.json,custom
+41.627737,15.912442,ov_new_perfect_41.6277_15.9124,New Perfect,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/new_perfect_41.6277_15.9124.json,custom
+41.629290,15.912744,ov_palestra_body_art_41.6293_15.9127,Palestra Body Art,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_body_art_41.6293_15.9127.json,custom
+41.632602,15.915637,ov_asd_armonia_fitness_41.6326_15.9156,ASD Armonia Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/asd_armonia_fitness_41.6326_15.9156.json,custom
+41.629646,15.911414,ov_asd_universo_manfredonia_41.6296_15.9114,Asd Universo Manfredonia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/asd_universo_manfredonia_41.6296_15.9114.json,custom
+41.636340,15.912080,ov_palestra_california_gym_41.6363_15.9121,Palestra California GYM,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palestra_california_gym_41.6363_15.9121.json,custom
+41.634177,15.896128,ov_up_level___manfredonia_41.6342_15.8961,UP level - Manfredonia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/up_level_-_manfredonia_41.6342_15.8961.json,custom
+41.643133,15.895448,ov_polisportiva_salvemini_41.6431_15.8954,Polisportiva Salvemini,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/polisportiva_salvemini_41.6431_15.8954.json,custom
+41.596598,15.813735,ov_san_leonardo_basilica_41.5966_15.8137,San Leonardo Basilica,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/san_leonardo_basilica_41.5966_15.8137.json,custom
+41.603427,15.845130,ov_museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451,Museo Storico dei Pompieri e della Croce Rossa Italiana,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451.json,custom
+41.635689,15.923133,ov_museo_nazionale_archeologico_di_manfredo_41.6357_15.9231,Museo nazionale archeologico di Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_nazionale_archeologico_di_manfredo_41.6357_15.9231.json,custom
+41.630311,15.921997,ov_castello_svevo_angioino_aragonese__manfr_41.6303_15.9220,"Castello Svevo Angioino Aragonese, Manfredonia.",MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/castello_svevo_angioino_aragonese_manfre_41.6303_15.9220.json,custom
+41.630447,15.920494,ov_museo_nazionale_di_manfredonia_41.6304_15.9205,Museo nazionale di Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_nazionale_di_manfredonia_41.6304_15.9205.json,custom
+41.628851,15.918444,ov_stele_daunie_41.6289_15.9184,Stele Daunie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/stele_daunie_41.6289_15.9184.json,custom
+41.627019,15.915045,ov_palazzo_dei_celestini___manfredonia_41.6270_15.9150,Palazzo dei Celestini - Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palazzo_dei_celestini_-_manfredonia_41.6270_15.9150.json,custom

@@ -1,20 +1,20 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # manduria -- gyms
-40.393076,17.642935,ov_spring_sport_40.3931_17.6429,Spring Sport,GYM,palestra
-40.394980,17.643015,ov_spazio_personal_40.3950_17.6430,Spazio Personal,GYM,palestra
-40.401567,17.648766,ov_arabesque_school_40.4016_17.6488,Arabesque School,GYM,palestra
-40.402868,17.653083,ov_centurion_club_italy_mma_40.4029_17.6531,Centurion Club Italy MMA,GYM,palestra
-40.404777,17.649507,ov_fuorigioco_centro_sportivo_40.4048_17.6495,Fuorigioco centro sportivo,GYM,palestra
-40.403043,17.640639,ov_olimpic_center_40.4030_17.6406,Olimpic Center,GYM,palestra
-40.399984,17.644033,ov_prospettiva_danza_asd_40.4000_17.6440,Prospettiva Danza Asd,GYM,palestra
-40.401157,17.636445,ov_g__l__la_tana_del_folletto_40.4012_17.6364,G. L. La Tana del Folletto,GYM,palestra
-40.403111,17.633081,ov_passione_danza_asd_40.4031_17.6331,Passione Danza asd,GYM,palestra
-40.405613,17.641746,ov_fabrizio_mastrovito_40.4056_17.6417,Fabrizio Mastrovito,GYM,palestra
-40.409778,17.636425,ov_pt_lab_40.4098_17.6364,PT Lab,GYM,palestra
-40.412873,17.626538,ov_palestra_new_california_fitness_40.4129_17.6265,Palestra New California Fitness,GYM,palestra
-40.404954,17.630319,ov_new_winner_dance_40.4050_17.6303,New Winner Dance,GYM,palestra
-40.397680,17.628190,ov_rosy_dance_2001_40.3977_17.6282,Rosy Dance 2001,GYM,palestra
-40.397020,17.631640,ov_il_campo_del_cinabro_40.3970_17.6316,Il Campo del Cinabro,GYM,palestra
-40.393621,17.630351,ov_asd_zen_club_40.3936_17.6304,ASD Zen Club,GYM,palestra
-40.380504,17.619710,ov_centro_yoga_e_aikido_manduria_40.3805_17.6197,Centro Yoga e Aikido Manduria,GYM,palestra
-40.304157,17.655274,ov_girasolelido_40.3042_17.6553,Girasolelido,GYM,palestra
+40.393076,17.642935,ov_spring_sport_40.3931_17.6429,Spring Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/spring_sport_40.3931_17.6429.json,custom
+40.394980,17.643015,ov_spazio_personal_40.3950_17.6430,Spazio Personal,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/spazio_personal_40.3950_17.6430.json,custom
+40.401567,17.648766,ov_arabesque_school_40.4016_17.6488,Arabesque School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/arabesque_school_40.4016_17.6488.json,custom
+40.402868,17.653083,ov_centurion_club_italy_mma_40.4029_17.6531,Centurion Club Italy MMA,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/centurion_club_italy_mma_40.4029_17.6531.json,custom
+40.404777,17.649507,ov_fuorigioco_centro_sportivo_40.4048_17.6495,Fuorigioco centro sportivo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/fuorigioco_centro_sportivo_40.4048_17.6495.json,custom
+40.403043,17.640639,ov_olimpic_center_40.4030_17.6406,Olimpic Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/olimpic_center_40.4030_17.6406.json,custom
+40.399984,17.644033,ov_prospettiva_danza_asd_40.4000_17.6440,Prospettiva Danza Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/prospettiva_danza_asd_40.4000_17.6440.json,custom
+40.401157,17.636445,ov_g__l__la_tana_del_folletto_40.4012_17.6364,G. L. La Tana del Folletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/g_l_la_tana_del_folletto_40.4012_17.6364.json,custom
+40.403111,17.633081,ov_passione_danza_asd_40.4031_17.6331,Passione Danza asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/passione_danza_asd_40.4031_17.6331.json,custom
+40.405613,17.641746,ov_fabrizio_mastrovito_40.4056_17.6417,Fabrizio Mastrovito,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/fabrizio_mastrovito_40.4056_17.6417.json,custom
+40.409778,17.636425,ov_pt_lab_40.4098_17.6364,PT Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/pt_lab_40.4098_17.6364.json,custom
+40.412873,17.626538,ov_palestra_new_california_fitness_40.4129_17.6265,Palestra New California Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/palestra_new_california_fitness_40.4129_17.6265.json,custom
+40.404954,17.630319,ov_new_winner_dance_40.4050_17.6303,New Winner Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/new_winner_dance_40.4050_17.6303.json,custom
+40.397680,17.628190,ov_rosy_dance_2001_40.3977_17.6282,Rosy Dance 2001,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/rosy_dance_2001_40.3977_17.6282.json,custom
+40.397020,17.631640,ov_il_campo_del_cinabro_40.3970_17.6316,Il Campo del Cinabro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/il_campo_del_cinabro_40.3970_17.6316.json,custom
+40.393621,17.630351,ov_asd_zen_club_40.3936_17.6304,ASD Zen Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/asd_zen_club_40.3936_17.6304.json,custom
+40.380504,17.619710,ov_centro_yoga_e_aikido_manduria_40.3805_17.6197,Centro Yoga e Aikido Manduria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/centro_yoga_e_aikido_manduria_40.3805_17.6197.json,custom
+40.304157,17.655274,ov_girasolelido_40.3042_17.6553,Girasolelido,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/girasolelido_40.3042_17.6553.json,custom

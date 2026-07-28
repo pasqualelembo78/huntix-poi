@@ -1,20 +1,20 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # nova_siri -- bars_cafes
-40.146354,16.538844,ov_bar_mary_40.1464_16.5388,Bar Mary,RESTAURANT,bar_cafe
-40.149130,16.542220,ov_bar_sala_giochi_underground_40.1491_16.5422,Bar/sala giochi Underground,RESTAURANT,bar_cafe
-40.146380,16.540960,ov_bar_al_puntogiusto_40.1464_16.5410,Bar al puntogiusto,RESTAURANT,bar_cafe
-40.140276,16.634644,ov_birrificio_jonico_40.1403_16.6346,Birrificio Jonico,RESTAURANT,bar_cafe
-40.134179,16.636302,ov_boston_cafe_40.1342_16.6363,Boston Cafe,RESTAURANT,bar_cafe
-40.131906,16.636759,ov_marin_bar_40.1319_16.6368,Marin Bar,RESTAURANT,bar_cafe
-40.131954,16.636555,ov_chiosco_bar_la_plaza_40.1320_16.6366,Chiosco bar La Plaza,RESTAURANT,bar_cafe
-40.131256,16.633342,ov_chiosco_bar_drive_40.1313_16.6333,Chiosco Bar DRIVE,RESTAURANT,bar_cafe
-40.129464,16.639863,ov_bar_jolly_40.1295_16.6399,Bar Jolly,RESTAURANT,bar_cafe
-40.130486,16.639468,ov_caff__e_dolcezze_40.1305_16.6395,Caffè e Dolcezze,RESTAURANT,bar_cafe
-40.130908,16.639110,ov_l_albero_del_riccio_shabby_bar_40.1309_16.6391,L’albero del riccio Shabby Bar,RESTAURANT,bar_cafe
-40.130432,16.639706,ov_caff__del_corso_40.1304_16.6397,Caffè del Corso,RESTAURANT,bar_cafe
-40.129720,16.641942,ov_gran_caffe_essential_40.1297_16.6419,Gran Caffe Essential,RESTAURANT,bar_cafe
-40.130253,16.643644,ov_emme_drinks_and_more_40.1303_16.6436,Emme Drinks and More,RESTAURANT,bar_cafe
-40.122910,16.648930,ov_l_avana_bar_40.1229_16.6489,L'Avana Bar,RESTAURANT,bar_cafe
-40.119458,16.644038,ov_vida_loca_club_40.1195_16.6440,Vida Loca Club,RESTAURANT,bar_cafe
-40.127423,16.655058,ov_delirium_cocktail_bar_40.1274_16.6551,Delirium Cocktail Bar,RESTAURANT,bar_cafe
-40.128410,16.653410,ov_taj_mahal___event_bar_40.1284_16.6534,Taj Mahal - Event Bar,RESTAURANT,bar_cafe
+40.146354,16.538844,ov_bar_mary_40.1464_16.5388,Bar Mary,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/bar_mary_40.1464_16.5388.json,custom
+40.149130,16.542220,ov_bar_sala_giochi_underground_40.1491_16.5422,Bar/sala giochi Underground,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/barsala_giochi_underground_40.1491_16.5422.json,custom
+40.146380,16.540960,ov_bar_al_puntogiusto_40.1464_16.5410,Bar al puntogiusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/bar_al_puntogiusto_40.1464_16.5410.json,custom
+40.140276,16.634644,ov_birrificio_jonico_40.1403_16.6346,Birrificio Jonico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/birrificio_jonico_40.1403_16.6346.json,custom
+40.134179,16.636302,ov_boston_cafe_40.1342_16.6363,Boston Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/boston_cafe_40.1342_16.6363.json,custom
+40.131906,16.636759,ov_marin_bar_40.1319_16.6368,Marin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/marin_bar_40.1319_16.6368.json,custom
+40.131954,16.636555,ov_chiosco_bar_la_plaza_40.1320_16.6366,Chiosco bar La Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/chiosco_bar_la_plaza_40.1320_16.6366.json,custom
+40.131256,16.633342,ov_chiosco_bar_drive_40.1313_16.6333,Chiosco Bar DRIVE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/chiosco_bar_drive_40.1313_16.6333.json,custom
+40.129464,16.639863,ov_bar_jolly_40.1295_16.6399,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/bar_jolly_40.1295_16.6399.json,custom
+40.130486,16.639468,ov_caff__e_dolcezze_40.1305_16.6395,Caffè e Dolcezze,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/caff_e_dolcezze_40.1305_16.6395.json,custom
+40.130908,16.639110,ov_l_albero_del_riccio_shabby_bar_40.1309_16.6391,L’albero del riccio Shabby Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/lalbero_del_riccio_shabby_bar_40.1309_16.6391.json,custom
+40.130432,16.639706,ov_caff__del_corso_40.1304_16.6397,Caffè del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/caff_del_corso_40.1304_16.6397.json,custom
+40.129720,16.641942,ov_gran_caffe_essential_40.1297_16.6419,Gran Caffe Essential,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/gran_caffe_essential_40.1297_16.6419.json,custom
+40.130253,16.643644,ov_emme_drinks_and_more_40.1303_16.6436,Emme Drinks and More,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/emme_drinks_and_more_40.1303_16.6436.json,custom
+40.122910,16.648930,ov_l_avana_bar_40.1229_16.6489,L'Avana Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/lavana_bar_40.1229_16.6489.json,custom
+40.119458,16.644038,ov_vida_loca_club_40.1195_16.6440,Vida Loca Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/vida_loca_club_40.1195_16.6440.json,custom
+40.127423,16.655058,ov_delirium_cocktail_bar_40.1274_16.6551,Delirium Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/delirium_cocktail_bar_40.1274_16.6551.json,custom
+40.128410,16.653410,ov_taj_mahal___event_bar_40.1284_16.6534,Taj Mahal - Event Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/taj_mahal_-_event_bar_40.1284_16.6534.json,custom

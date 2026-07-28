@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # galatone -- gyms
-40.150183,18.065084,ov_artedanza_40.1502_18.0651,ArteDanza,GYM,palestra
-40.149615,18.068799,ov_betitaly_40.1496_18.0688,Betitaly,GYM,palestra
-40.149085,18.068309,ov_palestra_life_planet_40.1491_18.0683,Palestra Life Planet,GYM,palestra
-40.148272,18.063978,ov_i_cinque_elementi_40.1483_18.0640,I Cinque Elementi,GYM,palestra
-40.147735,18.064692,ov_aj_fusion_academy_40.1477_18.0647,AJ Fusion Academy,GYM,palestra
-40.147210,18.067100,ov_lab83___laboratorio_urbano_galatone_40.1472_18.0671,Lab83 - Laboratorio Urbano Galatone,GYM,palestra
-40.146371,18.077406,ov_prima_classe_fit_center_40.1464_18.0774,Prima Classe Fit Center,GYM,palestra
-40.154750,18.067990,ov_befit_del_dott__francesco_gioffreda___ca_40.1547_18.0680,BEFIT del Dott. Francesco Gioffreda - Calisthenics/Streetlif,GYM,palestra
-40.153045,18.072181,ov_palestra_active_planet_40.1530_18.0722,Palestra Active Planet,GYM,palestra
-40.151637,18.070573,ov_body_evolution_40.1516_18.0706,Body Evolution,GYM,palestra
-40.150520,18.064090,ov_asd_citt__di_galatone_40.1505_18.0641,ASD Città di Galatone,GYM,palestra
-40.155150,18.069784,ov_energym_galatone_40.1551_18.0698,EnerGym Galatone,GYM,palestra
+40.150183,18.065084,ov_artedanza_40.1502_18.0651,ArteDanza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/artedanza_40.1502_18.0651.json,custom
+40.149615,18.068799,ov_betitaly_40.1496_18.0688,Betitaly,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/betitaly_40.1496_18.0688.json,custom
+40.149085,18.068309,ov_palestra_life_planet_40.1491_18.0683,Palestra Life Planet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/palestra_life_planet_40.1491_18.0683.json,custom
+40.148272,18.063978,ov_i_cinque_elementi_40.1483_18.0640,I Cinque Elementi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/i_cinque_elementi_40.1483_18.0640.json,custom
+40.147735,18.064692,ov_aj_fusion_academy_40.1477_18.0647,AJ Fusion Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/aj_fusion_academy_40.1477_18.0647.json,custom
+40.147210,18.067100,ov_lab83___laboratorio_urbano_galatone_40.1472_18.0671,Lab83 - Laboratorio Urbano Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/lab83_-_laboratorio_urbano_galatone_40.1472_18.0671.json,custom
+40.146371,18.077406,ov_prima_classe_fit_center_40.1464_18.0774,Prima Classe Fit Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/prima_classe_fit_center_40.1464_18.0774.json,custom
+40.154750,18.067990,ov_befit_del_dott__francesco_gioffreda___ca_40.1547_18.0680,BEFIT del Dott. Francesco Gioffreda - Calisthenics/Streetlif,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/befit_del_dott_francesco_gioffreda_-_cal_40.1547_18.0680.json,custom
+40.153045,18.072181,ov_palestra_active_planet_40.1530_18.0722,Palestra Active Planet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/palestra_active_planet_40.1530_18.0722.json,custom
+40.151637,18.070573,ov_body_evolution_40.1516_18.0706,Body Evolution,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/body_evolution_40.1516_18.0706.json,custom
+40.150520,18.064090,ov_asd_citt__di_galatone_40.1505_18.0641,ASD Città di Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/asd_citt_di_galatone_40.1505_18.0641.json,custom
+40.155150,18.069784,ov_energym_galatone_40.1551_18.0698,EnerGym Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/energym_galatone_40.1551_18.0698.json,custom

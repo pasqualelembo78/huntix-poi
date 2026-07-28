@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # galatina -- landmarks
-40.174382,18.168835,ov_castello_castriota_scanderbeg_40.1744_18.1688,Castello Castriota Scanderbeg,MONUMENT,monumento
-40.175055,18.167733,ov_museo_d_arte__pietro_cavoti__museo_civic_40.1751_18.1677,Museo d’Arte “Pietro Cavoti” Museo Civico,MUSEUM,monumento
+40.174382,18.168835,ov_castello_castriota_scanderbeg_40.1744_18.1688,Castello Castriota Scanderbeg,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/castello_castriota_scanderbeg_40.1744_18.1688.json,custom
+40.175055,18.167733,ov_museo_d_arte__pietro_cavoti__museo_civic_40.1751_18.1677,Museo d’Arte “Pietro Cavoti” Museo Civico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/museo_darte_pietro_cavoti_museo_civico_40.1751_18.1677.json,custom

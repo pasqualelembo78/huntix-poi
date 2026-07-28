@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # atena_lucana -- bars_cafes
-40.434531,15.549175,ov_caff__85_40.4345_15.5492,Caffè 85,RESTAURANT,bar_cafe
-40.437783,15.551604,ov_cat_s_eye_caf__40.4378_15.5516,Cat's Eye Cafè,RESTAURANT,bar_cafe
-40.436324,15.552506,ov_green_bar_atena_lucana_scalo_40.4363_15.5525,green bar atena lucana scalo,RESTAURANT,bar_cafe
-40.444867,15.547655,ov_iqos_partner___cafe__victor_di_gentile_r_40.4449_15.5477,IQOS PARTNER - Cafe' Victor di Gentile Renzo,RESTAURANT,bar_cafe
-40.441775,15.550037,ov_bar_ricevitoria_la_moneta_40.4418_15.5500,Bar Ricevitoria La Moneta,RESTAURANT,bar_cafe
-40.449230,15.544619,ov_bar_accaventiquattro__atena__40.4492_15.5446,Bar AccaventiQuattro. Atena.,RESTAURANT,bar_cafe
-40.455775,15.528375,ov_m_bar_amodio_official_40.4558_15.5284,M BAR Amodio Official,RESTAURANT,bar_cafe
-40.543207,15.642451,ov_caf__victor_40.5432_15.6425,Cafè Victor,RESTAURANT,bar_cafe
-40.456950,15.542381,ov_green_bar_tavola_calda_40.4569_15.5424,Green Bar Tavola Calda,RESTAURANT,bar_cafe
-40.455626,15.538868,ov_caf__new_age_40.4556_15.5389,Cafè New Age,RESTAURANT,bar_cafe
-40.454779,15.537665,ov_giu_co_s_bar___atena_lucana_40.4548_15.5377,Giu.Co's BAR - Atena Lucana,RESTAURANT,bar_cafe
-40.454281,15.553568,ov_ciorciari_michele_bar_memis_40.4543_15.5536,Ciorciari Michele bar Memis,RESTAURANT,bar_cafe
-40.454218,15.554433,ov_albergo_bar_tabacchi_trieste_1963_40.4542_15.5544,Albergo Bar Tabacchi Trieste 1963,RESTAURANT,bar_cafe
-40.454200,15.555060,ov_caffelle_40.4542_15.5551,Caffelle,RESTAURANT,bar_cafe
+40.434531,15.549175,ov_caff__85_40.4345_15.5492,Caffè 85,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/caff_85_40.4345_15.5492.json,custom
+40.437783,15.551604,ov_cat_s_eye_caf__40.4378_15.5516,Cat's Eye Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/cats_eye_caf_40.4378_15.5516.json,custom
+40.436324,15.552506,ov_green_bar_atena_lucana_scalo_40.4363_15.5525,green bar atena lucana scalo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/green_bar_atena_lucana_scalo_40.4363_15.5525.json,custom
+40.444867,15.547655,ov_iqos_partner___cafe__victor_di_gentile_r_40.4449_15.5477,IQOS PARTNER - Cafe' Victor di Gentile Renzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/iqos_partner_-_cafe_victor_di_gentile_re_40.4449_15.5477.json,custom
+40.441775,15.550037,ov_bar_ricevitoria_la_moneta_40.4418_15.5500,Bar Ricevitoria La Moneta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/bar_ricevitoria_la_moneta_40.4418_15.5500.json,custom
+40.449230,15.544619,ov_bar_accaventiquattro__atena__40.4492_15.5446,Bar AccaventiQuattro. Atena.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/bar_accaventiquattro_atena_40.4492_15.5446.json,custom
+40.455775,15.528375,ov_m_bar_amodio_official_40.4558_15.5284,M BAR Amodio Official,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/m_bar_amodio_official_40.4558_15.5284.json,custom
+40.543207,15.642451,ov_caf__victor_40.5432_15.6425,Cafè Victor,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/caf_victor_40.5432_15.6425.json,custom
+40.456950,15.542381,ov_green_bar_tavola_calda_40.4569_15.5424,Green Bar Tavola Calda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/green_bar_tavola_calda_40.4569_15.5424.json,custom
+40.455626,15.538868,ov_caf__new_age_40.4556_15.5389,Cafè New Age,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/caf_new_age_40.4556_15.5389.json,custom
+40.454779,15.537665,ov_giu_co_s_bar___atena_lucana_40.4548_15.5377,Giu.Co's BAR - Atena Lucana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/giucos_bar_-_atena_lucana_40.4548_15.5377.json,custom
+40.454281,15.553568,ov_ciorciari_michele_bar_memis_40.4543_15.5536,Ciorciari Michele bar Memis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/ciorciari_michele_bar_memis_40.4543_15.5536.json,custom
+40.454218,15.554433,ov_albergo_bar_tabacchi_trieste_1963_40.4542_15.5544,Albergo Bar Tabacchi Trieste 1963,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/albergo_bar_tabacchi_trieste_1963_40.4542_15.5544.json,custom
+40.454200,15.555060,ov_caffelle_40.4542_15.5551,Caffelle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/atena_lucana/pages/caffelle_40.4542_15.5551.json,custom

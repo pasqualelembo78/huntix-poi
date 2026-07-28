@@ -1,173 +1,164 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bisceglie -- restaurants
-41.240194,16.500448,osm_pizzeria_centro_41.2402_16.5004,Pizzeria Centro,ristorante,ristorante
-41.229358,16.536955,osm_brezza_tra_gli_ulivi_41.2294_16.5370,Brezza Tra Gli Ulivi,ristorante,ristorante
-41.235126,16.508000,osm_la_taverna_del_duca_41.2351_16.5080,La Taverna del Duca,ristorante,ristorante
-41.230958,16.496751,osm_happy_days_41.2310_16.4968,Happy Days,ristorante,ristorante
-41.237022,16.509159,osm_a_casa_mia_41.2370_16.5092,A Casa Mia,ristorante,ristorante
-41.238710,16.509739,osm_pizzeria_da_gino_41.2387_16.5097,Pizzeria Da Gino,ristorante,ristorante
-41.241606,16.503985,osm_il_cerriglio_41.2416_16.5040,Il Cerriglio,ristorante,ristorante
-41.241178,16.503706,osm_trattoria_braceria_biscegliese_41.2412_16.5037,Trattoria Braceria Biscegliese,ristorante,ristorante
-41.231186,16.497292,osm_pizzeria_al_dolmen_41.2312_16.4973,Pizzeria Al Dolmen,ristorante,ristorante
-41.244244,16.503622,osm_la_baguetterie___bistrot_du_port_41.2442_16.5036,La Baguetterie - Bistrot du port,ristorante,ristorante
-41.255071,16.477370,osm_da_sergio_e_davide_41.2551_16.4774,Da Sergio e Davide,ristorante,ristorante
-41.242059,16.502137,osm_osteria_san_domenico_41.2421_16.5021,Osteria San Domenico,ristorante,ristorante
-41.240735,16.505000,osm_bue_marino_41.2407_16.5050,Bue Marino,ristorante,ristorante
-41.240814,16.502842,osm_fidelio_41.2408_16.5028,Fidelio,ristorante,ristorante
-41.238983,16.504981,osm_mani_kebab_41.2390_16.5050,Mani Kebab,ristorante,ristorante
-41.236247,16.500175,osm_snoopy_2_0_41.2362_16.5002,Snoopy 2.0,ristorante,ristorante
-41.239767,16.500029,osm_paninhour_41.2398_16.5000,Paninhour,ristorante,ristorante
-41.233548,16.511233,osm_34_dicembre_41.2335_16.5112,34 Dicembre,ristorante,ristorante
-41.255544,16.479188,ov_toma_la_luna_41.2555_16.4792,Toma La Luna,RESTAURANT,ristorante
-41.255240,16.477080,ov_l_essenziale___sea_food_relax_41.2552_16.4771,L'Essenziale - Sea Food Relax,RESTAURANT,ristorante
-41.255150,16.477496,ov_la_baguetterie_summer_bisceglie_41.2552_16.4775,La Baguetterie Summer bisceglie,RESTAURANT,ristorante
-41.255144,16.477378,ov_ristorante_pizzeria_da__sergio_e_davide__41.2551_16.4774,Ristorante Pizzeria da “Sergio e Davide”,RESTAURANT,ristorante
-41.252809,16.470200,ov_pizzeria_a_casa_mia___bisceglie_41.2528_16.4702,Pizzeria A Casa Mia - Bisceglie,RESTAURANT,ristorante
-41.252532,16.470035,ov_antico_granaio_41.2525_16.4700,Antico Granaio,RESTAURANT,ristorante
-41.254348,16.482516,ov_golden_cliff_41.2543_16.4825,Golden Cliff,RESTAURANT,ristorante
-41.254664,16.481514,ov_la_campana_41.2547_16.4815,La Campana,RESTAURANT,ristorante
-41.250565,16.485461,ov_pizzeria_beverly_41.2506_16.4855,Pizzeria Beverly,RESTAURANT,ristorante
-41.249183,16.487219,ov_villa_torre_rossa___ricevimenti_41.2492_16.4872,Villa Torre Rossa - Ricevimenti,RESTAURANT,ristorante
-41.249459,16.496494,ov_tuka_beach___lido_a_bisceglie_41.2495_16.4965,Tuka Beach - Lido a Bisceglie,RESTAURANT,ristorante
-41.248506,16.480923,ov_fermata_facoltativa_41.2485_16.4809,Fermata Facoltativa,RESTAURANT,ristorante
-41.247731,16.486748,ov_due_e_undici_41.2477_16.4867,Due e Undici,RESTAURANT,ristorante
-41.246661,16.504759,ov_il_pesce_pane_41.2467_16.5048,Il Pesce Pane,RESTAURANT,ristorante
-41.242553,16.513118,ov_da_cosimino_41.2426_16.5131,Da CosiMino,RESTAURANT,ristorante
-41.244252,16.503581,ov_momi_bisceglie_41.2443_16.5036,MOMI Bisceglie,RESTAURANT,ristorante
-41.244104,16.503762,ov_la_baguetterie___bistrot_du_port_41.2441_16.5038,La Baguetterie - Bistrot Du Port,RESTAURANT,ristorante
-41.244076,16.503686,ov_la_nassa___friselleria_41.2441_16.5037,La Nassa - Friselleria,RESTAURANT,ristorante
-41.244073,16.502944,ov_sushi_a_ichi_japanese_nuova_apertura_41.2441_16.5029,sushi A.ichi Japanese nuova apertura,RESTAURANT,ristorante
-41.243943,16.502974,ov_al_28_41.2439_16.5030,Al 28,RESTAURANT,ristorante
-41.244002,16.502863,ov_relo_41.2440_16.5029,Relo,RESTAURANT,ristorante
-41.243799,16.503680,ov_al_buco_dei_pescatori_41.2438_16.5037,Al Buco dei pescatori,RESTAURANT,ristorante
-41.243268,16.504584,ov_capriccio_di_mare_41.2433_16.5046,Capriccio di Mare,RESTAURANT,ristorante
-41.243267,16.505319,ov_maresca_41.2433_16.5053,Maresca,RESTAURANT,ristorante
-41.242782,16.506806,ov_poseidon_41.2428_16.5068,Poseidon,RESTAURANT,ristorante
-41.242224,16.508144,ov_zen_pizzeria_41.2422_16.5081,Zen Pizzeria,RESTAURANT,ristorante
-41.242249,16.497495,ov_remi_41.2422_16.4975,Remi,RESTAURANT,ristorante
-41.242505,16.496986,ov_il_piccolo_giardino_41.2425_16.4970,Il Piccolo Giardino,RESTAURANT,ristorante
-41.242478,16.496962,ov_biga___bisceglie_41.2425_16.4970,Biga - Bisceglie,RESTAURANT,ristorante
-41.242999,16.494791,ov_il_priscio_41.2430_16.4948,Il Priscio,RESTAURANT,ristorante
-41.243287,16.490364,ov_puntoeacapo_bisceglie_41.2433_16.4904,Puntoeacapo Bisceglie,RESTAURANT,ristorante
-41.243550,16.488495,ov_corte_in_fiore_trani_41.2436_16.4885,Corte In Fiore Trani,RESTAURANT,ristorante
-41.243879,16.491652,ov_ay__fusion_sushi_41.2439_16.4917,Ayì Fusion Sushi,RESTAURANT,ristorante
-41.244160,16.488891,ov_santacrosta__brace__birra___farina_41.2442_16.4889,"Santacrosta, Brace, Birra & Farina",RESTAURANT,ristorante
-41.244054,16.488952,ov_tred__caf__bistrot_41.2441_16.4890,Tredì Cafè Bistrot,RESTAURANT,ristorante
-41.244170,16.487200,ov_bellavitainpuglia_it_41.2442_16.4872,Bellavitainpuglia.it,RESTAURANT,ristorante
-41.245243,16.491461,ov_ittica_ventura___eat___drink_41.2452_16.4915,Ittica Ventura - Eat & Drink,RESTAURANT,ristorante
-41.245184,16.491706,ov_il_piccantino_41.2452_16.4917,Il Piccantino,RESTAURANT,ristorante
-41.244596,16.489956,ov_kanagawa_sushi_all_you_can_eat_41.2446_16.4900,Kanagawa Sushi All You Can Eat,RESTAURANT,ristorante
-41.244614,16.489989,ov_sakana_sushi_41.2446_16.4900,Sakana Sushi,RESTAURANT,ristorante
-41.244480,16.490221,ov_mcdonald_s_41.2445_16.4902,McDonald's,RESTAURANT,ristorante
-41.244739,16.503831,ov_casa_al_mar_41.2447_16.5038,Casa al Mar,RESTAURANT,ristorante
-41.244683,16.503818,ov_botanicals___co_41.2447_16.5038,Botanicals & Co,RESTAURANT,ristorante
-41.244430,16.503655,ov_rosso_oltremare_41.2444_16.5037,Rosso Oltremare,RESTAURANT,ristorante
-41.244468,16.504182,ov_juan_les_pins___trattoria_di_mare_41.2445_16.5042,Juan Les Pins - Trattoria di Mare,RESTAURANT,ristorante
-41.244835,16.504403,ov_krudo_mare_in_purezza_41.2448_16.5044,Krudo Mare In Purezza,RESTAURANT,ristorante
-41.244864,16.504668,ov_tortuga_steak_bistrot_41.2449_16.5047,Tortuga Steak Bistrot,RESTAURANT,ristorante
-41.249055,16.478071,ov_sweetlife__bar_pizzeria_41.2491_16.4781,SweetLife  Bar/Pizzeria,RESTAURANT,ristorante
-41.238435,16.503346,ov_pizzeria_la_rustica_41.2384_16.5033,Pizzeria La Rustica,RESTAURANT,ristorante
-41.238186,16.500207,ov_la_scarpetta___take_away_41.2382_16.5002,La Scarpetta - Take Away,RESTAURANT,ristorante
-41.237965,16.502850,ov_pazzo_pazzo_mondo_41.2380_16.5029,Pazzo Pazzo Mondo,RESTAURANT,ristorante
-41.238060,16.504570,ov_speedy_pizza_bisceglie_41.2381_16.5046,Speedy Pizza Bisceglie,RESTAURANT,ristorante
-41.238382,16.509831,ov_osteria_del_seminario_sas_41.2384_16.5098,Osteria Del Seminario Sas,RESTAURANT,ristorante
-41.238712,16.506136,ov_le_uova_di_russo_41.2387_16.5061,Le Uova di Russo,RESTAURANT,ristorante
-41.238675,16.509680,ov_pizzeria_da_gino_41.2387_16.5097,Pizzeria Da Gino,RESTAURANT,ristorante
-41.238711,16.508892,ov_pizzeria_dal_ciccione_41.2387_16.5089,Pizzeria dal CicciOne,RESTAURANT,ristorante
-41.238879,16.510790,ov_mare_blu_fish___food_41.2389_16.5108,Mare Blu Fish & Food,RESTAURANT,ristorante
-41.238793,16.505287,ov_mergellina_41.2388_16.5053,Mergellina,RESTAURANT,ristorante
-41.238963,16.504949,ov_mani_kebab_41.2390_16.5049,Mani Kebab,RESTAURANT,ristorante
-41.239516,16.501517,ov_pizzeria_la_fontana_41.2395_16.5015,Pizzeria La Fontana,RESTAURANT,ristorante
-41.239080,16.503280,ov_g_o_l_d_e_n__f_o_o_d_41.2391_16.5033,G o l d e n  F o o d,RESTAURANT,ristorante
-41.239043,16.503539,ov_insal__bay___born_in_puglia_41.2390_16.5035,Insalà Bay - Born In Puglia,RESTAURANT,ristorante
-41.239571,16.506053,ov_wide_mercy_bistrot_pizzeria_antipasteria_41.2396_16.5061,Wide Mercy Bistrot pizzeria antipasteria,RESTAURANT,ristorante
-41.239748,16.505794,ov_lo_spigolo_di_gi__41.2397_16.5058,Lo Spigolo Di Giò,RESTAURANT,ristorante
-41.239720,16.508174,ov_boutique_carni_e_salumi_napoletano___bis_41.2397_16.5082,Boutique Carni e Salumi Napoletano - Bisceglie,RESTAURANT,ristorante
-41.239682,16.508091,ov_tema_41.2397_16.5081,Tema,RESTAURANT,ristorante
-41.239657,16.506258,ov_casa_del_pollo_41.2397_16.5063,Casa Del Pollo,RESTAURANT,ristorante
-41.239806,16.508227,ov_pizzeria_due_punto_20_41.2398_16.5082,Pizzeria Due Punto 20,RESTAURANT,ristorante
-41.239991,16.504690,ov_lo_sfizietto_41.2400_16.5047,Lo Sfizietto,RESTAURANT,ristorante
-41.239871,16.500208,ov_pizzeria_lievito_48_41.2399_16.5002,Pizzeria Lievito 48,RESTAURANT,ristorante
-41.239918,16.499661,ov_osteria_u_nglesce_41.2399_16.4997,Osteria U'nglesce,RESTAURANT,ristorante
-41.239880,16.498750,ov_caggianelli_auto_bisceglie_41.2399_16.4988,Caggianelli Auto Bisceglie,RESTAURANT,ristorante
-41.239552,16.495000,ov_l_angolo_della_pizza_41.2396_16.4950,L'angolo della pizza,RESTAURANT,ristorante
-41.241913,16.492314,ov_cocola_bistrot_41.2419_16.4923,Cocola Bistrot,RESTAURANT,ristorante
-41.241737,16.492391,ov_la_mousse_di_antonio_cannone_41.2417_16.4924,La Mousse di Antonio Cannone,RESTAURANT,ristorante
-41.241222,16.494096,ov_pane_and_pomodoro_41.2412_16.4941,Pane and Pomodoro,RESTAURANT,ristorante
-41.241189,16.503669,ov_trattoria_braceria_biscegliese_41.2412_16.5037,Trattoria Braceria Biscegliese,RESTAURANT,ristorante
-41.241487,16.501947,ov_cibosofia_41.2415_16.5019,CIBOSOFIA,RESTAURANT,ristorante
-41.241407,16.501605,ov_mi_amor_creperia_cornetteria_41.2414_16.5016,Mi amor creperia-cornetteria,RESTAURANT,ristorante
-41.241409,16.499788,ov_billa_41.2414_16.4998,Billa,RESTAURANT,ristorante
-41.241798,16.498854,ov_emozioni_italiane___biancheria_e_corredi_41.2418_16.4989,Emozioni Italiane - Biancheria e corredi,RESTAURANT,ristorante
-41.241901,16.496007,ov_macelleria_griglieria_di_liddo_41.2419_16.4960,Macelleria griglieria di liddo,RESTAURANT,ristorante
-41.242174,16.498056,ov_puglia_pizza_41.2422_16.4981,Puglia Pizza,RESTAURANT,ristorante
-41.241990,16.498225,ov_salumeria_napoletano_bisceglie_41.2420_16.4982,Salumeria Napoletano Bisceglie,RESTAURANT,ristorante
-41.242041,16.501533,ov_andrea_cuisine_gourmet_41.2420_16.5015,Andrea Cuisine Gourmet,RESTAURANT,ristorante
-41.242117,16.502121,ov_osteria_san_domenico_41.2421_16.5021,Osteria San Domenico,RESTAURANT,ristorante
-41.241687,16.504008,ov_osteria_il_cerriglio_41.2417_16.5040,Osteria Il Cerriglio,RESTAURANT,ristorante
-41.242016,16.509001,ov_l_acrobatica_pizzeria_41.2420_16.5090,L'Acrobatica Pizzeria,RESTAURANT,ristorante
-41.241430,16.506101,ov_ilrestomancia_bisceglie_41.2414_16.5061,Ilrestomancia Bisceglie,RESTAURANT,ristorante
-41.241328,16.505939,ov_g_h_bisceglie_41.2413_16.5059,G'H Bisceglie,RESTAURANT,ristorante
-41.241131,16.509891,ov_la_movida_41.2411_16.5099,La Movida,RESTAURANT,ristorante
-41.240666,16.506000,ov_meduza_bisceglie___pizza_grill___club_41.2407_16.5060,Meduza Bisceglie - Pizza Grill & Club,RESTAURANT,ristorante
-41.240613,16.504289,ov_pizzeria_al_buco_preferito_41.2406_16.5043,Pizzeria Al Buco Preferito,RESTAURANT,ristorante
-41.240851,16.506027,ov_qui___giusto_41.2409_16.5060,Qui è giusto,RESTAURANT,ristorante
-41.240856,16.506026,ov_pizzeria_soulmar___dal_mare_al_borgo___b_41.2409_16.5060,Pizzeria SoulMar - Dal mare al borgo - Bisceglie,RESTAURANT,ristorante
-41.241021,16.501353,ov_copa_pan_41.2410_16.5014,copa pan,RESTAURANT,ristorante
-41.241005,16.501343,ov_agora_urban_food_41.2410_16.5013,Agora Urban Food,RESTAURANT,ristorante
-41.240748,16.503539,ov_sesamo_fastsud_bisceglie_41.2407_16.5035,Sesamo Fastsud Bisceglie,RESTAURANT,ristorante
-41.240754,16.503547,ov_yves_rocher_molfetta_41.2408_16.5035,Yves Rocher Molfetta,RESTAURANT,ristorante
-41.240672,16.503519,ov_pizzica_bisceglie_41.2407_16.5035,Pizzica Bisceglie,RESTAURANT,ristorante
-41.240558,16.502424,ov_pizzeria_il_borghetto_41.2406_16.5024,Pizzeria Il Borghetto,RESTAURANT,ristorante
-41.240347,16.500691,ov_fulicheng_41.2403_16.5007,Fulicheng,RESTAURANT,ristorante
-41.240185,16.500463,ov_pizzeria_centro_41.2402_16.5005,Pizzeria Centro,RESTAURANT,ristorante
-41.238270,16.515330,ov_pizzeria_fermento___bisceglie_41.2383_16.5153,Pizzeria Fermento | Bisceglie,RESTAURANT,ristorante
-41.238219,16.513552,ov_l_altra_napoli_41.2382_16.5136,L'Altra Napoli,RESTAURANT,ristorante
-41.238080,16.515412,ov_pizzeria_strike_41.2381_16.5154,Pizzeria Strike,RESTAURANT,ristorante
-41.236960,16.513152,ov_bistr__03_41.2370_16.5132,Bistrò.03,RESTAURANT,ristorante
-41.237155,16.512818,ov_pizzeria_galileo_41.2372_16.5128,Pizzeria Galileo,RESTAURANT,ristorante
-41.237840,16.510822,ov_l_altro_buco_41.2378_16.5108,L'Altro Buco,RESTAURANT,ristorante
-41.237767,16.510488,ov_mordi___fuggi_pizzeria_41.2378_16.5105,Mordi & Fuggi Pizzeria,RESTAURANT,ristorante
-41.237431,16.505914,ov_pizzeria_exodus_41.2374_16.5059,Pizzeria Exodus,RESTAURANT,ristorante
-41.236990,16.509116,ov_braceria_arrusti_e_mangia_41.2370_16.5091,Braceria Arrusti e Mangia,RESTAURANT,ristorante
-41.237047,16.509162,ov_a_casa_mia_41.2370_16.5092,A Casa Mia,RESTAURANT,ristorante
-41.237603,16.501368,ov_l_alternativa_41.2376_16.5014,L'Alternativa,RESTAURANT,ristorante
-41.237933,16.501132,ov_il_timballo_41.2379_16.5011,Il Timballo,RESTAURANT,ristorante
-41.237814,16.498537,ov_pizzeria_griglieria_mangiafuoco_biscegli_41.2378_16.4985,Pizzeria Griglieria Mangiafuoco Bisceglie,RESTAURANT,ristorante
-41.235928,16.499261,ov_il_cantuccio_41.2359_16.4993,Il Cantuccio,RESTAURANT,ristorante
-41.236306,16.500133,ov_snoopy_2_0_41.2363_16.5001,Snoopy 2.0,RESTAURANT,ristorante
-41.236871,16.503305,ov_bisceglie_start_41.2369_16.5033,Bisceglie START,RESTAURANT,ristorante
-41.236552,16.501072,ov_antico_granaio_41.2366_16.5011,Antico Granaio,RESTAURANT,ristorante
-41.236478,16.503302,ov_pizzeria_i_tre_molini_41.2365_16.5033,Pizzeria I Tre Molini,RESTAURANT,ristorante
-41.236067,16.508048,ov_mr_bark_41.2361_16.5080,Mr Bark,RESTAURANT,ristorante
-41.235712,16.508677,ov_pizzeria_di_toma_41.2357_16.5087,Pizzeria Di Toma,RESTAURANT,ristorante
-41.235521,16.509082,ov_pizzeria_roma_41.2355_16.5091,Pizzeria Roma,RESTAURANT,ristorante
-41.235088,16.509145,ov_pepenero_bistrot_italiano_41.2351_16.5091,Pepenero Bistrot italiano,RESTAURANT,ristorante
-41.235104,16.508087,ov_la_taverna_del_duca_41.2351_16.5081,La Taverna del Duca,RESTAURANT,ristorante
-41.235577,16.503427,ov_pizzeria_spinap_41.2356_16.5034,Pizzeria Spinap,RESTAURANT,ristorante
-41.233817,16.497882,ov_casa_ferrante_41.2338_16.4979,Casa Ferrante,RESTAURANT,ristorante
-41.234367,16.497368,ov_l_acquolina_in_bocca_41.2344_16.4974,L'Acquolina In Bocca,RESTAURANT,ristorante
-41.234491,16.504436,ov_la_cornetteria_41.2345_16.5044,La Cornetteria,RESTAURANT,ristorante
-41.234522,16.509223,ov_trapetum_41.2345_16.5092,Trapetum,RESTAURANT,ristorante
-41.233821,16.516311,ov_el_mar_fish_food_and_drink_41.2338_16.5163,El Mar Fish Food and Drink,RESTAURANT,ristorante
-41.234151,16.513397,ov_acquaefarina_41.2342_16.5134,Acquaefarina,RESTAURANT,ristorante
-41.232550,16.513541,ov_lo_scacciapensieri_bisceglie_41.2325_16.5135,Lo scacciapensieri Bisceglie,RESTAURANT,ristorante
-41.230080,16.527950,ov_magik_jungle_41.2301_16.5280,Magik jungle,RESTAURANT,ristorante
-41.231200,16.497387,ov_pizzeria_dolmen_41.2312_16.4974,Pizzeria Dolmen,RESTAURANT,ristorante
-41.230982,16.496689,ov_ristorante_happy_days_41.2310_16.4967,Ristorante Happy Days,RESTAURANT,ristorante
-41.230927,16.496754,ov_villa_ciardi_41.2309_16.4968,Villa Ciardi,RESTAURANT,ristorante
-41.229606,16.489646,ov_pizzeria_royal_caf__41.2296_16.4896,Pizzeria Royal Cafè,RESTAURANT,ristorante
-41.232443,16.511938,ov_la_salata_41.2324_16.5119,La Salata,RESTAURANT,ristorante
-41.232460,16.512010,ov_la_perla_di_poseidon___seafood_restauran_41.2325_16.5120,La Perla di Poseidon - Seafood Restaurant,RESTAURANT,ristorante
-41.232658,16.497328,ov_pizzeria_magnolia_41.2327_16.4973,Pizzeria Magnolia,RESTAURANT,ristorante
-41.225849,16.500118,ov_trattoria_per_camionisti_41.2258_16.5001,Trattoria per Camionisti,RESTAURANT,ristorante
-41.228100,16.489743,ov_gedaj_garden_da_gerry___ristorante__pizz_41.2281_16.4897,"GEDAJ Garden da Gerry - Ristorante, Pizzeria & Take Away - B",RESTAURANT,ristorante
-41.228154,16.489737,ov_il_giardino_dei_sapori_di_lino_u_bares_41.2282_16.4897,Il giardino dei sapori di lino u bares,RESTAURANT,ristorante
-41.229270,16.489577,ov_il_ritrovo_ristopizza_41.2293_16.4896,Il Ritrovo RistoPizza,RESTAURANT,ristorante
-41.228655,16.489594,ov_pizzeria_sant_andrea_41.2287_16.4896,Pizzeria Sant Andrea,RESTAURANT,ristorante
-41.228748,16.504960,ov_oli_ola_41.2287_16.5050,Oli Ola,RESTAURANT,ristorante
-41.227657,16.533083,ov_oya_sushi_ristorante_giapponese_41.2277_16.5331,OYA sushi ristorante giapponese,RESTAURANT,ristorante
-41.221441,16.531930,ov_casale_san_nicola_banqueting___resort____41.2214_16.5319,Casale San Nicola banqueting & resort **** & 1070 Club & Bar,RESTAURANT,ristorante
-41.209046,16.448466,ov_masseria_san_felice_41.2090_16.4485,Masseria San Felice,RESTAURANT,ristorante
-41.192776,16.481268,ov_dolmen_di_bisceglie_41.1928_16.4813,Dolmen di Bisceglie,RESTAURANT,ristorante
-41.193374,16.481088,ov_autostrade_italiane_a14_41.1934_16.4811,Autostrade Italiane A14,RESTAURANT,ristorante
+41.255544,16.479188,ov_toma_la_luna_41.2555_16.4792,Toma La Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/toma_la_luna_41.2555_16.4792.json,custom
+41.255240,16.477080,ov_l_essenziale___sea_food_relax_41.2552_16.4771,L'Essenziale - Sea Food Relax,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lessenziale_-_sea_food_relax_41.2552_16.4771.json,custom
+41.255150,16.477496,ov_la_baguetterie_summer_bisceglie_41.2552_16.4775,La Baguetterie Summer bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_baguetterie_summer_bisceglie_41.2552_16.4775.json,custom
+41.255144,16.477378,ov_ristorante_pizzeria_da__sergio_e_davide__41.2551_16.4774,Ristorante Pizzeria da “Sergio e Davide”,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/ristorante_pizzeria_da_sergio_e_davide_41.2551_16.4774.json,custom
+41.252809,16.470200,ov_pizzeria_a_casa_mia___bisceglie_41.2528_16.4702,Pizzeria A Casa Mia - Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_a_casa_mia_-_bisceglie_41.2528_16.4702.json,custom
+41.252532,16.470035,ov_antico_granaio_41.2525_16.4700,Antico Granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/antico_granaio_41.2525_16.4700.json,custom
+41.254348,16.482516,ov_golden_cliff_41.2543_16.4825,Golden Cliff,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/golden_cliff_41.2543_16.4825.json,custom
+41.254664,16.481514,ov_la_campana_41.2547_16.4815,La Campana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_campana_41.2547_16.4815.json,custom
+41.250565,16.485461,ov_pizzeria_beverly_41.2506_16.4855,Pizzeria Beverly,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_beverly_41.2506_16.4855.json,custom
+41.249183,16.487219,ov_villa_torre_rossa___ricevimenti_41.2492_16.4872,Villa Torre Rossa - Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/villa_torre_rossa_-_ricevimenti_41.2492_16.4872.json,custom
+41.249459,16.496494,ov_tuka_beach___lido_a_bisceglie_41.2495_16.4965,Tuka Beach - Lido a Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/tuka_beach_-_lido_a_bisceglie_41.2495_16.4965.json,custom
+41.248506,16.480923,ov_fermata_facoltativa_41.2485_16.4809,Fermata Facoltativa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/fermata_facoltativa_41.2485_16.4809.json,custom
+41.247731,16.486748,ov_due_e_undici_41.2477_16.4867,Due e Undici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/due_e_undici_41.2477_16.4867.json,custom
+41.246661,16.504759,ov_il_pesce_pane_41.2467_16.5048,Il Pesce Pane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_pesce_pane_41.2467_16.5048.json,custom
+41.242553,16.513118,ov_da_cosimino_41.2426_16.5131,Da CosiMino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/da_cosimino_41.2426_16.5131.json,custom
+41.244252,16.503581,ov_momi_bisceglie_41.2443_16.5036,MOMI Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/momi_bisceglie_41.2443_16.5036.json,custom
+41.244104,16.503762,ov_la_baguetterie___bistrot_du_port_41.2441_16.5038,La Baguetterie - Bistrot Du Port,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_baguetterie_-_bistrot_du_port_41.2441_16.5038.json,custom
+41.244076,16.503686,ov_la_nassa___friselleria_41.2441_16.5037,La Nassa - Friselleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_nassa_-_friselleria_41.2441_16.5037.json,custom
+41.244073,16.502944,ov_sushi_a_ichi_japanese_nuova_apertura_41.2441_16.5029,sushi A.ichi Japanese nuova apertura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/sushi_aichi_japanese_nuova_apertura_41.2441_16.5029.json,custom
+41.243943,16.502974,ov_al_28_41.2439_16.5030,Al 28,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/al_28_41.2439_16.5030.json,custom
+41.244002,16.502863,ov_relo_41.2440_16.5029,Relo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/relo_41.2440_16.5029.json,custom
+41.243799,16.503680,ov_al_buco_dei_pescatori_41.2438_16.5037,Al Buco dei pescatori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/al_buco_dei_pescatori_41.2438_16.5037.json,custom
+41.243268,16.504584,ov_capriccio_di_mare_41.2433_16.5046,Capriccio di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/capriccio_di_mare_41.2433_16.5046.json,custom
+41.243267,16.505319,ov_maresca_41.2433_16.5053,Maresca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/maresca_41.2433_16.5053.json,custom
+41.242782,16.506806,ov_poseidon_41.2428_16.5068,Poseidon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/poseidon_41.2428_16.5068.json,custom
+41.242224,16.508144,ov_zen_pizzeria_41.2422_16.5081,Zen Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/zen_pizzeria_41.2422_16.5081.json,custom
+41.242249,16.497495,ov_remi_41.2422_16.4975,Remi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/remi_41.2422_16.4975.json,custom
+41.242505,16.496986,ov_il_piccolo_giardino_41.2425_16.4970,Il Piccolo Giardino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_piccolo_giardino_41.2425_16.4970.json,custom
+41.242478,16.496962,ov_biga___bisceglie_41.2425_16.4970,Biga - Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/biga_-_bisceglie_41.2425_16.4970.json,custom
+41.242999,16.494791,ov_il_priscio_41.2430_16.4948,Il Priscio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_priscio_41.2430_16.4948.json,custom
+41.243287,16.490364,ov_puntoeacapo_bisceglie_41.2433_16.4904,Puntoeacapo Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/puntoeacapo_bisceglie_41.2433_16.4904.json,custom
+41.243550,16.488495,ov_corte_in_fiore_trani_41.2436_16.4885,Corte In Fiore Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/corte_in_fiore_trani_41.2436_16.4885.json,custom
+41.243879,16.491652,ov_ay__fusion_sushi_41.2439_16.4917,Ayì Fusion Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/ay_fusion_sushi_41.2439_16.4917.json,custom
+41.244160,16.488891,ov_santacrosta__brace__birra___farina_41.2442_16.4889,"Santacrosta, Brace, Birra & Farina",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/santacrosta_brace_birra_farina_41.2442_16.4889.json,custom
+41.244054,16.488952,ov_tred__caf__bistrot_41.2441_16.4890,Tredì Cafè Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/tred_caf_bistrot_41.2441_16.4890.json,custom
+41.244170,16.487200,ov_bellavitainpuglia_it_41.2442_16.4872,Bellavitainpuglia.it,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/bellavitainpugliait_41.2442_16.4872.json,custom
+41.245243,16.491461,ov_ittica_ventura___eat___drink_41.2452_16.4915,Ittica Ventura - Eat & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/ittica_ventura_-_eat_drink_41.2452_16.4915.json,custom
+41.245184,16.491706,ov_il_piccantino_41.2452_16.4917,Il Piccantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_piccantino_41.2452_16.4917.json,custom
+41.244596,16.489956,ov_kanagawa_sushi_all_you_can_eat_41.2446_16.4900,Kanagawa Sushi All You Can Eat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/kanagawa_sushi_all_you_can_eat_41.2446_16.4900.json,custom
+41.244614,16.489989,ov_sakana_sushi_41.2446_16.4900,Sakana Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/sakana_sushi_41.2446_16.4900.json,custom
+41.244480,16.490221,ov_mcdonald_s_41.2445_16.4902,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mcdonalds_41.2445_16.4902.json,custom
+41.244739,16.503831,ov_casa_al_mar_41.2447_16.5038,Casa al Mar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/casa_al_mar_41.2447_16.5038.json,custom
+41.244683,16.503818,ov_botanicals___co_41.2447_16.5038,Botanicals & Co,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/botanicals_co_41.2447_16.5038.json,custom
+41.244430,16.503655,ov_rosso_oltremare_41.2444_16.5037,Rosso Oltremare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/rosso_oltremare_41.2444_16.5037.json,custom
+41.244468,16.504182,ov_juan_les_pins___trattoria_di_mare_41.2445_16.5042,Juan Les Pins - Trattoria di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/juan_les_pins_-_trattoria_di_mare_41.2445_16.5042.json,custom
+41.244835,16.504403,ov_krudo_mare_in_purezza_41.2448_16.5044,Krudo Mare In Purezza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/krudo_mare_in_purezza_41.2448_16.5044.json,custom
+41.244864,16.504668,ov_tortuga_steak_bistrot_41.2449_16.5047,Tortuga Steak Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/tortuga_steak_bistrot_41.2449_16.5047.json,custom
+41.249055,16.478071,ov_sweetlife__bar_pizzeria_41.2491_16.4781,SweetLife  Bar/Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/sweetlife_barpizzeria_41.2491_16.4781.json,custom
+41.238435,16.503346,ov_pizzeria_la_rustica_41.2384_16.5033,Pizzeria La Rustica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_la_rustica_41.2384_16.5033.json,custom
+41.238186,16.500207,ov_la_scarpetta___take_away_41.2382_16.5002,La Scarpetta - Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_scarpetta_-_take_away_41.2382_16.5002.json,custom
+41.237965,16.502850,ov_pazzo_pazzo_mondo_41.2380_16.5029,Pazzo Pazzo Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pazzo_pazzo_mondo_41.2380_16.5029.json,custom
+41.238060,16.504570,ov_speedy_pizza_bisceglie_41.2381_16.5046,Speedy Pizza Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/speedy_pizza_bisceglie_41.2381_16.5046.json,custom
+41.238382,16.509831,ov_osteria_del_seminario_sas_41.2384_16.5098,Osteria Del Seminario Sas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/osteria_del_seminario_sas_41.2384_16.5098.json,custom
+41.238712,16.506136,ov_le_uova_di_russo_41.2387_16.5061,Le Uova di Russo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/le_uova_di_russo_41.2387_16.5061.json,custom
+41.238675,16.509680,ov_pizzeria_da_gino_41.2387_16.5097,Pizzeria Da Gino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_da_gino_41.2387_16.5097.json,custom
+41.238711,16.508892,ov_pizzeria_dal_ciccione_41.2387_16.5089,Pizzeria dal CicciOne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_dal_ciccione_41.2387_16.5089.json,custom
+41.238879,16.510790,ov_mare_blu_fish___food_41.2389_16.5108,Mare Blu Fish & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mare_blu_fish_food_41.2389_16.5108.json,custom
+41.238793,16.505287,ov_mergellina_41.2388_16.5053,Mergellina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mergellina_41.2388_16.5053.json,custom
+41.238963,16.504949,ov_mani_kebab_41.2390_16.5049,Mani Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mani_kebab_41.2390_16.5049.json,custom
+41.239516,16.501517,ov_pizzeria_la_fontana_41.2395_16.5015,Pizzeria La Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_la_fontana_41.2395_16.5015.json,custom
+41.239080,16.503280,ov_g_o_l_d_e_n__f_o_o_d_41.2391_16.5033,G o l d e n  F o o d,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/g_o_l_d_e_n_f_o_o_d_41.2391_16.5033.json,custom
+41.239043,16.503539,ov_insal__bay___born_in_puglia_41.2390_16.5035,Insalà Bay - Born In Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/insal_bay_-_born_in_puglia_41.2390_16.5035.json,custom
+41.239571,16.506053,ov_wide_mercy_bistrot_pizzeria_antipasteria_41.2396_16.5061,Wide Mercy Bistrot pizzeria antipasteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/wide_mercy_bistrot_pizzeria_antipasteria_41.2396_16.5061.json,custom
+41.239748,16.505794,ov_lo_spigolo_di_gi__41.2397_16.5058,Lo Spigolo Di Giò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lo_spigolo_di_gi_41.2397_16.5058.json,custom
+41.239720,16.508174,ov_boutique_carni_e_salumi_napoletano___bis_41.2397_16.5082,Boutique Carni e Salumi Napoletano - Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/boutique_carni_e_salumi_napoletano_-_bis_41.2397_16.5082.json,custom
+41.239682,16.508091,ov_tema_41.2397_16.5081,Tema,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/tema_41.2397_16.5081.json,custom
+41.239657,16.506258,ov_casa_del_pollo_41.2397_16.5063,Casa Del Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/casa_del_pollo_41.2397_16.5063.json,custom
+41.239806,16.508227,ov_pizzeria_due_punto_20_41.2398_16.5082,Pizzeria Due Punto 20,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_due_punto_20_41.2398_16.5082.json,custom
+41.239991,16.504690,ov_lo_sfizietto_41.2400_16.5047,Lo Sfizietto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lo_sfizietto_41.2400_16.5047.json,custom
+41.239871,16.500208,ov_pizzeria_lievito_48_41.2399_16.5002,Pizzeria Lievito 48,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_lievito_48_41.2399_16.5002.json,custom
+41.239918,16.499661,ov_osteria_u_nglesce_41.2399_16.4997,Osteria U'nglesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/osteria_unglesce_41.2399_16.4997.json,custom
+41.239880,16.498750,ov_caggianelli_auto_bisceglie_41.2399_16.4988,Caggianelli Auto Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/caggianelli_auto_bisceglie_41.2399_16.4988.json,custom
+41.239552,16.495000,ov_l_angolo_della_pizza_41.2396_16.4950,L'angolo della pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/langolo_della_pizza_41.2396_16.4950.json,custom
+41.241913,16.492314,ov_cocola_bistrot_41.2419_16.4923,Cocola Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/cocola_bistrot_41.2419_16.4923.json,custom
+41.241737,16.492391,ov_la_mousse_di_antonio_cannone_41.2417_16.4924,La Mousse di Antonio Cannone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_mousse_di_antonio_cannone_41.2417_16.4924.json,custom
+41.241222,16.494096,ov_pane_and_pomodoro_41.2412_16.4941,Pane and Pomodoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pane_and_pomodoro_41.2412_16.4941.json,custom
+41.241189,16.503669,ov_trattoria_braceria_biscegliese_41.2412_16.5037,Trattoria Braceria Biscegliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/trattoria_braceria_biscegliese_41.2412_16.5037.json,custom
+41.241487,16.501947,ov_cibosofia_41.2415_16.5019,CIBOSOFIA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/cibosofia_41.2415_16.5019.json,custom
+41.241407,16.501605,ov_mi_amor_creperia_cornetteria_41.2414_16.5016,Mi amor creperia-cornetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mi_amor_creperia-cornetteria_41.2414_16.5016.json,custom
+41.241409,16.499788,ov_billa_41.2414_16.4998,Billa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/billa_41.2414_16.4998.json,custom
+41.241798,16.498854,ov_emozioni_italiane___biancheria_e_corredi_41.2418_16.4989,Emozioni Italiane - Biancheria e corredi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/emozioni_italiane_-_biancheria_e_corredi_41.2418_16.4989.json,custom
+41.241901,16.496007,ov_macelleria_griglieria_di_liddo_41.2419_16.4960,Macelleria griglieria di liddo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/macelleria_griglieria_di_liddo_41.2419_16.4960.json,custom
+41.242174,16.498056,ov_puglia_pizza_41.2422_16.4981,Puglia Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/puglia_pizza_41.2422_16.4981.json,custom
+41.241990,16.498225,ov_salumeria_napoletano_bisceglie_41.2420_16.4982,Salumeria Napoletano Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/salumeria_napoletano_bisceglie_41.2420_16.4982.json,custom
+41.242041,16.501533,ov_andrea_cuisine_gourmet_41.2420_16.5015,Andrea Cuisine Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/andrea_cuisine_gourmet_41.2420_16.5015.json,custom
+41.242117,16.502121,ov_osteria_san_domenico_41.2421_16.5021,Osteria San Domenico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/osteria_san_domenico_41.2421_16.5021.json,custom
+41.241687,16.504008,ov_osteria_il_cerriglio_41.2417_16.5040,Osteria Il Cerriglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/osteria_il_cerriglio_41.2417_16.5040.json,custom
+41.242016,16.509001,ov_l_acrobatica_pizzeria_41.2420_16.5090,L'Acrobatica Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lacrobatica_pizzeria_41.2420_16.5090.json,custom
+41.241430,16.506101,ov_ilrestomancia_bisceglie_41.2414_16.5061,Ilrestomancia Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/ilrestomancia_bisceglie_41.2414_16.5061.json,custom
+41.241328,16.505939,ov_g_h_bisceglie_41.2413_16.5059,G'H Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/gh_bisceglie_41.2413_16.5059.json,custom
+41.241131,16.509891,ov_la_movida_41.2411_16.5099,La Movida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_movida_41.2411_16.5099.json,custom
+41.240666,16.506000,ov_meduza_bisceglie___pizza_grill___club_41.2407_16.5060,Meduza Bisceglie - Pizza Grill & Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/meduza_bisceglie_-_pizza_grill_club_41.2407_16.5060.json,custom
+41.240613,16.504289,ov_pizzeria_al_buco_preferito_41.2406_16.5043,Pizzeria Al Buco Preferito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_al_buco_preferito_41.2406_16.5043.json,custom
+41.240851,16.506027,ov_qui___giusto_41.2409_16.5060,Qui è giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/qui_giusto_41.2409_16.5060.json,custom
+41.240856,16.506026,ov_pizzeria_soulmar___dal_mare_al_borgo___b_41.2409_16.5060,Pizzeria SoulMar - Dal mare al borgo - Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_soulmar_-_dal_mare_al_borgo_-_b_41.2409_16.5060.json,custom
+41.241021,16.501353,ov_copa_pan_41.2410_16.5014,copa pan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/copa_pan_41.2410_16.5014.json,custom
+41.241005,16.501343,ov_agora_urban_food_41.2410_16.5013,Agora Urban Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/agora_urban_food_41.2410_16.5013.json,custom
+41.240748,16.503539,ov_sesamo_fastsud_bisceglie_41.2407_16.5035,Sesamo Fastsud Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/sesamo_fastsud_bisceglie_41.2407_16.5035.json,custom
+41.240754,16.503547,ov_yves_rocher_molfetta_41.2408_16.5035,Yves Rocher Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/yves_rocher_molfetta_41.2408_16.5035.json,custom
+41.240672,16.503519,ov_pizzica_bisceglie_41.2407_16.5035,Pizzica Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzica_bisceglie_41.2407_16.5035.json,custom
+41.240558,16.502424,ov_pizzeria_il_borghetto_41.2406_16.5024,Pizzeria Il Borghetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_il_borghetto_41.2406_16.5024.json,custom
+41.240347,16.500691,ov_fulicheng_41.2403_16.5007,Fulicheng,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/fulicheng_41.2403_16.5007.json,custom
+41.240185,16.500463,ov_pizzeria_centro_41.2402_16.5005,Pizzeria Centro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_centro_41.2402_16.5005.json,custom
+41.238270,16.515330,ov_pizzeria_fermento___bisceglie_41.2383_16.5153,Pizzeria Fermento | Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_fermento_bisceglie_41.2383_16.5153.json,custom
+41.238219,16.513552,ov_l_altra_napoli_41.2382_16.5136,L'Altra Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/laltra_napoli_41.2382_16.5136.json,custom
+41.238080,16.515412,ov_pizzeria_strike_41.2381_16.5154,Pizzeria Strike,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_strike_41.2381_16.5154.json,custom
+41.236960,16.513152,ov_bistr__03_41.2370_16.5132,Bistrò.03,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/bistr03_41.2370_16.5132.json,custom
+41.237155,16.512818,ov_pizzeria_galileo_41.2372_16.5128,Pizzeria Galileo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_galileo_41.2372_16.5128.json,custom
+41.237840,16.510822,ov_l_altro_buco_41.2378_16.5108,L'Altro Buco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/laltro_buco_41.2378_16.5108.json,custom
+41.237767,16.510488,ov_mordi___fuggi_pizzeria_41.2378_16.5105,Mordi & Fuggi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mordi_fuggi_pizzeria_41.2378_16.5105.json,custom
+41.237431,16.505914,ov_pizzeria_exodus_41.2374_16.5059,Pizzeria Exodus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_exodus_41.2374_16.5059.json,custom
+41.236990,16.509116,ov_braceria_arrusti_e_mangia_41.2370_16.5091,Braceria Arrusti e Mangia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/braceria_arrusti_e_mangia_41.2370_16.5091.json,custom
+41.237047,16.509162,ov_a_casa_mia_41.2370_16.5092,A Casa Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/a_casa_mia_41.2370_16.5092.json,custom
+41.237603,16.501368,ov_l_alternativa_41.2376_16.5014,L'Alternativa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lalternativa_41.2376_16.5014.json,custom
+41.237933,16.501132,ov_il_timballo_41.2379_16.5011,Il Timballo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_timballo_41.2379_16.5011.json,custom
+41.237814,16.498537,ov_pizzeria_griglieria_mangiafuoco_biscegli_41.2378_16.4985,Pizzeria Griglieria Mangiafuoco Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_griglieria_mangiafuoco_biscegli_41.2378_16.4985.json,custom
+41.235928,16.499261,ov_il_cantuccio_41.2359_16.4993,Il Cantuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_cantuccio_41.2359_16.4993.json,custom
+41.236306,16.500133,ov_snoopy_2_0_41.2363_16.5001,Snoopy 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/snoopy_20_41.2363_16.5001.json,custom
+41.236871,16.503305,ov_bisceglie_start_41.2369_16.5033,Bisceglie START,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/bisceglie_start_41.2369_16.5033.json,custom
+41.236552,16.501072,ov_antico_granaio_41.2366_16.5011,Antico Granaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/antico_granaio_41.2366_16.5011.json,custom
+41.236478,16.503302,ov_pizzeria_i_tre_molini_41.2365_16.5033,Pizzeria I Tre Molini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_i_tre_molini_41.2365_16.5033.json,custom
+41.236067,16.508048,ov_mr_bark_41.2361_16.5080,Mr Bark,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/mr_bark_41.2361_16.5080.json,custom
+41.235712,16.508677,ov_pizzeria_di_toma_41.2357_16.5087,Pizzeria Di Toma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_di_toma_41.2357_16.5087.json,custom
+41.235521,16.509082,ov_pizzeria_roma_41.2355_16.5091,Pizzeria Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_roma_41.2355_16.5091.json,custom
+41.235088,16.509145,ov_pepenero_bistrot_italiano_41.2351_16.5091,Pepenero Bistrot italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pepenero_bistrot_italiano_41.2351_16.5091.json,custom
+41.235104,16.508087,ov_la_taverna_del_duca_41.2351_16.5081,La Taverna del Duca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_taverna_del_duca_41.2351_16.5081.json,custom
+41.235577,16.503427,ov_pizzeria_spinap_41.2356_16.5034,Pizzeria Spinap,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_spinap_41.2356_16.5034.json,custom
+41.233817,16.497882,ov_casa_ferrante_41.2338_16.4979,Casa Ferrante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/casa_ferrante_41.2338_16.4979.json,custom
+41.234367,16.497368,ov_l_acquolina_in_bocca_41.2344_16.4974,L'Acquolina In Bocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lacquolina_in_bocca_41.2344_16.4974.json,custom
+41.234491,16.504436,ov_la_cornetteria_41.2345_16.5044,La Cornetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_cornetteria_41.2345_16.5044.json,custom
+41.234522,16.509223,ov_trapetum_41.2345_16.5092,Trapetum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/trapetum_41.2345_16.5092.json,custom
+41.233821,16.516311,ov_el_mar_fish_food_and_drink_41.2338_16.5163,El Mar Fish Food and Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/el_mar_fish_food_and_drink_41.2338_16.5163.json,custom
+41.234151,16.513397,ov_acquaefarina_41.2342_16.5134,Acquaefarina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/acquaefarina_41.2342_16.5134.json,custom
+41.232550,16.513541,ov_lo_scacciapensieri_bisceglie_41.2325_16.5135,Lo scacciapensieri Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/lo_scacciapensieri_bisceglie_41.2325_16.5135.json,custom
+41.230080,16.527950,ov_magik_jungle_41.2301_16.5280,Magik jungle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/magik_jungle_41.2301_16.5280.json,custom
+41.231200,16.497387,ov_pizzeria_dolmen_41.2312_16.4974,Pizzeria Dolmen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_dolmen_41.2312_16.4974.json,custom
+41.230982,16.496689,ov_ristorante_happy_days_41.2310_16.4967,Ristorante Happy Days,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/ristorante_happy_days_41.2310_16.4967.json,custom
+41.230927,16.496754,ov_villa_ciardi_41.2309_16.4968,Villa Ciardi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/villa_ciardi_41.2309_16.4968.json,custom
+41.229606,16.489646,ov_pizzeria_royal_caf__41.2296_16.4896,Pizzeria Royal Cafè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_royal_caf_41.2296_16.4896.json,custom
+41.232443,16.511938,ov_la_salata_41.2324_16.5119,La Salata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_salata_41.2324_16.5119.json,custom
+41.232460,16.512010,ov_la_perla_di_poseidon___seafood_restauran_41.2325_16.5120,La Perla di Poseidon - Seafood Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/la_perla_di_poseidon_-_seafood_restauran_41.2325_16.5120.json,custom
+41.232658,16.497328,ov_pizzeria_magnolia_41.2327_16.4973,Pizzeria Magnolia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_magnolia_41.2327_16.4973.json,custom
+41.225849,16.500118,ov_trattoria_per_camionisti_41.2258_16.5001,Trattoria per Camionisti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/trattoria_per_camionisti_41.2258_16.5001.json,custom
+41.228100,16.489743,ov_gedaj_garden_da_gerry___ristorante__pizz_41.2281_16.4897,"GEDAJ Garden da Gerry - Ristorante, Pizzeria & Take Away - B",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/gedaj_garden_da_gerry_-_ristorante_pizze_41.2281_16.4897.json,custom
+41.228154,16.489737,ov_il_giardino_dei_sapori_di_lino_u_bares_41.2282_16.4897,Il giardino dei sapori di lino u bares,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_giardino_dei_sapori_di_lino_u_bares_41.2282_16.4897.json,custom
+41.229270,16.489577,ov_il_ritrovo_ristopizza_41.2293_16.4896,Il Ritrovo RistoPizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_ritrovo_ristopizza_41.2293_16.4896.json,custom
+41.228655,16.489594,ov_pizzeria_sant_andrea_41.2287_16.4896,Pizzeria Sant Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_sant_andrea_41.2287_16.4896.json,custom
+41.228748,16.504960,ov_oli_ola_41.2287_16.5050,Oli Ola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/oli_ola_41.2287_16.5050.json,custom
+41.227657,16.533083,ov_oya_sushi_ristorante_giapponese_41.2277_16.5331,OYA sushi ristorante giapponese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/oya_sushi_ristorante_giapponese_41.2277_16.5331.json,custom
+41.221441,16.531930,ov_casale_san_nicola_banqueting___resort____41.2214_16.5319,Casale San Nicola banqueting & resort **** & 1070 Club & Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/casale_san_nicola_banqueting_resort_1070_41.2214_16.5319.json,custom
+41.209046,16.448466,ov_masseria_san_felice_41.2090_16.4485,Masseria San Felice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/masseria_san_felice_41.2090_16.4485.json,custom
+41.192776,16.481268,ov_dolmen_di_bisceglie_41.1928_16.4813,Dolmen di Bisceglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/dolmen_di_bisceglie_41.1928_16.4813.json,custom
+41.193374,16.481088,ov_autostrade_italiane_a14_41.1934_16.4811,Autostrade Italiane A14,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/autostrade_italiane_a14_41.1934_16.4811.json,custom
+41.229358,16.536955,osm_brezza_tra_gli_ulivi_41.2294_16.5370,Brezza Tra Gli Ulivi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/brezza_tra_gli_ulivi_41.2294_16.5370.json,custom
+41.230958,16.496751,osm_happy_days_41.2310_16.4968,Happy Days,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/happy_days_41.2310_16.4968.json,custom
+41.241606,16.503985,osm_il_cerriglio_41.2416_16.5040,Il Cerriglio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/il_cerriglio_41.2416_16.5040.json,custom
+41.231186,16.497292,osm_pizzeria_al_dolmen_41.2312_16.4973,Pizzeria Al Dolmen,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/pizzeria_al_dolmen_41.2312_16.4973.json,custom
+41.255071,16.477370,osm_da_sergio_e_davide_41.2551_16.4774,Da Sergio e Davide,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/da_sergio_e_davide_41.2551_16.4774.json,custom
+41.240735,16.505000,osm_bue_marino_41.2407_16.5050,Bue Marino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/bue_marino_41.2407_16.5050.json,custom
+41.240814,16.502842,osm_fidelio_41.2408_16.5028,Fidelio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/fidelio_41.2408_16.5028.json,custom
+41.239767,16.500029,osm_paninhour_41.2398_16.5000,Paninhour,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/paninhour_41.2398_16.5000.json,custom
+41.233548,16.511233,osm_34_dicembre_41.2335_16.5112,34 Dicembre,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/34_dicembre_41.2335_16.5112.json,custom

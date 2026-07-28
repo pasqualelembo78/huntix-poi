@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grottaglie -- hospitals
-40.538880,17.425953,osm_presidio_ospedaliero_san_marco_40.5389_17.4260,Presidio Ospedaliero San Marco,hospital,hospital
-40.538899,17.426390,ov_ospedale_san_marco_40.5389_17.4264,Ospedale San Marco,HOSPITAL,hospital
-40.536801,17.432855,ov_c_a_m__centro_acustico_meridionale_40.5368_17.4329,C.A.M. Centro Acustico Meridionale,HOSPITAL,hospital
+40.538899,17.426390,ov_ospedale_san_marco_40.5389_17.4264,Ospedale San Marco,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/ospedale_san_marco_40.5389_17.4264.json,custom
+40.536801,17.432855,ov_c_a_m__centro_acustico_meridionale_40.5368_17.4329,C.A.M. Centro Acustico Meridionale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/cam_centro_acustico_meridionale_40.5368_17.4329.json,custom
+40.538880,17.425953,osm_presidio_ospedaliero_san_marco_40.5389_17.4260,Presidio Ospedaliero San Marco,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/presidio_ospedaliero_san_marco_40.5389_17.4260.json,custom

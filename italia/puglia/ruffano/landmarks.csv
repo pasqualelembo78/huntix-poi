@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ruffano -- landmarks
-39.983614,18.248256,ov_monumento_ai_caduti_39.9836_18.2483,Monumento ai Caduti,MONUMENT,monumento
-39.990989,18.257276,ov_museo_della_civilt__contadina_39.9910_18.2573,Museo della Civiltà Contadina,MUSEUM,monumento
+39.983614,18.248256,ov_monumento_ai_caduti_39.9836_18.2483,Monumento ai Caduti,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ruffano/pages/monumento_ai_caduti_39.9836_18.2483.json,custom
+39.990989,18.257276,ov_museo_della_civilt__contadina_39.9910_18.2573,Museo della Civiltà Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ruffano/pages/museo_della_civilt_contadina_39.9910_18.2573.json,custom

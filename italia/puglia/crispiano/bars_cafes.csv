@@ -1,27 +1,27 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # crispiano -- bars_cafes
-40.603413,17.228567,ov_bar_raffy_40.6034_17.2286,Bar Raffy,RESTAURANT,bar_cafe
-40.603129,17.231403,ov_symposium_cafe_40.6031_17.2314,Symposium Cafe,RESTAURANT,bar_cafe
-40.600447,17.237597,ov_bar_new_dimensions_40.6004_17.2376,bar new dimensions,RESTAURANT,bar_cafe
-40.604278,17.184815,ov_vini_biologici_speziale_40.6043_17.1848,Vini Biologici Speziale,RESTAURANT,bar_cafe
-40.604158,17.222049,ov_microbirrificio_palmisano_40.6042_17.2220,Microbirrificio Palmisano,RESTAURANT,bar_cafe
-40.605282,17.231357,ov_bar_colucci_crispiano_40.6053_17.2314,Bar Colucci Crispiano,RESTAURANT,bar_cafe
-40.605282,17.231716,ov_bar_ideal_40.6053_17.2317,Bar Ideal,RESTAURANT,bar_cafe
-40.605473,17.228921,ov_bar_free_style_40.6055_17.2289,Bar Free Style,RESTAURANT,bar_cafe
-40.606761,17.233343,ov_carpediem_art_cafe_40.6068_17.2333,Carpediem Art Cafe,RESTAURANT,bar_cafe
-40.608616,17.225263,ov_la_dolce_vita_40.6086_17.2253,La dolce vita,RESTAURANT,bar_cafe
-40.608829,17.235578,ov_glam_caffe_di_attolino_carmine_40.6088_17.2356,Glam Caffe Di Attolino Carmine,RESTAURANT,bar_cafe
-40.606613,17.237572,ov_le_terrazze_wine_bar_40.6066_17.2376,Le Terrazze Wine Bar,RESTAURANT,bar_cafe
-40.607032,17.238648,ov_nirvana_2_srl_40.6070_17.2386,Nirvana 2 SRL,RESTAURANT,bar_cafe
-40.607127,17.238810,ov_vincent_caff__40.6071_17.2388,Vincent Caffè,RESTAURANT,bar_cafe
-40.605386,17.236619,ov_margent_crispiano_40.6054_17.2366,Margent Crispiano,RESTAURANT,bar_cafe
-40.604258,17.236094,ov_le_gardenie_40.6043_17.2361,Le Gardenie,RESTAURANT,bar_cafe
-40.604133,17.235861,ov_pasticceria_caffetteria_le_gardenie_40.6041_17.2359,Pasticceria caffetteria le gardenie,RESTAURANT,bar_cafe
-40.603834,17.237236,ov_bar_la_piccola_botte_40.6038_17.2372,Bar La Piccola Botte,RESTAURANT,bar_cafe
-40.603852,17.237160,ov_caff__carrieri_40.6039_17.2372,CAFFÈ Carrieri,RESTAURANT,bar_cafe
-40.615354,17.268674,ov_caffe_del_borgo_40.6154_17.2687,Caffe del Borgo,RESTAURANT,bar_cafe
-40.615155,17.268756,ov_san_simone_40.6152_17.2688,San Simone,RESTAURANT,bar_cafe
-40.605551,17.229091,osm_bar_free_style_40.6056_17.2291,Bar Free style,bar_cafe,bar_cafe
-40.607434,17.238484,osm_leone_caff__40.6074_17.2385,Leone Caffè,bar_cafe,bar_cafe
-40.605763,17.228588,osm_aleta_40.6058_17.2286,Aleta,bar_cafe,bar_cafe
-40.601057,17.227884,osm_blucksmith_40.6011_17.2279,Blucksmith,bar_cafe,bar_cafe
+40.603413,17.228567,ov_bar_raffy_40.6034_17.2286,Bar Raffy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_raffy_40.6034_17.2286.json,custom
+40.603129,17.231403,ov_symposium_cafe_40.6031_17.2314,Symposium Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/symposium_cafe_40.6031_17.2314.json,custom
+40.600447,17.237597,ov_bar_new_dimensions_40.6004_17.2376,bar new dimensions,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_new_dimensions_40.6004_17.2376.json,custom
+40.604278,17.184815,ov_vini_biologici_speziale_40.6043_17.1848,Vini Biologici Speziale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/vini_biologici_speziale_40.6043_17.1848.json,custom
+40.604158,17.222049,ov_microbirrificio_palmisano_40.6042_17.2220,Microbirrificio Palmisano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/microbirrificio_palmisano_40.6042_17.2220.json,custom
+40.605282,17.231357,ov_bar_colucci_crispiano_40.6053_17.2314,Bar Colucci Crispiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_colucci_crispiano_40.6053_17.2314.json,custom
+40.605282,17.231716,ov_bar_ideal_40.6053_17.2317,Bar Ideal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_ideal_40.6053_17.2317.json,custom
+40.605473,17.228921,ov_bar_free_style_40.6055_17.2289,Bar Free Style,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_free_style_40.6055_17.2289.json,custom
+40.606761,17.233343,ov_carpediem_art_cafe_40.6068_17.2333,Carpediem Art Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/carpediem_art_cafe_40.6068_17.2333.json,custom
+40.608616,17.225263,ov_la_dolce_vita_40.6086_17.2253,La dolce vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_dolce_vita_40.6086_17.2253.json,custom
+40.608829,17.235578,ov_glam_caffe_di_attolino_carmine_40.6088_17.2356,Glam Caffe Di Attolino Carmine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/glam_caffe_di_attolino_carmine_40.6088_17.2356.json,custom
+40.606613,17.237572,ov_le_terrazze_wine_bar_40.6066_17.2376,Le Terrazze Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/le_terrazze_wine_bar_40.6066_17.2376.json,custom
+40.607032,17.238648,ov_nirvana_2_srl_40.6070_17.2386,Nirvana 2 SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/nirvana_2_srl_40.6070_17.2386.json,custom
+40.607127,17.238810,ov_vincent_caff__40.6071_17.2388,Vincent Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/vincent_caff_40.6071_17.2388.json,custom
+40.605386,17.236619,ov_margent_crispiano_40.6054_17.2366,Margent Crispiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/margent_crispiano_40.6054_17.2366.json,custom
+40.604258,17.236094,ov_le_gardenie_40.6043_17.2361,Le Gardenie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/le_gardenie_40.6043_17.2361.json,custom
+40.604133,17.235861,ov_pasticceria_caffetteria_le_gardenie_40.6041_17.2359,Pasticceria caffetteria le gardenie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/pasticceria_caffetteria_le_gardenie_40.6041_17.2359.json,custom
+40.603834,17.237236,ov_bar_la_piccola_botte_40.6038_17.2372,Bar La Piccola Botte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_la_piccola_botte_40.6038_17.2372.json,custom
+40.603852,17.237160,ov_caff__carrieri_40.6039_17.2372,CAFFÈ Carrieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/caff_carrieri_40.6039_17.2372.json,custom
+40.615354,17.268674,ov_caffe_del_borgo_40.6154_17.2687,Caffe del Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/caffe_del_borgo_40.6154_17.2687.json,custom
+40.615155,17.268756,ov_san_simone_40.6152_17.2688,San Simone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/san_simone_40.6152_17.2688.json,custom
+40.605551,17.229091,osm_bar_free_style_40.6056_17.2291,Bar Free style,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/bar_free_style_40.6056_17.2291.json,custom
+40.607434,17.238484,osm_leone_caff__40.6074_17.2385,Leone Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/leone_caff_40.6074_17.2385.json,custom
+40.605763,17.228588,osm_aleta_40.6058_17.2286,Aleta,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/aleta_40.6058_17.2286.json,custom
+40.601057,17.227884,osm_blucksmith_40.6011_17.2279,Blucksmith,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/blucksmith_40.6011_17.2279.json,custom

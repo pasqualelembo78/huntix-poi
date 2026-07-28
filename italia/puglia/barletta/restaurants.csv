@@ -1,258 +1,238 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # barletta -- restaurants
-41.320682,16.283243,osm_il_posticino_41.3207_16.2832,Il Posticino,ristorante,ristorante
-41.321115,16.282369,osm_al_pomodorino_41.3211_16.2824,Al Pomodorino,ristorante,ristorante
-41.320963,16.283438,osm_veleno_41.3210_16.2834,Veleno,ristorante,ristorante
-41.320119,16.284844,osm_san_giorgio_41.3201_16.2848,San Giorgio,ristorante,ristorante
-41.320803,16.285017,osm_al_tettuccio_41.3208_16.2850,Al Tettuccio,ristorante,ristorante
-41.320686,16.285735,osm_santa_croce_41.3207_16.2857,Santa Croce,ristorante,ristorante
-41.320776,16.285542,osm_osteria_al_duomo_41.3208_16.2855,Osteria al Duomo,ristorante,ristorante
-41.321686,16.283678,osm_il_convito_delle_muse_41.3217_16.2837,Il Convito delle Muse,ristorante,ristorante
-41.317500,16.298581,osm_kiama_sushi_41.3175_16.2986,KiAma Sushi,ristorante,ristorante
-41.320255,16.280721,osm_pizzeria_partenopea_41.3203_16.2807,Pizzeria Partenopea,ristorante,ristorante
-41.320209,16.282783,osm_osteria_bardulos_41.3202_16.2828,Osteria Bardulos,ristorante,ristorante
-41.322411,16.284813,osm_lupo_di_mare_41.3224_16.2848,Lupo di Mare,ristorante,ristorante
-41.318738,16.287741,osm_il_rosticciere___forno_a_legna_41.3187_16.2877,Il Rosticciere - Forno A Legna,ristorante,ristorante
-41.320254,16.283682,osm_la_gioconda_41.3203_16.2837,La Gioconda,ristorante,ristorante
-41.321122,16.281959,osm_bistrot_km0_41.3211_16.2820,Bistrot KM0,ristorante,ristorante
-41.319363,16.280994,osm_pizzeria_santa_maria_41.3194_16.2810,Pizzeria Santa Maria,ristorante,ristorante
-41.320809,16.284087,osm_goudron_wine_esperience_41.3208_16.2841,Goudron wine esperience,ristorante,ristorante
-41.320731,16.284218,osm_moma_2_0_41.3207_16.2842,Moma 2.0,ristorante,ristorante
-41.320622,16.284240,osm_jolly_blu_41.3206_16.2842,Jolly blu,ristorante,ristorante
-41.320593,16.284189,osm_sam__41.3206_16.2842,Samí,ristorante,ristorante
-41.320720,16.285105,osm_il_gusto_della_t_rkiye_41.3207_16.2851,Il Gusto Della Türkiye,ristorante,ristorante
-41.320793,16.285108,osm_cibio_41.3208_16.2851,Cibio,ristorante,ristorante
-41.320771,16.285593,osm_focacceria_d_angi__41.3208_16.2856,Focacceria D'Angiò,ristorante,ristorante
-41.318520,16.280589,osm_lin_poke_41.3185_16.2806,Lin Poke,ristorante,ristorante
-41.319249,16.285855,osm_kemare_41.3192_16.2859,Kemare,ristorante,ristorante
-41.320049,16.286134,osm_kaori_41.3200_16.2861,Kaori,ristorante,ristorante
-41.320755,16.286503,osm_i_love_you___flavours_and_colours_41.3208_16.2865,I love you - Flavours and Colours,ristorante,ristorante
-41.320698,16.284659,osm_hipporosso_41.3207_16.2847,Hipporosso,ristorante,ristorante
-41.320176,16.286650,osm_la_pescheria_41.3202_16.2866,La pescheria,ristorante,ristorante
-41.320795,16.284317,osm_baguetteria_jeam__41.3208_16.2843,Baguetteria JeaMì,ristorante,ristorante
-41.320178,16.283053,osm_nero_41.3202_16.2831,Nero,ristorante,ristorante
-41.320180,16.282489,osm_portento_41.3202_16.2825,Portento,ristorante,ristorante
-41.319824,16.282254,osm_zenzero_41.3198_16.2823,Zenzero,ristorante,ristorante
-41.319011,16.280897,osm_grand_bistrot_41.3190_16.2809,Grand Bistrot,ristorante,ristorante
-41.319714,16.281671,osm_la_stradina_41.3197_16.2817,La stradina,ristorante,ristorante
-41.320734,16.284921,osm_pucciar__41.3207_16.2849,PucciArè,ristorante,ristorante
-41.320950,16.284658,osm_tutti_pazzi_per_i_fritti_41.3209_16.2847,Tutti Pazzi per i Fritti,ristorante,ristorante
-41.320987,16.284513,osm_essenza___cibo_lento_41.3210_16.2845,Essenza - Cibo lento,ristorante,ristorante
-41.322452,16.284385,osm_bacco_41.3225_16.2844,Bacco,ristorante,ristorante
-41.322687,16.284352,osm_il_calamaro_41.3227_16.2844,Il Calamaro,ristorante,ristorante
-41.320025,16.286676,osm_crazy_pizza_41.3200_16.2867,Crazy Pizza,ristorante,ristorante
-41.319462,16.287401,osm_l_ancora_41.3195_16.2874,L'Ancora,ristorante,ristorante
-41.322182,16.274618,osm_zio_tom_41.3222_16.2746,Zio Tom,ristorante,ristorante
-41.320758,16.284469,osm_ap__41.3208_16.2845,Apù,ristorante,ristorante
-41.320288,16.285972,osm_brass_41.3203_16.2860,Brass,ristorante,ristorante
-41.320359,16.285782,osm_cobbler_41.3204_16.2858,Cobbler,ristorante,ristorante
-41.321486,16.281439,osm_della_marra_41.3215_16.2814,Della Marra,ristorante,ristorante
-41.321390,16.280744,osm_malepeggio_41.3214_16.2807,Malepeggio,ristorante,ristorante
-41.318039,16.280274,osm_alle_poste_41.3180_16.2803,Alle Poste,ristorante,ristorante
-41.318365,16.282186,osm_mystic_pizza_41.3184_16.2822,Mystic Pizza,ristorante,ristorante
-41.321748,16.276674,osm_piz_stop_41.3217_16.2767,Piz stop,ristorante,ristorante
-41.320800,16.286215,osm_santa_maria_41.3208_16.2862,Santa Maria,ristorante,ristorante
-41.319099,16.279338,osm_la_libert__41.3191_16.2793,La libertà,ristorante,ristorante
-41.319673,16.280110,osm_l_isola_del_kebab_41.3197_16.2801,L'isola del Kebab,ristorante,ristorante
-41.322034,16.278545,osm_da_scial__41.3220_16.2785,Da Scialì,ristorante,ristorante
-41.318258,16.283599,osm_la_tettoia_41.3183_16.2836,La Tettoia,ristorante,ristorante
-41.320281,16.273716,osm_sehaifame_41.3203_16.2737,Sehaifame,ristorante,ristorante
-41.320037,16.263254,osm_gusto___41.3200_16.2633,Gusto è,ristorante,ristorante
-41.312985,16.303905,osm_risto_bar_friends_41.3130_16.3039,Risto-Bar Friends,ristorante,ristorante
-41.318174,16.279094,osm_pi__ke_kebab_41.3182_16.2791,Più ke Kebab,ristorante,ristorante
-41.306948,16.261023,osm_la_vucciaria_41.3069_16.2610,La Vucciaria,ristorante,ristorante
-41.320043,16.263625,osm_fugu_sushi_experience_41.3200_16.2636,Fugu Sushi Experience,ristorante,ristorante
-41.321441,16.283976,osm_fermentum_41.3214_16.2840,Fermentum,ristorante,ristorante
-41.303829,16.243070,osm_villa_petrini_41.3038_16.2431,Villa Petrini,ristorante,ristorante
-41.321775,16.244801,osm_officina_del_pollo_41.3218_16.2448,Officina del Pollo,ristorante,ristorante
-41.320396,16.295932,osm_il_brigantino_2_41.3204_16.2959,Il Brigantino 2,ristorante,ristorante
-41.238642,16.294565,ov_hopera_italian_style_caf__andria_41.2386_16.2946,Hopera italian style cafè Andria,RESTAURANT,ristorante
-41.281201,16.194549,ov_cascina_del_borgo_41.2812_16.1945,Cascina Del Borgo,RESTAURANT,ristorante
-41.296064,16.238885,ov_le_ture_41.2961_16.2389,Le Ture,RESTAURANT,ristorante
-41.290300,16.217310,ov_ristorante_ginevra___barletta_41.2903_16.2173,Ristorante Ginevra - Barletta,RESTAURANT,ristorante
-41.321521,16.244817,ov_l_officina_del_pollo_41.3215_16.2448,L'Officina del Pollo,RESTAURANT,ristorante
-41.301266,16.233275,ov_oasi_210_41.3013_16.2333,Oasi 210,RESTAURANT,ristorante
-41.309540,16.257320,ov_il_bue_nero_braceria_41.3095_16.2573,IL BUE NERO Braceria,RESTAURANT,ristorante
-41.308950,16.263384,ov_clarence___pizza___grill_41.3090_16.2634,Clarence - Pizza & Grill,RESTAURANT,ristorante
-41.311691,16.260596,ov_voglia_di_pasta_41.3117_16.2606,Voglia di Pasta,RESTAURANT,ristorante
-41.312184,16.260561,ov_ristobar_marilu_41.3122_16.2606,Ristobar Marilu,RESTAURANT,ristorante
-41.311671,16.261007,ov_sanetica_41.3117_16.2610,Sanetica,RESTAURANT,ristorante
-41.311135,16.261640,ov_pizza_house_41.3111_16.2616,Pizza House,RESTAURANT,ristorante
-41.313313,16.261600,ov_la_rosa_negra_pizzeria_da_kamel_nuova_ge_41.3133_16.2616,La Rosa Negra Pizzeria da Kamel NUOVA GESTIONE,RESTAURANT,ristorante
-41.312808,16.260522,ov_ristorante_s__paolo_41.3128_16.2605,Ristorante S. Paolo,RESTAURANT,ristorante
-41.327197,16.263198,ov_bagno_27_41.3272_16.2632,Bagno 27,RESTAURANT,ristorante
-41.324011,16.262636,ov_la_taverna_dei_briganti_41.3240_16.2626,La Taverna dei Briganti,RESTAURANT,ristorante
-41.322638,16.263002,ov_el_pizzador_41.3226_16.2630,El Pizzador,RESTAURANT,ristorante
-41.319962,16.263223,ov_gusto_e_41.3200_16.2632,Gusto e,RESTAURANT,ristorante
-41.319897,16.262495,ov_koi_sushi_41.3199_16.2625,Koi Sushi,RESTAURANT,ristorante
-41.320187,16.257068,ov_mcdonald_s_41.3202_16.2571,McDonald's,RESTAURANT,ristorante
-41.314885,16.260003,ov_le_tre_palme_41.3149_16.2600,Le Tre Palme,RESTAURANT,ristorante
-41.315730,16.264572,ov_il_bivio_41.3157_16.2646,Il Bivio,RESTAURANT,ristorante
-41.315405,16.263923,ov_il_desiderio___bistrot_and_lounge_41.3154_16.2639,Il Desiderio - Bistrot and Lounge,RESTAURANT,ristorante
-41.314860,16.271490,ov_europe_life_41.3149_16.2715,Europe Life,RESTAURANT,ristorante
-41.319070,16.268647,ov_pizzeria_lo_scudiero_41.3191_16.2686,Pizzeria Lo Scudiero,RESTAURANT,ristorante
-41.320090,16.269070,ov_street_food_41.3201_16.2691,Street Food,RESTAURANT,ristorante
-41.320095,16.266989,ov_pizzeria_da_peppo_41.3201_16.2670,Pizzeria Da Peppo,RESTAURANT,ristorante
-41.320025,16.263759,ov_oolivoo_la_bufala_41.3200_16.2638,Oolivoo La Bufala,RESTAURANT,ristorante
-41.320037,16.263746,ov_fugu_41.3200_16.2637,Fugu,RESTAURANT,ristorante
-41.321730,16.263463,ov_tramar__41.3217_16.2635,Tramarè,RESTAURANT,ristorante
-41.322580,16.266842,ov_la_bottega_del_baba_41.3226_16.2668,La Bottega del Baba,RESTAURANT,ristorante
-41.323525,16.266650,ov_pizzeria_bounty_41.3235_16.2667,Pizzeria Bounty,RESTAURANT,ristorante
-41.325835,16.266366,ov_zenzero_sushi___beach_club_41.3258_16.2664,Zenzero Sushi & Beach Club,RESTAURANT,ristorante
-41.324098,16.264832,ov_gigipollo_41.3241_16.2648,GigiPollo,RESTAURANT,ristorante
-41.323047,16.271058,ov_new_pirati_41.3230_16.2711,New Pirati,RESTAURANT,ristorante
-41.322133,16.274635,ov_zio_tom_41.3221_16.2746,Zio Tom,RESTAURANT,ristorante
-41.324053,16.274688,ov_zenzero_sushi_fusion_drink_41.3241_16.2747,Zenzero Sushi Fusion Drink,RESTAURANT,ristorante
-41.324129,16.274781,ov_lido_zenzero_barletta_41.3241_16.2748,Lido Zenzero Barletta,RESTAURANT,ristorante
-41.322045,16.278655,ov_da_sciali_41.3220_16.2787,Da Sciali,RESTAURANT,ristorante
-41.323463,16.278319,ov_maadhoo_sapori_e_suoni_41.3235_16.2783,Maadhoo-sapori e suoni,RESTAURANT,ristorante
-41.323309,16.279644,ov_smile_beach_ristorante__lido_bella_venez_41.3233_16.2796,Smile Beach Ristorante (Lido Bella Venezia Barletta),RESTAURANT,ristorante
-41.321059,16.279730,ov_il_valentino_41.3211_16.2797,Il Valentino,RESTAURANT,ristorante
-41.321227,16.278698,ov_sayurino_barletta_41.3212_16.2787,Sayurino Barletta,RESTAURANT,ristorante
-41.320231,16.277975,ov_pizzeria_romana_41.3202_16.2780,Pizzeria romana,RESTAURANT,ristorante
-41.320745,16.279570,ov_nuova_pizzeria_i_saraceni_41.3207_16.2796,Nuova Pizzeria I Saraceni,RESTAURANT,ristorante
-41.319890,16.279459,ov_riscio_sushi_41.3199_16.2795,Riscio Sushi,RESTAURANT,ristorante
-41.319861,16.279257,ov_umami_by_portento_41.3199_16.2793,Umami by Portento,RESTAURANT,ristorante
-41.319861,16.279257,ov_panarea_beach_club___barletta_41.3199_16.2793,Panarea Beach Club - Barletta,RESTAURANT,ristorante
-41.319670,16.278940,ov_ristorante_pizzeria_morgi_e_gusta_41.3197_16.2789,Ristorante Pizzeria Morgi e Gusta,RESTAURANT,ristorante
-41.318214,16.279102,ov_pi__ke_kebab_41.3182_16.2791,Più Ke Kebab,RESTAURANT,ristorante
-41.319099,16.279338,ov_la_libert__pizzeria_kebab_41.3191_16.2793,La Libertà_Pizzeria Kebab,RESTAURANT,ristorante
-41.318370,16.277840,ov_dhaka_kebab___restaurant_41.3184_16.2778,Dhaka Kebab & Restaurant,RESTAURANT,ristorante
-41.318250,16.277625,ov_panificio_francavilla_41.3183_16.2776,Panificio Francavilla,RESTAURANT,ristorante
-41.319318,16.275902,ov_casablanca_41.3193_16.2759,Casablanca,RESTAURANT,ristorante
-41.320322,16.277425,ov_sapori___delizie_41.3203_16.2774,Sapori & Delizie,RESTAURANT,ristorante
-41.320265,16.273753,ov_se_hai_fame_41.3203_16.2738,Se Hai Fame,RESTAURANT,ristorante
-41.320251,16.272901,ov_c___pizza_per_te_41.3203_16.2729,C'è Pizza Per Te,RESTAURANT,ristorante
-41.319507,16.274625,ov_emanuel_41.3195_16.2746,Emanuel,RESTAURANT,ristorante
-41.319045,16.275208,ov_il_principe_41.3190_16.2752,Il Principe,RESTAURANT,ristorante
-41.315613,16.272998,ov_basilico_pizzeria_barletta_41.3156_16.2730,Basilico Pizzeria Barletta,RESTAURANT,ristorante
-41.317828,16.277149,ov_c_era_una_volta_41.3178_16.2771,C'era una Volta,RESTAURANT,ristorante
-41.316849,16.277792,ov_non_solo_kebab_41.3168_16.2778,Non Solo Kebab,RESTAURANT,ristorante
-41.316418,16.278105,ov_antico_forno_a_legna_41.3164_16.2781,Antico Forno a Legna,RESTAURANT,ristorante
-41.316374,16.278378,ov_da_mattone_41.3164_16.2784,Da Mattone,RESTAURANT,ristorante
-41.316368,16.278391,ov_la_mozza___essenziale_per_una_pizza_spec_41.3164_16.2784,La Mozza - Essenziale per una pizza speciale,RESTAURANT,ristorante
-41.316676,16.278016,ov_pizza_in_piazza_41.3167_16.2780,Pizza in Piazza,RESTAURANT,ristorante
-41.317381,16.278361,ov_la_pizzeria_di_rudy_41.3174_16.2784,La Pizzeria di Rudy,RESTAURANT,ristorante
-41.316278,16.279864,ov_il_cibo_giusto_41.3163_16.2799,Il Cibo Giusto,RESTAURANT,ristorante
-41.311357,16.273202,ov_pulcinella_41.3114_16.2732,Pulcinella,RESTAURANT,ristorante
-41.312106,16.275595,ov_dei_pirati_41.3121_16.2756,Dei Pirati,RESTAURANT,ristorante
-41.313027,16.274466,ov_pescheria_il_fiore_del_mare_41.3130_16.2745,Pescheria Il Fiore Del Mare,RESTAURANT,ristorante
-41.312636,16.266267,ov_pizzeria_mulinello_41.3126_16.2663,Pizzeria Mulinello,RESTAURANT,ristorante
-41.312136,16.264781,ov_oasi_210_41.3121_16.2648,Oasi 210,RESTAURANT,ristorante
-41.311533,16.263498,ov_il_galletto_41.3115_16.2635,Il Galletto,RESTAURANT,ristorante
-41.307190,16.263674,ov_pescheria_liucci_41.3072_16.2637,Pescheria Liucci,RESTAURANT,ristorante
-41.307790,16.266906,ov_il_rugantino_41.3078_16.2669,Il Rugantino,RESTAURANT,ristorante
-41.307584,16.269888,ov_il_veliero_41.3076_16.2699,Il Veliero,RESTAURANT,ristorante
-41.305426,16.268144,ov_doya_sushi_41.3054_16.2681,Doya Sushi,RESTAURANT,ristorante
-41.305642,16.267124,ov_su___so_41.3056_16.2671,Su & So,RESTAURANT,ristorante
-41.306273,16.264548,ov_il_fornaio_dei_mulini_vecchi_41.3063_16.2645,Il Fornaio dei Mulini Vecchi,RESTAURANT,ristorante
-41.304253,16.273298,ov_d_angio_food_experience_41.3043_16.2733,D'Angio Food Experience,RESTAURANT,ristorante
-41.305852,16.273907,ov_il_tavolaccio_41.3059_16.2739,Il Tavolaccio,RESTAURANT,ristorante
-41.305848,16.274302,ov_mangiami_41.3058_16.2743,MangiAmi,RESTAURANT,ristorante
-41.305713,16.274854,ov_oltre___la_pizza_contemporanea_41.3057_16.2749,OLTRE - La Pizza Contemporanea,RESTAURANT,ristorante
-41.304112,16.274943,ov_london_house_2_0_41.3041_16.2749,London House 2.0,RESTAURANT,ristorante
-41.304070,16.274590,ov_maadhoo_l_altro_41.3041_16.2746,Maadhoo l'altro,RESTAURANT,ristorante
-41.304144,16.274414,ov_et_voila_41.3041_16.2744,Et Voila,RESTAURANT,ristorante
-41.303931,16.276003,ov_moyashi_41.3039_16.2760,Moyashi,RESTAURANT,ristorante
-41.304818,16.277650,ov_koun_sushi_41.3048_16.2776,Koun Sushi,RESTAURANT,ristorante
-41.305367,16.278287,ov_pronto_pizza_41.3054_16.2783,Pronto Pizza,RESTAURANT,ristorante
-41.305757,16.279066,ov_pizzeria_le_roi_41.3058_16.2791,Pizzeria Le Roi,RESTAURANT,ristorante
-41.304567,16.279639,ov_heidi_s_burger_shoppe_41.3046_16.2796,Heidi's Burger Shoppe,RESTAURANT,ristorante
-41.304508,16.315150,ov_ai_bi__amici_dei_bambini_ets_41.3045_16.3151,Ai.Bi. Amici dei Bambini ETS,RESTAURANT,ristorante
-41.304432,16.315314,ov_ristorante_terra_rossa_41.3044_16.3153,Ristorante Terra Rossa,RESTAURANT,ristorante
-41.306508,16.321586,ov_over_teak_41.3065_16.3216,Over Teak,RESTAURANT,ristorante
-41.320320,16.297230,ov_brigantino_2_fitness_41.3203_16.2972,Brigantino 2 Fitness,RESTAURANT,ristorante
-41.320301,16.297934,ov_helios_41.3203_16.2979,Helios,RESTAURANT,ristorante
-41.320442,16.298064,ov_al_vecchio_forno_in_blu_41.3204_16.2981,Al Vecchio Forno in Blu,RESTAURANT,ristorante
-41.319880,16.299178,ov_ristorante_bagni_teti_41.3199_16.2992,Ristorante Bagni Teti,RESTAURANT,ristorante
-41.319266,16.299632,ov_leblon_sala_ricevimenti_sul_mare_41.3193_16.2996,Leblon Sala Ricevimenti sul mare,RESTAURANT,ristorante
-41.317710,16.298400,ov_kiama_sushi_41.3177_16.2984,Kiama Sushi,RESTAURANT,ristorante
-41.316772,16.298173,ov_nuova_emanuel_41.3168_16.2982,Nuova Emanuel,RESTAURANT,ristorante
-41.316624,16.298110,ov_sushigo_sushi_wok_ristorante_41.3166_16.2981,Sushigo Sushi Wok Ristorante,RESTAURANT,ristorante
-41.306407,16.286495,ov_la_braceria_41.3064_16.2865,La Braceria,RESTAURANT,ristorante
-41.306207,16.286213,ov_a_qualcuno_piace_caldo_41.3062_16.2862,A Qualcuno Piace Caldo,RESTAURANT,ristorante
-41.306154,16.284585,ov_pizza___jazz_41.3062_16.2846,Pizza & Jazz,RESTAURANT,ristorante
-41.305082,16.285288,ov_il_vesuvio_41.3051_16.2853,Il Vesuvio,RESTAURANT,ristorante
-41.303834,16.281959,ov_ristorante_giapponese_barletta_41.3038_16.2820,Ristorante Giapponese Barletta,RESTAURANT,ristorante
-41.304672,16.283507,ov_pizzeria_bistro_bala_41.3047_16.2835,Pizzeria Bistro Bala,RESTAURANT,ristorante
-41.305918,16.281785,ov_l_altra_sfornata_41.3059_16.2818,L'Altra Sfornata,RESTAURANT,ristorante
-41.304944,16.281778,ov_triticum_41.3049_16.2818,Triticum,RESTAURANT,ristorante
-41.304820,16.281450,ov_lolacaffe_41.3048_16.2814,Lolacaffe,RESTAURANT,ristorante
-41.307973,16.285569,ov_forneria_lionetti_41.3080_16.2856,Forneria Lionetti,RESTAURANT,ristorante
-41.316160,16.280900,ov_antica_pizzeria_d_aragona_41.3162_16.2809,Antica Pizzeria D’Aragona,RESTAURANT,ristorante
-41.317457,16.283510,ov_tecnoscuola_il_portico_41.3175_16.2835,Tecnoscuola Il Portico,RESTAURANT,ristorante
-41.316999,16.281523,ov_gastronomia_leontine_f_lli_demarzo_41.3170_16.2815,Gastronomia Leontine F.lli Demarzo,RESTAURANT,ristorante
-41.318244,16.280300,ov_twine___ristorante_e_vineria_41.3182_16.2803,Twine - Ristorante e Vineria,RESTAURANT,ristorante
-41.318203,16.280490,ov_alle_poste_41.3182_16.2805,Alle Poste,RESTAURANT,ristorante
-41.319532,16.281068,ov_costruiamo_barletta_41.3195_16.2811,CostruiAmo Barletta,RESTAURANT,ristorante
-41.319725,16.281709,ov_la_stradina_41.3197_16.2817,La Stradina,RESTAURANT,ristorante
-41.321353,16.281477,ov_al_vecchio_forno_41.3214_16.2815,Al Vecchio Forno,RESTAURANT,ristorante
-41.320883,16.281979,ov_ristorante_95_41.3209_16.2820,Ristorante 95,RESTAURANT,ristorante
-41.320100,16.282478,ov_portento_41.3201_16.2825,Portento,RESTAURANT,ristorante
-41.320302,16.283029,ov_muddler_dinner_club_41.3203_16.2830,Muddler dinner club,RESTAURANT,ristorante
-41.320203,16.282788,ov_bardulos_41.3202_16.2828,Bardulos,RESTAURANT,ristorante
-41.320803,16.282583,ov_osteria_41.3208_16.2826,Osteria,RESTAURANT,ristorante
-41.320644,16.282436,ov_la_scarpetta_41.3206_16.2824,La Scarpetta,RESTAURANT,ristorante
-41.321142,16.282064,ov_bistrot_km0_41.3211_16.2821,Bistrot Km0,RESTAURANT,ristorante
-41.321129,16.282391,ov_al_pomodorino_41.3211_16.2824,Al Pomodorino,RESTAURANT,ristorante
-41.321639,16.283379,ov_exploit_pizzeria_41.3216_16.2834,Exploit Pizzeria,RESTAURANT,ristorante
-41.321668,16.283679,ov_il_convito_delle_muse_41.3217_16.2837,Il Convito delle Muse,RESTAURANT,ristorante
-41.321311,16.283896,ov_masque___arte_e_ristoro_41.3213_16.2839,Masque - Arte e Ristoro,RESTAURANT,ristorante
-41.321436,16.283750,ov_fermentum___l_arte_della_pizza_41.3214_16.2838,Fermentum - l’arte della Pizza,RESTAURANT,ristorante
-41.321436,16.283751,ov_oggi_41.3214_16.2838,OGGI,RESTAURANT,ristorante
-41.321350,16.283720,ov_ginfish_tasty_tonic_41.3214_16.2837,GinFish Tasty&Tonic,RESTAURANT,ristorante
-41.320611,16.283162,ov_trattoria_posticino___barletta_41.3206_16.2832,Trattoria Posticino - Barletta,RESTAURANT,ristorante
-41.320297,16.283792,ov_la_gioconda_41.3203_16.2838,La Gioconda,RESTAURANT,ristorante
-41.319979,16.282320,ov_symposium_vineria_degustativa_41.3200_16.2823,Symposium Vineria Degustativa,RESTAURANT,ristorante
-41.319864,16.282213,ov_zenzero_sushi_fusion_drink_41.3199_16.2822,Zenzero Sushi Fusion Drink,RESTAURANT,ristorante
-41.318403,16.282234,ov_mystic_pizza_41.3184_16.2822,Mystic Pizza,RESTAURANT,ristorante
-41.318702,16.284057,ov_harmony_caffe_41.3187_16.2841,Harmony Caffe,RESTAURANT,ristorante
-41.318657,16.284034,ov_pizzeria_le_delizie_del_grano_41.3187_16.2840,Pizzeria Le delizie del grano,RESTAURANT,ristorante
-41.318246,16.283649,ov_pizzeria_la_tettoia_41.3182_16.2836,Pizzeria La Tettoia,RESTAURANT,ristorante
-41.318235,16.284058,ov_santantonio_41.3182_16.2841,Santantonio,RESTAURANT,ristorante
-41.319264,16.285943,ov_kemare_41.3193_16.2859,Kemare,RESTAURANT,ristorante
-41.319875,16.285981,ov_kaori_41.3199_16.2860,Kaori,RESTAURANT,ristorante
-41.320051,16.284869,ov_san_giorgio_27_41.3201_16.2849,San Giorgio 27,RESTAURANT,ristorante
-41.320556,16.284169,ov_sami_ristorante_41.3206_16.2842,Sami Ristorante,RESTAURANT,ristorante
-41.320728,16.284642,ov_hipporosso_41.3207_16.2846,Hipporosso,RESTAURANT,ristorante
-41.320827,16.285044,ov_al_tettuccio_41.3208_16.2850,Al Tettuccio,RESTAURANT,ristorante
-41.321040,16.284563,ov_essenza_cibo_lento_41.3210_16.2846,Essenza Cibo Lento,RESTAURANT,ristorante
-41.320724,16.284296,ov_momaburger___hamburgheria_41.3207_16.2843,MOMABurger - Hamburgheria,RESTAURANT,ristorante
-41.320674,16.284324,ov_jolly_blu_pizzeria_rosticceria_41.3207_16.2843,Jolly Blu Pizzeria Rosticceria,RESTAURANT,ristorante
-41.320824,16.284298,ov_jeami_41.3208_16.2843,JeaMi,RESTAURANT,ristorante
-41.321225,16.284453,ov_tutti_pazzi_per_i_fritti_41.3212_16.2845,Tutti Pazzi Per I Fritti,RESTAURANT,ristorante
-41.321998,16.284218,ov_antica_cucina_41.3220_16.2842,Antica Cucina,RESTAURANT,ristorante
-41.320701,16.285637,ov_pizzeria_santacroce_41.3207_16.2856,Pizzeria Santacroce,RESTAURANT,ristorante
-41.320802,16.285638,ov_focacceria_d_angi__41.3208_16.2856,Focacceria D'Angiò,RESTAURANT,ristorante
-41.320823,16.285118,ov_cibio_41.3208_16.2851,Cibio,RESTAURANT,ristorante
-41.320749,16.285403,ov_fata_morgana_41.3207_16.2854,Fata Morgana,RESTAURANT,ristorante
-41.320776,16.285514,ov_osteria_al_duomo_41.3208_16.2855,Osteria Al Duomo,RESTAURANT,ristorante
-41.320782,16.285593,ov_pizzeria_d_angio_41.3208_16.2856,Pizzeria D'Angio,RESTAURANT,ristorante
-41.320121,16.285926,ov_barnaby_s_41.3201_16.2859,Barnaby's,RESTAURANT,ristorante
-41.321183,16.286405,ov_spitik__homemade_concept_41.3212_16.2864,Spitikò Homemade Concept,RESTAURANT,ristorante
-41.319320,16.287697,ov_pizzeria_l_ancora_41.3193_16.2877,Pizzeria L'ancora,RESTAURANT,ristorante
-41.319932,16.287596,ov_il_covo_delle_sirene_41.3199_16.2876,Il Covo delle Sirene,RESTAURANT,ristorante
-41.318785,16.287663,ov_il_rosticciere_41.3188_16.2877,Il Rosticciere,RESTAURANT,ristorante
-41.317132,16.284853,ov_pizzeria_holiday_41.3171_16.2849,Pizzeria Holiday,RESTAURANT,ristorante
-41.314964,16.284529,ov_acp_bat_41.3150_16.2845,ACP BAT,RESTAURANT,ristorante
-41.315008,16.287151,ov_pizzeria_cartina_41.3150_16.2872,Pizzeria Cartina,RESTAURANT,ristorante
-41.314877,16.288875,ov_risto_pizza_luna_rossa_41.3149_16.2889,Risto Pizza Luna Rossa,RESTAURANT,ristorante
-41.315852,16.288875,ov_zio_mimmo_pizza_house_41.3159_16.2889,Zio Mimmo Pizza House,RESTAURANT,ristorante
-41.317043,16.288668,ov_ristorante_pizzeria_nuovo_centaro_41.3170_16.2887,Ristorante Pizzeria Nuovo Centaro,RESTAURANT,ristorante
-41.316973,16.288428,ov_tre_scalini_41.3170_16.2884,Tre Scalini,RESTAURANT,ristorante
-41.317768,16.289078,ov_amadeus_41.3178_16.2891,Amadeus,RESTAURANT,ristorante
-41.317311,16.288917,ov_pizza___jazz_41.3173_16.2889,Pizza & Jazz,RESTAURANT,ristorante
-41.317003,16.289857,ov_bottega_delle_delizie_41.3170_16.2899,Bottega Delle Delizie,RESTAURANT,ristorante
-41.317290,16.291075,ov_urus___lounge___grill_41.3173_16.2911,Urus - Lounge & Grill,RESTAURANT,ristorante
-41.317999,16.291510,ov_mcdonald_s_41.3180_16.2915,McDonald's,RESTAURANT,ristorante
-41.321500,16.292497,ov_il_pizzone_rosticceria_41.3215_16.2925,Il Pizzone Rosticceria,RESTAURANT,ristorante
-41.319439,16.291799,ov_il_don_giovanni_41.3194_16.2918,Il Don Giovanni,RESTAURANT,ristorante
-41.318600,16.292011,ov_kyoto_41.3186_16.2920,Kyoto,RESTAURANT,ristorante
-41.323763,16.286722,ov_ricatti_di_gola____mirage_41.3238_16.2867,Ricatti di gola... Mirage,RESTAURANT,ristorante
-41.322529,16.284615,ov_portamarina_1751_41.3225_16.2846,Portamarina 1751,RESTAURANT,ristorante
-41.322336,16.284680,ov_lupo_di_mare_41.3223_16.2847,Lupo di Mare,RESTAURANT,ristorante
-41.322495,16.284442,ov_bacco_41.3225_16.2844,Bacco,RESTAURANT,ristorante
-41.322553,16.284475,ov_il_calamaro_41.3226_16.2845,Il Calamaro,RESTAURANT,ristorante
-41.323266,16.280801,ov_sala_ricevimenti___ristorante_ginevra_41.3233_16.2808,Sala Ricevimenti - Ristorante Ginevra,RESTAURANT,ristorante
-41.332777,16.295034,ov_lanterna_del_braccio_di_levante_41.3328_16.2950,Lanterna Del Braccio Di Levante,RESTAURANT,ristorante
-41.280146,16.420423,ov_pescato_fritto_da_patrizio_41.2801_16.4204,Pescato&Fritto Da Patrizio,RESTAURANT,ristorante
+41.238642,16.294565,ov_hopera_italian_style_caf__andria_41.2386_16.2946,Hopera italian style cafè Andria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/hopera_italian_style_caf_andria_41.2386_16.2946.json,custom
+41.281201,16.194549,ov_cascina_del_borgo_41.2812_16.1945,Cascina Del Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/cascina_del_borgo_41.2812_16.1945.json,custom
+41.296064,16.238885,ov_le_ture_41.2961_16.2389,Le Ture,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/le_ture_41.2961_16.2389.json,custom
+41.290300,16.217310,ov_ristorante_ginevra___barletta_41.2903_16.2173,Ristorante Ginevra - Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_ginevra_-_barletta_41.2903_16.2173.json,custom
+41.321521,16.244817,ov_l_officina_del_pollo_41.3215_16.2448,L'Officina del Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lofficina_del_pollo_41.3215_16.2448.json,custom
+41.301266,16.233275,ov_oasi_210_41.3013_16.2333,Oasi 210,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/oasi_210_41.3013_16.2333.json,custom
+41.309540,16.257320,ov_il_bue_nero_braceria_41.3095_16.2573,IL BUE NERO Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_bue_nero_braceria_41.3095_16.2573.json,custom
+41.308950,16.263384,ov_clarence___pizza___grill_41.3090_16.2634,Clarence - Pizza & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/clarence_-_pizza_grill_41.3090_16.2634.json,custom
+41.311691,16.260596,ov_voglia_di_pasta_41.3117_16.2606,Voglia di Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/voglia_di_pasta_41.3117_16.2606.json,custom
+41.312184,16.260561,ov_ristobar_marilu_41.3122_16.2606,Ristobar Marilu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristobar_marilu_41.3122_16.2606.json,custom
+41.311671,16.261007,ov_sanetica_41.3117_16.2610,Sanetica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sanetica_41.3117_16.2610.json,custom
+41.311135,16.261640,ov_pizza_house_41.3111_16.2616,Pizza House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizza_house_41.3111_16.2616.json,custom
+41.313313,16.261600,ov_la_rosa_negra_pizzeria_da_kamel_nuova_ge_41.3133_16.2616,La Rosa Negra Pizzeria da Kamel NUOVA GESTIONE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_rosa_negra_pizzeria_da_kamel_nuova_ge_41.3133_16.2616.json,custom
+41.312808,16.260522,ov_ristorante_s__paolo_41.3128_16.2605,Ristorante S. Paolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_s_paolo_41.3128_16.2605.json,custom
+41.327197,16.263198,ov_bagno_27_41.3272_16.2632,Bagno 27,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/bagno_27_41.3272_16.2632.json,custom
+41.324011,16.262636,ov_la_taverna_dei_briganti_41.3240_16.2626,La Taverna dei Briganti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_taverna_dei_briganti_41.3240_16.2626.json,custom
+41.322638,16.263002,ov_el_pizzador_41.3226_16.2630,El Pizzador,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/el_pizzador_41.3226_16.2630.json,custom
+41.319962,16.263223,ov_gusto_e_41.3200_16.2632,Gusto e,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/gusto_e_41.3200_16.2632.json,custom
+41.319897,16.262495,ov_koi_sushi_41.3199_16.2625,Koi Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/koi_sushi_41.3199_16.2625.json,custom
+41.320187,16.257068,ov_mcdonald_s_41.3202_16.2571,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/mcdonalds_41.3202_16.2571.json,custom
+41.314885,16.260003,ov_le_tre_palme_41.3149_16.2600,Le Tre Palme,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/le_tre_palme_41.3149_16.2600.json,custom
+41.315730,16.264572,ov_il_bivio_41.3157_16.2646,Il Bivio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_bivio_41.3157_16.2646.json,custom
+41.315405,16.263923,ov_il_desiderio___bistrot_and_lounge_41.3154_16.2639,Il Desiderio - Bistrot and Lounge,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_desiderio_-_bistrot_and_lounge_41.3154_16.2639.json,custom
+41.314860,16.271490,ov_europe_life_41.3149_16.2715,Europe Life,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/europe_life_41.3149_16.2715.json,custom
+41.319070,16.268647,ov_pizzeria_lo_scudiero_41.3191_16.2686,Pizzeria Lo Scudiero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_lo_scudiero_41.3191_16.2686.json,custom
+41.320090,16.269070,ov_street_food_41.3201_16.2691,Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/street_food_41.3201_16.2691.json,custom
+41.320095,16.266989,ov_pizzeria_da_peppo_41.3201_16.2670,Pizzeria Da Peppo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_da_peppo_41.3201_16.2670.json,custom
+41.320025,16.263759,ov_oolivoo_la_bufala_41.3200_16.2638,Oolivoo La Bufala,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/oolivoo_la_bufala_41.3200_16.2638.json,custom
+41.320037,16.263746,ov_fugu_41.3200_16.2637,Fugu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/fugu_41.3200_16.2637.json,custom
+41.321730,16.263463,ov_tramar__41.3217_16.2635,Tramarè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/tramar_41.3217_16.2635.json,custom
+41.322580,16.266842,ov_la_bottega_del_baba_41.3226_16.2668,La Bottega del Baba,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_bottega_del_baba_41.3226_16.2668.json,custom
+41.323525,16.266650,ov_pizzeria_bounty_41.3235_16.2667,Pizzeria Bounty,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_bounty_41.3235_16.2667.json,custom
+41.325835,16.266366,ov_zenzero_sushi___beach_club_41.3258_16.2664,Zenzero Sushi & Beach Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zenzero_sushi_beach_club_41.3258_16.2664.json,custom
+41.324098,16.264832,ov_gigipollo_41.3241_16.2648,GigiPollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/gigipollo_41.3241_16.2648.json,custom
+41.323047,16.271058,ov_new_pirati_41.3230_16.2711,New Pirati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/new_pirati_41.3230_16.2711.json,custom
+41.322133,16.274635,ov_zio_tom_41.3221_16.2746,Zio Tom,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zio_tom_41.3221_16.2746.json,custom
+41.324053,16.274688,ov_zenzero_sushi_fusion_drink_41.3241_16.2747,Zenzero Sushi Fusion Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zenzero_sushi_fusion_drink_41.3241_16.2747.json,custom
+41.324129,16.274781,ov_lido_zenzero_barletta_41.3241_16.2748,Lido Zenzero Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lido_zenzero_barletta_41.3241_16.2748.json,custom
+41.322045,16.278655,ov_da_sciali_41.3220_16.2787,Da Sciali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/da_sciali_41.3220_16.2787.json,custom
+41.323463,16.278319,ov_maadhoo_sapori_e_suoni_41.3235_16.2783,Maadhoo-sapori e suoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/maadhoo-sapori_e_suoni_41.3235_16.2783.json,custom
+41.323309,16.279644,ov_smile_beach_ristorante__lido_bella_venez_41.3233_16.2796,Smile Beach Ristorante (Lido Bella Venezia Barletta),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/smile_beach_ristorante_lido_bella_venezi_41.3233_16.2796.json,custom
+41.321059,16.279730,ov_il_valentino_41.3211_16.2797,Il Valentino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_valentino_41.3211_16.2797.json,custom
+41.321227,16.278698,ov_sayurino_barletta_41.3212_16.2787,Sayurino Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sayurino_barletta_41.3212_16.2787.json,custom
+41.320231,16.277975,ov_pizzeria_romana_41.3202_16.2780,Pizzeria romana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_romana_41.3202_16.2780.json,custom
+41.320745,16.279570,ov_nuova_pizzeria_i_saraceni_41.3207_16.2796,Nuova Pizzeria I Saraceni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/nuova_pizzeria_i_saraceni_41.3207_16.2796.json,custom
+41.319890,16.279459,ov_riscio_sushi_41.3199_16.2795,Riscio Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/riscio_sushi_41.3199_16.2795.json,custom
+41.319861,16.279257,ov_umami_by_portento_41.3199_16.2793,Umami by Portento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/umami_by_portento_41.3199_16.2793.json,custom
+41.319861,16.279257,ov_panarea_beach_club___barletta_41.3199_16.2793,Panarea Beach Club - Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/panarea_beach_club_-_barletta_41.3199_16.2793.json,custom
+41.319670,16.278940,ov_ristorante_pizzeria_morgi_e_gusta_41.3197_16.2789,Ristorante Pizzeria Morgi e Gusta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_pizzeria_morgi_e_gusta_41.3197_16.2789.json,custom
+41.318214,16.279102,ov_pi__ke_kebab_41.3182_16.2791,Più Ke Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pi_ke_kebab_41.3182_16.2791.json,custom
+41.319099,16.279338,ov_la_libert__pizzeria_kebab_41.3191_16.2793,La Libertà_Pizzeria Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_libertpizzeria_kebab_41.3191_16.2793.json,custom
+41.318370,16.277840,ov_dhaka_kebab___restaurant_41.3184_16.2778,Dhaka Kebab & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/dhaka_kebab_restaurant_41.3184_16.2778.json,custom
+41.318250,16.277625,ov_panificio_francavilla_41.3183_16.2776,Panificio Francavilla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/panificio_francavilla_41.3183_16.2776.json,custom
+41.319318,16.275902,ov_casablanca_41.3193_16.2759,Casablanca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/casablanca_41.3193_16.2759.json,custom
+41.320322,16.277425,ov_sapori___delizie_41.3203_16.2774,Sapori & Delizie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sapori_delizie_41.3203_16.2774.json,custom
+41.320265,16.273753,ov_se_hai_fame_41.3203_16.2738,Se Hai Fame,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/se_hai_fame_41.3203_16.2738.json,custom
+41.320251,16.272901,ov_c___pizza_per_te_41.3203_16.2729,C'è Pizza Per Te,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/c_pizza_per_te_41.3203_16.2729.json,custom
+41.319507,16.274625,ov_emanuel_41.3195_16.2746,Emanuel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/emanuel_41.3195_16.2746.json,custom
+41.319045,16.275208,ov_il_principe_41.3190_16.2752,Il Principe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_principe_41.3190_16.2752.json,custom
+41.315613,16.272998,ov_basilico_pizzeria_barletta_41.3156_16.2730,Basilico Pizzeria Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/basilico_pizzeria_barletta_41.3156_16.2730.json,custom
+41.317828,16.277149,ov_c_era_una_volta_41.3178_16.2771,C'era una Volta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/cera_una_volta_41.3178_16.2771.json,custom
+41.316849,16.277792,ov_non_solo_kebab_41.3168_16.2778,Non Solo Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/non_solo_kebab_41.3168_16.2778.json,custom
+41.316418,16.278105,ov_antico_forno_a_legna_41.3164_16.2781,Antico Forno a Legna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/antico_forno_a_legna_41.3164_16.2781.json,custom
+41.316374,16.278378,ov_da_mattone_41.3164_16.2784,Da Mattone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/da_mattone_41.3164_16.2784.json,custom
+41.316368,16.278391,ov_la_mozza___essenziale_per_una_pizza_spec_41.3164_16.2784,La Mozza - Essenziale per una pizza speciale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_mozza_-_essenziale_per_una_pizza_spec_41.3164_16.2784.json,custom
+41.316676,16.278016,ov_pizza_in_piazza_41.3167_16.2780,Pizza in Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizza_in_piazza_41.3167_16.2780.json,custom
+41.317381,16.278361,ov_la_pizzeria_di_rudy_41.3174_16.2784,La Pizzeria di Rudy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_pizzeria_di_rudy_41.3174_16.2784.json,custom
+41.316278,16.279864,ov_il_cibo_giusto_41.3163_16.2799,Il Cibo Giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_cibo_giusto_41.3163_16.2799.json,custom
+41.311357,16.273202,ov_pulcinella_41.3114_16.2732,Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pulcinella_41.3114_16.2732.json,custom
+41.312106,16.275595,ov_dei_pirati_41.3121_16.2756,Dei Pirati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/dei_pirati_41.3121_16.2756.json,custom
+41.313027,16.274466,ov_pescheria_il_fiore_del_mare_41.3130_16.2745,Pescheria Il Fiore Del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pescheria_il_fiore_del_mare_41.3130_16.2745.json,custom
+41.312636,16.266267,ov_pizzeria_mulinello_41.3126_16.2663,Pizzeria Mulinello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_mulinello_41.3126_16.2663.json,custom
+41.312136,16.264781,ov_oasi_210_41.3121_16.2648,Oasi 210,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/oasi_210_41.3121_16.2648.json,custom
+41.311533,16.263498,ov_il_galletto_41.3115_16.2635,Il Galletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_galletto_41.3115_16.2635.json,custom
+41.307190,16.263674,ov_pescheria_liucci_41.3072_16.2637,Pescheria Liucci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pescheria_liucci_41.3072_16.2637.json,custom
+41.307790,16.266906,ov_il_rugantino_41.3078_16.2669,Il Rugantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_rugantino_41.3078_16.2669.json,custom
+41.307584,16.269888,ov_il_veliero_41.3076_16.2699,Il Veliero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_veliero_41.3076_16.2699.json,custom
+41.305426,16.268144,ov_doya_sushi_41.3054_16.2681,Doya Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/doya_sushi_41.3054_16.2681.json,custom
+41.305642,16.267124,ov_su___so_41.3056_16.2671,Su & So,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/su_so_41.3056_16.2671.json,custom
+41.306273,16.264548,ov_il_fornaio_dei_mulini_vecchi_41.3063_16.2645,Il Fornaio dei Mulini Vecchi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_fornaio_dei_mulini_vecchi_41.3063_16.2645.json,custom
+41.304253,16.273298,ov_d_angio_food_experience_41.3043_16.2733,D'Angio Food Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/dangio_food_experience_41.3043_16.2733.json,custom
+41.305852,16.273907,ov_il_tavolaccio_41.3059_16.2739,Il Tavolaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_tavolaccio_41.3059_16.2739.json,custom
+41.305848,16.274302,ov_mangiami_41.3058_16.2743,MangiAmi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/mangiami_41.3058_16.2743.json,custom
+41.305713,16.274854,ov_oltre___la_pizza_contemporanea_41.3057_16.2749,OLTRE - La Pizza Contemporanea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/oltre_-_la_pizza_contemporanea_41.3057_16.2749.json,custom
+41.304112,16.274943,ov_london_house_2_0_41.3041_16.2749,London House 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/london_house_20_41.3041_16.2749.json,custom
+41.304070,16.274590,ov_maadhoo_l_altro_41.3041_16.2746,Maadhoo l'altro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/maadhoo_laltro_41.3041_16.2746.json,custom
+41.304144,16.274414,ov_et_voila_41.3041_16.2744,Et Voila,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/et_voila_41.3041_16.2744.json,custom
+41.303931,16.276003,ov_moyashi_41.3039_16.2760,Moyashi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/moyashi_41.3039_16.2760.json,custom
+41.304818,16.277650,ov_koun_sushi_41.3048_16.2776,Koun Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/koun_sushi_41.3048_16.2776.json,custom
+41.305367,16.278287,ov_pronto_pizza_41.3054_16.2783,Pronto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pronto_pizza_41.3054_16.2783.json,custom
+41.305757,16.279066,ov_pizzeria_le_roi_41.3058_16.2791,Pizzeria Le Roi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_le_roi_41.3058_16.2791.json,custom
+41.304567,16.279639,ov_heidi_s_burger_shoppe_41.3046_16.2796,Heidi's Burger Shoppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/heidis_burger_shoppe_41.3046_16.2796.json,custom
+41.304508,16.315150,ov_ai_bi__amici_dei_bambini_ets_41.3045_16.3151,Ai.Bi. Amici dei Bambini ETS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/aibi_amici_dei_bambini_ets_41.3045_16.3151.json,custom
+41.304432,16.315314,ov_ristorante_terra_rossa_41.3044_16.3153,Ristorante Terra Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_terra_rossa_41.3044_16.3153.json,custom
+41.306508,16.321586,ov_over_teak_41.3065_16.3216,Over Teak,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/over_teak_41.3065_16.3216.json,custom
+41.320320,16.297230,ov_brigantino_2_fitness_41.3203_16.2972,Brigantino 2 Fitness,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/brigantino_2_fitness_41.3203_16.2972.json,custom
+41.320301,16.297934,ov_helios_41.3203_16.2979,Helios,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/helios_41.3203_16.2979.json,custom
+41.320442,16.298064,ov_al_vecchio_forno_in_blu_41.3204_16.2981,Al Vecchio Forno in Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/al_vecchio_forno_in_blu_41.3204_16.2981.json,custom
+41.319880,16.299178,ov_ristorante_bagni_teti_41.3199_16.2992,Ristorante Bagni Teti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_bagni_teti_41.3199_16.2992.json,custom
+41.319266,16.299632,ov_leblon_sala_ricevimenti_sul_mare_41.3193_16.2996,Leblon Sala Ricevimenti sul mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/leblon_sala_ricevimenti_sul_mare_41.3193_16.2996.json,custom
+41.317710,16.298400,ov_kiama_sushi_41.3177_16.2984,Kiama Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/kiama_sushi_41.3177_16.2984.json,custom
+41.316772,16.298173,ov_nuova_emanuel_41.3168_16.2982,Nuova Emanuel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/nuova_emanuel_41.3168_16.2982.json,custom
+41.316624,16.298110,ov_sushigo_sushi_wok_ristorante_41.3166_16.2981,Sushigo Sushi Wok Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sushigo_sushi_wok_ristorante_41.3166_16.2981.json,custom
+41.306407,16.286495,ov_la_braceria_41.3064_16.2865,La Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_braceria_41.3064_16.2865.json,custom
+41.306207,16.286213,ov_a_qualcuno_piace_caldo_41.3062_16.2862,A Qualcuno Piace Caldo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/a_qualcuno_piace_caldo_41.3062_16.2862.json,custom
+41.306154,16.284585,ov_pizza___jazz_41.3062_16.2846,Pizza & Jazz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizza_jazz_41.3062_16.2846.json,custom
+41.305082,16.285288,ov_il_vesuvio_41.3051_16.2853,Il Vesuvio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_vesuvio_41.3051_16.2853.json,custom
+41.303834,16.281959,ov_ristorante_giapponese_barletta_41.3038_16.2820,Ristorante Giapponese Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_giapponese_barletta_41.3038_16.2820.json,custom
+41.304672,16.283507,ov_pizzeria_bistro_bala_41.3047_16.2835,Pizzeria Bistro Bala,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_bistro_bala_41.3047_16.2835.json,custom
+41.305918,16.281785,ov_l_altra_sfornata_41.3059_16.2818,L'Altra Sfornata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/laltra_sfornata_41.3059_16.2818.json,custom
+41.304944,16.281778,ov_triticum_41.3049_16.2818,Triticum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/triticum_41.3049_16.2818.json,custom
+41.304820,16.281450,ov_lolacaffe_41.3048_16.2814,Lolacaffe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lolacaffe_41.3048_16.2814.json,custom
+41.307973,16.285569,ov_forneria_lionetti_41.3080_16.2856,Forneria Lionetti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/forneria_lionetti_41.3080_16.2856.json,custom
+41.316160,16.280900,ov_antica_pizzeria_d_aragona_41.3162_16.2809,Antica Pizzeria D’Aragona,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/antica_pizzeria_daragona_41.3162_16.2809.json,custom
+41.317457,16.283510,ov_tecnoscuola_il_portico_41.3175_16.2835,Tecnoscuola Il Portico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/tecnoscuola_il_portico_41.3175_16.2835.json,custom
+41.316999,16.281523,ov_gastronomia_leontine_f_lli_demarzo_41.3170_16.2815,Gastronomia Leontine F.lli Demarzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/gastronomia_leontine_flli_demarzo_41.3170_16.2815.json,custom
+41.318244,16.280300,ov_twine___ristorante_e_vineria_41.3182_16.2803,Twine - Ristorante e Vineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/twine_-_ristorante_e_vineria_41.3182_16.2803.json,custom
+41.318203,16.280490,ov_alle_poste_41.3182_16.2805,Alle Poste,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/alle_poste_41.3182_16.2805.json,custom
+41.319532,16.281068,ov_costruiamo_barletta_41.3195_16.2811,CostruiAmo Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/costruiamo_barletta_41.3195_16.2811.json,custom
+41.319725,16.281709,ov_la_stradina_41.3197_16.2817,La Stradina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_stradina_41.3197_16.2817.json,custom
+41.321353,16.281477,ov_al_vecchio_forno_41.3214_16.2815,Al Vecchio Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/al_vecchio_forno_41.3214_16.2815.json,custom
+41.320883,16.281979,ov_ristorante_95_41.3209_16.2820,Ristorante 95,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_95_41.3209_16.2820.json,custom
+41.320100,16.282478,ov_portento_41.3201_16.2825,Portento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/portento_41.3201_16.2825.json,custom
+41.320302,16.283029,ov_muddler_dinner_club_41.3203_16.2830,Muddler dinner club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/muddler_dinner_club_41.3203_16.2830.json,custom
+41.320203,16.282788,ov_bardulos_41.3202_16.2828,Bardulos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/bardulos_41.3202_16.2828.json,custom
+41.320803,16.282583,ov_osteria_41.3208_16.2826,Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/osteria_41.3208_16.2826.json,custom
+41.320644,16.282436,ov_la_scarpetta_41.3206_16.2824,La Scarpetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_scarpetta_41.3206_16.2824.json,custom
+41.321142,16.282064,ov_bistrot_km0_41.3211_16.2821,Bistrot Km0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/bistrot_km0_41.3211_16.2821.json,custom
+41.321129,16.282391,ov_al_pomodorino_41.3211_16.2824,Al Pomodorino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/al_pomodorino_41.3211_16.2824.json,custom
+41.321639,16.283379,ov_exploit_pizzeria_41.3216_16.2834,Exploit Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/exploit_pizzeria_41.3216_16.2834.json,custom
+41.321668,16.283679,ov_il_convito_delle_muse_41.3217_16.2837,Il Convito delle Muse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_convito_delle_muse_41.3217_16.2837.json,custom
+41.321311,16.283896,ov_masque___arte_e_ristoro_41.3213_16.2839,Masque - Arte e Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/masque_-_arte_e_ristoro_41.3213_16.2839.json,custom
+41.321436,16.283750,ov_fermentum___l_arte_della_pizza_41.3214_16.2838,Fermentum - l’arte della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/fermentum_-_larte_della_pizza_41.3214_16.2838.json,custom
+41.321436,16.283751,ov_oggi_41.3214_16.2838,OGGI,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/oggi_41.3214_16.2838.json,custom
+41.321350,16.283720,ov_ginfish_tasty_tonic_41.3214_16.2837,GinFish Tasty&Tonic,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ginfish_tastytonic_41.3214_16.2837.json,custom
+41.320611,16.283162,ov_trattoria_posticino___barletta_41.3206_16.2832,Trattoria Posticino - Barletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/trattoria_posticino_-_barletta_41.3206_16.2832.json,custom
+41.320297,16.283792,ov_la_gioconda_41.3203_16.2838,La Gioconda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_gioconda_41.3203_16.2838.json,custom
+41.319979,16.282320,ov_symposium_vineria_degustativa_41.3200_16.2823,Symposium Vineria Degustativa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/symposium_vineria_degustativa_41.3200_16.2823.json,custom
+41.319864,16.282213,ov_zenzero_sushi_fusion_drink_41.3199_16.2822,Zenzero Sushi Fusion Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zenzero_sushi_fusion_drink_41.3199_16.2822.json,custom
+41.318403,16.282234,ov_mystic_pizza_41.3184_16.2822,Mystic Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/mystic_pizza_41.3184_16.2822.json,custom
+41.318702,16.284057,ov_harmony_caffe_41.3187_16.2841,Harmony Caffe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/harmony_caffe_41.3187_16.2841.json,custom
+41.318657,16.284034,ov_pizzeria_le_delizie_del_grano_41.3187_16.2840,Pizzeria Le delizie del grano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_le_delizie_del_grano_41.3187_16.2840.json,custom
+41.318246,16.283649,ov_pizzeria_la_tettoia_41.3182_16.2836,Pizzeria La Tettoia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_la_tettoia_41.3182_16.2836.json,custom
+41.318235,16.284058,ov_santantonio_41.3182_16.2841,Santantonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/santantonio_41.3182_16.2841.json,custom
+41.319264,16.285943,ov_kemare_41.3193_16.2859,Kemare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/kemare_41.3193_16.2859.json,custom
+41.319875,16.285981,ov_kaori_41.3199_16.2860,Kaori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/kaori_41.3199_16.2860.json,custom
+41.320051,16.284869,ov_san_giorgio_27_41.3201_16.2849,San Giorgio 27,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/san_giorgio_27_41.3201_16.2849.json,custom
+41.320556,16.284169,ov_sami_ristorante_41.3206_16.2842,Sami Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sami_ristorante_41.3206_16.2842.json,custom
+41.320728,16.284642,ov_hipporosso_41.3207_16.2846,Hipporosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/hipporosso_41.3207_16.2846.json,custom
+41.320827,16.285044,ov_al_tettuccio_41.3208_16.2850,Al Tettuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/al_tettuccio_41.3208_16.2850.json,custom
+41.321040,16.284563,ov_essenza_cibo_lento_41.3210_16.2846,Essenza Cibo Lento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/essenza_cibo_lento_41.3210_16.2846.json,custom
+41.320724,16.284296,ov_momaburger___hamburgheria_41.3207_16.2843,MOMABurger - Hamburgheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/momaburger_-_hamburgheria_41.3207_16.2843.json,custom
+41.320674,16.284324,ov_jolly_blu_pizzeria_rosticceria_41.3207_16.2843,Jolly Blu Pizzeria Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/jolly_blu_pizzeria_rosticceria_41.3207_16.2843.json,custom
+41.320824,16.284298,ov_jeami_41.3208_16.2843,JeaMi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/jeami_41.3208_16.2843.json,custom
+41.321225,16.284453,ov_tutti_pazzi_per_i_fritti_41.3212_16.2845,Tutti Pazzi Per I Fritti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/tutti_pazzi_per_i_fritti_41.3212_16.2845.json,custom
+41.321998,16.284218,ov_antica_cucina_41.3220_16.2842,Antica Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/antica_cucina_41.3220_16.2842.json,custom
+41.320701,16.285637,ov_pizzeria_santacroce_41.3207_16.2856,Pizzeria Santacroce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_santacroce_41.3207_16.2856.json,custom
+41.320802,16.285638,ov_focacceria_d_angi__41.3208_16.2856,Focacceria D'Angiò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/focacceria_dangi_41.3208_16.2856.json,custom
+41.320823,16.285118,ov_cibio_41.3208_16.2851,Cibio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/cibio_41.3208_16.2851.json,custom
+41.320749,16.285403,ov_fata_morgana_41.3207_16.2854,Fata Morgana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/fata_morgana_41.3207_16.2854.json,custom
+41.320776,16.285514,ov_osteria_al_duomo_41.3208_16.2855,Osteria Al Duomo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/osteria_al_duomo_41.3208_16.2855.json,custom
+41.320782,16.285593,ov_pizzeria_d_angio_41.3208_16.2856,Pizzeria D'Angio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_dangio_41.3208_16.2856.json,custom
+41.320121,16.285926,ov_barnaby_s_41.3201_16.2859,Barnaby's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/barnabys_41.3201_16.2859.json,custom
+41.321183,16.286405,ov_spitik__homemade_concept_41.3212_16.2864,Spitikò Homemade Concept,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/spitik_homemade_concept_41.3212_16.2864.json,custom
+41.319320,16.287697,ov_pizzeria_l_ancora_41.3193_16.2877,Pizzeria L'ancora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_lancora_41.3193_16.2877.json,custom
+41.319932,16.287596,ov_il_covo_delle_sirene_41.3199_16.2876,Il Covo delle Sirene,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_covo_delle_sirene_41.3199_16.2876.json,custom
+41.318785,16.287663,ov_il_rosticciere_41.3188_16.2877,Il Rosticciere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_rosticciere_41.3188_16.2877.json,custom
+41.317132,16.284853,ov_pizzeria_holiday_41.3171_16.2849,Pizzeria Holiday,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_holiday_41.3171_16.2849.json,custom
+41.314964,16.284529,ov_acp_bat_41.3150_16.2845,ACP BAT,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/acp_bat_41.3150_16.2845.json,custom
+41.315008,16.287151,ov_pizzeria_cartina_41.3150_16.2872,Pizzeria Cartina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_cartina_41.3150_16.2872.json,custom
+41.314877,16.288875,ov_risto_pizza_luna_rossa_41.3149_16.2889,Risto Pizza Luna Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/risto_pizza_luna_rossa_41.3149_16.2889.json,custom
+41.315852,16.288875,ov_zio_mimmo_pizza_house_41.3159_16.2889,Zio Mimmo Pizza House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zio_mimmo_pizza_house_41.3159_16.2889.json,custom
+41.317043,16.288668,ov_ristorante_pizzeria_nuovo_centaro_41.3170_16.2887,Ristorante Pizzeria Nuovo Centaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ristorante_pizzeria_nuovo_centaro_41.3170_16.2887.json,custom
+41.316973,16.288428,ov_tre_scalini_41.3170_16.2884,Tre Scalini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/tre_scalini_41.3170_16.2884.json,custom
+41.317768,16.289078,ov_amadeus_41.3178_16.2891,Amadeus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/amadeus_41.3178_16.2891.json,custom
+41.317311,16.288917,ov_pizza___jazz_41.3173_16.2889,Pizza & Jazz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizza_jazz_41.3173_16.2889.json,custom
+41.317003,16.289857,ov_bottega_delle_delizie_41.3170_16.2899,Bottega Delle Delizie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/bottega_delle_delizie_41.3170_16.2899.json,custom
+41.317290,16.291075,ov_urus___lounge___grill_41.3173_16.2911,Urus - Lounge & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/urus_-_lounge_grill_41.3173_16.2911.json,custom
+41.317999,16.291510,ov_mcdonald_s_41.3180_16.2915,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/mcdonalds_41.3180_16.2915.json,custom
+41.321500,16.292497,ov_il_pizzone_rosticceria_41.3215_16.2925,Il Pizzone Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_pizzone_rosticceria_41.3215_16.2925.json,custom
+41.319439,16.291799,ov_il_don_giovanni_41.3194_16.2918,Il Don Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_don_giovanni_41.3194_16.2918.json,custom
+41.318600,16.292011,ov_kyoto_41.3186_16.2920,Kyoto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/kyoto_41.3186_16.2920.json,custom
+41.323763,16.286722,ov_ricatti_di_gola____mirage_41.3238_16.2867,Ricatti di gola... Mirage,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ricatti_di_gola_mirage_41.3238_16.2867.json,custom
+41.322529,16.284615,ov_portamarina_1751_41.3225_16.2846,Portamarina 1751,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/portamarina_1751_41.3225_16.2846.json,custom
+41.322336,16.284680,ov_lupo_di_mare_41.3223_16.2847,Lupo di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lupo_di_mare_41.3223_16.2847.json,custom
+41.322495,16.284442,ov_bacco_41.3225_16.2844,Bacco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/bacco_41.3225_16.2844.json,custom
+41.322553,16.284475,ov_il_calamaro_41.3226_16.2845,Il Calamaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_calamaro_41.3226_16.2845.json,custom
+41.323266,16.280801,ov_sala_ricevimenti___ristorante_ginevra_41.3233_16.2808,Sala Ricevimenti - Ristorante Ginevra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sala_ricevimenti_-_ristorante_ginevra_41.3233_16.2808.json,custom
+41.332777,16.295034,ov_lanterna_del_braccio_di_levante_41.3328_16.2950,Lanterna Del Braccio Di Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lanterna_del_braccio_di_levante_41.3328_16.2950.json,custom
+41.280146,16.420423,ov_pescato_fritto_da_patrizio_41.2801_16.4204,Pescato&Fritto Da Patrizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pescatofritto_da_patrizio_41.2801_16.4204.json,custom
+41.320682,16.283243,osm_il_posticino_41.3207_16.2832,Il Posticino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_posticino_41.3207_16.2832.json,custom
+41.320963,16.283438,osm_veleno_41.3210_16.2834,Veleno,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/veleno_41.3210_16.2834.json,custom
+41.320119,16.284844,osm_san_giorgio_41.3201_16.2848,San Giorgio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/san_giorgio_41.3201_16.2848.json,custom
+41.320686,16.285735,osm_santa_croce_41.3207_16.2857,Santa Croce,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/santa_croce_41.3207_16.2857.json,custom
+41.317500,16.298581,osm_kiama_sushi_41.3175_16.2986,KiAma Sushi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/kiama_sushi_41.3175_16.2986.json,custom
+41.320255,16.280721,osm_pizzeria_partenopea_41.3203_16.2807,Pizzeria Partenopea,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_partenopea_41.3203_16.2807.json,custom
+41.320209,16.282783,osm_osteria_bardulos_41.3202_16.2828,Osteria Bardulos,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/osteria_bardulos_41.3202_16.2828.json,custom
+41.318738,16.287741,osm_il_rosticciere___forno_a_legna_41.3187_16.2877,Il Rosticciere - Forno A Legna,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_rosticciere_-_forno_a_legna_41.3187_16.2877.json,custom
+41.319363,16.280994,osm_pizzeria_santa_maria_41.3194_16.2810,Pizzeria Santa Maria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pizzeria_santa_maria_41.3194_16.2810.json,custom
+41.320809,16.284087,osm_goudron_wine_esperience_41.3208_16.2841,Goudron wine esperience,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/goudron_wine_esperience_41.3208_16.2841.json,custom
+41.320731,16.284218,osm_moma_2_0_41.3207_16.2842,Moma 2.0,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/moma_20_41.3207_16.2842.json,custom
+41.320622,16.284240,osm_jolly_blu_41.3206_16.2842,Jolly blu,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/jolly_blu_41.3206_16.2842.json,custom
+41.320593,16.284189,osm_sam__41.3206_16.2842,Samí,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sam_41.3206_16.2842.json,custom
+41.320720,16.285105,osm_il_gusto_della_t_rkiye_41.3207_16.2851,Il Gusto Della Türkiye,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_gusto_della_trkiye_41.3207_16.2851.json,custom
+41.318520,16.280589,osm_lin_poke_41.3185_16.2806,Lin Poke,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lin_poke_41.3185_16.2806.json,custom
+41.320755,16.286503,osm_i_love_you___flavours_and_colours_41.3208_16.2865,I love you - Flavours and Colours,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/i_love_you_-_flavours_and_colours_41.3208_16.2865.json,custom
+41.320176,16.286650,osm_la_pescheria_41.3202_16.2866,La pescheria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_pescheria_41.3202_16.2866.json,custom
+41.320795,16.284317,osm_baguetteria_jeam__41.3208_16.2843,Baguetteria JeaMì,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/baguetteria_jeam_41.3208_16.2843.json,custom
+41.320178,16.283053,osm_nero_41.3202_16.2831,Nero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/nero_41.3202_16.2831.json,custom
+41.319824,16.282254,osm_zenzero_41.3198_16.2823,Zenzero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/zenzero_41.3198_16.2823.json,custom
+41.319011,16.280897,osm_grand_bistrot_41.3190_16.2809,Grand Bistrot,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/grand_bistrot_41.3190_16.2809.json,custom
+41.320734,16.284921,osm_pucciar__41.3207_16.2849,PucciArè,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/pucciar_41.3207_16.2849.json,custom
+41.320950,16.284658,osm_tutti_pazzi_per_i_fritti_41.3209_16.2847,Tutti Pazzi per i Fritti,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/tutti_pazzi_per_i_fritti_41.3209_16.2847.json,custom
+41.320987,16.284513,osm_essenza___cibo_lento_41.3210_16.2845,Essenza - Cibo lento,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/essenza_-_cibo_lento_41.3210_16.2845.json,custom
+41.320025,16.286676,osm_crazy_pizza_41.3200_16.2867,Crazy Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/crazy_pizza_41.3200_16.2867.json,custom
+41.319462,16.287401,osm_l_ancora_41.3195_16.2874,L'Ancora,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lancora_41.3195_16.2874.json,custom
+41.320758,16.284469,osm_ap__41.3208_16.2845,Apù,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/ap_41.3208_16.2845.json,custom
+41.320288,16.285972,osm_brass_41.3203_16.2860,Brass,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/brass_41.3203_16.2860.json,custom
+41.320359,16.285782,osm_cobbler_41.3204_16.2858,Cobbler,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/cobbler_41.3204_16.2858.json,custom
+41.321486,16.281439,osm_della_marra_41.3215_16.2814,Della Marra,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/della_marra_41.3215_16.2814.json,custom
+41.321390,16.280744,osm_malepeggio_41.3214_16.2807,Malepeggio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/malepeggio_41.3214_16.2807.json,custom
+41.321748,16.276674,osm_piz_stop_41.3217_16.2767,Piz stop,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/piz_stop_41.3217_16.2767.json,custom
+41.320800,16.286215,osm_santa_maria_41.3208_16.2862,Santa Maria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/santa_maria_41.3208_16.2862.json,custom
+41.319099,16.279338,osm_la_libert__41.3191_16.2793,La libertà,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_libert_41.3191_16.2793.json,custom
+41.319673,16.280110,osm_l_isola_del_kebab_41.3197_16.2801,L'isola del Kebab,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/lisola_del_kebab_41.3197_16.2801.json,custom
+41.322034,16.278545,osm_da_scial__41.3220_16.2785,Da Scialì,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/da_scial_41.3220_16.2785.json,custom
+41.318258,16.283599,osm_la_tettoia_41.3183_16.2836,La Tettoia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_tettoia_41.3183_16.2836.json,custom
+41.320281,16.273716,osm_sehaifame_41.3203_16.2737,Sehaifame,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/sehaifame_41.3203_16.2737.json,custom
+41.320037,16.263254,osm_gusto___41.3200_16.2633,Gusto è,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/gusto__41.3200_16.2633.json,custom
+41.312985,16.303905,osm_risto_bar_friends_41.3130_16.3039,Risto-Bar Friends,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/risto-bar_friends_41.3130_16.3039.json,custom
+41.306948,16.261023,osm_la_vucciaria_41.3069_16.2610,La Vucciaria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/la_vucciaria_41.3069_16.2610.json,custom
+41.320043,16.263625,osm_fugu_sushi_experience_41.3200_16.2636,Fugu Sushi Experience,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/fugu_sushi_experience_41.3200_16.2636.json,custom
+41.321441,16.283976,osm_fermentum_41.3214_16.2840,Fermentum,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/fermentum_41.3214_16.2840.json,custom
+41.303829,16.243070,osm_villa_petrini_41.3038_16.2431,Villa Petrini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/villa_petrini_41.3038_16.2431.json,custom
+41.321775,16.244801,osm_officina_del_pollo_41.3218_16.2448,Officina del Pollo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/officina_del_pollo_41.3218_16.2448.json,custom
+41.320396,16.295932,osm_il_brigantino_2_41.3204_16.2959,Il Brigantino 2,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/barletta/pages/il_brigantino_2_41.3204_16.2959.json,custom

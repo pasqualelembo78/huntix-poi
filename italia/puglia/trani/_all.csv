@@ -1,453 +1,453 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Trani -- Tutti
-41.272740,16.429450,osm_il_patriarca_41.2727_16.4294,Il Patriarca,ristorante,ristorante
-41.256491,16.457399,osm_ristorante_pizzeria_pulcinella_41.2565_16.4574,Ristorante Pizzeria Pulcinella,ristorante,ristorante
-41.277446,16.419227,osm_tine_drink_and_food_41.2774_16.4192,Tine drink and food,ristorante,ristorante
-41.253400,16.461639,osm_i_cinque_sensi_41.2534_16.4616,I Cinque Sensi,ristorante,ristorante
-41.277493,16.423285,osm_dietro_l_angolo_41.2775_16.4233,dietro l'angolo,ristorante,ristorante
-41.275843,16.419014,osm_arte_fredda_41.2758_16.4190,Arte Fredda,ristorante,ristorante
-41.269914,16.427566,osm_pizzeria_il_ciccio_41.2699_16.4276,Pizzeria Il Ciccio,ristorante,ristorante
-41.278341,16.419424,osm_babal__41.2783_16.4194,Babalù,ristorante,ristorante
-41.277827,16.420423,osm_pechef_41.2778_16.4204,Pechef,ristorante,ristorante
-41.254336,16.460154,osm_quinto_quarto_41.2543_16.4602,Quinto Quarto,ristorante,ristorante
-41.277606,16.419231,osm_all_ombra_di_trani_41.2776_16.4192,All'Ombra di Trani,ristorante,ristorante
-41.217506,16.413892,ov_ospedali_riuniti_di_foggia_41.2175_16.4139,Ospedali Riuniti di Foggia,HOSPITAL,hospital
-41.273080,16.418387,ov_studio_medico__specialistico___dott__sav_41.2731_16.4184,Studio Medico  Specialistico - Dott. Saverio Nenna,HOSPITAL,hospital
-41.274701,16.416441,ov_ospedaletto_pediatrico_41.2747_16.4164,ospedaletto pediatrico,HOSPITAL,hospital
-41.277187,16.416311,ov_pharmedica___centro_di_medicina_estetica_41.2772_16.4163,Pharmedica - Centro di Medicina Estetica e Dietologia-Dott.s,HOSPITAL,hospital
-41.277210,16.419340,ov_apoteka_41.2772_16.4193,Apoteka,HOSPITAL,hospital
-41.267831,16.430062,ov_ospedale_trani_41.2678_16.4301,Ospedale Trani,HOSPITAL,hospital
-41.259383,16.427005,ov_home_restaurant_da_stefania_41.2594_16.4270,Home Restaurant da Stefania,RESTAURANT,ristorante
-41.260004,16.432417,ov_kayuba_41.2600_16.4324,Kayuba,RESTAURANT,ristorante
-41.263799,16.437992,ov_pronto_a_tavola___cibo_e_brace_41.2638_16.4380,Pronto A Tavola - Cibo e Brace,RESTAURANT,ristorante
-41.264709,16.441085,ov_ervin_caf____bar_ristorante___pizzeria___41.2647_16.4411,Ervin Café - Bar Ristorante & Pizzeria - Trani,RESTAURANT,ristorante
-41.264914,16.438410,ov_taurus_13___ristorante_di_carne_41.2649_16.4384,Taurus 13 - Ristorante di Carne,RESTAURANT,ristorante
-41.265265,16.431517,ov_des_garcons_41.2653_16.4315,Des Garcons,RESTAURANT,ristorante
-41.266995,16.420420,ov_lievitum_41.2670_16.4204,Lievitum,RESTAURANT,ristorante
-41.266704,16.431787,ov_matahambre_41.2667_16.4318,Matahambre,RESTAURANT,ristorante
-41.266511,16.435576,ov_trani_a_go_go_41.2665_16.4356,Trani a Go-Go,RESTAURANT,ristorante
-41.266619,16.433683,ov_pizzeria_la_torre_41.2666_16.4337,Pizzeria La Torre,RESTAURANT,ristorante
-41.265470,16.436324,ov_pizzeria_da_nicola_41.2655_16.4363,Pizzeria da Nicola,RESTAURANT,ristorante
-41.256668,16.457434,ov_pizzeria_pulcinella_trani_41.2567_16.4574,Pizzeria Pulcinella Trani,RESTAURANT,ristorante
-41.253225,16.464553,ov_vigna_caracciolo_41.2532_16.4646,Vigna Caracciolo,RESTAURANT,ristorante
-41.253501,16.461590,ov_cinque_sensi_41.2535_16.4616,Cinque Sensi,RESTAURANT,ristorante
-41.254180,16.461950,ov_villa_alea_41.2542_16.4620,Villa Alea,RESTAURANT,ristorante
-41.254817,16.460127,ov_quinto_quarto_41.2548_16.4601,Quinto Quarto,RESTAURANT,ristorante
-41.246548,16.412278,ov_san_judas___pizza_e_bolle_41.2465_16.4123,San Judas - Pizza e Bolle,RESTAURANT,ristorante
-41.249208,16.426609,ov_pizza___vino_puglia_41.2492_16.4266,Pizza & Vino Puglia,RESTAURANT,ristorante
-41.249572,16.427115,ov_l_r__restaurant_41.2496_16.4271,L.R. Restaurant,RESTAURANT,ristorante
-41.240846,16.487468,ov_caff__italiano_41.2408_16.4875,Caffè Italiano,RESTAURANT,ristorante
-41.232799,16.439784,ov_tenuta_lama_gorga_41.2328_16.4398,Tenuta Lama Gorga,RESTAURANT,ristorante
-41.192247,16.417778,ov_ristorante_sala_ricevimenti_holiday___tr_41.1922_16.4178,Ristorante Sala Ricevimenti Holiday - Trani,RESTAURANT,ristorante
-41.304623,16.267351,ov_il_cucu_41.3046_16.2674,Il Cucu,RESTAURANT,ristorante
-41.305205,16.317628,ov_tennis_bistr__41.3052_16.3176,Tennis Bistrò,RESTAURANT,ristorante
-41.284502,16.398051,ov_pescheria_porto_di_mare_41.2845_16.3981,Pescheria Porto Di Mare,RESTAURANT,ristorante
-41.281240,16.408340,ov_food___more_41.2812_16.4083,Food & More,RESTAURANT,ristorante
-41.280491,16.410166,ov_a_tutta_pizza_41.2805_16.4102,A Tutta Pizza,RESTAURANT,ristorante
-41.279899,16.409204,ov_alex_pizza_41.2799_16.4092,Alex pizza,RESTAURANT,ristorante
-41.281114,16.411005,ov_la_barriera_41.2811_16.4110,La Barriera,RESTAURANT,ristorante
-41.279792,16.412126,ov_santoro_bongustai_di_famiglia_dal_1974_41.2798_16.4121,Santoro Bongustai di famiglia dal 1974,RESTAURANT,ristorante
-41.276634,16.412130,ov_pizzeria_ciccibacco_trani_41.2766_16.4121,Pizzeria CicciBacco Trani,RESTAURANT,ristorante
-41.278002,16.409776,ov_burger_king_41.2780_16.4098,Burger King,RESTAURANT,ristorante
-41.278245,16.409241,ov_fior_di_pizza_41.2782_16.4092,Fior di Pizza,RESTAURANT,ristorante
-41.278381,16.409312,ov_stef_41.2784_16.4093,STEF,RESTAURANT,ristorante
-41.279031,16.406530,ov_jambo_pizza_41.2790_16.4065,Jambo Pizza,RESTAURANT,ristorante
-41.275568,16.405554,ov_kobe_gastronomia_41.2756_16.4056,Kobe Gastronomia,RESTAURANT,ristorante
-41.276449,16.401808,ov_bar_caffetteria_gaudi_41.2764_16.4018,Bar Caffetteria Gaudi,RESTAURANT,ristorante
-41.272668,16.404168,ov_mcdonald_s_41.2727_16.4042,McDonald's,RESTAURANT,ristorante
-41.272311,16.409349,ov_il_cantuccio_41.2723_16.4093,IL Cantuccio,RESTAURANT,ristorante
-41.268102,16.420293,ov_il_ritrovo_da_christian_41.2681_16.4203,Il Ritrovo da Christian,RESTAURANT,ristorante
-41.273317,16.418362,ov_yummy_sushi_41.2733_16.4184,Yummy Sushi,RESTAURANT,ristorante
-41.271707,16.420418,ov_gemiti_vito_41.2717_16.4204,Gemiti Vito,RESTAURANT,ristorante
-41.273228,16.420412,ov_pizzeria_bovio_41.2732_16.4204,Pizzeria Bovio,RESTAURANT,ristorante
-41.273514,16.418705,ov_pizzeria_cavour_41.2735_16.4187,Pizzeria Cavour,RESTAURANT,ristorante
-41.274924,16.418050,ov_roadhouse_restaurant_41.2749_16.4181,Roadhouse Restaurant,RESTAURANT,ristorante
-41.273405,16.417842,ov_la_giara_41.2734_16.4178,La Giara,RESTAURANT,ristorante
-41.276962,16.413986,ov_la_pazzeria_41.2770_16.4140,La Pazzeria,RESTAURANT,ristorante
-41.277968,16.414649,ov_moselli_restaurant_41.2780_16.4146,Moselli Restaurant,RESTAURANT,ristorante
-41.277965,16.414637,ov_quintessenza_41.2780_16.4146,Quintessenza,RESTAURANT,ristorante
-41.277343,16.416013,ov_salumeria_di_lernia_pietro_41.2773_16.4160,Salumeria Di Lernia Pietro,RESTAURANT,ristorante
-41.279182,16.416049,ov_la_locanda_del_giullare__il_ristorarte_41.2792_16.4160,La Locanda del Giullare. Il RistorArte,RESTAURANT,ristorante
-41.278383,16.414567,ov_focacceria_l_arena_41.2784_16.4146,Focacceria L'Arena,RESTAURANT,ristorante
-41.277882,16.413212,ov_da_carlett_41.2779_16.4132,Da Carlett,RESTAURANT,ristorante
-41.280098,16.413442,ov_osteria_la_cisterna_41.2801_16.4134,Osteria La Cisterna,RESTAURANT,ristorante
-41.280422,16.413158,ov_san_ciriaco_41.2804_16.4132,San Ciriaco,RESTAURANT,ristorante
-41.280269,16.412691,ov_osteria_frangipane_41.2803_16.4127,Osteria Frangipane,RESTAURANT,ristorante
-41.281199,16.414884,ov_l_isola_di_galusenia_41.2812_16.4149,L'isola di Galusenia,RESTAURANT,ristorante
-41.281712,16.416380,ov_pizzachef_angelo_davide_consiglio_41.2817_16.4164,Pizzachef Angelo Davide Consiglio,RESTAURANT,ristorante
-41.280580,16.415437,ov_san_giovanni_41.2806_16.4154,San Giovanni,RESTAURANT,ristorante
-41.279207,16.414428,ov_m_m__masseria_urbana_41.2792_16.4144,Mómó Masseria Urbana,RESTAURANT,ristorante
-41.279775,16.415928,ov_ristorante_taverna_portanova_41.2798_16.4159,Ristorante Taverna Portanova,RESTAURANT,ristorante
-41.279361,16.416306,ov_osteria_ferro_e_fuoco_41.2794_16.4163,Osteria Ferro e Fuoco,RESTAURANT,ristorante
-41.279248,16.416412,ov_momopizzeria_41.2792_16.4164,Momopizzeria,RESTAURANT,ristorante
-41.279251,16.416503,ov_ristorante_oasi_marina_41.2793_16.4165,Ristorante Oasi Marina,RESTAURANT,ristorante
-41.279229,16.416674,ov_il_gatto_e_la_volpe_41.2792_16.4167,Il Gatto e la Volpe,RESTAURANT,ristorante
-41.280000,16.417029,ov_pizzeria_la_sinagoga_41.2800_16.4170,Pizzeria La Sinagoga,RESTAURANT,ristorante
-41.279311,16.418027,ov_la_giudea_41.2793_16.4180,La Giudea,RESTAURANT,ristorante
-41.280774,16.416796,ov_beltrani29_ristorante_41.2808_16.4168,Beltrani29 Ristorante,RESTAURANT,ristorante
-41.281377,16.418083,ov_carmelita_bistrot_41.2814_16.4181,Carmelita Bistrot,RESTAURANT,ristorante
-41.281516,16.418050,ov_re_artu_41.2815_16.4181,Re Artu,RESTAURANT,ristorante
-41.281521,16.418116,ov_elcohiba_trani_41.2815_16.4181,Elcohiba Trani,RESTAURANT,ristorante
-41.281424,16.418136,ov_cottura_media_41.2814_16.4181,Cottura Media,RESTAURANT,ristorante
-41.281431,16.418192,ov_pizzeria_osteria_buca_navarra_41.2814_16.4182,Pizzeria Osteria Buca Navarra,RESTAURANT,ristorante
-41.281481,16.418483,ov_osteria_caccianferno_41.2815_16.4185,Osteria Caccianferno,RESTAURANT,ristorante
-41.280480,16.418730,ov_trani___ristorante_borgo_antico_41.2805_16.4187,Trani - Ristorante Borgo Antico,RESTAURANT,ristorante
-41.280563,16.418616,ov_osteria_frangipane_41.2806_16.4186,Osteria Frangipane,RESTAURANT,ristorante
-41.280376,16.418774,ov_il_pep__41.2804_16.4188,Il Pepè,RESTAURANT,ristorante
-41.280438,16.419162,ov_antiche_arcate_41.2804_16.4192,Antiche Arcate,RESTAURANT,ristorante
-41.280529,16.419376,ov_toyo_41.2805_16.4194,Toyo,RESTAURANT,ristorante
-41.279848,16.418611,ov_ristorante_corteinfiore_41.2798_16.4186,Ristorante Corteinfiore,RESTAURANT,ristorante
-41.279450,16.418904,ov_osteria_la_perla_del_sud_41.2794_16.4189,Osteria La Perla del Sud,RESTAURANT,ristorante
-41.279209,16.418872,ov_riso_patate_e_cozze_41.2792_16.4189,Riso Patate e Cozze,RESTAURANT,ristorante
-41.279230,16.418922,ov_la_banchina_41.2792_16.4189,La Banchina,RESTAURANT,ristorante
-41.279526,16.419167,ov_ognissantino_41.2795_16.4192,Ognissantino,RESTAURANT,ristorante
-41.277980,16.420197,ov_gallo_restaurant_41.2780_16.4202,Gallo Restaurant,RESTAURANT,ristorante
-41.277777,16.420313,ov_locanda_trani_41.2778_16.4203,Locanda Trani,RESTAURANT,ristorante
-41.277811,16.420284,ov_peschef_41.2778_16.4203,Peschef,RESTAURANT,ristorante
-41.277537,16.420258,ov_la_bodeguita_41.2775_16.4203,La Bodeguita,RESTAURANT,ristorante
-41.277687,16.420016,ov_ristorante_liguori_di_scrimieri_deborah__41.2777_16.4200,Ristorante Liguori di Scrimieri Deborah & C. SAS,RESTAURANT,ristorante
-41.277272,16.419944,ov_scugniz_41.2773_16.4199,Scugniz,RESTAURANT,ristorante
-41.277390,16.419707,ov_carpediem_pizzeria_braceria_41.2774_16.4197,Carpediem pizzeria braceria,RESTAURANT,ristorante
-41.278080,16.419869,ov_amadeus_trani_41.2781_16.4199,Amadeus Trani,RESTAURANT,ristorante
-41.278088,16.419973,ov_l_altro_molo_41.2781_16.4200,L'Altro Molo,RESTAURANT,ristorante
-41.278138,16.419895,ov_mania_di_pizza_41.2781_16.4199,Mania Di Pizza,RESTAURANT,ristorante
-41.278211,16.419601,ov_pelledoca_restaurant_41.2782_16.4196,Pelledoca restaurant,RESTAURANT,ristorante
-41.277929,16.418990,ov_trattoria_da_rosetta_41.2779_16.4190,Trattoria da Rosetta,RESTAURANT,ristorante
-41.277899,16.419335,ov_taverna_dei_suoni_41.2779_16.4193,Taverna Dei Suoni,RESTAURANT,ristorante
-41.277420,16.419377,ov_memento_ristorante_41.2774_16.4194,Memento Ristorante,RESTAURANT,ristorante
-41.278522,16.419048,ov_ristorante_rosa_dei_venti_41.2785_16.4190,Ristorante Rosa dei Venti,RESTAURANT,ristorante
-41.278757,16.419095,ov_al_porto_osteria_pizzeria_41.2788_16.4191,Al Porto Osteria Pizzeria,RESTAURANT,ristorante
-41.278757,16.419267,ov_rampa_la_conca_41.2788_16.4193,Rampa la Conca,RESTAURANT,ristorante
-41.279036,16.419025,ov_acqua_e_farina_41.2790_16.4190,Acqua e Farina,RESTAURANT,ristorante
-41.279091,16.418976,ov_gianri_restaurant_41.2791_16.4190,GianRi Restaurant,RESTAURANT,ristorante
-41.277957,16.416462,ov_pizzeria_il_grottino_41.2780_16.4165,Pizzeria Il Grottino,RESTAURANT,ristorante
-41.277574,16.416855,ov_ogni_volta_41.2776_16.4169,Ogni Volta,RESTAURANT,ristorante
-41.277431,16.416777,ov_ilgrottinoxxl_41.2774_16.4168,ilgrottinoxxl,RESTAURANT,ristorante
-41.277495,16.417068,ov_agriturismo_il_pastore_41.2775_16.4171,Agriturismo Il Pastore,RESTAURANT,ristorante
-41.277500,16.417767,ov_trani_41.2775_16.4178,Trani,RESTAURANT,ristorante
-41.277292,16.418227,ov_trattoria_la_casalinga_41.2773_16.4182,Trattoria La Casalinga,RESTAURANT,ristorante
-41.277260,16.418355,ov_ristorante_fefino_cucina_naturale_a_tran_41.2773_16.4184,Ristorante Fefino Cucina Naturale a Trani,RESTAURANT,ristorante
-41.276543,16.418190,ov_pizzeria_le_muraglie_41.2765_16.4182,Pizzeria Le Muraglie,RESTAURANT,ristorante
-41.277100,16.417238,ov_altemura_41.2771_16.4172,Altemura,RESTAURANT,ristorante
-41.276858,16.417348,ov_aswine_trani_41.2769_16.4173,AsWine Trani,RESTAURANT,ristorante
-41.277170,16.417111,ov_braceria_i_piaceri_della_carne_41.2772_16.4171,Braceria I Piaceri della Carne,RESTAURANT,ristorante
-41.277135,16.416395,ov_donna_rosa_41.2771_16.4164,Donna Rosa,RESTAURANT,ristorante
-41.276748,16.416993,ov_pizzeria_in_41.2767_16.4170,Pizzeria In,RESTAURANT,ristorante
-41.276698,16.416999,ov_specialita_panzerotto_fritto_41.2767_16.4170,Specialita Panzerotto Fritto,RESTAURANT,ristorante
-41.275750,16.417292,ov_pescheria_raffaele_41.2757_16.4173,Pescheria Raffaele,RESTAURANT,ristorante
-41.275345,16.417915,ov_pizzhub_41.2753_16.4179,Pizzhub,RESTAURANT,ristorante
-41.275521,16.419134,ov_pizzaart_41.2755_16.4191,PizzaArt,RESTAURANT,ristorante
-41.275902,16.419458,ov_casal_de__pazzi_41.2759_16.4195,Casal de' pazzi,RESTAURANT,ristorante
-41.276211,16.418659,ov_street_burger_41.2762_16.4187,Street Burger,RESTAURANT,ristorante
-41.276192,16.418542,ov_el_palenque_41.2762_16.4185,El Palenque,RESTAURANT,ristorante
-41.276844,16.419114,ov_sopra_alla_nonna___pasta_fresca_take_awa_41.2768_16.4191,Sopra Alla Nonna - Pasta Fresca Take Away,RESTAURANT,ristorante
-41.277010,16.419210,ov_ti_griglio_tua_madre_41.2770_16.4192,Ti griglio tua madre,RESTAURANT,ristorante
-41.276901,16.419681,ov_no_difference_trani_41.2769_16.4197,No Difference Trani,RESTAURANT,ristorante
-41.277125,16.419919,ov_focolare_bistrot_41.2771_16.4199,Focolare Bistrot,RESTAURANT,ristorante
-41.276995,16.419942,ov_osteria_la_pentolaccia_41.2770_16.4199,Osteria La Pentolaccia,RESTAURANT,ristorante
-41.277137,16.420014,ov_era_ora_restaurant_41.2771_16.4200,Era Ora Restaurant,RESTAURANT,ristorante
-41.277074,16.420504,ov_pizzeria_da_dino_41.2771_16.4205,Pizzeria da Dino,RESTAURANT,ristorante
-41.276936,16.420332,ov_officina_del_panzerotto_41.2769_16.4203,Officina del Panzerotto,RESTAURANT,ristorante
-41.276368,16.420136,ov_boutique_della_pizza_41.2764_16.4201,Boutique Della Pizza,RESTAURANT,ristorante
-41.276226,16.420165,ov_opera_restaurant_41.2762_16.4202,Opera Restaurant,RESTAURANT,ristorante
-41.275736,16.419982,ov_il_melograno_41.2757_16.4200,Il Melograno,RESTAURANT,ristorante
-41.275786,16.419926,ov_antica_pizzeria_bovio_41.2758_16.4199,Antica Pizzeria Bovio,RESTAURANT,ristorante
-41.275777,16.420047,ov_ristorante_cattaneo_41.2758_16.4200,Ristorante Cattaneo,RESTAURANT,ristorante
-41.276234,16.420789,ov_tody_pizzeria_41.2762_16.4208,Tody Pizzeria,RESTAURANT,ristorante
-41.276308,16.420870,ov_osteria_de_roma_41.2763_16.4209,Osteria de Roma,RESTAURANT,ristorante
-41.276560,16.420830,ov_mandolino_trani_41.2766_16.4208,Mandolino Trani,RESTAURANT,ristorante
-41.277043,16.421274,ov_santo_graal_trani_41.2770_16.4213,Santo graal trani,RESTAURANT,ristorante
-41.276747,16.421455,ov_giupi_zza_41.2767_16.4215,giupi.zza,RESTAURANT,ristorante
-41.276455,16.421769,ov_osteria_al_solito_posto_41.2765_16.4218,Osteria Al Solito Posto,RESTAURANT,ristorante
-41.276455,16.421917,ov_pescaria___trani_41.2765_16.4219,Pescaria - Trani,RESTAURANT,ristorante
-41.277023,16.421820,ov_taku_ristorante_giapponese_41.2770_16.4218,Taku Ristorante Giapponese,RESTAURANT,ristorante
-41.276661,16.422252,ov_braceria_conte_cavour_41.2767_16.4223,Braceria Conte Cavour,RESTAURANT,ristorante
-41.276727,16.422181,ov_pizzeria_4_stagioni_41.2767_16.4222,Pizzeria 4 Stagioni,RESTAURANT,ristorante
-41.276431,16.424427,ov_pizzeria_il_piccolo_rifugio_41.2764_16.4244,Pizzeria il piccolo rifugio,RESTAURANT,ristorante
-41.277039,16.422974,ov_osteria_sale_grosso_41.2770_16.4230,Osteria Sale Grosso,RESTAURANT,ristorante
-41.278161,16.422729,ov_pescandalo_41.2782_16.4227,Pescandalo,RESTAURANT,ristorante
-41.277507,16.423587,ov_la_ruota___pizzeria_41.2775_16.4236,La Ruota - Pizzeria,RESTAURANT,ristorante
-41.277531,16.423271,ov_osteria_svolta_l_angolo_41.2775_16.4233,Osteria Svolta l'Angolo,RESTAURANT,ristorante
-41.277472,16.423307,ov_osteria_ai_platani_41.2775_16.4233,Osteria Ai Platani,RESTAURANT,ristorante
-41.278525,16.423555,ov_pesto_di_pistacchio_41.2785_16.4236,Pesto di Pistacchio,RESTAURANT,ristorante
-41.278319,16.423295,ov_pizza___company_41.2783_16.4233,Pizza & Company,RESTAURANT,ristorante
-41.278616,16.423329,ov_da_natina_41.2786_16.4233,Da Natina,RESTAURANT,ristorante
-41.278385,16.422805,ov_savi_la_creperia_41.2784_16.4228,Savi La Creperia,RESTAURANT,ristorante
-41.278304,16.422545,ov_il_fico_bar_gourmet_41.2783_16.4225,Il Fico Bar Gourmet,RESTAURANT,ristorante
-41.278063,16.422432,ov_vista_mare_ristorante_41.2781_16.4224,Vista Mare Ristorante,RESTAURANT,ristorante
-41.278010,16.422205,ov_ristorante_la_darsena_41.2780_16.4222,Ristorante La Darsena,RESTAURANT,ristorante
-41.277755,16.422547,ov_le_arcate_41.2778_16.4225,Le Arcate,RESTAURANT,ristorante
-41.277385,16.422388,ov_terradimare_41.2774_16.4224,Terradimare,RESTAURANT,ristorante
-41.277579,16.422185,ov_manima___osteria_41.2776_16.4222,Manima - Osteria,RESTAURANT,ristorante
-41.277814,16.421071,ov_la_kambusa_di_paninart_41.2778_16.4211,La Kambusa di Paninart,RESTAURANT,ristorante
-41.277687,16.421370,ov_parmigianeria_41.2777_16.4214,Parmigianeria,RESTAURANT,ristorante
-41.277326,16.420750,ov_l_incanto___panzerotti___caf__41.2773_16.4208,L'Incanto - Panzerotti & Cafè,RESTAURANT,ristorante
-41.277480,16.420520,ov_sfizio_41.2775_16.4205,Sfizio,RESTAURANT,ristorante
-41.277854,16.420581,ov_jeami_al_porto_di_trani_41.2779_16.4206,JeaMi al Porto di Trani,RESTAURANT,ristorante
-41.277836,16.420883,ov_hula_poke___sushi_41.2778_16.4209,Hula Poke & Sushi,RESTAURANT,ristorante
-41.280401,16.422109,ov_le_lampare_al_fortino_41.2804_16.4221,Le Lampare al Fortino,RESTAURANT,ristorante
-41.280581,16.422422,ov_il_vecchio_e_il_mare_41.2806_16.4224,Il Vecchio e il Mare,RESTAURANT,ristorante
-41.279093,16.425492,ov_aquae_restaurant___lido_bella_venezia_41.2791_16.4255,Aquae Restaurant - Lido Bella Venezia,RESTAURANT,ristorante
-41.271408,16.426211,ov_pizzeria_dalmazia_trani_41.2714_16.4262,Pizzeria Dalmazia trani,RESTAURANT,ristorante
-41.273266,16.424950,ov_acqua___sapone_41.2733_16.4249,Acqua & Sapone,RESTAURANT,ristorante
-41.275055,16.424690,ov_shabby_chic_41.2751_16.4247,Shabby Chic,RESTAURANT,ristorante
-41.275251,16.424612,ov_antiche_delizie_gastronomia_41.2753_16.4246,Antiche Delizie gastronomia,RESTAURANT,ristorante
-41.274525,16.423928,ov_pizzeria_da_paolo_41.2745_16.4239,Pizzeria Da Paolo,RESTAURANT,ristorante
-41.274195,16.423695,ov_trani_take_away_41.2742_16.4237,Trani Take Away,RESTAURANT,ristorante
-41.273822,16.423346,ov_la_nicchia_41.2738_16.4233,La Nicchia,RESTAURANT,ristorante
-41.273528,16.423024,ov_lab_57_bottega_gastronomica_41.2735_16.4230,LAB 57 Bottega Gastronomica,RESTAURANT,ristorante
-41.275097,16.422286,ov_pizzeria_da_giovina_41.2751_16.4223,Pizzeria da Giovina,RESTAURANT,ristorante
-41.274851,16.422574,ov_pizzeria_due_archi_41.2749_16.4226,Pizzeria Due Archi,RESTAURANT,ristorante
-41.274098,16.420667,ov_pizzeria_civico_10_41.2741_16.4207,Pizzeria Civico 10,RESTAURANT,ristorante
-41.273435,16.420624,ov_pizzeria_reale_41.2734_16.4206,Pizzeria Reale,RESTAURANT,ristorante
-41.272770,16.422242,ov_ecobonus_110__general_contractor_41.2728_16.4222,Ecobonus 110% General Contractor,RESTAURANT,ristorante
-41.272721,16.420642,ov_casa_dello_spiedo_41.2727_16.4206,Casa dello Spiedo,RESTAURANT,ristorante
-41.272890,16.422750,ov_burger_king_41.2729_16.4228,Burger King,RESTAURANT,ristorante
-41.271087,16.422316,ov_fvme_pizza_and_drink_41.2711_16.4223,Fvme Pizza and Drink,RESTAURANT,ristorante
-41.269249,16.425164,ov_doppio_zero_41.2692_16.4252,Doppio Zero,RESTAURANT,ristorante
-41.271319,16.424871,ov_i_piaceri_del_mare_41.2713_16.4249,I Piaceri del Mare,RESTAURANT,ristorante
-41.271201,16.426364,ov_bread_and_bonta_41.2712_16.4264,Bread and Bonta,RESTAURANT,ristorante
-41.269954,16.427497,ov_pizzeria_il_ciccio_41.2700_16.4275,Pizzeria il Ciccio,RESTAURANT,ristorante
-41.270742,16.428261,ov_ristorante_del_agua_de_coco_beach_club_41.2707_16.4283,ristorante del Agua de Coco Beach Club,RESTAURANT,ristorante
-41.269207,16.428755,ov_pizzafast_f_lli_porcaro_41.2692_16.4288,Pizzafast F.lli Porcaro,RESTAURANT,ristorante
-41.268555,16.429367,ov_pizzeria_la_tettoia_41.2686_16.4294,Pizzeria La Tettoia,RESTAURANT,ristorante
-41.267753,16.432457,ov_retrogusto_cantina_sensoriale_41.2678_16.4325,Retrogusto cantina sensoriale,RESTAURANT,ristorante
-41.270830,16.429862,ov_pizzeria_ristorante_carosello_41.2708_16.4299,Pizzeria Ristorante Carosello,RESTAURANT,ristorante
-41.269537,16.430247,ov_pizzeria_thewhite_41.2695_16.4302,Pizzeria TheWhite,RESTAURANT,ristorante
-41.270315,16.428924,ov_stile_libero_pizzeria_41.2703_16.4289,Stile Libero Pizzeria,RESTAURANT,ristorante
-41.272776,16.429962,ov_barbayanne_41.2728_16.4300,Barbayanne,RESTAURANT,ristorante
-41.272680,16.430020,ov_cristoforo_colombo_21___al_mare_41.2727_16.4300,Cristoforo colombo 21 - al mare,RESTAURANT,ristorante
-41.272765,16.429474,ov_ristorante_il_monastero_41.2728_16.4295,Ristorante il monastero,RESTAURANT,ristorante
-41.272780,16.429071,ov_ristorante_falcone_41.2728_16.4291,Ristorante Falcone,RESTAURANT,ristorante
-41.272022,16.431147,ov_mira_mar_1952_41.2720_16.4311,Mira Mar 1952,RESTAURANT,ristorante
-41.270147,16.435317,ov_restaurant_belladonna_at_caruso_s_41.2701_16.4353,Restaurant Belladonna at Caruso’s,RESTAURANT,ristorante
-41.270257,16.435181,ov_caruso__trani_41.2703_16.4352,"Caruso, Trani",RESTAURANT,ristorante
-41.270464,16.434203,ov_casa_sgarra_ristorante_41.2705_16.4342,Casa Sgarra Ristorante,RESTAURANT,ristorante
-41.270373,16.434529,ov_starpops_41.2704_16.4345,Starpops,RESTAURANT,ristorante
-41.270046,16.438710,ov_big_red_41.2700_16.4387,Big Red,RESTAURANT,ristorante
-41.269683,16.439030,ov_terradimare_41.2697_16.4390,TerradiMare,RESTAURANT,ristorante
-41.269921,16.439295,ov_ristorante_capo_colonna_trani_41.2699_16.4393,Ristorante Capo Colonna Trani,RESTAURANT,ristorante
-41.269773,16.439364,ov_capo_colonna_41.2698_16.4394,Capo Colonna,RESTAURANT,ristorante
-41.269678,16.440790,ov_casal_de_pazzi_summer_location_41.2697_16.4408,Casal de Pazzi Summer Location,RESTAURANT,ristorante
-41.269011,16.440238,ov_calda_calda_41.2690_16.4402,Calda Calda,RESTAURANT,ristorante
-41.268905,16.440150,ov_mareluna_41.2689_16.4401,Mareluna,RESTAURANT,ristorante
-41.267605,16.439948,ov_shibumi_trani___fusion_experience_41.2676_16.4399,Shibumi Trani - Fusion Experience,RESTAURANT,ristorante
-41.267880,16.440261,ov_burg__vista_mare_41.2679_16.4403,BURGÓ vista mare,RESTAURANT,ristorante
-41.269413,16.441339,ov_riva_beach_trani_41.2694_16.4413,RIVA Beach Trani,RESTAURANT,ristorante
-41.269847,16.442343,ov_salto_dell_acciuga_41.2698_16.4423,Salto dell'Acciuga,RESTAURANT,ristorante
-41.264059,16.425168,ov_saranno_famosi_il_giardino_di_bacco_41.2641_16.4252,Saranno famosi Il Giardino di Bacco,RESTAURANT,bar_cafe
-41.263598,16.439588,ov_pasticceria_delizie_napoletane_41.2636_16.4396,Pasticceria Delizie Napoletane,RESTAURANT,bar_cafe
-41.263980,16.438179,ov_caffe_41.2640_16.4382,Caffe,RESTAURANT,bar_cafe
-41.265120,16.437822,ov_white_cafe_41.2651_16.4378,White Cafe,RESTAURANT,bar_cafe
-41.265202,16.437030,ov_corner_caf__bistrot_41.2652_16.4370,Corner Café bistrot,RESTAURANT,bar_cafe
-41.264971,16.433069,ov_iris_cafe_di_tedeschi_lorenzo_41.2650_16.4331,Iris Cafe Di Tedeschi Lorenzo,RESTAURANT,bar_cafe
-41.266905,16.435885,ov_gattopardo_41.2669_16.4359,Gattopardo,RESTAURANT,bar_cafe
-41.266941,16.437190,ov_bar_millevoglie_41.2669_16.4372,Bar MilleVoglie,RESTAURANT,bar_cafe
-41.266993,16.432762,ov_pozzopiano_41.2670_16.4328,Pozzopiano,RESTAURANT,bar_cafe
-41.267373,16.436517,ov_wells_fargo_saloon_41.2674_16.4365,Wells Fargo Saloon,RESTAURANT,bar_cafe
-41.266258,16.435600,ov_ai_portici_41.2663_16.4356,Ai Portici,RESTAURANT,bar_cafe
-41.266226,16.435048,ov_sound_rock_caf__trani_41.2662_16.4350,Sound Rock cafè Trani,RESTAURANT,bar_cafe
-41.266044,16.434687,ov_las_vegas_cafe_41.2660_16.4347,Las Vegas Cafe,RESTAURANT,bar_cafe
-41.265708,16.430414,ov_real_cafe_41.2657_16.4304,Real Cafe,RESTAURANT,bar_cafe
-41.257033,16.464407,ov_il_trullo_paterno___trani_41.2570_16.4644,Il Trullo Paterno - Trani,RESTAURANT,bar_cafe
-41.312354,16.286430,ov_tribunale_41.3124_16.2864,Tribunale,RESTAURANT,bar_cafe
-41.272487,16.392918,ov_caffe_l_arabica_41.2725_16.3929,Caffe L'Arabica,RESTAURANT,bar_cafe
-41.285547,16.391591,ov_il_poligono_caf__41.2855_16.3916,IL Poligono Cafè,RESTAURANT,bar_cafe
-41.283770,16.400190,ov_autofucci_barletta_41.2838_16.4002,Autofucci Barletta,RESTAURANT,bar_cafe
-41.281278,16.408261,ov_anno_0_41.2813_16.4083,Anno 0,RESTAURANT,bar_cafe
-41.280181,16.409270,ov_nick_bar_41.2802_16.4093,Nick Bar,RESTAURANT,bar_cafe
-41.279500,16.410438,ov_angolo_21_41.2795_16.4104,Angolo 21,RESTAURANT,bar_cafe
-41.280442,16.410189,ov_le_delizie_di_zecchillo_41.2804_16.4102,Le Delizie Di Zecchillo,RESTAURANT,bar_cafe
-41.280759,16.411673,ov_bar_indipendenza___trani_41.2808_16.4117,Bar Indipendenza - Trani,RESTAURANT,bar_cafe
-41.278821,16.411589,ov_nin__41.2788_16.4116,Ninè,RESTAURANT,bar_cafe
-41.277857,16.410351,ov_urban_wild_cafe__41.2779_16.4104,Urban Wild Cafe',RESTAURANT,bar_cafe
-41.276756,16.411913,ov_officina_del_gusto_41.2768_16.4119,Officina Del Gusto,RESTAURANT,bar_cafe
-41.277949,16.408186,ov_bar_gattola_41.2779_16.4082,Bar Gattola,RESTAURANT,bar_cafe
-41.275326,16.407410,ov_ausonia_caffe_41.2753_16.4074,Ausonia Caffe,RESTAURANT,bar_cafe
-41.275323,16.404259,ov_bar_blue_moon_41.2753_16.4043,Bar Blue Moon,RESTAURANT,bar_cafe
-41.280690,16.405808,ov_san_bosco_41.2807_16.4058,San Bosco,RESTAURANT,bar_cafe
-41.280439,16.405624,ov_paper_angel_s_cafe_41.2804_16.4056,Paper Angel's Cafe,RESTAURANT,bar_cafe
-41.279219,16.407300,ov_champagnerie_41.2792_16.4073,Champagnerie,RESTAURANT,bar_cafe
-41.279399,16.407183,ov_bar_gin_de_ma_41.2794_16.4072,Bar Gin De Ma,RESTAURANT,bar_cafe
-41.271110,16.407421,ov_caffetteria_rosticceria_dolci____________41.2711_16.4074,Caffetteria_rosticceria_dolci                Giada_cafe',RESTAURANT,bar_cafe
-41.271125,16.407435,ov_l_incontro_cafe_da_anna_41.2711_16.4074,L'incontro Cafe da Anna,RESTAURANT,bar_cafe
-41.274606,16.406400,ov_bar_venezia_trani_41.2746_16.4064,Bar Venezia Trani,RESTAURANT,bar_cafe
-41.272254,16.409379,ov_bar_lorusso_41.2723_16.4094,Bar Lorusso,RESTAURANT,bar_cafe
-41.270780,16.411860,ov_bar_gaud__trani_41.2708_16.4119,Bar Gaudì Trani,RESTAURANT,bar_cafe
-41.270105,16.420347,ov_caffetteria_gelateria_buon_gustaio_41.2701_16.4203,Caffetteria Gelateria Buon Gustaio,RESTAURANT,bar_cafe
-41.271032,16.419372,ov_caffetteria_dalu_41.2710_16.4194,Caffetteria Dalu,RESTAURANT,bar_cafe
-41.272900,16.417570,ov_la_stazione_bar_tabacchi_41.2729_16.4176,La Stazione Bar Tabacchi,RESTAURANT,bar_cafe
-41.273278,16.418029,ov_travelers_cafe_41.2733_16.4180,Travelers Cafe,RESTAURANT,bar_cafe
-41.272808,16.418390,ov_ma_li_di_angelillimassimo_c_bar_caffe_41.2728_16.4184,Ma Li di Angelillimassimo C Bar Caffe,RESTAURANT,bar_cafe
-41.272930,16.418470,ov_bar_garibaldi_41.2729_16.4185,Bar Garibaldi,RESTAURANT,bar_cafe
-41.273832,16.418903,ov_caffetteria_degli_angeli_41.2738_16.4189,Caffetteria degli Angeli,RESTAURANT,bar_cafe
-41.274747,16.420187,ov_caffetteria_7_nani___trani_41.2747_16.4202,Caffetteria 7 Nani - Trani,RESTAURANT,bar_cafe
-41.275297,16.419950,ov_ultimo_cafe_41.2753_16.4200,Ultimo Cafe,RESTAURANT,bar_cafe
-41.274999,16.419702,ov__history53_41.2750_16.4197,#HISTORY53,RESTAURANT,bar_cafe
-41.274908,16.416418,ov_caff__corsaro_41.2749_16.4164,Caffè Corsaro,RESTAURANT,bar_cafe
-41.276524,16.416072,ov_bar_pasticceria_garibaldi_41.2765_16.4161,Bar Pasticceria Garibaldi,RESTAURANT,bar_cafe
-41.277353,16.415163,ov_river_beer_41.2774_16.4152,River Beer,RESTAURANT,bar_cafe
-41.277620,16.415780,ov_zero_coffee_store_trani_41.2776_16.4158,Zero Coffee Store Trani,RESTAURANT,bar_cafe
-41.277596,16.415814,ov_officine_119_store_41.2776_16.4158,Officine 119 Store,RESTAURANT,bar_cafe
-41.278200,16.413349,ov_joseph_cafe_41.2782_16.4133,Joseph cafe,RESTAURANT,bar_cafe
-41.279396,16.412772,ov_la_boutique_del_vino_41.2794_16.4128,La Boutique del vino,RESTAURANT,bar_cafe
-41.279690,16.413847,ov_mon_amour_cafe_41.2797_16.4138,Mon Amour Cafe,RESTAURANT,bar_cafe
-41.280976,16.415961,ov_beltrani_41.2810_16.4160,Beltrani,RESTAURANT,bar_cafe
-41.280970,16.415482,ov_macr__bar_mediteraneo_41.2810_16.4155,Macrè bar mediteraneo,RESTAURANT,bar_cafe
-41.279568,16.415907,ov_cavamatti_41.2796_16.4159,CAVAMATTI,RESTAURANT,bar_cafe
-41.280950,16.416895,ov_caffetteria_duomo_41.2810_16.4169,Caffetteria Duomo,RESTAURANT,bar_cafe
-41.281043,16.416776,ov_il_duomo_edicola___caffetteria_41.2810_16.4168,Il Duomo Edicola - Caffetteria,RESTAURANT,bar_cafe
-41.281864,16.417298,ov_bar_del_tribunale_41.2819_16.4173,Bar del Tribunale,RESTAURANT,bar_cafe
-41.281536,16.418040,ov_la_caffetteria_del_museo_41.2815_16.4180,La Caffetteria del Museo,RESTAURANT,bar_cafe
-41.281188,16.418567,ov_westinghouse_9625_41.2812_16.4186,Westinghouse 9625,RESTAURANT,bar_cafe
-41.279902,16.419015,ov_m_rrisei_41.2799_16.4190,Mòrrisei,RESTAURANT,bar_cafe
-41.279952,16.419044,ov_cafe_mare_41.2800_16.4190,Cafe Mare,RESTAURANT,bar_cafe
-41.279270,16.418811,ov_terrazza_la_banchina_41.2793_16.4188,Terrazza La Banchina,RESTAURANT,bar_cafe
-41.279554,16.419005,ov_cortealporto_terrazza__trani_41.2796_16.4190,"Cortealporto Terrazza, Trani",RESTAURANT,bar_cafe
-41.279554,16.419005,ov_rooftop_ognissanti_41.2796_16.4190,Rooftop Ognissanti,RESTAURANT,bar_cafe
-41.278264,16.419556,ov_jaxo_risto_bar_41.2783_16.4196,Jaxo Risto Bar,RESTAURANT,bar_cafe
-41.277915,16.420075,ov_cantina_41.2779_16.4201,Cantina,RESTAURANT,bar_cafe
-41.277859,16.420498,ov_pepoi_41.2779_16.4205,Pepoi,RESTAURANT,bar_cafe
-41.277971,16.419440,ov_michele_taverna_41.2780_16.4194,Michele taverna,RESTAURANT,bar_cafe
-41.277364,16.419321,ov_bomber_s_41.2774_16.4193,Bomber's,RESTAURANT,bar_cafe
-41.277431,16.419291,ov_darling_row_41.2774_16.4193,Darling Row,RESTAURANT,bar_cafe
-41.277286,16.419140,ov_midi_sound_bar_41.2773_16.4191,MIDI Sound Bar,RESTAURANT,bar_cafe
-41.277876,16.418660,ov_macao_cocktail_bar_41.2779_16.4187,Macao Cocktail Bar,RESTAURANT,bar_cafe
-41.277926,16.418758,ov_amores_licoreria_41.2779_16.4188,Amores Licoreria,RESTAURANT,bar_cafe
-41.278307,16.419304,ov_babalu_41.2783_16.4193,Babalu,RESTAURANT,bar_cafe
-41.278385,16.419330,ov_caff__nautico_41.2784_16.4193,Caffé Nautico,RESTAURANT,bar_cafe
-41.278868,16.419129,ov_portulaca_41.2789_16.4191,Portulaca,RESTAURANT,bar_cafe
-41.278111,16.418321,ov_garden_trani_41.2781_16.4183,Garden Trani,RESTAURANT,bar_cafe
-41.277424,16.418250,ov_q8_via_superga_trani_41.2774_16.4182,Q8 Via Superga Trani,RESTAURANT,bar_cafe
-41.276501,16.418310,ov_caffe_divino_41.2765_16.4183,Caffe Divino,RESTAURANT,bar_cafe
-41.277025,16.416503,ov_commercio_41.2770_16.4165,Commercio,RESTAURANT,bar_cafe
-41.276635,16.417380,ov_bar_europa_41.2766_16.4174,Bar Europa,RESTAURANT,bar_cafe
-41.275413,16.419086,ov_caffetteria_guendalina_41.2754_16.4191,Caffetteria Guendalina,RESTAURANT,bar_cafe
-41.275872,16.419000,ov_la_vineria_senza_cucina_41.2759_16.4190,La vineria senza cucina,RESTAURANT,bar_cafe
-41.275937,16.419378,ov_san_nini_vineria_41.2759_16.4194,San NiNi Vineria,RESTAURANT,bar_cafe
-41.275932,16.418737,ov_officina_del_vino_41.2759_16.4187,Officina del Vino,RESTAURANT,bar_cafe
-41.277232,16.418716,ov_l_antidoto_41.2772_16.4187,L'Antidoto,RESTAURANT,bar_cafe
-41.277147,16.418863,ov_teca___bevuta_naturale_41.2771_16.4189,TECA - Bevuta Naturale,RESTAURANT,bar_cafe
-41.277203,16.419429,ov_bianco_yogurt_41.2772_16.4194,Bianco Yogurt,RESTAURANT,bar_cafe
-41.276631,16.419415,ov_gin_bar___feelings_41.2766_16.4194,Gin Bar - Feelings,RESTAURANT,bar_cafe
-41.276708,16.419138,ov_fever_american_bar_41.2767_16.4191,Fever American Bar,RESTAURANT,bar_cafe
-41.276703,16.419089,ov_luxury_cicchetteria_41.2767_16.4191,Luxury Cicchetteria,RESTAURANT,bar_cafe
-41.276635,16.418977,ov_galant_cocktail_bar_41.2766_16.4190,Galant Cocktail Bar,RESTAURANT,bar_cafe
-41.276585,16.419004,ov_tandem_cafe_41.2766_16.4190,Tandem Cafe,RESTAURANT,bar_cafe
-41.276971,16.419497,ov_itempo_24hr_41.2770_16.4195,iTempo 24hr,RESTAURANT,bar_cafe
-41.275830,16.419570,ov_milano_cafe_41.2758_16.4196,MILANO cafe,RESTAURANT,bar_cafe
-41.275778,16.419655,ov_extra_bar_nuova_gestione_41.2758_16.4197,Extra bar nuova gestione,RESTAURANT,bar_cafe
-41.275571,16.421319,ov_bubbles_41.2756_16.4213,Bubbles,RESTAURANT,bar_cafe
-41.276019,16.421412,ov_bar_centrale_41.2760_16.4214,Bar Centrale,RESTAURANT,bar_cafe
-41.276412,16.420759,ov_louis_cafe_41.2764_16.4208,Louis Cafe,RESTAURANT,bar_cafe
-41.276306,16.420874,ov_barq_public_house_41.2763_16.4209,BarQ Public House,RESTAURANT,bar_cafe
-41.276690,16.420980,ov_labo_san_trani_41.2767_16.4210,Labo San Trani,RESTAURANT,bar_cafe
-41.276848,16.420803,ov_la_cach_nchara_41.2768_16.4208,La Cachànchara,RESTAURANT,bar_cafe
-41.275686,16.422008,ov_caffetteria_cognetti_41.2757_16.4220,Caffetteria Cognetti,RESTAURANT,bar_cafe
-41.275455,16.421842,ov_bar_habana_cuba_41.2755_16.4218,Bar Habana Cuba,RESTAURANT,bar_cafe
-41.275522,16.423221,ov_caffetteria_g_d_41.2755_16.4232,Caffetteria G&D,RESTAURANT,bar_cafe
-41.276530,16.424504,ov_de_amicis_caffe_41.2765_16.4245,De Amicis Caffe,RESTAURANT,bar_cafe
-41.277385,16.422999,ov_cavour_41.2774_16.4230,Cavour,RESTAURANT,bar_cafe
-41.277420,16.422969,ov_boulares_le_club_41.2774_16.4230,Boulares le club,RESTAURANT,bar_cafe
-41.277939,16.422922,ov_mela_caffe_41.2779_16.4229,Mela Caffe,RESTAURANT,bar_cafe
-41.278749,16.423327,ov_no_name_41.2787_16.4233,NO NAME,RESTAURANT,bar_cafe
-41.277995,16.422092,ov_molo_4_41.2780_16.4221,Molo 4,RESTAURANT,bar_cafe
-41.277787,16.422122,ov_il_marchese_orangerie_41.2778_16.4221,IL Marchese Orangerie,RESTAURANT,bar_cafe
-41.277796,16.421398,ov_champagnerie_41.2778_16.4214,Champagnerie,RESTAURANT,bar_cafe
-41.277682,16.420835,ov_caramel_bistrot_41.2777_16.4208,Caramel Bistrot,RESTAURANT,bar_cafe
-41.278155,16.425715,ov_bar_boschetto_41.2782_16.4257,Bar Boschetto,RESTAURANT,bar_cafe
-41.276423,16.425525,ov_moon_cat___caff__41.2764_16.4255,Moon cat & caffè,RESTAURANT,bar_cafe
-41.273247,16.425599,ov_story_caff__41.2732_16.4256,Story caffè,RESTAURANT,bar_cafe
-41.275181,16.424776,ov_bar_dello_studente_41.2752_16.4248,Bar dello Studente,RESTAURANT,bar_cafe
-41.274351,16.423655,ov_bar_pasticceria_gelateria_stella_41.2744_16.4237,Bar Pasticceria Gelateria Stella,RESTAURANT,bar_cafe
-41.274723,16.424603,ov_caffetteria_room_91_41.2747_16.4246,Caffetteria room 91,RESTAURANT,bar_cafe
-41.274716,16.424624,ov_bar_simphony_41.2747_16.4246,Bar Simphony,RESTAURANT,bar_cafe
-41.274032,16.423554,ov_fermentotrani_41.2740_16.4236,Fermentotrani,RESTAURANT,bar_cafe
-41.274595,16.423155,ov_caffe_by_night_41.2746_16.4232,Caffe By Night,RESTAURANT,bar_cafe
-41.275180,16.422336,ov_moro_gelateria_artigianale_41.2752_16.4223,Moro Gelateria Artigianale,RESTAURANT,bar_cafe
-41.274690,16.421663,ov_bar_tavola_calda_destiny_41.2747_16.4217,Bar Tavola calda Destiny,RESTAURANT,bar_cafe
-41.275221,16.422047,ov_lievito_72_41.2752_16.4220,Lievito 72,RESTAURANT,bar_cafe
-41.273055,16.420760,ov_principe_41.2731_16.4208,Principe,RESTAURANT,bar_cafe
-41.272940,16.420775,ov_cristal_41.2729_16.4208,Cristal,RESTAURANT,bar_cafe
-41.271983,16.421483,ov_bar_rosanna_41.2720_16.4215,Bar Rosanna,RESTAURANT,bar_cafe
-41.271770,16.421210,ov_coral_trani_41.2718_16.4212,CORAL Trani,RESTAURANT,bar_cafe
-41.272132,16.423807,ov_bar_gambrinus_41.2721_16.4238,Bar Gambrinus,RESTAURANT,bar_cafe
-41.272096,16.423964,ov_caffe_dante_41.2721_16.4240,Caffe Dante,RESTAURANT,bar_cafe
-41.270970,16.422041,ov_fabrica_41.2710_16.4220,Fabrica,RESTAURANT,bar_cafe
-41.270720,16.425291,ov_ottagono___caf____pizza_41.2707_16.4253,Ottagono - café & pizza,RESTAURANT,bar_cafe
-41.271275,16.426508,ov_bar_tazza_d_oro_41.2713_16.4265,Bar Tazza D'oro,RESTAURANT,bar_cafe
-41.270945,16.426599,ov_bar_pasticceria_ancona_luigi_41.2709_16.4266,Bar Pasticceria Ancona Luigi,RESTAURANT,bar_cafe
-41.269046,16.428765,ov_bar_pantheon_41.2690_16.4288,Bar Pantheon,RESTAURANT,bar_cafe
-41.268631,16.429661,ov_king_s_bar_trani_41.2686_16.4297,King's Bar Trani,RESTAURANT,bar_cafe
-41.268730,16.429948,ov_fl__gastrobar_trani_41.2687_16.4299,Flò GastroBar Trani,RESTAURANT,bar_cafe
-41.267807,16.431609,ov_bar_mimosa_41.2678_16.4316,Bar Mimosa,RESTAURANT,bar_cafe
-41.268421,16.432104,ov_lungomare_colonna_41.2684_16.4321,Lungomare Colonna,RESTAURANT,bar_cafe
-41.270202,16.431725,ov_roxy_bar_di_giovanni_muciaccia_41.2702_16.4317,Roxy Bar Di Giovanni Muciaccia,RESTAURANT,bar_cafe
-41.269910,16.430730,ov_bimby_div__federiciana_41.2699_16.4307,Bimby Div. Federiciana,RESTAURANT,bar_cafe
-41.272222,16.428841,ov_feelings_41.2722_16.4288,Feelings,RESTAURANT,bar_cafe
-41.270661,16.434132,ov_tamarindo_41.2707_16.4341,Tamarindo,RESTAURANT,bar_cafe
-41.270743,16.434084,ov_l_ottagono_bar_gelateria___trani_41.2707_16.4341,L'ottagono Bar Gelateria - Trani,RESTAURANT,bar_cafe
-41.269968,16.439073,ov_lido_anmi_trani_41.2700_16.4391,Lido Anmi Trani,RESTAURANT,bar_cafe
-41.268347,16.439933,ov_monkey_bar_41.2683_16.4399,monkey bar,RESTAURANT,bar_cafe
-41.270338,16.442373,ov_versante_est_41.2703_16.4424,Versante Est,RESTAURANT,bar_cafe
-41.270266,16.441844,ov_freasy_41.2703_16.4418,Freasy,RESTAURANT,bar_cafe
-41.277378,16.420767,osm_los_cornetteros_41.2774_16.4208,Los Cornetteros,bar_cafe,bar_cafe
-41.272906,16.417673,osm_bar_tabacchi_41.2729_16.4177,Bar Tabacchi,bar_cafe,bar_cafe
-41.273173,16.425813,osm_bistrot_malcangi_41.2732_16.4258,Bistrot Malcangi,bar_cafe,bar_cafe
-41.276793,16.419791,osm_le_delizie_41.2768_16.4198,Le Delizie,bar_cafe,bar_cafe
-41.273097,16.420779,osm_pasticceria_bar_principe_41.2731_16.4208,Pasticceria Bar Principe,bar_cafe,bar_cafe
-41.261029,16.441264,ov_palestra_verrigni_41.2610_16.4413,Palestra Verrigni,GYM,palestra
-41.262606,16.438760,ov_trani_dance_41.2626_16.4388,Trani dance,GYM,palestra
-41.263395,16.440091,ov_balance_41.2634_16.4401,Balance,GYM,palestra
-41.263554,16.438091,ov_trainingacademyacropoleflagman_41.2636_16.4381,TrainingAcademyacropoleflagman,GYM,palestra
-41.264034,16.438703,ov_v_lab_fitness_center_41.2640_16.4387,V-Lab Fitness Center,GYM,palestra
-41.264795,16.433812,ov_fitness_gym_authority_trani_41.2648_16.4338,Fitness Gym Authority Trani,GYM,palestra
-41.267125,16.419809,ov_tensostatico_ferrante_41.2671_16.4198,Tensostatico Ferrante,GYM,palestra
-41.266640,16.436912,ov_in_corpore_sano_41.2666_16.4369,In corpore sano,GYM,palestra
-41.266770,16.437600,ov_incorporesano_lab___marianna_germinario_41.2668_16.4376,Incorporesano Lab - Marianna Germinario,GYM,palestra
-41.266216,16.434301,ov_four_moving_trani_41.2662_16.4343,Four Moving Trani,GYM,palestra
-41.265497,16.431997,ov_savi_dance_studio___trani___41.2655_16.4320,Savi dance studio - Trani -,GYM,palestra
-41.265400,16.434070,ov_a_s_d_w_il_biliardo_trani_41.2654_16.4341,A.S.D W il Biliardo Trani,GYM,palestra
-41.252988,16.460305,ov_centro_sportivo_pontelama_1983_41.2530_16.4603,Centro Sportivo Pontelama 1983,GYM,palestra
-41.271761,16.387390,ov_dorado_padel_center_41.2718_16.3874,Dorado Padel Center,GYM,palestra
-41.272053,16.388277,ov_crossfit_trani_41.2721_16.3883,CrossFit Trani,GYM,palestra
-41.287026,16.380305,ov_bowling_trani_41.2870_16.3803,Bowling TRANI,GYM,palestra
-41.285302,16.389274,ov_tirenum_strength_addiction_41.2853_16.3893,Tirenum Strength Addiction,GYM,palestra
-41.281150,16.409780,ov_wodfactory_trani_41.2811_16.4098,WodFactory Trani,GYM,palestra
-41.281682,16.407316,ov_lotus_zen_yoga_41.2817_16.4073,Lotus Zen Yoga,GYM,palestra
-41.271003,16.407790,ov_body_power_41.2710_16.4078,Body Power,GYM,palestra
-41.273116,16.408422,ov_timeout_2_41.2731_16.4084,Timeout 2,GYM,palestra
-41.268968,16.419916,ov_new_esedra_41.2690_16.4199,New Esedra,GYM,palestra
-41.269448,16.419933,ov_energym_studio_41.2694_16.4199,EnerGym Studio,GYM,palestra
-41.269685,16.419209,ov_uppercut_boxing_club_trani_41.2697_16.4192,Uppercut Boxing Club Trani,GYM,palestra
-41.271631,16.418259,ov_palestra_arte_sport_trani_41.2716_16.4183,Palestra Arte Sport Trani,GYM,palestra
-41.275194,16.417020,ov_centro_diurno_cogestito_andria_trani_41.2752_16.4170,Centro Diurno Cogestito Andria-Trani,GYM,palestra
-41.276106,16.412991,ov_le_mille_e_una_passione_a_s_d__41.2761_16.4130,Le mille e una passione a.s.d.,GYM,palestra
-41.281103,16.414845,ov_laser_game_trani_41.2811_16.4148,Laser Game Trani,GYM,palestra
-41.280209,16.417034,ov_black_sheep___softair_team_trani_41.2802_16.4170,Black Sheep - Softair Team Trani,GYM,palestra
-41.280565,16.418578,ov_a_s_d_para_dos_tango_accademia_41.2806_16.4186,A.S.D Para Dos Tango Accademia,GYM,palestra
-41.278969,16.416507,ov_asd_enjoy_dancing_41.2790_16.4165,Asd enjoy dancing,GYM,palestra
-41.277402,16.418136,ov_a_s_d__armonia_yoga_studio_41.2774_16.4181,A.s.d. Armonia Yoga Studio,GYM,palestra
-41.275544,16.417414,ov_palestra_mac1_41.2755_16.4174,Palestra MAC1,GYM,palestra
-41.276412,16.424842,ov_gymnasium_athletic_club_41.2764_16.4248,Gymnasium Athletic Club,GYM,palestra
-41.276172,16.425660,ov_workhour___our_training_time_41.2762_16.4257,WorkHour - Our Training Time,GYM,palestra
-41.275988,16.425592,ov_mito_di_amoruso_carlo_41.2760_16.4256,Mito Di Amoruso Carlo,GYM,palestra
-41.276272,16.425095,ov_studio_50___scuola_di_danza__pattinaggio_41.2763_16.4251,"Studio 50 - Scuola di Danza, Pattinaggio e Musica dal 1980 -",GYM,palestra
-41.273104,16.426980,ov_y_ness_trani___ems_training_e_vacugym_41.2731_16.4270,Yùness Trani - Ems Training e Vacugym,GYM,palestra
-41.273939,16.424572,ov_mgm_di_mariagrazia_miriello_41.2739_16.4246,Mgm di Mariagrazia Miriello,GYM,palestra
-41.271823,16.420725,ov_elevation_gym_41.2718_16.4207,Elevation Gym,GYM,palestra
-41.273195,16.422619,ov_abha_41.2732_16.4226,Abha,GYM,palestra
-41.269509,16.424911,ov_timeout_palestre_41.2695_16.4249,Timeout Palestre,GYM,palestra
-41.270835,16.426672,ov_asd_well_being_41.2708_16.4267,ASD Well-Being,GYM,palestra
-41.268811,16.431619,ov_sport_center_41.2688_16.4316,Sport Center,GYM,palestra
-41.269600,16.433476,ov_latin_movement_41.2696_16.4335,LATIN Movement,GYM,palestra
-41.269052,16.433446,ov_pattini_e_danza_41.2691_16.4334,Pattini e Danza,GYM,palestra
-41.267240,16.363980,ov_ge_lo___lavorazione_pietra_di_trani_41.2672_16.3640,Ge Lo - Lavorazione pietra di Trani,MUSEUM,monumento
-41.257550,16.434900,ov_mamamu___museo_dei_bambini_trani_41.2576_16.4349,MAMAMU - Museo dei Bambini TRANI,MUSEUM,monumento
-41.282056,16.415224,ov_castello_svevo_di_trani___organizzazione_41.2821_16.4152,Castello Svevo di Trani - Organizzazione Governativa,MONUMENT,monumento
-41.280089,16.416180,ov_palazzo_delle_arti_beltrani_41.2801_16.4162,Palazzo delle Arti Beltrani,MUSEUM,monumento
-41.279218,16.416879,ov_torre_dell_orologio_41.2792_16.4169,Torre dell'Orologio,MONUMENT,monumento
-41.280268,16.418095,ov_synagogue_museum_of_sant_anna_41.2803_16.4181,Synagogue Museum of Sant'Anna,MUSEUM,monumento
-41.281647,16.417755,ov_museo_diocesano_trani_41.2816_16.4178,Museo Diocesano Trani,MUSEUM,monumento
-41.281820,16.417909,ov_polo_museale_trani_41.2818_16.4179,Polo Museale Trani,MUSEUM,monumento
-41.270797,16.433369,ov_lungomare_di_trani_41.2708_16.4334,Lungomare di Trani,MONUMENT,monumento
+41.217506,16.413892,ov_ospedali_riuniti_di_foggia_41.2175_16.4139,Ospedali Riuniti di Foggia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ospedali_riuniti_di_foggia_41.2175_16.4139.json,custom
+41.273080,16.418387,ov_studio_medico__specialistico___dott__sav_41.2731_16.4184,Studio Medico  Specialistico - Dott. Saverio Nenna,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/studio_medico_specialistico_-_dott_saver_41.2731_16.4184.json,custom
+41.274701,16.416441,ov_ospedaletto_pediatrico_41.2747_16.4164,ospedaletto pediatrico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ospedaletto_pediatrico_41.2747_16.4164.json,custom
+41.277187,16.416311,ov_pharmedica___centro_di_medicina_estetica_41.2772_16.4163,Pharmedica - Centro di Medicina Estetica e Dietologia-Dott.s,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pharmedica_-_centro_di_medicina_estetica_41.2772_16.4163.json,custom
+41.277210,16.419340,ov_apoteka_41.2772_16.4193,Apoteka,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/apoteka_41.2772_16.4193.json,custom
+41.267831,16.430062,ov_ospedale_trani_41.2678_16.4301,Ospedale Trani,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ospedale_trani_41.2678_16.4301.json,custom
+41.259383,16.427005,ov_home_restaurant_da_stefania_41.2594_16.4270,Home Restaurant da Stefania,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/home_restaurant_da_stefania_41.2594_16.4270.json,custom
+41.260004,16.432417,ov_kayuba_41.2600_16.4324,Kayuba,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/kayuba_41.2600_16.4324.json,custom
+41.263799,16.437992,ov_pronto_a_tavola___cibo_e_brace_41.2638_16.4380,Pronto A Tavola - Cibo e Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pronto_a_tavola_-_cibo_e_brace_41.2638_16.4380.json,custom
+41.264709,16.441085,ov_ervin_caf____bar_ristorante___pizzeria___41.2647_16.4411,Ervin Café - Bar Ristorante & Pizzeria - Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ervin_caf_-_bar_ristorante_pizzeria_-_tr_41.2647_16.4411.json,custom
+41.264914,16.438410,ov_taurus_13___ristorante_di_carne_41.2649_16.4384,Taurus 13 - Ristorante di Carne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/taurus_13_-_ristorante_di_carne_41.2649_16.4384.json,custom
+41.265265,16.431517,ov_des_garcons_41.2653_16.4315,Des Garcons,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/des_garcons_41.2653_16.4315.json,custom
+41.266995,16.420420,ov_lievitum_41.2670_16.4204,Lievitum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lievitum_41.2670_16.4204.json,custom
+41.266704,16.431787,ov_matahambre_41.2667_16.4318,Matahambre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/matahambre_41.2667_16.4318.json,custom
+41.266511,16.435576,ov_trani_a_go_go_41.2665_16.4356,Trani a Go-Go,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trani_a_go-go_41.2665_16.4356.json,custom
+41.266619,16.433683,ov_pizzeria_la_torre_41.2666_16.4337,Pizzeria La Torre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_la_torre_41.2666_16.4337.json,custom
+41.265470,16.436324,ov_pizzeria_da_nicola_41.2655_16.4363,Pizzeria da Nicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_da_nicola_41.2655_16.4363.json,custom
+41.256668,16.457434,ov_pizzeria_pulcinella_trani_41.2567_16.4574,Pizzeria Pulcinella Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_pulcinella_trani_41.2567_16.4574.json,custom
+41.253225,16.464553,ov_vigna_caracciolo_41.2532_16.4646,Vigna Caracciolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/vigna_caracciolo_41.2532_16.4646.json,custom
+41.253501,16.461590,ov_cinque_sensi_41.2535_16.4616,Cinque Sensi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cinque_sensi_41.2535_16.4616.json,custom
+41.254180,16.461950,ov_villa_alea_41.2542_16.4620,Villa Alea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/villa_alea_41.2542_16.4620.json,custom
+41.254817,16.460127,ov_quinto_quarto_41.2548_16.4601,Quinto Quarto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/quinto_quarto_41.2548_16.4601.json,custom
+41.246548,16.412278,ov_san_judas___pizza_e_bolle_41.2465_16.4123,San Judas - Pizza e Bolle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/san_judas_-_pizza_e_bolle_41.2465_16.4123.json,custom
+41.249208,16.426609,ov_pizza___vino_puglia_41.2492_16.4266,Pizza & Vino Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizza_vino_puglia_41.2492_16.4266.json,custom
+41.249572,16.427115,ov_l_r__restaurant_41.2496_16.4271,L.R. Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lr_restaurant_41.2496_16.4271.json,custom
+41.240846,16.487468,ov_caff__italiano_41.2408_16.4875,Caffè Italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caff_italiano_41.2408_16.4875.json,custom
+41.232799,16.439784,ov_tenuta_lama_gorga_41.2328_16.4398,Tenuta Lama Gorga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tenuta_lama_gorga_41.2328_16.4398.json,custom
+41.192247,16.417778,ov_ristorante_sala_ricevimenti_holiday___tr_41.1922_16.4178,Ristorante Sala Ricevimenti Holiday - Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_sala_ricevimenti_holiday_-_tr_41.1922_16.4178.json,custom
+41.304623,16.267351,ov_il_cucu_41.3046_16.2674,Il Cucu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_cucu_41.3046_16.2674.json,custom
+41.305205,16.317628,ov_tennis_bistr__41.3052_16.3176,Tennis Bistrò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tennis_bistr_41.3052_16.3176.json,custom
+41.284502,16.398051,ov_pescheria_porto_di_mare_41.2845_16.3981,Pescheria Porto Di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pescheria_porto_di_mare_41.2845_16.3981.json,custom
+41.281240,16.408340,ov_food___more_41.2812_16.4083,Food & More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/food_more_41.2812_16.4083.json,custom
+41.280491,16.410166,ov_a_tutta_pizza_41.2805_16.4102,A Tutta Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/a_tutta_pizza_41.2805_16.4102.json,custom
+41.279899,16.409204,ov_alex_pizza_41.2799_16.4092,Alex pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/alex_pizza_41.2799_16.4092.json,custom
+41.281114,16.411005,ov_la_barriera_41.2811_16.4110,La Barriera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_barriera_41.2811_16.4110.json,custom
+41.279792,16.412126,ov_santoro_bongustai_di_famiglia_dal_1974_41.2798_16.4121,Santoro Bongustai di famiglia dal 1974,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/santoro_bongustai_di_famiglia_dal_1974_41.2798_16.4121.json,custom
+41.276634,16.412130,ov_pizzeria_ciccibacco_trani_41.2766_16.4121,Pizzeria CicciBacco Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_ciccibacco_trani_41.2766_16.4121.json,custom
+41.278002,16.409776,ov_burger_king_41.2780_16.4098,Burger King,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/burger_king_41.2780_16.4098.json,custom
+41.278245,16.409241,ov_fior_di_pizza_41.2782_16.4092,Fior di Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fior_di_pizza_41.2782_16.4092.json,custom
+41.278381,16.409312,ov_stef_41.2784_16.4093,STEF,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/stef_41.2784_16.4093.json,custom
+41.279031,16.406530,ov_jambo_pizza_41.2790_16.4065,Jambo Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/jambo_pizza_41.2790_16.4065.json,custom
+41.275568,16.405554,ov_kobe_gastronomia_41.2756_16.4056,Kobe Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/kobe_gastronomia_41.2756_16.4056.json,custom
+41.276449,16.401808,ov_bar_caffetteria_gaudi_41.2764_16.4018,Bar Caffetteria Gaudi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_caffetteria_gaudi_41.2764_16.4018.json,custom
+41.272668,16.404168,ov_mcdonald_s_41.2727_16.4042,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mcdonalds_41.2727_16.4042.json,custom
+41.272311,16.409349,ov_il_cantuccio_41.2723_16.4093,IL Cantuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_cantuccio_41.2723_16.4093.json,custom
+41.268102,16.420293,ov_il_ritrovo_da_christian_41.2681_16.4203,Il Ritrovo da Christian,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_ritrovo_da_christian_41.2681_16.4203.json,custom
+41.273317,16.418362,ov_yummy_sushi_41.2733_16.4184,Yummy Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/yummy_sushi_41.2733_16.4184.json,custom
+41.271707,16.420418,ov_gemiti_vito_41.2717_16.4204,Gemiti Vito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gemiti_vito_41.2717_16.4204.json,custom
+41.273228,16.420412,ov_pizzeria_bovio_41.2732_16.4204,Pizzeria Bovio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_bovio_41.2732_16.4204.json,custom
+41.273514,16.418705,ov_pizzeria_cavour_41.2735_16.4187,Pizzeria Cavour,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_cavour_41.2735_16.4187.json,custom
+41.274924,16.418050,ov_roadhouse_restaurant_41.2749_16.4181,Roadhouse Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/roadhouse_restaurant_41.2749_16.4181.json,custom
+41.273405,16.417842,ov_la_giara_41.2734_16.4178,La Giara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_giara_41.2734_16.4178.json,custom
+41.276962,16.413986,ov_la_pazzeria_41.2770_16.4140,La Pazzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_pazzeria_41.2770_16.4140.json,custom
+41.277968,16.414649,ov_moselli_restaurant_41.2780_16.4146,Moselli Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/moselli_restaurant_41.2780_16.4146.json,custom
+41.277965,16.414637,ov_quintessenza_41.2780_16.4146,Quintessenza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/quintessenza_41.2780_16.4146.json,custom
+41.277343,16.416013,ov_salumeria_di_lernia_pietro_41.2773_16.4160,Salumeria Di Lernia Pietro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/salumeria_di_lernia_pietro_41.2773_16.4160.json,custom
+41.279182,16.416049,ov_la_locanda_del_giullare__il_ristorarte_41.2792_16.4160,La Locanda del Giullare. Il RistorArte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_locanda_del_giullare_il_ristorarte_41.2792_16.4160.json,custom
+41.278383,16.414567,ov_focacceria_l_arena_41.2784_16.4146,Focacceria L'Arena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/focacceria_larena_41.2784_16.4146.json,custom
+41.277882,16.413212,ov_da_carlett_41.2779_16.4132,Da Carlett,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/da_carlett_41.2779_16.4132.json,custom
+41.280098,16.413442,ov_osteria_la_cisterna_41.2801_16.4134,Osteria La Cisterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_la_cisterna_41.2801_16.4134.json,custom
+41.280422,16.413158,ov_san_ciriaco_41.2804_16.4132,San Ciriaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/san_ciriaco_41.2804_16.4132.json,custom
+41.280269,16.412691,ov_osteria_frangipane_41.2803_16.4127,Osteria Frangipane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_frangipane_41.2803_16.4127.json,custom
+41.281199,16.414884,ov_l_isola_di_galusenia_41.2812_16.4149,L'isola di Galusenia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lisola_di_galusenia_41.2812_16.4149.json,custom
+41.281712,16.416380,ov_pizzachef_angelo_davide_consiglio_41.2817_16.4164,Pizzachef Angelo Davide Consiglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzachef_angelo_davide_consiglio_41.2817_16.4164.json,custom
+41.280580,16.415437,ov_san_giovanni_41.2806_16.4154,San Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/san_giovanni_41.2806_16.4154.json,custom
+41.279207,16.414428,ov_m_m__masseria_urbana_41.2792_16.4144,Mómó Masseria Urbana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mm_masseria_urbana_41.2792_16.4144.json,custom
+41.279775,16.415928,ov_ristorante_taverna_portanova_41.2798_16.4159,Ristorante Taverna Portanova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_taverna_portanova_41.2798_16.4159.json,custom
+41.279361,16.416306,ov_osteria_ferro_e_fuoco_41.2794_16.4163,Osteria Ferro e Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_ferro_e_fuoco_41.2794_16.4163.json,custom
+41.279248,16.416412,ov_momopizzeria_41.2792_16.4164,Momopizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/momopizzeria_41.2792_16.4164.json,custom
+41.279251,16.416503,ov_ristorante_oasi_marina_41.2793_16.4165,Ristorante Oasi Marina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_oasi_marina_41.2793_16.4165.json,custom
+41.279229,16.416674,ov_il_gatto_e_la_volpe_41.2792_16.4167,Il Gatto e la Volpe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_gatto_e_la_volpe_41.2792_16.4167.json,custom
+41.280000,16.417029,ov_pizzeria_la_sinagoga_41.2800_16.4170,Pizzeria La Sinagoga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_la_sinagoga_41.2800_16.4170.json,custom
+41.279311,16.418027,ov_la_giudea_41.2793_16.4180,La Giudea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_giudea_41.2793_16.4180.json,custom
+41.280774,16.416796,ov_beltrani29_ristorante_41.2808_16.4168,Beltrani29 Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/beltrani29_ristorante_41.2808_16.4168.json,custom
+41.281377,16.418083,ov_carmelita_bistrot_41.2814_16.4181,Carmelita Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/carmelita_bistrot_41.2814_16.4181.json,custom
+41.281516,16.418050,ov_re_artu_41.2815_16.4181,Re Artu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/re_artu_41.2815_16.4181.json,custom
+41.281521,16.418116,ov_elcohiba_trani_41.2815_16.4181,Elcohiba Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/elcohiba_trani_41.2815_16.4181.json,custom
+41.281424,16.418136,ov_cottura_media_41.2814_16.4181,Cottura Media,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cottura_media_41.2814_16.4181.json,custom
+41.281431,16.418192,ov_pizzeria_osteria_buca_navarra_41.2814_16.4182,Pizzeria Osteria Buca Navarra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_osteria_buca_navarra_41.2814_16.4182.json,custom
+41.281481,16.418483,ov_osteria_caccianferno_41.2815_16.4185,Osteria Caccianferno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_caccianferno_41.2815_16.4185.json,custom
+41.280480,16.418730,ov_trani___ristorante_borgo_antico_41.2805_16.4187,Trani - Ristorante Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trani_-_ristorante_borgo_antico_41.2805_16.4187.json,custom
+41.280563,16.418616,ov_osteria_frangipane_41.2806_16.4186,Osteria Frangipane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_frangipane_41.2806_16.4186.json,custom
+41.280376,16.418774,ov_il_pep__41.2804_16.4188,Il Pepè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_pep_41.2804_16.4188.json,custom
+41.280438,16.419162,ov_antiche_arcate_41.2804_16.4192,Antiche Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/antiche_arcate_41.2804_16.4192.json,custom
+41.280529,16.419376,ov_toyo_41.2805_16.4194,Toyo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/toyo_41.2805_16.4194.json,custom
+41.279848,16.418611,ov_ristorante_corteinfiore_41.2798_16.4186,Ristorante Corteinfiore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_corteinfiore_41.2798_16.4186.json,custom
+41.279450,16.418904,ov_osteria_la_perla_del_sud_41.2794_16.4189,Osteria La Perla del Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_la_perla_del_sud_41.2794_16.4189.json,custom
+41.279209,16.418872,ov_riso_patate_e_cozze_41.2792_16.4189,Riso Patate e Cozze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/riso_patate_e_cozze_41.2792_16.4189.json,custom
+41.279230,16.418922,ov_la_banchina_41.2792_16.4189,La Banchina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_banchina_41.2792_16.4189.json,custom
+41.279526,16.419167,ov_ognissantino_41.2795_16.4192,Ognissantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ognissantino_41.2795_16.4192.json,custom
+41.277980,16.420197,ov_gallo_restaurant_41.2780_16.4202,Gallo Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gallo_restaurant_41.2780_16.4202.json,custom
+41.277777,16.420313,ov_locanda_trani_41.2778_16.4203,Locanda Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/locanda_trani_41.2778_16.4203.json,custom
+41.277811,16.420284,ov_peschef_41.2778_16.4203,Peschef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/peschef_41.2778_16.4203.json,custom
+41.277537,16.420258,ov_la_bodeguita_41.2775_16.4203,La Bodeguita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_bodeguita_41.2775_16.4203.json,custom
+41.277687,16.420016,ov_ristorante_liguori_di_scrimieri_deborah__41.2777_16.4200,Ristorante Liguori di Scrimieri Deborah & C. SAS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_liguori_di_scrimieri_deborah__41.2777_16.4200.json,custom
+41.277272,16.419944,ov_scugniz_41.2773_16.4199,Scugniz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/scugniz_41.2773_16.4199.json,custom
+41.277390,16.419707,ov_carpediem_pizzeria_braceria_41.2774_16.4197,Carpediem pizzeria braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/carpediem_pizzeria_braceria_41.2774_16.4197.json,custom
+41.278080,16.419869,ov_amadeus_trani_41.2781_16.4199,Amadeus Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/amadeus_trani_41.2781_16.4199.json,custom
+41.278088,16.419973,ov_l_altro_molo_41.2781_16.4200,L'Altro Molo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/laltro_molo_41.2781_16.4200.json,custom
+41.278138,16.419895,ov_mania_di_pizza_41.2781_16.4199,Mania Di Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mania_di_pizza_41.2781_16.4199.json,custom
+41.278211,16.419601,ov_pelledoca_restaurant_41.2782_16.4196,Pelledoca restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pelledoca_restaurant_41.2782_16.4196.json,custom
+41.277929,16.418990,ov_trattoria_da_rosetta_41.2779_16.4190,Trattoria da Rosetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trattoria_da_rosetta_41.2779_16.4190.json,custom
+41.277899,16.419335,ov_taverna_dei_suoni_41.2779_16.4193,Taverna Dei Suoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/taverna_dei_suoni_41.2779_16.4193.json,custom
+41.277420,16.419377,ov_memento_ristorante_41.2774_16.4194,Memento Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/memento_ristorante_41.2774_16.4194.json,custom
+41.278522,16.419048,ov_ristorante_rosa_dei_venti_41.2785_16.4190,Ristorante Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_rosa_dei_venti_41.2785_16.4190.json,custom
+41.278757,16.419095,ov_al_porto_osteria_pizzeria_41.2788_16.4191,Al Porto Osteria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/al_porto_osteria_pizzeria_41.2788_16.4191.json,custom
+41.278757,16.419267,ov_rampa_la_conca_41.2788_16.4193,Rampa la Conca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/rampa_la_conca_41.2788_16.4193.json,custom
+41.279036,16.419025,ov_acqua_e_farina_41.2790_16.4190,Acqua e Farina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/acqua_e_farina_41.2790_16.4190.json,custom
+41.279091,16.418976,ov_gianri_restaurant_41.2791_16.4190,GianRi Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gianri_restaurant_41.2791_16.4190.json,custom
+41.277957,16.416462,ov_pizzeria_il_grottino_41.2780_16.4165,Pizzeria Il Grottino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_il_grottino_41.2780_16.4165.json,custom
+41.277574,16.416855,ov_ogni_volta_41.2776_16.4169,Ogni Volta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ogni_volta_41.2776_16.4169.json,custom
+41.277431,16.416777,ov_ilgrottinoxxl_41.2774_16.4168,ilgrottinoxxl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ilgrottinoxxl_41.2774_16.4168.json,custom
+41.277495,16.417068,ov_agriturismo_il_pastore_41.2775_16.4171,Agriturismo Il Pastore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/agriturismo_il_pastore_41.2775_16.4171.json,custom
+41.277500,16.417767,ov_trani_41.2775_16.4178,Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trani_41.2775_16.4178.json,custom
+41.277292,16.418227,ov_trattoria_la_casalinga_41.2773_16.4182,Trattoria La Casalinga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trattoria_la_casalinga_41.2773_16.4182.json,custom
+41.277260,16.418355,ov_ristorante_fefino_cucina_naturale_a_tran_41.2773_16.4184,Ristorante Fefino Cucina Naturale a Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_fefino_cucina_naturale_a_tran_41.2773_16.4184.json,custom
+41.276543,16.418190,ov_pizzeria_le_muraglie_41.2765_16.4182,Pizzeria Le Muraglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_le_muraglie_41.2765_16.4182.json,custom
+41.277100,16.417238,ov_altemura_41.2771_16.4172,Altemura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/altemura_41.2771_16.4172.json,custom
+41.276858,16.417348,ov_aswine_trani_41.2769_16.4173,AsWine Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/aswine_trani_41.2769_16.4173.json,custom
+41.277170,16.417111,ov_braceria_i_piaceri_della_carne_41.2772_16.4171,Braceria I Piaceri della Carne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/braceria_i_piaceri_della_carne_41.2772_16.4171.json,custom
+41.277135,16.416395,ov_donna_rosa_41.2771_16.4164,Donna Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/donna_rosa_41.2771_16.4164.json,custom
+41.276748,16.416993,ov_pizzeria_in_41.2767_16.4170,Pizzeria In,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_in_41.2767_16.4170.json,custom
+41.276698,16.416999,ov_specialita_panzerotto_fritto_41.2767_16.4170,Specialita Panzerotto Fritto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/specialita_panzerotto_fritto_41.2767_16.4170.json,custom
+41.275750,16.417292,ov_pescheria_raffaele_41.2757_16.4173,Pescheria Raffaele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pescheria_raffaele_41.2757_16.4173.json,custom
+41.275345,16.417915,ov_pizzhub_41.2753_16.4179,Pizzhub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzhub_41.2753_16.4179.json,custom
+41.275521,16.419134,ov_pizzaart_41.2755_16.4191,PizzaArt,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzaart_41.2755_16.4191.json,custom
+41.275902,16.419458,ov_casal_de__pazzi_41.2759_16.4195,Casal de' pazzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/casal_de_pazzi_41.2759_16.4195.json,custom
+41.276211,16.418659,ov_street_burger_41.2762_16.4187,Street Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/street_burger_41.2762_16.4187.json,custom
+41.276192,16.418542,ov_el_palenque_41.2762_16.4185,El Palenque,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/el_palenque_41.2762_16.4185.json,custom
+41.276844,16.419114,ov_sopra_alla_nonna___pasta_fresca_take_awa_41.2768_16.4191,Sopra Alla Nonna - Pasta Fresca Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/sopra_alla_nonna_-_pasta_fresca_take_awa_41.2768_16.4191.json,custom
+41.277010,16.419210,ov_ti_griglio_tua_madre_41.2770_16.4192,Ti griglio tua madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ti_griglio_tua_madre_41.2770_16.4192.json,custom
+41.276901,16.419681,ov_no_difference_trani_41.2769_16.4197,No Difference Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/no_difference_trani_41.2769_16.4197.json,custom
+41.277125,16.419919,ov_focolare_bistrot_41.2771_16.4199,Focolare Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/focolare_bistrot_41.2771_16.4199.json,custom
+41.276995,16.419942,ov_osteria_la_pentolaccia_41.2770_16.4199,Osteria La Pentolaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_la_pentolaccia_41.2770_16.4199.json,custom
+41.277137,16.420014,ov_era_ora_restaurant_41.2771_16.4200,Era Ora Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/era_ora_restaurant_41.2771_16.4200.json,custom
+41.277074,16.420504,ov_pizzeria_da_dino_41.2771_16.4205,Pizzeria da Dino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_da_dino_41.2771_16.4205.json,custom
+41.276936,16.420332,ov_officina_del_panzerotto_41.2769_16.4203,Officina del Panzerotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/officina_del_panzerotto_41.2769_16.4203.json,custom
+41.276368,16.420136,ov_boutique_della_pizza_41.2764_16.4201,Boutique Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/boutique_della_pizza_41.2764_16.4201.json,custom
+41.276226,16.420165,ov_opera_restaurant_41.2762_16.4202,Opera Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/opera_restaurant_41.2762_16.4202.json,custom
+41.275736,16.419982,ov_il_melograno_41.2757_16.4200,Il Melograno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_melograno_41.2757_16.4200.json,custom
+41.275786,16.419926,ov_antica_pizzeria_bovio_41.2758_16.4199,Antica Pizzeria Bovio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/antica_pizzeria_bovio_41.2758_16.4199.json,custom
+41.275777,16.420047,ov_ristorante_cattaneo_41.2758_16.4200,Ristorante Cattaneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_cattaneo_41.2758_16.4200.json,custom
+41.276234,16.420789,ov_tody_pizzeria_41.2762_16.4208,Tody Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tody_pizzeria_41.2762_16.4208.json,custom
+41.276308,16.420870,ov_osteria_de_roma_41.2763_16.4209,Osteria de Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_de_roma_41.2763_16.4209.json,custom
+41.276560,16.420830,ov_mandolino_trani_41.2766_16.4208,Mandolino Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mandolino_trani_41.2766_16.4208.json,custom
+41.277043,16.421274,ov_santo_graal_trani_41.2770_16.4213,Santo graal trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/santo_graal_trani_41.2770_16.4213.json,custom
+41.276747,16.421455,ov_giupi_zza_41.2767_16.4215,giupi.zza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/giupizza_41.2767_16.4215.json,custom
+41.276455,16.421769,ov_osteria_al_solito_posto_41.2765_16.4218,Osteria Al Solito Posto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_al_solito_posto_41.2765_16.4218.json,custom
+41.276455,16.421917,ov_pescaria___trani_41.2765_16.4219,Pescaria - Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pescaria_-_trani_41.2765_16.4219.json,custom
+41.277023,16.421820,ov_taku_ristorante_giapponese_41.2770_16.4218,Taku Ristorante Giapponese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/taku_ristorante_giapponese_41.2770_16.4218.json,custom
+41.276661,16.422252,ov_braceria_conte_cavour_41.2767_16.4223,Braceria Conte Cavour,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/braceria_conte_cavour_41.2767_16.4223.json,custom
+41.276727,16.422181,ov_pizzeria_4_stagioni_41.2767_16.4222,Pizzeria 4 Stagioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_4_stagioni_41.2767_16.4222.json,custom
+41.276431,16.424427,ov_pizzeria_il_piccolo_rifugio_41.2764_16.4244,Pizzeria il piccolo rifugio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_il_piccolo_rifugio_41.2764_16.4244.json,custom
+41.277039,16.422974,ov_osteria_sale_grosso_41.2770_16.4230,Osteria Sale Grosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_sale_grosso_41.2770_16.4230.json,custom
+41.278161,16.422729,ov_pescandalo_41.2782_16.4227,Pescandalo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pescandalo_41.2782_16.4227.json,custom
+41.277507,16.423587,ov_la_ruota___pizzeria_41.2775_16.4236,La Ruota - Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_ruota_-_pizzeria_41.2775_16.4236.json,custom
+41.277531,16.423271,ov_osteria_svolta_l_angolo_41.2775_16.4233,Osteria Svolta l'Angolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_svolta_langolo_41.2775_16.4233.json,custom
+41.277472,16.423307,ov_osteria_ai_platani_41.2775_16.4233,Osteria Ai Platani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/osteria_ai_platani_41.2775_16.4233.json,custom
+41.278525,16.423555,ov_pesto_di_pistacchio_41.2785_16.4236,Pesto di Pistacchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pesto_di_pistacchio_41.2785_16.4236.json,custom
+41.278319,16.423295,ov_pizza___company_41.2783_16.4233,Pizza & Company,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizza_company_41.2783_16.4233.json,custom
+41.278616,16.423329,ov_da_natina_41.2786_16.4233,Da Natina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/da_natina_41.2786_16.4233.json,custom
+41.278385,16.422805,ov_savi_la_creperia_41.2784_16.4228,Savi La Creperia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/savi_la_creperia_41.2784_16.4228.json,custom
+41.278304,16.422545,ov_il_fico_bar_gourmet_41.2783_16.4225,Il Fico Bar Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_fico_bar_gourmet_41.2783_16.4225.json,custom
+41.278063,16.422432,ov_vista_mare_ristorante_41.2781_16.4224,Vista Mare Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/vista_mare_ristorante_41.2781_16.4224.json,custom
+41.278010,16.422205,ov_ristorante_la_darsena_41.2780_16.4222,Ristorante La Darsena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_la_darsena_41.2780_16.4222.json,custom
+41.277755,16.422547,ov_le_arcate_41.2778_16.4225,Le Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/le_arcate_41.2778_16.4225.json,custom
+41.277385,16.422388,ov_terradimare_41.2774_16.4224,Terradimare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/terradimare_41.2774_16.4224.json,custom
+41.277579,16.422185,ov_manima___osteria_41.2776_16.4222,Manima - Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/manima_-_osteria_41.2776_16.4222.json,custom
+41.277814,16.421071,ov_la_kambusa_di_paninart_41.2778_16.4211,La Kambusa di Paninart,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_kambusa_di_paninart_41.2778_16.4211.json,custom
+41.277687,16.421370,ov_parmigianeria_41.2777_16.4214,Parmigianeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/parmigianeria_41.2777_16.4214.json,custom
+41.277326,16.420750,ov_l_incanto___panzerotti___caf__41.2773_16.4208,L'Incanto - Panzerotti & Cafè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lincanto_-_panzerotti_caf_41.2773_16.4208.json,custom
+41.277480,16.420520,ov_sfizio_41.2775_16.4205,Sfizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/sfizio_41.2775_16.4205.json,custom
+41.277854,16.420581,ov_jeami_al_porto_di_trani_41.2779_16.4206,JeaMi al Porto di Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/jeami_al_porto_di_trani_41.2779_16.4206.json,custom
+41.277836,16.420883,ov_hula_poke___sushi_41.2778_16.4209,Hula Poke & Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/hula_poke_sushi_41.2778_16.4209.json,custom
+41.280401,16.422109,ov_le_lampare_al_fortino_41.2804_16.4221,Le Lampare al Fortino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/le_lampare_al_fortino_41.2804_16.4221.json,custom
+41.280581,16.422422,ov_il_vecchio_e_il_mare_41.2806_16.4224,Il Vecchio e il Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_vecchio_e_il_mare_41.2806_16.4224.json,custom
+41.279093,16.425492,ov_aquae_restaurant___lido_bella_venezia_41.2791_16.4255,Aquae Restaurant - Lido Bella Venezia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/aquae_restaurant_-_lido_bella_venezia_41.2791_16.4255.json,custom
+41.271408,16.426211,ov_pizzeria_dalmazia_trani_41.2714_16.4262,Pizzeria Dalmazia trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_dalmazia_trani_41.2714_16.4262.json,custom
+41.273266,16.424950,ov_acqua___sapone_41.2733_16.4249,Acqua & Sapone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/acqua_sapone_41.2733_16.4249.json,custom
+41.275055,16.424690,ov_shabby_chic_41.2751_16.4247,Shabby Chic,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/shabby_chic_41.2751_16.4247.json,custom
+41.275251,16.424612,ov_antiche_delizie_gastronomia_41.2753_16.4246,Antiche Delizie gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/antiche_delizie_gastronomia_41.2753_16.4246.json,custom
+41.274525,16.423928,ov_pizzeria_da_paolo_41.2745_16.4239,Pizzeria Da Paolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_da_paolo_41.2745_16.4239.json,custom
+41.274195,16.423695,ov_trani_take_away_41.2742_16.4237,Trani Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trani_take_away_41.2742_16.4237.json,custom
+41.273822,16.423346,ov_la_nicchia_41.2738_16.4233,La Nicchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_nicchia_41.2738_16.4233.json,custom
+41.273528,16.423024,ov_lab_57_bottega_gastronomica_41.2735_16.4230,LAB 57 Bottega Gastronomica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lab_57_bottega_gastronomica_41.2735_16.4230.json,custom
+41.275097,16.422286,ov_pizzeria_da_giovina_41.2751_16.4223,Pizzeria da Giovina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_da_giovina_41.2751_16.4223.json,custom
+41.274851,16.422574,ov_pizzeria_due_archi_41.2749_16.4226,Pizzeria Due Archi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_due_archi_41.2749_16.4226.json,custom
+41.274098,16.420667,ov_pizzeria_civico_10_41.2741_16.4207,Pizzeria Civico 10,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_civico_10_41.2741_16.4207.json,custom
+41.273435,16.420624,ov_pizzeria_reale_41.2734_16.4206,Pizzeria Reale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_reale_41.2734_16.4206.json,custom
+41.272770,16.422242,ov_ecobonus_110__general_contractor_41.2728_16.4222,Ecobonus 110% General Contractor,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ecobonus_110_general_contractor_41.2728_16.4222.json,custom
+41.272721,16.420642,ov_casa_dello_spiedo_41.2727_16.4206,Casa dello Spiedo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/casa_dello_spiedo_41.2727_16.4206.json,custom
+41.272890,16.422750,ov_burger_king_41.2729_16.4228,Burger King,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/burger_king_41.2729_16.4228.json,custom
+41.271087,16.422316,ov_fvme_pizza_and_drink_41.2711_16.4223,Fvme Pizza and Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fvme_pizza_and_drink_41.2711_16.4223.json,custom
+41.269249,16.425164,ov_doppio_zero_41.2692_16.4252,Doppio Zero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/doppio_zero_41.2692_16.4252.json,custom
+41.271319,16.424871,ov_i_piaceri_del_mare_41.2713_16.4249,I Piaceri del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/i_piaceri_del_mare_41.2713_16.4249.json,custom
+41.271201,16.426364,ov_bread_and_bonta_41.2712_16.4264,Bread and Bonta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bread_and_bonta_41.2712_16.4264.json,custom
+41.269954,16.427497,ov_pizzeria_il_ciccio_41.2700_16.4275,Pizzeria il Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_il_ciccio_41.2700_16.4275.json,custom
+41.270742,16.428261,ov_ristorante_del_agua_de_coco_beach_club_41.2707_16.4283,ristorante del Agua de Coco Beach Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_del_agua_de_coco_beach_club_41.2707_16.4283.json,custom
+41.269207,16.428755,ov_pizzafast_f_lli_porcaro_41.2692_16.4288,Pizzafast F.lli Porcaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzafast_flli_porcaro_41.2692_16.4288.json,custom
+41.268555,16.429367,ov_pizzeria_la_tettoia_41.2686_16.4294,Pizzeria La Tettoia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_la_tettoia_41.2686_16.4294.json,custom
+41.267753,16.432457,ov_retrogusto_cantina_sensoriale_41.2678_16.4325,Retrogusto cantina sensoriale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/retrogusto_cantina_sensoriale_41.2678_16.4325.json,custom
+41.270830,16.429862,ov_pizzeria_ristorante_carosello_41.2708_16.4299,Pizzeria Ristorante Carosello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_ristorante_carosello_41.2708_16.4299.json,custom
+41.269537,16.430247,ov_pizzeria_thewhite_41.2695_16.4302,Pizzeria TheWhite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_thewhite_41.2695_16.4302.json,custom
+41.270315,16.428924,ov_stile_libero_pizzeria_41.2703_16.4289,Stile Libero Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/stile_libero_pizzeria_41.2703_16.4289.json,custom
+41.272776,16.429962,ov_barbayanne_41.2728_16.4300,Barbayanne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/barbayanne_41.2728_16.4300.json,custom
+41.272680,16.430020,ov_cristoforo_colombo_21___al_mare_41.2727_16.4300,Cristoforo colombo 21 - al mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cristoforo_colombo_21_-_al_mare_41.2727_16.4300.json,custom
+41.272765,16.429474,ov_ristorante_il_monastero_41.2728_16.4295,Ristorante il monastero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_il_monastero_41.2728_16.4295.json,custom
+41.272780,16.429071,ov_ristorante_falcone_41.2728_16.4291,Ristorante Falcone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_falcone_41.2728_16.4291.json,custom
+41.272022,16.431147,ov_mira_mar_1952_41.2720_16.4311,Mira Mar 1952,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mira_mar_1952_41.2720_16.4311.json,custom
+41.270147,16.435317,ov_restaurant_belladonna_at_caruso_s_41.2701_16.4353,Restaurant Belladonna at Caruso’s,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/restaurant_belladonna_at_carusos_41.2701_16.4353.json,custom
+41.270257,16.435181,ov_caruso__trani_41.2703_16.4352,"Caruso, Trani",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caruso_trani_41.2703_16.4352.json,custom
+41.270464,16.434203,ov_casa_sgarra_ristorante_41.2705_16.4342,Casa Sgarra Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/casa_sgarra_ristorante_41.2705_16.4342.json,custom
+41.270373,16.434529,ov_starpops_41.2704_16.4345,Starpops,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/starpops_41.2704_16.4345.json,custom
+41.270046,16.438710,ov_big_red_41.2700_16.4387,Big Red,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/big_red_41.2700_16.4387.json,custom
+41.269683,16.439030,ov_terradimare_41.2697_16.4390,TerradiMare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/terradimare_41.2697_16.4390.json,custom
+41.269921,16.439295,ov_ristorante_capo_colonna_trani_41.2699_16.4393,Ristorante Capo Colonna Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_capo_colonna_trani_41.2699_16.4393.json,custom
+41.269773,16.439364,ov_capo_colonna_41.2698_16.4394,Capo Colonna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/capo_colonna_41.2698_16.4394.json,custom
+41.269678,16.440790,ov_casal_de_pazzi_summer_location_41.2697_16.4408,Casal de Pazzi Summer Location,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/casal_de_pazzi_summer_location_41.2697_16.4408.json,custom
+41.269011,16.440238,ov_calda_calda_41.2690_16.4402,Calda Calda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/calda_calda_41.2690_16.4402.json,custom
+41.268905,16.440150,ov_mareluna_41.2689_16.4401,Mareluna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mareluna_41.2689_16.4401.json,custom
+41.267605,16.439948,ov_shibumi_trani___fusion_experience_41.2676_16.4399,Shibumi Trani - Fusion Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/shibumi_trani_-_fusion_experience_41.2676_16.4399.json,custom
+41.267880,16.440261,ov_burg__vista_mare_41.2679_16.4403,BURGÓ vista mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/burg_vista_mare_41.2679_16.4403.json,custom
+41.269413,16.441339,ov_riva_beach_trani_41.2694_16.4413,RIVA Beach Trani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/riva_beach_trani_41.2694_16.4413.json,custom
+41.269847,16.442343,ov_salto_dell_acciuga_41.2698_16.4423,Salto dell'Acciuga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/salto_dellacciuga_41.2698_16.4423.json,custom
+41.272740,16.429450,osm_il_patriarca_41.2727_16.4294,Il Patriarca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_patriarca_41.2727_16.4294.json,custom
+41.256491,16.457399,osm_ristorante_pizzeria_pulcinella_41.2565_16.4574,Ristorante Pizzeria Pulcinella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ristorante_pizzeria_pulcinella_41.2565_16.4574.json,custom
+41.277446,16.419227,osm_tine_drink_and_food_41.2774_16.4192,Tine drink and food,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tine_drink_and_food_41.2774_16.4192.json,custom
+41.253400,16.461639,osm_i_cinque_sensi_41.2534_16.4616,I Cinque Sensi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/i_cinque_sensi_41.2534_16.4616.json,custom
+41.277493,16.423285,osm_dietro_l_angolo_41.2775_16.4233,dietro l'angolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/dietro_langolo_41.2775_16.4233.json,custom
+41.275843,16.419014,osm_arte_fredda_41.2758_16.4190,Arte Fredda,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/arte_fredda_41.2758_16.4190.json,custom
+41.269914,16.427566,osm_pizzeria_il_ciccio_41.2699_16.4276,Pizzeria Il Ciccio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pizzeria_il_ciccio_41.2699_16.4276.json,custom
+41.278341,16.419424,osm_babal__41.2783_16.4194,Babalù,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/babal_41.2783_16.4194.json,custom
+41.277827,16.420423,osm_pechef_41.2778_16.4204,Pechef,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pechef_41.2778_16.4204.json,custom
+41.254336,16.460154,osm_quinto_quarto_41.2543_16.4602,Quinto Quarto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/quinto_quarto_41.2543_16.4602.json,custom
+41.277606,16.419231,osm_all_ombra_di_trani_41.2776_16.4192,All'Ombra di Trani,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/allombra_di_trani_41.2776_16.4192.json,custom
+41.264059,16.425168,ov_saranno_famosi_il_giardino_di_bacco_41.2641_16.4252,Saranno famosi Il Giardino di Bacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/saranno_famosi_il_giardino_di_bacco_41.2641_16.4252.json,custom
+41.263598,16.439588,ov_pasticceria_delizie_napoletane_41.2636_16.4396,Pasticceria Delizie Napoletane,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pasticceria_delizie_napoletane_41.2636_16.4396.json,custom
+41.263980,16.438179,ov_caffe_41.2640_16.4382,Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffe_41.2640_16.4382.json,custom
+41.265120,16.437822,ov_white_cafe_41.2651_16.4378,White Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/white_cafe_41.2651_16.4378.json,custom
+41.265202,16.437030,ov_corner_caf__bistrot_41.2652_16.4370,Corner Café bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/corner_caf_bistrot_41.2652_16.4370.json,custom
+41.264971,16.433069,ov_iris_cafe_di_tedeschi_lorenzo_41.2650_16.4331,Iris Cafe Di Tedeschi Lorenzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/iris_cafe_di_tedeschi_lorenzo_41.2650_16.4331.json,custom
+41.266905,16.435885,ov_gattopardo_41.2669_16.4359,Gattopardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gattopardo_41.2669_16.4359.json,custom
+41.266941,16.437190,ov_bar_millevoglie_41.2669_16.4372,Bar MilleVoglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_millevoglie_41.2669_16.4372.json,custom
+41.266993,16.432762,ov_pozzopiano_41.2670_16.4328,Pozzopiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pozzopiano_41.2670_16.4328.json,custom
+41.267373,16.436517,ov_wells_fargo_saloon_41.2674_16.4365,Wells Fargo Saloon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/wells_fargo_saloon_41.2674_16.4365.json,custom
+41.266258,16.435600,ov_ai_portici_41.2663_16.4356,Ai Portici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ai_portici_41.2663_16.4356.json,custom
+41.266226,16.435048,ov_sound_rock_caf__trani_41.2662_16.4350,Sound Rock cafè Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/sound_rock_caf_trani_41.2662_16.4350.json,custom
+41.266044,16.434687,ov_las_vegas_cafe_41.2660_16.4347,Las Vegas Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/las_vegas_cafe_41.2660_16.4347.json,custom
+41.265708,16.430414,ov_real_cafe_41.2657_16.4304,Real Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/real_cafe_41.2657_16.4304.json,custom
+41.257033,16.464407,ov_il_trullo_paterno___trani_41.2570_16.4644,Il Trullo Paterno - Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_trullo_paterno_-_trani_41.2570_16.4644.json,custom
+41.312354,16.286430,ov_tribunale_41.3124_16.2864,Tribunale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tribunale_41.3124_16.2864.json,custom
+41.272487,16.392918,ov_caffe_l_arabica_41.2725_16.3929,Caffe L'Arabica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffe_larabica_41.2725_16.3929.json,custom
+41.285547,16.391591,ov_il_poligono_caf__41.2855_16.3916,IL Poligono Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_poligono_caf_41.2855_16.3916.json,custom
+41.283770,16.400190,ov_autofucci_barletta_41.2838_16.4002,Autofucci Barletta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/autofucci_barletta_41.2838_16.4002.json,custom
+41.281278,16.408261,ov_anno_0_41.2813_16.4083,Anno 0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/anno_0_41.2813_16.4083.json,custom
+41.280181,16.409270,ov_nick_bar_41.2802_16.4093,Nick Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/nick_bar_41.2802_16.4093.json,custom
+41.279500,16.410438,ov_angolo_21_41.2795_16.4104,Angolo 21,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/angolo_21_41.2795_16.4104.json,custom
+41.280442,16.410189,ov_le_delizie_di_zecchillo_41.2804_16.4102,Le Delizie Di Zecchillo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/le_delizie_di_zecchillo_41.2804_16.4102.json,custom
+41.280759,16.411673,ov_bar_indipendenza___trani_41.2808_16.4117,Bar Indipendenza - Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_indipendenza_-_trani_41.2808_16.4117.json,custom
+41.278821,16.411589,ov_nin__41.2788_16.4116,Ninè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/nin_41.2788_16.4116.json,custom
+41.277857,16.410351,ov_urban_wild_cafe__41.2779_16.4104,Urban Wild Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/urban_wild_cafe_41.2779_16.4104.json,custom
+41.276756,16.411913,ov_officina_del_gusto_41.2768_16.4119,Officina Del Gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/officina_del_gusto_41.2768_16.4119.json,custom
+41.277949,16.408186,ov_bar_gattola_41.2779_16.4082,Bar Gattola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_gattola_41.2779_16.4082.json,custom
+41.275326,16.407410,ov_ausonia_caffe_41.2753_16.4074,Ausonia Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ausonia_caffe_41.2753_16.4074.json,custom
+41.275323,16.404259,ov_bar_blue_moon_41.2753_16.4043,Bar Blue Moon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_blue_moon_41.2753_16.4043.json,custom
+41.280690,16.405808,ov_san_bosco_41.2807_16.4058,San Bosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/san_bosco_41.2807_16.4058.json,custom
+41.280439,16.405624,ov_paper_angel_s_cafe_41.2804_16.4056,Paper Angel's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/paper_angels_cafe_41.2804_16.4056.json,custom
+41.279219,16.407300,ov_champagnerie_41.2792_16.4073,Champagnerie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/champagnerie_41.2792_16.4073.json,custom
+41.279399,16.407183,ov_bar_gin_de_ma_41.2794_16.4072,Bar Gin De Ma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_gin_de_ma_41.2794_16.4072.json,custom
+41.271110,16.407421,ov_caffetteria_rosticceria_dolci____________41.2711_16.4074,Caffetteria_rosticceria_dolci                Giada_cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteriarosticceriadolci_giadacafe_41.2711_16.4074.json,custom
+41.271125,16.407435,ov_l_incontro_cafe_da_anna_41.2711_16.4074,L'incontro Cafe da Anna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lincontro_cafe_da_anna_41.2711_16.4074.json,custom
+41.274606,16.406400,ov_bar_venezia_trani_41.2746_16.4064,Bar Venezia Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_venezia_trani_41.2746_16.4064.json,custom
+41.272254,16.409379,ov_bar_lorusso_41.2723_16.4094,Bar Lorusso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_lorusso_41.2723_16.4094.json,custom
+41.270780,16.411860,ov_bar_gaud__trani_41.2708_16.4119,Bar Gaudì Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_gaud_trani_41.2708_16.4119.json,custom
+41.270105,16.420347,ov_caffetteria_gelateria_buon_gustaio_41.2701_16.4203,Caffetteria Gelateria Buon Gustaio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_gelateria_buon_gustaio_41.2701_16.4203.json,custom
+41.271032,16.419372,ov_caffetteria_dalu_41.2710_16.4194,Caffetteria Dalu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_dalu_41.2710_16.4194.json,custom
+41.272900,16.417570,ov_la_stazione_bar_tabacchi_41.2729_16.4176,La Stazione Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_stazione_bar_tabacchi_41.2729_16.4176.json,custom
+41.273278,16.418029,ov_travelers_cafe_41.2733_16.4180,Travelers Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/travelers_cafe_41.2733_16.4180.json,custom
+41.272808,16.418390,ov_ma_li_di_angelillimassimo_c_bar_caffe_41.2728_16.4184,Ma Li di Angelillimassimo C Bar Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ma_li_di_angelillimassimo_c_bar_caffe_41.2728_16.4184.json,custom
+41.272930,16.418470,ov_bar_garibaldi_41.2729_16.4185,Bar Garibaldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_garibaldi_41.2729_16.4185.json,custom
+41.273832,16.418903,ov_caffetteria_degli_angeli_41.2738_16.4189,Caffetteria degli Angeli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_degli_angeli_41.2738_16.4189.json,custom
+41.274747,16.420187,ov_caffetteria_7_nani___trani_41.2747_16.4202,Caffetteria 7 Nani - Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_7_nani_-_trani_41.2747_16.4202.json,custom
+41.275297,16.419950,ov_ultimo_cafe_41.2753_16.4200,Ultimo Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ultimo_cafe_41.2753_16.4200.json,custom
+41.274999,16.419702,ov__history53_41.2750_16.4197,#HISTORY53,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/history53_41.2750_16.4197.json,custom
+41.274908,16.416418,ov_caff__corsaro_41.2749_16.4164,Caffè Corsaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caff_corsaro_41.2749_16.4164.json,custom
+41.276524,16.416072,ov_bar_pasticceria_garibaldi_41.2765_16.4161,Bar Pasticceria Garibaldi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_pasticceria_garibaldi_41.2765_16.4161.json,custom
+41.277353,16.415163,ov_river_beer_41.2774_16.4152,River Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/river_beer_41.2774_16.4152.json,custom
+41.277620,16.415780,ov_zero_coffee_store_trani_41.2776_16.4158,Zero Coffee Store Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/zero_coffee_store_trani_41.2776_16.4158.json,custom
+41.277596,16.415814,ov_officine_119_store_41.2776_16.4158,Officine 119 Store,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/officine_119_store_41.2776_16.4158.json,custom
+41.278200,16.413349,ov_joseph_cafe_41.2782_16.4133,Joseph cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/joseph_cafe_41.2782_16.4133.json,custom
+41.279396,16.412772,ov_la_boutique_del_vino_41.2794_16.4128,La Boutique del vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_boutique_del_vino_41.2794_16.4128.json,custom
+41.279690,16.413847,ov_mon_amour_cafe_41.2797_16.4138,Mon Amour Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mon_amour_cafe_41.2797_16.4138.json,custom
+41.280976,16.415961,ov_beltrani_41.2810_16.4160,Beltrani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/beltrani_41.2810_16.4160.json,custom
+41.280970,16.415482,ov_macr__bar_mediteraneo_41.2810_16.4155,Macrè bar mediteraneo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/macr_bar_mediteraneo_41.2810_16.4155.json,custom
+41.279568,16.415907,ov_cavamatti_41.2796_16.4159,CAVAMATTI,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cavamatti_41.2796_16.4159.json,custom
+41.280950,16.416895,ov_caffetteria_duomo_41.2810_16.4169,Caffetteria Duomo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_duomo_41.2810_16.4169.json,custom
+41.281043,16.416776,ov_il_duomo_edicola___caffetteria_41.2810_16.4168,Il Duomo Edicola - Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_duomo_edicola_-_caffetteria_41.2810_16.4168.json,custom
+41.281864,16.417298,ov_bar_del_tribunale_41.2819_16.4173,Bar del Tribunale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_del_tribunale_41.2819_16.4173.json,custom
+41.281536,16.418040,ov_la_caffetteria_del_museo_41.2815_16.4180,La Caffetteria del Museo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_caffetteria_del_museo_41.2815_16.4180.json,custom
+41.281188,16.418567,ov_westinghouse_9625_41.2812_16.4186,Westinghouse 9625,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/westinghouse_9625_41.2812_16.4186.json,custom
+41.279902,16.419015,ov_m_rrisei_41.2799_16.4190,Mòrrisei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mrrisei_41.2799_16.4190.json,custom
+41.279952,16.419044,ov_cafe_mare_41.2800_16.4190,Cafe Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cafe_mare_41.2800_16.4190.json,custom
+41.279270,16.418811,ov_terrazza_la_banchina_41.2793_16.4188,Terrazza La Banchina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/terrazza_la_banchina_41.2793_16.4188.json,custom
+41.279554,16.419005,ov_cortealporto_terrazza__trani_41.2796_16.4190,"Cortealporto Terrazza, Trani",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cortealporto_terrazza_trani_41.2796_16.4190.json,custom
+41.279554,16.419005,ov_rooftop_ognissanti_41.2796_16.4190,Rooftop Ognissanti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/rooftop_ognissanti_41.2796_16.4190.json,custom
+41.278264,16.419556,ov_jaxo_risto_bar_41.2783_16.4196,Jaxo Risto Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/jaxo_risto_bar_41.2783_16.4196.json,custom
+41.277915,16.420075,ov_cantina_41.2779_16.4201,Cantina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cantina_41.2779_16.4201.json,custom
+41.277859,16.420498,ov_pepoi_41.2779_16.4205,Pepoi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pepoi_41.2779_16.4205.json,custom
+41.277971,16.419440,ov_michele_taverna_41.2780_16.4194,Michele taverna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/michele_taverna_41.2780_16.4194.json,custom
+41.277364,16.419321,ov_bomber_s_41.2774_16.4193,Bomber's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bombers_41.2774_16.4193.json,custom
+41.277431,16.419291,ov_darling_row_41.2774_16.4193,Darling Row,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/darling_row_41.2774_16.4193.json,custom
+41.277286,16.419140,ov_midi_sound_bar_41.2773_16.4191,MIDI Sound Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/midi_sound_bar_41.2773_16.4191.json,custom
+41.277876,16.418660,ov_macao_cocktail_bar_41.2779_16.4187,Macao Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/macao_cocktail_bar_41.2779_16.4187.json,custom
+41.277926,16.418758,ov_amores_licoreria_41.2779_16.4188,Amores Licoreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/amores_licoreria_41.2779_16.4188.json,custom
+41.278307,16.419304,ov_babalu_41.2783_16.4193,Babalu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/babalu_41.2783_16.4193.json,custom
+41.278385,16.419330,ov_caff__nautico_41.2784_16.4193,Caffé Nautico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caff_nautico_41.2784_16.4193.json,custom
+41.278868,16.419129,ov_portulaca_41.2789_16.4191,Portulaca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/portulaca_41.2789_16.4191.json,custom
+41.278111,16.418321,ov_garden_trani_41.2781_16.4183,Garden Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/garden_trani_41.2781_16.4183.json,custom
+41.277424,16.418250,ov_q8_via_superga_trani_41.2774_16.4182,Q8 Via Superga Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/q8_via_superga_trani_41.2774_16.4182.json,custom
+41.276501,16.418310,ov_caffe_divino_41.2765_16.4183,Caffe Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffe_divino_41.2765_16.4183.json,custom
+41.277025,16.416503,ov_commercio_41.2770_16.4165,Commercio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/commercio_41.2770_16.4165.json,custom
+41.276635,16.417380,ov_bar_europa_41.2766_16.4174,Bar Europa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_europa_41.2766_16.4174.json,custom
+41.275413,16.419086,ov_caffetteria_guendalina_41.2754_16.4191,Caffetteria Guendalina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_guendalina_41.2754_16.4191.json,custom
+41.275872,16.419000,ov_la_vineria_senza_cucina_41.2759_16.4190,La vineria senza cucina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_vineria_senza_cucina_41.2759_16.4190.json,custom
+41.275937,16.419378,ov_san_nini_vineria_41.2759_16.4194,San NiNi Vineria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/san_nini_vineria_41.2759_16.4194.json,custom
+41.275932,16.418737,ov_officina_del_vino_41.2759_16.4187,Officina del Vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/officina_del_vino_41.2759_16.4187.json,custom
+41.277232,16.418716,ov_l_antidoto_41.2772_16.4187,L'Antidoto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lantidoto_41.2772_16.4187.json,custom
+41.277147,16.418863,ov_teca___bevuta_naturale_41.2771_16.4189,TECA - Bevuta Naturale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/teca_-_bevuta_naturale_41.2771_16.4189.json,custom
+41.277203,16.419429,ov_bianco_yogurt_41.2772_16.4194,Bianco Yogurt,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bianco_yogurt_41.2772_16.4194.json,custom
+41.276631,16.419415,ov_gin_bar___feelings_41.2766_16.4194,Gin Bar - Feelings,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gin_bar_-_feelings_41.2766_16.4194.json,custom
+41.276708,16.419138,ov_fever_american_bar_41.2767_16.4191,Fever American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fever_american_bar_41.2767_16.4191.json,custom
+41.276703,16.419089,ov_luxury_cicchetteria_41.2767_16.4191,Luxury Cicchetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/luxury_cicchetteria_41.2767_16.4191.json,custom
+41.276635,16.418977,ov_galant_cocktail_bar_41.2766_16.4190,Galant Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/galant_cocktail_bar_41.2766_16.4190.json,custom
+41.276585,16.419004,ov_tandem_cafe_41.2766_16.4190,Tandem Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tandem_cafe_41.2766_16.4190.json,custom
+41.276971,16.419497,ov_itempo_24hr_41.2770_16.4195,iTempo 24hr,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/itempo_24hr_41.2770_16.4195.json,custom
+41.275830,16.419570,ov_milano_cafe_41.2758_16.4196,MILANO cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/milano_cafe_41.2758_16.4196.json,custom
+41.275778,16.419655,ov_extra_bar_nuova_gestione_41.2758_16.4197,Extra bar nuova gestione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/extra_bar_nuova_gestione_41.2758_16.4197.json,custom
+41.275571,16.421319,ov_bubbles_41.2756_16.4213,Bubbles,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bubbles_41.2756_16.4213.json,custom
+41.276019,16.421412,ov_bar_centrale_41.2760_16.4214,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_centrale_41.2760_16.4214.json,custom
+41.276412,16.420759,ov_louis_cafe_41.2764_16.4208,Louis Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/louis_cafe_41.2764_16.4208.json,custom
+41.276306,16.420874,ov_barq_public_house_41.2763_16.4209,BarQ Public House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/barq_public_house_41.2763_16.4209.json,custom
+41.276690,16.420980,ov_labo_san_trani_41.2767_16.4210,Labo San Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/labo_san_trani_41.2767_16.4210.json,custom
+41.276848,16.420803,ov_la_cach_nchara_41.2768_16.4208,La Cachànchara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/la_cachnchara_41.2768_16.4208.json,custom
+41.275686,16.422008,ov_caffetteria_cognetti_41.2757_16.4220,Caffetteria Cognetti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_cognetti_41.2757_16.4220.json,custom
+41.275455,16.421842,ov_bar_habana_cuba_41.2755_16.4218,Bar Habana Cuba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_habana_cuba_41.2755_16.4218.json,custom
+41.275522,16.423221,ov_caffetteria_g_d_41.2755_16.4232,Caffetteria G&D,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_gd_41.2755_16.4232.json,custom
+41.276530,16.424504,ov_de_amicis_caffe_41.2765_16.4245,De Amicis Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/de_amicis_caffe_41.2765_16.4245.json,custom
+41.277385,16.422999,ov_cavour_41.2774_16.4230,Cavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cavour_41.2774_16.4230.json,custom
+41.277420,16.422969,ov_boulares_le_club_41.2774_16.4230,Boulares le club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/boulares_le_club_41.2774_16.4230.json,custom
+41.277939,16.422922,ov_mela_caffe_41.2779_16.4229,Mela Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mela_caffe_41.2779_16.4229.json,custom
+41.278749,16.423327,ov_no_name_41.2787_16.4233,NO NAME,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/no_name_41.2787_16.4233.json,custom
+41.277995,16.422092,ov_molo_4_41.2780_16.4221,Molo 4,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/molo_4_41.2780_16.4221.json,custom
+41.277787,16.422122,ov_il_marchese_orangerie_41.2778_16.4221,IL Marchese Orangerie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/il_marchese_orangerie_41.2778_16.4221.json,custom
+41.277796,16.421398,ov_champagnerie_41.2778_16.4214,Champagnerie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/champagnerie_41.2778_16.4214.json,custom
+41.277682,16.420835,ov_caramel_bistrot_41.2777_16.4208,Caramel Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caramel_bistrot_41.2777_16.4208.json,custom
+41.278155,16.425715,ov_bar_boschetto_41.2782_16.4257,Bar Boschetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_boschetto_41.2782_16.4257.json,custom
+41.276423,16.425525,ov_moon_cat___caff__41.2764_16.4255,Moon cat & caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/moon_cat_caff_41.2764_16.4255.json,custom
+41.273247,16.425599,ov_story_caff__41.2732_16.4256,Story caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/story_caff_41.2732_16.4256.json,custom
+41.275181,16.424776,ov_bar_dello_studente_41.2752_16.4248,Bar dello Studente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_dello_studente_41.2752_16.4248.json,custom
+41.274351,16.423655,ov_bar_pasticceria_gelateria_stella_41.2744_16.4237,Bar Pasticceria Gelateria Stella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_pasticceria_gelateria_stella_41.2744_16.4237.json,custom
+41.274723,16.424603,ov_caffetteria_room_91_41.2747_16.4246,Caffetteria room 91,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffetteria_room_91_41.2747_16.4246.json,custom
+41.274716,16.424624,ov_bar_simphony_41.2747_16.4246,Bar Simphony,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_simphony_41.2747_16.4246.json,custom
+41.274032,16.423554,ov_fermentotrani_41.2740_16.4236,Fermentotrani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fermentotrani_41.2740_16.4236.json,custom
+41.274595,16.423155,ov_caffe_by_night_41.2746_16.4232,Caffe By Night,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffe_by_night_41.2746_16.4232.json,custom
+41.275180,16.422336,ov_moro_gelateria_artigianale_41.2752_16.4223,Moro Gelateria Artigianale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/moro_gelateria_artigianale_41.2752_16.4223.json,custom
+41.274690,16.421663,ov_bar_tavola_calda_destiny_41.2747_16.4217,Bar Tavola calda Destiny,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_tavola_calda_destiny_41.2747_16.4217.json,custom
+41.275221,16.422047,ov_lievito_72_41.2752_16.4220,Lievito 72,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lievito_72_41.2752_16.4220.json,custom
+41.273055,16.420760,ov_principe_41.2731_16.4208,Principe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/principe_41.2731_16.4208.json,custom
+41.272940,16.420775,ov_cristal_41.2729_16.4208,Cristal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/cristal_41.2729_16.4208.json,custom
+41.271983,16.421483,ov_bar_rosanna_41.2720_16.4215,Bar Rosanna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_rosanna_41.2720_16.4215.json,custom
+41.271770,16.421210,ov_coral_trani_41.2718_16.4212,CORAL Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/coral_trani_41.2718_16.4212.json,custom
+41.272132,16.423807,ov_bar_gambrinus_41.2721_16.4238,Bar Gambrinus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_gambrinus_41.2721_16.4238.json,custom
+41.272096,16.423964,ov_caffe_dante_41.2721_16.4240,Caffe Dante,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/caffe_dante_41.2721_16.4240.json,custom
+41.270970,16.422041,ov_fabrica_41.2710_16.4220,Fabrica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fabrica_41.2710_16.4220.json,custom
+41.270720,16.425291,ov_ottagono___caf____pizza_41.2707_16.4253,Ottagono - café & pizza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ottagono_-_caf_pizza_41.2707_16.4253.json,custom
+41.271275,16.426508,ov_bar_tazza_d_oro_41.2713_16.4265,Bar Tazza D'oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_tazza_doro_41.2713_16.4265.json,custom
+41.270945,16.426599,ov_bar_pasticceria_ancona_luigi_41.2709_16.4266,Bar Pasticceria Ancona Luigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_pasticceria_ancona_luigi_41.2709_16.4266.json,custom
+41.269046,16.428765,ov_bar_pantheon_41.2690_16.4288,Bar Pantheon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_pantheon_41.2690_16.4288.json,custom
+41.268631,16.429661,ov_king_s_bar_trani_41.2686_16.4297,King's Bar Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/kings_bar_trani_41.2686_16.4297.json,custom
+41.268730,16.429948,ov_fl__gastrobar_trani_41.2687_16.4299,Flò GastroBar Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fl_gastrobar_trani_41.2687_16.4299.json,custom
+41.267807,16.431609,ov_bar_mimosa_41.2678_16.4316,Bar Mimosa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_mimosa_41.2678_16.4316.json,custom
+41.268421,16.432104,ov_lungomare_colonna_41.2684_16.4321,Lungomare Colonna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lungomare_colonna_41.2684_16.4321.json,custom
+41.270202,16.431725,ov_roxy_bar_di_giovanni_muciaccia_41.2702_16.4317,Roxy Bar Di Giovanni Muciaccia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/roxy_bar_di_giovanni_muciaccia_41.2702_16.4317.json,custom
+41.269910,16.430730,ov_bimby_div__federiciana_41.2699_16.4307,Bimby Div. Federiciana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bimby_div_federiciana_41.2699_16.4307.json,custom
+41.272222,16.428841,ov_feelings_41.2722_16.4288,Feelings,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/feelings_41.2722_16.4288.json,custom
+41.270661,16.434132,ov_tamarindo_41.2707_16.4341,Tamarindo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tamarindo_41.2707_16.4341.json,custom
+41.270743,16.434084,ov_l_ottagono_bar_gelateria___trani_41.2707_16.4341,L'ottagono Bar Gelateria - Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lottagono_bar_gelateria_-_trani_41.2707_16.4341.json,custom
+41.269968,16.439073,ov_lido_anmi_trani_41.2700_16.4391,Lido Anmi Trani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lido_anmi_trani_41.2700_16.4391.json,custom
+41.268347,16.439933,ov_monkey_bar_41.2683_16.4399,monkey bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/monkey_bar_41.2683_16.4399.json,custom
+41.270338,16.442373,ov_versante_est_41.2703_16.4424,Versante Est,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/versante_est_41.2703_16.4424.json,custom
+41.270266,16.441844,ov_freasy_41.2703_16.4418,Freasy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/freasy_41.2703_16.4418.json,custom
+41.277378,16.420767,osm_los_cornetteros_41.2774_16.4208,Los Cornetteros,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/los_cornetteros_41.2774_16.4208.json,custom
+41.272906,16.417673,osm_bar_tabacchi_41.2729_16.4177,Bar Tabacchi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bar_tabacchi_41.2729_16.4177.json,custom
+41.273173,16.425813,osm_bistrot_malcangi_41.2732_16.4258,Bistrot Malcangi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bistrot_malcangi_41.2732_16.4258.json,custom
+41.276793,16.419791,osm_le_delizie_41.2768_16.4198,Le Delizie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/le_delizie_41.2768_16.4198.json,custom
+41.273097,16.420779,osm_pasticceria_bar_principe_41.2731_16.4208,Pasticceria Bar Principe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pasticceria_bar_principe_41.2731_16.4208.json,custom
+41.261029,16.441264,ov_palestra_verrigni_41.2610_16.4413,Palestra Verrigni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/palestra_verrigni_41.2610_16.4413.json,custom
+41.262606,16.438760,ov_trani_dance_41.2626_16.4388,Trani dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trani_dance_41.2626_16.4388.json,custom
+41.263395,16.440091,ov_balance_41.2634_16.4401,Balance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/balance_41.2634_16.4401.json,custom
+41.263554,16.438091,ov_trainingacademyacropoleflagman_41.2636_16.4381,TrainingAcademyacropoleflagman,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/trainingacademyacropoleflagman_41.2636_16.4381.json,custom
+41.264034,16.438703,ov_v_lab_fitness_center_41.2640_16.4387,V-Lab Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/v-lab_fitness_center_41.2640_16.4387.json,custom
+41.264795,16.433812,ov_fitness_gym_authority_trani_41.2648_16.4338,Fitness Gym Authority Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/fitness_gym_authority_trani_41.2648_16.4338.json,custom
+41.267125,16.419809,ov_tensostatico_ferrante_41.2671_16.4198,Tensostatico Ferrante,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tensostatico_ferrante_41.2671_16.4198.json,custom
+41.266640,16.436912,ov_in_corpore_sano_41.2666_16.4369,In corpore sano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/in_corpore_sano_41.2666_16.4369.json,custom
+41.266770,16.437600,ov_incorporesano_lab___marianna_germinario_41.2668_16.4376,Incorporesano Lab - Marianna Germinario,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/incorporesano_lab_-_marianna_germinario_41.2668_16.4376.json,custom
+41.266216,16.434301,ov_four_moving_trani_41.2662_16.4343,Four Moving Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/four_moving_trani_41.2662_16.4343.json,custom
+41.265497,16.431997,ov_savi_dance_studio___trani___41.2655_16.4320,Savi dance studio - Trani -,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/savi_dance_studio_-_trani_-_41.2655_16.4320.json,custom
+41.265400,16.434070,ov_a_s_d_w_il_biliardo_trani_41.2654_16.4341,A.S.D W il Biliardo Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/asd_w_il_biliardo_trani_41.2654_16.4341.json,custom
+41.252988,16.460305,ov_centro_sportivo_pontelama_1983_41.2530_16.4603,Centro Sportivo Pontelama 1983,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/centro_sportivo_pontelama_1983_41.2530_16.4603.json,custom
+41.271761,16.387390,ov_dorado_padel_center_41.2718_16.3874,Dorado Padel Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/dorado_padel_center_41.2718_16.3874.json,custom
+41.272053,16.388277,ov_crossfit_trani_41.2721_16.3883,CrossFit Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/crossfit_trani_41.2721_16.3883.json,custom
+41.287026,16.380305,ov_bowling_trani_41.2870_16.3803,Bowling TRANI,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/bowling_trani_41.2870_16.3803.json,custom
+41.285302,16.389274,ov_tirenum_strength_addiction_41.2853_16.3893,Tirenum Strength Addiction,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/tirenum_strength_addiction_41.2853_16.3893.json,custom
+41.281150,16.409780,ov_wodfactory_trani_41.2811_16.4098,WodFactory Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/wodfactory_trani_41.2811_16.4098.json,custom
+41.281682,16.407316,ov_lotus_zen_yoga_41.2817_16.4073,Lotus Zen Yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lotus_zen_yoga_41.2817_16.4073.json,custom
+41.271003,16.407790,ov_body_power_41.2710_16.4078,Body Power,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/body_power_41.2710_16.4078.json,custom
+41.273116,16.408422,ov_timeout_2_41.2731_16.4084,Timeout 2,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/timeout_2_41.2731_16.4084.json,custom
+41.268968,16.419916,ov_new_esedra_41.2690_16.4199,New Esedra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/new_esedra_41.2690_16.4199.json,custom
+41.269448,16.419933,ov_energym_studio_41.2694_16.4199,EnerGym Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/energym_studio_41.2694_16.4199.json,custom
+41.269685,16.419209,ov_uppercut_boxing_club_trani_41.2697_16.4192,Uppercut Boxing Club Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/uppercut_boxing_club_trani_41.2697_16.4192.json,custom
+41.271631,16.418259,ov_palestra_arte_sport_trani_41.2716_16.4183,Palestra Arte Sport Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/palestra_arte_sport_trani_41.2716_16.4183.json,custom
+41.275194,16.417020,ov_centro_diurno_cogestito_andria_trani_41.2752_16.4170,Centro Diurno Cogestito Andria-Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/centro_diurno_cogestito_andria-trani_41.2752_16.4170.json,custom
+41.276106,16.412991,ov_le_mille_e_una_passione_a_s_d__41.2761_16.4130,Le mille e una passione a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/le_mille_e_una_passione_asd_41.2761_16.4130.json,custom
+41.281103,16.414845,ov_laser_game_trani_41.2811_16.4148,Laser Game Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/laser_game_trani_41.2811_16.4148.json,custom
+41.280209,16.417034,ov_black_sheep___softair_team_trani_41.2802_16.4170,Black Sheep - Softair Team Trani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/black_sheep_-_softair_team_trani_41.2802_16.4170.json,custom
+41.280565,16.418578,ov_a_s_d_para_dos_tango_accademia_41.2806_16.4186,A.S.D Para Dos Tango Accademia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/asd_para_dos_tango_accademia_41.2806_16.4186.json,custom
+41.278969,16.416507,ov_asd_enjoy_dancing_41.2790_16.4165,Asd enjoy dancing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/asd_enjoy_dancing_41.2790_16.4165.json,custom
+41.277402,16.418136,ov_a_s_d__armonia_yoga_studio_41.2774_16.4181,A.s.d. Armonia Yoga Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/asd_armonia_yoga_studio_41.2774_16.4181.json,custom
+41.275544,16.417414,ov_palestra_mac1_41.2755_16.4174,Palestra MAC1,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/palestra_mac1_41.2755_16.4174.json,custom
+41.276412,16.424842,ov_gymnasium_athletic_club_41.2764_16.4248,Gymnasium Athletic Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/gymnasium_athletic_club_41.2764_16.4248.json,custom
+41.276172,16.425660,ov_workhour___our_training_time_41.2762_16.4257,WorkHour - Our Training Time,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/workhour_-_our_training_time_41.2762_16.4257.json,custom
+41.275988,16.425592,ov_mito_di_amoruso_carlo_41.2760_16.4256,Mito Di Amoruso Carlo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mito_di_amoruso_carlo_41.2760_16.4256.json,custom
+41.276272,16.425095,ov_studio_50___scuola_di_danza__pattinaggio_41.2763_16.4251,"Studio 50 - Scuola di Danza, Pattinaggio e Musica dal 1980 -",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/studio_50_-_scuola_di_danza_pattinaggio__41.2763_16.4251.json,custom
+41.273104,16.426980,ov_y_ness_trani___ems_training_e_vacugym_41.2731_16.4270,Yùness Trani - Ems Training e Vacugym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/yness_trani_-_ems_training_e_vacugym_41.2731_16.4270.json,custom
+41.273939,16.424572,ov_mgm_di_mariagrazia_miriello_41.2739_16.4246,Mgm di Mariagrazia Miriello,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mgm_di_mariagrazia_miriello_41.2739_16.4246.json,custom
+41.271823,16.420725,ov_elevation_gym_41.2718_16.4207,Elevation Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/elevation_gym_41.2718_16.4207.json,custom
+41.273195,16.422619,ov_abha_41.2732_16.4226,Abha,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/abha_41.2732_16.4226.json,custom
+41.269509,16.424911,ov_timeout_palestre_41.2695_16.4249,Timeout Palestre,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/timeout_palestre_41.2695_16.4249.json,custom
+41.270835,16.426672,ov_asd_well_being_41.2708_16.4267,ASD Well-Being,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/asd_well-being_41.2708_16.4267.json,custom
+41.268811,16.431619,ov_sport_center_41.2688_16.4316,Sport Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/sport_center_41.2688_16.4316.json,custom
+41.269600,16.433476,ov_latin_movement_41.2696_16.4335,LATIN Movement,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/latin_movement_41.2696_16.4335.json,custom
+41.269052,16.433446,ov_pattini_e_danza_41.2691_16.4334,Pattini e Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/pattini_e_danza_41.2691_16.4334.json,custom
+41.267240,16.363980,ov_ge_lo___lavorazione_pietra_di_trani_41.2672_16.3640,Ge Lo - Lavorazione pietra di Trani,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/ge_lo_-_lavorazione_pietra_di_trani_41.2672_16.3640.json,custom
+41.257550,16.434900,ov_mamamu___museo_dei_bambini_trani_41.2576_16.4349,MAMAMU - Museo dei Bambini TRANI,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/mamamu_-_museo_dei_bambini_trani_41.2576_16.4349.json,custom
+41.282056,16.415224,ov_castello_svevo_di_trani___organizzazione_41.2821_16.4152,Castello Svevo di Trani - Organizzazione Governativa,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/castello_svevo_di_trani_-_organizzazione_41.2821_16.4152.json,custom
+41.280089,16.416180,ov_palazzo_delle_arti_beltrani_41.2801_16.4162,Palazzo delle Arti Beltrani,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/palazzo_delle_arti_beltrani_41.2801_16.4162.json,custom
+41.279218,16.416879,ov_torre_dell_orologio_41.2792_16.4169,Torre dell'Orologio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/torre_dellorologio_41.2792_16.4169.json,custom
+41.280268,16.418095,ov_synagogue_museum_of_sant_anna_41.2803_16.4181,Synagogue Museum of Sant'Anna,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/synagogue_museum_of_santanna_41.2803_16.4181.json,custom
+41.281647,16.417755,ov_museo_diocesano_trani_41.2816_16.4178,Museo Diocesano Trani,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/museo_diocesano_trani_41.2816_16.4178.json,custom
+41.281820,16.417909,ov_polo_museale_trani_41.2818_16.4179,Polo Museale Trani,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/polo_museale_trani_41.2818_16.4179.json,custom
+41.270797,16.433369,ov_lungomare_di_trani_41.2708_16.4334,Lungomare di Trani,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trani/pages/lungomare_di_trani_41.2708_16.4334.json,custom

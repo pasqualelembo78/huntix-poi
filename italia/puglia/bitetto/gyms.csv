@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bitetto -- gyms
-41.042949,16.744158,ov_nuova_danza_s__41.0429_16.7442,Nuova Danza Sì,GYM,palestra
-41.043276,16.750623,ov_asd_full_time_wellness_41.0433_16.7506,ASD Full Time Wellness,GYM,palestra
-41.043357,16.750635,ov_apulia_sport_fitness_41.0434_16.7506,Apulia Sport&Fitness,GYM,palestra
-41.037666,16.753387,ov_antonello_rossano_pt_41.0377_16.7534,Antonello Rossano PT,GYM,palestra
+41.042949,16.744158,ov_nuova_danza_s__41.0429_16.7442,Nuova Danza Sì,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/nuova_danza_s_41.0429_16.7442.json,custom
+41.043276,16.750623,ov_asd_full_time_wellness_41.0433_16.7506,ASD Full Time Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/asd_full_time_wellness_41.0433_16.7506.json,custom
+41.043357,16.750635,ov_apulia_sport_fitness_41.0434_16.7506,Apulia Sport&Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/apulia_sportfitness_41.0434_16.7506.json,custom
+41.037666,16.753387,ov_antonello_rossano_pt_41.0377_16.7534,Antonello Rossano PT,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/antonello_rossano_pt_41.0377_16.7534.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # campi_salentina -- hospitals
-40.396852,18.024633,ov_r_s_a_san_raffaele_campi_salentina_40.3969_18.0246,R S A San Raffaele Campi Salentina,HOSPITAL,hospital
-40.403016,18.012810,ov_ospedale_40.4030_18.0128,Ospedale,HOSPITAL,hospital
+40.396852,18.024633,ov_r_s_a_san_raffaele_campi_salentina_40.3969_18.0246,R S A San Raffaele Campi Salentina,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/r_s_a_san_raffaele_campi_salentina_40.3969_18.0246.json,custom
+40.403016,18.012810,ov_ospedale_40.4030_18.0128,Ospedale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/ospedale_40.4030_18.0128.json,custom

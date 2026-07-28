@@ -1,20 +1,20 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_michele_salentino -- restaurants
-40.631971,17.632114,ov_pizzeria_da_rocco_40.6320_17.6321,Pizzeria da Rocco,RESTAURANT,ristorante
-40.631421,17.632259,ov_la_casina___salento_vacation_rental_40.6314_17.6323,La Casina - Salento Vacation Rental,RESTAURANT,ristorante
-40.630901,17.630840,ov_ristorante_mare_blu_40.6309_17.6308,Ristorante Mare Blu,RESTAURANT,ristorante
-40.630092,17.630785,ov_materia_prima___ristorante_40.6301_17.6308,Materia Prima - Ristorante,RESTAURANT,ristorante
-40.630018,17.631793,ov_essenza_ristorante_40.6300_17.6318,Essenza Ristorante,RESTAURANT,ristorante
-40.630161,17.631368,ov_trattoria_da_filly_40.6302_17.6314,Trattoria da Filly,RESTAURANT,ristorante
-40.628918,17.632689,ov_officina_del_gusto_40.6289_17.6327,Officina del Gusto,RESTAURANT,ristorante
-40.627230,17.632211,ov_pizzeria_bar_paninoteca_arcobaleno_40.6272_17.6322,Pizzeria Bar Paninoteca Arcobaleno,RESTAURANT,ristorante
-40.633300,17.616700,ov_note_di_brace_40.6333_17.6167,Note Di Brace,RESTAURANT,ristorante
-40.628648,17.636741,ov_ristodante_40.6286_17.6367,Ristodante,RESTAURANT,ristorante
-40.630256,17.638297,ov_kimama_bistrot_40.6303_17.6383,Kimama Bistrot,RESTAURANT,ristorante
-40.630941,17.635351,ov_ristorante_fucaliro_40.6309_17.6354,Ristorante Fucaliro,RESTAURANT,ristorante
-40.630983,17.635163,ov_pescheria_friggitoria_da_fortunato_40.6310_17.6352,Pescheria Friggitoria Da Fortunato,RESTAURANT,ristorante
-40.630359,17.634369,ov_al_vecchio_frantoio_40.6304_17.6344,Al Vecchio Frantoio,RESTAURANT,ristorante
-40.630352,17.633960,ov_trattoria_pizzeria_port_alba_40.6304_17.6340,Trattoria Pizzeria Port'Alba,RESTAURANT,ristorante
-40.630488,17.633069,ov_lievito_madre_40.6305_17.6331,Lievito Madre,RESTAURANT,ristorante
-40.630398,17.633798,ov_ristorante_pizzeria_granonero_40.6304_17.6338,Ristorante pizzeria Granonero,RESTAURANT,ristorante
-40.630421,17.633993,ov_osteria_tranquilla_40.6304_17.6340,Osteria Tranquilla,RESTAURANT,ristorante
+40.631971,17.632114,ov_pizzeria_da_rocco_40.6320_17.6321,Pizzeria da Rocco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/pizzeria_da_rocco_40.6320_17.6321.json,custom
+40.631421,17.632259,ov_la_casina___salento_vacation_rental_40.6314_17.6323,La Casina - Salento Vacation Rental,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/la_casina_-_salento_vacation_rental_40.6314_17.6323.json,custom
+40.630901,17.630840,ov_ristorante_mare_blu_40.6309_17.6308,Ristorante Mare Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/ristorante_mare_blu_40.6309_17.6308.json,custom
+40.630092,17.630785,ov_materia_prima___ristorante_40.6301_17.6308,Materia Prima - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/materia_prima_-_ristorante_40.6301_17.6308.json,custom
+40.630018,17.631793,ov_essenza_ristorante_40.6300_17.6318,Essenza Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/essenza_ristorante_40.6300_17.6318.json,custom
+40.630161,17.631368,ov_trattoria_da_filly_40.6302_17.6314,Trattoria da Filly,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/trattoria_da_filly_40.6302_17.6314.json,custom
+40.628918,17.632689,ov_officina_del_gusto_40.6289_17.6327,Officina del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/officina_del_gusto_40.6289_17.6327.json,custom
+40.627230,17.632211,ov_pizzeria_bar_paninoteca_arcobaleno_40.6272_17.6322,Pizzeria Bar Paninoteca Arcobaleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/pizzeria_bar_paninoteca_arcobaleno_40.6272_17.6322.json,custom
+40.633300,17.616700,ov_note_di_brace_40.6333_17.6167,Note Di Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/note_di_brace_40.6333_17.6167.json,custom
+40.628648,17.636741,ov_ristodante_40.6286_17.6367,Ristodante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/ristodante_40.6286_17.6367.json,custom
+40.630256,17.638297,ov_kimama_bistrot_40.6303_17.6383,Kimama Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/kimama_bistrot_40.6303_17.6383.json,custom
+40.630941,17.635351,ov_ristorante_fucaliro_40.6309_17.6354,Ristorante Fucaliro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/ristorante_fucaliro_40.6309_17.6354.json,custom
+40.630983,17.635163,ov_pescheria_friggitoria_da_fortunato_40.6310_17.6352,Pescheria Friggitoria Da Fortunato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/pescheria_friggitoria_da_fortunato_40.6310_17.6352.json,custom
+40.630359,17.634369,ov_al_vecchio_frantoio_40.6304_17.6344,Al Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/al_vecchio_frantoio_40.6304_17.6344.json,custom
+40.630352,17.633960,ov_trattoria_pizzeria_port_alba_40.6304_17.6340,Trattoria Pizzeria Port'Alba,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/trattoria_pizzeria_portalba_40.6304_17.6340.json,custom
+40.630488,17.633069,ov_lievito_madre_40.6305_17.6331,Lievito Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/lievito_madre_40.6305_17.6331.json,custom
+40.630398,17.633798,ov_ristorante_pizzeria_granonero_40.6304_17.6338,Ristorante pizzeria Granonero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/ristorante_pizzeria_granonero_40.6304_17.6338.json,custom
+40.630421,17.633993,ov_osteria_tranquilla_40.6304_17.6340,Osteria Tranquilla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/osteria_tranquilla_40.6304_17.6340.json,custom

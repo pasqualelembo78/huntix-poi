@@ -1,0 +1,13 @@
+{
+  "banner": { "icon": "\uD83D\uDCAA", "title": "{name}", "subtitle": "Palestra & Fitness", "color": "#FF6F00" },
+  "sections": [
+    {"type":"text","title":"Benvenuto","content":"Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."},
+    {"type":"menu","title":"Attrezzatura","items":[
+      {"name":"Pesi Liberi","price":"\u20ac0","emoji":"\uD83C\uDFCB\uFE0F","action":{"type":"consume","need":"fun","gain":25}},
+      {"name":"Cardio","price":"\u20ac0","emoji":"\uD83C\uDFC3","action":{"type":"consume","need":"fun","gain":20}},
+      {"name":"Yoga","price":"\u20ac0","emoji":"\uD83E\uDDD8","action":{"type":"consume","need":"sleep","gain":15}}
+    ]},
+    {"type":"action","title":"Allenati","emoji":"\uD83C\uDFCB\uFE0F","action":{"type":"consume","need":"fun","gain":30}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

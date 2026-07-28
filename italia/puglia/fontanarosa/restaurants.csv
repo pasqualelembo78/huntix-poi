@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fontanarosa -- restaurants
-41.004842,15.014360,ov_la_morosa_agriturismo_41.0048_15.0144,La Morosa Agriturismo,RESTAURANT,ristorante
-41.017531,15.018066,ov_l_arco_da_nicola_41.0175_15.0181,L'arco da Nicola,RESTAURANT,ristorante
-41.017630,15.018003,ov_coc__ristorante_41.0176_15.0180,Cocò Ristorante,RESTAURANT,ristorante
-41.014182,15.014003,ov_gioli_restaurant_41.0142_15.0140,Gioli Restaurant,RESTAURANT,ristorante
-41.014877,15.022622,ov_cacio_e_pepe_home_restaurant_41.0149_15.0226,Cacio e Pepe Home Restaurant,RESTAURANT,ristorante
-41.023092,15.024070,ov_ristorante_villa_la_quercia_41.0231_15.0241,Ristorante Villa La Quercia,RESTAURANT,ristorante
-41.024780,15.022870,ov_ristorante__pub__pizzeria_41.0248_15.0229,Ristorante  Pub  Pizzeria,RESTAURANT,ristorante
-41.029571,15.026421,ov_la_perla_blu_41.0296_15.0264,La Perla Blu,RESTAURANT,ristorante
+41.004842,15.014360,ov_la_morosa_agriturismo_41.0048_15.0144,La Morosa Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/la_morosa_agriturismo_41.0048_15.0144.json,custom
+41.017531,15.018066,ov_l_arco_da_nicola_41.0175_15.0181,L'arco da Nicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/larco_da_nicola_41.0175_15.0181.json,custom
+41.017630,15.018003,ov_coc__ristorante_41.0176_15.0180,Cocò Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/coc_ristorante_41.0176_15.0180.json,custom
+41.014182,15.014003,ov_gioli_restaurant_41.0142_15.0140,Gioli Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/gioli_restaurant_41.0142_15.0140.json,custom
+41.014877,15.022622,ov_cacio_e_pepe_home_restaurant_41.0149_15.0226,Cacio e Pepe Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/cacio_e_pepe_home_restaurant_41.0149_15.0226.json,custom
+41.023092,15.024070,ov_ristorante_villa_la_quercia_41.0231_15.0241,Ristorante Villa La Quercia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/ristorante_villa_la_quercia_41.0231_15.0241.json,custom
+41.024780,15.022870,ov_ristorante__pub__pizzeria_41.0248_15.0229,Ristorante  Pub  Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/ristorante_pub_pizzeria_41.0248_15.0229.json,custom
+41.029571,15.026421,ov_la_perla_blu_41.0296_15.0264,La Perla Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/la_perla_blu_41.0296_15.0264.json,custom

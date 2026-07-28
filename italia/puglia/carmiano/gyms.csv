@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carmiano -- gyms
-40.568000,15.495590,ov_a_s_d_latin_art_academy_caggiano_40.5680_15.4956,A.S.D Latin Art Academy Caggiano,GYM,palestra
-40.321922,18.041544,ov_paradise_sports_center_40.3219_18.0415,Paradise Sports Center,GYM,palestra
-40.331807,18.048294,ov_palazzetto_dello_sport_40.3318_18.0483,Palazzetto dello Sport,GYM,palestra
-40.333023,18.047711,ov_ecole_de_danse_kledi_dance_40.3330_18.0477,Ecole De Danse Kledi Dance,GYM,palestra
-40.337043,18.042869,ov_asd_il_panno_verde_40.3370_18.0429,Asd Il Panno Verde,GYM,palestra
-40.338099,18.033214,ov_centro_ippico_le_cheval_40.3381_18.0332,Centro Ippico Le Cheval,GYM,palestra
-40.341359,18.057241,ov_oltre_danza_40.3414_18.0572,Oltre Danza,GYM,palestra
-40.344906,18.045638,ov_le_kicche_di_lorena_40.3449_18.0456,Le kicche di Lorena,GYM,palestra
-40.345284,18.038411,ov_danza_e_passione_40.3453_18.0384,Danza e Passione,GYM,palestra
-40.349953,18.045813,ov_centro_fitness_s_s_d__40.3500_18.0458,Centro Fitness S.S.D.,GYM,palestra
-40.359233,18.036374,ov_scuderia_crazy_horse_40.3592_18.0364,Scuderia Crazy Horse,GYM,palestra
+40.568000,15.495590,ov_a_s_d_latin_art_academy_caggiano_40.5680_15.4956,A.S.D Latin Art Academy Caggiano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/asd_latin_art_academy_caggiano_40.5680_15.4956.json,custom
+40.321922,18.041544,ov_paradise_sports_center_40.3219_18.0415,Paradise Sports Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/paradise_sports_center_40.3219_18.0415.json,custom
+40.331807,18.048294,ov_palazzetto_dello_sport_40.3318_18.0483,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/palazzetto_dello_sport_40.3318_18.0483.json,custom
+40.333023,18.047711,ov_ecole_de_danse_kledi_dance_40.3330_18.0477,Ecole De Danse Kledi Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ecole_de_danse_kledi_dance_40.3330_18.0477.json,custom
+40.337043,18.042869,ov_asd_il_panno_verde_40.3370_18.0429,Asd Il Panno Verde,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/asd_il_panno_verde_40.3370_18.0429.json,custom
+40.338099,18.033214,ov_centro_ippico_le_cheval_40.3381_18.0332,Centro Ippico Le Cheval,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/centro_ippico_le_cheval_40.3381_18.0332.json,custom
+40.341359,18.057241,ov_oltre_danza_40.3414_18.0572,Oltre Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/oltre_danza_40.3414_18.0572.json,custom
+40.344906,18.045638,ov_le_kicche_di_lorena_40.3449_18.0456,Le kicche di Lorena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/le_kicche_di_lorena_40.3449_18.0456.json,custom
+40.345284,18.038411,ov_danza_e_passione_40.3453_18.0384,Danza e Passione,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/danza_e_passione_40.3453_18.0384.json,custom
+40.349953,18.045813,ov_centro_fitness_s_s_d__40.3500_18.0458,Centro Fitness S.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/centro_fitness_ssd_40.3500_18.0458.json,custom
+40.359233,18.036374,ov_scuderia_crazy_horse_40.3592_18.0364,Scuderia Crazy Horse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/scuderia_crazy_horse_40.3592_18.0364.json,custom

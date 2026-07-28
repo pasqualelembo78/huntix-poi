@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # metaponto_lido -- restaurants
-40.358711,16.834671,osm_ristorante_pizzeria_internazionale_40.3587_16.8347,Ristorante Pizzeria Internazionale,ristorante,ristorante
-40.362182,16.834756,osm_la_barchetta_40.3622_16.8348,La Barchetta,ristorante,ristorante
-40.360738,16.832874,ov_blue_iris_louge_bar_ristorante_pizzeria_40.3607_16.8329,Blue Iris Louge Bar-Ristorante-Pizzeria,RESTAURANT,ristorante
+40.360738,16.832874,ov_blue_iris_louge_bar_ristorante_pizzeria_40.3607_16.8329,Blue Iris Louge Bar-Ristorante-Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/metaponto_lido/pages/blue_iris_louge_bar-ristorante-pizzeria_40.3607_16.8329.json,custom
+40.358711,16.834671,osm_ristorante_pizzeria_internazionale_40.3587_16.8347,Ristorante Pizzeria Internazionale,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/metaponto_lido/pages/ristorante_pizzeria_internazionale_40.3587_16.8347.json,custom
+40.362182,16.834756,osm_la_barchetta_40.3622_16.8348,La Barchetta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/metaponto_lido/pages/la_barchetta_40.3622_16.8348.json,custom

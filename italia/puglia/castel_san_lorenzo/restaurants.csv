@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castel_san_lorenzo -- restaurants
-40.418784,15.226836,ov_mucciolone_40.4188_15.2268,Mucciolone,RESTAURANT,ristorante
-40.423320,15.239176,ov_ristorante_la_taverna_40.4233_15.2392,Ristorante la Taverna,RESTAURANT,ristorante
-40.422751,15.237965,ov_la_stella_del_calore_40.4228_15.2380,La Stella Del Calore,RESTAURANT,ristorante
-40.425473,15.230792,ov_la_vecchia_cantina_40.4255_15.2308,La vecchia cantina,RESTAURANT,ristorante
+40.418784,15.226836,ov_mucciolone_40.4188_15.2268,Mucciolone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/mucciolone_40.4188_15.2268.json,custom
+40.423320,15.239176,ov_ristorante_la_taverna_40.4233_15.2392,Ristorante la Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/ristorante_la_taverna_40.4233_15.2392.json,custom
+40.422751,15.237965,ov_la_stella_del_calore_40.4228_15.2380,La Stella Del Calore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/la_stella_del_calore_40.4228_15.2380.json,custom
+40.425473,15.230792,ov_la_vecchia_cantina_40.4255_15.2308,La vecchia cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castel_san_lorenzo/pages/la_vecchia_cantina_40.4255_15.2308.json,custom

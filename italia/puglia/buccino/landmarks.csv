@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # buccino -- landmarks
-40.632425,15.370236,ov_museo_archeologico_nazionale_volcei_40.6324_15.3702,Museo Archeologico Nazionale Volcei,MUSEUM,monumento
-40.633242,15.375463,ov_castello_normanno_angioino_40.6332_15.3755,Castello Normanno Angioino,MONUMENT,monumento
-40.634799,15.379800,ov_museo_archeologico_nazionale_marcello_gi_40.6348_15.3798,Museo Archeologico Nazionale Marcello Gigante di Volcei - Bu,MUSEUM,monumento
-40.633710,15.375553,ov_castello_volcei_40.6337_15.3756,Castello Volcei,MUSEUM,monumento
-40.634883,15.379959,ov_museo_carlo_levi_e_della_questione_merid_40.6349_15.3800,Museo Carlo Levi e della Questione Meridionale,MUSEUM,monumento
+40.632425,15.370236,ov_museo_archeologico_nazionale_volcei_40.6324_15.3702,Museo Archeologico Nazionale Volcei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buccino/pages/museo_archeologico_nazionale_volcei_40.6324_15.3702.json,custom
+40.633242,15.375463,ov_castello_normanno_angioino_40.6332_15.3755,Castello Normanno Angioino,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buccino/pages/castello_normanno_angioino_40.6332_15.3755.json,custom
+40.634799,15.379800,ov_museo_archeologico_nazionale_marcello_gi_40.6348_15.3798,Museo Archeologico Nazionale Marcello Gigante di Volcei - Bu,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buccino/pages/museo_archeologico_nazionale_marcello_gi_40.6348_15.3798.json,custom
+40.633710,15.375553,ov_castello_volcei_40.6337_15.3756,Castello Volcei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buccino/pages/castello_volcei_40.6337_15.3756.json,custom
+40.634883,15.379959,ov_museo_carlo_levi_e_della_questione_merid_40.6349_15.3800,Museo Carlo Levi e della Questione Meridionale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buccino/pages/museo_carlo_levi_e_della_questione_merid_40.6349_15.3800.json,custom

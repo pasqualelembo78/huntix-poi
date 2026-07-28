@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Vaglio Basilicata -- Tutti
-40.657880,15.885040,ov_the_flying_ship_pub_40.6579_15.8850,The Flying Ship Pub,RESTAURANT,ristorante
-40.668043,15.918929,ov_antica_taverna_40.6680_15.9189,Antica Taverna,RESTAURANT,ristorante
-40.684755,15.886721,ov_agriturismo_la_dimora_dei_cavalieri_40.6848_15.8867,Agriturismo La Dimora Dei Cavalieri,RESTAURANT,ristorante
-40.666923,15.919916,ov_bar_biscione_40.6669_15.9199,Bar Biscione,RESTAURANT,bar_cafe
-40.667651,15.918537,ov_utilia_bar_40.6677_15.9185,Utilia Bar,RESTAURANT,bar_cafe
-40.665709,15.922120,ov_porta_vecchia_40.6657_15.9221,Porta Vecchia,MUSEUM,monumento
-40.667582,15.916603,ov_museo_delle_antiche_genti_di_lucania_40.6676_15.9166,Museo delle Antiche Genti di Lucania,MUSEUM,monumento
+40.657880,15.885040,ov_the_flying_ship_pub_40.6579_15.8850,The Flying Ship Pub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/the_flying_ship_pub_40.6579_15.8850.json,custom
+40.668043,15.918929,ov_antica_taverna_40.6680_15.9189,Antica Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/antica_taverna_40.6680_15.9189.json,custom
+40.684755,15.886721,ov_agriturismo_la_dimora_dei_cavalieri_40.6848_15.8867,Agriturismo La Dimora Dei Cavalieri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/agriturismo_la_dimora_dei_cavalieri_40.6848_15.8867.json,custom
+40.666923,15.919916,ov_bar_biscione_40.6669_15.9199,Bar Biscione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/bar_biscione_40.6669_15.9199.json,custom
+40.667651,15.918537,ov_utilia_bar_40.6677_15.9185,Utilia Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/utilia_bar_40.6677_15.9185.json,custom
+40.665709,15.922120,ov_porta_vecchia_40.6657_15.9221,Porta Vecchia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/porta_vecchia_40.6657_15.9221.json,custom
+40.667582,15.916603,ov_museo_delle_antiche_genti_di_lucania_40.6676_15.9166,Museo delle Antiche Genti di Lucania,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vaglio_basilicata/pages/museo_delle_antiche_genti_di_lucania_40.6676_15.9166.json,custom

@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_paolo_di_civitate -- bars_cafes
-41.739170,15.261236,ov_ludwig_pub_da_antonella_41.7392_15.2612,LUDWIG PUB da Antonella,RESTAURANT,bar_cafe
-41.738666,15.261698,ov_onil_41.7387_15.2617,Onil,RESTAURANT,bar_cafe
-41.738784,15.261467,ov_bar_delle_vergini_41.7388_15.2615,Bar delle Vergini,RESTAURANT,bar_cafe
-41.740063,15.260565,ov_bar_bernardo_41.7401_15.2606,Bar Bernardo,RESTAURANT,bar_cafe
-41.742973,15.263121,ov_drink_house_f_lli_corrado_srl_41.7430_15.2631,Drink House F.lli Corrado SRL,RESTAURANT,bar_cafe
-41.740107,15.259337,ov_fragema_41.7401_15.2593,Fragema,RESTAURANT,bar_cafe
-41.741294,15.259425,ov_bar_della_villa_41.7413_15.2594,Bar della Villa,RESTAURANT,bar_cafe
-41.734437,15.261363,osm_bar_ll_chioschetto_41.7344_15.2614,Bar Ll Chioschetto,bar_cafe,bar_cafe
+41.739170,15.261236,ov_ludwig_pub_da_antonella_41.7392_15.2612,LUDWIG PUB da Antonella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/ludwig_pub_da_antonella_41.7392_15.2612.json,custom
+41.738666,15.261698,ov_onil_41.7387_15.2617,Onil,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/onil_41.7387_15.2617.json,custom
+41.738784,15.261467,ov_bar_delle_vergini_41.7388_15.2615,Bar delle Vergini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_delle_vergini_41.7388_15.2615.json,custom
+41.740063,15.260565,ov_bar_bernardo_41.7401_15.2606,Bar Bernardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_bernardo_41.7401_15.2606.json,custom
+41.742973,15.263121,ov_drink_house_f_lli_corrado_srl_41.7430_15.2631,Drink House F.lli Corrado SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/drink_house_flli_corrado_srl_41.7430_15.2631.json,custom
+41.740107,15.259337,ov_fragema_41.7401_15.2593,Fragema,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/fragema_41.7401_15.2593.json,custom
+41.741294,15.259425,ov_bar_della_villa_41.7413_15.2594,Bar della Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_della_villa_41.7413_15.2594.json,custom
+41.734437,15.261363,osm_bar_ll_chioschetto_41.7344_15.2614,Bar Ll Chioschetto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_paolo_di_civitate/pages/bar_ll_chioschetto_41.7344_15.2614.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # garaguso -- bars_cafes
-40.548527,16.227625,ov_bar_conca_d_oro_40.5485_16.2276,Bar Conca d'Oro,RESTAURANT,bar_cafe
-40.549354,16.229441,ov_bar_pasticceria_del_corso_40.5494_16.2294,bar pasticceria del corso,RESTAURANT,bar_cafe
+40.548527,16.227625,ov_bar_conca_d_oro_40.5485_16.2276,Bar Conca d'Oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/garaguso/pages/bar_conca_doro_40.5485_16.2276.json,custom
+40.549354,16.229441,ov_bar_pasticceria_del_corso_40.5494_16.2294,bar pasticceria del corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/garaguso/pages/bar_pasticceria_del_corso_40.5494_16.2294.json,custom

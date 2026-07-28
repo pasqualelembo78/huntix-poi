@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santa_cesarea_terme -- bars_cafes
-40.037416,18.461571,ov_bar_la_vista_santa_cesarea_terme_40.0374_18.4616,Bar la Vista Santa Cesarea Terme,RESTAURANT,bar_cafe
-40.036551,18.461834,ov_caff__delle_terme_40.0366_18.4618,Caffè delle Terme,RESTAURANT,bar_cafe
-40.037732,18.462741,ov_bar_elisir_40.0377_18.4627,Bar elisir,RESTAURANT,bar_cafe
-40.037932,18.464066,ov_moresco_caffe_40.0379_18.4641,Moresco Caffe,RESTAURANT,bar_cafe
-40.063650,18.442944,ov_garden_40.0637_18.4429,Garden,RESTAURANT,bar_cafe
-40.191815,18.335049,ov_il_baretto_di_porto_miggiano__l_avampost_40.1918_18.3350,Il Baretto di Porto Miggiano: L'avamposto !,RESTAURANT,bar_cafe
-40.030070,18.449541,osm_la_baia_dei_venti_40.0301_18.4495,La Baia Dei Venti,bar_cafe,bar_cafe
+40.037416,18.461571,ov_bar_la_vista_santa_cesarea_terme_40.0374_18.4616,Bar la Vista Santa Cesarea Terme,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/bar_la_vista_santa_cesarea_terme_40.0374_18.4616.json,custom
+40.036551,18.461834,ov_caff__delle_terme_40.0366_18.4618,Caffè delle Terme,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/caff_delle_terme_40.0366_18.4618.json,custom
+40.037732,18.462741,ov_bar_elisir_40.0377_18.4627,Bar elisir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/bar_elisir_40.0377_18.4627.json,custom
+40.037932,18.464066,ov_moresco_caffe_40.0379_18.4641,Moresco Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/moresco_caffe_40.0379_18.4641.json,custom
+40.063650,18.442944,ov_garden_40.0637_18.4429,Garden,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/garden_40.0637_18.4429.json,custom
+40.191815,18.335049,ov_il_baretto_di_porto_miggiano__l_avampost_40.1918_18.3350,Il Baretto di Porto Miggiano: L'avamposto !,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/il_baretto_di_porto_miggiano_lavamposto__40.1918_18.3350.json,custom
+40.030070,18.449541,osm_la_baia_dei_venti_40.0301_18.4495,La Baia Dei Venti,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_cesarea_terme/pages/la_baia_dei_venti_40.0301_18.4495.json,custom

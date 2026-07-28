@@ -1,23 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Calitri -- Tutti
-40.905054,15.428561,ov_osteria_tre_rose_40.9051_15.4286,Osteria Tre Rose,RESTAURANT,ristorante
-40.904388,15.422442,ov_peccati_di_cola_40.9044_15.4224,Peccati di Cola,RESTAURANT,ristorante
-40.905828,15.426276,ov_rendez_vous_40.9058_15.4263,Rendez-vous,RESTAURANT,ristorante
-40.904155,15.427552,ov_neviera_gagliano_40.9042_15.4276,Neviera Gagliano,RESTAURANT,ristorante
-40.903568,15.428097,ov_manhattan_40.9036_15.4281,Manhattan,RESTAURANT,ristorante
-40.899485,15.439262,ov_la_locanda_dell_arco_40.8995_15.4393,La Locanda dell'Arco,RESTAURANT,ristorante
-40.899849,15.442041,ov_ristorante_golden_mill_40.8998_15.4420,Ristorante Golden Mill,RESTAURANT,ristorante
-40.900143,15.439990,ov_la_gatta_cenerentola_40.9001_15.4400,La Gatta Cenerentola,RESTAURANT,ristorante
-40.900809,15.433524,ov_l_angolo_del_gusto_40.9008_15.4335,L'Angolo del Gusto,RESTAURANT,ristorante
-40.910682,15.415603,ov_double_jack_gasthaus_40.9107_15.4156,Double Jack Gasthaus,RESTAURANT,bar_cafe
-40.904430,15.425960,ov_vizi_e_sfizi_calitri_40.9044_15.4260,Vizi e sfizi Calitri,RESTAURANT,bar_cafe
-40.903440,15.424540,ov_caf__silos_presso_galleria_silos_calitri_40.9034_15.4245,Cafè/silos presso Galleria SILOS Calitri,RESTAURANT,bar_cafe
-40.901430,15.436539,ov_ciak_si_gira_40.9014_15.4365,Ciak si Gira,RESTAURANT,bar_cafe
-40.901209,15.433417,ov_roxy_bar___calitri_40.9012_15.4334,Roxy Bar - Calitri,RESTAURANT,bar_cafe
-40.901287,15.432829,ov_bar_gelateria_jolly_40.9013_15.4328,Bar Gelateria JOLLY,RESTAURANT,bar_cafe
-40.902082,15.430085,ov_cafe_silos_40.9021_15.4301,Cafe Silos,RESTAURANT,bar_cafe
-40.900657,15.432687,ov_le_dolcezze_di_emilia_maffucci___calitri_40.9007_15.4327,Le Dolcezze di Emilia Maffucci - Calitri,RESTAURANT,bar_cafe
-40.900903,15.436090,ov_gulliver_40.9009_15.4361,Gulliver,RESTAURANT,bar_cafe
-40.899820,15.433270,ov_bar_pinto_40.8998_15.4333,Bar Pinto,RESTAURANT,bar_cafe
-40.916370,15.411120,ov_oasi_del_benessere_40.9164_15.4111,Oasi del benessere,GYM,palestra
-40.899772,15.438440,ov_borgo_castello_di_calitri_40.8998_15.4384,Borgo Castello di Calitri,MUSEUM,monumento
+40.905054,15.428561,ov_osteria_tre_rose_40.9051_15.4286,Osteria Tre Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/osteria_tre_rose_40.9051_15.4286.json,custom
+40.904388,15.422442,ov_peccati_di_cola_40.9044_15.4224,Peccati di Cola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/peccati_di_cola_40.9044_15.4224.json,custom
+40.905828,15.426276,ov_rendez_vous_40.9058_15.4263,Rendez-vous,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/rendez-vous_40.9058_15.4263.json,custom
+40.904155,15.427552,ov_neviera_gagliano_40.9042_15.4276,Neviera Gagliano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/neviera_gagliano_40.9042_15.4276.json,custom
+40.903568,15.428097,ov_manhattan_40.9036_15.4281,Manhattan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/manhattan_40.9036_15.4281.json,custom
+40.899485,15.439262,ov_la_locanda_dell_arco_40.8995_15.4393,La Locanda dell'Arco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/la_locanda_dellarco_40.8995_15.4393.json,custom
+40.899849,15.442041,ov_ristorante_golden_mill_40.8998_15.4420,Ristorante Golden Mill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/ristorante_golden_mill_40.8998_15.4420.json,custom
+40.900143,15.439990,ov_la_gatta_cenerentola_40.9001_15.4400,La Gatta Cenerentola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/la_gatta_cenerentola_40.9001_15.4400.json,custom
+40.900809,15.433524,ov_l_angolo_del_gusto_40.9008_15.4335,L'Angolo del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/langolo_del_gusto_40.9008_15.4335.json,custom
+40.910682,15.415603,ov_double_jack_gasthaus_40.9107_15.4156,Double Jack Gasthaus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/double_jack_gasthaus_40.9107_15.4156.json,custom
+40.904430,15.425960,ov_vizi_e_sfizi_calitri_40.9044_15.4260,Vizi e sfizi Calitri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/vizi_e_sfizi_calitri_40.9044_15.4260.json,custom
+40.903440,15.424540,ov_caf__silos_presso_galleria_silos_calitri_40.9034_15.4245,Cafè/silos presso Galleria SILOS Calitri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/cafsilos_presso_galleria_silos_calitri_40.9034_15.4245.json,custom
+40.901430,15.436539,ov_ciak_si_gira_40.9014_15.4365,Ciak si Gira,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/ciak_si_gira_40.9014_15.4365.json,custom
+40.901209,15.433417,ov_roxy_bar___calitri_40.9012_15.4334,Roxy Bar - Calitri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/roxy_bar_-_calitri_40.9012_15.4334.json,custom
+40.901287,15.432829,ov_bar_gelateria_jolly_40.9013_15.4328,Bar Gelateria JOLLY,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/bar_gelateria_jolly_40.9013_15.4328.json,custom
+40.902082,15.430085,ov_cafe_silos_40.9021_15.4301,Cafe Silos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/cafe_silos_40.9021_15.4301.json,custom
+40.900657,15.432687,ov_le_dolcezze_di_emilia_maffucci___calitri_40.9007_15.4327,Le Dolcezze di Emilia Maffucci - Calitri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/le_dolcezze_di_emilia_maffucci_-_calitri_40.9007_15.4327.json,custom
+40.900903,15.436090,ov_gulliver_40.9009_15.4361,Gulliver,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/gulliver_40.9009_15.4361.json,custom
+40.899820,15.433270,ov_bar_pinto_40.8998_15.4333,Bar Pinto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/bar_pinto_40.8998_15.4333.json,custom
+40.916370,15.411120,ov_oasi_del_benessere_40.9164_15.4111,Oasi del benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/oasi_del_benessere_40.9164_15.4111.json,custom
+40.899772,15.438440,ov_borgo_castello_di_calitri_40.8998_15.4384,Borgo Castello di Calitri,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calitri/pages/borgo_castello_di_calitri_40.8998_15.4384.json,custom

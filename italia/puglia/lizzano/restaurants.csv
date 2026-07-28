@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lizzano -- restaurants
-40.379340,17.452530,ov_masseria_belvedere_40.3793_17.4525,Masseria Belvedere,RESTAURANT,ristorante
-40.395199,17.447790,ov_lu_cori_mia_40.3952_17.4478,Lu Cori Mia,RESTAURANT,ristorante
-40.393686,17.445427,ov_vasiricoi_40.3937_17.4454,Vasiricoi,RESTAURANT,ristorante
-40.392997,17.447142,ov_la_pignata_40.3930_17.4471,La Pignata,RESTAURANT,ristorante
-40.392990,17.448316,ov_taberna_messicana_40.3930_17.4483,Taberna Messicana,RESTAURANT,ristorante
-40.391390,17.446300,ov_la_frutteria_di_re_art__cooperativa_ragg_40.3914_17.4463,La Frutteria di Re Artù Cooperativa Raggio di Sole del Sud E,RESTAURANT,ristorante
-40.391285,17.445951,ov_pizzeria_la_ruota_40.3913_17.4460,Pizzeria La Ruota,RESTAURANT,ristorante
-40.389381,17.448752,ov_pizzeria_borgo_antico_40.3894_17.4488,Pizzeria borgo antico,RESTAURANT,ristorante
-40.388947,17.448403,ov_al_palazzo___ristorante_40.3889_17.4484,Al Palazzo - Ristorante,RESTAURANT,ristorante
-40.389839,17.444740,ov_snout_music_pub_40.3898_17.4447,Snout Music Pub,RESTAURANT,ristorante
-40.391324,17.444817,ov_gold_ray_40.3913_17.4448,Gold Ray,RESTAURANT,ristorante
-40.388612,17.438409,ov_tre_stelle_40.3886_17.4384,Tre Stelle,RESTAURANT,ristorante
-40.388604,17.438511,ov_bella_napoli___lorenzo_de_roma_40.3886_17.4385,Bella Napoli - Lorenzo De Roma,RESTAURANT,ristorante
-40.387597,17.445863,ov_mam__spritzeria_40.3876_17.4459,Mamì Spritzeria,RESTAURANT,ristorante
-40.388476,17.447959,ov_chateau_bistrot_40.3885_17.4480,Chateau Bistrot,RESTAURANT,ristorante
-40.392733,17.452032,ov_pizzeria_bella_napoli_40.3927_17.4520,Pizzeria Bella Napoli,RESTAURANT,ristorante
+40.379340,17.452530,ov_masseria_belvedere_40.3793_17.4525,Masseria Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/masseria_belvedere_40.3793_17.4525.json,custom
+40.395199,17.447790,ov_lu_cori_mia_40.3952_17.4478,Lu Cori Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/lu_cori_mia_40.3952_17.4478.json,custom
+40.393686,17.445427,ov_vasiricoi_40.3937_17.4454,Vasiricoi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/vasiricoi_40.3937_17.4454.json,custom
+40.392997,17.447142,ov_la_pignata_40.3930_17.4471,La Pignata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/la_pignata_40.3930_17.4471.json,custom
+40.392990,17.448316,ov_taberna_messicana_40.3930_17.4483,Taberna Messicana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/taberna_messicana_40.3930_17.4483.json,custom
+40.391390,17.446300,ov_la_frutteria_di_re_art__cooperativa_ragg_40.3914_17.4463,La Frutteria di Re Artù Cooperativa Raggio di Sole del Sud E,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/la_frutteria_di_re_art_cooperativa_raggi_40.3914_17.4463.json,custom
+40.391285,17.445951,ov_pizzeria_la_ruota_40.3913_17.4460,Pizzeria La Ruota,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/pizzeria_la_ruota_40.3913_17.4460.json,custom
+40.389381,17.448752,ov_pizzeria_borgo_antico_40.3894_17.4488,Pizzeria borgo antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/pizzeria_borgo_antico_40.3894_17.4488.json,custom
+40.388947,17.448403,ov_al_palazzo___ristorante_40.3889_17.4484,Al Palazzo - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/al_palazzo_-_ristorante_40.3889_17.4484.json,custom
+40.389839,17.444740,ov_snout_music_pub_40.3898_17.4447,Snout Music Pub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/snout_music_pub_40.3898_17.4447.json,custom
+40.391324,17.444817,ov_gold_ray_40.3913_17.4448,Gold Ray,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/gold_ray_40.3913_17.4448.json,custom
+40.388612,17.438409,ov_tre_stelle_40.3886_17.4384,Tre Stelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/tre_stelle_40.3886_17.4384.json,custom
+40.388604,17.438511,ov_bella_napoli___lorenzo_de_roma_40.3886_17.4385,Bella Napoli - Lorenzo De Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/bella_napoli_-_lorenzo_de_roma_40.3886_17.4385.json,custom
+40.387597,17.445863,ov_mam__spritzeria_40.3876_17.4459,Mamì Spritzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/mam_spritzeria_40.3876_17.4459.json,custom
+40.388476,17.447959,ov_chateau_bistrot_40.3885_17.4480,Chateau Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/chateau_bistrot_40.3885_17.4480.json,custom
+40.392733,17.452032,ov_pizzeria_bella_napoli_40.3927_17.4520,Pizzeria Bella Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/pizzeria_bella_napoli_40.3927_17.4520.json,custom

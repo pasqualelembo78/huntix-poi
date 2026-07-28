@@ -1,44 +1,44 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ceglie_messapica -- bars_cafes
-40.643270,17.510198,ov_orange_road_cafe_40.6433_17.5102,Orange road cafe,RESTAURANT,bar_cafe
-40.644948,17.509460,ov_vertigo_cafe_40.6449_17.5095,Vertigo Cafe,RESTAURANT,bar_cafe
-40.652237,17.509458,ov_terzo_millennio_40.6522_17.5095,Terzo millennio,RESTAURANT,bar_cafe
-40.647566,17.517585,ov_aqua_40.6476_17.5176,Aqua,RESTAURANT,bar_cafe
-40.646795,17.516587,ov_corso_50_40.6468_17.5166,Corso 50,RESTAURANT,bar_cafe
-40.647070,17.515008,ov_messapico_40.6471_17.5150,Messapico,RESTAURANT,bar_cafe
-40.647405,17.515497,ov_montpellier_cafe_40.6474_17.5155,Montpellier Cafe,RESTAURANT,bar_cafe
-40.647397,17.513908,ov_caff__del_monumento_40.6474_17.5139,Caffè del Monumento,RESTAURANT,bar_cafe
-40.646165,17.510832,ov_bar_hemingway_40.6462_17.5108,Bar Hemingway,RESTAURANT,bar_cafe
-40.646332,17.517285,ov_caffe__70_40.6463_17.5173,Caffe' 70,RESTAURANT,bar_cafe
-40.646184,17.517333,ov_innamorato_40.6462_17.5173,Innamorato,RESTAURANT,bar_cafe
-40.645377,17.518316,ov_coffee_time_40.6454_17.5183,Coffee Time,RESTAURANT,bar_cafe
-40.646374,17.521280,ov_bar_vip_40.6464_17.5213,Bar Vip,RESTAURANT,bar_cafe
-40.646588,17.519864,ov_l__opificio_di_giuso_40.6466_17.5199,L' Opificio di Giuso,RESTAURANT,bar_cafe
-40.646616,17.519049,ov_calce_40.6466_17.5190,Calce,RESTAURANT,bar_cafe
-40.646420,17.519110,ov_bar_la_piazza_40.6464_17.5191,Bar La Piazza,RESTAURANT,bar_cafe
-40.647730,17.518326,ov_brillo_parlante_wine_bar_40.6477_17.5183,Brillo parlante wine bar,RESTAURANT,bar_cafe
-40.647877,17.518083,ov_sophie_lounge_bar_40.6479_17.5181,Sophie lounge bar,RESTAURANT,bar_cafe
-40.646805,17.520115,ov_enococus_40.6468_17.5201,Enococus,RESTAURANT,bar_cafe
-40.643638,17.521877,ov_banny_cafe_40.6436_17.5219,Banny Cafe,RESTAURANT,bar_cafe
-40.643699,17.522096,ov_caffetteria_byblos_40.6437_17.5221,Caffetteria Byblos,RESTAURANT,bar_cafe
-40.643783,17.521914,ov_enoteca_la_dolce_vite_40.6438_17.5219,Enoteca La Dolce Vite,RESTAURANT,bar_cafe
-40.644789,17.520023,ov_laloca_birreria_40.6448_17.5200,Laloca Birreria,RESTAURANT,bar_cafe
-40.644938,17.520617,ov_bar_chiosco_40.6449_17.5206,Bar Chiosco,RESTAURANT,bar_cafe
-40.645195,17.521216,ov_les_folies_pasticceria_caf__gelateria_ap_40.6452_17.5212,Les Folies Pasticceria Cafè Gelateria Aperitiveria,RESTAURANT,bar_cafe
-40.645086,17.517729,ov_casa_di_agata_40.6451_17.5177,casa_di_agata,RESTAURANT,bar_cafe
-40.644817,17.514234,ov_caffetteria_like_home_40.6448_17.5142,Caffetteria like home,RESTAURANT,bar_cafe
-40.644976,17.514394,ov_bar_ricevitoria_da_lorenzo_40.6450_17.5144,Bar Ricevitoria da Lorenzo,RESTAURANT,bar_cafe
-40.644263,17.512642,ov_bar_pineta_40.6443_17.5126,Bar Pineta,RESTAURANT,bar_cafe
-40.643201,17.511052,ov_capolinea_cafe_40.6432_17.5111,Capolinea Cafe,RESTAURANT,bar_cafe
-40.642805,17.510993,ov_alter_gusto_40.6428_17.5110,Alter Gusto,RESTAURANT,bar_cafe
-40.641428,17.513782,ov_bar_del_viale_40.6414_17.5138,Bar Del Viale,RESTAURANT,bar_cafe
-40.639650,17.511377,ov_time_out_cafe_40.6396_17.5114,Time Out Cafe,RESTAURANT,bar_cafe
-40.646395,17.517034,osm_bar_roma_40.6464_17.5170,Bar Roma,bar_cafe,bar_cafe
-40.646585,17.516844,osm_caff__centrale_40.6466_17.5168,Caffè Centrale,bar_cafe,bar_cafe
-40.646789,17.516531,osm_bar_del_corso_40.6468_17.5165,Bar del Corso,bar_cafe,bar_cafe
-40.647937,17.518934,osm_panorama_caf__40.6479_17.5189,Panorama Cafè,bar_cafe,bar_cafe
-40.644878,17.520383,osm_bar_salumeria_40.6449_17.5204,Bar Salumeria,bar_cafe,bar_cafe
-40.646209,17.516794,osm_bar_plebiscito_51_40.6462_17.5168,Bar Plebiscito 51,bar_cafe,bar_cafe
-40.646373,17.517666,osm_bar_magia_40.6464_17.5177,Bar Magia,bar_cafe,bar_cafe
-40.647502,17.518013,osm_aloisia_40.6475_17.5180,Aloisia,bar_cafe,bar_cafe
-40.635567,17.478788,osm_new_selva_club_priv__puglia_40.6356_17.4788,New Selva Club Privè Puglia,bar_cafe,bar_cafe
+40.643270,17.510198,ov_orange_road_cafe_40.6433_17.5102,Orange road cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/orange_road_cafe_40.6433_17.5102.json,custom
+40.644948,17.509460,ov_vertigo_cafe_40.6449_17.5095,Vertigo Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/vertigo_cafe_40.6449_17.5095.json,custom
+40.652237,17.509458,ov_terzo_millennio_40.6522_17.5095,Terzo millennio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/terzo_millennio_40.6522_17.5095.json,custom
+40.647566,17.517585,ov_aqua_40.6476_17.5176,Aqua,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/aqua_40.6476_17.5176.json,custom
+40.646795,17.516587,ov_corso_50_40.6468_17.5166,Corso 50,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/corso_50_40.6468_17.5166.json,custom
+40.647070,17.515008,ov_messapico_40.6471_17.5150,Messapico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/messapico_40.6471_17.5150.json,custom
+40.647405,17.515497,ov_montpellier_cafe_40.6474_17.5155,Montpellier Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/montpellier_cafe_40.6474_17.5155.json,custom
+40.647397,17.513908,ov_caff__del_monumento_40.6474_17.5139,Caffè del Monumento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/caff_del_monumento_40.6474_17.5139.json,custom
+40.646165,17.510832,ov_bar_hemingway_40.6462_17.5108,Bar Hemingway,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_hemingway_40.6462_17.5108.json,custom
+40.646332,17.517285,ov_caffe__70_40.6463_17.5173,Caffe' 70,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/caffe_70_40.6463_17.5173.json,custom
+40.646184,17.517333,ov_innamorato_40.6462_17.5173,Innamorato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/innamorato_40.6462_17.5173.json,custom
+40.645377,17.518316,ov_coffee_time_40.6454_17.5183,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/coffee_time_40.6454_17.5183.json,custom
+40.646374,17.521280,ov_bar_vip_40.6464_17.5213,Bar Vip,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_vip_40.6464_17.5213.json,custom
+40.646588,17.519864,ov_l__opificio_di_giuso_40.6466_17.5199,L' Opificio di Giuso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/l_opificio_di_giuso_40.6466_17.5199.json,custom
+40.646616,17.519049,ov_calce_40.6466_17.5190,Calce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/calce_40.6466_17.5190.json,custom
+40.646420,17.519110,ov_bar_la_piazza_40.6464_17.5191,Bar La Piazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_la_piazza_40.6464_17.5191.json,custom
+40.647730,17.518326,ov_brillo_parlante_wine_bar_40.6477_17.5183,Brillo parlante wine bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/brillo_parlante_wine_bar_40.6477_17.5183.json,custom
+40.647877,17.518083,ov_sophie_lounge_bar_40.6479_17.5181,Sophie lounge bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/sophie_lounge_bar_40.6479_17.5181.json,custom
+40.646805,17.520115,ov_enococus_40.6468_17.5201,Enococus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/enococus_40.6468_17.5201.json,custom
+40.643638,17.521877,ov_banny_cafe_40.6436_17.5219,Banny Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/banny_cafe_40.6436_17.5219.json,custom
+40.643699,17.522096,ov_caffetteria_byblos_40.6437_17.5221,Caffetteria Byblos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/caffetteria_byblos_40.6437_17.5221.json,custom
+40.643783,17.521914,ov_enoteca_la_dolce_vite_40.6438_17.5219,Enoteca La Dolce Vite,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/enoteca_la_dolce_vite_40.6438_17.5219.json,custom
+40.644789,17.520023,ov_laloca_birreria_40.6448_17.5200,Laloca Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/laloca_birreria_40.6448_17.5200.json,custom
+40.644938,17.520617,ov_bar_chiosco_40.6449_17.5206,Bar Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_chiosco_40.6449_17.5206.json,custom
+40.645195,17.521216,ov_les_folies_pasticceria_caf__gelateria_ap_40.6452_17.5212,Les Folies Pasticceria Cafè Gelateria Aperitiveria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/les_folies_pasticceria_caf_gelateria_ape_40.6452_17.5212.json,custom
+40.645086,17.517729,ov_casa_di_agata_40.6451_17.5177,casa_di_agata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/casadiagata_40.6451_17.5177.json,custom
+40.644817,17.514234,ov_caffetteria_like_home_40.6448_17.5142,Caffetteria like home,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/caffetteria_like_home_40.6448_17.5142.json,custom
+40.644976,17.514394,ov_bar_ricevitoria_da_lorenzo_40.6450_17.5144,Bar Ricevitoria da Lorenzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_ricevitoria_da_lorenzo_40.6450_17.5144.json,custom
+40.644263,17.512642,ov_bar_pineta_40.6443_17.5126,Bar Pineta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_pineta_40.6443_17.5126.json,custom
+40.643201,17.511052,ov_capolinea_cafe_40.6432_17.5111,Capolinea Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/capolinea_cafe_40.6432_17.5111.json,custom
+40.642805,17.510993,ov_alter_gusto_40.6428_17.5110,Alter Gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/alter_gusto_40.6428_17.5110.json,custom
+40.641428,17.513782,ov_bar_del_viale_40.6414_17.5138,Bar Del Viale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_del_viale_40.6414_17.5138.json,custom
+40.639650,17.511377,ov_time_out_cafe_40.6396_17.5114,Time Out Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/time_out_cafe_40.6396_17.5114.json,custom
+40.646395,17.517034,osm_bar_roma_40.6464_17.5170,Bar Roma,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_roma_40.6464_17.5170.json,custom
+40.646585,17.516844,osm_caff__centrale_40.6466_17.5168,Caffè Centrale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/caff_centrale_40.6466_17.5168.json,custom
+40.646789,17.516531,osm_bar_del_corso_40.6468_17.5165,Bar del Corso,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_del_corso_40.6468_17.5165.json,custom
+40.647937,17.518934,osm_panorama_caf__40.6479_17.5189,Panorama Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/panorama_caf_40.6479_17.5189.json,custom
+40.644878,17.520383,osm_bar_salumeria_40.6449_17.5204,Bar Salumeria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_salumeria_40.6449_17.5204.json,custom
+40.646209,17.516794,osm_bar_plebiscito_51_40.6462_17.5168,Bar Plebiscito 51,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_plebiscito_51_40.6462_17.5168.json,custom
+40.646373,17.517666,osm_bar_magia_40.6464_17.5177,Bar Magia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/bar_magia_40.6464_17.5177.json,custom
+40.647502,17.518013,osm_aloisia_40.6475_17.5180,Aloisia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/aloisia_40.6475_17.5180.json,custom
+40.635567,17.478788,osm_new_selva_club_priv__puglia_40.6356_17.4788,New Selva Club Privè Puglia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/new_selva_club_priv_puglia_40.6356_17.4788.json,custom

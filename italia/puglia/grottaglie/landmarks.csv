@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grottaglie -- landmarks
-40.539463,17.423613,ov_grottagli_ex_convento_dei_cappuccini___m_40.5395_17.4236,Grottagli ex Convento dei Cappuccini - Museo della Civiltà R,MUSEUM,monumento
-40.532998,17.431323,ov_casa_vestita_40.5330_17.4313,Casa Vestita,MUSEUM,monumento
-40.533955,17.431613,ov_castello_episcopio_40.5340_17.4316,Castello Episcopio,MONUMENT,monumento
-40.534101,17.431498,ov_museo_della_ceramica_di_grottaglie_40.5341_17.4315,Museo della Ceramica di Grottaglie,MUSEUM,monumento
+40.539463,17.423613,ov_grottagli_ex_convento_dei_cappuccini___m_40.5395_17.4236,Grottagli ex Convento dei Cappuccini - Museo della Civiltà R,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/grottagli_ex_convento_dei_cappuccini_-_m_40.5395_17.4236.json,custom
+40.532998,17.431323,ov_casa_vestita_40.5330_17.4313,Casa Vestita,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/casa_vestita_40.5330_17.4313.json,custom
+40.533955,17.431613,ov_castello_episcopio_40.5340_17.4316,Castello Episcopio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/castello_episcopio_40.5340_17.4316.json,custom
+40.534101,17.431498,ov_museo_della_ceramica_di_grottaglie_40.5341_17.4315,Museo della Ceramica di Grottaglie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/museo_della_ceramica_di_grottaglie_40.5341_17.4315.json,custom

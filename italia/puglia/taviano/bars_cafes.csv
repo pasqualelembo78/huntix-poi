@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # taviano -- bars_cafes
-39.967450,18.023138,ov_ambrosia_birreria_39.9675_18.0231,Ambrosia Birreria,RESTAURANT,bar_cafe
-39.968178,18.024083,ov_white_cafe_39.9682_18.0241,White Cafe,RESTAURANT,bar_cafe
-39.968273,18.024418,ov_bar_coppola_caffe_39.9683_18.0244,Bar Coppola Caffe,RESTAURANT,bar_cafe
-39.967120,18.023250,ov_rialto_39.9671_18.0233,Rialto,RESTAURANT,bar_cafe
-39.980082,18.084661,ov_bar_la_sosta_39.9801_18.0847,Bar la sosta,RESTAURANT,bar_cafe
-39.977379,18.087093,ov_caffe_adamo_39.9774_18.0871,Caffe Adamo,RESTAURANT,bar_cafe
-39.976999,18.088034,ov_bar_cattleya_taviano_39.9770_18.0880,Bar Cattleya Taviano,RESTAURANT,bar_cafe
-39.976287,18.082515,ov_blue_moon_caf__39.9763_18.0825,Blue Moon Cafè,RESTAURANT,bar_cafe
-39.976972,18.086131,ov_bar_chantilly__creperia_39.9770_18.0861,"Bar Chantilly, creperia",RESTAURANT,bar_cafe
-39.970656,18.088749,ov_caffetteria_roversi_39.9707_18.0887,Caffetteria Roversi,RESTAURANT,bar_cafe
-39.972647,18.087713,ov_saker_39.9726_18.0877,Saker,RESTAURANT,bar_cafe
-39.968710,18.021253,ov_hollywood_pub_39.9687_18.0213,Hollywood Pub,RESTAURANT,bar_cafe
-39.968712,18.015177,ov_hi_food_beach_39.9687_18.0152,Hi-Food Beach,RESTAURANT,bar_cafe
-39.970778,18.013331,ov_corsaro_caf__39.9708_18.0133,Corsaro Café,RESTAURANT,bar_cafe
-39.972239,18.016770,ov_bubba_bar_39.9722_18.0168,Bubba Bar,RESTAURANT,bar_cafe
-39.981730,18.089059,ov_gran_caffe_39.9817_18.0891,Gran Caffe,RESTAURANT,bar_cafe
-39.981311,18.086098,ov_sorsi_e_discorsi_39.9813_18.0861,Sorsi e Discorsi,RESTAURANT,bar_cafe
-39.980104,18.088537,ov_peccati_di_gola_39.9801_18.0885,Peccati di Gola,RESTAURANT,bar_cafe
-39.980172,18.088658,ov_area_cafe_39.9802_18.0887,Area Cafe,RESTAURANT,bar_cafe
-39.983099,18.088561,ov_bar_palazzo_marchesale_39.9831_18.0886,Bar Palazzo Marchesale,RESTAURANT,bar_cafe
-39.986469,18.080499,ov_circolo_80_39.9865_18.0805,Circolo.80,RESTAURANT,bar_cafe
-39.993619,18.065716,ov_flowers_bar_39.9936_18.0657,Flowers Bar,RESTAURANT,bar_cafe
+39.967450,18.023138,ov_ambrosia_birreria_39.9675_18.0231,Ambrosia Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/ambrosia_birreria_39.9675_18.0231.json,custom
+39.968178,18.024083,ov_white_cafe_39.9682_18.0241,White Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/white_cafe_39.9682_18.0241.json,custom
+39.968273,18.024418,ov_bar_coppola_caffe_39.9683_18.0244,Bar Coppola Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bar_coppola_caffe_39.9683_18.0244.json,custom
+39.967120,18.023250,ov_rialto_39.9671_18.0233,Rialto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/rialto_39.9671_18.0233.json,custom
+39.980082,18.084661,ov_bar_la_sosta_39.9801_18.0847,Bar la sosta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bar_la_sosta_39.9801_18.0847.json,custom
+39.977379,18.087093,ov_caffe_adamo_39.9774_18.0871,Caffe Adamo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/caffe_adamo_39.9774_18.0871.json,custom
+39.976999,18.088034,ov_bar_cattleya_taviano_39.9770_18.0880,Bar Cattleya Taviano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bar_cattleya_taviano_39.9770_18.0880.json,custom
+39.976287,18.082515,ov_blue_moon_caf__39.9763_18.0825,Blue Moon Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/blue_moon_caf_39.9763_18.0825.json,custom
+39.976972,18.086131,ov_bar_chantilly__creperia_39.9770_18.0861,"Bar Chantilly, creperia",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bar_chantilly_creperia_39.9770_18.0861.json,custom
+39.970656,18.088749,ov_caffetteria_roversi_39.9707_18.0887,Caffetteria Roversi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/caffetteria_roversi_39.9707_18.0887.json,custom
+39.972647,18.087713,ov_saker_39.9726_18.0877,Saker,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/saker_39.9726_18.0877.json,custom
+39.968710,18.021253,ov_hollywood_pub_39.9687_18.0213,Hollywood Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/hollywood_pub_39.9687_18.0213.json,custom
+39.968712,18.015177,ov_hi_food_beach_39.9687_18.0152,Hi-Food Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/hi-food_beach_39.9687_18.0152.json,custom
+39.970778,18.013331,ov_corsaro_caf__39.9708_18.0133,Corsaro Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/corsaro_caf_39.9708_18.0133.json,custom
+39.972239,18.016770,ov_bubba_bar_39.9722_18.0168,Bubba Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bubba_bar_39.9722_18.0168.json,custom
+39.981730,18.089059,ov_gran_caffe_39.9817_18.0891,Gran Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/gran_caffe_39.9817_18.0891.json,custom
+39.981311,18.086098,ov_sorsi_e_discorsi_39.9813_18.0861,Sorsi e Discorsi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/sorsi_e_discorsi_39.9813_18.0861.json,custom
+39.980104,18.088537,ov_peccati_di_gola_39.9801_18.0885,Peccati di Gola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/peccati_di_gola_39.9801_18.0885.json,custom
+39.980172,18.088658,ov_area_cafe_39.9802_18.0887,Area Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/area_cafe_39.9802_18.0887.json,custom
+39.983099,18.088561,ov_bar_palazzo_marchesale_39.9831_18.0886,Bar Palazzo Marchesale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/bar_palazzo_marchesale_39.9831_18.0886.json,custom
+39.986469,18.080499,ov_circolo_80_39.9865_18.0805,Circolo.80,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/circolo80_39.9865_18.0805.json,custom
+39.993619,18.065716,ov_flowers_bar_39.9936_18.0657,Flowers Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taviano/pages/flowers_bar_39.9936_18.0657.json,custom

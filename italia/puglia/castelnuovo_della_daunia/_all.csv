@@ -1,12 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Castelnuovo della Daunia -- Tutti
-41.586344,15.121258,osm_la_locanda_del_convento_41.5863_15.1213,La Locanda del Convento,ristorante,ristorante
-41.585399,15.120043,osm_pizza___sfizi_41.5854_15.1200,Pizza & Sfizi,ristorante,ristorante
-41.584296,15.113139,osm_ad_maiora___ristorante_delle_terme_41.5843_15.1131,Ad Maiora - Ristorante delle Terme,ristorante,ristorante
-41.584428,15.120248,osm_caf__smile_bistr__41.5844_15.1202,Cafè Smile Bistrò,ristorante,ristorante
-41.586312,15.121200,ov_la_locanda_del_convento_41.5863_15.1212,La Locanda del Convento,RESTAURANT,ristorante
-41.585403,15.120112,ov_pizza___sfizi_41.5854_15.1201,Pizza & Sfizi,RESTAURANT,ristorante
-41.584232,15.113513,ov_ad_maiora_41.5842_15.1135,Ad Maiora,RESTAURANT,ristorante
-41.583003,15.120537,ov_bar_giada_41.5830_15.1205,Bar Giada,RESTAURANT,bar_cafe
-41.582956,15.120392,ov_street_cafe_41.5830_15.1204,Street Cafe,RESTAURANT,bar_cafe
-41.582800,15.118990,ov_mad__41.5828_15.1190,MaDè,RESTAURANT,bar_cafe
+41.586312,15.121200,ov_la_locanda_del_convento_41.5863_15.1212,La Locanda del Convento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/la_locanda_del_convento_41.5863_15.1212.json,custom
+41.585403,15.120112,ov_pizza___sfizi_41.5854_15.1201,Pizza & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/pizza_sfizi_41.5854_15.1201.json,custom
+41.584232,15.113513,ov_ad_maiora_41.5842_15.1135,Ad Maiora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/ad_maiora_41.5842_15.1135.json,custom
+41.584296,15.113139,osm_ad_maiora___ristorante_delle_terme_41.5843_15.1131,Ad Maiora - Ristorante delle Terme,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/ad_maiora_-_ristorante_delle_terme_41.5843_15.1131.json,custom
+41.584428,15.120248,osm_caf__smile_bistr__41.5844_15.1202,Cafè Smile Bistrò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/caf_smile_bistr_41.5844_15.1202.json,custom
+41.583003,15.120537,ov_bar_giada_41.5830_15.1205,Bar Giada,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/bar_giada_41.5830_15.1205.json,custom
+41.582956,15.120392,ov_street_cafe_41.5830_15.1204,Street Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/street_cafe_41.5830_15.1204.json,custom
+41.582800,15.118990,ov_mad__41.5828_15.1190,MaDè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_della_daunia/pages/mad_41.5828_15.1190.json,custom

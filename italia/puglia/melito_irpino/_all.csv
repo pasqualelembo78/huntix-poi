@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Melito Irpino -- Tutti
-41.102443,15.052623,ov_trattoria_di_pietro_crescenzo_41.1024_15.0526,Trattoria Di Pietro Crescenzo,RESTAURANT,ristorante
-41.102412,15.050807,ov_l_irpino_vagabondo_41.1024_15.0508,L'Irpino Vagabondo,RESTAURANT,ristorante
-41.101281,15.051076,ov_trattoria_matullo_41.1013_15.0511,Trattoria Matullo,RESTAURANT,ristorante
-41.100253,15.051862,ov_i_tre_angeli_pizzeria_e_friggitoria_41.1003_15.0519,I TRE ANGELI pizzeria e friggitoria,RESTAURANT,ristorante
-41.111450,15.065432,ov_agriturismo_antiqua_tempora_41.1115_15.0654,Agriturismo Antiqua Tempora,RESTAURANT,ristorante
-41.102180,15.052750,ov_la_frutteria_41.1022_15.0527,La Frutteria,RESTAURANT,bar_cafe
-41.102010,15.053350,ov_bar_piazza_grande_41.1020_15.0534,Bar Piazza Grande,RESTAURANT,bar_cafe
-41.101960,15.052805,ov_bar_centrale_41.1020_15.0528,Bar Centrale,RESTAURANT,bar_cafe
-41.103090,15.053159,ov_zanzibar_cafe__41.1031_15.0532,Zanzibar CAFE',RESTAURANT,bar_cafe
-41.104809,15.050966,ov_l_officina_folle_41.1048_15.0510,L'Officina Folle,RESTAURANT,bar_cafe
-41.101211,15.051160,ov_na_tazzulella_e_caf__41.1012_15.0512,Na tazzulella e cafè,RESTAURANT,bar_cafe
-41.194583,15.031946,ov_royal_gym_asd_41.1946_15.0319,Royal Gym ASD,GYM,palestra
+41.102443,15.052623,ov_trattoria_di_pietro_crescenzo_41.1024_15.0526,Trattoria Di Pietro Crescenzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/trattoria_di_pietro_crescenzo_41.1024_15.0526.json,custom
+41.102412,15.050807,ov_l_irpino_vagabondo_41.1024_15.0508,L'Irpino Vagabondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/lirpino_vagabondo_41.1024_15.0508.json,custom
+41.101281,15.051076,ov_trattoria_matullo_41.1013_15.0511,Trattoria Matullo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/trattoria_matullo_41.1013_15.0511.json,custom
+41.100253,15.051862,ov_i_tre_angeli_pizzeria_e_friggitoria_41.1003_15.0519,I TRE ANGELI pizzeria e friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/i_tre_angeli_pizzeria_e_friggitoria_41.1003_15.0519.json,custom
+41.111450,15.065432,ov_agriturismo_antiqua_tempora_41.1115_15.0654,Agriturismo Antiqua Tempora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/agriturismo_antiqua_tempora_41.1115_15.0654.json,custom
+41.102180,15.052750,ov_la_frutteria_41.1022_15.0527,La Frutteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/la_frutteria_41.1022_15.0527.json,custom
+41.102010,15.053350,ov_bar_piazza_grande_41.1020_15.0534,Bar Piazza Grande,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/bar_piazza_grande_41.1020_15.0534.json,custom
+41.101960,15.052805,ov_bar_centrale_41.1020_15.0528,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/bar_centrale_41.1020_15.0528.json,custom
+41.103090,15.053159,ov_zanzibar_cafe__41.1031_15.0532,Zanzibar CAFE',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/zanzibar_cafe_41.1031_15.0532.json,custom
+41.104809,15.050966,ov_l_officina_folle_41.1048_15.0510,L'Officina Folle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/lofficina_folle_41.1048_15.0510.json,custom
+41.101211,15.051160,ov_na_tazzulella_e_caf__41.1012_15.0512,Na tazzulella e cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/na_tazzulella_e_caf_41.1012_15.0512.json,custom
+41.194583,15.031946,ov_royal_gym_asd_41.1946_15.0319,Royal Gym ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melito_irpino/pages/royal_gym_asd_41.1946_15.0319.json,custom

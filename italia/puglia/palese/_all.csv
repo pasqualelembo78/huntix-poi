@@ -1,14 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Palese -- Tutti
-41.151378,16.762831,osm_il_rifugio_di_z_rr_41.1514_16.7628,Il Rifugio di Zòrr,ristorante,ristorante
-41.159779,16.767653,osm_malanghino_41.1598_16.7677,Malanghino,ristorante,ristorante
-41.158554,16.767210,osm_cocinas_41.1586_16.7672,Cocinas,ristorante,ristorante
-41.154295,16.766255,osm_mastro_sandro_41.1543_16.7663,Mastro Sandro,ristorante,ristorante
-41.153300,16.766822,osm_il_buongustaio_41.1533_16.7668,Il Buongustaio,ristorante,ristorante
-41.159822,16.767416,osm_piccolo_snack_41.1598_16.7674,Piccolo Snack,ristorante,ristorante
-41.160074,16.766807,osm_al_paradise_41.1601_16.7668,Al Paradise,ristorante,ristorante
-41.154743,16.765335,ov_asso_caff___capsule_compatibili____caffi_41.1547_16.7653,Asso Caffè (capsule compatibili) - Caffitaly Shop,RESTAURANT,bar_cafe
-41.159872,16.767679,osm_peccati_di_gola_41.1599_16.7677,Peccati di Gola,bar_cafe,bar_cafe
-41.153470,16.764945,osm_bar_gemma_41.1535_16.7649,Bar Gemma,bar_cafe,bar_cafe
-41.151205,16.767377,osm_manila_41.1512_16.7674,Manila,bar_cafe,bar_cafe
-41.153287,16.766898,osm_caff__diaz_41.1533_16.7669,Caffè Diaz,bar_cafe,bar_cafe
+41.151378,16.762831,osm_il_rifugio_di_z_rr_41.1514_16.7628,Il Rifugio di Zòrr,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/il_rifugio_di_zrr_41.1514_16.7628.json,custom
+41.154295,16.766255,osm_mastro_sandro_41.1543_16.7663,Mastro Sandro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/mastro_sandro_41.1543_16.7663.json,custom
+41.154743,16.765335,ov_asso_caff___capsule_compatibili____caffi_41.1547_16.7653,Asso Caffè (capsule compatibili) - Caffitaly Shop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/asso_caff_capsule_compatibili_-_caffital_41.1547_16.7653.json,custom
+41.159872,16.767679,osm_peccati_di_gola_41.1599_16.7677,Peccati di Gola,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/peccati_di_gola_41.1599_16.7677.json,custom
+41.153470,16.764945,osm_bar_gemma_41.1535_16.7649,Bar Gemma,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/bar_gemma_41.1535_16.7649.json,custom
+41.151205,16.767377,osm_manila_41.1512_16.7674,Manila,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/manila_41.1512_16.7674.json,custom
+41.153287,16.766898,osm_caff__diaz_41.1533_16.7669,Caffè Diaz,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palese/pages/caff_diaz_41.1533_16.7669.json,custom

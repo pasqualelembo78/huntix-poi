@@ -1,81 +1,81 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Pisticci -- Tutti
-40.390473,16.558198,osm_napul___40.3905_16.5582,Napul'è,ristorante,ristorante
-40.390951,16.552579,ov_parafarmacia_dott_ssa_anna_pardo_40.3910_16.5526,Parafarmacia Dott.ssa Anna Pardo,HOSPITAL,hospital
-40.378520,16.739844,ov_la_locanda_sul_fiume_vecchio_40.3785_16.7398,La Locanda Sul Fiume Vecchio,RESTAURANT,ristorante
-40.372182,16.741619,ov_agriturismo_rayo_de_luna_40.3722_16.7416,Agriturismo Rayo de Luna,RESTAURANT,ristorante
-40.362912,16.684331,ov_il_calanco_40.3629_16.6843,Il Calanco,RESTAURANT,ristorante
-40.362130,16.685044,ov_phoenix_food___drink_40.3621_16.6850,Phoenix food & drink,RESTAURANT,ristorante
-40.361944,16.686678,ov_16__parallelo_40.3619_16.6867,16° Parallelo,RESTAURANT,ristorante
-40.361788,16.687351,ov_pizzeria_romeo_40.3618_16.6874,Pizzeria Romeo,RESTAURANT,ristorante
-40.362001,16.688508,ov_pizza_snack_di_sisto_roberto_40.3620_16.6885,Pizza Snack di Sisto Roberto,RESTAURANT,ristorante
-40.362444,16.687138,ov_pizzasfizio_40.3624_16.6871,Pizzasfizio,RESTAURANT,ristorante
-40.362637,16.689554,ov_sottosopra__ristorante_pizzeria_antipast_40.3626_16.6896,SottoSopra  Ristorante Pizzeria Antipasteria Braceria,RESTAURANT,ristorante
-40.360235,16.690250,ov_la_quercia_pisticci_40.3602_16.6903,La Quercia Pisticci,RESTAURANT,ristorante
-40.360539,16.687047,ov_pizzeria_picasso_40.3605_16.6870,Pizzeria Picasso,RESTAURANT,ristorante
-40.358335,16.683570,ov_anima_e_core_40.3583_16.6836,Anima E Core,RESTAURANT,ristorante
-40.358309,16.683576,ov_ristorante_ai_grani_antichi_40.3583_16.6836,Ristorante Ai Grani Antichi,RESTAURANT,ristorante
-40.359170,16.647801,ov_pizzeria_la_ruota_40.3592_16.6478,Pizzeria La Ruota,RESTAURANT,ristorante
-40.367301,16.688221,ov_sfizi_di_carne_iorio_40.3673_16.6882,Sfizi Di Carne IORIO,RESTAURANT,ristorante
-40.365301,16.689818,ov_la_boutique_della_carne_40.3653_16.6898,La Boutique Della Carne,RESTAURANT,ristorante
-40.374370,16.596050,ov_ristorante_la_quercia__sala_ricevimenti_40.3744_16.5961,Ristorante La Quercia /sala Ricevimenti,RESTAURANT,ristorante
-40.368460,16.601120,ov_il_patio_40.3685_16.6011,Il Patio,RESTAURANT,ristorante
-40.359380,16.646236,ov_tibar_40.3594_16.6462,Tibar,RESTAURANT,ristorante
-40.390201,16.552391,ov_l_incontro_40.3902_16.5524,L'Incontro,RESTAURANT,ristorante
-40.389935,16.554853,ov_l_officina_del_gusto_40.3899_16.5549,L'Officina del gusto,RESTAURANT,ristorante
-40.390039,16.556948,ov_pasticceria___gelateria_dei_f_lli_gianna_40.3900_16.5569,Pasticceria - Gelateria dei F.lli Giannace Maria Sanita' e,RESTAURANT,ristorante
-40.388791,16.559971,ov_le_pazzerie_40.3888_16.5600,Le Pazzerie,RESTAURANT,ristorante
-40.388993,16.562583,ov_la_lanterna_40.3890_16.5626,La Lanterna,RESTAURANT,ristorante
-40.419063,16.550589,ov_il_ristoro_camerlingo_40.4191_16.5506,Il Ristoro Camerlingo,RESTAURANT,ristorante
-40.423220,16.541783,ov_marbe_40.4232_16.5418,Marbe,RESTAURANT,ristorante
-40.339436,16.631322,ov_antica_masseria_rullo_40.3394_16.6313,Antica Masseria Rullo,RESTAURANT,ristorante
-40.335952,16.755709,ov_agriturismo_da_dino_40.3360_16.7557,Agriturismo da Dino,RESTAURANT,ristorante
-40.323341,16.711724,ov_ristorante_antica_pesa_40.3233_16.7117,Ristorante Antica Pesa,RESTAURANT,ristorante
-40.303696,16.772274,ov_ristorante_emanto_40.3037_16.7723,Ristorante Emanto,RESTAURANT,ristorante
-40.303528,16.772050,ov_pizzeria_la_strazzata_40.3035_16.7721,Pizzeria La Strazzata,RESTAURANT,ristorante
-40.303421,16.771423,ov_braceria_san_basilio_40.3034_16.7714,Braceria San Basilio,RESTAURANT,ristorante
-40.307080,16.789928,ov_lido_la_spiaggetta_40.3071_16.7899,Lido La Spiaggetta,RESTAURANT,ristorante
-40.316364,16.788295,ov_ginepri_beach_restaurant_40.3164_16.7883,Ginepri Beach Restaurant,RESTAURANT,ristorante
-40.318160,16.771170,ov_lido_la_spiaggetta_40.3182_16.7712,Lido La Spiaggetta,RESTAURANT,ristorante
-40.297568,16.781429,ov_lido_del_borgo_40.2976_16.7814,Lido Del Borgo,RESTAURANT,ristorante
-40.661110,16.610630,ov_c___di_buono_40.6611_16.6106,C’è di buono,RESTAURANT,ristorante
-40.359426,16.778271,ov_stazione_di_servizio_q8_tinchi___pisticc_40.3594_16.7783,Stazione Di Servizio Q8 Tinchi - Pisticci Marina  SS 106,RESTAURANT,bar_cafe
-40.359387,16.778300,ov_q8_bar_40.3594_16.7783,Q8 BAR,RESTAURANT,bar_cafe
-40.363378,16.688119,ov_caff__del_corso_40.3634_16.6881,Caffè del corso,RESTAURANT,bar_cafe
-40.361998,16.686805,ov_made_in_lucania_40.3620_16.6868,Made in Lucania,RESTAURANT,bar_cafe
-40.362484,16.687029,ov_cronos_cafe_40.3625_16.6870,Cronos Cafe,RESTAURANT,bar_cafe
-40.362361,16.686620,ov_so_sa__bar_di_santarcangelo_rosanna_40.3624_16.6866,So.Sa. bar di Santarcangelo Rosanna,RESTAURANT,bar_cafe
-40.362825,16.687547,ov_barmarconia_40.3628_16.6875,BarMarconia,RESTAURANT,bar_cafe
-40.362933,16.688137,ov_tower_bar_40.3629_16.6881,Tower bar,RESTAURANT,bar_cafe
-40.362758,16.687688,ov_da_tiffany_1_40.3628_16.6877,Da Tiffany 1,RESTAURANT,bar_cafe
-40.363052,16.691758,ov_mioss3_0_40.3631_16.6918,Mioss3.0,RESTAURANT,bar_cafe
-40.361013,16.687210,ov_too_chic_too_lunch_cafe_bar_e_tavola_cal_40.3610_16.6872,Too Chic Too Lunch Cafe Bar e Tavola Calda,RESTAURANT,bar_cafe
-40.365303,16.692035,ov_pequeno_cafe_40.3653_16.6920,Pequeno cafe,RESTAURANT,bar_cafe
-40.368943,16.691977,ov_bar_paninoteca_il_grifone_40.3689_16.6920,Bar Paninoteca Il Grifone,RESTAURANT,bar_cafe
-40.390250,16.552522,ov_bar_genesi_40.3902_16.5525,Bar Genesi,RESTAURANT,bar_cafe
-40.389813,16.552681,ov_pisticci_piazza_jonny_lombardi_40.3898_16.5527,Pisticci-Piazza Jonny Lombardi,RESTAURANT,bar_cafe
-40.390155,16.556828,ov_night_and_day_cafe_40.3902_16.5568,Night and Day cafe,RESTAURANT,bar_cafe
-40.390298,16.556980,ov_cazzati_domenico_bar_pasticceria_40.3903_16.5570,Cazzati Domenico Bar Pasticceria,RESTAURANT,bar_cafe
-40.389991,16.557771,ov_glitch_bar_pisticci_40.3900_16.5578,GLITCH Bar Pisticci,RESTAURANT,bar_cafe
-40.390318,16.557725,ov_caff__della_piazza_40.3903_16.5577,Caffè della Piazza,RESTAURANT,bar_cafe
-40.389387,16.561988,ov_caff__laviola_40.3894_16.5620,Caffè Laviola,RESTAURANT,bar_cafe
-40.391068,16.562935,ov_le_matine___casa_elizia_40.3911_16.5629,Le Matine - Casa Elizia,RESTAURANT,bar_cafe
-40.390822,16.558168,ov_bar_pisticci_40.3908_16.5582,Bar Pisticci,RESTAURANT,bar_cafe
-40.391405,16.554066,ov_movida_sport_music_bar_40.3914_16.5541,Movida Sport Music Bar,RESTAURANT,bar_cafe
-40.391503,16.555665,ov_bar_castronuovo_la_piazzetta_40.3915_16.5557,Bar Castronuovo La Piazzetta,RESTAURANT,bar_cafe
-40.394101,16.561698,ov_seventeen_bar__17___pisticci_40.3941_16.5617,Seventeen Bar #17 - Pisticci,RESTAURANT,bar_cafe
-40.330149,16.712029,ov_birra_jp2_40.3301_16.7120,Birra JP2,RESTAURANT,bar_cafe
-40.304045,16.772094,ov_iguana_cafe_40.3040_16.7721,Iguana Cafe,RESTAURANT,bar_cafe
-40.318733,16.800318,ov_lido_la_sirenetta_san_teodoro_40.3187_16.8003,Lido La Sirenetta San Teodoro,RESTAURANT,bar_cafe
-40.338648,16.808635,ov_caffe_del_porto_40.3386_16.8086,Caffe del Porto,RESTAURANT,bar_cafe
-40.359368,16.684124,ov_royal_school_dance_40.3594_16.6841,Royal School Dance,GYM,palestra
-40.359722,16.684476,ov_harley_s_gym_club_40.3597_16.6845,Harley's Gym Club,GYM,palestra
-40.359358,16.678328,ov_palazzetto_dello_sport_40.3594_16.6783,Palazzetto dello Sport,GYM,palestra
-40.391068,16.562935,ov_asd_briglie_sciolte_40.3911_16.5629,ASD Briglie Sciolte,GYM,palestra
-40.391389,16.561381,ov_wellness_revolution_40.3914_16.5614,Wellness Revolution,GYM,palestra
-40.396764,16.523438,ov_royal_school_dance_marconia_insegnante_r_40.3968_16.5234,ROYAL School DANCE Marconia Insegnante Royal Academy of danc,GYM,palestra
-40.296022,16.768137,ov_cortequestre_san_basilio_40.2960_16.7681,Cortequestre San Basilio,GYM,palestra
-40.390296,16.551462,ov_rione_terravecchia_40.3903_16.5515,Rione Terravecchia,MONUMENT,monumento
-40.390628,16.558603,ov_museo_civico_pisticci_40.3906_16.5586,Museo Civico Pisticci,MUSEUM,monumento
-40.418829,16.549528,ov_museo_essenza_lucano_40.4188_16.5495,Museo Essenza Lucano,MUSEUM,monumento
-40.321507,16.710809,ov_castello_di_san_basilio_40.3215_16.7108,Castello di San Basilio,MONUMENT,monumento
+40.390951,16.552579,ov_parafarmacia_dott_ssa_anna_pardo_40.3910_16.5526,Parafarmacia Dott.ssa Anna Pardo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/parafarmacia_dottssa_anna_pardo_40.3910_16.5526.json,custom
+40.378520,16.739844,ov_la_locanda_sul_fiume_vecchio_40.3785_16.7398,La Locanda Sul Fiume Vecchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/la_locanda_sul_fiume_vecchio_40.3785_16.7398.json,custom
+40.372182,16.741619,ov_agriturismo_rayo_de_luna_40.3722_16.7416,Agriturismo Rayo de Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/agriturismo_rayo_de_luna_40.3722_16.7416.json,custom
+40.362912,16.684331,ov_il_calanco_40.3629_16.6843,Il Calanco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/il_calanco_40.3629_16.6843.json,custom
+40.362130,16.685044,ov_phoenix_food___drink_40.3621_16.6850,Phoenix food & drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/phoenix_food_drink_40.3621_16.6850.json,custom
+40.361944,16.686678,ov_16__parallelo_40.3619_16.6867,16° Parallelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/16_parallelo_40.3619_16.6867.json,custom
+40.361788,16.687351,ov_pizzeria_romeo_40.3618_16.6874,Pizzeria Romeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizzeria_romeo_40.3618_16.6874.json,custom
+40.362001,16.688508,ov_pizza_snack_di_sisto_roberto_40.3620_16.6885,Pizza Snack di Sisto Roberto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizza_snack_di_sisto_roberto_40.3620_16.6885.json,custom
+40.362444,16.687138,ov_pizzasfizio_40.3624_16.6871,Pizzasfizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizzasfizio_40.3624_16.6871.json,custom
+40.362637,16.689554,ov_sottosopra__ristorante_pizzeria_antipast_40.3626_16.6896,SottoSopra  Ristorante Pizzeria Antipasteria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/sottosopra_ristorante_pizzeria_antipaste_40.3626_16.6896.json,custom
+40.360235,16.690250,ov_la_quercia_pisticci_40.3602_16.6903,La Quercia Pisticci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/la_quercia_pisticci_40.3602_16.6903.json,custom
+40.360539,16.687047,ov_pizzeria_picasso_40.3605_16.6870,Pizzeria Picasso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizzeria_picasso_40.3605_16.6870.json,custom
+40.358335,16.683570,ov_anima_e_core_40.3583_16.6836,Anima E Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/anima_e_core_40.3583_16.6836.json,custom
+40.358309,16.683576,ov_ristorante_ai_grani_antichi_40.3583_16.6836,Ristorante Ai Grani Antichi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/ristorante_ai_grani_antichi_40.3583_16.6836.json,custom
+40.359170,16.647801,ov_pizzeria_la_ruota_40.3592_16.6478,Pizzeria La Ruota,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizzeria_la_ruota_40.3592_16.6478.json,custom
+40.367301,16.688221,ov_sfizi_di_carne_iorio_40.3673_16.6882,Sfizi Di Carne IORIO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/sfizi_di_carne_iorio_40.3673_16.6882.json,custom
+40.365301,16.689818,ov_la_boutique_della_carne_40.3653_16.6898,La Boutique Della Carne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/la_boutique_della_carne_40.3653_16.6898.json,custom
+40.374370,16.596050,ov_ristorante_la_quercia__sala_ricevimenti_40.3744_16.5961,Ristorante La Quercia /sala Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/ristorante_la_quercia_sala_ricevimenti_40.3744_16.5961.json,custom
+40.368460,16.601120,ov_il_patio_40.3685_16.6011,Il Patio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/il_patio_40.3685_16.6011.json,custom
+40.359380,16.646236,ov_tibar_40.3594_16.6462,Tibar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/tibar_40.3594_16.6462.json,custom
+40.390201,16.552391,ov_l_incontro_40.3902_16.5524,L'Incontro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lincontro_40.3902_16.5524.json,custom
+40.389935,16.554853,ov_l_officina_del_gusto_40.3899_16.5549,L'Officina del gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lofficina_del_gusto_40.3899_16.5549.json,custom
+40.390039,16.556948,ov_pasticceria___gelateria_dei_f_lli_gianna_40.3900_16.5569,Pasticceria - Gelateria dei F.lli Giannace Maria Sanita' e,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pasticceria_-_gelateria_dei_flli_giannac_40.3900_16.5569.json,custom
+40.388791,16.559971,ov_le_pazzerie_40.3888_16.5600,Le Pazzerie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/le_pazzerie_40.3888_16.5600.json,custom
+40.388993,16.562583,ov_la_lanterna_40.3890_16.5626,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/la_lanterna_40.3890_16.5626.json,custom
+40.419063,16.550589,ov_il_ristoro_camerlingo_40.4191_16.5506,Il Ristoro Camerlingo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/il_ristoro_camerlingo_40.4191_16.5506.json,custom
+40.423220,16.541783,ov_marbe_40.4232_16.5418,Marbe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/marbe_40.4232_16.5418.json,custom
+40.339436,16.631322,ov_antica_masseria_rullo_40.3394_16.6313,Antica Masseria Rullo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/antica_masseria_rullo_40.3394_16.6313.json,custom
+40.335952,16.755709,ov_agriturismo_da_dino_40.3360_16.7557,Agriturismo da Dino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/agriturismo_da_dino_40.3360_16.7557.json,custom
+40.323341,16.711724,ov_ristorante_antica_pesa_40.3233_16.7117,Ristorante Antica Pesa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/ristorante_antica_pesa_40.3233_16.7117.json,custom
+40.303696,16.772274,ov_ristorante_emanto_40.3037_16.7723,Ristorante Emanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/ristorante_emanto_40.3037_16.7723.json,custom
+40.303528,16.772050,ov_pizzeria_la_strazzata_40.3035_16.7721,Pizzeria La Strazzata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pizzeria_la_strazzata_40.3035_16.7721.json,custom
+40.303421,16.771423,ov_braceria_san_basilio_40.3034_16.7714,Braceria San Basilio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/braceria_san_basilio_40.3034_16.7714.json,custom
+40.307080,16.789928,ov_lido_la_spiaggetta_40.3071_16.7899,Lido La Spiaggetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lido_la_spiaggetta_40.3071_16.7899.json,custom
+40.316364,16.788295,ov_ginepri_beach_restaurant_40.3164_16.7883,Ginepri Beach Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/ginepri_beach_restaurant_40.3164_16.7883.json,custom
+40.318160,16.771170,ov_lido_la_spiaggetta_40.3182_16.7712,Lido La Spiaggetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lido_la_spiaggetta_40.3182_16.7712.json,custom
+40.297568,16.781429,ov_lido_del_borgo_40.2976_16.7814,Lido Del Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lido_del_borgo_40.2976_16.7814.json,custom
+40.661110,16.610630,ov_c___di_buono_40.6611_16.6106,C’è di buono,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/c_di_buono_40.6611_16.6106.json,custom
+40.390473,16.558198,osm_napul___40.3905_16.5582,Napul'è,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/napul_40.3905_16.5582.json,custom
+40.359426,16.778271,ov_stazione_di_servizio_q8_tinchi___pisticc_40.3594_16.7783,Stazione Di Servizio Q8 Tinchi - Pisticci Marina  SS 106,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/stazione_di_servizio_q8_tinchi_-_pisticc_40.3594_16.7783.json,custom
+40.359387,16.778300,ov_q8_bar_40.3594_16.7783,Q8 BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/q8_bar_40.3594_16.7783.json,custom
+40.363378,16.688119,ov_caff__del_corso_40.3634_16.6881,Caffè del corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/caff_del_corso_40.3634_16.6881.json,custom
+40.361998,16.686805,ov_made_in_lucania_40.3620_16.6868,Made in Lucania,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/made_in_lucania_40.3620_16.6868.json,custom
+40.362484,16.687029,ov_cronos_cafe_40.3625_16.6870,Cronos Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/cronos_cafe_40.3625_16.6870.json,custom
+40.362361,16.686620,ov_so_sa__bar_di_santarcangelo_rosanna_40.3624_16.6866,So.Sa. bar di Santarcangelo Rosanna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/sosa_bar_di_santarcangelo_rosanna_40.3624_16.6866.json,custom
+40.362825,16.687547,ov_barmarconia_40.3628_16.6875,BarMarconia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/barmarconia_40.3628_16.6875.json,custom
+40.362933,16.688137,ov_tower_bar_40.3629_16.6881,Tower bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/tower_bar_40.3629_16.6881.json,custom
+40.362758,16.687688,ov_da_tiffany_1_40.3628_16.6877,Da Tiffany 1,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/da_tiffany_1_40.3628_16.6877.json,custom
+40.363052,16.691758,ov_mioss3_0_40.3631_16.6918,Mioss3.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/mioss30_40.3631_16.6918.json,custom
+40.361013,16.687210,ov_too_chic_too_lunch_cafe_bar_e_tavola_cal_40.3610_16.6872,Too Chic Too Lunch Cafe Bar e Tavola Calda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/too_chic_too_lunch_cafe_bar_e_tavola_cal_40.3610_16.6872.json,custom
+40.365303,16.692035,ov_pequeno_cafe_40.3653_16.6920,Pequeno cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pequeno_cafe_40.3653_16.6920.json,custom
+40.368943,16.691977,ov_bar_paninoteca_il_grifone_40.3689_16.6920,Bar Paninoteca Il Grifone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/bar_paninoteca_il_grifone_40.3689_16.6920.json,custom
+40.390250,16.552522,ov_bar_genesi_40.3902_16.5525,Bar Genesi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/bar_genesi_40.3902_16.5525.json,custom
+40.389813,16.552681,ov_pisticci_piazza_jonny_lombardi_40.3898_16.5527,Pisticci-Piazza Jonny Lombardi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/pisticci-piazza_jonny_lombardi_40.3898_16.5527.json,custom
+40.390155,16.556828,ov_night_and_day_cafe_40.3902_16.5568,Night and Day cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/night_and_day_cafe_40.3902_16.5568.json,custom
+40.390298,16.556980,ov_cazzati_domenico_bar_pasticceria_40.3903_16.5570,Cazzati Domenico Bar Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/cazzati_domenico_bar_pasticceria_40.3903_16.5570.json,custom
+40.389991,16.557771,ov_glitch_bar_pisticci_40.3900_16.5578,GLITCH Bar Pisticci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/glitch_bar_pisticci_40.3900_16.5578.json,custom
+40.390318,16.557725,ov_caff__della_piazza_40.3903_16.5577,Caffè della Piazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/caff_della_piazza_40.3903_16.5577.json,custom
+40.389387,16.561988,ov_caff__laviola_40.3894_16.5620,Caffè Laviola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/caff_laviola_40.3894_16.5620.json,custom
+40.391068,16.562935,ov_le_matine___casa_elizia_40.3911_16.5629,Le Matine - Casa Elizia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/le_matine_-_casa_elizia_40.3911_16.5629.json,custom
+40.390822,16.558168,ov_bar_pisticci_40.3908_16.5582,Bar Pisticci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/bar_pisticci_40.3908_16.5582.json,custom
+40.391405,16.554066,ov_movida_sport_music_bar_40.3914_16.5541,Movida Sport Music Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/movida_sport_music_bar_40.3914_16.5541.json,custom
+40.391503,16.555665,ov_bar_castronuovo_la_piazzetta_40.3915_16.5557,Bar Castronuovo La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/bar_castronuovo_la_piazzetta_40.3915_16.5557.json,custom
+40.394101,16.561698,ov_seventeen_bar__17___pisticci_40.3941_16.5617,Seventeen Bar #17 - Pisticci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/seventeen_bar_17_-_pisticci_40.3941_16.5617.json,custom
+40.330149,16.712029,ov_birra_jp2_40.3301_16.7120,Birra JP2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/birra_jp2_40.3301_16.7120.json,custom
+40.304045,16.772094,ov_iguana_cafe_40.3040_16.7721,Iguana Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/iguana_cafe_40.3040_16.7721.json,custom
+40.318733,16.800318,ov_lido_la_sirenetta_san_teodoro_40.3187_16.8003,Lido La Sirenetta San Teodoro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/lido_la_sirenetta_san_teodoro_40.3187_16.8003.json,custom
+40.338648,16.808635,ov_caffe_del_porto_40.3386_16.8086,Caffe del Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/caffe_del_porto_40.3386_16.8086.json,custom
+40.359368,16.684124,ov_royal_school_dance_40.3594_16.6841,Royal School Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/royal_school_dance_40.3594_16.6841.json,custom
+40.359722,16.684476,ov_harley_s_gym_club_40.3597_16.6845,Harley's Gym Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/harleys_gym_club_40.3597_16.6845.json,custom
+40.359358,16.678328,ov_palazzetto_dello_sport_40.3594_16.6783,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/palazzetto_dello_sport_40.3594_16.6783.json,custom
+40.391068,16.562935,ov_asd_briglie_sciolte_40.3911_16.5629,ASD Briglie Sciolte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/asd_briglie_sciolte_40.3911_16.5629.json,custom
+40.391389,16.561381,ov_wellness_revolution_40.3914_16.5614,Wellness Revolution,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/wellness_revolution_40.3914_16.5614.json,custom
+40.396764,16.523438,ov_royal_school_dance_marconia_insegnante_r_40.3968_16.5234,ROYAL School DANCE Marconia Insegnante Royal Academy of danc,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/royal_school_dance_marconia_insegnante_r_40.3968_16.5234.json,custom
+40.296022,16.768137,ov_cortequestre_san_basilio_40.2960_16.7681,Cortequestre San Basilio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/cortequestre_san_basilio_40.2960_16.7681.json,custom
+40.390296,16.551462,ov_rione_terravecchia_40.3903_16.5515,Rione Terravecchia,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/rione_terravecchia_40.3903_16.5515.json,custom
+40.390628,16.558603,ov_museo_civico_pisticci_40.3906_16.5586,Museo Civico Pisticci,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/museo_civico_pisticci_40.3906_16.5586.json,custom
+40.418829,16.549528,ov_museo_essenza_lucano_40.4188_16.5495,Museo Essenza Lucano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/museo_essenza_lucano_40.4188_16.5495.json,custom
+40.321507,16.710809,ov_castello_di_san_basilio_40.3215_16.7108,Castello di San Basilio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pisticci/pages/castello_di_san_basilio_40.3215_16.7108.json,custom

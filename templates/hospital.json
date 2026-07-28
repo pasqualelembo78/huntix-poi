@@ -1,0 +1,12 @@
+{
+  "banner": { "icon": "\uD83C\uDFE5", "title": "{name}", "subtitle": "Ospedale", "color": "#37474F" },
+  "sections": [
+    {"type":"text","title":"Pronto Soccorso","content":"Aperto 24/7 per emergenze.\nPer urgenze chiama il 118."},
+    {"type":"menu","title":"Servizi","items":[
+      {"name":"Visita Medica","price":"\u20ac0","emoji":"\uD83D\uDC8A","action":{"type":"consume","need":"hygiene","gain":30}},
+      {"name":"Controllo","price":"\u20ac0","emoji":"\uD83D\uDEE1\uFE0F","action":{"type":"consume","need":"fun","gain":10}}
+    ]},
+    {"type":"action","title":"Fai una Visita","emoji":"\uD83D\uDC8A","action":{"type":"consume","need":"hygiene","gain":35}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

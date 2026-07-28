@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # trebisacce -- bars_cafes
-39.866096,16.533758,ov_chiosco_pepell_trebisacce_39.8661_16.5338,Chiosco Pepell Trebisacce,RESTAURANT,bar_cafe
-39.865655,16.533273,ov_beat_711_39.8657_16.5333,BeAt 711,RESTAURANT,bar_cafe
-39.869444,16.536016,ov_chiosco_della_gasopola_39.8694_16.5360,Chiosco della gasopola,RESTAURANT,bar_cafe
-39.869158,16.533589,ov_for_example_cocktail_bar_39.8692_16.5336,For Example cocktail BAR,RESTAURANT,bar_cafe
-39.868764,16.533209,ov_bar_pasticceria_gelateria_de_marco_39.8688_16.5332,Bar Pasticceria Gelateria De Marco,RESTAURANT,bar_cafe
-39.868790,16.526610,ov_playa_trebisacce_39.8688_16.5266,Playa Trebisacce,RESTAURANT,bar_cafe
-39.865699,16.529131,ov_donga_lounge_bar_39.8657_16.5291,Donga Lounge Bar,RESTAURANT,bar_cafe
-39.865990,16.531271,ov_la_tana_del_luppolo_39.8660_16.5313,La Tana del Luppolo,RESTAURANT,bar_cafe
-39.865613,16.531851,ov_oasi_360_gradi_39.8656_16.5319,Oasi 360 Gradi,RESTAURANT,bar_cafe
-39.865092,16.531634,ov_iri_station_cafe_39.8651_16.5316,Iri Station Cafe,RESTAURANT,bar_cafe
-39.864539,16.530924,ov_bar_crema_e_cioccolato_39.8645_16.5309,Bar Crema E Cioccolato,RESTAURANT,bar_cafe
-39.864949,16.530134,ov_bar_ricevitoria_l_antico_caff__di_carluc_39.8649_16.5301,Bar Ricevitoria L'Antico Caffè di Carlucci Michele Mario,RESTAURANT,bar_cafe
-39.864892,16.530180,ov_monn_light_caffetteria_paninoteca_39.8649_16.5302,Monn Light Caffetteria Paninoteca,RESTAURANT,bar_cafe
-39.865100,16.529286,ov_officina_del_gusto_39.8651_16.5293,Officina del Gusto,RESTAURANT,bar_cafe
-39.863442,16.526201,ov_bar_caff__italiano_39.8634_16.5262,Bar Caffè Italiano,RESTAURANT,bar_cafe
-39.863272,16.531784,ov_carlino_39.8633_16.5318,Carlino,RESTAURANT,bar_cafe
-39.874194,16.538624,ov_bar_odissea_caffe_39.8742_16.5386,Bar Odissea Caffe,RESTAURANT,bar_cafe
-39.870287,16.534865,ov_bar_caffe_impero_39.8703_16.5349,Bar Caffe Impero,RESTAURANT,bar_cafe
-39.871298,16.535927,ov_zenzero_bistrot_39.8713_16.5359,Zenzero bistrot,RESTAURANT,bar_cafe
-39.871337,16.534804,ov_m_a_g__caffe_39.8713_16.5348,M.A.G. Caffe,RESTAURANT,bar_cafe
-39.875538,16.539884,ov_mistura_39.8755_16.5399,Mistura,RESTAURANT,bar_cafe
-39.879976,16.543466,ov_rimessaggio_barche_marino_asd_il_pescato_39.8800_16.5435,Rimessaggio Barche Marino asd Il Pescatore,RESTAURANT,bar_cafe
+39.866096,16.533758,ov_chiosco_pepell_trebisacce_39.8661_16.5338,Chiosco Pepell Trebisacce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/chiosco_pepell_trebisacce_39.8661_16.5338.json,custom
+39.865655,16.533273,ov_beat_711_39.8657_16.5333,BeAt 711,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/beat_711_39.8657_16.5333.json,custom
+39.869444,16.536016,ov_chiosco_della_gasopola_39.8694_16.5360,Chiosco della gasopola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/chiosco_della_gasopola_39.8694_16.5360.json,custom
+39.869158,16.533589,ov_for_example_cocktail_bar_39.8692_16.5336,For Example cocktail BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/for_example_cocktail_bar_39.8692_16.5336.json,custom
+39.868764,16.533209,ov_bar_pasticceria_gelateria_de_marco_39.8688_16.5332,Bar Pasticceria Gelateria De Marco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_pasticceria_gelateria_de_marco_39.8688_16.5332.json,custom
+39.868790,16.526610,ov_playa_trebisacce_39.8688_16.5266,Playa Trebisacce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/playa_trebisacce_39.8688_16.5266.json,custom
+39.865699,16.529131,ov_donga_lounge_bar_39.8657_16.5291,Donga Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/donga_lounge_bar_39.8657_16.5291.json,custom
+39.865990,16.531271,ov_la_tana_del_luppolo_39.8660_16.5313,La Tana del Luppolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/la_tana_del_luppolo_39.8660_16.5313.json,custom
+39.865613,16.531851,ov_oasi_360_gradi_39.8656_16.5319,Oasi 360 Gradi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/oasi_360_gradi_39.8656_16.5319.json,custom
+39.865092,16.531634,ov_iri_station_cafe_39.8651_16.5316,Iri Station Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/iri_station_cafe_39.8651_16.5316.json,custom
+39.864539,16.530924,ov_bar_crema_e_cioccolato_39.8645_16.5309,Bar Crema E Cioccolato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_crema_e_cioccolato_39.8645_16.5309.json,custom
+39.864949,16.530134,ov_bar_ricevitoria_l_antico_caff__di_carluc_39.8649_16.5301,Bar Ricevitoria L'Antico Caffè di Carlucci Michele Mario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_ricevitoria_lantico_caff_di_carlucci_39.8649_16.5301.json,custom
+39.864892,16.530180,ov_monn_light_caffetteria_paninoteca_39.8649_16.5302,Monn Light Caffetteria Paninoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/monn_light_caffetteria_paninoteca_39.8649_16.5302.json,custom
+39.865100,16.529286,ov_officina_del_gusto_39.8651_16.5293,Officina del Gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/officina_del_gusto_39.8651_16.5293.json,custom
+39.863442,16.526201,ov_bar_caff__italiano_39.8634_16.5262,Bar Caffè Italiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_caff_italiano_39.8634_16.5262.json,custom
+39.863272,16.531784,ov_carlino_39.8633_16.5318,Carlino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/carlino_39.8633_16.5318.json,custom
+39.874194,16.538624,ov_bar_odissea_caffe_39.8742_16.5386,Bar Odissea Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_odissea_caffe_39.8742_16.5386.json,custom
+39.870287,16.534865,ov_bar_caffe_impero_39.8703_16.5349,Bar Caffe Impero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/bar_caffe_impero_39.8703_16.5349.json,custom
+39.871298,16.535927,ov_zenzero_bistrot_39.8713_16.5359,Zenzero bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/zenzero_bistrot_39.8713_16.5359.json,custom
+39.871337,16.534804,ov_m_a_g__caffe_39.8713_16.5348,M.A.G. Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/mag_caffe_39.8713_16.5348.json,custom
+39.875538,16.539884,ov_mistura_39.8755_16.5399,Mistura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/mistura_39.8755_16.5399.json,custom
+39.879976,16.543466,ov_rimessaggio_barche_marino_asd_il_pescato_39.8800_16.5435,Rimessaggio Barche Marino asd Il Pescatore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trebisacce/pages/rimessaggio_barche_marino_asd_il_pescato_39.8800_16.5435.json,custom

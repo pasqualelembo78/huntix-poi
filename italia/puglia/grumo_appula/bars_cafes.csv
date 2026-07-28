@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grumo_appula -- bars_cafes
-40.974822,16.690823,ov_lapiana_mellitto_40.9748_16.6908,LaPiana_Mellitto,RESTAURANT,bar_cafe
-41.015640,16.709950,ov_storico_10_41.0156_16.7099,Storico 10,RESTAURANT,bar_cafe
-41.011877,16.712078,ov_bar_galena___c__snc_41.0119_16.7121,Bar Galena & C. SNC,RESTAURANT,bar_cafe
-41.011510,16.706648,ov_cuor_di_caffe_41.0115_16.7066,Cuor di Caffe,RESTAURANT,bar_cafe
-41.011958,16.707417,ov_ci_voleva_41.0120_16.7074,Ci voleva,RESTAURANT,bar_cafe
-41.012025,16.707940,ov_gran_caffe_roma_41.0120_16.7079,Gran Caffe Roma,RESTAURANT,bar_cafe
-41.012471,16.708424,ov_mangi_ami_41.0125_16.7084,Mangi Ami,RESTAURANT,bar_cafe
-41.012937,16.710950,ov_it_s_ok_cafe_41.0129_16.7110,It's Ok Cafe,RESTAURANT,bar_cafe
-41.013112,16.708041,ov_vicolo_cieco_41.0131_16.7080,Vicolo Cieco,RESTAURANT,bar_cafe
-41.016390,16.710360,ov_grancaffegrumo_41.0164_16.7104,grancaffegrumo,RESTAURANT,bar_cafe
-41.016457,16.710373,ov_gran_caffe_ottomanelli_41.0165_16.7104,Gran Caffe Ottomanelli,RESTAURANT,bar_cafe
+40.974822,16.690823,ov_lapiana_mellitto_40.9748_16.6908,LaPiana_Mellitto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/lapianamellitto_40.9748_16.6908.json,custom
+41.015640,16.709950,ov_storico_10_41.0156_16.7099,Storico 10,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/storico_10_41.0156_16.7099.json,custom
+41.011877,16.712078,ov_bar_galena___c__snc_41.0119_16.7121,Bar Galena & C. SNC,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/bar_galena_c_snc_41.0119_16.7121.json,custom
+41.011510,16.706648,ov_cuor_di_caffe_41.0115_16.7066,Cuor di Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/cuor_di_caffe_41.0115_16.7066.json,custom
+41.011958,16.707417,ov_ci_voleva_41.0120_16.7074,Ci voleva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/ci_voleva_41.0120_16.7074.json,custom
+41.012025,16.707940,ov_gran_caffe_roma_41.0120_16.7079,Gran Caffe Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/gran_caffe_roma_41.0120_16.7079.json,custom
+41.012471,16.708424,ov_mangi_ami_41.0125_16.7084,Mangi Ami,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/mangi_ami_41.0125_16.7084.json,custom
+41.012937,16.710950,ov_it_s_ok_cafe_41.0129_16.7110,It's Ok Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/its_ok_cafe_41.0129_16.7110.json,custom
+41.013112,16.708041,ov_vicolo_cieco_41.0131_16.7080,Vicolo Cieco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/vicolo_cieco_41.0131_16.7080.json,custom
+41.016390,16.710360,ov_grancaffegrumo_41.0164_16.7104,grancaffegrumo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/grancaffegrumo_41.0164_16.7104.json,custom
+41.016457,16.710373,ov_gran_caffe_ottomanelli_41.0165_16.7104,Gran Caffe Ottomanelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/gran_caffe_ottomanelli_41.0165_16.7104.json,custom

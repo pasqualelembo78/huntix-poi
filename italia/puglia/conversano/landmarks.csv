@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # conversano -- landmarks
-40.968842,17.114997,ov_castello_di_conversano_40.9688_17.1150,Castello di Conversano,MUSEUM,monumento
-40.969002,17.115441,ov_museco___musei_in_conversano_40.9690_17.1154,Museco - Musei in Conversano,MUSEUM,monumento
-40.966573,17.124038,ov_labottega___laboratorio_urbano_conversan_40.9666_17.1240,LABottega - Laboratorio Urbano Conversano,MUSEUM,monumento
-40.967841,17.115940,ov_mura_megalitiche_di_conversano_40.9678_17.1159,Mura megalitiche di Conversano,MUSEUM,monumento
-40.967928,17.115315,ov_museo_civico_archeologico_di_conversano_40.9679_17.1153,Museo Civico Archeologico di Conversano,MUSEUM,monumento
-40.967701,17.115136,ov_chiostro_san_benedetto_40.9677_17.1151,Chiostro san Benedetto,MONUMENT,monumento
-40.966180,17.116470,ov_mumaf___museo_della_marineria_e_dei_fari_40.9662_17.1165,MUMAF - Museo della Marineria e dei Fari,MUSEUM,monumento
+40.968842,17.114997,ov_castello_di_conversano_40.9688_17.1150,Castello di Conversano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/castello_di_conversano_40.9688_17.1150.json,custom
+40.969002,17.115441,ov_museco___musei_in_conversano_40.9690_17.1154,Museco - Musei in Conversano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/museco_-_musei_in_conversano_40.9690_17.1154.json,custom
+40.966573,17.124038,ov_labottega___laboratorio_urbano_conversan_40.9666_17.1240,LABottega - Laboratorio Urbano Conversano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/labottega_-_laboratorio_urbano_conversan_40.9666_17.1240.json,custom
+40.967841,17.115940,ov_mura_megalitiche_di_conversano_40.9678_17.1159,Mura megalitiche di Conversano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/mura_megalitiche_di_conversano_40.9678_17.1159.json,custom
+40.967928,17.115315,ov_museo_civico_archeologico_di_conversano_40.9679_17.1153,Museo Civico Archeologico di Conversano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/museo_civico_archeologico_di_conversano_40.9679_17.1153.json,custom
+40.967701,17.115136,ov_chiostro_san_benedetto_40.9677_17.1151,Chiostro san Benedetto,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/chiostro_san_benedetto_40.9677_17.1151.json,custom
+40.966180,17.116470,ov_mumaf___museo_della_marineria_e_dei_fari_40.9662_17.1165,MUMAF - Museo della Marineria e dei Fari,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/mumaf_-_museo_della_marineria_e_dei_fari_40.9662_17.1165.json,custom

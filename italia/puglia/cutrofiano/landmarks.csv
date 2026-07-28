@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cutrofiano -- landmarks
-40.126438,18.201442,ov_museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014,Museo della Ceramica e Biblioteca di Cutrofiano,MUSEUM,monumento
-40.126645,18.201222,ov_monumento_a_san_pio_40.1266_18.2012,Monumento A San Pio,MONUMENT,monumento
-40.128000,18.208640,ov_cutrofiano_citt__della_ceramica_40.1280_18.2086,Cutrofiano Città della Ceramica,MUSEUM,monumento
+40.126438,18.201442,ov_museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014,Museo della Ceramica e Biblioteca di Cutrofiano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014.json,custom
+40.126645,18.201222,ov_monumento_a_san_pio_40.1266_18.2012,Monumento A San Pio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/monumento_a_san_pio_40.1266_18.2012.json,custom
+40.128000,18.208640,ov_cutrofiano_citt__della_ceramica_40.1280_18.2086,Cutrofiano Città della Ceramica,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/cutrofiano_citt_della_ceramica_40.1280_18.2086.json,custom

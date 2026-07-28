@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # senise -- gyms
-40.128787,16.300691,ov_asd_bike_explorer_40.1288_16.3007,ASD BIKE Explorer,GYM,palestra
-40.147186,16.287096,ov_centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871,Centro Parrocchiale don Egidio Guerriero - Senise,GYM,palestra
-40.143555,16.292809,ov_grillo_garage_84_40.1436_16.2928,Grillo Garage 84,GYM,palestra
-40.149588,16.289330,ov_fitness_one_club_sport_center_40.1496_16.2893,Fitness One Club Sport Center,GYM,palestra
-40.150426,16.287237,ov_power_training_studio_40.1504_16.2872,Power Training Studio,GYM,palestra
-40.143249,16.285465,ov_palestra_egidiosportcenter_40.1432_16.2855,Palestra egidiosportcenter,GYM,palestra
+40.128787,16.300691,ov_asd_bike_explorer_40.1288_16.3007,ASD BIKE Explorer,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/asd_bike_explorer_40.1288_16.3007.json,custom
+40.147186,16.287096,ov_centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871,Centro Parrocchiale don Egidio Guerriero - Senise,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871.json,custom
+40.143555,16.292809,ov_grillo_garage_84_40.1436_16.2928,Grillo Garage 84,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/grillo_garage_84_40.1436_16.2928.json,custom
+40.149588,16.289330,ov_fitness_one_club_sport_center_40.1496_16.2893,Fitness One Club Sport Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/fitness_one_club_sport_center_40.1496_16.2893.json,custom
+40.150426,16.287237,ov_power_training_studio_40.1504_16.2872,Power Training Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/power_training_studio_40.1504_16.2872.json,custom
+40.143249,16.285465,ov_palestra_egidiosportcenter_40.1432_16.2855,Palestra egidiosportcenter,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/palestra_egidiosportcenter_40.1432_16.2855.json,custom

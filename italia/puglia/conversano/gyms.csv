@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # conversano -- gyms
-40.924633,17.167984,ov_centro_tecnico_della_subacquea_40.9246_17.1680,Centro Tecnico Della Subacquea,GYM,palestra
-40.969058,17.106056,ov_melody_dance_academy_40.9691_17.1061,Melody Dance Academy,GYM,palestra
-40.971063,17.113563,ov_nuova_era___scuola_di_ballo_conversano_40.9711_17.1136,Nuova Era - Scuola Di ballo Conversano,GYM,palestra
-40.971185,17.113474,ov_los_angeles_school_40.9712_17.1135,Los Angeles School,GYM,palestra
-40.973095,17.105494,ov_club_2000_40.9731_17.1055,Club 2000,GYM,palestra
-40.972371,17.109838,ov_sangha__yoga_e_discipline_olistiche_40.9724_17.1098,"Sangha, yoga e discipline olistiche",GYM,palestra
-40.970598,17.115447,ov_centro_sportivo_crescamus_40.9706_17.1154,Centro Sportivo Crescamus,GYM,palestra
-40.966350,17.121920,ov_airon_40.9663_17.1219,Airon,GYM,palestra
-40.967606,17.106922,ov_imperial_gym_40.9676_17.1069,Imperial Gym,GYM,palestra
-40.966684,17.107591,ov_ahi_nama_danze_ballo_e_fitness_40.9667_17.1076,Ahi Nama Danze Ballo e Fitness,GYM,palestra
-40.963960,17.116904,ov_in_movimento_fitness_club_40.9640_17.1169,In Movimento Fitness Club,GYM,palestra
-40.966180,17.116470,ov_asd_circolo_ippico_dei_sannaci_40.9662_17.1165,ASD Circolo Ippico dei Sannaci,GYM,palestra
-40.961513,17.121374,ov_palasport_san_giacomo_40.9615_17.1214,PalaSport San Giacomo,GYM,palestra
-40.959943,17.113049,ov_petite_etoile_40.9599_17.1130,Petite Etoile,GYM,palestra
-40.960059,17.113059,ov_emotions_atelier_40.9601_17.1131,Emotions Atelier,GYM,palestra
-40.963239,17.111091,ov_cyclon_lab_40.9632_17.1111,Cyclon Lab,GYM,palestra
-40.963227,17.111142,ov_asd_centro_iyengar_yoga_samasthiti_40.9632_17.1111,ASD Centro Iyengar Yoga Samasthiti,GYM,palestra
+40.924633,17.167984,ov_centro_tecnico_della_subacquea_40.9246_17.1680,Centro Tecnico Della Subacquea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/centro_tecnico_della_subacquea_40.9246_17.1680.json,custom
+40.969058,17.106056,ov_melody_dance_academy_40.9691_17.1061,Melody Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/melody_dance_academy_40.9691_17.1061.json,custom
+40.971063,17.113563,ov_nuova_era___scuola_di_ballo_conversano_40.9711_17.1136,Nuova Era - Scuola Di ballo Conversano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/nuova_era_-_scuola_di_ballo_conversano_40.9711_17.1136.json,custom
+40.971185,17.113474,ov_los_angeles_school_40.9712_17.1135,Los Angeles School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/los_angeles_school_40.9712_17.1135.json,custom
+40.973095,17.105494,ov_club_2000_40.9731_17.1055,Club 2000,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/club_2000_40.9731_17.1055.json,custom
+40.972371,17.109838,ov_sangha__yoga_e_discipline_olistiche_40.9724_17.1098,"Sangha, yoga e discipline olistiche",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/sangha_yoga_e_discipline_olistiche_40.9724_17.1098.json,custom
+40.970598,17.115447,ov_centro_sportivo_crescamus_40.9706_17.1154,Centro Sportivo Crescamus,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/centro_sportivo_crescamus_40.9706_17.1154.json,custom
+40.966350,17.121920,ov_airon_40.9663_17.1219,Airon,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/airon_40.9663_17.1219.json,custom
+40.967606,17.106922,ov_imperial_gym_40.9676_17.1069,Imperial Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/imperial_gym_40.9676_17.1069.json,custom
+40.966684,17.107591,ov_ahi_nama_danze_ballo_e_fitness_40.9667_17.1076,Ahi Nama Danze Ballo e Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/ahi_nama_danze_ballo_e_fitness_40.9667_17.1076.json,custom
+40.963960,17.116904,ov_in_movimento_fitness_club_40.9640_17.1169,In Movimento Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/in_movimento_fitness_club_40.9640_17.1169.json,custom
+40.966180,17.116470,ov_asd_circolo_ippico_dei_sannaci_40.9662_17.1165,ASD Circolo Ippico dei Sannaci,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/asd_circolo_ippico_dei_sannaci_40.9662_17.1165.json,custom
+40.961513,17.121374,ov_palasport_san_giacomo_40.9615_17.1214,PalaSport San Giacomo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/palasport_san_giacomo_40.9615_17.1214.json,custom
+40.959943,17.113049,ov_petite_etoile_40.9599_17.1130,Petite Etoile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/petite_etoile_40.9599_17.1130.json,custom
+40.960059,17.113059,ov_emotions_atelier_40.9601_17.1131,Emotions Atelier,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/emotions_atelier_40.9601_17.1131.json,custom
+40.963239,17.111091,ov_cyclon_lab_40.9632_17.1111,Cyclon Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/cyclon_lab_40.9632_17.1111.json,custom
+40.963227,17.111142,ov_asd_centro_iyengar_yoga_samasthiti_40.9632_17.1111,ASD Centro Iyengar Yoga Samasthiti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/asd_centro_iyengar_yoga_samasthiti_40.9632_17.1111.json,custom

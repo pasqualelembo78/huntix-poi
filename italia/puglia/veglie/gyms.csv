@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # veglie -- gyms
-40.342274,17.963048,ov_campo_sportivo_flavio_minetola_40.3423_17.9630,Campo Sportivo Flavio Minetola,GYM,palestra
-40.346940,17.950076,ov_time_out_centro_sportivo_40.3469_17.9501,Time Out Centro Sportivo,GYM,palestra
-40.324765,17.964180,ov_evolution_sport_e_fitness_40.3248_17.9642,Evolution sport e fitness,GYM,palestra
-40.331780,17.950474,ov_centro_danza_arabesque_40.3318_17.9505,Centro Danza Arabesque,GYM,palestra
-40.336233,17.955749,ov_a_s_d__area_fitness_club_40.3362_17.9557,A.S.D. Area Fitness Club,GYM,palestra
-40.334852,17.964598,ov_asd_progetto_danza_40.3349_17.9646,ASD Progetto Danza,GYM,palestra
-40.334954,17.964685,ov_la_casa_di_mary_poppins_40.3350_17.9647,La casa di Mary Poppins,GYM,palestra
-40.332410,17.971290,ov_new_ever_dance_40.3324_17.9713,New Ever Dance,GYM,palestra
-40.338040,17.971620,ov_siam_gym_muay_thai_team_bray_40.3380_17.9716,Siam Gym Muay Thai team Bray,GYM,palestra
-40.338142,17.971526,ov_palestra_one_40.3381_17.9715,Palestra ONE,GYM,palestra
-40.321440,17.978222,ov_asd_liberanium_shooting_and_formation_ac_40.3214_17.9782,Asd Liberanium Shooting And Formation Academy,GYM,palestra
-40.271900,17.899625,ov_tennis_rizzi__a_s_d__alemanno__40.2719_17.8996,Tennis Rizzi (A.S.D. Alemanno),GYM,palestra
+40.342274,17.963048,ov_campo_sportivo_flavio_minetola_40.3423_17.9630,Campo Sportivo Flavio Minetola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/campo_sportivo_flavio_minetola_40.3423_17.9630.json,custom
+40.346940,17.950076,ov_time_out_centro_sportivo_40.3469_17.9501,Time Out Centro Sportivo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/time_out_centro_sportivo_40.3469_17.9501.json,custom
+40.324765,17.964180,ov_evolution_sport_e_fitness_40.3248_17.9642,Evolution sport e fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/evolution_sport_e_fitness_40.3248_17.9642.json,custom
+40.331780,17.950474,ov_centro_danza_arabesque_40.3318_17.9505,Centro Danza Arabesque,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/centro_danza_arabesque_40.3318_17.9505.json,custom
+40.336233,17.955749,ov_a_s_d__area_fitness_club_40.3362_17.9557,A.S.D. Area Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/asd_area_fitness_club_40.3362_17.9557.json,custom
+40.334852,17.964598,ov_asd_progetto_danza_40.3349_17.9646,ASD Progetto Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/asd_progetto_danza_40.3349_17.9646.json,custom
+40.334954,17.964685,ov_la_casa_di_mary_poppins_40.3350_17.9647,La casa di Mary Poppins,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/la_casa_di_mary_poppins_40.3350_17.9647.json,custom
+40.332410,17.971290,ov_new_ever_dance_40.3324_17.9713,New Ever Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/new_ever_dance_40.3324_17.9713.json,custom
+40.338040,17.971620,ov_siam_gym_muay_thai_team_bray_40.3380_17.9716,Siam Gym Muay Thai team Bray,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/siam_gym_muay_thai_team_bray_40.3380_17.9716.json,custom
+40.338142,17.971526,ov_palestra_one_40.3381_17.9715,Palestra ONE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/palestra_one_40.3381_17.9715.json,custom
+40.321440,17.978222,ov_asd_liberanium_shooting_and_formation_ac_40.3214_17.9782,Asd Liberanium Shooting And Formation Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/asd_liberanium_shooting_and_formation_ac_40.3214_17.9782.json,custom
+40.271900,17.899625,ov_tennis_rizzi__a_s_d__alemanno__40.2719_17.8996,Tennis Rizzi (A.S.D. Alemanno),GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/veglie/pages/tennis_rizzi_asd_alemanno_40.2719_17.8996.json,custom

@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # satriano_di_lucania -- restaurants
-40.557689,15.646672,ov_restaurant_la_botte_40.5577_15.6467,Restaurant La Botte,RESTAURANT,ristorante
-40.552337,15.640724,ov_ristorante_sotto_la_torre_40.5523_15.6407,Ristorante sotto la torre,RESTAURANT,ristorante
-40.543690,15.640746,ov_pizzeria_del_corso_40.5437_15.6407,Pizzeria del Corso,RESTAURANT,ristorante
-40.543997,15.640325,ov_caluae_di_pepe_luciano_40.5440_15.6403,Caluae di Pepe Luciano,RESTAURANT,ristorante
-40.548302,15.629729,ov_ristorante_dell_agriturismo_fattoria_bio_40.5483_15.6297,Ristorante dell'Agriturismo Fattoria Bio,RESTAURANT,ristorante
-40.542080,15.641690,ov_carpediem_brasseria_pizzeria_di_loisi_ro_40.5421_15.6417,Carpediem Brasseria Pizzeria di Loisi Rocco,RESTAURANT,ristorante
-40.535129,15.652780,ov_ristorante_caluae_40.5351_15.6528,Ristorante Caluae,RESTAURANT,ristorante
+40.557689,15.646672,ov_restaurant_la_botte_40.5577_15.6467,Restaurant La Botte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/restaurant_la_botte_40.5577_15.6467.json,custom
+40.552337,15.640724,ov_ristorante_sotto_la_torre_40.5523_15.6407,Ristorante sotto la torre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/ristorante_sotto_la_torre_40.5523_15.6407.json,custom
+40.543690,15.640746,ov_pizzeria_del_corso_40.5437_15.6407,Pizzeria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/pizzeria_del_corso_40.5437_15.6407.json,custom
+40.543997,15.640325,ov_caluae_di_pepe_luciano_40.5440_15.6403,Caluae di Pepe Luciano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/caluae_di_pepe_luciano_40.5440_15.6403.json,custom
+40.548302,15.629729,ov_ristorante_dell_agriturismo_fattoria_bio_40.5483_15.6297,Ristorante dell'Agriturismo Fattoria Bio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/ristorante_dellagriturismo_fattoria_bio_40.5483_15.6297.json,custom
+40.542080,15.641690,ov_carpediem_brasseria_pizzeria_di_loisi_ro_40.5421_15.6417,Carpediem Brasseria Pizzeria di Loisi Rocco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/carpediem_brasseria_pizzeria_di_loisi_ro_40.5421_15.6417.json,custom
+40.535129,15.652780,ov_ristorante_caluae_40.5351_15.6528,Ristorante Caluae,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/satriano_di_lucania/pages/ristorante_caluae_40.5351_15.6528.json,custom

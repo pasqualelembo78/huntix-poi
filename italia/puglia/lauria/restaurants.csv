@@ -1,31 +1,30 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lauria -- restaurants
-40.051871,15.844012,osm_ristorante_panaino_40.0519_15.8440,Ristorante Panaino,ristorante,ristorante
-40.074310,15.919149,osm_over_dream_40.0743_15.9191,Over Dream,ristorante,ristorante
-40.053796,15.837840,osm_taverna_del_buongustaio_40.0538_15.8378,Taverna del Buongustaio,ristorante,ristorante
-40.005819,15.910032,osm_sarni_40.0058_15.9100,Sarni,ristorante,ristorante
-40.007371,15.910311,osm_sarni_40.0074_15.9103,Sarni,ristorante,ristorante
-40.072471,15.855469,ov_bar_ristorante_da_giovanni_40.0725_15.8555,Bar ristorante Da Giovanni,RESTAURANT,ristorante
-40.073450,15.866259,ov_time_out_40.0735_15.8663,Time Out,RESTAURANT,ristorante
-40.084388,15.887289,ov_piccolino_40.0844_15.8873,Piccolino,RESTAURANT,ristorante
-40.081442,15.903863,ov_basilicata_grantour_40.0814_15.9039,Basilicata grantour,RESTAURANT,ristorante
-40.076546,15.898091,ov_lauria_nord_bar_italia_40.0765_15.8981,Lauria Nord Bar Italia,RESTAURANT,ristorante
-40.016060,15.903210,ov_pellet_drive_lauria_40.0161_15.9032,Pellet Drive Lauria,RESTAURANT,ristorante
-40.014390,15.858800,ov_pizza_si_lauria_40.0144_15.8588,Pizza si lauria,RESTAURANT,ristorante
-40.026060,15.868750,ov_time_out_lauria_40.0261_15.8688,Time Out Lauria,RESTAURANT,ristorante
-40.027051,15.866644,ov_ristorante_piccolo_mondo_40.0271_15.8666,Ristorante Piccolo Mondo,RESTAURANT,ristorante
-40.051752,15.843919,ov_panaino_40.0518_15.8439,Panaino,RESTAURANT,ristorante
-40.051472,15.843047,ov_bottega63_lab_40.0515_15.8430,Bottega63 LAB,RESTAURANT,ristorante
-40.048897,15.838318,ov_peccati_di_gola_da_walter_40.0489_15.8383,Peccati di gola da Walter,RESTAURANT,ristorante
-40.048596,15.838368,ov_la_cantinetta_di_dompe_40.0486_15.8384,La Cantinetta di Dompe,RESTAURANT,ristorante
-40.049797,15.838443,ov_vinea_lauria_40.0498_15.8384,Vinea Lauria,RESTAURANT,ristorante
-40.051127,15.838807,ov_bgud_40.0511_15.8388,Bgud,RESTAURANT,ristorante
-40.053722,15.837889,ov_taverna_del_buongustaio_40.0537_15.8379,Taverna del Buongustaio,RESTAURANT,ristorante
-40.042398,15.834166,ov_joel_in_mille_misture_40.0424_15.8342,Joel in mille misture,RESTAURANT,ristorante
-40.045836,15.831115,ov_agua_loca_40.0458_15.8311,Agua Loca,RESTAURANT,ristorante
-40.040337,15.834608,ov_ristorante_da_giovanni_40.0403_15.8346,Ristorante Da Giovanni,RESTAURANT,ristorante
-40.041195,15.835728,ov_bermuda3_0food_40.0412_15.8357,Bermuda3.0food,RESTAURANT,ristorante
-40.033325,15.833493,ov_over_dream_40.0333_15.8335,Over Dream,RESTAURANT,ristorante
-40.011854,15.914694,ov_ristorante_cazzanedda_40.0119_15.9147,Ristorante Cazzanedda,RESTAURANT,ristorante
-40.068690,15.927040,ov_over_dream___40.0687_15.9270,Over Dream��,RESTAURANT,ristorante
-40.074585,15.919483,ov_over_dream_40.0746_15.9195,Over Dream,RESTAURANT,ristorante
+40.072471,15.855469,ov_bar_ristorante_da_giovanni_40.0725_15.8555,Bar ristorante Da Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bar_ristorante_da_giovanni_40.0725_15.8555.json,custom
+40.073450,15.866259,ov_time_out_40.0735_15.8663,Time Out,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/time_out_40.0735_15.8663.json,custom
+40.084388,15.887289,ov_piccolino_40.0844_15.8873,Piccolino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/piccolino_40.0844_15.8873.json,custom
+40.081442,15.903863,ov_basilicata_grantour_40.0814_15.9039,Basilicata grantour,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/basilicata_grantour_40.0814_15.9039.json,custom
+40.076546,15.898091,ov_lauria_nord_bar_italia_40.0765_15.8981,Lauria Nord Bar Italia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/lauria_nord_bar_italia_40.0765_15.8981.json,custom
+40.016060,15.903210,ov_pellet_drive_lauria_40.0161_15.9032,Pellet Drive Lauria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/pellet_drive_lauria_40.0161_15.9032.json,custom
+40.014390,15.858800,ov_pizza_si_lauria_40.0144_15.8588,Pizza si lauria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/pizza_si_lauria_40.0144_15.8588.json,custom
+40.026060,15.868750,ov_time_out_lauria_40.0261_15.8688,Time Out Lauria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/time_out_lauria_40.0261_15.8688.json,custom
+40.027051,15.866644,ov_ristorante_piccolo_mondo_40.0271_15.8666,Ristorante Piccolo Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/ristorante_piccolo_mondo_40.0271_15.8666.json,custom
+40.051752,15.843919,ov_panaino_40.0518_15.8439,Panaino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/panaino_40.0518_15.8439.json,custom
+40.051472,15.843047,ov_bottega63_lab_40.0515_15.8430,Bottega63 LAB,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bottega63_lab_40.0515_15.8430.json,custom
+40.048897,15.838318,ov_peccati_di_gola_da_walter_40.0489_15.8383,Peccati di gola da Walter,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/peccati_di_gola_da_walter_40.0489_15.8383.json,custom
+40.048596,15.838368,ov_la_cantinetta_di_dompe_40.0486_15.8384,La Cantinetta di Dompe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/la_cantinetta_di_dompe_40.0486_15.8384.json,custom
+40.049797,15.838443,ov_vinea_lauria_40.0498_15.8384,Vinea Lauria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/vinea_lauria_40.0498_15.8384.json,custom
+40.051127,15.838807,ov_bgud_40.0511_15.8388,Bgud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bgud_40.0511_15.8388.json,custom
+40.053722,15.837889,ov_taverna_del_buongustaio_40.0537_15.8379,Taverna del Buongustaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/taverna_del_buongustaio_40.0537_15.8379.json,custom
+40.042398,15.834166,ov_joel_in_mille_misture_40.0424_15.8342,Joel in mille misture,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/joel_in_mille_misture_40.0424_15.8342.json,custom
+40.045836,15.831115,ov_agua_loca_40.0458_15.8311,Agua Loca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/agua_loca_40.0458_15.8311.json,custom
+40.040337,15.834608,ov_ristorante_da_giovanni_40.0403_15.8346,Ristorante Da Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/ristorante_da_giovanni_40.0403_15.8346.json,custom
+40.041195,15.835728,ov_bermuda3_0food_40.0412_15.8357,Bermuda3.0food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bermuda30food_40.0412_15.8357.json,custom
+40.033325,15.833493,ov_over_dream_40.0333_15.8335,Over Dream,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/over_dream_40.0333_15.8335.json,custom
+40.011854,15.914694,ov_ristorante_cazzanedda_40.0119_15.9147,Ristorante Cazzanedda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/ristorante_cazzanedda_40.0119_15.9147.json,custom
+40.068690,15.927040,ov_over_dream___40.0687_15.9270,Over Dream��,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/over_dream_40.0687_15.9270.json,custom
+40.074585,15.919483,ov_over_dream_40.0746_15.9195,Over Dream,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/over_dream_40.0746_15.9195.json,custom
+40.051871,15.844012,osm_ristorante_panaino_40.0519_15.8440,Ristorante Panaino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/ristorante_panaino_40.0519_15.8440.json,custom
+40.074310,15.919149,osm_over_dream_40.0743_15.9191,Over Dream,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/over_dream_40.0743_15.9191.json,custom
+40.005819,15.910032,osm_sarni_40.0058_15.9100,Sarni,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/sarni_40.0058_15.9100.json,custom
+40.007371,15.910311,osm_sarni_40.0074_15.9103,Sarni,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/sarni_40.0074_15.9103.json,custom

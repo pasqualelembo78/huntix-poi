@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # zungoli -- restaurants
-41.129275,15.203564,ov_trattoria_pizzeria__rosa__41.1293_15.2036,Trattoria Pizzeria “Rosa”,RESTAURANT,ristorante
-41.123463,15.201898,ov_bevere_rosanna_41.1235_15.2019,Bevere Rosanna,RESTAURANT,ristorante
-41.130330,15.225450,ov_agriturismo_la_torre_zungoli_41.1303_15.2255,Agriturismo la torre zungoli,RESTAURANT,ristorante
-41.136738,15.204258,ov_agriturismo_tratturo_zungoli_41.1367_15.2043,Agriturismo Tratturo Zungoli,RESTAURANT,ristorante
-41.249959,15.247901,ov_ristorante_pensione_del_monte_41.2500_15.2479,Ristorante Pensione Del Monte,RESTAURANT,ristorante
+41.129275,15.203564,ov_trattoria_pizzeria__rosa__41.1293_15.2036,Trattoria Pizzeria “Rosa”,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zungoli/pages/trattoria_pizzeria_rosa_41.1293_15.2036.json,custom
+41.123463,15.201898,ov_bevere_rosanna_41.1235_15.2019,Bevere Rosanna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zungoli/pages/bevere_rosanna_41.1235_15.2019.json,custom
+41.130330,15.225450,ov_agriturismo_la_torre_zungoli_41.1303_15.2255,Agriturismo la torre zungoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zungoli/pages/agriturismo_la_torre_zungoli_41.1303_15.2255.json,custom
+41.136738,15.204258,ov_agriturismo_tratturo_zungoli_41.1367_15.2043,Agriturismo Tratturo Zungoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zungoli/pages/agriturismo_tratturo_zungoli_41.1367_15.2043.json,custom
+41.249959,15.247901,ov_ristorante_pensione_del_monte_41.2500_15.2479,Ristorante Pensione Del Monte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zungoli/pages/ristorante_pensione_del_monte_41.2500_15.2479.json,custom

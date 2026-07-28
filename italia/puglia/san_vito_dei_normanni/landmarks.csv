@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_vito_dei_normanni -- landmarks
-40.646667,17.704167,ov_castello_d_alceste_40.6467_17.7042,Castello d'Alceste,MUSEUM,monumento
-40.658718,17.701600,ov_museo_della_civilt__rurale_40.6587_17.7016,Museo della Civiltà Rurale,MUSEUM,monumento
-40.656543,17.704201,ov_castello_dentice_di_frasso_40.6565_17.7042,Castello Dentice di Frasso,MONUMENT,monumento
-40.639960,17.706000,ov_museo_diffuso_castello_di_alceste_40.6400_17.7060,Museo Diffuso Castello di Alceste,MUSEUM,monumento
+40.646667,17.704167,ov_castello_d_alceste_40.6467_17.7042,Castello d'Alceste,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_vito_dei_normanni/pages/castello_dalceste_40.6467_17.7042.json,custom
+40.658718,17.701600,ov_museo_della_civilt__rurale_40.6587_17.7016,Museo della Civiltà Rurale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_vito_dei_normanni/pages/museo_della_civilt_rurale_40.6587_17.7016.json,custom
+40.656543,17.704201,ov_castello_dentice_di_frasso_40.6565_17.7042,Castello Dentice di Frasso,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_vito_dei_normanni/pages/castello_dentice_di_frasso_40.6565_17.7042.json,custom
+40.639960,17.706000,ov_museo_diffuso_castello_di_alceste_40.6400_17.7060,Museo Diffuso Castello di Alceste,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_vito_dei_normanni/pages/museo_diffuso_castello_di_alceste_40.6400_17.7060.json,custom

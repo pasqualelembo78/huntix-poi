@@ -1,267 +1,261 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # monopoli -- restaurants
-40.952717,17.304411,osm_osteria_perricci_40.9527_17.3044,Osteria Perricci,ristorante,ristorante
-40.940584,17.315493,osm_ristorante_ricevimenti_copacabana_40.9406_17.3155,Ristorante ricevimenti Copacabana,ristorante,ristorante
-40.944246,17.306056,osm_delizie_di_sicilia___pizzeria_40.9442_17.3061,Delizie di sicilia - Pizzeria,ristorante,ristorante
-40.953118,17.302775,osm_trattoria_pierino_l_inglese_40.9531_17.3028,Trattoria Pierino l'inglese,ristorante,ristorante
-40.882903,17.336595,osm_panificio_l_assunta_40.8829_17.3366,Panificio L'Assunta,ristorante,ristorante
-40.953627,17.305162,osm_the_king_40.9536_17.3052,The King,ristorante,ristorante
-40.952714,17.302253,osm_pugliami_40.9527_17.3023,Pugliami,ristorante,ristorante
-40.953678,17.296005,osm_focacciamo_40.9537_17.2960,Focacciamo,ristorante,ristorante
-40.952640,17.303116,osm_pinsotti_pinsa___bacaro_40.9526_17.3031,PINSOTTI pinsa & bacaro,ristorante,ristorante
-40.953953,17.302906,osm_la_locanda_sul_porto_40.9540_17.3029,La Locanda sul Porto,ristorante,ristorante
-40.958294,17.293271,osm_pane_e_fantasie_40.9583_17.2933,Pane e Fantasie,ristorante,ristorante
-40.957372,17.294909,osm_garage27_40.9574_17.2949,Garage27,ristorante,ristorante
-40.957597,17.294719,osm_pollidea_40.9576_17.2947,Pollidea,ristorante,ristorante
-40.948307,17.306600,osm_lido_bianco_40.9483_17.3066,Lido Bianco,ristorante,ristorante
-40.866439,17.277253,osm_masseria_gelso_antico_40.8664_17.2773,Masseria Gelso Antico,ristorante,ristorante
-40.950866,17.305292,osm_a_sentimento_40.9509_17.3053,A Sentimento,ristorante,ristorante
-40.930448,17.189057,osm_sala_ricevimenti_mizar_blu_40.9304_17.1891,Sala Ricevimenti Mizar Blu,ristorante,ristorante
-40.945723,17.267896,osm_agriturismo_tenuta_chianchizza_40.9457_17.2679,Agriturismo Tenuta Chianchizza,ristorante,ristorante
-40.958276,17.282116,osm_mcdonald_s_40.9583_17.2821,McDonald's,ristorante,ristorante
-40.840005,17.251545,ov_masseria_casa_busciana_40.8400_17.2515,Masseria Casa Busciana,RESTAURANT,ristorante
-40.932295,17.194079,ov_diana_ristorantino_40.9323_17.1941,Diana Ristorantino,RESTAURANT,ristorante
-40.923537,17.223111,ov_st_stakhanovista_40.9235_17.2231,ST Stakhanovista,RESTAURANT,ristorante
-40.924713,17.222036,ov_braceria_aresta_40.9247_17.2220,Braceria Aresta,RESTAURANT,ristorante
-40.930352,17.207603,ov_anima_e_passione_ristorante_pizzeria_40.9304_17.2076,Anima e Passione Ristorante Pizzeria,RESTAURANT,ristorante
-40.935987,17.205187,ov_agriturismo_il_castagnaro_40.9360_17.2052,Agriturismo Il Castagnaro,RESTAURANT,ristorante
-40.936766,17.212558,ov_il_mosaico_40.9368_17.2126,Il Mosaico,RESTAURANT,ristorante
-40.931080,17.220060,ov_il_castagnaro_agriturismo_40.9311_17.2201,Il Castagnaro Agriturismo,RESTAURANT,ristorante
-40.911958,17.226238,ov_fabula_bistrot_40.9120_17.2262,Fabula Bistrot,RESTAURANT,ristorante
-40.909410,17.217970,ov_nevada_40.9094_17.2180,Nevada,RESTAURANT,ristorante
-40.909750,17.230219,ov_pietrantica_40.9097_17.2302,PietrAntica,RESTAURANT,ristorante
-40.899889,17.208189,ov_ristorante_gli_ulivi_40.8999_17.2082,Ristorante Gli Ulivi,RESTAURANT,ristorante
-40.893628,17.240788,ov_braceria_vecchie_storie_40.8936_17.2408,Braceria Vecchie Storie,RESTAURANT,ristorante
-40.890856,17.244502,ov_la_lampara_sui_colli_40.8909_17.2445,La Lampara Sui Colli,RESTAURANT,ristorante
-40.887078,17.260321,ov_la_tavernetta_40.8871_17.2603,La Tavernetta,RESTAURANT,ristorante
-40.881871,17.244200,ov_masseria_notarangelo_40.8819_17.2442,Masseria notarangelo,RESTAURANT,ristorante
-40.854902,17.289111,ov_orto_il_restaurante_40.8549_17.2891,Orto Il Restaurante,RESTAURANT,ristorante
-40.860590,17.292690,ov_orto_il_ristorante_40.8606_17.2927,Orto il Ristorante,RESTAURANT,ristorante
-40.864156,17.267320,ov_il_trulletto_40.8642_17.2673,Il Trulletto,RESTAURANT,ristorante
-40.866755,17.277557,ov_masseria_gelso_antico_40.8668_17.2776,Masseria Gelso Antico,RESTAURANT,ristorante
-40.867428,17.291203,ov_la_loggia_di_pilato_40.8674_17.2912,La Loggia di Pilato,RESTAURANT,ristorante
-40.875823,17.339464,ov_l__aia__aia_antica__40.8758_17.3395,L' Aia (Aia Antica),RESTAURANT,ristorante
-40.883212,17.336985,ov_il_tronco__monopoli__40.8832_17.3370,Il Tronco (Monopoli),RESTAURANT,ristorante
-40.888060,17.376750,ov_egnazia_beach_club_savelletri_40.8881_17.3768,Egnazia Beach Club Savelletri,RESTAURANT,ristorante
-40.893925,17.377394,ov_le_palme_40.8939_17.3774,Le Palme,RESTAURANT,ristorante
-40.888740,17.333132,ov_samare_40.8887_17.3331,Samare,RESTAURANT,ristorante
-40.877420,17.315630,ov_casale_ruggiero_40.8774_17.3156,Casale Ruggiero,RESTAURANT,ristorante
-40.877818,17.315288,ov_agriturismo_masseria_vagone_40.8778_17.3153,Agriturismo Masseria Vagone,RESTAURANT,ristorante
-40.880219,17.308455,ov_donna_giulia_ricevimenti_40.8802_17.3085,Donna Giulia Ricevimenti,RESTAURANT,ristorante
-40.875106,17.274740,ov_l_eden___bar__pizzeria___dintorni_40.8751_17.2747,"L'Eden - Bar, Pizzeria & dintorni",RESTAURANT,ristorante
-40.878339,17.272801,ov_la_mia_terra___ristorante_pizzeria_40.8783_17.2728,La Mia Terra - Ristorante Pizzeria,RESTAURANT,ristorante
-40.887591,17.268146,ov_annie_s_home_restaurant_40.8876_17.2681,Annie's Home Restaurant,RESTAURANT,ristorante
-40.897148,17.326303,ov_sorelle_barnaba___l_agriturismo_40.8971_17.3263,Sorelle Barnaba - L'Agriturismo,RESTAURANT,ristorante
-40.903190,17.312850,ov_il_ginepro_monopoli_40.9032_17.3129,Il Ginepro_Monopoli,RESTAURANT,ristorante
-40.919998,17.289991,ov_masseria_trappeto_40.9200_17.2900,Masseria Trappeto,RESTAURANT,ristorante
-40.923973,17.276371,ov_mummulo_40.9240_17.2764,Mummulo,RESTAURANT,ristorante
-40.926891,17.301744,ov_agriturismo_masseria_curatori_40.9269_17.3017,Agriturismo Masseria Curatori,RESTAURANT,ristorante
-40.934057,17.309509,ov_braceria_leoci_monopoli_40.9341_17.3095,Braceria Leoci Monopoli,RESTAURANT,ristorante
-40.936866,17.313309,ov_sir_pizzeria_e_ristorante_40.9369_17.3133,SIR Pizzeria e Ristorante,RESTAURANT,ristorante
-40.924510,17.320700,ov_nunn___40.9245_17.3207,Nunn'è,RESTAURANT,ristorante
-40.911525,17.345195,ov_baia_luna_beach_music_food_drink_40.9115_17.3452,Baia Luna Beach music food&drink,RESTAURANT,ristorante
-40.909940,17.332700,ov_il_cavaliere_40.9099_17.3327,Il Cavaliere,RESTAURANT,ristorante
-40.906965,17.348683,ov_la_risacca_40.9070_17.3487,La Risacca,RESTAURANT,ristorante
-40.907069,17.347914,ov_ristorante_gran_pavese_40.9071_17.3479,Ristorante Gran Pavese,RESTAURANT,ristorante
-40.907210,17.347817,ov_terrazza_sul_mare_40.9072_17.3478,Terrazza sul mare,RESTAURANT,ristorante
-40.907543,17.347770,ov_l_ancora_nuova_40.9075_17.3478,L'Ancora Nuova,RESTAURANT,ristorante
-40.908424,17.346929,ov_ristorante_elia_40.9084_17.3469,Ristorante Elia,RESTAURANT,ristorante
-40.908620,17.342888,ov_monopoli_40.9086_17.3429,Monopoli,RESTAURANT,ristorante
-40.909750,17.344120,ov_ristorante_gran_pavese_40.9098_17.3441,Ristorante Gran Pavese,RESTAURANT,ristorante
-40.910139,17.344895,ov_ristorante_porto_giardino_40.9101_17.3449,Ristorante Porto Giardino,RESTAURANT,ristorante
-40.903818,17.352957,ov_duepuntozero_monopoli_40.9038_17.3530,Duepuntozero Monopoli,RESTAURANT,ristorante
-40.896191,17.354040,ov_masseria_garrappa_40.8962_17.3540,Masseria Garrappa,RESTAURANT,ristorante
-40.897310,17.362650,ov_dono_40.8973_17.3626,Dono,RESTAURANT,ristorante
-40.897310,17.362650,ov_la_locanda_di_felisiano_40.8973_17.3626,La Locanda di Felisiano,RESTAURANT,ristorante
-40.898885,17.365366,ov_duna_beach___restaurant_40.8989_17.3654,Duna Beach & Restaurant,RESTAURANT,ristorante
-40.901466,17.360053,ov_la_peschiera_bistrot_40.9015_17.3601,La Peschiera Bistrot,RESTAURANT,ristorante
-40.901331,17.360203,ov_saleblu_40.9013_17.3602,Saleblu,RESTAURANT,ristorante
-40.836227,17.361199,ov_cos__com____40.8362_17.3612,Così com' è,RESTAURANT,ristorante
-40.853326,17.354421,ov_masseria_vagone_40.8533_17.3544,Masseria Vagone,RESTAURANT,ristorante
-40.836451,17.277978,ov_mp_restaurant_40.8365_17.2780,MP Restaurant,RESTAURANT,ristorante
-40.830381,17.305214,ov_masseria_lisi_anna_40.8304_17.3052,Masseria Lisi Anna,RESTAURANT,ristorante
-40.992349,17.224384,ov_mazzini_club_33_40.9923_17.2244,Mazzini Club 33,RESTAURANT,ristorante
-40.967205,17.115468,ov_il_guazzetto_40.9672_17.1155,Il Guazzetto,RESTAURANT,ristorante
-40.964198,17.269491,ov_le_cucine_di_masseria_spina_40.9642_17.2695,Le Cucine di Masseria Spina,RESTAURANT,ristorante
-40.964250,17.269644,ov_angelo_sabatelli_40.9643_17.2696,Angelo Sabatelli,RESTAURANT,ristorante
-40.975526,17.256650,ov_la_cala_d_incina_ristorante_pizzeria_40.9755_17.2567,La Cala D'Incina Ristorante Pizzeria,RESTAURANT,ristorante
-40.973330,17.262920,ov_ulivi_sul_mare_40.9733_17.2629,Ulivi sul Mare,RESTAURANT,ristorante
-40.969408,17.266265,ov_ristorante_oh_sushi_40.9694_17.2663,Ristorante Oh Sushi,RESTAURANT,ristorante
-40.969230,17.266327,ov_shabu_shabu_40.9692_17.2663,Shabu Shabu,RESTAURANT,ristorante
-40.960908,17.287178,ov_l_arena_del_gusto_40.9609_17.2872,L'Arena del Gusto,RESTAURANT,ristorante
-40.959579,17.290401,ov_la_rosa_dei_venti_40.9596_17.2904,La Rosa dei Venti,RESTAURANT,ristorante
-40.958693,17.292732,ov_koi_sushi_monopoli____sushi_restaurant_40.9587_17.2927,Koi sushi Monopoli....Sushi restaurant,RESTAURANT,ristorante
-40.958677,17.292324,ov_la_cantina_del_mondo_40.9587_17.2923,La Cantina del Mondo,RESTAURANT,ristorante
-40.958414,17.298195,ov_paninoteca_il_muretto_da_nico___marylu_40.9584_17.2982,Paninoteca il Muretto da Nico & Marylu,RESTAURANT,ristorante
-40.957335,17.297584,ov_pop_burgers_40.9573_17.2976,Pop Burgers,RESTAURANT,ristorante
-40.957142,17.297290,ov_hagakure_40.9571_17.2973,Hagakure,RESTAURANT,ristorante
-40.956910,17.297456,ov_la_bussola_40.9569_17.2975,La Bussola,RESTAURANT,ristorante
-40.956715,17.297399,ov_peccato_di_gola_40.9567_17.2974,Peccato di gola,RESTAURANT,ristorante
-40.956429,17.297712,ov_radimare_ristorante_40.9564_17.2977,Radimare Ristorante,RESTAURANT,ristorante
-40.955500,17.297450,ov_a_crep_tt_paninoteca_monopoli_40.9555_17.2975,A Crepètt Paninoteca Monopoli,RESTAURANT,ristorante
-40.954665,17.301181,ov_paninoteca_il_presidente_40.9547_17.3012,Paninoteca Il Presidente,RESTAURANT,ristorante
-40.954210,17.300016,ov_vinarius___restaurant___winebar_40.9542_17.3000,Vinarius - Restaurant & WineBar,RESTAURANT,ristorante
-40.953936,17.296392,ov_cala_fuci_40.9539_17.2964,Cala&Fuci,RESTAURANT,ristorante
-40.953513,17.298028,ov_polleria_dimola_40.9535_17.2980,Polleria Dimola,RESTAURANT,ristorante
-40.953480,17.296349,ov_the_butcher_s___american_barbecue__hambu_40.9535_17.2963,"The Butcher's - American Barbecue, Hamburgeria e Braceria",RESTAURANT,ristorante
-40.953160,17.296633,ov_crudo_alla_barese_40.9532_17.2966,Crudo alla Barese,RESTAURANT,ristorante
-40.953122,17.300614,ov_pizza_store_40.9531_17.3006,Pizza Store,RESTAURANT,ristorante
-40.953275,17.300395,ov_monna_lisa_cr_perie_40.9533_17.3004,Monna Lisa Crêperie,RESTAURANT,ristorante
-40.953363,17.300355,ov_angolocinque_restaurant_40.9534_17.3004,Angolocinque Restaurant,RESTAURANT,ristorante
-40.953532,17.300390,ov_pechino_chinese_restaurant_40.9535_17.3004,Pechino Chinese Restaurant,RESTAURANT,ristorante
-40.953437,17.301603,ov_la_baia_monopoli_40.9534_17.3016,La Baia Monopoli,RESTAURANT,ristorante
-40.953576,17.302033,ov_mameli_cafe_drink_food_40.9536_17.3020,Mameli Cafe Drink Food,RESTAURANT,ristorante
-40.953471,17.301754,ov_pescheria_la_muraglia_40.9535_17.3018,Pescheria La Muraglia,RESTAURANT,ristorante
-40.953433,17.301619,ov_ohana_monopoli_40.9534_17.3016,Ohana Monopoli,RESTAURANT,ristorante
-40.953425,17.301977,ov_il_guazzetto_40.9534_17.3020,Il Guazzetto,RESTAURANT,ristorante
-40.953251,17.301279,ov_metae_40.9533_17.3013,Metae,RESTAURANT,ristorante
-40.953225,17.301100,ov_chin__40.9532_17.3011,Chinè,RESTAURANT,ristorante
-40.953135,17.302790,ov_trattoria_da_pierino_l_inglese_40.9531_17.3028,Trattoria da Pierino L'Inglese,RESTAURANT,ristorante
-40.953383,17.303187,ov_ristorante_indelli_mare_mosso_40.9534_17.3032,Ristorante Indelli Mare Mosso,RESTAURANT,ristorante
-40.953229,17.303695,ov_ristorante_azur_40.9532_17.3037,Ristorante Azur,RESTAURANT,ristorante
-40.953215,17.303609,ov_casa_gioioso___bistrot_40.9532_17.3036,Casa Gioioso - Bistrot,RESTAURANT,ristorante
-40.953229,17.303184,ov_la_dolce_vita_monopoli_40.9532_17.3032,La Dolce Vita Monopoli,RESTAURANT,ristorante
-40.953224,17.304892,ov_madia_morsi_di_felicita_40.9532_17.3049,Madia Morsi di Felicita,RESTAURANT,ristorante
-40.953285,17.304942,ov_il_calamaro_cantinaro_40.9533_17.3049,Il Calamaro Cantinaro,RESTAURANT,ristorante
-40.953365,17.304968,ov_apluvia___restaurant_40.9534_17.3050,Apluvia - Restaurant,RESTAURANT,ristorante
-40.953356,17.304995,ov_atypical_restaurant___ristorante_italian_40.9534_17.3050,Atypical Restaurant - Ristorante Italiano,RESTAURANT,ristorante
-40.953502,17.305109,ov_palosanto_40.9535_17.3051,Palosanto,RESTAURANT,ristorante
-40.953603,17.305096,ov_the_king_street_food_40.9536_17.3051,The King Street Food,RESTAURANT,ristorante
-40.953445,17.303615,ov_pokestorie_40.9534_17.3036,Pokestorie,RESTAURANT,ristorante
-40.953593,17.303162,ov_my_wine_40.9536_17.3032,My Wine,RESTAURANT,ristorante
-40.953692,17.302754,ov_trattoria_il_cavaliere_di_de_meo_antonio_40.9537_17.3028,Trattoria Il Cavaliere di De Meo Antonio,RESTAURANT,ristorante
-40.953772,17.302913,ov_trattoria_il_brigante_40.9538_17.3029,Trattoria Il Brigante,RESTAURANT,ristorante
-40.953933,17.303201,ov_bar_malindi_40.9539_17.3032,Bar Malindi,RESTAURANT,ristorante
-40.954035,17.303035,ov_la_locanda_sul_porto_40.9540_17.3030,La Locanda sul Porto,RESTAURANT,ristorante
-40.953977,17.302794,ov_cucunci_40.9540_17.3028,Cucunci,RESTAURANT,ristorante
-40.954134,17.302911,ov_al_mare_40.9541_17.3029,Al Mare,RESTAURANT,ristorante
-40.953839,17.305223,ov_micasa_40.9538_17.3052,MiCasa,RESTAURANT,ristorante
-40.953719,17.305535,ov_cibo_a_sud_40.9537_17.3055,Cibo a Sud,RESTAURANT,ristorante
-40.953220,17.306203,ov_carlo_quinto_40.9532_17.3062,Carlo Quinto,RESTAURANT,ristorante
-40.950301,17.306175,ov_duequattrodue_40.9503_17.3062,Duequattrodue,RESTAURANT,ristorante
-40.950407,17.303583,ov_filo_d_olio_40.9504_17.3036,Filo d'Olio,RESTAURANT,ristorante
-40.950375,17.303517,ov_fresco_40.9504_17.3035,Fresco,RESTAURANT,ristorante
-40.950453,17.303421,ov_antica_posta_40.9505_17.3034,Antica Posta,RESTAURANT,ristorante
-40.950423,17.302466,ov_il_forno_delle_meraviglie_40.9504_17.3025,Il Forno delle Meraviglie,RESTAURANT,ristorante
-40.949980,17.302761,ov_ai_portici_40.9500_17.3028,Ai Portici,RESTAURANT,ristorante
-40.949556,17.305578,ov_alkimia_restaurant___drink_40.9496_17.3056,Alkimia Restaurant & Drink,RESTAURANT,ristorante
-40.949568,17.305627,ov_ass____cucina_bar_e_cose_40.9496_17.3056,Assé - Cucina Bar e Cose,RESTAURANT,ristorante
-40.949779,17.305583,ov_monos_40.9498_17.3056,Monos,RESTAURANT,ristorante
-40.948955,17.306268,ov_80_fame_40.9490_17.3063,80 FAME,RESTAURANT,ristorante
-40.948283,17.306550,ov_ristorante_lido_bianco_40.9483_17.3066,Ristorante Lido Bianco,RESTAURANT,ristorante
-40.948021,17.304243,ov_capitolo_40.9480_17.3042,Capitolo,RESTAURANT,ristorante
-40.947939,17.303734,ov_le_bistrot_40.9479_17.3037,Le Bistrot,RESTAURANT,ristorante
-40.948808,17.303613,ov_tamarindo___drink___food_40.9488_17.3036,Tamarindo - Drink & Food,RESTAURANT,ristorante
-40.948902,17.303487,ov_the_cockney_pub_monopoli_40.9489_17.3035,The Cockney Pub Monopoli,RESTAURANT,ristorante
-40.948943,17.299664,ov_al_rosa_antico_casa_vacanze_40.9489_17.2997,Al Rosa Antico Casa Vacanze,RESTAURANT,ristorante
-40.949434,17.302355,ov_apicia_40.9494_17.3024,Apicia,RESTAURANT,ristorante
-40.950687,17.297091,ov_ottanta_secondi_40.9507_17.2971,Ottanta Secondi,RESTAURANT,ristorante
-40.951447,17.297246,ov_caff__del_corso_40.9514_17.2972,Caffè del Corso,RESTAURANT,ristorante
-40.951701,17.298189,ov_polleria_fiume_40.9517_17.2982,Polleria Fiume,RESTAURANT,ristorante
-40.951779,17.298132,ov_cosette_40.9518_17.2981,Cosette,RESTAURANT,ristorante
-40.951654,17.299071,ov_red_beach_40.9517_17.2991,Red Beach,RESTAURANT,ristorante
-40.951160,17.299162,ov_malto_e_farina_40.9512_17.2992,Malto e Farina,RESTAURANT,ristorante
-40.951504,17.299468,ov_ristorante_il_punto_cardinale_40.9515_17.2995,Ristorante Il Punto Cardinale,RESTAURANT,ristorante
-40.951610,17.300360,ov_50_grani_40.9516_17.3004,50 Grani,RESTAURANT,ristorante
-40.951771,17.300899,ov_azienda_agricola_annese_40.9518_17.3009,Azienda Agricola Annese,RESTAURANT,ristorante
-40.951354,17.301198,ov_san_marco_40.9514_17.3012,San Marco,RESTAURANT,ristorante
-40.951262,17.301194,ov_casa_timeo___bottega__ristorante_e_cucin_40.9513_17.3012,"Casa Timeo - Bottega, ristorante e Cucina tipica",RESTAURANT,ristorante
-40.951000,17.302240,ov_fruttamore___tradizione_40.9510_17.3022,FruttAmore & Tradizione,RESTAURANT,ristorante
-40.950731,17.299777,ov_la_lanterna_pizzeria_monopoli_40.9507_17.2998,La Lanterna Pizzeria Monopoli,RESTAURANT,ristorante
-40.950627,17.301197,ov_pizziamo_40.9506_17.3012,Pizziamo,RESTAURANT,ristorante
-40.950833,17.304055,ov_medeat_40.9508_17.3041,Medeat,RESTAURANT,ristorante
-40.950890,17.303920,ov_porta_vecchia_srls_40.9509_17.3039,Porta Vecchia Srls,RESTAURANT,ristorante
-40.950978,17.304761,ov_la_vecchia_taverna_40.9510_17.3048,La Vecchia Taverna,RESTAURANT,ristorante
-40.951102,17.305003,ov_calamari___liquori_40.9511_17.3050,Calamari & Liquori,RESTAURANT,ristorante
-40.950976,17.305293,ov_meraki_40.9510_17.3053,Meraki,RESTAURANT,ristorante
-40.950976,17.304641,ov_il_cantinale_40.9510_17.3046,Il Cantinale,RESTAURANT,ristorante
-40.950740,17.305048,ov_terrazzamare_monopoli_40.9507_17.3050,Terrazzamare monopoli,RESTAURANT,ristorante
-40.950619,17.305051,ov_portavecchia_terrazza_40.9506_17.3051,Portavecchia terrazza,RESTAURANT,ristorante
-40.951706,17.305354,ov_hostaria_de_don_juan_40.9517_17.3054,Hostaria de Don Juan,RESTAURANT,ristorante
-40.952135,17.302865,ov_casa_e_bottega_40.9521_17.3029,Casa e Bottega,RESTAURANT,ristorante
-40.952352,17.302709,ov_ostinati___nati_per_fare_gli_osti_40.9524_17.3027,Ostinati - Nati per fare gli Osti,RESTAURANT,ristorante
-40.952258,17.303207,ov_munz_munz_biostrot_40.9523_17.3032,Munz Munz biOstrot,RESTAURANT,ristorante
-40.951905,17.305814,ov_jungle_bar___bistrot_40.9519_17.3058,Jungle Bar & Bistrot,RESTAURANT,ristorante
-40.951928,17.305701,ov_radici___dispensa_di_sapori_40.9519_17.3057,Radici - Dispensa di Sapori,RESTAURANT,ristorante
-40.951901,17.306311,ov_don_ferrante___dimore_di_charme_40.9519_17.3063,Don Ferrante - Dimore di charme,RESTAURANT,ristorante
-40.952203,17.306437,ov_atipico_40.9522_17.3064,Atipico,RESTAURANT,ristorante
-40.952243,17.305469,ov_ristorante_piazza_palmieri_40.9522_17.3055,Ristorante Piazza Palmieri,RESTAURANT,ristorante
-40.952276,17.305673,ov_osteria_sangiovanni___monopoli_40.9523_17.3057,Osteria Sangiovanni - Monopoli,RESTAURANT,ristorante
-40.952266,17.305392,ov_trattoria_re_umberto_i_panzerotteria_piz_40.9523_17.3054,Trattoria Re Umberto I Panzerotteria Pizzeria,RESTAURANT,ristorante
-40.952909,17.303920,ov_olio_e_vino_40.9529_17.3039,Olio e Vino,RESTAURANT,ristorante
-40.952865,17.303927,ov_la_locanda_dei_pescatori_40.9529_17.3039,La locanda dei pescatori,RESTAURANT,ristorante
-40.952831,17.303922,ov_ristorante_monopoli_40.9528_17.3039,Ristorante Monopoli,RESTAURANT,ristorante
-40.952810,17.304176,ov_tuttoapposto_winebar_40.9528_17.3042,Tuttoapposto Winebar,RESTAURANT,ristorante
-40.952566,17.304172,ov_frisellandia_monopoli_40.9526_17.3042,Frisellandia Monopoli,RESTAURANT,ristorante
-40.952581,17.304229,ov_trattoria_pizzeria_da_zi_ottavio_40.9526_17.3042,Trattoria Pizzeria Da Zi Ottavio,RESTAURANT,ristorante
-40.952660,17.304318,ov_komera_40.9527_17.3043,Komera,RESTAURANT,ristorante
-40.952723,17.304336,ov_maninpasta_40.9527_17.3043,Maninpasta,RESTAURANT,ristorante
-40.952729,17.304403,ov_osteria_perricci_40.9527_17.3044,Osteria Perricci,RESTAURANT,ristorante
-40.952737,17.303984,ov_polpo_matto_40.9527_17.3040,Polpo Matto,RESTAURANT,ristorante
-40.952755,17.303566,ov_ristorante_almarea_40.9528_17.3036,Ristorante Almarea,RESTAURANT,ristorante
-40.952640,17.303254,ov_pinsotti_40.9526_17.3033,Pinsotti,RESTAURANT,ristorante
-40.952772,17.302973,ov_magnapulia_40.9528_17.3030,Magnapulia,RESTAURANT,ristorante
-40.952820,17.302520,ov_tato_s_40.9528_17.3025,Tato's,RESTAURANT,ristorante
-40.952835,17.303007,ov_il_punto_cardinale_40.9528_17.3030,Il Punto Cardinale,RESTAURANT,ristorante
-40.952825,17.302889,ov_al_vicoletto___cucina_di_casa_40.9528_17.3029,Al Vicoletto - Cucina di Casa,RESTAURANT,ristorante
-40.952801,17.302894,ov_condominio_60_40.9528_17.3029,Condominio 60,RESTAURANT,ristorante
-40.952776,17.303072,ov_pizzosteria_l_isola_che_non_c_e_40.9528_17.3031,Pizzosteria L'Isola che non C'e,RESTAURANT,ristorante
-40.952833,17.303124,ov_gaia_osteria_popolare_40.9528_17.3031,Gaia Osteria Popolare,RESTAURANT,ristorante
-40.952841,17.302308,ov_trattoria_la_locanda_dei_mercanti_40.9528_17.3023,Trattoria La Locanda dei Mercanti,RESTAURANT,ristorante
-40.952997,17.299406,ov_cibbell_40.9530_17.2994,CibBell,RESTAURANT,ristorante
-40.952711,17.302157,ov_il_quadrifoglio___monopoli_40.9527_17.3022,Il Quadrifoglio - Monopoli,RESTAURANT,ristorante
-40.952728,17.302192,ov_pugliami_40.9527_17.3022,Pugliami,RESTAURANT,ristorante
-40.952639,17.302137,ov_damare_40.9526_17.3021,Damare,RESTAURANT,ristorante
-40.951917,17.301384,ov_pizzeria_il_triangolo_40.9519_17.3014,Pizzeria Il Triangolo,RESTAURANT,ristorante
-40.952269,17.298491,ov_ilcapitano_12_40.9523_17.2985,IlCapitano 12,RESTAURANT,ristorante
-40.951982,17.298540,ov_food__40.9520_17.2985,Foodì,RESTAURANT,ristorante
-40.951945,17.297293,ov_via_roma_gastronomia_40.9519_17.2973,Via Roma Gastronomia,RESTAURANT,ristorante
-40.952563,17.298975,ov_michelangelo_40.9526_17.2990,Michelangelo,RESTAURANT,ristorante
-40.952862,17.296250,ov_bavarotti_da_francesco_40.9529_17.2962,Bavarotti da Francesco,RESTAURANT,ristorante
-40.952818,17.293801,ov_turnoverparty_40.9528_17.2938,Turnoverparty,RESTAURANT,ristorante
-40.952120,17.294970,ov_pizzeria_amore_puro_40.9521_17.2950,Pizzeria Amore Puro,RESTAURANT,ristorante
-40.952501,17.293033,ov_ristorante_pizzeria_oltremare_40.9525_17.2930,Ristorante Pizzeria OltreMare,RESTAURANT,ristorante
-40.952406,17.288777,ov_pizzeria_pulcinella_40.9524_17.2888,Pizzeria Pulcinella,RESTAURANT,ristorante
-40.948982,17.290913,ov_pizzeria_corallo_40.9490_17.2909,Pizzeria Corallo,RESTAURANT,ristorante
-40.948845,17.289210,ov_metro_pizza_monopoli_40.9488_17.2892,Metro Pizza Monopoli,RESTAURANT,ristorante
-40.949221,17.286579,ov_pizza_cale_40.9492_17.2866,Pizza Cale,RESTAURANT,ristorante
-40.949359,17.288911,ov_cibus___identit__del_gusto_40.9494_17.2889,Cibus - Identità del gusto,RESTAURANT,ristorante
-40.950071,17.287439,ov_gnam_gnam_monopoli_40.9501_17.2874,Gnam Gnam Monopoli,RESTAURANT,ristorante
-40.948347,17.284093,ov_masseria_arenazza_40.9483_17.2841,Masseria Arenazza,RESTAURANT,ristorante
-40.955650,17.272510,ov_d_f_caff__40.9556_17.2725,D&F Caffè,RESTAURANT,ristorante
-40.954071,17.281695,ov_masseria_siri_40.9541_17.2817,Masseria Siri,RESTAURANT,ristorante
-40.953143,17.295632,ov_spaghetti_d_italia_40.9531_17.2956,Spaghetti d'Italia,RESTAURANT,ristorante
-40.953663,17.295996,ov_focacciamo_40.9537_17.2960,Focacciamo,RESTAURANT,ristorante
-40.953506,17.294305,ov_mediterranea_self_service___ristorante_d_40.9535_17.2943,Mediterranea Self Service...ristorante dal 1994...asporto,RESTAURANT,ristorante
-40.953779,17.296090,ov_appet__po__bistrot_40.9538_17.2961,Appetì Po' Bistrot,RESTAURANT,ristorante
-40.955035,17.295614,ov_nagoya_40.9550_17.2956,Nagoya,RESTAURANT,ristorante
-40.956635,17.288778,ov_benfood_40.9566_17.2888,Benfood,RESTAURANT,ristorante
-40.956055,17.296271,ov_habi_apulia_40.9561_17.2963,Habi Apulia,RESTAURANT,ristorante
-40.956831,17.290676,ov_bar_biancoverde___coffee___pizza_40.9568_17.2907,Bar Biancoverde | Coffee & pizza,RESTAURANT,ristorante
-40.957402,17.294981,ov_garage_27_40.9574_17.2950,Garage 27,RESTAURANT,ristorante
-40.957644,17.294763,ov_pollidea_40.9576_17.2948,Pollidea,RESTAURANT,ristorante
-40.957907,17.294943,ov_da_marcella_40.9579_17.2949,Da Marcella,RESTAURANT,ristorante
-40.958034,17.295048,ov_ristorante_il_cavaliere_40.9580_17.2950,Ristorante Il Cavaliere,RESTAURANT,ristorante
-40.958076,17.293680,ov_lo_squalo_40.9581_17.2937,Lo Squalo,RESTAURANT,ristorante
-40.958295,17.289929,ov_koun_sushi_monopoli_40.9583_17.2899,Koun Sushi Monopoli,RESTAURANT,ristorante
-40.958188,17.282268,ov_mcdonald_s_40.9582_17.2823,McDonald's,RESTAURANT,ristorante
-40.945843,17.268075,ov_tenuta_chianchizza_40.9458_17.2681,Tenuta Chianchizza,RESTAURANT,ristorante
-40.940338,17.253486,ov_il_gallo_40.9403_17.2535,Il Gallo,RESTAURANT,ristorante
-40.947541,17.285440,ov_quokka___mangiatori_seriali_40.9475_17.2854,Quokka - Mangiatori Seriali,RESTAURANT,ristorante
-40.947266,17.290204,ov_pizzeria_mamma_che_pizza_40.9473_17.2902,Pizzeria Mamma che Pizza,RESTAURANT,ristorante
-40.943655,17.306747,ov_cirasella_40.9437_17.3067,Cirasella,RESTAURANT,ristorante
-40.944038,17.306606,ov_ristofriggitoria_avanti_c_e_posto_da_nar_40.9440_17.3066,Ristofriggitoria Avanti C'e Posto da Nardino,RESTAURANT,ristorante
-40.944059,17.306307,ov_delizie_di_sicilia_40.9441_17.3063,Delizie di sicilia,RESTAURANT,ristorante
-40.945222,17.307820,ov_maccaroni___trattoria_italianissima_40.9452_17.3078,Maccaroni - Trattoria Italianissima,RESTAURANT,ristorante
-40.946816,17.299635,ov_volte_d_anima_40.9468_17.2996,Volte d'Anima,RESTAURANT,ristorante
-40.947610,17.303575,ov_la_sartoria_del_pollo_40.9476_17.3036,La Sartoria del Pollo,RESTAURANT,ristorante
-40.947355,17.306568,ov_caff__del_mare_monopoli_40.9474_17.3066,CAFFÈ DEL MARE Monopoli,RESTAURANT,ristorante
-40.947672,17.307344,ov_ristorante_porto_rosso_40.9477_17.3073,Ristorante Porto Rosso,RESTAURANT,ristorante
-40.946374,17.308328,ov_baia_fiorita_40.9464_17.3083,Baia Fiorita,RESTAURANT,ristorante
-40.946517,17.304545,ov_laki_sushi_40.9465_17.3045,Laki Sushi,RESTAURANT,ristorante
-40.944022,17.309504,ov_oltre_la_torretta_40.9440_17.3095,Oltre la torretta,RESTAURANT,ristorante
-40.943950,17.312261,ov_cala_ve_40.9440_17.3123,Cala Ve,RESTAURANT,ristorante
-40.939974,17.306723,ov_pizzeria_greenwich_40.9400_17.3067,Pizzeria Greenwich,RESTAURANT,ristorante
-40.939099,17.316437,ov_il_re_dello_spaghetto_40.9391_17.3164,Il Re dello Spaghetto,RESTAURANT,ristorante
-40.938092,17.318516,ov_cala_cerasa_40.9381_17.3185,Cala Cerasa,RESTAURANT,ristorante
-40.937705,17.319979,ov_il_paesano_40.9377_17.3200,Il Paesano,RESTAURANT,ristorante
+40.840005,17.251545,ov_masseria_casa_busciana_40.8400_17.2515,Masseria Casa Busciana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_casa_busciana_40.8400_17.2515.json,custom
+40.932295,17.194079,ov_diana_ristorantino_40.9323_17.1941,Diana Ristorantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/diana_ristorantino_40.9323_17.1941.json,custom
+40.923537,17.223111,ov_st_stakhanovista_40.9235_17.2231,ST Stakhanovista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/st_stakhanovista_40.9235_17.2231.json,custom
+40.924713,17.222036,ov_braceria_aresta_40.9247_17.2220,Braceria Aresta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/braceria_aresta_40.9247_17.2220.json,custom
+40.930352,17.207603,ov_anima_e_passione_ristorante_pizzeria_40.9304_17.2076,Anima e Passione Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/anima_e_passione_ristorante_pizzeria_40.9304_17.2076.json,custom
+40.935987,17.205187,ov_agriturismo_il_castagnaro_40.9360_17.2052,Agriturismo Il Castagnaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/agriturismo_il_castagnaro_40.9360_17.2052.json,custom
+40.936766,17.212558,ov_il_mosaico_40.9368_17.2126,Il Mosaico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_mosaico_40.9368_17.2126.json,custom
+40.931080,17.220060,ov_il_castagnaro_agriturismo_40.9311_17.2201,Il Castagnaro Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_castagnaro_agriturismo_40.9311_17.2201.json,custom
+40.911958,17.226238,ov_fabula_bistrot_40.9120_17.2262,Fabula Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/fabula_bistrot_40.9120_17.2262.json,custom
+40.909410,17.217970,ov_nevada_40.9094_17.2180,Nevada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nevada_40.9094_17.2180.json,custom
+40.909750,17.230219,ov_pietrantica_40.9097_17.2302,PietrAntica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pietrantica_40.9097_17.2302.json,custom
+40.899889,17.208189,ov_ristorante_gli_ulivi_40.8999_17.2082,Ristorante Gli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_gli_ulivi_40.8999_17.2082.json,custom
+40.893628,17.240788,ov_braceria_vecchie_storie_40.8936_17.2408,Braceria Vecchie Storie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/braceria_vecchie_storie_40.8936_17.2408.json,custom
+40.890856,17.244502,ov_la_lampara_sui_colli_40.8909_17.2445,La Lampara Sui Colli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_lampara_sui_colli_40.8909_17.2445.json,custom
+40.887078,17.260321,ov_la_tavernetta_40.8871_17.2603,La Tavernetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_tavernetta_40.8871_17.2603.json,custom
+40.881871,17.244200,ov_masseria_notarangelo_40.8819_17.2442,Masseria notarangelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_notarangelo_40.8819_17.2442.json,custom
+40.854902,17.289111,ov_orto_il_restaurante_40.8549_17.2891,Orto Il Restaurante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/orto_il_restaurante_40.8549_17.2891.json,custom
+40.860590,17.292690,ov_orto_il_ristorante_40.8606_17.2927,Orto il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/orto_il_ristorante_40.8606_17.2927.json,custom
+40.864156,17.267320,ov_il_trulletto_40.8642_17.2673,Il Trulletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_trulletto_40.8642_17.2673.json,custom
+40.866755,17.277557,ov_masseria_gelso_antico_40.8668_17.2776,Masseria Gelso Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_gelso_antico_40.8668_17.2776.json,custom
+40.867428,17.291203,ov_la_loggia_di_pilato_40.8674_17.2912,La Loggia di Pilato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_loggia_di_pilato_40.8674_17.2912.json,custom
+40.875823,17.339464,ov_l__aia__aia_antica__40.8758_17.3395,L' Aia (Aia Antica),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/l_aia_aia_antica_40.8758_17.3395.json,custom
+40.883212,17.336985,ov_il_tronco__monopoli__40.8832_17.3370,Il Tronco (Monopoli),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_tronco_monopoli_40.8832_17.3370.json,custom
+40.888060,17.376750,ov_egnazia_beach_club_savelletri_40.8881_17.3768,Egnazia Beach Club Savelletri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/egnazia_beach_club_savelletri_40.8881_17.3768.json,custom
+40.893925,17.377394,ov_le_palme_40.8939_17.3774,Le Palme,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/le_palme_40.8939_17.3774.json,custom
+40.888740,17.333132,ov_samare_40.8887_17.3331,Samare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/samare_40.8887_17.3331.json,custom
+40.877420,17.315630,ov_casale_ruggiero_40.8774_17.3156,Casale Ruggiero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/casale_ruggiero_40.8774_17.3156.json,custom
+40.877818,17.315288,ov_agriturismo_masseria_vagone_40.8778_17.3153,Agriturismo Masseria Vagone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/agriturismo_masseria_vagone_40.8778_17.3153.json,custom
+40.880219,17.308455,ov_donna_giulia_ricevimenti_40.8802_17.3085,Donna Giulia Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/donna_giulia_ricevimenti_40.8802_17.3085.json,custom
+40.875106,17.274740,ov_l_eden___bar__pizzeria___dintorni_40.8751_17.2747,"L'Eden - Bar, Pizzeria & dintorni",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/leden_-_bar_pizzeria_dintorni_40.8751_17.2747.json,custom
+40.878339,17.272801,ov_la_mia_terra___ristorante_pizzeria_40.8783_17.2728,La Mia Terra - Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_mia_terra_-_ristorante_pizzeria_40.8783_17.2728.json,custom
+40.887591,17.268146,ov_annie_s_home_restaurant_40.8876_17.2681,Annie's Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/annies_home_restaurant_40.8876_17.2681.json,custom
+40.897148,17.326303,ov_sorelle_barnaba___l_agriturismo_40.8971_17.3263,Sorelle Barnaba - L'Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sorelle_barnaba_-_lagriturismo_40.8971_17.3263.json,custom
+40.903190,17.312850,ov_il_ginepro_monopoli_40.9032_17.3129,Il Ginepro_Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_ginepromonopoli_40.9032_17.3129.json,custom
+40.919998,17.289991,ov_masseria_trappeto_40.9200_17.2900,Masseria Trappeto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_trappeto_40.9200_17.2900.json,custom
+40.923973,17.276371,ov_mummulo_40.9240_17.2764,Mummulo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mummulo_40.9240_17.2764.json,custom
+40.926891,17.301744,ov_agriturismo_masseria_curatori_40.9269_17.3017,Agriturismo Masseria Curatori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/agriturismo_masseria_curatori_40.9269_17.3017.json,custom
+40.934057,17.309509,ov_braceria_leoci_monopoli_40.9341_17.3095,Braceria Leoci Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/braceria_leoci_monopoli_40.9341_17.3095.json,custom
+40.936866,17.313309,ov_sir_pizzeria_e_ristorante_40.9369_17.3133,SIR Pizzeria e Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sir_pizzeria_e_ristorante_40.9369_17.3133.json,custom
+40.924510,17.320700,ov_nunn___40.9245_17.3207,Nunn'è,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nunn_40.9245_17.3207.json,custom
+40.911525,17.345195,ov_baia_luna_beach_music_food_drink_40.9115_17.3452,Baia Luna Beach music food&drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/baia_luna_beach_music_fooddrink_40.9115_17.3452.json,custom
+40.909940,17.332700,ov_il_cavaliere_40.9099_17.3327,Il Cavaliere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_cavaliere_40.9099_17.3327.json,custom
+40.906965,17.348683,ov_la_risacca_40.9070_17.3487,La Risacca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_risacca_40.9070_17.3487.json,custom
+40.907069,17.347914,ov_ristorante_gran_pavese_40.9071_17.3479,Ristorante Gran Pavese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_gran_pavese_40.9071_17.3479.json,custom
+40.907210,17.347817,ov_terrazza_sul_mare_40.9072_17.3478,Terrazza sul mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/terrazza_sul_mare_40.9072_17.3478.json,custom
+40.907543,17.347770,ov_l_ancora_nuova_40.9075_17.3478,L'Ancora Nuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/lancora_nuova_40.9075_17.3478.json,custom
+40.908424,17.346929,ov_ristorante_elia_40.9084_17.3469,Ristorante Elia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_elia_40.9084_17.3469.json,custom
+40.908620,17.342888,ov_monopoli_40.9086_17.3429,Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/monopoli_40.9086_17.3429.json,custom
+40.909750,17.344120,ov_ristorante_gran_pavese_40.9098_17.3441,Ristorante Gran Pavese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_gran_pavese_40.9098_17.3441.json,custom
+40.910139,17.344895,ov_ristorante_porto_giardino_40.9101_17.3449,Ristorante Porto Giardino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_porto_giardino_40.9101_17.3449.json,custom
+40.903818,17.352957,ov_duepuntozero_monopoli_40.9038_17.3530,Duepuntozero Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/duepuntozero_monopoli_40.9038_17.3530.json,custom
+40.896191,17.354040,ov_masseria_garrappa_40.8962_17.3540,Masseria Garrappa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_garrappa_40.8962_17.3540.json,custom
+40.897310,17.362650,ov_dono_40.8973_17.3626,Dono,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/dono_40.8973_17.3626.json,custom
+40.897310,17.362650,ov_la_locanda_di_felisiano_40.8973_17.3626,La Locanda di Felisiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_locanda_di_felisiano_40.8973_17.3626.json,custom
+40.898885,17.365366,ov_duna_beach___restaurant_40.8989_17.3654,Duna Beach & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/duna_beach_restaurant_40.8989_17.3654.json,custom
+40.901466,17.360053,ov_la_peschiera_bistrot_40.9015_17.3601,La Peschiera Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_peschiera_bistrot_40.9015_17.3601.json,custom
+40.901331,17.360203,ov_saleblu_40.9013_17.3602,Saleblu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/saleblu_40.9013_17.3602.json,custom
+40.836227,17.361199,ov_cos__com____40.8362_17.3612,Così com' è,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cos_com__40.8362_17.3612.json,custom
+40.853326,17.354421,ov_masseria_vagone_40.8533_17.3544,Masseria Vagone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_vagone_40.8533_17.3544.json,custom
+40.836451,17.277978,ov_mp_restaurant_40.8365_17.2780,MP Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mp_restaurant_40.8365_17.2780.json,custom
+40.830381,17.305214,ov_masseria_lisi_anna_40.8304_17.3052,Masseria Lisi Anna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_lisi_anna_40.8304_17.3052.json,custom
+40.992349,17.224384,ov_mazzini_club_33_40.9923_17.2244,Mazzini Club 33,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mazzini_club_33_40.9923_17.2244.json,custom
+40.967205,17.115468,ov_il_guazzetto_40.9672_17.1155,Il Guazzetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_guazzetto_40.9672_17.1155.json,custom
+40.964198,17.269491,ov_le_cucine_di_masseria_spina_40.9642_17.2695,Le Cucine di Masseria Spina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/le_cucine_di_masseria_spina_40.9642_17.2695.json,custom
+40.964250,17.269644,ov_angelo_sabatelli_40.9643_17.2696,Angelo Sabatelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/angelo_sabatelli_40.9643_17.2696.json,custom
+40.975526,17.256650,ov_la_cala_d_incina_ristorante_pizzeria_40.9755_17.2567,La Cala D'Incina Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_cala_dincina_ristorante_pizzeria_40.9755_17.2567.json,custom
+40.973330,17.262920,ov_ulivi_sul_mare_40.9733_17.2629,Ulivi sul Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ulivi_sul_mare_40.9733_17.2629.json,custom
+40.969408,17.266265,ov_ristorante_oh_sushi_40.9694_17.2663,Ristorante Oh Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_oh_sushi_40.9694_17.2663.json,custom
+40.969230,17.266327,ov_shabu_shabu_40.9692_17.2663,Shabu Shabu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/shabu_shabu_40.9692_17.2663.json,custom
+40.960908,17.287178,ov_l_arena_del_gusto_40.9609_17.2872,L'Arena del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/larena_del_gusto_40.9609_17.2872.json,custom
+40.959579,17.290401,ov_la_rosa_dei_venti_40.9596_17.2904,La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_rosa_dei_venti_40.9596_17.2904.json,custom
+40.958693,17.292732,ov_koi_sushi_monopoli____sushi_restaurant_40.9587_17.2927,Koi sushi Monopoli....Sushi restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/koi_sushi_monopolisushi_restaurant_40.9587_17.2927.json,custom
+40.958677,17.292324,ov_la_cantina_del_mondo_40.9587_17.2923,La Cantina del Mondo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_cantina_del_mondo_40.9587_17.2923.json,custom
+40.958414,17.298195,ov_paninoteca_il_muretto_da_nico___marylu_40.9584_17.2982,Paninoteca il Muretto da Nico & Marylu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/paninoteca_il_muretto_da_nico_marylu_40.9584_17.2982.json,custom
+40.957335,17.297584,ov_pop_burgers_40.9573_17.2976,Pop Burgers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pop_burgers_40.9573_17.2976.json,custom
+40.957142,17.297290,ov_hagakure_40.9571_17.2973,Hagakure,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/hagakure_40.9571_17.2973.json,custom
+40.956910,17.297456,ov_la_bussola_40.9569_17.2975,La Bussola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_bussola_40.9569_17.2975.json,custom
+40.956715,17.297399,ov_peccato_di_gola_40.9567_17.2974,Peccato di gola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/peccato_di_gola_40.9567_17.2974.json,custom
+40.956429,17.297712,ov_radimare_ristorante_40.9564_17.2977,Radimare Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/radimare_ristorante_40.9564_17.2977.json,custom
+40.955500,17.297450,ov_a_crep_tt_paninoteca_monopoli_40.9555_17.2975,A Crepètt Paninoteca Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/a_creptt_paninoteca_monopoli_40.9555_17.2975.json,custom
+40.954665,17.301181,ov_paninoteca_il_presidente_40.9547_17.3012,Paninoteca Il Presidente,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/paninoteca_il_presidente_40.9547_17.3012.json,custom
+40.954210,17.300016,ov_vinarius___restaurant___winebar_40.9542_17.3000,Vinarius - Restaurant & WineBar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/vinarius_-_restaurant_winebar_40.9542_17.3000.json,custom
+40.953936,17.296392,ov_cala_fuci_40.9539_17.2964,Cala&Fuci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/calafuci_40.9539_17.2964.json,custom
+40.953513,17.298028,ov_polleria_dimola_40.9535_17.2980,Polleria Dimola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/polleria_dimola_40.9535_17.2980.json,custom
+40.953480,17.296349,ov_the_butcher_s___american_barbecue__hambu_40.9535_17.2963,"The Butcher's - American Barbecue, Hamburgeria e Braceria",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/the_butchers_-_american_barbecue_hamburg_40.9535_17.2963.json,custom
+40.953160,17.296633,ov_crudo_alla_barese_40.9532_17.2966,Crudo alla Barese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/crudo_alla_barese_40.9532_17.2966.json,custom
+40.953122,17.300614,ov_pizza_store_40.9531_17.3006,Pizza Store,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizza_store_40.9531_17.3006.json,custom
+40.953275,17.300395,ov_monna_lisa_cr_perie_40.9533_17.3004,Monna Lisa Crêperie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/monna_lisa_crperie_40.9533_17.3004.json,custom
+40.953363,17.300355,ov_angolocinque_restaurant_40.9534_17.3004,Angolocinque Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/angolocinque_restaurant_40.9534_17.3004.json,custom
+40.953532,17.300390,ov_pechino_chinese_restaurant_40.9535_17.3004,Pechino Chinese Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pechino_chinese_restaurant_40.9535_17.3004.json,custom
+40.953437,17.301603,ov_la_baia_monopoli_40.9534_17.3016,La Baia Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_baia_monopoli_40.9534_17.3016.json,custom
+40.953576,17.302033,ov_mameli_cafe_drink_food_40.9536_17.3020,Mameli Cafe Drink Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mameli_cafe_drink_food_40.9536_17.3020.json,custom
+40.953471,17.301754,ov_pescheria_la_muraglia_40.9535_17.3018,Pescheria La Muraglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pescheria_la_muraglia_40.9535_17.3018.json,custom
+40.953433,17.301619,ov_ohana_monopoli_40.9534_17.3016,Ohana Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ohana_monopoli_40.9534_17.3016.json,custom
+40.953425,17.301977,ov_il_guazzetto_40.9534_17.3020,Il Guazzetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_guazzetto_40.9534_17.3020.json,custom
+40.953251,17.301279,ov_metae_40.9533_17.3013,Metae,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/metae_40.9533_17.3013.json,custom
+40.953225,17.301100,ov_chin__40.9532_17.3011,Chinè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/chin_40.9532_17.3011.json,custom
+40.953135,17.302790,ov_trattoria_da_pierino_l_inglese_40.9531_17.3028,Trattoria da Pierino L'Inglese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_da_pierino_linglese_40.9531_17.3028.json,custom
+40.953383,17.303187,ov_ristorante_indelli_mare_mosso_40.9534_17.3032,Ristorante Indelli Mare Mosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_indelli_mare_mosso_40.9534_17.3032.json,custom
+40.953229,17.303695,ov_ristorante_azur_40.9532_17.3037,Ristorante Azur,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_azur_40.9532_17.3037.json,custom
+40.953215,17.303609,ov_casa_gioioso___bistrot_40.9532_17.3036,Casa Gioioso - Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/casa_gioioso_-_bistrot_40.9532_17.3036.json,custom
+40.953229,17.303184,ov_la_dolce_vita_monopoli_40.9532_17.3032,La Dolce Vita Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_dolce_vita_monopoli_40.9532_17.3032.json,custom
+40.953224,17.304892,ov_madia_morsi_di_felicita_40.9532_17.3049,Madia Morsi di Felicita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/madia_morsi_di_felicita_40.9532_17.3049.json,custom
+40.953285,17.304942,ov_il_calamaro_cantinaro_40.9533_17.3049,Il Calamaro Cantinaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_calamaro_cantinaro_40.9533_17.3049.json,custom
+40.953365,17.304968,ov_apluvia___restaurant_40.9534_17.3050,Apluvia - Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/apluvia_-_restaurant_40.9534_17.3050.json,custom
+40.953356,17.304995,ov_atypical_restaurant___ristorante_italian_40.9534_17.3050,Atypical Restaurant - Ristorante Italiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/atypical_restaurant_-_ristorante_italian_40.9534_17.3050.json,custom
+40.953502,17.305109,ov_palosanto_40.9535_17.3051,Palosanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/palosanto_40.9535_17.3051.json,custom
+40.953603,17.305096,ov_the_king_street_food_40.9536_17.3051,The King Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/the_king_street_food_40.9536_17.3051.json,custom
+40.953445,17.303615,ov_pokestorie_40.9534_17.3036,Pokestorie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pokestorie_40.9534_17.3036.json,custom
+40.953593,17.303162,ov_my_wine_40.9536_17.3032,My Wine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/my_wine_40.9536_17.3032.json,custom
+40.953692,17.302754,ov_trattoria_il_cavaliere_di_de_meo_antonio_40.9537_17.3028,Trattoria Il Cavaliere di De Meo Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_il_cavaliere_di_de_meo_antonio_40.9537_17.3028.json,custom
+40.953772,17.302913,ov_trattoria_il_brigante_40.9538_17.3029,Trattoria Il Brigante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_il_brigante_40.9538_17.3029.json,custom
+40.953933,17.303201,ov_bar_malindi_40.9539_17.3032,Bar Malindi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_malindi_40.9539_17.3032.json,custom
+40.954035,17.303035,ov_la_locanda_sul_porto_40.9540_17.3030,La Locanda sul Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_locanda_sul_porto_40.9540_17.3030.json,custom
+40.953977,17.302794,ov_cucunci_40.9540_17.3028,Cucunci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cucunci_40.9540_17.3028.json,custom
+40.954134,17.302911,ov_al_mare_40.9541_17.3029,Al Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/al_mare_40.9541_17.3029.json,custom
+40.953839,17.305223,ov_micasa_40.9538_17.3052,MiCasa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/micasa_40.9538_17.3052.json,custom
+40.953719,17.305535,ov_cibo_a_sud_40.9537_17.3055,Cibo a Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cibo_a_sud_40.9537_17.3055.json,custom
+40.953220,17.306203,ov_carlo_quinto_40.9532_17.3062,Carlo Quinto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/carlo_quinto_40.9532_17.3062.json,custom
+40.950301,17.306175,ov_duequattrodue_40.9503_17.3062,Duequattrodue,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/duequattrodue_40.9503_17.3062.json,custom
+40.950407,17.303583,ov_filo_d_olio_40.9504_17.3036,Filo d'Olio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/filo_dolio_40.9504_17.3036.json,custom
+40.950375,17.303517,ov_fresco_40.9504_17.3035,Fresco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/fresco_40.9504_17.3035.json,custom
+40.950453,17.303421,ov_antica_posta_40.9505_17.3034,Antica Posta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/antica_posta_40.9505_17.3034.json,custom
+40.950423,17.302466,ov_il_forno_delle_meraviglie_40.9504_17.3025,Il Forno delle Meraviglie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_forno_delle_meraviglie_40.9504_17.3025.json,custom
+40.949980,17.302761,ov_ai_portici_40.9500_17.3028,Ai Portici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ai_portici_40.9500_17.3028.json,custom
+40.949556,17.305578,ov_alkimia_restaurant___drink_40.9496_17.3056,Alkimia Restaurant & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/alkimia_restaurant_drink_40.9496_17.3056.json,custom
+40.949568,17.305627,ov_ass____cucina_bar_e_cose_40.9496_17.3056,Assé - Cucina Bar e Cose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ass_-_cucina_bar_e_cose_40.9496_17.3056.json,custom
+40.949779,17.305583,ov_monos_40.9498_17.3056,Monos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/monos_40.9498_17.3056.json,custom
+40.948955,17.306268,ov_80_fame_40.9490_17.3063,80 FAME,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/80_fame_40.9490_17.3063.json,custom
+40.948283,17.306550,ov_ristorante_lido_bianco_40.9483_17.3066,Ristorante Lido Bianco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_lido_bianco_40.9483_17.3066.json,custom
+40.948021,17.304243,ov_capitolo_40.9480_17.3042,Capitolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/capitolo_40.9480_17.3042.json,custom
+40.947939,17.303734,ov_le_bistrot_40.9479_17.3037,Le Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/le_bistrot_40.9479_17.3037.json,custom
+40.948808,17.303613,ov_tamarindo___drink___food_40.9488_17.3036,Tamarindo - Drink & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tamarindo_-_drink_food_40.9488_17.3036.json,custom
+40.948902,17.303487,ov_the_cockney_pub_monopoli_40.9489_17.3035,The Cockney Pub Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/the_cockney_pub_monopoli_40.9489_17.3035.json,custom
+40.948943,17.299664,ov_al_rosa_antico_casa_vacanze_40.9489_17.2997,Al Rosa Antico Casa Vacanze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/al_rosa_antico_casa_vacanze_40.9489_17.2997.json,custom
+40.949434,17.302355,ov_apicia_40.9494_17.3024,Apicia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/apicia_40.9494_17.3024.json,custom
+40.950687,17.297091,ov_ottanta_secondi_40.9507_17.2971,Ottanta Secondi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ottanta_secondi_40.9507_17.2971.json,custom
+40.951447,17.297246,ov_caff__del_corso_40.9514_17.2972,Caffè del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_del_corso_40.9514_17.2972.json,custom
+40.951701,17.298189,ov_polleria_fiume_40.9517_17.2982,Polleria Fiume,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/polleria_fiume_40.9517_17.2982.json,custom
+40.951779,17.298132,ov_cosette_40.9518_17.2981,Cosette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cosette_40.9518_17.2981.json,custom
+40.951654,17.299071,ov_red_beach_40.9517_17.2991,Red Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/red_beach_40.9517_17.2991.json,custom
+40.951160,17.299162,ov_malto_e_farina_40.9512_17.2992,Malto e Farina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/malto_e_farina_40.9512_17.2992.json,custom
+40.951504,17.299468,ov_ristorante_il_punto_cardinale_40.9515_17.2995,Ristorante Il Punto Cardinale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_il_punto_cardinale_40.9515_17.2995.json,custom
+40.951610,17.300360,ov_50_grani_40.9516_17.3004,50 Grani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/50_grani_40.9516_17.3004.json,custom
+40.951771,17.300899,ov_azienda_agricola_annese_40.9518_17.3009,Azienda Agricola Annese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/azienda_agricola_annese_40.9518_17.3009.json,custom
+40.951354,17.301198,ov_san_marco_40.9514_17.3012,San Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/san_marco_40.9514_17.3012.json,custom
+40.951262,17.301194,ov_casa_timeo___bottega__ristorante_e_cucin_40.9513_17.3012,"Casa Timeo - Bottega, ristorante e Cucina tipica",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/casa_timeo_-_bottega_ristorante_e_cucina_40.9513_17.3012.json,custom
+40.951000,17.302240,ov_fruttamore___tradizione_40.9510_17.3022,FruttAmore & Tradizione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/fruttamore_tradizione_40.9510_17.3022.json,custom
+40.950731,17.299777,ov_la_lanterna_pizzeria_monopoli_40.9507_17.2998,La Lanterna Pizzeria Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_lanterna_pizzeria_monopoli_40.9507_17.2998.json,custom
+40.950627,17.301197,ov_pizziamo_40.9506_17.3012,Pizziamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizziamo_40.9506_17.3012.json,custom
+40.950833,17.304055,ov_medeat_40.9508_17.3041,Medeat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/medeat_40.9508_17.3041.json,custom
+40.950890,17.303920,ov_porta_vecchia_srls_40.9509_17.3039,Porta Vecchia Srls,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/porta_vecchia_srls_40.9509_17.3039.json,custom
+40.950978,17.304761,ov_la_vecchia_taverna_40.9510_17.3048,La Vecchia Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_vecchia_taverna_40.9510_17.3048.json,custom
+40.951102,17.305003,ov_calamari___liquori_40.9511_17.3050,Calamari & Liquori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/calamari_liquori_40.9511_17.3050.json,custom
+40.950976,17.305293,ov_meraki_40.9510_17.3053,Meraki,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/meraki_40.9510_17.3053.json,custom
+40.950976,17.304641,ov_il_cantinale_40.9510_17.3046,Il Cantinale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_cantinale_40.9510_17.3046.json,custom
+40.950740,17.305048,ov_terrazzamare_monopoli_40.9507_17.3050,Terrazzamare monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/terrazzamare_monopoli_40.9507_17.3050.json,custom
+40.950619,17.305051,ov_portavecchia_terrazza_40.9506_17.3051,Portavecchia terrazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/portavecchia_terrazza_40.9506_17.3051.json,custom
+40.951706,17.305354,ov_hostaria_de_don_juan_40.9517_17.3054,Hostaria de Don Juan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/hostaria_de_don_juan_40.9517_17.3054.json,custom
+40.952135,17.302865,ov_casa_e_bottega_40.9521_17.3029,Casa e Bottega,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/casa_e_bottega_40.9521_17.3029.json,custom
+40.952352,17.302709,ov_ostinati___nati_per_fare_gli_osti_40.9524_17.3027,Ostinati - Nati per fare gli Osti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ostinati_-_nati_per_fare_gli_osti_40.9524_17.3027.json,custom
+40.952258,17.303207,ov_munz_munz_biostrot_40.9523_17.3032,Munz Munz biOstrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/munz_munz_biostrot_40.9523_17.3032.json,custom
+40.951905,17.305814,ov_jungle_bar___bistrot_40.9519_17.3058,Jungle Bar & Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/jungle_bar_bistrot_40.9519_17.3058.json,custom
+40.951928,17.305701,ov_radici___dispensa_di_sapori_40.9519_17.3057,Radici - Dispensa di Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/radici_-_dispensa_di_sapori_40.9519_17.3057.json,custom
+40.951901,17.306311,ov_don_ferrante___dimore_di_charme_40.9519_17.3063,Don Ferrante - Dimore di charme,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/don_ferrante_-_dimore_di_charme_40.9519_17.3063.json,custom
+40.952203,17.306437,ov_atipico_40.9522_17.3064,Atipico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/atipico_40.9522_17.3064.json,custom
+40.952243,17.305469,ov_ristorante_piazza_palmieri_40.9522_17.3055,Ristorante Piazza Palmieri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_piazza_palmieri_40.9522_17.3055.json,custom
+40.952276,17.305673,ov_osteria_sangiovanni___monopoli_40.9523_17.3057,Osteria Sangiovanni - Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/osteria_sangiovanni_-_monopoli_40.9523_17.3057.json,custom
+40.952266,17.305392,ov_trattoria_re_umberto_i_panzerotteria_piz_40.9523_17.3054,Trattoria Re Umberto I Panzerotteria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_re_umberto_i_panzerotteria_piz_40.9523_17.3054.json,custom
+40.952909,17.303920,ov_olio_e_vino_40.9529_17.3039,Olio e Vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/olio_e_vino_40.9529_17.3039.json,custom
+40.952865,17.303927,ov_la_locanda_dei_pescatori_40.9529_17.3039,La locanda dei pescatori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_locanda_dei_pescatori_40.9529_17.3039.json,custom
+40.952831,17.303922,ov_ristorante_monopoli_40.9528_17.3039,Ristorante Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_monopoli_40.9528_17.3039.json,custom
+40.952810,17.304176,ov_tuttoapposto_winebar_40.9528_17.3042,Tuttoapposto Winebar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tuttoapposto_winebar_40.9528_17.3042.json,custom
+40.952566,17.304172,ov_frisellandia_monopoli_40.9526_17.3042,Frisellandia Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/frisellandia_monopoli_40.9526_17.3042.json,custom
+40.952581,17.304229,ov_trattoria_pizzeria_da_zi_ottavio_40.9526_17.3042,Trattoria Pizzeria Da Zi Ottavio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_pizzeria_da_zi_ottavio_40.9526_17.3042.json,custom
+40.952660,17.304318,ov_komera_40.9527_17.3043,Komera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/komera_40.9527_17.3043.json,custom
+40.952723,17.304336,ov_maninpasta_40.9527_17.3043,Maninpasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/maninpasta_40.9527_17.3043.json,custom
+40.952729,17.304403,ov_osteria_perricci_40.9527_17.3044,Osteria Perricci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/osteria_perricci_40.9527_17.3044.json,custom
+40.952737,17.303984,ov_polpo_matto_40.9527_17.3040,Polpo Matto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/polpo_matto_40.9527_17.3040.json,custom
+40.952755,17.303566,ov_ristorante_almarea_40.9528_17.3036,Ristorante Almarea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_almarea_40.9528_17.3036.json,custom
+40.952640,17.303254,ov_pinsotti_40.9526_17.3033,Pinsotti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pinsotti_40.9526_17.3033.json,custom
+40.952772,17.302973,ov_magnapulia_40.9528_17.3030,Magnapulia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/magnapulia_40.9528_17.3030.json,custom
+40.952820,17.302520,ov_tato_s_40.9528_17.3025,Tato's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tatos_40.9528_17.3025.json,custom
+40.952835,17.303007,ov_il_punto_cardinale_40.9528_17.3030,Il Punto Cardinale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_punto_cardinale_40.9528_17.3030.json,custom
+40.952825,17.302889,ov_al_vicoletto___cucina_di_casa_40.9528_17.3029,Al Vicoletto - Cucina di Casa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/al_vicoletto_-_cucina_di_casa_40.9528_17.3029.json,custom
+40.952801,17.302894,ov_condominio_60_40.9528_17.3029,Condominio 60,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/condominio_60_40.9528_17.3029.json,custom
+40.952776,17.303072,ov_pizzosteria_l_isola_che_non_c_e_40.9528_17.3031,Pizzosteria L'Isola che non C'e,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzosteria_lisola_che_non_ce_40.9528_17.3031.json,custom
+40.952833,17.303124,ov_gaia_osteria_popolare_40.9528_17.3031,Gaia Osteria Popolare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gaia_osteria_popolare_40.9528_17.3031.json,custom
+40.952841,17.302308,ov_trattoria_la_locanda_dei_mercanti_40.9528_17.3023,Trattoria La Locanda dei Mercanti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_la_locanda_dei_mercanti_40.9528_17.3023.json,custom
+40.952997,17.299406,ov_cibbell_40.9530_17.2994,CibBell,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cibbell_40.9530_17.2994.json,custom
+40.952711,17.302157,ov_il_quadrifoglio___monopoli_40.9527_17.3022,Il Quadrifoglio - Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_quadrifoglio_-_monopoli_40.9527_17.3022.json,custom
+40.952728,17.302192,ov_pugliami_40.9527_17.3022,Pugliami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pugliami_40.9527_17.3022.json,custom
+40.952639,17.302137,ov_damare_40.9526_17.3021,Damare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/damare_40.9526_17.3021.json,custom
+40.951917,17.301384,ov_pizzeria_il_triangolo_40.9519_17.3014,Pizzeria Il Triangolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_il_triangolo_40.9519_17.3014.json,custom
+40.952269,17.298491,ov_ilcapitano_12_40.9523_17.2985,IlCapitano 12,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ilcapitano_12_40.9523_17.2985.json,custom
+40.951982,17.298540,ov_food__40.9520_17.2985,Foodì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/food_40.9520_17.2985.json,custom
+40.951945,17.297293,ov_via_roma_gastronomia_40.9519_17.2973,Via Roma Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/via_roma_gastronomia_40.9519_17.2973.json,custom
+40.952563,17.298975,ov_michelangelo_40.9526_17.2990,Michelangelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/michelangelo_40.9526_17.2990.json,custom
+40.952862,17.296250,ov_bavarotti_da_francesco_40.9529_17.2962,Bavarotti da Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bavarotti_da_francesco_40.9529_17.2962.json,custom
+40.952818,17.293801,ov_turnoverparty_40.9528_17.2938,Turnoverparty,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/turnoverparty_40.9528_17.2938.json,custom
+40.952120,17.294970,ov_pizzeria_amore_puro_40.9521_17.2950,Pizzeria Amore Puro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_amore_puro_40.9521_17.2950.json,custom
+40.952501,17.293033,ov_ristorante_pizzeria_oltremare_40.9525_17.2930,Ristorante Pizzeria OltreMare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_pizzeria_oltremare_40.9525_17.2930.json,custom
+40.952406,17.288777,ov_pizzeria_pulcinella_40.9524_17.2888,Pizzeria Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_pulcinella_40.9524_17.2888.json,custom
+40.948982,17.290913,ov_pizzeria_corallo_40.9490_17.2909,Pizzeria Corallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_corallo_40.9490_17.2909.json,custom
+40.948845,17.289210,ov_metro_pizza_monopoli_40.9488_17.2892,Metro Pizza Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/metro_pizza_monopoli_40.9488_17.2892.json,custom
+40.949221,17.286579,ov_pizza_cale_40.9492_17.2866,Pizza Cale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizza_cale_40.9492_17.2866.json,custom
+40.949359,17.288911,ov_cibus___identit__del_gusto_40.9494_17.2889,Cibus - Identità del gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cibus_-_identit_del_gusto_40.9494_17.2889.json,custom
+40.950071,17.287439,ov_gnam_gnam_monopoli_40.9501_17.2874,Gnam Gnam Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gnam_gnam_monopoli_40.9501_17.2874.json,custom
+40.948347,17.284093,ov_masseria_arenazza_40.9483_17.2841,Masseria Arenazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_arenazza_40.9483_17.2841.json,custom
+40.955650,17.272510,ov_d_f_caff__40.9556_17.2725,D&F Caffè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/df_caff_40.9556_17.2725.json,custom
+40.954071,17.281695,ov_masseria_siri_40.9541_17.2817,Masseria Siri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_siri_40.9541_17.2817.json,custom
+40.953143,17.295632,ov_spaghetti_d_italia_40.9531_17.2956,Spaghetti d'Italia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/spaghetti_ditalia_40.9531_17.2956.json,custom
+40.953663,17.295996,ov_focacciamo_40.9537_17.2960,Focacciamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/focacciamo_40.9537_17.2960.json,custom
+40.953506,17.294305,ov_mediterranea_self_service___ristorante_d_40.9535_17.2943,Mediterranea Self Service...ristorante dal 1994...asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mediterranea_self_serviceristorante_dal__40.9535_17.2943.json,custom
+40.953779,17.296090,ov_appet__po__bistrot_40.9538_17.2961,Appetì Po' Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/appet_po_bistrot_40.9538_17.2961.json,custom
+40.955035,17.295614,ov_nagoya_40.9550_17.2956,Nagoya,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nagoya_40.9550_17.2956.json,custom
+40.956635,17.288778,ov_benfood_40.9566_17.2888,Benfood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/benfood_40.9566_17.2888.json,custom
+40.956055,17.296271,ov_habi_apulia_40.9561_17.2963,Habi Apulia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/habi_apulia_40.9561_17.2963.json,custom
+40.956831,17.290676,ov_bar_biancoverde___coffee___pizza_40.9568_17.2907,Bar Biancoverde | Coffee & pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_biancoverde_coffee_pizza_40.9568_17.2907.json,custom
+40.957402,17.294981,ov_garage_27_40.9574_17.2950,Garage 27,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/garage_27_40.9574_17.2950.json,custom
+40.957644,17.294763,ov_pollidea_40.9576_17.2948,Pollidea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pollidea_40.9576_17.2948.json,custom
+40.957907,17.294943,ov_da_marcella_40.9579_17.2949,Da Marcella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/da_marcella_40.9579_17.2949.json,custom
+40.958034,17.295048,ov_ristorante_il_cavaliere_40.9580_17.2950,Ristorante Il Cavaliere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_il_cavaliere_40.9580_17.2950.json,custom
+40.958076,17.293680,ov_lo_squalo_40.9581_17.2937,Lo Squalo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/lo_squalo_40.9581_17.2937.json,custom
+40.958295,17.289929,ov_koun_sushi_monopoli_40.9583_17.2899,Koun Sushi Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/koun_sushi_monopoli_40.9583_17.2899.json,custom
+40.958188,17.282268,ov_mcdonald_s_40.9582_17.2823,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mcdonalds_40.9582_17.2823.json,custom
+40.945843,17.268075,ov_tenuta_chianchizza_40.9458_17.2681,Tenuta Chianchizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tenuta_chianchizza_40.9458_17.2681.json,custom
+40.940338,17.253486,ov_il_gallo_40.9403_17.2535,Il Gallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_gallo_40.9403_17.2535.json,custom
+40.947541,17.285440,ov_quokka___mangiatori_seriali_40.9475_17.2854,Quokka - Mangiatori Seriali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/quokka_-_mangiatori_seriali_40.9475_17.2854.json,custom
+40.947266,17.290204,ov_pizzeria_mamma_che_pizza_40.9473_17.2902,Pizzeria Mamma che Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_mamma_che_pizza_40.9473_17.2902.json,custom
+40.943655,17.306747,ov_cirasella_40.9437_17.3067,Cirasella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cirasella_40.9437_17.3067.json,custom
+40.944038,17.306606,ov_ristofriggitoria_avanti_c_e_posto_da_nar_40.9440_17.3066,Ristofriggitoria Avanti C'e Posto da Nardino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristofriggitoria_avanti_ce_posto_da_nard_40.9440_17.3066.json,custom
+40.944059,17.306307,ov_delizie_di_sicilia_40.9441_17.3063,Delizie di sicilia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/delizie_di_sicilia_40.9441_17.3063.json,custom
+40.945222,17.307820,ov_maccaroni___trattoria_italianissima_40.9452_17.3078,Maccaroni - Trattoria Italianissima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/maccaroni_-_trattoria_italianissima_40.9452_17.3078.json,custom
+40.946816,17.299635,ov_volte_d_anima_40.9468_17.2996,Volte d'Anima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/volte_danima_40.9468_17.2996.json,custom
+40.947610,17.303575,ov_la_sartoria_del_pollo_40.9476_17.3036,La Sartoria del Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_sartoria_del_pollo_40.9476_17.3036.json,custom
+40.947355,17.306568,ov_caff__del_mare_monopoli_40.9474_17.3066,CAFFÈ DEL MARE Monopoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_del_mare_monopoli_40.9474_17.3066.json,custom
+40.947672,17.307344,ov_ristorante_porto_rosso_40.9477_17.3073,Ristorante Porto Rosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_porto_rosso_40.9477_17.3073.json,custom
+40.946374,17.308328,ov_baia_fiorita_40.9464_17.3083,Baia Fiorita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/baia_fiorita_40.9464_17.3083.json,custom
+40.946517,17.304545,ov_laki_sushi_40.9465_17.3045,Laki Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/laki_sushi_40.9465_17.3045.json,custom
+40.944022,17.309504,ov_oltre_la_torretta_40.9440_17.3095,Oltre la torretta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/oltre_la_torretta_40.9440_17.3095.json,custom
+40.943950,17.312261,ov_cala_ve_40.9440_17.3123,Cala Ve,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cala_ve_40.9440_17.3123.json,custom
+40.939974,17.306723,ov_pizzeria_greenwich_40.9400_17.3067,Pizzeria Greenwich,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pizzeria_greenwich_40.9400_17.3067.json,custom
+40.939099,17.316437,ov_il_re_dello_spaghetto_40.9391_17.3164,Il Re dello Spaghetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_re_dello_spaghetto_40.9391_17.3164.json,custom
+40.938092,17.318516,ov_cala_cerasa_40.9381_17.3185,Cala Cerasa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cala_cerasa_40.9381_17.3185.json,custom
+40.937705,17.319979,ov_il_paesano_40.9377_17.3200,Il Paesano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_paesano_40.9377_17.3200.json,custom
+40.940584,17.315493,osm_ristorante_ricevimenti_copacabana_40.9406_17.3155,Ristorante ricevimenti Copacabana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ristorante_ricevimenti_copacabana_40.9406_17.3155.json,custom
+40.944246,17.306056,osm_delizie_di_sicilia___pizzeria_40.9442_17.3061,Delizie di sicilia - Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/delizie_di_sicilia_-_pizzeria_40.9442_17.3061.json,custom
+40.953118,17.302775,osm_trattoria_pierino_l_inglese_40.9531_17.3028,Trattoria Pierino l'inglese,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/trattoria_pierino_linglese_40.9531_17.3028.json,custom
+40.882903,17.336595,osm_panificio_l_assunta_40.8829_17.3366,Panificio L'Assunta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/panificio_lassunta_40.8829_17.3366.json,custom
+40.953627,17.305162,osm_the_king_40.9536_17.3052,The King,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/the_king_40.9536_17.3052.json,custom
+40.952640,17.303116,osm_pinsotti_pinsa___bacaro_40.9526_17.3031,PINSOTTI pinsa & bacaro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pinsotti_pinsa_bacaro_40.9526_17.3031.json,custom
+40.958294,17.293271,osm_pane_e_fantasie_40.9583_17.2933,Pane e Fantasie,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pane_e_fantasie_40.9583_17.2933.json,custom
+40.957372,17.294909,osm_garage27_40.9574_17.2949,Garage27,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/garage27_40.9574_17.2949.json,custom
+40.948307,17.306600,osm_lido_bianco_40.9483_17.3066,Lido Bianco,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/lido_bianco_40.9483_17.3066.json,custom
+40.866439,17.277253,osm_masseria_gelso_antico_40.8664_17.2773,Masseria Gelso Antico,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/masseria_gelso_antico_40.8664_17.2773.json,custom
+40.950866,17.305292,osm_a_sentimento_40.9509_17.3053,A Sentimento,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/a_sentimento_40.9509_17.3053.json,custom
+40.930448,17.189057,osm_sala_ricevimenti_mizar_blu_40.9304_17.1891,Sala Ricevimenti Mizar Blu,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sala_ricevimenti_mizar_blu_40.9304_17.1891.json,custom
+40.945723,17.267896,osm_agriturismo_tenuta_chianchizza_40.9457_17.2679,Agriturismo Tenuta Chianchizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/agriturismo_tenuta_chianchizza_40.9457_17.2679.json,custom

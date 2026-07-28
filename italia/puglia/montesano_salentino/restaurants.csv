@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montesano_salentino -- restaurants
-39.976717,18.323189,osm_la_corte_dei_sapori_39.9767_18.3232,La Corte dei Sapori,ristorante,ristorante
-39.975273,18.322860,ov_pizzeria_la_piazzetta_39.9753_18.3229,Pizzeria La Piazzetta,RESTAURANT,ristorante
-39.978817,18.328359,ov_la_dolce_vita_ristorante_pizzeria_39.9788_18.3284,La Dolce Vita Ristorante Pizzeria,RESTAURANT,ristorante
+39.975273,18.322860,ov_pizzeria_la_piazzetta_39.9753_18.3229,Pizzeria La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/pizzeria_la_piazzetta_39.9753_18.3229.json,custom
+39.978817,18.328359,ov_la_dolce_vita_ristorante_pizzeria_39.9788_18.3284,La Dolce Vita Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/la_dolce_vita_ristorante_pizzeria_39.9788_18.3284.json,custom
+39.976717,18.323189,osm_la_corte_dei_sapori_39.9767_18.3232,La Corte dei Sapori,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/la_corte_dei_sapori_39.9767_18.3232.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grumo_appula -- hospitals
-41.014950,16.707331,ov_centro_di_medicina_estetica_41.0149_16.7073,Centro di medicina estetica,HOSPITAL,hospital
-41.013994,16.712833,ov_ospedale_civile_41.0140_16.7128,Ospedale Civile,HOSPITAL,hospital
-41.014001,16.713051,ov_ospedale_generale_pronto_soccorso_41.0140_16.7131,Ospedale Generale Pronto Soccorso,HOSPITAL,hospital
+41.014950,16.707331,ov_centro_di_medicina_estetica_41.0149_16.7073,Centro di medicina estetica,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/centro_di_medicina_estetica_41.0149_16.7073.json,custom
+41.013994,16.712833,ov_ospedale_civile_41.0140_16.7128,Ospedale Civile,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/ospedale_civile_41.0140_16.7128.json,custom
+41.014001,16.713051,ov_ospedale_generale_pronto_soccorso_41.0140_16.7131,Ospedale Generale Pronto Soccorso,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumo_appula/pages/ospedale_generale_pronto_soccorso_41.0140_16.7131.json,custom

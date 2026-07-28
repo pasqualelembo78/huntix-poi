@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_cassiano -- bars_cafes
-40.057524,18.335561,ov_bar_villa_40.0575_18.3356,Bar Villa,RESTAURANT,bar_cafe
-40.057539,18.334058,ov_iter_coffee_house_40.0575_18.3341,ITER Coffee House,RESTAURANT,bar_cafe
-40.057667,18.334057,ov_prima_o_poi_40.0577_18.3341,Prima o Poi,RESTAURANT,bar_cafe
-40.060535,18.329094,ov_il_mito_40.0605_18.3291,Il Mito,RESTAURANT,bar_cafe
-40.054800,18.319882,osm_le_dolci_fantasie_40.0548_18.3199,Le Dolci Fantasie,bar_cafe,bar_cafe
+40.057524,18.335561,ov_bar_villa_40.0575_18.3356,Bar Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/bar_villa_40.0575_18.3356.json,custom
+40.057539,18.334058,ov_iter_coffee_house_40.0575_18.3341,ITER Coffee House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/iter_coffee_house_40.0575_18.3341.json,custom
+40.057667,18.334057,ov_prima_o_poi_40.0577_18.3341,Prima o Poi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/prima_o_poi_40.0577_18.3341.json,custom
+40.060535,18.329094,ov_il_mito_40.0605_18.3291,Il Mito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/il_mito_40.0605_18.3291.json,custom
+40.054800,18.319882,osm_le_dolci_fantasie_40.0548_18.3199,Le Dolci Fantasie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/le_dolci_fantasie_40.0548_18.3199.json,custom

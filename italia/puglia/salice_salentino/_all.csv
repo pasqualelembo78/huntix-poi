@@ -1,31 +1,31 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Salice Salentino -- Tutti
-40.385552,17.962579,osm_the_kitchen_di_baldassarre_liliana_40.3856_17.9626,The Kitchen di Baldassarre Liliana,ristorante,ristorante
-40.385735,17.961176,ov_pizzeria_la_diavola_40.3857_17.9612,Pizzeria La Diavola,RESTAURANT,ristorante
-40.384550,17.960573,ov_tuttopasta_40.3845_17.9606,Tuttopasta,RESTAURANT,ristorante
-40.385467,17.962835,ov_the_kitchen_40.3855_17.9628,The Kitchen,RESTAURANT,ristorante
-40.389190,17.965170,ov_pizzeria_rosticceria_la_diavola_40.3892_17.9652,Pizzeria Rosticceria La Diavola,RESTAURANT,ristorante
-40.378180,17.966930,ov_new_van_gogh_ristorante_pizzeria_40.3782_17.9669,New Van Gogh ristorante pizzeria,RESTAURANT,ristorante
-40.382583,17.959556,ov_la_roscia_te_lu_fucalire_40.3826_17.9596,La Roscia te lu Fucalire,RESTAURANT,ristorante
-40.381144,17.953975,ov_canape_prato_s_bistro_40.3811_17.9540,Canape Prato's Bistro,RESTAURANT,ristorante
-40.376526,17.966353,ov_sakura_sushi_40.3765_17.9664,Sakura Sushi,RESTAURANT,ristorante
-40.369305,17.980787,ov_agriturismo_santa_barbara_40.3693_17.9808,Agriturismo Santa Barbara,RESTAURANT,ristorante
-40.385010,17.960750,ov_drink_and_go_40.3850_17.9608,Drink and Go,RESTAURANT,bar_cafe
-40.384756,17.965177,ov_gold_caffe_40.3848_17.9652,Gold Caffe,RESTAURANT,bar_cafe
-40.386045,17.966071,ov_birrificio_artigianale_40.3860_17.9661,Birrificio Artigianale,RESTAURANT,bar_cafe
-40.385814,17.964126,ov_la_gintoneria_di_david_40.3858_17.9641,La Gintoneria di David,RESTAURANT,bar_cafe
-40.385820,17.965737,ov_bar_lucia___pasticceria___cake_design_40.3858_17.9657,BAR LUCIA - Pasticceria & Cake Design,RESTAURANT,bar_cafe
-40.388028,17.956484,ov_caffetteria_jox_40.3880_17.9565,Caffetteria Jox,RESTAURANT,bar_cafe
-40.389554,17.964723,ov_bar_stazione_40.3896_17.9647,Bar Stazione,RESTAURANT,bar_cafe
-40.393127,17.969071,ov_bar_magl__the_new_generation_40.3931_17.9691,Bar maglù/The New Generation,RESTAURANT,bar_cafe
-40.392921,17.956734,ov_km1_cafe_40.3929_17.9567,Km1 Cafe,RESTAURANT,bar_cafe
-40.380091,17.967753,ov_memo_s_drink_and_coffee_40.3801_17.9678,Memo's Drink and Coffee,RESTAURANT,bar_cafe
-40.380073,17.967655,ov_dominic_40.3801_17.9677,Dominic,RESTAURANT,bar_cafe
-40.380063,17.967861,ov_marra_fotografia_40.3801_17.9679,Marra Fotografia,RESTAURANT,bar_cafe
-40.381288,17.961548,ov_caffetteria_tabaccheria_il_sigaro_40.3813_17.9615,Caffetteria Tabaccheria Il Sigaro,RESTAURANT,bar_cafe
-40.381400,17.961490,ov_casamia_bar_vineria__40.3814_17.9615,Casamia bar vineria.,RESTAURANT,bar_cafe
-40.375399,17.967020,ov_pausa_caffe_40.3754_17.9670,Pausa Caffe,RESTAURANT,bar_cafe
-40.385260,17.962120,ov_pro_loco_salice_salentino_40.3853_17.9621,Pro Loco Salice Salentino,GYM,palestra
-40.385123,17.962058,ov_spazio_danza_due_40.3851_17.9621,Spazio Danza Due,GYM,palestra
-40.384129,17.968556,ov_mouna_yoga_salice_40.3841_17.9686,Mouna Yoga Salice,GYM,palestra
-40.339665,17.963013,ov_sala_centro_sociale_parrocchiale__don_ma_40.3397_17.9630,Sala Centro Sociale Parrocchiale “Don Mario Melendugno”,GYM,palestra
+40.385735,17.961176,ov_pizzeria_la_diavola_40.3857_17.9612,Pizzeria La Diavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pizzeria_la_diavola_40.3857_17.9612.json,custom
+40.384550,17.960573,ov_tuttopasta_40.3845_17.9606,Tuttopasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/tuttopasta_40.3845_17.9606.json,custom
+40.385467,17.962835,ov_the_kitchen_40.3855_17.9628,The Kitchen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/the_kitchen_40.3855_17.9628.json,custom
+40.389190,17.965170,ov_pizzeria_rosticceria_la_diavola_40.3892_17.9652,Pizzeria Rosticceria La Diavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pizzeria_rosticceria_la_diavola_40.3892_17.9652.json,custom
+40.378180,17.966930,ov_new_van_gogh_ristorante_pizzeria_40.3782_17.9669,New Van Gogh ristorante pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/new_van_gogh_ristorante_pizzeria_40.3782_17.9669.json,custom
+40.382583,17.959556,ov_la_roscia_te_lu_fucalire_40.3826_17.9596,La Roscia te lu Fucalire,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/la_roscia_te_lu_fucalire_40.3826_17.9596.json,custom
+40.381144,17.953975,ov_canape_prato_s_bistro_40.3811_17.9540,Canape Prato's Bistro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/canape_pratos_bistro_40.3811_17.9540.json,custom
+40.376526,17.966353,ov_sakura_sushi_40.3765_17.9664,Sakura Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/sakura_sushi_40.3765_17.9664.json,custom
+40.369305,17.980787,ov_agriturismo_santa_barbara_40.3693_17.9808,Agriturismo Santa Barbara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/agriturismo_santa_barbara_40.3693_17.9808.json,custom
+40.385552,17.962579,osm_the_kitchen_di_baldassarre_liliana_40.3856_17.9626,The Kitchen di Baldassarre Liliana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/the_kitchen_di_baldassarre_liliana_40.3856_17.9626.json,custom
+40.385010,17.960750,ov_drink_and_go_40.3850_17.9608,Drink and Go,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/drink_and_go_40.3850_17.9608.json,custom
+40.384756,17.965177,ov_gold_caffe_40.3848_17.9652,Gold Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/gold_caffe_40.3848_17.9652.json,custom
+40.386045,17.966071,ov_birrificio_artigianale_40.3860_17.9661,Birrificio Artigianale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/birrificio_artigianale_40.3860_17.9661.json,custom
+40.385814,17.964126,ov_la_gintoneria_di_david_40.3858_17.9641,La Gintoneria di David,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/la_gintoneria_di_david_40.3858_17.9641.json,custom
+40.385820,17.965737,ov_bar_lucia___pasticceria___cake_design_40.3858_17.9657,BAR LUCIA - Pasticceria & Cake Design,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/bar_lucia_-_pasticceria_cake_design_40.3858_17.9657.json,custom
+40.388028,17.956484,ov_caffetteria_jox_40.3880_17.9565,Caffetteria Jox,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/caffetteria_jox_40.3880_17.9565.json,custom
+40.389554,17.964723,ov_bar_stazione_40.3896_17.9647,Bar Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/bar_stazione_40.3896_17.9647.json,custom
+40.393127,17.969071,ov_bar_magl__the_new_generation_40.3931_17.9691,Bar maglù/The New Generation,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/bar_maglthe_new_generation_40.3931_17.9691.json,custom
+40.392921,17.956734,ov_km1_cafe_40.3929_17.9567,Km1 Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/km1_cafe_40.3929_17.9567.json,custom
+40.380091,17.967753,ov_memo_s_drink_and_coffee_40.3801_17.9678,Memo's Drink and Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/memos_drink_and_coffee_40.3801_17.9678.json,custom
+40.380073,17.967655,ov_dominic_40.3801_17.9677,Dominic,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/dominic_40.3801_17.9677.json,custom
+40.380063,17.967861,ov_marra_fotografia_40.3801_17.9679,Marra Fotografia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/marra_fotografia_40.3801_17.9679.json,custom
+40.381288,17.961548,ov_caffetteria_tabaccheria_il_sigaro_40.3813_17.9615,Caffetteria Tabaccheria Il Sigaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/caffetteria_tabaccheria_il_sigaro_40.3813_17.9615.json,custom
+40.381400,17.961490,ov_casamia_bar_vineria__40.3814_17.9615,Casamia bar vineria.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/casamia_bar_vineria_40.3814_17.9615.json,custom
+40.375399,17.967020,ov_pausa_caffe_40.3754_17.9670,Pausa Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pausa_caffe_40.3754_17.9670.json,custom
+40.385260,17.962120,ov_pro_loco_salice_salentino_40.3853_17.9621,Pro Loco Salice Salentino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pro_loco_salice_salentino_40.3853_17.9621.json,custom
+40.385123,17.962058,ov_spazio_danza_due_40.3851_17.9621,Spazio Danza Due,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/spazio_danza_due_40.3851_17.9621.json,custom
+40.384129,17.968556,ov_mouna_yoga_salice_40.3841_17.9686,Mouna Yoga Salice,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/mouna_yoga_salice_40.3841_17.9686.json,custom
+40.339665,17.963013,ov_sala_centro_sociale_parrocchiale__don_ma_40.3397_17.9630,Sala Centro Sociale Parrocchiale “Don Mario Melendugno”,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/sala_centro_sociale_parrocchiale_don_mar_40.3397_17.9630.json,custom

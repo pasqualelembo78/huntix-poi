@@ -1,43 +1,43 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Spezzano Albanese -- Tutti
-39.670007,16.310200,ov_ambulatorio_veterinario_dr__giovanni_rin_39.6700_16.3102,Ambulatorio Veterinario Dr .giovanni Rinaldi,HOSPITAL,hospital
-39.674200,16.305230,ov_pizzeria_pingitore_39.6742_16.3052,Pizzeria Pingitore,RESTAURANT,ristorante
-39.671597,16.308789,ov_antica_trattoria_spezzanese_39.6716_16.3088,Antica Trattoria Spezzanese,RESTAURANT,ristorante
-39.670375,16.311789,ov_piazza_vecchia_39.6704_16.3118,Piazza vecchia,RESTAURANT,ristorante
-39.669216,16.311881,ov_peccati_di_gola_39.6692_16.3119,Peccati Di Gola,RESTAURANT,ristorante
-39.668566,16.311820,ov_pizzeria_l_arco_39.6686_16.3118,Pizzeria L'Arco,RESTAURANT,ristorante
-39.667340,16.310267,ov_il_chiosco_39.6673_16.3103,Il Chiosco,RESTAURANT,ristorante
-39.666350,16.310305,ov_pizzeria_gabemarite_39.6664_16.3103,Pizzeria Gabemarite,RESTAURANT,ristorante
-39.666630,16.310720,ov_osteria_numero_3_39.6666_16.3107,Osteria Numero 3,RESTAURANT,ristorante
-39.666602,16.310822,ov_l_angolo_dei_sapori_39.6666_16.3108,L'Angolo dei Sapori,RESTAURANT,ristorante
-39.666084,16.310210,ov_ristorante_pizzeria_l__antico_pino_39.6661_16.3102,Ristorante Pizzeria L' Antico pino,RESTAURANT,ristorante
-39.714670,16.286670,ov_italia_2_ristorante_pizzeria_39.7147_16.2867,Italia 2 Ristorante Pizzeria,RESTAURANT,ristorante
-39.709086,16.289901,ov_amarcord_39.7091_16.2899,Amarcord,RESTAURANT,ristorante
-39.705127,16.295112,ov_il_chiosco_del_villaggio_39.7051_16.2951,Il Chiosco Del Villaggio,RESTAURANT,ristorante
-39.687999,16.287372,ov_calabr_ne_osteria_39.6880_16.2874,Calabróne Osteria,RESTAURANT,ristorante
-39.684615,16.280126,ov_gallo_rosso_39.6846_16.2801,Gallo Rosso,RESTAURANT,ristorante
-39.672674,16.306963,ov_le_chic_garden_cafe_39.6727_16.3070,Le Chic Garden Cafe,RESTAURANT,bar_cafe
-39.674362,16.303525,ov_bar_del_campetto_39.6744_16.3035,Bar del Campetto,RESTAURANT,bar_cafe
-39.669512,16.311606,ov_la_bottega_del_caffe____cialde_e_capsule_39.6695_16.3116,La Bottega Del Caffe ...Cialde e capsule,RESTAURANT,bar_cafe
-39.668007,16.311498,ov_bar_del_corso_39.6680_16.3115,Bar del Corso,RESTAURANT,bar_cafe
-39.667290,16.311130,ov_caffe_centrale_39.6673_16.3111,caffe centrale,RESTAURANT,bar_cafe
-39.667148,16.310569,ov_the_time_39.6671_16.3106,The Time,RESTAURANT,bar_cafe
-39.667600,16.309640,ov_villari_chips_and_fish_39.6676_16.3096,Villari chips and fish,RESTAURANT,bar_cafe
-39.669230,16.308572,ov_top_game_club_39.6692_16.3086,Top game club,RESTAURANT,bar_cafe
-39.669882,16.310988,ov_aleph_pub_39.6699_16.3110,Aleph Pub,RESTAURANT,bar_cafe
-39.670476,16.310884,ov_gran_caffe_pangaro_39.6705_16.3109,Gran Caffe Pangaro,RESTAURANT,bar_cafe
-39.670290,16.304470,ov_circolo_la_resurrezione_39.6703_16.3045,Circolo La Resurrezione,RESTAURANT,bar_cafe
-39.668125,16.305646,ov_eden_cafe_pub_39.6681_16.3056,eden_cafe_pub,RESTAURANT,bar_cafe
-39.667204,16.306619,ov_blu_ice_39.6672_16.3066,Blu Ice,RESTAURANT,bar_cafe
-39.666090,16.307320,ov_sara_bar_39.6661_16.3073,SARA BAR,RESTAURANT,bar_cafe
-39.664879,16.307886,ov_motta_cafe_pasticceria_gelateria_lounge__39.6649_16.3079,Motta Cafe Pasticceria Gelateria Lounge Bar,RESTAURANT,bar_cafe
-39.666527,16.310574,ov_bar_caffettiera_al_solito_posto_39.6665_16.3106,Bar Caffettiera Al Solito Posto,RESTAURANT,bar_cafe
-39.665672,16.311276,ov_eden_caf__39.6657_16.3113,Eden Cafè,RESTAURANT,bar_cafe
-39.662790,16.307700,ov_bar_due_d_39.6628_16.3077,Bar Due D,RESTAURANT,bar_cafe
-39.687874,16.287515,osm_bar_hotel_san_francesco_39.6879_16.2875,Bar Hotel San Francesco,bar_cafe,bar_cafe
-39.668655,16.308441,ov_asd_centro_danza_giselle_39.6687_16.3084,ASD Centro Danza Giselle,GYM,palestra
-39.670832,16.309297,ov_centro_studi_danza_etoile_39.6708_16.3093,Centro Studi Danza Etoile,GYM,palestra
-39.669829,16.304933,ov_open_sport_sas_39.6698_16.3049,Open Sport Sas,GYM,palestra
-39.669898,16.304946,ov_ad_fitness_39.6699_16.3049,AD Fitness,GYM,palestra
-39.664116,16.310212,ov_energy_fitness_club_39.6641_16.3102,Energy Fitness Club,GYM,palestra
-39.707877,16.320358,ov_poligono_di_tiro_marino___scorza_di_mari_39.7079_16.3204,Poligono di tiro Marino & Scorza di Marino Giuseppe & Scorza,GYM,palestra
+39.670007,16.310200,ov_ambulatorio_veterinario_dr__giovanni_rin_39.6700_16.3102,Ambulatorio Veterinario Dr .giovanni Rinaldi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/ambulatorio_veterinario_dr_giovanni_rina_39.6700_16.3102.json,custom
+39.674200,16.305230,ov_pizzeria_pingitore_39.6742_16.3052,Pizzeria Pingitore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/pizzeria_pingitore_39.6742_16.3052.json,custom
+39.671597,16.308789,ov_antica_trattoria_spezzanese_39.6716_16.3088,Antica Trattoria Spezzanese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/antica_trattoria_spezzanese_39.6716_16.3088.json,custom
+39.670375,16.311789,ov_piazza_vecchia_39.6704_16.3118,Piazza vecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/piazza_vecchia_39.6704_16.3118.json,custom
+39.669216,16.311881,ov_peccati_di_gola_39.6692_16.3119,Peccati Di Gola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/peccati_di_gola_39.6692_16.3119.json,custom
+39.668566,16.311820,ov_pizzeria_l_arco_39.6686_16.3118,Pizzeria L'Arco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/pizzeria_larco_39.6686_16.3118.json,custom
+39.667340,16.310267,ov_il_chiosco_39.6673_16.3103,Il Chiosco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/il_chiosco_39.6673_16.3103.json,custom
+39.666350,16.310305,ov_pizzeria_gabemarite_39.6664_16.3103,Pizzeria Gabemarite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/pizzeria_gabemarite_39.6664_16.3103.json,custom
+39.666630,16.310720,ov_osteria_numero_3_39.6666_16.3107,Osteria Numero 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/osteria_numero_3_39.6666_16.3107.json,custom
+39.666602,16.310822,ov_l_angolo_dei_sapori_39.6666_16.3108,L'Angolo dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/langolo_dei_sapori_39.6666_16.3108.json,custom
+39.666084,16.310210,ov_ristorante_pizzeria_l__antico_pino_39.6661_16.3102,Ristorante Pizzeria L' Antico pino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/ristorante_pizzeria_l_antico_pino_39.6661_16.3102.json,custom
+39.714670,16.286670,ov_italia_2_ristorante_pizzeria_39.7147_16.2867,Italia 2 Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/italia_2_ristorante_pizzeria_39.7147_16.2867.json,custom
+39.709086,16.289901,ov_amarcord_39.7091_16.2899,Amarcord,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/amarcord_39.7091_16.2899.json,custom
+39.705127,16.295112,ov_il_chiosco_del_villaggio_39.7051_16.2951,Il Chiosco Del Villaggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/il_chiosco_del_villaggio_39.7051_16.2951.json,custom
+39.687999,16.287372,ov_calabr_ne_osteria_39.6880_16.2874,Calabróne Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/calabrne_osteria_39.6880_16.2874.json,custom
+39.684615,16.280126,ov_gallo_rosso_39.6846_16.2801,Gallo Rosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/gallo_rosso_39.6846_16.2801.json,custom
+39.672674,16.306963,ov_le_chic_garden_cafe_39.6727_16.3070,Le Chic Garden Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/le_chic_garden_cafe_39.6727_16.3070.json,custom
+39.674362,16.303525,ov_bar_del_campetto_39.6744_16.3035,Bar del Campetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/bar_del_campetto_39.6744_16.3035.json,custom
+39.669512,16.311606,ov_la_bottega_del_caffe____cialde_e_capsule_39.6695_16.3116,La Bottega Del Caffe ...Cialde e capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/la_bottega_del_caffe_cialde_e_capsule_39.6695_16.3116.json,custom
+39.668007,16.311498,ov_bar_del_corso_39.6680_16.3115,Bar del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/bar_del_corso_39.6680_16.3115.json,custom
+39.667290,16.311130,ov_caffe_centrale_39.6673_16.3111,caffe centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/caffe_centrale_39.6673_16.3111.json,custom
+39.667148,16.310569,ov_the_time_39.6671_16.3106,The Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/the_time_39.6671_16.3106.json,custom
+39.667600,16.309640,ov_villari_chips_and_fish_39.6676_16.3096,Villari chips and fish,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/villari_chips_and_fish_39.6676_16.3096.json,custom
+39.669230,16.308572,ov_top_game_club_39.6692_16.3086,Top game club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/top_game_club_39.6692_16.3086.json,custom
+39.669882,16.310988,ov_aleph_pub_39.6699_16.3110,Aleph Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/aleph_pub_39.6699_16.3110.json,custom
+39.670476,16.310884,ov_gran_caffe_pangaro_39.6705_16.3109,Gran Caffe Pangaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/gran_caffe_pangaro_39.6705_16.3109.json,custom
+39.670290,16.304470,ov_circolo_la_resurrezione_39.6703_16.3045,Circolo La Resurrezione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/circolo_la_resurrezione_39.6703_16.3045.json,custom
+39.668125,16.305646,ov_eden_cafe_pub_39.6681_16.3056,eden_cafe_pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/edencafepub_39.6681_16.3056.json,custom
+39.667204,16.306619,ov_blu_ice_39.6672_16.3066,Blu Ice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/blu_ice_39.6672_16.3066.json,custom
+39.666090,16.307320,ov_sara_bar_39.6661_16.3073,SARA BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/sara_bar_39.6661_16.3073.json,custom
+39.664879,16.307886,ov_motta_cafe_pasticceria_gelateria_lounge__39.6649_16.3079,Motta Cafe Pasticceria Gelateria Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/motta_cafe_pasticceria_gelateria_lounge__39.6649_16.3079.json,custom
+39.666527,16.310574,ov_bar_caffettiera_al_solito_posto_39.6665_16.3106,Bar Caffettiera Al Solito Posto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/bar_caffettiera_al_solito_posto_39.6665_16.3106.json,custom
+39.665672,16.311276,ov_eden_caf__39.6657_16.3113,Eden Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/eden_caf_39.6657_16.3113.json,custom
+39.662790,16.307700,ov_bar_due_d_39.6628_16.3077,Bar Due D,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/bar_due_d_39.6628_16.3077.json,custom
+39.687874,16.287515,osm_bar_hotel_san_francesco_39.6879_16.2875,Bar Hotel San Francesco,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/bar_hotel_san_francesco_39.6879_16.2875.json,custom
+39.668655,16.308441,ov_asd_centro_danza_giselle_39.6687_16.3084,ASD Centro Danza Giselle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/asd_centro_danza_giselle_39.6687_16.3084.json,custom
+39.670832,16.309297,ov_centro_studi_danza_etoile_39.6708_16.3093,Centro Studi Danza Etoile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/centro_studi_danza_etoile_39.6708_16.3093.json,custom
+39.669829,16.304933,ov_open_sport_sas_39.6698_16.3049,Open Sport Sas,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/open_sport_sas_39.6698_16.3049.json,custom
+39.669898,16.304946,ov_ad_fitness_39.6699_16.3049,AD Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/ad_fitness_39.6699_16.3049.json,custom
+39.664116,16.310212,ov_energy_fitness_club_39.6641_16.3102,Energy Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/energy_fitness_club_39.6641_16.3102.json,custom
+39.707877,16.320358,ov_poligono_di_tiro_marino___scorza_di_mari_39.7079_16.3204,Poligono di tiro Marino & Scorza di Marino Giuseppe & Scorza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spezzano_albanese/pages/poligono_di_tiro_marino_scorza_di_marino_39.7079_16.3204.json,custom

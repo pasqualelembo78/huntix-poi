@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rocchetta_santantonio -- bars_cafes
-41.103290,15.459830,ov_bar_feninnoteam_41.1033_15.4598,bar feninnoteam,RESTAURANT,bar_cafe
-41.101943,15.464198,ov_bar_pasticceria_peccati_di_gola_di_l_l_41.1019_15.4642,Bar Pasticceria Peccati Di Gola Di L&L,RESTAURANT,bar_cafe
-41.103340,15.459794,osm_bar_fennino_41.1033_15.4598,Bar Fennino,bar_cafe,bar_cafe
+41.103290,15.459830,ov_bar_feninnoteam_41.1033_15.4598,bar feninnoteam,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocchetta_santantonio/pages/bar_feninnoteam_41.1033_15.4598.json,custom
+41.101943,15.464198,ov_bar_pasticceria_peccati_di_gola_di_l_l_41.1019_15.4642,Bar Pasticceria Peccati Di Gola Di L&L,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocchetta_santantonio/pages/bar_pasticceria_peccati_di_gola_di_ll_41.1019_15.4642.json,custom
+41.103340,15.459794,osm_bar_fennino_41.1033_15.4598,Bar Fennino,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocchetta_santantonio/pages/bar_fennino_41.1033_15.4598.json,custom

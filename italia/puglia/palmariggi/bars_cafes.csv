@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palmariggi -- bars_cafes
-40.131342,18.380094,ov_ctc__ruggeri_40.1313_18.3801,CTC  Ruggeri,RESTAURANT,bar_cafe
-40.118682,18.434701,ov_crazypark_40.1187_18.4347,Crazypark,RESTAURANT,bar_cafe
+40.131342,18.380094,ov_ctc__ruggeri_40.1313_18.3801,CTC  Ruggeri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/ctc_ruggeri_40.1313_18.3801.json,custom
+40.118682,18.434701,ov_crazypark_40.1187_18.4347,Crazypark,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/crazypark_40.1187_18.4347.json,custom

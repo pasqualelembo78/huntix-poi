@@ -1,82 +1,82 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # melendugno -- restaurants
-40.274320,18.428882,osm_publito_40.2743_18.4289,Publito,ristorante,ristorante
-40.302567,18.403904,osm_ristorante_da_romano_40.3026_18.4039,Ristorante Da Romano,ristorante,ristorante
-40.275238,18.337813,osm_santamaria_40.2752_18.3378,Santamaria,ristorante,ristorante
-40.271618,18.337888,osm_angiolino_pizzeria___grill_40.2716_18.3379,Angiolino Pizzeria & Grill,ristorante,ristorante
-40.253591,18.445284,ov_fuoriorario_40.2536_18.4453,Fuoriorario,RESTAURANT,ristorante
-40.252333,18.417298,ov_agriturismo_malapezza_40.2523_18.4173,Agriturismo Malapezza,RESTAURANT,ristorante
-40.241480,18.381760,ov_ristorante_camp__40.2415_18.3818,Ristorante Campì,RESTAURANT,ristorante
-40.243318,18.385733,ov_mamba_grill_and_sound_40.2433_18.3857,Mamba grill and sound,RESTAURANT,ristorante
-40.243236,18.390576,ov_agriturismo_karrares_40.2432_18.3906,Agriturismo Karrares,RESTAURANT,ristorante
-40.239047,18.378123,ov_big_mama_40.2390_18.3781,Big Mama,RESTAURANT,ristorante
-40.239230,18.379700,ov_ristorante_pizzeria_big_mama_40.2392_18.3797,Ristorante-Pizzeria Big Mama,RESTAURANT,ristorante
-40.239617,18.380732,ov_da_umberto_1972_40.2396_18.3807,Da Umberto 1972,RESTAURANT,ristorante
-40.225292,18.434470,ov_la_trottoria_40.2253_18.4345,La Trottoria,RESTAURANT,ristorante
-40.257750,18.432532,ov_vesuvio_3_40.2578_18.4325,Vesuvio 3,RESTAURANT,ristorante
-40.254850,18.444563,ov_babilonia_40.2549_18.4446,Babilonia,RESTAURANT,ristorante
-40.254427,18.444548,ov_confine_sant_andrea_40.2544_18.4445,Confine Sant'Andrea,RESTAURANT,ristorante
-40.270794,18.338498,ov_addue___pizzeria_e_rosticceria_40.2708_18.3385,Addue | Pizzeria e Rosticceria,RESTAURANT,ristorante
-40.271461,18.338748,ov_ivizideglidei_fast_food_40.2715_18.3387,Ivizideglidei Fast Food,RESTAURANT,ristorante
-40.271827,18.336597,ov_caffetteria_pertini_40.2718_18.3366,Caffetteria Pertini,RESTAURANT,ristorante
-40.273464,18.337703,ov_bisco_40.2735_18.3377,Bisco,RESTAURANT,ristorante
-40.272589,18.338047,ov_pizzevia_40.2726_18.3380,Pizzevia,RESTAURANT,ristorante
-40.272537,18.342280,ov_friggitoria_salento_fried_food_40.2725_18.3423,Friggitoria Salento Fried Food,RESTAURANT,ristorante
-40.274910,18.337502,ov_al_filo_d_olio_40.2749_18.3375,Al Filo d'Olio,RESTAURANT,ristorante
-40.274791,18.337434,ov_pescheria_santoro_40.2748_18.3374,Pescheria Santoro,RESTAURANT,ristorante
-40.276948,18.338887,ov_poke_lab_40.2769_18.3389,Poke Lab,RESTAURANT,ristorante
-40.278280,18.344382,ov_macchia_del_barone_40.2783_18.3444,Macchia del Barone,RESTAURANT,ristorante
-40.277592,18.340572,ov_salentum_pizzeria_e_braceria_da_daniel_40.2776_18.3406,Salentum pizzeria e braceria da Daniel,RESTAURANT,ristorante
-40.278027,18.335892,ov_dentoni_bar_pasticceria_gelateria_40.2780_18.3359,Dentoni Bar Pasticceria Gelateria,RESTAURANT,ristorante
-40.277256,18.337475,ov_salento_pescheria_friggitoria_40.2773_18.3375,Salento Pescheria Friggitoria,RESTAURANT,ristorante
-40.277420,18.340391,ov_l_angolo_del_pastore_40.2774_18.3404,L'Angolo del Pastore,RESTAURANT,ristorante
-40.277061,18.339942,ov_alel__braceria_salentina_40.2771_18.3399,Alelù Braceria Salentina,RESTAURANT,ristorante
-40.276826,18.418102,ov_salentosteria_40.2768_18.4181,SalentOsteria,RESTAURANT,ristorante
-40.275642,18.383900,ov_masseria_santa_chiara_40.2756_18.3839,Masseria Santa Chiara,RESTAURANT,ristorante
-40.273645,18.423128,ov_vesuvio3_torre_dell_orso_40.2736_18.4231,Vesuvio3 Torre Dell'Orso,RESTAURANT,ristorante
-40.273659,18.424596,ov_bak__40.2737_18.4246,Bakè,RESTAURANT,ristorante
-40.274288,18.421981,ov_kiloda_pizzeria_40.2743_18.4220,Kiloda Pizzeria,RESTAURANT,ristorante
-40.274322,18.428828,ov_madaros_40.2743_18.4288,MADAROS,RESTAURANT,ristorante
-40.274329,18.429169,ov_mercato_del_pesce_40.2743_18.4292,Mercato Del Pesce,RESTAURANT,ristorante
-40.273857,18.428252,ov_tavola_calda_da_viola_40.2739_18.4283,Tavola Calda da Viola,RESTAURANT,ristorante
-40.273720,18.427957,ov_bistro_6_3_40.2737_18.4280,Bistro 6.3,RESTAURANT,ristorante
-40.273221,18.426199,ov_calici_by_gringo_40.2732_18.4262,Calici By Gringo,RESTAURANT,ristorante
-40.273373,18.427402,ov_le_due_sorelle_torre_dell_orso_40.2734_18.4274,LE DUE SORELLE-Torre dell'Orso,RESTAURANT,ristorante
-40.273314,18.427878,ov_ristorante_l_adriatico_40.2733_18.4279,Ristorante L'Adriatico,RESTAURANT,ristorante
-40.273502,18.423647,ov_cappellaio_matto_40.2735_18.4236,Cappellaio Matto,RESTAURANT,ristorante
-40.273582,18.421724,ov_bar_b_q_40.2736_18.4217,Bar-B-Q,RESTAURANT,ristorante
-40.273573,18.421674,ov_trattoria_pizzeria_dietro_l_angolo_40.2736_18.4217,Trattoria Pizzeria Dietro l'Angolo,RESTAURANT,ristorante
-40.272970,18.427128,ov_ristorante_del_mare_dietro_l_angolo_40.2730_18.4271,Ristorante del Mare Dietro L'Angolo,RESTAURANT,ristorante
-40.288787,18.370380,ov_piazza_del_forte_40.2888_18.3704,Piazza del Forte,RESTAURANT,ristorante
-40.287119,18.364904,ov_ristoro_agriturismo_carleo_40.2871_18.3649,Ristoro Agriturismo Carleo,RESTAURANT,ristorante
-40.286400,18.425931,ov_gustomare_40.2864_18.4259,GustoMare,RESTAURANT,ristorante
-40.285168,18.400417,ov_carrozzi_40.2852_18.4004,Carrozzi,RESTAURANT,ristorante
-40.281923,18.429951,ov_taverna_del_pesce_40.2819_18.4300,Taverna del Pesce,RESTAURANT,ristorante
-40.322243,18.376434,ov_gli_sfizi_della_torre_40.3222_18.3764,Gli Sfizi della Torre,RESTAURANT,ristorante
-40.320264,18.375300,ov_nobile__53_bar___restaurant_40.3203_18.3753,Nobile '53 bar & restaurant,RESTAURANT,ristorante
-40.319668,18.377747,ov_gioele_1_40.3197_18.3777,Gioele 1,RESTAURANT,ristorante
-40.304118,18.399964,ov_aura_restaurant_40.3041_18.4000,Aura Restaurant,RESTAURANT,ristorante
-40.302365,18.400490,ov_il_vagabondo_san_foca_40.3024_18.4005,Il Vagabondo San Foca,RESTAURANT,ristorante
-40.302261,18.401975,ov_macelleria_braceria_greco_40.3023_18.4020,Macelleria Braceria Greco,RESTAURANT,ristorante
-40.302048,18.403529,ov_porcaria___il_panino_gourmet___burger_fa_40.3020_18.4035,Porcaria - Il Panino Gourmet & Burger Factory,RESTAURANT,ristorante
-40.302043,18.403622,ov_san_foca_lecce_40.3020_18.4036,San foca lecce,RESTAURANT,ristorante
-40.302663,18.404000,ov_la_terrazza_di_romano_40.3027_18.4040,La Terrazza di Romano,RESTAURANT,ristorante
-40.302842,18.402572,ov_rituals___torre_dell_orso_40.3028_18.4026,Rituals - Torre dell'Orso,RESTAURANT,ristorante
-40.303001,18.402555,ov_da_carmelo___creperia_artigianale_san_fo_40.3030_18.4026,Da Carmelo - Creperia Artigianale San Foca,RESTAURANT,ristorante
-40.302972,18.402318,ov_controvento_40.3030_18.4023,Controvento,RESTAURANT,ristorante
-40.303951,18.400202,ov_friolo_diventa_chef_40.3040_18.4002,Friolo diventa chef,RESTAURANT,ristorante
-40.301576,18.404042,ov_le_bionde_40.3016_18.4040,Le Bionde,RESTAURANT,ristorante
-40.301674,18.402638,ov_li_brigantini_pizzeria_trattoria_40.3017_18.4026,Li Brigantini Pizzeria Trattoria,RESTAURANT,ristorante
-40.301391,18.405356,ov_rokamel_40.3014_18.4054,Rokamel,RESTAURANT,ristorante
-40.301051,18.404622,ov_tu_mancia_40.3011_18.4046,Tu Mancia,RESTAURANT,ristorante
-40.301025,18.404779,ov_ristorante_la_lanterna_40.3010_18.4048,Ristorante La Lanterna,RESTAURANT,ristorante
-40.300817,18.405738,ov_vergari_ristoratori_40.3008_18.4057,Vergari Ristoratori,RESTAURANT,ristorante
-40.300658,18.406350,ov_capitan_morgan_40.3007_18.4064,Capitan Morgan,RESTAURANT,ristorante
-40.300109,18.406745,ov_sfizi_di_mare_40.3001_18.4067,Sfizi di Mare,RESTAURANT,ristorante
-40.299692,18.406079,ov_sud_pizza_40.2997_18.4061,Sud Pizza,RESTAURANT,ristorante
-40.299343,18.402979,ov_camassa_40.2993_18.4030,Camassa,RESTAURANT,ristorante
-40.299220,18.404743,ov_bocasalina_40.2992_18.4047,Bocasalina,RESTAURANT,ristorante
-40.298480,18.408218,ov_hotel_ristorante_alba_chiara_sant_andrea_40.2985_18.4082,Hotel Ristorante Alba Chiara Sant'Andrea,RESTAURANT,ristorante
-40.298373,18.408936,ov_lido_li_marangi_40.2984_18.4089,Lido Li Marangi,RESTAURANT,ristorante
-40.296235,18.403910,ov_frumentum_pizza_40.2962_18.4039,frumentum_pizza,RESTAURANT,ristorante
-40.293343,18.422348,ov_poesia_restaurant_and_bar_40.2933_18.4223,Poesia Restaurant and Bar,RESTAURANT,ristorante
+40.253591,18.445284,ov_fuoriorario_40.2536_18.4453,Fuoriorario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/fuoriorario_40.2536_18.4453.json,custom
+40.252333,18.417298,ov_agriturismo_malapezza_40.2523_18.4173,Agriturismo Malapezza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/agriturismo_malapezza_40.2523_18.4173.json,custom
+40.241480,18.381760,ov_ristorante_camp__40.2415_18.3818,Ristorante Campì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante_camp_40.2415_18.3818.json,custom
+40.243318,18.385733,ov_mamba_grill_and_sound_40.2433_18.3857,Mamba grill and sound,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/mamba_grill_and_sound_40.2433_18.3857.json,custom
+40.243236,18.390576,ov_agriturismo_karrares_40.2432_18.3906,Agriturismo Karrares,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/agriturismo_karrares_40.2432_18.3906.json,custom
+40.239047,18.378123,ov_big_mama_40.2390_18.3781,Big Mama,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/big_mama_40.2390_18.3781.json,custom
+40.239230,18.379700,ov_ristorante_pizzeria_big_mama_40.2392_18.3797,Ristorante-Pizzeria Big Mama,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante-pizzeria_big_mama_40.2392_18.3797.json,custom
+40.239617,18.380732,ov_da_umberto_1972_40.2396_18.3807,Da Umberto 1972,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/da_umberto_1972_40.2396_18.3807.json,custom
+40.225292,18.434470,ov_la_trottoria_40.2253_18.4345,La Trottoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/la_trottoria_40.2253_18.4345.json,custom
+40.257750,18.432532,ov_vesuvio_3_40.2578_18.4325,Vesuvio 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/vesuvio_3_40.2578_18.4325.json,custom
+40.254850,18.444563,ov_babilonia_40.2549_18.4446,Babilonia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/babilonia_40.2549_18.4446.json,custom
+40.254427,18.444548,ov_confine_sant_andrea_40.2544_18.4445,Confine Sant'Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/confine_santandrea_40.2544_18.4445.json,custom
+40.270794,18.338498,ov_addue___pizzeria_e_rosticceria_40.2708_18.3385,Addue | Pizzeria e Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/addue_pizzeria_e_rosticceria_40.2708_18.3385.json,custom
+40.271461,18.338748,ov_ivizideglidei_fast_food_40.2715_18.3387,Ivizideglidei Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ivizideglidei_fast_food_40.2715_18.3387.json,custom
+40.271827,18.336597,ov_caffetteria_pertini_40.2718_18.3366,Caffetteria Pertini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/caffetteria_pertini_40.2718_18.3366.json,custom
+40.273464,18.337703,ov_bisco_40.2735_18.3377,Bisco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/bisco_40.2735_18.3377.json,custom
+40.272589,18.338047,ov_pizzevia_40.2726_18.3380,Pizzevia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/pizzevia_40.2726_18.3380.json,custom
+40.272537,18.342280,ov_friggitoria_salento_fried_food_40.2725_18.3423,Friggitoria Salento Fried Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/friggitoria_salento_fried_food_40.2725_18.3423.json,custom
+40.274910,18.337502,ov_al_filo_d_olio_40.2749_18.3375,Al Filo d'Olio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/al_filo_dolio_40.2749_18.3375.json,custom
+40.274791,18.337434,ov_pescheria_santoro_40.2748_18.3374,Pescheria Santoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/pescheria_santoro_40.2748_18.3374.json,custom
+40.276948,18.338887,ov_poke_lab_40.2769_18.3389,Poke Lab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/poke_lab_40.2769_18.3389.json,custom
+40.278280,18.344382,ov_macchia_del_barone_40.2783_18.3444,Macchia del Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/macchia_del_barone_40.2783_18.3444.json,custom
+40.277592,18.340572,ov_salentum_pizzeria_e_braceria_da_daniel_40.2776_18.3406,Salentum pizzeria e braceria da Daniel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/salentum_pizzeria_e_braceria_da_daniel_40.2776_18.3406.json,custom
+40.278027,18.335892,ov_dentoni_bar_pasticceria_gelateria_40.2780_18.3359,Dentoni Bar Pasticceria Gelateria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/dentoni_bar_pasticceria_gelateria_40.2780_18.3359.json,custom
+40.277256,18.337475,ov_salento_pescheria_friggitoria_40.2773_18.3375,Salento Pescheria Friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/salento_pescheria_friggitoria_40.2773_18.3375.json,custom
+40.277420,18.340391,ov_l_angolo_del_pastore_40.2774_18.3404,L'Angolo del Pastore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/langolo_del_pastore_40.2774_18.3404.json,custom
+40.277061,18.339942,ov_alel__braceria_salentina_40.2771_18.3399,Alelù Braceria Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/alel_braceria_salentina_40.2771_18.3399.json,custom
+40.276826,18.418102,ov_salentosteria_40.2768_18.4181,SalentOsteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/salentosteria_40.2768_18.4181.json,custom
+40.275642,18.383900,ov_masseria_santa_chiara_40.2756_18.3839,Masseria Santa Chiara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/masseria_santa_chiara_40.2756_18.3839.json,custom
+40.273645,18.423128,ov_vesuvio3_torre_dell_orso_40.2736_18.4231,Vesuvio3 Torre Dell'Orso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/vesuvio3_torre_dellorso_40.2736_18.4231.json,custom
+40.273659,18.424596,ov_bak__40.2737_18.4246,Bakè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/bak_40.2737_18.4246.json,custom
+40.274288,18.421981,ov_kiloda_pizzeria_40.2743_18.4220,Kiloda Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/kiloda_pizzeria_40.2743_18.4220.json,custom
+40.274322,18.428828,ov_madaros_40.2743_18.4288,MADAROS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/madaros_40.2743_18.4288.json,custom
+40.274329,18.429169,ov_mercato_del_pesce_40.2743_18.4292,Mercato Del Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/mercato_del_pesce_40.2743_18.4292.json,custom
+40.273857,18.428252,ov_tavola_calda_da_viola_40.2739_18.4283,Tavola Calda da Viola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/tavola_calda_da_viola_40.2739_18.4283.json,custom
+40.273720,18.427957,ov_bistro_6_3_40.2737_18.4280,Bistro 6.3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/bistro_63_40.2737_18.4280.json,custom
+40.273221,18.426199,ov_calici_by_gringo_40.2732_18.4262,Calici By Gringo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/calici_by_gringo_40.2732_18.4262.json,custom
+40.273373,18.427402,ov_le_due_sorelle_torre_dell_orso_40.2734_18.4274,LE DUE SORELLE-Torre dell'Orso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/le_due_sorelle-torre_dellorso_40.2734_18.4274.json,custom
+40.273314,18.427878,ov_ristorante_l_adriatico_40.2733_18.4279,Ristorante L'Adriatico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante_ladriatico_40.2733_18.4279.json,custom
+40.273502,18.423647,ov_cappellaio_matto_40.2735_18.4236,Cappellaio Matto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/cappellaio_matto_40.2735_18.4236.json,custom
+40.273582,18.421724,ov_bar_b_q_40.2736_18.4217,Bar-B-Q,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/bar-b-q_40.2736_18.4217.json,custom
+40.273573,18.421674,ov_trattoria_pizzeria_dietro_l_angolo_40.2736_18.4217,Trattoria Pizzeria Dietro l'Angolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/trattoria_pizzeria_dietro_langolo_40.2736_18.4217.json,custom
+40.272970,18.427128,ov_ristorante_del_mare_dietro_l_angolo_40.2730_18.4271,Ristorante del Mare Dietro L'Angolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante_del_mare_dietro_langolo_40.2730_18.4271.json,custom
+40.288787,18.370380,ov_piazza_del_forte_40.2888_18.3704,Piazza del Forte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/piazza_del_forte_40.2888_18.3704.json,custom
+40.287119,18.364904,ov_ristoro_agriturismo_carleo_40.2871_18.3649,Ristoro Agriturismo Carleo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristoro_agriturismo_carleo_40.2871_18.3649.json,custom
+40.286400,18.425931,ov_gustomare_40.2864_18.4259,GustoMare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/gustomare_40.2864_18.4259.json,custom
+40.285168,18.400417,ov_carrozzi_40.2852_18.4004,Carrozzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/carrozzi_40.2852_18.4004.json,custom
+40.281923,18.429951,ov_taverna_del_pesce_40.2819_18.4300,Taverna del Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/taverna_del_pesce_40.2819_18.4300.json,custom
+40.322243,18.376434,ov_gli_sfizi_della_torre_40.3222_18.3764,Gli Sfizi della Torre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/gli_sfizi_della_torre_40.3222_18.3764.json,custom
+40.320264,18.375300,ov_nobile__53_bar___restaurant_40.3203_18.3753,Nobile '53 bar & restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/nobile_53_bar_restaurant_40.3203_18.3753.json,custom
+40.319668,18.377747,ov_gioele_1_40.3197_18.3777,Gioele 1,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/gioele_1_40.3197_18.3777.json,custom
+40.304118,18.399964,ov_aura_restaurant_40.3041_18.4000,Aura Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/aura_restaurant_40.3041_18.4000.json,custom
+40.302365,18.400490,ov_il_vagabondo_san_foca_40.3024_18.4005,Il Vagabondo San Foca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/il_vagabondo_san_foca_40.3024_18.4005.json,custom
+40.302261,18.401975,ov_macelleria_braceria_greco_40.3023_18.4020,Macelleria Braceria Greco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/macelleria_braceria_greco_40.3023_18.4020.json,custom
+40.302048,18.403529,ov_porcaria___il_panino_gourmet___burger_fa_40.3020_18.4035,Porcaria - Il Panino Gourmet & Burger Factory,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/porcaria_-_il_panino_gourmet_burger_fact_40.3020_18.4035.json,custom
+40.302043,18.403622,ov_san_foca_lecce_40.3020_18.4036,San foca lecce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/san_foca_lecce_40.3020_18.4036.json,custom
+40.302663,18.404000,ov_la_terrazza_di_romano_40.3027_18.4040,La Terrazza di Romano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/la_terrazza_di_romano_40.3027_18.4040.json,custom
+40.302842,18.402572,ov_rituals___torre_dell_orso_40.3028_18.4026,Rituals - Torre dell'Orso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/rituals_-_torre_dellorso_40.3028_18.4026.json,custom
+40.303001,18.402555,ov_da_carmelo___creperia_artigianale_san_fo_40.3030_18.4026,Da Carmelo - Creperia Artigianale San Foca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/da_carmelo_-_creperia_artigianale_san_fo_40.3030_18.4026.json,custom
+40.302972,18.402318,ov_controvento_40.3030_18.4023,Controvento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/controvento_40.3030_18.4023.json,custom
+40.303951,18.400202,ov_friolo_diventa_chef_40.3040_18.4002,Friolo diventa chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/friolo_diventa_chef_40.3040_18.4002.json,custom
+40.301576,18.404042,ov_le_bionde_40.3016_18.4040,Le Bionde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/le_bionde_40.3016_18.4040.json,custom
+40.301674,18.402638,ov_li_brigantini_pizzeria_trattoria_40.3017_18.4026,Li Brigantini Pizzeria Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/li_brigantini_pizzeria_trattoria_40.3017_18.4026.json,custom
+40.301391,18.405356,ov_rokamel_40.3014_18.4054,Rokamel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/rokamel_40.3014_18.4054.json,custom
+40.301051,18.404622,ov_tu_mancia_40.3011_18.4046,Tu Mancia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/tu_mancia_40.3011_18.4046.json,custom
+40.301025,18.404779,ov_ristorante_la_lanterna_40.3010_18.4048,Ristorante La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante_la_lanterna_40.3010_18.4048.json,custom
+40.300817,18.405738,ov_vergari_ristoratori_40.3008_18.4057,Vergari Ristoratori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/vergari_ristoratori_40.3008_18.4057.json,custom
+40.300658,18.406350,ov_capitan_morgan_40.3007_18.4064,Capitan Morgan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/capitan_morgan_40.3007_18.4064.json,custom
+40.300109,18.406745,ov_sfizi_di_mare_40.3001_18.4067,Sfizi di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/sfizi_di_mare_40.3001_18.4067.json,custom
+40.299692,18.406079,ov_sud_pizza_40.2997_18.4061,Sud Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/sud_pizza_40.2997_18.4061.json,custom
+40.299343,18.402979,ov_camassa_40.2993_18.4030,Camassa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/camassa_40.2993_18.4030.json,custom
+40.299220,18.404743,ov_bocasalina_40.2992_18.4047,Bocasalina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/bocasalina_40.2992_18.4047.json,custom
+40.298480,18.408218,ov_hotel_ristorante_alba_chiara_sant_andrea_40.2985_18.4082,Hotel Ristorante Alba Chiara Sant'Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/hotel_ristorante_alba_chiara_santandrea_40.2985_18.4082.json,custom
+40.298373,18.408936,ov_lido_li_marangi_40.2984_18.4089,Lido Li Marangi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/lido_li_marangi_40.2984_18.4089.json,custom
+40.296235,18.403910,ov_frumentum_pizza_40.2962_18.4039,frumentum_pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/frumentumpizza_40.2962_18.4039.json,custom
+40.293343,18.422348,ov_poesia_restaurant_and_bar_40.2933_18.4223,Poesia Restaurant and Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/poesia_restaurant_and_bar_40.2933_18.4223.json,custom
+40.274320,18.428882,osm_publito_40.2743_18.4289,Publito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/publito_40.2743_18.4289.json,custom
+40.302567,18.403904,osm_ristorante_da_romano_40.3026_18.4039,Ristorante Da Romano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/ristorante_da_romano_40.3026_18.4039.json,custom
+40.275238,18.337813,osm_santamaria_40.2752_18.3378,Santamaria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/santamaria_40.2752_18.3378.json,custom
+40.271618,18.337888,osm_angiolino_pizzeria___grill_40.2716_18.3379,Angiolino Pizzeria & Grill,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melendugno/pages/angiolino_pizzeria_grill_40.2716_18.3379.json,custom

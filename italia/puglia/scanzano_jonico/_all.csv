@@ -1,37 +1,37 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Scanzano Jonico -- Tutti
-40.249007,16.699793,osm_guardia_medica_40.2490_16.6998,Guardia Medica,hospital,hospital
-40.248379,16.701139,osm_marlin_blue_40.2484_16.7011,Marlin Blue,ristorante,ristorante
-40.248510,16.700707,osm_le_delizie_del_borgo_40.2485_16.7007,Le delizie del Borgo,ristorante,ristorante
-40.248068,16.700447,osm_alla_grande_lucania_40.2481_16.7004,Alla grande Lucania,ristorante,ristorante
-40.249000,16.699240,ov_l_orto_di_pinocchio_40.2490_16.6992,L'orto di Pinocchio,RESTAURANT,ristorante
-40.248125,16.700458,ov_da_zio_mauro_40.2481_16.7005,Da Zio Mauro,RESTAURANT,ristorante
-40.247592,16.699591,ov_trattoria_la_lampara_jonica_40.2476_16.6996,Trattoria La Lampara Jonica,RESTAURANT,ristorante
-40.232061,16.698952,ov_agriturismo_il_gazebo_40.2321_16.6990,Agriturismo Il Gazebo,RESTAURANT,ristorante
-40.248353,16.721177,ov_agriturismo_pianura_delle_vigne_40.2484_16.7212,Agriturismo Pianura delle Vigne,RESTAURANT,ristorante
-40.242159,16.748134,ov_baia_delle_scimmie_40.2422_16.7481,Baia Delle Scimmie,RESTAURANT,ristorante
-40.255082,16.702873,ov_pizzeria_nicolas_40.2551_16.7029,Pizzeria Nicolas,RESTAURANT,ristorante
-40.251997,16.692522,ov_hemingway_restaurant_1997_40.2520_16.6925,Hemingway restaurant 1997,RESTAURANT,ristorante
-40.251263,16.691307,ov_s_i____ristorante_stradora_40.2513_16.6913,S.I. - Ristorante Stradora,RESTAURANT,ristorante
-40.253051,16.702287,ov_enjoy_piadineria_40.2531_16.7023,Enjoy Piadineria,RESTAURANT,ristorante
-40.253529,16.705023,ov_sapori_di_mare_40.2535_16.7050,Sapori di mare,RESTAURANT,ristorante
-40.250859,16.702862,ov_momo_40.2509_16.7029,Momo,RESTAURANT,ristorante
-40.254408,16.725235,ov_pizzeria_giusy_40.2544_16.7252,Pizzeria Giusy,RESTAURANT,ristorante
-40.254880,16.730420,ov_fronte_mare_scanzano_jonico_40.2549_16.7304,Fronte Mare Scanzano Jonico,RESTAURANT,ristorante
-40.255200,16.753470,ov_il_faro_40.2552_16.7535,Il Faro,RESTAURANT,ristorante
-40.254482,16.753257,ov_ristorante_faro_europa_lido_di_i_sassi_s_40.2545_16.7533,Ristorante Faro Europa Lido di I Sassi SRL,RESTAURANT,ristorante
-40.290766,16.721583,ov_pizzeria_le_rose_40.2908_16.7216,Pizzeria Le Rose,RESTAURANT,ristorante
-40.291119,16.721619,ov_bar_ristorante_le_rose_40.2911_16.7216,Bar/Ristorante Le Rose,RESTAURANT,ristorante
-40.250479,16.690441,ov_home_sweet_bar_40.2505_16.6904,Home Sweet Bar,RESTAURANT,bar_cafe
-40.248750,16.699540,ov_barroma_scanzano_jonico_40.2488_16.6995,BarRoma Scanzano Jonico,RESTAURANT,bar_cafe
-40.248605,16.700387,ov_caffetteria_baronale_40.2486_16.7004,Caffetteria Baronale,RESTAURANT,bar_cafe
-40.248446,16.701099,ov_marlin_bleu_40.2484_16.7011,Marlin Bleu,RESTAURANT,bar_cafe
-40.248288,16.749404,ov_lido_del_pescatore_40.2483_16.7494,Lido del pescatore,RESTAURANT,bar_cafe
-40.251035,16.697423,ov_caffetteria_greco_40.2510_16.6974,Caffetteria GRECO,RESTAURANT,bar_cafe
-40.252554,16.704658,ov_alexander_caff__40.2526_16.7047,Alexander Caffè,RESTAURANT,bar_cafe
-40.253220,16.702330,ov_insomnia_caff__40.2532_16.7023,Insomnia caffè,RESTAURANT,bar_cafe
-40.253266,16.702356,ov_mood_40.2533_16.7024,Mood,RESTAURANT,bar_cafe
-40.254930,16.729970,ov_beachbar_le_due_barche_40.2549_16.7300,beachbar le due barche,RESTAURANT,bar_cafe
-40.248576,16.700723,osm_caffetteria_baronale_40.2486_16.7007,Caffetteria Baronale,bar_cafe,bar_cafe
-40.243055,16.697091,ov_centro_fitness_energym_40.2431_16.6971,Centro Fitness EnerGym,GYM,palestra
-40.250701,16.701240,ov_asd_progetto_danza_40.2507_16.7012,Asd Progetto Danza,GYM,palestra
+40.249007,16.699793,osm_guardia_medica_40.2490_16.6998,Guardia Medica,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/guardia_medica_40.2490_16.6998.json,custom
+40.249000,16.699240,ov_l_orto_di_pinocchio_40.2490_16.6992,L'orto di Pinocchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/lorto_di_pinocchio_40.2490_16.6992.json,custom
+40.248125,16.700458,ov_da_zio_mauro_40.2481_16.7005,Da Zio Mauro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/da_zio_mauro_40.2481_16.7005.json,custom
+40.247592,16.699591,ov_trattoria_la_lampara_jonica_40.2476_16.6996,Trattoria La Lampara Jonica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/trattoria_la_lampara_jonica_40.2476_16.6996.json,custom
+40.232061,16.698952,ov_agriturismo_il_gazebo_40.2321_16.6990,Agriturismo Il Gazebo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/agriturismo_il_gazebo_40.2321_16.6990.json,custom
+40.248353,16.721177,ov_agriturismo_pianura_delle_vigne_40.2484_16.7212,Agriturismo Pianura delle Vigne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/agriturismo_pianura_delle_vigne_40.2484_16.7212.json,custom
+40.242159,16.748134,ov_baia_delle_scimmie_40.2422_16.7481,Baia Delle Scimmie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/baia_delle_scimmie_40.2422_16.7481.json,custom
+40.255082,16.702873,ov_pizzeria_nicolas_40.2551_16.7029,Pizzeria Nicolas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/pizzeria_nicolas_40.2551_16.7029.json,custom
+40.251997,16.692522,ov_hemingway_restaurant_1997_40.2520_16.6925,Hemingway restaurant 1997,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/hemingway_restaurant_1997_40.2520_16.6925.json,custom
+40.251263,16.691307,ov_s_i____ristorante_stradora_40.2513_16.6913,S.I. - Ristorante Stradora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/si_-_ristorante_stradora_40.2513_16.6913.json,custom
+40.253051,16.702287,ov_enjoy_piadineria_40.2531_16.7023,Enjoy Piadineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/enjoy_piadineria_40.2531_16.7023.json,custom
+40.253529,16.705023,ov_sapori_di_mare_40.2535_16.7050,Sapori di mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/sapori_di_mare_40.2535_16.7050.json,custom
+40.250859,16.702862,ov_momo_40.2509_16.7029,Momo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/momo_40.2509_16.7029.json,custom
+40.254408,16.725235,ov_pizzeria_giusy_40.2544_16.7252,Pizzeria Giusy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/pizzeria_giusy_40.2544_16.7252.json,custom
+40.254880,16.730420,ov_fronte_mare_scanzano_jonico_40.2549_16.7304,Fronte Mare Scanzano Jonico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/fronte_mare_scanzano_jonico_40.2549_16.7304.json,custom
+40.255200,16.753470,ov_il_faro_40.2552_16.7535,Il Faro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/il_faro_40.2552_16.7535.json,custom
+40.254482,16.753257,ov_ristorante_faro_europa_lido_di_i_sassi_s_40.2545_16.7533,Ristorante Faro Europa Lido di I Sassi SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/ristorante_faro_europa_lido_di_i_sassi_s_40.2545_16.7533.json,custom
+40.290766,16.721583,ov_pizzeria_le_rose_40.2908_16.7216,Pizzeria Le Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/pizzeria_le_rose_40.2908_16.7216.json,custom
+40.291119,16.721619,ov_bar_ristorante_le_rose_40.2911_16.7216,Bar/Ristorante Le Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/barristorante_le_rose_40.2911_16.7216.json,custom
+40.248379,16.701139,osm_marlin_blue_40.2484_16.7011,Marlin Blue,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/marlin_blue_40.2484_16.7011.json,custom
+40.248510,16.700707,osm_le_delizie_del_borgo_40.2485_16.7007,Le delizie del Borgo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/le_delizie_del_borgo_40.2485_16.7007.json,custom
+40.248068,16.700447,osm_alla_grande_lucania_40.2481_16.7004,Alla grande Lucania,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/alla_grande_lucania_40.2481_16.7004.json,custom
+40.250479,16.690441,ov_home_sweet_bar_40.2505_16.6904,Home Sweet Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/home_sweet_bar_40.2505_16.6904.json,custom
+40.248750,16.699540,ov_barroma_scanzano_jonico_40.2488_16.6995,BarRoma Scanzano Jonico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/barroma_scanzano_jonico_40.2488_16.6995.json,custom
+40.248605,16.700387,ov_caffetteria_baronale_40.2486_16.7004,Caffetteria Baronale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/caffetteria_baronale_40.2486_16.7004.json,custom
+40.248446,16.701099,ov_marlin_bleu_40.2484_16.7011,Marlin Bleu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/marlin_bleu_40.2484_16.7011.json,custom
+40.248288,16.749404,ov_lido_del_pescatore_40.2483_16.7494,Lido del pescatore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/lido_del_pescatore_40.2483_16.7494.json,custom
+40.251035,16.697423,ov_caffetteria_greco_40.2510_16.6974,Caffetteria GRECO,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/caffetteria_greco_40.2510_16.6974.json,custom
+40.252554,16.704658,ov_alexander_caff__40.2526_16.7047,Alexander Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/alexander_caff_40.2526_16.7047.json,custom
+40.253220,16.702330,ov_insomnia_caff__40.2532_16.7023,Insomnia caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/insomnia_caff_40.2532_16.7023.json,custom
+40.253266,16.702356,ov_mood_40.2533_16.7024,Mood,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/mood_40.2533_16.7024.json,custom
+40.254930,16.729970,ov_beachbar_le_due_barche_40.2549_16.7300,beachbar le due barche,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/beachbar_le_due_barche_40.2549_16.7300.json,custom
+40.248576,16.700723,osm_caffetteria_baronale_40.2486_16.7007,Caffetteria Baronale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/caffetteria_baronale_40.2486_16.7007.json,custom
+40.243055,16.697091,ov_centro_fitness_energym_40.2431_16.6971,Centro Fitness EnerGym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/centro_fitness_energym_40.2431_16.6971.json,custom
+40.250701,16.701240,ov_asd_progetto_danza_40.2507_16.7012,Asd Progetto Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scanzano_jonico/pages/asd_progetto_danza_40.2507_16.7012.json,custom

@@ -1,47 +1,47 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # modugno -- bars_cafes
-41.071060,16.826110,ov_biof__41.0711_16.8261,Biofè,RESTAURANT,bar_cafe
-41.081917,16.790565,ov_matinee_patisserie_41.0819_16.7906,Matinee Patisserie,RESTAURANT,bar_cafe
-41.082153,16.790263,ov_klimt_cafe_41.0822_16.7903,Klimt Cafe,RESTAURANT,bar_cafe
-41.083394,16.790916,ov_nero_cafe_41.0834_16.7909,Nero Cafe,RESTAURANT,bar_cafe
-41.083346,16.786184,ov_marasma_caf__41.0833_16.7862,Marasma Cafè,RESTAURANT,bar_cafe
-41.082830,16.788570,ov_caf__noir_41.0828_16.7886,Cafè Noir,RESTAURANT,bar_cafe
-41.082651,16.784677,ov_enoteca_il_sommelier_41.0827_16.7847,Enoteca Il Sommelier,RESTAURANT,bar_cafe
-41.082470,16.781880,ov_caffetteria_flora_41.0825_16.7819,Caffetteria Flora,RESTAURANT,bar_cafe
-41.082105,16.783239,ov_vinaccia_in_corte_41.0821_16.7832,Vinaccia in Corte,RESTAURANT,bar_cafe
-41.081678,16.779860,ov_a_stare_41.0817_16.7799,A Stare,RESTAURANT,bar_cafe
-41.081580,16.778710,ov_play_caf__41.0816_16.7787,Play cafè,RESTAURANT,bar_cafe
-41.082749,16.782475,ov_bar_centrale_modugno_41.0827_16.7825,Bar Centrale Modugno,RESTAURANT,bar_cafe
-41.082985,16.782216,ov_fuori_orario_41.0830_16.7822,Fuori Orario,RESTAURANT,bar_cafe
-41.083316,16.780765,ov_irish___bistrot___caf__41.0833_16.7808,Irish - Bistrot & Cafè,RESTAURANT,bar_cafe
-41.083579,16.780719,ov_agape_37_41.0836_16.7807,Agape 37,RESTAURANT,bar_cafe
-41.083403,16.783117,ov_caffe_marasma_41.0834_16.7831,Caffe Marasma,RESTAURANT,bar_cafe
-41.083360,16.778600,ov_bar_il_chiosco_41.0834_16.7786,Bar Il Chiosco,RESTAURANT,bar_cafe
-41.083428,16.778682,ov_pasticceria_caffetteria_stucci_41.0834_16.7787,Pasticceria Caffetteria Stucci,RESTAURANT,bar_cafe
-41.080620,16.782761,ov_la_dolce_vita_loungebar_41.0806_16.7828,La dolce vita loungebar,RESTAURANT,bar_cafe
-41.079310,16.785153,ov_bibo_bar_41.0793_16.7852,Bibo Bar,RESTAURANT,bar_cafe
-41.077340,16.785712,ov_seven_cafe_41.0773_16.7857,Seven Cafe,RESTAURANT,bar_cafe
-41.088439,16.764995,ov_birrificio_svevo_41.0884_16.7650,Birrificio Svevo,RESTAURANT,bar_cafe
-41.085294,16.785453,ov_nirvana_caffe_41.0853_16.7855,Nirvana Caffe,RESTAURANT,bar_cafe
-41.085865,16.780819,ov_delicious_cafe_41.0859_16.7808,Delicious Cafe,RESTAURANT,bar_cafe
-41.086555,16.779192,ov_bar_tabacchi_spagnolo_41.0866_16.7792,Bar tabacchi Spagnolo,RESTAURANT,bar_cafe
-41.086850,16.781622,ov_david_caffe_41.0868_16.7816,David Caffe,RESTAURANT,bar_cafe
-41.086757,16.783544,ov_bar_trilogy____di_anna_carrassi_41.0868_16.7835,BAR Trilogy    di ANNA Carrassi,RESTAURANT,bar_cafe
-41.096711,16.804359,ov_my_friends_coffee_41.0967_16.8044,My Friends Coffee,RESTAURANT,bar_cafe
-41.093490,16.794074,ov_caffe_fatto_a_sud_41.0935_16.7941,Caffe Fatto a Sud,RESTAURANT,bar_cafe
-41.090790,16.790570,ov_coffee_time_41.0908_16.7906,Coffee Time,RESTAURANT,bar_cafe
-41.090495,16.798761,ov_evo_co_41.0905_16.7988,EVO&CO,RESTAURANT,bar_cafe
-41.085068,16.789945,ov_peccati_di_gola_41.0851_16.7899,Peccati di Gola,RESTAURANT,bar_cafe
-41.084845,16.790034,ov_caffetteria_paradiso_41.0848_16.7900,Caffetteria Paradiso,RESTAURANT,bar_cafe
-41.084823,16.790097,ov_retrogusto_modugno_41.0848_16.7901,Retrogusto Modugno,RESTAURANT,bar_cafe
-41.117435,16.788586,ov_bar_orfeo_pasticceria_41.1174_16.7886,Bar Orfeo Pasticceria,RESTAURANT,bar_cafe
-41.117758,16.790037,ov_bar_ilenia_41.1178_16.7900,Bar Ilenia,RESTAURANT,bar_cafe
-41.117485,16.790385,ov_joli_cafe_41.1175_16.7904,Joli Cafe,RESTAURANT,bar_cafe
-41.117080,16.789670,ov_caffetteria_aurora_41.1171_16.7897,Caffetteria Aurora,RESTAURANT,bar_cafe
-41.116563,16.789870,ov_cafe_enoir_41.1166_16.7899,Cafe enoir,RESTAURANT,bar_cafe
-41.115676,16.789643,ov_coffe_time_41.1157_16.7896,Coffe Time,RESTAURANT,bar_cafe
-41.077320,16.785821,osm_seven_caf__41.0773_16.7858,Seven Cafè,bar_cafe,bar_cafe
-41.085325,16.785474,osm_nirvana_caff__41.0853_16.7855,Nirvana Caffè,bar_cafe,bar_cafe
-41.084867,16.790032,osm_retrogusto_41.0849_16.7900,Retrogusto,bar_cafe,bar_cafe
-41.078023,16.786225,osm_mg_caff__41.0780_16.7862,MG Caffè,bar_cafe,bar_cafe
-41.094957,16.768867,osm_sarni_murge_ovest_41.0950_16.7689,Sarni Murge Ovest,bar_cafe,bar_cafe
+41.071060,16.826110,ov_biof__41.0711_16.8261,Biofè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/biof_41.0711_16.8261.json,custom
+41.081917,16.790565,ov_matinee_patisserie_41.0819_16.7906,Matinee Patisserie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/matinee_patisserie_41.0819_16.7906.json,custom
+41.082153,16.790263,ov_klimt_cafe_41.0822_16.7903,Klimt Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/klimt_cafe_41.0822_16.7903.json,custom
+41.083394,16.790916,ov_nero_cafe_41.0834_16.7909,Nero Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/nero_cafe_41.0834_16.7909.json,custom
+41.083346,16.786184,ov_marasma_caf__41.0833_16.7862,Marasma Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/marasma_caf_41.0833_16.7862.json,custom
+41.082830,16.788570,ov_caf__noir_41.0828_16.7886,Cafè Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caf_noir_41.0828_16.7886.json,custom
+41.082651,16.784677,ov_enoteca_il_sommelier_41.0827_16.7847,Enoteca Il Sommelier,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/enoteca_il_sommelier_41.0827_16.7847.json,custom
+41.082470,16.781880,ov_caffetteria_flora_41.0825_16.7819,Caffetteria Flora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caffetteria_flora_41.0825_16.7819.json,custom
+41.082105,16.783239,ov_vinaccia_in_corte_41.0821_16.7832,Vinaccia in Corte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/vinaccia_in_corte_41.0821_16.7832.json,custom
+41.081678,16.779860,ov_a_stare_41.0817_16.7799,A Stare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/a_stare_41.0817_16.7799.json,custom
+41.081580,16.778710,ov_play_caf__41.0816_16.7787,Play cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/play_caf_41.0816_16.7787.json,custom
+41.082749,16.782475,ov_bar_centrale_modugno_41.0827_16.7825,Bar Centrale Modugno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_centrale_modugno_41.0827_16.7825.json,custom
+41.082985,16.782216,ov_fuori_orario_41.0830_16.7822,Fuori Orario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/fuori_orario_41.0830_16.7822.json,custom
+41.083316,16.780765,ov_irish___bistrot___caf__41.0833_16.7808,Irish - Bistrot & Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/irish_-_bistrot_caf_41.0833_16.7808.json,custom
+41.083579,16.780719,ov_agape_37_41.0836_16.7807,Agape 37,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/agape_37_41.0836_16.7807.json,custom
+41.083403,16.783117,ov_caffe_marasma_41.0834_16.7831,Caffe Marasma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caffe_marasma_41.0834_16.7831.json,custom
+41.083360,16.778600,ov_bar_il_chiosco_41.0834_16.7786,Bar Il Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_il_chiosco_41.0834_16.7786.json,custom
+41.083428,16.778682,ov_pasticceria_caffetteria_stucci_41.0834_16.7787,Pasticceria Caffetteria Stucci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/pasticceria_caffetteria_stucci_41.0834_16.7787.json,custom
+41.080620,16.782761,ov_la_dolce_vita_loungebar_41.0806_16.7828,La dolce vita loungebar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/la_dolce_vita_loungebar_41.0806_16.7828.json,custom
+41.079310,16.785153,ov_bibo_bar_41.0793_16.7852,Bibo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bibo_bar_41.0793_16.7852.json,custom
+41.077340,16.785712,ov_seven_cafe_41.0773_16.7857,Seven Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/seven_cafe_41.0773_16.7857.json,custom
+41.088439,16.764995,ov_birrificio_svevo_41.0884_16.7650,Birrificio Svevo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/birrificio_svevo_41.0884_16.7650.json,custom
+41.085294,16.785453,ov_nirvana_caffe_41.0853_16.7855,Nirvana Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/nirvana_caffe_41.0853_16.7855.json,custom
+41.085865,16.780819,ov_delicious_cafe_41.0859_16.7808,Delicious Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/delicious_cafe_41.0859_16.7808.json,custom
+41.086555,16.779192,ov_bar_tabacchi_spagnolo_41.0866_16.7792,Bar tabacchi Spagnolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_tabacchi_spagnolo_41.0866_16.7792.json,custom
+41.086850,16.781622,ov_david_caffe_41.0868_16.7816,David Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/david_caffe_41.0868_16.7816.json,custom
+41.086757,16.783544,ov_bar_trilogy____di_anna_carrassi_41.0868_16.7835,BAR Trilogy    di ANNA Carrassi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_trilogy_di_anna_carrassi_41.0868_16.7835.json,custom
+41.096711,16.804359,ov_my_friends_coffee_41.0967_16.8044,My Friends Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/my_friends_coffee_41.0967_16.8044.json,custom
+41.093490,16.794074,ov_caffe_fatto_a_sud_41.0935_16.7941,Caffe Fatto a Sud,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caffe_fatto_a_sud_41.0935_16.7941.json,custom
+41.090790,16.790570,ov_coffee_time_41.0908_16.7906,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/coffee_time_41.0908_16.7906.json,custom
+41.090495,16.798761,ov_evo_co_41.0905_16.7988,EVO&CO,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/evoco_41.0905_16.7988.json,custom
+41.085068,16.789945,ov_peccati_di_gola_41.0851_16.7899,Peccati di Gola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/peccati_di_gola_41.0851_16.7899.json,custom
+41.084845,16.790034,ov_caffetteria_paradiso_41.0848_16.7900,Caffetteria Paradiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caffetteria_paradiso_41.0848_16.7900.json,custom
+41.084823,16.790097,ov_retrogusto_modugno_41.0848_16.7901,Retrogusto Modugno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/retrogusto_modugno_41.0848_16.7901.json,custom
+41.117435,16.788586,ov_bar_orfeo_pasticceria_41.1174_16.7886,Bar Orfeo Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_orfeo_pasticceria_41.1174_16.7886.json,custom
+41.117758,16.790037,ov_bar_ilenia_41.1178_16.7900,Bar Ilenia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/bar_ilenia_41.1178_16.7900.json,custom
+41.117485,16.790385,ov_joli_cafe_41.1175_16.7904,Joli Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/joli_cafe_41.1175_16.7904.json,custom
+41.117080,16.789670,ov_caffetteria_aurora_41.1171_16.7897,Caffetteria Aurora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/caffetteria_aurora_41.1171_16.7897.json,custom
+41.116563,16.789870,ov_cafe_enoir_41.1166_16.7899,Cafe enoir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/cafe_enoir_41.1166_16.7899.json,custom
+41.115676,16.789643,ov_coffe_time_41.1157_16.7896,Coffe Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/coffe_time_41.1157_16.7896.json,custom
+41.077320,16.785821,osm_seven_caf__41.0773_16.7858,Seven Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/seven_caf_41.0773_16.7858.json,custom
+41.085325,16.785474,osm_nirvana_caff__41.0853_16.7855,Nirvana Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/nirvana_caff_41.0853_16.7855.json,custom
+41.084867,16.790032,osm_retrogusto_41.0849_16.7900,Retrogusto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/retrogusto_41.0849_16.7900.json,custom
+41.078023,16.786225,osm_mg_caff__41.0780_16.7862,MG Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/mg_caff_41.0780_16.7862.json,custom
+41.094957,16.768867,osm_sarni_murge_ovest_41.0950_16.7689,Sarni Murge Ovest,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/modugno/pages/sarni_murge_ovest_41.0950_16.7689.json,custom

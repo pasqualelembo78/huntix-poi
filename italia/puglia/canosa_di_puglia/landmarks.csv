@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # canosa_di_puglia -- landmarks
-41.225663,16.060033,ov_castello_di_canosa_41.2257_16.0600,Castello di Canosa,MONUMENT,monumento
-41.225120,16.061863,ov_museo_archeologico_di_palazzo_iliceto_41.2251_16.0619,Museo Archeologico di Palazzo Iliceto,MUSEUM,monumento
-41.222331,16.066203,ov_museo_dei_vescovi_monsignor_francesco_mi_41.2223_16.0662,Museo dei Vescovi Monsignor Francesco Minerva,MUSEUM,monumento
-41.221440,16.067900,ov_gruppo_di_studio_degli_anarchici_di_cano_41.2214_16.0679,Gruppo di studio degli anarchici di Canosa di Puglia,MUSEUM,monumento
-41.221413,16.066702,ov_museo_archeologico_nazionale_canosa_di_p_41.2214_16.0667,Museo Archeologico Nazionale Canosa di Puglia,MUSEUM,monumento
-41.220105,16.065136,ov_tempio_di_giove_toro_41.2201_16.0651,Tempio di Giove Toro,MONUMENT,monumento
-41.219183,16.070466,ov_mausoleo_del_principe_boemondo_d_altavil_41.2192_16.0705,Mausoleo del Principe Boemondo D'altavilla,MONUMENT,monumento
-41.214897,16.058204,ov_tomba_varrese_41.2149_16.0582,Tomba Varrese,MONUMENT,monumento
-41.210978,16.070637,ov_san_leucio__canosa_41.2110_16.0706,San Leucio. Canosa,MUSEUM,monumento
+41.225663,16.060033,ov_castello_di_canosa_41.2257_16.0600,Castello di Canosa,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/castello_di_canosa_41.2257_16.0600.json,custom
+41.225120,16.061863,ov_museo_archeologico_di_palazzo_iliceto_41.2251_16.0619,Museo Archeologico di Palazzo Iliceto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/museo_archeologico_di_palazzo_iliceto_41.2251_16.0619.json,custom
+41.222331,16.066203,ov_museo_dei_vescovi_monsignor_francesco_mi_41.2223_16.0662,Museo dei Vescovi Monsignor Francesco Minerva,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/museo_dei_vescovi_monsignor_francesco_mi_41.2223_16.0662.json,custom
+41.221440,16.067900,ov_gruppo_di_studio_degli_anarchici_di_cano_41.2214_16.0679,Gruppo di studio degli anarchici di Canosa di Puglia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/gruppo_di_studio_degli_anarchici_di_cano_41.2214_16.0679.json,custom
+41.221413,16.066702,ov_museo_archeologico_nazionale_canosa_di_p_41.2214_16.0667,Museo Archeologico Nazionale Canosa di Puglia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/museo_archeologico_nazionale_canosa_di_p_41.2214_16.0667.json,custom
+41.220105,16.065136,ov_tempio_di_giove_toro_41.2201_16.0651,Tempio di Giove Toro,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/tempio_di_giove_toro_41.2201_16.0651.json,custom
+41.219183,16.070466,ov_mausoleo_del_principe_boemondo_d_altavil_41.2192_16.0705,Mausoleo del Principe Boemondo D'altavilla,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/mausoleo_del_principe_boemondo_daltavill_41.2192_16.0705.json,custom
+41.214897,16.058204,ov_tomba_varrese_41.2149_16.0582,Tomba Varrese,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/tomba_varrese_41.2149_16.0582.json,custom
+41.210978,16.070637,ov_san_leucio__canosa_41.2110_16.0706,San Leucio. Canosa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/canosa_di_puglia/pages/san_leucio_canosa_41.2110_16.0706.json,custom

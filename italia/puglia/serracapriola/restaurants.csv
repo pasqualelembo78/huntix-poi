@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # serracapriola -- restaurants
-41.804595,15.159586,ov_pizzeria_la_stalla_41.8046_15.1596,Pizzeria la stalla,RESTAURANT,ristorante
-41.804623,15.159775,ov_la_dolce_vita_41.8046_15.1598,La dolce vita,RESTAURANT,ristorante
-41.806005,15.158895,ov_il_rifugio_dei_sapori_41.8060_15.1589,Il Rifugio dei Sapori,RESTAURANT,ristorante
-41.806542,15.159011,ov_da_gino_41.8065_15.1590,Da Gino,RESTAURANT,ristorante
-41.807300,15.161319,ov_olio_mannara_41.8073_15.1613,Olio Mannara,RESTAURANT,ristorante
+41.804595,15.159586,ov_pizzeria_la_stalla_41.8046_15.1596,Pizzeria la stalla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/pizzeria_la_stalla_41.8046_15.1596.json,custom
+41.804623,15.159775,ov_la_dolce_vita_41.8046_15.1598,La dolce vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/la_dolce_vita_41.8046_15.1598.json,custom
+41.806005,15.158895,ov_il_rifugio_dei_sapori_41.8060_15.1589,Il Rifugio dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/il_rifugio_dei_sapori_41.8060_15.1589.json,custom
+41.806542,15.159011,ov_da_gino_41.8065_15.1590,Da Gino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/da_gino_41.8065_15.1590.json,custom
+41.807300,15.161319,ov_olio_mannara_41.8073_15.1613,Olio Mannara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/olio_mannara_41.8073_15.1613.json,custom

@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montemesola -- restaurants
-40.563663,17.340271,ov_mon_desir_40.5637_17.3403,Mon Desir,RESTAURANT,ristorante
-40.562552,17.338515,ov_l_antico_frantoio_40.5626_17.3385,L'Antico Frantoio,RESTAURANT,ristorante
-40.563488,17.340054,ov_la_sfornata_pizzeria_40.5635_17.3401,La Sfornata Pizzeria,RESTAURANT,ristorante
-40.563250,17.337980,ov_paninoteca_al_ritrovo_40.5632_17.3380,Paninoteca Al ritrovo,RESTAURANT,ristorante
-40.561770,17.338570,ov_poke_puccia_e_passione_40.5618_17.3386,Poke Puccia e Passione,RESTAURANT,ristorante
+40.563663,17.340271,ov_mon_desir_40.5637_17.3403,Mon Desir,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemesola/pages/mon_desir_40.5637_17.3403.json,custom
+40.562552,17.338515,ov_l_antico_frantoio_40.5626_17.3385,L'Antico Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemesola/pages/lantico_frantoio_40.5626_17.3385.json,custom
+40.563488,17.340054,ov_la_sfornata_pizzeria_40.5635_17.3401,La Sfornata Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemesola/pages/la_sfornata_pizzeria_40.5635_17.3401.json,custom
+40.563250,17.337980,ov_paninoteca_al_ritrovo_40.5632_17.3380,Paninoteca Al ritrovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemesola/pages/paninoteca_al_ritrovo_40.5632_17.3380.json,custom
+40.561770,17.338570,ov_poke_puccia_e_passione_40.5618_17.3386,Poke Puccia e Passione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montemesola/pages/poke_puccia_e_passione_40.5618_17.3386.json,custom

@@ -1,13 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castellana_grotte -- gyms
-40.883800,17.128898,ov_asd_perrone_40.8838_17.1289,ASD Perrone,GYM,palestra
-40.894116,17.187663,ov_palestra_semplice_40.8941_17.1877,Palestra Semplice,GYM,palestra
-40.885243,17.165205,ov_passione_danza_40.8852_17.1652,Passione Danza,GYM,palestra
-40.885837,17.162285,ov_asd_gym_rebels_40.8858_17.1623,Asd Gym Rebels,GYM,palestra
-40.888140,17.171546,ov_pass_to_bailante_asd_40.8881_17.1715,Passìto Bailante ASD,GYM,palestra
-40.886559,17.170863,ov_essenza_ballo_e_fitness_40.8866_17.1709,Essenza ballo e fitness,GYM,palestra
-40.880950,17.159064,ov_efeso_fitclub_40.8809_17.1591,Efeso Fitclub,GYM,palestra
-40.883918,17.163981,ov_star_dance_40.8839_17.1640,Star Dance,GYM,palestra
-40.883907,17.164485,ov_asd_insieme_in_movimento_40.8839_17.1645,ASD Insieme in Movimento,GYM,palestra
-40.882240,17.153070,ov_tensostatico_40.8822_17.1531,Tensostatico,GYM,palestra
-40.881661,17.155226,ov_sports_experience_40.8817_17.1552,Sports Experience,GYM,palestra
+40.883800,17.128898,ov_asd_perrone_40.8838_17.1289,ASD Perrone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_perrone_40.8838_17.1289.json,custom
+40.894116,17.187663,ov_palestra_semplice_40.8941_17.1877,Palestra Semplice,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/palestra_semplice_40.8941_17.1877.json,custom
+40.885243,17.165205,ov_passione_danza_40.8852_17.1652,Passione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/passione_danza_40.8852_17.1652.json,custom
+40.885837,17.162285,ov_asd_gym_rebels_40.8858_17.1623,Asd Gym Rebels,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_gym_rebels_40.8858_17.1623.json,custom
+40.888140,17.171546,ov_pass_to_bailante_asd_40.8881_17.1715,Passìto Bailante ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/passto_bailante_asd_40.8881_17.1715.json,custom
+40.886559,17.170863,ov_essenza_ballo_e_fitness_40.8866_17.1709,Essenza ballo e fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/essenza_ballo_e_fitness_40.8866_17.1709.json,custom
+40.880950,17.159064,ov_efeso_fitclub_40.8809_17.1591,Efeso Fitclub,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/efeso_fitclub_40.8809_17.1591.json,custom
+40.883918,17.163981,ov_star_dance_40.8839_17.1640,Star Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/star_dance_40.8839_17.1640.json,custom
+40.883907,17.164485,ov_asd_insieme_in_movimento_40.8839_17.1645,ASD Insieme in Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/asd_insieme_in_movimento_40.8839_17.1645.json,custom
+40.882240,17.153070,ov_tensostatico_40.8822_17.1531,Tensostatico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/tensostatico_40.8822_17.1531.json,custom
+40.881661,17.155226,ov_sports_experience_40.8817_17.1552,Sports Experience,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/sports_experience_40.8817_17.1552.json,custom
+40.890935,17.176590,osm_finix_club_40.8909_17.1766,Finix Club,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/finix_club_40.8909_17.1766.json,custom

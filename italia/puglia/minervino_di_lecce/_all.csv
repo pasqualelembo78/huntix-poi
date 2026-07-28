@@ -1,24 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Minervino di Lecce -- Tutti
-40.065301,18.429591,osm_ristorante_pizzeria_cazzatino_40.0653_18.4296,Ristorante Pizzeria Cazzatino,ristorante,ristorante
-40.064494,18.426603,ov_ristorante_l_aura_40.0645_18.4266,Ristorante L'Aura,RESTAURANT,ristorante
-40.066622,18.428680,ov_da_rosito_40.0666_18.4287,Da Rosito,RESTAURANT,ristorante
-40.066288,18.430745,ov_i_rocci_40.0663_18.4307,I Rocci,RESTAURANT,ristorante
-40.065318,18.429606,ov_ristorante_pizzeria_cazzatino_40.0653_18.4296,Ristorante Pizzeria Cazzatino,RESTAURANT,ristorante
-40.064758,18.428237,ov_la_cambusa_40.0648_18.4282,La cambusa,RESTAURANT,ristorante
-40.092158,18.420222,ov_volta_51_40.0922_18.4202,Volta 51,RESTAURANT,ristorante
-40.092035,18.422896,ov_origano_cibo_e_vino_40.0920_18.4229,Origano Cibo e Vino,RESTAURANT,ristorante
-40.092047,18.422872,ov_menhir_marangelli_40.0920_18.4229,Menhir Marangelli,RESTAURANT,ristorante
-40.093754,18.423412,ov_puteca_de_mieru_40.0938_18.4234,Puteca De Mieru,RESTAURANT,ristorante
-40.091065,18.423667,ov_manna_dei_re_40.0911_18.4237,Manna dei Re,RESTAURANT,ristorante
-40.091113,18.423087,ov_borgo_antico_40.0911_18.4231,Borgo Antico,RESTAURANT,ristorante
-40.089937,18.418773,ov_il_cortiletto_di_ali_40.0899_18.4188,Il Cortiletto di Ali,RESTAURANT,ristorante
-40.085560,18.422910,ov_vincenzo_gianfreda_40.0856_18.4229,Vincenzo Gianfreda,RESTAURANT,ristorante
-40.066440,18.431800,ov_dolmen_bar_40.0664_18.4318,Dolmen Bar,RESTAURANT,bar_cafe
-40.091186,18.423921,ov_hangover_birreria_40.0912_18.4239,Hangover Birreria,RESTAURANT,bar_cafe
-40.091014,18.421355,ov_bar_malu_40.0910_18.4214,Bar Malu,RESTAURANT,bar_cafe
-40.091707,18.422581,ov_bar_latorre_40.0917_18.4226,Bar Latorre,RESTAURANT,bar_cafe
-40.087304,18.410960,ov_caffe_del_gallo_40.0873_18.4110,Caffe Del Gallo,RESTAURANT,bar_cafe
-40.093173,18.425555,ov_palestra_acquario_a_s_d__40.0932_18.4256,Palestra Acquario a.s.d.,GYM,palestra
-40.088560,18.424550,ov_luca_polisportiva_futura_40.0886_18.4245,Luca Polisportiva Futura,GYM,palestra
-40.088483,18.424577,ov_futura_fitness_and_wellness_center_40.0885_18.4246,Futura Fitness and Wellness Center,GYM,palestra
+40.064494,18.426603,ov_ristorante_l_aura_40.0645_18.4266,Ristorante L'Aura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/ristorante_laura_40.0645_18.4266.json,custom
+40.066622,18.428680,ov_da_rosito_40.0666_18.4287,Da Rosito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/da_rosito_40.0666_18.4287.json,custom
+40.066288,18.430745,ov_i_rocci_40.0663_18.4307,I Rocci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/i_rocci_40.0663_18.4307.json,custom
+40.065318,18.429606,ov_ristorante_pizzeria_cazzatino_40.0653_18.4296,Ristorante Pizzeria Cazzatino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/ristorante_pizzeria_cazzatino_40.0653_18.4296.json,custom
+40.064758,18.428237,ov_la_cambusa_40.0648_18.4282,La cambusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/la_cambusa_40.0648_18.4282.json,custom
+40.092158,18.420222,ov_volta_51_40.0922_18.4202,Volta 51,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/volta_51_40.0922_18.4202.json,custom
+40.092035,18.422896,ov_origano_cibo_e_vino_40.0920_18.4229,Origano Cibo e Vino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/origano_cibo_e_vino_40.0920_18.4229.json,custom
+40.092047,18.422872,ov_menhir_marangelli_40.0920_18.4229,Menhir Marangelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/menhir_marangelli_40.0920_18.4229.json,custom
+40.093754,18.423412,ov_puteca_de_mieru_40.0938_18.4234,Puteca De Mieru,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/puteca_de_mieru_40.0938_18.4234.json,custom
+40.091065,18.423667,ov_manna_dei_re_40.0911_18.4237,Manna dei Re,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/manna_dei_re_40.0911_18.4237.json,custom
+40.091113,18.423087,ov_borgo_antico_40.0911_18.4231,Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/borgo_antico_40.0911_18.4231.json,custom
+40.089937,18.418773,ov_il_cortiletto_di_ali_40.0899_18.4188,Il Cortiletto di Ali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/il_cortiletto_di_ali_40.0899_18.4188.json,custom
+40.085560,18.422910,ov_vincenzo_gianfreda_40.0856_18.4229,Vincenzo Gianfreda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/vincenzo_gianfreda_40.0856_18.4229.json,custom
+40.066440,18.431800,ov_dolmen_bar_40.0664_18.4318,Dolmen Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/dolmen_bar_40.0664_18.4318.json,custom
+40.091186,18.423921,ov_hangover_birreria_40.0912_18.4239,Hangover Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/hangover_birreria_40.0912_18.4239.json,custom
+40.091014,18.421355,ov_bar_malu_40.0910_18.4214,Bar Malu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/bar_malu_40.0910_18.4214.json,custom
+40.091707,18.422581,ov_bar_latorre_40.0917_18.4226,Bar Latorre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/bar_latorre_40.0917_18.4226.json,custom
+40.087304,18.410960,ov_caffe_del_gallo_40.0873_18.4110,Caffe Del Gallo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/caffe_del_gallo_40.0873_18.4110.json,custom
+40.093173,18.425555,ov_palestra_acquario_a_s_d__40.0932_18.4256,Palestra Acquario a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/palestra_acquario_asd_40.0932_18.4256.json,custom
+40.088560,18.424550,ov_luca_polisportiva_futura_40.0886_18.4245,Luca Polisportiva Futura,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/luca_polisportiva_futura_40.0886_18.4245.json,custom
+40.088483,18.424577,ov_futura_fitness_and_wellness_center_40.0885_18.4246,Futura Fitness and Wellness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/minervino_di_lecce/pages/futura_fitness_and_wellness_center_40.0885_18.4246.json,custom

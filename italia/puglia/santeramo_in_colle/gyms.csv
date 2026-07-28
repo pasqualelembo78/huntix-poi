@@ -1,27 +1,27 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santeramo_in_colle -- gyms
-40.800213,16.762062,ov_palestra_fitnessport_40.8002_16.7621,Palestra Fitnessport,GYM,palestra
-40.800395,16.760847,ov_fitness___joy_40.8004_16.7608,Fitness & Joy,GYM,palestra
-40.800334,16.757861,ov_asd_dive_group_santeramo_40.8003_16.7579,ASD Dive Group Santeramo,GYM,palestra
-40.800918,16.757323,ov_salsabor_40.8009_16.7573,Salsabor,GYM,palestra
-40.800870,16.757440,ov_shito_karate_center_santeramo_40.8009_16.7574,Shito Karate Center Santeramo,GYM,palestra
-40.800860,16.757530,ov_angelique_dance_studio_40.8009_16.7575,Angelique Dance Studio,GYM,palestra
-40.801076,16.759691,ov_street_dance_school_40.8011_16.7597,Street Dance School,GYM,palestra
-40.800590,16.762060,ov_asd_grifo_club_40.8006_16.7621,Asd Grifo Club,GYM,palestra
-40.797335,16.758336,ov_team_dragon_caputo_40.7973_16.7583,Team Dragon Caputo,GYM,palestra
-40.740528,16.746100,ov_circolo_ippico_morsara_40.7405_16.7461,Circolo Ippico Morsara,GYM,palestra
-40.776639,16.755999,ov_centro_sportivo__don_pierino_dattoli__40.7766_16.7560,Centro Sportivo “Don Pierino Dattoli”,GYM,palestra
-40.788274,16.752735,ov_new_world_gym_40.7883_16.7527,New World Gym,GYM,palestra
-40.789102,16.749295,ov_associazione_cieloterra_40.7891_16.7493,Associazione CieloTerra,GYM,palestra
-40.789656,16.759918,ov_dance_studio_40.7897_16.7599,Dance Studio,GYM,palestra
-40.790190,16.757508,ov_asd_gemini_boxing_team_bishqemi_40.7902_16.7575,ASD Gemini Boxing Team Bishqemi,GYM,palestra
-40.790536,16.759130,ov_a_s_d__creazione_danza_40.7905_16.7591,A.S.D. Creazione Danza,GYM,palestra
-40.790437,16.757256,ov_a_s_d_energym_santeramo_40.7904_16.7573,A S D Energym Santeramo,GYM,palestra
-40.790826,16.757706,ov_perfect_body_40.7908_16.7577,Perfect Body,GYM,palestra
-40.793060,16.746933,ov_power_gym_benessere_e_salute_dott_ssa_al_40.7931_16.7469,Power Gym Benessere e Salute Dott.ssa Alessandra D'Ambrosio,GYM,palestra
-40.793759,16.757905,ov_cardinium_gym_40.7938_16.7579,Cardinium Gym,GYM,palestra
-40.793126,16.762052,ov_kamadeva_40.7931_16.7621,Kamadeva,GYM,palestra
-40.792910,16.761480,ov_wellness_sport___salute_40.7929_16.7615,Wellness Sport & Salute,GYM,palestra
-40.795307,16.759429,ov_milan_club_santeramo_40.7953_16.7594,Milan Club Santeramo,GYM,palestra
-40.796421,16.761701,ov_leone_gym_40.7964_16.7617,Leone Gym,GYM,palestra
-40.796340,16.756220,ov_jadegym_40.7963_16.7562,JadeGym,GYM,palestra
+40.800213,16.762062,ov_palestra_fitnessport_40.8002_16.7621,Palestra Fitnessport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/palestra_fitnessport_40.8002_16.7621.json,custom
+40.800395,16.760847,ov_fitness___joy_40.8004_16.7608,Fitness & Joy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/fitness_joy_40.8004_16.7608.json,custom
+40.800334,16.757861,ov_asd_dive_group_santeramo_40.8003_16.7579,ASD Dive Group Santeramo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/asd_dive_group_santeramo_40.8003_16.7579.json,custom
+40.800918,16.757323,ov_salsabor_40.8009_16.7573,Salsabor,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/salsabor_40.8009_16.7573.json,custom
+40.800870,16.757440,ov_shito_karate_center_santeramo_40.8009_16.7574,Shito Karate Center Santeramo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/shito_karate_center_santeramo_40.8009_16.7574.json,custom
+40.800860,16.757530,ov_angelique_dance_studio_40.8009_16.7575,Angelique Dance Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/angelique_dance_studio_40.8009_16.7575.json,custom
+40.801076,16.759691,ov_street_dance_school_40.8011_16.7597,Street Dance School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/street_dance_school_40.8011_16.7597.json,custom
+40.800590,16.762060,ov_asd_grifo_club_40.8006_16.7621,Asd Grifo Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/asd_grifo_club_40.8006_16.7621.json,custom
+40.797335,16.758336,ov_team_dragon_caputo_40.7973_16.7583,Team Dragon Caputo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/team_dragon_caputo_40.7973_16.7583.json,custom
+40.740528,16.746100,ov_circolo_ippico_morsara_40.7405_16.7461,Circolo Ippico Morsara,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/circolo_ippico_morsara_40.7405_16.7461.json,custom
+40.776639,16.755999,ov_centro_sportivo__don_pierino_dattoli__40.7766_16.7560,Centro Sportivo “Don Pierino Dattoli”,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/centro_sportivo_don_pierino_dattoli_40.7766_16.7560.json,custom
+40.788274,16.752735,ov_new_world_gym_40.7883_16.7527,New World Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/new_world_gym_40.7883_16.7527.json,custom
+40.789102,16.749295,ov_associazione_cieloterra_40.7891_16.7493,Associazione CieloTerra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/associazione_cieloterra_40.7891_16.7493.json,custom
+40.789656,16.759918,ov_dance_studio_40.7897_16.7599,Dance Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/dance_studio_40.7897_16.7599.json,custom
+40.790190,16.757508,ov_asd_gemini_boxing_team_bishqemi_40.7902_16.7575,ASD Gemini Boxing Team Bishqemi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/asd_gemini_boxing_team_bishqemi_40.7902_16.7575.json,custom
+40.790536,16.759130,ov_a_s_d__creazione_danza_40.7905_16.7591,A.S.D. Creazione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/asd_creazione_danza_40.7905_16.7591.json,custom
+40.790437,16.757256,ov_a_s_d_energym_santeramo_40.7904_16.7573,A S D Energym Santeramo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/a_s_d_energym_santeramo_40.7904_16.7573.json,custom
+40.790826,16.757706,ov_perfect_body_40.7908_16.7577,Perfect Body,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/perfect_body_40.7908_16.7577.json,custom
+40.793060,16.746933,ov_power_gym_benessere_e_salute_dott_ssa_al_40.7931_16.7469,Power Gym Benessere e Salute Dott.ssa Alessandra D'Ambrosio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/power_gym_benessere_e_salute_dottssa_ale_40.7931_16.7469.json,custom
+40.793759,16.757905,ov_cardinium_gym_40.7938_16.7579,Cardinium Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/cardinium_gym_40.7938_16.7579.json,custom
+40.793126,16.762052,ov_kamadeva_40.7931_16.7621,Kamadeva,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/kamadeva_40.7931_16.7621.json,custom
+40.792910,16.761480,ov_wellness_sport___salute_40.7929_16.7615,Wellness Sport & Salute,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/wellness_sport_salute_40.7929_16.7615.json,custom
+40.795307,16.759429,ov_milan_club_santeramo_40.7953_16.7594,Milan Club Santeramo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/milan_club_santeramo_40.7953_16.7594.json,custom
+40.796421,16.761701,ov_leone_gym_40.7964_16.7617,Leone Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/leone_gym_40.7964_16.7617.json,custom
+40.796340,16.756220,ov_jadegym_40.7963_16.7562,JadeGym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/jadegym_40.7963_16.7562.json,custom

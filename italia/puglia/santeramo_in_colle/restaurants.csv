@@ -1,78 +1,77 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santeramo_in_colle -- restaurants
-40.795462,16.759158,osm_mimmo_e_valeria_40.7955_16.7592,Mimmo e Valeria,ristorante,ristorante
-40.791939,16.755326,osm_polleria_paninoteca_da_mirko_40.7919_16.7553,Polleria Paninoteca da Mirko,ristorante,ristorante
-40.798721,16.759504,osm_centro_carni_ciccarone_40.7987_16.7595,Centro Carni Ciccarone,ristorante,ristorante
-40.787071,16.751266,osm_mecelleria_braceria_da_angelo_lauria_40.7871_16.7513,Mecelleria Braceria da Angelo Lauria,ristorante,ristorante
-40.791934,16.754706,osm_macelleria___rosticceria_equina_di_lauri_40.7919_16.7547,Macelleria - Rosticceria Equina Di Lauria Marcello,ristorante,ristorante
-40.794489,16.760844,osm_da_scatozz_40.7945_16.7608,Da Scatozz,ristorante,ristorante
-40.792852,16.758069,osm_laertina_40.7929_16.7581,Laertina,ristorante,ristorante
-40.795937,16.757452,osm_macelleria_lauria_40.7959_16.7575,Macelleria Lauria,ristorante,ristorante
-40.794313,16.754101,osm_macelleria_lauria_40.7943_16.7541,Macelleria Lauria,ristorante,ristorante
-40.788040,16.754065,osm_socrate_40.7880_16.7541,Socrate,ristorante,ristorante
-40.793959,16.759319,osm_da_michele___figli_40.7940_16.7593,Da Michele & Figli,ristorante,ristorante
-40.794649,16.755709,osm_macelleria_lassandro_40.7946_16.7557,Macelleria Lassandro,ristorante,ristorante
-40.791089,16.759287,osm_macelleria_carni_arrosto_40.7911_16.7593,Macelleria Carni Arrosto,ristorante,ristorante
-40.790997,16.759854,osm_i_giardini_della_carne_40.7910_16.7599,I giardini della carne,ristorante,ristorante
-40.800519,16.757530,osm_da_masin_40.8005_16.7575,Da Masin,ristorante,ristorante
-40.784741,16.788403,osm_la_murgia_di_cialledda_40.7847_16.7884,La Murgia di Cialledda,ristorante,ristorante
-40.795184,16.683994,osm_masseria_nuzzi_40.7952_16.6840,Masseria Nuzzi,ristorante,ristorante
-40.771589,16.731551,osm_nonno_oreste_40.7716_16.7316,Nonno Oreste,ristorante,ristorante
-40.790253,16.752054,osm_dolceforno_caff__40.7903_16.7521,Dolceforno Caffè,ristorante,ristorante
-40.802020,16.763170,ov_taverna_tribbi_40.8020_16.7632,Taverna Tribbi,RESTAURANT,ristorante
-40.800000,16.750000,ov_donna_costanza_by_il_ventaglio_40.8000_16.7500,Donna Costanza by IL Ventaglio,RESTAURANT,ristorante
-40.800472,16.761138,ov_il_giglio_pizzeria_trattoria_40.8005_16.7611,Il Giglio Pizzeria Trattoria,RESTAURANT,ristorante
-40.799238,16.759940,ov_estro_food_40.7992_16.7599,Estro food,RESTAURANT,ristorante
-40.799148,16.759100,ov_lasala_grillandrestaurant_40.7991_16.7591,Lasala-grillandrestaurant,RESTAURANT,ristorante
-40.798700,16.759496,ov_lo_scottadito___centro_carni_ciccarone_40.7987_16.7595,Lo Scottadito - Centro Carni Ciccarone,RESTAURANT,ristorante
-40.798499,16.759589,ov_pizzeria_la_rustica___santeramo_in_colle_40.7985_16.7596,Pizzeria la Rustica - Santeramo in Colle,RESTAURANT,ristorante
-40.797957,16.757680,ov_kebabberia_pizzeria_da_umar_40.7980_16.7577,kebabberia&pizzeria da umar,RESTAURANT,ristorante
-40.797902,16.758386,ov_studio_mediterraneo_40.7979_16.7584,Studio Mediterraneo,RESTAURANT,ristorante
-40.797286,16.758176,ov_europa_bar_ristorante_40.7973_16.7582,Europa Bar Ristorante,RESTAURANT,ristorante
-40.797349,16.758331,ov_circo_botanico_40.7973_16.7583,Circo Botanico,RESTAURANT,ristorante
-40.805927,16.794780,ov_la_corte_dei_peuceti_40.8059_16.7948,La Corte dei Peuceti,RESTAURANT,ristorante
-40.752745,16.779375,ov_tenuta_lauria_40.7527_16.7794,Tenuta Lauria,RESTAURANT,ristorante
-40.782992,16.729773,ov_paradise_lost_40.7830_16.7298,Paradise Lost,RESTAURANT,ristorante
-40.790051,16.751150,ov_pizzeria_rosso_piccante_40.7901_16.7511,Pizzeria Rosso Piccante,RESTAURANT,ristorante
-40.790177,16.752002,ov_dolce_forno_40.7902_16.7520,Dolce Forno,RESTAURANT,ristorante
-40.790188,16.751974,ov_braceria_pizzeria_miti_40.7902_16.7520,Braceria Pizzeria Miti,RESTAURANT,ristorante
-40.789490,16.756260,ov_macelleria_angelo___rosa_40.7895_16.7563,Macelleria Angelo & Rosa,RESTAURANT,ristorante
-40.789362,16.749072,ov_pizzeria_piccadilly_40.7894_16.7491,Pizzeria piccadilly,RESTAURANT,ristorante
-40.790250,16.757459,ov_puglia_mia___birreria__spaghetteria_e_fr_40.7902_16.7575,"Puglia Mia | Birreria, Spaghetteria e Friggitoria",RESTAURANT,ristorante
-40.790090,16.757520,ov_saloon_40.7901_16.7575,Saloon,RESTAURANT,ristorante
-40.790655,16.760104,ov_l_adriatico_40.7907_16.7601,L'Adriatico,RESTAURANT,ristorante
-40.790948,16.759923,ov_i_giardini_della_carne_40.7909_16.7599,I Giardini della Carne,RESTAURANT,ristorante
-40.791079,16.759986,ov_tenute_giampetruzzi_40.7911_16.7600,Tenute Giampetruzzi,RESTAURANT,ristorante
-40.792693,16.758172,ov_pizzulo_pizzeria_40.7927_16.7582,Pizzulo Pizzeria,RESTAURANT,ristorante
-40.792366,16.756193,ov_fast_pizz_40.7924_16.7562,Fast Pizz,RESTAURANT,ristorante
-40.792462,16.753658,ov_vindo_vino_e_gusto_40.7925_16.7537,Vindo Vino e Gusto,RESTAURANT,ristorante
-40.792713,16.753976,ov_misak__japulian_bistrot_40.7927_16.7540,Misakè Japulian Bistrot,RESTAURANT,ristorante
-40.792633,16.751410,ov_tielle_di_tritto_francesco_40.7926_16.7514,Tielle di Tritto Francesco,RESTAURANT,ristorante
-40.792172,16.753691,ov_ristorante_da_michele_40.7922_16.7537,Ristorante da Michele,RESTAURANT,ristorante
-40.792215,16.753523,ov_pizzeria_del_corso_40.7922_16.7535,Pizzeria del corso,RESTAURANT,ristorante
-40.792242,16.755798,ov_new_mod__40.7922_16.7558,New Modì,RESTAURANT,ristorante
-40.791860,16.754750,ov_rosticceria_macelleria_lauria_marcello_e_40.7919_16.7548,Rosticceria Macelleria Lauria Marcello e Rosy,RESTAURANT,ristorante
-40.791000,16.756010,ov_casa_narducc_home_restaurant_40.7910_16.7560,Casa Narducc home restaurant,RESTAURANT,ristorante
-40.791400,16.747940,ov_il_country_40.7914_16.7479,Il Country,RESTAURANT,ristorante
-40.794380,16.750400,ov_masseria_sant_angelo_santeramo_40.7944_16.7504,Masseria Sant'Angelo Santeramo,RESTAURANT,ristorante
-40.794856,16.751088,ov_silletti_food_40.7949_16.7511,Silletti Food,RESTAURANT,ristorante
-40.794601,16.750877,ov_la_giara_40.7946_16.7509,La Giara,RESTAURANT,ristorante
-40.793383,16.754617,ov_donna_costanza_40.7934_16.7546,Donna Costanza,RESTAURANT,ristorante
-40.793249,16.752752,ov_girarrosto_polleria_da_anna_40.7932_16.7528,Girarrosto Polleria Da Anna,RESTAURANT,ristorante
-40.793172,16.754547,ov_osteria_santa_lucia_40.7932_16.7545,Osteria Santa Lucia,RESTAURANT,ristorante
-40.792932,16.757998,ov_rosticceria_laertina_macelleria_40.7929_16.7580,Rosticceria Laertina Macelleria,RESTAURANT,ristorante
-40.793412,16.763534,ov_basilico_pizza_e_cose_40.7934_16.7635,Basilico Pizza e Cose,RESTAURANT,ristorante
-40.794009,16.762402,ov_tangram___slow_street_food_40.7940_16.7624,Tangram - Slow Street Food,RESTAURANT,ristorante
-40.793948,16.759332,ov_macelleria_rosticceria_da_michele_e_figl_40.7939_16.7593,Macelleria Rosticceria da Michele e Figli,RESTAURANT,ristorante
-40.794324,16.757405,ov_pic_nic_alimentari_40.7943_16.7574,Pic-Nic Alimentari,RESTAURANT,ristorante
-40.794946,16.759956,ov_free_time_di_dibello_michele_40.7949_16.7600,Free Time Di Dibello Michele,RESTAURANT,ristorante
-40.795054,16.759702,ov_abracio___santeramo_in_colle__bari__40.7951_16.7597,Abracio - Santeramo in Colle (Bari),RESTAURANT,ristorante
-40.796068,16.756543,ov_vicolo_21_food_drinks_40.7961_16.7565,Vicolo 21 Food&Drinks,RESTAURANT,ristorante
-40.795835,16.758877,ov_michele_baristorante_40.7958_16.7589,Michele BaRistorante,RESTAURANT,ristorante
-40.795590,16.759150,ov_hasthagdiciannove_40.7956_16.7592,Hasthagdiciannove,RESTAURANT,ristorante
-40.795580,16.759160,ov_michele_lillo_40.7956_16.7592,Michele Lillo,RESTAURANT,ristorante
-40.797082,16.761601,ov_franme_cucina_40.7971_16.7616,FrAnMe Cucina,RESTAURANT,ristorante
-40.796530,16.758953,ov_giuditta_storie___gusto_40.7965_16.7590,Giuditta Storie & Gusto,RESTAURANT,ristorante
-40.795821,16.752946,ov_pizza_e_passione___santeramo_in_colle_40.7958_16.7529,Pizza e Passione - Santeramo in Colle,RESTAURANT,ristorante
-40.795494,16.752149,ov_pizzeria_il_bagaglino_40.7955_16.7521,Pizzeria Il Bagaglino,RESTAURANT,ristorante
-40.720902,16.747818,ov_nu_e_nu___ristorante_40.7209_16.7478,Nu e Nu - Ristorante,RESTAURANT,ristorante
+40.802020,16.763170,ov_taverna_tribbi_40.8020_16.7632,Taverna Tribbi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/taverna_tribbi_40.8020_16.7632.json,custom
+40.800000,16.750000,ov_donna_costanza_by_il_ventaglio_40.8000_16.7500,Donna Costanza by IL Ventaglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/donna_costanza_by_il_ventaglio_40.8000_16.7500.json,custom
+40.800472,16.761138,ov_il_giglio_pizzeria_trattoria_40.8005_16.7611,Il Giglio Pizzeria Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/il_giglio_pizzeria_trattoria_40.8005_16.7611.json,custom
+40.799238,16.759940,ov_estro_food_40.7992_16.7599,Estro food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/estro_food_40.7992_16.7599.json,custom
+40.799148,16.759100,ov_lasala_grillandrestaurant_40.7991_16.7591,Lasala-grillandrestaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/lasala-grillandrestaurant_40.7991_16.7591.json,custom
+40.798700,16.759496,ov_lo_scottadito___centro_carni_ciccarone_40.7987_16.7595,Lo Scottadito - Centro Carni Ciccarone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/lo_scottadito_-_centro_carni_ciccarone_40.7987_16.7595.json,custom
+40.798499,16.759589,ov_pizzeria_la_rustica___santeramo_in_colle_40.7985_16.7596,Pizzeria la Rustica - Santeramo in Colle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzeria_la_rustica_-_santeramo_in_colle_40.7985_16.7596.json,custom
+40.797957,16.757680,ov_kebabberia_pizzeria_da_umar_40.7980_16.7577,kebabberia&pizzeria da umar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/kebabberiapizzeria_da_umar_40.7980_16.7577.json,custom
+40.797902,16.758386,ov_studio_mediterraneo_40.7979_16.7584,Studio Mediterraneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/studio_mediterraneo_40.7979_16.7584.json,custom
+40.797286,16.758176,ov_europa_bar_ristorante_40.7973_16.7582,Europa Bar Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/europa_bar_ristorante_40.7973_16.7582.json,custom
+40.797349,16.758331,ov_circo_botanico_40.7973_16.7583,Circo Botanico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/circo_botanico_40.7973_16.7583.json,custom
+40.805927,16.794780,ov_la_corte_dei_peuceti_40.8059_16.7948,La Corte dei Peuceti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/la_corte_dei_peuceti_40.8059_16.7948.json,custom
+40.752745,16.779375,ov_tenuta_lauria_40.7527_16.7794,Tenuta Lauria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/tenuta_lauria_40.7527_16.7794.json,custom
+40.782992,16.729773,ov_paradise_lost_40.7830_16.7298,Paradise Lost,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/paradise_lost_40.7830_16.7298.json,custom
+40.790051,16.751150,ov_pizzeria_rosso_piccante_40.7901_16.7511,Pizzeria Rosso Piccante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzeria_rosso_piccante_40.7901_16.7511.json,custom
+40.790177,16.752002,ov_dolce_forno_40.7902_16.7520,Dolce Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/dolce_forno_40.7902_16.7520.json,custom
+40.790188,16.751974,ov_braceria_pizzeria_miti_40.7902_16.7520,Braceria Pizzeria Miti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/braceria_pizzeria_miti_40.7902_16.7520.json,custom
+40.789490,16.756260,ov_macelleria_angelo___rosa_40.7895_16.7563,Macelleria Angelo & Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_angelo_rosa_40.7895_16.7563.json,custom
+40.789362,16.749072,ov_pizzeria_piccadilly_40.7894_16.7491,Pizzeria piccadilly,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzeria_piccadilly_40.7894_16.7491.json,custom
+40.790250,16.757459,ov_puglia_mia___birreria__spaghetteria_e_fr_40.7902_16.7575,"Puglia Mia | Birreria, Spaghetteria e Friggitoria",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/puglia_mia_birreria_spaghetteria_e_frigg_40.7902_16.7575.json,custom
+40.790090,16.757520,ov_saloon_40.7901_16.7575,Saloon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/saloon_40.7901_16.7575.json,custom
+40.790655,16.760104,ov_l_adriatico_40.7907_16.7601,L'Adriatico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/ladriatico_40.7907_16.7601.json,custom
+40.790948,16.759923,ov_i_giardini_della_carne_40.7909_16.7599,I Giardini della Carne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/i_giardini_della_carne_40.7909_16.7599.json,custom
+40.791079,16.759986,ov_tenute_giampetruzzi_40.7911_16.7600,Tenute Giampetruzzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/tenute_giampetruzzi_40.7911_16.7600.json,custom
+40.792693,16.758172,ov_pizzulo_pizzeria_40.7927_16.7582,Pizzulo Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzulo_pizzeria_40.7927_16.7582.json,custom
+40.792366,16.756193,ov_fast_pizz_40.7924_16.7562,Fast Pizz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/fast_pizz_40.7924_16.7562.json,custom
+40.792462,16.753658,ov_vindo_vino_e_gusto_40.7925_16.7537,Vindo Vino e Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/vindo_vino_e_gusto_40.7925_16.7537.json,custom
+40.792713,16.753976,ov_misak__japulian_bistrot_40.7927_16.7540,Misakè Japulian Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/misak_japulian_bistrot_40.7927_16.7540.json,custom
+40.792633,16.751410,ov_tielle_di_tritto_francesco_40.7926_16.7514,Tielle di Tritto Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/tielle_di_tritto_francesco_40.7926_16.7514.json,custom
+40.792172,16.753691,ov_ristorante_da_michele_40.7922_16.7537,Ristorante da Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/ristorante_da_michele_40.7922_16.7537.json,custom
+40.792215,16.753523,ov_pizzeria_del_corso_40.7922_16.7535,Pizzeria del corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzeria_del_corso_40.7922_16.7535.json,custom
+40.792242,16.755798,ov_new_mod__40.7922_16.7558,New Modì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/new_mod_40.7922_16.7558.json,custom
+40.791860,16.754750,ov_rosticceria_macelleria_lauria_marcello_e_40.7919_16.7548,Rosticceria Macelleria Lauria Marcello e Rosy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/rosticceria_macelleria_lauria_marcello_e_40.7919_16.7548.json,custom
+40.791000,16.756010,ov_casa_narducc_home_restaurant_40.7910_16.7560,Casa Narducc home restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/casa_narducc_home_restaurant_40.7910_16.7560.json,custom
+40.791400,16.747940,ov_il_country_40.7914_16.7479,Il Country,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/il_country_40.7914_16.7479.json,custom
+40.794380,16.750400,ov_masseria_sant_angelo_santeramo_40.7944_16.7504,Masseria Sant'Angelo Santeramo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/masseria_santangelo_santeramo_40.7944_16.7504.json,custom
+40.794856,16.751088,ov_silletti_food_40.7949_16.7511,Silletti Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/silletti_food_40.7949_16.7511.json,custom
+40.794601,16.750877,ov_la_giara_40.7946_16.7509,La Giara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/la_giara_40.7946_16.7509.json,custom
+40.793383,16.754617,ov_donna_costanza_40.7934_16.7546,Donna Costanza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/donna_costanza_40.7934_16.7546.json,custom
+40.793249,16.752752,ov_girarrosto_polleria_da_anna_40.7932_16.7528,Girarrosto Polleria Da Anna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/girarrosto_polleria_da_anna_40.7932_16.7528.json,custom
+40.793172,16.754547,ov_osteria_santa_lucia_40.7932_16.7545,Osteria Santa Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/osteria_santa_lucia_40.7932_16.7545.json,custom
+40.792932,16.757998,ov_rosticceria_laertina_macelleria_40.7929_16.7580,Rosticceria Laertina Macelleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/rosticceria_laertina_macelleria_40.7929_16.7580.json,custom
+40.793412,16.763534,ov_basilico_pizza_e_cose_40.7934_16.7635,Basilico Pizza e Cose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/basilico_pizza_e_cose_40.7934_16.7635.json,custom
+40.794009,16.762402,ov_tangram___slow_street_food_40.7940_16.7624,Tangram - Slow Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/tangram_-_slow_street_food_40.7940_16.7624.json,custom
+40.793948,16.759332,ov_macelleria_rosticceria_da_michele_e_figl_40.7939_16.7593,Macelleria Rosticceria da Michele e Figli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_rosticceria_da_michele_e_figl_40.7939_16.7593.json,custom
+40.794324,16.757405,ov_pic_nic_alimentari_40.7943_16.7574,Pic-Nic Alimentari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pic-nic_alimentari_40.7943_16.7574.json,custom
+40.794946,16.759956,ov_free_time_di_dibello_michele_40.7949_16.7600,Free Time Di Dibello Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/free_time_di_dibello_michele_40.7949_16.7600.json,custom
+40.795054,16.759702,ov_abracio___santeramo_in_colle__bari__40.7951_16.7597,Abracio - Santeramo in Colle (Bari),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/abracio_-_santeramo_in_colle_bari_40.7951_16.7597.json,custom
+40.796068,16.756543,ov_vicolo_21_food_drinks_40.7961_16.7565,Vicolo 21 Food&Drinks,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/vicolo_21_fooddrinks_40.7961_16.7565.json,custom
+40.795835,16.758877,ov_michele_baristorante_40.7958_16.7589,Michele BaRistorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/michele_baristorante_40.7958_16.7589.json,custom
+40.795590,16.759150,ov_hasthagdiciannove_40.7956_16.7592,Hasthagdiciannove,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/hasthagdiciannove_40.7956_16.7592.json,custom
+40.795580,16.759160,ov_michele_lillo_40.7956_16.7592,Michele Lillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/michele_lillo_40.7956_16.7592.json,custom
+40.797082,16.761601,ov_franme_cucina_40.7971_16.7616,FrAnMe Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/franme_cucina_40.7971_16.7616.json,custom
+40.796530,16.758953,ov_giuditta_storie___gusto_40.7965_16.7590,Giuditta Storie & Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/giuditta_storie_gusto_40.7965_16.7590.json,custom
+40.795821,16.752946,ov_pizza_e_passione___santeramo_in_colle_40.7958_16.7529,Pizza e Passione - Santeramo in Colle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizza_e_passione_-_santeramo_in_colle_40.7958_16.7529.json,custom
+40.795494,16.752149,ov_pizzeria_il_bagaglino_40.7955_16.7521,Pizzeria Il Bagaglino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/pizzeria_il_bagaglino_40.7955_16.7521.json,custom
+40.720902,16.747818,ov_nu_e_nu___ristorante_40.7209_16.7478,Nu e Nu - Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/nu_e_nu_-_ristorante_40.7209_16.7478.json,custom
+40.795462,16.759158,osm_mimmo_e_valeria_40.7955_16.7592,Mimmo e Valeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/mimmo_e_valeria_40.7955_16.7592.json,custom
+40.791939,16.755326,osm_polleria_paninoteca_da_mirko_40.7919_16.7553,Polleria Paninoteca da Mirko,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/polleria_paninoteca_da_mirko_40.7919_16.7553.json,custom
+40.798721,16.759504,osm_centro_carni_ciccarone_40.7987_16.7595,Centro Carni Ciccarone,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/centro_carni_ciccarone_40.7987_16.7595.json,custom
+40.787071,16.751266,osm_mecelleria_braceria_da_angelo_lauria_40.7871_16.7513,Mecelleria Braceria da Angelo Lauria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/mecelleria_braceria_da_angelo_lauria_40.7871_16.7513.json,custom
+40.791934,16.754706,osm_macelleria___rosticceria_equina_di_lauri_40.7919_16.7547,Macelleria - Rosticceria Equina Di Lauria Marcello,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_-_rosticceria_equina_di_lauri_40.7919_16.7547.json,custom
+40.794489,16.760844,osm_da_scatozz_40.7945_16.7608,Da Scatozz,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/da_scatozz_40.7945_16.7608.json,custom
+40.792852,16.758069,osm_laertina_40.7929_16.7581,Laertina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/laertina_40.7929_16.7581.json,custom
+40.795937,16.757452,osm_macelleria_lauria_40.7959_16.7575,Macelleria Lauria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_lauria_40.7959_16.7575.json,custom
+40.794313,16.754101,osm_macelleria_lauria_40.7943_16.7541,Macelleria Lauria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_lauria_40.7943_16.7541.json,custom
+40.788040,16.754065,osm_socrate_40.7880_16.7541,Socrate,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/socrate_40.7880_16.7541.json,custom
+40.793959,16.759319,osm_da_michele___figli_40.7940_16.7593,Da Michele & Figli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/da_michele_figli_40.7940_16.7593.json,custom
+40.794649,16.755709,osm_macelleria_lassandro_40.7946_16.7557,Macelleria Lassandro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_lassandro_40.7946_16.7557.json,custom
+40.791089,16.759287,osm_macelleria_carni_arrosto_40.7911_16.7593,Macelleria Carni Arrosto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/macelleria_carni_arrosto_40.7911_16.7593.json,custom
+40.800519,16.757530,osm_da_masin_40.8005_16.7575,Da Masin,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/da_masin_40.8005_16.7575.json,custom
+40.784741,16.788403,osm_la_murgia_di_cialledda_40.7847_16.7884,La Murgia di Cialledda,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/la_murgia_di_cialledda_40.7847_16.7884.json,custom
+40.795184,16.683994,osm_masseria_nuzzi_40.7952_16.6840,Masseria Nuzzi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/masseria_nuzzi_40.7952_16.6840.json,custom
+40.771589,16.731551,osm_nonno_oreste_40.7716_16.7316,Nonno Oreste,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/nonno_oreste_40.7716_16.7316.json,custom
+40.790253,16.752054,osm_dolceforno_caff__40.7903_16.7521,Dolceforno Caffè,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/dolceforno_caff_40.7903_16.7521.json,custom

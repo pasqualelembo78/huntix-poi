@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palazzo_san_gervasio -- bars_cafes
-40.929019,15.988401,ov_southern_bar_40.9290_15.9884,SoutheRn Bar,RESTAURANT,bar_cafe
-40.930762,15.981283,ov_bar_tango_40.9308_15.9813,Bar Tango,RESTAURANT,bar_cafe
-40.931100,15.986190,ov_birrificio_re_manfredi_40.9311_15.9862,Birrificio Re Manfredi,RESTAURANT,bar_cafe
-40.931694,15.970829,ov_joy_division_40.9317_15.9708,Joy Division,RESTAURANT,bar_cafe
-40.932058,16.003314,ov_olantini_resort_40.9321_16.0033,Olantini Resort,RESTAURANT,bar_cafe
+40.929019,15.988401,ov_southern_bar_40.9290_15.9884,SoutheRn Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palazzo_san_gervasio/pages/southern_bar_40.9290_15.9884.json,custom
+40.930762,15.981283,ov_bar_tango_40.9308_15.9813,Bar Tango,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palazzo_san_gervasio/pages/bar_tango_40.9308_15.9813.json,custom
+40.931100,15.986190,ov_birrificio_re_manfredi_40.9311_15.9862,Birrificio Re Manfredi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palazzo_san_gervasio/pages/birrificio_re_manfredi_40.9311_15.9862.json,custom
+40.931694,15.970829,ov_joy_division_40.9317_15.9708,Joy Division,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palazzo_san_gervasio/pages/joy_division_40.9317_15.9708.json,custom
+40.932058,16.003314,ov_olantini_resort_40.9321_16.0033,Olantini Resort,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palazzo_san_gervasio/pages/olantini_resort_40.9321_16.0033.json,custom

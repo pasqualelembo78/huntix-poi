@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tito -- bars_cafes
-40.583300,15.666700,ov_area_di_servizio_citta__di_tito_40.5833_15.6667,Area Di Servizio Citta' di Tito,RESTAURANT,bar_cafe
-40.581272,15.676313,ov_enjoy_cafe_40.5813_15.6763,Enjoy Cafe,RESTAURANT,bar_cafe
-40.581741,15.677744,ov_friend_s_cafe_40.5817_15.6777,Friend's Cafe,RESTAURANT,bar_cafe
-40.582900,15.677100,ov_rifugio_randagio_40.5829_15.6771,Rifugio Randagio,RESTAURANT,bar_cafe
-40.582480,15.676180,ov_la_piana_bistrot___lounge_bar_40.5825_15.6762,La Piana Bistrot - Lounge Bar,RESTAURANT,bar_cafe
-40.587055,15.677783,ov_be_happy_2_0_by_cardillo_brothers_40.5871_15.6778,Be happy 2.0 by Cardillo brothers,RESTAURANT,bar_cafe
-40.587096,15.677469,ov_new_nuvolese_40.5871_15.6775,New Nuvolese,RESTAURANT,bar_cafe
-40.604819,15.690684,ov_bar_la_bussola_40.6048_15.6907,Bar La Bussola,RESTAURANT,bar_cafe
-40.602950,15.709290,ov_barromiria_40.6029_15.7093,BarRomiria,RESTAURANT,bar_cafe
-40.611827,15.724073,ov_bar_romiria_40.6118_15.7241,Bar Romiria,RESTAURANT,bar_cafe
-40.615322,15.737015,ov_lottino_spirits_40.6153_15.7370,Lottino Spirits,RESTAURANT,bar_cafe
+40.583300,15.666700,ov_area_di_servizio_citta__di_tito_40.5833_15.6667,Area Di Servizio Citta' di Tito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/area_di_servizio_citta_di_tito_40.5833_15.6667.json,custom
+40.581272,15.676313,ov_enjoy_cafe_40.5813_15.6763,Enjoy Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/enjoy_cafe_40.5813_15.6763.json,custom
+40.581741,15.677744,ov_friend_s_cafe_40.5817_15.6777,Friend's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/friends_cafe_40.5817_15.6777.json,custom
+40.582900,15.677100,ov_rifugio_randagio_40.5829_15.6771,Rifugio Randagio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/rifugio_randagio_40.5829_15.6771.json,custom
+40.582480,15.676180,ov_la_piana_bistrot___lounge_bar_40.5825_15.6762,La Piana Bistrot - Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/la_piana_bistrot_-_lounge_bar_40.5825_15.6762.json,custom
+40.587055,15.677783,ov_be_happy_2_0_by_cardillo_brothers_40.5871_15.6778,Be happy 2.0 by Cardillo brothers,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/be_happy_20_by_cardillo_brothers_40.5871_15.6778.json,custom
+40.587096,15.677469,ov_new_nuvolese_40.5871_15.6775,New Nuvolese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/new_nuvolese_40.5871_15.6775.json,custom
+40.604819,15.690684,ov_bar_la_bussola_40.6048_15.6907,Bar La Bussola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/bar_la_bussola_40.6048_15.6907.json,custom
+40.602950,15.709290,ov_barromiria_40.6029_15.7093,BarRomiria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/barromiria_40.6029_15.7093.json,custom
+40.611827,15.724073,ov_bar_romiria_40.6118_15.7241,Bar Romiria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/bar_romiria_40.6118_15.7241.json,custom
+40.615322,15.737015,ov_lottino_spirits_40.6153_15.7370,Lottino Spirits,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/lottino_spirits_40.6153_15.7370.json,custom

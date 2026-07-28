@@ -1,42 +1,42 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Castro -- Tutti
-40.001196,18.423702,osm_le_stuzzicherie_del_porto_40.0012_18.4237,Le Stuzzicherie del Porto,ristorante,ristorante
-40.001486,18.426540,osm_la_grotta_del_conte_40.0015_18.4265,La Grotta del Conte,ristorante,ristorante
-40.012323,18.432124,ov_ristorante_bar_la_zinzulusa_40.0123_18.4321,Ristorante Bar La Zinzulusa,RESTAURANT,ristorante
-40.005178,18.429605,ov_lamanna_s_hotel_40.0052_18.4296,Lamanna's Hotel,RESTAURANT,ristorante
-40.005054,18.427615,ov_la_pesceria_40.0051_18.4276,La Pesceria,RESTAURANT,ristorante
-40.005391,18.427437,ov_hostaria_vecchie_maniere_40.0054_18.4274,Hostaria Vecchie Maniere,RESTAURANT,ristorante
-40.005861,18.427139,ov_ferso_40.0059_18.4271,Ferso,RESTAURANT,ristorante
-40.007089,18.421630,ov_piccolo_ranch_40.0071_18.4216,Piccolo Ranch,RESTAURANT,ristorante
-40.007064,18.426911,ov_da_amedeo_40.0071_18.4269,Da Amedeo,RESTAURANT,ristorante
-40.006815,18.429259,ov_ristorante_adriatico_40.0068_18.4293,Ristorante Adriatico,RESTAURANT,ristorante
-40.006037,18.426904,ov_tuna_lounge_restaurant_40.0060_18.4269,Tuna Lounge Restaurant,RESTAURANT,ristorante
-40.000820,18.422800,ov_castro_marina_40.0008_18.4228,Castro marina,RESTAURANT,ristorante
-40.000463,18.422604,ov_37_nodi_fish_e_food_40.0005_18.4226,37 Nodi Fish E Food,RESTAURANT,ristorante
-40.001295,18.426655,ov_castro__le____ristorante_grotta_del_cont_40.0013_18.4267,Castro (Le) - Ristorante Grotta del Conte - La Bella d'Itali,RESTAURANT,ristorante
-40.001566,18.426601,ov_grotta_del_conte_40.0016_18.4266,Grotta del Conte,RESTAURANT,ristorante
-40.001091,18.423510,ov_view_castro___ristorante_e_sushi_40.0011_18.4235,View Castro | Ristorante e Sushi,RESTAURANT,ristorante
-40.000957,18.423374,ov_ristorante_aragosta_castro_40.0010_18.4234,Ristorante Aragosta Castro,RESTAURANT,ristorante
-40.002596,18.423202,ov_isola_del_sole_castro_40.0026_18.4232,Isola del Sole Castro,RESTAURANT,ristorante
-40.002675,18.422169,ov_marevivo_castro_40.0027_18.4222,Marevivo Castro,RESTAURANT,ristorante
-40.002491,18.424856,ov_la_piazzetta_40.0025_18.4249,La Piazzetta,RESTAURANT,ristorante
-40.002613,18.425114,ov_underground_40.0026_18.4251,Underground,RESTAURANT,ristorante
-40.002089,18.426223,ov_chiosco_grotta_del_conte_40.0021_18.4262,Chiosco Grotta Del Conte,RESTAURANT,ristorante
-40.001795,18.425337,ov_friggitoria_porto_vecchio_40.0018_18.4253,Friggitoria Porto Vecchio,RESTAURANT,ristorante
-40.012548,18.432602,ov_nicola_s_bar_40.0125_18.4326,Nicola's Bar,RESTAURANT,bar_cafe
-40.011663,18.422729,ov_wonderwall_cafe_40.0117_18.4227,Wonderwall Cafe,RESTAURANT,bar_cafe
-40.009110,18.425546,ov_caffetteria_baccaro_40.0091_18.4255,Caffetteria Baccaro,RESTAURANT,bar_cafe
-40.004933,18.427567,ov_delizie_in_contea_40.0049_18.4276,Delizie in Contea,RESTAURANT,bar_cafe
-40.005617,18.427522,ov_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,RESTAURANT,bar_cafe
-40.007357,18.426751,ov_crazy_discount_40.0074_18.4268,Crazy Discount,RESTAURANT,bar_cafe
-40.007360,18.427009,ov_quarta_caffe_40.0074_18.4270,Quarta Caffe,RESTAURANT,bar_cafe
-39.998338,18.420710,ov_nicola_s_bar_castro_39.9983_18.4207,Nicola's Bar Castro,RESTAURANT,bar_cafe
-39.998904,18.422219,ov_loc__argentiera_39.9989_18.4222,Loc. Argentiera,RESTAURANT,bar_cafe
-40.000792,18.422789,ov_le_currenti_40.0008_18.4228,Le Currenti,RESTAURANT,bar_cafe
-40.000646,18.425714,ov_molo_castro_40.0006_18.4257,Molo Castro,RESTAURANT,bar_cafe
-40.001299,18.425833,ov_ilios_caf__40.0013_18.4258,Ilios Café,RESTAURANT,bar_cafe
-40.001334,18.425658,ov_sottovento_bar_sul_mare___colazioni__pra_40.0013_18.4257,"Sottovento Bar Sul Mare | Colazioni, Pranzi, Aperitivi front",RESTAURANT,bar_cafe
-40.005586,18.427487,osm_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,bar_cafe,bar_cafe
-40.011816,18.422727,ov_centro_sportivo_polivalente_40.0118_18.4227,Centro Sportivo Polivalente,GYM,palestra
-40.005586,18.427297,ov_castello_di_castro_40.0056_18.4273,Castello di Castro,MONUMENT,monumento
-40.005670,18.427320,ov_museo_archeologico_castro_40.0057_18.4273,Museo Archeologico Castro,MUSEUM,monumento
+40.012323,18.432124,ov_ristorante_bar_la_zinzulusa_40.0123_18.4321,Ristorante Bar La Zinzulusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ristorante_bar_la_zinzulusa_40.0123_18.4321.json,custom
+40.005178,18.429605,ov_lamanna_s_hotel_40.0052_18.4296,Lamanna's Hotel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/lamannas_hotel_40.0052_18.4296.json,custom
+40.005054,18.427615,ov_la_pesceria_40.0051_18.4276,La Pesceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/la_pesceria_40.0051_18.4276.json,custom
+40.005391,18.427437,ov_hostaria_vecchie_maniere_40.0054_18.4274,Hostaria Vecchie Maniere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/hostaria_vecchie_maniere_40.0054_18.4274.json,custom
+40.005861,18.427139,ov_ferso_40.0059_18.4271,Ferso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ferso_40.0059_18.4271.json,custom
+40.007089,18.421630,ov_piccolo_ranch_40.0071_18.4216,Piccolo Ranch,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/piccolo_ranch_40.0071_18.4216.json,custom
+40.007064,18.426911,ov_da_amedeo_40.0071_18.4269,Da Amedeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/da_amedeo_40.0071_18.4269.json,custom
+40.006815,18.429259,ov_ristorante_adriatico_40.0068_18.4293,Ristorante Adriatico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ristorante_adriatico_40.0068_18.4293.json,custom
+40.006037,18.426904,ov_tuna_lounge_restaurant_40.0060_18.4269,Tuna Lounge Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/tuna_lounge_restaurant_40.0060_18.4269.json,custom
+40.000820,18.422800,ov_castro_marina_40.0008_18.4228,Castro marina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/castro_marina_40.0008_18.4228.json,custom
+40.000463,18.422604,ov_37_nodi_fish_e_food_40.0005_18.4226,37 Nodi Fish E Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/37_nodi_fish_e_food_40.0005_18.4226.json,custom
+40.001295,18.426655,ov_castro__le____ristorante_grotta_del_cont_40.0013_18.4267,Castro (Le) - Ristorante Grotta del Conte - La Bella d'Itali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/castro_le_-_ristorante_grotta_del_conte__40.0013_18.4267.json,custom
+40.001566,18.426601,ov_grotta_del_conte_40.0016_18.4266,Grotta del Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/grotta_del_conte_40.0016_18.4266.json,custom
+40.001091,18.423510,ov_view_castro___ristorante_e_sushi_40.0011_18.4235,View Castro | Ristorante e Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/view_castro_ristorante_e_sushi_40.0011_18.4235.json,custom
+40.000957,18.423374,ov_ristorante_aragosta_castro_40.0010_18.4234,Ristorante Aragosta Castro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ristorante_aragosta_castro_40.0010_18.4234.json,custom
+40.002596,18.423202,ov_isola_del_sole_castro_40.0026_18.4232,Isola del Sole Castro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/isola_del_sole_castro_40.0026_18.4232.json,custom
+40.002675,18.422169,ov_marevivo_castro_40.0027_18.4222,Marevivo Castro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/marevivo_castro_40.0027_18.4222.json,custom
+40.002491,18.424856,ov_la_piazzetta_40.0025_18.4249,La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/la_piazzetta_40.0025_18.4249.json,custom
+40.002613,18.425114,ov_underground_40.0026_18.4251,Underground,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/underground_40.0026_18.4251.json,custom
+40.002089,18.426223,ov_chiosco_grotta_del_conte_40.0021_18.4262,Chiosco Grotta Del Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/chiosco_grotta_del_conte_40.0021_18.4262.json,custom
+40.001795,18.425337,ov_friggitoria_porto_vecchio_40.0018_18.4253,Friggitoria Porto Vecchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/friggitoria_porto_vecchio_40.0018_18.4253.json,custom
+40.001196,18.423702,osm_le_stuzzicherie_del_porto_40.0012_18.4237,Le Stuzzicherie del Porto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/le_stuzzicherie_del_porto_40.0012_18.4237.json,custom
+40.001486,18.426540,osm_la_grotta_del_conte_40.0015_18.4265,La Grotta del Conte,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/la_grotta_del_conte_40.0015_18.4265.json,custom
+40.012548,18.432602,ov_nicola_s_bar_40.0125_18.4326,Nicola's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/nicolas_bar_40.0125_18.4326.json,custom
+40.011663,18.422729,ov_wonderwall_cafe_40.0117_18.4227,Wonderwall Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/wonderwall_cafe_40.0117_18.4227.json,custom
+40.009110,18.425546,ov_caffetteria_baccaro_40.0091_18.4255,Caffetteria Baccaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/caffetteria_baccaro_40.0091_18.4255.json,custom
+40.004933,18.427567,ov_delizie_in_contea_40.0049_18.4276,Delizie in Contea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/delizie_in_contea_40.0049_18.4276.json,custom
+40.005617,18.427522,ov_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/fonte_dei_messapi_40.0056_18.4275.json,custom
+40.007357,18.426751,ov_crazy_discount_40.0074_18.4268,Crazy Discount,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/crazy_discount_40.0074_18.4268.json,custom
+40.007360,18.427009,ov_quarta_caffe_40.0074_18.4270,Quarta Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/quarta_caffe_40.0074_18.4270.json,custom
+39.998338,18.420710,ov_nicola_s_bar_castro_39.9983_18.4207,Nicola's Bar Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/nicolas_bar_castro_39.9983_18.4207.json,custom
+39.998904,18.422219,ov_loc__argentiera_39.9989_18.4222,Loc. Argentiera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/loc_argentiera_39.9989_18.4222.json,custom
+40.000792,18.422789,ov_le_currenti_40.0008_18.4228,Le Currenti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/le_currenti_40.0008_18.4228.json,custom
+40.000646,18.425714,ov_molo_castro_40.0006_18.4257,Molo Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/molo_castro_40.0006_18.4257.json,custom
+40.001299,18.425833,ov_ilios_caf__40.0013_18.4258,Ilios Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/ilios_caf_40.0013_18.4258.json,custom
+40.001334,18.425658,ov_sottovento_bar_sul_mare___colazioni__pra_40.0013_18.4257,"Sottovento Bar Sul Mare | Colazioni, Pranzi, Aperitivi front",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/sottovento_bar_sul_mare_colazioni_pranzi_40.0013_18.4257.json,custom
+40.005586,18.427487,osm_fonte_dei_messapi_40.0056_18.4275,Fonte Dei Messapi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/fonte_dei_messapi_40.0056_18.4275.json,custom
+40.011816,18.422727,ov_centro_sportivo_polivalente_40.0118_18.4227,Centro Sportivo Polivalente,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/centro_sportivo_polivalente_40.0118_18.4227.json,custom
+40.005586,18.427297,ov_castello_di_castro_40.0056_18.4273,Castello di Castro,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/castello_di_castro_40.0056_18.4273.json,custom
+40.005670,18.427320,ov_museo_archeologico_castro_40.0057_18.4273,Museo Archeologico Castro,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castro/pages/museo_archeologico_castro_40.0057_18.4273.json,custom

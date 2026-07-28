@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # frigento -- bars_cafes
-41.000083,15.121246,ov_cal__bar_rosticceria_41.0001_15.1212,Calò Bar-Rosticceria,RESTAURANT,bar_cafe
-41.001422,15.119007,ov_bar_edicola_cancelliere_41.0014_15.1190,Bar Edicola Cancelliere,RESTAURANT,bar_cafe
-41.012225,15.099120,ov_caffe_vittoria_41.0122_15.0991,Caffe Vittoria,RESTAURANT,bar_cafe
-41.010598,15.098177,ov_memories_cafe_41.0106_15.0982,Memories Cafe,RESTAURANT,bar_cafe
-41.011791,15.100420,ov_il_baraccone_41.0118_15.1004,Il baraccone,RESTAURANT,bar_cafe
-41.039861,15.105822,ov_bar_paradiso_41.0399_15.1058,Bar Paradiso,RESTAURANT,bar_cafe
+41.000083,15.121246,ov_cal__bar_rosticceria_41.0001_15.1212,Calò Bar-Rosticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/cal_bar-rosticceria_41.0001_15.1212.json,custom
+41.001422,15.119007,ov_bar_edicola_cancelliere_41.0014_15.1190,Bar Edicola Cancelliere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/bar_edicola_cancelliere_41.0014_15.1190.json,custom
+41.012225,15.099120,ov_caffe_vittoria_41.0122_15.0991,Caffe Vittoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/caffe_vittoria_41.0122_15.0991.json,custom
+41.010598,15.098177,ov_memories_cafe_41.0106_15.0982,Memories Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/memories_cafe_41.0106_15.0982.json,custom
+41.011791,15.100420,ov_il_baraccone_41.0118_15.1004,Il baraccone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/il_baraccone_41.0118_15.1004.json,custom
+41.039861,15.105822,ov_bar_paradiso_41.0399_15.1058,Bar Paradiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/bar_paradiso_41.0399_15.1058.json,custom

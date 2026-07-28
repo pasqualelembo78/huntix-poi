@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # manfredonia -- landmarks
-41.596598,15.813735,ov_san_leonardo_basilica_41.5966_15.8137,San Leonardo Basilica,MONUMENT,monumento
-41.603427,15.845130,ov_museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451,Museo Storico dei Pompieri e della Croce Rossa Italiana,MUSEUM,monumento
-41.635689,15.923133,ov_museo_nazionale_archeologico_di_manfredo_41.6357_15.9231,Museo nazionale archeologico di Manfredonia,MUSEUM,monumento
-41.630311,15.921997,ov_castello_svevo_angioino_aragonese__manfr_41.6303_15.9220,"Castello Svevo Angioino Aragonese, Manfredonia.",MONUMENT,monumento
-41.630447,15.920494,ov_museo_nazionale_di_manfredonia_41.6304_15.9205,Museo nazionale di Manfredonia,MUSEUM,monumento
-41.628851,15.918444,ov_stele_daunie_41.6289_15.9184,Stele Daunie,MUSEUM,monumento
-41.627019,15.915045,ov_palazzo_dei_celestini___manfredonia_41.6270_15.9150,Palazzo dei Celestini - Manfredonia,MUSEUM,monumento
+41.596598,15.813735,ov_san_leonardo_basilica_41.5966_15.8137,San Leonardo Basilica,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/san_leonardo_basilica_41.5966_15.8137.json,custom
+41.603427,15.845130,ov_museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451,Museo Storico dei Pompieri e della Croce Rossa Italiana,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_storico_dei_pompieri_e_della_croce_41.6034_15.8451.json,custom
+41.635689,15.923133,ov_museo_nazionale_archeologico_di_manfredo_41.6357_15.9231,Museo nazionale archeologico di Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_nazionale_archeologico_di_manfredo_41.6357_15.9231.json,custom
+41.630311,15.921997,ov_castello_svevo_angioino_aragonese__manfr_41.6303_15.9220,"Castello Svevo Angioino Aragonese, Manfredonia.",MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/castello_svevo_angioino_aragonese_manfre_41.6303_15.9220.json,custom
+41.630447,15.920494,ov_museo_nazionale_di_manfredonia_41.6304_15.9205,Museo nazionale di Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/museo_nazionale_di_manfredonia_41.6304_15.9205.json,custom
+41.628851,15.918444,ov_stele_daunie_41.6289_15.9184,Stele Daunie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/stele_daunie_41.6289_15.9184.json,custom
+41.627019,15.915045,ov_palazzo_dei_celestini___manfredonia_41.6270_15.9150,Palazzo dei Celestini - Manfredonia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manfredonia/pages/palazzo_dei_celestini_-_manfredonia_41.6270_15.9150.json,custom

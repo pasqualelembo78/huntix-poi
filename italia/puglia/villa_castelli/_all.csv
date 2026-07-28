@@ -1,36 +1,36 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Villa Castelli -- Tutti
-40.578359,17.477601,osm_la_vecchia_caserma_40.5784_17.4776,La Vecchia Caserma,ristorante,ristorante
-40.582837,17.475484,ov_nero_a_meta_40.5828_17.4755,Nero a Meta,RESTAURANT,ristorante
-40.583309,17.476057,ov_pescheria_santa_filomena_sea_food_40.5833_17.4761,Pescheria Santa Filomena Sea Food,RESTAURANT,ristorante
-40.583321,17.473127,ov_felice_tieni_40.5833_17.4731,Felice Tieni,RESTAURANT,ristorante
-40.583265,17.473865,ov_da_enza_2_0_40.5833_17.4739,Da Enza 2.0,RESTAURANT,ristorante
-40.584765,17.475572,ov_tempus_bar_pizzeria_40.5848_17.4756,Tempus Bar Pizzeria,RESTAURANT,ristorante
-40.586010,17.476273,ov_pazzi_per_pizza_40.5860_17.4763,Pazzi Per Pizza,RESTAURANT,ristorante
-40.584997,17.471413,ov_trattoria_pizzeria_belvedere_40.5850_17.4714,Trattoria pizzeria Belvedere,RESTAURANT,ristorante
-40.572808,17.494426,ov_masseria_sciaiani_piccola_40.5728_17.4944,Masseria Sciaiani Piccola,RESTAURANT,ristorante
-40.581405,17.475670,ov_la_grotta_40.5814_17.4757,La Grotta,RESTAURANT,ristorante
-40.580575,17.474622,ov_braceria_concordia_40.5806_17.4746,Braceria Concordia,RESTAURANT,ristorante
-40.578730,17.476525,ov_l_antico_frantoio_40.5787_17.4765,L'antico Frantoio,RESTAURANT,ristorante
-40.578257,17.477643,ov_la_dolce_vita_40.5783_17.4776,La Dolce Vita,RESTAURANT,ristorante
-40.565027,17.478125,ov_villa_antoglia_40.5650_17.4781,Villa Antoglia,RESTAURANT,ristorante
-40.535461,17.477356,ov_masseria_relais_carnevale_40.5355_17.4774,Masseria Relais Carnevale,RESTAURANT,ristorante
-40.533808,17.478503,ov_coimbra_brothers_40.5338_17.4785,Coimbra Brothers,RESTAURANT,ristorante
-40.533244,17.478834,ov_la_madonnina_40.5332_17.4788,La Madonnina,RESTAURANT,ristorante
-40.582436,17.476880,ov_pasticceria_siena_40.5824_17.4769,Pasticceria Siena,RESTAURANT,bar_cafe
-40.586336,17.476257,ov_metropoliscafe__40.5863_17.4763,Metropoliscafe',RESTAURANT,bar_cafe
-40.586245,17.476346,ov_evento_cafe_40.5862_17.4763,Evento Cafe,RESTAURANT,bar_cafe
-40.586410,17.476353,ov_cosmopolitan_cafe_40.5864_17.4764,Cosmopolitan Cafe,RESTAURANT,bar_cafe
-40.580019,17.475797,ov_mauro_caff__40.5800_17.4758,Mauro Caffè,RESTAURANT,bar_cafe
-40.579386,17.475766,ov_la_gintoneria_40.5794_17.4758,La Gintoneria,RESTAURANT,bar_cafe
-40.579188,17.475893,ov_enoteca_uva_viva_40.5792_17.4759,Enoteca Uva Viva,RESTAURANT,bar_cafe
-40.579150,17.475420,ov_oresnack_40.5792_17.4754,OreSnack,RESTAURANT,bar_cafe
-40.579081,17.475300,ov_bar_piccolo_fiamma_40.5791_17.4753,Bar Piccolo Fiamma,RESTAURANT,bar_cafe
-40.578268,17.476157,ov_jollyblu_caf__bar_entertainement_40.5783_17.4762,JOLLYBLU café bar entertainement,RESTAURANT,bar_cafe
-40.578270,17.477756,ov_la_vecchia_caserma_40.5783_17.4778,La Vecchia Caserma,RESTAURANT,bar_cafe
-40.573775,17.474058,ov_bar_pit_stop21_40.5738_17.4741,Bar_pit_stop21,RESTAURANT,bar_cafe
-40.575372,17.475587,ov_las_vegas___bar___sala_slot___bet_40.5754_17.4756,LAS VEGAS   bar - sala slot - bet,RESTAURANT,bar_cafe
-40.584791,17.475551,osm_tempus_40.5848_17.4756,Tempus,bar_cafe,bar_cafe
-40.585797,17.474599,ov_asd_fly_land_40.5858_17.4746,Asd Fly Land,GYM,palestra
-40.526570,17.464590,ov_rella_sport_40.5266_17.4646,Rella Sport,GYM,palestra
-40.577926,17.475776,ov_castello_di_villa_castelli_40.5779_17.4758,Castello di Villa Castelli,MONUMENT,monumento
+40.582837,17.475484,ov_nero_a_meta_40.5828_17.4755,Nero a Meta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/nero_a_meta_40.5828_17.4755.json,custom
+40.583309,17.476057,ov_pescheria_santa_filomena_sea_food_40.5833_17.4761,Pescheria Santa Filomena Sea Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/pescheria_santa_filomena_sea_food_40.5833_17.4761.json,custom
+40.583321,17.473127,ov_felice_tieni_40.5833_17.4731,Felice Tieni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/felice_tieni_40.5833_17.4731.json,custom
+40.583265,17.473865,ov_da_enza_2_0_40.5833_17.4739,Da Enza 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/da_enza_20_40.5833_17.4739.json,custom
+40.584765,17.475572,ov_tempus_bar_pizzeria_40.5848_17.4756,Tempus Bar Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/tempus_bar_pizzeria_40.5848_17.4756.json,custom
+40.586010,17.476273,ov_pazzi_per_pizza_40.5860_17.4763,Pazzi Per Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/pazzi_per_pizza_40.5860_17.4763.json,custom
+40.584997,17.471413,ov_trattoria_pizzeria_belvedere_40.5850_17.4714,Trattoria pizzeria Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/trattoria_pizzeria_belvedere_40.5850_17.4714.json,custom
+40.572808,17.494426,ov_masseria_sciaiani_piccola_40.5728_17.4944,Masseria Sciaiani Piccola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/masseria_sciaiani_piccola_40.5728_17.4944.json,custom
+40.581405,17.475670,ov_la_grotta_40.5814_17.4757,La Grotta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_grotta_40.5814_17.4757.json,custom
+40.580575,17.474622,ov_braceria_concordia_40.5806_17.4746,Braceria Concordia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/braceria_concordia_40.5806_17.4746.json,custom
+40.578730,17.476525,ov_l_antico_frantoio_40.5787_17.4765,L'antico Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/lantico_frantoio_40.5787_17.4765.json,custom
+40.578257,17.477643,ov_la_dolce_vita_40.5783_17.4776,La Dolce Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_dolce_vita_40.5783_17.4776.json,custom
+40.565027,17.478125,ov_villa_antoglia_40.5650_17.4781,Villa Antoglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/villa_antoglia_40.5650_17.4781.json,custom
+40.535461,17.477356,ov_masseria_relais_carnevale_40.5355_17.4774,Masseria Relais Carnevale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/masseria_relais_carnevale_40.5355_17.4774.json,custom
+40.533808,17.478503,ov_coimbra_brothers_40.5338_17.4785,Coimbra Brothers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/coimbra_brothers_40.5338_17.4785.json,custom
+40.533244,17.478834,ov_la_madonnina_40.5332_17.4788,La Madonnina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_madonnina_40.5332_17.4788.json,custom
+40.578359,17.477601,osm_la_vecchia_caserma_40.5784_17.4776,La Vecchia Caserma,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_vecchia_caserma_40.5784_17.4776.json,custom
+40.582436,17.476880,ov_pasticceria_siena_40.5824_17.4769,Pasticceria Siena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/pasticceria_siena_40.5824_17.4769.json,custom
+40.586336,17.476257,ov_metropoliscafe__40.5863_17.4763,Metropoliscafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/metropoliscafe_40.5863_17.4763.json,custom
+40.586245,17.476346,ov_evento_cafe_40.5862_17.4763,Evento Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/evento_cafe_40.5862_17.4763.json,custom
+40.586410,17.476353,ov_cosmopolitan_cafe_40.5864_17.4764,Cosmopolitan Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/cosmopolitan_cafe_40.5864_17.4764.json,custom
+40.580019,17.475797,ov_mauro_caff__40.5800_17.4758,Mauro Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/mauro_caff_40.5800_17.4758.json,custom
+40.579386,17.475766,ov_la_gintoneria_40.5794_17.4758,La Gintoneria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_gintoneria_40.5794_17.4758.json,custom
+40.579188,17.475893,ov_enoteca_uva_viva_40.5792_17.4759,Enoteca Uva Viva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/enoteca_uva_viva_40.5792_17.4759.json,custom
+40.579150,17.475420,ov_oresnack_40.5792_17.4754,OreSnack,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/oresnack_40.5792_17.4754.json,custom
+40.579081,17.475300,ov_bar_piccolo_fiamma_40.5791_17.4753,Bar Piccolo Fiamma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/bar_piccolo_fiamma_40.5791_17.4753.json,custom
+40.578268,17.476157,ov_jollyblu_caf__bar_entertainement_40.5783_17.4762,JOLLYBLU café bar entertainement,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/jollyblu_caf_bar_entertainement_40.5783_17.4762.json,custom
+40.578270,17.477756,ov_la_vecchia_caserma_40.5783_17.4778,La Vecchia Caserma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/la_vecchia_caserma_40.5783_17.4778.json,custom
+40.573775,17.474058,ov_bar_pit_stop21_40.5738_17.4741,Bar_pit_stop21,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/barpitstop21_40.5738_17.4741.json,custom
+40.575372,17.475587,ov_las_vegas___bar___sala_slot___bet_40.5754_17.4756,LAS VEGAS   bar - sala slot - bet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/las_vegas_bar_-_sala_slot_-_bet_40.5754_17.4756.json,custom
+40.584791,17.475551,osm_tempus_40.5848_17.4756,Tempus,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/tempus_40.5848_17.4756.json,custom
+40.585797,17.474599,ov_asd_fly_land_40.5858_17.4746,Asd Fly Land,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/asd_fly_land_40.5858_17.4746.json,custom
+40.526570,17.464590,ov_rella_sport_40.5266_17.4646,Rella Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/rella_sport_40.5266_17.4646.json,custom
+40.577926,17.475776,ov_castello_di_villa_castelli_40.5779_17.4758,Castello di Villa Castelli,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villa_castelli/pages/castello_di_villa_castelli_40.5779_17.4758.json,custom

@@ -1,14 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tuglie -- restaurants
-40.067260,18.107198,osm_martinello_gourmet_40.0673_18.1072,Martinello Gourmet,ristorante,ristorante
-40.044360,18.137230,ov_ristobreak_vending_di_pantaleo_daniele_40.0444_18.1372,RistoBreak Vending di Pantaleo Daniele,RESTAURANT,ristorante
-40.067159,18.107118,ov_martinello_gourmet_40.0672_18.1071,Martinello Gourmet,RESTAURANT,ristorante
-40.069298,18.099157,ov_la_fenice_40.0693_18.0992,La Fenice,RESTAURANT,ristorante
-40.073355,18.099915,ov_pizzeria_skipper_40.0734_18.0999,Pizzeria Skipper,RESTAURANT,ristorante
-40.072712,18.096848,ov_sfilatineria_pizzeria_la_salentina_40.0727_18.0968,Sfilatineria Pizzeria La Salentina,RESTAURANT,ristorante
-40.072191,18.096881,ov_thuje_ristorante_40.0722_18.0969,Thuje Ristorante,RESTAURANT,ristorante
-40.078875,18.075350,ov_tenuta_la_fenice_40.0789_18.0754,Tenuta La Fenice,RESTAURANT,ristorante
-40.076305,18.100012,ov_origini_40.0763_18.1000,Origini,RESTAURANT,ristorante
-40.075015,18.090287,ov_gio_pizza_40.0750_18.0903,Gio Pizza,RESTAURANT,ristorante
-40.073703,18.093919,ov_da_zio_pino_40.0737_18.0939,Da Zio Pino,RESTAURANT,ristorante
-40.084058,18.097995,ov_giove_pizza___sport_40.0841_18.0980,Giove Pizza & Sport,RESTAURANT,ristorante
+40.044360,18.137230,ov_ristobreak_vending_di_pantaleo_daniele_40.0444_18.1372,RistoBreak Vending di Pantaleo Daniele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/ristobreak_vending_di_pantaleo_daniele_40.0444_18.1372.json,custom
+40.067159,18.107118,ov_martinello_gourmet_40.0672_18.1071,Martinello Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/martinello_gourmet_40.0672_18.1071.json,custom
+40.069298,18.099157,ov_la_fenice_40.0693_18.0992,La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/la_fenice_40.0693_18.0992.json,custom
+40.073355,18.099915,ov_pizzeria_skipper_40.0734_18.0999,Pizzeria Skipper,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/pizzeria_skipper_40.0734_18.0999.json,custom
+40.072712,18.096848,ov_sfilatineria_pizzeria_la_salentina_40.0727_18.0968,Sfilatineria Pizzeria La Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/sfilatineria_pizzeria_la_salentina_40.0727_18.0968.json,custom
+40.072191,18.096881,ov_thuje_ristorante_40.0722_18.0969,Thuje Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/thuje_ristorante_40.0722_18.0969.json,custom
+40.078875,18.075350,ov_tenuta_la_fenice_40.0789_18.0754,Tenuta La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/tenuta_la_fenice_40.0789_18.0754.json,custom
+40.076305,18.100012,ov_origini_40.0763_18.1000,Origini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/origini_40.0763_18.1000.json,custom
+40.075015,18.090287,ov_gio_pizza_40.0750_18.0903,Gio Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/gio_pizza_40.0750_18.0903.json,custom
+40.073703,18.093919,ov_da_zio_pino_40.0737_18.0939,Da Zio Pino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/da_zio_pino_40.0737_18.0939.json,custom
+40.084058,18.097995,ov_giove_pizza___sport_40.0841_18.0980,Giove Pizza & Sport,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tuglie/pages/giove_pizza_sport_40.0841_18.0980.json,custom

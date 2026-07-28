@@ -1,23 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rodi_garganico -- bars_cafes
-41.928647,15.876512,ov_lido_ponente_rodi_di_pollet_matteo_41.9286_15.8765,Lido Ponente Rodi di Pollet Matteo,RESTAURANT,bar_cafe
-41.926809,15.880070,ov_bar_covo_club_41.9268_15.8801,Bar Covo Club,RESTAURANT,bar_cafe
-41.927463,15.880057,ov_eni_cafe__rodi_garganico_41.9275_15.8801,Eni Cafe’ Rodi Garganico,RESTAURANT,bar_cafe
-41.928398,15.882538,ov_il_baretto_41.9284_15.8825,Il Baretto,RESTAURANT,bar_cafe
-41.923785,15.836964,ov_lido_benessere_41.9238_15.8370,Lido Benessere,RESTAURANT,bar_cafe
-41.924590,15.840718,ov_esco_bar_beach_41.9246_15.8407,Esco Bar Beach,RESTAURANT,bar_cafe
-41.922241,15.825120,ov_caffe_blu_41.9222_15.8251,Caffe Blu,RESTAURANT,bar_cafe
-41.921223,15.824983,ov_da_cesare_bar_ristorante_asporto_41.9212_15.8250,Da Cesare Bar Ristorante Asporto,RESTAURANT,bar_cafe
-41.921830,15.827560,ov_chiosco_stella_del_sud_41.9218_15.8276,Chiosco Stella del Sud,RESTAURANT,bar_cafe
-41.929460,15.884522,ov_american_bar_41.9295_15.8845,American Bar,RESTAURANT,bar_cafe
-41.928096,15.884724,ov_non_solo_caffe_41.9281_15.8847,Non Solo Caffe,RESTAURANT,bar_cafe
-41.928205,15.884340,ov_caffetteria_bar_belvedere_41.9282_15.8843,Caffetteria Bar Belvedere,RESTAURANT,bar_cafe
-41.927951,15.884676,ov_bar_guido_41.9280_15.8847,Bar Guido,RESTAURANT,bar_cafe
-41.929240,15.889190,ov_movida_mare_41.9292_15.8892,Movida Mare,RESTAURANT,bar_cafe
-41.931936,15.889718,ov_paposci__on_the_road_41.9319_15.8897,Paposcià on the Road,RESTAURANT,bar_cafe
-41.932029,15.889706,ov_fifteen_lounge_bar_41.9320_15.8897,Fifteen Lounge Bar,RESTAURANT,bar_cafe
-41.931589,15.888855,ov_prosit_41.9316_15.8889,Prosit,RESTAURANT,bar_cafe
-41.930061,15.884240,ov_il_chioschetto_biricchino_41.9301_15.8842,Il Chioschetto Biricchino,RESTAURANT,bar_cafe
-41.929660,15.883660,ov_alkemy_41.9297_15.8837,Alkemy,RESTAURANT,bar_cafe
-41.929516,15.883629,ov_la_bussola__rodi_g_co_41.9295_15.8836,LA BUSSOLA  Rodi G.co,RESTAURANT,bar_cafe
-41.930121,15.900618,osm_cala_paracuru_41.9301_15.9006,Cala Paracuru,bar_cafe,bar_cafe
+41.928647,15.876512,ov_lido_ponente_rodi_di_pollet_matteo_41.9286_15.8765,Lido Ponente Rodi di Pollet Matteo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/lido_ponente_rodi_di_pollet_matteo_41.9286_15.8765.json,custom
+41.926809,15.880070,ov_bar_covo_club_41.9268_15.8801,Bar Covo Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/bar_covo_club_41.9268_15.8801.json,custom
+41.927463,15.880057,ov_eni_cafe__rodi_garganico_41.9275_15.8801,Eni Cafe’ Rodi Garganico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/eni_cafe_rodi_garganico_41.9275_15.8801.json,custom
+41.928398,15.882538,ov_il_baretto_41.9284_15.8825,Il Baretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/il_baretto_41.9284_15.8825.json,custom
+41.923785,15.836964,ov_lido_benessere_41.9238_15.8370,Lido Benessere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/lido_benessere_41.9238_15.8370.json,custom
+41.924590,15.840718,ov_esco_bar_beach_41.9246_15.8407,Esco Bar Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/esco_bar_beach_41.9246_15.8407.json,custom
+41.922241,15.825120,ov_caffe_blu_41.9222_15.8251,Caffe Blu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/caffe_blu_41.9222_15.8251.json,custom
+41.921223,15.824983,ov_da_cesare_bar_ristorante_asporto_41.9212_15.8250,Da Cesare Bar Ristorante Asporto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/da_cesare_bar_ristorante_asporto_41.9212_15.8250.json,custom
+41.921830,15.827560,ov_chiosco_stella_del_sud_41.9218_15.8276,Chiosco Stella del Sud,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/chiosco_stella_del_sud_41.9218_15.8276.json,custom
+41.929460,15.884522,ov_american_bar_41.9295_15.8845,American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/american_bar_41.9295_15.8845.json,custom
+41.928096,15.884724,ov_non_solo_caffe_41.9281_15.8847,Non Solo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/non_solo_caffe_41.9281_15.8847.json,custom
+41.928205,15.884340,ov_caffetteria_bar_belvedere_41.9282_15.8843,Caffetteria Bar Belvedere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/caffetteria_bar_belvedere_41.9282_15.8843.json,custom
+41.927951,15.884676,ov_bar_guido_41.9280_15.8847,Bar Guido,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/bar_guido_41.9280_15.8847.json,custom
+41.929240,15.889190,ov_movida_mare_41.9292_15.8892,Movida Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/movida_mare_41.9292_15.8892.json,custom
+41.931936,15.889718,ov_paposci__on_the_road_41.9319_15.8897,Paposcià on the Road,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/paposci_on_the_road_41.9319_15.8897.json,custom
+41.932029,15.889706,ov_fifteen_lounge_bar_41.9320_15.8897,Fifteen Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/fifteen_lounge_bar_41.9320_15.8897.json,custom
+41.931589,15.888855,ov_prosit_41.9316_15.8889,Prosit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/prosit_41.9316_15.8889.json,custom
+41.930061,15.884240,ov_il_chioschetto_biricchino_41.9301_15.8842,Il Chioschetto Biricchino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/il_chioschetto_biricchino_41.9301_15.8842.json,custom
+41.929660,15.883660,ov_alkemy_41.9297_15.8837,Alkemy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/alkemy_41.9297_15.8837.json,custom
+41.929516,15.883629,ov_la_bussola__rodi_g_co_41.9295_15.8836,LA BUSSOLA  Rodi G.co,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/la_bussola_rodi_gco_41.9295_15.8836.json,custom
+41.930121,15.900618,osm_cala_paracuru_41.9301_15.9006,Cala Paracuru,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rodi_garganico/pages/cala_paracuru_41.9301_15.9006.json,custom

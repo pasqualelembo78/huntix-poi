@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lustra -- bars_cafes
-40.272153,15.125517,ov_ponti_rossi_lustra_salerno_40.2722_15.1255,Ponti rossi Lustra Salerno,RESTAURANT,bar_cafe
-40.257916,15.126305,ov_bivio_santa_lucia_40.2579_15.1263,Bivio Santa Lucia,RESTAURANT,bar_cafe
-40.293891,15.058778,ov_josephine__s_house_rooms_40.2939_15.0588,Josephine' s house Rooms,RESTAURANT,bar_cafe
+40.272153,15.125517,ov_ponti_rossi_lustra_salerno_40.2722_15.1255,Ponti rossi Lustra Salerno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lustra/pages/ponti_rossi_lustra_salerno_40.2722_15.1255.json,custom
+40.257916,15.126305,ov_bivio_santa_lucia_40.2579_15.1263,Bivio Santa Lucia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lustra/pages/bivio_santa_lucia_40.2579_15.1263.json,custom
+40.293891,15.058778,ov_josephine__s_house_rooms_40.2939_15.0588,Josephine' s house Rooms,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lustra/pages/josephine_s_house_rooms_40.2939_15.0588.json,custom

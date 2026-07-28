@@ -1,0 +1,18 @@
+{
+  "banner": { "icon": "🍕", "title": "{name}", "subtitle": "Ristorante", "color": "#C62828" },
+  "sections": [
+    {"type":"menu","title":"Pizze","items":[
+      {"name":"Margherita","price":"\u20ac5,00","emoji":"\uD83C\uDF55","action":{"type":"consume","need":"hunger","gain":30}},
+      {"name":"Diavola","price":"\u20ac6,00","emoji":"\uD83C\uDF36\uFE0F","action":{"type":"consume","need":"hunger","gain":32}},
+      {"name":"Capricciosa","price":"\u20ac7,00","emoji":"\uD83E\uDD5A","action":{"type":"consume","need":"hunger","gain":33}}
+    ]},
+    {"type":"menu","title":"Bevande","items":[
+      {"name":"Acqua","price":"\u20ac1,00","emoji":"\uD83D\uDCA7","action":{"type":"consume","need":"thirst","gain":20}},
+      {"name":"Birra","price":"\u20ac4,00","emoji":"\uD83C\uDF7A","action":{"type":"consume","need":"thirst","gain":25}},
+      {"name":"Vino","price":"\u20ac5,00","emoji":"\uD83C\uDF77","action":{"type":"consume","need":"thirst","gain":30}}
+    ]},
+    {"type":"text","title":"Orari","content":"Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"},
+    {"type":"action","title":"Ordina","emoji":"\uD83D\uDEEB\uFE0F","action":{"type":"consume","need":"hunger","gain":40}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

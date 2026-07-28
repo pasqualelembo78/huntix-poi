@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # avetrana -- gyms
-40.359772,17.727494,ov_newmeeting_avetrana_40.3598_17.7275,NewMeeting Avetrana,GYM,palestra
-40.347074,17.724159,ov_tigers_cage_club_40.3471_17.7242,Tigers Cage Club,GYM,palestra
-40.349339,17.733913,ov_social_point_avetrana_40.3493_17.7339,Social-point Avetrana,GYM,palestra
+40.359772,17.727494,ov_newmeeting_avetrana_40.3598_17.7275,NewMeeting Avetrana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/avetrana/pages/newmeeting_avetrana_40.3598_17.7275.json,custom
+40.347074,17.724159,ov_tigers_cage_club_40.3471_17.7242,Tigers Cage Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/avetrana/pages/tigers_cage_club_40.3471_17.7242.json,custom
+40.349339,17.733913,ov_social_point_avetrana_40.3493_17.7339,Social-point Avetrana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/avetrana/pages/social-point_avetrana_40.3493_17.7339.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santeramo_in_colle -- hospitals
-40.794680,16.762040,ov_radiologia_giba_2_srl_40.7947_16.7620,Radiologia giba 2 srl,HOSPITAL,hospital
-40.795406,16.758121,ov_postazione_118_santeramo_40.7954_16.7581,Postazione 118 Santeramo,HOSPITAL,hospital
-40.795616,16.758051,ov_ospedale_monte_iacoviello_40.7956_16.7581,Ospedale Monte Iacoviello,HOSPITAL,hospital
+40.794680,16.762040,ov_radiologia_giba_2_srl_40.7947_16.7620,Radiologia giba 2 srl,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/radiologia_giba_2_srl_40.7947_16.7620.json,custom
+40.795406,16.758121,ov_postazione_118_santeramo_40.7954_16.7581,Postazione 118 Santeramo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/postazione_118_santeramo_40.7954_16.7581.json,custom
+40.795616,16.758051,ov_ospedale_monte_iacoviello_40.7956_16.7581,Ospedale Monte Iacoviello,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santeramo_in_colle/pages/ospedale_monte_iacoviello_40.7956_16.7581.json,custom

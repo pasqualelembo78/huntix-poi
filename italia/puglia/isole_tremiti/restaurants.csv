@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # isole_tremiti -- restaurants
-42.114102,15.487286,ov_a_furmicula_discorestaurant__isole_tremi_42.1141_15.4873,A furmicula discorestaurant  isole tremiti,RESTAURANT,ristorante
-42.116738,15.488675,ov_da_elio_fish_bar_and_restaurant_42.1167_15.4887,Da Elio Fish Bar and Restaurant,RESTAURANT,ristorante
-42.114925,15.490045,ov_ristorante_la_fenice_42.1149_15.4900,Ristorante La Fenice,RESTAURANT,ristorante
-42.114580,15.490100,ov_luna_matana_42.1146_15.4901,Luna Matana,RESTAURANT,ristorante
-42.112850,15.489128,ov_ristorante_la_nassa_42.1129_15.4891,Ristorante La Nassa,RESTAURANT,ristorante
-42.112928,15.488826,ov_l_altro_faro_42.1129_15.4888,L'Altro Faro,RESTAURANT,ristorante
-42.114761,15.491022,ov_ristorante_belvedere_42.1148_15.4910,Ristorante Belvedere,RESTAURANT,ristorante
-42.120211,15.496642,ov_ristorante_la_livornese_42.1202_15.4966,Ristorante La Livornese,RESTAURANT,ristorante
-42.117446,15.493770,ov_tana_del_cuoco_42.1174_15.4938,Tana Del Cuoco,RESTAURANT,ristorante
-42.117415,15.493733,ov_a_smerza_bar_ristoro_42.1174_15.4937,A Smerza Bar Ristoro,RESTAURANT,ristorante
-42.119907,15.502096,ov_la_conchiglia_42.1199_15.5021,La Conchiglia,RESTAURANT,ristorante
-42.119714,15.502230,ov_caffe__della_marina_42.1197_15.5022,Caffe' della Marina,RESTAURANT,ristorante
-42.119836,15.502207,ov_l_architiello_isole_tremiti_42.1198_15.5022,L'architiello Isole Tremiti,RESTAURANT,ristorante
-42.120049,15.497325,ov_lapprodo_risto_bar_isole_tremiti_42.1200_15.4973,Lapprodo Risto-Bar Isole Tremiti,RESTAURANT,ristorante
-42.120665,15.504589,ov_il_torrione_42.1207_15.5046,Il Torrione,RESTAURANT,ristorante
+42.114102,15.487286,ov_a_furmicula_discorestaurant__isole_tremi_42.1141_15.4873,A furmicula discorestaurant  isole tremiti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/a_furmicula_discorestaurant_isole_tremit_42.1141_15.4873.json,custom
+42.116738,15.488675,ov_da_elio_fish_bar_and_restaurant_42.1167_15.4887,Da Elio Fish Bar and Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/da_elio_fish_bar_and_restaurant_42.1167_15.4887.json,custom
+42.114925,15.490045,ov_ristorante_la_fenice_42.1149_15.4900,Ristorante La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/ristorante_la_fenice_42.1149_15.4900.json,custom
+42.114580,15.490100,ov_luna_matana_42.1146_15.4901,Luna Matana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/luna_matana_42.1146_15.4901.json,custom
+42.112850,15.489128,ov_ristorante_la_nassa_42.1129_15.4891,Ristorante La Nassa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/ristorante_la_nassa_42.1129_15.4891.json,custom
+42.112928,15.488826,ov_l_altro_faro_42.1129_15.4888,L'Altro Faro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/laltro_faro_42.1129_15.4888.json,custom
+42.114761,15.491022,ov_ristorante_belvedere_42.1148_15.4910,Ristorante Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/ristorante_belvedere_42.1148_15.4910.json,custom
+42.120211,15.496642,ov_ristorante_la_livornese_42.1202_15.4966,Ristorante La Livornese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/ristorante_la_livornese_42.1202_15.4966.json,custom
+42.117446,15.493770,ov_tana_del_cuoco_42.1174_15.4938,Tana Del Cuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/tana_del_cuoco_42.1174_15.4938.json,custom
+42.117415,15.493733,ov_a_smerza_bar_ristoro_42.1174_15.4937,A Smerza Bar Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/a_smerza_bar_ristoro_42.1174_15.4937.json,custom
+42.119907,15.502096,ov_la_conchiglia_42.1199_15.5021,La Conchiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/la_conchiglia_42.1199_15.5021.json,custom
+42.119714,15.502230,ov_caffe__della_marina_42.1197_15.5022,Caffe' della Marina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/caffe_della_marina_42.1197_15.5022.json,custom
+42.119836,15.502207,ov_l_architiello_isole_tremiti_42.1198_15.5022,L'architiello Isole Tremiti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/larchitiello_isole_tremiti_42.1198_15.5022.json,custom
+42.120049,15.497325,ov_lapprodo_risto_bar_isole_tremiti_42.1200_15.4973,Lapprodo Risto-Bar Isole Tremiti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/lapprodo_risto-bar_isole_tremiti_42.1200_15.4973.json,custom
+42.120665,15.504589,ov_il_torrione_42.1207_15.5046,Il Torrione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/isole_tremiti/pages/il_torrione_42.1207_15.5046.json,custom

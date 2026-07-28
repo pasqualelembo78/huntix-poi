@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sannicandro Garganico -- Tutti
-41.853912,15.459905,ov_asp_dr__vincenzo_zaccagnino_41.8539_15.4599,Asp Dr. Vincenzo Zaccagnino,RESTAURANT,ristorante
-41.924714,15.611983,ov_mare_torre_mileto____41.9247_15.6120,Mare Torre Mileto :),RESTAURANT,ristorante
-41.923706,15.609185,ov_ristorante_la_gardenia___torre_mileto_41.9237_15.6092,Ristorante La Gardenia - Torre Mileto,RESTAURANT,ristorante
-41.834781,15.581360,ov_tenuta_de_luca_41.8348_15.5814,Tenuta De Luca,RESTAURANT,ristorante
-41.823045,15.550271,ov_pizzeria_ristorante_provola_e_pepe_41.8230_15.5503,Pizzeria Ristorante Provola e Pepe,RESTAURANT,ristorante
-41.822563,15.550199,ov_madera_blanca_41.8226_15.5502,Madera Blanca,RESTAURANT,ristorante
-41.926356,15.616121,ov_bar_lido_centrale_41.9264_15.6161,Bar Lido Centrale,RESTAURANT,bar_cafe
-41.924499,15.611982,ov_bar_pertosa_41.9245_15.6120,bar Pertosa,RESTAURANT,bar_cafe
-41.919830,15.602930,ov_bakery_caf__41.9198_15.6029,Bakery Cafè,RESTAURANT,bar_cafe
+41.853912,15.459905,ov_asp_dr__vincenzo_zaccagnino_41.8539_15.4599,Asp Dr. Vincenzo Zaccagnino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/asp_dr_vincenzo_zaccagnino_41.8539_15.4599.json,custom
+41.924714,15.611983,ov_mare_torre_mileto____41.9247_15.6120,Mare Torre Mileto :),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/mare_torre_mileto__41.9247_15.6120.json,custom
+41.923706,15.609185,ov_ristorante_la_gardenia___torre_mileto_41.9237_15.6092,Ristorante La Gardenia - Torre Mileto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/ristorante_la_gardenia_-_torre_mileto_41.9237_15.6092.json,custom
+41.834781,15.581360,ov_tenuta_de_luca_41.8348_15.5814,Tenuta De Luca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/tenuta_de_luca_41.8348_15.5814.json,custom
+41.823045,15.550271,ov_pizzeria_ristorante_provola_e_pepe_41.8230_15.5503,Pizzeria Ristorante Provola e Pepe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/pizzeria_ristorante_provola_e_pepe_41.8230_15.5503.json,custom
+41.822563,15.550199,ov_madera_blanca_41.8226_15.5502,Madera Blanca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/madera_blanca_41.8226_15.5502.json,custom
+41.926356,15.616121,ov_bar_lido_centrale_41.9264_15.6161,Bar Lido Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/bar_lido_centrale_41.9264_15.6161.json,custom
+41.924499,15.611982,ov_bar_pertosa_41.9245_15.6120,bar Pertosa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/bar_pertosa_41.9245_15.6120.json,custom
+41.919830,15.602930,ov_bakery_caf__41.9198_15.6029,Bakery Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sannicandro_garganico/pages/bakery_caf_41.9198_15.6029.json,custom

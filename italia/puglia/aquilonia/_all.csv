@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Aquilonia -- Tutti
-40.986644,15.476101,ov_circolo_pescacciatore_40.9866_15.4761,Circolo Pescacciatore,RESTAURANT,ristorante
-40.987038,15.468810,ov_nuova_carbonara_40.9870_15.4688,Nuova Carbonara,RESTAURANT,ristorante
-40.986852,15.471577,ov_belvedere_40.9869_15.4716,Belvedere,RESTAURANT,ristorante
-40.992079,15.489854,ov_nuova_carbonara_40.9921_15.4899,Nuova Carbonara,RESTAURANT,ristorante
-40.987171,15.471994,ov_jump_club_40.9872_15.4720,Jump club,RESTAURANT,bar_cafe
-40.987572,15.472884,ov_bar_centrale_40.9876_15.4729,Bar Centrale,RESTAURANT,bar_cafe
-40.987699,15.472320,ov_caffe_del_corso_40.9877_15.4723,Caffe del Corso,RESTAURANT,bar_cafe
-40.987643,15.473015,ov_le_chalet_bar_aquilonia_40.9876_15.4730,Le Chalet Bar Aquilonia,RESTAURANT,bar_cafe
-40.986740,15.477970,ov_ru_ral_birra_artigianale_irpina_40.9867_15.4780,RU.RAL Birra Artigianale Irpina,RESTAURANT,bar_cafe
-40.979898,15.468750,ov_asd_libellula_danza_40.9799_15.4688,Asd-Libellula Danza,GYM,palestra
-40.993910,15.488943,ov_parco_archeologico_di_carbonara_40.9939_15.4889,Parco Archeologico di Carbonara,MUSEUM,monumento
-40.988833,15.476735,ov_meda___museo_etnografico_di_aquilonia_be_40.9888_15.4767,MEDA - Museo Etnografico di Aquilonia Beniamino Tartaglia,MUSEUM,monumento
+40.986644,15.476101,ov_circolo_pescacciatore_40.9866_15.4761,Circolo Pescacciatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/circolo_pescacciatore_40.9866_15.4761.json,custom
+40.987038,15.468810,ov_nuova_carbonara_40.9870_15.4688,Nuova Carbonara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/nuova_carbonara_40.9870_15.4688.json,custom
+40.986852,15.471577,ov_belvedere_40.9869_15.4716,Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/belvedere_40.9869_15.4716.json,custom
+40.992079,15.489854,ov_nuova_carbonara_40.9921_15.4899,Nuova Carbonara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/nuova_carbonara_40.9921_15.4899.json,custom
+40.987171,15.471994,ov_jump_club_40.9872_15.4720,Jump club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/jump_club_40.9872_15.4720.json,custom
+40.987572,15.472884,ov_bar_centrale_40.9876_15.4729,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/bar_centrale_40.9876_15.4729.json,custom
+40.987699,15.472320,ov_caffe_del_corso_40.9877_15.4723,Caffe del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/caffe_del_corso_40.9877_15.4723.json,custom
+40.987643,15.473015,ov_le_chalet_bar_aquilonia_40.9876_15.4730,Le Chalet Bar Aquilonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/le_chalet_bar_aquilonia_40.9876_15.4730.json,custom
+40.986740,15.477970,ov_ru_ral_birra_artigianale_irpina_40.9867_15.4780,RU.RAL Birra Artigianale Irpina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/rural_birra_artigianale_irpina_40.9867_15.4780.json,custom
+40.979898,15.468750,ov_asd_libellula_danza_40.9799_15.4688,Asd-Libellula Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/asd-libellula_danza_40.9799_15.4688.json,custom
+40.993910,15.488943,ov_parco_archeologico_di_carbonara_40.9939_15.4889,Parco Archeologico di Carbonara,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/parco_archeologico_di_carbonara_40.9939_15.4889.json,custom
+40.988833,15.476735,ov_meda___museo_etnografico_di_aquilonia_be_40.9888_15.4767,MEDA - Museo Etnografico di Aquilonia Beniamino Tartaglia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aquilonia/pages/meda_-_museo_etnografico_di_aquilonia_be_40.9888_15.4767.json,custom

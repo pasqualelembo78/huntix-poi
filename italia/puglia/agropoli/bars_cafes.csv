@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # agropoli -- bars_cafes
-40.365238,15.000276,ov_luna_beach_40.3652_15.0003,luna beach,RESTAURANT,bar_cafe
-40.378420,15.002699,ov_bar_area_17_40.3784_15.0027,Bar Area 17,RESTAURANT,bar_cafe
-40.363370,15.006510,ov_la_terrazza_sul_mare_40.3634_15.0065,La Terrazza Sul Mare,RESTAURANT,bar_cafe
-40.384722,15.022547,ov_bar_359_40.3847_15.0225,Bar 359,RESTAURANT,bar_cafe
-40.384358,15.019033,ov_bar_yogo_caff__40.3844_15.0190,Bar Yogo Caffè,RESTAURANT,bar_cafe
-40.387200,15.027365,ov_tale___quale_bistrot_40.3872_15.0274,Tale & Quale Bistrot,RESTAURANT,bar_cafe
-40.389213,15.026601,ov_king_bar_40.3892_15.0266,King Bar,RESTAURANT,bar_cafe
-40.385503,15.026951,ov_bar_hopera_40.3855_15.0270,Bar Hopera,RESTAURANT,bar_cafe
-40.336530,15.013640,ov_tutti_i_caff__che_vuoi_40.3365_15.0136,Tutti i caffè che vuoi,RESTAURANT,bar_cafe
-40.338280,15.014370,ov_agropoli_movida_40.3383_15.0144,Agropoli Movida,RESTAURANT,bar_cafe
-40.362120,15.000034,ov_gold_cafe_40.3621_15.0000,Gold Cafe,RESTAURANT,bar_cafe
-40.361720,15.000002,ov_core___core_bar_40.3617_15.0000,Core & Core Bar,RESTAURANT,bar_cafe
-40.335673,15.003246,ov_zanzibar_40.3357_15.0032,Zanzibar,RESTAURANT,bar_cafe
-40.334000,15.004000,ov_new_chalet_del_pittore_40.3340_15.0040,New Chalet del Pittore,RESTAURANT,bar_cafe
-40.362129,15.000063,osm_gold_caf__40.3621_15.0001,Gold Cafè,bar_cafe,bar_cafe
+40.365238,15.000276,ov_luna_beach_40.3652_15.0003,luna beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/luna_beach_40.3652_15.0003.json,custom
+40.378420,15.002699,ov_bar_area_17_40.3784_15.0027,Bar Area 17,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/bar_area_17_40.3784_15.0027.json,custom
+40.363370,15.006510,ov_la_terrazza_sul_mare_40.3634_15.0065,La Terrazza Sul Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/la_terrazza_sul_mare_40.3634_15.0065.json,custom
+40.384722,15.022547,ov_bar_359_40.3847_15.0225,Bar 359,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/bar_359_40.3847_15.0225.json,custom
+40.384358,15.019033,ov_bar_yogo_caff__40.3844_15.0190,Bar Yogo Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/bar_yogo_caff_40.3844_15.0190.json,custom
+40.387200,15.027365,ov_tale___quale_bistrot_40.3872_15.0274,Tale & Quale Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/tale_quale_bistrot_40.3872_15.0274.json,custom
+40.389213,15.026601,ov_king_bar_40.3892_15.0266,King Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/king_bar_40.3892_15.0266.json,custom
+40.385503,15.026951,ov_bar_hopera_40.3855_15.0270,Bar Hopera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/bar_hopera_40.3855_15.0270.json,custom
+40.336530,15.013640,ov_tutti_i_caff__che_vuoi_40.3365_15.0136,Tutti i caffè che vuoi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/tutti_i_caff_che_vuoi_40.3365_15.0136.json,custom
+40.338280,15.014370,ov_agropoli_movida_40.3383_15.0144,Agropoli Movida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/agropoli_movida_40.3383_15.0144.json,custom
+40.362120,15.000034,ov_gold_cafe_40.3621_15.0000,Gold Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/gold_cafe_40.3621_15.0000.json,custom
+40.361720,15.000002,ov_core___core_bar_40.3617_15.0000,Core & Core Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/core_core_bar_40.3617_15.0000.json,custom
+40.335673,15.003246,ov_zanzibar_40.3357_15.0032,Zanzibar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/zanzibar_40.3357_15.0032.json,custom
+40.334000,15.004000,ov_new_chalet_del_pittore_40.3340_15.0040,New Chalet del Pittore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/new_chalet_del_pittore_40.3340_15.0040.json,custom
+40.362129,15.000063,osm_gold_caf__40.3621_15.0001,Gold Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/gold_caf_40.3621_15.0001.json,custom

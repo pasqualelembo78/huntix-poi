@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # novoli -- restaurants
-40.357572,18.080487,ov_la_cava_40.3576_18.0805,La Cava,RESTAURANT,ristorante
-40.366162,18.069319,ov_la_corte_del_convento_40.3662_18.0693,La Corte del Convento,RESTAURANT,ristorante
-40.375280,18.049175,ov_pizzeria_da_antonio_40.3753_18.0492,Pizzeria Da Antonio,RESTAURANT,ristorante
-40.374740,18.045509,ov_pizzeria_trattoria_da_luigino_la_locanda_40.3747_18.0455,Pizzeria trattoria da Luigino la locanda intra la curte,RESTAURANT,ristorante
-40.374500,18.044498,ov_il_quadrifoglio_40.3745_18.0445,Il Quadrifoglio,RESTAURANT,ristorante
-40.374562,18.051561,ov_mangia_n_terra_e_stusciate_subbra_40.3746_18.0516,Mangia N'Terra E Stusciate Subbra,RESTAURANT,ristorante
-40.379382,18.046933,ov_pizzeria_la_capricciosa_40.3794_18.0469,Pizzeria La Capricciosa,RESTAURANT,ristorante
-40.381191,18.058918,ov_tenuta_la_corte_40.3812_18.0589,Tenuta La Corte,RESTAURANT,ristorante
-40.380801,18.051188,ov_lu_cantieri_agriturismo_40.3808_18.0512,Lu Cantieri Agriturismo,RESTAURANT,ristorante
-40.380877,18.046114,ov_teglia_40.3809_18.0461,Teglia,RESTAURANT,ristorante
+40.357572,18.080487,ov_la_cava_40.3576_18.0805,La Cava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/la_cava_40.3576_18.0805.json,custom
+40.366162,18.069319,ov_la_corte_del_convento_40.3662_18.0693,La Corte del Convento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/la_corte_del_convento_40.3662_18.0693.json,custom
+40.375280,18.049175,ov_pizzeria_da_antonio_40.3753_18.0492,Pizzeria Da Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/pizzeria_da_antonio_40.3753_18.0492.json,custom
+40.374740,18.045509,ov_pizzeria_trattoria_da_luigino_la_locanda_40.3747_18.0455,Pizzeria trattoria da Luigino la locanda intra la curte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/pizzeria_trattoria_da_luigino_la_locanda_40.3747_18.0455.json,custom
+40.374500,18.044498,ov_il_quadrifoglio_40.3745_18.0445,Il Quadrifoglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/il_quadrifoglio_40.3745_18.0445.json,custom
+40.374562,18.051561,ov_mangia_n_terra_e_stusciate_subbra_40.3746_18.0516,Mangia N'Terra E Stusciate Subbra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/mangia_nterra_e_stusciate_subbra_40.3746_18.0516.json,custom
+40.379382,18.046933,ov_pizzeria_la_capricciosa_40.3794_18.0469,Pizzeria La Capricciosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/pizzeria_la_capricciosa_40.3794_18.0469.json,custom
+40.381191,18.058918,ov_tenuta_la_corte_40.3812_18.0589,Tenuta La Corte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/tenuta_la_corte_40.3812_18.0589.json,custom
+40.380801,18.051188,ov_lu_cantieri_agriturismo_40.3808_18.0512,Lu Cantieri Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/lu_cantieri_agriturismo_40.3808_18.0512.json,custom
+40.380877,18.046114,ov_teglia_40.3809_18.0461,Teglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/novoli/pages/teglia_40.3809_18.0461.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # portocannone -- restaurants
-41.918377,15.007033,ov_ristorante_arcobaleno_41.9184_15.0070,Ristorante Arcobaleno,RESTAURANT,ristorante
-41.916740,15.009520,ov_ambarab__41.9167_15.0095,Ambarabà,RESTAURANT,ristorante
-41.914570,15.009830,ov_sua_eccellenza_molise___prodotti_tipici_41.9146_15.0098,Sua Eccellenza Molise | Prodotti Tipici,RESTAURANT,ristorante
+41.918377,15.007033,ov_ristorante_arcobaleno_41.9184_15.0070,Ristorante Arcobaleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/portocannone/pages/ristorante_arcobaleno_41.9184_15.0070.json,custom
+41.916740,15.009520,ov_ambarab__41.9167_15.0095,Ambarabà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/portocannone/pages/ambarab_41.9167_15.0095.json,custom
+41.914570,15.009830,ov_sua_eccellenza_molise___prodotti_tipici_41.9146_15.0098,Sua Eccellenza Molise | Prodotti Tipici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/portocannone/pages/sua_eccellenza_molise_prodotti_tipici_41.9146_15.0098.json,custom

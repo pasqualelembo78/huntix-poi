@@ -1,23 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # gioia_del_colle -- gyms
-40.815183,16.946124,ov_centro_equestre_dg_arabian_stable_40.8152_16.9461,Centro Equestre DG Arabian Stable,GYM,palestra
-40.810899,16.929367,ov_box_zeta_i_s_s_d__a_r_l__40.8109_16.9294,Box Zeta I S.S.D. a R.L.,GYM,palestra
-40.811678,16.928331,ov_bailemos_accademia_di_ballo_40.8117_16.9283,Bailemos accademia di ballo,GYM,palestra
-40.807052,16.921613,ov_palestra_comunale_a__kouznetsov_40.8071_16.9216,Palestra Comunale A. Kouznetsov,GYM,palestra
-40.802310,16.930190,ov_ambito_di_gioia_del_colle___cap_minori_g_40.8023_16.9302,Ambito di Gioia del Colle - CAP Minori Gioia del Colle,GYM,palestra
-40.805376,16.933200,ov_palasport_pinuccio_capurso_40.8054_16.9332,Palasport Pinuccio Capurso,GYM,palestra
-40.804822,16.923760,ov_centro_sportivo_padre_semeria_40.8048_16.9238,Centro Sportivo Padre Semeria,GYM,palestra
-40.799590,16.915110,ov_6__energym_40.7996_16.9151,6+ Energym,GYM,palestra
-40.797241,16.918571,ov_bakhita_fitness___pilates_40.7972_16.9186,Bakhita Fitness & Pilates,GYM,palestra
-40.798610,16.912870,ov_california_palestra_40.7986_16.9129,California Palestra,GYM,palestra
-40.799082,16.913742,ov_ass__la_bachata_40.7991_16.9137,Ass. La Bachata,GYM,palestra
-40.798580,16.917751,ov_associazione_yoga_zen_e_benessere_40.7986_16.9178,Associazione Yoga Zen e Benessere,GYM,palestra
-40.798230,16.925740,ov_les_arts_asd___oltre_danza___40.7982_16.9257,Les Arts ASD - Oltre Danza -,GYM,palestra
-40.797842,16.930147,ov_e_motion_pole_studio_40.7978_16.9301,E-motion pole studio,GYM,palestra
-40.798790,16.927120,ov_pascal_fitness_gym_40.7988_16.9271,Pascal fitness gym,GYM,palestra
-40.800830,16.939794,ov_green_park_40.8008_16.9398,Green Park,GYM,palestra
-40.797008,16.918762,ov_mantra_yoga_studio_40.7970_16.9188,Mantra Yoga Studio,GYM,palestra
-40.795010,16.917630,ov_asd_new_arabesque_40.7950_16.9176,Asd New Arabesque,GYM,palestra
-40.796021,16.921586,ov_laboratorio_del_movimento_40.7960_16.9216,Laboratorio Del Movimento,GYM,palestra
-40.794057,16.924085,ov_fit_studio_gioia_del_colle_40.7941_16.9241,Fit Studio Gioia del Colle,GYM,palestra
-40.792940,16.919744,ov_alma_loca_asd_40.7929_16.9197,Alma Loca Asd,GYM,palestra
+40.815183,16.946124,ov_centro_equestre_dg_arabian_stable_40.8152_16.9461,Centro Equestre DG Arabian Stable,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/centro_equestre_dg_arabian_stable_40.8152_16.9461.json,custom
+40.810899,16.929367,ov_box_zeta_i_s_s_d__a_r_l__40.8109_16.9294,Box Zeta I S.S.D. a R.L.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/box_zeta_i_ssd_a_rl_40.8109_16.9294.json,custom
+40.811678,16.928331,ov_bailemos_accademia_di_ballo_40.8117_16.9283,Bailemos accademia di ballo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bailemos_accademia_di_ballo_40.8117_16.9283.json,custom
+40.807052,16.921613,ov_palestra_comunale_a__kouznetsov_40.8071_16.9216,Palestra Comunale A. Kouznetsov,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/palestra_comunale_a_kouznetsov_40.8071_16.9216.json,custom
+40.802310,16.930190,ov_ambito_di_gioia_del_colle___cap_minori_g_40.8023_16.9302,Ambito di Gioia del Colle - CAP Minori Gioia del Colle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ambito_di_gioia_del_colle_-_cap_minori_g_40.8023_16.9302.json,custom
+40.805376,16.933200,ov_palasport_pinuccio_capurso_40.8054_16.9332,Palasport Pinuccio Capurso,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/palasport_pinuccio_capurso_40.8054_16.9332.json,custom
+40.804822,16.923760,ov_centro_sportivo_padre_semeria_40.8048_16.9238,Centro Sportivo Padre Semeria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/centro_sportivo_padre_semeria_40.8048_16.9238.json,custom
+40.799590,16.915110,ov_6__energym_40.7996_16.9151,6+ Energym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/6_energym_40.7996_16.9151.json,custom
+40.797241,16.918571,ov_bakhita_fitness___pilates_40.7972_16.9186,Bakhita Fitness & Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/bakhita_fitness_pilates_40.7972_16.9186.json,custom
+40.798610,16.912870,ov_california_palestra_40.7986_16.9129,California Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/california_palestra_40.7986_16.9129.json,custom
+40.799082,16.913742,ov_ass__la_bachata_40.7991_16.9137,Ass. La Bachata,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/ass_la_bachata_40.7991_16.9137.json,custom
+40.798580,16.917751,ov_associazione_yoga_zen_e_benessere_40.7986_16.9178,Associazione Yoga Zen e Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/associazione_yoga_zen_e_benessere_40.7986_16.9178.json,custom
+40.798230,16.925740,ov_les_arts_asd___oltre_danza___40.7982_16.9257,Les Arts ASD - Oltre Danza -,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/les_arts_asd_-_oltre_danza_-_40.7982_16.9257.json,custom
+40.797842,16.930147,ov_e_motion_pole_studio_40.7978_16.9301,E-motion pole studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/e-motion_pole_studio_40.7978_16.9301.json,custom
+40.798790,16.927120,ov_pascal_fitness_gym_40.7988_16.9271,Pascal fitness gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/pascal_fitness_gym_40.7988_16.9271.json,custom
+40.800830,16.939794,ov_green_park_40.8008_16.9398,Green Park,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/green_park_40.8008_16.9398.json,custom
+40.797008,16.918762,ov_mantra_yoga_studio_40.7970_16.9188,Mantra Yoga Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/mantra_yoga_studio_40.7970_16.9188.json,custom
+40.795010,16.917630,ov_asd_new_arabesque_40.7950_16.9176,Asd New Arabesque,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/asd_new_arabesque_40.7950_16.9176.json,custom
+40.796021,16.921586,ov_laboratorio_del_movimento_40.7960_16.9216,Laboratorio Del Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/laboratorio_del_movimento_40.7960_16.9216.json,custom
+40.794057,16.924085,ov_fit_studio_gioia_del_colle_40.7941_16.9241,Fit Studio Gioia del Colle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/fit_studio_gioia_del_colle_40.7941_16.9241.json,custom
+40.792940,16.919744,ov_alma_loca_asd_40.7929_16.9197,Alma Loca Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gioia_del_colle/pages/alma_loca_asd_40.7929_16.9197.json,custom

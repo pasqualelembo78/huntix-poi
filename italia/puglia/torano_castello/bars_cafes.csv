@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # torano_castello -- bars_cafes
-39.504684,16.148157,ov_bar_italia_39.5047_16.1482,Bar Italia,RESTAURANT,bar_cafe
-39.504943,16.145238,ov_manhattan_bar_di_eugiorgio_39.5049_16.1452,Manhattan Bar Di Eugiorgio,RESTAURANT,bar_cafe
-39.509340,16.174980,ov_caffe_del_corso_firmo_39.5093_16.1750,Caffe Del Corso Firmo,RESTAURANT,bar_cafe
-39.510127,16.176665,ov_tabacchino_vetere_benito_39.5101_16.1767,Tabacchino Vetere Benito,RESTAURANT,bar_cafe
-39.512347,16.177568,ov_genux_lab_di_eugenio_fazio_39.5123_16.1776,Genux Lab Di Eugenio Fazio,RESTAURANT,bar_cafe
-39.512896,16.177969,ov_bar__la_perla__sartano_39.5129_16.1780,Bar  La Perla  Sartano,RESTAURANT,bar_cafe
-39.512335,16.178983,ov_majoma_s_lounge_bar_39.5123_16.1790,Majoma's Lounge Bar,RESTAURANT,bar_cafe
-39.508481,16.212530,ov_luna_rossa_39.5085_16.2125,LUNA ROSSA,RESTAURANT,bar_cafe
-39.515949,16.215853,ov_gruppo_padre_pio_bar_ristorante_b_b_39.5159_16.2159,Gruppo Padre Pio Bar-Ristorante B&B,RESTAURANT,bar_cafe
+39.504684,16.148157,ov_bar_italia_39.5047_16.1482,Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/bar_italia_39.5047_16.1482.json,custom
+39.504943,16.145238,ov_manhattan_bar_di_eugiorgio_39.5049_16.1452,Manhattan Bar Di Eugiorgio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/manhattan_bar_di_eugiorgio_39.5049_16.1452.json,custom
+39.509340,16.174980,ov_caffe_del_corso_firmo_39.5093_16.1750,Caffe Del Corso Firmo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/caffe_del_corso_firmo_39.5093_16.1750.json,custom
+39.510127,16.176665,ov_tabacchino_vetere_benito_39.5101_16.1767,Tabacchino Vetere Benito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/tabacchino_vetere_benito_39.5101_16.1767.json,custom
+39.512347,16.177568,ov_genux_lab_di_eugenio_fazio_39.5123_16.1776,Genux Lab Di Eugenio Fazio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/genux_lab_di_eugenio_fazio_39.5123_16.1776.json,custom
+39.512896,16.177969,ov_bar__la_perla__sartano_39.5129_16.1780,Bar  La Perla  Sartano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/bar_la_perla_sartano_39.5129_16.1780.json,custom
+39.512335,16.178983,ov_majoma_s_lounge_bar_39.5123_16.1790,Majoma's Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/majomas_lounge_bar_39.5123_16.1790.json,custom
+39.508481,16.212530,ov_luna_rossa_39.5085_16.2125,LUNA ROSSA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/luna_rossa_39.5085_16.2125.json,custom
+39.515949,16.215853,ov_gruppo_padre_pio_bar_ristorante_b_b_39.5159_16.2159,Gruppo Padre Pio Bar-Ristorante B&B,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torano_castello/pages/gruppo_padre_pio_bar-ristorante_bb_39.5159_16.2159.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # pescopagano -- gyms
-40.836157,15.391460,ov_montecalvo_sport_village_40.8362_15.3915,Montecalvo Sport Village,GYM,palestra
-40.836078,15.398639,ov_palestra_comunale_di_pescopagano_40.8361_15.3986,Palestra Comunale di Pescopagano,GYM,palestra
+40.836157,15.391460,ov_montecalvo_sport_village_40.8362_15.3915,Montecalvo Sport Village,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pescopagano/pages/montecalvo_sport_village_40.8362_15.3915.json,custom
+40.836078,15.398639,ov_palestra_comunale_di_pescopagano_40.8361_15.3986,Palestra Comunale di Pescopagano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pescopagano/pages/palestra_comunale_di_pescopagano_40.8361_15.3986.json,custom

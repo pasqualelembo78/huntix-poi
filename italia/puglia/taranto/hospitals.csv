@@ -1,32 +1,32 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # taranto -- hospitals
-40.473904,17.245295,osm_azienda_sanitaria_locale_ta_1_40.4739_17.2453,Azienda Sanitaria Locale TA/1,hospital,hospital
-40.521622,17.283068,osm_cittadella_della_carita__40.5216_17.2831,Cittadella della Carita',hospital,hospital
-40.471004,17.241722,osm_dipartimento_dimsalute_mentale_40.4710_17.2417,Dipartimento dimsalute mentale,hospital,hospital
-40.521262,17.272655,osm_guardia_medica___servizio_di_continuit___40.5213_17.2727,Guardia medica - Servizio di Continuità Assistenziale,hospital,hospital
-40.464443,17.248579,osm_ospedale_ss__annunziata_40.4644_17.2486,Ospedale SS. Annunziata,hospital,hospital
-40.447690,17.275314,osm_casa_di_cura_villa_verde_40.4477_17.2753,Casa di cura Villa Verde,hospital,hospital
-40.401594,17.270696,ov_poliambulatorio_tramontone_40.4016_17.2707,Poliambulatorio Tramontone,HOSPITAL,hospital
-40.404111,17.269138,ov_asl_poliambulatorio_40.4041_17.2691,ASL POLIAMBULATORIO,HOSPITAL,hospital
-40.440389,17.262091,ov_casa_di_cura_bernardini_40.4404_17.2621,Casa di Cura Bernardini,HOSPITAL,hospital
-40.440550,17.262470,ov_prof__chiappetta_andrologo__sessuologo_t_40.4406_17.2625,"Prof. Chiappetta Andrologo, Sessuologo Taranto",HOSPITAL,hospital
-40.441570,17.261760,ov_pacchettisalute_it_40.4416_17.2618,Pacchettisalute.it,HOSPITAL,hospital
-40.457278,17.264462,ov_centro_di_medicina_dello_sport_di_tarant_40.4573_17.2645,Centro Di Medicina Dello Sport Di Taranto,HOSPITAL,hospital
-40.464768,17.246668,ov_ospedale_nord_centralino_40.4648_17.2467,Ospedale Nord Centralino,HOSPITAL,hospital
-40.464911,17.248707,ov_most_holy_annunciation_hospital_40.4649_17.2487,Most Holy Annunciation Hospital,HOSPITAL,hospital
-40.463703,17.248047,ov_anaao_assomed_azienda_ospedaliera_ss_ann_40.4637_17.2480,Anaao Assomed Azienda Ospedaliera Ss.Annunziata,HOSPITAL,hospital
-40.462111,17.261098,ov_centro_medico_40.4621_17.2611,Centro Medico,HOSPITAL,hospital
-40.466318,17.260484,ov_csm_reintegra_40.4663_17.2605,CSM Reintegra,HOSPITAL,hospital
-40.467544,17.260430,ov_idrocolon_terapia_40.4675_17.2604,Idrocolon terapia,HOSPITAL,hospital
-40.470980,17.243106,ov_mediterraneo_medical_center_40.4710_17.2431,Mediterraneo Medical Center,HOSPITAL,hospital
-40.485017,17.200789,ov_ex_ospedale_testa_40.4850_17.2008,ex Ospedale Testa,HOSPITAL,hospital
-40.472677,17.247164,ov_ospedale_principale_militare_marittimo_40.4727_17.2472,Ospedale Principale Militare Marittimo,HOSPITAL,hospital
-40.490306,17.230004,ov_carlo_fiorino_hospital_40.4903_17.2300,Carlo Fiorino Hospital,HOSPITAL,hospital
-40.489932,17.229903,ov_taranto_ospedale_san_camillo_40.4899_17.2299,Taranto Ospedale San Camillo,HOSPITAL,hospital
-40.528170,17.266740,ov_ospedale_moscati_taranto_40.5282_17.2667,Ospedale moscati Taranto,HOSPITAL,hospital
-40.538775,17.276745,ov_ospedale_san_giuseppe_moscati_40.5388_17.2767,Ospedale San Giuseppe Moscati,HOSPITAL,hospital
-40.538628,17.276703,ov_ospedale_nord_40.5386_17.2767,Ospedale Nord,HOSPITAL,hospital
-40.464239,17.269307,ov_gvm___d_amore_hospital_40.4642_17.2693,GVM - D'Amore Hospital,HOSPITAL,hospital
-40.464345,17.269370,ov_gvm___d_amore_hospital_40.4643_17.2694,GVM - D'Amore Hospital,HOSPITAL,hospital
-40.460244,17.269736,ov_sicur_med_s_r_l_sicurezza_e_medicina_del_40.4602_17.2697,Sicur-Med s.r.l Sicurezza e Medicina del Lavoro,HOSPITAL,hospital
-40.436220,17.266700,ov_ospedale_bernardini_40.4362_17.2667,Ospedale Bernardini,HOSPITAL,hospital
+40.401594,17.270696,ov_poliambulatorio_tramontone_40.4016_17.2707,Poliambulatorio Tramontone,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/poliambulatorio_tramontone_40.4016_17.2707.json,custom
+40.404111,17.269138,ov_asl_poliambulatorio_40.4041_17.2691,ASL POLIAMBULATORIO,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/asl_poliambulatorio_40.4041_17.2691.json,custom
+40.440389,17.262091,ov_casa_di_cura_bernardini_40.4404_17.2621,Casa di Cura Bernardini,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/casa_di_cura_bernardini_40.4404_17.2621.json,custom
+40.440550,17.262470,ov_prof__chiappetta_andrologo__sessuologo_t_40.4406_17.2625,"Prof. Chiappetta Andrologo, Sessuologo Taranto",HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/prof_chiappetta_andrologo_sessuologo_tar_40.4406_17.2625.json,custom
+40.441570,17.261760,ov_pacchettisalute_it_40.4416_17.2618,Pacchettisalute.it,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/pacchettisaluteit_40.4416_17.2618.json,custom
+40.457278,17.264462,ov_centro_di_medicina_dello_sport_di_tarant_40.4573_17.2645,Centro Di Medicina Dello Sport Di Taranto,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/centro_di_medicina_dello_sport_di_tarant_40.4573_17.2645.json,custom
+40.464768,17.246668,ov_ospedale_nord_centralino_40.4648_17.2467,Ospedale Nord Centralino,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_nord_centralino_40.4648_17.2467.json,custom
+40.464911,17.248707,ov_most_holy_annunciation_hospital_40.4649_17.2487,Most Holy Annunciation Hospital,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/most_holy_annunciation_hospital_40.4649_17.2487.json,custom
+40.463703,17.248047,ov_anaao_assomed_azienda_ospedaliera_ss_ann_40.4637_17.2480,Anaao Assomed Azienda Ospedaliera Ss.Annunziata,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/anaao_assomed_azienda_ospedaliera_ssannu_40.4637_17.2480.json,custom
+40.462111,17.261098,ov_centro_medico_40.4621_17.2611,Centro Medico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/centro_medico_40.4621_17.2611.json,custom
+40.466318,17.260484,ov_csm_reintegra_40.4663_17.2605,CSM Reintegra,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/csm_reintegra_40.4663_17.2605.json,custom
+40.467544,17.260430,ov_idrocolon_terapia_40.4675_17.2604,Idrocolon terapia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/idrocolon_terapia_40.4675_17.2604.json,custom
+40.470980,17.243106,ov_mediterraneo_medical_center_40.4710_17.2431,Mediterraneo Medical Center,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/mediterraneo_medical_center_40.4710_17.2431.json,custom
+40.485017,17.200789,ov_ex_ospedale_testa_40.4850_17.2008,ex Ospedale Testa,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ex_ospedale_testa_40.4850_17.2008.json,custom
+40.472677,17.247164,ov_ospedale_principale_militare_marittimo_40.4727_17.2472,Ospedale Principale Militare Marittimo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_principale_militare_marittimo_40.4727_17.2472.json,custom
+40.490306,17.230004,ov_carlo_fiorino_hospital_40.4903_17.2300,Carlo Fiorino Hospital,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/carlo_fiorino_hospital_40.4903_17.2300.json,custom
+40.489932,17.229903,ov_taranto_ospedale_san_camillo_40.4899_17.2299,Taranto Ospedale San Camillo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/taranto_ospedale_san_camillo_40.4899_17.2299.json,custom
+40.528170,17.266740,ov_ospedale_moscati_taranto_40.5282_17.2667,Ospedale moscati Taranto,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_moscati_taranto_40.5282_17.2667.json,custom
+40.538775,17.276745,ov_ospedale_san_giuseppe_moscati_40.5388_17.2767,Ospedale San Giuseppe Moscati,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_san_giuseppe_moscati_40.5388_17.2767.json,custom
+40.538628,17.276703,ov_ospedale_nord_40.5386_17.2767,Ospedale Nord,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_nord_40.5386_17.2767.json,custom
+40.464239,17.269307,ov_gvm___d_amore_hospital_40.4642_17.2693,GVM - D'Amore Hospital,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/gvm_-_damore_hospital_40.4642_17.2693.json,custom
+40.464345,17.269370,ov_gvm___d_amore_hospital_40.4643_17.2694,GVM - D'Amore Hospital,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/gvm_-_damore_hospital_40.4643_17.2694.json,custom
+40.460244,17.269736,ov_sicur_med_s_r_l_sicurezza_e_medicina_del_40.4602_17.2697,Sicur-Med s.r.l Sicurezza e Medicina del Lavoro,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/sicur-med_srl_sicurezza_e_medicina_del_l_40.4602_17.2697.json,custom
+40.436220,17.266700,ov_ospedale_bernardini_40.4362_17.2667,Ospedale Bernardini,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_bernardini_40.4362_17.2667.json,custom
+40.473904,17.245295,osm_azienda_sanitaria_locale_ta_1_40.4739_17.2453,Azienda Sanitaria Locale TA/1,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/azienda_sanitaria_locale_ta1_40.4739_17.2453.json,custom
+40.521622,17.283068,osm_cittadella_della_carita__40.5216_17.2831,Cittadella della Carita',hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/cittadella_della_carita_40.5216_17.2831.json,custom
+40.471004,17.241722,osm_dipartimento_dimsalute_mentale_40.4710_17.2417,Dipartimento dimsalute mentale,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/dipartimento_dimsalute_mentale_40.4710_17.2417.json,custom
+40.521262,17.272655,osm_guardia_medica___servizio_di_continuit___40.5213_17.2727,Guardia medica - Servizio di Continuità Assistenziale,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/guardia_medica_-_servizio_di_continuit_a_40.5213_17.2727.json,custom
+40.464443,17.248579,osm_ospedale_ss__annunziata_40.4644_17.2486,Ospedale SS. Annunziata,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/ospedale_ss_annunziata_40.4644_17.2486.json,custom
+40.447690,17.275314,osm_casa_di_cura_villa_verde_40.4477_17.2753,Casa di cura Villa Verde,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/taranto/pages/casa_di_cura_villa_verde_40.4477_17.2753.json,custom

@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # serre -- bars_cafes
-40.581120,15.188210,ov_gg_coffee_40.5811_15.1882,GG coffee,RESTAURANT,bar_cafe
-40.582451,15.186675,ov_gerry_s_bar_di_gerardo_grippo_40.5825_15.1867,Gerry's Bar di Gerardo Grippo,RESTAURANT,bar_cafe
-40.582123,15.184994,ov_gran_caffe_san_pietro_40.5821_15.1850,Gran Caffe San Pietro,RESTAURANT,bar_cafe
-40.582086,15.184804,ov_bar_mio_40.5821_15.1848,Bar Mio,RESTAURANT,bar_cafe
-40.582505,15.184845,ov_lady_tennent_s_40.5825_15.1848,Lady Tennent's,RESTAURANT,bar_cafe
-40.583724,15.187377,ov_betinsidecaf__40.5837_15.1874,BetinsideCafè,RESTAURANT,bar_cafe
-40.594788,15.128531,ov_do_diesis_bar_40.5948_15.1285,Do Diesis Bar,RESTAURANT,bar_cafe
-40.594893,15.128407,ov_garden_bar_serre_40.5949_15.1284,Garden Bar Serre,RESTAURANT,bar_cafe
+40.581120,15.188210,ov_gg_coffee_40.5811_15.1882,GG coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/gg_coffee_40.5811_15.1882.json,custom
+40.582451,15.186675,ov_gerry_s_bar_di_gerardo_grippo_40.5825_15.1867,Gerry's Bar di Gerardo Grippo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/gerrys_bar_di_gerardo_grippo_40.5825_15.1867.json,custom
+40.582123,15.184994,ov_gran_caffe_san_pietro_40.5821_15.1850,Gran Caffe San Pietro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/gran_caffe_san_pietro_40.5821_15.1850.json,custom
+40.582086,15.184804,ov_bar_mio_40.5821_15.1848,Bar Mio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/bar_mio_40.5821_15.1848.json,custom
+40.582505,15.184845,ov_lady_tennent_s_40.5825_15.1848,Lady Tennent's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/lady_tennents_40.5825_15.1848.json,custom
+40.583724,15.187377,ov_betinsidecaf__40.5837_15.1874,BetinsideCafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/betinsidecaf_40.5837_15.1874.json,custom
+40.594788,15.128531,ov_do_diesis_bar_40.5948_15.1285,Do Diesis Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/do_diesis_bar_40.5948_15.1285.json,custom
+40.594893,15.128407,ov_garden_bar_serre_40.5949_15.1284,Garden Bar Serre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serre/pages/garden_bar_serre_40.5949_15.1284.json,custom

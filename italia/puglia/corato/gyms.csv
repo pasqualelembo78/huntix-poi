@@ -1,31 +1,31 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corato -- gyms
-41.097177,16.327105,ov_yoga_shala_corato_41.0972_16.3271,Yoga Shala Corato,GYM,palestra
-41.094320,16.330250,ov_scuola_di_equitazione_adriano_quacquarel_41.0943_16.3302,Scuola di Equitazione Adriano Quacquarelli,GYM,palestra
-41.073347,16.347667,ov_circolo_ippico_together_asd_41.0733_16.3477,Circolo Ippico TogetheR ASD,GYM,palestra
-41.075499,16.358995,ov_pony_club_il_nero_luminoso_41.0755_16.3590,Pony club Il Nero Luminoso,GYM,palestra
-41.002184,16.301651,ov_il_nero_luminoso___accademia_nazionale_d_41.0022_16.3017,Il Nero Luminoso - Accademia Nazionale di Arte Equestre,GYM,palestra
-41.151075,16.407465,ov_scuola_danzarte_2_0_41.1511_16.4075,Scuola Danzarte 2.0,GYM,palestra
-41.152409,16.406366,ov_in_forma_fitness_conditioning_41.1524_16.4064,In Forma Fitness Conditioning,GYM,palestra
-41.156300,16.405500,ov_ballet_academy_41.1563_16.4055,Ballet Academy,GYM,palestra
-41.156956,16.404945,ov_more_life_asd_41.1570_16.4049,More Life ASD,GYM,palestra
-41.162580,16.379280,ov_sqvad_41.1626_16.3793,SQVAD,GYM,palestra
-41.160240,16.412008,ov_palestra_new_generation_gym_41.1602_16.4120,Palestra New Generation Gym,GYM,palestra
-41.158886,16.411244,ov_hume_41.1589_16.4112,Hume,GYM,palestra
-41.160581,16.412411,ov_scuola_di_danza_corato_arte_e_balletto_41.1606_16.4124,Scuola di Danza Corato Arte e Balletto,GYM,palestra
-41.157702,16.413535,ov_dance_lab_41.1577_16.4135,Dance Lab,GYM,palestra
-41.157427,16.415352,ov_enjoy_pilates_corato_41.1574_16.4154,Enjoy Pilates Corato,GYM,palestra
-41.156717,16.413308,ov_lola_hassan_studio_41.1567_16.4133,Lola Hassan studio,GYM,palestra
-41.156547,16.417205,ov_life_club_of_di_nunno_nunzio_41.1565_16.4172,Life Club Of Di Nunno Nunzio,GYM,palestra
-41.154003,16.414330,ov_club_corato_neroazzurro_41.1540_16.4143,Club Corato neroazzurro,GYM,palestra
-41.145387,16.413031,ov_palalosito_41.1454_16.4130,Palalosito,GYM,palestra
-41.145621,16.416628,ov_isochinetik_41.1456_16.4166,Isochinetik,GYM,palestra
-41.146144,16.413924,ov_wellness_garden_a_s_d_41.1461_16.4139,Wellness Garden A.S.D,GYM,palestra
-41.146520,16.413050,ov_habaneraclub_scuolacaraibica_mimmogenero_41.1465_16.4130,Habaneraclub Scuolacaraibica Mimmogenerosi,GYM,palestra
-41.146940,16.417460,ov_ma_di__fisiolab_41.1469_16.4175,Ma.Di. Fisiolab,GYM,palestra
-41.142847,16.407280,ov_piazza_palermo_41.1428_16.4073,Piazza Palermo,GYM,palestra
-41.138894,16.399976,ov_sanmagnopadel_41.1389_16.4000,Sanmagnopadel,GYM,palestra
-41.135494,16.421404,ov_v3nom_gym_corato_41.1355_16.4214,V3nom Gym Corato,GYM,palestra
-41.136444,16.419710,ov_acsd_euphoria_dance_41.1364_16.4197,ACSD Euphoria Dance,GYM,palestra
-41.137271,16.412637,ov_tigers_gym_41.1373_16.4126,Tigers Gym,GYM,palestra
-41.139244,16.414369,ov_buena_vista_dance___fitness_41.1392_16.4144,Buena Vista Dance & Fitness,GYM,palestra
+41.097177,16.327105,ov_yoga_shala_corato_41.0972_16.3271,Yoga Shala Corato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/yoga_shala_corato_41.0972_16.3271.json,custom
+41.094320,16.330250,ov_scuola_di_equitazione_adriano_quacquarel_41.0943_16.3302,Scuola di Equitazione Adriano Quacquarelli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/scuola_di_equitazione_adriano_quacquarel_41.0943_16.3302.json,custom
+41.073347,16.347667,ov_circolo_ippico_together_asd_41.0733_16.3477,Circolo Ippico TogetheR ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/circolo_ippico_together_asd_41.0733_16.3477.json,custom
+41.075499,16.358995,ov_pony_club_il_nero_luminoso_41.0755_16.3590,Pony club Il Nero Luminoso,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/pony_club_il_nero_luminoso_41.0755_16.3590.json,custom
+41.002184,16.301651,ov_il_nero_luminoso___accademia_nazionale_d_41.0022_16.3017,Il Nero Luminoso - Accademia Nazionale di Arte Equestre,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/il_nero_luminoso_-_accademia_nazionale_d_41.0022_16.3017.json,custom
+41.151075,16.407465,ov_scuola_danzarte_2_0_41.1511_16.4075,Scuola Danzarte 2.0,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/scuola_danzarte_20_41.1511_16.4075.json,custom
+41.152409,16.406366,ov_in_forma_fitness_conditioning_41.1524_16.4064,In Forma Fitness Conditioning,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/in_forma_fitness_conditioning_41.1524_16.4064.json,custom
+41.156300,16.405500,ov_ballet_academy_41.1563_16.4055,Ballet Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/ballet_academy_41.1563_16.4055.json,custom
+41.156956,16.404945,ov_more_life_asd_41.1570_16.4049,More Life ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/more_life_asd_41.1570_16.4049.json,custom
+41.162580,16.379280,ov_sqvad_41.1626_16.3793,SQVAD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/sqvad_41.1626_16.3793.json,custom
+41.160240,16.412008,ov_palestra_new_generation_gym_41.1602_16.4120,Palestra New Generation Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/palestra_new_generation_gym_41.1602_16.4120.json,custom
+41.158886,16.411244,ov_hume_41.1589_16.4112,Hume,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/hume_41.1589_16.4112.json,custom
+41.160581,16.412411,ov_scuola_di_danza_corato_arte_e_balletto_41.1606_16.4124,Scuola di Danza Corato Arte e Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/scuola_di_danza_corato_arte_e_balletto_41.1606_16.4124.json,custom
+41.157702,16.413535,ov_dance_lab_41.1577_16.4135,Dance Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/dance_lab_41.1577_16.4135.json,custom
+41.157427,16.415352,ov_enjoy_pilates_corato_41.1574_16.4154,Enjoy Pilates Corato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/enjoy_pilates_corato_41.1574_16.4154.json,custom
+41.156717,16.413308,ov_lola_hassan_studio_41.1567_16.4133,Lola Hassan studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/lola_hassan_studio_41.1567_16.4133.json,custom
+41.156547,16.417205,ov_life_club_of_di_nunno_nunzio_41.1565_16.4172,Life Club Of Di Nunno Nunzio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/life_club_of_di_nunno_nunzio_41.1565_16.4172.json,custom
+41.154003,16.414330,ov_club_corato_neroazzurro_41.1540_16.4143,Club Corato neroazzurro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/club_corato_neroazzurro_41.1540_16.4143.json,custom
+41.145387,16.413031,ov_palalosito_41.1454_16.4130,Palalosito,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/palalosito_41.1454_16.4130.json,custom
+41.145621,16.416628,ov_isochinetik_41.1456_16.4166,Isochinetik,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/isochinetik_41.1456_16.4166.json,custom
+41.146144,16.413924,ov_wellness_garden_a_s_d_41.1461_16.4139,Wellness Garden A.S.D,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/wellness_garden_asd_41.1461_16.4139.json,custom
+41.146520,16.413050,ov_habaneraclub_scuolacaraibica_mimmogenero_41.1465_16.4130,Habaneraclub Scuolacaraibica Mimmogenerosi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/habaneraclub_scuolacaraibica_mimmogenero_41.1465_16.4130.json,custom
+41.146940,16.417460,ov_ma_di__fisiolab_41.1469_16.4175,Ma.Di. Fisiolab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/madi_fisiolab_41.1469_16.4175.json,custom
+41.142847,16.407280,ov_piazza_palermo_41.1428_16.4073,Piazza Palermo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/piazza_palermo_41.1428_16.4073.json,custom
+41.138894,16.399976,ov_sanmagnopadel_41.1389_16.4000,Sanmagnopadel,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/sanmagnopadel_41.1389_16.4000.json,custom
+41.135494,16.421404,ov_v3nom_gym_corato_41.1355_16.4214,V3nom Gym Corato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/v3nom_gym_corato_41.1355_16.4214.json,custom
+41.136444,16.419710,ov_acsd_euphoria_dance_41.1364_16.4197,ACSD Euphoria Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/acsd_euphoria_dance_41.1364_16.4197.json,custom
+41.137271,16.412637,ov_tigers_gym_41.1373_16.4126,Tigers Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/tigers_gym_41.1373_16.4126.json,custom
+41.139244,16.414369,ov_buena_vista_dance___fitness_41.1392_16.4144,Buena Vista Dance & Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corato/pages/buena_vista_dance_fitness_41.1392_16.4144.json,custom

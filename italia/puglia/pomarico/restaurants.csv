@@ -1,8 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # pomarico -- restaurants
-40.517410,16.546238,osm_lancione_40.5174_16.5462,Lancione,ristorante,ristorante
-40.532442,16.505478,ov_ristoro_della_manferrara_40.5324_16.5055,Ristoro della Manferrara,RESTAURANT,ristorante
-40.524761,16.537081,ov_colledisisto_ristorante_40.5248_16.5371,Colledisisto Ristorante,RESTAURANT,ristorante
-40.517442,16.546281,ov_lancione_40.5174_16.5463,Lancione,RESTAURANT,ristorante
-40.517310,16.547403,ov_il_ceccio_40.5173_16.5474,Il Ceccio,RESTAURANT,ristorante
-40.516664,16.548668,ov_la_vecchia_taverna_40.5167_16.5487,La Vecchia Taverna,RESTAURANT,ristorante
+40.532442,16.505478,ov_ristoro_della_manferrara_40.5324_16.5055,Ristoro della Manferrara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pomarico/pages/ristoro_della_manferrara_40.5324_16.5055.json,custom
+40.524761,16.537081,ov_colledisisto_ristorante_40.5248_16.5371,Colledisisto Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pomarico/pages/colledisisto_ristorante_40.5248_16.5371.json,custom
+40.517442,16.546281,ov_lancione_40.5174_16.5463,Lancione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pomarico/pages/lancione_40.5174_16.5463.json,custom
+40.517310,16.547403,ov_il_ceccio_40.5173_16.5474,Il Ceccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pomarico/pages/il_ceccio_40.5173_16.5474.json,custom
+40.516664,16.548668,ov_la_vecchia_taverna_40.5167_16.5487,La Vecchia Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pomarico/pages/la_vecchia_taverna_40.5167_16.5487.json,custom

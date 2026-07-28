@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ceglie_messapica -- hospitals
-40.643819,17.517718,osm_presidio_territoriale_assistenziale___ex_40.6438_17.5177,Presidio Territoriale Assistenziale - ex Ospedale Civile,hospital,hospital
-40.644732,17.536502,osm_presidio_ospedaliero_di_riabilitazione___40.6447_17.5365,Presidio Ospedaliero di Riabilitazione - Fondazione San Raff,hospital,hospital
-40.644132,17.517728,ov_ospedale_civile_40.6441_17.5177,Ospedale Civile,HOSPITAL,hospital
+40.644132,17.517728,ov_ospedale_civile_40.6441_17.5177,Ospedale Civile,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/ospedale_civile_40.6441_17.5177.json,custom
+40.643819,17.517718,osm_presidio_territoriale_assistenziale___ex_40.6438_17.5177,Presidio Territoriale Assistenziale - ex Ospedale Civile,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/presidio_territoriale_assistenziale_-_ex_40.6438_17.5177.json,custom
+40.644732,17.536502,osm_presidio_ospedaliero_di_riabilitazione___40.6447_17.5365,Presidio Ospedaliero di Riabilitazione - Fondazione San Raff,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/presidio_ospedaliero_di_riabilitazione_-_40.6447_17.5365.json,custom

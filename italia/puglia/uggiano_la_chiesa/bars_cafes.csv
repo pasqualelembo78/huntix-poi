@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # uggiano_la_chiesa -- bars_cafes
-40.101621,18.449294,ov_marquinhos___brasitalian_food___cocktail_40.1016_18.4493,Marquinhos - Brasitalian Food & Cocktail Bar,RESTAURANT,bar_cafe
-40.101500,18.449988,ov_stazione_centrale_40.1015_18.4500,Stazione Centrale,RESTAURANT,bar_cafe
-40.101514,18.449616,ov_diamante_bar_40.1015_18.4496,Diamante BAR,RESTAURANT,bar_cafe
-40.101551,18.449248,ov_civico_27_cafe_40.1016_18.4492,Civico 27 Cafe,RESTAURANT,bar_cafe
-40.101538,18.448394,ov_caff__santa_lucia_40.1015_18.4484,Caffè Santa Lucia,RESTAURANT,bar_cafe
-40.097535,18.459998,ov_bottega_mulino_40.0975_18.4600,Bottega Mulino,RESTAURANT,bar_cafe
-40.098348,18.447301,ov_skaf__40.0983_18.4473,Skafè,RESTAURANT,bar_cafe
-40.112895,18.451811,ov_glam_caffe_40.1129_18.4518,Glam Caffe,RESTAURANT,bar_cafe
-40.114783,18.452281,ov_ninad__bar_40.1148_18.4523,Ninadò bar,RESTAURANT,bar_cafe
-40.101524,18.449979,osm_stazione_centrale_40.1015_18.4500,Stazione Centrale,bar_cafe,bar_cafe
+40.101621,18.449294,ov_marquinhos___brasitalian_food___cocktail_40.1016_18.4493,Marquinhos - Brasitalian Food & Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/marquinhos_-_brasitalian_food_cocktail_b_40.1016_18.4493.json,custom
+40.101500,18.449988,ov_stazione_centrale_40.1015_18.4500,Stazione Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/stazione_centrale_40.1015_18.4500.json,custom
+40.101514,18.449616,ov_diamante_bar_40.1015_18.4496,Diamante BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/diamante_bar_40.1015_18.4496.json,custom
+40.101551,18.449248,ov_civico_27_cafe_40.1016_18.4492,Civico 27 Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/civico_27_cafe_40.1016_18.4492.json,custom
+40.101538,18.448394,ov_caff__santa_lucia_40.1015_18.4484,Caffè Santa Lucia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/caff_santa_lucia_40.1015_18.4484.json,custom
+40.097535,18.459998,ov_bottega_mulino_40.0975_18.4600,Bottega Mulino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/bottega_mulino_40.0975_18.4600.json,custom
+40.098348,18.447301,ov_skaf__40.0983_18.4473,Skafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/skaf_40.0983_18.4473.json,custom
+40.112895,18.451811,ov_glam_caffe_40.1129_18.4518,Glam Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/glam_caffe_40.1129_18.4518.json,custom
+40.114783,18.452281,ov_ninad__bar_40.1148_18.4523,Ninadò bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/ninad_bar_40.1148_18.4523.json,custom
+40.101524,18.449979,osm_stazione_centrale_40.1015_18.4500,Stazione Centrale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/uggiano_la_chiesa/pages/stazione_centrale_40.1015_18.4500.json,custom

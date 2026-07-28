@@ -1,13 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sava -- gyms
-40.404877,17.570396,ov_dinamic_club_40.4049_17.5704,Dinamic Club,GYM,palestra
-40.404911,17.558630,ov_centro_fitness_ermes_sava_40.4049_17.5586,Centro Fitness Ermes Sava,GYM,palestra
-40.402475,17.571354,ov_hdemia___scuola_di_ballo___sede_di_sava_40.4025_17.5714,Hdemia - Scuola di Ballo - Sede di Sava,GYM,palestra
-40.398666,17.569486,ov_centro_sportivo_lamia_40.3987_17.5695,Centro Sportivo Lamia,GYM,palestra
-40.397140,17.562207,ov_club_2001_40.3971_17.5622,Club 2001,GYM,palestra
-40.398917,17.555619,ov_scuola_di_danza_danzart_40.3989_17.5556,Scuola di Danza Danzart,GYM,palestra
-40.399562,17.551463,ov_fit_point_active_40.3996_17.5515,Fit Point Active,GYM,palestra
-40.397022,17.553340,ov_namast__40.3970_17.5533,Namastè,GYM,palestra
-40.397140,17.553210,ov_yoga_con_pavli_rej_40.3971_17.5532,Yoga con Pavli Rej,GYM,palestra
-40.398265,17.548360,ov_girl_power_by_fit_point_active_40.3983_17.5484,GIRL POWER By Fit.point Active,GYM,palestra
-40.403231,17.571884,ov_tmgym_40.4032_17.5719,TMGym,GYM,palestra
+40.404877,17.570396,ov_dinamic_club_40.4049_17.5704,Dinamic Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/dinamic_club_40.4049_17.5704.json,custom
+40.404911,17.558630,ov_centro_fitness_ermes_sava_40.4049_17.5586,Centro Fitness Ermes Sava,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/centro_fitness_ermes_sava_40.4049_17.5586.json,custom
+40.402475,17.571354,ov_hdemia___scuola_di_ballo___sede_di_sava_40.4025_17.5714,Hdemia - Scuola di Ballo - Sede di Sava,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/hdemia_-_scuola_di_ballo_-_sede_di_sava_40.4025_17.5714.json,custom
+40.398666,17.569486,ov_centro_sportivo_lamia_40.3987_17.5695,Centro Sportivo Lamia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/centro_sportivo_lamia_40.3987_17.5695.json,custom
+40.397140,17.562207,ov_club_2001_40.3971_17.5622,Club 2001,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/club_2001_40.3971_17.5622.json,custom
+40.398917,17.555619,ov_scuola_di_danza_danzart_40.3989_17.5556,Scuola di Danza Danzart,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/scuola_di_danza_danzart_40.3989_17.5556.json,custom
+40.399562,17.551463,ov_fit_point_active_40.3996_17.5515,Fit Point Active,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/fit_point_active_40.3996_17.5515.json,custom
+40.397022,17.553340,ov_namast__40.3970_17.5533,Namastè,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/namast_40.3970_17.5533.json,custom
+40.397140,17.553210,ov_yoga_con_pavli_rej_40.3971_17.5532,Yoga con Pavli Rej,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/yoga_con_pavli_rej_40.3971_17.5532.json,custom
+40.398265,17.548360,ov_girl_power_by_fit_point_active_40.3983_17.5484,GIRL POWER By Fit.point Active,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/girl_power_by_fitpoint_active_40.3983_17.5484.json,custom
+40.403231,17.571884,ov_tmgym_40.4032_17.5719,TMGym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/tmgym_40.4032_17.5719.json,custom
+40.403437,17.571921,osm_tm_gym_40.4034_17.5719,TM Gym,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/tm_gym_40.4034_17.5719.json,custom

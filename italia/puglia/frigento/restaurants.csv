@@ -1,12 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # frigento -- restaurants
-41.020335,15.085105,osm_agriturismo_fontana_madonna_41.0203_15.0851,Agriturismo Fontana Madonna,ristorante,ristorante
-41.043340,15.113476,osm_mary_d_bar_trattoria_41.0433_15.1135,Mary D Bar Trattoria,ristorante,ristorante
-40.998986,15.121332,ov_agriturismo_colle_irpino_40.9990_15.1213,Agriturismo Colle Irpino,RESTAURANT,ristorante
-41.005035,15.106948,ov_trattoria_braceria_da_balu_41.0050_15.1069,Trattoria Braceria da Balu,RESTAURANT,ristorante
-41.008441,15.084423,ov_i_sassi_agriturismo_41.0084_15.0844,I Sassi Agriturismo,RESTAURANT,ristorante
-41.030029,15.097499,ov_il_fato_41.0300_15.0975,Il FaTo,RESTAURANT,ristorante
-41.012283,15.099343,ov_bar_vasoli_di_borreca_rosanna_c__sas_41.0123_15.0993,Bar Vasoli di Borreca Rosanna C. SAS,RESTAURANT,ristorante
-41.013340,15.084086,ov_l_anphora_41.0133_15.0841,L'Anphora,RESTAURANT,ristorante
-41.020315,15.085225,ov_agriturismo_fontana_madonna_41.0203_15.0852,Agriturismo Fontana Madonna,RESTAURANT,ristorante
-41.043446,15.113483,ov_trattoria_mary_d_41.0434_15.1135,Trattoria Mary D,RESTAURANT,ristorante
+40.998986,15.121332,ov_agriturismo_colle_irpino_40.9990_15.1213,Agriturismo Colle Irpino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/agriturismo_colle_irpino_40.9990_15.1213.json,custom
+41.005035,15.106948,ov_trattoria_braceria_da_balu_41.0050_15.1069,Trattoria Braceria da Balu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/trattoria_braceria_da_balu_41.0050_15.1069.json,custom
+41.008441,15.084423,ov_i_sassi_agriturismo_41.0084_15.0844,I Sassi Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/i_sassi_agriturismo_41.0084_15.0844.json,custom
+41.030029,15.097499,ov_il_fato_41.0300_15.0975,Il FaTo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/il_fato_41.0300_15.0975.json,custom
+41.012283,15.099343,ov_bar_vasoli_di_borreca_rosanna_c__sas_41.0123_15.0993,Bar Vasoli di Borreca Rosanna C. SAS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/bar_vasoli_di_borreca_rosanna_c_sas_41.0123_15.0993.json,custom
+41.013340,15.084086,ov_l_anphora_41.0133_15.0841,L'Anphora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/lanphora_41.0133_15.0841.json,custom
+41.020315,15.085225,ov_agriturismo_fontana_madonna_41.0203_15.0852,Agriturismo Fontana Madonna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/agriturismo_fontana_madonna_41.0203_15.0852.json,custom
+41.043446,15.113483,ov_trattoria_mary_d_41.0434_15.1135,Trattoria Mary D,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/trattoria_mary_d_41.0434_15.1135.json,custom
+41.043340,15.113476,osm_mary_d_bar_trattoria_41.0433_15.1135,Mary D Bar Trattoria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/frigento/pages/mary_d_bar_trattoria_41.0433_15.1135.json,custom

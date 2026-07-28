@@ -1,5 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Torre Canne -- Tutti
-40.830024,17.473941,osm_ristorante_t_imo_40.8300_17.4739,Ristorante T_imo,ristorante,ristorante
-40.830733,17.471988,osm_dubonnet_40.8307_17.4720,Dubonnet,ristorante,ristorante
-40.842778,17.468125,ov_il_punto_40.8428_17.4681,Il punto,RESTAURANT,ristorante
+40.842778,17.468125,ov_il_punto_40.8428_17.4681,Il punto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_canne/pages/il_punto_40.8428_17.4681.json,custom
+40.830024,17.473941,osm_ristorante_t_imo_40.8300_17.4739,Ristorante T_imo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torre_canne/pages/ristorante_timo_40.8300_17.4739.json,custom

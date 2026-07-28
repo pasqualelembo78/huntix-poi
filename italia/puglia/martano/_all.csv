@@ -1,48 +1,48 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Martano -- Tutti
-40.200378,18.298144,ov_paninhouse_40.2004_18.2981,Paninhouse,RESTAURANT,ristorante
-40.200747,18.301501,ov_la_lanterna_40.2007_18.3015,La Lanterna,RESTAURANT,ristorante
-40.201273,18.301716,ov_l_osteria_40.2013_18.3017,L'Osteria,RESTAURANT,ristorante
-40.202232,18.304472,ov_la_vera_tipica_40.2022_18.3045,La Vera Tipica,RESTAURANT,ristorante
-40.202272,18.301664,ov_biancodibianco_40.2023_18.3017,biancodibianco,RESTAURANT,ristorante
-40.201769,18.306718,ov_danisi_40.2018_18.3067,Danisi,RESTAURANT,ristorante
-40.201422,18.298072,ov_trattoria___griglieria_nonna_consiglia_40.2014_18.2981,Trattoria - Griglieria Nonna Consiglia,RESTAURANT,ristorante
-40.202420,18.298462,ov_la_sfoglia_di_carati_isabella_40.2024_18.2985,La Sfoglia Di Carati Isabella,RESTAURANT,ristorante
-40.202461,18.302110,ov_quinto_quarto_40.2025_18.3021,Quinto Quarto,RESTAURANT,ristorante
-40.202514,18.303288,ov_pizzeria_zio_camillo_40.2025_18.3033,Pizzeria Zio Camillo,RESTAURANT,ristorante
-40.202970,18.301462,ov_corte_micali_40.2030_18.3015,Corte Micali,RESTAURANT,ristorante
-40.203566,18.303428,ov_da_matteo_40.2036_18.3034,DA MATTEO,RESTAURANT,ristorante
-40.204477,18.306013,ov_masseria_malopra_40.2045_18.3060,Masseria Malopra,RESTAURANT,ristorante
-40.202625,18.310356,ov_levante_40.2026_18.3104,Levante,RESTAURANT,ristorante
-40.206577,18.302830,ov_osteria_opera_martano_40.2066_18.3028,Osteria Opera Martano,RESTAURANT,ristorante
-40.213401,18.311706,ov_ristorante_camp__40.2134_18.3117,Ristorante Campì,RESTAURANT,ristorante
-40.199860,18.312937,ov_ego_s_restaurant_40.1999_18.3129,Ego's Restaurant,RESTAURANT,ristorante
-40.199090,18.294370,ov_pit_stop_fast_food_martano_40.1991_18.2944,Pit Stop fast food Martano,RESTAURANT,ristorante
-40.198462,18.301912,ov_bizzo___pizza_e_dintorni_40.1985_18.3019,Bizzo - Pizza e Dintorni,RESTAURANT,ristorante
-40.197719,18.297970,ov_la_lanterna_40.1977_18.2980,La Lanterna,RESTAURANT,ristorante
-40.196525,18.305023,ov_armonia_del_sapore_40.1965_18.3050,Armonia del Sapore,RESTAURANT,ristorante
-40.230300,18.355777,ov_tenuta_kyrios_40.2303_18.3558,Tenuta Kyrios,RESTAURANT,ristorante
-40.200351,18.298005,ov_bar_pozzelle_40.2004_18.2980,BAR Pozzelle,RESTAURANT,bar_cafe
-40.201176,18.303242,ov_morrison_s_pub_40.2012_18.3032,Morrison's Pub,RESTAURANT,bar_cafe
-40.202359,18.302174,ov_caffetteria_marconi_40.2024_18.3022,Caffetteria Marconi,RESTAURANT,bar_cafe
-40.201630,18.302070,ov_sagrestia_40.2016_18.3021,Sagrestia,RESTAURANT,bar_cafe
-40.201840,18.301900,ov_stella_since_1881_40.2018_18.3019,Stella Since 1881,RESTAURANT,bar_cafe
-40.202463,18.293017,ov_bajkal_cafe_40.2025_18.2930,Bajkal Cafe,RESTAURANT,bar_cafe
-40.202494,18.299791,ov_griko_caff__40.2025_18.2998,Griko Caffè,RESTAURANT,bar_cafe
-40.202454,18.303579,ov_caffe_ficile_40.2025_18.3036,Caffe Ficile,RESTAURANT,bar_cafe
-40.203043,18.302395,ov_sbocchi_40.2030_18.3024,Sbocchi,RESTAURANT,bar_cafe
-40.203318,18.303422,ov_bar_ducale_40.2033_18.3034,Bar Ducale,RESTAURANT,bar_cafe
-40.203505,18.303510,ov_ducale_da_matteo_40.2035_18.3035,Ducale da Matteo,RESTAURANT,bar_cafe
-40.203711,18.292490,ov_simple_caf__40.2037_18.2925,Simple Cafè,RESTAURANT,bar_cafe
-40.206144,18.309372,ov_settantotto_40.2061_18.3094,Settantotto,RESTAURANT,bar_cafe
-40.199844,18.295378,ov_caffetteria_ast_ri_40.1998_18.2954,Caffetteria Astèri,RESTAURANT,bar_cafe
-40.199149,18.295493,ov_rimbaud_40.1991_18.2955,Rimbaud,RESTAURANT,bar_cafe
-40.199274,18.295428,ov_cafe_rimbo_40.1993_18.2954,Cafe Rimbo,RESTAURANT,bar_cafe
-40.199200,18.300901,ov_morrison_40.1992_18.3009,Morrison,RESTAURANT,bar_cafe
-40.198290,18.299734,ov_dream_caffe_40.1983_18.2997,Dream Caffe,RESTAURANT,bar_cafe
-40.197685,18.296566,ov_fireflies_aperitif_40.1977_18.2966,FireFlies Aperitif,RESTAURANT,bar_cafe
-40.202804,18.303915,osm_caff__diem_40.2028_18.3039,Caffè Diem,bar_cafe,bar_cafe
-40.203910,18.296429,ov_asdc_centro_danza_coreos_40.2039_18.2964,ASDC Centro Danza COREOS,GYM,palestra
-40.204424,18.297235,ov_oasi_fitness_club__calimera__le__40.2044_18.2972,Oasi Fitness Club- Calimera (Le),GYM,palestra
-40.198583,18.301013,ov_team_chiriatti___kyrios_fitness_40.1986_18.3010,Team Chiriatti & Kyrios Fitness,GYM,palestra
-40.198098,18.301453,ov_dancing_light_centro_danza_40.1981_18.3015,Dancing Light Centro Danza,GYM,palestra
+40.200378,18.298144,ov_paninhouse_40.2004_18.2981,Paninhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/paninhouse_40.2004_18.2981.json,custom
+40.200747,18.301501,ov_la_lanterna_40.2007_18.3015,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_lanterna_40.2007_18.3015.json,custom
+40.201273,18.301716,ov_l_osteria_40.2013_18.3017,L'Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/losteria_40.2013_18.3017.json,custom
+40.202232,18.304472,ov_la_vera_tipica_40.2022_18.3045,La Vera Tipica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_vera_tipica_40.2022_18.3045.json,custom
+40.202272,18.301664,ov_biancodibianco_40.2023_18.3017,biancodibianco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/biancodibianco_40.2023_18.3017.json,custom
+40.201769,18.306718,ov_danisi_40.2018_18.3067,Danisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/danisi_40.2018_18.3067.json,custom
+40.201422,18.298072,ov_trattoria___griglieria_nonna_consiglia_40.2014_18.2981,Trattoria - Griglieria Nonna Consiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/trattoria_-_griglieria_nonna_consiglia_40.2014_18.2981.json,custom
+40.202420,18.298462,ov_la_sfoglia_di_carati_isabella_40.2024_18.2985,La Sfoglia Di Carati Isabella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_sfoglia_di_carati_isabella_40.2024_18.2985.json,custom
+40.202461,18.302110,ov_quinto_quarto_40.2025_18.3021,Quinto Quarto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/quinto_quarto_40.2025_18.3021.json,custom
+40.202514,18.303288,ov_pizzeria_zio_camillo_40.2025_18.3033,Pizzeria Zio Camillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/pizzeria_zio_camillo_40.2025_18.3033.json,custom
+40.202970,18.301462,ov_corte_micali_40.2030_18.3015,Corte Micali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/corte_micali_40.2030_18.3015.json,custom
+40.203566,18.303428,ov_da_matteo_40.2036_18.3034,DA MATTEO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/da_matteo_40.2036_18.3034.json,custom
+40.204477,18.306013,ov_masseria_malopra_40.2045_18.3060,Masseria Malopra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/masseria_malopra_40.2045_18.3060.json,custom
+40.202625,18.310356,ov_levante_40.2026_18.3104,Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/levante_40.2026_18.3104.json,custom
+40.206577,18.302830,ov_osteria_opera_martano_40.2066_18.3028,Osteria Opera Martano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/osteria_opera_martano_40.2066_18.3028.json,custom
+40.213401,18.311706,ov_ristorante_camp__40.2134_18.3117,Ristorante Campì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/ristorante_camp_40.2134_18.3117.json,custom
+40.199860,18.312937,ov_ego_s_restaurant_40.1999_18.3129,Ego's Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/egos_restaurant_40.1999_18.3129.json,custom
+40.199090,18.294370,ov_pit_stop_fast_food_martano_40.1991_18.2944,Pit Stop fast food Martano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/pit_stop_fast_food_martano_40.1991_18.2944.json,custom
+40.198462,18.301912,ov_bizzo___pizza_e_dintorni_40.1985_18.3019,Bizzo - Pizza e Dintorni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/bizzo_-_pizza_e_dintorni_40.1985_18.3019.json,custom
+40.197719,18.297970,ov_la_lanterna_40.1977_18.2980,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_lanterna_40.1977_18.2980.json,custom
+40.196525,18.305023,ov_armonia_del_sapore_40.1965_18.3050,Armonia del Sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/armonia_del_sapore_40.1965_18.3050.json,custom
+40.230300,18.355777,ov_tenuta_kyrios_40.2303_18.3558,Tenuta Kyrios,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/tenuta_kyrios_40.2303_18.3558.json,custom
+40.200351,18.298005,ov_bar_pozzelle_40.2004_18.2980,BAR Pozzelle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/bar_pozzelle_40.2004_18.2980.json,custom
+40.201176,18.303242,ov_morrison_s_pub_40.2012_18.3032,Morrison's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/morrisons_pub_40.2012_18.3032.json,custom
+40.202359,18.302174,ov_caffetteria_marconi_40.2024_18.3022,Caffetteria Marconi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/caffetteria_marconi_40.2024_18.3022.json,custom
+40.201630,18.302070,ov_sagrestia_40.2016_18.3021,Sagrestia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/sagrestia_40.2016_18.3021.json,custom
+40.201840,18.301900,ov_stella_since_1881_40.2018_18.3019,Stella Since 1881,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/stella_since_1881_40.2018_18.3019.json,custom
+40.202463,18.293017,ov_bajkal_cafe_40.2025_18.2930,Bajkal Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/bajkal_cafe_40.2025_18.2930.json,custom
+40.202494,18.299791,ov_griko_caff__40.2025_18.2998,Griko Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/griko_caff_40.2025_18.2998.json,custom
+40.202454,18.303579,ov_caffe_ficile_40.2025_18.3036,Caffe Ficile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/caffe_ficile_40.2025_18.3036.json,custom
+40.203043,18.302395,ov_sbocchi_40.2030_18.3024,Sbocchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/sbocchi_40.2030_18.3024.json,custom
+40.203318,18.303422,ov_bar_ducale_40.2033_18.3034,Bar Ducale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/bar_ducale_40.2033_18.3034.json,custom
+40.203505,18.303510,ov_ducale_da_matteo_40.2035_18.3035,Ducale da Matteo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/ducale_da_matteo_40.2035_18.3035.json,custom
+40.203711,18.292490,ov_simple_caf__40.2037_18.2925,Simple Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/simple_caf_40.2037_18.2925.json,custom
+40.206144,18.309372,ov_settantotto_40.2061_18.3094,Settantotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/settantotto_40.2061_18.3094.json,custom
+40.199844,18.295378,ov_caffetteria_ast_ri_40.1998_18.2954,Caffetteria Astèri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/caffetteria_astri_40.1998_18.2954.json,custom
+40.199149,18.295493,ov_rimbaud_40.1991_18.2955,Rimbaud,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/rimbaud_40.1991_18.2955.json,custom
+40.199274,18.295428,ov_cafe_rimbo_40.1993_18.2954,Cafe Rimbo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/cafe_rimbo_40.1993_18.2954.json,custom
+40.199200,18.300901,ov_morrison_40.1992_18.3009,Morrison,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/morrison_40.1992_18.3009.json,custom
+40.198290,18.299734,ov_dream_caffe_40.1983_18.2997,Dream Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/dream_caffe_40.1983_18.2997.json,custom
+40.197685,18.296566,ov_fireflies_aperitif_40.1977_18.2966,FireFlies Aperitif,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/fireflies_aperitif_40.1977_18.2966.json,custom
+40.202804,18.303915,osm_caff__diem_40.2028_18.3039,Caffè Diem,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/caff_diem_40.2028_18.3039.json,custom
+40.203910,18.296429,ov_asdc_centro_danza_coreos_40.2039_18.2964,ASDC Centro Danza COREOS,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/asdc_centro_danza_coreos_40.2039_18.2964.json,custom
+40.204424,18.297235,ov_oasi_fitness_club__calimera__le__40.2044_18.2972,Oasi Fitness Club- Calimera (Le),GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/oasi_fitness_club-_calimera_le_40.2044_18.2972.json,custom
+40.198583,18.301013,ov_team_chiriatti___kyrios_fitness_40.1986_18.3010,Team Chiriatti & Kyrios Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/team_chiriatti_kyrios_fitness_40.1986_18.3010.json,custom
+40.198098,18.301453,ov_dancing_light_centro_danza_40.1981_18.3015,Dancing Light Centro Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/dancing_light_centro_danza_40.1981_18.3015.json,custom

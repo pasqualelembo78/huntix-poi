@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # otranto -- landmarks
-40.145414,18.491478,ov_______________40.1454_18.4915,Замок Отранто,MONUMENT,monumento
-40.150000,18.483333,ov_otranto_castello_40.1500_18.4833,Otranto Castello,MONUMENT,monumento
-40.147720,18.486700,ov_masseria_cippano__otranto_40.1477_18.4867,"Masseria Cippano, Otranto",MONUMENT,monumento
-40.147720,18.486700,ov_torre_s_emiliano_40.1477_18.4867,Torre S.Emiliano,MONUMENT,monumento
-40.150655,18.476070,ov_vivarch_aps_40.1507_18.4761,VivArch APS,MUSEUM,monumento
+40.145414,18.491478,ov_______________40.1454_18.4915,Замок Отранто,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/__40.1454_18.4915.json,custom
+40.150000,18.483333,ov_otranto_castello_40.1500_18.4833,Otranto Castello,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/otranto_castello_40.1500_18.4833.json,custom
+40.147720,18.486700,ov_masseria_cippano__otranto_40.1477_18.4867,"Masseria Cippano, Otranto",MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/masseria_cippano_otranto_40.1477_18.4867.json,custom
+40.147720,18.486700,ov_torre_s_emiliano_40.1477_18.4867,Torre S.Emiliano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/torre_semiliano_40.1477_18.4867.json,custom
+40.150655,18.476070,ov_vivarch_aps_40.1507_18.4761,VivArch APS,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/vivarch_aps_40.1507_18.4761.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castellana_grotte -- landmarks
-40.884970,17.160850,ov_acquario_40.8850_17.1608,Acquario,MUSEUM,monumento
-40.880890,17.154188,ov_puzzle_ludoteca_40.8809_17.1542,PUZZLE Ludoteca,MUSEUM,monumento
-40.875580,17.147801,ov_museo_speleologico_franco_anelli_40.8756_17.1478,Museo Speleologico Franco Anelli,MUSEUM,monumento
+40.884970,17.160850,ov_acquario_40.8850_17.1608,Acquario,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/acquario_40.8850_17.1608.json,custom
+40.880890,17.154188,ov_puzzle_ludoteca_40.8809_17.1542,PUZZLE Ludoteca,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/puzzle_ludoteca_40.8809_17.1542.json,custom
+40.875580,17.147801,ov_museo_speleologico_franco_anelli_40.8756_17.1478,Museo Speleologico Franco Anelli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellana_grotte/pages/museo_speleologico_franco_anelli_40.8756_17.1478.json,custom

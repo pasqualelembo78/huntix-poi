@@ -1,7 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_pietro_in_lama -- restaurants
-40.307601,18.125745,osm_cantina_don_carlo_40.3076_18.1257,Cantina Don Carlo,ristorante,ristorante
-40.291548,18.119000,ov_il_pozzino_40.2915_18.1190,Il Pozzino,RESTAURANT,ristorante
-40.307750,18.125774,ov_cantina_don_carlo_40.3077_18.1258,Cantina Don Carlo,RESTAURANT,ristorante
-40.304003,18.128360,ov_le_querce_40.3040_18.1284,Le Querce,RESTAURANT,ristorante
-40.312592,18.120919,ov_la_locanda_dei_borboni_40.3126_18.1209,La Locanda Dei Borboni,RESTAURANT,ristorante
+40.291548,18.119000,ov_il_pozzino_40.2915_18.1190,Il Pozzino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_lama/pages/il_pozzino_40.2915_18.1190.json,custom
+40.307750,18.125774,ov_cantina_don_carlo_40.3077_18.1258,Cantina Don Carlo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_lama/pages/cantina_don_carlo_40.3077_18.1258.json,custom
+40.304003,18.128360,ov_le_querce_40.3040_18.1284,Le Querce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_lama/pages/le_querce_40.3040_18.1284.json,custom
+40.312592,18.120919,ov_la_locanda_dei_borboni_40.3126_18.1209,La Locanda Dei Borboni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_in_lama/pages/la_locanda_dei_borboni_40.3126_18.1209.json,custom

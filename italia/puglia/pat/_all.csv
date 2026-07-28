@@ -1,31 +1,30 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Patù -- Tutti
-39.814171,18.311228,osm_ristorante_da_mim__39.8142_18.3112,Ristorante da Mimì,ristorante,ristorante
-39.810340,18.317764,osm_tora_39.8103_18.3178,Tora,ristorante,ristorante
-39.841428,18.338734,osm_rua_de_li_travai_39.8414_18.3387,Rua de li Travai,ristorante,ristorante
-39.825161,18.314900,osm_sant_elia_trattoria_39.8252_18.3149,Sant'Elia Trattoria,ristorante,ristorante
-39.814190,18.311144,ov_ristorante_da_mim__39.8142_18.3111,Ristorante da Mimì,RESTAURANT,ristorante
-39.813861,18.311242,ov_trattoria_del_moro_39.8139_18.3112,Trattoria del Moro,RESTAURANT,ristorante
-39.813905,18.311205,ov_morosunset_39.8139_18.3112,Morosunset,RESTAURANT,ristorante
-39.813967,18.314214,ov_litoranea_214_39.8140_18.3142,Litoranea 214,RESTAURANT,ristorante
-39.818429,18.312451,ov_mirto_bianco_restaurant_by_montecallini_39.8184_18.3125,Mirto Bianco Restaurant by Montecallini,RESTAURANT,ristorante
-39.818955,18.319923,ov_volito_restaurant_39.8190_18.3199,Volito Restaurant,RESTAURANT,ristorante
-39.812523,18.315630,ov_l_isola_del_gabbiano_39.8125_18.3156,L'Isola del Gabbiano,RESTAURANT,ristorante
-39.813060,18.315398,ov_el_chapo_mexican_food_39.8131_18.3154,El Chapo Mexican Food,RESTAURANT,ristorante
-39.811085,18.319225,ov_trattoria_zia_lucia_39.8111_18.3192,trattoria zia lucia,RESTAURANT,ristorante
-39.811838,18.316704,ov_magnagrecia___hotel___restaurant_39.8118_18.3167,Magnagrecia - Hotel & Restaurant,RESTAURANT,ristorante
-39.810298,18.317732,ov_tora_pizza___cucina_39.8103_18.3177,Tora Pizza & Cucina,RESTAURANT,ristorante
-39.825289,18.314805,ov_trattoria_sant_elia_39.8253_18.3148,Trattoria Sant'Elia,RESTAURANT,ristorante
-39.824041,18.313841,ov_ristorante_ruri_pulcra_39.8240_18.3138,Ristorante Ruri Pulcra,RESTAURANT,ristorante
-39.836051,18.316501,ov_agriturismo_conte_39.8361_18.3165,Agriturismo CONTE,RESTAURANT,ristorante
-39.831410,18.321290,ov_ruri_pulcra___il_ristorante_39.8314_18.3213,Ruri Pulcra - il Ristorante,RESTAURANT,ristorante
-39.842548,18.338208,ov_pizzeria_pulcinella_39.8425_18.3382,Pizzeria Pulcinella,RESTAURANT,ristorante
-39.842760,18.337853,ov_mood_caf__coffee___drinks_39.8428_18.3379,Mood café coffee & drinks,RESTAURANT,ristorante
-39.813989,18.311162,ov_bar_del_moro_39.8140_18.3112,Bar del Moro,RESTAURANT,bar_cafe
-39.813915,18.314464,ov_ice_on_the_road_39.8139_18.3145,Ice On The Road,RESTAURANT,bar_cafe
-39.824829,18.288950,ov_al_muretto_39.8248_18.2889,Al Muretto,RESTAURANT,bar_cafe
-39.841059,18.338544,ov_alla_rinfusa_39.8411_18.3385,Alla Rinfusa,RESTAURANT,bar_cafe
-39.842679,18.337546,ov_crossfit_regia_leonis_39.8427_18.3375,CrossFit Regia Leonis,GYM,palestra
-39.842910,18.338264,ov_palestra_luxfit_asd_39.8429_18.3383,Palestra Luxfit asd,GYM,palestra
-39.837574,18.336504,ov_patu____centopietre_39.8376_18.3365,Patu' - Centopietre,MUSEUM,monumento
-39.842910,18.338264,ov_pat____piazza_marco_pedone_39.8429_18.3383,Patù - Piazza Marco Pedone,MONUMENT,monumento
+39.814190,18.311144,ov_ristorante_da_mim__39.8142_18.3111,Ristorante da Mimì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/ristorante_da_mim_39.8142_18.3111.json,custom
+39.813861,18.311242,ov_trattoria_del_moro_39.8139_18.3112,Trattoria del Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/trattoria_del_moro_39.8139_18.3112.json,custom
+39.813905,18.311205,ov_morosunset_39.8139_18.3112,Morosunset,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/morosunset_39.8139_18.3112.json,custom
+39.813967,18.314214,ov_litoranea_214_39.8140_18.3142,Litoranea 214,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/litoranea_214_39.8140_18.3142.json,custom
+39.818429,18.312451,ov_mirto_bianco_restaurant_by_montecallini_39.8184_18.3125,Mirto Bianco Restaurant by Montecallini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/mirto_bianco_restaurant_by_montecallini_39.8184_18.3125.json,custom
+39.818955,18.319923,ov_volito_restaurant_39.8190_18.3199,Volito Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/volito_restaurant_39.8190_18.3199.json,custom
+39.812523,18.315630,ov_l_isola_del_gabbiano_39.8125_18.3156,L'Isola del Gabbiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/lisola_del_gabbiano_39.8125_18.3156.json,custom
+39.813060,18.315398,ov_el_chapo_mexican_food_39.8131_18.3154,El Chapo Mexican Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/el_chapo_mexican_food_39.8131_18.3154.json,custom
+39.811085,18.319225,ov_trattoria_zia_lucia_39.8111_18.3192,trattoria zia lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/trattoria_zia_lucia_39.8111_18.3192.json,custom
+39.811838,18.316704,ov_magnagrecia___hotel___restaurant_39.8118_18.3167,Magnagrecia - Hotel & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/magnagrecia_-_hotel_restaurant_39.8118_18.3167.json,custom
+39.810298,18.317732,ov_tora_pizza___cucina_39.8103_18.3177,Tora Pizza & Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/tora_pizza_cucina_39.8103_18.3177.json,custom
+39.825289,18.314805,ov_trattoria_sant_elia_39.8253_18.3148,Trattoria Sant'Elia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/trattoria_santelia_39.8253_18.3148.json,custom
+39.824041,18.313841,ov_ristorante_ruri_pulcra_39.8240_18.3138,Ristorante Ruri Pulcra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/ristorante_ruri_pulcra_39.8240_18.3138.json,custom
+39.836051,18.316501,ov_agriturismo_conte_39.8361_18.3165,Agriturismo CONTE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/agriturismo_conte_39.8361_18.3165.json,custom
+39.831410,18.321290,ov_ruri_pulcra___il_ristorante_39.8314_18.3213,Ruri Pulcra - il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/ruri_pulcra_-_il_ristorante_39.8314_18.3213.json,custom
+39.842548,18.338208,ov_pizzeria_pulcinella_39.8425_18.3382,Pizzeria Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/pizzeria_pulcinella_39.8425_18.3382.json,custom
+39.842760,18.337853,ov_mood_caf__coffee___drinks_39.8428_18.3379,Mood café coffee & drinks,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/mood_caf_coffee_drinks_39.8428_18.3379.json,custom
+39.810340,18.317764,osm_tora_39.8103_18.3178,Tora,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/tora_39.8103_18.3178.json,custom
+39.841428,18.338734,osm_rua_de_li_travai_39.8414_18.3387,Rua de li Travai,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/rua_de_li_travai_39.8414_18.3387.json,custom
+39.825161,18.314900,osm_sant_elia_trattoria_39.8252_18.3149,Sant'Elia Trattoria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/santelia_trattoria_39.8252_18.3149.json,custom
+39.813989,18.311162,ov_bar_del_moro_39.8140_18.3112,Bar del Moro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/bar_del_moro_39.8140_18.3112.json,custom
+39.813915,18.314464,ov_ice_on_the_road_39.8139_18.3145,Ice On The Road,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/ice_on_the_road_39.8139_18.3145.json,custom
+39.824829,18.288950,ov_al_muretto_39.8248_18.2889,Al Muretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/al_muretto_39.8248_18.2889.json,custom
+39.841059,18.338544,ov_alla_rinfusa_39.8411_18.3385,Alla Rinfusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/alla_rinfusa_39.8411_18.3385.json,custom
+39.842679,18.337546,ov_crossfit_regia_leonis_39.8427_18.3375,CrossFit Regia Leonis,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/crossfit_regia_leonis_39.8427_18.3375.json,custom
+39.842910,18.338264,ov_palestra_luxfit_asd_39.8429_18.3383,Palestra Luxfit asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/palestra_luxfit_asd_39.8429_18.3383.json,custom
+39.837574,18.336504,ov_patu____centopietre_39.8376_18.3365,Patu' - Centopietre,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/patu_-_centopietre_39.8376_18.3365.json,custom
+39.842910,18.338264,ov_pat____piazza_marco_pedone_39.8429_18.3383,Patù - Piazza Marco Pedone,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/pat/pages/pat_-_piazza_marco_pedone_39.8429_18.3383.json,custom

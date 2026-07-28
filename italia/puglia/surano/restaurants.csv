@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # surano -- restaurants
-40.025416,18.323214,ov_settimo_cielo_40.0254_18.3232,Settimo cielo,RESTAURANT,ristorante
-40.024544,18.323181,ov_ristorante_re_dei_re_40.0245_18.3232,Ristorante Re dei Re,RESTAURANT,ristorante
-40.032179,18.350724,ov_chiosco_todo_loco___surano_page_40.0322_18.3507,Chiosco Todo Loco - Surano Page,RESTAURANT,ristorante
-40.030420,18.349720,ov_brigros_40.0304_18.3497,Brigros,RESTAURANT,ristorante
-40.030430,18.349711,ov_terrapadula_40.0304_18.3497,Terrapadula,RESTAURANT,ristorante
-40.028489,18.344141,ov_pizzeria_d_asporto_40.0285_18.3441,Pizzeria D'Asporto,RESTAURANT,ristorante
-40.027328,18.345022,ov_trattoria_la_bersagliera_40.0273_18.3450,Trattoria La Bersagliera,RESTAURANT,ristorante
-40.026702,18.346701,ov_pizza_pazza_40.0267_18.3467,Pizza Pazza,RESTAURANT,ristorante
+40.025416,18.323214,ov_settimo_cielo_40.0254_18.3232,Settimo cielo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/settimo_cielo_40.0254_18.3232.json,custom
+40.024544,18.323181,ov_ristorante_re_dei_re_40.0245_18.3232,Ristorante Re dei Re,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/ristorante_re_dei_re_40.0245_18.3232.json,custom
+40.032179,18.350724,ov_chiosco_todo_loco___surano_page_40.0322_18.3507,Chiosco Todo Loco - Surano Page,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/chiosco_todo_loco_-_surano_page_40.0322_18.3507.json,custom
+40.030420,18.349720,ov_brigros_40.0304_18.3497,Brigros,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/brigros_40.0304_18.3497.json,custom
+40.030430,18.349711,ov_terrapadula_40.0304_18.3497,Terrapadula,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/terrapadula_40.0304_18.3497.json,custom
+40.028489,18.344141,ov_pizzeria_d_asporto_40.0285_18.3441,Pizzeria D'Asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/pizzeria_dasporto_40.0285_18.3441.json,custom
+40.027328,18.345022,ov_trattoria_la_bersagliera_40.0273_18.3450,Trattoria La Bersagliera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/trattoria_la_bersagliera_40.0273_18.3450.json,custom
+40.026702,18.346701,ov_pizza_pazza_40.0267_18.3467,Pizza Pazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/pizza_pazza_40.0267_18.3467.json,custom

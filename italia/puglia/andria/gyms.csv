@@ -1,58 +1,59 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # andria -- gyms
-41.244537,16.292711,ov_fitness___fighters_andria_41.2445_16.2927,Fitness & Fighters Andria,GYM,palestra
-41.243112,16.294236,ov_spartan_academy_asd_41.2431_16.2942,Spartan Academy ASD,GYM,palestra
-41.241669,16.285434,ov_old_drill_andria_41.2417_16.2854,Old Drill Andria,GYM,palestra
-41.241121,16.294499,ov_universal_gym_41.2411_16.2945,Universal Gym,GYM,palestra
-41.240564,16.294473,ov_studio_personal_training_andria_41.2406_16.2945,Studio Personal Training Andria,GYM,palestra
-41.240370,16.306550,ov_swaraya_aps_41.2404_16.3066,Swaraya APS,GYM,palestra
-41.236895,16.295671,ov_fitness_emotion_asd_41.2369_16.2957,Fitness Emotion asd,GYM,palestra
-41.235375,16.306422,ov_asd_absolute_gym_41.2354_16.3064,Asd Absolute gym,GYM,palestra
-41.235728,16.297995,ov_scuola_di_danza_in_punta_di_piedi_41.2357_16.2980,Scuola Di Danza In Punta Di Piedi,GYM,palestra
-41.235293,16.283421,ov_nicola_e_annalisa_41.2353_16.2834,Nicola E Annalisa,GYM,palestra
-41.235010,16.287207,ov_alma_latina_andria___scuola_di_ballo_dan_41.2350_16.2872,Alma Latina Andria - Scuola di ballo danze caraibiche,GYM,palestra
-41.234027,16.298426,ov_scuola_di_ballo_monton_de_estrellas_41.2340_16.2984,Scuola di ballo Monton de Estrellas,GYM,palestra
-41.219864,16.289338,ov_centro_subacqueo_andria_41.2199_16.2893,Centro Subacqueo Andria,GYM,palestra
-41.219757,16.295054,ov_asd_boxe_palumbo_41.2198_16.2951,ASD Boxe Palumbo,GYM,palestra
-41.219759,16.294879,ov_palestra_andria_c__block_10_boxing___mua_41.2198_16.2949,Palestra Andria C. BLOCK 10 Boxing - Muay Thai Vale Tudo Bod,GYM,palestra
-41.219640,16.305930,ov_leaderbet_andria_41.2196_16.3059,Leaderbet andria,GYM,palestra
-41.220619,16.295579,ov_hot_yoga_andria_41.2206_16.2956,Hot Yoga Andria,GYM,palestra
-41.220278,16.284638,ov_urban_dance_andria_41.2203_16.2846,Urban Dance Andria,GYM,palestra
-41.222742,16.307601,ov_getfitstudiopt_41.2227_16.3076,getfitstudiopt,GYM,palestra
-41.221860,16.307000,ov_florigel_futsal_andria_41.2219_16.3070,Florigel Futsal Andria,GYM,palestra
-41.222120,16.307180,ov_centro_aperto_polivalente_per_minori_lol_41.2221_16.3072,Centro Aperto Polivalente per minori LOL,GYM,palestra
-41.221505,16.306511,ov_revolution__the_wellness_community_41.2215_16.3065,Revolution- The Wellness Community,GYM,palestra
-41.224377,16.313226,ov_cubarte_balli_caraibici_41.2244_16.3132,Cubarte Balli Caraibici,GYM,palestra
-41.225250,16.304131,ov_salus_andria_41.2253_16.3041,Salus Andria,GYM,palestra
-41.224853,16.300854,ov_eleven11_41.2249_16.3009,Eleven11,GYM,palestra
-41.224227,16.304028,ov_big_gym_center_fitness_41.2242_16.3040,Big Gym Center Fitness,GYM,palestra
-41.225971,16.311766,ov_total_body_center_41.2260_16.3118,Total Body Center,GYM,palestra
-41.226144,16.300160,ov_welness_revolution_di_pistillo_vincenzo_41.2261_16.3002,Welness Revolution di Pistillo Vincenzo,GYM,palestra
-41.225986,16.299730,ov_harmozein__astarbenesimpara_41.2260_16.2997,Harmozein- astarbenesimpara,GYM,palestra
-41.226498,16.308103,ov_be_motion___studio_chinesiologico_dott_s_41.2265_16.3081,Be Motion - Studio chinesiologico dott.ssa Francesca Di Ruvo,GYM,palestra
-41.227189,16.305078,ov_danzarte_andria_41.2272_16.3051,Danzarte Andria,GYM,palestra
-41.226994,16.303431,ov_club_del_bellessere_41.2270_16.3034,Club del Bellessere,GYM,palestra
-41.227072,16.286485,ov_battiti_danzanti_41.2271_16.2865,Battiti Danzanti,GYM,palestra
-41.228708,16.292267,ov_revenge___associazione_culturale_e_sport_41.2287_16.2923,Revenge - Associazione culturale e sportiva dilettantistica,GYM,palestra
-41.229049,16.306319,ov_palestra_champion_41.2290_16.3063,Palestra Champion,GYM,palestra
-41.228832,16.304207,ov_musincanto_41.2288_16.3042,Musincanto,GYM,palestra
-41.228588,16.305496,ov_nicola_sanzione_41.2286_16.3055,Nicola Sanzione,GYM,palestra
-41.228197,16.305749,ov_wellness_yoga_41.2282_16.3057,Wellness Yoga,GYM,palestra
-41.228377,16.303660,ov_associazione_sportiva_centro_teatro_danz_41.2284_16.3037,Associazione Sportiva Centro Teatro Danza,GYM,palestra
-41.228454,16.297257,ov_cse_centro_sportivo_educativo___team_sga_41.2285_16.2973,CSE Centro Sportivo Educativo - Team Sgaramella,GYM,palestra
-41.228319,16.296706,ov_inequilibrio_41.2283_16.2967,InEquilibrio,GYM,palestra
-41.226065,16.312191,ov_dance_talent_41.2261_16.3122,Dance talent,GYM,palestra
-41.231580,16.303650,ov_roma_club_andria___totti_x_41.2316_16.3037,Roma Club Andria - TOTTI X,GYM,palestra
-41.231167,16.299720,ov_yuness_corner_41.2312_16.2997,Yuness Corner,GYM,palestra
-41.231079,16.300536,ov_savi_dance_studio_41.2311_16.3005,Savi dance studio,GYM,palestra
-41.230661,16.300191,ov_sporting_new_center_41.2307_16.3002,Sporting New Center,GYM,palestra
-41.230726,16.310441,ov_asd_vivo_latino_andria_41.2307_16.3104,Asd Vivo Latino Andria,GYM,palestra
-41.231865,16.303472,ov_colasanto_lab_41.2319_16.3035,Colasanto Lab,GYM,palestra
-41.231790,16.303400,ov_restart_fitness_center__41.2318_16.3034,Restart-Fitness center-,GYM,palestra
-41.231740,16.300168,ov_mb_boutique_fitness_studio_41.2317_16.3002,MB Boutique Fitness Studio,GYM,palestra
-41.232395,16.308736,ov_cse_centro_sportivo_educativo___team_sga_41.2324_16.3087,CSE Centro Sportivo Educativo - Team Sgaramella,GYM,palestra
-41.232791,16.298181,ov_asd_apulia_41.2328_16.2982,ASD Apulia,GYM,palestra
-41.211253,16.292400,ov_gociccigo_41.2113_16.2924,Gociccigo,GYM,palestra
-41.215069,16.293031,ov_house_of_powerful_41.2151_16.2930,House of Powerful,GYM,palestra
-41.178673,16.297559,ov_fattoria_naturalmente_41.1787_16.2976,Fattoria Naturalmente,GYM,palestra
-41.170575,16.263534,ov_centro_ippico_giannelli_asd_41.1706_16.2635,Centro Ippico Giannelli asd,GYM,palestra
+41.244537,16.292711,ov_fitness___fighters_andria_41.2445_16.2927,Fitness & Fighters Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/fitness_fighters_andria_41.2445_16.2927.json,custom
+41.243112,16.294236,ov_spartan_academy_asd_41.2431_16.2942,Spartan Academy ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/spartan_academy_asd_41.2431_16.2942.json,custom
+41.241669,16.285434,ov_old_drill_andria_41.2417_16.2854,Old Drill Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/old_drill_andria_41.2417_16.2854.json,custom
+41.241121,16.294499,ov_universal_gym_41.2411_16.2945,Universal Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/universal_gym_41.2411_16.2945.json,custom
+41.240564,16.294473,ov_studio_personal_training_andria_41.2406_16.2945,Studio Personal Training Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/studio_personal_training_andria_41.2406_16.2945.json,custom
+41.240370,16.306550,ov_swaraya_aps_41.2404_16.3066,Swaraya APS,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/swaraya_aps_41.2404_16.3066.json,custom
+41.236895,16.295671,ov_fitness_emotion_asd_41.2369_16.2957,Fitness Emotion asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/fitness_emotion_asd_41.2369_16.2957.json,custom
+41.235375,16.306422,ov_asd_absolute_gym_41.2354_16.3064,Asd Absolute gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/asd_absolute_gym_41.2354_16.3064.json,custom
+41.235728,16.297995,ov_scuola_di_danza_in_punta_di_piedi_41.2357_16.2980,Scuola Di Danza In Punta Di Piedi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/scuola_di_danza_in_punta_di_piedi_41.2357_16.2980.json,custom
+41.235293,16.283421,ov_nicola_e_annalisa_41.2353_16.2834,Nicola E Annalisa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/nicola_e_annalisa_41.2353_16.2834.json,custom
+41.235010,16.287207,ov_alma_latina_andria___scuola_di_ballo_dan_41.2350_16.2872,Alma Latina Andria - Scuola di ballo danze caraibiche,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/alma_latina_andria_-_scuola_di_ballo_dan_41.2350_16.2872.json,custom
+41.234027,16.298426,ov_scuola_di_ballo_monton_de_estrellas_41.2340_16.2984,Scuola di ballo Monton de Estrellas,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/scuola_di_ballo_monton_de_estrellas_41.2340_16.2984.json,custom
+41.219864,16.289338,ov_centro_subacqueo_andria_41.2199_16.2893,Centro Subacqueo Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/centro_subacqueo_andria_41.2199_16.2893.json,custom
+41.219757,16.295054,ov_asd_boxe_palumbo_41.2198_16.2951,ASD Boxe Palumbo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/asd_boxe_palumbo_41.2198_16.2951.json,custom
+41.219759,16.294879,ov_palestra_andria_c__block_10_boxing___mua_41.2198_16.2949,Palestra Andria C. BLOCK 10 Boxing - Muay Thai Vale Tudo Bod,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/palestra_andria_c_block_10_boxing_-_muay_41.2198_16.2949.json,custom
+41.219640,16.305930,ov_leaderbet_andria_41.2196_16.3059,Leaderbet andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/leaderbet_andria_41.2196_16.3059.json,custom
+41.220619,16.295579,ov_hot_yoga_andria_41.2206_16.2956,Hot Yoga Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/hot_yoga_andria_41.2206_16.2956.json,custom
+41.220278,16.284638,ov_urban_dance_andria_41.2203_16.2846,Urban Dance Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/urban_dance_andria_41.2203_16.2846.json,custom
+41.222742,16.307601,ov_getfitstudiopt_41.2227_16.3076,getfitstudiopt,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/getfitstudiopt_41.2227_16.3076.json,custom
+41.221860,16.307000,ov_florigel_futsal_andria_41.2219_16.3070,Florigel Futsal Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/florigel_futsal_andria_41.2219_16.3070.json,custom
+41.222120,16.307180,ov_centro_aperto_polivalente_per_minori_lol_41.2221_16.3072,Centro Aperto Polivalente per minori LOL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/centro_aperto_polivalente_per_minori_lol_41.2221_16.3072.json,custom
+41.221505,16.306511,ov_revolution__the_wellness_community_41.2215_16.3065,Revolution- The Wellness Community,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/revolution-_the_wellness_community_41.2215_16.3065.json,custom
+41.224377,16.313226,ov_cubarte_balli_caraibici_41.2244_16.3132,Cubarte Balli Caraibici,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/cubarte_balli_caraibici_41.2244_16.3132.json,custom
+41.225250,16.304131,ov_salus_andria_41.2253_16.3041,Salus Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/salus_andria_41.2253_16.3041.json,custom
+41.224853,16.300854,ov_eleven11_41.2249_16.3009,Eleven11,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/eleven11_41.2249_16.3009.json,custom
+41.224227,16.304028,ov_big_gym_center_fitness_41.2242_16.3040,Big Gym Center Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/big_gym_center_fitness_41.2242_16.3040.json,custom
+41.225971,16.311766,ov_total_body_center_41.2260_16.3118,Total Body Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/total_body_center_41.2260_16.3118.json,custom
+41.226144,16.300160,ov_welness_revolution_di_pistillo_vincenzo_41.2261_16.3002,Welness Revolution di Pistillo Vincenzo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/welness_revolution_di_pistillo_vincenzo_41.2261_16.3002.json,custom
+41.225986,16.299730,ov_harmozein__astarbenesimpara_41.2260_16.2997,Harmozein- astarbenesimpara,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/harmozein-_astarbenesimpara_41.2260_16.2997.json,custom
+41.226498,16.308103,ov_be_motion___studio_chinesiologico_dott_s_41.2265_16.3081,Be Motion - Studio chinesiologico dott.ssa Francesca Di Ruvo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/be_motion_-_studio_chinesiologico_dottss_41.2265_16.3081.json,custom
+41.227189,16.305078,ov_danzarte_andria_41.2272_16.3051,Danzarte Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/danzarte_andria_41.2272_16.3051.json,custom
+41.226994,16.303431,ov_club_del_bellessere_41.2270_16.3034,Club del Bellessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/club_del_bellessere_41.2270_16.3034.json,custom
+41.227072,16.286485,ov_battiti_danzanti_41.2271_16.2865,Battiti Danzanti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/battiti_danzanti_41.2271_16.2865.json,custom
+41.228708,16.292267,ov_revenge___associazione_culturale_e_sport_41.2287_16.2923,Revenge - Associazione culturale e sportiva dilettantistica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/revenge_-_associazione_culturale_e_sport_41.2287_16.2923.json,custom
+41.229049,16.306319,ov_palestra_champion_41.2290_16.3063,Palestra Champion,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/palestra_champion_41.2290_16.3063.json,custom
+41.228832,16.304207,ov_musincanto_41.2288_16.3042,Musincanto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/musincanto_41.2288_16.3042.json,custom
+41.228588,16.305496,ov_nicola_sanzione_41.2286_16.3055,Nicola Sanzione,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/nicola_sanzione_41.2286_16.3055.json,custom
+41.228197,16.305749,ov_wellness_yoga_41.2282_16.3057,Wellness Yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/wellness_yoga_41.2282_16.3057.json,custom
+41.228377,16.303660,ov_associazione_sportiva_centro_teatro_danz_41.2284_16.3037,Associazione Sportiva Centro Teatro Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/associazione_sportiva_centro_teatro_danz_41.2284_16.3037.json,custom
+41.228454,16.297257,ov_cse_centro_sportivo_educativo___team_sga_41.2285_16.2973,CSE Centro Sportivo Educativo - Team Sgaramella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/cse_centro_sportivo_educativo_-_team_sga_41.2285_16.2973.json,custom
+41.228319,16.296706,ov_inequilibrio_41.2283_16.2967,InEquilibrio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/inequilibrio_41.2283_16.2967.json,custom
+41.226065,16.312191,ov_dance_talent_41.2261_16.3122,Dance talent,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/dance_talent_41.2261_16.3122.json,custom
+41.231580,16.303650,ov_roma_club_andria___totti_x_41.2316_16.3037,Roma Club Andria - TOTTI X,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/roma_club_andria_-_totti_x_41.2316_16.3037.json,custom
+41.231167,16.299720,ov_yuness_corner_41.2312_16.2997,Yuness Corner,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/yuness_corner_41.2312_16.2997.json,custom
+41.231079,16.300536,ov_savi_dance_studio_41.2311_16.3005,Savi dance studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/savi_dance_studio_41.2311_16.3005.json,custom
+41.230661,16.300191,ov_sporting_new_center_41.2307_16.3002,Sporting New Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/sporting_new_center_41.2307_16.3002.json,custom
+41.230726,16.310441,ov_asd_vivo_latino_andria_41.2307_16.3104,Asd Vivo Latino Andria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/asd_vivo_latino_andria_41.2307_16.3104.json,custom
+41.231865,16.303472,ov_colasanto_lab_41.2319_16.3035,Colasanto Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/colasanto_lab_41.2319_16.3035.json,custom
+41.231790,16.303400,ov_restart_fitness_center__41.2318_16.3034,Restart-Fitness center-,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/restart-fitness_center-_41.2318_16.3034.json,custom
+41.231740,16.300168,ov_mb_boutique_fitness_studio_41.2317_16.3002,MB Boutique Fitness Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/mb_boutique_fitness_studio_41.2317_16.3002.json,custom
+41.232395,16.308736,ov_cse_centro_sportivo_educativo___team_sga_41.2324_16.3087,CSE Centro Sportivo Educativo - Team Sgaramella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/cse_centro_sportivo_educativo_-_team_sga_41.2324_16.3087.json,custom
+41.232791,16.298181,ov_asd_apulia_41.2328_16.2982,ASD Apulia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/asd_apulia_41.2328_16.2982.json,custom
+41.211253,16.292400,ov_gociccigo_41.2113_16.2924,Gociccigo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/gociccigo_41.2113_16.2924.json,custom
+41.215069,16.293031,ov_house_of_powerful_41.2151_16.2930,House of Powerful,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/house_of_powerful_41.2151_16.2930.json,custom
+41.178673,16.297559,ov_fattoria_naturalmente_41.1787_16.2976,Fattoria Naturalmente,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/fattoria_naturalmente_41.1787_16.2976.json,custom
+41.170575,16.263534,ov_centro_ippico_giannelli_asd_41.1706_16.2635,Centro Ippico Giannelli asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/centro_ippico_giannelli_asd_41.1706_16.2635.json,custom
+41.225922,16.311425,osm_total_body_center_41.2259_16.3114,Total Body Center,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andria/pages/total_body_center_41.2259_16.3114.json,custom

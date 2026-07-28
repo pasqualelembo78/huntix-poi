@@ -1,29 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rutigliano -- bars_cafes
-41.012036,17.010916,ov_panta_rei_41.0120_17.0109,Panta Rei,RESTAURANT,bar_cafe
-41.012920,17.005140,ov_niki_bar_night_and_day_41.0129_17.0051,NIKI BAR-night and day,RESTAURANT,bar_cafe
-41.012801,17.003516,ov_perfect_beer_41.0128_17.0035,Perfect Beer,RESTAURANT,bar_cafe
-41.011501,17.006628,ov_caf__mir__41.0115_17.0066,Café Mirò,RESTAURANT,bar_cafe
-41.011079,17.006440,ov_bar_aurora_41.0111_17.0064,Bar Aurora,RESTAURANT,bar_cafe
-41.010768,17.006361,ov_plaza_41.0108_17.0064,Plaza,RESTAURANT,bar_cafe
-41.011555,17.002791,ov_extrablatt_caf__41.0116_17.0028,Extrablatt Café,RESTAURANT,bar_cafe
-41.012988,17.000596,ov_mm_cafe_41.0130_17.0006,MM Cafe,RESTAURANT,bar_cafe
-41.016608,17.000095,ov_my_dill_s_by_zena_41.0166_17.0001,MY Dill's by ZENA,RESTAURANT,bar_cafe
-41.016127,17.000283,ov_soho_bar_41.0161_17.0003,Soho Bar,RESTAURANT,bar_cafe
-41.020837,16.998422,ov_mistral_cafe_41.0208_16.9984,Mistral Cafe,RESTAURANT,bar_cafe
-41.003689,17.005703,ov_namast__al_salotto_41.0037_17.0057,Namastè al Salotto,RESTAURANT,bar_cafe
-41.009507,17.002639,ov_gossip_cafe_41.0095_17.0026,Gossip Cafe,RESTAURANT,bar_cafe
-41.010252,17.006662,ov_blend_41.0103_17.0067,Blend,RESTAURANT,bar_cafe
-41.009713,17.006622,ov_chantal_1_41.0097_17.0066,Chantal 1,RESTAURANT,bar_cafe
-41.009481,17.004836,ov_dai_due_amici_bar_41.0095_17.0048,Dai Due Amici Bar,RESTAURANT,bar_cafe
-41.009078,17.004909,ov_mara_28_41.0091_17.0049,Mara 28,RESTAURANT,bar_cafe
-41.006220,17.006500,ov_bar_incontro_di_vitoantonio_anelli_41.0062_17.0065,Bar Incontro Di Vitoantonio Anelli,RESTAURANT,bar_cafe
-41.009088,17.010996,ov_moonlight_caff__41.0091_17.0110,Moonlight CAFFÈ,RESTAURANT,bar_cafe
-41.009135,17.008837,ov_bar_meeting_41.0091_17.0088,Bar Meeting,RESTAURANT,bar_cafe
-41.008919,17.009364,ov_byblo_s_risto_bar_41.0089_17.0094,Byblo's Risto Bar,RESTAURANT,bar_cafe
-41.009591,17.008013,ov_il_paradiso_perduto_41.0096_17.0080,Il Paradiso Perduto,RESTAURANT,bar_cafe
-41.009960,17.007840,ov_store_h24_41.0100_17.0078,STORE H24,RESTAURANT,bar_cafe
-41.010330,17.007781,ov_ark__caffetteria_41.0103_17.0078,Arkè Caffetteria,RESTAURANT,bar_cafe
-41.005725,17.021071,ov_forem_bar_41.0057_17.0211,Forem Bar,RESTAURANT,bar_cafe
-41.005310,17.010063,ov_eurobar_41.0053_17.0101,Eurobar,RESTAURANT,bar_cafe
-41.003486,17.008477,ov_caf__re_d_italia_41.0035_17.0085,Cafè Re d'Italia,RESTAURANT,bar_cafe
+41.012036,17.010916,ov_panta_rei_41.0120_17.0109,Panta Rei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/panta_rei_41.0120_17.0109.json,custom
+41.012920,17.005140,ov_niki_bar_night_and_day_41.0129_17.0051,NIKI BAR-night and day,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/niki_bar-night_and_day_41.0129_17.0051.json,custom
+41.012801,17.003516,ov_perfect_beer_41.0128_17.0035,Perfect Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/perfect_beer_41.0128_17.0035.json,custom
+41.011501,17.006628,ov_caf__mir__41.0115_17.0066,Café Mirò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/caf_mir_41.0115_17.0066.json,custom
+41.011079,17.006440,ov_bar_aurora_41.0111_17.0064,Bar Aurora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_aurora_41.0111_17.0064.json,custom
+41.010768,17.006361,ov_plaza_41.0108_17.0064,Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/plaza_41.0108_17.0064.json,custom
+41.011555,17.002791,ov_extrablatt_caf__41.0116_17.0028,Extrablatt Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/extrablatt_caf_41.0116_17.0028.json,custom
+41.012988,17.000596,ov_mm_cafe_41.0130_17.0006,MM Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mm_cafe_41.0130_17.0006.json,custom
+41.016608,17.000095,ov_my_dill_s_by_zena_41.0166_17.0001,MY Dill's by ZENA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/my_dills_by_zena_41.0166_17.0001.json,custom
+41.016127,17.000283,ov_soho_bar_41.0161_17.0003,Soho Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/soho_bar_41.0161_17.0003.json,custom
+41.020837,16.998422,ov_mistral_cafe_41.0208_16.9984,Mistral Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mistral_cafe_41.0208_16.9984.json,custom
+41.003689,17.005703,ov_namast__al_salotto_41.0037_17.0057,Namastè al Salotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/namast_al_salotto_41.0037_17.0057.json,custom
+41.009507,17.002639,ov_gossip_cafe_41.0095_17.0026,Gossip Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/gossip_cafe_41.0095_17.0026.json,custom
+41.010252,17.006662,ov_blend_41.0103_17.0067,Blend,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/blend_41.0103_17.0067.json,custom
+41.009713,17.006622,ov_chantal_1_41.0097_17.0066,Chantal 1,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/chantal_1_41.0097_17.0066.json,custom
+41.009481,17.004836,ov_dai_due_amici_bar_41.0095_17.0048,Dai Due Amici Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/dai_due_amici_bar_41.0095_17.0048.json,custom
+41.009078,17.004909,ov_mara_28_41.0091_17.0049,Mara 28,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mara_28_41.0091_17.0049.json,custom
+41.006220,17.006500,ov_bar_incontro_di_vitoantonio_anelli_41.0062_17.0065,Bar Incontro Di Vitoantonio Anelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_incontro_di_vitoantonio_anelli_41.0062_17.0065.json,custom
+41.009088,17.010996,ov_moonlight_caff__41.0091_17.0110,Moonlight CAFFÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/moonlight_caff_41.0091_17.0110.json,custom
+41.009135,17.008837,ov_bar_meeting_41.0091_17.0088,Bar Meeting,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_meeting_41.0091_17.0088.json,custom
+41.008919,17.009364,ov_byblo_s_risto_bar_41.0089_17.0094,Byblo's Risto Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/byblos_risto_bar_41.0089_17.0094.json,custom
+41.009591,17.008013,ov_il_paradiso_perduto_41.0096_17.0080,Il Paradiso Perduto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/il_paradiso_perduto_41.0096_17.0080.json,custom
+41.009960,17.007840,ov_store_h24_41.0100_17.0078,STORE H24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/store_h24_41.0100_17.0078.json,custom
+41.010330,17.007781,ov_ark__caffetteria_41.0103_17.0078,Arkè Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/ark_caffetteria_41.0103_17.0078.json,custom
+41.005725,17.021071,ov_forem_bar_41.0057_17.0211,Forem Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/forem_bar_41.0057_17.0211.json,custom
+41.005310,17.010063,ov_eurobar_41.0053_17.0101,Eurobar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/eurobar_41.0053_17.0101.json,custom
+41.003486,17.008477,ov_caf__re_d_italia_41.0035_17.0085,Cafè Re d'Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/caf_re_ditalia_41.0035_17.0085.json,custom

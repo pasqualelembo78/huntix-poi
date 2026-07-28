@@ -1,6 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # matera -- hospitals
-40.653239,16.611667,osm_ospedale_madonna_delle_grazie_40.6532_16.6117,Ospedale Madonna delle Grazie,hospital,hospital
-40.654160,16.611790,ov_uoc_otorinolaringoiatria___ospedale_di_m_40.6542_16.6118,UOC Otorinolaringoiatria - Ospedale di Matera,HOSPITAL,hospital
-40.653421,16.611676,ov_ospedale_madonna_delle_grazie_40.6534_16.6117,Ospedale Madonna delle Grazie,HOSPITAL,hospital
-40.650131,16.617782,ov_azienda_sanitaria_matera_40.6501_16.6178,Azienda Sanitaria Matera,HOSPITAL,hospital
+40.654160,16.611790,ov_uoc_otorinolaringoiatria___ospedale_di_m_40.6542_16.6118,UOC Otorinolaringoiatria - Ospedale di Matera,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/uoc_otorinolaringoiatria_-_ospedale_di_m_40.6542_16.6118.json,custom
+40.653421,16.611676,ov_ospedale_madonna_delle_grazie_40.6534_16.6117,Ospedale Madonna delle Grazie,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ospedale_madonna_delle_grazie_40.6534_16.6117.json,custom
+40.650131,16.617782,ov_azienda_sanitaria_matera_40.6501_16.6178,Azienda Sanitaria Matera,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/azienda_sanitaria_matera_40.6501_16.6178.json,custom

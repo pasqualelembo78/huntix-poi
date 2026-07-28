@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # campi_salentina -- landmarks
-40.400729,18.019647,ov_lafabbrica__museo_delle_tabacchine_40.4007_18.0196,laFabbrica- Museo delle Tabacchine,MUSEUM,monumento
-40.401920,18.016990,ov_pa__casa_e_putea__museo_del__9oo_e__labo_40.4019_18.0170,"PA, casa e putea, museo del '9oo e  laboratorio d'arte",MUSEUM,monumento
+40.400729,18.019647,ov_lafabbrica__museo_delle_tabacchine_40.4007_18.0196,laFabbrica- Museo delle Tabacchine,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/lafabbrica-_museo_delle_tabacchine_40.4007_18.0196.json,custom
+40.401920,18.016990,ov_pa__casa_e_putea__museo_del__9oo_e__labo_40.4019_18.0170,"PA, casa e putea, museo del '9oo e  laboratorio d'arte",MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/pa_casa_e_putea_museo_del_9oo_e_laborato_40.4019_18.0170.json,custom

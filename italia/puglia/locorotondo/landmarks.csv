@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # locorotondo -- landmarks
-40.751930,17.330400,ov_museo_perle_di_memoria_40.7519_17.3304,Museo Perle Di Memoria,MUSEUM,monumento
-40.799440,17.342400,ov_trullii_del_prete_40.7994_17.3424,TrulliI Del Prete,MONUMENT,monumento
+40.751930,17.330400,ov_museo_perle_di_memoria_40.7519_17.3304,Museo Perle Di Memoria,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/locorotondo/pages/museo_perle_di_memoria_40.7519_17.3304.json,custom
+40.799440,17.342400,ov_trullii_del_prete_40.7994_17.3424,TrulliI Del Prete,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/locorotondo/pages/trullii_del_prete_40.7994_17.3424.json,custom

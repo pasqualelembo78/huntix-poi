@@ -1,61 +1,61 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Ferdinando di Puglia -- Tutti
-41.305913,16.074115,osm_pizzeria_2000_41.3059_16.0741,Pizzeria 2000,ristorante,ristorante
-41.272629,16.030939,ov_villa_cafiero_41.2726_16.0309,Villa Cafiero,RESTAURANT,ristorante
-41.299798,16.062660,ov_trattoria_albergo_roma_41.2998_16.0627,Trattoria Albergo Roma,RESTAURANT,ristorante
-41.301532,16.064229,ov_mil__41.3015_16.0642,MiLó,RESTAURANT,ristorante
-41.301308,16.062711,ov_boulevard_club_41.3013_16.0627,Boulevard Club,RESTAURANT,ristorante
-41.307570,16.070590,ov_villa_dei_pini_41.3076_16.0706,Villa Dei Pini,RESTAURANT,ristorante
-41.302904,16.067877,ov_pane_pizza_e_fantasia_41.3029_16.0679,Pane Pizza e Fantasia,RESTAURANT,ristorante
-41.303038,16.068899,ov_il_segreto_di_pulcinella_41.3030_16.0689,Il Segreto di Pulcinella,RESTAURANT,ristorante
-41.302520,16.068035,ov_astor_41.3025_16.0680,Astor,RESTAURANT,ristorante
-41.302121,16.067656,ov_morsi_e_sfizi_41.3021_16.0677,Morsi e Sfizi,RESTAURANT,ristorante
-41.302184,16.065746,ov_pizzeria_san_cassano_41.3022_16.0657,Pizzeria San Cassano,RESTAURANT,ristorante
-41.301944,16.065060,ov_mamma_mari_41.3019_16.0651,Mamma Mari,RESTAURANT,ristorante
-41.301826,16.065523,ov_la_bruschetta_41.3018_16.0655,La Bruschetta,RESTAURANT,ristorante
-41.299856,16.065540,ov_mangiar_bene_41.2999_16.0655,Mangiar Bene,RESTAURANT,ristorante
-41.300438,16.070983,ov_pizzeria_tot__sapore_41.3004_16.0710,Pizzeria Totò Sapore,RESTAURANT,ristorante
-41.301105,16.070080,ov_il_galletto_41.3011_16.0701,Il Galletto,RESTAURANT,ristorante
-41.298765,16.071646,ov_little_cristin_41.2988_16.0716,Little Cristin,RESTAURANT,ristorante
-41.299209,16.072292,ov_o__sarracin_41.2992_16.0723,O' Sarracin,RESTAURANT,ristorante
-41.298852,16.075942,ov_eurospesa_41.2989_16.0759,Eurospesa,RESTAURANT,ristorante
-41.300135,16.075490,ov_gastro_41.3001_16.0755,Gastro,RESTAURANT,ristorante
-41.305898,16.074113,ov_2000_41.3059_16.0741,2000,RESTAURANT,ristorante
-41.304765,16.075655,ov_dolce_italia_41.3048_16.0757,Dolce Italia,RESTAURANT,ristorante
-41.298490,16.075583,ov_roxy_41.2985_16.0756,Roxy,RESTAURANT,ristorante
-41.297263,16.067256,ov_trattoria_casa_mia_41.2973_16.0673,Trattoria Casa Mia,RESTAURANT,ristorante
-41.313117,16.106046,ov_villa_dei_pini_41.3131_16.1060,Villa dei Pini,RESTAURANT,ristorante
-41.293260,16.037050,ov_stop___drink_41.2933_16.0371,Stop & Drink,RESTAURANT,bar_cafe
-41.300276,16.063753,ov_dreams_41.3003_16.0638,Dreams,RESTAURANT,bar_cafe
-41.301715,16.064040,ov_il_cremino_zero_41.3017_16.0640,Il Cremino.Zero,RESTAURANT,bar_cafe
-41.300650,16.062078,ov_la_terrazza_41.3006_16.0621,La Terrazza,RESTAURANT,bar_cafe
-41.305651,16.072102,ov_shark_pub_41.3057_16.0721,shark_pub,RESTAURANT,bar_cafe
-41.303280,16.072261,ov_gossip_41.3033_16.0723,Gossip,RESTAURANT,bar_cafe
-41.304839,16.069313,ov_doc_41.3048_16.0693,Doc,RESTAURANT,bar_cafe
-41.302821,16.067394,ov_heaven_cafe_41.3028_16.0674,Heaven Cafe,RESTAURANT,bar_cafe
-41.302752,16.067310,ov_gran_bar_ragno_41.3028_16.0673,Gran Bar Ragno,RESTAURANT,bar_cafe
-41.303465,16.067098,ov_ottima_annata_41.3035_16.0671,Ottima Annata,RESTAURANT,bar_cafe
-41.303540,16.068740,ov_bar_pizzeria_la_meridiana_41.3035_16.0687,Bar pizzeria La Meridiana,RESTAURANT,bar_cafe
-41.300799,16.068075,ov_controvento_41.3008_16.0681,Controvento,RESTAURANT,bar_cafe
-41.301480,16.067705,ov_bar_sport_di_capacchione_saverio_bar_caf_41.3015_16.0677,Bar sport di capacchione saverio bar caffè,RESTAURANT,bar_cafe
-41.300963,16.067460,ov_divino_41.3010_16.0675,Divino,RESTAURANT,bar_cafe
-41.302291,16.067863,ov_bar_gelateria_italia_41.3023_16.0679,Bar Gelateria Italia,RESTAURANT,bar_cafe
-41.301669,16.066327,ov_tratto_pub_little_christin_41.3017_16.0663,Tratto Pub Little Christin,RESTAURANT,bar_cafe
-41.302229,16.066124,ov_gran_caffe_torino_41.3022_16.0661,Gran Caffe Torino,RESTAURANT,bar_cafe
-41.302531,16.066410,ov_caff__bonini_41.3025_16.0664,Caffè Bonini,RESTAURANT,bar_cafe
-41.300081,16.070886,ov_cialuna_41.3001_16.0709,Cialuna,RESTAURANT,bar_cafe
-41.301910,16.069604,ov_london_caffe_41.3019_16.0696,London Caffe,RESTAURANT,bar_cafe
-41.299110,16.076050,ov_jenny_store_coffee_41.2991_16.0760,Jenny Store Coffee,RESTAURANT,bar_cafe
-41.300233,16.075371,ov_levante_41.3002_16.0754,Levante,RESTAURANT,bar_cafe
-41.302800,16.067254,osm_heaven_caf__41.3028_16.0673,Heaven Cafè,bar_cafe,bar_cafe
-41.301834,16.064504,ov_ordaunia_41.3018_16.0645,Ordaunia,GYM,palestra
-41.307161,16.067121,ov_icare_danzaefitness_41.3072_16.0671,Icare Danzaefitness,GYM,palestra
-41.302709,16.071704,ov_cadal_trainer_lab_41.3027_16.0717,Cadal Trainer LAB,GYM,palestra
-41.306015,16.070606,ov_stelle_danzanti_41.3060_16.0706,Stelle Danzanti,GYM,palestra
-41.302410,16.071469,ov_palestra_wellfit_41.3024_16.0715,Palestra Wellfit,GYM,palestra
-41.299015,16.075395,ov_palestra_wellness_41.2990_16.0754,Palestra Wellness,GYM,palestra
-41.305263,16.074863,ov_asd_cureforme__fitness_and_gym_41.3053_16.0749,Asd Cureforme- Fitness And Gym,GYM,palestra
-41.305460,16.078260,ov_flexibility_41.3055_16.0783,Flexibility,GYM,palestra
-41.305622,16.078260,ov_the_warrior_gym_41.3056_16.0783,The Warrior Gym,GYM,palestra
-41.298286,16.075417,ov_centro_sportivo_daniele_bruno_41.2983_16.0754,Centro Sportivo Daniele Bruno,GYM,palestra
-41.297170,16.064525,ov_fitnesslab_laboratorio_del_fitness_41.2972_16.0645,Fitnesslab Laboratorio del fitness,GYM,palestra
+41.272629,16.030939,ov_villa_cafiero_41.2726_16.0309,Villa Cafiero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/villa_cafiero_41.2726_16.0309.json,custom
+41.299798,16.062660,ov_trattoria_albergo_roma_41.2998_16.0627,Trattoria Albergo Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/trattoria_albergo_roma_41.2998_16.0627.json,custom
+41.301532,16.064229,ov_mil__41.3015_16.0642,MiLó,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/mil_41.3015_16.0642.json,custom
+41.301308,16.062711,ov_boulevard_club_41.3013_16.0627,Boulevard Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/boulevard_club_41.3013_16.0627.json,custom
+41.307570,16.070590,ov_villa_dei_pini_41.3076_16.0706,Villa Dei Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/villa_dei_pini_41.3076_16.0706.json,custom
+41.302904,16.067877,ov_pane_pizza_e_fantasia_41.3029_16.0679,Pane Pizza e Fantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/pane_pizza_e_fantasia_41.3029_16.0679.json,custom
+41.303038,16.068899,ov_il_segreto_di_pulcinella_41.3030_16.0689,Il Segreto di Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/il_segreto_di_pulcinella_41.3030_16.0689.json,custom
+41.302520,16.068035,ov_astor_41.3025_16.0680,Astor,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/astor_41.3025_16.0680.json,custom
+41.302121,16.067656,ov_morsi_e_sfizi_41.3021_16.0677,Morsi e Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/morsi_e_sfizi_41.3021_16.0677.json,custom
+41.302184,16.065746,ov_pizzeria_san_cassano_41.3022_16.0657,Pizzeria San Cassano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/pizzeria_san_cassano_41.3022_16.0657.json,custom
+41.301944,16.065060,ov_mamma_mari_41.3019_16.0651,Mamma Mari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/mamma_mari_41.3019_16.0651.json,custom
+41.301826,16.065523,ov_la_bruschetta_41.3018_16.0655,La Bruschetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/la_bruschetta_41.3018_16.0655.json,custom
+41.299856,16.065540,ov_mangiar_bene_41.2999_16.0655,Mangiar Bene,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/mangiar_bene_41.2999_16.0655.json,custom
+41.300438,16.070983,ov_pizzeria_tot__sapore_41.3004_16.0710,Pizzeria Totò Sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/pizzeria_tot_sapore_41.3004_16.0710.json,custom
+41.301105,16.070080,ov_il_galletto_41.3011_16.0701,Il Galletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/il_galletto_41.3011_16.0701.json,custom
+41.298765,16.071646,ov_little_cristin_41.2988_16.0716,Little Cristin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/little_cristin_41.2988_16.0716.json,custom
+41.299209,16.072292,ov_o__sarracin_41.2992_16.0723,O' Sarracin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/o_sarracin_41.2992_16.0723.json,custom
+41.298852,16.075942,ov_eurospesa_41.2989_16.0759,Eurospesa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/eurospesa_41.2989_16.0759.json,custom
+41.300135,16.075490,ov_gastro_41.3001_16.0755,Gastro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/gastro_41.3001_16.0755.json,custom
+41.305898,16.074113,ov_2000_41.3059_16.0741,2000,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/2000_41.3059_16.0741.json,custom
+41.304765,16.075655,ov_dolce_italia_41.3048_16.0757,Dolce Italia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/dolce_italia_41.3048_16.0757.json,custom
+41.298490,16.075583,ov_roxy_41.2985_16.0756,Roxy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/roxy_41.2985_16.0756.json,custom
+41.297263,16.067256,ov_trattoria_casa_mia_41.2973_16.0673,Trattoria Casa Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/trattoria_casa_mia_41.2973_16.0673.json,custom
+41.313117,16.106046,ov_villa_dei_pini_41.3131_16.1060,Villa dei Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/villa_dei_pini_41.3131_16.1060.json,custom
+41.305913,16.074115,osm_pizzeria_2000_41.3059_16.0741,Pizzeria 2000,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/pizzeria_2000_41.3059_16.0741.json,custom
+41.293260,16.037050,ov_stop___drink_41.2933_16.0371,Stop & Drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/stop_drink_41.2933_16.0371.json,custom
+41.300276,16.063753,ov_dreams_41.3003_16.0638,Dreams,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/dreams_41.3003_16.0638.json,custom
+41.301715,16.064040,ov_il_cremino_zero_41.3017_16.0640,Il Cremino.Zero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/il_creminozero_41.3017_16.0640.json,custom
+41.300650,16.062078,ov_la_terrazza_41.3006_16.0621,La Terrazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/la_terrazza_41.3006_16.0621.json,custom
+41.305651,16.072102,ov_shark_pub_41.3057_16.0721,shark_pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/sharkpub_41.3057_16.0721.json,custom
+41.303280,16.072261,ov_gossip_41.3033_16.0723,Gossip,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/gossip_41.3033_16.0723.json,custom
+41.304839,16.069313,ov_doc_41.3048_16.0693,Doc,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/doc_41.3048_16.0693.json,custom
+41.302821,16.067394,ov_heaven_cafe_41.3028_16.0674,Heaven Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/heaven_cafe_41.3028_16.0674.json,custom
+41.302752,16.067310,ov_gran_bar_ragno_41.3028_16.0673,Gran Bar Ragno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/gran_bar_ragno_41.3028_16.0673.json,custom
+41.303465,16.067098,ov_ottima_annata_41.3035_16.0671,Ottima Annata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/ottima_annata_41.3035_16.0671.json,custom
+41.303540,16.068740,ov_bar_pizzeria_la_meridiana_41.3035_16.0687,Bar pizzeria La Meridiana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/bar_pizzeria_la_meridiana_41.3035_16.0687.json,custom
+41.300799,16.068075,ov_controvento_41.3008_16.0681,Controvento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/controvento_41.3008_16.0681.json,custom
+41.301480,16.067705,ov_bar_sport_di_capacchione_saverio_bar_caf_41.3015_16.0677,Bar sport di capacchione saverio bar caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/bar_sport_di_capacchione_saverio_bar_caf_41.3015_16.0677.json,custom
+41.300963,16.067460,ov_divino_41.3010_16.0675,Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/divino_41.3010_16.0675.json,custom
+41.302291,16.067863,ov_bar_gelateria_italia_41.3023_16.0679,Bar Gelateria Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/bar_gelateria_italia_41.3023_16.0679.json,custom
+41.301669,16.066327,ov_tratto_pub_little_christin_41.3017_16.0663,Tratto Pub Little Christin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/tratto_pub_little_christin_41.3017_16.0663.json,custom
+41.302229,16.066124,ov_gran_caffe_torino_41.3022_16.0661,Gran Caffe Torino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/gran_caffe_torino_41.3022_16.0661.json,custom
+41.302531,16.066410,ov_caff__bonini_41.3025_16.0664,Caffè Bonini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/caff_bonini_41.3025_16.0664.json,custom
+41.300081,16.070886,ov_cialuna_41.3001_16.0709,Cialuna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/cialuna_41.3001_16.0709.json,custom
+41.301910,16.069604,ov_london_caffe_41.3019_16.0696,London Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/london_caffe_41.3019_16.0696.json,custom
+41.299110,16.076050,ov_jenny_store_coffee_41.2991_16.0760,Jenny Store Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/jenny_store_coffee_41.2991_16.0760.json,custom
+41.300233,16.075371,ov_levante_41.3002_16.0754,Levante,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/levante_41.3002_16.0754.json,custom
+41.302800,16.067254,osm_heaven_caf__41.3028_16.0673,Heaven Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/heaven_caf_41.3028_16.0673.json,custom
+41.301834,16.064504,ov_ordaunia_41.3018_16.0645,Ordaunia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/ordaunia_41.3018_16.0645.json,custom
+41.307161,16.067121,ov_icare_danzaefitness_41.3072_16.0671,Icare Danzaefitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/icare_danzaefitness_41.3072_16.0671.json,custom
+41.302709,16.071704,ov_cadal_trainer_lab_41.3027_16.0717,Cadal Trainer LAB,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/cadal_trainer_lab_41.3027_16.0717.json,custom
+41.306015,16.070606,ov_stelle_danzanti_41.3060_16.0706,Stelle Danzanti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/stelle_danzanti_41.3060_16.0706.json,custom
+41.302410,16.071469,ov_palestra_wellfit_41.3024_16.0715,Palestra Wellfit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/palestra_wellfit_41.3024_16.0715.json,custom
+41.299015,16.075395,ov_palestra_wellness_41.2990_16.0754,Palestra Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/palestra_wellness_41.2990_16.0754.json,custom
+41.305263,16.074863,ov_asd_cureforme__fitness_and_gym_41.3053_16.0749,Asd Cureforme- Fitness And Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/asd_cureforme-_fitness_and_gym_41.3053_16.0749.json,custom
+41.305460,16.078260,ov_flexibility_41.3055_16.0783,Flexibility,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/flexibility_41.3055_16.0783.json,custom
+41.305622,16.078260,ov_the_warrior_gym_41.3056_16.0783,The Warrior Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/the_warrior_gym_41.3056_16.0783.json,custom
+41.298286,16.075417,ov_centro_sportivo_daniele_bruno_41.2983_16.0754,Centro Sportivo Daniele Bruno,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/centro_sportivo_daniele_bruno_41.2983_16.0754.json,custom
+41.297170,16.064525,ov_fitnesslab_laboratorio_del_fitness_41.2972_16.0645,Fitnesslab Laboratorio del fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_ferdinando_di_puglia/pages/fitnesslab_laboratorio_del_fitness_41.2972_16.0645.json,custom

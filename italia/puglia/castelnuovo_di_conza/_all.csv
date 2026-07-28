@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Castelnuovo di Conza -- Tutti
-40.800610,15.281367,ov_ristorante_pizzeria_ponte_temete_40.8006_15.2814,Ristorante Pizzeria Ponte Temete,RESTAURANT,ristorante
-40.816740,15.288913,ov_settebello_40.8167_15.2889,Settebello,RESTAURANT,ristorante
-40.826350,15.293980,ov_temete_40.8263_15.2940,Temete,RESTAURANT,bar_cafe
+40.800610,15.281367,ov_ristorante_pizzeria_ponte_temete_40.8006_15.2814,Ristorante Pizzeria Ponte Temete,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_di_conza/pages/ristorante_pizzeria_ponte_temete_40.8006_15.2814.json,custom
+40.816740,15.288913,ov_settebello_40.8167_15.2889,Settebello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_di_conza/pages/settebello_40.8167_15.2889.json,custom
+40.826350,15.293980,ov_temete_40.8263_15.2940,Temete,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelnuovo_di_conza/pages/temete_40.8263_15.2940.json,custom

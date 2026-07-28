@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ceglie_messapica -- gyms
-40.643542,17.508527,ov_palestra_gym_18_i_ceglie_messapica_40.6435_17.5085,Palestra Gym 18 I Ceglie Messapica,GYM,palestra
-40.648220,17.511831,ov_los_matadores___scuola_di_ballo_40.6482_17.5118,Los Matadores - Scuola di ballo,GYM,palestra
-40.643315,17.519788,ov_palestra_world_fitness_40.6433_17.5198,Palestra World fitness,GYM,palestra
-40.642586,17.516489,ov_artmove_40.6426_17.5165,ArtMove,GYM,palestra
-40.642460,17.516860,ov_grest___company_40.6425_17.5169,GREST & Company,GYM,palestra
-40.642340,17.520930,ov_infinity_asd_40.6423_17.5209,Infinity asd,GYM,palestra
-40.639373,17.512140,ov_tonifit_palestra_40.6394_17.5121,Tonifit Palestra,GYM,palestra
-40.630806,17.526803,ov_jgym_40.6308_17.5268,JGYM,GYM,palestra
+40.643542,17.508527,ov_palestra_gym_18_i_ceglie_messapica_40.6435_17.5085,Palestra Gym 18 I Ceglie Messapica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/palestra_gym_18_i_ceglie_messapica_40.6435_17.5085.json,custom
+40.648220,17.511831,ov_los_matadores___scuola_di_ballo_40.6482_17.5118,Los Matadores - Scuola di ballo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/los_matadores_-_scuola_di_ballo_40.6482_17.5118.json,custom
+40.643315,17.519788,ov_palestra_world_fitness_40.6433_17.5198,Palestra World fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/palestra_world_fitness_40.6433_17.5198.json,custom
+40.642586,17.516489,ov_artmove_40.6426_17.5165,ArtMove,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/artmove_40.6426_17.5165.json,custom
+40.642460,17.516860,ov_grest___company_40.6425_17.5169,GREST & Company,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/grest_company_40.6425_17.5169.json,custom
+40.642340,17.520930,ov_infinity_asd_40.6423_17.5209,Infinity asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/infinity_asd_40.6423_17.5209.json,custom
+40.639373,17.512140,ov_tonifit_palestra_40.6394_17.5121,Tonifit Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/tonifit_palestra_40.6394_17.5121.json,custom
+40.630806,17.526803,ov_jgym_40.6308_17.5268,JGYM,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceglie_messapica/pages/jgym_40.6308_17.5268.json,custom

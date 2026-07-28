@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_marco_la_catola -- bars_cafes
-41.526724,15.005535,ov_ieronimo_caf__41.5267_15.0055,Ieronimo Cafè,RESTAURANT,bar_cafe
-41.525918,15.004555,ov_bar_giando_41.5259_15.0046,Bar Giando,RESTAURANT,bar_cafe
+41.526724,15.005535,ov_ieronimo_caf__41.5267_15.0055,Ieronimo Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_la_catola/pages/ieronimo_caf_41.5267_15.0055.json,custom
+41.525918,15.004555,ov_bar_giando_41.5259_15.0046,Bar Giando,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marco_la_catola/pages/bar_giando_41.5259_15.0046.json,custom

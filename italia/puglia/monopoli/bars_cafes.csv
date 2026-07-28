@@ -1,130 +1,130 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # monopoli -- bars_cafes
-40.891507,17.242870,ov_bar_pineta_di_fanizzi_andrea_40.8915_17.2429,Bar Pineta Di Fanizzi Andrea,RESTAURANT,bar_cafe
-40.869717,17.279562,ov_mood_caff__40.8697_17.2796,Mood caffè,RESTAURANT,bar_cafe
-40.894489,17.378894,ov_atelier_del_gusto_summer_40.8945_17.3789,Atelier del Gusto Summer,RESTAURANT,bar_cafe
-40.895005,17.332706,ov_mirval___coffee_drink_food_40.8950_17.3327,MIRVAL - coffee drink food,RESTAURANT,bar_cafe
-40.884198,17.313569,ov_estilos_40.8842_17.3136,Estilos,RESTAURANT,bar_cafe
-40.910511,17.321624,ov_anpati_40.9105_17.3216,Anpati,RESTAURANT,bar_cafe
-40.913790,17.342270,ov_bar_del_capitolo_40.9138_17.3423,Bar Del Capitolo,RESTAURANT,bar_cafe
-40.914753,17.343819,ov_torre_cafe_40.9148_17.3438,Torre Cafe,RESTAURANT,bar_cafe
-40.907511,17.347620,ov_gape_40.9075_17.3476,Gape,RESTAURANT,bar_cafe
-40.904705,17.351377,ov_nura___serendipity_garden_40.9047_17.3514,Nura - Serendipity Garden,RESTAURANT,bar_cafe
-40.901850,17.348620,ov_le_birre_del_bombo_40.9019_17.3486,Le birre del Bombo,RESTAURANT,bar_cafe
-40.903310,17.345360,ov_alchemicamente_al_cavaliere_40.9033_17.3454,Alchemicamente al Cavaliere,RESTAURANT,bar_cafe
-40.905608,17.348735,ov_kapitolo_klub_40.9056_17.3487,Kapitolo Klub,RESTAURANT,bar_cafe
-40.905744,17.348906,ov_al_kapitolo_klub_40.9057_17.3489,Al Kapitolo Klub,RESTAURANT,bar_cafe
-40.898569,17.366668,ov_alborada_beach_40.8986_17.3667,Alborada Beach,RESTAURANT,bar_cafe
-40.848010,17.292599,ov_savelletri_porto_40.8480_17.2926,Savelletri Porto,RESTAURANT,bar_cafe
-40.960762,17.268628,ov_gusto_bar_e_cucina_40.9608_17.2686,Gusto bar e cucina,RESTAURANT,bar_cafe
-40.960432,17.268380,ov_bar_pausa_caff__40.9604_17.2684,Bar Pausa Caffè,RESTAURANT,bar_cafe
-40.970670,17.266720,ov_blast_beach_40.9707_17.2667,Blast Beach,RESTAURANT,bar_cafe
-40.965460,17.279760,ov_friendly_caf__40.9655_17.2798,Friendly Cafè,RESTAURANT,bar_cafe
-40.961137,17.291342,ov_alchemicamente_chine_40.9611_17.2913,Alchemicamente Chine,RESTAURANT,bar_cafe
-40.960961,17.289306,ov_radha_lido_40.9610_17.2893,Radha Lido,RESTAURANT,bar_cafe
-40.959918,17.281218,ov_nonsolocaffe__monopoli_40.9599_17.2812,Nonsolocaffe' Monopoli,RESTAURANT,bar_cafe
-40.959834,17.289986,ov_las_vegas_slot_room_40.9598_17.2900,Las Vegas Slot Room,RESTAURANT,bar_cafe
-40.958886,17.291991,ov_q_cafe_40.9589_17.2920,Q Cafe,RESTAURANT,bar_cafe
-40.958561,17.296137,ov_p23_frizzcaf__al_mare_40.9586_17.2961,P23 Frizzcafé al Mare,RESTAURANT,bar_cafe
-40.955704,17.297113,ov_bar_italia_di_colella_modesto_40.9557_17.2971,Bar Italia di Colella Modesto,RESTAURANT,bar_cafe
-40.954901,17.298489,ov_bar_insomnia_caf__40.9549_17.2985,Bar Insomnia Cafè,RESTAURANT,bar_cafe
-40.954554,17.298149,ov_enoteca_il_tralcio_1986_40.9546_17.2981,Enoteca il Tralcio 1986,RESTAURANT,bar_cafe
-40.954109,17.297873,ov_bar_centrale_40.9541_17.2979,Bar Centrale,RESTAURANT,bar_cafe
-40.954185,17.297182,ov_vin__40.9542_17.2972,Viné,RESTAURANT,bar_cafe
-40.953319,17.296533,ov_veneto_caffe_40.9533_17.2965,Veneto Caffe,RESTAURANT,bar_cafe
-40.953220,17.299812,ov_veritas_40.9532_17.2998,Veritas,RESTAURANT,bar_cafe
-40.953335,17.299767,ov_primo_caffe_italiano_40.9533_17.2998,Primo Caffe Italiano,RESTAURANT,bar_cafe
-40.953136,17.300870,ov_alchemy_bar_and_things_40.9531_17.3009,Alchemy Bar and Things,RESTAURANT,bar_cafe
-40.953135,17.305014,ov_caffe_nel_chiasso_40.9531_17.3050,Caffe nel Chiasso,RESTAURANT,bar_cafe
-40.953685,17.305160,ov_caff__letterario_40.9537_17.3052,Caffè Letterario,RESTAURANT,bar_cafe
-40.953716,17.302944,ov_la_vite_turchese_40.9537_17.3029,La Vite Turchese,RESTAURANT,bar_cafe
-40.953903,17.305402,ov_tamborr_40.9539_17.3054,Tamborr,RESTAURANT,bar_cafe
-40.953653,17.305557,ov_n24_bar_a_vin_40.9537_17.3056,N24 Bar a Vin,RESTAURANT,bar_cafe
-40.950373,17.304909,ov_kambusa_rock_bar_40.9504_17.3049,Kambusa Rock Bar,RESTAURANT,bar_cafe
-40.949922,17.303108,ov_la_tana_del_luppolo_40.9499_17.3031,La Tana del Luppolo,RESTAURANT,bar_cafe
-40.949378,17.305554,ov_boca_music_bar_40.9494_17.3056,Boca Music Bar,RESTAURANT,bar_cafe
-40.948450,17.306205,ov_mezzopieno_40.9485_17.3062,Mezzopieno,RESTAURANT,bar_cafe
-40.948417,17.305766,ov_piazza_di_spagna_cafe_40.9484_17.3058,Piazza di Spagna Cafe,RESTAURANT,bar_cafe
-40.948605,17.302694,ov_la_stanza_degli_ospiti_40.9486_17.3027,la stanza degli ospiti,RESTAURANT,bar_cafe
-40.948756,17.301797,ov_la_bottega_del_vino_40.9488_17.3018,La Bottega del Vino,RESTAURANT,bar_cafe
-40.948631,17.302297,ov_la_nave_40.9486_17.3023,La Nave,RESTAURANT,bar_cafe
-40.950000,17.300000,ov_monopoli_lungomare_40.9500_17.3000,Monopoli Lungomare,RESTAURANT,bar_cafe
-40.950760,17.296920,ov_gheus_a_40.9508_17.2969,Gheusìa,RESTAURANT,bar_cafe
-40.950663,17.297775,ov_bar_galleria_40.9507_17.2978,Bar Galleria,RESTAURANT,bar_cafe
-40.951422,17.297424,ov_enoteca_dolci_tentazioni_40.9514_17.2974,Enoteca Dolci Tentazioni,RESTAURANT,bar_cafe
-40.951780,17.297903,ov_pepe_nero_caffe_40.9518_17.2979,Pepe Nero Caffe,RESTAURANT,bar_cafe
-40.951771,17.299012,ov_c_les_bar_caf__drink___chill_40.9518_17.2990,Càles Bar Cafè Drink & Chill,RESTAURANT,bar_cafe
-40.951654,17.299071,ov_bar_raimondi_40.9517_17.2991,Bar Raimondi,RESTAURANT,bar_cafe
-40.951348,17.300531,ov_natale_cafe_40.9513_17.3005,Natale Cafe,RESTAURANT,bar_cafe
-40.951587,17.300352,ov_bar_altamarea_40.9516_17.3004,Bar altamarea,RESTAURANT,bar_cafe
-40.951619,17.301372,ov_rosso_granato_monopoli_40.9516_17.3014,Rosso Granato Monopoli,RESTAURANT,bar_cafe
-40.951371,17.301269,ov_vean_cafe_40.9514_17.3013,Vean Cafe,RESTAURANT,bar_cafe
-40.950849,17.301612,ov_monsignore_caffetteria_40.9508_17.3016,Monsignore Caffetteria,RESTAURANT,bar_cafe
-40.950753,17.301753,ov_juan_carlos_caf__cocktail_bar_40.9508_17.3018,Juan Carlos Cafè Cocktail Bar,RESTAURANT,bar_cafe
-40.950975,17.302638,ov_caffe_roma_40.9510_17.3026,Caffe Roma,RESTAURANT,bar_cafe
-40.950842,17.305332,ov_gallo_nero_40.9508_17.3053,Gallo Nero,RESTAURANT,bar_cafe
-40.950625,17.305020,ov_mezcla_a_monopoli_40.9506_17.3050,Mezcla a Monopoli,RESTAURANT,bar_cafe
-40.950521,17.305045,ov_caffetteria_antiche_mura_40.9505_17.3050,Caffetteria Antiche Mura,RESTAURANT,bar_cafe
-40.951196,17.302830,ov_frizz_cafe_40.9512_17.3028,Frizz Cafe,RESTAURANT,bar_cafe
-40.952387,17.302481,ov_room_21_40.9524_17.3025,Room 21,RESTAURANT,bar_cafe
-40.952129,17.303617,ov_paoletto_barman_culture_40.9521_17.3036,Paoletto Barman Culture,RESTAURANT,bar_cafe
-40.952144,17.305985,ov_baldovino_winebar_40.9521_17.3060,Baldovino Winebar,RESTAURANT,bar_cafe
-40.952850,17.304501,ov_sottocoperta_40.9529_17.3045,Sottocoperta,RESTAURANT,bar_cafe
-40.952518,17.304192,ov_mir_mir_enoteca___wine_bar_monopoli_40.9525_17.3042,MIR MIR Enoteca | Wine Bar Monopoli,RESTAURANT,bar_cafe
-40.952824,17.303043,ov_20m2_monopoli_40.9528_17.3030,20m2 Monopoli,RESTAURANT,bar_cafe
-40.952838,17.302960,ov_caf__machiavelli_monopoli_40.9528_17.3030,Cafè Machiavelli Monopoli,RESTAURANT,bar_cafe
-40.952832,17.303250,ov_garibaldi_steakhouse_40.9528_17.3032,Garibaldi Steakhouse,RESTAURANT,bar_cafe
-40.952851,17.303396,ov_sabu_caffe_chiringuito_40.9529_17.3034,Sabu Caffe Chiringuito,RESTAURANT,bar_cafe
-40.953078,17.303709,ov_premiato_caff__venezia_40.9531_17.3037,Premiato Caffè Venezia,RESTAURANT,bar_cafe
-40.953040,17.303340,ov_papilla_peccati_di_gola_40.9530_17.3033,Papilla Peccati di Gola,RESTAURANT,bar_cafe
-40.952993,17.300520,ov_crema_caff__centro_40.9530_17.3005,Crema Caffè Centro,RESTAURANT,bar_cafe
-40.953008,17.300555,ov_bar_smeraldo_40.9530_17.3006,Bar Smeraldo,RESTAURANT,bar_cafe
-40.952032,17.301790,ov_zero_cocktail_bar_40.9520_17.3018,Zero Cocktail Bar,RESTAURANT,bar_cafe
-40.952058,17.300952,ov_ufficiobevetti___monopoli_40.9521_17.3010,UfficioBevetti - Monopoli,RESTAURANT,bar_cafe
-40.951869,17.299346,ov_casablanca_caf__40.9519_17.2993,Casablanca Café,RESTAURANT,bar_cafe
-40.952255,17.297401,ov_dolce_amaro_40.9523_17.2974,Dolce Amaro,RESTAURANT,bar_cafe
-40.952572,17.297979,ov_iridium_caf__40.9526_17.2980,Iridium Café,RESTAURANT,bar_cafe
-40.952735,17.298861,ov_modoo_40.9527_17.2989,Modoo,RESTAURANT,bar_cafe
-40.952283,17.293833,ov_el_dorado_caf__40.9523_17.2938,El dorado café,RESTAURANT,bar_cafe
-40.952126,17.292557,ov_bar_della_stazione_monopoli_40.9521_17.2926,Bar della Stazione Monopoli,RESTAURANT,bar_cafe
-40.951686,17.295520,ov_gran_caffe_del_radar_40.9517_17.2955,Gran Caffe Del Radar,RESTAURANT,bar_cafe
-40.949604,17.291901,ov_dante_s_caffetteria_40.9496_17.2919,Dante's Caffetteria,RESTAURANT,bar_cafe
-40.948826,17.291643,ov_sabatelli_pasticceria_caffetteria_40.9488_17.2916,sabatelli pasticceria caffetteria,RESTAURANT,bar_cafe
-40.948917,17.291606,ov_crema_caff__40.9489_17.2916,Crema Caffè,RESTAURANT,bar_cafe
-40.954183,17.289772,ov_eurocaf_monopoli_40.9542_17.2898,EuroCaf Monopoli,RESTAURANT,bar_cafe
-40.954048,17.295650,ov_bar_milan_40.9540_17.2956,Bar Milan,RESTAURANT,bar_cafe
-40.954068,17.295616,ov_cauli_caffe_40.9541_17.2956,Cauli Caffe,RESTAURANT,bar_cafe
-40.954054,17.295294,ov_brasserie_d_avril_40.9541_17.2953,Brasserie D'Avril,RESTAURANT,bar_cafe
-40.953799,17.290844,ov_caff__del_drago_40.9538_17.2908,Caffè del Drago,RESTAURANT,bar_cafe
-40.955599,17.296068,ov_ni_mar_40.9556_17.2961,Ni.Mar,RESTAURANT,bar_cafe
-40.955340,17.293141,ov_bar_pasticceria_capriccio_40.9553_17.2931,Bar Pasticceria Capriccio,RESTAURANT,bar_cafe
-40.956139,17.287896,ov_garden_pub_40.9561_17.2879,Garden Pub,RESTAURANT,bar_cafe
-40.956780,17.290470,ov_barbiancoverdemonopoli_40.9568_17.2905,Barbiancoverdemonopoli,RESTAURANT,bar_cafe
-40.956766,17.291461,ov_birra_del_console_40.9568_17.2915,Birra del Console,RESTAURANT,bar_cafe
-40.957395,17.295266,ov_green_wave_40.9574_17.2953,green wave,RESTAURANT,bar_cafe
-40.957769,17.294273,ov_elite_cafe_40.9578_17.2943,Elite Cafe,RESTAURANT,bar_cafe
-40.958120,17.294800,ov_tamborr_legend_bar_and_40.9581_17.2948,Tamborr Legend Bar and,RESTAURANT,bar_cafe
-40.957285,17.289269,ov_il_nuovo_baretto_40.9573_17.2893,Il nuovo Baretto,RESTAURANT,bar_cafe
-40.958002,17.286242,ov_java_caf__40.9580_17.2862,Java Cafè,RESTAURANT,bar_cafe
-40.957329,17.281990,ov_bricocaff__40.9573_17.2820,BricoCaffé,RESTAURANT,bar_cafe
-40.944898,17.292270,ov_caff__del_sol_monopoli_40.9449_17.2923,Caffè del Sol Monopoli,RESTAURANT,bar_cafe
-40.944939,17.286251,ov_tiger_bar_40.9449_17.2863,Tiger Bar,RESTAURANT,bar_cafe
-40.944910,17.286440,ov_bar_crema_caff__monopoli_40.9449_17.2864,Bar Crema Caffè Monopoli,RESTAURANT,bar_cafe
-40.944156,17.305128,ov_glevum_birreria_40.9442_17.3051,Glevum Birreria,RESTAURANT,bar_cafe
-40.945867,17.297000,ov_tiffany_bar_40.9459_17.2970,Tiffany Bar,RESTAURANT,bar_cafe
-40.946006,17.300442,ov_il_nuovo_eden_40.9460_17.3004,Il Nuovo Eden,RESTAURANT,bar_cafe
-40.946901,17.304327,ov_blanco_cafe_40.9469_17.3043,Blanco Cafe,RESTAURANT,bar_cafe
-40.947385,17.305878,ov_elitecaf__40.9474_17.3059,EliteCafé,RESTAURANT,bar_cafe
-40.947178,17.305572,ov_mercedes_cafe_40.9472_17.3056,Mercedes Cafe,RESTAURANT,bar_cafe
-40.945757,17.309689,ov_porto_nero_40.9458_17.3097,Porto Nero,RESTAURANT,bar_cafe
-40.941050,17.309395,ov_new_coffee_40.9410_17.3094,New Coffee,RESTAURANT,bar_cafe
-40.942480,17.312550,ov_oltremare_caf__40.9425_17.3126,Oltremare Cafè,RESTAURANT,bar_cafe
-40.940789,17.305717,ov_bar_raimondi_40.9408_17.3057,Bar Raimondi,RESTAURANT,bar_cafe
-40.938731,17.318251,ov_calamarena_40.9387_17.3183,Calamarena,RESTAURANT,bar_cafe
-40.948531,17.302334,osm_bar_la_nave_40.9485_17.3023,Bar La Nave,bar_cafe,bar_cafe
-40.959556,17.290896,osm_klefil_caf__s_n_c__40.9596_17.2909,Klefil Cafè s.n.c.,bar_cafe,bar_cafe
-40.953085,17.303685,osm_premiato_caffe_venezia_40.9531_17.3037,Premiato Caffe Venezia,bar_cafe,bar_cafe
-40.950962,17.302684,osm_caff__roma_40.9510_17.3027,Caffè Roma,bar_cafe,bar_cafe
-40.951931,17.305367,osm_jungle_40.9519_17.3054,Jungle,bar_cafe,bar_cafe
-40.951385,17.301309,osm_vean_caf__40.9514_17.3013,Vean cafè,bar_cafe,bar_cafe
-40.938082,17.318873,osm_cala_carasa_40.9381_17.3189,Cala Carasa,bar_cafe,bar_cafe
+40.891507,17.242870,ov_bar_pineta_di_fanizzi_andrea_40.8915_17.2429,Bar Pineta Di Fanizzi Andrea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_pineta_di_fanizzi_andrea_40.8915_17.2429.json,custom
+40.869717,17.279562,ov_mood_caff__40.8697_17.2796,Mood caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mood_caff_40.8697_17.2796.json,custom
+40.894489,17.378894,ov_atelier_del_gusto_summer_40.8945_17.3789,Atelier del Gusto Summer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/atelier_del_gusto_summer_40.8945_17.3789.json,custom
+40.895005,17.332706,ov_mirval___coffee_drink_food_40.8950_17.3327,MIRVAL - coffee drink food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mirval_-_coffee_drink_food_40.8950_17.3327.json,custom
+40.884198,17.313569,ov_estilos_40.8842_17.3136,Estilos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/estilos_40.8842_17.3136.json,custom
+40.910511,17.321624,ov_anpati_40.9105_17.3216,Anpati,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/anpati_40.9105_17.3216.json,custom
+40.913790,17.342270,ov_bar_del_capitolo_40.9138_17.3423,Bar Del Capitolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_del_capitolo_40.9138_17.3423.json,custom
+40.914753,17.343819,ov_torre_cafe_40.9148_17.3438,Torre Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/torre_cafe_40.9148_17.3438.json,custom
+40.907511,17.347620,ov_gape_40.9075_17.3476,Gape,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gape_40.9075_17.3476.json,custom
+40.904705,17.351377,ov_nura___serendipity_garden_40.9047_17.3514,Nura - Serendipity Garden,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nura_-_serendipity_garden_40.9047_17.3514.json,custom
+40.901850,17.348620,ov_le_birre_del_bombo_40.9019_17.3486,Le birre del Bombo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/le_birre_del_bombo_40.9019_17.3486.json,custom
+40.903310,17.345360,ov_alchemicamente_al_cavaliere_40.9033_17.3454,Alchemicamente al Cavaliere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/alchemicamente_al_cavaliere_40.9033_17.3454.json,custom
+40.905608,17.348735,ov_kapitolo_klub_40.9056_17.3487,Kapitolo Klub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/kapitolo_klub_40.9056_17.3487.json,custom
+40.905744,17.348906,ov_al_kapitolo_klub_40.9057_17.3489,Al Kapitolo Klub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/al_kapitolo_klub_40.9057_17.3489.json,custom
+40.898569,17.366668,ov_alborada_beach_40.8986_17.3667,Alborada Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/alborada_beach_40.8986_17.3667.json,custom
+40.848010,17.292599,ov_savelletri_porto_40.8480_17.2926,Savelletri Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/savelletri_porto_40.8480_17.2926.json,custom
+40.960762,17.268628,ov_gusto_bar_e_cucina_40.9608_17.2686,Gusto bar e cucina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gusto_bar_e_cucina_40.9608_17.2686.json,custom
+40.960432,17.268380,ov_bar_pausa_caff__40.9604_17.2684,Bar Pausa Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_pausa_caff_40.9604_17.2684.json,custom
+40.970670,17.266720,ov_blast_beach_40.9707_17.2667,Blast Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/blast_beach_40.9707_17.2667.json,custom
+40.965460,17.279760,ov_friendly_caf__40.9655_17.2798,Friendly Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/friendly_caf_40.9655_17.2798.json,custom
+40.961137,17.291342,ov_alchemicamente_chine_40.9611_17.2913,Alchemicamente Chine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/alchemicamente_chine_40.9611_17.2913.json,custom
+40.960961,17.289306,ov_radha_lido_40.9610_17.2893,Radha Lido,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/radha_lido_40.9610_17.2893.json,custom
+40.959918,17.281218,ov_nonsolocaffe__monopoli_40.9599_17.2812,Nonsolocaffe' Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nonsolocaffe_monopoli_40.9599_17.2812.json,custom
+40.959834,17.289986,ov_las_vegas_slot_room_40.9598_17.2900,Las Vegas Slot Room,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/las_vegas_slot_room_40.9598_17.2900.json,custom
+40.958886,17.291991,ov_q_cafe_40.9589_17.2920,Q Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/q_cafe_40.9589_17.2920.json,custom
+40.958561,17.296137,ov_p23_frizzcaf__al_mare_40.9586_17.2961,P23 Frizzcafé al Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/p23_frizzcaf_al_mare_40.9586_17.2961.json,custom
+40.955704,17.297113,ov_bar_italia_di_colella_modesto_40.9557_17.2971,Bar Italia di Colella Modesto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_italia_di_colella_modesto_40.9557_17.2971.json,custom
+40.954901,17.298489,ov_bar_insomnia_caf__40.9549_17.2985,Bar Insomnia Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_insomnia_caf_40.9549_17.2985.json,custom
+40.954554,17.298149,ov_enoteca_il_tralcio_1986_40.9546_17.2981,Enoteca il Tralcio 1986,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/enoteca_il_tralcio_1986_40.9546_17.2981.json,custom
+40.954109,17.297873,ov_bar_centrale_40.9541_17.2979,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_centrale_40.9541_17.2979.json,custom
+40.954185,17.297182,ov_vin__40.9542_17.2972,Viné,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/vin_40.9542_17.2972.json,custom
+40.953319,17.296533,ov_veneto_caffe_40.9533_17.2965,Veneto Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/veneto_caffe_40.9533_17.2965.json,custom
+40.953220,17.299812,ov_veritas_40.9532_17.2998,Veritas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/veritas_40.9532_17.2998.json,custom
+40.953335,17.299767,ov_primo_caffe_italiano_40.9533_17.2998,Primo Caffe Italiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/primo_caffe_italiano_40.9533_17.2998.json,custom
+40.953136,17.300870,ov_alchemy_bar_and_things_40.9531_17.3009,Alchemy Bar and Things,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/alchemy_bar_and_things_40.9531_17.3009.json,custom
+40.953135,17.305014,ov_caffe_nel_chiasso_40.9531_17.3050,Caffe nel Chiasso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caffe_nel_chiasso_40.9531_17.3050.json,custom
+40.953685,17.305160,ov_caff__letterario_40.9537_17.3052,Caffè Letterario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_letterario_40.9537_17.3052.json,custom
+40.953716,17.302944,ov_la_vite_turchese_40.9537_17.3029,La Vite Turchese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_vite_turchese_40.9537_17.3029.json,custom
+40.953903,17.305402,ov_tamborr_40.9539_17.3054,Tamborr,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tamborr_40.9539_17.3054.json,custom
+40.953653,17.305557,ov_n24_bar_a_vin_40.9537_17.3056,N24 Bar a Vin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/n24_bar_a_vin_40.9537_17.3056.json,custom
+40.950373,17.304909,ov_kambusa_rock_bar_40.9504_17.3049,Kambusa Rock Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/kambusa_rock_bar_40.9504_17.3049.json,custom
+40.949922,17.303108,ov_la_tana_del_luppolo_40.9499_17.3031,La Tana del Luppolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_tana_del_luppolo_40.9499_17.3031.json,custom
+40.949378,17.305554,ov_boca_music_bar_40.9494_17.3056,Boca Music Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/boca_music_bar_40.9494_17.3056.json,custom
+40.948450,17.306205,ov_mezzopieno_40.9485_17.3062,Mezzopieno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mezzopieno_40.9485_17.3062.json,custom
+40.948417,17.305766,ov_piazza_di_spagna_cafe_40.9484_17.3058,Piazza di Spagna Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/piazza_di_spagna_cafe_40.9484_17.3058.json,custom
+40.948605,17.302694,ov_la_stanza_degli_ospiti_40.9486_17.3027,la stanza degli ospiti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_stanza_degli_ospiti_40.9486_17.3027.json,custom
+40.948756,17.301797,ov_la_bottega_del_vino_40.9488_17.3018,La Bottega del Vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_bottega_del_vino_40.9488_17.3018.json,custom
+40.948631,17.302297,ov_la_nave_40.9486_17.3023,La Nave,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/la_nave_40.9486_17.3023.json,custom
+40.950000,17.300000,ov_monopoli_lungomare_40.9500_17.3000,Monopoli Lungomare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/monopoli_lungomare_40.9500_17.3000.json,custom
+40.950760,17.296920,ov_gheus_a_40.9508_17.2969,Gheusìa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gheusa_40.9508_17.2969.json,custom
+40.950663,17.297775,ov_bar_galleria_40.9507_17.2978,Bar Galleria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_galleria_40.9507_17.2978.json,custom
+40.951422,17.297424,ov_enoteca_dolci_tentazioni_40.9514_17.2974,Enoteca Dolci Tentazioni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/enoteca_dolci_tentazioni_40.9514_17.2974.json,custom
+40.951780,17.297903,ov_pepe_nero_caffe_40.9518_17.2979,Pepe Nero Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/pepe_nero_caffe_40.9518_17.2979.json,custom
+40.951771,17.299012,ov_c_les_bar_caf__drink___chill_40.9518_17.2990,Càles Bar Cafè Drink & Chill,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cles_bar_caf_drink_chill_40.9518_17.2990.json,custom
+40.951654,17.299071,ov_bar_raimondi_40.9517_17.2991,Bar Raimondi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_raimondi_40.9517_17.2991.json,custom
+40.951348,17.300531,ov_natale_cafe_40.9513_17.3005,Natale Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/natale_cafe_40.9513_17.3005.json,custom
+40.951587,17.300352,ov_bar_altamarea_40.9516_17.3004,Bar altamarea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_altamarea_40.9516_17.3004.json,custom
+40.951619,17.301372,ov_rosso_granato_monopoli_40.9516_17.3014,Rosso Granato Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/rosso_granato_monopoli_40.9516_17.3014.json,custom
+40.951371,17.301269,ov_vean_cafe_40.9514_17.3013,Vean Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/vean_cafe_40.9514_17.3013.json,custom
+40.950849,17.301612,ov_monsignore_caffetteria_40.9508_17.3016,Monsignore Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/monsignore_caffetteria_40.9508_17.3016.json,custom
+40.950753,17.301753,ov_juan_carlos_caf__cocktail_bar_40.9508_17.3018,Juan Carlos Cafè Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/juan_carlos_caf_cocktail_bar_40.9508_17.3018.json,custom
+40.950975,17.302638,ov_caffe_roma_40.9510_17.3026,Caffe Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caffe_roma_40.9510_17.3026.json,custom
+40.950842,17.305332,ov_gallo_nero_40.9508_17.3053,Gallo Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gallo_nero_40.9508_17.3053.json,custom
+40.950625,17.305020,ov_mezcla_a_monopoli_40.9506_17.3050,Mezcla a Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mezcla_a_monopoli_40.9506_17.3050.json,custom
+40.950521,17.305045,ov_caffetteria_antiche_mura_40.9505_17.3050,Caffetteria Antiche Mura,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caffetteria_antiche_mura_40.9505_17.3050.json,custom
+40.951196,17.302830,ov_frizz_cafe_40.9512_17.3028,Frizz Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/frizz_cafe_40.9512_17.3028.json,custom
+40.952387,17.302481,ov_room_21_40.9524_17.3025,Room 21,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/room_21_40.9524_17.3025.json,custom
+40.952129,17.303617,ov_paoletto_barman_culture_40.9521_17.3036,Paoletto Barman Culture,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/paoletto_barman_culture_40.9521_17.3036.json,custom
+40.952144,17.305985,ov_baldovino_winebar_40.9521_17.3060,Baldovino Winebar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/baldovino_winebar_40.9521_17.3060.json,custom
+40.952850,17.304501,ov_sottocoperta_40.9529_17.3045,Sottocoperta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sottocoperta_40.9529_17.3045.json,custom
+40.952518,17.304192,ov_mir_mir_enoteca___wine_bar_monopoli_40.9525_17.3042,MIR MIR Enoteca | Wine Bar Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mir_mir_enoteca_wine_bar_monopoli_40.9525_17.3042.json,custom
+40.952824,17.303043,ov_20m2_monopoli_40.9528_17.3030,20m2 Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/20m2_monopoli_40.9528_17.3030.json,custom
+40.952838,17.302960,ov_caf__machiavelli_monopoli_40.9528_17.3030,Cafè Machiavelli Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caf_machiavelli_monopoli_40.9528_17.3030.json,custom
+40.952832,17.303250,ov_garibaldi_steakhouse_40.9528_17.3032,Garibaldi Steakhouse,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/garibaldi_steakhouse_40.9528_17.3032.json,custom
+40.952851,17.303396,ov_sabu_caffe_chiringuito_40.9529_17.3034,Sabu Caffe Chiringuito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sabu_caffe_chiringuito_40.9529_17.3034.json,custom
+40.953078,17.303709,ov_premiato_caff__venezia_40.9531_17.3037,Premiato Caffè Venezia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/premiato_caff_venezia_40.9531_17.3037.json,custom
+40.953040,17.303340,ov_papilla_peccati_di_gola_40.9530_17.3033,Papilla Peccati di Gola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/papilla_peccati_di_gola_40.9530_17.3033.json,custom
+40.952993,17.300520,ov_crema_caff__centro_40.9530_17.3005,Crema Caffè Centro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/crema_caff_centro_40.9530_17.3005.json,custom
+40.953008,17.300555,ov_bar_smeraldo_40.9530_17.3006,Bar Smeraldo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_smeraldo_40.9530_17.3006.json,custom
+40.952032,17.301790,ov_zero_cocktail_bar_40.9520_17.3018,Zero Cocktail Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/zero_cocktail_bar_40.9520_17.3018.json,custom
+40.952058,17.300952,ov_ufficiobevetti___monopoli_40.9521_17.3010,UfficioBevetti - Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/ufficiobevetti_-_monopoli_40.9521_17.3010.json,custom
+40.951869,17.299346,ov_casablanca_caf__40.9519_17.2993,Casablanca Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/casablanca_caf_40.9519_17.2993.json,custom
+40.952255,17.297401,ov_dolce_amaro_40.9523_17.2974,Dolce Amaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/dolce_amaro_40.9523_17.2974.json,custom
+40.952572,17.297979,ov_iridium_caf__40.9526_17.2980,Iridium Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/iridium_caf_40.9526_17.2980.json,custom
+40.952735,17.298861,ov_modoo_40.9527_17.2989,Modoo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/modoo_40.9527_17.2989.json,custom
+40.952283,17.293833,ov_el_dorado_caf__40.9523_17.2938,El dorado café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/el_dorado_caf_40.9523_17.2938.json,custom
+40.952126,17.292557,ov_bar_della_stazione_monopoli_40.9521_17.2926,Bar della Stazione Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_della_stazione_monopoli_40.9521_17.2926.json,custom
+40.951686,17.295520,ov_gran_caffe_del_radar_40.9517_17.2955,Gran Caffe Del Radar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/gran_caffe_del_radar_40.9517_17.2955.json,custom
+40.949604,17.291901,ov_dante_s_caffetteria_40.9496_17.2919,Dante's Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/dantes_caffetteria_40.9496_17.2919.json,custom
+40.948826,17.291643,ov_sabatelli_pasticceria_caffetteria_40.9488_17.2916,sabatelli pasticceria caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/sabatelli_pasticceria_caffetteria_40.9488_17.2916.json,custom
+40.948917,17.291606,ov_crema_caff__40.9489_17.2916,Crema Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/crema_caff_40.9489_17.2916.json,custom
+40.954183,17.289772,ov_eurocaf_monopoli_40.9542_17.2898,EuroCaf Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/eurocaf_monopoli_40.9542_17.2898.json,custom
+40.954048,17.295650,ov_bar_milan_40.9540_17.2956,Bar Milan,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_milan_40.9540_17.2956.json,custom
+40.954068,17.295616,ov_cauli_caffe_40.9541_17.2956,Cauli Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cauli_caffe_40.9541_17.2956.json,custom
+40.954054,17.295294,ov_brasserie_d_avril_40.9541_17.2953,Brasserie D'Avril,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/brasserie_davril_40.9541_17.2953.json,custom
+40.953799,17.290844,ov_caff__del_drago_40.9538_17.2908,Caffè del Drago,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_del_drago_40.9538_17.2908.json,custom
+40.955599,17.296068,ov_ni_mar_40.9556_17.2961,Ni.Mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/nimar_40.9556_17.2961.json,custom
+40.955340,17.293141,ov_bar_pasticceria_capriccio_40.9553_17.2931,Bar Pasticceria Capriccio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_pasticceria_capriccio_40.9553_17.2931.json,custom
+40.956139,17.287896,ov_garden_pub_40.9561_17.2879,Garden Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/garden_pub_40.9561_17.2879.json,custom
+40.956780,17.290470,ov_barbiancoverdemonopoli_40.9568_17.2905,Barbiancoverdemonopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/barbiancoverdemonopoli_40.9568_17.2905.json,custom
+40.956766,17.291461,ov_birra_del_console_40.9568_17.2915,Birra del Console,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/birra_del_console_40.9568_17.2915.json,custom
+40.957395,17.295266,ov_green_wave_40.9574_17.2953,green wave,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/green_wave_40.9574_17.2953.json,custom
+40.957769,17.294273,ov_elite_cafe_40.9578_17.2943,Elite Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/elite_cafe_40.9578_17.2943.json,custom
+40.958120,17.294800,ov_tamborr_legend_bar_and_40.9581_17.2948,Tamborr Legend Bar and,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tamborr_legend_bar_and_40.9581_17.2948.json,custom
+40.957285,17.289269,ov_il_nuovo_baretto_40.9573_17.2893,Il nuovo Baretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_nuovo_baretto_40.9573_17.2893.json,custom
+40.958002,17.286242,ov_java_caf__40.9580_17.2862,Java Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/java_caf_40.9580_17.2862.json,custom
+40.957329,17.281990,ov_bricocaff__40.9573_17.2820,BricoCaffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bricocaff_40.9573_17.2820.json,custom
+40.944898,17.292270,ov_caff__del_sol_monopoli_40.9449_17.2923,Caffè del Sol Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_del_sol_monopoli_40.9449_17.2923.json,custom
+40.944939,17.286251,ov_tiger_bar_40.9449_17.2863,Tiger Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tiger_bar_40.9449_17.2863.json,custom
+40.944910,17.286440,ov_bar_crema_caff__monopoli_40.9449_17.2864,Bar Crema Caffè Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_crema_caff_monopoli_40.9449_17.2864.json,custom
+40.944156,17.305128,ov_glevum_birreria_40.9442_17.3051,Glevum Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/glevum_birreria_40.9442_17.3051.json,custom
+40.945867,17.297000,ov_tiffany_bar_40.9459_17.2970,Tiffany Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/tiffany_bar_40.9459_17.2970.json,custom
+40.946006,17.300442,ov_il_nuovo_eden_40.9460_17.3004,Il Nuovo Eden,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/il_nuovo_eden_40.9460_17.3004.json,custom
+40.946901,17.304327,ov_blanco_cafe_40.9469_17.3043,Blanco Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/blanco_cafe_40.9469_17.3043.json,custom
+40.947385,17.305878,ov_elitecaf__40.9474_17.3059,EliteCafé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/elitecaf_40.9474_17.3059.json,custom
+40.947178,17.305572,ov_mercedes_cafe_40.9472_17.3056,Mercedes Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/mercedes_cafe_40.9472_17.3056.json,custom
+40.945757,17.309689,ov_porto_nero_40.9458_17.3097,Porto Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/porto_nero_40.9458_17.3097.json,custom
+40.941050,17.309395,ov_new_coffee_40.9410_17.3094,New Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/new_coffee_40.9410_17.3094.json,custom
+40.942480,17.312550,ov_oltremare_caf__40.9425_17.3126,Oltremare Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/oltremare_caf_40.9425_17.3126.json,custom
+40.940789,17.305717,ov_bar_raimondi_40.9408_17.3057,Bar Raimondi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_raimondi_40.9408_17.3057.json,custom
+40.938731,17.318251,ov_calamarena_40.9387_17.3183,Calamarena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/calamarena_40.9387_17.3183.json,custom
+40.948531,17.302334,osm_bar_la_nave_40.9485_17.3023,Bar La Nave,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/bar_la_nave_40.9485_17.3023.json,custom
+40.959556,17.290896,osm_klefil_caf__s_n_c__40.9596_17.2909,Klefil Cafè s.n.c.,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/klefil_caf_snc_40.9596_17.2909.json,custom
+40.953085,17.303685,osm_premiato_caffe_venezia_40.9531_17.3037,Premiato Caffe Venezia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/premiato_caffe_venezia_40.9531_17.3037.json,custom
+40.950962,17.302684,osm_caff__roma_40.9510_17.3027,Caffè Roma,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/caff_roma_40.9510_17.3027.json,custom
+40.951931,17.305367,osm_jungle_40.9519_17.3054,Jungle,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/jungle_40.9519_17.3054.json,custom
+40.951385,17.301309,osm_vean_caf__40.9514_17.3013,Vean cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/vean_caf_40.9514_17.3013.json,custom
+40.938082,17.318873,osm_cala_carasa_40.9381_17.3189,Cala Carasa,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monopoli/pages/cala_carasa_40.9381_17.3189.json,custom

@@ -1,22 +1,22 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # nova_siri -- restaurants
-40.148013,16.589780,ov_agriturismo___azienda_agricola_la_collin_40.1480_16.5898,Agriturismo - Azienda Agricola La Collinetta,RESTAURANT,ristorante
-40.148796,16.540882,ov_briganti_in_piazza_2_0_40.1488_16.5409,Briganti in Piazza 2.0,RESTAURANT,ristorante
-40.146911,16.539858,ov_osteria_degli_ulivi_40.1469_16.5399,Osteria degli Ulivi,RESTAURANT,ristorante
-40.146380,16.540960,ov_beerbq_40.1464_16.5410,Beerbq,RESTAURANT,ristorante
-40.141624,16.635124,ov_alla_corte_del_conte_40.1416_16.6351,Alla Corte del Conte,RESTAURANT,ristorante
-40.132624,16.640375,ov_ristorante_pizzeria_rodolfo_40.1326_16.6404,Ristorante Pizzeria Rodolfo,RESTAURANT,ristorante
-40.132287,16.641274,ov_pizzeria_la_luna_40.1323_16.6413,Pizzeria la luna,RESTAURANT,ristorante
-40.132186,16.634343,ov_pastificio_delizia_40.1322_16.6343,Pastificio Delizia,RESTAURANT,ristorante
-40.133655,16.632600,ov_ristorante_carnar_a___pasta_e_graticola__40.1337_16.6326,Ristorante Carnaría - pasta e graticola -,RESTAURANT,ristorante
-40.132494,16.634940,ov_ristorante_pizzeria_al_torchio_40.1325_16.6349,Ristorante Pizzeria Al Torchio,RESTAURANT,ristorante
-40.127445,16.640007,ov_da_noi_due_40.1274_16.6400,DA NOI DUE,RESTAURANT,ristorante
-40.128599,16.639507,ov_dual_blu_40.1286_16.6395,Dual Blu,RESTAURANT,ristorante
-40.128653,16.638568,ov_i_due_ghiottoni_40.1287_16.6386,I Due Ghiottoni,RESTAURANT,ristorante
-40.129221,16.638688,ov_garden_40.1292_16.6387,Garden,RESTAURANT,ristorante
-40.130045,16.639564,ov_hotel_imperiale_food___ristorante__pizze_40.1300_16.6396,"Hotel Imperiale Food - Ristorante, Pizzeria, Sushi & Braceri",RESTAURANT,ristorante
-40.129976,16.640775,ov_pasticceria_carlone_40.1300_16.6408,Pasticceria Carlone,RESTAURANT,ristorante
-40.129954,16.640988,ov_i_due_scugnizzi_40.1300_16.6410,I due scugnizzi,RESTAURANT,ristorante
-40.129694,16.641372,ov_moulin_blanc_pizzeria_40.1297_16.6414,Moulin Blanc Pizzeria,RESTAURANT,ristorante
-40.125083,16.651625,ov_la_girandola_40.1251_16.6516,La Girandola,RESTAURANT,ristorante
-40.121779,16.647389,ov_kabiria_lounge___pizzeria_40.1218_16.6474,Kabiria Lounge & Pizzeria,RESTAURANT,ristorante
+40.148013,16.589780,ov_agriturismo___azienda_agricola_la_collin_40.1480_16.5898,Agriturismo - Azienda Agricola La Collinetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/agriturismo_-_azienda_agricola_la_collin_40.1480_16.5898.json,custom
+40.148796,16.540882,ov_briganti_in_piazza_2_0_40.1488_16.5409,Briganti in Piazza 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/briganti_in_piazza_20_40.1488_16.5409.json,custom
+40.146911,16.539858,ov_osteria_degli_ulivi_40.1469_16.5399,Osteria degli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/osteria_degli_ulivi_40.1469_16.5399.json,custom
+40.146380,16.540960,ov_beerbq_40.1464_16.5410,Beerbq,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/beerbq_40.1464_16.5410.json,custom
+40.141624,16.635124,ov_alla_corte_del_conte_40.1416_16.6351,Alla Corte del Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/alla_corte_del_conte_40.1416_16.6351.json,custom
+40.132624,16.640375,ov_ristorante_pizzeria_rodolfo_40.1326_16.6404,Ristorante Pizzeria Rodolfo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/ristorante_pizzeria_rodolfo_40.1326_16.6404.json,custom
+40.132287,16.641274,ov_pizzeria_la_luna_40.1323_16.6413,Pizzeria la luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/pizzeria_la_luna_40.1323_16.6413.json,custom
+40.132186,16.634343,ov_pastificio_delizia_40.1322_16.6343,Pastificio Delizia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/pastificio_delizia_40.1322_16.6343.json,custom
+40.133655,16.632600,ov_ristorante_carnar_a___pasta_e_graticola__40.1337_16.6326,Ristorante Carnaría - pasta e graticola -,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/ristorante_carnara_-_pasta_e_graticola_-_40.1337_16.6326.json,custom
+40.132494,16.634940,ov_ristorante_pizzeria_al_torchio_40.1325_16.6349,Ristorante Pizzeria Al Torchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/ristorante_pizzeria_al_torchio_40.1325_16.6349.json,custom
+40.127445,16.640007,ov_da_noi_due_40.1274_16.6400,DA NOI DUE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/da_noi_due_40.1274_16.6400.json,custom
+40.128599,16.639507,ov_dual_blu_40.1286_16.6395,Dual Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/dual_blu_40.1286_16.6395.json,custom
+40.128653,16.638568,ov_i_due_ghiottoni_40.1287_16.6386,I Due Ghiottoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/i_due_ghiottoni_40.1287_16.6386.json,custom
+40.129221,16.638688,ov_garden_40.1292_16.6387,Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/garden_40.1292_16.6387.json,custom
+40.130045,16.639564,ov_hotel_imperiale_food___ristorante__pizze_40.1300_16.6396,"Hotel Imperiale Food - Ristorante, Pizzeria, Sushi & Braceri",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/hotel_imperiale_food_-_ristorante_pizzer_40.1300_16.6396.json,custom
+40.129976,16.640775,ov_pasticceria_carlone_40.1300_16.6408,Pasticceria Carlone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/pasticceria_carlone_40.1300_16.6408.json,custom
+40.129954,16.640988,ov_i_due_scugnizzi_40.1300_16.6410,I due scugnizzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/i_due_scugnizzi_40.1300_16.6410.json,custom
+40.129694,16.641372,ov_moulin_blanc_pizzeria_40.1297_16.6414,Moulin Blanc Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/moulin_blanc_pizzeria_40.1297_16.6414.json,custom
+40.125083,16.651625,ov_la_girandola_40.1251_16.6516,La Girandola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/la_girandola_40.1251_16.6516.json,custom
+40.121779,16.647389,ov_kabiria_lounge___pizzeria_40.1218_16.6474,Kabiria Lounge & Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/nova_siri/pages/kabiria_lounge_pizzeria_40.1218_16.6474.json,custom

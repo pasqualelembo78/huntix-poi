@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # brindisi -- hospitals
-40.631560,17.938874,osm_asl_brindisi_40.6316_17.9389,ASL Brindisi,hospital,hospital
-40.644459,17.937811,ov_asl_brindisi_40.6445_17.9378,ASL Brindisi,HOSPITAL,hospital
-40.635267,17.932105,ov_polo_universitario_asl_br_40.6353_17.9321,Polo Universitario ASL-BR,HOSPITAL,hospital
-40.635895,17.930978,ov_emedea__la_nostra_famiglia_40.6359_17.9310,Emedea  La Nostra Famiglia,HOSPITAL,hospital
-40.631542,17.938871,ov_asl___dss_brindisi_01_40.6315_17.9389,ASL - DSS Brindisi 01,HOSPITAL,hospital
-40.624024,17.914314,ov_ospedale_perrino_40.6240_17.9143,Ospedale Perrino,HOSPITAL,hospital
+40.644459,17.937811,ov_asl_brindisi_40.6445_17.9378,ASL Brindisi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_brindisi_40.6445_17.9378.json,custom
+40.635267,17.932105,ov_polo_universitario_asl_br_40.6353_17.9321,Polo Universitario ASL-BR,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/polo_universitario_asl-br_40.6353_17.9321.json,custom
+40.635895,17.930978,ov_emedea__la_nostra_famiglia_40.6359_17.9310,Emedea  La Nostra Famiglia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/emedea_la_nostra_famiglia_40.6359_17.9310.json,custom
+40.631542,17.938871,ov_asl___dss_brindisi_01_40.6315_17.9389,ASL - DSS Brindisi 01,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_-_dss_brindisi_01_40.6315_17.9389.json,custom
+40.624024,17.914314,ov_ospedale_perrino_40.6240_17.9143,Ospedale Perrino,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ospedale_perrino_40.6240_17.9143.json,custom
+40.631560,17.938874,osm_asl_brindisi_40.6316_17.9389,ASL Brindisi,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_brindisi_40.6316_17.9389.json,custom

@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # anzi -- restaurants
-40.515870,15.923760,ov_ristorante_agrisarli_40.5159_15.9238,Ristorante Agrisarli,RESTAURANT,ristorante
-40.517777,15.926596,ov_ristorante_pizzeria_iris_40.5178_15.9266,Ristorante Pizzeria IRIS,RESTAURANT,ristorante
-40.521812,15.898861,ov_bar_pizzeria_ristorante__san_donato__40.5218_15.8989,Bar Pizzeria Ristorante “San Donato”,RESTAURANT,ristorante
-40.518435,15.893224,ov_ristorante_agrisarli_40.5184_15.8932,Ristorante Agrisarli,RESTAURANT,ristorante
+40.515870,15.923760,ov_ristorante_agrisarli_40.5159_15.9238,Ristorante Agrisarli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/anzi/pages/ristorante_agrisarli_40.5159_15.9238.json,custom
+40.517777,15.926596,ov_ristorante_pizzeria_iris_40.5178_15.9266,Ristorante Pizzeria IRIS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/anzi/pages/ristorante_pizzeria_iris_40.5178_15.9266.json,custom
+40.521812,15.898861,ov_bar_pizzeria_ristorante__san_donato__40.5218_15.8989,Bar Pizzeria Ristorante “San Donato”,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/anzi/pages/bar_pizzeria_ristorante_san_donato_40.5218_15.8989.json,custom
+40.518435,15.893224,ov_ristorante_agrisarli_40.5184_15.8932,Ristorante Agrisarli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/anzi/pages/ristorante_agrisarli_40.5184_15.8932.json,custom

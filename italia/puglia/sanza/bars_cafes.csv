@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sanza -- bars_cafes
-40.242519,15.549642,ov_center_bar_40.2425_15.5496,Center Bar,RESTAURANT,bar_cafe
-40.242179,15.553430,ov_dreams_bar_40.2422_15.5534,Dreams Bar,RESTAURANT,bar_cafe
-40.244228,15.552333,ov_bar_napoli_40.2442_15.5523,Bar Napoli,RESTAURANT,bar_cafe
-40.245462,15.554613,ov_microbirrificio_84030_40.2455_15.5546,Microbirrificio 84030,RESTAURANT,bar_cafe
-40.271713,15.622315,ov_pineta__h24_40.2717_15.6223,Pineta  H24,RESTAURANT,bar_cafe
+40.242519,15.549642,ov_center_bar_40.2425_15.5496,Center Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanza/pages/center_bar_40.2425_15.5496.json,custom
+40.242179,15.553430,ov_dreams_bar_40.2422_15.5534,Dreams Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanza/pages/dreams_bar_40.2422_15.5534.json,custom
+40.244228,15.552333,ov_bar_napoli_40.2442_15.5523,Bar Napoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanza/pages/bar_napoli_40.2442_15.5523.json,custom
+40.245462,15.554613,ov_microbirrificio_84030_40.2455_15.5546,Microbirrificio 84030,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanza/pages/microbirrificio_84030_40.2455_15.5546.json,custom
+40.271713,15.622315,ov_pineta__h24_40.2717_15.6223,Pineta  H24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sanza/pages/pineta_h24_40.2717_15.6223.json,custom

@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # candela -- restaurants
-41.135773,15.516075,osm_l_orecchietta_41.1358_15.5161,L'Orecchietta,ristorante,ristorante
-41.151431,15.532877,ov_la_stazione_41.1514_15.5329,La Stazione,RESTAURANT,ristorante
-41.150285,15.527938,ov_il_chiosco_di_gusti_di_altri_tempi_41.1503_15.5279,Il Chiosco di Gusti di Altri Tempi,RESTAURANT,ristorante
-41.144665,15.527091,ov_ristorante_hotel_l_orecchietta_41.1447_15.5271,Ristorante Hotel L'Orecchietta,RESTAURANT,ristorante
-41.140479,15.517566,ov_la_rosa_dei_venti_41.1405_15.5176,La Rosa dei Venti,RESTAURANT,ristorante
-41.136950,15.515536,ov_nap_licchie_41.1369_15.5155,Nap'licchie,RESTAURANT,ristorante
-41.136968,15.515498,ov_pizzeria_nap_licchie_41.1370_15.5155,Pizzeria Nap'Licchie,RESTAURANT,ristorante
-41.138386,15.515103,ov_la_carnaleta_41.1384_15.5151,La Carnaleta,RESTAURANT,ristorante
-41.138276,15.514716,ov_la_trasonna_41.1383_15.5147,La Trasonna,RESTAURANT,ristorante
+41.151431,15.532877,ov_la_stazione_41.1514_15.5329,La Stazione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/la_stazione_41.1514_15.5329.json,custom
+41.150285,15.527938,ov_il_chiosco_di_gusti_di_altri_tempi_41.1503_15.5279,Il Chiosco di Gusti di Altri Tempi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/il_chiosco_di_gusti_di_altri_tempi_41.1503_15.5279.json,custom
+41.144665,15.527091,ov_ristorante_hotel_l_orecchietta_41.1447_15.5271,Ristorante Hotel L'Orecchietta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/ristorante_hotel_lorecchietta_41.1447_15.5271.json,custom
+41.140479,15.517566,ov_la_rosa_dei_venti_41.1405_15.5176,La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/la_rosa_dei_venti_41.1405_15.5176.json,custom
+41.136950,15.515536,ov_nap_licchie_41.1369_15.5155,Nap'licchie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/naplicchie_41.1369_15.5155.json,custom
+41.136968,15.515498,ov_pizzeria_nap_licchie_41.1370_15.5155,Pizzeria Nap'Licchie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/pizzeria_naplicchie_41.1370_15.5155.json,custom
+41.138386,15.515103,ov_la_carnaleta_41.1384_15.5151,La Carnaleta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/la_carnaleta_41.1384_15.5151.json,custom
+41.138276,15.514716,ov_la_trasonna_41.1383_15.5147,La Trasonna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/la_trasonna_41.1383_15.5147.json,custom
+41.135773,15.516075,osm_l_orecchietta_41.1358_15.5161,L'Orecchietta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/candela/pages/lorecchietta_41.1358_15.5161.json,custom

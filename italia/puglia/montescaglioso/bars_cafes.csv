@@ -1,20 +1,20 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montescaglioso -- bars_cafes
-40.555717,16.665349,ov_bar_portamaggiore_40.5557_16.6653,Bar portamaggiore,RESTAURANT,bar_cafe
-40.555933,16.665124,ov_marilena_santarcangelo_40.5559_16.6651,Marilena Santarcangelo,RESTAURANT,bar_cafe
-40.556913,16.664092,ov_caff__letterario_40.5569_16.6641,Caffè Letterario,RESTAURANT,bar_cafe
-40.557620,16.665080,ov_res_lab_food_and_beer_40.5576_16.6651,Res Lab Food and Beer,RESTAURANT,bar_cafe
-40.557149,16.663813,ov_new_bar_italia_40.5571_16.6638,New Bar Italia,RESTAURANT,bar_cafe
-40.558160,16.663820,ov_porta_sant_angelo_pub_bistrot_40.5582_16.6638,Porta Sant Angelo Pub Bistrot,RESTAURANT,bar_cafe
-40.557852,16.663444,ov_il_barlume_40.5579_16.6634,Il Barlume,RESTAURANT,bar_cafe
-40.558139,16.664844,ov_josafat_cafe_40.5581_16.6648,Josafat Cafe,RESTAURANT,bar_cafe
-40.546361,16.667090,ov_kennedy_2_0_40.5464_16.6671,Kennedy 2.0,RESTAURANT,bar_cafe
-40.548354,16.666819,ov_f_la_caf____pasticceria___gelateria_40.5484_16.6668,Fóla Cafè • Pasticceria • Gelateria,RESTAURANT,bar_cafe
-40.555424,16.665411,ov_gran_caffe_roma_40.5554_16.6654,Gran Caffe Roma,RESTAURANT,bar_cafe
-40.553381,16.663382,ov_bon_ton_40.5534_16.6634,Bon Ton,RESTAURANT,bar_cafe
-40.553400,16.662684,ov_another_story_barpub_40.5534_16.6627,Another Story BarPub,RESTAURANT,bar_cafe
-40.549792,16.666337,ov_capital_cafe_40.5498_16.6663,Capital Cafe,RESTAURANT,bar_cafe
-40.552270,16.666074,ov_bar_la_rotonda_40.5523_16.6661,Bar La Rotonda,RESTAURANT,bar_cafe
-40.552247,16.665494,ov_bliss_cafe_40.5522_16.6655,Bliss Cafe,RESTAURANT,bar_cafe
-40.550619,16.658233,ov_bar_del_viale_40.5506_16.6582,Bar Del Viale,RESTAURANT,bar_cafe
-40.553287,16.663258,osm_bon_ton_caf__40.5533_16.6633,Bon Ton Café,bar_cafe,bar_cafe
+40.555717,16.665349,ov_bar_portamaggiore_40.5557_16.6653,Bar portamaggiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bar_portamaggiore_40.5557_16.6653.json,custom
+40.555933,16.665124,ov_marilena_santarcangelo_40.5559_16.6651,Marilena Santarcangelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/marilena_santarcangelo_40.5559_16.6651.json,custom
+40.556913,16.664092,ov_caff__letterario_40.5569_16.6641,Caffè Letterario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/caff_letterario_40.5569_16.6641.json,custom
+40.557620,16.665080,ov_res_lab_food_and_beer_40.5576_16.6651,Res Lab Food and Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/res_lab_food_and_beer_40.5576_16.6651.json,custom
+40.557149,16.663813,ov_new_bar_italia_40.5571_16.6638,New Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/new_bar_italia_40.5571_16.6638.json,custom
+40.558160,16.663820,ov_porta_sant_angelo_pub_bistrot_40.5582_16.6638,Porta Sant Angelo Pub Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/porta_sant_angelo_pub_bistrot_40.5582_16.6638.json,custom
+40.557852,16.663444,ov_il_barlume_40.5579_16.6634,Il Barlume,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/il_barlume_40.5579_16.6634.json,custom
+40.558139,16.664844,ov_josafat_cafe_40.5581_16.6648,Josafat Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/josafat_cafe_40.5581_16.6648.json,custom
+40.546361,16.667090,ov_kennedy_2_0_40.5464_16.6671,Kennedy 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/kennedy_20_40.5464_16.6671.json,custom
+40.548354,16.666819,ov_f_la_caf____pasticceria___gelateria_40.5484_16.6668,Fóla Cafè • Pasticceria • Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/fla_caf_pasticceria_gelateria_40.5484_16.6668.json,custom
+40.555424,16.665411,ov_gran_caffe_roma_40.5554_16.6654,Gran Caffe Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/gran_caffe_roma_40.5554_16.6654.json,custom
+40.553381,16.663382,ov_bon_ton_40.5534_16.6634,Bon Ton,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bon_ton_40.5534_16.6634.json,custom
+40.553400,16.662684,ov_another_story_barpub_40.5534_16.6627,Another Story BarPub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/another_story_barpub_40.5534_16.6627.json,custom
+40.549792,16.666337,ov_capital_cafe_40.5498_16.6663,Capital Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/capital_cafe_40.5498_16.6663.json,custom
+40.552270,16.666074,ov_bar_la_rotonda_40.5523_16.6661,Bar La Rotonda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bar_la_rotonda_40.5523_16.6661.json,custom
+40.552247,16.665494,ov_bliss_cafe_40.5522_16.6655,Bliss Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bliss_cafe_40.5522_16.6655.json,custom
+40.550619,16.658233,ov_bar_del_viale_40.5506_16.6582,Bar Del Viale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bar_del_viale_40.5506_16.6582.json,custom
+40.553287,16.663258,osm_bon_ton_caf__40.5533_16.6633,Bon Ton Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montescaglioso/pages/bon_ton_caf_40.5533_16.6633.json,custom

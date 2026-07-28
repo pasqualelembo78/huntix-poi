@@ -1,66 +1,66 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Pietro Vernotico -- Tutti
-40.498562,17.997678,osm_tenuta_persano_40.4986_17.9977,Tenuta Persano,ristorante,ristorante
-40.491482,17.990543,ov_studio_di_medicina_integrata__osteopatia_40.4915_17.9905,Studio di Medicina Integrata. Osteopatia e Posturologia,HOSPITAL,hospital
-40.479521,18.005114,ov_ospedale_n__melli_40.4795_18.0051,Ospedale N. Melli,HOSPITAL,hospital
-40.495150,17.992647,ov_lido_gogo__40.4952_17.9926,LIDO GOGO',RESTAURANT,ristorante
-40.494360,17.995151,ov_friggi_e_fuggi_40.4944_17.9952,Friggi e fuggi,RESTAURANT,ristorante
-40.495119,17.994983,ov_teglia_40.4951_17.9950,Teglia,RESTAURANT,ristorante
-40.493370,17.995600,ov_pronto_pizza_40.4934_17.9956,Pronto Pizza,RESTAURANT,ristorante
-40.493448,17.995600,ov_glamour_fast_food_40.4934_17.9956,Glamour Fast Food,RESTAURANT,ristorante
-40.490987,17.996120,ov_lavota_pasquale_40.4910_17.9961,Lavota Pasquale,RESTAURANT,ristorante
-40.488198,17.997467,ov_la_rusticana_40.4882_17.9975,La Rusticana,RESTAURANT,ristorante
-40.490181,17.990638,ov_da_francesco_40.4902_17.9906,Da Francesco,RESTAURANT,ristorante
-40.486338,17.996485,ov_pizzeria_piazza_regina_margherita_40.4863_17.9965,Pizzeria Piazza Regina Margherita,RESTAURANT,ristorante
-40.487350,17.996264,ov_da_catia_restaurant_40.4873_17.9963,Da Catia RESTAURANT,RESTAURANT,ristorante
-40.487006,17.996822,ov_via_mercato_40.4870_17.9968,Via Mercato,RESTAURANT,ristorante
-40.487406,17.997130,ov_in_piazza_40.4874_17.9971,In Piazza,RESTAURANT,ristorante
-40.487677,17.997723,ov_gusto_40.4877_17.9977,Gusto,RESTAURANT,ristorante
-40.487731,17.999007,ov_dolce_e_salato_junior_40.4877_17.9990,Dolce e Salato Junior,RESTAURANT,ristorante
-40.481582,18.004430,ov_la_distilleria_40.4816_18.0044,La Distilleria,RESTAURANT,ristorante
-40.482199,18.000660,ov_tenuta_persano_40.4822_18.0007,Tenuta Persano,RESTAURANT,ristorante
-40.483859,18.002440,ov_sapori_bollenti_40.4839_18.0024,Sapori Bollenti,RESTAURANT,ristorante
-40.484338,18.002199,ov_pizzeria_mille_gusti_40.4843_18.0022,Pizzeria Mille Gusti,RESTAURANT,ristorante
-40.535511,18.074670,ov_friggi_e_fuggi_40.5355_18.0747,Friggi e Fuggi,RESTAURANT,ristorante
-40.538350,18.072196,ov_garden_85_40.5383_18.0722,Garden 85,RESTAURANT,ristorante
-40.539071,18.066796,ov_trattoria_zia_anna_40.5391_18.0668,Trattoria Zia Anna,RESTAURANT,ristorante
-40.541755,18.061110,ov_ristorante_cimalu_40.5418_18.0611,Ristorante Cimalu,RESTAURANT,ristorante
-40.539628,18.070125,ov_sunrise_40.5396_18.0701,Sunrise,RESTAURANT,ristorante
-40.499400,17.993537,ov_oronero_40.4994_17.9935,Oronero,RESTAURANT,bar_cafe
-40.496340,17.995410,ov_il_girotondo_40.4963_17.9954,Il Girotondo,RESTAURANT,bar_cafe
-40.497233,17.994372,ov_marilyn_cafe_40.4972_17.9944,Marilyn Cafe,RESTAURANT,bar_cafe
-40.494080,17.995455,ov_spili_coffe___food_40.4941_17.9955,Spili Coffe & Food,RESTAURANT,bar_cafe
-40.492440,17.995900,ov_ciomba_oil_bar_40.4924_17.9959,Ciomba Oil Bar,RESTAURANT,bar_cafe
-40.490997,17.996338,ov_cosma_bar_40.4910_17.9963,Cosma Bar,RESTAURANT,bar_cafe
-40.489560,17.996838,ov_coffee_bet_cinzia_di_maiorano_40.4896_17.9968,Coffee Bet Cinzia Di Maiorano,RESTAURANT,bar_cafe
-40.488052,17.997382,ov_el_barrio_40.4881_17.9974,El Barrio,RESTAURANT,bar_cafe
-40.486500,17.993623,ov_prato_bistrot_40.4865_17.9936,Prato Bistrot,RESTAURANT,bar_cafe
-40.487636,17.995817,ov_li_turchi_40.4876_17.9958,Li Turchi,RESTAURANT,bar_cafe
-40.486929,17.995102,ov_salento_caf__40.4869_17.9951,Salento Cafè,RESTAURANT,bar_cafe
-40.486722,17.995027,ov_altavilla_s_pub_40.4867_17.9950,Altavilla's Pub,RESTAURANT,bar_cafe
-40.487208,17.998004,ov_one_love_social_bar_40.4872_17.9980,One Love Social Bar,RESTAURANT,bar_cafe
-40.487438,17.997172,ov_a_tutta_birra_40.4874_17.9972,A Tutta Birra,RESTAURANT,bar_cafe
-40.487709,17.999201,ov_bar_pasticceria_fiorentino_40.4877_17.9992,Bar Pasticceria Fiorentino,RESTAURANT,bar_cafe
-40.483867,17.994408,ov_new_boomerang___san_pietro_v_co_40.4839_17.9944,New Boomerang - San Pietro V.co,RESTAURANT,bar_cafe
-40.483310,18.002900,ov_bar_tabacchi_pronto_pronto_40.4833_18.0029,Bar tabacchi Pronto Pronto,RESTAURANT,bar_cafe
-40.484874,18.001846,ov_bar_president_40.4849_18.0018,Bar President,RESTAURANT,bar_cafe
-40.485376,18.001173,ov_bar_venezia_40.4854_18.0012,Bar Venezia,RESTAURANT,bar_cafe
-40.488818,18.000458,ov_bar_stazione_40.4888_18.0005,Bar Stazione,RESTAURANT,bar_cafe
-40.537708,18.068440,ov_coffee_beach_40.5377_18.0684,Coffee Beach,RESTAURANT,bar_cafe
-40.539213,18.066127,ov_bar_louis_40.5392_18.0661,Bar Louis,RESTAURANT,bar_cafe
-40.542286,18.065588,ov_lido_calidoski_beach_bar_40.5423_18.0656,Lido Calidoski beach bar,RESTAURANT,bar_cafe
-40.539560,18.070269,ov_bella_vista_caffe_40.5396_18.0703,Bella Vista Caffe,RESTAURANT,bar_cafe
-40.491448,17.996209,osm_cosma_pasticcerie_40.4914_17.9962,Cosma Pasticcerie,bar_cafe,bar_cafe
-40.497280,17.996620,ov_unione_sportiva_san_pietro_40.4973_17.9966,Unione Sportiva San Pietro,GYM,palestra
-40.496114,17.994012,ov_dance_experience_lab_40.4961_17.9940,Dance experience Lab,GYM,palestra
-40.493012,17.999990,ov_better_bodies_40.4930_18.0000,Better Bodies,GYM,palestra
-40.488775,17.994694,ov_elem_studio_pilates_e_fitness_40.4888_17.9947,ELEM Studio Pilates e Fitness,GYM,palestra
-40.488184,17.996203,ov_cuori_danzanti_40.4882_17.9962,cuori danzanti,GYM,palestra
-40.488283,17.995194,ov_studiofitness_a_s_d_40.4883_17.9952,Studiofitness A.s.d,GYM,palestra
-40.491964,17.992428,ov_centro_yoga_sama_40.4920_17.9924,Centro Yoga Sama,GYM,palestra
-40.487390,17.991780,ov_centro_studi_yoga_unio_40.4874_17.9918,Centro Studi Yoga UNIO,GYM,palestra
-40.486438,18.000099,ov_aequilibrium_asd_40.4864_18.0001,Aequilibrium ASD,GYM,palestra
-40.485123,17.995668,ov_easydivingcenter_40.4851_17.9957,easydivingcenter,GYM,palestra
-40.483055,18.002535,ov_workout_in_progress___palestra_40.4831_18.0025,Workout in progress - Palestra,GYM,palestra
-40.487352,18.000620,ov_mattiacaponeworkout_40.4874_18.0006,Mattiacaponeworkout,GYM,palestra
-40.487389,18.000639,ov_giuliadanza_40.4874_18.0006,Giuliadanza,GYM,palestra
+40.491482,17.990543,ov_studio_di_medicina_integrata__osteopatia_40.4915_17.9905,Studio di Medicina Integrata. Osteopatia e Posturologia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/studio_di_medicina_integrata_osteopatia__40.4915_17.9905.json,custom
+40.479521,18.005114,ov_ospedale_n__melli_40.4795_18.0051,Ospedale N. Melli,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/ospedale_n_melli_40.4795_18.0051.json,custom
+40.495150,17.992647,ov_lido_gogo__40.4952_17.9926,LIDO GOGO',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lido_gogo_40.4952_17.9926.json,custom
+40.494360,17.995151,ov_friggi_e_fuggi_40.4944_17.9952,Friggi e fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/friggi_e_fuggi_40.4944_17.9952.json,custom
+40.495119,17.994983,ov_teglia_40.4951_17.9950,Teglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/teglia_40.4951_17.9950.json,custom
+40.493370,17.995600,ov_pronto_pizza_40.4934_17.9956,Pronto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pronto_pizza_40.4934_17.9956.json,custom
+40.493448,17.995600,ov_glamour_fast_food_40.4934_17.9956,Glamour Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/glamour_fast_food_40.4934_17.9956.json,custom
+40.490987,17.996120,ov_lavota_pasquale_40.4910_17.9961,Lavota Pasquale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lavota_pasquale_40.4910_17.9961.json,custom
+40.488198,17.997467,ov_la_rusticana_40.4882_17.9975,La Rusticana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/la_rusticana_40.4882_17.9975.json,custom
+40.490181,17.990638,ov_da_francesco_40.4902_17.9906,Da Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/da_francesco_40.4902_17.9906.json,custom
+40.486338,17.996485,ov_pizzeria_piazza_regina_margherita_40.4863_17.9965,Pizzeria Piazza Regina Margherita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pizzeria_piazza_regina_margherita_40.4863_17.9965.json,custom
+40.487350,17.996264,ov_da_catia_restaurant_40.4873_17.9963,Da Catia RESTAURANT,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/da_catia_restaurant_40.4873_17.9963.json,custom
+40.487006,17.996822,ov_via_mercato_40.4870_17.9968,Via Mercato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/via_mercato_40.4870_17.9968.json,custom
+40.487406,17.997130,ov_in_piazza_40.4874_17.9971,In Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/in_piazza_40.4874_17.9971.json,custom
+40.487677,17.997723,ov_gusto_40.4877_17.9977,Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/gusto_40.4877_17.9977.json,custom
+40.487731,17.999007,ov_dolce_e_salato_junior_40.4877_17.9990,Dolce e Salato Junior,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/dolce_e_salato_junior_40.4877_17.9990.json,custom
+40.481582,18.004430,ov_la_distilleria_40.4816_18.0044,La Distilleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/la_distilleria_40.4816_18.0044.json,custom
+40.482199,18.000660,ov_tenuta_persano_40.4822_18.0007,Tenuta Persano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/tenuta_persano_40.4822_18.0007.json,custom
+40.483859,18.002440,ov_sapori_bollenti_40.4839_18.0024,Sapori Bollenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/sapori_bollenti_40.4839_18.0024.json,custom
+40.484338,18.002199,ov_pizzeria_mille_gusti_40.4843_18.0022,Pizzeria Mille Gusti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pizzeria_mille_gusti_40.4843_18.0022.json,custom
+40.535511,18.074670,ov_friggi_e_fuggi_40.5355_18.0747,Friggi e Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/friggi_e_fuggi_40.5355_18.0747.json,custom
+40.538350,18.072196,ov_garden_85_40.5383_18.0722,Garden 85,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/garden_85_40.5383_18.0722.json,custom
+40.539071,18.066796,ov_trattoria_zia_anna_40.5391_18.0668,Trattoria Zia Anna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/trattoria_zia_anna_40.5391_18.0668.json,custom
+40.541755,18.061110,ov_ristorante_cimalu_40.5418_18.0611,Ristorante Cimalu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/ristorante_cimalu_40.5418_18.0611.json,custom
+40.539628,18.070125,ov_sunrise_40.5396_18.0701,Sunrise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/sunrise_40.5396_18.0701.json,custom
+40.498562,17.997678,osm_tenuta_persano_40.4986_17.9977,Tenuta Persano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/tenuta_persano_40.4986_17.9977.json,custom
+40.499400,17.993537,ov_oronero_40.4994_17.9935,Oronero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/oronero_40.4994_17.9935.json,custom
+40.496340,17.995410,ov_il_girotondo_40.4963_17.9954,Il Girotondo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/il_girotondo_40.4963_17.9954.json,custom
+40.497233,17.994372,ov_marilyn_cafe_40.4972_17.9944,Marilyn Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/marilyn_cafe_40.4972_17.9944.json,custom
+40.494080,17.995455,ov_spili_coffe___food_40.4941_17.9955,Spili Coffe & Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/spili_coffe_food_40.4941_17.9955.json,custom
+40.492440,17.995900,ov_ciomba_oil_bar_40.4924_17.9959,Ciomba Oil Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/ciomba_oil_bar_40.4924_17.9959.json,custom
+40.490997,17.996338,ov_cosma_bar_40.4910_17.9963,Cosma Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/cosma_bar_40.4910_17.9963.json,custom
+40.489560,17.996838,ov_coffee_bet_cinzia_di_maiorano_40.4896_17.9968,Coffee Bet Cinzia Di Maiorano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/coffee_bet_cinzia_di_maiorano_40.4896_17.9968.json,custom
+40.488052,17.997382,ov_el_barrio_40.4881_17.9974,El Barrio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/el_barrio_40.4881_17.9974.json,custom
+40.486500,17.993623,ov_prato_bistrot_40.4865_17.9936,Prato Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/prato_bistrot_40.4865_17.9936.json,custom
+40.487636,17.995817,ov_li_turchi_40.4876_17.9958,Li Turchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/li_turchi_40.4876_17.9958.json,custom
+40.486929,17.995102,ov_salento_caf__40.4869_17.9951,Salento Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/salento_caf_40.4869_17.9951.json,custom
+40.486722,17.995027,ov_altavilla_s_pub_40.4867_17.9950,Altavilla's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/altavillas_pub_40.4867_17.9950.json,custom
+40.487208,17.998004,ov_one_love_social_bar_40.4872_17.9980,One Love Social Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/one_love_social_bar_40.4872_17.9980.json,custom
+40.487438,17.997172,ov_a_tutta_birra_40.4874_17.9972,A Tutta Birra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/a_tutta_birra_40.4874_17.9972.json,custom
+40.487709,17.999201,ov_bar_pasticceria_fiorentino_40.4877_17.9992,Bar Pasticceria Fiorentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_pasticceria_fiorentino_40.4877_17.9992.json,custom
+40.483867,17.994408,ov_new_boomerang___san_pietro_v_co_40.4839_17.9944,New Boomerang - San Pietro V.co,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/new_boomerang_-_san_pietro_vco_40.4839_17.9944.json,custom
+40.483310,18.002900,ov_bar_tabacchi_pronto_pronto_40.4833_18.0029,Bar tabacchi Pronto Pronto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_tabacchi_pronto_pronto_40.4833_18.0029.json,custom
+40.484874,18.001846,ov_bar_president_40.4849_18.0018,Bar President,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_president_40.4849_18.0018.json,custom
+40.485376,18.001173,ov_bar_venezia_40.4854_18.0012,Bar Venezia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_venezia_40.4854_18.0012.json,custom
+40.488818,18.000458,ov_bar_stazione_40.4888_18.0005,Bar Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_stazione_40.4888_18.0005.json,custom
+40.537708,18.068440,ov_coffee_beach_40.5377_18.0684,Coffee Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/coffee_beach_40.5377_18.0684.json,custom
+40.539213,18.066127,ov_bar_louis_40.5392_18.0661,Bar Louis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bar_louis_40.5392_18.0661.json,custom
+40.542286,18.065588,ov_lido_calidoski_beach_bar_40.5423_18.0656,Lido Calidoski beach bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lido_calidoski_beach_bar_40.5423_18.0656.json,custom
+40.539560,18.070269,ov_bella_vista_caffe_40.5396_18.0703,Bella Vista Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/bella_vista_caffe_40.5396_18.0703.json,custom
+40.491448,17.996209,osm_cosma_pasticcerie_40.4914_17.9962,Cosma Pasticcerie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/cosma_pasticcerie_40.4914_17.9962.json,custom
+40.497280,17.996620,ov_unione_sportiva_san_pietro_40.4973_17.9966,Unione Sportiva San Pietro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/unione_sportiva_san_pietro_40.4973_17.9966.json,custom
+40.496114,17.994012,ov_dance_experience_lab_40.4961_17.9940,Dance experience Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/dance_experience_lab_40.4961_17.9940.json,custom
+40.493012,17.999990,ov_better_bodies_40.4930_18.0000,Better Bodies,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/better_bodies_40.4930_18.0000.json,custom
+40.488775,17.994694,ov_elem_studio_pilates_e_fitness_40.4888_17.9947,ELEM Studio Pilates e Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/elem_studio_pilates_e_fitness_40.4888_17.9947.json,custom
+40.488184,17.996203,ov_cuori_danzanti_40.4882_17.9962,cuori danzanti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/cuori_danzanti_40.4882_17.9962.json,custom
+40.488283,17.995194,ov_studiofitness_a_s_d_40.4883_17.9952,Studiofitness A.s.d,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/studiofitness_asd_40.4883_17.9952.json,custom
+40.491964,17.992428,ov_centro_yoga_sama_40.4920_17.9924,Centro Yoga Sama,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/centro_yoga_sama_40.4920_17.9924.json,custom
+40.487390,17.991780,ov_centro_studi_yoga_unio_40.4874_17.9918,Centro Studi Yoga UNIO,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/centro_studi_yoga_unio_40.4874_17.9918.json,custom
+40.486438,18.000099,ov_aequilibrium_asd_40.4864_18.0001,Aequilibrium ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/aequilibrium_asd_40.4864_18.0001.json,custom
+40.485123,17.995668,ov_easydivingcenter_40.4851_17.9957,easydivingcenter,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/easydivingcenter_40.4851_17.9957.json,custom
+40.483055,18.002535,ov_workout_in_progress___palestra_40.4831_18.0025,Workout in progress - Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/workout_in_progress_-_palestra_40.4831_18.0025.json,custom
+40.487352,18.000620,ov_mattiacaponeworkout_40.4874_18.0006,Mattiacaponeworkout,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/mattiacaponeworkout_40.4874_18.0006.json,custom
+40.487389,18.000639,ov_giuliadanza_40.4874_18.0006,Giuliadanza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/giuliadanza_40.4874_18.0006.json,custom

@@ -1,36 +1,36 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sava -- bars_cafes
-40.412646,17.538275,ov_koil_bar_40.4126_17.5383,Koil Bar,RESTAURANT,bar_cafe
-40.407810,17.550819,ov_life_bar_40.4078_17.5508,Life Bar,RESTAURANT,bar_cafe
-40.408788,17.548663,ov_caff__mazzini_40.4088_17.5487,Caffè Mazzini,RESTAURANT,bar_cafe
-40.405486,17.559403,ov_u_sfiziu_40.4055_17.5594,U sfiziu,RESTAURANT,bar_cafe
-40.404295,17.566450,ov_europa_bar_40.4043_17.5665,Europa Bar,RESTAURANT,bar_cafe
-40.404397,17.567722,ov_mama_cafe_40.4044_17.5677,Mama Cafe,RESTAURANT,bar_cafe
-40.405360,17.559250,ov_pub_brooklyn_club_40.4054_17.5592,Pub Brooklyn Club,RESTAURANT,bar_cafe
-40.404963,17.558641,ov_bar_risorgimento_sava_40.4050_17.5586,Bar Risorgimento Sava,RESTAURANT,bar_cafe
-40.405275,17.558472,ov_chapeau_40.4053_17.5585,Chapeau,RESTAURANT,bar_cafe
-40.404281,17.557803,ov_bar_new_day_40.4043_17.5578,Bar New Day,RESTAURANT,bar_cafe
-40.404008,17.557120,ov_elio_bar_di_eleonora_balestra_40.4040_17.5571,Elio Bar di Eleonora Balestra,RESTAURANT,bar_cafe
-40.403430,17.556590,ov_zia_cinzia___nonno_gigi_40.4034_17.5566,Zia Cinzia & nonno Gigi,RESTAURANT,bar_cafe
-40.403392,17.557416,ov_il_ritrovo_di_lupin_40.4034_17.5574,Il Ritrovo Di Lupin,RESTAURANT,bar_cafe
-40.403369,17.556864,ov_evolution_bar_caffetteria_40.4034_17.5569,Evolution Bar Caffetteria,RESTAURANT,bar_cafe
-40.402400,17.557420,ov_cico_s_caff__40.4024_17.5574,Cico's Caffè,RESTAURANT,bar_cafe
-40.401926,17.556556,ov_bar_windsor_da_gino_40.4019_17.5566,Bar Windsor da Gino,RESTAURANT,bar_cafe
-40.401230,17.556589,ov_birreria_artigianale_40.4012_17.5566,Birreria Artigianale,RESTAURANT,bar_cafe
-40.400633,17.565401,ov_sweet_cafe_40.4006_17.5654,Sweet Cafe,RESTAURANT,bar_cafe
-40.399504,17.566860,ov_old_times_pub_pizzeria_40.3995_17.5669,Old Times Pub Pizzeria,RESTAURANT,bar_cafe
-40.399267,17.558810,ov_alex_caf__40.3993_17.5588,Alex Cafè,RESTAURANT,bar_cafe
-40.399896,17.550493,ov_tropical_bar_40.3999_17.5505,Tropical Bar,RESTAURANT,bar_cafe
-40.398781,17.549830,ov_piazza_nassirya_40.3988_17.5498,Piazza Nassirya,RESTAURANT,bar_cafe
-40.401232,17.547663,ov_psico_bar_40.4012_17.5477,Psico Bar,RESTAURANT,bar_cafe
-40.400732,17.556051,ov_bar_risorgimento_40.4007_17.5561,Bar Risorgimento,RESTAURANT,bar_cafe
-40.402454,17.550964,ov_el_guapo_9_0_40.4025_17.5510,El Guapo 9.0,RESTAURANT,bar_cafe
-40.405008,17.552115,ov_lounge_bar_deja_vu_40.4050_17.5521,Lounge Bar Deja Vu,RESTAURANT,bar_cafe
-40.404113,17.572537,ov_caffe_noir_40.4041_17.5725,Caffe Noir,RESTAURANT,bar_cafe
-40.402833,17.567053,osm_the_red_lion_40.4028_17.5671,The Red Lion,bar_cafe,bar_cafe
-40.404987,17.552094,osm_d_j__vu_lounge_bar_40.4050_17.5521,Déjà Vu Lounge Bar,bar_cafe,bar_cafe
-40.404153,17.566348,osm_bar_europa_40.4042_17.5663,Bar Europa,bar_cafe,bar_cafe
-40.404973,17.558019,osm_suerte_food_drink_40.4050_17.5580,Suerte Food&Drink,bar_cafe,bar_cafe
-40.404585,17.558282,osm_bar_della_vittoria_40.4046_17.5583,Bar Della Vittoria,bar_cafe,bar_cafe
-40.404989,17.558695,osm_caff__mania_40.4050_17.5587,Caffè Mania,bar_cafe,bar_cafe
-40.404732,17.564569,osm_soave_lounge___coffee_40.4047_17.5646,Soave Lounge & Coffee,bar_cafe,bar_cafe
+40.412646,17.538275,ov_koil_bar_40.4126_17.5383,Koil Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/koil_bar_40.4126_17.5383.json,custom
+40.407810,17.550819,ov_life_bar_40.4078_17.5508,Life Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/life_bar_40.4078_17.5508.json,custom
+40.408788,17.548663,ov_caff__mazzini_40.4088_17.5487,Caffè Mazzini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/caff_mazzini_40.4088_17.5487.json,custom
+40.405486,17.559403,ov_u_sfiziu_40.4055_17.5594,U sfiziu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/u_sfiziu_40.4055_17.5594.json,custom
+40.404295,17.566450,ov_europa_bar_40.4043_17.5665,Europa Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/europa_bar_40.4043_17.5665.json,custom
+40.404397,17.567722,ov_mama_cafe_40.4044_17.5677,Mama Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/mama_cafe_40.4044_17.5677.json,custom
+40.405360,17.559250,ov_pub_brooklyn_club_40.4054_17.5592,Pub Brooklyn Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/pub_brooklyn_club_40.4054_17.5592.json,custom
+40.404963,17.558641,ov_bar_risorgimento_sava_40.4050_17.5586,Bar Risorgimento Sava,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_risorgimento_sava_40.4050_17.5586.json,custom
+40.405275,17.558472,ov_chapeau_40.4053_17.5585,Chapeau,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/chapeau_40.4053_17.5585.json,custom
+40.404281,17.557803,ov_bar_new_day_40.4043_17.5578,Bar New Day,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_new_day_40.4043_17.5578.json,custom
+40.404008,17.557120,ov_elio_bar_di_eleonora_balestra_40.4040_17.5571,Elio Bar di Eleonora Balestra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/elio_bar_di_eleonora_balestra_40.4040_17.5571.json,custom
+40.403430,17.556590,ov_zia_cinzia___nonno_gigi_40.4034_17.5566,Zia Cinzia & nonno Gigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/zia_cinzia_nonno_gigi_40.4034_17.5566.json,custom
+40.403392,17.557416,ov_il_ritrovo_di_lupin_40.4034_17.5574,Il Ritrovo Di Lupin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/il_ritrovo_di_lupin_40.4034_17.5574.json,custom
+40.403369,17.556864,ov_evolution_bar_caffetteria_40.4034_17.5569,Evolution Bar Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/evolution_bar_caffetteria_40.4034_17.5569.json,custom
+40.402400,17.557420,ov_cico_s_caff__40.4024_17.5574,Cico's Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/cicos_caff_40.4024_17.5574.json,custom
+40.401926,17.556556,ov_bar_windsor_da_gino_40.4019_17.5566,Bar Windsor da Gino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_windsor_da_gino_40.4019_17.5566.json,custom
+40.401230,17.556589,ov_birreria_artigianale_40.4012_17.5566,Birreria Artigianale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/birreria_artigianale_40.4012_17.5566.json,custom
+40.400633,17.565401,ov_sweet_cafe_40.4006_17.5654,Sweet Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/sweet_cafe_40.4006_17.5654.json,custom
+40.399504,17.566860,ov_old_times_pub_pizzeria_40.3995_17.5669,Old Times Pub Pizzeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/old_times_pub_pizzeria_40.3995_17.5669.json,custom
+40.399267,17.558810,ov_alex_caf__40.3993_17.5588,Alex Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/alex_caf_40.3993_17.5588.json,custom
+40.399896,17.550493,ov_tropical_bar_40.3999_17.5505,Tropical Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/tropical_bar_40.3999_17.5505.json,custom
+40.398781,17.549830,ov_piazza_nassirya_40.3988_17.5498,Piazza Nassirya,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/piazza_nassirya_40.3988_17.5498.json,custom
+40.401232,17.547663,ov_psico_bar_40.4012_17.5477,Psico Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/psico_bar_40.4012_17.5477.json,custom
+40.400732,17.556051,ov_bar_risorgimento_40.4007_17.5561,Bar Risorgimento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_risorgimento_40.4007_17.5561.json,custom
+40.402454,17.550964,ov_el_guapo_9_0_40.4025_17.5510,El Guapo 9.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/el_guapo_90_40.4025_17.5510.json,custom
+40.405008,17.552115,ov_lounge_bar_deja_vu_40.4050_17.5521,Lounge Bar Deja Vu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/lounge_bar_deja_vu_40.4050_17.5521.json,custom
+40.404113,17.572537,ov_caffe_noir_40.4041_17.5725,Caffe Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/caffe_noir_40.4041_17.5725.json,custom
+40.402833,17.567053,osm_the_red_lion_40.4028_17.5671,The Red Lion,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/the_red_lion_40.4028_17.5671.json,custom
+40.404987,17.552094,osm_d_j__vu_lounge_bar_40.4050_17.5521,Déjà Vu Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/dj_vu_lounge_bar_40.4050_17.5521.json,custom
+40.404153,17.566348,osm_bar_europa_40.4042_17.5663,Bar Europa,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_europa_40.4042_17.5663.json,custom
+40.404973,17.558019,osm_suerte_food_drink_40.4050_17.5580,Suerte Food&Drink,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/suerte_fooddrink_40.4050_17.5580.json,custom
+40.404585,17.558282,osm_bar_della_vittoria_40.4046_17.5583,Bar Della Vittoria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/bar_della_vittoria_40.4046_17.5583.json,custom
+40.404989,17.558695,osm_caff__mania_40.4050_17.5587,Caffè Mania,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/caff_mania_40.4050_17.5587.json,custom
+40.404732,17.564569,osm_soave_lounge___coffee_40.4047_17.5646,Soave Lounge & Coffee,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sava/pages/soave_lounge_coffee_40.4047_17.5646.json,custom

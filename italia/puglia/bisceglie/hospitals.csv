@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bisceglie -- hospitals
-41.242282,16.497484,ov_casa_della_divina_provvidenza_41.2423_16.4975,Casa della Divina Provvidenza,HOSPITAL,hospital
-41.238551,16.505598,ov_bisceglie_don_uva_41.2386_16.5056,Bisceglie Don Uva,HOSPITAL,hospital
+41.242282,16.497484,ov_casa_della_divina_provvidenza_41.2423_16.4975,Casa della Divina Provvidenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/casa_della_divina_provvidenza_41.2423_16.4975.json,custom
+41.238551,16.505598,ov_bisceglie_don_uva_41.2386_16.5056,Bisceglie Don Uva,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisceglie/pages/bisceglie_don_uva_41.2386_16.5056.json,custom

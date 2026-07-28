@@ -1,30 +1,30 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Senise -- Tutti
-40.143593,16.290187,ov_divini_sapori_senise_40.1436_16.2902,Divini Sapori Senise,RESTAURANT,ristorante
-40.146497,16.289303,ov_le_macine_40.1465_16.2893,Le Macine,RESTAURANT,ristorante
-40.148365,16.290181,ov_friggitoria_pescheria_da_bruno_40.1484_16.2902,Friggitoria Pescheria Da Bruno,RESTAURANT,ristorante
-40.147974,16.288621,ov_l_infinito_40.1480_16.2886,L'infinito,RESTAURANT,ristorante
-40.149888,16.287180,ov_pizza___spizzico_40.1499_16.2872,Pizza & Spizzico,RESTAURANT,ristorante
-40.150053,16.282785,ov_la_lanterna_40.1501_16.2828,La Lanterna,RESTAURANT,ristorante
-40.143331,16.284801,ov_ristorante_oliver_40.1433_16.2848,Ristorante Oliver,RESTAURANT,ristorante
-40.144611,16.278322,ov_ristorante_pizzeria_da_vincenzo_a_bomb_40.1446_16.2783,Ristorante Pizzeria da Vincenzo A Bomb,RESTAURANT,ristorante
-40.189890,16.351355,ov_tenuta_fortunato_40.1899_16.3514,Tenuta Fortunato,RESTAURANT,ristorante
-40.159861,16.320475,ov_marchese_restaurant___bistrot_40.1599_16.3205,marchese restaurant & bistrot,RESTAURANT,ristorante
-40.458606,15.970372,ov_ristorante_pizzeria_a_camastra_40.4586_15.9704,Ristorante Pizzeria A'Camastra,RESTAURANT,ristorante
-40.135293,16.304363,ov_bar_primo_pino_40.1353_16.3044,Bar Primo Pino,RESTAURANT,bar_cafe
-40.143674,16.289370,ov_gran_caffe_bar_italia_40.1437_16.2894,Gran Caffe Bar Italia,RESTAURANT,bar_cafe
-40.148304,16.289943,ov_eldorado_pub_40.1483_16.2899,Eldorado Pub,RESTAURANT,bar_cafe
-40.149004,16.288273,ov_sunset_italian_coffee_40.1490_16.2883,Sunset Italian Coffee,RESTAURANT,bar_cafe
-40.149404,16.287440,ov_caffe__rendez_vous_senise__40.1494_16.2874,Caffe' Rendez Vous Senise.,RESTAURANT,bar_cafe
-40.150260,16.286960,ov_euro_bar_40.1503_16.2870,Euro Bar,RESTAURANT,bar_cafe
-40.149935,16.286740,ov_caff__la_piazzetta_40.1499_16.2867,Caffé La Piazzetta,RESTAURANT,bar_cafe
-40.149815,16.286123,ov_bar_botero_40.1498_16.2861,Bar Botero,RESTAURANT,bar_cafe
-40.143894,16.285873,ov_la_cantina_di_andrea_40.1439_16.2859,La cantina di Andrea,RESTAURANT,bar_cafe
-40.142531,16.285228,ov_l_angolo_del_caffe_40.1425_16.2852,L'Angolo del Caffe,RESTAURANT,bar_cafe
-40.142229,16.284733,ov_bar_gran_caff__senise_40.1422_16.2847,BAR GRAN CAFFè SeNiSe,RESTAURANT,bar_cafe
-40.128787,16.300691,ov_asd_bike_explorer_40.1288_16.3007,ASD BIKE Explorer,GYM,palestra
-40.147186,16.287096,ov_centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871,Centro Parrocchiale don Egidio Guerriero - Senise,GYM,palestra
-40.143555,16.292809,ov_grillo_garage_84_40.1436_16.2928,Grillo Garage 84,GYM,palestra
-40.149588,16.289330,ov_fitness_one_club_sport_center_40.1496_16.2893,Fitness One Club Sport Center,GYM,palestra
-40.150426,16.287237,ov_power_training_studio_40.1504_16.2872,Power Training Studio,GYM,palestra
-40.143249,16.285465,ov_palestra_egidiosportcenter_40.1432_16.2855,Palestra egidiosportcenter,GYM,palestra
+40.143593,16.290187,ov_divini_sapori_senise_40.1436_16.2902,Divini Sapori Senise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/divini_sapori_senise_40.1436_16.2902.json,custom
+40.146497,16.289303,ov_le_macine_40.1465_16.2893,Le Macine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/le_macine_40.1465_16.2893.json,custom
+40.148365,16.290181,ov_friggitoria_pescheria_da_bruno_40.1484_16.2902,Friggitoria Pescheria Da Bruno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/friggitoria_pescheria_da_bruno_40.1484_16.2902.json,custom
+40.147974,16.288621,ov_l_infinito_40.1480_16.2886,L'infinito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/linfinito_40.1480_16.2886.json,custom
+40.149888,16.287180,ov_pizza___spizzico_40.1499_16.2872,Pizza & Spizzico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/pizza_spizzico_40.1499_16.2872.json,custom
+40.150053,16.282785,ov_la_lanterna_40.1501_16.2828,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/la_lanterna_40.1501_16.2828.json,custom
+40.143331,16.284801,ov_ristorante_oliver_40.1433_16.2848,Ristorante Oliver,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/ristorante_oliver_40.1433_16.2848.json,custom
+40.144611,16.278322,ov_ristorante_pizzeria_da_vincenzo_a_bomb_40.1446_16.2783,Ristorante Pizzeria da Vincenzo A Bomb,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/ristorante_pizzeria_da_vincenzo_a_bomb_40.1446_16.2783.json,custom
+40.189890,16.351355,ov_tenuta_fortunato_40.1899_16.3514,Tenuta Fortunato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/tenuta_fortunato_40.1899_16.3514.json,custom
+40.159861,16.320475,ov_marchese_restaurant___bistrot_40.1599_16.3205,marchese restaurant & bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/marchese_restaurant_bistrot_40.1599_16.3205.json,custom
+40.458606,15.970372,ov_ristorante_pizzeria_a_camastra_40.4586_15.9704,Ristorante Pizzeria A'Camastra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/ristorante_pizzeria_acamastra_40.4586_15.9704.json,custom
+40.135293,16.304363,ov_bar_primo_pino_40.1353_16.3044,Bar Primo Pino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_primo_pino_40.1353_16.3044.json,custom
+40.143674,16.289370,ov_gran_caffe_bar_italia_40.1437_16.2894,Gran Caffe Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/gran_caffe_bar_italia_40.1437_16.2894.json,custom
+40.148304,16.289943,ov_eldorado_pub_40.1483_16.2899,Eldorado Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/eldorado_pub_40.1483_16.2899.json,custom
+40.149004,16.288273,ov_sunset_italian_coffee_40.1490_16.2883,Sunset Italian Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/sunset_italian_coffee_40.1490_16.2883.json,custom
+40.149404,16.287440,ov_caffe__rendez_vous_senise__40.1494_16.2874,Caffe' Rendez Vous Senise.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/caffe_rendez_vous_senise_40.1494_16.2874.json,custom
+40.150260,16.286960,ov_euro_bar_40.1503_16.2870,Euro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/euro_bar_40.1503_16.2870.json,custom
+40.149935,16.286740,ov_caff__la_piazzetta_40.1499_16.2867,Caffé La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/caff_la_piazzetta_40.1499_16.2867.json,custom
+40.149815,16.286123,ov_bar_botero_40.1498_16.2861,Bar Botero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_botero_40.1498_16.2861.json,custom
+40.143894,16.285873,ov_la_cantina_di_andrea_40.1439_16.2859,La cantina di Andrea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/la_cantina_di_andrea_40.1439_16.2859.json,custom
+40.142531,16.285228,ov_l_angolo_del_caffe_40.1425_16.2852,L'Angolo del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/langolo_del_caffe_40.1425_16.2852.json,custom
+40.142229,16.284733,ov_bar_gran_caff__senise_40.1422_16.2847,BAR GRAN CAFFè SeNiSe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/bar_gran_caff_senise_40.1422_16.2847.json,custom
+40.128787,16.300691,ov_asd_bike_explorer_40.1288_16.3007,ASD BIKE Explorer,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/asd_bike_explorer_40.1288_16.3007.json,custom
+40.147186,16.287096,ov_centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871,Centro Parrocchiale don Egidio Guerriero - Senise,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/centro_parrocchiale_don_egidio_guerriero_40.1472_16.2871.json,custom
+40.143555,16.292809,ov_grillo_garage_84_40.1436_16.2928,Grillo Garage 84,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/grillo_garage_84_40.1436_16.2928.json,custom
+40.149588,16.289330,ov_fitness_one_club_sport_center_40.1496_16.2893,Fitness One Club Sport Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/fitness_one_club_sport_center_40.1496_16.2893.json,custom
+40.150426,16.287237,ov_power_training_studio_40.1504_16.2872,Power Training Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/power_training_studio_40.1504_16.2872.json,custom
+40.143249,16.285465,ov_palestra_egidiosportcenter_40.1432_16.2855,Palestra egidiosportcenter,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/senise/pages/palestra_egidiosportcenter_40.1432_16.2855.json,custom

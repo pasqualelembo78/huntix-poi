@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # trepuzzi -- gyms
-40.403753,18.081725,ov_reiki_trepuzzi_40.4038_18.0817,Reiki Trepuzzi,GYM,palestra
-40.402185,18.066843,ov_fit_stop___dance_40.4022_18.0668,Fit-stop & DANCE,GYM,palestra
-40.404840,18.074340,ov_scuola_di_danza_balletto_del_salento_40.4048_18.0743,Scuola di danza Balletto del Salento,GYM,palestra
-40.410556,18.074733,ov_evolution_a_s_d__40.4106_18.0747,Evolution A.S.D.,GYM,palestra
-40.410091,18.075462,ov_milos_club_40.4101_18.0755,Milos Club,GYM,palestra
-40.409890,18.075239,ov_ballet_school_40.4099_18.0752,Ballet School,GYM,palestra
-40.409340,18.067430,ov_family___usa_9_40.4093_18.0674,Family - USA 9,GYM,palestra
-40.411862,18.071519,ov_tripudium_functional_40.4119_18.0715,Tripudium Functional,GYM,palestra
+40.403753,18.081725,ov_reiki_trepuzzi_40.4038_18.0817,Reiki Trepuzzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/reiki_trepuzzi_40.4038_18.0817.json,custom
+40.402185,18.066843,ov_fit_stop___dance_40.4022_18.0668,Fit-stop & DANCE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/fit-stop_dance_40.4022_18.0668.json,custom
+40.404840,18.074340,ov_scuola_di_danza_balletto_del_salento_40.4048_18.0743,Scuola di danza Balletto del Salento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/scuola_di_danza_balletto_del_salento_40.4048_18.0743.json,custom
+40.410556,18.074733,ov_evolution_a_s_d__40.4106_18.0747,Evolution A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/evolution_asd_40.4106_18.0747.json,custom
+40.410091,18.075462,ov_milos_club_40.4101_18.0755,Milos Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/milos_club_40.4101_18.0755.json,custom
+40.409890,18.075239,ov_ballet_school_40.4099_18.0752,Ballet School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/ballet_school_40.4099_18.0752.json,custom
+40.409340,18.067430,ov_family___usa_9_40.4093_18.0674,Family - USA 9,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/family_-_usa_9_40.4093_18.0674.json,custom
+40.411862,18.071519,ov_tripudium_functional_40.4119_18.0715,Tripudium Functional,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/tripudium_functional_40.4119_18.0715.json,custom

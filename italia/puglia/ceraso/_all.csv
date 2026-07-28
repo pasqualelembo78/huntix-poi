@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Ceraso -- Tutti
-40.192445,15.215800,ov_la_locanda_dei_briganti_40.1924_15.2158,La Locanda dei Briganti,RESTAURANT,ristorante
-40.195910,15.215550,ov_le_grate_40.1959_15.2156,Le grate,RESTAURANT,ristorante
-40.191614,15.204498,ov_tequila_bistrot_40.1916_15.2045,Tequila Bistrot,RESTAURANT,ristorante
-40.205590,15.206234,ov_agriturismo_musto_40.2056_15.2062,Agriturismo Musto,RESTAURANT,ristorante
-40.198422,15.277943,ov_picci_re_nella_40.1984_15.2779,Picci re Nella,RESTAURANT,ristorante
-40.196434,15.260412,ov_osteria_del_notaro_40.1964_15.2604,Osteria Del Notaro,RESTAURANT,ristorante
-40.195350,15.256040,ov_suheila_cucina_multietnica_40.1953_15.2560,Suheila cucina multietnica,RESTAURANT,ristorante
-40.202574,15.281407,ov_antico_mulino___brace_grani_40.2026_15.2814,Antico Mulino - brace&grani,RESTAURANT,ristorante
-40.179680,15.255973,ov__uro_bar_40.1797_15.2560,€uro Bar,RESTAURANT,bar_cafe
-40.194693,15.256182,ov_cherry_s_pub_40.1947_15.2562,Cherry's Pub,RESTAURANT,bar_cafe
-40.195174,15.256193,ov_jessy_bar_40.1952_15.2562,Jessy Bar,RESTAURANT,bar_cafe
-40.202681,15.281768,ov_km_zero_40.2027_15.2818,Km Zero,RESTAURANT,bar_cafe
-40.179409,15.253143,ov_museo_della_civilt__contadina___ceraso___40.1794_15.2531,Museo della Civiltà Contadina - Ceraso - SA,MUSEUM,monumento
+40.192445,15.215800,ov_la_locanda_dei_briganti_40.1924_15.2158,La Locanda dei Briganti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/la_locanda_dei_briganti_40.1924_15.2158.json,custom
+40.195910,15.215550,ov_le_grate_40.1959_15.2156,Le grate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/le_grate_40.1959_15.2156.json,custom
+40.191614,15.204498,ov_tequila_bistrot_40.1916_15.2045,Tequila Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/tequila_bistrot_40.1916_15.2045.json,custom
+40.205590,15.206234,ov_agriturismo_musto_40.2056_15.2062,Agriturismo Musto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/agriturismo_musto_40.2056_15.2062.json,custom
+40.198422,15.277943,ov_picci_re_nella_40.1984_15.2779,Picci re Nella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/picci_re_nella_40.1984_15.2779.json,custom
+40.196434,15.260412,ov_osteria_del_notaro_40.1964_15.2604,Osteria Del Notaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/osteria_del_notaro_40.1964_15.2604.json,custom
+40.195350,15.256040,ov_suheila_cucina_multietnica_40.1953_15.2560,Suheila cucina multietnica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/suheila_cucina_multietnica_40.1953_15.2560.json,custom
+40.202574,15.281407,ov_antico_mulino___brace_grani_40.2026_15.2814,Antico Mulino - brace&grani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/antico_mulino_-_bracegrani_40.2026_15.2814.json,custom
+40.179680,15.255973,ov__uro_bar_40.1797_15.2560,€uro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/uro_bar_40.1797_15.2560.json,custom
+40.194693,15.256182,ov_cherry_s_pub_40.1947_15.2562,Cherry's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/cherrys_pub_40.1947_15.2562.json,custom
+40.195174,15.256193,ov_jessy_bar_40.1952_15.2562,Jessy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/jessy_bar_40.1952_15.2562.json,custom
+40.202681,15.281768,ov_km_zero_40.2027_15.2818,Km Zero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/km_zero_40.2027_15.2818.json,custom
+40.179409,15.253143,ov_museo_della_civilt__contadina___ceraso___40.1794_15.2531,Museo della Civiltà Contadina - Ceraso - SA,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/museo_della_civilt_contadina_-_ceraso_-__40.1794_15.2531.json,custom

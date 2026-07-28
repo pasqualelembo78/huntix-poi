@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # muro_lucano -- restaurants
-40.768644,15.497877,osm_pizzeria_acquaviva_40.7686_15.4979,Pizzeria Acquaviva,ristorante,ristorante
-40.768667,15.498030,ov_pirolo_donato_40.7687_15.4980,Pirolo Donato,RESTAURANT,ristorante
-40.768393,15.497989,ov_pizzeria_acquaviva_40.7684_15.4980,Pizzeria Acquaviva,RESTAURANT,ristorante
-40.763373,15.522545,ov_ristorante_le_taverne_40.7634_15.5225,Ristorante Le Taverne,RESTAURANT,ristorante
-40.751626,15.484148,ov_pizzeria_le_tentazioni_40.7516_15.4841,Pizzeria Le Tentazioni,RESTAURANT,ristorante
-40.752292,15.484059,ov_signora_pizza_40.7523_15.4841,Signora Pizza,RESTAURANT,ristorante
-40.752883,15.484611,ov_bubi_lab_40.7529_15.4846,bubi Lab,RESTAURANT,ristorante
-40.739760,15.493620,ov_ristorante_il_casereccio_40.7398_15.4936,Ristorante Il Casereccio,RESTAURANT,ristorante
-40.736462,15.497027,ov_il_casereccio_40.7365_15.4970,Il Casereccio,RESTAURANT,ristorante
-40.729542,15.526484,ov_agriturismo_la_bont__40.7295_15.5265,Agriturismo La Bontà,RESTAURANT,ristorante
-40.734379,15.474388,ov_agriturismo_nonna_maria_40.7344_15.4744,Agriturismo Nonna Maria,RESTAURANT,ristorante
+40.768667,15.498030,ov_pirolo_donato_40.7687_15.4980,Pirolo Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/pirolo_donato_40.7687_15.4980.json,custom
+40.768393,15.497989,ov_pizzeria_acquaviva_40.7684_15.4980,Pizzeria Acquaviva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/pizzeria_acquaviva_40.7684_15.4980.json,custom
+40.763373,15.522545,ov_ristorante_le_taverne_40.7634_15.5225,Ristorante Le Taverne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/ristorante_le_taverne_40.7634_15.5225.json,custom
+40.751626,15.484148,ov_pizzeria_le_tentazioni_40.7516_15.4841,Pizzeria Le Tentazioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/pizzeria_le_tentazioni_40.7516_15.4841.json,custom
+40.752292,15.484059,ov_signora_pizza_40.7523_15.4841,Signora Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/signora_pizza_40.7523_15.4841.json,custom
+40.752883,15.484611,ov_bubi_lab_40.7529_15.4846,bubi Lab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/bubi_lab_40.7529_15.4846.json,custom
+40.739760,15.493620,ov_ristorante_il_casereccio_40.7398_15.4936,Ristorante Il Casereccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/ristorante_il_casereccio_40.7398_15.4936.json,custom
+40.736462,15.497027,ov_il_casereccio_40.7365_15.4970,Il Casereccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/il_casereccio_40.7365_15.4970.json,custom
+40.729542,15.526484,ov_agriturismo_la_bont__40.7295_15.5265,Agriturismo La Bontà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/agriturismo_la_bont_40.7295_15.5265.json,custom
+40.734379,15.474388,ov_agriturismo_nonna_maria_40.7344_15.4744,Agriturismo Nonna Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/agriturismo_nonna_maria_40.7344_15.4744.json,custom
+40.768644,15.497877,osm_pizzeria_acquaviva_40.7686_15.4979,Pizzeria Acquaviva,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_lucano/pages/pizzeria_acquaviva_40.7686_15.4979.json,custom

@@ -1,5 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_marzano_di_san_giuseppe -- gyms
-40.456834,17.500021,ov_centrofitness_zenithcenter_40.4568_17.5000,Centrofitness Zenithcenter,GYM,palestra
-40.449575,17.503621,ov_atlantis_body_and_fitness_40.4496_17.5036,Atlantis Body and Fitness,GYM,palestra
-40.396272,17.547728,ov_asd_moveit_wellness_center_40.3963_17.5477,ASD MOVeiT Wellness Center,GYM,palestra
+40.456834,17.500021,ov_centrofitness_zenithcenter_40.4568_17.5000,Centrofitness Zenithcenter,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/centrofitness_zenithcenter_40.4568_17.5000.json,custom
+40.449575,17.503621,ov_atlantis_body_and_fitness_40.4496_17.5036,Atlantis Body and Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/atlantis_body_and_fitness_40.4496_17.5036.json,custom
+40.396272,17.547728,ov_asd_moveit_wellness_center_40.3963_17.5477,ASD MOVeiT Wellness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/asd_moveit_wellness_center_40.3963_17.5477.json,custom
+40.456874,17.499961,osm_elite_gym_and_fitness_40.4569_17.5000,Elite Gym and Fitness,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/elite_gym_and_fitness_40.4569_17.5000.json,custom
+40.448256,17.508948,osm_athena_sporting_club_s_a_s__di_borsci_gi_40.4483_17.5089,Athena Sporting Club S.A.S. Di Borsci Giuseppe,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/athena_sporting_club_sas_di_borsci_giuse_40.4483_17.5089.json,custom
+40.454914,17.499237,osm_kratos_a_s_d__san_marzano_di_s_g__40.4549_17.4992,Kratos a.s.d. San Marzano di S.G.,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/kratos_asd_san_marzano_di_sg_40.4549_17.4992.json,custom

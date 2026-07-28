@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bitetto -- bars_cafes
-41.050655,16.755977,ov_ferramenta_bistrot_41.0507_16.7560,Ferramenta Bistrot,RESTAURANT,bar_cafe
-41.045201,16.743910,ov_piro_cafe_41.0452_16.7439,Piro Cafe,RESTAURANT,bar_cafe
-41.044874,16.750372,ov_jackson_caffe_41.0449_16.7504,Jackson Caffe,RESTAURANT,bar_cafe
-41.043732,16.749244,ov_non_solo_caffe_41.0437_16.7492,Non Solo Caffe,RESTAURANT,bar_cafe
-41.042139,16.765163,ov_coffee_and_more_bitetto_41.0421_16.7652,Coffee and More Bitetto,RESTAURANT,bar_cafe
-41.041020,16.748390,ov_caff__sedile_41.0410_16.7484,Caffè Sedile,RESTAURANT,bar_cafe
-41.041399,16.747096,ov_vesp_cafe_41.0414_16.7471,Vesp'cafe,RESTAURANT,bar_cafe
-41.039804,16.746475,ov_vifer_bar_di_flora_luigi_41.0398_16.7465,Vifer Bar di Flora Luigi,RESTAURANT,bar_cafe
-41.039897,16.749060,ov_new_york_bar_41.0399_16.7491,New YORK BAR,RESTAURANT,bar_cafe
-41.040386,16.748092,ov_bar_roma_di_percoco_mario_41.0404_16.7481,Bar Roma di Percoco Mario,RESTAURANT,bar_cafe
-41.040654,16.748376,ov_bitetto_centro_storico_41.0407_16.7484,Bitetto Centro Storico,RESTAURANT,bar_cafe
-41.039018,16.749420,ov_pasticceriagrace_41.0390_16.7494,Pasticceriagrace,RESTAURANT,bar_cafe
-41.039250,16.744460,ov_al_monacello_events_41.0393_16.7445,Al Monacello Events,RESTAURANT,bar_cafe
-41.038567,16.741787,ov_lesamis_41.0386_16.7418,LesAmis,RESTAURANT,bar_cafe
+41.050655,16.755977,ov_ferramenta_bistrot_41.0507_16.7560,Ferramenta Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/ferramenta_bistrot_41.0507_16.7560.json,custom
+41.045201,16.743910,ov_piro_cafe_41.0452_16.7439,Piro Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/piro_cafe_41.0452_16.7439.json,custom
+41.044874,16.750372,ov_jackson_caffe_41.0449_16.7504,Jackson Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/jackson_caffe_41.0449_16.7504.json,custom
+41.043732,16.749244,ov_non_solo_caffe_41.0437_16.7492,Non Solo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/non_solo_caffe_41.0437_16.7492.json,custom
+41.042139,16.765163,ov_coffee_and_more_bitetto_41.0421_16.7652,Coffee and More Bitetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/coffee_and_more_bitetto_41.0421_16.7652.json,custom
+41.041020,16.748390,ov_caff__sedile_41.0410_16.7484,Caffè Sedile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/caff_sedile_41.0410_16.7484.json,custom
+41.041399,16.747096,ov_vesp_cafe_41.0414_16.7471,Vesp'cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/vespcafe_41.0414_16.7471.json,custom
+41.039804,16.746475,ov_vifer_bar_di_flora_luigi_41.0398_16.7465,Vifer Bar di Flora Luigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/vifer_bar_di_flora_luigi_41.0398_16.7465.json,custom
+41.039897,16.749060,ov_new_york_bar_41.0399_16.7491,New YORK BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/new_york_bar_41.0399_16.7491.json,custom
+41.040386,16.748092,ov_bar_roma_di_percoco_mario_41.0404_16.7481,Bar Roma di Percoco Mario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/bar_roma_di_percoco_mario_41.0404_16.7481.json,custom
+41.040654,16.748376,ov_bitetto_centro_storico_41.0407_16.7484,Bitetto Centro Storico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/bitetto_centro_storico_41.0407_16.7484.json,custom
+41.039018,16.749420,ov_pasticceriagrace_41.0390_16.7494,Pasticceriagrace,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/pasticceriagrace_41.0390_16.7494.json,custom
+41.039250,16.744460,ov_al_monacello_events_41.0393_16.7445,Al Monacello Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/al_monacello_events_41.0393_16.7445.json,custom
+41.038567,16.741787,ov_lesamis_41.0386_16.7418,LesAmis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitetto/pages/lesamis_41.0386_16.7418.json,custom

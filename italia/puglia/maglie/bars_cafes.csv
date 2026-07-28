@@ -1,46 +1,46 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # maglie -- bars_cafes
-40.010080,18.324010,ov_vivai_del_salento_40.0101_18.3240,Vivai del salento,RESTAURANT,bar_cafe
-40.130229,18.291968,ov_agip_via_lecce_maglie_40.1302_18.2920,Agip Via Lecce Maglie,RESTAURANT,bar_cafe
-40.113797,18.302059,ov_caffetteria_lulu_40.1138_18.3021,Caffetteria Lulu,RESTAURANT,bar_cafe
-40.113708,18.302066,ov_bestbuy_40.1137_18.3021,BestBuy,RESTAURANT,bar_cafe
-40.115380,18.306880,ov_bar_il_pasticci8_40.1154_18.3069,Bar il pasticci8,RESTAURANT,bar_cafe
-40.115684,18.306262,ov_caffettino_40.1157_18.3063,Caffettino,RESTAURANT,bar_cafe
-40.117161,18.301927,ov_lu_barra_40.1172_18.3019,Lu barra,RESTAURANT,bar_cafe
-40.117140,18.292560,ov_mondo_bar_40.1171_18.2926,Mondo Bar,RESTAURANT,bar_cafe
-40.117281,18.295194,ov_bar_caffe__fracasso_40.1173_18.2952,Bar Caffe' Fracasso,RESTAURANT,bar_cafe
-40.119790,18.301210,ov_apophis_40.1198_18.3012,Apophis,RESTAURANT,bar_cafe
-40.119143,18.298708,ov_bar_2001_40.1191_18.2987,Bar 2001,RESTAURANT,bar_cafe
-40.120853,18.300332,ov_casa_del_caff__40.1209_18.3003,Casa Del Caffé,RESTAURANT,bar_cafe
-40.120750,18.301525,ov_caffe_leopardi_40.1208_18.3015,Caffe Leopardi,RESTAURANT,bar_cafe
-40.120784,18.299810,ov_cubi_40.1208_18.2998,Cubi,RESTAURANT,bar_cafe
-40.120088,18.300314,ov_l_alchimista_spirits___sound_lab_40.1201_18.3003,L'Alchimista Spirits & Sound Lab,RESTAURANT,bar_cafe
-40.120078,18.300233,ov_la_cambusa_40.1201_18.3002,La Cambusa,RESTAURANT,bar_cafe
-40.120010,18.298840,ov_martinucci_laboratory_40.1200_18.2988,Martinucci Laboratory,RESTAURANT,bar_cafe
-40.120258,18.300702,ov_l_arte_del_gusto_40.1203_18.3007,L'Arte Del Gusto,RESTAURANT,bar_cafe
-40.120358,18.298745,ov_martinucci_a_maglie_40.1204_18.2987,Martinucci a Maglie,RESTAURANT,bar_cafe
-40.121104,18.293701,ov_bar_felicit__40.1211_18.2937,Bar Felicità,RESTAURANT,bar_cafe
-40.121589,18.298243,ov_spinelli_caff__40.1216_18.2982,Spinelli Caffè,RESTAURANT,bar_cafe
-40.121213,18.300215,ov_mieravigliosa_wines_40.1212_18.3002,Mieravigliosa Wines,RESTAURANT,bar_cafe
-40.121221,18.298917,ov_caff__della_libert____patisserie__ice_cr_40.1212_18.2989,"Caffé della Libertà - Patisserie, Ice-cream, Rotisserie",RESTAURANT,bar_cafe
-40.121154,18.301327,ov_orazio_74_40.1212_18.3013,Orazio 74,RESTAURANT,bar_cafe
-40.121287,18.303225,ov_bar_eurobar_snc_40.1213_18.3032,Bar Eurobar Snc,RESTAURANT,bar_cafe
-40.121740,18.293285,ov_kenzia_40.1217_18.2933,Kenzia,RESTAURANT,bar_cafe
-40.123471,18.300334,ov_accoto_g__40.1235_18.3003,Accoto G.,RESTAURANT,bar_cafe
-40.123757,18.299498,ov_l_allegra_scottona_40.1238_18.2995,L'Allegra Scottona,RESTAURANT,bar_cafe
-40.124312,18.294215,ov_royalbar_40.1243_18.2942,RoyalBar,RESTAURANT,bar_cafe
-40.124464,18.297544,ov_black_and_white_40.1245_18.2975,Black and White,RESTAURANT,bar_cafe
-40.124699,18.292647,ov_art_caf__40.1247_18.2926,Art Café,RESTAURANT,bar_cafe
-40.126923,18.296839,ov_vencafe_la_boutique_del_caffe_40.1269_18.2968,Vencafe La Boutique Del Caffe,RESTAURANT,bar_cafe
-40.127354,18.296673,ov_il_capriccio_40.1274_18.2967,Il Capriccio,RESTAURANT,bar_cafe
-40.116371,18.303945,osm_tapas_40.1164_18.3039,Tapas,bar_cafe,bar_cafe
-40.120730,18.301539,osm_caff__leopardi_40.1207_18.3015,Caffè Leopardi,bar_cafe,bar_cafe
-40.120368,18.298829,osm_martinucci_40.1204_18.2988,Martinucci,bar_cafe,bar_cafe
-40.121201,18.303239,osm_eurobar_40.1212_18.3032,Eurobar,bar_cafe,bar_cafe
-40.119154,18.298670,osm_caff__2001_40.1192_18.2987,Caffè 2001,bar_cafe,bar_cafe
-40.117231,18.295167,osm_bar_pasticceria_policarita_40.1172_18.2952,Bar Pasticceria Policarita,bar_cafe,bar_cafe
-40.121209,18.298927,osm_caff__della_libert__40.1212_18.2989,Caffè della Libertà,bar_cafe,bar_cafe
-40.116052,18.292217,osm_le_caf__40.1161_18.2922,Le Cafè,bar_cafe,bar_cafe
-40.121186,18.295281,osm_officina_della_birra_40.1212_18.2953,Officina della Birra,bar_cafe,bar_cafe
-40.121083,18.295229,osm_l_angolo_dei_golosi_40.1211_18.2952,L'Angolo dei Golosi,bar_cafe,bar_cafe
-40.115314,18.304677,osm_officine_cavour_bistrot_40.1153_18.3047,Officine Cavour Bistrot,bar_cafe,bar_cafe
+40.010080,18.324010,ov_vivai_del_salento_40.0101_18.3240,Vivai del salento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/vivai_del_salento_40.0101_18.3240.json,custom
+40.130229,18.291968,ov_agip_via_lecce_maglie_40.1302_18.2920,Agip Via Lecce Maglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/agip_via_lecce_maglie_40.1302_18.2920.json,custom
+40.113797,18.302059,ov_caffetteria_lulu_40.1138_18.3021,Caffetteria Lulu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caffetteria_lulu_40.1138_18.3021.json,custom
+40.113708,18.302066,ov_bestbuy_40.1137_18.3021,BestBuy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bestbuy_40.1137_18.3021.json,custom
+40.115380,18.306880,ov_bar_il_pasticci8_40.1154_18.3069,Bar il pasticci8,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_il_pasticci8_40.1154_18.3069.json,custom
+40.115684,18.306262,ov_caffettino_40.1157_18.3063,Caffettino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caffettino_40.1157_18.3063.json,custom
+40.117161,18.301927,ov_lu_barra_40.1172_18.3019,Lu barra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/lu_barra_40.1172_18.3019.json,custom
+40.117140,18.292560,ov_mondo_bar_40.1171_18.2926,Mondo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/mondo_bar_40.1171_18.2926.json,custom
+40.117281,18.295194,ov_bar_caffe__fracasso_40.1173_18.2952,Bar Caffe' Fracasso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_caffe_fracasso_40.1173_18.2952.json,custom
+40.119790,18.301210,ov_apophis_40.1198_18.3012,Apophis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/apophis_40.1198_18.3012.json,custom
+40.119143,18.298708,ov_bar_2001_40.1191_18.2987,Bar 2001,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_2001_40.1191_18.2987.json,custom
+40.120853,18.300332,ov_casa_del_caff__40.1209_18.3003,Casa Del Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/casa_del_caff_40.1209_18.3003.json,custom
+40.120750,18.301525,ov_caffe_leopardi_40.1208_18.3015,Caffe Leopardi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caffe_leopardi_40.1208_18.3015.json,custom
+40.120784,18.299810,ov_cubi_40.1208_18.2998,Cubi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/cubi_40.1208_18.2998.json,custom
+40.120088,18.300314,ov_l_alchimista_spirits___sound_lab_40.1201_18.3003,L'Alchimista Spirits & Sound Lab,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/lalchimista_spirits_sound_lab_40.1201_18.3003.json,custom
+40.120078,18.300233,ov_la_cambusa_40.1201_18.3002,La Cambusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/la_cambusa_40.1201_18.3002.json,custom
+40.120010,18.298840,ov_martinucci_laboratory_40.1200_18.2988,Martinucci Laboratory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/martinucci_laboratory_40.1200_18.2988.json,custom
+40.120258,18.300702,ov_l_arte_del_gusto_40.1203_18.3007,L'Arte Del Gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/larte_del_gusto_40.1203_18.3007.json,custom
+40.120358,18.298745,ov_martinucci_a_maglie_40.1204_18.2987,Martinucci a Maglie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/martinucci_a_maglie_40.1204_18.2987.json,custom
+40.121104,18.293701,ov_bar_felicit__40.1211_18.2937,Bar Felicità,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_felicit_40.1211_18.2937.json,custom
+40.121589,18.298243,ov_spinelli_caff__40.1216_18.2982,Spinelli Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/spinelli_caff_40.1216_18.2982.json,custom
+40.121213,18.300215,ov_mieravigliosa_wines_40.1212_18.3002,Mieravigliosa Wines,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/mieravigliosa_wines_40.1212_18.3002.json,custom
+40.121221,18.298917,ov_caff__della_libert____patisserie__ice_cr_40.1212_18.2989,"Caffé della Libertà - Patisserie, Ice-cream, Rotisserie",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caff_della_libert_-_patisserie_ice-cream_40.1212_18.2989.json,custom
+40.121154,18.301327,ov_orazio_74_40.1212_18.3013,Orazio 74,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/orazio_74_40.1212_18.3013.json,custom
+40.121287,18.303225,ov_bar_eurobar_snc_40.1213_18.3032,Bar Eurobar Snc,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_eurobar_snc_40.1213_18.3032.json,custom
+40.121740,18.293285,ov_kenzia_40.1217_18.2933,Kenzia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/kenzia_40.1217_18.2933.json,custom
+40.123471,18.300334,ov_accoto_g__40.1235_18.3003,Accoto G.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/accoto_g_40.1235_18.3003.json,custom
+40.123757,18.299498,ov_l_allegra_scottona_40.1238_18.2995,L'Allegra Scottona,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/lallegra_scottona_40.1238_18.2995.json,custom
+40.124312,18.294215,ov_royalbar_40.1243_18.2942,RoyalBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/royalbar_40.1243_18.2942.json,custom
+40.124464,18.297544,ov_black_and_white_40.1245_18.2975,Black and White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/black_and_white_40.1245_18.2975.json,custom
+40.124699,18.292647,ov_art_caf__40.1247_18.2926,Art Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/art_caf_40.1247_18.2926.json,custom
+40.126923,18.296839,ov_vencafe_la_boutique_del_caffe_40.1269_18.2968,Vencafe La Boutique Del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/vencafe_la_boutique_del_caffe_40.1269_18.2968.json,custom
+40.127354,18.296673,ov_il_capriccio_40.1274_18.2967,Il Capriccio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/il_capriccio_40.1274_18.2967.json,custom
+40.116371,18.303945,osm_tapas_40.1164_18.3039,Tapas,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/tapas_40.1164_18.3039.json,custom
+40.120730,18.301539,osm_caff__leopardi_40.1207_18.3015,Caffè Leopardi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caff_leopardi_40.1207_18.3015.json,custom
+40.120368,18.298829,osm_martinucci_40.1204_18.2988,Martinucci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/martinucci_40.1204_18.2988.json,custom
+40.121201,18.303239,osm_eurobar_40.1212_18.3032,Eurobar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/eurobar_40.1212_18.3032.json,custom
+40.119154,18.298670,osm_caff__2001_40.1192_18.2987,Caffè 2001,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caff_2001_40.1192_18.2987.json,custom
+40.117231,18.295167,osm_bar_pasticceria_policarita_40.1172_18.2952,Bar Pasticceria Policarita,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/bar_pasticceria_policarita_40.1172_18.2952.json,custom
+40.121209,18.298927,osm_caff__della_libert__40.1212_18.2989,Caffè della Libertà,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/caff_della_libert_40.1212_18.2989.json,custom
+40.116052,18.292217,osm_le_caf__40.1161_18.2922,Le Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/le_caf_40.1161_18.2922.json,custom
+40.121186,18.295281,osm_officina_della_birra_40.1212_18.2953,Officina della Birra,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/officina_della_birra_40.1212_18.2953.json,custom
+40.121083,18.295229,osm_l_angolo_dei_golosi_40.1211_18.2952,L'Angolo dei Golosi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/langolo_dei_golosi_40.1211_18.2952.json,custom
+40.115314,18.304677,osm_officine_cavour_bistrot_40.1153_18.3047,Officine Cavour Bistrot,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/officine_cavour_bistrot_40.1153_18.3047.json,custom

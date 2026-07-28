@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vieste -- gyms
-41.812843,16.196809,ov_baia_di_campi_school_41.8128_16.1968,Baia di Campi school,GYM,palestra
-41.787880,16.182480,ov_pugnochiuso_resort_indoor_cycling_commun_41.7879_16.1825,Pugnochiuso Resort Indoor Cycling Community,GYM,palestra
-41.882126,16.171082,ov_fever_dance_academy_41.8821_16.1711,Fever Dance Academy,GYM,palestra
-41.879053,16.166186,ov_palestra_body_recomp_41.8791_16.1662,Palestra Body Recomp,GYM,palestra
-41.877460,16.165930,ov_fit_for_life___salute_in_movimento_41.8775_16.1659,Fit For Life - Salute in movimento,GYM,palestra
-41.880985,16.177492,ov_palestra_cambio_stile_lady_fitness_41.8810_16.1775,Palestra Cambio Stile Lady Fitness,GYM,palestra
-41.864635,16.166198,ov_vieste_omnisport_41.8646_16.1662,Vieste Omnisport,GYM,palestra
-41.900109,16.147967,ov_idra_cross_functional_training_41.9001_16.1480,IDRA Cross&functional Training,GYM,palestra
-41.900696,16.154087,ov_surfcenter_gargano_41.9007_16.1541,Surfcenter Gargano,GYM,palestra
-41.925063,16.109509,ov_free_surf_vieste_41.9251_16.1095,Free Surf Vieste,GYM,palestra
-41.924919,16.107208,ov_villaggio_capo_vieste_41.9249_16.1072,Villaggio Capo Vieste,GYM,palestra
-41.914392,16.121020,ov_768_surf_cristalda_spot_1_41.9144_16.1210,768 Surf Cristalda Spot 1,GYM,palestra
-41.911890,16.130285,ov_garganosurf_41.9119_16.1303,Garganosurf,GYM,palestra
-41.900001,16.135552,ov_maneggio_san_giorgio_martire_41.9000_16.1356,Maneggio San Giorgio Martire,GYM,palestra
+41.812843,16.196809,ov_baia_di_campi_school_41.8128_16.1968,Baia di Campi school,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/baia_di_campi_school_41.8128_16.1968.json,custom
+41.787880,16.182480,ov_pugnochiuso_resort_indoor_cycling_commun_41.7879_16.1825,Pugnochiuso Resort Indoor Cycling Community,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/pugnochiuso_resort_indoor_cycling_commun_41.7879_16.1825.json,custom
+41.882126,16.171082,ov_fever_dance_academy_41.8821_16.1711,Fever Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/fever_dance_academy_41.8821_16.1711.json,custom
+41.879053,16.166186,ov_palestra_body_recomp_41.8791_16.1662,Palestra Body Recomp,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/palestra_body_recomp_41.8791_16.1662.json,custom
+41.877460,16.165930,ov_fit_for_life___salute_in_movimento_41.8775_16.1659,Fit For Life - Salute in movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/fit_for_life_-_salute_in_movimento_41.8775_16.1659.json,custom
+41.880985,16.177492,ov_palestra_cambio_stile_lady_fitness_41.8810_16.1775,Palestra Cambio Stile Lady Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/palestra_cambio_stile_lady_fitness_41.8810_16.1775.json,custom
+41.864635,16.166198,ov_vieste_omnisport_41.8646_16.1662,Vieste Omnisport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/vieste_omnisport_41.8646_16.1662.json,custom
+41.900109,16.147967,ov_idra_cross_functional_training_41.9001_16.1480,IDRA Cross&functional Training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/idra_crossfunctional_training_41.9001_16.1480.json,custom
+41.900696,16.154087,ov_surfcenter_gargano_41.9007_16.1541,Surfcenter Gargano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/surfcenter_gargano_41.9007_16.1541.json,custom
+41.925063,16.109509,ov_free_surf_vieste_41.9251_16.1095,Free Surf Vieste,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/free_surf_vieste_41.9251_16.1095.json,custom
+41.924919,16.107208,ov_villaggio_capo_vieste_41.9249_16.1072,Villaggio Capo Vieste,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/villaggio_capo_vieste_41.9249_16.1072.json,custom
+41.914392,16.121020,ov_768_surf_cristalda_spot_1_41.9144_16.1210,768 Surf Cristalda Spot 1,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/768_surf_cristalda_spot_1_41.9144_16.1210.json,custom
+41.911890,16.130285,ov_garganosurf_41.9119_16.1303,Garganosurf,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/garganosurf_41.9119_16.1303.json,custom
+41.900001,16.135552,ov_maneggio_san_giorgio_martire_41.9000_16.1356,Maneggio San Giorgio Martire,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vieste/pages/maneggio_san_giorgio_martire_41.9000_16.1356.json,custom

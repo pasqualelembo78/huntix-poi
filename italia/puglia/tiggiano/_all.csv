@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Tiggiano -- Tutti
-39.917846,18.364325,ov_vagi__e_tiramis__39.9178_18.3643,Vagiù e Tiramisù,RESTAURANT,ristorante
-39.902850,18.365504,ov_jumangi_39.9029_18.3655,Jumangi,RESTAURANT,ristorante
-39.904977,18.368739,ov_pescheria_trigel_39.9050_18.3687,Pescheria Trigel,RESTAURANT,ristorante
-39.905107,18.364385,ov_la_voce_del_mare_39.9051_18.3644,La Voce del Mare,RESTAURANT,ristorante
-39.982935,18.347925,ov_ristorante_la_cantina_39.9829_18.3479,Ristorante La cantina,RESTAURANT,ristorante
-39.903801,18.364567,ov_bar_ada_39.9038_18.3646,Bar Ada,RESTAURANT,bar_cafe
-39.904044,18.364515,ov_bar_giano_di_russo_donato_39.9040_18.3645,Bar Giano Di Russo Donato,RESTAURANT,bar_cafe
-39.906778,18.363972,ov_urban_beer_haus_39.9068_18.3640,Urban Beer Haus,RESTAURANT,bar_cafe
-39.906613,18.364490,ov_pasticceria_chantilly_tiggiano_39.9066_18.3645,Pasticceria Chantilly Tiggiano,RESTAURANT,bar_cafe
-39.904040,18.364484,osm_giano_bar_39.9040_18.3645,Giano Bar,bar_cafe,bar_cafe
-39.896851,18.362498,ov_palestre_perfect_line_39.8969_18.3625,Palestre Perfect Line,GYM,palestra
-39.899517,18.367168,ov_wellness_studio_39.8995_18.3672,Wellness Studio,GYM,palestra
-39.901356,18.391109,ov_torre_palane_39.9014_18.3911,Torre Palane,MONUMENT,monumento
+39.917846,18.364325,ov_vagi__e_tiramis__39.9178_18.3643,Vagiù e Tiramisù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/vagi_e_tiramis_39.9178_18.3643.json,custom
+39.902850,18.365504,ov_jumangi_39.9029_18.3655,Jumangi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/jumangi_39.9029_18.3655.json,custom
+39.904977,18.368739,ov_pescheria_trigel_39.9050_18.3687,Pescheria Trigel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/pescheria_trigel_39.9050_18.3687.json,custom
+39.905107,18.364385,ov_la_voce_del_mare_39.9051_18.3644,La Voce del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/la_voce_del_mare_39.9051_18.3644.json,custom
+39.982935,18.347925,ov_ristorante_la_cantina_39.9829_18.3479,Ristorante La cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/ristorante_la_cantina_39.9829_18.3479.json,custom
+39.903801,18.364567,ov_bar_ada_39.9038_18.3646,Bar Ada,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/bar_ada_39.9038_18.3646.json,custom
+39.904044,18.364515,ov_bar_giano_di_russo_donato_39.9040_18.3645,Bar Giano Di Russo Donato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/bar_giano_di_russo_donato_39.9040_18.3645.json,custom
+39.906778,18.363972,ov_urban_beer_haus_39.9068_18.3640,Urban Beer Haus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/urban_beer_haus_39.9068_18.3640.json,custom
+39.906613,18.364490,ov_pasticceria_chantilly_tiggiano_39.9066_18.3645,Pasticceria Chantilly Tiggiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/pasticceria_chantilly_tiggiano_39.9066_18.3645.json,custom
+39.904040,18.364484,osm_giano_bar_39.9040_18.3645,Giano Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/giano_bar_39.9040_18.3645.json,custom
+39.896851,18.362498,ov_palestre_perfect_line_39.8969_18.3625,Palestre Perfect Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/palestre_perfect_line_39.8969_18.3625.json,custom
+39.899517,18.367168,ov_wellness_studio_39.8995_18.3672,Wellness Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/wellness_studio_39.8995_18.3672.json,custom
+39.901356,18.391109,ov_torre_palane_39.9014_18.3911,Torre Palane,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tiggiano/pages/torre_palane_39.9014_18.3911.json,custom

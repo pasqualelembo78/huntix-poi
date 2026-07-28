@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # trepuzzi -- bars_cafes
-40.287340,18.131534,ov_barq8_lequile___ss_lecce_gallipoli_40.2873_18.1315,BarQ8 lequile - ss lecce-gallipoli,RESTAURANT,bar_cafe
-40.405720,18.083626,ov_bar_sport_40.4057_18.0836,Bar Sport,RESTAURANT,bar_cafe
-40.404926,18.077935,ov_caf__bistrot_40.4049_18.0779,Cafè Bistrot,RESTAURANT,bar_cafe
-40.399839,18.081231,ov_iabb__bistrot_40.3998_18.0812,Iabbù Bistrot,RESTAURANT,bar_cafe
-40.402903,18.070648,ov_chiaro_kicco_40.4029_18.0706,Chiaro Kicco,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_twentyone_caf__40.4047_18.0715,TwentyOne Cafè,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_bar_stazione_trepuzzi_40.4047_18.0715,Bar stazione Trepuzzi,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715,Q8 Carburanti Bar Autolavaggio Trepuzzi,RESTAURANT,bar_cafe
-40.405257,18.071241,ov_bar_la_villa_40.4053_18.0712,Bar La Villa,RESTAURANT,bar_cafe
-40.405624,18.072717,ov_absolute_cafe_40.4056_18.0727,Absolute Cafe,RESTAURANT,bar_cafe
-40.405817,18.072871,ov_bar_del_corso_40.4058_18.0729,Bar Del Corso,RESTAURANT,bar_cafe
-40.405751,18.070156,ov_bar_matrix_40.4058_18.0702,Bar Matrix,RESTAURANT,bar_cafe
-40.410779,18.072876,ov_shaabisky_s_club_40.4108_18.0729,Shaabisky's Club,RESTAURANT,bar_cafe
-40.406948,18.073133,ov_la_dimora_dei_vini_enoteca_40.4069_18.0731,La Dimora Dei Vini Enoteca,RESTAURANT,bar_cafe
-40.406568,18.069700,ov_bar_des_amis_40.4066_18.0697,Bar Des Amis,RESTAURANT,bar_cafe
-40.411165,18.066436,ov_mark_rock_caff__40.4112_18.0664,Mark Rock Caffè,RESTAURANT,bar_cafe
+40.287340,18.131534,ov_barq8_lequile___ss_lecce_gallipoli_40.2873_18.1315,BarQ8 lequile - ss lecce-gallipoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/barq8_lequile_-_ss_lecce-gallipoli_40.2873_18.1315.json,custom
+40.405720,18.083626,ov_bar_sport_40.4057_18.0836,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_sport_40.4057_18.0836.json,custom
+40.404926,18.077935,ov_caf__bistrot_40.4049_18.0779,Cafè Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/caf_bistrot_40.4049_18.0779.json,custom
+40.399839,18.081231,ov_iabb__bistrot_40.3998_18.0812,Iabbù Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/iabb_bistrot_40.3998_18.0812.json,custom
+40.402903,18.070648,ov_chiaro_kicco_40.4029_18.0706,Chiaro Kicco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/chiaro_kicco_40.4029_18.0706.json,custom
+40.404748,18.071513,ov_twentyone_caf__40.4047_18.0715,TwentyOne Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/twentyone_caf_40.4047_18.0715.json,custom
+40.404748,18.071513,ov_bar_stazione_trepuzzi_40.4047_18.0715,Bar stazione Trepuzzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_stazione_trepuzzi_40.4047_18.0715.json,custom
+40.404748,18.071513,ov_q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715,Q8 Carburanti Bar Autolavaggio Trepuzzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715.json,custom
+40.405257,18.071241,ov_bar_la_villa_40.4053_18.0712,Bar La Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_la_villa_40.4053_18.0712.json,custom
+40.405624,18.072717,ov_absolute_cafe_40.4056_18.0727,Absolute Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/absolute_cafe_40.4056_18.0727.json,custom
+40.405817,18.072871,ov_bar_del_corso_40.4058_18.0729,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_del_corso_40.4058_18.0729.json,custom
+40.405751,18.070156,ov_bar_matrix_40.4058_18.0702,Bar Matrix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_matrix_40.4058_18.0702.json,custom
+40.410779,18.072876,ov_shaabisky_s_club_40.4108_18.0729,Shaabisky's Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/shaabiskys_club_40.4108_18.0729.json,custom
+40.406948,18.073133,ov_la_dimora_dei_vini_enoteca_40.4069_18.0731,La Dimora Dei Vini Enoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/la_dimora_dei_vini_enoteca_40.4069_18.0731.json,custom
+40.406568,18.069700,ov_bar_des_amis_40.4066_18.0697,Bar Des Amis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_des_amis_40.4066_18.0697.json,custom
+40.411165,18.066436,ov_mark_rock_caff__40.4112_18.0664,Mark Rock Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/mark_rock_caff_40.4112_18.0664.json,custom

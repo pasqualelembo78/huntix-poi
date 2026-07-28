@@ -1,72 +1,71 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Galatone -- Tutti
-40.148299,18.074320,osm_alimentari_el_ca__di_polo_fernando___c___40.1483_18.0743,ALIMENTARI EL.CA. DI POLO FERNANDO & C. S.A.S,ristorante,ristorante
-40.149537,18.069411,osm_pielle_s_r_l_40.1495_18.0694,PIELLE S.R.L,ristorante,ristorante
-40.147789,18.072905,osm_montefusco_giovanna_40.1478_18.0729,MONTEFUSCO GIOVANNA,ristorante,ristorante
-40.126291,18.026883,osm_ferro___fuoco_40.1263_18.0269,Ferro & Fuoco,ristorante,ristorante
-40.127601,18.072023,ov_li_papi_40.1276_18.0720,Li Papi,RESTAURANT,ristorante
-40.126297,18.027067,ov_ferro___fuoco_40.1263_18.0271,Ferro & Fuoco,RESTAURANT,ristorante
-40.141223,18.066546,ov_gustavo_40.1412_18.0665,Gustavo,RESTAURANT,ristorante
-40.140520,18.053060,ov_le_romanelle_40.1405_18.0531,Le romanelle,RESTAURANT,ristorante
-40.143974,18.068368,ov_la_fenice_pizzeria_40.1440_18.0684,La Fenice Pizzeria,RESTAURANT,ristorante
-40.145798,18.064819,ov_gioia_drink_and_restaurant_40.1458_18.0648,Gioia Drink and Restaurant,RESTAURANT,ristorante
-40.145460,18.058749,ov_home_40.1455_18.0587,Home,RESTAURANT,ristorante
-40.150213,18.070898,ov_convitto_40.1502_18.0709,Convitto,RESTAURANT,ristorante
-40.149707,18.072602,ov_restored_braceria_trattoria_40.1497_18.0726,Restored Braceria Trattoria,RESTAURANT,ristorante
-40.149784,18.068825,ov_mille_sapori_40.1498_18.0688,Mille Sapori,RESTAURANT,ristorante
-40.147905,18.065489,ov_hackers_pizzeria_40.1479_18.0655,Hackers pizzeria,RESTAURANT,ristorante
-40.147828,18.072002,ov_new_trattoria_da_santino_40.1478_18.0720,NEW Trattoria da Santino,RESTAURANT,ristorante
-40.147592,18.069327,ov_vico_106_salumeria_bistrot_40.1476_18.0693,Vico 106 Salumeria Bistrot,RESTAURANT,ristorante
-40.147209,18.070383,ov_trattoria_paninoteca_mammamia_40.1472_18.0704,Trattoria Paninoteca MammaMia,RESTAURANT,ristorante
-40.147250,18.069150,ov_la_pizzaria_40.1472_18.0692,La Pizzaria,RESTAURANT,ristorante
-40.147425,18.064648,ov_mangia_fuoco_pizzeria_braceria_40.1474_18.0646,Mangia Fuoco Pizzeria Braceria,RESTAURANT,ristorante
-40.147496,18.063883,ov_floga_ristorante_40.1475_18.0639,Floga Ristorante,RESTAURANT,ristorante
-40.146540,18.064280,ov_santa_maria_del_morige_relais_40.1465_18.0643,Santa Maria del Morige Relais,RESTAURANT,ristorante
-40.147063,18.069226,ov_pizzeria_fatima_40.1471_18.0692,Pizzeria Fatima,RESTAURANT,ristorante
-40.146095,18.070632,ov_pizzeria_la_chiazza_40.1461_18.0706,Pizzeria La Chiazza,RESTAURANT,ristorante
-40.147728,18.072892,ov_sascianne_40.1477_18.0729,Sascianne,RESTAURANT,ristorante
-40.147877,18.075463,ov_plaga_40.1479_18.0755,Plaga,RESTAURANT,ristorante
-40.148060,18.072864,ov_scapry_ristorante_40.1481_18.0729,SCAPRY Ristorante,RESTAURANT,ristorante
-40.151445,18.078500,ov_la_saletta_40.1514_18.0785,La Saletta,RESTAURANT,ristorante
-40.150654,18.071351,ov_arte_e_cucina_40.1507_18.0714,Arte e Cucina,RESTAURANT,ristorante
-40.150626,18.070547,ov_ristorante_la_reggia_40.1506_18.0705,Ristorante La Reggia,RESTAURANT,ristorante
-40.156970,18.073349,ov_officine_17_40.1570_18.0733,Officine 17,RESTAURANT,ristorante
-40.125959,18.012747,ov_shisha_cafe__villaggio_santa_rita_40.1260_18.0127,Shisha CAFE  Villaggio Santa Rita,RESTAURANT,bar_cafe
-40.142028,18.067172,ov_ip___fiesta_caf__40.1420_18.0672,IP & Fiesta Cafè,RESTAURANT,bar_cafe
-40.143607,18.065367,ov_bzodiaco_40.1436_18.0654,bzodiaco,RESTAURANT,bar_cafe
-40.145132,18.068329,ov_kilometro_zero_km0_40.1451_18.0683,Kilometro Zero km0,RESTAURANT,bar_cafe
-40.145588,18.068754,ov_arcadia_caffe_40.1456_18.0688,Arcadia Caffe,RESTAURANT,bar_cafe
-40.149851,18.070564,ov_caffetteria_miro_40.1499_18.0706,Caffetteria Miro,RESTAURANT,bar_cafe
-40.149023,18.069636,ov_mokamokacaff__40.1490_18.0696,MokaMokaCaffè,RESTAURANT,bar_cafe
-40.148539,18.071828,ov_qualo_40.1485_18.0718,Qualo,RESTAURANT,bar_cafe
-40.147737,18.069292,ov_garden_bar_40.1477_18.0693,Garden Bar,RESTAURANT,bar_cafe
-40.147319,18.070602,ov_movida_retro_caffe_40.1473_18.0706,Movida Retro Caffe,RESTAURANT,bar_cafe
-40.147416,18.064408,ov_prosit_40.1474_18.0644,Prosit,RESTAURANT,bar_cafe
-40.146956,18.061108,ov_kopper_pub_40.1470_18.0611,Kopper pub,RESTAURANT,bar_cafe
-40.146887,18.062927,ov_caf__del_mar_40.1469_18.0629,Cafè del Mar,RESTAURANT,bar_cafe
-40.147090,18.067370,ov_graffio_40.1471_18.0674,Graffio,RESTAURANT,bar_cafe
-40.146955,18.070724,ov_bar_san_sebastiano_40.1470_18.0707,Bar San Sebastiano,RESTAURANT,bar_cafe
-40.146762,18.070773,ov_caffetteria_mimy_srl_40.1468_18.0708,Caffetteria Mimy Srl,RESTAURANT,bar_cafe
-40.146747,18.068947,ov_ideal_bar_40.1467_18.0689,Ideal Bar,RESTAURANT,bar_cafe
-40.146515,18.071410,ov_bar_negro_40.1465_18.0714,Bar Negro,RESTAURANT,bar_cafe
-40.146780,18.074010,ov_uci_galatone_caf___patronato_40.1468_18.0740,UCI Galatone Caf & Patronato,RESTAURANT,bar_cafe
-40.147748,18.075044,ov_caffetteria_pasticceria_bove_40.1477_18.0750,Caffetteria Pasticceria Bove,RESTAURANT,bar_cafe
-40.148388,18.076885,ov_stuzzico_40.1484_18.0769,Stuzzico,RESTAURANT,bar_cafe
-40.148846,18.072742,ov_betitaly_di_vaglio_marco_40.1488_18.0727,Betitaly di Vaglio Marco,RESTAURANT,bar_cafe
-40.152297,18.063303,ov_savoia_cafe_40.1523_18.0633,Savoia Cafe,RESTAURANT,bar_cafe
-40.151480,18.065165,ov_bar_plaisir_40.1515_18.0652,Bar Plaisir,RESTAURANT,bar_cafe
-40.151504,18.065581,ov_shamir_lounge_bar_40.1515_18.0656,Shamir Lounge Bar,RESTAURANT,bar_cafe
-40.151425,18.064833,ov_cafe_racer_lecce_40.1514_18.0648,Cafe racer Lecce,RESTAURANT,bar_cafe
-40.150183,18.065084,ov_artedanza_40.1502_18.0651,ArteDanza,GYM,palestra
-40.149615,18.068799,ov_betitaly_40.1496_18.0688,Betitaly,GYM,palestra
-40.149085,18.068309,ov_palestra_life_planet_40.1491_18.0683,Palestra Life Planet,GYM,palestra
-40.148272,18.063978,ov_i_cinque_elementi_40.1483_18.0640,I Cinque Elementi,GYM,palestra
-40.147735,18.064692,ov_aj_fusion_academy_40.1477_18.0647,AJ Fusion Academy,GYM,palestra
-40.147210,18.067100,ov_lab83___laboratorio_urbano_galatone_40.1472_18.0671,Lab83 - Laboratorio Urbano Galatone,GYM,palestra
-40.146371,18.077406,ov_prima_classe_fit_center_40.1464_18.0774,Prima Classe Fit Center,GYM,palestra
-40.154750,18.067990,ov_befit_del_dott__francesco_gioffreda___ca_40.1547_18.0680,BEFIT del Dott. Francesco Gioffreda - Calisthenics/Streetlif,GYM,palestra
-40.153045,18.072181,ov_palestra_active_planet_40.1530_18.0722,Palestra Active Planet,GYM,palestra
-40.151637,18.070573,ov_body_evolution_40.1516_18.0706,Body Evolution,GYM,palestra
-40.150520,18.064090,ov_asd_citt__di_galatone_40.1505_18.0641,ASD Città di Galatone,GYM,palestra
-40.155150,18.069784,ov_energym_galatone_40.1551_18.0698,EnerGym Galatone,GYM,palestra
-40.148159,18.073721,ov_museo_leonardo_da_vinci_40.1482_18.0737,Museo Leonardo da Vinci,MUSEUM,monumento
+40.127601,18.072023,ov_li_papi_40.1276_18.0720,Li Papi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/li_papi_40.1276_18.0720.json,custom
+40.126297,18.027067,ov_ferro___fuoco_40.1263_18.0271,Ferro & Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/ferro_fuoco_40.1263_18.0271.json,custom
+40.141223,18.066546,ov_gustavo_40.1412_18.0665,Gustavo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/gustavo_40.1412_18.0665.json,custom
+40.140520,18.053060,ov_le_romanelle_40.1405_18.0531,Le romanelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/le_romanelle_40.1405_18.0531.json,custom
+40.143974,18.068368,ov_la_fenice_pizzeria_40.1440_18.0684,La Fenice Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/la_fenice_pizzeria_40.1440_18.0684.json,custom
+40.145798,18.064819,ov_gioia_drink_and_restaurant_40.1458_18.0648,Gioia Drink and Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/gioia_drink_and_restaurant_40.1458_18.0648.json,custom
+40.145460,18.058749,ov_home_40.1455_18.0587,Home,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/home_40.1455_18.0587.json,custom
+40.150213,18.070898,ov_convitto_40.1502_18.0709,Convitto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/convitto_40.1502_18.0709.json,custom
+40.149707,18.072602,ov_restored_braceria_trattoria_40.1497_18.0726,Restored Braceria Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/restored_braceria_trattoria_40.1497_18.0726.json,custom
+40.149784,18.068825,ov_mille_sapori_40.1498_18.0688,Mille Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/mille_sapori_40.1498_18.0688.json,custom
+40.147905,18.065489,ov_hackers_pizzeria_40.1479_18.0655,Hackers pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/hackers_pizzeria_40.1479_18.0655.json,custom
+40.147828,18.072002,ov_new_trattoria_da_santino_40.1478_18.0720,NEW Trattoria da Santino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/new_trattoria_da_santino_40.1478_18.0720.json,custom
+40.147592,18.069327,ov_vico_106_salumeria_bistrot_40.1476_18.0693,Vico 106 Salumeria Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/vico_106_salumeria_bistrot_40.1476_18.0693.json,custom
+40.147209,18.070383,ov_trattoria_paninoteca_mammamia_40.1472_18.0704,Trattoria Paninoteca MammaMia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/trattoria_paninoteca_mammamia_40.1472_18.0704.json,custom
+40.147250,18.069150,ov_la_pizzaria_40.1472_18.0692,La Pizzaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/la_pizzaria_40.1472_18.0692.json,custom
+40.147425,18.064648,ov_mangia_fuoco_pizzeria_braceria_40.1474_18.0646,Mangia Fuoco Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/mangia_fuoco_pizzeria_braceria_40.1474_18.0646.json,custom
+40.147496,18.063883,ov_floga_ristorante_40.1475_18.0639,Floga Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/floga_ristorante_40.1475_18.0639.json,custom
+40.146540,18.064280,ov_santa_maria_del_morige_relais_40.1465_18.0643,Santa Maria del Morige Relais,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/santa_maria_del_morige_relais_40.1465_18.0643.json,custom
+40.147063,18.069226,ov_pizzeria_fatima_40.1471_18.0692,Pizzeria Fatima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/pizzeria_fatima_40.1471_18.0692.json,custom
+40.146095,18.070632,ov_pizzeria_la_chiazza_40.1461_18.0706,Pizzeria La Chiazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/pizzeria_la_chiazza_40.1461_18.0706.json,custom
+40.147728,18.072892,ov_sascianne_40.1477_18.0729,Sascianne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/sascianne_40.1477_18.0729.json,custom
+40.147877,18.075463,ov_plaga_40.1479_18.0755,Plaga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/plaga_40.1479_18.0755.json,custom
+40.148060,18.072864,ov_scapry_ristorante_40.1481_18.0729,SCAPRY Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/scapry_ristorante_40.1481_18.0729.json,custom
+40.151445,18.078500,ov_la_saletta_40.1514_18.0785,La Saletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/la_saletta_40.1514_18.0785.json,custom
+40.150654,18.071351,ov_arte_e_cucina_40.1507_18.0714,Arte e Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/arte_e_cucina_40.1507_18.0714.json,custom
+40.150626,18.070547,ov_ristorante_la_reggia_40.1506_18.0705,Ristorante La Reggia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/ristorante_la_reggia_40.1506_18.0705.json,custom
+40.156970,18.073349,ov_officine_17_40.1570_18.0733,Officine 17,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/officine_17_40.1570_18.0733.json,custom
+40.148299,18.074320,osm_alimentari_el_ca__di_polo_fernando___c___40.1483_18.0743,ALIMENTARI EL.CA. DI POLO FERNANDO & C. S.A.S,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/alimentari_elca_di_polo_fernando_c_sas_40.1483_18.0743.json,custom
+40.149537,18.069411,osm_pielle_s_r_l_40.1495_18.0694,PIELLE S.R.L,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/pielle_srl_40.1495_18.0694.json,custom
+40.147789,18.072905,osm_montefusco_giovanna_40.1478_18.0729,MONTEFUSCO GIOVANNA,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/montefusco_giovanna_40.1478_18.0729.json,custom
+40.125959,18.012747,ov_shisha_cafe__villaggio_santa_rita_40.1260_18.0127,Shisha CAFE  Villaggio Santa Rita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/shisha_cafe_villaggio_santa_rita_40.1260_18.0127.json,custom
+40.142028,18.067172,ov_ip___fiesta_caf__40.1420_18.0672,IP & Fiesta Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/ip_fiesta_caf_40.1420_18.0672.json,custom
+40.143607,18.065367,ov_bzodiaco_40.1436_18.0654,bzodiaco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/bzodiaco_40.1436_18.0654.json,custom
+40.145132,18.068329,ov_kilometro_zero_km0_40.1451_18.0683,Kilometro Zero km0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/kilometro_zero_km0_40.1451_18.0683.json,custom
+40.145588,18.068754,ov_arcadia_caffe_40.1456_18.0688,Arcadia Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/arcadia_caffe_40.1456_18.0688.json,custom
+40.149851,18.070564,ov_caffetteria_miro_40.1499_18.0706,Caffetteria Miro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/caffetteria_miro_40.1499_18.0706.json,custom
+40.149023,18.069636,ov_mokamokacaff__40.1490_18.0696,MokaMokaCaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/mokamokacaff_40.1490_18.0696.json,custom
+40.148539,18.071828,ov_qualo_40.1485_18.0718,Qualo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/qualo_40.1485_18.0718.json,custom
+40.147737,18.069292,ov_garden_bar_40.1477_18.0693,Garden Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/garden_bar_40.1477_18.0693.json,custom
+40.147319,18.070602,ov_movida_retro_caffe_40.1473_18.0706,Movida Retro Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/movida_retro_caffe_40.1473_18.0706.json,custom
+40.147416,18.064408,ov_prosit_40.1474_18.0644,Prosit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/prosit_40.1474_18.0644.json,custom
+40.146956,18.061108,ov_kopper_pub_40.1470_18.0611,Kopper pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/kopper_pub_40.1470_18.0611.json,custom
+40.146887,18.062927,ov_caf__del_mar_40.1469_18.0629,Cafè del Mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/caf_del_mar_40.1469_18.0629.json,custom
+40.147090,18.067370,ov_graffio_40.1471_18.0674,Graffio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/graffio_40.1471_18.0674.json,custom
+40.146955,18.070724,ov_bar_san_sebastiano_40.1470_18.0707,Bar San Sebastiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/bar_san_sebastiano_40.1470_18.0707.json,custom
+40.146762,18.070773,ov_caffetteria_mimy_srl_40.1468_18.0708,Caffetteria Mimy Srl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/caffetteria_mimy_srl_40.1468_18.0708.json,custom
+40.146747,18.068947,ov_ideal_bar_40.1467_18.0689,Ideal Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/ideal_bar_40.1467_18.0689.json,custom
+40.146515,18.071410,ov_bar_negro_40.1465_18.0714,Bar Negro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/bar_negro_40.1465_18.0714.json,custom
+40.146780,18.074010,ov_uci_galatone_caf___patronato_40.1468_18.0740,UCI Galatone Caf & Patronato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/uci_galatone_caf_patronato_40.1468_18.0740.json,custom
+40.147748,18.075044,ov_caffetteria_pasticceria_bove_40.1477_18.0750,Caffetteria Pasticceria Bove,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/caffetteria_pasticceria_bove_40.1477_18.0750.json,custom
+40.148388,18.076885,ov_stuzzico_40.1484_18.0769,Stuzzico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/stuzzico_40.1484_18.0769.json,custom
+40.148846,18.072742,ov_betitaly_di_vaglio_marco_40.1488_18.0727,Betitaly di Vaglio Marco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/betitaly_di_vaglio_marco_40.1488_18.0727.json,custom
+40.152297,18.063303,ov_savoia_cafe_40.1523_18.0633,Savoia Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/savoia_cafe_40.1523_18.0633.json,custom
+40.151480,18.065165,ov_bar_plaisir_40.1515_18.0652,Bar Plaisir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/bar_plaisir_40.1515_18.0652.json,custom
+40.151504,18.065581,ov_shamir_lounge_bar_40.1515_18.0656,Shamir Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/shamir_lounge_bar_40.1515_18.0656.json,custom
+40.151425,18.064833,ov_cafe_racer_lecce_40.1514_18.0648,Cafe racer Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/cafe_racer_lecce_40.1514_18.0648.json,custom
+40.150183,18.065084,ov_artedanza_40.1502_18.0651,ArteDanza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/artedanza_40.1502_18.0651.json,custom
+40.149615,18.068799,ov_betitaly_40.1496_18.0688,Betitaly,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/betitaly_40.1496_18.0688.json,custom
+40.149085,18.068309,ov_palestra_life_planet_40.1491_18.0683,Palestra Life Planet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/palestra_life_planet_40.1491_18.0683.json,custom
+40.148272,18.063978,ov_i_cinque_elementi_40.1483_18.0640,I Cinque Elementi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/i_cinque_elementi_40.1483_18.0640.json,custom
+40.147735,18.064692,ov_aj_fusion_academy_40.1477_18.0647,AJ Fusion Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/aj_fusion_academy_40.1477_18.0647.json,custom
+40.147210,18.067100,ov_lab83___laboratorio_urbano_galatone_40.1472_18.0671,Lab83 - Laboratorio Urbano Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/lab83_-_laboratorio_urbano_galatone_40.1472_18.0671.json,custom
+40.146371,18.077406,ov_prima_classe_fit_center_40.1464_18.0774,Prima Classe Fit Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/prima_classe_fit_center_40.1464_18.0774.json,custom
+40.154750,18.067990,ov_befit_del_dott__francesco_gioffreda___ca_40.1547_18.0680,BEFIT del Dott. Francesco Gioffreda - Calisthenics/Streetlif,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/befit_del_dott_francesco_gioffreda_-_cal_40.1547_18.0680.json,custom
+40.153045,18.072181,ov_palestra_active_planet_40.1530_18.0722,Palestra Active Planet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/palestra_active_planet_40.1530_18.0722.json,custom
+40.151637,18.070573,ov_body_evolution_40.1516_18.0706,Body Evolution,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/body_evolution_40.1516_18.0706.json,custom
+40.150520,18.064090,ov_asd_citt__di_galatone_40.1505_18.0641,ASD Città di Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/asd_citt_di_galatone_40.1505_18.0641.json,custom
+40.155150,18.069784,ov_energym_galatone_40.1551_18.0698,EnerGym Galatone,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/energym_galatone_40.1551_18.0698.json,custom
+40.148159,18.073721,ov_museo_leonardo_da_vinci_40.1482_18.0737,Museo Leonardo da Vinci,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatone/pages/museo_leonardo_da_vinci_40.1482_18.0737.json,custom

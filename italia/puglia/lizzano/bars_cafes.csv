@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lizzano -- bars_cafes
-40.324343,17.453535,ov_seaside_bar_pizzeria_40.3243_17.4535,Seaside Bar Pizzeria,RESTAURANT,bar_cafe
-40.394880,17.447950,ov_cafe_vizioso_40.3949_17.4480,Cafe Vizioso,RESTAURANT,bar_cafe
-40.392512,17.447710,ov_il_chiosco_40.3925_17.4477,Il Chiosco,RESTAURANT,bar_cafe
-40.391550,17.447845,ov_h24_coffee___snack_da_pa_x2_40.3916_17.4478,H24 Coffee & Snack da Pa x2,RESTAURANT,bar_cafe
-40.391623,17.447836,ov_bar_smeraldo_40.3916_17.4478,Bar Smeraldo,RESTAURANT,bar_cafe
-40.391380,17.446420,ov_coffee_shop_lizzano_40.3914_17.4464,Coffee Shop Lizzano,RESTAURANT,bar_cafe
-40.391435,17.446477,ov_glamour_40.3914_17.4465,Glamour,RESTAURANT,bar_cafe
-40.390530,17.447860,ov_bar_lunar_40.3905_17.4479,Bar Lunar,RESTAURANT,bar_cafe
-40.390800,17.447880,ov_mob__club_40.3908_17.4479,MOBÚ CLUB,RESTAURANT,bar_cafe
-40.390032,17.447913,ov_cicci_di_pia_40.3900_17.4479,Cicci Di Pia,RESTAURANT,bar_cafe
-40.389615,17.444168,ov_iris_caf__40.3896_17.4442,Iris Café,RESTAURANT,bar_cafe
-40.388353,17.441726,ov_gran_caffe_40.3884_17.4417,Gran Caffe,RESTAURANT,bar_cafe
-40.387843,17.448606,ov_bar_la_rotonda_40.3878_17.4486,Bar La Rotonda,RESTAURANT,bar_cafe
-40.389248,17.449636,ov_sweet_caf____gelateria_40.3892_17.4496,SWEET Cafè - Gelateria,RESTAURANT,bar_cafe
-40.390563,17.455848,ov_carpe_diem_cafe_40.3906_17.4558,Carpe Diem Cafe,RESTAURANT,bar_cafe
-40.392056,17.450182,ov_non_solo_caff__40.3921_17.4502,non solo caffè,RESTAURANT,bar_cafe
-40.528160,17.438676,ov_lido_valeria_beach_stabilimento_balneare_40.5282_17.4387,Lido Valeria Beach Stabilimento Balneare,RESTAURANT,bar_cafe
+40.324343,17.453535,ov_seaside_bar_pizzeria_40.3243_17.4535,Seaside Bar Pizzeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/seaside_bar_pizzeria_40.3243_17.4535.json,custom
+40.394880,17.447950,ov_cafe_vizioso_40.3949_17.4480,Cafe Vizioso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/cafe_vizioso_40.3949_17.4480.json,custom
+40.392512,17.447710,ov_il_chiosco_40.3925_17.4477,Il Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/il_chiosco_40.3925_17.4477.json,custom
+40.391550,17.447845,ov_h24_coffee___snack_da_pa_x2_40.3916_17.4478,H24 Coffee & Snack da Pa x2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/h24_coffee_snack_da_pa_x2_40.3916_17.4478.json,custom
+40.391623,17.447836,ov_bar_smeraldo_40.3916_17.4478,Bar Smeraldo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/bar_smeraldo_40.3916_17.4478.json,custom
+40.391380,17.446420,ov_coffee_shop_lizzano_40.3914_17.4464,Coffee Shop Lizzano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/coffee_shop_lizzano_40.3914_17.4464.json,custom
+40.391435,17.446477,ov_glamour_40.3914_17.4465,Glamour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/glamour_40.3914_17.4465.json,custom
+40.390530,17.447860,ov_bar_lunar_40.3905_17.4479,Bar Lunar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/bar_lunar_40.3905_17.4479.json,custom
+40.390800,17.447880,ov_mob__club_40.3908_17.4479,MOBÚ CLUB,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/mob_club_40.3908_17.4479.json,custom
+40.390032,17.447913,ov_cicci_di_pia_40.3900_17.4479,Cicci Di Pia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/cicci_di_pia_40.3900_17.4479.json,custom
+40.389615,17.444168,ov_iris_caf__40.3896_17.4442,Iris Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/iris_caf_40.3896_17.4442.json,custom
+40.388353,17.441726,ov_gran_caffe_40.3884_17.4417,Gran Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/gran_caffe_40.3884_17.4417.json,custom
+40.387843,17.448606,ov_bar_la_rotonda_40.3878_17.4486,Bar La Rotonda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/bar_la_rotonda_40.3878_17.4486.json,custom
+40.389248,17.449636,ov_sweet_caf____gelateria_40.3892_17.4496,SWEET Cafè - Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/sweet_caf_-_gelateria_40.3892_17.4496.json,custom
+40.390563,17.455848,ov_carpe_diem_cafe_40.3906_17.4558,Carpe Diem Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/carpe_diem_cafe_40.3906_17.4558.json,custom
+40.392056,17.450182,ov_non_solo_caff__40.3921_17.4502,non solo caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/non_solo_caff_40.3921_17.4502.json,custom
+40.528160,17.438676,ov_lido_valeria_beach_stabilimento_balneare_40.5282_17.4387,Lido Valeria Beach Stabilimento Balneare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/lido_valeria_beach_stabilimento_balneare_40.5282_17.4387.json,custom

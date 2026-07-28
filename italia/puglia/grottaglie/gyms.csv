@@ -1,22 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grottaglie -- gyms
-40.578710,17.373870,ov_maneggio_amici_40.5787_17.3739,Maneggio Amici,GYM,palestra
-40.545940,17.432566,ov_missione_teatro_40.5459_17.4326,Missione teatro,GYM,palestra
-40.546124,17.433832,ov_sublime_rouge_a_s_d_40.5461_17.4338,Sublime Rouge A.S.D,GYM,palestra
-40.545419,17.428297,ov_palasport_campitelli_40.5454_17.4283,Palasport CAMPITELLI,GYM,palestra
-40.541695,17.438515,ov_gym_tonic_40.5417_17.4385,Gym Tonic,GYM,palestra
-40.542767,17.436523,ov_dejanira_ballet_40.5428_17.4365,Dejanira Ballet,GYM,palestra
-40.541053,17.440137,ov_gym_system_40.5411_17.4401,Gym System,GYM,palestra
-40.539878,17.437297,ov_daniel_s_dance_school_40.5399_17.4373,Daniel's Dance School,GYM,palestra
-40.538476,17.439191,ov_generation_muscle_and_fitness_40.5385_17.4392,Generation Muscle and Fitness,GYM,palestra
-40.538740,17.440015,ov_gym_for_health_40.5387_17.4400,Gym For Health,GYM,palestra
-40.536617,17.442351,ov_gym_life_40.5366_17.4424,Gym Life,GYM,palestra
-40.535592,17.441155,ov_palestra_awfit_2_40.5356_17.4412,Palestra AWFit 2,GYM,palestra
-40.534174,17.437749,ov_alexdance_40.5342_17.4377,Alexdance,GYM,palestra
-40.534167,17.437135,ov_palestra_new_olimpus_club_40.5342_17.4371,Palestra New Olimpus Club,GYM,palestra
-40.533369,17.436917,ov_health_and_posture_40.5334_17.4369,Health and Posture,GYM,palestra
-40.529924,17.439259,ov_antonaci_boxing_team_40.5299_17.4393,Antonaci Boxing Team,GYM,palestra
-40.528541,17.426775,ov_aminda_yoga_40.5285_17.4268,Aminda Yoga,GYM,palestra
-40.528581,17.426729,ov_a_s_d__officinayoga_grottaglie_40.5286_17.4267,A.S.D. OfficinaYoga Grottaglie,GYM,palestra
-40.535504,17.431933,ov_yav_centro_studi_yoga_ayurvedico_siddha_40.5355_17.4319,YAV Centro Studi Yoga Ayurvedico Siddha,GYM,palestra
-40.536731,17.431911,ov_centro_professionale_danza_in_punta_di_p_40.5367_17.4319,Centro Professionale Danza In Punta di Piedi,GYM,palestra
+40.578710,17.373870,ov_maneggio_amici_40.5787_17.3739,Maneggio Amici,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/maneggio_amici_40.5787_17.3739.json,custom
+40.545940,17.432566,ov_missione_teatro_40.5459_17.4326,Missione teatro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/missione_teatro_40.5459_17.4326.json,custom
+40.546124,17.433832,ov_sublime_rouge_a_s_d_40.5461_17.4338,Sublime Rouge A.S.D,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/sublime_rouge_asd_40.5461_17.4338.json,custom
+40.545419,17.428297,ov_palasport_campitelli_40.5454_17.4283,Palasport CAMPITELLI,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/palasport_campitelli_40.5454_17.4283.json,custom
+40.541695,17.438515,ov_gym_tonic_40.5417_17.4385,Gym Tonic,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/gym_tonic_40.5417_17.4385.json,custom
+40.542767,17.436523,ov_dejanira_ballet_40.5428_17.4365,Dejanira Ballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/dejanira_ballet_40.5428_17.4365.json,custom
+40.541053,17.440137,ov_gym_system_40.5411_17.4401,Gym System,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/gym_system_40.5411_17.4401.json,custom
+40.539878,17.437297,ov_daniel_s_dance_school_40.5399_17.4373,Daniel's Dance School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/daniels_dance_school_40.5399_17.4373.json,custom
+40.538476,17.439191,ov_generation_muscle_and_fitness_40.5385_17.4392,Generation Muscle and Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/generation_muscle_and_fitness_40.5385_17.4392.json,custom
+40.538740,17.440015,ov_gym_for_health_40.5387_17.4400,Gym For Health,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/gym_for_health_40.5387_17.4400.json,custom
+40.536617,17.442351,ov_gym_life_40.5366_17.4424,Gym Life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/gym_life_40.5366_17.4424.json,custom
+40.535592,17.441155,ov_palestra_awfit_2_40.5356_17.4412,Palestra AWFit 2,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/palestra_awfit_2_40.5356_17.4412.json,custom
+40.534174,17.437749,ov_alexdance_40.5342_17.4377,Alexdance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/alexdance_40.5342_17.4377.json,custom
+40.534167,17.437135,ov_palestra_new_olimpus_club_40.5342_17.4371,Palestra New Olimpus Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/palestra_new_olimpus_club_40.5342_17.4371.json,custom
+40.533369,17.436917,ov_health_and_posture_40.5334_17.4369,Health and Posture,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/health_and_posture_40.5334_17.4369.json,custom
+40.529924,17.439259,ov_antonaci_boxing_team_40.5299_17.4393,Antonaci Boxing Team,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/antonaci_boxing_team_40.5299_17.4393.json,custom
+40.528541,17.426775,ov_aminda_yoga_40.5285_17.4268,Aminda Yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/aminda_yoga_40.5285_17.4268.json,custom
+40.528581,17.426729,ov_a_s_d__officinayoga_grottaglie_40.5286_17.4267,A.S.D. OfficinaYoga Grottaglie,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/asd_officinayoga_grottaglie_40.5286_17.4267.json,custom
+40.535504,17.431933,ov_yav_centro_studi_yoga_ayurvedico_siddha_40.5355_17.4319,YAV Centro Studi Yoga Ayurvedico Siddha,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/yav_centro_studi_yoga_ayurvedico_siddha_40.5355_17.4319.json,custom
+40.536731,17.431911,ov_centro_professionale_danza_in_punta_di_p_40.5367_17.4319,Centro Professionale Danza In Punta di Piedi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/centro_professionale_danza_in_punta_di_p_40.5367_17.4319.json,custom
+40.538712,17.440027,osm_palestra_gym_for_healt_40.5387_17.4400,Palestra Gym for Healt,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grottaglie/pages/palestra_gym_for_healt_40.5387_17.4400.json,custom

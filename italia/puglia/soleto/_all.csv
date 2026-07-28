@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Soleto -- Tutti
-40.184501,18.199083,ov_adelchi_40.1845_18.1991,Adelchi,RESTAURANT,ristorante
-40.186134,18.206458,ov_rosticceria_pizzeria_speedy_pizza_40.1861_18.2065,Rosticceria Pizzeria Speedy Pizza,RESTAURANT,ristorante
-40.189578,18.204484,ov_il_cappero_40.1896_18.2045,Il Cappero,RESTAURANT,ristorante
-40.189460,18.210527,ov_tozzi_pizzeria_braceria_40.1895_18.2105,Tozzi Pizzeria Braceria,RESTAURANT,ristorante
-40.188105,18.208720,ov_la_casereccia_da_zonzi_40.1881_18.2087,La Casereccia da Zonzi,RESTAURANT,ristorante
-40.187405,18.205533,ov_l_angolo_della_pizza_40.1874_18.2055,L'Angolo della Pizza,RESTAURANT,ristorante
-40.187626,18.207604,ov_zonzi_40.1876_18.2076,Zonzi,RESTAURANT,ristorante
-40.187735,18.206168,ov_osteria_cibus_da_marineddrha_40.1877_18.2062,Osteria Cibus da Marineddrha,RESTAURANT,ristorante
-40.194566,18.213081,ov_sole_griko_40.1946_18.2131,Sole Griko,RESTAURANT,ristorante
-40.186595,18.206401,ov_bevabe_40.1866_18.2064,Bevabe,RESTAURANT,bar_cafe
-40.188725,18.207636,ov_il_barocco_40.1887_18.2076,Il Barocco,RESTAURANT,bar_cafe
-40.188688,18.206931,ov_caffetteria_orsini_40.1887_18.2069,Caffetteria Orsini,RESTAURANT,bar_cafe
-40.188229,18.208846,ov_people_is_you_40.1882_18.2088,People is You,RESTAURANT,bar_cafe
-40.191777,18.208326,ov_total_coffee_40.1918_18.2083,Total Coffee,RESTAURANT,bar_cafe
-40.303193,18.142891,ov_gink__velvet_room_40.3032_18.1429,Ginkò Velvet Room,RESTAURANT,bar_cafe
-40.190615,18.212585,ov_essenza_40.1906_18.2126,Essenza,GYM,palestra
+40.184501,18.199083,ov_adelchi_40.1845_18.1991,Adelchi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/adelchi_40.1845_18.1991.json,custom
+40.186134,18.206458,ov_rosticceria_pizzeria_speedy_pizza_40.1861_18.2065,Rosticceria Pizzeria Speedy Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/rosticceria_pizzeria_speedy_pizza_40.1861_18.2065.json,custom
+40.189578,18.204484,ov_il_cappero_40.1896_18.2045,Il Cappero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/il_cappero_40.1896_18.2045.json,custom
+40.189460,18.210527,ov_tozzi_pizzeria_braceria_40.1895_18.2105,Tozzi Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/tozzi_pizzeria_braceria_40.1895_18.2105.json,custom
+40.188105,18.208720,ov_la_casereccia_da_zonzi_40.1881_18.2087,La Casereccia da Zonzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/la_casereccia_da_zonzi_40.1881_18.2087.json,custom
+40.187405,18.205533,ov_l_angolo_della_pizza_40.1874_18.2055,L'Angolo della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/langolo_della_pizza_40.1874_18.2055.json,custom
+40.187626,18.207604,ov_zonzi_40.1876_18.2076,Zonzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/zonzi_40.1876_18.2076.json,custom
+40.187735,18.206168,ov_osteria_cibus_da_marineddrha_40.1877_18.2062,Osteria Cibus da Marineddrha,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/osteria_cibus_da_marineddrha_40.1877_18.2062.json,custom
+40.194566,18.213081,ov_sole_griko_40.1946_18.2131,Sole Griko,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/sole_griko_40.1946_18.2131.json,custom
+40.186595,18.206401,ov_bevabe_40.1866_18.2064,Bevabe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/bevabe_40.1866_18.2064.json,custom
+40.188725,18.207636,ov_il_barocco_40.1887_18.2076,Il Barocco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/il_barocco_40.1887_18.2076.json,custom
+40.188688,18.206931,ov_caffetteria_orsini_40.1887_18.2069,Caffetteria Orsini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/caffetteria_orsini_40.1887_18.2069.json,custom
+40.188229,18.208846,ov_people_is_you_40.1882_18.2088,People is You,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/people_is_you_40.1882_18.2088.json,custom
+40.191777,18.208326,ov_total_coffee_40.1918_18.2083,Total Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/total_coffee_40.1918_18.2083.json,custom
+40.303193,18.142891,ov_gink__velvet_room_40.3032_18.1429,Ginkò Velvet Room,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/gink_velvet_room_40.3032_18.1429.json,custom
+40.190615,18.212585,ov_essenza_40.1906_18.2126,Essenza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/essenza_40.1906_18.2126.json,custom

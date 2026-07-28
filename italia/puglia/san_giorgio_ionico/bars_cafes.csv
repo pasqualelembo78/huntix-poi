@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giorgio_ionico -- bars_cafes
-40.464021,17.363846,ov_code_bar_40.4640_17.3638,Code Bar,RESTAURANT,bar_cafe
-40.464292,17.363431,ov_the_shed_pub_40.4643_17.3634,The Shed Pub,RESTAURANT,bar_cafe
-40.460399,17.386668,osm_kalua_risto___lounge_bar_40.4604_17.3867,Kalua Risto & Lounge Bar,bar_cafe,bar_cafe
+40.464021,17.363846,ov_code_bar_40.4640_17.3638,Code Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/code_bar_40.4640_17.3638.json,custom
+40.464292,17.363431,ov_the_shed_pub_40.4643_17.3634,The Shed Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/the_shed_pub_40.4643_17.3634.json,custom
+40.460399,17.386668,osm_kalua_risto___lounge_bar_40.4604_17.3867,Kalua Risto & Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_ionico/pages/kalua_risto_lounge_bar_40.4604_17.3867.json,custom

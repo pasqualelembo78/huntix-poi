@@ -1,27 +1,27 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Roggiano Gravina -- Tutti
-39.586620,16.098930,ov_pianette_39.5866_16.0989,Pianette,RESTAURANT,ristorante
-39.613030,16.132170,ov_azienda_agricola_giglio_39.6130_16.1322,Azienda Agricola Giglio,RESTAURANT,ristorante
-39.615081,16.145146,ov_ristorante_bellavista_39.6151_16.1451,Ristorante Bellavista,RESTAURANT,ristorante
-39.618343,16.149972,ov_dal_bassotto_39.6183_16.1500,Dal Bassotto,RESTAURANT,ristorante
-39.614314,16.157014,ov_pizzeria_trattoria_gesmundo_39.6143_16.1570,Pizzeria Trattoria Gesmundo,RESTAURANT,ristorante
-39.614320,16.157760,ov_la_variante_del_gusto_39.6143_16.1578,La Variante Del gusto,RESTAURANT,ristorante
-39.616246,16.160524,ov_la_rondinella_di_luigi_e_federico_39.6162_16.1605,La rondinella di Luigi e Federico,RESTAURANT,ristorante
-39.617190,16.165340,ov_pizz_e_core_39.6172_16.1653,Pizz'e core,RESTAURANT,ristorante
-39.616129,16.163518,ov_l_angolo_del_paradiso_39.6161_16.1635,L'Angolo del Paradiso,RESTAURANT,ristorante
-39.620613,16.177044,ov_manuel_ristorante_s_r_l__39.6206_16.1770,Manuel Ristorante S.R.L.,RESTAURANT,ristorante
-39.782660,16.478290,ov_murice_ristorante_39.7827_16.4783,Murice Ristorante,RESTAURANT,ristorante
-39.615740,16.156560,ov_bar_borsarelli_39.6157_16.1566,Bar Borsarelli,RESTAURANT,bar_cafe
-39.615050,16.157700,ov_marshall_lounge_bar_39.6150_16.1577,Marshall lounge bar,RESTAURANT,bar_cafe
-39.614200,16.158620,ov_baires_39.6142_16.1586,Baires,RESTAURANT,bar_cafe
-39.615416,16.157419,ov_bet_cafe_39.6154_16.1574,Bet Cafe,RESTAURANT,bar_cafe
-39.616910,16.163780,ov_art_caf__39.6169_16.1638,Art Cafè,RESTAURANT,bar_cafe
-39.618194,16.167922,ov_diamond_39.6182_16.1679,Diamond,RESTAURANT,bar_cafe
-39.617818,16.167120,ov_bar_emilu__di_fabio_apa_39.6178_16.1671,Bar Emilu' di Fabio Apa,RESTAURANT,bar_cafe
-39.617858,16.167110,ov_carpe_diem___tabaccheria_lounge_bar_39.6179_16.1671,Carpe Diem - Tabaccheria Lounge Bar,RESTAURANT,bar_cafe
-39.619478,16.173221,ov_bar_tabacchi_fahrenheit_39.6195_16.1732,Bar Tabacchi Fahrenheit,RESTAURANT,bar_cafe
-39.594646,16.106880,ov_base_scout_la_farnia_39.5946_16.1069,Base Scout La Farnia,GYM,palestra
-39.616602,16.159124,ov_fit_lab_la_formula_del_benessere_39.6166_16.1591,Fit Lab La Formula del Benessere,GYM,palestra
-39.615447,16.171640,ov_palestra_athleticum_39.6154_16.1716,Palestra Athleticum,GYM,palestra
-39.615265,16.183274,ov_laser_game_roggiano_qfun_39.6153_16.1833,Laser Game Roggiano Qfun,GYM,palestra
-39.614170,16.184760,ov_serra_ranch_39.6142_16.1848,Serra Ranch,GYM,palestra
+39.586620,16.098930,ov_pianette_39.5866_16.0989,Pianette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/pianette_39.5866_16.0989.json,custom
+39.613030,16.132170,ov_azienda_agricola_giglio_39.6130_16.1322,Azienda Agricola Giglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/azienda_agricola_giglio_39.6130_16.1322.json,custom
+39.615081,16.145146,ov_ristorante_bellavista_39.6151_16.1451,Ristorante Bellavista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/ristorante_bellavista_39.6151_16.1451.json,custom
+39.618343,16.149972,ov_dal_bassotto_39.6183_16.1500,Dal Bassotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/dal_bassotto_39.6183_16.1500.json,custom
+39.614314,16.157014,ov_pizzeria_trattoria_gesmundo_39.6143_16.1570,Pizzeria Trattoria Gesmundo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/pizzeria_trattoria_gesmundo_39.6143_16.1570.json,custom
+39.614320,16.157760,ov_la_variante_del_gusto_39.6143_16.1578,La Variante Del gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/la_variante_del_gusto_39.6143_16.1578.json,custom
+39.616246,16.160524,ov_la_rondinella_di_luigi_e_federico_39.6162_16.1605,La rondinella di Luigi e Federico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/la_rondinella_di_luigi_e_federico_39.6162_16.1605.json,custom
+39.617190,16.165340,ov_pizz_e_core_39.6172_16.1653,Pizz'e core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/pizze_core_39.6172_16.1653.json,custom
+39.616129,16.163518,ov_l_angolo_del_paradiso_39.6161_16.1635,L'Angolo del Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/langolo_del_paradiso_39.6161_16.1635.json,custom
+39.620613,16.177044,ov_manuel_ristorante_s_r_l__39.6206_16.1770,Manuel Ristorante S.R.L.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/manuel_ristorante_srl_39.6206_16.1770.json,custom
+39.782660,16.478290,ov_murice_ristorante_39.7827_16.4783,Murice Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/murice_ristorante_39.7827_16.4783.json,custom
+39.615740,16.156560,ov_bar_borsarelli_39.6157_16.1566,Bar Borsarelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/bar_borsarelli_39.6157_16.1566.json,custom
+39.615050,16.157700,ov_marshall_lounge_bar_39.6150_16.1577,Marshall lounge bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/marshall_lounge_bar_39.6150_16.1577.json,custom
+39.614200,16.158620,ov_baires_39.6142_16.1586,Baires,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/baires_39.6142_16.1586.json,custom
+39.615416,16.157419,ov_bet_cafe_39.6154_16.1574,Bet Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/bet_cafe_39.6154_16.1574.json,custom
+39.616910,16.163780,ov_art_caf__39.6169_16.1638,Art Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/art_caf_39.6169_16.1638.json,custom
+39.618194,16.167922,ov_diamond_39.6182_16.1679,Diamond,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/diamond_39.6182_16.1679.json,custom
+39.617818,16.167120,ov_bar_emilu__di_fabio_apa_39.6178_16.1671,Bar Emilu' di Fabio Apa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/bar_emilu_di_fabio_apa_39.6178_16.1671.json,custom
+39.617858,16.167110,ov_carpe_diem___tabaccheria_lounge_bar_39.6179_16.1671,Carpe Diem - Tabaccheria Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/carpe_diem_-_tabaccheria_lounge_bar_39.6179_16.1671.json,custom
+39.619478,16.173221,ov_bar_tabacchi_fahrenheit_39.6195_16.1732,Bar Tabacchi Fahrenheit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/bar_tabacchi_fahrenheit_39.6195_16.1732.json,custom
+39.594646,16.106880,ov_base_scout_la_farnia_39.5946_16.1069,Base Scout La Farnia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/base_scout_la_farnia_39.5946_16.1069.json,custom
+39.616602,16.159124,ov_fit_lab_la_formula_del_benessere_39.6166_16.1591,Fit Lab La Formula del Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/fit_lab_la_formula_del_benessere_39.6166_16.1591.json,custom
+39.615447,16.171640,ov_palestra_athleticum_39.6154_16.1716,Palestra Athleticum,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/palestra_athleticum_39.6154_16.1716.json,custom
+39.615265,16.183274,ov_laser_game_roggiano_qfun_39.6153_16.1833,Laser Game Roggiano Qfun,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/laser_game_roggiano_qfun_39.6153_16.1833.json,custom
+39.614170,16.184760,ov_serra_ranch_39.6142_16.1848,Serra Ranch,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roggiano_gravina/pages/serra_ranch_39.6142_16.1848.json,custom

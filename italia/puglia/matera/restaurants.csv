@@ -1,333 +1,315 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # matera -- restaurants
-40.661147,16.612427,osm_enosteria_mataduva_40.6611_16.6124,Enosteria Mataduva,ristorante,ristorante
-40.663918,16.609485,osm_al_falco_grillaio_40.6639_16.6095,Al Falco Grillaio,ristorante,ristorante
-40.668941,16.580952,osm_il_casino_del_diavolo_40.6689_16.5810,Il casino del diavolo,ristorante,ristorante
-40.596791,16.527524,osm_agriturismo_l_assiolo_40.5968_16.5275,Agriturismo L'Assiolo,ristorante,ristorante
-40.665425,16.602329,osm_divine_creazioni_40.6654_16.6023,Divine Creazioni,ristorante,ristorante
-40.662397,16.610622,osm_la_locanda_del_vicinato_40.6624_16.6106,La Locanda del Vicinato,ristorante,ristorante
-40.669744,16.603261,osm_alimenti_doc_40.6697_16.6033,Alimenti Doc,ristorante,ristorante
-40.669966,16.608815,osm_stano_40.6700_16.6088,Stano,ristorante,ristorante
-40.667245,16.604193,osm_methera_40.6672_16.6042,Methera,ristorante,ristorante
-40.666532,16.603984,osm_giro_tondo_pizzeria_40.6665_16.6040,Giro Tondo pizzeria,ristorante,ristorante
-40.666344,16.607160,osm_il_terrazzino_40.6663_16.6072,Il Terrazzino,ristorante,ristorante
-40.669465,16.609502,osm_lacapagira_40.6695_16.6095,Lacapagira,ristorante,ristorante
-40.662032,16.610723,osm_morgan_40.6620_16.6107,Morgan,ristorante,ristorante
-40.662263,16.611026,osm_trattoria_del_caveoso_40.6623_16.6110,Trattoria del Caveoso,ristorante,ristorante
-40.671214,16.608711,osm__900_restaurant_40.6712_16.6087,'900 Restaurant,ristorante,ristorante
-40.668949,16.605534,osm_alle_fornaci_40.6689_16.6055,Alle Fornaci,ristorante,ristorante
-40.664158,16.609141,osm_mosto_40.6642_16.6091,Mosto,ristorante,ristorante
-40.664071,16.609420,osm_shibuya_40.6641_16.6094,Shibuya,ristorante,ristorante
-40.664795,16.609093,osm_basilico_40.6648_16.6091,Basilico,ristorante,ristorante
-40.665541,16.609667,osm_da_nonna_lina_40.6655_16.6097,Da Nonna Lina,ristorante,ristorante
-40.665575,16.609889,osm_san_biaggio_40.6656_16.6099,san biaggio,ristorante,ristorante
-40.667311,16.610346,osm_oi_mar__ristorante_40.6673_16.6103,Oi Marì Ristorante,ristorante,ristorante
-40.665145,16.608551,osm_osteria_san_francesco_40.6651_16.6086,Osteria San Francesco,ristorante,ristorante
-40.661729,16.610236,osm_dalla_padella_alla_brace_40.6617_16.6102,Dalla Padella alla Brace,ristorante,ristorante
-40.665185,16.608433,osm_fior_di_cucuzza_40.6652_16.6084,Fior di Cucuzza,ristorante,ristorante
-40.662837,16.609417,osm_ristorante_pizzeria_paolangelo_40.6628_16.6094,Ristorante Pizzeria Paolangelo,ristorante,ristorante
-40.665017,16.609369,osm_l_antica_credenza_40.6650_16.6094,L’antica credenza,ristorante,ristorante
-40.666386,16.613447,osm_trattoria_i_due_sassi_40.6664_16.6134,Trattoria i Due Sassi,ristorante,ristorante
-40.666347,16.608570,osm_cibinium_40.6663_16.6086,Cibinium,ristorante,ristorante
-40.665913,16.608741,osm_zio_nini_40.6659_16.6087,Zio Nini,ristorante,ristorante
-40.667436,16.607620,osm_osteria_san_giovanni_40.6674_16.6076,Osteria San Giovanni,ristorante,ristorante
-40.667531,16.604535,osm_trattoria_lucana_40.6675_16.6045,Trattoria Lucana,ristorante,ristorante
-40.662186,16.610928,osm_la_lopa_40.6622_16.6109,La Lopa,ristorante,ristorante
-40.668778,16.610981,osm_osteria_al_casale_40.6688_16.6110,Osteria al Casale,ristorante,ristorante
-40.667248,16.612822,osm_vitantonio_lombardo_ristorante_40.6672_16.6128,Vitantonio Lombardo Ristorante,ristorante,ristorante
-40.643005,16.617331,osm_masseria_fortificata_san_francesco_40.6430_16.6173,Masseria Fortificata San Francesco,ristorante,ristorante
-40.669101,16.609582,osm_gi__a_sud_bistrot_nei_sassi_40.6691_16.6096,Giù a Sud Bistrot nei Sassi,ristorante,ristorante
-40.669651,16.609452,osm_gi__a_sud___bistrot_nei_sassi___40.6697_16.6095,Giù a Sud - Bistrot nei Sassi -,ristorante,ristorante
-40.676555,16.597979,osm_l_angolo_del_sapore_40.6766_16.5980,L'angolo del Sapore,ristorante,ristorante
-40.663640,16.609515,osm_alba_lucana_40.6636_16.6095,Alba Lucana,ristorante,ristorante
-40.667897,16.608274,osm_fuoco_di_vino___botega_culinaria_40.6679_16.6083,Fuoco di Vino - Botega Culinaria,ristorante,ristorante
-40.655740,16.474410,ov_verde_colle_timmari_40.6557_16.4744,Verde Colle Timmari,RESTAURANT,ristorante
-40.621295,16.515909,ov_agriturismo_ventricelli___fattoria_didat_40.6213_16.5159,Agriturismo Ventricelli - fattoria Didattica,RESTAURANT,ristorante
-40.604987,16.542579,ov_agriturismo_ventricelli_fattoria_didatti_40.6050_16.5426,Agriturismo Ventricelli Fattoria Didattica,RESTAURANT,ristorante
-40.649569,16.620851,ov_pizzeria_ristorante_l_incontro__40.6496_16.6209,Pizzeria Ristorante L'incontro.,RESTAURANT,ristorante
-40.639372,16.625117,ov_lucanika_pizza___food_40.6394_16.6251,Lucanika pizza & food,RESTAURANT,ristorante
-40.639375,16.625127,ov_lo_zodiaco_40.6394_16.6251,Lo Zodiaco,RESTAURANT,ristorante
-40.641125,16.617756,ov_ristocarta_40.6411_16.6178,Ristocarta,RESTAURANT,ristorante
-40.294182,16.739794,ov_ristorante_ossi_di_seppia_di_taratufolo__40.2942_16.7398,Ristorante Ossi di Seppia di Taratufolo Giovanni,RESTAURANT,ristorante
-40.738929,16.667296,ov_artigianato_italiano_srl_40.7389_16.6673,Artigianato Italiano srl,RESTAURANT,ristorante
-40.730468,16.571273,ov_braceria_da_leonardo_40.7305_16.5713,Braceria Da Leonardo,RESTAURANT,ristorante
-40.667790,16.487470,ov_pizzeria_verde_colle_timmari_40.6678_16.4875,Pizzeria Verde Colle Timmari,RESTAURANT,ristorante
-40.666127,16.439175,ov_agriturismo_tempa_bianca___matera__basil_40.6661_16.4392,"Agriturismo Tempa Bianca - Matera, Basilicata",RESTAURANT,ristorante
-40.660688,16.522945,ov_la_masseria_del_parco_40.6607_16.5229,La Masseria del Parco,RESTAURANT,ristorante
-40.662956,16.533076,ov_il_poeta_contadino_matera_40.6630_16.5331,Il Poeta Contadino Matera,RESTAURANT,ristorante
-40.673532,16.579051,ov_ristorante_ossi_di_seppia_40.6735_16.5791,Ristorante Ossi di Seppia,RESTAURANT,ristorante
-40.672732,16.582113,ov_brad__bistrot_3_0___ristorante_e_pizzeri_40.6727_16.5821,Bradà Bistrot 3.0 | Ristorante e pizzeria Matera,RESTAURANT,ristorante
-40.672799,16.584158,ov_mezzadi_40.6728_16.5842,Mezzadi,RESTAURANT,ristorante
-40.672921,16.584749,ov_coppola_rossa_40.6729_16.5847,Coppola Rossa,RESTAURANT,ristorante
-40.672944,16.585415,ov_shibumi_40.6729_16.5854,Shibumi,RESTAURANT,ristorante
-40.672910,16.585210,ov_masseria_del_parco_ricevimenti_40.6729_16.5852,Masseria Del Parco Ricevimenti,RESTAURANT,ristorante
-40.671820,16.585509,ov_beverygo_cocktail_and_beverage_catering_40.6718_16.5855,Beverygo Cocktail and Beverage Catering,RESTAURANT,ristorante
-40.670284,16.583487,ov_il_pasticcio_40.6703_16.5835,Il Pasticcio,RESTAURANT,ristorante
-40.670217,16.582557,ov_peccati_di_gola_40.6702_16.5826,Peccati Di Gola,RESTAURANT,ristorante
-40.670047,16.580612,ov_il_baretto_40.6700_16.5806,Il Baretto,RESTAURANT,ristorante
-40.668886,16.580783,ov_il_casino_del_diavolo_40.6689_16.5808,Il Casino del Diavolo,RESTAURANT,ristorante
-40.668040,16.571418,ov_pizzeria_ristorante_il_giardino_di_pan_40.6680_16.5714,Pizzeria Ristorante Il Giardino Di Pan,RESTAURANT,ristorante
-40.666700,16.592068,ov_il_buon_gusto_40.6667_16.5921,Il Buon Gusto,RESTAURANT,ristorante
-40.667704,16.600367,ov_gls_shop_matera_40.6677_16.6004,GLS SHOP Matera,RESTAURANT,ristorante
-40.666829,16.598581,ov_osteria_84_40.6668_16.5986,Osteria 84,RESTAURANT,ristorante
-40.665919,16.604598,ov_italiae_gustum_40.6659_16.6046,Italiae Gustum,RESTAURANT,ristorante
-40.665949,16.604916,ov_ohana_40.6659_16.6049,Ohana,RESTAURANT,ristorante
-40.666051,16.603745,ov_kebabberia_matera_di_rahim_40.6661_16.6037,Kebabberia Matera di Rahim,RESTAURANT,ristorante
-40.666281,16.604694,ov_gusto_40.6663_16.6047,Gusto,RESTAURANT,ristorante
-40.666302,16.604919,ov_uacciardidd_butchers_40.6663_16.6049,Uacciardidd Butchers,RESTAURANT,ristorante
-40.666641,16.602989,ov_chef_giancarlo_del_castello_40.6666_16.6030,Chef Giancarlo Del Castello,RESTAURANT,ristorante
-40.666897,16.603131,ov_tornagusto_40.6669_16.6031,Tornagusto,RESTAURANT,ristorante
-40.666851,16.604344,ov_pummarola_40.6669_16.6043,Pummarola,RESTAURANT,ristorante
-40.666591,16.603014,ov_ristorante_spaghetteria_miseria_e_nobilt_40.6666_16.6030,Ristorante Spaghetteria Miseria e Nobiltà,RESTAURANT,ristorante
-40.666537,16.603618,ov_bar_piccolo_ristoro_40.6665_16.6036,Bar Piccolo Ristoro,RESTAURANT,ristorante
-40.666499,16.604013,ov_girotondo_di_pizza_40.6665_16.6040,Girotondo di pizza,RESTAURANT,ristorante
-40.666459,16.606497,ov_la_finestra_sui_sassi_40.6665_16.6065,La Finestra sui Sassi,RESTAURANT,ristorante
-40.666533,16.606819,ov_ristor_3000_srl_40.6665_16.6068,Ristor 3000 SRL,RESTAURANT,ristorante
-40.666831,16.605711,ov_l_abbondanza_lucana_40.6668_16.6057,L'Abbondanza Lucana,RESTAURANT,ristorante
-40.666875,16.606100,ov_annunziata_1735_40.6669_16.6061,Annunziata 1735,RESTAURANT,ristorante
-40.666955,16.606798,ov_pasteggiando_1_40.6670_16.6068,Pasteggiando 1,RESTAURANT,ristorante
-40.666762,16.606861,ov_enoteca_la_pt_j_d__nad____tipico_lucano__40.6668_16.6069,Enoteca La Ptèj d' Nadì - Tipico Lucano da Nadì,RESTAURANT,ristorante
-40.666477,16.608320,ov_brunch_bar_u__ciddar_40.6665_16.6083,Brunch Bar U' Ciddar,RESTAURANT,ristorante
-40.666331,16.607266,ov_il_terrazzino_40.6663_16.6073,Il Terrazzino,RESTAURANT,ristorante
-40.666407,16.606448,ov_panificio_casa_del_pane_40.6664_16.6064,Panificio Casa del Pane,RESTAURANT,ristorante
-40.666356,16.606708,ov_19a_buca_40.6664_16.6067,19a Buca,RESTAURANT,ristorante
-40.666323,16.605385,ov_la_bruscetta_40.6663_16.6054,La Bruscetta,RESTAURANT,ristorante
-40.666282,16.605144,ov_materamo_40.6663_16.6051,Materamo,RESTAURANT,ristorante
-40.666276,16.605185,ov_matera_food_kebab_40.6663_16.6052,Matera Food Kebab,RESTAURANT,ristorante
-40.666314,16.605934,ov_cime_di_rapa_40.6663_16.6059,Cime di Rapa,RESTAURANT,ristorante
-40.665979,16.605475,ov_il_fiore_del_latte_40.6660_16.6055,Il Fiore del Latte,RESTAURANT,ristorante
-40.665927,16.607033,ov_scipip__bistrot_matera_40.6659_16.6070,Scipipì Bistrot Matera,RESTAURANT,ristorante
-40.665971,16.607679,ov_il_cantuccio_40.6660_16.6077,Il Cantuccio,RESTAURANT,ristorante
-40.666094,16.607772,ov_ristorante_il_cantuccio_40.6661_16.6078,Ristorante Il Cantuccio,RESTAURANT,ristorante
-40.666039,16.608678,ov_osteria_alla_vigna_40.6660_16.6087,Osteria Alla Vigna,RESTAURANT,ristorante
-40.666033,16.608541,ov_annina_1937_40.6660_16.6085,Annina 1937,RESTAURANT,ristorante
-40.666025,16.608409,ov_tierra_osteria_contemporanea_40.6660_16.6084,Tierra Osteria Contemporanea,RESTAURANT,ristorante
-40.665926,16.608715,ov_zio_nini_40.6659_16.6087,Zio Nini,RESTAURANT,ristorante
-40.666027,16.609185,ov_la_cola_cola_40.6660_16.6092,La Cola Cola,RESTAURANT,ristorante
-40.665918,16.609699,ov_prodotti_tipici_____40.6659_16.6097,Prodotti Tipici....,RESTAURANT,ristorante
-40.665910,16.609683,ov_l_arturo_40.6659_16.6097,L'Arturo,RESTAURANT,ristorante
-40.666083,16.609068,ov_la_bruna_40.6661_16.6091,La Bruna,RESTAURANT,ristorante
-40.666240,16.609448,ov_villa_rist_ries_40.6662_16.6094,Villa Ristòries,RESTAURANT,ristorante
-40.666302,16.611087,ov_i_due_sassi_40.6663_16.6111,I due Sassi,RESTAURANT,ristorante
-40.665941,16.611595,ov_alcova_ristorante_40.6659_16.6116,Alcova Ristorante,RESTAURANT,ristorante
-40.666436,16.613525,ov_trattoria_i_due_sassi_40.6664_16.6135,Trattoria i due sassi,RESTAURANT,ristorante
-40.666639,16.613408,ov_osteria_belvedere_al_vecchio_frantoio_40.6666_16.6134,Osteria Belvedere al Vecchio Frantoio,RESTAURANT,ristorante
-40.666477,16.611462,ov_le_bubbole_40.6665_16.6115,Le Bubbole,RESTAURANT,ristorante
-40.666499,16.611361,ov_il_duomo_bistrot_matera_40.6665_16.6114,Il Duomo Bistrot Matera,RESTAURANT,ristorante
-40.666659,16.609169,ov_osteria_pico_40.6667_16.6092,Osteria Pico,RESTAURANT,ristorante
-40.666704,16.609478,ov_pietra_viva_40.6667_16.6095,Pietra Viva,RESTAURANT,ristorante
-40.666740,16.609841,ov_amore_crusco_40.6667_16.6098,Amore Crusco,RESTAURANT,ristorante
-40.666886,16.609754,ov_la_talpa_40.6669_16.6098,La Talpa,RESTAURANT,ristorante
-40.667076,16.609814,ov_osteria_bellavista_40.6671_16.6098,Osteria Bellavista,RESTAURANT,ristorante
-40.667266,16.610095,ov_ristorante_bell_agio_40.6673_16.6101,Ristorante Bell'Agio,RESTAURANT,ristorante
-40.667479,16.610017,ov_conzato___vino_e_piccola_cucina_40.6675_16.6100,Conzato / Vino e Piccola Cucina,RESTAURANT,ristorante
-40.667304,16.610219,ov_ristorante_oi_mari_40.6673_16.6102,Ristorante Oi Mari,RESTAURANT,ristorante
-40.667090,16.613047,ov_da_zero_40.6671_16.6130,Da Zero,RESTAURANT,ristorante
-40.667358,16.612708,ov_vitantonio_lombardo_ristorante_40.6674_16.6127,Vitantonio Lombardo Ristorante,RESTAURANT,ristorante
-40.668014,16.609970,ov_dedalo___segui_il_filo_40.6680_16.6100,Dedalo - Segui il filo,RESTAURANT,ristorante
-40.667958,16.610350,ov_le_botteghe_40.6680_16.6104,Le Botteghe,RESTAURANT,ristorante
-40.667964,16.610558,ov_baccus_40.6680_16.6106,Baccus,RESTAURANT,ristorante
-40.668069,16.608391,ov_osteria_malatesta_40.6681_16.6084,Osteria Malatesta,RESTAURANT,ristorante
-40.667850,16.608233,ov_fuoco_di_vino___botega_culinaria_40.6678_16.6082,Fuoco Di Vino - Botega Culinaria,RESTAURANT,ristorante
-40.667960,16.606252,ov_burbaca_40.6680_16.6063,BurBaCa,RESTAURANT,ristorante
-40.667953,16.606213,ov_ristorante_pizzeria_da_mario_2_0_40.6680_16.6062,Ristorante Pizzeria Da Mario 2.0,RESTAURANT,ristorante
-40.667949,16.606240,ov_burger_e_pale_40.6679_16.6062,Burger e Pale,RESTAURANT,ristorante
-40.667771,16.605932,ov_eleat_2_0_pizza_risto_pub___pizzeria_ham_40.6678_16.6059,Eleat 2.0 pizza-risto-pub - pizzeria hamburgeria Matera,RESTAURANT,ristorante
-40.667800,16.605980,ov_cav__ristorante_40.6678_16.6060,Cavò ristorante,RESTAURANT,ristorante
-40.667800,16.605980,ov_ventisettembre_40.6678_16.6060,Ventisettembre,RESTAURANT,ristorante
-40.667683,16.608175,ov_nocelleria_40.6677_16.6082,Nocelleria,RESTAURANT,ristorante
-40.667767,16.608177,ov_materia_prima_bistrot_40.6678_16.6082,Materia Prima Bistrot,RESTAURANT,ristorante
-40.667590,16.607920,ov_stone___ristorante__pizzeria__american_b_40.6676_16.6079,"STONE - Ristorante, Pizzeria, American Bar",RESTAURANT,ristorante
-40.667410,16.607683,ov_osteria_san_giovanni_40.6674_16.6077,Osteria San Giovanni,RESTAURANT,ristorante
-40.667347,16.607641,ov_sushi_stone_40.6673_16.6076,Sushi Stone,RESTAURANT,ristorante
-40.667330,16.607645,ov_la_grotta_nei_sassi_40.6673_16.6076,La Grotta nei Sassi,RESTAURANT,ristorante
-40.667033,16.607095,ov_san_biagio_ristorante_40.6670_16.6071,San Biagio Ristorante,RESTAURANT,ristorante
-40.667183,16.607136,ov_il_rusticone_40.6672_16.6071,Il Rusticone,RESTAURANT,ristorante
-40.667225,16.607490,ov_tipicamente_matera_40.6672_16.6075,Tipicamente Matera,RESTAURANT,ristorante
-40.667342,16.605454,ov_groove_40.6673_16.6055,GROOVE,RESTAURANT,ristorante
-40.667491,16.604529,ov_trattoria_lucana_40.6675_16.6045,Trattoria Lucana,RESTAURANT,ristorante
-40.667221,16.604183,ov_methera_40.6672_16.6042,Methera,RESTAURANT,ristorante
-40.667102,16.604107,ov_panzerotto_40.6671_16.6041,Panzerotto,RESTAURANT,ristorante
-40.667224,16.601672,ov_francesco_lamanna___live_your_food_exper_40.6672_16.6017,Francesco Lamanna - Live your Food Experience,RESTAURANT,ristorante
-40.667227,16.601678,ov_base_caff__cucina_spiriti_40.6672_16.6017,BASE Caffè Cucina Spiriti,RESTAURANT,ristorante
-40.668432,16.604406,ov_el_tablao_40.6684_16.6044,El Tablao,RESTAURANT,ristorante
-40.668770,16.602010,ov_a_tavola_40.6688_16.6020,A Tavola,RESTAURANT,ristorante
-40.668798,16.602230,ov_capitan_piada_40.6688_16.6022,Capitan Piada,RESTAURANT,ristorante
-40.668646,16.605968,ov_agriturismo_torre_spagnola_40.6686_16.6060,Agriturismo Torre Spagnola,RESTAURANT,ristorante
-40.668973,16.605508,ov_ristorante_alle_fornaci_40.6690_16.6055,Ristorante Alle Fornaci,RESTAURANT,ristorante
-40.668239,16.605723,ov_basquiat_40.6682_16.6057,Basquiat,RESTAURANT,ristorante
-40.668224,16.610339,ov_ristorante_da_nico_40.6682_16.6103,Ristorante da Nico,RESTAURANT,ristorante
-40.668163,16.610225,ov_madame_bracco_40.6682_16.6102,Madame Bracco,RESTAURANT,ristorante
-40.668349,16.608957,ov_san_pietro_barisano_residence_e_ristoran_40.6683_16.6090,San Pietro Barisano Residence e Ristorante,RESTAURANT,ristorante
-40.668731,16.610935,ov_osteria_al_casale_40.6687_16.6109,Osteria al Casale,RESTAURANT,ristorante
-40.668672,16.609590,ov_la_nicchia_nel_sasso_40.6687_16.6096,La Nicchia nel Sasso,RESTAURANT,ristorante
-40.669230,16.609361,ov_madame_giulia_40.6692_16.6094,Madame Giulia,RESTAURANT,ristorante
-40.669552,16.609372,ov_ristorante_baccus_40.6696_16.6094,Ristorante Baccus,RESTAURANT,ristorante
-40.669689,16.609469,ov_giu_a_sud_40.6697_16.6095,Giu a Sud,RESTAURANT,ristorante
-40.669970,16.609527,ov_austin_40.6700_16.6095,Austin,RESTAURANT,ristorante
-40.669985,16.608904,ov_trattoria_stano_40.6700_16.6089,Trattoria Stano,RESTAURANT,ristorante
-40.670111,16.605863,ov_casello_75_40.6701_16.6059,Casello 75,RESTAURANT,ristorante
-40.670116,16.606565,ov_ohim__40.6701_16.6066,Ohimè,RESTAURANT,ristorante
-40.669866,16.606145,ov_mezzamaro_40.6699_16.6061,Mezzamaro,RESTAURANT,ristorante
-40.669757,16.606941,ov_i_sapori_senza_glutine_40.6698_16.6069,I Sapori Senza Glutine,RESTAURANT,ristorante
-40.669636,16.607102,ov_manga_sushi___pok__40.6696_16.6071,Manga Sushi & Pokè,RESTAURANT,ristorante
-40.669552,16.607339,ov_ego_40.6696_16.6073,EGO,RESTAURANT,ristorante
-40.669689,16.606066,ov_chi_mac_matera_40.6697_16.6061,CHI MAC Matera,RESTAURANT,ristorante
-40.670204,16.596909,ov_break_paradise_40.6702_16.5969,Break Paradise,RESTAURANT,ristorante
-40.670110,16.595610,ov_la_gustosa_40.6701_16.5956,La Gustosa,RESTAURANT,ristorante
-40.670170,16.595810,ov_al_kilimangiaro_40.6702_16.5958,Al Kilimangiaro,RESTAURANT,ristorante
-40.669066,16.600307,ov_sushi_1_40.6691_16.6003,Sushi 1,RESTAURANT,ristorante
-40.669144,16.599947,ov_laddor_pizza_and_more_40.6691_16.5999,Laddor Pizza and More,RESTAURANT,ristorante
-40.668754,16.591812,ov_pronto_pollo_40.6688_16.5918,Pronto Pollo,RESTAURANT,ristorante
-40.670799,16.595171,ov_mimi_e_coco_lunch_40.6708_16.5952,Mimi e Coco Lunch,RESTAURANT,ristorante
-40.670397,16.596569,ov_sakana_40.6704_16.5966,Sakana,RESTAURANT,ristorante
-40.672167,16.593952,ov_pizzeria_number_one_40.6722_16.5940,Pizzeria Number One,RESTAURANT,ristorante
-40.672356,16.593518,ov_squisito_matera_40.6724_16.5935,Squisito Matera,RESTAURANT,ristorante
-40.672131,16.590956,ov_pizzeria_collodi_40.6721_16.5910,Pizzeria Collodi,RESTAURANT,ristorante
-40.673479,16.586835,ov_a_barraca_40.6735_16.5868,A Barraca,RESTAURANT,ristorante
-40.674114,16.591279,ov_pizzeria_punto_giusto___forno_a_legna_40.6741_16.5913,Pizzeria Punto Giusto...forno a legna,RESTAURANT,ristorante
-40.673821,16.590527,ov_pizzeria_da_michelone_40.6738_16.5905,Pizzeria da Michelone,RESTAURANT,ristorante
-40.673812,16.590457,ov_ubbos_braceria_40.6738_16.5905,UBBOS Braceria,RESTAURANT,ristorante
-40.672817,16.601853,ov_alldays_brunch_bar_40.6728_16.6019,Alldays Brunch Bar,RESTAURANT,ristorante
-40.672908,16.601150,ov_il_crostaceo_40.6729_16.6011,Il Crostaceo,RESTAURANT,ristorante
-40.672650,16.605390,ov_pizzeria_la_panca_40.6726_16.6054,Pizzeria La Panca,RESTAURANT,ristorante
-40.673383,16.606911,ov_pizzeria_arcobaleno_40.6734_16.6069,Pizzeria Arcobaleno,RESTAURANT,ristorante
-40.672113,16.603035,ov_matera_bella_40.6721_16.6030,Matera Bella,RESTAURANT,ristorante
-40.671806,16.602093,ov_pizza_delivery_40.6718_16.6021,Pizza Delivery,RESTAURANT,ristorante
-40.671715,16.605849,ov_ristorante_pizzeria_da_nuccio_40.6717_16.6058,Ristorante Pizzeria da Nuccio,RESTAURANT,ristorante
-40.671634,16.607492,ov_braci___abbracci_40.6716_16.6075,Braci & Abbracci,RESTAURANT,ristorante
-40.671577,16.607227,ov_gianni_s_40.6716_16.6072,Gianni's,RESTAURANT,ristorante
-40.671096,16.608617,ov_ristorante_900_casa_taccardi_40.6711_16.6086,Ristorante'900 Casa Taccardi,RESTAURANT,ristorante
-40.671035,16.608698,ov__900___wine___restaurant_40.6710_16.6087,'900 - Wine & Restaurant,RESTAURANT,ristorante
-40.671064,16.605122,ov_pizzeria_da_aurelian_40.6711_16.6051,Pizzeria Da Aurelian,RESTAURANT,ristorante
-40.671083,16.605170,ov_speedygonzales_40.6711_16.6052,Speedygonzales,RESTAURANT,ristorante
-40.671200,16.604070,ov_baccanti_40.6712_16.6041,Baccanti,RESTAURANT,ristorante
-40.670511,16.606730,ov_altrapizza_40.6705_16.6067,altrapizza,RESTAURANT,ristorante
-40.670320,16.609269,ov_osteria_materami_40.6703_16.6093,Osteria Materami,RESTAURANT,ristorante
-40.670690,16.609160,ov_sant_agostino_40.6707_16.6092,Sant'Agostino,RESTAURANT,ristorante
-40.665727,16.611925,ov_ristorante_le_dodici_lune_40.6657_16.6119,Ristorante Le Dodici Lune,RESTAURANT,ristorante
-40.665876,16.609273,ov_osteria_fave___cicorie_nuova_gestione_40.6659_16.6093,Osteria Fave & Cicorie Nuova Gestione,RESTAURANT,ristorante
-40.665813,16.609427,ov_good_moment_s__matera_40.6658_16.6094,"Good Moment’s, Matera",RESTAURANT,ristorante
-40.665813,16.609639,ov_ristorante_la_gattabuia_40.6658_16.6096,Ristorante La Gattabuia,RESTAURANT,ristorante
-40.665741,16.609619,ov_la_gatta_buia_40.6657_16.6096,La Gatta Buia,RESTAURANT,ristorante
-40.665505,16.609654,ov_da_nonna_lina_40.6655_16.6097,Da Nonna Lina,RESTAURANT,ristorante
-40.665618,16.612625,ov_baccanti_40.6656_16.6126,Baccanti,RESTAURANT,ristorante
-40.665314,16.609822,ov_creppiamo_di_fame_40.6653_16.6098,Creppiamo di fame,RESTAURANT,ristorante
-40.665158,16.609452,ov_camerlingo_kitchen_cafe_40.6652_16.6095,Camerlingo Kitchen Cafe,RESTAURANT,ristorante
-40.665196,16.609282,ov_bema_bevi_e_mangia_40.6652_16.6093,BEMA Bevi e Mangia,RESTAURANT,ristorante
-40.665124,16.610267,ov_dimora_ulmo_ristorante_40.6651_16.6103,Dimora Ulmo ristorante,RESTAURANT,ristorante
-40.664927,16.608977,ov_istanbul_kebab_40.6649_16.6090,Istanbul Kebab,RESTAURANT,ristorante
-40.664837,16.609192,ov_pasteggiando_2_40.6648_16.6092,Pasteggiando 2,RESTAURANT,ristorante
-40.663731,16.611627,ov_era_convivial_cave_restaurant_40.6637_16.6116,Era Convivial Cave Restaurant,RESTAURANT,ristorante
-40.663934,16.609385,ov_al_falco_grillaio_40.6639_16.6094,Al Falco Grillaio,RESTAURANT,ristorante
-40.664093,16.609354,ov_ai_palmenti_ristorante_40.6641_16.6094,Ai Palmenti Ristorante,RESTAURANT,ristorante
-40.664269,16.611384,ov_san_pietro_bar_osteria__matera_40.6643_16.6114,"San Pietro Bar-Osteria, Matera",RESTAURANT,ristorante
-40.664532,16.611835,ov_keiv_ristorante_40.6645_16.6118,Keiv Ristorante,RESTAURANT,ristorante
-40.664423,16.611671,ov_ristorante_francesca_40.6644_16.6117,Ristorante Francesca,RESTAURANT,ristorante
-40.664406,16.611646,ov_panecotto_40.6644_16.6116,Panecotto,RESTAURANT,ristorante
-40.664777,16.611366,ov_pi__sud_40.6648_16.6114,Più Sud,RESTAURANT,ristorante
-40.664631,16.609049,ov_l_antica_credenza_40.6646_16.6090,L'Antica Credenza,RESTAURANT,ristorante
-40.664788,16.609064,ov_ristorante_basilico_40.6648_16.6091,Ristorante Basilico,RESTAURANT,ristorante
-40.664780,16.607690,ov_ristorante_don_matteo__di_donato_malacar_40.6648_16.6077,Ristorante Don Matteo  di Donato Malacarne,RESTAURANT,ristorante
-40.664627,16.605794,ov_paradiso_del_boschetto_40.6646_16.6058,Paradiso del boschetto,RESTAURANT,ristorante
-40.664290,16.608780,ov_patata_shop_40.6643_16.6088,Patata Shop,RESTAURANT,ristorante
-40.664624,16.602595,ov_noce_di_burro_40.6646_16.6026,Noce di Burro,RESTAURANT,ristorante
-40.665264,16.602124,ov_pi__pizza_40.6653_16.6021,Più Pizza,RESTAURANT,ristorante
-40.664883,16.608537,ov_hemingway_s_bistrot_40.6649_16.6085,Hemingway's Bistrot,RESTAURANT,ristorante
-40.665075,16.608525,ov_la_fedda_rossa_40.6651_16.6085,La Fedda Rossa,RESTAURANT,ristorante
-40.664979,16.607846,ov_ristorante_burro_salato_40.6650_16.6078,Ristorante Burro Salato,RESTAURANT,ristorante
-40.665161,16.608605,ov_osteria_san_francesco_40.6652_16.6086,Osteria San Francesco,RESTAURANT,ristorante
-40.665351,16.608102,ov_da_nord_a_food_40.6654_16.6081,Da Nord a Food,RESTAURANT,ristorante
-40.665587,16.608276,ov_mercato_24_40.6656_16.6083,Mercato 24,RESTAURANT,ristorante
-40.665653,16.607495,ov_ciboom_40.6657_16.6075,Ciboom,RESTAURANT,ristorante
-40.665832,16.608048,ov_piadi_piadineria_artigianale_40.6658_16.6080,Piadi Piadineria Artigianale,RESTAURANT,ristorante
-40.665901,16.608237,ov_osteria_l_arco_40.6659_16.6082,Osteria L'Arco,RESTAURANT,ristorante
-40.665898,16.606114,ov_pizzeria_costellazioni_40.6659_16.6061,Pizzeria Costellazioni,RESTAURANT,ristorante
-40.665688,16.603609,ov_sottofondo_gustoteca_40.6657_16.6036,Sottofondo Gustoteca,RESTAURANT,ristorante
-40.665688,16.603609,ov_pizzeria_lucana_40.6657_16.6036,Pizzeria Lucana,RESTAURANT,ristorante
-40.665449,16.602230,ov_divine_creazioni_40.6654_16.6022,Divine Creazioni,RESTAURANT,ristorante
-40.663718,16.599849,ov_ristorante_moro_40.6637_16.5998,Ristorante Moro,RESTAURANT,ristorante
-40.663710,16.598722,ov_buon_appetito_40.6637_16.5987,Buon Appetito,RESTAURANT,ristorante
-40.663590,16.608100,ov_fuji_ristorante_matera_40.6636_16.6081,Fuji Ristorante Matera,RESTAURANT,ristorante
-40.663682,16.607984,ov_da_nonna_rosa_40.6637_16.6080,Da Nonna Rosa,RESTAURANT,ristorante
-40.663352,16.608367,ov_ridola_ristorante_40.6634_16.6084,Ridola Ristorante,RESTAURANT,ristorante
-40.663046,16.606713,ov_laltrapizza_matera_40.6630_16.6067,Laltrapizza Matera,RESTAURANT,ristorante
-40.662644,16.609027,ov_l_acquasotto_40.6626_16.6090,L'acquasotto,RESTAURANT,ristorante
-40.662831,16.609474,ov_trattoria_paolangelo_40.6628_16.6095,Trattoria Paolangelo,RESTAURANT,ristorante
-40.662770,16.609350,ov_la_pignata_40.6628_16.6094,La Pignata,RESTAURANT,ristorante
-40.662657,16.611491,ov_pane_pomodoro_40.6627_16.6115,Pane&pomodoro,RESTAURANT,ristorante
-40.663145,16.609906,ov_ristorante_pizzeria_van_gogh_40.6631_16.6099,Ristorante Pizzeria Van Gogh,RESTAURANT,ristorante
-40.663004,16.609746,ov_la_latteria_40.6630_16.6097,La Latteria,RESTAURANT,ristorante
-40.663259,16.609806,ov_hemingway_ristorante_fingest_srl_40.6633_16.6098,Hemingway Ristorante Fingest SRL,RESTAURANT,ristorante
-40.663397,16.609934,ov_5_lire_matera_40.6634_16.6099,5 Lire Matera,RESTAURANT,ristorante
-40.663432,16.609814,ov_taverna_la_focagna_40.6634_16.6098,Taverna La Focagna,RESTAURANT,ristorante
-40.663331,16.609724,ov_aroma_ristorante_40.6633_16.6097,Aroma Ristorante,RESTAURANT,ristorante
-40.663484,16.609626,ov_pizza_alla_goccia_40.6635_16.6096,Pizza alla Goccia,RESTAURANT,ristorante
-40.663711,16.611489,ov_panvigna_40.6637_16.6115,Panvigna,RESTAURANT,ristorante
-40.663398,16.611574,ov_il_quarto_storto_40.6634_16.6116,Il Quarto Storto,RESTAURANT,ristorante
-40.663311,16.611689,ov_taverna_re_manfredi_40.6633_16.6117,Taverna Re Manfredi,RESTAURANT,ristorante
-40.663227,16.611587,ov_la_grotta_del_gusto_40.6632_16.6116,La Grotta Del Gusto,RESTAURANT,ristorante
-40.662375,16.611384,ov_vicoprimitivo_40.6624_16.6114,Vicoprimitivo,RESTAURANT,ristorante
-40.662547,16.610432,ov_ristorante_soul_kitchen_40.6625_16.6104,Ristorante Soul Kitchen,RESTAURANT,ristorante
-40.662541,16.610247,ov_quid_trattoria_murgiana_40.6625_16.6102,Quid Trattoria Murgiana,RESTAURANT,ristorante
-40.662410,16.610475,ov_l_antica_credenza_40.6624_16.6105,L'Antica Credenza,RESTAURANT,ristorante
-40.662326,16.610298,ov_bollicine_bistrot_40.6623_16.6103,Bollicine Bistrot,RESTAURANT,ristorante
-40.662109,16.610144,ov_il_pettolino_40.6621_16.6101,Il Pettolino,RESTAURANT,ristorante
-40.662179,16.611255,ov_radino_wine_bistrot___cigar_room_40.6622_16.6113,Radino Wine Bistrot & Cigar Room,RESTAURANT,ristorante
-40.662180,16.611032,ov_la_lopa_40.6622_16.6110,La Lopa,RESTAURANT,ristorante
-40.662208,16.610809,ov_retr_bottega_matera_40.6622_16.6108,Retròbottega Matera,RESTAURANT,ristorante
-40.662267,16.611125,ov_trattoria_del_caveoso_40.6623_16.6111,Trattoria del Caveoso,RESTAURANT,ristorante
-40.662341,16.611423,ov_da_mo__ristorante_40.6623_16.6114,DA_MO' ristorante,RESTAURANT,ristorante
-40.662347,16.612062,ov_stone_age_matera_40.6623_16.6121,Stone Age Matera,RESTAURANT,ristorante
-40.662060,16.610656,ov_morgan_restaurant_40.6621_16.6107,Morgan Restaurant,RESTAURANT,ristorante
-40.661918,16.609431,ov_osteria_dei_sassi_40.6619_16.6094,Osteria dei Sassi,RESTAURANT,ristorante
-40.661816,16.610206,ov_dalla_padella_alla_brace_40.6618_16.6102,Dalla Padella alla Brace,RESTAURANT,ristorante
-40.661557,16.610047,ov_ristogourmet_antino_40.6616_16.6100,Ristogourmet Antino,RESTAURANT,ristorante
-40.661554,16.610071,ov_dimitria_il_ristorante_40.6616_16.6101,Dimitria il Ristorante,RESTAURANT,ristorante
-40.661139,16.612294,ov_bistrot_al_caveau_40.6611_16.6123,Bistrot Al Caveau,RESTAURANT,ristorante
-40.660917,16.611357,ov_dilu_takeaway_40.6609_16.6114,Dilu Takeaway,RESTAURANT,ristorante
-40.660966,16.611249,ov_sushi_unique_matera___sushi_box__tube____40.6610_16.6112,"Sushi Unique Matera | SUSHI BOX, TUBE & MORE",RESTAURANT,ristorante
-40.659581,16.614766,ov_pizzeria_speedy_gonzales_40.6596_16.6148,Pizzeria Speedy Gonzales,RESTAURANT,ristorante
-40.657490,16.608270,ov_agriturismo_masseria_del_pantaleone_40.6575_16.6083,Agriturismo Masseria Del Pantaleone,RESTAURANT,ristorante
-40.658891,16.607276,ov_birrosteria_40.6589_16.6073,Birrosteria,RESTAURANT,ristorante
-40.659316,16.614593,ov_mavi_40.6593_16.6146,Mavi,RESTAURANT,ristorante
-40.683536,16.592573,ov_puligros_40.6835_16.5926,Puligros,RESTAURANT,ristorante
-40.680086,16.623903,ov_ristorante_pizzeria_da_peppone_40.6801_16.6239,Ristorante Pizzeria da Peppone,RESTAURANT,ristorante
-40.676808,16.599356,ov_u_mangiaridd_40.6768_16.5994,U'Mangiaridd,RESTAURANT,ristorante
-40.676682,16.597583,ov_l_angolo_del_sapore_40.6767_16.5976,L'Angolo del Sapore,RESTAURANT,ristorante
-40.676087,16.599423,ov_cuordipizza_40.6761_16.5994,CuordiPizza,RESTAURANT,ristorante
-40.675513,16.599453,ov_sapore_di_mare_40.6755_16.5995,Sapore di Mare,RESTAURANT,ristorante
-40.675641,16.599198,ov_pasta_fresca_la_spiga_d_oro_40.6756_16.5992,Pasta Fresca La Spiga D'Oro,RESTAURANT,ristorante
-40.675247,16.599498,ov_secret_burger_society_matera_40.6752_16.5995,Secret Burger Society Matera,RESTAURANT,ristorante
-40.675959,16.589434,ov_mr__kebab_40.6760_16.5894,Mr. Kebab,RESTAURANT,ristorante
-40.677440,16.587380,ov_antonio_lieto_pizzeria_40.6774_16.5874,Antonio Lieto Pizzeria,RESTAURANT,ristorante
-40.677685,16.592180,ov_clint_urban_kitchen_40.6777_16.5922,Clint Urban Kitchen,RESTAURANT,ristorante
-40.677497,16.591717,ov_pizza_export_40.6775_16.5917,Pizza Export,RESTAURANT,ristorante
-40.678138,16.593739,ov_i_cinque_sensi_40.6781_16.5937,I Cinque Sensi,RESTAURANT,ristorante
-40.678658,16.594311,ov_la_rivincita___braceria_e_steakhouse_40.6787_16.5943,La Rivincita - Braceria e Steakhouse,RESTAURANT,ristorante
-40.678294,16.593246,ov_pizzeria_san_pardo_di_gaudiano_anna_luci_40.6783_16.5932,Pizzeria SAN Pardo di Gaudiano Anna Lucia,RESTAURANT,ristorante
-40.678642,16.587061,ov_pizzeria_one_the_original_40.6786_16.5871,Pizzeria One The Original,RESTAURANT,ristorante
-40.679500,16.588080,ov_panificio_de_palo_bar_bakery_40.6795_16.5881,Panificio De Palo Bar Bakery,RESTAURANT,ristorante
-40.683284,16.586165,ov_pizzeria_i_peucezi_40.6833_16.5862,Pizzeria I Peucezi,RESTAURANT,ristorante
-40.681371,16.581329,ov_panegusto_40.6814_16.5813,Panegusto,RESTAURANT,ristorante
-40.681120,16.582750,ov_agriturismo_le_matinelle_40.6811_16.5828,Agriturismo Le Matinelle,RESTAURANT,ristorante
-40.678113,16.580992,ov_otello_pizza_40.6781_16.5810,Otello Pizza,RESTAURANT,ristorante
-40.678680,16.581092,ov_fuori_orario_40.6787_16.5811,Fuori Orario,RESTAURANT,ristorante
-40.677439,16.574124,ov_hamilton_40.6774_16.5741,Hamilton,RESTAURANT,ristorante
-40.677913,16.575579,ov_sat_ristorazione_matera_40.6779_16.5756,SAT Ristorazione Matera,RESTAURANT,ristorante
-40.676711,16.580136,ov_rugantino_40.6767_16.5801,Rugantino,RESTAURANT,ristorante
-40.675602,16.584299,ov_cibus_40.6756_16.5843,Cibus,RESTAURANT,ristorante
-40.675429,16.584229,ov_easy_meat__la_carne_speciale__40.6754_16.5842,Easy Meat. La carne speciale.,RESTAURANT,ristorante
-40.675630,16.574272,ov_stand_up_pizzeria_ristorante_40.6756_16.5743,Stand-Up Pizzeria Ristorante,RESTAURANT,ristorante
-40.684123,16.577232,ov_blumare_pescheria_40.6841_16.5772,Blumare Pescheria,RESTAURANT,ristorante
-40.683771,16.577093,ov_palatofino_40.6838_16.5771,Palatofino,RESTAURANT,ristorante
-40.683456,16.577483,ov_un_girotondo_di_pizza_aquarium_40.6835_16.5775,Un Girotondo di Pizza Aquarium,RESTAURANT,ristorante
-40.686324,16.568353,ov_wood_house___matera_40.6863_16.5684,Wood House - Matera,RESTAURANT,ristorante
-40.687820,16.568320,ov_sport_village_40.6878_16.5683,Sport Village,RESTAURANT,ristorante
-40.689041,16.540943,ov_le_matinelle_40.6890_16.5409,Le Matinelle,RESTAURANT,ristorante
-40.697558,16.530541,ov_agriturismo_le_matinelle_40.6976_16.5305,Agriturismo Le Matinelle,RESTAURANT,ristorante
-40.699933,16.585803,ov_i_giardini_della_corte_40.6999_16.5858,I Giardini della Corte,RESTAURANT,ristorante
-40.721660,16.575788,ov_coop_40.7217_16.5758,Coop,RESTAURANT,ristorante
-40.721983,16.574437,ov_bar_ristorante_sarni_40.7220_16.5744,Bar Ristorante Sarni,RESTAURANT,ristorante
-40.716675,16.646679,ov_palatofino_40.7167_16.6467,Palatofino,RESTAURANT,ristorante
-40.706758,16.705956,ov_el_carnero_braceria_40.7068_16.7060,El Carnero Braceria,RESTAURANT,ristorante
+40.655740,16.474410,ov_verde_colle_timmari_40.6557_16.4744,Verde Colle Timmari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/verde_colle_timmari_40.6557_16.4744.json,custom
+40.621295,16.515909,ov_agriturismo_ventricelli___fattoria_didat_40.6213_16.5159,Agriturismo Ventricelli - fattoria Didattica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_ventricelli_-_fattoria_didat_40.6213_16.5159.json,custom
+40.604987,16.542579,ov_agriturismo_ventricelli_fattoria_didatti_40.6050_16.5426,Agriturismo Ventricelli Fattoria Didattica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_ventricelli_fattoria_didatti_40.6050_16.5426.json,custom
+40.649569,16.620851,ov_pizzeria_ristorante_l_incontro__40.6496_16.6209,Pizzeria Ristorante L'incontro.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_ristorante_lincontro_40.6496_16.6209.json,custom
+40.639372,16.625117,ov_lucanika_pizza___food_40.6394_16.6251,Lucanika pizza & food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lucanika_pizza_food_40.6394_16.6251.json,custom
+40.639375,16.625127,ov_lo_zodiaco_40.6394_16.6251,Lo Zodiaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lo_zodiaco_40.6394_16.6251.json,custom
+40.641125,16.617756,ov_ristocarta_40.6411_16.6178,Ristocarta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristocarta_40.6411_16.6178.json,custom
+40.294182,16.739794,ov_ristorante_ossi_di_seppia_di_taratufolo__40.2942_16.7398,Ristorante Ossi di Seppia di Taratufolo Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_ossi_di_seppia_di_taratufolo__40.2942_16.7398.json,custom
+40.738929,16.667296,ov_artigianato_italiano_srl_40.7389_16.6673,Artigianato Italiano srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/artigianato_italiano_srl_40.7389_16.6673.json,custom
+40.730468,16.571273,ov_braceria_da_leonardo_40.7305_16.5713,Braceria Da Leonardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/braceria_da_leonardo_40.7305_16.5713.json,custom
+40.667790,16.487470,ov_pizzeria_verde_colle_timmari_40.6678_16.4875,Pizzeria Verde Colle Timmari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_verde_colle_timmari_40.6678_16.4875.json,custom
+40.666127,16.439175,ov_agriturismo_tempa_bianca___matera__basil_40.6661_16.4392,"Agriturismo Tempa Bianca - Matera, Basilicata",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_tempa_bianca_-_matera_basili_40.6661_16.4392.json,custom
+40.660688,16.522945,ov_la_masseria_del_parco_40.6607_16.5229,La Masseria del Parco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_masseria_del_parco_40.6607_16.5229.json,custom
+40.662956,16.533076,ov_il_poeta_contadino_matera_40.6630_16.5331,Il Poeta Contadino Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_poeta_contadino_matera_40.6630_16.5331.json,custom
+40.673532,16.579051,ov_ristorante_ossi_di_seppia_40.6735_16.5791,Ristorante Ossi di Seppia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_ossi_di_seppia_40.6735_16.5791.json,custom
+40.672732,16.582113,ov_brad__bistrot_3_0___ristorante_e_pizzeri_40.6727_16.5821,Bradà Bistrot 3.0 | Ristorante e pizzeria Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/brad_bistrot_30_ristorante_e_pizzeria_ma_40.6727_16.5821.json,custom
+40.672799,16.584158,ov_mezzadi_40.6728_16.5842,Mezzadi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mezzadi_40.6728_16.5842.json,custom
+40.672921,16.584749,ov_coppola_rossa_40.6729_16.5847,Coppola Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/coppola_rossa_40.6729_16.5847.json,custom
+40.672944,16.585415,ov_shibumi_40.6729_16.5854,Shibumi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/shibumi_40.6729_16.5854.json,custom
+40.672910,16.585210,ov_masseria_del_parco_ricevimenti_40.6729_16.5852,Masseria Del Parco Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/masseria_del_parco_ricevimenti_40.6729_16.5852.json,custom
+40.671820,16.585509,ov_beverygo_cocktail_and_beverage_catering_40.6718_16.5855,Beverygo Cocktail and Beverage Catering,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/beverygo_cocktail_and_beverage_catering_40.6718_16.5855.json,custom
+40.670284,16.583487,ov_il_pasticcio_40.6703_16.5835,Il Pasticcio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_pasticcio_40.6703_16.5835.json,custom
+40.670217,16.582557,ov_peccati_di_gola_40.6702_16.5826,Peccati Di Gola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/peccati_di_gola_40.6702_16.5826.json,custom
+40.670047,16.580612,ov_il_baretto_40.6700_16.5806,Il Baretto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_baretto_40.6700_16.5806.json,custom
+40.668886,16.580783,ov_il_casino_del_diavolo_40.6689_16.5808,Il Casino del Diavolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_casino_del_diavolo_40.6689_16.5808.json,custom
+40.668040,16.571418,ov_pizzeria_ristorante_il_giardino_di_pan_40.6680_16.5714,Pizzeria Ristorante Il Giardino Di Pan,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_ristorante_il_giardino_di_pan_40.6680_16.5714.json,custom
+40.666700,16.592068,ov_il_buon_gusto_40.6667_16.5921,Il Buon Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_buon_gusto_40.6667_16.5921.json,custom
+40.667704,16.600367,ov_gls_shop_matera_40.6677_16.6004,GLS SHOP Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/gls_shop_matera_40.6677_16.6004.json,custom
+40.666829,16.598581,ov_osteria_84_40.6668_16.5986,Osteria 84,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_84_40.6668_16.5986.json,custom
+40.665919,16.604598,ov_italiae_gustum_40.6659_16.6046,Italiae Gustum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/italiae_gustum_40.6659_16.6046.json,custom
+40.665949,16.604916,ov_ohana_40.6659_16.6049,Ohana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ohana_40.6659_16.6049.json,custom
+40.666051,16.603745,ov_kebabberia_matera_di_rahim_40.6661_16.6037,Kebabberia Matera di Rahim,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/kebabberia_matera_di_rahim_40.6661_16.6037.json,custom
+40.666281,16.604694,ov_gusto_40.6663_16.6047,Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/gusto_40.6663_16.6047.json,custom
+40.666302,16.604919,ov_uacciardidd_butchers_40.6663_16.6049,Uacciardidd Butchers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/uacciardidd_butchers_40.6663_16.6049.json,custom
+40.666641,16.602989,ov_chef_giancarlo_del_castello_40.6666_16.6030,Chef Giancarlo Del Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/chef_giancarlo_del_castello_40.6666_16.6030.json,custom
+40.666897,16.603131,ov_tornagusto_40.6669_16.6031,Tornagusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/tornagusto_40.6669_16.6031.json,custom
+40.666851,16.604344,ov_pummarola_40.6669_16.6043,Pummarola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pummarola_40.6669_16.6043.json,custom
+40.666591,16.603014,ov_ristorante_spaghetteria_miseria_e_nobilt_40.6666_16.6030,Ristorante Spaghetteria Miseria e Nobiltà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_spaghetteria_miseria_e_nobilt_40.6666_16.6030.json,custom
+40.666537,16.603618,ov_bar_piccolo_ristoro_40.6665_16.6036,Bar Piccolo Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/bar_piccolo_ristoro_40.6665_16.6036.json,custom
+40.666499,16.604013,ov_girotondo_di_pizza_40.6665_16.6040,Girotondo di pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/girotondo_di_pizza_40.6665_16.6040.json,custom
+40.666459,16.606497,ov_la_finestra_sui_sassi_40.6665_16.6065,La Finestra sui Sassi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_finestra_sui_sassi_40.6665_16.6065.json,custom
+40.666533,16.606819,ov_ristor_3000_srl_40.6665_16.6068,Ristor 3000 SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristor_3000_srl_40.6665_16.6068.json,custom
+40.666831,16.605711,ov_l_abbondanza_lucana_40.6668_16.6057,L'Abbondanza Lucana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/labbondanza_lucana_40.6668_16.6057.json,custom
+40.666875,16.606100,ov_annunziata_1735_40.6669_16.6061,Annunziata 1735,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/annunziata_1735_40.6669_16.6061.json,custom
+40.666955,16.606798,ov_pasteggiando_1_40.6670_16.6068,Pasteggiando 1,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pasteggiando_1_40.6670_16.6068.json,custom
+40.666762,16.606861,ov_enoteca_la_pt_j_d__nad____tipico_lucano__40.6668_16.6069,Enoteca La Ptèj d' Nadì - Tipico Lucano da Nadì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/enoteca_la_ptj_d_nad_-_tipico_lucano_da__40.6668_16.6069.json,custom
+40.666477,16.608320,ov_brunch_bar_u__ciddar_40.6665_16.6083,Brunch Bar U' Ciddar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/brunch_bar_u_ciddar_40.6665_16.6083.json,custom
+40.666331,16.607266,ov_il_terrazzino_40.6663_16.6073,Il Terrazzino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_terrazzino_40.6663_16.6073.json,custom
+40.666407,16.606448,ov_panificio_casa_del_pane_40.6664_16.6064,Panificio Casa del Pane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panificio_casa_del_pane_40.6664_16.6064.json,custom
+40.666356,16.606708,ov_19a_buca_40.6664_16.6067,19a Buca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/19a_buca_40.6664_16.6067.json,custom
+40.666323,16.605385,ov_la_bruscetta_40.6663_16.6054,La Bruscetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_bruscetta_40.6663_16.6054.json,custom
+40.666282,16.605144,ov_materamo_40.6663_16.6051,Materamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/materamo_40.6663_16.6051.json,custom
+40.666276,16.605185,ov_matera_food_kebab_40.6663_16.6052,Matera Food Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/matera_food_kebab_40.6663_16.6052.json,custom
+40.666314,16.605934,ov_cime_di_rapa_40.6663_16.6059,Cime di Rapa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cime_di_rapa_40.6663_16.6059.json,custom
+40.665979,16.605475,ov_il_fiore_del_latte_40.6660_16.6055,Il Fiore del Latte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_fiore_del_latte_40.6660_16.6055.json,custom
+40.665927,16.607033,ov_scipip__bistrot_matera_40.6659_16.6070,Scipipì Bistrot Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/scipip_bistrot_matera_40.6659_16.6070.json,custom
+40.665971,16.607679,ov_il_cantuccio_40.6660_16.6077,Il Cantuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_cantuccio_40.6660_16.6077.json,custom
+40.666094,16.607772,ov_ristorante_il_cantuccio_40.6661_16.6078,Ristorante Il Cantuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_il_cantuccio_40.6661_16.6078.json,custom
+40.666039,16.608678,ov_osteria_alla_vigna_40.6660_16.6087,Osteria Alla Vigna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_alla_vigna_40.6660_16.6087.json,custom
+40.666033,16.608541,ov_annina_1937_40.6660_16.6085,Annina 1937,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/annina_1937_40.6660_16.6085.json,custom
+40.666025,16.608409,ov_tierra_osteria_contemporanea_40.6660_16.6084,Tierra Osteria Contemporanea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/tierra_osteria_contemporanea_40.6660_16.6084.json,custom
+40.665926,16.608715,ov_zio_nini_40.6659_16.6087,Zio Nini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/zio_nini_40.6659_16.6087.json,custom
+40.666027,16.609185,ov_la_cola_cola_40.6660_16.6092,La Cola Cola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_cola_cola_40.6660_16.6092.json,custom
+40.665918,16.609699,ov_prodotti_tipici_____40.6659_16.6097,Prodotti Tipici....,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/prodotti_tipici_40.6659_16.6097.json,custom
+40.665910,16.609683,ov_l_arturo_40.6659_16.6097,L'Arturo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/larturo_40.6659_16.6097.json,custom
+40.666083,16.609068,ov_la_bruna_40.6661_16.6091,La Bruna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_bruna_40.6661_16.6091.json,custom
+40.666240,16.609448,ov_villa_rist_ries_40.6662_16.6094,Villa Ristòries,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/villa_ristries_40.6662_16.6094.json,custom
+40.666302,16.611087,ov_i_due_sassi_40.6663_16.6111,I due Sassi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/i_due_sassi_40.6663_16.6111.json,custom
+40.665941,16.611595,ov_alcova_ristorante_40.6659_16.6116,Alcova Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/alcova_ristorante_40.6659_16.6116.json,custom
+40.666436,16.613525,ov_trattoria_i_due_sassi_40.6664_16.6135,Trattoria i due sassi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_i_due_sassi_40.6664_16.6135.json,custom
+40.666639,16.613408,ov_osteria_belvedere_al_vecchio_frantoio_40.6666_16.6134,Osteria Belvedere al Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_belvedere_al_vecchio_frantoio_40.6666_16.6134.json,custom
+40.666477,16.611462,ov_le_bubbole_40.6665_16.6115,Le Bubbole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/le_bubbole_40.6665_16.6115.json,custom
+40.666499,16.611361,ov_il_duomo_bistrot_matera_40.6665_16.6114,Il Duomo Bistrot Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_duomo_bistrot_matera_40.6665_16.6114.json,custom
+40.666659,16.609169,ov_osteria_pico_40.6667_16.6092,Osteria Pico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_pico_40.6667_16.6092.json,custom
+40.666704,16.609478,ov_pietra_viva_40.6667_16.6095,Pietra Viva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pietra_viva_40.6667_16.6095.json,custom
+40.666740,16.609841,ov_amore_crusco_40.6667_16.6098,Amore Crusco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/amore_crusco_40.6667_16.6098.json,custom
+40.666886,16.609754,ov_la_talpa_40.6669_16.6098,La Talpa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_talpa_40.6669_16.6098.json,custom
+40.667076,16.609814,ov_osteria_bellavista_40.6671_16.6098,Osteria Bellavista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_bellavista_40.6671_16.6098.json,custom
+40.667266,16.610095,ov_ristorante_bell_agio_40.6673_16.6101,Ristorante Bell'Agio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_bellagio_40.6673_16.6101.json,custom
+40.667479,16.610017,ov_conzato___vino_e_piccola_cucina_40.6675_16.6100,Conzato / Vino e Piccola Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/conzato_vino_e_piccola_cucina_40.6675_16.6100.json,custom
+40.667304,16.610219,ov_ristorante_oi_mari_40.6673_16.6102,Ristorante Oi Mari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_oi_mari_40.6673_16.6102.json,custom
+40.667090,16.613047,ov_da_zero_40.6671_16.6130,Da Zero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/da_zero_40.6671_16.6130.json,custom
+40.667358,16.612708,ov_vitantonio_lombardo_ristorante_40.6674_16.6127,Vitantonio Lombardo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/vitantonio_lombardo_ristorante_40.6674_16.6127.json,custom
+40.668014,16.609970,ov_dedalo___segui_il_filo_40.6680_16.6100,Dedalo - Segui il filo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/dedalo_-_segui_il_filo_40.6680_16.6100.json,custom
+40.667958,16.610350,ov_le_botteghe_40.6680_16.6104,Le Botteghe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/le_botteghe_40.6680_16.6104.json,custom
+40.667964,16.610558,ov_baccus_40.6680_16.6106,Baccus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/baccus_40.6680_16.6106.json,custom
+40.668069,16.608391,ov_osteria_malatesta_40.6681_16.6084,Osteria Malatesta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_malatesta_40.6681_16.6084.json,custom
+40.667850,16.608233,ov_fuoco_di_vino___botega_culinaria_40.6678_16.6082,Fuoco Di Vino - Botega Culinaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/fuoco_di_vino_-_botega_culinaria_40.6678_16.6082.json,custom
+40.667960,16.606252,ov_burbaca_40.6680_16.6063,BurBaCa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/burbaca_40.6680_16.6063.json,custom
+40.667953,16.606213,ov_ristorante_pizzeria_da_mario_2_0_40.6680_16.6062,Ristorante Pizzeria Da Mario 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_pizzeria_da_mario_20_40.6680_16.6062.json,custom
+40.667949,16.606240,ov_burger_e_pale_40.6679_16.6062,Burger e Pale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/burger_e_pale_40.6679_16.6062.json,custom
+40.667771,16.605932,ov_eleat_2_0_pizza_risto_pub___pizzeria_ham_40.6678_16.6059,Eleat 2.0 pizza-risto-pub - pizzeria hamburgeria Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/eleat_20_pizza-risto-pub_-_pizzeria_hamb_40.6678_16.6059.json,custom
+40.667800,16.605980,ov_cav__ristorante_40.6678_16.6060,Cavò ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cav_ristorante_40.6678_16.6060.json,custom
+40.667800,16.605980,ov_ventisettembre_40.6678_16.6060,Ventisettembre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ventisettembre_40.6678_16.6060.json,custom
+40.667683,16.608175,ov_nocelleria_40.6677_16.6082,Nocelleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/nocelleria_40.6677_16.6082.json,custom
+40.667767,16.608177,ov_materia_prima_bistrot_40.6678_16.6082,Materia Prima Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/materia_prima_bistrot_40.6678_16.6082.json,custom
+40.667590,16.607920,ov_stone___ristorante__pizzeria__american_b_40.6676_16.6079,"STONE - Ristorante, Pizzeria, American Bar",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/stone_-_ristorante_pizzeria_american_bar_40.6676_16.6079.json,custom
+40.667410,16.607683,ov_osteria_san_giovanni_40.6674_16.6077,Osteria San Giovanni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_san_giovanni_40.6674_16.6077.json,custom
+40.667347,16.607641,ov_sushi_stone_40.6673_16.6076,Sushi Stone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sushi_stone_40.6673_16.6076.json,custom
+40.667330,16.607645,ov_la_grotta_nei_sassi_40.6673_16.6076,La Grotta nei Sassi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_grotta_nei_sassi_40.6673_16.6076.json,custom
+40.667033,16.607095,ov_san_biagio_ristorante_40.6670_16.6071,San Biagio Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/san_biagio_ristorante_40.6670_16.6071.json,custom
+40.667183,16.607136,ov_il_rusticone_40.6672_16.6071,Il Rusticone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_rusticone_40.6672_16.6071.json,custom
+40.667225,16.607490,ov_tipicamente_matera_40.6672_16.6075,Tipicamente Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/tipicamente_matera_40.6672_16.6075.json,custom
+40.667342,16.605454,ov_groove_40.6673_16.6055,GROOVE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/groove_40.6673_16.6055.json,custom
+40.667491,16.604529,ov_trattoria_lucana_40.6675_16.6045,Trattoria Lucana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_lucana_40.6675_16.6045.json,custom
+40.667221,16.604183,ov_methera_40.6672_16.6042,Methera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/methera_40.6672_16.6042.json,custom
+40.667102,16.604107,ov_panzerotto_40.6671_16.6041,Panzerotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panzerotto_40.6671_16.6041.json,custom
+40.667224,16.601672,ov_francesco_lamanna___live_your_food_exper_40.6672_16.6017,Francesco Lamanna - Live your Food Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/francesco_lamanna_-_live_your_food_exper_40.6672_16.6017.json,custom
+40.667227,16.601678,ov_base_caff__cucina_spiriti_40.6672_16.6017,BASE Caffè Cucina Spiriti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/base_caff_cucina_spiriti_40.6672_16.6017.json,custom
+40.668432,16.604406,ov_el_tablao_40.6684_16.6044,El Tablao,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/el_tablao_40.6684_16.6044.json,custom
+40.668770,16.602010,ov_a_tavola_40.6688_16.6020,A Tavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/a_tavola_40.6688_16.6020.json,custom
+40.668798,16.602230,ov_capitan_piada_40.6688_16.6022,Capitan Piada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/capitan_piada_40.6688_16.6022.json,custom
+40.668646,16.605968,ov_agriturismo_torre_spagnola_40.6686_16.6060,Agriturismo Torre Spagnola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_torre_spagnola_40.6686_16.6060.json,custom
+40.668973,16.605508,ov_ristorante_alle_fornaci_40.6690_16.6055,Ristorante Alle Fornaci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_alle_fornaci_40.6690_16.6055.json,custom
+40.668239,16.605723,ov_basquiat_40.6682_16.6057,Basquiat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/basquiat_40.6682_16.6057.json,custom
+40.668224,16.610339,ov_ristorante_da_nico_40.6682_16.6103,Ristorante da Nico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_da_nico_40.6682_16.6103.json,custom
+40.668163,16.610225,ov_madame_bracco_40.6682_16.6102,Madame Bracco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/madame_bracco_40.6682_16.6102.json,custom
+40.668349,16.608957,ov_san_pietro_barisano_residence_e_ristoran_40.6683_16.6090,San Pietro Barisano Residence e Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/san_pietro_barisano_residence_e_ristoran_40.6683_16.6090.json,custom
+40.668731,16.610935,ov_osteria_al_casale_40.6687_16.6109,Osteria al Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_al_casale_40.6687_16.6109.json,custom
+40.668672,16.609590,ov_la_nicchia_nel_sasso_40.6687_16.6096,La Nicchia nel Sasso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_nicchia_nel_sasso_40.6687_16.6096.json,custom
+40.669230,16.609361,ov_madame_giulia_40.6692_16.6094,Madame Giulia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/madame_giulia_40.6692_16.6094.json,custom
+40.669552,16.609372,ov_ristorante_baccus_40.6696_16.6094,Ristorante Baccus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_baccus_40.6696_16.6094.json,custom
+40.669689,16.609469,ov_giu_a_sud_40.6697_16.6095,Giu a Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/giu_a_sud_40.6697_16.6095.json,custom
+40.669970,16.609527,ov_austin_40.6700_16.6095,Austin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/austin_40.6700_16.6095.json,custom
+40.669985,16.608904,ov_trattoria_stano_40.6700_16.6089,Trattoria Stano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_stano_40.6700_16.6089.json,custom
+40.670111,16.605863,ov_casello_75_40.6701_16.6059,Casello 75,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/casello_75_40.6701_16.6059.json,custom
+40.670116,16.606565,ov_ohim__40.6701_16.6066,Ohimè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ohim_40.6701_16.6066.json,custom
+40.669866,16.606145,ov_mezzamaro_40.6699_16.6061,Mezzamaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mezzamaro_40.6699_16.6061.json,custom
+40.669757,16.606941,ov_i_sapori_senza_glutine_40.6698_16.6069,I Sapori Senza Glutine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/i_sapori_senza_glutine_40.6698_16.6069.json,custom
+40.669636,16.607102,ov_manga_sushi___pok__40.6696_16.6071,Manga Sushi & Pokè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/manga_sushi_pok_40.6696_16.6071.json,custom
+40.669552,16.607339,ov_ego_40.6696_16.6073,EGO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ego_40.6696_16.6073.json,custom
+40.669689,16.606066,ov_chi_mac_matera_40.6697_16.6061,CHI MAC Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/chi_mac_matera_40.6697_16.6061.json,custom
+40.670204,16.596909,ov_break_paradise_40.6702_16.5969,Break Paradise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/break_paradise_40.6702_16.5969.json,custom
+40.670110,16.595610,ov_la_gustosa_40.6701_16.5956,La Gustosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_gustosa_40.6701_16.5956.json,custom
+40.670170,16.595810,ov_al_kilimangiaro_40.6702_16.5958,Al Kilimangiaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/al_kilimangiaro_40.6702_16.5958.json,custom
+40.669066,16.600307,ov_sushi_1_40.6691_16.6003,Sushi 1,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sushi_1_40.6691_16.6003.json,custom
+40.669144,16.599947,ov_laddor_pizza_and_more_40.6691_16.5999,Laddor Pizza and More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/laddor_pizza_and_more_40.6691_16.5999.json,custom
+40.668754,16.591812,ov_pronto_pollo_40.6688_16.5918,Pronto Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pronto_pollo_40.6688_16.5918.json,custom
+40.670799,16.595171,ov_mimi_e_coco_lunch_40.6708_16.5952,Mimi e Coco Lunch,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mimi_e_coco_lunch_40.6708_16.5952.json,custom
+40.670397,16.596569,ov_sakana_40.6704_16.5966,Sakana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sakana_40.6704_16.5966.json,custom
+40.672167,16.593952,ov_pizzeria_number_one_40.6722_16.5940,Pizzeria Number One,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_number_one_40.6722_16.5940.json,custom
+40.672356,16.593518,ov_squisito_matera_40.6724_16.5935,Squisito Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/squisito_matera_40.6724_16.5935.json,custom
+40.672131,16.590956,ov_pizzeria_collodi_40.6721_16.5910,Pizzeria Collodi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_collodi_40.6721_16.5910.json,custom
+40.673479,16.586835,ov_a_barraca_40.6735_16.5868,A Barraca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/a_barraca_40.6735_16.5868.json,custom
+40.674114,16.591279,ov_pizzeria_punto_giusto___forno_a_legna_40.6741_16.5913,Pizzeria Punto Giusto...forno a legna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_punto_giustoforno_a_legna_40.6741_16.5913.json,custom
+40.673821,16.590527,ov_pizzeria_da_michelone_40.6738_16.5905,Pizzeria da Michelone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_da_michelone_40.6738_16.5905.json,custom
+40.673812,16.590457,ov_ubbos_braceria_40.6738_16.5905,UBBOS Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ubbos_braceria_40.6738_16.5905.json,custom
+40.672817,16.601853,ov_alldays_brunch_bar_40.6728_16.6019,Alldays Brunch Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/alldays_brunch_bar_40.6728_16.6019.json,custom
+40.672908,16.601150,ov_il_crostaceo_40.6729_16.6011,Il Crostaceo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_crostaceo_40.6729_16.6011.json,custom
+40.672650,16.605390,ov_pizzeria_la_panca_40.6726_16.6054,Pizzeria La Panca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_la_panca_40.6726_16.6054.json,custom
+40.673383,16.606911,ov_pizzeria_arcobaleno_40.6734_16.6069,Pizzeria Arcobaleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_arcobaleno_40.6734_16.6069.json,custom
+40.672113,16.603035,ov_matera_bella_40.6721_16.6030,Matera Bella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/matera_bella_40.6721_16.6030.json,custom
+40.671806,16.602093,ov_pizza_delivery_40.6718_16.6021,Pizza Delivery,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizza_delivery_40.6718_16.6021.json,custom
+40.671715,16.605849,ov_ristorante_pizzeria_da_nuccio_40.6717_16.6058,Ristorante Pizzeria da Nuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_pizzeria_da_nuccio_40.6717_16.6058.json,custom
+40.671634,16.607492,ov_braci___abbracci_40.6716_16.6075,Braci & Abbracci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/braci_abbracci_40.6716_16.6075.json,custom
+40.671577,16.607227,ov_gianni_s_40.6716_16.6072,Gianni's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/giannis_40.6716_16.6072.json,custom
+40.671096,16.608617,ov_ristorante_900_casa_taccardi_40.6711_16.6086,Ristorante'900 Casa Taccardi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante900_casa_taccardi_40.6711_16.6086.json,custom
+40.671035,16.608698,ov__900___wine___restaurant_40.6710_16.6087,'900 - Wine & Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/900_-_wine_restaurant_40.6710_16.6087.json,custom
+40.671064,16.605122,ov_pizzeria_da_aurelian_40.6711_16.6051,Pizzeria Da Aurelian,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_da_aurelian_40.6711_16.6051.json,custom
+40.671083,16.605170,ov_speedygonzales_40.6711_16.6052,Speedygonzales,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/speedygonzales_40.6711_16.6052.json,custom
+40.671200,16.604070,ov_baccanti_40.6712_16.6041,Baccanti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/baccanti_40.6712_16.6041.json,custom
+40.670511,16.606730,ov_altrapizza_40.6705_16.6067,altrapizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/altrapizza_40.6705_16.6067.json,custom
+40.670320,16.609269,ov_osteria_materami_40.6703_16.6093,Osteria Materami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_materami_40.6703_16.6093.json,custom
+40.670690,16.609160,ov_sant_agostino_40.6707_16.6092,Sant'Agostino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/santagostino_40.6707_16.6092.json,custom
+40.665727,16.611925,ov_ristorante_le_dodici_lune_40.6657_16.6119,Ristorante Le Dodici Lune,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_le_dodici_lune_40.6657_16.6119.json,custom
+40.665876,16.609273,ov_osteria_fave___cicorie_nuova_gestione_40.6659_16.6093,Osteria Fave & Cicorie Nuova Gestione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_fave_cicorie_nuova_gestione_40.6659_16.6093.json,custom
+40.665813,16.609427,ov_good_moment_s__matera_40.6658_16.6094,"Good Moment’s, Matera",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/good_moments_matera_40.6658_16.6094.json,custom
+40.665813,16.609639,ov_ristorante_la_gattabuia_40.6658_16.6096,Ristorante La Gattabuia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_la_gattabuia_40.6658_16.6096.json,custom
+40.665741,16.609619,ov_la_gatta_buia_40.6657_16.6096,La Gatta Buia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_gatta_buia_40.6657_16.6096.json,custom
+40.665505,16.609654,ov_da_nonna_lina_40.6655_16.6097,Da Nonna Lina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/da_nonna_lina_40.6655_16.6097.json,custom
+40.665618,16.612625,ov_baccanti_40.6656_16.6126,Baccanti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/baccanti_40.6656_16.6126.json,custom
+40.665314,16.609822,ov_creppiamo_di_fame_40.6653_16.6098,Creppiamo di fame,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/creppiamo_di_fame_40.6653_16.6098.json,custom
+40.665158,16.609452,ov_camerlingo_kitchen_cafe_40.6652_16.6095,Camerlingo Kitchen Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/camerlingo_kitchen_cafe_40.6652_16.6095.json,custom
+40.665196,16.609282,ov_bema_bevi_e_mangia_40.6652_16.6093,BEMA Bevi e Mangia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/bema_bevi_e_mangia_40.6652_16.6093.json,custom
+40.665124,16.610267,ov_dimora_ulmo_ristorante_40.6651_16.6103,Dimora Ulmo ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/dimora_ulmo_ristorante_40.6651_16.6103.json,custom
+40.664927,16.608977,ov_istanbul_kebab_40.6649_16.6090,Istanbul Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/istanbul_kebab_40.6649_16.6090.json,custom
+40.664837,16.609192,ov_pasteggiando_2_40.6648_16.6092,Pasteggiando 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pasteggiando_2_40.6648_16.6092.json,custom
+40.663731,16.611627,ov_era_convivial_cave_restaurant_40.6637_16.6116,Era Convivial Cave Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/era_convivial_cave_restaurant_40.6637_16.6116.json,custom
+40.663934,16.609385,ov_al_falco_grillaio_40.6639_16.6094,Al Falco Grillaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/al_falco_grillaio_40.6639_16.6094.json,custom
+40.664093,16.609354,ov_ai_palmenti_ristorante_40.6641_16.6094,Ai Palmenti Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ai_palmenti_ristorante_40.6641_16.6094.json,custom
+40.664269,16.611384,ov_san_pietro_bar_osteria__matera_40.6643_16.6114,"San Pietro Bar-Osteria, Matera",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/san_pietro_bar-osteria_matera_40.6643_16.6114.json,custom
+40.664532,16.611835,ov_keiv_ristorante_40.6645_16.6118,Keiv Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/keiv_ristorante_40.6645_16.6118.json,custom
+40.664423,16.611671,ov_ristorante_francesca_40.6644_16.6117,Ristorante Francesca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_francesca_40.6644_16.6117.json,custom
+40.664406,16.611646,ov_panecotto_40.6644_16.6116,Panecotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panecotto_40.6644_16.6116.json,custom
+40.664777,16.611366,ov_pi__sud_40.6648_16.6114,Più Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pi_sud_40.6648_16.6114.json,custom
+40.664631,16.609049,ov_l_antica_credenza_40.6646_16.6090,L'Antica Credenza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lantica_credenza_40.6646_16.6090.json,custom
+40.664788,16.609064,ov_ristorante_basilico_40.6648_16.6091,Ristorante Basilico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_basilico_40.6648_16.6091.json,custom
+40.664780,16.607690,ov_ristorante_don_matteo__di_donato_malacar_40.6648_16.6077,Ristorante Don Matteo  di Donato Malacarne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_don_matteo_di_donato_malacarn_40.6648_16.6077.json,custom
+40.664627,16.605794,ov_paradiso_del_boschetto_40.6646_16.6058,Paradiso del boschetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/paradiso_del_boschetto_40.6646_16.6058.json,custom
+40.664290,16.608780,ov_patata_shop_40.6643_16.6088,Patata Shop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/patata_shop_40.6643_16.6088.json,custom
+40.664624,16.602595,ov_noce_di_burro_40.6646_16.6026,Noce di Burro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/noce_di_burro_40.6646_16.6026.json,custom
+40.665264,16.602124,ov_pi__pizza_40.6653_16.6021,Più Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pi_pizza_40.6653_16.6021.json,custom
+40.664883,16.608537,ov_hemingway_s_bistrot_40.6649_16.6085,Hemingway's Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/hemingways_bistrot_40.6649_16.6085.json,custom
+40.665075,16.608525,ov_la_fedda_rossa_40.6651_16.6085,La Fedda Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_fedda_rossa_40.6651_16.6085.json,custom
+40.664979,16.607846,ov_ristorante_burro_salato_40.6650_16.6078,Ristorante Burro Salato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_burro_salato_40.6650_16.6078.json,custom
+40.665161,16.608605,ov_osteria_san_francesco_40.6652_16.6086,Osteria San Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_san_francesco_40.6652_16.6086.json,custom
+40.665351,16.608102,ov_da_nord_a_food_40.6654_16.6081,Da Nord a Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/da_nord_a_food_40.6654_16.6081.json,custom
+40.665587,16.608276,ov_mercato_24_40.6656_16.6083,Mercato 24,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mercato_24_40.6656_16.6083.json,custom
+40.665653,16.607495,ov_ciboom_40.6657_16.6075,Ciboom,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ciboom_40.6657_16.6075.json,custom
+40.665832,16.608048,ov_piadi_piadineria_artigianale_40.6658_16.6080,Piadi Piadineria Artigianale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/piadi_piadineria_artigianale_40.6658_16.6080.json,custom
+40.665901,16.608237,ov_osteria_l_arco_40.6659_16.6082,Osteria L'Arco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_larco_40.6659_16.6082.json,custom
+40.665898,16.606114,ov_pizzeria_costellazioni_40.6659_16.6061,Pizzeria Costellazioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_costellazioni_40.6659_16.6061.json,custom
+40.665688,16.603609,ov_sottofondo_gustoteca_40.6657_16.6036,Sottofondo Gustoteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sottofondo_gustoteca_40.6657_16.6036.json,custom
+40.665688,16.603609,ov_pizzeria_lucana_40.6657_16.6036,Pizzeria Lucana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_lucana_40.6657_16.6036.json,custom
+40.665449,16.602230,ov_divine_creazioni_40.6654_16.6022,Divine Creazioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/divine_creazioni_40.6654_16.6022.json,custom
+40.663718,16.599849,ov_ristorante_moro_40.6637_16.5998,Ristorante Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_moro_40.6637_16.5998.json,custom
+40.663710,16.598722,ov_buon_appetito_40.6637_16.5987,Buon Appetito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/buon_appetito_40.6637_16.5987.json,custom
+40.663590,16.608100,ov_fuji_ristorante_matera_40.6636_16.6081,Fuji Ristorante Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/fuji_ristorante_matera_40.6636_16.6081.json,custom
+40.663682,16.607984,ov_da_nonna_rosa_40.6637_16.6080,Da Nonna Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/da_nonna_rosa_40.6637_16.6080.json,custom
+40.663352,16.608367,ov_ridola_ristorante_40.6634_16.6084,Ridola Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ridola_ristorante_40.6634_16.6084.json,custom
+40.663046,16.606713,ov_laltrapizza_matera_40.6630_16.6067,Laltrapizza Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/laltrapizza_matera_40.6630_16.6067.json,custom
+40.662644,16.609027,ov_l_acquasotto_40.6626_16.6090,L'acquasotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lacquasotto_40.6626_16.6090.json,custom
+40.662831,16.609474,ov_trattoria_paolangelo_40.6628_16.6095,Trattoria Paolangelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_paolangelo_40.6628_16.6095.json,custom
+40.662770,16.609350,ov_la_pignata_40.6628_16.6094,La Pignata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_pignata_40.6628_16.6094.json,custom
+40.662657,16.611491,ov_pane_pomodoro_40.6627_16.6115,Pane&pomodoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panepomodoro_40.6627_16.6115.json,custom
+40.663145,16.609906,ov_ristorante_pizzeria_van_gogh_40.6631_16.6099,Ristorante Pizzeria Van Gogh,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_pizzeria_van_gogh_40.6631_16.6099.json,custom
+40.663004,16.609746,ov_la_latteria_40.6630_16.6097,La Latteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_latteria_40.6630_16.6097.json,custom
+40.663259,16.609806,ov_hemingway_ristorante_fingest_srl_40.6633_16.6098,Hemingway Ristorante Fingest SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/hemingway_ristorante_fingest_srl_40.6633_16.6098.json,custom
+40.663397,16.609934,ov_5_lire_matera_40.6634_16.6099,5 Lire Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/5_lire_matera_40.6634_16.6099.json,custom
+40.663432,16.609814,ov_taverna_la_focagna_40.6634_16.6098,Taverna La Focagna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/taverna_la_focagna_40.6634_16.6098.json,custom
+40.663331,16.609724,ov_aroma_ristorante_40.6633_16.6097,Aroma Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/aroma_ristorante_40.6633_16.6097.json,custom
+40.663484,16.609626,ov_pizza_alla_goccia_40.6635_16.6096,Pizza alla Goccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizza_alla_goccia_40.6635_16.6096.json,custom
+40.663711,16.611489,ov_panvigna_40.6637_16.6115,Panvigna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panvigna_40.6637_16.6115.json,custom
+40.663398,16.611574,ov_il_quarto_storto_40.6634_16.6116,Il Quarto Storto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_quarto_storto_40.6634_16.6116.json,custom
+40.663311,16.611689,ov_taverna_re_manfredi_40.6633_16.6117,Taverna Re Manfredi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/taverna_re_manfredi_40.6633_16.6117.json,custom
+40.663227,16.611587,ov_la_grotta_del_gusto_40.6632_16.6116,La Grotta Del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_grotta_del_gusto_40.6632_16.6116.json,custom
+40.662375,16.611384,ov_vicoprimitivo_40.6624_16.6114,Vicoprimitivo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/vicoprimitivo_40.6624_16.6114.json,custom
+40.662547,16.610432,ov_ristorante_soul_kitchen_40.6625_16.6104,Ristorante Soul Kitchen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_soul_kitchen_40.6625_16.6104.json,custom
+40.662541,16.610247,ov_quid_trattoria_murgiana_40.6625_16.6102,Quid Trattoria Murgiana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/quid_trattoria_murgiana_40.6625_16.6102.json,custom
+40.662410,16.610475,ov_l_antica_credenza_40.6624_16.6105,L'Antica Credenza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lantica_credenza_40.6624_16.6105.json,custom
+40.662326,16.610298,ov_bollicine_bistrot_40.6623_16.6103,Bollicine Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/bollicine_bistrot_40.6623_16.6103.json,custom
+40.662109,16.610144,ov_il_pettolino_40.6621_16.6101,Il Pettolino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/il_pettolino_40.6621_16.6101.json,custom
+40.662179,16.611255,ov_radino_wine_bistrot___cigar_room_40.6622_16.6113,Radino Wine Bistrot & Cigar Room,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/radino_wine_bistrot_cigar_room_40.6622_16.6113.json,custom
+40.662180,16.611032,ov_la_lopa_40.6622_16.6110,La Lopa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_lopa_40.6622_16.6110.json,custom
+40.662208,16.610809,ov_retr_bottega_matera_40.6622_16.6108,Retròbottega Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/retrbottega_matera_40.6622_16.6108.json,custom
+40.662267,16.611125,ov_trattoria_del_caveoso_40.6623_16.6111,Trattoria del Caveoso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_del_caveoso_40.6623_16.6111.json,custom
+40.662341,16.611423,ov_da_mo__ristorante_40.6623_16.6114,DA_MO' ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/damo_ristorante_40.6623_16.6114.json,custom
+40.662347,16.612062,ov_stone_age_matera_40.6623_16.6121,Stone Age Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/stone_age_matera_40.6623_16.6121.json,custom
+40.662060,16.610656,ov_morgan_restaurant_40.6621_16.6107,Morgan Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/morgan_restaurant_40.6621_16.6107.json,custom
+40.661918,16.609431,ov_osteria_dei_sassi_40.6619_16.6094,Osteria dei Sassi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/osteria_dei_sassi_40.6619_16.6094.json,custom
+40.661816,16.610206,ov_dalla_padella_alla_brace_40.6618_16.6102,Dalla Padella alla Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/dalla_padella_alla_brace_40.6618_16.6102.json,custom
+40.661557,16.610047,ov_ristogourmet_antino_40.6616_16.6100,Ristogourmet Antino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristogourmet_antino_40.6616_16.6100.json,custom
+40.661554,16.610071,ov_dimitria_il_ristorante_40.6616_16.6101,Dimitria il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/dimitria_il_ristorante_40.6616_16.6101.json,custom
+40.661139,16.612294,ov_bistrot_al_caveau_40.6611_16.6123,Bistrot Al Caveau,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/bistrot_al_caveau_40.6611_16.6123.json,custom
+40.660917,16.611357,ov_dilu_takeaway_40.6609_16.6114,Dilu Takeaway,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/dilu_takeaway_40.6609_16.6114.json,custom
+40.660966,16.611249,ov_sushi_unique_matera___sushi_box__tube____40.6610_16.6112,"Sushi Unique Matera | SUSHI BOX, TUBE & MORE",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sushi_unique_matera_sushi_box_tube_more_40.6610_16.6112.json,custom
+40.659581,16.614766,ov_pizzeria_speedy_gonzales_40.6596_16.6148,Pizzeria Speedy Gonzales,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_speedy_gonzales_40.6596_16.6148.json,custom
+40.657490,16.608270,ov_agriturismo_masseria_del_pantaleone_40.6575_16.6083,Agriturismo Masseria Del Pantaleone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_masseria_del_pantaleone_40.6575_16.6083.json,custom
+40.658891,16.607276,ov_birrosteria_40.6589_16.6073,Birrosteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/birrosteria_40.6589_16.6073.json,custom
+40.659316,16.614593,ov_mavi_40.6593_16.6146,Mavi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mavi_40.6593_16.6146.json,custom
+40.683536,16.592573,ov_puligros_40.6835_16.5926,Puligros,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/puligros_40.6835_16.5926.json,custom
+40.680086,16.623903,ov_ristorante_pizzeria_da_peppone_40.6801_16.6239,Ristorante Pizzeria da Peppone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_pizzeria_da_peppone_40.6801_16.6239.json,custom
+40.676808,16.599356,ov_u_mangiaridd_40.6768_16.5994,U'Mangiaridd,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/umangiaridd_40.6768_16.5994.json,custom
+40.676682,16.597583,ov_l_angolo_del_sapore_40.6767_16.5976,L'Angolo del Sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/langolo_del_sapore_40.6767_16.5976.json,custom
+40.676087,16.599423,ov_cuordipizza_40.6761_16.5994,CuordiPizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cuordipizza_40.6761_16.5994.json,custom
+40.675513,16.599453,ov_sapore_di_mare_40.6755_16.5995,Sapore di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sapore_di_mare_40.6755_16.5995.json,custom
+40.675641,16.599198,ov_pasta_fresca_la_spiga_d_oro_40.6756_16.5992,Pasta Fresca La Spiga D'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pasta_fresca_la_spiga_doro_40.6756_16.5992.json,custom
+40.675247,16.599498,ov_secret_burger_society_matera_40.6752_16.5995,Secret Burger Society Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/secret_burger_society_matera_40.6752_16.5995.json,custom
+40.675959,16.589434,ov_mr__kebab_40.6760_16.5894,Mr. Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mr_kebab_40.6760_16.5894.json,custom
+40.677440,16.587380,ov_antonio_lieto_pizzeria_40.6774_16.5874,Antonio Lieto Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/antonio_lieto_pizzeria_40.6774_16.5874.json,custom
+40.677685,16.592180,ov_clint_urban_kitchen_40.6777_16.5922,Clint Urban Kitchen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/clint_urban_kitchen_40.6777_16.5922.json,custom
+40.677497,16.591717,ov_pizza_export_40.6775_16.5917,Pizza Export,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizza_export_40.6775_16.5917.json,custom
+40.678138,16.593739,ov_i_cinque_sensi_40.6781_16.5937,I Cinque Sensi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/i_cinque_sensi_40.6781_16.5937.json,custom
+40.678658,16.594311,ov_la_rivincita___braceria_e_steakhouse_40.6787_16.5943,La Rivincita - Braceria e Steakhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_rivincita_-_braceria_e_steakhouse_40.6787_16.5943.json,custom
+40.678294,16.593246,ov_pizzeria_san_pardo_di_gaudiano_anna_luci_40.6783_16.5932,Pizzeria SAN Pardo di Gaudiano Anna Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_san_pardo_di_gaudiano_anna_luci_40.6783_16.5932.json,custom
+40.678642,16.587061,ov_pizzeria_one_the_original_40.6786_16.5871,Pizzeria One The Original,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_one_the_original_40.6786_16.5871.json,custom
+40.679500,16.588080,ov_panificio_de_palo_bar_bakery_40.6795_16.5881,Panificio De Palo Bar Bakery,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panificio_de_palo_bar_bakery_40.6795_16.5881.json,custom
+40.683284,16.586165,ov_pizzeria_i_peucezi_40.6833_16.5862,Pizzeria I Peucezi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/pizzeria_i_peucezi_40.6833_16.5862.json,custom
+40.681371,16.581329,ov_panegusto_40.6814_16.5813,Panegusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/panegusto_40.6814_16.5813.json,custom
+40.681120,16.582750,ov_agriturismo_le_matinelle_40.6811_16.5828,Agriturismo Le Matinelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_le_matinelle_40.6811_16.5828.json,custom
+40.678113,16.580992,ov_otello_pizza_40.6781_16.5810,Otello Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/otello_pizza_40.6781_16.5810.json,custom
+40.678680,16.581092,ov_fuori_orario_40.6787_16.5811,Fuori Orario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/fuori_orario_40.6787_16.5811.json,custom
+40.677439,16.574124,ov_hamilton_40.6774_16.5741,Hamilton,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/hamilton_40.6774_16.5741.json,custom
+40.677913,16.575579,ov_sat_ristorazione_matera_40.6779_16.5756,SAT Ristorazione Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sat_ristorazione_matera_40.6779_16.5756.json,custom
+40.676711,16.580136,ov_rugantino_40.6767_16.5801,Rugantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/rugantino_40.6767_16.5801.json,custom
+40.675602,16.584299,ov_cibus_40.6756_16.5843,Cibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cibus_40.6756_16.5843.json,custom
+40.675429,16.584229,ov_easy_meat__la_carne_speciale__40.6754_16.5842,Easy Meat. La carne speciale.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/easy_meat_la_carne_speciale_40.6754_16.5842.json,custom
+40.675630,16.574272,ov_stand_up_pizzeria_ristorante_40.6756_16.5743,Stand-Up Pizzeria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/stand-up_pizzeria_ristorante_40.6756_16.5743.json,custom
+40.684123,16.577232,ov_blumare_pescheria_40.6841_16.5772,Blumare Pescheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/blumare_pescheria_40.6841_16.5772.json,custom
+40.683771,16.577093,ov_palatofino_40.6838_16.5771,Palatofino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/palatofino_40.6838_16.5771.json,custom
+40.683456,16.577483,ov_un_girotondo_di_pizza_aquarium_40.6835_16.5775,Un Girotondo di Pizza Aquarium,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/un_girotondo_di_pizza_aquarium_40.6835_16.5775.json,custom
+40.686324,16.568353,ov_wood_house___matera_40.6863_16.5684,Wood House - Matera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/wood_house_-_matera_40.6863_16.5684.json,custom
+40.687820,16.568320,ov_sport_village_40.6878_16.5683,Sport Village,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/sport_village_40.6878_16.5683.json,custom
+40.689041,16.540943,ov_le_matinelle_40.6890_16.5409,Le Matinelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/le_matinelle_40.6890_16.5409.json,custom
+40.697558,16.530541,ov_agriturismo_le_matinelle_40.6976_16.5305,Agriturismo Le Matinelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/agriturismo_le_matinelle_40.6976_16.5305.json,custom
+40.699933,16.585803,ov_i_giardini_della_corte_40.6999_16.5858,I Giardini della Corte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/i_giardini_della_corte_40.6999_16.5858.json,custom
+40.721660,16.575788,ov_coop_40.7217_16.5758,Coop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/coop_40.7217_16.5758.json,custom
+40.721983,16.574437,ov_bar_ristorante_sarni_40.7220_16.5744,Bar Ristorante Sarni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/bar_ristorante_sarni_40.7220_16.5744.json,custom
+40.716675,16.646679,ov_palatofino_40.7167_16.6467,Palatofino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/palatofino_40.7167_16.6467.json,custom
+40.706758,16.705956,ov_el_carnero_braceria_40.7068_16.7060,El Carnero Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/el_carnero_braceria_40.7068_16.7060.json,custom
+40.661147,16.612427,osm_enosteria_mataduva_40.6611_16.6124,Enosteria Mataduva,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/enosteria_mataduva_40.6611_16.6124.json,custom
+40.662397,16.610622,osm_la_locanda_del_vicinato_40.6624_16.6106,La Locanda del Vicinato,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/la_locanda_del_vicinato_40.6624_16.6106.json,custom
+40.669744,16.603261,osm_alimenti_doc_40.6697_16.6033,Alimenti Doc,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/alimenti_doc_40.6697_16.6033.json,custom
+40.669966,16.608815,osm_stano_40.6700_16.6088,Stano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/stano_40.6700_16.6088.json,custom
+40.666532,16.603984,osm_giro_tondo_pizzeria_40.6665_16.6040,Giro Tondo pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/giro_tondo_pizzeria_40.6665_16.6040.json,custom
+40.669465,16.609502,osm_lacapagira_40.6695_16.6095,Lacapagira,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/lacapagira_40.6695_16.6095.json,custom
+40.662032,16.610723,osm_morgan_40.6620_16.6107,Morgan,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/morgan_40.6620_16.6107.json,custom
+40.671214,16.608711,osm__900_restaurant_40.6712_16.6087,'900 Restaurant,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/900_restaurant_40.6712_16.6087.json,custom
+40.668949,16.605534,osm_alle_fornaci_40.6689_16.6055,Alle Fornaci,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/alle_fornaci_40.6689_16.6055.json,custom
+40.664158,16.609141,osm_mosto_40.6642_16.6091,Mosto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/mosto_40.6642_16.6091.json,custom
+40.664071,16.609420,osm_shibuya_40.6641_16.6094,Shibuya,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/shibuya_40.6641_16.6094.json,custom
+40.664795,16.609093,osm_basilico_40.6648_16.6091,Basilico,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/basilico_40.6648_16.6091.json,custom
+40.665575,16.609889,osm_san_biaggio_40.6656_16.6099,san biaggio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/san_biaggio_40.6656_16.6099.json,custom
+40.667311,16.610346,osm_oi_mar__ristorante_40.6673_16.6103,Oi Marì Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/oi_mar_ristorante_40.6673_16.6103.json,custom
+40.665185,16.608433,osm_fior_di_cucuzza_40.6652_16.6084,Fior di Cucuzza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/fior_di_cucuzza_40.6652_16.6084.json,custom
+40.662837,16.609417,osm_ristorante_pizzeria_paolangelo_40.6628_16.6094,Ristorante Pizzeria Paolangelo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/ristorante_pizzeria_paolangelo_40.6628_16.6094.json,custom
+40.666386,16.613447,osm_trattoria_i_due_sassi_40.6664_16.6134,Trattoria i Due Sassi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_i_due_sassi_40.6664_16.6134.json,custom
+40.666347,16.608570,osm_cibinium_40.6663_16.6086,Cibinium,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/cibinium_40.6663_16.6086.json,custom
+40.667531,16.604535,osm_trattoria_lucana_40.6675_16.6045,Trattoria Lucana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/trattoria_lucana_40.6675_16.6045.json,custom
+40.643005,16.617331,osm_masseria_fortificata_san_francesco_40.6430_16.6173,Masseria Fortificata San Francesco,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/masseria_fortificata_san_francesco_40.6430_16.6173.json,custom
+40.669101,16.609582,osm_gi__a_sud_bistrot_nei_sassi_40.6691_16.6096,Giù a Sud Bistrot nei Sassi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/gi_a_sud_bistrot_nei_sassi_40.6691_16.6096.json,custom
+40.669651,16.609452,osm_gi__a_sud___bistrot_nei_sassi___40.6697_16.6095,Giù a Sud - Bistrot nei Sassi -,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/gi_a_sud_-_bistrot_nei_sassi_-_40.6697_16.6095.json,custom
+40.663640,16.609515,osm_alba_lucana_40.6636_16.6095,Alba Lucana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/matera/pages/alba_lucana_40.6636_16.6095.json,custom

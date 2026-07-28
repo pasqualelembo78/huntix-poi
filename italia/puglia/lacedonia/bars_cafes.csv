@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lacedonia -- bars_cafes
-41.051510,15.423258,ov_officine_171_41.0515_15.4233,Officine 171,RESTAURANT,bar_cafe
-41.050447,15.421565,ov_bar_vi2_41.0504_15.4216,Bar Vi2,RESTAURANT,bar_cafe
-41.050162,15.423046,ov_bar_centrale_zichella_41.0502_15.4230,Bar Centrale Zichella,RESTAURANT,bar_cafe
+41.051510,15.423258,ov_officine_171_41.0515_15.4233,Officine 171,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lacedonia/pages/officine_171_41.0515_15.4233.json,custom
+41.050447,15.421565,ov_bar_vi2_41.0504_15.4216,Bar Vi2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lacedonia/pages/bar_vi2_41.0504_15.4216.json,custom
+41.050162,15.423046,ov_bar_centrale_zichella_41.0502_15.4230,Bar Centrale Zichella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lacedonia/pages/bar_centrale_zichella_41.0502_15.4230.json,custom

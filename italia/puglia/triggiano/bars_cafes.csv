@@ -1,29 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # triggiano -- bars_cafes
-41.056826,16.700846,ov_merion___different_coffee_41.0568_16.7008,Merion - Different Coffee,RESTAURANT,bar_cafe
-41.069532,16.932734,ov_chantal___la_pasticceria_41.0695_16.9327,Chantal - La Pasticceria,RESTAURANT,bar_cafe
-41.065868,16.933366,ov_alete_di_delmedico_teresa_41.0659_16.9334,Alete di Delmedico Teresa,RESTAURANT,bar_cafe
-41.066470,16.929849,ov_maison_caffe_41.0665_16.9298,Maison Caffe,RESTAURANT,bar_cafe
-41.065821,16.924593,ov_sabri_cafe_41.0658_16.9246,Sabri Cafe,RESTAURANT,bar_cafe
-41.066480,16.924567,ov_bar_delle_rose_41.0665_16.9246,Bar Delle Rose,RESTAURANT,bar_cafe
-41.065235,16.920924,ov_piccolo_caffe_borghese_41.0652_16.9209,Piccolo Caffe Borghese,RESTAURANT,bar_cafe
-41.064967,16.920666,ov_dolce_caff__41.0650_16.9207,Dolce Caffè,RESTAURANT,bar_cafe
-41.064950,16.919590,ov_uil_caf_patronato_triggiano_41.0650_16.9196,UIL CAF Patronato Triggiano,RESTAURANT,bar_cafe
-41.063681,16.911534,ov_punto_bar_41.0637_16.9115,Punto Bar,RESTAURANT,bar_cafe
-41.063164,16.917129,ov_vadas____h24_41.0632_16.9171,Vadasé - H24,RESTAURANT,bar_cafe
-41.063128,16.918685,ov_caffetteria_degustibus_41.0631_16.9187,Caffetteria Degustibus,RESTAURANT,bar_cafe
-41.063198,16.928200,ov_bet_cafe_41.0632_16.9282,Bet Cafe,RESTAURANT,bar_cafe
-41.063604,16.926011,ov_caffetteria_fantasy_di_mancini_michele_41.0636_16.9260,Caffetteria Fantasy di Mancini Michele,RESTAURANT,bar_cafe
-41.064893,16.924133,ov_bar_fantasy_41.0649_16.9241,Bar Fantasy,RESTAURANT,bar_cafe
-41.065650,16.924802,ov_pasticceria_viennese_41.0656_16.9248,Pasticceria Viennese,RESTAURANT,bar_cafe
-41.062435,16.926691,ov_bar_primavera_41.0624_16.9267,Bar Primavera,RESTAURANT,bar_cafe
-41.060888,16.923656,ov_red_cafe_41.0609_16.9237,Red Cafe,RESTAURANT,bar_cafe
-41.062018,16.916346,ov_bar_viennese_41.0620_16.9163,Bar Viennese,RESTAURANT,bar_cafe
-41.062916,16.916380,ov_gran_kali_caff__41.0629_16.9164,Gran Kali Caffè,RESTAURANT,bar_cafe
-41.062846,16.914541,ov_gran_caffe_royal_41.0628_16.9145,Gran Caffe Royal,RESTAURANT,bar_cafe
-41.061934,16.912487,ov_hub_coffee_drinks_and_events_41.0619_16.9125,Hub Coffee Drinks and Events,RESTAURANT,bar_cafe
-41.062718,16.911643,ov_royal_41.0627_16.9116,Royal,RESTAURANT,bar_cafe
-41.062424,16.911761,ov_gran_caffe_imperiale_41.0624_16.9118,Gran Caffe Imperiale,RESTAURANT,bar_cafe
-41.057280,16.934891,ov_kaleido_club_41.0573_16.9349,Kaleido club,RESTAURANT,bar_cafe
-41.082834,16.947103,ov_kia_caf__41.0828_16.9471,Kia Cafè,RESTAURANT,bar_cafe
-41.083138,16.946866,ov_pagiuro_caff__41.0831_16.9469,Pagiuro Caffè,RESTAURANT,bar_cafe
+41.056826,16.700846,ov_merion___different_coffee_41.0568_16.7008,Merion - Different Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/merion_-_different_coffee_41.0568_16.7008.json,custom
+41.069532,16.932734,ov_chantal___la_pasticceria_41.0695_16.9327,Chantal - La Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/chantal_-_la_pasticceria_41.0695_16.9327.json,custom
+41.065868,16.933366,ov_alete_di_delmedico_teresa_41.0659_16.9334,Alete di Delmedico Teresa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/alete_di_delmedico_teresa_41.0659_16.9334.json,custom
+41.066470,16.929849,ov_maison_caffe_41.0665_16.9298,Maison Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/maison_caffe_41.0665_16.9298.json,custom
+41.065821,16.924593,ov_sabri_cafe_41.0658_16.9246,Sabri Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/sabri_cafe_41.0658_16.9246.json,custom
+41.066480,16.924567,ov_bar_delle_rose_41.0665_16.9246,Bar Delle Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/bar_delle_rose_41.0665_16.9246.json,custom
+41.065235,16.920924,ov_piccolo_caffe_borghese_41.0652_16.9209,Piccolo Caffe Borghese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/piccolo_caffe_borghese_41.0652_16.9209.json,custom
+41.064967,16.920666,ov_dolce_caff__41.0650_16.9207,Dolce Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/dolce_caff_41.0650_16.9207.json,custom
+41.064950,16.919590,ov_uil_caf_patronato_triggiano_41.0650_16.9196,UIL CAF Patronato Triggiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/uil_caf_patronato_triggiano_41.0650_16.9196.json,custom
+41.063681,16.911534,ov_punto_bar_41.0637_16.9115,Punto Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/punto_bar_41.0637_16.9115.json,custom
+41.063164,16.917129,ov_vadas____h24_41.0632_16.9171,Vadasé - H24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/vadas_-_h24_41.0632_16.9171.json,custom
+41.063128,16.918685,ov_caffetteria_degustibus_41.0631_16.9187,Caffetteria Degustibus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/caffetteria_degustibus_41.0631_16.9187.json,custom
+41.063198,16.928200,ov_bet_cafe_41.0632_16.9282,Bet Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/bet_cafe_41.0632_16.9282.json,custom
+41.063604,16.926011,ov_caffetteria_fantasy_di_mancini_michele_41.0636_16.9260,Caffetteria Fantasy di Mancini Michele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/caffetteria_fantasy_di_mancini_michele_41.0636_16.9260.json,custom
+41.064893,16.924133,ov_bar_fantasy_41.0649_16.9241,Bar Fantasy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/bar_fantasy_41.0649_16.9241.json,custom
+41.065650,16.924802,ov_pasticceria_viennese_41.0656_16.9248,Pasticceria Viennese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/pasticceria_viennese_41.0656_16.9248.json,custom
+41.062435,16.926691,ov_bar_primavera_41.0624_16.9267,Bar Primavera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/bar_primavera_41.0624_16.9267.json,custom
+41.060888,16.923656,ov_red_cafe_41.0609_16.9237,Red Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/red_cafe_41.0609_16.9237.json,custom
+41.062018,16.916346,ov_bar_viennese_41.0620_16.9163,Bar Viennese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/bar_viennese_41.0620_16.9163.json,custom
+41.062916,16.916380,ov_gran_kali_caff__41.0629_16.9164,Gran Kali Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/gran_kali_caff_41.0629_16.9164.json,custom
+41.062846,16.914541,ov_gran_caffe_royal_41.0628_16.9145,Gran Caffe Royal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/gran_caffe_royal_41.0628_16.9145.json,custom
+41.061934,16.912487,ov_hub_coffee_drinks_and_events_41.0619_16.9125,Hub Coffee Drinks and Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/hub_coffee_drinks_and_events_41.0619_16.9125.json,custom
+41.062718,16.911643,ov_royal_41.0627_16.9116,Royal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/royal_41.0627_16.9116.json,custom
+41.062424,16.911761,ov_gran_caffe_imperiale_41.0624_16.9118,Gran Caffe Imperiale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/gran_caffe_imperiale_41.0624_16.9118.json,custom
+41.057280,16.934891,ov_kaleido_club_41.0573_16.9349,Kaleido club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/kaleido_club_41.0573_16.9349.json,custom
+41.082834,16.947103,ov_kia_caf__41.0828_16.9471,Kia Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/kia_caf_41.0828_16.9471.json,custom
+41.083138,16.946866,ov_pagiuro_caff__41.0831_16.9469,Pagiuro Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/triggiano/pages/pagiuro_caff_41.0831_16.9469.json,custom

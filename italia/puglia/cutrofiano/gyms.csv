@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cutrofiano -- gyms
-40.124380,18.202760,ov_palestra_flex_gym_and_wellness_40.1244_18.2028,Palestra Flex Gym and Wellness,GYM,palestra
-40.124035,18.200746,ov_armeria_brigante_caccia_40.1240_18.2007,Armeria Brigante Caccia,GYM,palestra
-40.130107,18.208015,ov_gym_fitness_40.1301_18.2080,Gym Fitness,GYM,palestra
+40.124380,18.202760,ov_palestra_flex_gym_and_wellness_40.1244_18.2028,Palestra Flex Gym and Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/palestra_flex_gym_and_wellness_40.1244_18.2028.json,custom
+40.124035,18.200746,ov_armeria_brigante_caccia_40.1240_18.2007,Armeria Brigante Caccia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/armeria_brigante_caccia_40.1240_18.2007.json,custom
+40.130107,18.208015,ov_gym_fitness_40.1301_18.2080,Gym Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/gym_fitness_40.1301_18.2080.json,custom

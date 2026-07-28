@@ -1,25 +1,25 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # apricena -- bars_cafes
-41.800274,15.500569,ov_cavatappi_41.8003_15.5006,Cavatappi,RESTAURANT,bar_cafe
-41.784544,15.451246,ov_bar_tabacchi_il_migliore_41.7845_15.4512,Bar Tabacchi Il Migliore,RESTAURANT,bar_cafe
-41.785074,15.447685,ov_business_cafe_41.7851_15.4477,Business Cafe,RESTAURANT,bar_cafe
-41.782565,15.446506,ov_bar_centrale_41.7826_15.4465,Bar Centrale,RESTAURANT,bar_cafe
-41.782688,15.446575,ov_micro_bar_41.7827_15.4466,Micro bar,RESTAURANT,bar_cafe
-41.782823,15.446303,ov_the_one_caf__41.7828_15.4463,The One Café,RESTAURANT,bar_cafe
-41.782497,15.445991,ov_fitzgerald_bar_41.7825_15.4460,Fitzgerald Bar,RESTAURANT,bar_cafe
-41.782967,15.445542,ov_green_music_school_del_sud_41.7830_15.4455,Green Music School del Sud,RESTAURANT,bar_cafe
-41.785144,15.445708,ov_bar_civico_82_41.7851_15.4457,Bar Civico 82,RESTAURANT,bar_cafe
-41.787200,15.446302,ov_alma_cafe_41.7872_15.4463,Alma Cafe,RESTAURANT,bar_cafe
-41.802505,15.444404,ov_pummarella_apricena_41.8025_15.4444,Pummarella Apricena,RESTAURANT,bar_cafe
-41.788303,15.437808,ov_freedom_lounge_bar_apricena_41.7883_15.4378,Freedom Lounge Bar Apricena,RESTAURANT,bar_cafe
-41.790057,15.437895,ov_drink_bar_41.7901_15.4379,Drink Bar,RESTAURANT,bar_cafe
-41.789270,15.438494,ov_2_0_ristopub_41.7893_15.4385,2.0 RistoPub,RESTAURANT,bar_cafe
-41.784980,15.440240,ov_caffetteria_del_corso__apricena_41.7850_15.4402,Caffetteria del corso  Apricena,RESTAURANT,bar_cafe
-41.784087,15.442002,ov_crema_e_cioccolato_41.7841_15.4420,Crema e cioccolato,RESTAURANT,bar_cafe
-41.784722,15.442163,ov_tavernacolo_apricena_41.7847_15.4422,Tavernacolo Apricena,RESTAURANT,bar_cafe
-41.783620,15.444394,ov_bar_excelsior_41.7836_15.4444,Bar Excelsior,RESTAURANT,bar_cafe
-41.778784,15.437455,ov_caffetteria_la_mi_vida_41.7788_15.4375,Caffetteria La Mi Vida,RESTAURANT,bar_cafe
-41.770370,15.429933,ov_gru_pizzicoli_41.7704_15.4299,gru_pizzicoli,RESTAURANT,bar_cafe
-41.763646,15.427055,ov_artis___beer_lab_41.7636_15.4271,Artis - Beer Lab,RESTAURANT,bar_cafe
-41.780235,15.447210,ov_lato_opposto_41.7802_15.4472,Lato Opposto,RESTAURANT,bar_cafe
-41.788492,15.441758,osm_l_arte_di_luciano_41.7885_15.4418,L'Arte di Luciano,bar_cafe,bar_cafe
+41.800274,15.500569,ov_cavatappi_41.8003_15.5006,Cavatappi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/cavatappi_41.8003_15.5006.json,custom
+41.784544,15.451246,ov_bar_tabacchi_il_migliore_41.7845_15.4512,Bar Tabacchi Il Migliore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/bar_tabacchi_il_migliore_41.7845_15.4512.json,custom
+41.785074,15.447685,ov_business_cafe_41.7851_15.4477,Business Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/business_cafe_41.7851_15.4477.json,custom
+41.782565,15.446506,ov_bar_centrale_41.7826_15.4465,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/bar_centrale_41.7826_15.4465.json,custom
+41.782688,15.446575,ov_micro_bar_41.7827_15.4466,Micro bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/micro_bar_41.7827_15.4466.json,custom
+41.782823,15.446303,ov_the_one_caf__41.7828_15.4463,The One Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/the_one_caf_41.7828_15.4463.json,custom
+41.782497,15.445991,ov_fitzgerald_bar_41.7825_15.4460,Fitzgerald Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/fitzgerald_bar_41.7825_15.4460.json,custom
+41.782967,15.445542,ov_green_music_school_del_sud_41.7830_15.4455,Green Music School del Sud,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/green_music_school_del_sud_41.7830_15.4455.json,custom
+41.785144,15.445708,ov_bar_civico_82_41.7851_15.4457,Bar Civico 82,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/bar_civico_82_41.7851_15.4457.json,custom
+41.787200,15.446302,ov_alma_cafe_41.7872_15.4463,Alma Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/alma_cafe_41.7872_15.4463.json,custom
+41.802505,15.444404,ov_pummarella_apricena_41.8025_15.4444,Pummarella Apricena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/pummarella_apricena_41.8025_15.4444.json,custom
+41.788303,15.437808,ov_freedom_lounge_bar_apricena_41.7883_15.4378,Freedom Lounge Bar Apricena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/freedom_lounge_bar_apricena_41.7883_15.4378.json,custom
+41.790057,15.437895,ov_drink_bar_41.7901_15.4379,Drink Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/drink_bar_41.7901_15.4379.json,custom
+41.789270,15.438494,ov_2_0_ristopub_41.7893_15.4385,2.0 RistoPub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/20_ristopub_41.7893_15.4385.json,custom
+41.784980,15.440240,ov_caffetteria_del_corso__apricena_41.7850_15.4402,Caffetteria del corso  Apricena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/caffetteria_del_corso_apricena_41.7850_15.4402.json,custom
+41.784087,15.442002,ov_crema_e_cioccolato_41.7841_15.4420,Crema e cioccolato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/crema_e_cioccolato_41.7841_15.4420.json,custom
+41.784722,15.442163,ov_tavernacolo_apricena_41.7847_15.4422,Tavernacolo Apricena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/tavernacolo_apricena_41.7847_15.4422.json,custom
+41.783620,15.444394,ov_bar_excelsior_41.7836_15.4444,Bar Excelsior,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/bar_excelsior_41.7836_15.4444.json,custom
+41.778784,15.437455,ov_caffetteria_la_mi_vida_41.7788_15.4375,Caffetteria La Mi Vida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/caffetteria_la_mi_vida_41.7788_15.4375.json,custom
+41.770370,15.429933,ov_gru_pizzicoli_41.7704_15.4299,gru_pizzicoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/grupizzicoli_41.7704_15.4299.json,custom
+41.763646,15.427055,ov_artis___beer_lab_41.7636_15.4271,Artis - Beer Lab,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/artis_-_beer_lab_41.7636_15.4271.json,custom
+41.780235,15.447210,ov_lato_opposto_41.7802_15.4472,Lato Opposto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/lato_opposto_41.7802_15.4472.json,custom
+41.788492,15.441758,osm_l_arte_di_luciano_41.7885_15.4418,L'Arte di Luciano,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/apricena/pages/larte_di_luciano_41.7885_15.4418.json,custom

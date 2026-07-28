@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Mottafollone -- Tutti
-39.716701,15.816700,ov___sapore___napul__39.7167_15.8167,Ò Sapore è Napulé,RESTAURANT,ristorante
-39.649739,16.064144,ov_la_locanda_del_castello_39.6497_16.0641,La Locanda Del Castello,RESTAURANT,ristorante
-39.646662,16.066598,ov_la_romantica_pizzeria_ristorante_39.6467_16.0666,La Romantica Pizzeria Ristorante,RESTAURANT,ristorante
-39.648695,16.063372,ov_bar_tabacchi_il_vizio_39.6487_16.0634,Bar Tabacchi Il Vizio,RESTAURANT,bar_cafe
-39.649219,16.063897,ov_black_and_white_39.6492_16.0639,Black and White,RESTAURANT,bar_cafe
+39.716701,15.816700,ov___sapore___napul__39.7167_15.8167,Ò Sapore è Napulé,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottafollone/pages/_sapore_napul_39.7167_15.8167.json,custom
+39.649739,16.064144,ov_la_locanda_del_castello_39.6497_16.0641,La Locanda Del Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottafollone/pages/la_locanda_del_castello_39.6497_16.0641.json,custom
+39.646662,16.066598,ov_la_romantica_pizzeria_ristorante_39.6467_16.0666,La Romantica Pizzeria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottafollone/pages/la_romantica_pizzeria_ristorante_39.6467_16.0666.json,custom
+39.648695,16.063372,ov_bar_tabacchi_il_vizio_39.6487_16.0634,Bar Tabacchi Il Vizio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottafollone/pages/bar_tabacchi_il_vizio_39.6487_16.0634.json,custom
+39.649219,16.063897,ov_black_and_white_39.6492_16.0639,Black and White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/mottafollone/pages/black_and_white_39.6492_16.0639.json,custom

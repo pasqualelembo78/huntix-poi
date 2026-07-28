@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # leverano -- landmarks
-40.293880,18.000200,ov_il_giardino_dell_arte_40.2939_18.0002,Il Giardino dell'Arte,MUSEUM,monumento
-40.290610,17.990680,ov_museo_multimediale_della_cultura_del_lav_40.2906_17.9907,Museo Multimediale della Cultura del Lavoro,MUSEUM,monumento
+40.293880,18.000200,ov_il_giardino_dell_arte_40.2939_18.0002,Il Giardino dell'Arte,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/il_giardino_dellarte_40.2939_18.0002.json,custom
+40.290610,17.990680,ov_museo_multimediale_della_cultura_del_lav_40.2906_17.9907,Museo Multimediale della Cultura del Lavoro,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/museo_multimediale_della_cultura_del_lav_40.2906_17.9907.json,custom

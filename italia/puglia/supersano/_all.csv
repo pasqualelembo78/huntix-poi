@@ -1,19 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Supersano -- Tutti
-40.015503,18.245957,osm_doppio_zero_40.0155_18.2460,Doppio Zero,ristorante,ristorante
-40.020067,18.240043,ov_la_cungreca_40.0201_18.2400,La Cungreca,RESTAURANT,ristorante
-40.018724,18.240170,ov_osteria_la_vecchia_fontana_40.0187_18.2402,Osteria la Vecchia Fontana,RESTAURANT,ristorante
-40.018432,18.239589,ov_la_bruschetta_40.0184_18.2396,La Bruschetta,RESTAURANT,ristorante
-40.017957,18.240025,ov_u_furnu_da_vata_40.0180_18.2400,U furnu da Vata,RESTAURANT,ristorante
-40.017831,18.240741,ov_mezzaluna_40.0178_18.2407,Mezzaluna,RESTAURANT,ristorante
-40.015703,18.245814,ov_doppio_zero_40.0157_18.2458,Doppio Zero,RESTAURANT,ristorante
-40.017925,18.242837,ov_a_kilometrozero_40.0179_18.2428,A Kilometrozero,RESTAURANT,ristorante
-40.010220,18.242152,ov_vicio_pizzeria_40.0102_18.2422,Vicio Pizzeria,RESTAURANT,ristorante
-40.044529,18.211656,ov_agriturismo_casale_sombrino_40.0445_18.2117,Agriturismo Casale Sombrino,RESTAURANT,ristorante
-40.042900,18.213808,ov_le_stanzie_40.0429_18.2138,Le Stanzie,RESTAURANT,ristorante
-40.020182,18.239878,ov_birrificio_meliso_40.0202_18.2399,Birrificio Meliso,RESTAURANT,bar_cafe
-40.019663,18.240847,ov_copacabana_40.0197_18.2408,Copacabana,RESTAURANT,bar_cafe
-40.015735,18.242679,ov_caffe_margottini_luigi_40.0157_18.2427,Caffe Margottini Luigi,RESTAURANT,bar_cafe
-40.015908,18.242847,ov_pasticceria_caffetteria_tentazioni_40.0159_18.2428,Pasticceria Caffetteria Tentazioni,RESTAURANT,bar_cafe
-40.012074,18.244022,ov_free_life_pub_40.0121_18.2440,Free Life Pub,RESTAURANT,bar_cafe
-40.019313,18.241983,ov_palestra_wellness_center_40.0193_18.2420,Palestra WELLNESS CENTER,GYM,palestra
+40.020067,18.240043,ov_la_cungreca_40.0201_18.2400,La Cungreca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/la_cungreca_40.0201_18.2400.json,custom
+40.018724,18.240170,ov_osteria_la_vecchia_fontana_40.0187_18.2402,Osteria la Vecchia Fontana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/osteria_la_vecchia_fontana_40.0187_18.2402.json,custom
+40.018432,18.239589,ov_la_bruschetta_40.0184_18.2396,La Bruschetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/la_bruschetta_40.0184_18.2396.json,custom
+40.017957,18.240025,ov_u_furnu_da_vata_40.0180_18.2400,U furnu da Vata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/u_furnu_da_vata_40.0180_18.2400.json,custom
+40.017831,18.240741,ov_mezzaluna_40.0178_18.2407,Mezzaluna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/mezzaluna_40.0178_18.2407.json,custom
+40.015703,18.245814,ov_doppio_zero_40.0157_18.2458,Doppio Zero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/doppio_zero_40.0157_18.2458.json,custom
+40.017925,18.242837,ov_a_kilometrozero_40.0179_18.2428,A Kilometrozero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/a_kilometrozero_40.0179_18.2428.json,custom
+40.010220,18.242152,ov_vicio_pizzeria_40.0102_18.2422,Vicio Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/vicio_pizzeria_40.0102_18.2422.json,custom
+40.044529,18.211656,ov_agriturismo_casale_sombrino_40.0445_18.2117,Agriturismo Casale Sombrino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/agriturismo_casale_sombrino_40.0445_18.2117.json,custom
+40.042900,18.213808,ov_le_stanzie_40.0429_18.2138,Le Stanzie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/le_stanzie_40.0429_18.2138.json,custom
+40.020182,18.239878,ov_birrificio_meliso_40.0202_18.2399,Birrificio Meliso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/birrificio_meliso_40.0202_18.2399.json,custom
+40.019663,18.240847,ov_copacabana_40.0197_18.2408,Copacabana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/copacabana_40.0197_18.2408.json,custom
+40.015735,18.242679,ov_caffe_margottini_luigi_40.0157_18.2427,Caffe Margottini Luigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/caffe_margottini_luigi_40.0157_18.2427.json,custom
+40.015908,18.242847,ov_pasticceria_caffetteria_tentazioni_40.0159_18.2428,Pasticceria Caffetteria Tentazioni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/pasticceria_caffetteria_tentazioni_40.0159_18.2428.json,custom
+40.012074,18.244022,ov_free_life_pub_40.0121_18.2440,Free Life Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/free_life_pub_40.0121_18.2440.json,custom
+40.019313,18.241983,ov_palestra_wellness_center_40.0193_18.2420,Palestra WELLNESS CENTER,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/palestra_wellness_center_40.0193_18.2420.json,custom

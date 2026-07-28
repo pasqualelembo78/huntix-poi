@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montalbano_jonico -- bars_cafes
-40.244817,16.464312,ov_beer_center_40.2448_16.4643,Beer Center,RESTAURANT,bar_cafe
-40.288470,16.576146,ov_bar_europa_40.2885_16.5761,Bar Europa,RESTAURANT,bar_cafe
-40.291065,16.564688,ov_hollywood_cafe_40.2911_16.5647,Hollywood Cafe,RESTAURANT,bar_cafe
-40.290716,16.565759,ov_gran_caffe_40.2907_16.5658,Gran Caffe,RESTAURANT,bar_cafe
-40.288994,16.567650,ov_bar_manca_40.2890_16.5677,Bar Manca,RESTAURANT,bar_cafe
+40.244817,16.464312,ov_beer_center_40.2448_16.4643,Beer Center,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montalbano_jonico/pages/beer_center_40.2448_16.4643.json,custom
+40.288470,16.576146,ov_bar_europa_40.2885_16.5761,Bar Europa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montalbano_jonico/pages/bar_europa_40.2885_16.5761.json,custom
+40.291065,16.564688,ov_hollywood_cafe_40.2911_16.5647,Hollywood Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montalbano_jonico/pages/hollywood_cafe_40.2911_16.5647.json,custom
+40.290716,16.565759,ov_gran_caffe_40.2907_16.5658,Gran Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montalbano_jonico/pages/gran_caffe_40.2907_16.5658.json,custom
+40.288994,16.567650,ov_bar_manca_40.2890_16.5677,Bar Manca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montalbano_jonico/pages/bar_manca_40.2890_16.5677.json,custom

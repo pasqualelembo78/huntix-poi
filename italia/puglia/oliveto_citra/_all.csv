@@ -1,37 +1,36 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Oliveto Citra -- Tutti
-40.690767,15.230743,osm_ristorante_due_cannoni_40.6908_15.2307,Ristorante Due Cannoni,ristorante,ristorante
-40.691049,15.236537,ov_presidio_ospedaliero_san_francesco_d_ass_40.6910_15.2365,Presidio Ospedaliero San Francesco D'Assisi,HOSPITAL,hospital
-40.687578,15.231284,ov_ristorante_la_veduta_40.6876_15.2313,Ristorante La Veduta,RESTAURANT,ristorante
-40.690109,15.252436,ov_royale_ristorante_40.6901_15.2524,Royale Ristorante,RESTAURANT,ristorante
-40.691446,15.235267,ov_pizzeria_il_capriccio_40.6914_15.2353,Pizzeria il Capriccio,RESTAURANT,ristorante
-40.689254,15.232095,ov_bar_sandro_mo_m__restaurant_pub___pizza_40.6893_15.2321,Bar Sandro\Mo Mò Restaurant-Pub & Pizza,RESTAURANT,ristorante
-40.688221,15.229185,ov_3_gigli_40.6882_15.2292,3 Gigli,RESTAURANT,ristorante
-40.690434,15.230396,ov_pizzeria_21_40.6904_15.2304,Pizzeria 21,RESTAURANT,ristorante
-40.690253,15.230898,ov_flash_food_40.6903_15.2309,Flash Food,RESTAURANT,ristorante
-40.690707,15.230756,ov_ristorante_due_cannoni_40.6907_15.2308,Ristorante Due Cannoni,RESTAURANT,ristorante
-40.691856,15.230415,ov_hostaria_dei_ricordi_40.6919_15.2304,Hostaria dei Ricordi,RESTAURANT,ristorante
-40.690972,15.195516,ov_azienda_agrituristica_fuoco_40.6910_15.1955,Azienda Agrituristica Fuoco,RESTAURANT,ristorante
-40.720850,15.238471,ov_ristorante_la_masseria_40.7208_15.2385,Ristorante La Masseria,RESTAURANT,ristorante
-40.711973,15.222120,ov_agriturismo_antico_casale_40.7120_15.2221,Agriturismo Antico Casale,RESTAURANT,ristorante
-40.706554,15.229986,ov_agriturismo_la_tempa_40.7066_15.2300,Agriturismo La Tempa,RESTAURANT,ristorante
-40.708560,15.222130,ov_agriturismo__la_piceglia_40.7086_15.2221,Agriturismo  La Piceglia,RESTAURANT,ristorante
-40.692569,15.237549,ov_il_pizzicotto_40.6926_15.2375,Il Pizzicotto,RESTAURANT,ristorante
-40.693194,15.249436,ov_hotel_ristorante___la_vecchia_taverna_40.6932_15.2494,Hotel Ristorante - La Vecchia Taverna,RESTAURANT,ristorante
-40.693984,15.249671,ov_roma_40.6940_15.2497,Roma,RESTAURANT,ristorante
-40.698659,15.233702,ov_agriturismo_la_cartiera_40.6987_15.2337,Agriturismo La Cartiera,RESTAURANT,ristorante
-40.721942,15.290921,ov_la_cerza_ristorante_pizzeria_40.7219_15.2909,La Cerza ristorante pizzeria,RESTAURANT,ristorante
-40.684200,15.253250,ov_da_vali_40.6842_15.2532,Da Vali,RESTAURANT,bar_cafe
-40.690849,15.252128,ov_colorado_cafe_40.6908_15.2521,Colorado Cafe,RESTAURANT,bar_cafe
-40.690655,15.249227,ov_dubai_bar_40.6907_15.2492,Dubai bar,RESTAURANT,bar_cafe
-40.688667,15.229733,ov_bar_o_paris_40.6887_15.2297,Bar O'Paris,RESTAURANT,bar_cafe
-40.690967,15.230858,ov_beautiful_cafe_40.6910_15.2309,Beautiful Cafe,RESTAURANT,bar_cafe
-40.690897,15.230437,ov_beckett_pub_40.6909_15.2304,Beckett Pub,RESTAURANT,bar_cafe
-40.690675,15.230147,ov_bibliocaf__40.6907_15.2301,Bibliocafé,RESTAURANT,bar_cafe
-40.693437,15.239767,ov_kaffetteria_vece_40.6934_15.2398,Kaffetteria Vece,RESTAURANT,bar_cafe
-40.693709,15.239701,ov_l_etoile_40.6937_15.2397,L'Etoile,RESTAURANT,bar_cafe
-40.694704,15.241195,ov_maya_pub_grill_40.6947_15.2412,MAYA pub&grill,RESTAURANT,bar_cafe
-40.695623,15.237261,ov_king_brothers_pub_40.6956_15.2373,King Brothers pub,RESTAURANT,bar_cafe
-40.687820,15.230456,ov_palazzetto_dello_sport__oliveto_citra_40.6878_15.2305,"Palazzetto Dello Sport, Oliveto Citra",GYM,palestra
-40.691368,15.231349,ov_biciclasse_c_s__srl_40.6914_15.2313,Biciclasse C.s. SRL,GYM,palestra
-40.709141,15.218124,ov_varchera_wellness_club_40.7091_15.2181,Varchera Wellness Club,GYM,palestra
+40.691049,15.236537,ov_presidio_ospedaliero_san_francesco_d_ass_40.6910_15.2365,Presidio Ospedaliero San Francesco D'Assisi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/presidio_ospedaliero_san_francesco_dassi_40.6910_15.2365.json,custom
+40.687578,15.231284,ov_ristorante_la_veduta_40.6876_15.2313,Ristorante La Veduta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/ristorante_la_veduta_40.6876_15.2313.json,custom
+40.690109,15.252436,ov_royale_ristorante_40.6901_15.2524,Royale Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/royale_ristorante_40.6901_15.2524.json,custom
+40.691446,15.235267,ov_pizzeria_il_capriccio_40.6914_15.2353,Pizzeria il Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/pizzeria_il_capriccio_40.6914_15.2353.json,custom
+40.689254,15.232095,ov_bar_sandro_mo_m__restaurant_pub___pizza_40.6893_15.2321,Bar Sandro\Mo Mò Restaurant-Pub & Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/bar_sandromo_m_restaurant-pub_pizza_40.6893_15.2321.json,custom
+40.688221,15.229185,ov_3_gigli_40.6882_15.2292,3 Gigli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/3_gigli_40.6882_15.2292.json,custom
+40.690434,15.230396,ov_pizzeria_21_40.6904_15.2304,Pizzeria 21,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/pizzeria_21_40.6904_15.2304.json,custom
+40.690253,15.230898,ov_flash_food_40.6903_15.2309,Flash Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/flash_food_40.6903_15.2309.json,custom
+40.690707,15.230756,ov_ristorante_due_cannoni_40.6907_15.2308,Ristorante Due Cannoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/ristorante_due_cannoni_40.6907_15.2308.json,custom
+40.691856,15.230415,ov_hostaria_dei_ricordi_40.6919_15.2304,Hostaria dei Ricordi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/hostaria_dei_ricordi_40.6919_15.2304.json,custom
+40.690972,15.195516,ov_azienda_agrituristica_fuoco_40.6910_15.1955,Azienda Agrituristica Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/azienda_agrituristica_fuoco_40.6910_15.1955.json,custom
+40.720850,15.238471,ov_ristorante_la_masseria_40.7208_15.2385,Ristorante La Masseria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/ristorante_la_masseria_40.7208_15.2385.json,custom
+40.711973,15.222120,ov_agriturismo_antico_casale_40.7120_15.2221,Agriturismo Antico Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/agriturismo_antico_casale_40.7120_15.2221.json,custom
+40.706554,15.229986,ov_agriturismo_la_tempa_40.7066_15.2300,Agriturismo La Tempa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/agriturismo_la_tempa_40.7066_15.2300.json,custom
+40.708560,15.222130,ov_agriturismo__la_piceglia_40.7086_15.2221,Agriturismo  La Piceglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/agriturismo_la_piceglia_40.7086_15.2221.json,custom
+40.692569,15.237549,ov_il_pizzicotto_40.6926_15.2375,Il Pizzicotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/il_pizzicotto_40.6926_15.2375.json,custom
+40.693194,15.249436,ov_hotel_ristorante___la_vecchia_taverna_40.6932_15.2494,Hotel Ristorante - La Vecchia Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/hotel_ristorante_-_la_vecchia_taverna_40.6932_15.2494.json,custom
+40.693984,15.249671,ov_roma_40.6940_15.2497,Roma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/roma_40.6940_15.2497.json,custom
+40.698659,15.233702,ov_agriturismo_la_cartiera_40.6987_15.2337,Agriturismo La Cartiera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/agriturismo_la_cartiera_40.6987_15.2337.json,custom
+40.721942,15.290921,ov_la_cerza_ristorante_pizzeria_40.7219_15.2909,La Cerza ristorante pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/la_cerza_ristorante_pizzeria_40.7219_15.2909.json,custom
+40.684200,15.253250,ov_da_vali_40.6842_15.2532,Da Vali,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/da_vali_40.6842_15.2532.json,custom
+40.690849,15.252128,ov_colorado_cafe_40.6908_15.2521,Colorado Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/colorado_cafe_40.6908_15.2521.json,custom
+40.690655,15.249227,ov_dubai_bar_40.6907_15.2492,Dubai bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/dubai_bar_40.6907_15.2492.json,custom
+40.688667,15.229733,ov_bar_o_paris_40.6887_15.2297,Bar O'Paris,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/bar_oparis_40.6887_15.2297.json,custom
+40.690967,15.230858,ov_beautiful_cafe_40.6910_15.2309,Beautiful Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/beautiful_cafe_40.6910_15.2309.json,custom
+40.690897,15.230437,ov_beckett_pub_40.6909_15.2304,Beckett Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/beckett_pub_40.6909_15.2304.json,custom
+40.690675,15.230147,ov_bibliocaf__40.6907_15.2301,Bibliocafé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/bibliocaf_40.6907_15.2301.json,custom
+40.693437,15.239767,ov_kaffetteria_vece_40.6934_15.2398,Kaffetteria Vece,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/kaffetteria_vece_40.6934_15.2398.json,custom
+40.693709,15.239701,ov_l_etoile_40.6937_15.2397,L'Etoile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/letoile_40.6937_15.2397.json,custom
+40.694704,15.241195,ov_maya_pub_grill_40.6947_15.2412,MAYA pub&grill,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/maya_pubgrill_40.6947_15.2412.json,custom
+40.695623,15.237261,ov_king_brothers_pub_40.6956_15.2373,King Brothers pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/king_brothers_pub_40.6956_15.2373.json,custom
+40.687820,15.230456,ov_palazzetto_dello_sport__oliveto_citra_40.6878_15.2305,"Palazzetto Dello Sport, Oliveto Citra",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/palazzetto_dello_sport_oliveto_citra_40.6878_15.2305.json,custom
+40.691368,15.231349,ov_biciclasse_c_s__srl_40.6914_15.2313,Biciclasse C.s. SRL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/biciclasse_cs_srl_40.6914_15.2313.json,custom
+40.709141,15.218124,ov_varchera_wellness_club_40.7091_15.2181,Varchera Wellness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oliveto_citra/pages/varchera_wellness_club_40.7091_15.2181.json,custom

@@ -1,467 +1,457 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Brindisi -- Tutti
-40.631560,17.938874,osm_asl_brindisi_40.6316_17.9389,ASL Brindisi,hospital,hospital
-40.640265,17.940813,osm_antica_osteria_la_sciabica_40.6403_17.9408,Antica osteria la sciabica,ristorante,ristorante
-40.658710,17.958123,osm_la_sciaia_a_mare_40.6587_17.9581,La Sciaia a mare,ristorante,ristorante
-40.635358,17.942818,osm_burger_house_40.6354_17.9428,Burger House,ristorante,ristorante
-40.645627,17.943902,osm_la_scalinata_40.6456_17.9439,La Scalinata,ristorante,ristorante
-40.646354,17.943888,osm_da_piero_40.6464_17.9439,Da Piero,ristorante,ristorante
-40.641013,17.947331,osm_betty_cafe_40.6410_17.9473,Betty Cafe,ristorante,ristorante
-40.641478,17.946434,osm_windsurf_40.6415_17.9464,Windsurf,ristorante,ristorante
-40.641665,17.945693,osm_pescheria_del_porto_40.6417_17.9457,Pescheria del Porto,ristorante,ristorante
-40.641272,17.944712,osm_la_locanda_del_porto_40.6413_17.9447,La Locanda del Porto,ristorante,ristorante
-40.640147,17.944395,osm_il_giardino_40.6401_17.9444,Il Giardino,ristorante,ristorante
-40.646588,17.943650,osm_pizzeria_rosticceria_lo_sfizio_40.6466_17.9437,Pizzeria Rosticceria Lo Sfizio,ristorante,ristorante
-40.647909,17.944972,osm_creperia_40.6479_17.9450,Creperia,ristorante,ristorante
-40.637912,17.947281,osm_piadineria_40.6379_17.9473,Piadineria,ristorante,ristorante
-40.647113,17.943272,osm_mari_misti_40.6471_17.9433,Mari Misti,ristorante,ristorante
-40.634798,17.939992,osm_rosa_bella_40.6348_17.9400,Rosa bella,ristorante,ristorante
-40.647688,17.943128,osm_l_angolo_pizzeria_40.6477_17.9431,L'Angolo Pizzeria,ristorante,ristorante
-40.636816,17.946374,osm_antica_friggitoria_romanelli_40.6368_17.9464,Antica friggitoria Romanelli,ristorante,ristorante
-40.640536,17.941580,osm_diecimiglia_hosteria_2_0_40.6405_17.9416,Diecimiglia Hosteria 2.0,ristorante,ristorante
-40.640506,17.941423,osm_da_luigi_il_capitano_40.6405_17.9414,da Luigi il Capitano,ristorante,ristorante
-40.634421,17.942978,osm_kebab_pizza_adana_40.6344_17.9430,Kebab pizza Adana,ristorante,ristorante
-40.622170,17.944416,osm_makoto_40.6222_17.9444,Makoto,ristorante,ristorante
-40.623108,17.915973,osm_mcdonald_s_40.6231_17.9160,McDonald's,ristorante,ristorante
-40.644459,17.937811,ov_asl_brindisi_40.6445_17.9378,ASL Brindisi,HOSPITAL,hospital
-40.635267,17.932105,ov_polo_universitario_asl_br_40.6353_17.9321,Polo Universitario ASL-BR,HOSPITAL,hospital
-40.635895,17.930978,ov_emedea__la_nostra_famiglia_40.6359_17.9310,Emedea  La Nostra Famiglia,HOSPITAL,hospital
-40.631542,17.938871,ov_asl___dss_brindisi_01_40.6315_17.9389,ASL - DSS Brindisi 01,HOSPITAL,hospital
-40.624024,17.914314,ov_ospedale_perrino_40.6240_17.9143,Ospedale Perrino,HOSPITAL,hospital
-40.556475,17.763876,ov_makoto_ristorante_giapponese_cinese_40.5565_17.7639,Makoto Ristorante Giapponese Cinese,RESTAURANT,ristorante
-40.601642,17.916989,ov_locanda_san_lorenzo_brindisi_40.6016_17.9170,Locanda San Lorenzo Brindisi,RESTAURANT,ristorante
-40.544876,17.948680,ov_binario_40_pizza_and_bistrot_40.5449_17.9487,Binario 40 Pizza and Bistrot,RESTAURANT,ristorante
-40.697512,17.820775,ov_boa_gialla_40.6975_17.8208,Boa Gialla,RESTAURANT,ristorante
-40.614775,17.819285,ov_masseria_baroni_nuovi_40.6148_17.8193,Masseria Baroni Nuovi,RESTAURANT,ristorante
-40.638681,17.866517,ov_la_locanda_ti_li_spilusi_40.6387_17.8665,La Locanda Ti Li Spilusi,RESTAURANT,ristorante
-40.677731,17.821507,ov_braceria_la_palma_40.6777_17.8215,Braceria La Palma,RESTAURANT,ristorante
-40.684895,17.831753,ov_azienda_agricola_fra_diavolo_40.6849_17.8318,Azienda Agricola Fra Diavolo,RESTAURANT,ristorante
-40.679450,17.874710,ov_gustapulia_40.6795_17.8747,Gustapulia,RESTAURANT,ristorante
-40.655038,17.898916,ov_brindisi_citta__d_acqua_40.6550_17.8989,Brindisi Citta' D'acqua,RESTAURANT,ristorante
-40.648971,17.920357,ov_kasawika_40.6490_17.9204,Kasawika,RESTAURANT,ristorante
-40.648434,17.920615,ov_supermercato_famila_40.6484_17.9206,Supermercato Famila,RESTAURANT,ristorante
-40.657745,17.938482,ov_pulia_40.6577_17.9385,Pulia,RESTAURANT,ristorante
-40.657745,17.938482,ov_autogrill_amore_do_eat_better_40.6577_17.9385,Autogrill AMORE Do Eat Better,RESTAURANT,ristorante
-40.678588,17.937884,ov_la_nuova_casareccia_40.6786_17.9379,La Nuova Casareccia,RESTAURANT,ristorante
-40.674620,17.941050,ov_villa_borromeo_40.6746_17.9411,Villa Borromeo,RESTAURANT,ristorante
-40.676440,17.939790,ov_crepy_amo2021_40.6764_17.9398,Crepy amo2021,RESTAURANT,ristorante
-40.664776,17.952254,ov_lido_brin_40.6648_17.9523,Lido Brin,RESTAURANT,ristorante
-40.664790,17.949660,ov_granchio_rosso_bar_pizzeria_40.6648_17.9497,Granchio Rosso Bar Pizzeria,RESTAURANT,ristorante
-40.656762,17.945349,ov_autogrill_40.6568_17.9453,Autogrill,RESTAURANT,ristorante
-40.658734,17.958141,ov_rist_pizzeria_la_sciaia_a_mare_40.6587_17.9581,Rist.Pizzeria La Sciaia a mare,RESTAURANT,ristorante
-40.660569,17.961476,ov_il_porticciolo_40.6606_17.9615,Il Porticciolo,RESTAURANT,ristorante
-40.646980,17.943846,ov_la_griglia_40.6470_17.9438,La griglia,RESTAURANT,ristorante
-40.646858,17.943687,ov_de_vitis_nicola_40.6469_17.9437,De Vitis Nicola,RESTAURANT,ristorante
-40.647140,17.943190,ov_mari_misti_40.6471_17.9432,Mari Misti,RESTAURANT,ristorante
-40.647659,17.943145,ov_l_angolo_40.6477_17.9431,L'Angolo,RESTAURANT,ristorante
-40.645616,17.943919,ov_la_scalinata_40.6456_17.9439,La scalinata,RESTAURANT,ristorante
-40.646094,17.943690,ov_merceria_casale_40.6461_17.9437,Merceria Casale,RESTAURANT,ristorante
-40.646152,17.943497,ov_in_cucina_dall__ortolano_2_0_40.6462_17.9435,In Cucina Dall' Ortolano 2.0,RESTAURANT,ristorante
-40.646328,17.943660,ov_solo_di_sera_40.6463_17.9437,Solo Di Sera,RESTAURANT,ristorante
-40.646572,17.943642,ov_pizzeria_rosticceria_brindisi_40.6466_17.9436,Pizzeria Rosticceria Brindisi,RESTAURANT,ristorante
-40.646458,17.944004,ov_la_pizzeria_da_piero_40.6465_17.9440,La Pizzeria da Piero,RESTAURANT,ristorante
-40.626322,17.942311,ov_pizza___sfizi_40.6263_17.9423,Pizza & Sfizi,RESTAURANT,ristorante
-40.626412,17.941631,ov_la_puddica_40.6264_17.9416,La Puddica,RESTAURANT,ristorante
-40.628365,17.943037,ov_spiedo_matto___ristorante__braceria_e_pi_40.6284_17.9430,"Spiedo Matto - Ristorante, Braceria e Pizzeria a Brindisi",RESTAURANT,ristorante
-40.630718,17.940820,ov_o_lucianiello_40.6307_17.9408,O'Lucianiello,RESTAURANT,ristorante
-40.630527,17.940084,ov_sushi_feng_40.6305_17.9401,Sushi Feng,RESTAURANT,ristorante
-40.631207,17.940163,ov_romanelli_40.6312_17.9402,Romanelli,RESTAURANT,ristorante
-40.632350,17.947430,ov_il_panino_matto_40.6324_17.9474,Il Panino Matto,RESTAURANT,ristorante
-40.634433,17.942956,ov_kebab_pizza_adana_40.6344_17.9430,kebab pizza adana,RESTAURANT,ristorante
-40.633960,17.946730,ov_il_capriccio_40.6340_17.9467,Il Capriccio,RESTAURANT,ristorante
-40.632995,17.945935,ov_quaranta_caff__40.6330_17.9459,Quaranta Caffè,RESTAURANT,ristorante
-40.633715,17.940614,ov_hello_guys___the_burger_joint_40.6337_17.9406,Hello Guys - The Burger Joint,RESTAURANT,ristorante
-40.633780,17.940550,ov_hambjuj_40.6338_17.9406,Hambjuj,RESTAURANT,ristorante
-40.634003,17.942879,ov_pizzeria_cucinelli_da_osvaldo_40.6340_17.9429,Pizzeria Cucinelli da Osvaldo,RESTAURANT,ristorante
-40.634965,17.940282,ov_pizzeria_la_diavola_40.6350_17.9403,Pizzeria La Diavola,RESTAURANT,ristorante
-40.634940,17.940538,ov_my_poke_brindisi_40.6349_17.9405,My Poke Brindisi,RESTAURANT,ristorante
-40.635984,17.940954,ov_iku_sushi_40.6360_17.9410,Iku Sushi,RESTAURANT,ristorante
-40.635392,17.942807,ov_burgerhouse_40.6354_17.9428,Burgerhouse,RESTAURANT,ristorante
-40.635272,17.942284,ov_parrucchieri_men_women_40.6353_17.9423,Parrucchieri.men.women,RESTAURANT,ristorante
-40.635210,17.942480,ov_ristorante_pizzeria_a_metro_maccheroni_40.6352_17.9425,Ristorante Pizzeria a Metro Maccheroni,RESTAURANT,ristorante
-40.635200,17.943804,ov_bento_40.6352_17.9438,Bento,RESTAURANT,ristorante
-40.635247,17.943679,ov_taschino_street_sud_40.6352_17.9437,Taschino street sud,RESTAURANT,ristorante
-40.635533,17.942928,ov_secca_40.6355_17.9429,Secca,RESTAURANT,ristorante
-40.635541,17.946364,ov_la_strittulecchia_40.6355_17.9464,La strittulecchia,RESTAURANT,ristorante
-40.636023,17.945024,ov_il_botteghino_40.6360_17.9450,Il Botteghino,RESTAURANT,ristorante
-40.636152,17.944933,ov_sushiro_brindisi_40.6362_17.9449,Sushiro Brindisi,RESTAURANT,ristorante
-40.636113,17.945118,ov_spilusi_40.6361_17.9451,Spilusi,RESTAURANT,ristorante
-40.636220,17.944835,ov_arabella__fish_restaurant_40.6362_17.9448,Arabella- Fish Restaurant,RESTAURANT,ristorante
-40.636187,17.944092,ov_c_era_una_volta_40.6362_17.9441,C'era una volta,RESTAURANT,ristorante
-40.636147,17.943891,ov_100_____a_stare_40.6361_17.9439,100 ... A Stare,RESTAURANT,ristorante
-40.636000,17.943980,ov_nota___drink_wine_food_40.6360_17.9440,Nota - Drink Wine Food,RESTAURANT,ristorante
-40.635591,17.944335,ov_rendez_vous_cafe_bistrot_40.6356_17.9443,Rendez-Vous Cafe Bistrot,RESTAURANT,ristorante
-40.636396,17.944969,ov_la_capricciosa_40.6364_17.9450,La Capricciosa,RESTAURANT,ristorante
-40.636623,17.946344,ov_mama_trattoria_di_mare_40.6366_17.9463,Mama Trattoria di Mare,RESTAURANT,ristorante
-40.636919,17.946409,ov_pizzeria_romanelli_40.6369_17.9464,Pizzeria Romanelli,RESTAURANT,ristorante
-40.637118,17.946393,ov_nove_radici___apulian_food_experience_40.6371_17.9464,Nove Radici - Apulian Food Experience,RESTAURANT,ristorante
-40.637261,17.946189,ov_l_angolo_della_piada_40.6373_17.9462,L'Angolo della Piada,RESTAURANT,ristorante
-40.637231,17.946403,ov_ristorante_giubilo_40.6372_17.9464,Ristorante Giubilo,RESTAURANT,ristorante
-40.637483,17.946374,ov_principepatata_40.6375_17.9464,Principepatata,RESTAURANT,ristorante
-40.637282,17.945581,ov_mova_sushi_fusion_restaurant_40.6373_17.9456,Mova Sushi Fusion Restaurant,RESTAURANT,ristorante
-40.637231,17.944931,ov_nobis_food_40.6372_17.9449,NOBIS Food,RESTAURANT,ristorante
-40.637453,17.944791,ov_pizzeria_la_piazzetta_40.6375_17.9448,Pizzeria La Piazzetta,RESTAURANT,ristorante
-40.637275,17.944076,ov_lu_furnu_40.6373_17.9441,Lu Furnu,RESTAURANT,ristorante
-40.637286,17.944685,ov_fao_37_40.6373_17.9447,Fao 37,RESTAURANT,ristorante
-40.637103,17.944468,ov_bracerie_escosazio_40.6371_17.9445,Bracerie Escosazio,RESTAURANT,ristorante
-40.637328,17.942947,ov_trattoria_la_brasciola_40.6373_17.9429,Trattoria la Brasciola,RESTAURANT,ristorante
-40.636692,17.939563,ov_hanami_40.6367_17.9396,Hanami,RESTAURANT,ristorante
-40.638810,17.942654,ov_toto___raf_40.6388_17.9427,Toto & Raf,RESTAURANT,ristorante
-40.638637,17.941436,ov_cascip__40.6386_17.9414,Cascipò,RESTAURANT,ristorante
-40.639703,17.940965,ov_ristorante_pizzeria_regine_40.6397_17.9410,Ristorante Pizzeria Regine,RESTAURANT,ristorante
-40.639488,17.941867,ov_smoke_40.6395_17.9419,Smoke,RESTAURANT,ristorante
-40.638851,17.943040,ov_il_tempio_dei_sapori_40.6389_17.9430,Il Tempio dei Sapori,RESTAURANT,ristorante
-40.638850,17.943761,ov_pizzeria_spaccanapoli_40.6389_17.9438,Pizzeria SpaccaNapoli,RESTAURANT,ristorante
-40.639831,17.942958,ov_acquapazza_40.6398_17.9430,Acquapazza,RESTAURANT,ristorante
-40.639878,17.943156,ov_brunda_pizzeria_40.6399_17.9432,Brunda Pizzeria,RESTAURANT,ristorante
-40.640135,17.944350,ov_il_giardino_40.6401_17.9444,Il Giardino,RESTAURANT,ristorante
-40.639707,17.944828,ov_social___hamburgeria_40.6397_17.9448,Social - Hamburgeria,RESTAURANT,ristorante
-40.639342,17.945801,ov_retrogusto_40.6393_17.9458,Retrogusto,RESTAURANT,ristorante
-40.638260,17.946369,ov_la_cantina_ti_l_artisti_40.6383_17.9464,La Cantina Ti L'Artisti,RESTAURANT,ristorante
-40.638310,17.945530,ov_fava_40.6383_17.9455,Fava,RESTAURANT,ristorante
-40.638479,17.944995,ov_empanadas_de_diez_40.6385_17.9450,Empanadas De Diez,RESTAURANT,ristorante
-40.638542,17.944949,ov_taylor_s_bistrot_40.6385_17.9449,Taylor's Bistrot,RESTAURANT,ristorante
-40.638806,17.943581,ov_antipasteria_il_carpaccio_40.6388_17.9436,Antipasteria Il Carpaccio,RESTAURANT,ristorante
-40.638311,17.944155,ov_concordia_bistrot_40.6383_17.9442,Concordia Bistrot,RESTAURANT,ristorante
-40.638299,17.944105,ov_la_plaza_brindisi_40.6383_17.9441,La Plaza Brindisi,RESTAURANT,ristorante
-40.637709,17.944261,ov_trattoria_siamo_fritti_40.6377_17.9443,Trattoria Siamo Fritti,RESTAURANT,ristorante
-40.637725,17.944783,ov_putea___sapore_di_sud_40.6377_17.9448,Putea - sapore di sud,RESTAURANT,ristorante
-40.637842,17.944862,ov_molo_33_40.6378_17.9449,Molo 33,RESTAURANT,ristorante
-40.638032,17.944939,ov_pizza___sfizi_40.6380_17.9449,Pizza & Sfizi,RESTAURANT,ristorante
-40.637989,17.945753,ov_iku_sushi_bar_food_drink_40.6380_17.9458,IKU SUSHI BAR Food&Drink,RESTAURANT,ristorante
-40.637838,17.946414,ov_edo_40.6378_17.9464,Edo,RESTAURANT,ristorante
-40.637915,17.947329,ov_piadineria_40.6379_17.9473,Piadineria,RESTAURANT,ristorante
-40.638490,17.947510,ov_urban_beat_burger___coffee_40.6385_17.9475,Urban Beat Burger & Coffee,RESTAURANT,ristorante
-40.638270,17.947425,ov_mama_panzerotti_40.6383_17.9474,Mama Panzerotti,RESTAURANT,ristorante
-40.638286,17.947205,ov_barbecue_brothers_40.6383_17.9472,Barbecue Brothers,RESTAURANT,ristorante
-40.638625,17.947225,ov_kebaberia_paris_40.6386_17.9472,Kebaberia Paris,RESTAURANT,ristorante
-40.638618,17.947211,ov_royal_kebab_40.6386_17.9472,Royal Kebab,RESTAURANT,ristorante
-40.638552,17.947163,ov_il_sultano_40.6386_17.9472,Il Sultano,RESTAURANT,ristorante
-40.638827,17.947563,ov_antica_focacceria_boscaini_40.6388_17.9476,Antica Focacceria Boscaini,RESTAURANT,ristorante
-40.639242,17.947791,ov_levante_puglia_e_mangia_40.6392_17.9478,Levante Puglia e Mangia,RESTAURANT,ristorante
-40.639339,17.947828,ov_la_baguetteria_del_corso_40.6393_17.9478,La Baguetteria del Corso,RESTAURANT,ristorante
-40.639231,17.947035,ov_pantagruele_40.6392_17.9470,Pantagruele,RESTAURANT,ristorante
-40.639509,17.947269,ov_la_dimora_del_porto_40.6395_17.9473,La dimora del porto,RESTAURANT,ristorante
-40.639924,17.947373,ov_penny_40.6399_17.9474,Penny,RESTAURANT,ristorante
-40.639676,17.947726,ov_pacman_brindisi_40.6397_17.9477,Pacman Brindisi,RESTAURANT,ristorante
-40.636045,17.948977,ov_kalispera_40.6360_17.9490,Kalispera,RESTAURANT,ristorante
-40.635476,17.948663,ov_hamare_40.6355_17.9487,Hamare,RESTAURANT,ristorante
-40.640291,17.946807,ov_don_angus_restaurant___steak_house_40.6403_17.9468,DON ANGUS Restaurant & Steak House,RESTAURANT,ristorante
-40.641666,17.944566,ov_bella_napoli_40.6417_17.9446,Bella Napoli,RESTAURANT,ristorante
-40.641652,17.945766,ov_pescheria_del_porto_40.6417_17.9458,Pescheria del Porto,RESTAURANT,ristorante
-40.641740,17.945640,ov_alkilo_steakhouse_40.6417_17.9456,Alkilo Steakhouse,RESTAURANT,ristorante
-40.641468,17.946477,ov_windsurf_40.6415_17.9465,Windsurf,RESTAURANT,ristorante
-40.641499,17.946588,ov_sapido_40.6415_17.9466,Sapido,RESTAURANT,ristorante
-40.641107,17.946716,ov_ristorante_piazzetta_colonne_40.6411_17.9467,Ristorante Piazzetta Colonne,RESTAURANT,ristorante
-40.640903,17.946610,ov_mamm_anna_pizzeria_birreria_40.6409_17.9466,Mamm’Anna Pizzeria Birreria,RESTAURANT,ristorante
-40.641252,17.944708,ov_la_locanda_del_porto_40.6413_17.9447,La Locanda del Porto,RESTAURANT,ristorante
-40.641234,17.942286,ov_marea_seaside_experience_40.6412_17.9423,Marea Seaside Experience,RESTAURANT,ristorante
-40.640523,17.941971,ov_trattoria_di_mare_40.6405_17.9420,Trattoria Di Mare,RESTAURANT,ristorante
-40.640540,17.941445,ov_da_luigi_il_capitano_40.6405_17.9414,Da Luigi il Capitano,RESTAURANT,ristorante
-40.640514,17.941794,ov_la_paranza_40.6405_17.9418,La Paranza,RESTAURANT,ristorante
-40.640595,17.941558,ov_ristorante_diecimiglia_40.6406_17.9416,Ristorante Diecimiglia,RESTAURANT,ristorante
-40.640688,17.941788,ov_la_nassa_40.6407_17.9418,La Nassa,RESTAURANT,ristorante
-40.640312,17.940862,ov_antica_osteria_pizzeria_la_sciabica_40.6403_17.9409,Antica Osteria Pizzeria La Sciabica,RESTAURANT,ristorante
-40.643686,17.940759,ov_maredentro_seafood_40.6437_17.9408,MaRedentro seafood,RESTAURANT,ristorante
-40.642859,17.933375,ov_al_porto_da_guido_40.6429_17.9334,Al Porto Da Guido,RESTAURANT,ristorante
-40.642808,17.933322,ov_la_lega_da_guidone_street_food_40.6428_17.9333,La Lega da Guidone Street Food,RESTAURANT,ristorante
-40.637073,17.938873,ov_pizzeria_lo_svevo_40.6371_17.9389,Pizzeria Lo Svevo,RESTAURANT,ristorante
-40.635346,17.937020,ov_pizzeria_romanelli_tor_pisana_40.6353_17.9370,Pizzeria Romanelli Tor Pisana,RESTAURANT,ristorante
-40.635384,17.936215,ov_pizzeria_sosta_e_gusta_40.6354_17.9362,Pizzeria Sosta e Gusta,RESTAURANT,ristorante
-40.636650,17.932695,ov_nonna_mina_40.6367_17.9327,Nonna Mina,RESTAURANT,ristorante
-40.636261,17.933141,ov_il_dragone_d_oro_40.6363_17.9331,Il dragone d'oro,RESTAURANT,ristorante
-40.635251,17.927933,ov_pasta_fresca_shop_40.6353_17.9279,Pasta Fresca Shop,RESTAURANT,ristorante
-40.637001,17.925260,ov_mille_sapori_40.6370_17.9253,Mille Sapori,RESTAURANT,ristorante
-40.637629,17.929033,ov_grano_uva_40.6376_17.9290,Grano&Uva,RESTAURANT,ristorante
-40.637558,17.929572,ov_pizzeria_little_maira___focacceria__rost_40.6376_17.9296,"Pizzeria Little Maira | Focacceria, rosticceria, buffet",RESTAURANT,ristorante
-40.624614,17.923524,ov_paninosteria_enrico_e_carmela_40.6246_17.9235,PaninOsteria Enrico e Carmela,RESTAURANT,ristorante
-40.624768,17.923391,ov_pizza_pazza_40.6248_17.9234,Pizza Pazza,RESTAURANT,ristorante
-40.627716,17.923713,ov_mister_pizza_40.6277_17.9237,Mister Pizza,RESTAURANT,ristorante
-40.628026,17.923344,ov_lele_pizzeria_40.6280_17.9233,Lele Pizzeria,RESTAURANT,ristorante
-40.628820,17.920310,ov_consenti_tavolacalda_bar_40.6288_17.9203,Consenti tavolacalda bar,RESTAURANT,ristorante
-40.629938,17.925384,ov_pizzeria_pit_stop_40.6299_17.9254,Pizzeria Pit Stop,RESTAURANT,ristorante
-40.630123,17.923960,ov_pizzeria_gnam_gnam_40.6301_17.9240,Pizzeria GNAM GNAM,RESTAURANT,ristorante
-40.630377,17.930861,ov_pizzeria_da_antonio_40.6304_17.9309,Pizzeria da Antonio,RESTAURANT,ristorante
-40.630950,17.930600,ov_iaccato___ristorante_del_pescatore___bri_40.6309_17.9306,Iaccato - Ristorante del Pescatore - Brindisi,RESTAURANT,ristorante
-40.630679,17.927696,ov_xiao_sushi_40.6307_17.9277,Xiao Sushi,RESTAURANT,ristorante
-40.631513,17.929160,ov_surgelsud_40.6315_17.9292,Surgelsud,RESTAURANT,ristorante
-40.631127,17.928686,ov_acci_pizza_40.6311_17.9287,Acci Pizza,RESTAURANT,ristorante
-40.633150,17.929810,ov_lo_stuzzicone_40.6331_17.9298,Lo Stuzzicone,RESTAURANT,ristorante
-40.633451,17.934131,ov_ristorante_ce_si_era_buono_ma_meglio_ann_40.6335_17.9341,Ristorante Ce Si Era Buono ma Meglio Anna da un'Altra Parte,RESTAURANT,ristorante
-40.633333,17.932672,ov_cozza_nera_40.6333_17.9327,Cozza Nera,RESTAURANT,ristorante
-40.634189,17.931940,ov_pronto_cuoci___pizzeria_la_principessa_40.6342_17.9319,"Pronto Cuoci , Pizzeria LA PRINCIPESSA",RESTAURANT,ristorante
-40.634428,17.934730,ov_cotto___mangiato_40.6344_17.9347,Cotto & Mangiato,RESTAURANT,ristorante
-40.634040,17.933690,ov_ghiotto_pizza_40.6340_17.9337,Ghiotto Pizza,RESTAURANT,ristorante
-40.633226,17.935739,ov_pizzeria_baffo_40.6332_17.9357,Pizzeria Baffo,RESTAURANT,ristorante
-40.632360,17.938090,ov_friggitoria_krystal_40.6324_17.9381,Friggitoria Krystal,RESTAURANT,ristorante
-40.631241,17.935842,ov_il_pranzo_e_servito_40.6312_17.9358,Il Pranzo e Servito,RESTAURANT,ristorante
-40.631933,17.936449,ov_l_orto_cotto_40.6319_17.9364,L'Orto Cotto,RESTAURANT,ristorante
-40.631724,17.933293,ov_el_pica_pollo_girarrosto_40.6317_17.9333,El Pica Pollo Girarrosto,RESTAURANT,ristorante
-40.631604,17.933244,ov_il_boccalino_40.6316_17.9332,Il Boccalino,RESTAURANT,ristorante
-40.630837,17.933858,ov_pizzicotto_40.6308_17.9339,Pizzicotto,RESTAURANT,ristorante
-40.629800,17.932495,ov_pescheria_da_romeo_40.6298_17.9325,Pescheria da Romeo,RESTAURANT,ristorante
-40.628453,17.936119,ov_il_rifugio_pizzeria_40.6285_17.9361,Il Rifugio Pizzeria,RESTAURANT,ristorante
-40.628181,17.933603,ov_pizzeria_miky_40.6282_17.9336,Pizzeria Miky,RESTAURANT,ristorante
-40.628162,17.933734,ov_vera_napoli_40.6282_17.9337,Vera Napoli,RESTAURANT,ristorante
-40.627948,17.935062,ov_che_gusto_cucinelli_40.6279_17.9351,Che Gusto Cucinelli,RESTAURANT,ristorante
-40.627280,17.931710,ov_bistrot_40.6273_17.9317,Bistrot,RESTAURANT,ristorante
-40.627362,17.931561,ov_pizzeria_lievita_24_40.6274_17.9316,Pizzeria Lievita 24,RESTAURANT,ristorante
-40.628947,17.932139,ov_pizzeria_ciro_40.6289_17.9321,Pizzeria Ciro,RESTAURANT,ristorante
-40.627273,17.925422,ov_antica_gastronomia_da_prassede_40.6273_17.9254,Antica Gastronomia da Prassede,RESTAURANT,ristorante
-40.627414,17.927038,ov_che_bont__40.6274_17.9270,Che bontà,RESTAURANT,ristorante
-40.627115,17.925830,ov_il_bistrot_dei_desideri_40.6271_17.9258,Il bistrot dei desideri,RESTAURANT,ristorante
-40.627120,17.925825,ov_pizze_e_cozze_40.6271_17.9258,Pizze e Cozze,RESTAURANT,ristorante
-40.627037,17.925652,ov_il_ritrovo_pizzeri_40.6270_17.9257,Il ritrovo pizzeri,RESTAURANT,ristorante
-40.626916,17.924882,ov_la_piazzetta_40.6269_17.9249,La Piazzetta,RESTAURANT,ristorante
-40.626857,17.924564,ov_panino_giusto_40.6269_17.9246,Panino Giusto,RESTAURANT,ristorante
-40.626039,17.924617,ov_il_ghiottone_40.6260_17.9246,Il Ghiottone,RESTAURANT,ristorante
-40.625410,17.927280,ov_pizzeria_de_matteis_40.6254_17.9273,Pizzeria De Matteis,RESTAURANT,ristorante
-40.625217,17.924156,ov_pizzeria_boomerang_40.6252_17.9242,Pizzeria Boomerang,RESTAURANT,ristorante
-40.624643,17.926057,ov_pizzeria_santa_chiara_40.6246_17.9261,Pizzeria SANTA CHIARA,RESTAURANT,ristorante
-40.624331,17.927023,ov_folie_caf__et_bistrot_40.6243_17.9270,Folie Café et Bistrot,RESTAURANT,ristorante
-40.624023,17.926604,ov_ocean_beef_40.6240_17.9266,Ocean Beef,RESTAURANT,ristorante
-40.620613,17.927022,ov_pizzeria_sant_andrea_40.6206_17.9270,Pizzeria Sant'Andrea,RESTAURANT,ristorante
-40.619179,17.938170,ov_mediterraneo_mare_40.6192_17.9382,Mediterraneo Mare,RESTAURANT,ristorante
-40.617605,17.913209,ov_vieni_a_casa_ca_ti_cucinu_40.6176_17.9132,Vieni a casa ca ti cucinu,RESTAURANT,ristorante
-40.619388,17.919803,ov_al_parco_pizzeria_antipasteria_40.6194_17.9198,Al parco Pizzeria Antipasteria,RESTAURANT,ristorante
-40.622280,17.916330,ov_stuzzicheria_mare_terra_40.6223_17.9163,Stuzzicheria mare terra,RESTAURANT,ristorante
-40.623178,17.915813,ov_mcdonald_s_40.6232_17.9158,McDonald's,RESTAURANT,ristorante
-40.618500,17.902698,ov_cewei_la_baracchina_del_porto_40.6185_17.9027,Cewei La Baracchina Del Porto,RESTAURANT,ristorante
-40.618683,17.902298,ov_billy_tacos_40.6187_17.9023,Billy Tacos,RESTAURANT,ristorante
-40.606739,17.885498,ov_braceria_pizzeria_torre_mozza_sporting_c_40.6067_17.8855,Braceria Pizzeria Torre Mozza Sporting Club,RESTAURANT,ristorante
-40.605522,17.884118,ov_alice_pizza_40.6055_17.8841,Alice Pizza,RESTAURANT,ristorante
-40.605130,17.939000,ov_beverly_grills_40.6051_17.9390,Beverly grills,RESTAURANT,ristorante
-40.620220,17.944423,ov_pizza_flash_40.6202_17.9444,Pizza Flash,RESTAURANT,ristorante
-40.624430,17.940162,ov_pizzeria_magic_star_40.6244_17.9402,Pizzeria Magic Star,RESTAURANT,ristorante
-40.432094,17.735813,ov_blues_cafe_40.4321_17.7358,Blues Cafe,RESTAURANT,bar_cafe
-40.603370,17.952730,ov_chiarodiluna_caf__40.6034_17.9527,Chiarodiluna Café,RESTAURANT,bar_cafe
-40.568256,17.985400,ov_santa_maria_di_leuca_40.5683_17.9854,Santa Maria Di Leuca,RESTAURANT,bar_cafe
-40.543783,17.946299,ov_la_capannina_40.5438_17.9463,La Capannina,RESTAURANT,bar_cafe
-40.544524,17.946881,ov_domus_caffe_40.5445_17.9469,Domus Caffe,RESTAURANT,bar_cafe
-40.546144,17.947214,ov_bar_pasticceria_tutorius_cafe_40.5461_17.9472,Bar Pasticceria Tutorius Cafe,RESTAURANT,bar_cafe
-40.549480,17.947390,ov_caf__chopin_di_mauro___jole_40.5495_17.9474,Cafè Chopin Di Mauro & Jole,RESTAURANT,bar_cafe
-40.690980,17.837790,ov_bar_kimbar__40.6910_17.8378,Bar Kimbarà,RESTAURANT,bar_cafe
-40.695609,17.824997,ov_long_beach_bar_40.6956_17.8250,Long Beach Bar,RESTAURANT,bar_cafe
-40.648502,17.916220,ov_green_bar_40.6485_17.9162,Green Bar,RESTAURANT,bar_cafe
-40.646091,17.920005,ov_la_belle_epoque_cafe_40.6461_17.9200,La Belle Epoque Cafe,RESTAURANT,bar_cafe
-40.657860,17.938731,ov_gustapulia_40.6579_17.9387,GustApulia,RESTAURANT,bar_cafe
-40.656057,17.956746,ov_bar_tabacchi_sciaia_40.6561_17.9567,Bar Tabacchi Sciaia,RESTAURANT,bar_cafe
-40.655978,17.956627,ov_avenue_s_caf__40.6560_17.9566,Avenue's Cafè,RESTAURANT,bar_cafe
-40.660912,17.961960,ov_zefiro_40.6609_17.9620,ZEFIRO,RESTAURANT,bar_cafe
-40.660529,17.961729,ov_al_pontile_restaurant_40.6605_17.9617,Al pontile restaurant,RESTAURANT,bar_cafe
-40.649280,17.940850,ov_bar_al_punto_giusto_40.6493_17.9409,Bar Al punto giusto,RESTAURANT,bar_cafe
-40.646905,17.944257,ov_la_nuova_capannina_40.6469_17.9443,La Nuova Capannina,RESTAURANT,bar_cafe
-40.646904,17.943663,ov_birreria_64_40.6469_17.9437,Birreria 64,RESTAURANT,bar_cafe
-40.646300,17.943870,ov_pannamore01_40.6463_17.9439,Pannamore01,RESTAURANT,bar_cafe
-40.645402,17.946755,ov_la_capannina_40.6454_17.9468,La Capannina,RESTAURANT,bar_cafe
-40.646605,17.948618,ov_waterfront_amerigo_vespucci__brindisi_40.6466_17.9486,"Waterfront Amerigo Vespucci, Brindisi",RESTAURANT,bar_cafe
-40.626854,17.947458,ov_bar_caffe_80_40.6269_17.9475,Bar Caffe 80,RESTAURANT,bar_cafe
-40.624631,17.940184,ov_suisse_cafe_40.6246_17.9402,Suisse Cafe,RESTAURANT,bar_cafe
-40.626362,17.942092,ov_bar_pasticceria_mignon_40.6264_17.9421,Bar pasticceria mignon,RESTAURANT,bar_cafe
-40.631842,17.946302,ov_bar_royal_40.6318_17.9463,Bar Royal,RESTAURANT,bar_cafe
-40.631938,17.946945,ov_la_bottiglieria_40.6319_17.9469,La Bottiglieria,RESTAURANT,bar_cafe
-40.633810,17.941240,ov_bar_crepes___drinks_40.6338_17.9412,Bar Crepes & Drinks,RESTAURANT,bar_cafe
-40.633952,17.942914,ov_capolinea_cafe_40.6340_17.9429,Capolinea Cafe,RESTAURANT,bar_cafe
-40.634816,17.940680,ov_caffetteria_europa_40.6348_17.9407,Caffetteria Europa,RESTAURANT,bar_cafe
-40.634760,17.940254,ov_caff__italia_40.6348_17.9403,Caffè Italia,RESTAURANT,bar_cafe
-40.634700,17.940260,ov_caff__olimpia_40.6347_17.9403,Caffè Olimpia,RESTAURANT,bar_cafe
-40.634587,17.939129,ov_bar_buffet_stazione_40.6346_17.9391,Bar Buffet Stazione,RESTAURANT,bar_cafe
-40.636221,17.943915,ov_enjoy_40.6362_17.9439,Enjoy,RESTAURANT,bar_cafe
-40.635739,17.944284,ov_citra_beer_and_food_40.6357_17.9443,Citra Beer and Food,RESTAURANT,bar_cafe
-40.635710,17.944214,ov_the_lounge___sushi_bar_40.6357_17.9442,The LOUNGE - sushi bar,RESTAURANT,bar_cafe
-40.636051,17.943526,ov_caffe_continental_40.6361_17.9435,Caffe Continental,RESTAURANT,bar_cafe
-40.636249,17.945161,ov_caffe_veronica_40.6362_17.9452,Caffe Veronica,RESTAURANT,bar_cafe
-40.636405,17.945508,ov_manhattancafe_loungebar_brindisi_40.6364_17.9455,MANHATTANcafe Loungebar brindisi,RESTAURANT,bar_cafe
-40.636674,17.945005,ov_caffe_olympia_40.6367_17.9450,Caffe Olympia,RESTAURANT,bar_cafe
-40.636910,17.944499,ov_caffe_principe_40.6369_17.9445,Caffe Principe,RESTAURANT,bar_cafe
-40.636307,17.941974,ov_l_angolo_del_caff__40.6363_17.9420,L'angolo del Caffé,RESTAURANT,bar_cafe
-40.636712,17.939563,ov_beer_brewery_gruit_40.6367_17.9396,Beer Brewery GRUIT,RESTAURANT,bar_cafe
-40.638890,17.943973,ov_susumaniello_vineria_40.6389_17.9440,Susumaniello vineria,RESTAURANT,bar_cafe
-40.639370,17.943160,ov______________40.6394_17.9432,𐌂𐌉𐌍𐌒𐌵𐌄 𐌔𐌄𐌍𐌔𐌉,RESTAURANT,bar_cafe
-40.639613,17.943036,ov_schiuma___birreria_di_mare_40.6396_17.9430,Schiuma - birreria di mare,RESTAURANT,bar_cafe
-40.639962,17.943416,ov_artcaf__di_alessandra_40.6400_17.9434,ArtCafè di Alessandra,RESTAURANT,bar_cafe
-40.639356,17.945174,ov_caffetteria_letteraria_nervegna_40.6394_17.9452,Caffetteria Letteraria Nervegna,RESTAURANT,bar_cafe
-40.638198,17.945993,ov_anelli_enoteca_delizie_dal_1970_40.6382_17.9460,Anelli Enoteca delizie dal 1970,RESTAURANT,bar_cafe
-40.638369,17.945504,ov_caffe_matteotti_40.6384_17.9455,Caffe Matteotti,RESTAURANT,bar_cafe
-40.638543,17.944950,ov_spirito___the_right_one_40.6385_17.9449,Spirito - the right one,RESTAURANT,bar_cafe
-40.638711,17.944638,ov_spillo___the_right_beer_40.6387_17.9446,Spillo - The Right Beer,RESTAURANT,bar_cafe
-40.638617,17.944772,ov_bar_rosso_e_nero_40.6386_17.9448,Bar Rosso e Nero,RESTAURANT,bar_cafe
-40.638497,17.944261,ov_kiba_cocktail_bar_40.6385_17.9443,Kiba cocktail bar,RESTAURANT,bar_cafe
-40.638398,17.944282,ov_el_paso_pub_40.6384_17.9443,El Paso Pub,RESTAURANT,bar_cafe
-40.638177,17.943959,ov_spinnaker_40.6382_17.9440,Spinnaker,RESTAURANT,bar_cafe
-40.637780,17.944030,ov_liquid_fresh_fruit_bar_40.6378_17.9440,Liquid Fresh Fruit Bar,RESTAURANT,bar_cafe
-40.637678,17.944780,ov_72100___vino_e_bistrot_40.6377_17.9448,72100 • Vino e Bistrot,RESTAURANT,bar_cafe
-40.638019,17.944990,ov_alchemist_40.6380_17.9450,Alchemist,RESTAURANT,bar_cafe
-40.638127,17.944920,ov_da_felle_local_bar_40.6381_17.9449,Da Felle Local Bar,RESTAURANT,bar_cafe
-40.638125,17.945748,ov_barrique_40.6381_17.9457,Barrique,RESTAURANT,bar_cafe
-40.637784,17.946028,ov_materia_40.6378_17.9460,Materia,RESTAURANT,bar_cafe
-40.637620,17.946415,ov_american_bar_40.6376_17.9464,American Bar,RESTAURANT,bar_cafe
-40.638183,17.947054,ov_valentino_caff__40.6382_17.9471,Valentino Caffè,RESTAURANT,bar_cafe
-40.638516,17.947253,ov_ottavio_wine_bar_40.6385_17.9473,Ottavio Wine Bar,RESTAURANT,bar_cafe
-40.638240,17.946960,ov_chococaf__centro_brindisi_40.6382_17.9470,ChocoCafé_centro_Brindisi,RESTAURANT,bar_cafe
-40.638401,17.947190,ov_4errecafe_40.6384_17.9472,4Errecafe,RESTAURANT,bar_cafe
-40.638731,17.946769,ov_senzapepe_40.6387_17.9468,SenzaPepe,RESTAURANT,bar_cafe
-40.639183,17.947718,ov_caff__ausonia_40.6392_17.9477,Caffè Ausonia,RESTAURANT,bar_cafe
-40.635630,17.948860,ov_via_del_mare_brindisi_40.6356_17.9489,Via Del Mare Brindisi,RESTAURANT,bar_cafe
-40.640845,17.947383,ov_ristorante_pizzeria_skipper_di_bar_betty_40.6408_17.9474,Ristorante Pizzeria Skipper Di Bar Betty,RESTAURANT,bar_cafe
-40.641239,17.947223,ov_l_experience_40.6412_17.9472,L'Experience,RESTAURANT,bar_cafe
-40.641924,17.945098,ov_numero_primo_wine_bar_40.6419_17.9451,Numero Primo Wine bar,RESTAURANT,bar_cafe
-40.640418,17.941998,ov_birrart_birreria_clandestina_40.6404_17.9420,BirrArt Birreria Clandestina,RESTAURANT,bar_cafe
-40.640447,17.941202,ov_aragonese_pub_40.6404_17.9412,Aragonese Pub,RESTAURANT,bar_cafe
-40.644586,17.940019,ov_the_kiosk_in_the_village_40.6446_17.9400,The kiosk in the village,RESTAURANT,bar_cafe
-40.642899,17.933818,ov_vistamare_40.6429_17.9338,VistaMare,RESTAURANT,bar_cafe
-40.645350,17.934030,ov_my_way_40.6454_17.9340,My way,RESTAURANT,bar_cafe
-40.637807,17.931548,ov_vertigo_caffe_40.6378_17.9315,Vertigo Caffe,RESTAURANT,bar_cafe
-40.637945,17.938406,ov_caff__al_castello_40.6379_17.9384,Caffè al Castello,RESTAURANT,bar_cafe
-40.635211,17.937063,ov_shimmer_cafe_40.6352_17.9371,Shimmer Cafe,RESTAURANT,bar_cafe
-40.635112,17.935506,ov_altair_cafe_40.6351_17.9355,Altair Cafe,RESTAURANT,bar_cafe
-40.635445,17.933134,ov_bar_melissa_40.6354_17.9331,Bar Melissa,RESTAURANT,bar_cafe
-40.636463,17.935150,ov_roxy_bar_40.6365_17.9351,Roxy Bar,RESTAURANT,bar_cafe
-40.636932,17.932090,ov_divine_tentazioni_pasticceria_gelateria__40.6369_17.9321,Divine tentazioni pasticceria gelateria cioccolateria,RESTAURANT,bar_cafe
-40.637502,17.929690,ov_caf__bistrot_40.6375_17.9297,Cafè Bistrot,RESTAURANT,bar_cafe
-40.635913,17.929831,ov_benito_leo_40.6359_17.9298,Benito leo,RESTAURANT,bar_cafe
-40.637605,17.928886,ov_caffetteria_tancredi_40.6376_17.9289,Caffetteria Tancredi,RESTAURANT,bar_cafe
-40.644530,17.921800,ov_caffetteria_crazy_luck_40.6445_17.9218,Caffetteria crazy luck,RESTAURANT,bar_cafe
-40.626139,17.918961,ov_caff__liberty_40.6261_17.9190,Caffè Liberty,RESTAURANT,bar_cafe
-40.628032,17.923393,ov_appia_antica_40.6280_17.9234,APPIA Antica,RESTAURANT,bar_cafe
-40.632400,17.916795,ov_bar_rosticceria_erg_40.6324_17.9168,Bar Rosticceria ERG,RESTAURANT,bar_cafe
-40.631036,17.922887,ov_il_tesoretto_risto_pub__poggiardo_40.6310_17.9229,"Il Tesoretto Risto-Pub, Poggiardo",RESTAURANT,bar_cafe
-40.630855,17.923271,ov_il_covo_di_homer_40.6309_17.9233,Il Covo Di Homer,RESTAURANT,bar_cafe
-40.630116,17.924433,ov_vero_caffe_40.6301_17.9244,Vero Caffe,RESTAURANT,bar_cafe
-40.630540,17.927432,ov_2_0_cafe_40.6305_17.9274,2.0 Cafe,RESTAURANT,bar_cafe
-40.630026,17.930888,ov_eleonor_cafe__40.6300_17.9309,Eleonor Cafe',RESTAURANT,bar_cafe
-40.631260,17.928451,ov_appia_antica_40.6313_17.9285,Appia Antica,RESTAURANT,bar_cafe
-40.631331,17.928570,ov_mood_caf__40.6313_17.9286,Mood Cafè,RESTAURANT,bar_cafe
-40.631737,17.929258,ov_caff__for_you_40.6317_17.9293,Caffè for you,RESTAURANT,bar_cafe
-40.634388,17.932152,ov_bar_fulvia_40.6344_17.9322,Bar Fulvia,RESTAURANT,bar_cafe
-40.634406,17.934586,ov_caffe_concerto_sas_40.6344_17.9346,Caffe Concerto Sas,RESTAURANT,bar_cafe
-40.633378,17.935517,ov_caffetteria_glamour_40.6334_17.9355,Caffetteria Glamour,RESTAURANT,bar_cafe
-40.632403,17.936205,ov_mini_bar_40.6324_17.9362,Mini Bar,RESTAURANT,bar_cafe
-40.631932,17.938037,ov_bar_pasticceria_dalmazia_40.6319_17.9380,Bar Pasticceria Dalmazia,RESTAURANT,bar_cafe
-40.631059,17.935431,ov_gorgon_s_cafe_40.6311_17.9354,Gorgon's Cafe,RESTAURANT,bar_cafe
-40.631809,17.933660,ov_arte_musica_e_dintorni_40.6318_17.9337,Arte Musica e Dintorni,RESTAURANT,bar_cafe
-40.630947,17.933718,ov_bar_lilly___cafe___cornetteria___aperiti_40.6309_17.9337,Bar Lilly...cafe...cornetteria...aperitivi,RESTAURANT,bar_cafe
-40.629797,17.934532,ov_bar_gino_40.6298_17.9345,Bar Gino,RESTAURANT,bar_cafe
-40.627433,17.935555,ov_bar_new_life_40.6274_17.9356,Bar New Life,RESTAURANT,bar_cafe
-40.627617,17.932309,ov_cavo_caffe_40.6276_17.9323,Cavo Caffe,RESTAURANT,bar_cafe
-40.629090,17.932301,ov_old_dream_cafe_40.6291_17.9323,Old Dream Cafe,RESTAURANT,bar_cafe
-40.628884,17.927997,ov_bar_rosso_e_nero_40.6289_17.9280,Bar Rosso e Nero,RESTAURANT,bar_cafe
-40.627700,17.925190,ov_manhattan_pasticceria_40.6277_17.9252,Manhattan Pasticceria,RESTAURANT,bar_cafe
-40.627607,17.930550,ov_bds_cafe__40.6276_17.9306,BDS CAFE',RESTAURANT,bar_cafe
-40.626841,17.925663,ov_ruggine_birreria_di_quartiere_40.6268_17.9257,Ruggine Birreria di Quartiere,RESTAURANT,bar_cafe
-40.626073,17.924811,ov_bar_nuovo_fiore_40.6261_17.9248,Bar Nuovo Fiore,RESTAURANT,bar_cafe
-40.626090,17.924810,ov_greenwhite_caf__40.6261_17.9248,Greenwhite cafè,RESTAURANT,bar_cafe
-40.624953,17.924312,ov_butterfly_caffetteria_40.6250_17.9243,Butterfly Caffetteria,RESTAURANT,bar_cafe
-40.624733,17.928169,ov_il_corallo_40.6247_17.9282,Il Corallo,RESTAURANT,bar_cafe
-40.625797,17.928136,ov_bar_900_40.6258_17.9281,Bar 900,RESTAURANT,bar_cafe
-40.625419,17.931352,ov_caf__monik_40.6254_17.9314,Café Monik,RESTAURANT,bar_cafe
-40.626220,17.931694,ov_caffetteria_gio_40.6262_17.9317,Caffetteria Gio,RESTAURANT,bar_cafe
-40.626318,17.937214,ov_bar_al_parco_da_lucone_40.6263_17.9372,Bar Al Parco Da Lucone,RESTAURANT,bar_cafe
-40.625691,17.935543,ov_caffetteria_la_piazza_40.6257_17.9355,Caffetteria La Piazza,RESTAURANT,bar_cafe
-40.623079,17.931553,ov_patronato_encal____caf___cisal_40.6231_17.9316,Patronato Encal /  Caf - Cisal,RESTAURANT,bar_cafe
-40.624452,17.931341,ov_the_king_of_slot_40.6245_17.9313,The King Of Slot,RESTAURANT,bar_cafe
-40.623648,17.930267,ov_bar_meguada_40.6236_17.9303,BAR Meguada,RESTAURANT,bar_cafe
-40.623660,17.930190,ov_bar_chanel_40.6237_17.9302,Bar Chanel,RESTAURANT,bar_cafe
-40.623879,17.927692,ov_forum_cafe__40.6239_17.9277,Forum Cafe',RESTAURANT,bar_cafe
-40.624091,17.925426,ov_caff__2001_40.6241_17.9254,Caffè 2001,RESTAURANT,bar_cafe
-40.622990,17.930012,ov_caffe_bistro_40.6230_17.9300,Caffe Bistro,RESTAURANT,bar_cafe
-40.619732,17.927558,ov_bar_piccadilly___brindisi___sant_elia_40.6197_17.9276,Bar Piccadilly - Brindisi - Sant’Elia,RESTAURANT,bar_cafe
-40.618163,17.902339,ov_genius_40.6182_17.9023,Genius,RESTAURANT,bar_cafe
-40.618576,17.903050,ov_caffe_pascucci_40.6186_17.9030,Caffe Pascucci,RESTAURANT,bar_cafe
-40.619221,17.943708,ov_agip_caf__40.6192_17.9437,Agip café,RESTAURANT,bar_cafe
-40.624230,17.941225,ov_dejav__caf__40.6242_17.9412,Dejavù cafè,RESTAURANT,bar_cafe
-40.623228,17.941251,ov_eden_cafe_40.6232_17.9413,Eden Cafe,RESTAURANT,bar_cafe
-40.620784,17.950151,ov_caff__quaranta_40.6208_17.9502,Caffè Quaranta,RESTAURANT,bar_cafe
-40.636488,17.945545,osm_food_manhattan_40.6365_17.9455,Food Manhattan,bar_cafe,bar_cafe
-40.634643,17.939875,osm_bar_chiosco_40.6346_17.9399,Bar Chiosco,bar_cafe,bar_cafe
-40.633437,17.932895,osm_peddy_bar_40.6334_17.9329,Peddy Bar,bar_cafe,bar_cafe
-40.630878,17.939415,osm_family_caff__40.6309_17.9394,Family Caffè,bar_cafe,bar_cafe
-40.693240,17.832000,ov_40_nodi_40.6932_17.8320,40 nodi,GYM,palestra
-40.702921,17.810427,ov_centro_velico_torreguaceto_40.7029_17.8104,Centro Velico Torreguaceto,GYM,palestra
-40.660389,17.852058,ov_centro_ippico_brancasi_40.6604_17.8521,Centro Ippico Brancasi,GYM,palestra
-40.645935,17.937932,ov_palamelfi_assi_brindisi_40.6459_17.9379,Palamelfi Assi Brindisi,GYM,palestra
-40.645780,17.938000,ov_pugilistica_rodio_40.6458_17.9380,Pugilistica Rodio,GYM,palestra
-40.660399,17.904162,ov_circolo_ippico_mitrano_40.6604_17.9042,Circolo Ippico Mitrano,GYM,palestra
-40.659567,17.904133,ov_scuderia_mitrano_40.6596_17.9041,Scuderia Mitrano,GYM,palestra
-40.654482,17.955284,ov_the_big_wave_dive_center_brindisi_40.6545_17.9553,The Big Wave Dive Center Brindisi,GYM,palestra
-40.645739,17.942022,ov_brindisi_surf_club_40.6457_17.9420,Brindisi Surf Club,GYM,palestra
-40.645943,17.947452,ov_palestra_golden_clinique_40.6459_17.9475,Palestra Golden Clinique,GYM,palestra
-40.645766,17.947243,ov_golden_ssd_40.6458_17.9472,Golden Ssd,GYM,palestra
-40.646010,17.947006,ov_artelier_della_danza_a_s_d__40.6460_17.9470,Artelier della Danza a.s.d.,GYM,palestra
-40.627629,17.943415,ov_asd_new_phisiodinamic_40.6276_17.9434,Asd New Phisiodinamic,GYM,palestra
-40.629490,17.946619,ov_a_s_d__centro_danza_brindisi_40.6295_17.9466,A.s.d. Centro Danza Brindisi,GYM,palestra
-40.632810,17.953990,ov_cral_petrolchimico_brindisi_40.6328_17.9540,CRAL Petrolchimico Brindisi,GYM,palestra
-40.632711,17.945286,ov_ginnastica_brindisi_temese_40.6327_17.9453,Ginnastica Brindisi Temese,GYM,palestra
-40.632961,17.941029,ov_j_4_you_garage_gym_40.6330_17.9410,J 4 You Garage Gym,GYM,palestra
-40.633977,17.941456,ov_fresh_family_academy_40.6340_17.9415,Fresh Family Academy,GYM,palestra
-40.634780,17.939136,ov_progym_h24_40.6348_17.9391,PROGYM H24,GYM,palestra
-40.635887,17.941128,ov_fitness_point_40.6359_17.9411,Fitness Point,GYM,palestra
-40.637391,17.943426,ov_boxeiaia_brindisi_40.6374_17.9434,Boxeiaia Brindisi,GYM,palestra
-40.637350,17.941637,ov_top_gym_club_40.6374_17.9416,Top Gym Club,GYM,palestra
-40.639580,17.941940,ov_aisha_oriental_dance_brindisi_40.6396_17.9419,Aisha Oriental Dance Brindisi,GYM,palestra
-40.639290,17.947860,ov_royal_88_di_elia_cataldo_40.6393_17.9479,Royal 88 di Elia Cataldo,GYM,palestra
-40.637872,17.933179,ov_a_c_s_d__accademia_delle_danze_40.6379_17.9332,A.C.S.D. Accademia delle Danze,GYM,palestra
-40.638018,17.932255,ov_ds_gym_h24_40.6380_17.9323,DS Gym h24,GYM,palestra
-40.638797,17.937880,ov_palazumbo_dinamo_brindisi_40.6388_17.9379,Palazumbo Dinamo Brindisi,GYM,palestra
-40.636512,17.935439,ov_body_fit_40.6365_17.9354,Body Fit,GYM,palestra
-40.636407,17.936381,ov_accademia_di_danza_tersicore_40.6364_17.9364,Accademia di Danza Tersicore,GYM,palestra
-40.635140,17.935609,ov_my_personal_lab_40.6351_17.9356,My Personal Lab,GYM,palestra
-40.636129,17.933287,ov_palestra_new_gym_40.6361_17.9333,Palestra New Gym,GYM,palestra
-40.636690,17.932900,ov_sabrina_todisco_studio_danza_accademica_40.6367_17.9329,Sabrina Todisco Studio Danza Accademica,GYM,palestra
-40.636637,17.934854,ov_big_palestra_40.6366_17.9349,Big Palestra,GYM,palestra
-40.636585,17.935258,ov_la_maison_de_la_danse_asd_40.6366_17.9353,La Maison de la Danse ASD,GYM,palestra
-40.636626,17.934233,ov_a_s_d__opificio_della_danza_40.6366_17.9342,A.S.D. Opificio della Danza,GYM,palestra
-40.636933,17.925096,ov_ms_fitness_40.6369_17.9251,MS Fitness,GYM,palestra
-40.638020,17.925021,ov_boxing_academy_team_capuano_40.6380_17.9250,Boxing Academy Team Capuano,GYM,palestra
-40.637613,17.928867,ov_emotivamente_equilibrio_e_benessere_40.6376_17.9289,Emotivamente Equilibrio e Benessere,GYM,palestra
-40.637629,17.930264,ov_street_school___hip_hop_academy_40.6376_17.9303,Street School - Hip Hop Academy,GYM,palestra
-40.644563,17.918731,ov_evo_40.6446_17.9187,EVO,GYM,palestra
-40.630569,17.923771,ov_just_fit_40.6306_17.9238,Just Fit,GYM,palestra
-40.630521,17.930776,ov_asd_oltredanza_brindisi_40.6305_17.9308,Asd Oltredanza Brindisi,GYM,palestra
-40.630403,17.928751,ov_dancing_stars_40.6304_17.9288,Dancing Stars,GYM,palestra
-40.631570,17.929472,ov_associazione_sportiva_sergio_ragno_40.6316_17.9295,Associazione Sportiva Sergio Ragno,GYM,palestra
-40.631716,17.929160,ov_studio_dance_40.6317_17.9292,Studio Dance,GYM,palestra
-40.631031,17.927492,ov_asd_area86_40.6310_17.9275,ASD Area86,GYM,palestra
-40.634171,17.926008,ov_club_olympia_40.6342_17.9260,Club Olympia,GYM,palestra
-40.632762,17.934136,ov_il_civico_40.6328_17.9341,Il Civico,GYM,palestra
-40.634611,17.935063,ov_athleticstyle_asd_40.6346_17.9351,Athleticstyle ASD,GYM,palestra
-40.631080,17.933001,ov_wellness_studio_asd_40.6311_17.9330,Wellness Studio Asd,GYM,palestra
-40.631082,17.933006,ov_metodo_loney___brindisi_40.6311_17.9330,Metodo Loney - Brindisi,GYM,palestra
-40.631409,17.935195,ov_vertical_gym_asd_40.6314_17.9352,Vertical gym asd,GYM,palestra
-40.627870,17.934350,ov_studio_dance_brindisi_40.6279_17.9343,Studio Dance Brindisi,GYM,palestra
-40.627305,17.931615,ov_movement_lab_360_40.6273_17.9316,Movement Lab 360,GYM,palestra
-40.629505,17.931156,ov_asd_dream_oriental_and_fitness_40.6295_17.9312,ASD Dream Oriental and Fitness,GYM,palestra
-40.628880,17.924758,ov_revolution_fitness_40.6289_17.9248,Revolution Fitness,GYM,palestra
-40.627642,17.928813,ov_arcoyoga_brindisi_40.6276_17.9288,Arcoyoga Brindisi,GYM,palestra
-40.625643,17.927709,ov_nautilus_40.6256_17.9277,Nautilus,GYM,palestra
-40.627033,17.932443,ov_new_power_gym_40.6270_17.9324,New Power Gym,GYM,palestra
-40.624006,17.926714,ov_asd_progetto_benessere_40.6240_17.9267,Asd Progetto Benessere,GYM,palestra
-40.624423,17.926647,ov_centro_arte_danza_40.6244_17.9266,Centro Arte Danza,GYM,palestra
-40.623765,17.923790,ov_health_club_40.6238_17.9238,Health Club,GYM,palestra
-40.623826,17.926125,ov_beautiful_dance_latino_40.6238_17.9261,Beautiful Dance Latino,GYM,palestra
-40.616133,17.929840,ov_palestra_santuario_gesu_la_rosa_40.6161_17.9298,Palestra Santuario Gesu La Rosa,GYM,palestra
-40.616880,17.931080,ov_coerver_play_like_the_stars_brindisi_40.6169_17.9311,Coerver Play Like The Stars Brindisi,GYM,palestra
-40.617406,17.921746,ov_a_s_d__releve_ritmica_brindisi_40.6174_17.9217,A.S.D. Releve Ritmica Brindisi,GYM,palestra
-40.620126,17.914732,ov_jazzercise_brindisi_40.6201_17.9147,Jazzercise Brindisi,GYM,palestra
-40.606726,17.950417,ov_olivier_sport_40.6067_17.9504,Olivier SPORT,GYM,palestra
-40.604170,17.953321,ov_jiaoshi_angelo_cofano_taijiquan_brindisi_40.6042_17.9533,Jiaoshi Angelo Cofano Taijiquan Brindisi,GYM,palestra
-40.616191,17.949695,ov_tiro_a_segno_nazionale_40.6162_17.9497,Tiro A Segno Nazionale,GYM,palestra
-40.619957,17.945382,ov_asd_in_punta_di_piedi_brindisi_40.6200_17.9454,Asd in Punta Di Piedi Brindisi,GYM,palestra
-40.620680,17.943613,ov_lg_sport_lab_personal_training_40.6207_17.9436,Lg sport lab personal training,GYM,palestra
-40.621794,17.944328,ov_mamacita_latin_dance_school_40.6218_17.9443,Mamacita Latin Dance School,GYM,palestra
-40.623885,17.940814,ov_g_club_healthandfitness_40.6239_17.9408,G-Club Healthandfitness,GYM,palestra
-40.688346,17.869588,ov_torre_testa_40.6883_17.8696,Torre Testa,MONUMENT,monumento
-40.650152,17.914095,ov_castello_aragonese_40.6502_17.9141,Castello Aragonese,MONUMENT,monumento
-40.656387,17.967691,ov_castello_alfonsino_di_brindisi_40.6564_17.9677,Castello Alfonsino di Brindisi,MONUMENT,monumento
-40.631858,17.942174,ov_bastione_san_giacomo_40.6319_17.9422,Bastione San Giacomo,MONUMENT,monumento
-40.634847,17.944364,ov_museo_vullnet_idriz_shtini_40.6348_17.9444,Museo Vullnet Idriz Shtini,MUSEUM,monumento
-40.636138,17.939278,ov_casa_di_quartiere_minimus_40.6361_17.9393,Casa di quartiere Minimus,MUSEUM,monumento
-40.636447,17.939142,ov_porta_mesagne_40.6364_17.9391,Porta Mesagne,MONUMENT,monumento
-40.638840,17.945673,ov_area_archeologica_san_pietro_degli_schia_40.6388_17.9457,Area Archeologica San Pietro degli Schiavoni,MUSEUM,monumento
-40.644536,17.946895,ov_monumento_al_marinaio_40.6445_17.9469,Monumento al Marinaio,MONUMENT,monumento
-40.641082,17.946769,ov_colonne_romane_40.6411_17.9468,Colonne Romane,MONUMENT,monumento
-40.641361,17.947347,ov_collezione_archeologica_faldetta_40.6414_17.9473,Collezione Archeologica Faldetta,MUSEUM,monumento
-40.641350,17.946871,ov_palazzina_belvedere_40.6414_17.9469,Palazzina Belvedere,MUSEUM,monumento
-40.641829,17.945379,ov_casa_del_turista_40.6418_17.9454,Casa Del Turista,MUSEUM,monumento
-40.640240,17.943260,ov_museo_diocesano_g__tarantini_40.6402_17.9433,Museo Diocesano G. Tarantini,MUSEUM,monumento
-40.640275,17.937118,ov_castello_svevo_40.6403_17.9371,Castello Svevo,MONUMENT,monumento
+40.644459,17.937811,ov_asl_brindisi_40.6445_17.9378,ASL Brindisi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_brindisi_40.6445_17.9378.json,custom
+40.635267,17.932105,ov_polo_universitario_asl_br_40.6353_17.9321,Polo Universitario ASL-BR,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/polo_universitario_asl-br_40.6353_17.9321.json,custom
+40.635895,17.930978,ov_emedea__la_nostra_famiglia_40.6359_17.9310,Emedea  La Nostra Famiglia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/emedea_la_nostra_famiglia_40.6359_17.9310.json,custom
+40.631542,17.938871,ov_asl___dss_brindisi_01_40.6315_17.9389,ASL - DSS Brindisi 01,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_-_dss_brindisi_01_40.6315_17.9389.json,custom
+40.624024,17.914314,ov_ospedale_perrino_40.6240_17.9143,Ospedale Perrino,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ospedale_perrino_40.6240_17.9143.json,custom
+40.631560,17.938874,osm_asl_brindisi_40.6316_17.9389,ASL Brindisi,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asl_brindisi_40.6316_17.9389.json,custom
+40.556475,17.763876,ov_makoto_ristorante_giapponese_cinese_40.5565_17.7639,Makoto Ristorante Giapponese Cinese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/makoto_ristorante_giapponese_cinese_40.5565_17.7639.json,custom
+40.601642,17.916989,ov_locanda_san_lorenzo_brindisi_40.6016_17.9170,Locanda San Lorenzo Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/locanda_san_lorenzo_brindisi_40.6016_17.9170.json,custom
+40.544876,17.948680,ov_binario_40_pizza_and_bistrot_40.5449_17.9487,Binario 40 Pizza and Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/binario_40_pizza_and_bistrot_40.5449_17.9487.json,custom
+40.697512,17.820775,ov_boa_gialla_40.6975_17.8208,Boa Gialla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/boa_gialla_40.6975_17.8208.json,custom
+40.614775,17.819285,ov_masseria_baroni_nuovi_40.6148_17.8193,Masseria Baroni Nuovi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/masseria_baroni_nuovi_40.6148_17.8193.json,custom
+40.638681,17.866517,ov_la_locanda_ti_li_spilusi_40.6387_17.8665,La Locanda Ti Li Spilusi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_locanda_ti_li_spilusi_40.6387_17.8665.json,custom
+40.677731,17.821507,ov_braceria_la_palma_40.6777_17.8215,Braceria La Palma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/braceria_la_palma_40.6777_17.8215.json,custom
+40.684895,17.831753,ov_azienda_agricola_fra_diavolo_40.6849_17.8318,Azienda Agricola Fra Diavolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/azienda_agricola_fra_diavolo_40.6849_17.8318.json,custom
+40.679450,17.874710,ov_gustapulia_40.6795_17.8747,Gustapulia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/gustapulia_40.6795_17.8747.json,custom
+40.655038,17.898916,ov_brindisi_citta__d_acqua_40.6550_17.8989,Brindisi Citta' D'acqua,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/brindisi_citta_dacqua_40.6550_17.8989.json,custom
+40.648971,17.920357,ov_kasawika_40.6490_17.9204,Kasawika,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/kasawika_40.6490_17.9204.json,custom
+40.648434,17.920615,ov_supermercato_famila_40.6484_17.9206,Supermercato Famila,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/supermercato_famila_40.6484_17.9206.json,custom
+40.657745,17.938482,ov_pulia_40.6577_17.9385,Pulia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pulia_40.6577_17.9385.json,custom
+40.657745,17.938482,ov_autogrill_amore_do_eat_better_40.6577_17.9385,Autogrill AMORE Do Eat Better,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/autogrill_amore_do_eat_better_40.6577_17.9385.json,custom
+40.678588,17.937884,ov_la_nuova_casareccia_40.6786_17.9379,La Nuova Casareccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_nuova_casareccia_40.6786_17.9379.json,custom
+40.674620,17.941050,ov_villa_borromeo_40.6746_17.9411,Villa Borromeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/villa_borromeo_40.6746_17.9411.json,custom
+40.676440,17.939790,ov_crepy_amo2021_40.6764_17.9398,Crepy amo2021,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/crepy_amo2021_40.6764_17.9398.json,custom
+40.664776,17.952254,ov_lido_brin_40.6648_17.9523,Lido Brin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lido_brin_40.6648_17.9523.json,custom
+40.664790,17.949660,ov_granchio_rosso_bar_pizzeria_40.6648_17.9497,Granchio Rosso Bar Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/granchio_rosso_bar_pizzeria_40.6648_17.9497.json,custom
+40.656762,17.945349,ov_autogrill_40.6568_17.9453,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/autogrill_40.6568_17.9453.json,custom
+40.658734,17.958141,ov_rist_pizzeria_la_sciaia_a_mare_40.6587_17.9581,Rist.Pizzeria La Sciaia a mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristpizzeria_la_sciaia_a_mare_40.6587_17.9581.json,custom
+40.660569,17.961476,ov_il_porticciolo_40.6606_17.9615,Il Porticciolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_porticciolo_40.6606_17.9615.json,custom
+40.646980,17.943846,ov_la_griglia_40.6470_17.9438,La griglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_griglia_40.6470_17.9438.json,custom
+40.646858,17.943687,ov_de_vitis_nicola_40.6469_17.9437,De Vitis Nicola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/de_vitis_nicola_40.6469_17.9437.json,custom
+40.647140,17.943190,ov_mari_misti_40.6471_17.9432,Mari Misti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mari_misti_40.6471_17.9432.json,custom
+40.647659,17.943145,ov_l_angolo_40.6477_17.9431,L'Angolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/langolo_40.6477_17.9431.json,custom
+40.645616,17.943919,ov_la_scalinata_40.6456_17.9439,La scalinata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_scalinata_40.6456_17.9439.json,custom
+40.646094,17.943690,ov_merceria_casale_40.6461_17.9437,Merceria Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/merceria_casale_40.6461_17.9437.json,custom
+40.646152,17.943497,ov_in_cucina_dall__ortolano_2_0_40.6462_17.9435,In Cucina Dall' Ortolano 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/in_cucina_dall_ortolano_20_40.6462_17.9435.json,custom
+40.646328,17.943660,ov_solo_di_sera_40.6463_17.9437,Solo Di Sera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/solo_di_sera_40.6463_17.9437.json,custom
+40.646572,17.943642,ov_pizzeria_rosticceria_brindisi_40.6466_17.9436,Pizzeria Rosticceria Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_rosticceria_brindisi_40.6466_17.9436.json,custom
+40.646458,17.944004,ov_la_pizzeria_da_piero_40.6465_17.9440,La Pizzeria da Piero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_pizzeria_da_piero_40.6465_17.9440.json,custom
+40.626322,17.942311,ov_pizza___sfizi_40.6263_17.9423,Pizza & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizza_sfizi_40.6263_17.9423.json,custom
+40.626412,17.941631,ov_la_puddica_40.6264_17.9416,La Puddica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_puddica_40.6264_17.9416.json,custom
+40.628365,17.943037,ov_spiedo_matto___ristorante__braceria_e_pi_40.6284_17.9430,"Spiedo Matto - Ristorante, Braceria e Pizzeria a Brindisi",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/spiedo_matto_-_ristorante_braceria_e_piz_40.6284_17.9430.json,custom
+40.630718,17.940820,ov_o_lucianiello_40.6307_17.9408,O'Lucianiello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/olucianiello_40.6307_17.9408.json,custom
+40.630527,17.940084,ov_sushi_feng_40.6305_17.9401,Sushi Feng,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/sushi_feng_40.6305_17.9401.json,custom
+40.631207,17.940163,ov_romanelli_40.6312_17.9402,Romanelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/romanelli_40.6312_17.9402.json,custom
+40.632350,17.947430,ov_il_panino_matto_40.6324_17.9474,Il Panino Matto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_panino_matto_40.6324_17.9474.json,custom
+40.634433,17.942956,ov_kebab_pizza_adana_40.6344_17.9430,kebab pizza adana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/kebab_pizza_adana_40.6344_17.9430.json,custom
+40.633960,17.946730,ov_il_capriccio_40.6340_17.9467,Il Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_capriccio_40.6340_17.9467.json,custom
+40.632995,17.945935,ov_quaranta_caff__40.6330_17.9459,Quaranta Caffè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/quaranta_caff_40.6330_17.9459.json,custom
+40.633715,17.940614,ov_hello_guys___the_burger_joint_40.6337_17.9406,Hello Guys - The Burger Joint,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/hello_guys_-_the_burger_joint_40.6337_17.9406.json,custom
+40.633780,17.940550,ov_hambjuj_40.6338_17.9406,Hambjuj,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/hambjuj_40.6338_17.9406.json,custom
+40.634003,17.942879,ov_pizzeria_cucinelli_da_osvaldo_40.6340_17.9429,Pizzeria Cucinelli da Osvaldo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_cucinelli_da_osvaldo_40.6340_17.9429.json,custom
+40.634965,17.940282,ov_pizzeria_la_diavola_40.6350_17.9403,Pizzeria La Diavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_la_diavola_40.6350_17.9403.json,custom
+40.634940,17.940538,ov_my_poke_brindisi_40.6349_17.9405,My Poke Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/my_poke_brindisi_40.6349_17.9405.json,custom
+40.635984,17.940954,ov_iku_sushi_40.6360_17.9410,Iku Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/iku_sushi_40.6360_17.9410.json,custom
+40.635392,17.942807,ov_burgerhouse_40.6354_17.9428,Burgerhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/burgerhouse_40.6354_17.9428.json,custom
+40.635272,17.942284,ov_parrucchieri_men_women_40.6353_17.9423,Parrucchieri.men.women,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/parrucchierimenwomen_40.6353_17.9423.json,custom
+40.635210,17.942480,ov_ristorante_pizzeria_a_metro_maccheroni_40.6352_17.9425,Ristorante Pizzeria a Metro Maccheroni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_pizzeria_a_metro_maccheroni_40.6352_17.9425.json,custom
+40.635200,17.943804,ov_bento_40.6352_17.9438,Bento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bento_40.6352_17.9438.json,custom
+40.635247,17.943679,ov_taschino_street_sud_40.6352_17.9437,Taschino street sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/taschino_street_sud_40.6352_17.9437.json,custom
+40.635533,17.942928,ov_secca_40.6355_17.9429,Secca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/secca_40.6355_17.9429.json,custom
+40.635541,17.946364,ov_la_strittulecchia_40.6355_17.9464,La strittulecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_strittulecchia_40.6355_17.9464.json,custom
+40.636023,17.945024,ov_il_botteghino_40.6360_17.9450,Il Botteghino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_botteghino_40.6360_17.9450.json,custom
+40.636152,17.944933,ov_sushiro_brindisi_40.6362_17.9449,Sushiro Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/sushiro_brindisi_40.6362_17.9449.json,custom
+40.636113,17.945118,ov_spilusi_40.6361_17.9451,Spilusi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/spilusi_40.6361_17.9451.json,custom
+40.636220,17.944835,ov_arabella__fish_restaurant_40.6362_17.9448,Arabella- Fish Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/arabella-_fish_restaurant_40.6362_17.9448.json,custom
+40.636187,17.944092,ov_c_era_una_volta_40.6362_17.9441,C'era una volta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cera_una_volta_40.6362_17.9441.json,custom
+40.636147,17.943891,ov_100_____a_stare_40.6361_17.9439,100 ... A Stare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/100_a_stare_40.6361_17.9439.json,custom
+40.636000,17.943980,ov_nota___drink_wine_food_40.6360_17.9440,Nota - Drink Wine Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/nota_-_drink_wine_food_40.6360_17.9440.json,custom
+40.635591,17.944335,ov_rendez_vous_cafe_bistrot_40.6356_17.9443,Rendez-Vous Cafe Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/rendez-vous_cafe_bistrot_40.6356_17.9443.json,custom
+40.636396,17.944969,ov_la_capricciosa_40.6364_17.9450,La Capricciosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_capricciosa_40.6364_17.9450.json,custom
+40.636623,17.946344,ov_mama_trattoria_di_mare_40.6366_17.9463,Mama Trattoria di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mama_trattoria_di_mare_40.6366_17.9463.json,custom
+40.636919,17.946409,ov_pizzeria_romanelli_40.6369_17.9464,Pizzeria Romanelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_romanelli_40.6369_17.9464.json,custom
+40.637118,17.946393,ov_nove_radici___apulian_food_experience_40.6371_17.9464,Nove Radici - Apulian Food Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/nove_radici_-_apulian_food_experience_40.6371_17.9464.json,custom
+40.637261,17.946189,ov_l_angolo_della_piada_40.6373_17.9462,L'Angolo della Piada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/langolo_della_piada_40.6373_17.9462.json,custom
+40.637231,17.946403,ov_ristorante_giubilo_40.6372_17.9464,Ristorante Giubilo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_giubilo_40.6372_17.9464.json,custom
+40.637483,17.946374,ov_principepatata_40.6375_17.9464,Principepatata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/principepatata_40.6375_17.9464.json,custom
+40.637282,17.945581,ov_mova_sushi_fusion_restaurant_40.6373_17.9456,Mova Sushi Fusion Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mova_sushi_fusion_restaurant_40.6373_17.9456.json,custom
+40.637231,17.944931,ov_nobis_food_40.6372_17.9449,NOBIS Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/nobis_food_40.6372_17.9449.json,custom
+40.637453,17.944791,ov_pizzeria_la_piazzetta_40.6375_17.9448,Pizzeria La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_la_piazzetta_40.6375_17.9448.json,custom
+40.637275,17.944076,ov_lu_furnu_40.6373_17.9441,Lu Furnu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lu_furnu_40.6373_17.9441.json,custom
+40.637286,17.944685,ov_fao_37_40.6373_17.9447,Fao 37,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/fao_37_40.6373_17.9447.json,custom
+40.637103,17.944468,ov_bracerie_escosazio_40.6371_17.9445,Bracerie Escosazio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bracerie_escosazio_40.6371_17.9445.json,custom
+40.637328,17.942947,ov_trattoria_la_brasciola_40.6373_17.9429,Trattoria la Brasciola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/trattoria_la_brasciola_40.6373_17.9429.json,custom
+40.636692,17.939563,ov_hanami_40.6367_17.9396,Hanami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/hanami_40.6367_17.9396.json,custom
+40.638810,17.942654,ov_toto___raf_40.6388_17.9427,Toto & Raf,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/toto_raf_40.6388_17.9427.json,custom
+40.638637,17.941436,ov_cascip__40.6386_17.9414,Cascipò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cascip_40.6386_17.9414.json,custom
+40.639703,17.940965,ov_ristorante_pizzeria_regine_40.6397_17.9410,Ristorante Pizzeria Regine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_pizzeria_regine_40.6397_17.9410.json,custom
+40.639488,17.941867,ov_smoke_40.6395_17.9419,Smoke,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/smoke_40.6395_17.9419.json,custom
+40.638851,17.943040,ov_il_tempio_dei_sapori_40.6389_17.9430,Il Tempio dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_tempio_dei_sapori_40.6389_17.9430.json,custom
+40.638850,17.943761,ov_pizzeria_spaccanapoli_40.6389_17.9438,Pizzeria SpaccaNapoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_spaccanapoli_40.6389_17.9438.json,custom
+40.639831,17.942958,ov_acquapazza_40.6398_17.9430,Acquapazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/acquapazza_40.6398_17.9430.json,custom
+40.639878,17.943156,ov_brunda_pizzeria_40.6399_17.9432,Brunda Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/brunda_pizzeria_40.6399_17.9432.json,custom
+40.640135,17.944350,ov_il_giardino_40.6401_17.9444,Il Giardino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_giardino_40.6401_17.9444.json,custom
+40.639707,17.944828,ov_social___hamburgeria_40.6397_17.9448,Social - Hamburgeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/social_-_hamburgeria_40.6397_17.9448.json,custom
+40.639342,17.945801,ov_retrogusto_40.6393_17.9458,Retrogusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/retrogusto_40.6393_17.9458.json,custom
+40.638260,17.946369,ov_la_cantina_ti_l_artisti_40.6383_17.9464,La Cantina Ti L'Artisti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_cantina_ti_lartisti_40.6383_17.9464.json,custom
+40.638310,17.945530,ov_fava_40.6383_17.9455,Fava,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/fava_40.6383_17.9455.json,custom
+40.638479,17.944995,ov_empanadas_de_diez_40.6385_17.9450,Empanadas De Diez,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/empanadas_de_diez_40.6385_17.9450.json,custom
+40.638542,17.944949,ov_taylor_s_bistrot_40.6385_17.9449,Taylor's Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/taylors_bistrot_40.6385_17.9449.json,custom
+40.638806,17.943581,ov_antipasteria_il_carpaccio_40.6388_17.9436,Antipasteria Il Carpaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antipasteria_il_carpaccio_40.6388_17.9436.json,custom
+40.638311,17.944155,ov_concordia_bistrot_40.6383_17.9442,Concordia Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/concordia_bistrot_40.6383_17.9442.json,custom
+40.638299,17.944105,ov_la_plaza_brindisi_40.6383_17.9441,La Plaza Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_plaza_brindisi_40.6383_17.9441.json,custom
+40.637709,17.944261,ov_trattoria_siamo_fritti_40.6377_17.9443,Trattoria Siamo Fritti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/trattoria_siamo_fritti_40.6377_17.9443.json,custom
+40.637725,17.944783,ov_putea___sapore_di_sud_40.6377_17.9448,Putea - sapore di sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/putea_-_sapore_di_sud_40.6377_17.9448.json,custom
+40.637842,17.944862,ov_molo_33_40.6378_17.9449,Molo 33,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/molo_33_40.6378_17.9449.json,custom
+40.638032,17.944939,ov_pizza___sfizi_40.6380_17.9449,Pizza & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizza_sfizi_40.6380_17.9449.json,custom
+40.637989,17.945753,ov_iku_sushi_bar_food_drink_40.6380_17.9458,IKU SUSHI BAR Food&Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/iku_sushi_bar_fooddrink_40.6380_17.9458.json,custom
+40.637838,17.946414,ov_edo_40.6378_17.9464,Edo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/edo_40.6378_17.9464.json,custom
+40.637915,17.947329,ov_piadineria_40.6379_17.9473,Piadineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/piadineria_40.6379_17.9473.json,custom
+40.638490,17.947510,ov_urban_beat_burger___coffee_40.6385_17.9475,Urban Beat Burger & Coffee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/urban_beat_burger_coffee_40.6385_17.9475.json,custom
+40.638270,17.947425,ov_mama_panzerotti_40.6383_17.9474,Mama Panzerotti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mama_panzerotti_40.6383_17.9474.json,custom
+40.638286,17.947205,ov_barbecue_brothers_40.6383_17.9472,Barbecue Brothers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/barbecue_brothers_40.6383_17.9472.json,custom
+40.638625,17.947225,ov_kebaberia_paris_40.6386_17.9472,Kebaberia Paris,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/kebaberia_paris_40.6386_17.9472.json,custom
+40.638618,17.947211,ov_royal_kebab_40.6386_17.9472,Royal Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/royal_kebab_40.6386_17.9472.json,custom
+40.638552,17.947163,ov_il_sultano_40.6386_17.9472,Il Sultano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_sultano_40.6386_17.9472.json,custom
+40.638827,17.947563,ov_antica_focacceria_boscaini_40.6388_17.9476,Antica Focacceria Boscaini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antica_focacceria_boscaini_40.6388_17.9476.json,custom
+40.639242,17.947791,ov_levante_puglia_e_mangia_40.6392_17.9478,Levante Puglia e Mangia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/levante_puglia_e_mangia_40.6392_17.9478.json,custom
+40.639339,17.947828,ov_la_baguetteria_del_corso_40.6393_17.9478,La Baguetteria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_baguetteria_del_corso_40.6393_17.9478.json,custom
+40.639231,17.947035,ov_pantagruele_40.6392_17.9470,Pantagruele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pantagruele_40.6392_17.9470.json,custom
+40.639509,17.947269,ov_la_dimora_del_porto_40.6395_17.9473,La dimora del porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_dimora_del_porto_40.6395_17.9473.json,custom
+40.639924,17.947373,ov_penny_40.6399_17.9474,Penny,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/penny_40.6399_17.9474.json,custom
+40.639676,17.947726,ov_pacman_brindisi_40.6397_17.9477,Pacman Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pacman_brindisi_40.6397_17.9477.json,custom
+40.636045,17.948977,ov_kalispera_40.6360_17.9490,Kalispera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/kalispera_40.6360_17.9490.json,custom
+40.635476,17.948663,ov_hamare_40.6355_17.9487,Hamare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/hamare_40.6355_17.9487.json,custom
+40.640291,17.946807,ov_don_angus_restaurant___steak_house_40.6403_17.9468,DON ANGUS Restaurant & Steak House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/don_angus_restaurant_steak_house_40.6403_17.9468.json,custom
+40.641666,17.944566,ov_bella_napoli_40.6417_17.9446,Bella Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bella_napoli_40.6417_17.9446.json,custom
+40.641652,17.945766,ov_pescheria_del_porto_40.6417_17.9458,Pescheria del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pescheria_del_porto_40.6417_17.9458.json,custom
+40.641740,17.945640,ov_alkilo_steakhouse_40.6417_17.9456,Alkilo Steakhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/alkilo_steakhouse_40.6417_17.9456.json,custom
+40.641468,17.946477,ov_windsurf_40.6415_17.9465,Windsurf,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/windsurf_40.6415_17.9465.json,custom
+40.641499,17.946588,ov_sapido_40.6415_17.9466,Sapido,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/sapido_40.6415_17.9466.json,custom
+40.641107,17.946716,ov_ristorante_piazzetta_colonne_40.6411_17.9467,Ristorante Piazzetta Colonne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_piazzetta_colonne_40.6411_17.9467.json,custom
+40.640903,17.946610,ov_mamm_anna_pizzeria_birreria_40.6409_17.9466,Mamm’Anna Pizzeria Birreria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mammanna_pizzeria_birreria_40.6409_17.9466.json,custom
+40.641252,17.944708,ov_la_locanda_del_porto_40.6413_17.9447,La Locanda del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_locanda_del_porto_40.6413_17.9447.json,custom
+40.641234,17.942286,ov_marea_seaside_experience_40.6412_17.9423,Marea Seaside Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/marea_seaside_experience_40.6412_17.9423.json,custom
+40.640523,17.941971,ov_trattoria_di_mare_40.6405_17.9420,Trattoria Di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/trattoria_di_mare_40.6405_17.9420.json,custom
+40.640540,17.941445,ov_da_luigi_il_capitano_40.6405_17.9414,Da Luigi il Capitano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/da_luigi_il_capitano_40.6405_17.9414.json,custom
+40.640514,17.941794,ov_la_paranza_40.6405_17.9418,La Paranza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_paranza_40.6405_17.9418.json,custom
+40.640595,17.941558,ov_ristorante_diecimiglia_40.6406_17.9416,Ristorante Diecimiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_diecimiglia_40.6406_17.9416.json,custom
+40.640688,17.941788,ov_la_nassa_40.6407_17.9418,La Nassa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_nassa_40.6407_17.9418.json,custom
+40.640312,17.940862,ov_antica_osteria_pizzeria_la_sciabica_40.6403_17.9409,Antica Osteria Pizzeria La Sciabica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antica_osteria_pizzeria_la_sciabica_40.6403_17.9409.json,custom
+40.643686,17.940759,ov_maredentro_seafood_40.6437_17.9408,MaRedentro seafood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/maredentro_seafood_40.6437_17.9408.json,custom
+40.642859,17.933375,ov_al_porto_da_guido_40.6429_17.9334,Al Porto Da Guido,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/al_porto_da_guido_40.6429_17.9334.json,custom
+40.642808,17.933322,ov_la_lega_da_guidone_street_food_40.6428_17.9333,La Lega da Guidone Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_lega_da_guidone_street_food_40.6428_17.9333.json,custom
+40.637073,17.938873,ov_pizzeria_lo_svevo_40.6371_17.9389,Pizzeria Lo Svevo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_lo_svevo_40.6371_17.9389.json,custom
+40.635346,17.937020,ov_pizzeria_romanelli_tor_pisana_40.6353_17.9370,Pizzeria Romanelli Tor Pisana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_romanelli_tor_pisana_40.6353_17.9370.json,custom
+40.635384,17.936215,ov_pizzeria_sosta_e_gusta_40.6354_17.9362,Pizzeria Sosta e Gusta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_sosta_e_gusta_40.6354_17.9362.json,custom
+40.636650,17.932695,ov_nonna_mina_40.6367_17.9327,Nonna Mina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/nonna_mina_40.6367_17.9327.json,custom
+40.636261,17.933141,ov_il_dragone_d_oro_40.6363_17.9331,Il dragone d'oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_dragone_doro_40.6363_17.9331.json,custom
+40.635251,17.927933,ov_pasta_fresca_shop_40.6353_17.9279,Pasta Fresca Shop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pasta_fresca_shop_40.6353_17.9279.json,custom
+40.637001,17.925260,ov_mille_sapori_40.6370_17.9253,Mille Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mille_sapori_40.6370_17.9253.json,custom
+40.637629,17.929033,ov_grano_uva_40.6376_17.9290,Grano&Uva,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/granouva_40.6376_17.9290.json,custom
+40.637558,17.929572,ov_pizzeria_little_maira___focacceria__rost_40.6376_17.9296,"Pizzeria Little Maira | Focacceria, rosticceria, buffet",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_little_maira_focacceria_rosticc_40.6376_17.9296.json,custom
+40.624614,17.923524,ov_paninosteria_enrico_e_carmela_40.6246_17.9235,PaninOsteria Enrico e Carmela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/paninosteria_enrico_e_carmela_40.6246_17.9235.json,custom
+40.624768,17.923391,ov_pizza_pazza_40.6248_17.9234,Pizza Pazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizza_pazza_40.6248_17.9234.json,custom
+40.627716,17.923713,ov_mister_pizza_40.6277_17.9237,Mister Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mister_pizza_40.6277_17.9237.json,custom
+40.628026,17.923344,ov_lele_pizzeria_40.6280_17.9233,Lele Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lele_pizzeria_40.6280_17.9233.json,custom
+40.628820,17.920310,ov_consenti_tavolacalda_bar_40.6288_17.9203,Consenti tavolacalda bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/consenti_tavolacalda_bar_40.6288_17.9203.json,custom
+40.629938,17.925384,ov_pizzeria_pit_stop_40.6299_17.9254,Pizzeria Pit Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_pit_stop_40.6299_17.9254.json,custom
+40.630123,17.923960,ov_pizzeria_gnam_gnam_40.6301_17.9240,Pizzeria GNAM GNAM,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_gnam_gnam_40.6301_17.9240.json,custom
+40.630377,17.930861,ov_pizzeria_da_antonio_40.6304_17.9309,Pizzeria da Antonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_da_antonio_40.6304_17.9309.json,custom
+40.630950,17.930600,ov_iaccato___ristorante_del_pescatore___bri_40.6309_17.9306,Iaccato - Ristorante del Pescatore - Brindisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/iaccato_-_ristorante_del_pescatore_-_bri_40.6309_17.9306.json,custom
+40.630679,17.927696,ov_xiao_sushi_40.6307_17.9277,Xiao Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/xiao_sushi_40.6307_17.9277.json,custom
+40.631513,17.929160,ov_surgelsud_40.6315_17.9292,Surgelsud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/surgelsud_40.6315_17.9292.json,custom
+40.631127,17.928686,ov_acci_pizza_40.6311_17.9287,Acci Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/acci_pizza_40.6311_17.9287.json,custom
+40.633150,17.929810,ov_lo_stuzzicone_40.6331_17.9298,Lo Stuzzicone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lo_stuzzicone_40.6331_17.9298.json,custom
+40.633451,17.934131,ov_ristorante_ce_si_era_buono_ma_meglio_ann_40.6335_17.9341,Ristorante Ce Si Era Buono ma Meglio Anna da un'Altra Parte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_ce_si_era_buono_ma_meglio_ann_40.6335_17.9341.json,custom
+40.633333,17.932672,ov_cozza_nera_40.6333_17.9327,Cozza Nera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cozza_nera_40.6333_17.9327.json,custom
+40.634189,17.931940,ov_pronto_cuoci___pizzeria_la_principessa_40.6342_17.9319,"Pronto Cuoci , Pizzeria LA PRINCIPESSA",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pronto_cuoci_pizzeria_la_principessa_40.6342_17.9319.json,custom
+40.634428,17.934730,ov_cotto___mangiato_40.6344_17.9347,Cotto & Mangiato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cotto_mangiato_40.6344_17.9347.json,custom
+40.634040,17.933690,ov_ghiotto_pizza_40.6340_17.9337,Ghiotto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ghiotto_pizza_40.6340_17.9337.json,custom
+40.633226,17.935739,ov_pizzeria_baffo_40.6332_17.9357,Pizzeria Baffo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_baffo_40.6332_17.9357.json,custom
+40.632360,17.938090,ov_friggitoria_krystal_40.6324_17.9381,Friggitoria Krystal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/friggitoria_krystal_40.6324_17.9381.json,custom
+40.631241,17.935842,ov_il_pranzo_e_servito_40.6312_17.9358,Il Pranzo e Servito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_pranzo_e_servito_40.6312_17.9358.json,custom
+40.631933,17.936449,ov_l_orto_cotto_40.6319_17.9364,L'Orto Cotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lorto_cotto_40.6319_17.9364.json,custom
+40.631724,17.933293,ov_el_pica_pollo_girarrosto_40.6317_17.9333,El Pica Pollo Girarrosto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/el_pica_pollo_girarrosto_40.6317_17.9333.json,custom
+40.631604,17.933244,ov_il_boccalino_40.6316_17.9332,Il Boccalino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_boccalino_40.6316_17.9332.json,custom
+40.630837,17.933858,ov_pizzicotto_40.6308_17.9339,Pizzicotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzicotto_40.6308_17.9339.json,custom
+40.629800,17.932495,ov_pescheria_da_romeo_40.6298_17.9325,Pescheria da Romeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pescheria_da_romeo_40.6298_17.9325.json,custom
+40.628453,17.936119,ov_il_rifugio_pizzeria_40.6285_17.9361,Il Rifugio Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_rifugio_pizzeria_40.6285_17.9361.json,custom
+40.628181,17.933603,ov_pizzeria_miky_40.6282_17.9336,Pizzeria Miky,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_miky_40.6282_17.9336.json,custom
+40.628162,17.933734,ov_vera_napoli_40.6282_17.9337,Vera Napoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vera_napoli_40.6282_17.9337.json,custom
+40.627948,17.935062,ov_che_gusto_cucinelli_40.6279_17.9351,Che Gusto Cucinelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/che_gusto_cucinelli_40.6279_17.9351.json,custom
+40.627280,17.931710,ov_bistrot_40.6273_17.9317,Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bistrot_40.6273_17.9317.json,custom
+40.627362,17.931561,ov_pizzeria_lievita_24_40.6274_17.9316,Pizzeria Lievita 24,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_lievita_24_40.6274_17.9316.json,custom
+40.628947,17.932139,ov_pizzeria_ciro_40.6289_17.9321,Pizzeria Ciro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_ciro_40.6289_17.9321.json,custom
+40.627273,17.925422,ov_antica_gastronomia_da_prassede_40.6273_17.9254,Antica Gastronomia da Prassede,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antica_gastronomia_da_prassede_40.6273_17.9254.json,custom
+40.627414,17.927038,ov_che_bont__40.6274_17.9270,Che bontà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/che_bont_40.6274_17.9270.json,custom
+40.627115,17.925830,ov_il_bistrot_dei_desideri_40.6271_17.9258,Il bistrot dei desideri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_bistrot_dei_desideri_40.6271_17.9258.json,custom
+40.627120,17.925825,ov_pizze_e_cozze_40.6271_17.9258,Pizze e Cozze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizze_e_cozze_40.6271_17.9258.json,custom
+40.627037,17.925652,ov_il_ritrovo_pizzeri_40.6270_17.9257,Il ritrovo pizzeri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_ritrovo_pizzeri_40.6270_17.9257.json,custom
+40.626916,17.924882,ov_la_piazzetta_40.6269_17.9249,La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_piazzetta_40.6269_17.9249.json,custom
+40.626857,17.924564,ov_panino_giusto_40.6269_17.9246,Panino Giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/panino_giusto_40.6269_17.9246.json,custom
+40.626039,17.924617,ov_il_ghiottone_40.6260_17.9246,Il Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_ghiottone_40.6260_17.9246.json,custom
+40.625410,17.927280,ov_pizzeria_de_matteis_40.6254_17.9273,Pizzeria De Matteis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_de_matteis_40.6254_17.9273.json,custom
+40.625217,17.924156,ov_pizzeria_boomerang_40.6252_17.9242,Pizzeria Boomerang,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_boomerang_40.6252_17.9242.json,custom
+40.624643,17.926057,ov_pizzeria_santa_chiara_40.6246_17.9261,Pizzeria SANTA CHIARA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_santa_chiara_40.6246_17.9261.json,custom
+40.624331,17.927023,ov_folie_caf__et_bistrot_40.6243_17.9270,Folie Café et Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/folie_caf_et_bistrot_40.6243_17.9270.json,custom
+40.624023,17.926604,ov_ocean_beef_40.6240_17.9266,Ocean Beef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ocean_beef_40.6240_17.9266.json,custom
+40.620613,17.927022,ov_pizzeria_sant_andrea_40.6206_17.9270,Pizzeria Sant'Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_santandrea_40.6206_17.9270.json,custom
+40.619179,17.938170,ov_mediterraneo_mare_40.6192_17.9382,Mediterraneo Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mediterraneo_mare_40.6192_17.9382.json,custom
+40.617605,17.913209,ov_vieni_a_casa_ca_ti_cucinu_40.6176_17.9132,Vieni a casa ca ti cucinu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vieni_a_casa_ca_ti_cucinu_40.6176_17.9132.json,custom
+40.619388,17.919803,ov_al_parco_pizzeria_antipasteria_40.6194_17.9198,Al parco Pizzeria Antipasteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/al_parco_pizzeria_antipasteria_40.6194_17.9198.json,custom
+40.622280,17.916330,ov_stuzzicheria_mare_terra_40.6223_17.9163,Stuzzicheria mare terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/stuzzicheria_mare_terra_40.6223_17.9163.json,custom
+40.623178,17.915813,ov_mcdonald_s_40.6232_17.9158,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mcdonalds_40.6232_17.9158.json,custom
+40.618500,17.902698,ov_cewei_la_baracchina_del_porto_40.6185_17.9027,Cewei La Baracchina Del Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cewei_la_baracchina_del_porto_40.6185_17.9027.json,custom
+40.618683,17.902298,ov_billy_tacos_40.6187_17.9023,Billy Tacos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/billy_tacos_40.6187_17.9023.json,custom
+40.606739,17.885498,ov_braceria_pizzeria_torre_mozza_sporting_c_40.6067_17.8855,Braceria Pizzeria Torre Mozza Sporting Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/braceria_pizzeria_torre_mozza_sporting_c_40.6067_17.8855.json,custom
+40.605522,17.884118,ov_alice_pizza_40.6055_17.8841,Alice Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/alice_pizza_40.6055_17.8841.json,custom
+40.605130,17.939000,ov_beverly_grills_40.6051_17.9390,Beverly grills,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/beverly_grills_40.6051_17.9390.json,custom
+40.620220,17.944423,ov_pizza_flash_40.6202_17.9444,Pizza Flash,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizza_flash_40.6202_17.9444.json,custom
+40.624430,17.940162,ov_pizzeria_magic_star_40.6244_17.9402,Pizzeria Magic Star,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_magic_star_40.6244_17.9402.json,custom
+40.640265,17.940813,osm_antica_osteria_la_sciabica_40.6403_17.9408,Antica osteria la sciabica,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antica_osteria_la_sciabica_40.6403_17.9408.json,custom
+40.658710,17.958123,osm_la_sciaia_a_mare_40.6587_17.9581,La Sciaia a mare,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_sciaia_a_mare_40.6587_17.9581.json,custom
+40.635358,17.942818,osm_burger_house_40.6354_17.9428,Burger House,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/burger_house_40.6354_17.9428.json,custom
+40.646354,17.943888,osm_da_piero_40.6464_17.9439,Da Piero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/da_piero_40.6464_17.9439.json,custom
+40.641013,17.947331,osm_betty_cafe_40.6410_17.9473,Betty Cafe,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/betty_cafe_40.6410_17.9473.json,custom
+40.646588,17.943650,osm_pizzeria_rosticceria_lo_sfizio_40.6466_17.9437,Pizzeria Rosticceria Lo Sfizio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pizzeria_rosticceria_lo_sfizio_40.6466_17.9437.json,custom
+40.647909,17.944972,osm_creperia_40.6479_17.9450,Creperia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/creperia_40.6479_17.9450.json,custom
+40.634798,17.939992,osm_rosa_bella_40.6348_17.9400,Rosa bella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/rosa_bella_40.6348_17.9400.json,custom
+40.647688,17.943128,osm_l_angolo_pizzeria_40.6477_17.9431,L'Angolo Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/langolo_pizzeria_40.6477_17.9431.json,custom
+40.636816,17.946374,osm_antica_friggitoria_romanelli_40.6368_17.9464,Antica friggitoria Romanelli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/antica_friggitoria_romanelli_40.6368_17.9464.json,custom
+40.640536,17.941580,osm_diecimiglia_hosteria_2_0_40.6405_17.9416,Diecimiglia Hosteria 2.0,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/diecimiglia_hosteria_20_40.6405_17.9416.json,custom
+40.622170,17.944416,osm_makoto_40.6222_17.9444,Makoto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/makoto_40.6222_17.9444.json,custom
+40.432094,17.735813,ov_blues_cafe_40.4321_17.7358,Blues Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/blues_cafe_40.4321_17.7358.json,custom
+40.603370,17.952730,ov_chiarodiluna_caf__40.6034_17.9527,Chiarodiluna Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/chiarodiluna_caf_40.6034_17.9527.json,custom
+40.568256,17.985400,ov_santa_maria_di_leuca_40.5683_17.9854,Santa Maria Di Leuca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/santa_maria_di_leuca_40.5683_17.9854.json,custom
+40.543783,17.946299,ov_la_capannina_40.5438_17.9463,La Capannina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_capannina_40.5438_17.9463.json,custom
+40.544524,17.946881,ov_domus_caffe_40.5445_17.9469,Domus Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/domus_caffe_40.5445_17.9469.json,custom
+40.546144,17.947214,ov_bar_pasticceria_tutorius_cafe_40.5461_17.9472,Bar Pasticceria Tutorius Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_pasticceria_tutorius_cafe_40.5461_17.9472.json,custom
+40.549480,17.947390,ov_caf__chopin_di_mauro___jole_40.5495_17.9474,Cafè Chopin Di Mauro & Jole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caf_chopin_di_mauro_jole_40.5495_17.9474.json,custom
+40.690980,17.837790,ov_bar_kimbar__40.6910_17.8378,Bar Kimbarà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_kimbar_40.6910_17.8378.json,custom
+40.695609,17.824997,ov_long_beach_bar_40.6956_17.8250,Long Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/long_beach_bar_40.6956_17.8250.json,custom
+40.648502,17.916220,ov_green_bar_40.6485_17.9162,Green Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/green_bar_40.6485_17.9162.json,custom
+40.646091,17.920005,ov_la_belle_epoque_cafe_40.6461_17.9200,La Belle Epoque Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_belle_epoque_cafe_40.6461_17.9200.json,custom
+40.657860,17.938731,ov_gustapulia_40.6579_17.9387,GustApulia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/gustapulia_40.6579_17.9387.json,custom
+40.656057,17.956746,ov_bar_tabacchi_sciaia_40.6561_17.9567,Bar Tabacchi Sciaia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_tabacchi_sciaia_40.6561_17.9567.json,custom
+40.655978,17.956627,ov_avenue_s_caf__40.6560_17.9566,Avenue's Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/avenues_caf_40.6560_17.9566.json,custom
+40.660912,17.961960,ov_zefiro_40.6609_17.9620,ZEFIRO,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/zefiro_40.6609_17.9620.json,custom
+40.660529,17.961729,ov_al_pontile_restaurant_40.6605_17.9617,Al pontile restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/al_pontile_restaurant_40.6605_17.9617.json,custom
+40.649280,17.940850,ov_bar_al_punto_giusto_40.6493_17.9409,Bar Al punto giusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_al_punto_giusto_40.6493_17.9409.json,custom
+40.646905,17.944257,ov_la_nuova_capannina_40.6469_17.9443,La Nuova Capannina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_nuova_capannina_40.6469_17.9443.json,custom
+40.646904,17.943663,ov_birreria_64_40.6469_17.9437,Birreria 64,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/birreria_64_40.6469_17.9437.json,custom
+40.646300,17.943870,ov_pannamore01_40.6463_17.9439,Pannamore01,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pannamore01_40.6463_17.9439.json,custom
+40.645402,17.946755,ov_la_capannina_40.6454_17.9468,La Capannina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_capannina_40.6454_17.9468.json,custom
+40.646605,17.948618,ov_waterfront_amerigo_vespucci__brindisi_40.6466_17.9486,"Waterfront Amerigo Vespucci, Brindisi",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/waterfront_amerigo_vespucci_brindisi_40.6466_17.9486.json,custom
+40.626854,17.947458,ov_bar_caffe_80_40.6269_17.9475,Bar Caffe 80,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_caffe_80_40.6269_17.9475.json,custom
+40.624631,17.940184,ov_suisse_cafe_40.6246_17.9402,Suisse Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/suisse_cafe_40.6246_17.9402.json,custom
+40.626362,17.942092,ov_bar_pasticceria_mignon_40.6264_17.9421,Bar pasticceria mignon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_pasticceria_mignon_40.6264_17.9421.json,custom
+40.631842,17.946302,ov_bar_royal_40.6318_17.9463,Bar Royal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_royal_40.6318_17.9463.json,custom
+40.631938,17.946945,ov_la_bottiglieria_40.6319_17.9469,La Bottiglieria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_bottiglieria_40.6319_17.9469.json,custom
+40.633810,17.941240,ov_bar_crepes___drinks_40.6338_17.9412,Bar Crepes & Drinks,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_crepes_drinks_40.6338_17.9412.json,custom
+40.633952,17.942914,ov_capolinea_cafe_40.6340_17.9429,Capolinea Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/capolinea_cafe_40.6340_17.9429.json,custom
+40.634816,17.940680,ov_caffetteria_europa_40.6348_17.9407,Caffetteria Europa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_europa_40.6348_17.9407.json,custom
+40.634760,17.940254,ov_caff__italia_40.6348_17.9403,Caffè Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_italia_40.6348_17.9403.json,custom
+40.634700,17.940260,ov_caff__olimpia_40.6347_17.9403,Caffè Olimpia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_olimpia_40.6347_17.9403.json,custom
+40.634587,17.939129,ov_bar_buffet_stazione_40.6346_17.9391,Bar Buffet Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_buffet_stazione_40.6346_17.9391.json,custom
+40.636221,17.943915,ov_enjoy_40.6362_17.9439,Enjoy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/enjoy_40.6362_17.9439.json,custom
+40.635739,17.944284,ov_citra_beer_and_food_40.6357_17.9443,Citra Beer and Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/citra_beer_and_food_40.6357_17.9443.json,custom
+40.635710,17.944214,ov_the_lounge___sushi_bar_40.6357_17.9442,The LOUNGE - sushi bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/the_lounge_-_sushi_bar_40.6357_17.9442.json,custom
+40.636051,17.943526,ov_caffe_continental_40.6361_17.9435,Caffe Continental,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_continental_40.6361_17.9435.json,custom
+40.636249,17.945161,ov_caffe_veronica_40.6362_17.9452,Caffe Veronica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_veronica_40.6362_17.9452.json,custom
+40.636405,17.945508,ov_manhattancafe_loungebar_brindisi_40.6364_17.9455,MANHATTANcafe Loungebar brindisi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/manhattancafe_loungebar_brindisi_40.6364_17.9455.json,custom
+40.636674,17.945005,ov_caffe_olympia_40.6367_17.9450,Caffe Olympia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_olympia_40.6367_17.9450.json,custom
+40.636910,17.944499,ov_caffe_principe_40.6369_17.9445,Caffe Principe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_principe_40.6369_17.9445.json,custom
+40.636307,17.941974,ov_l_angolo_del_caff__40.6363_17.9420,L'angolo del Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/langolo_del_caff_40.6363_17.9420.json,custom
+40.636712,17.939563,ov_beer_brewery_gruit_40.6367_17.9396,Beer Brewery GRUIT,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/beer_brewery_gruit_40.6367_17.9396.json,custom
+40.638890,17.943973,ov_susumaniello_vineria_40.6389_17.9440,Susumaniello vineria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/susumaniello_vineria_40.6389_17.9440.json,custom
+40.639370,17.943160,ov______________40.6394_17.9432,𐌂𐌉𐌍𐌒𐌵𐌄 𐌔𐌄𐌍𐌔𐌉,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/__40.6394_17.9432.json,custom
+40.639613,17.943036,ov_schiuma___birreria_di_mare_40.6396_17.9430,Schiuma - birreria di mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/schiuma_-_birreria_di_mare_40.6396_17.9430.json,custom
+40.639962,17.943416,ov_artcaf__di_alessandra_40.6400_17.9434,ArtCafè di Alessandra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/artcaf_di_alessandra_40.6400_17.9434.json,custom
+40.639356,17.945174,ov_caffetteria_letteraria_nervegna_40.6394_17.9452,Caffetteria Letteraria Nervegna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_letteraria_nervegna_40.6394_17.9452.json,custom
+40.638198,17.945993,ov_anelli_enoteca_delizie_dal_1970_40.6382_17.9460,Anelli Enoteca delizie dal 1970,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/anelli_enoteca_delizie_dal_1970_40.6382_17.9460.json,custom
+40.638369,17.945504,ov_caffe_matteotti_40.6384_17.9455,Caffe Matteotti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_matteotti_40.6384_17.9455.json,custom
+40.638543,17.944950,ov_spirito___the_right_one_40.6385_17.9449,Spirito - the right one,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/spirito_-_the_right_one_40.6385_17.9449.json,custom
+40.638711,17.944638,ov_spillo___the_right_beer_40.6387_17.9446,Spillo - The Right Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/spillo_-_the_right_beer_40.6387_17.9446.json,custom
+40.638617,17.944772,ov_bar_rosso_e_nero_40.6386_17.9448,Bar Rosso e Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_rosso_e_nero_40.6386_17.9448.json,custom
+40.638497,17.944261,ov_kiba_cocktail_bar_40.6385_17.9443,Kiba cocktail bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/kiba_cocktail_bar_40.6385_17.9443.json,custom
+40.638398,17.944282,ov_el_paso_pub_40.6384_17.9443,El Paso Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/el_paso_pub_40.6384_17.9443.json,custom
+40.638177,17.943959,ov_spinnaker_40.6382_17.9440,Spinnaker,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/spinnaker_40.6382_17.9440.json,custom
+40.637780,17.944030,ov_liquid_fresh_fruit_bar_40.6378_17.9440,Liquid Fresh Fruit Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/liquid_fresh_fruit_bar_40.6378_17.9440.json,custom
+40.637678,17.944780,ov_72100___vino_e_bistrot_40.6377_17.9448,72100 • Vino e Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/72100_vino_e_bistrot_40.6377_17.9448.json,custom
+40.638019,17.944990,ov_alchemist_40.6380_17.9450,Alchemist,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/alchemist_40.6380_17.9450.json,custom
+40.638127,17.944920,ov_da_felle_local_bar_40.6381_17.9449,Da Felle Local Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/da_felle_local_bar_40.6381_17.9449.json,custom
+40.638125,17.945748,ov_barrique_40.6381_17.9457,Barrique,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/barrique_40.6381_17.9457.json,custom
+40.637784,17.946028,ov_materia_40.6378_17.9460,Materia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/materia_40.6378_17.9460.json,custom
+40.637620,17.946415,ov_american_bar_40.6376_17.9464,American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/american_bar_40.6376_17.9464.json,custom
+40.638183,17.947054,ov_valentino_caff__40.6382_17.9471,Valentino Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/valentino_caff_40.6382_17.9471.json,custom
+40.638516,17.947253,ov_ottavio_wine_bar_40.6385_17.9473,Ottavio Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ottavio_wine_bar_40.6385_17.9473.json,custom
+40.638240,17.946960,ov_chococaf__centro_brindisi_40.6382_17.9470,ChocoCafé_centro_Brindisi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/chococafcentrobrindisi_40.6382_17.9470.json,custom
+40.638401,17.947190,ov_4errecafe_40.6384_17.9472,4Errecafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/4errecafe_40.6384_17.9472.json,custom
+40.638731,17.946769,ov_senzapepe_40.6387_17.9468,SenzaPepe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/senzapepe_40.6387_17.9468.json,custom
+40.639183,17.947718,ov_caff__ausonia_40.6392_17.9477,Caffè Ausonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_ausonia_40.6392_17.9477.json,custom
+40.635630,17.948860,ov_via_del_mare_brindisi_40.6356_17.9489,Via Del Mare Brindisi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/via_del_mare_brindisi_40.6356_17.9489.json,custom
+40.640845,17.947383,ov_ristorante_pizzeria_skipper_di_bar_betty_40.6408_17.9474,Ristorante Pizzeria Skipper Di Bar Betty,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ristorante_pizzeria_skipper_di_bar_betty_40.6408_17.9474.json,custom
+40.641239,17.947223,ov_l_experience_40.6412_17.9472,L'Experience,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lexperience_40.6412_17.9472.json,custom
+40.641924,17.945098,ov_numero_primo_wine_bar_40.6419_17.9451,Numero Primo Wine bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/numero_primo_wine_bar_40.6419_17.9451.json,custom
+40.640418,17.941998,ov_birrart_birreria_clandestina_40.6404_17.9420,BirrArt Birreria Clandestina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/birrart_birreria_clandestina_40.6404_17.9420.json,custom
+40.640447,17.941202,ov_aragonese_pub_40.6404_17.9412,Aragonese Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/aragonese_pub_40.6404_17.9412.json,custom
+40.644586,17.940019,ov_the_kiosk_in_the_village_40.6446_17.9400,The kiosk in the village,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/the_kiosk_in_the_village_40.6446_17.9400.json,custom
+40.642899,17.933818,ov_vistamare_40.6429_17.9338,VistaMare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vistamare_40.6429_17.9338.json,custom
+40.645350,17.934030,ov_my_way_40.6454_17.9340,My way,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/my_way_40.6454_17.9340.json,custom
+40.637807,17.931548,ov_vertigo_caffe_40.6378_17.9315,Vertigo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vertigo_caffe_40.6378_17.9315.json,custom
+40.637945,17.938406,ov_caff__al_castello_40.6379_17.9384,Caffè al Castello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_al_castello_40.6379_17.9384.json,custom
+40.635211,17.937063,ov_shimmer_cafe_40.6352_17.9371,Shimmer Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/shimmer_cafe_40.6352_17.9371.json,custom
+40.635112,17.935506,ov_altair_cafe_40.6351_17.9355,Altair Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/altair_cafe_40.6351_17.9355.json,custom
+40.635445,17.933134,ov_bar_melissa_40.6354_17.9331,Bar Melissa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_melissa_40.6354_17.9331.json,custom
+40.636463,17.935150,ov_roxy_bar_40.6365_17.9351,Roxy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/roxy_bar_40.6365_17.9351.json,custom
+40.636932,17.932090,ov_divine_tentazioni_pasticceria_gelateria__40.6369_17.9321,Divine tentazioni pasticceria gelateria cioccolateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/divine_tentazioni_pasticceria_gelateria__40.6369_17.9321.json,custom
+40.637502,17.929690,ov_caf__bistrot_40.6375_17.9297,Cafè Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caf_bistrot_40.6375_17.9297.json,custom
+40.635913,17.929831,ov_benito_leo_40.6359_17.9298,Benito leo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/benito_leo_40.6359_17.9298.json,custom
+40.637605,17.928886,ov_caffetteria_tancredi_40.6376_17.9289,Caffetteria Tancredi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_tancredi_40.6376_17.9289.json,custom
+40.644530,17.921800,ov_caffetteria_crazy_luck_40.6445_17.9218,Caffetteria crazy luck,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_crazy_luck_40.6445_17.9218.json,custom
+40.626139,17.918961,ov_caff__liberty_40.6261_17.9190,Caffè Liberty,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_liberty_40.6261_17.9190.json,custom
+40.628032,17.923393,ov_appia_antica_40.6280_17.9234,APPIA Antica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/appia_antica_40.6280_17.9234.json,custom
+40.632400,17.916795,ov_bar_rosticceria_erg_40.6324_17.9168,Bar Rosticceria ERG,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_rosticceria_erg_40.6324_17.9168.json,custom
+40.631036,17.922887,ov_il_tesoretto_risto_pub__poggiardo_40.6310_17.9229,"Il Tesoretto Risto-Pub, Poggiardo",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_tesoretto_risto-pub_poggiardo_40.6310_17.9229.json,custom
+40.630855,17.923271,ov_il_covo_di_homer_40.6309_17.9233,Il Covo Di Homer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_covo_di_homer_40.6309_17.9233.json,custom
+40.630116,17.924433,ov_vero_caffe_40.6301_17.9244,Vero Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vero_caffe_40.6301_17.9244.json,custom
+40.630540,17.927432,ov_2_0_cafe_40.6305_17.9274,2.0 Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/20_cafe_40.6305_17.9274.json,custom
+40.630026,17.930888,ov_eleonor_cafe__40.6300_17.9309,Eleonor Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/eleonor_cafe_40.6300_17.9309.json,custom
+40.631260,17.928451,ov_appia_antica_40.6313_17.9285,Appia Antica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/appia_antica_40.6313_17.9285.json,custom
+40.631331,17.928570,ov_mood_caf__40.6313_17.9286,Mood Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mood_caf_40.6313_17.9286.json,custom
+40.631737,17.929258,ov_caff__for_you_40.6317_17.9293,Caffè for you,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_for_you_40.6317_17.9293.json,custom
+40.634388,17.932152,ov_bar_fulvia_40.6344_17.9322,Bar Fulvia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_fulvia_40.6344_17.9322.json,custom
+40.634406,17.934586,ov_caffe_concerto_sas_40.6344_17.9346,Caffe Concerto Sas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_concerto_sas_40.6344_17.9346.json,custom
+40.633378,17.935517,ov_caffetteria_glamour_40.6334_17.9355,Caffetteria Glamour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_glamour_40.6334_17.9355.json,custom
+40.632403,17.936205,ov_mini_bar_40.6324_17.9362,Mini Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mini_bar_40.6324_17.9362.json,custom
+40.631932,17.938037,ov_bar_pasticceria_dalmazia_40.6319_17.9380,Bar Pasticceria Dalmazia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_pasticceria_dalmazia_40.6319_17.9380.json,custom
+40.631059,17.935431,ov_gorgon_s_cafe_40.6311_17.9354,Gorgon's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/gorgons_cafe_40.6311_17.9354.json,custom
+40.631809,17.933660,ov_arte_musica_e_dintorni_40.6318_17.9337,Arte Musica e Dintorni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/arte_musica_e_dintorni_40.6318_17.9337.json,custom
+40.630947,17.933718,ov_bar_lilly___cafe___cornetteria___aperiti_40.6309_17.9337,Bar Lilly...cafe...cornetteria...aperitivi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_lillycafecornetteriaaperitivi_40.6309_17.9337.json,custom
+40.629797,17.934532,ov_bar_gino_40.6298_17.9345,Bar Gino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_gino_40.6298_17.9345.json,custom
+40.627433,17.935555,ov_bar_new_life_40.6274_17.9356,Bar New Life,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_new_life_40.6274_17.9356.json,custom
+40.627617,17.932309,ov_cavo_caffe_40.6276_17.9323,Cavo Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cavo_caffe_40.6276_17.9323.json,custom
+40.629090,17.932301,ov_old_dream_cafe_40.6291_17.9323,Old Dream Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/old_dream_cafe_40.6291_17.9323.json,custom
+40.628884,17.927997,ov_bar_rosso_e_nero_40.6289_17.9280,Bar Rosso e Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_rosso_e_nero_40.6289_17.9280.json,custom
+40.627700,17.925190,ov_manhattan_pasticceria_40.6277_17.9252,Manhattan Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/manhattan_pasticceria_40.6277_17.9252.json,custom
+40.627607,17.930550,ov_bds_cafe__40.6276_17.9306,BDS CAFE',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bds_cafe_40.6276_17.9306.json,custom
+40.626841,17.925663,ov_ruggine_birreria_di_quartiere_40.6268_17.9257,Ruggine Birreria di Quartiere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ruggine_birreria_di_quartiere_40.6268_17.9257.json,custom
+40.626073,17.924811,ov_bar_nuovo_fiore_40.6261_17.9248,Bar Nuovo Fiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_nuovo_fiore_40.6261_17.9248.json,custom
+40.626090,17.924810,ov_greenwhite_caf__40.6261_17.9248,Greenwhite cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/greenwhite_caf_40.6261_17.9248.json,custom
+40.624953,17.924312,ov_butterfly_caffetteria_40.6250_17.9243,Butterfly Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/butterfly_caffetteria_40.6250_17.9243.json,custom
+40.624733,17.928169,ov_il_corallo_40.6247_17.9282,Il Corallo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_corallo_40.6247_17.9282.json,custom
+40.625797,17.928136,ov_bar_900_40.6258_17.9281,Bar 900,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_900_40.6258_17.9281.json,custom
+40.625419,17.931352,ov_caf__monik_40.6254_17.9314,Café Monik,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caf_monik_40.6254_17.9314.json,custom
+40.626220,17.931694,ov_caffetteria_gio_40.6262_17.9317,Caffetteria Gio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_gio_40.6262_17.9317.json,custom
+40.626318,17.937214,ov_bar_al_parco_da_lucone_40.6263_17.9372,Bar Al Parco Da Lucone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_al_parco_da_lucone_40.6263_17.9372.json,custom
+40.625691,17.935543,ov_caffetteria_la_piazza_40.6257_17.9355,Caffetteria La Piazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffetteria_la_piazza_40.6257_17.9355.json,custom
+40.623079,17.931553,ov_patronato_encal____caf___cisal_40.6231_17.9316,Patronato Encal /  Caf - Cisal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/patronato_encal_caf_-_cisal_40.6231_17.9316.json,custom
+40.624452,17.931341,ov_the_king_of_slot_40.6245_17.9313,The King Of Slot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/the_king_of_slot_40.6245_17.9313.json,custom
+40.623648,17.930267,ov_bar_meguada_40.6236_17.9303,BAR Meguada,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_meguada_40.6236_17.9303.json,custom
+40.623660,17.930190,ov_bar_chanel_40.6237_17.9302,Bar Chanel,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_chanel_40.6237_17.9302.json,custom
+40.623879,17.927692,ov_forum_cafe__40.6239_17.9277,Forum Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/forum_cafe_40.6239_17.9277.json,custom
+40.624091,17.925426,ov_caff__2001_40.6241_17.9254,Caffè 2001,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_2001_40.6241_17.9254.json,custom
+40.622990,17.930012,ov_caffe_bistro_40.6230_17.9300,Caffe Bistro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_bistro_40.6230_17.9300.json,custom
+40.619732,17.927558,ov_bar_piccadilly___brindisi___sant_elia_40.6197_17.9276,Bar Piccadilly - Brindisi - Sant’Elia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_piccadilly_-_brindisi_-_santelia_40.6197_17.9276.json,custom
+40.618163,17.902339,ov_genius_40.6182_17.9023,Genius,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/genius_40.6182_17.9023.json,custom
+40.618576,17.903050,ov_caffe_pascucci_40.6186_17.9030,Caffe Pascucci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caffe_pascucci_40.6186_17.9030.json,custom
+40.619221,17.943708,ov_agip_caf__40.6192_17.9437,Agip café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/agip_caf_40.6192_17.9437.json,custom
+40.624230,17.941225,ov_dejav__caf__40.6242_17.9412,Dejavù cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/dejav_caf_40.6242_17.9412.json,custom
+40.623228,17.941251,ov_eden_cafe_40.6232_17.9413,Eden Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/eden_cafe_40.6232_17.9413.json,custom
+40.620784,17.950151,ov_caff__quaranta_40.6208_17.9502,Caffè Quaranta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/caff_quaranta_40.6208_17.9502.json,custom
+40.636488,17.945545,osm_food_manhattan_40.6365_17.9455,Food Manhattan,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/food_manhattan_40.6365_17.9455.json,custom
+40.634643,17.939875,osm_bar_chiosco_40.6346_17.9399,Bar Chiosco,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bar_chiosco_40.6346_17.9399.json,custom
+40.633437,17.932895,osm_peddy_bar_40.6334_17.9329,Peddy Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/peddy_bar_40.6334_17.9329.json,custom
+40.630878,17.939415,osm_family_caff__40.6309_17.9394,Family Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/family_caff_40.6309_17.9394.json,custom
+40.693240,17.832000,ov_40_nodi_40.6932_17.8320,40 nodi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/40_nodi_40.6932_17.8320.json,custom
+40.702921,17.810427,ov_centro_velico_torreguaceto_40.7029_17.8104,Centro Velico Torreguaceto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/centro_velico_torreguaceto_40.7029_17.8104.json,custom
+40.660389,17.852058,ov_centro_ippico_brancasi_40.6604_17.8521,Centro Ippico Brancasi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/centro_ippico_brancasi_40.6604_17.8521.json,custom
+40.645935,17.937932,ov_palamelfi_assi_brindisi_40.6459_17.9379,Palamelfi Assi Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palamelfi_assi_brindisi_40.6459_17.9379.json,custom
+40.645780,17.938000,ov_pugilistica_rodio_40.6458_17.9380,Pugilistica Rodio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/pugilistica_rodio_40.6458_17.9380.json,custom
+40.660399,17.904162,ov_circolo_ippico_mitrano_40.6604_17.9042,Circolo Ippico Mitrano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/circolo_ippico_mitrano_40.6604_17.9042.json,custom
+40.659567,17.904133,ov_scuderia_mitrano_40.6596_17.9041,Scuderia Mitrano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/scuderia_mitrano_40.6596_17.9041.json,custom
+40.654482,17.955284,ov_the_big_wave_dive_center_brindisi_40.6545_17.9553,The Big Wave Dive Center Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/the_big_wave_dive_center_brindisi_40.6545_17.9553.json,custom
+40.645739,17.942022,ov_brindisi_surf_club_40.6457_17.9420,Brindisi Surf Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/brindisi_surf_club_40.6457_17.9420.json,custom
+40.645943,17.947452,ov_palestra_golden_clinique_40.6459_17.9475,Palestra Golden Clinique,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palestra_golden_clinique_40.6459_17.9475.json,custom
+40.645766,17.947243,ov_golden_ssd_40.6458_17.9472,Golden Ssd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/golden_ssd_40.6458_17.9472.json,custom
+40.646010,17.947006,ov_artelier_della_danza_a_s_d__40.6460_17.9470,Artelier della Danza a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/artelier_della_danza_asd_40.6460_17.9470.json,custom
+40.627629,17.943415,ov_asd_new_phisiodinamic_40.6276_17.9434,Asd New Phisiodinamic,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_new_phisiodinamic_40.6276_17.9434.json,custom
+40.629490,17.946619,ov_a_s_d__centro_danza_brindisi_40.6295_17.9466,A.s.d. Centro Danza Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_centro_danza_brindisi_40.6295_17.9466.json,custom
+40.632810,17.953990,ov_cral_petrolchimico_brindisi_40.6328_17.9540,CRAL Petrolchimico Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/cral_petrolchimico_brindisi_40.6328_17.9540.json,custom
+40.632711,17.945286,ov_ginnastica_brindisi_temese_40.6327_17.9453,Ginnastica Brindisi Temese,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ginnastica_brindisi_temese_40.6327_17.9453.json,custom
+40.632961,17.941029,ov_j_4_you_garage_gym_40.6330_17.9410,J 4 You Garage Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/j_4_you_garage_gym_40.6330_17.9410.json,custom
+40.633977,17.941456,ov_fresh_family_academy_40.6340_17.9415,Fresh Family Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/fresh_family_academy_40.6340_17.9415.json,custom
+40.634780,17.939136,ov_progym_h24_40.6348_17.9391,PROGYM H24,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/progym_h24_40.6348_17.9391.json,custom
+40.635887,17.941128,ov_fitness_point_40.6359_17.9411,Fitness Point,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/fitness_point_40.6359_17.9411.json,custom
+40.637391,17.943426,ov_boxeiaia_brindisi_40.6374_17.9434,Boxeiaia Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/boxeiaia_brindisi_40.6374_17.9434.json,custom
+40.637350,17.941637,ov_top_gym_club_40.6374_17.9416,Top Gym Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/top_gym_club_40.6374_17.9416.json,custom
+40.639580,17.941940,ov_aisha_oriental_dance_brindisi_40.6396_17.9419,Aisha Oriental Dance Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/aisha_oriental_dance_brindisi_40.6396_17.9419.json,custom
+40.639290,17.947860,ov_royal_88_di_elia_cataldo_40.6393_17.9479,Royal 88 di Elia Cataldo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/royal_88_di_elia_cataldo_40.6393_17.9479.json,custom
+40.637872,17.933179,ov_a_c_s_d__accademia_delle_danze_40.6379_17.9332,A.C.S.D. Accademia delle Danze,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/acsd_accademia_delle_danze_40.6379_17.9332.json,custom
+40.638018,17.932255,ov_ds_gym_h24_40.6380_17.9323,DS Gym h24,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ds_gym_h24_40.6380_17.9323.json,custom
+40.638797,17.937880,ov_palazumbo_dinamo_brindisi_40.6388_17.9379,Palazumbo Dinamo Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palazumbo_dinamo_brindisi_40.6388_17.9379.json,custom
+40.636512,17.935439,ov_body_fit_40.6365_17.9354,Body Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/body_fit_40.6365_17.9354.json,custom
+40.636407,17.936381,ov_accademia_di_danza_tersicore_40.6364_17.9364,Accademia di Danza Tersicore,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/accademia_di_danza_tersicore_40.6364_17.9364.json,custom
+40.635140,17.935609,ov_my_personal_lab_40.6351_17.9356,My Personal Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/my_personal_lab_40.6351_17.9356.json,custom
+40.636129,17.933287,ov_palestra_new_gym_40.6361_17.9333,Palestra New Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palestra_new_gym_40.6361_17.9333.json,custom
+40.636690,17.932900,ov_sabrina_todisco_studio_danza_accademica_40.6367_17.9329,Sabrina Todisco Studio Danza Accademica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/sabrina_todisco_studio_danza_accademica_40.6367_17.9329.json,custom
+40.636637,17.934854,ov_big_palestra_40.6366_17.9349,Big Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/big_palestra_40.6366_17.9349.json,custom
+40.636585,17.935258,ov_la_maison_de_la_danse_asd_40.6366_17.9353,La Maison de la Danse ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/la_maison_de_la_danse_asd_40.6366_17.9353.json,custom
+40.636626,17.934233,ov_a_s_d__opificio_della_danza_40.6366_17.9342,A.S.D. Opificio della Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_opificio_della_danza_40.6366_17.9342.json,custom
+40.636933,17.925096,ov_ms_fitness_40.6369_17.9251,MS Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/ms_fitness_40.6369_17.9251.json,custom
+40.638020,17.925021,ov_boxing_academy_team_capuano_40.6380_17.9250,Boxing Academy Team Capuano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/boxing_academy_team_capuano_40.6380_17.9250.json,custom
+40.637613,17.928867,ov_emotivamente_equilibrio_e_benessere_40.6376_17.9289,Emotivamente Equilibrio e Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/emotivamente_equilibrio_e_benessere_40.6376_17.9289.json,custom
+40.637629,17.930264,ov_street_school___hip_hop_academy_40.6376_17.9303,Street School - Hip Hop Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/street_school_-_hip_hop_academy_40.6376_17.9303.json,custom
+40.644563,17.918731,ov_evo_40.6446_17.9187,EVO,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/evo_40.6446_17.9187.json,custom
+40.630569,17.923771,ov_just_fit_40.6306_17.9238,Just Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/just_fit_40.6306_17.9238.json,custom
+40.630521,17.930776,ov_asd_oltredanza_brindisi_40.6305_17.9308,Asd Oltredanza Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_oltredanza_brindisi_40.6305_17.9308.json,custom
+40.630403,17.928751,ov_dancing_stars_40.6304_17.9288,Dancing Stars,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/dancing_stars_40.6304_17.9288.json,custom
+40.631570,17.929472,ov_associazione_sportiva_sergio_ragno_40.6316_17.9295,Associazione Sportiva Sergio Ragno,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/associazione_sportiva_sergio_ragno_40.6316_17.9295.json,custom
+40.631716,17.929160,ov_studio_dance_40.6317_17.9292,Studio Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/studio_dance_40.6317_17.9292.json,custom
+40.631031,17.927492,ov_asd_area86_40.6310_17.9275,ASD Area86,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_area86_40.6310_17.9275.json,custom
+40.634171,17.926008,ov_club_olympia_40.6342_17.9260,Club Olympia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/club_olympia_40.6342_17.9260.json,custom
+40.632762,17.934136,ov_il_civico_40.6328_17.9341,Il Civico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/il_civico_40.6328_17.9341.json,custom
+40.634611,17.935063,ov_athleticstyle_asd_40.6346_17.9351,Athleticstyle ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/athleticstyle_asd_40.6346_17.9351.json,custom
+40.631080,17.933001,ov_wellness_studio_asd_40.6311_17.9330,Wellness Studio Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/wellness_studio_asd_40.6311_17.9330.json,custom
+40.631082,17.933006,ov_metodo_loney___brindisi_40.6311_17.9330,Metodo Loney - Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/metodo_loney_-_brindisi_40.6311_17.9330.json,custom
+40.631409,17.935195,ov_vertical_gym_asd_40.6314_17.9352,Vertical gym asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/vertical_gym_asd_40.6314_17.9352.json,custom
+40.627870,17.934350,ov_studio_dance_brindisi_40.6279_17.9343,Studio Dance Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/studio_dance_brindisi_40.6279_17.9343.json,custom
+40.627305,17.931615,ov_movement_lab_360_40.6273_17.9316,Movement Lab 360,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/movement_lab_360_40.6273_17.9316.json,custom
+40.629505,17.931156,ov_asd_dream_oriental_and_fitness_40.6295_17.9312,ASD Dream Oriental and Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_dream_oriental_and_fitness_40.6295_17.9312.json,custom
+40.628880,17.924758,ov_revolution_fitness_40.6289_17.9248,Revolution Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/revolution_fitness_40.6289_17.9248.json,custom
+40.627642,17.928813,ov_arcoyoga_brindisi_40.6276_17.9288,Arcoyoga Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/arcoyoga_brindisi_40.6276_17.9288.json,custom
+40.625643,17.927709,ov_nautilus_40.6256_17.9277,Nautilus,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/nautilus_40.6256_17.9277.json,custom
+40.627033,17.932443,ov_new_power_gym_40.6270_17.9324,New Power Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/new_power_gym_40.6270_17.9324.json,custom
+40.624006,17.926714,ov_asd_progetto_benessere_40.6240_17.9267,Asd Progetto Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_progetto_benessere_40.6240_17.9267.json,custom
+40.624423,17.926647,ov_centro_arte_danza_40.6244_17.9266,Centro Arte Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/centro_arte_danza_40.6244_17.9266.json,custom
+40.623765,17.923790,ov_health_club_40.6238_17.9238,Health Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/health_club_40.6238_17.9238.json,custom
+40.623826,17.926125,ov_beautiful_dance_latino_40.6238_17.9261,Beautiful Dance Latino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/beautiful_dance_latino_40.6238_17.9261.json,custom
+40.616133,17.929840,ov_palestra_santuario_gesu_la_rosa_40.6161_17.9298,Palestra Santuario Gesu La Rosa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palestra_santuario_gesu_la_rosa_40.6161_17.9298.json,custom
+40.616880,17.931080,ov_coerver_play_like_the_stars_brindisi_40.6169_17.9311,Coerver Play Like The Stars Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/coerver_play_like_the_stars_brindisi_40.6169_17.9311.json,custom
+40.617406,17.921746,ov_a_s_d__releve_ritmica_brindisi_40.6174_17.9217,A.S.D. Releve Ritmica Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_releve_ritmica_brindisi_40.6174_17.9217.json,custom
+40.620126,17.914732,ov_jazzercise_brindisi_40.6201_17.9147,Jazzercise Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/jazzercise_brindisi_40.6201_17.9147.json,custom
+40.606726,17.950417,ov_olivier_sport_40.6067_17.9504,Olivier SPORT,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/olivier_sport_40.6067_17.9504.json,custom
+40.604170,17.953321,ov_jiaoshi_angelo_cofano_taijiquan_brindisi_40.6042_17.9533,Jiaoshi Angelo Cofano Taijiquan Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/jiaoshi_angelo_cofano_taijiquan_brindisi_40.6042_17.9533.json,custom
+40.616191,17.949695,ov_tiro_a_segno_nazionale_40.6162_17.9497,Tiro A Segno Nazionale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/tiro_a_segno_nazionale_40.6162_17.9497.json,custom
+40.619957,17.945382,ov_asd_in_punta_di_piedi_brindisi_40.6200_17.9454,Asd in Punta Di Piedi Brindisi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/asd_in_punta_di_piedi_brindisi_40.6200_17.9454.json,custom
+40.620680,17.943613,ov_lg_sport_lab_personal_training_40.6207_17.9436,Lg sport lab personal training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/lg_sport_lab_personal_training_40.6207_17.9436.json,custom
+40.621794,17.944328,ov_mamacita_latin_dance_school_40.6218_17.9443,Mamacita Latin Dance School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/mamacita_latin_dance_school_40.6218_17.9443.json,custom
+40.623885,17.940814,ov_g_club_healthandfitness_40.6239_17.9408,G-Club Healthandfitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/g-club_healthandfitness_40.6239_17.9408.json,custom
+40.688346,17.869588,ov_torre_testa_40.6883_17.8696,Torre Testa,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/torre_testa_40.6883_17.8696.json,custom
+40.650152,17.914095,ov_castello_aragonese_40.6502_17.9141,Castello Aragonese,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/castello_aragonese_40.6502_17.9141.json,custom
+40.656387,17.967691,ov_castello_alfonsino_di_brindisi_40.6564_17.9677,Castello Alfonsino di Brindisi,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/castello_alfonsino_di_brindisi_40.6564_17.9677.json,custom
+40.631858,17.942174,ov_bastione_san_giacomo_40.6319_17.9422,Bastione San Giacomo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/bastione_san_giacomo_40.6319_17.9422.json,custom
+40.634847,17.944364,ov_museo_vullnet_idriz_shtini_40.6348_17.9444,Museo Vullnet Idriz Shtini,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/museo_vullnet_idriz_shtini_40.6348_17.9444.json,custom
+40.636138,17.939278,ov_casa_di_quartiere_minimus_40.6361_17.9393,Casa di quartiere Minimus,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/casa_di_quartiere_minimus_40.6361_17.9393.json,custom
+40.636447,17.939142,ov_porta_mesagne_40.6364_17.9391,Porta Mesagne,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/porta_mesagne_40.6364_17.9391.json,custom
+40.638840,17.945673,ov_area_archeologica_san_pietro_degli_schia_40.6388_17.9457,Area Archeologica San Pietro degli Schiavoni,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/area_archeologica_san_pietro_degli_schia_40.6388_17.9457.json,custom
+40.644536,17.946895,ov_monumento_al_marinaio_40.6445_17.9469,Monumento al Marinaio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/monumento_al_marinaio_40.6445_17.9469.json,custom
+40.641082,17.946769,ov_colonne_romane_40.6411_17.9468,Colonne Romane,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/colonne_romane_40.6411_17.9468.json,custom
+40.641361,17.947347,ov_collezione_archeologica_faldetta_40.6414_17.9473,Collezione Archeologica Faldetta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/collezione_archeologica_faldetta_40.6414_17.9473.json,custom
+40.641350,17.946871,ov_palazzina_belvedere_40.6414_17.9469,Palazzina Belvedere,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/palazzina_belvedere_40.6414_17.9469.json,custom
+40.641829,17.945379,ov_casa_del_turista_40.6418_17.9454,Casa Del Turista,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/casa_del_turista_40.6418_17.9454.json,custom
+40.640240,17.943260,ov_museo_diocesano_g__tarantini_40.6402_17.9433,Museo Diocesano G. Tarantini,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/museo_diocesano_g_tarantini_40.6402_17.9433.json,custom
+40.640275,17.937118,ov_castello_svevo_40.6403_17.9371,Castello Svevo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/brindisi/pages/castello_svevo_40.6403_17.9371.json,custom

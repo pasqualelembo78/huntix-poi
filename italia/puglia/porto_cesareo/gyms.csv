@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # porto_cesareo -- gyms
-40.250000,17.900000,ov_riviera_di_ponente_porto_cesareo_40.2500_17.9000,Riviera Di Ponente Porto Cesareo,GYM,palestra
-40.280842,17.866009,ov_lido_goa_porto_cesareo__le__40.2808_17.8660,Lido Goa Porto Cesareo (Le),GYM,palestra
-40.288182,17.853726,ov_orca_diving_center_40.2882_17.8537,Orca Diving Center,GYM,palestra
-40.285860,17.858641,ov_lunga_bros_40.2859_17.8586,Lunga Bros,GYM,palestra
-40.293394,17.809372,ov_maneggio_sette_nani_40.2934_17.8094,Maneggio Sette Nani,GYM,palestra
-40.294821,17.795767,ov_bowling_punta_grossa_40.2948_17.7958,Bowling Punta Grossa,GYM,palestra
-40.293941,17.785423,ov_campo_comunale_guido_vantaggiato_40.2939_17.7854,Campo Comunale Guido Vantaggiato,GYM,palestra
-40.296081,17.768500,ov_ippocampus_scuba_diver_40.2961_17.7685,Ippocampus SCUBA DIVER,GYM,palestra
-40.262362,17.888006,ov_pescaturismo_per_vivere_il_mare_40.2624_17.8880,Pescaturismo Per Vivere Il Mare,GYM,palestra
-40.256565,17.891843,ov_porto_cesareo_diving_40.2566_17.8918,Porto Cesareo Diving,GYM,palestra
+40.250000,17.900000,ov_riviera_di_ponente_porto_cesareo_40.2500_17.9000,Riviera Di Ponente Porto Cesareo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/riviera_di_ponente_porto_cesareo_40.2500_17.9000.json,custom
+40.280842,17.866009,ov_lido_goa_porto_cesareo__le__40.2808_17.8660,Lido Goa Porto Cesareo (Le),GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/lido_goa_porto_cesareo_le_40.2808_17.8660.json,custom
+40.288182,17.853726,ov_orca_diving_center_40.2882_17.8537,Orca Diving Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/orca_diving_center_40.2882_17.8537.json,custom
+40.285860,17.858641,ov_lunga_bros_40.2859_17.8586,Lunga Bros,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/lunga_bros_40.2859_17.8586.json,custom
+40.293394,17.809372,ov_maneggio_sette_nani_40.2934_17.8094,Maneggio Sette Nani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/maneggio_sette_nani_40.2934_17.8094.json,custom
+40.294821,17.795767,ov_bowling_punta_grossa_40.2948_17.7958,Bowling Punta Grossa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/bowling_punta_grossa_40.2948_17.7958.json,custom
+40.293941,17.785423,ov_campo_comunale_guido_vantaggiato_40.2939_17.7854,Campo Comunale Guido Vantaggiato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/campo_comunale_guido_vantaggiato_40.2939_17.7854.json,custom
+40.296081,17.768500,ov_ippocampus_scuba_diver_40.2961_17.7685,Ippocampus SCUBA DIVER,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ippocampus_scuba_diver_40.2961_17.7685.json,custom
+40.262362,17.888006,ov_pescaturismo_per_vivere_il_mare_40.2624_17.8880,Pescaturismo Per Vivere Il Mare,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pescaturismo_per_vivere_il_mare_40.2624_17.8880.json,custom
+40.256565,17.891843,ov_porto_cesareo_diving_40.2566_17.8918,Porto Cesareo Diving,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/porto_cesareo_diving_40.2566_17.8918.json,custom

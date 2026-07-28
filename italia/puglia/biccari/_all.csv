@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Biccari -- Tutti
-41.407280,15.238670,ov_agriturismo_masseria_lauri_41.4073_15.2387,Agriturismo Masseria Lauri,RESTAURANT,ristorante
-41.395476,15.193435,ov_varese_41.3955_15.1934,Varese,RESTAURANT,ristorante
-41.396412,15.192744,ov_panama_cafe_41.3964_15.1927,Panama Cafe,RESTAURANT,ristorante
-41.397170,15.193268,ov_officina_17_41.3972_15.1933,Officina 17,RESTAURANT,ristorante
-41.390493,15.187526,ov_pizzeria_molino_a_vento_41.3905_15.1875,Pizzeria Molino a Vento,RESTAURANT,ristorante
-41.396074,15.192245,ov_mood_up_41.3961_15.1922,Mood Up,RESTAURANT,bar_cafe
-41.397944,15.194572,ov_circolo_padre_pio_41.3979_15.1946,Circolo Padre Pio,GYM,palestra
-41.442585,15.207127,ov_torre_di_tertiveri_41.4426_15.2071,Torre di Tertiveri,MONUMENT,monumento
-41.400000,15.183300,ov_torre_di_tertiveri_41.4000_15.1833,Torre Di Tertiveri,MONUMENT,monumento
+41.407280,15.238670,ov_agriturismo_masseria_lauri_41.4073_15.2387,Agriturismo Masseria Lauri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/agriturismo_masseria_lauri_41.4073_15.2387.json,custom
+41.395476,15.193435,ov_varese_41.3955_15.1934,Varese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/varese_41.3955_15.1934.json,custom
+41.396412,15.192744,ov_panama_cafe_41.3964_15.1927,Panama Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/panama_cafe_41.3964_15.1927.json,custom
+41.397170,15.193268,ov_officina_17_41.3972_15.1933,Officina 17,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/officina_17_41.3972_15.1933.json,custom
+41.390493,15.187526,ov_pizzeria_molino_a_vento_41.3905_15.1875,Pizzeria Molino a Vento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/pizzeria_molino_a_vento_41.3905_15.1875.json,custom
+41.396074,15.192245,ov_mood_up_41.3961_15.1922,Mood Up,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/mood_up_41.3961_15.1922.json,custom
+41.397944,15.194572,ov_circolo_padre_pio_41.3979_15.1946,Circolo Padre Pio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/circolo_padre_pio_41.3979_15.1946.json,custom
+41.442585,15.207127,ov_torre_di_tertiveri_41.4426_15.2071,Torre di Tertiveri,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/torre_di_tertiveri_41.4426_15.2071.json,custom
+41.400000,15.183300,ov_torre_di_tertiveri_41.4000_15.1833,Torre Di Tertiveri,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/biccari/pages/torre_di_tertiveri_41.4000_15.1833.json,custom

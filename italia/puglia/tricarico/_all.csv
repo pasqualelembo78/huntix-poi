@@ -1,22 +1,22 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Tricarico -- Tutti
-40.618384,16.149780,ov_ospedale_di_tricarico_40.6184_16.1498,Ospedale Di Tricarico,HOSPITAL,hospital
-40.618384,16.149780,ov_3_torri_ristorante_pizzeria_40.6184_16.1498,3 torri ristorante-pizzeria,RESTAURANT,ristorante
-40.618852,16.148642,ov_botti_e_padelle_40.6189_16.1486,Botti e Padelle,RESTAURANT,ristorante
-40.618845,16.145404,ov_la_fontana_vecchia_40.6188_16.1454,La Fontana Vecchia,RESTAURANT,ristorante
-40.619453,16.148281,ov_pepenero_l_officina_dei_sapori_40.6195_16.1483,Pepenero L'Officina dei Sapori,RESTAURANT,ristorante
-40.619786,16.148003,ov_pizzeria_ristorante_da_zolfanello_40.6198_16.1480,Pizzeria Ristorante da Zolfanello,RESTAURANT,ristorante
-40.621045,16.147814,ov_red_lion_40.6210_16.1478,Red Lion,RESTAURANT,ristorante
-40.640485,16.060603,ov_il_ristoro_della_civita_2_0_40.6405_16.0606,Il Ristoro della Civita 2.0,RESTAURANT,ristorante
-40.640229,16.062167,ov_ristorante_pizzeria_tre_cancelli_40.6402_16.0622,Ristorante Pizzeria Tre Cancelli,RESTAURANT,ristorante
-40.615066,16.147122,ov_bar_caravelli_40.6151_16.1471,Bar Caravelli,RESTAURANT,bar_cafe
-40.618180,16.143170,ov_bar_pasticceria_gelateria__del_viale__40.6182_16.1432,Bar Pasticceria Gelateria “Del Viale”,RESTAURANT,bar_cafe
-40.617608,16.149984,ov_little_pub_40.6176_16.1500,Little Pub,RESTAURANT,bar_cafe
-40.617982,16.149712,ov_birrificio_crazy_hop_40.6180_16.1497,Birrificio Crazy Hop,RESTAURANT,bar_cafe
-40.619135,16.148448,ov_kristin_s_caf__40.6191_16.1484,Kristin's Cafè,RESTAURANT,bar_cafe
-40.619940,16.147970,ov_perla_nera__bar_gelateria_40.6199_16.1480,Perla Nera  bar gelateria,RESTAURANT,bar_cafe
-40.621705,16.147077,ov_golden_tower_40.6217_16.1471,Golden Tower,RESTAURANT,bar_cafe
-40.622672,16.145071,ov_caff__napoli_40.6227_16.1451,Caffè Napoli,RESTAURANT,bar_cafe
-40.623740,16.144782,ov_ristorante_pizzeria_3_torri_40.6237_16.1448,Ristorante Pizzeria 3 Torri,RESTAURANT,bar_cafe
-40.625240,16.134715,ov_a_s_d__energy_fitness_center_40.6252_16.1347,A.S.D. Energy Fitness Center,GYM,palestra
-40.624234,16.143908,ov_museo_diocesano_di_tricarico_40.6242_16.1439,Museo Diocesano di Tricarico,MUSEUM,monumento
+40.618384,16.149780,ov_ospedale_di_tricarico_40.6184_16.1498,Ospedale Di Tricarico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/ospedale_di_tricarico_40.6184_16.1498.json,custom
+40.618384,16.149780,ov_3_torri_ristorante_pizzeria_40.6184_16.1498,3 torri ristorante-pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/3_torri_ristorante-pizzeria_40.6184_16.1498.json,custom
+40.618852,16.148642,ov_botti_e_padelle_40.6189_16.1486,Botti e Padelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/botti_e_padelle_40.6189_16.1486.json,custom
+40.618845,16.145404,ov_la_fontana_vecchia_40.6188_16.1454,La Fontana Vecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/la_fontana_vecchia_40.6188_16.1454.json,custom
+40.619453,16.148281,ov_pepenero_l_officina_dei_sapori_40.6195_16.1483,Pepenero L'Officina dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/pepenero_lofficina_dei_sapori_40.6195_16.1483.json,custom
+40.619786,16.148003,ov_pizzeria_ristorante_da_zolfanello_40.6198_16.1480,Pizzeria Ristorante da Zolfanello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/pizzeria_ristorante_da_zolfanello_40.6198_16.1480.json,custom
+40.621045,16.147814,ov_red_lion_40.6210_16.1478,Red Lion,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/red_lion_40.6210_16.1478.json,custom
+40.640485,16.060603,ov_il_ristoro_della_civita_2_0_40.6405_16.0606,Il Ristoro della Civita 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/il_ristoro_della_civita_20_40.6405_16.0606.json,custom
+40.640229,16.062167,ov_ristorante_pizzeria_tre_cancelli_40.6402_16.0622,Ristorante Pizzeria Tre Cancelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/ristorante_pizzeria_tre_cancelli_40.6402_16.0622.json,custom
+40.615066,16.147122,ov_bar_caravelli_40.6151_16.1471,Bar Caravelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/bar_caravelli_40.6151_16.1471.json,custom
+40.618180,16.143170,ov_bar_pasticceria_gelateria__del_viale__40.6182_16.1432,Bar Pasticceria Gelateria “Del Viale”,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/bar_pasticceria_gelateria_del_viale_40.6182_16.1432.json,custom
+40.617608,16.149984,ov_little_pub_40.6176_16.1500,Little Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/little_pub_40.6176_16.1500.json,custom
+40.617982,16.149712,ov_birrificio_crazy_hop_40.6180_16.1497,Birrificio Crazy Hop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/birrificio_crazy_hop_40.6180_16.1497.json,custom
+40.619135,16.148448,ov_kristin_s_caf__40.6191_16.1484,Kristin's Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/kristins_caf_40.6191_16.1484.json,custom
+40.619940,16.147970,ov_perla_nera__bar_gelateria_40.6199_16.1480,Perla Nera  bar gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/perla_nera_bar_gelateria_40.6199_16.1480.json,custom
+40.621705,16.147077,ov_golden_tower_40.6217_16.1471,Golden Tower,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/golden_tower_40.6217_16.1471.json,custom
+40.622672,16.145071,ov_caff__napoli_40.6227_16.1451,Caffè Napoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/caff_napoli_40.6227_16.1451.json,custom
+40.623740,16.144782,ov_ristorante_pizzeria_3_torri_40.6237_16.1448,Ristorante Pizzeria 3 Torri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/ristorante_pizzeria_3_torri_40.6237_16.1448.json,custom
+40.625240,16.134715,ov_a_s_d__energy_fitness_center_40.6252_16.1347,A.S.D. Energy Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/asd_energy_fitness_center_40.6252_16.1347.json,custom
+40.624234,16.143908,ov_museo_diocesano_di_tricarico_40.6242_16.1439,Museo Diocesano di Tricarico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tricarico/pages/museo_diocesano_di_tricarico_40.6242_16.1439.json,custom

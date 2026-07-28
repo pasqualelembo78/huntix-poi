@@ -1,20 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # parabita -- restaurants
-40.052788,18.124250,osm_l_artigiano_della_pizza_40.0528_18.1243,L'Artigiano della Pizza,ristorante,ristorante
-40.044569,18.125854,ov_asportiamo_40.0446_18.1259,Asportiamo,RESTAURANT,ristorante
-40.052851,18.124256,ov_l_artigiano_della_pizza_40.0529_18.1243,L'Artigiano Della Pizza,RESTAURANT,ristorante
-40.051172,18.125834,ov_pescheria_imbriani_40.0512_18.1258,Pescheria Imbriani,RESTAURANT,ristorante
-40.051226,18.126885,ov_li_rrusti_40.0512_18.1269,LI Rrusti,RESTAURANT,ristorante
-40.051055,18.131702,ov_la_lanterna_40.0511_18.1317,La Lanterna,RESTAURANT,ristorante
-40.050606,18.127094,ov_il_contenitore_wine_bistrot_40.0506_18.1271,Il Contenitore Wine Bistrot,RESTAURANT,ristorante
-40.050109,18.127141,ov_la_madre_40.0501_18.1271,La Madre,RESTAURANT,ristorante
-40.050014,18.127340,ov_osteria_lo_sturno_40.0500_18.1273,Osteria Lo Sturno,RESTAURANT,ristorante
-40.049818,18.126316,ov_il_contenitore___restaurant___bistrot_40.0498_18.1263,Il Contenitore - Restaurant & Bistrot,RESTAURANT,ristorante
-40.049664,18.122722,ov_nishiki_40.0497_18.1227,Nishiki,RESTAURANT,ristorante
-40.050197,18.125684,ov_i_maritati_40.0502_18.1257,I Maritati,RESTAURANT,ristorante
-40.050150,18.122660,ov_prima_o_poi_40.0502_18.1227,Prima o poi,RESTAURANT,ristorante
-40.050263,18.125639,ov_antiche_tradizioni_40.0503_18.1256,Antiche Tradizioni,RESTAURANT,ristorante
-40.047822,18.079546,ov_tenuta_yala___residenza_agrituristica_40.0478_18.0795,Tenuta Yala - Residenza Agrituristica,RESTAURANT,ristorante
-40.047274,18.098178,ov_agriturismo_paradiso_40.0473_18.0982,Agriturismo Paradiso,RESTAURANT,ristorante
-40.048801,18.123252,ov_giardino_delle_veneri_40.0488_18.1233,Giardino delle Veneri,RESTAURANT,ristorante
-40.048233,18.126378,ov_pizzeria_cotto_e_mangiato_40.0482_18.1264,Pizzeria Cotto e Mangiato,RESTAURANT,ristorante
+40.044569,18.125854,ov_asportiamo_40.0446_18.1259,Asportiamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asportiamo_40.0446_18.1259.json,custom
+40.052851,18.124256,ov_l_artigiano_della_pizza_40.0529_18.1243,L'Artigiano Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/lartigiano_della_pizza_40.0529_18.1243.json,custom
+40.051172,18.125834,ov_pescheria_imbriani_40.0512_18.1258,Pescheria Imbriani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/pescheria_imbriani_40.0512_18.1258.json,custom
+40.051226,18.126885,ov_li_rrusti_40.0512_18.1269,LI Rrusti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/li_rrusti_40.0512_18.1269.json,custom
+40.051055,18.131702,ov_la_lanterna_40.0511_18.1317,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/la_lanterna_40.0511_18.1317.json,custom
+40.050606,18.127094,ov_il_contenitore_wine_bistrot_40.0506_18.1271,Il Contenitore Wine Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/il_contenitore_wine_bistrot_40.0506_18.1271.json,custom
+40.050109,18.127141,ov_la_madre_40.0501_18.1271,La Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/la_madre_40.0501_18.1271.json,custom
+40.050014,18.127340,ov_osteria_lo_sturno_40.0500_18.1273,Osteria Lo Sturno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/osteria_lo_sturno_40.0500_18.1273.json,custom
+40.049818,18.126316,ov_il_contenitore___restaurant___bistrot_40.0498_18.1263,Il Contenitore - Restaurant & Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/il_contenitore_-_restaurant_bistrot_40.0498_18.1263.json,custom
+40.049664,18.122722,ov_nishiki_40.0497_18.1227,Nishiki,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/nishiki_40.0497_18.1227.json,custom
+40.050197,18.125684,ov_i_maritati_40.0502_18.1257,I Maritati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/i_maritati_40.0502_18.1257.json,custom
+40.050150,18.122660,ov_prima_o_poi_40.0502_18.1227,Prima o poi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/prima_o_poi_40.0502_18.1227.json,custom
+40.050263,18.125639,ov_antiche_tradizioni_40.0503_18.1256,Antiche Tradizioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/antiche_tradizioni_40.0503_18.1256.json,custom
+40.047822,18.079546,ov_tenuta_yala___residenza_agrituristica_40.0478_18.0795,Tenuta Yala - Residenza Agrituristica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/tenuta_yala_-_residenza_agrituristica_40.0478_18.0795.json,custom
+40.047274,18.098178,ov_agriturismo_paradiso_40.0473_18.0982,Agriturismo Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/agriturismo_paradiso_40.0473_18.0982.json,custom
+40.048801,18.123252,ov_giardino_delle_veneri_40.0488_18.1233,Giardino delle Veneri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/giardino_delle_veneri_40.0488_18.1233.json,custom
+40.048233,18.126378,ov_pizzeria_cotto_e_mangiato_40.0482_18.1264,Pizzeria Cotto e Mangiato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/pizzeria_cotto_e_mangiato_40.0482_18.1264.json,custom

@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cellamare -- restaurants
-41.019666,16.927446,ov_fantasy_41.0197_16.9274,Fantasy,RESTAURANT,ristorante
-41.018823,16.925875,ov_white_cafe_41.0188_16.9259,White cafe,RESTAURANT,ristorante
-41.021167,16.928816,ov_pizzeria_l_antico_arco_41.0212_16.9288,Pizzeria L'Antico Arco,RESTAURANT,ristorante
-41.020906,16.926201,ov_vimi_pizzeria_41.0209_16.9262,Vimi Pizzeria,RESTAURANT,ristorante
-41.020650,16.927720,ov_bar_sport_pizzeria_41.0207_16.9277,Bar_sport_pizzeria,RESTAURANT,ristorante
-41.021377,16.921725,ov_peafowl_at_garden_41.0214_16.9217,Peafowl at Garden,RESTAURANT,ristorante
-41.021862,16.929167,ov_le_dominik_41.0219_16.9292,Le Dominik,RESTAURANT,ristorante
+41.019666,16.927446,ov_fantasy_41.0197_16.9274,Fantasy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/fantasy_41.0197_16.9274.json,custom
+41.018823,16.925875,ov_white_cafe_41.0188_16.9259,White cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/white_cafe_41.0188_16.9259.json,custom
+41.021167,16.928816,ov_pizzeria_l_antico_arco_41.0212_16.9288,Pizzeria L'Antico Arco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/pizzeria_lantico_arco_41.0212_16.9288.json,custom
+41.020906,16.926201,ov_vimi_pizzeria_41.0209_16.9262,Vimi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/vimi_pizzeria_41.0209_16.9262.json,custom
+41.020650,16.927720,ov_bar_sport_pizzeria_41.0207_16.9277,Bar_sport_pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/barsportpizzeria_41.0207_16.9277.json,custom
+41.021377,16.921725,ov_peafowl_at_garden_41.0214_16.9217,Peafowl at Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/peafowl_at_garden_41.0214_16.9217.json,custom
+41.021862,16.929167,ov_le_dominik_41.0219_16.9292,Le Dominik,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellamare/pages/le_dominik_41.0219_16.9292.json,custom

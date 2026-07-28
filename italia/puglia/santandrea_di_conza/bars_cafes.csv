@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santandrea_di_conza -- bars_cafes
-40.842941,15.367489,ov_bar_pasticceria_pagoda_40.8429_15.3675,Bar Pasticceria Pagoda,RESTAURANT,bar_cafe
-40.845267,15.372859,ov_sant_andrea_di_conza_40.8453_15.3729,Sant'Andrea di Conza,RESTAURANT,bar_cafe
+40.842941,15.367489,ov_bar_pasticceria_pagoda_40.8429_15.3675,Bar Pasticceria Pagoda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/bar_pasticceria_pagoda_40.8429_15.3675.json,custom
+40.845267,15.372859,ov_sant_andrea_di_conza_40.8453_15.3729,Sant'Andrea di Conza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santandrea_di_conza/pages/santandrea_di_conza_40.8453_15.3729.json,custom

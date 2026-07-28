@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # presicce-acquarica -- bars_cafes
-39.898367,18.260605,ov_caff__colonna_39.8984_18.2606,Caffè Colonna,RESTAURANT,bar_cafe
-39.899471,18.260586,ov_coop_39.8995_18.2606,Coop,RESTAURANT,bar_cafe
-39.899293,18.261511,ov_country_39.8993_18.2615,COUNTRY,RESTAURANT,bar_cafe
-39.899332,18.260386,ov_distillerie_clandestine_39.8993_18.2604,Distillerie Clandestine,RESTAURANT,bar_cafe
-39.899279,18.260564,ov_people_s_square_39.8993_18.2606,People’s Square,RESTAURANT,bar_cafe
-39.901980,18.260770,ov_bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608,Bar Lopes presso Centro Commerciale gli Angeli,RESTAURANT,bar_cafe
-39.900891,18.263744,ov_swami_39.9009_18.2637,Swami,RESTAURANT,bar_cafe
-39.902966,18.252704,ov_all_impianti_39.9030_18.2527,All'Impianti,RESTAURANT,bar_cafe
-39.902690,18.260880,ov_caffe_michelangelo_39.9027_18.2609,Caffe Michelangelo,RESTAURANT,bar_cafe
-39.904156,18.257360,ov_bar_pasticceria_roma_39.9042_18.2574,Bar Pasticceria Roma,RESTAURANT,bar_cafe
-39.904721,18.256467,ov_pizzeria_saloon_moerenhout_39.9047_18.2565,Pizzeria Saloon Moerenhout,RESTAURANT,bar_cafe
-39.905890,18.247470,ov_pr__39.9059_18.2475,PRÈ,RESTAURANT,bar_cafe
-39.906009,18.254873,ov_bairon_cafe_39.9060_18.2549,Bairon Cafe,RESTAURANT,bar_cafe
-39.908977,18.246005,ov_bar_la_stecca_39.9090_18.2460,Bar La Stecca,RESTAURANT,bar_cafe
+39.898367,18.260605,ov_caff__colonna_39.8984_18.2606,Caffè Colonna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/caff_colonna_39.8984_18.2606.json,custom
+39.899471,18.260586,ov_coop_39.8995_18.2606,Coop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/coop_39.8995_18.2606.json,custom
+39.899293,18.261511,ov_country_39.8993_18.2615,COUNTRY,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/country_39.8993_18.2615.json,custom
+39.899332,18.260386,ov_distillerie_clandestine_39.8993_18.2604,Distillerie Clandestine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/distillerie_clandestine_39.8993_18.2604.json,custom
+39.899279,18.260564,ov_people_s_square_39.8993_18.2606,People’s Square,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/peoples_square_39.8993_18.2606.json,custom
+39.901980,18.260770,ov_bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608,Bar Lopes presso Centro Commerciale gli Angeli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608.json,custom
+39.900891,18.263744,ov_swami_39.9009_18.2637,Swami,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/swami_39.9009_18.2637.json,custom
+39.902966,18.252704,ov_all_impianti_39.9030_18.2527,All'Impianti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/allimpianti_39.9030_18.2527.json,custom
+39.902690,18.260880,ov_caffe_michelangelo_39.9027_18.2609,Caffe Michelangelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/caffe_michelangelo_39.9027_18.2609.json,custom
+39.904156,18.257360,ov_bar_pasticceria_roma_39.9042_18.2574,Bar Pasticceria Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_pasticceria_roma_39.9042_18.2574.json,custom
+39.904721,18.256467,ov_pizzeria_saloon_moerenhout_39.9047_18.2565,Pizzeria Saloon Moerenhout,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/pizzeria_saloon_moerenhout_39.9047_18.2565.json,custom
+39.905890,18.247470,ov_pr__39.9059_18.2475,PRÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/pr_39.9059_18.2475.json,custom
+39.906009,18.254873,ov_bairon_cafe_39.9060_18.2549,Bairon Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bairon_cafe_39.9060_18.2549.json,custom
+39.908977,18.246005,ov_bar_la_stecca_39.9090_18.2460,Bar La Stecca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_la_stecca_39.9090_18.2460.json,custom

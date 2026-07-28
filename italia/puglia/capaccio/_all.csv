@@ -1,13 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Capaccio -- Tutti
-40.465276,15.015918,osm_agripaestum_40.4653_15.0159,Agripaestum,ristorante,ristorante
-40.479581,15.014932,osm_ristorante_san_giorgio_40.4796_15.0149,Ristorante SAN GIORGIO,ristorante,ristorante
-40.472098,15.014332,osm_the_royal_burger_40.4721_15.0143,The Royal Burger,ristorante,ristorante
-40.477232,15.015008,osm_ristorante_hermanos_40.4772_15.0150,Ristorante Hermanos,ristorante,ristorante
-40.482647,15.015443,osm_zi_tot__40.4826_15.0154,Zi Totò,ristorante,ristorante
-40.450768,15.023518,ov_trattoria_vannullo_il_cantuccio_40.4508_15.0235,Trattoria Vannullo Il Cantuccio,RESTAURANT,ristorante
-40.457889,15.018340,ov_d_angelo_gerardina_40.4579_15.0183,D'Angelo Gerardina,RESTAURANT,ristorante
-40.439005,15.051060,ov_agriturismo_torre_dei_venti_40.4390_15.0511,Agriturismo Torre dei Venti,RESTAURANT,ristorante
-40.466950,15.040660,ov_agriturismo_il_giardino_dei_sapori_40.4669_15.0407,Agriturismo Il Giardino dei Sapori,RESTAURANT,ristorante
-40.465231,15.014760,osm_bar_cataldo_40.4652_15.0148,Bar Cataldo,bar_cafe,bar_cafe
-40.482189,15.015409,osm_monroe_lounge_bar_40.4822_15.0154,Monroe Lounge Bar,bar_cafe,bar_cafe
+40.450768,15.023518,ov_trattoria_vannullo_il_cantuccio_40.4508_15.0235,Trattoria Vannullo Il Cantuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/trattoria_vannullo_il_cantuccio_40.4508_15.0235.json,custom
+40.457889,15.018340,ov_d_angelo_gerardina_40.4579_15.0183,D'Angelo Gerardina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/dangelo_gerardina_40.4579_15.0183.json,custom
+40.439005,15.051060,ov_agriturismo_torre_dei_venti_40.4390_15.0511,Agriturismo Torre dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/agriturismo_torre_dei_venti_40.4390_15.0511.json,custom
+40.466950,15.040660,ov_agriturismo_il_giardino_dei_sapori_40.4669_15.0407,Agriturismo Il Giardino dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/agriturismo_il_giardino_dei_sapori_40.4669_15.0407.json,custom
+40.479581,15.014932,osm_ristorante_san_giorgio_40.4796_15.0149,Ristorante SAN GIORGIO,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/ristorante_san_giorgio_40.4796_15.0149.json,custom
+40.472098,15.014332,osm_the_royal_burger_40.4721_15.0143,The Royal Burger,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/the_royal_burger_40.4721_15.0143.json,custom
+40.482647,15.015443,osm_zi_tot__40.4826_15.0154,Zi Totò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/zi_tot_40.4826_15.0154.json,custom
+40.465231,15.014760,osm_bar_cataldo_40.4652_15.0148,Bar Cataldo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/bar_cataldo_40.4652_15.0148.json,custom
+40.482189,15.015409,osm_monroe_lounge_bar_40.4822_15.0154,Monroe Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio/pages/monroe_lounge_bar_40.4822_15.0154.json,custom

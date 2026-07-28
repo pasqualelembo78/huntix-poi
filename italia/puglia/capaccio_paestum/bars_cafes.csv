@@ -1,50 +1,50 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # capaccio_paestum -- bars_cafes
-40.380179,15.001863,ov_kokun_beach_bar_40.3802_15.0019,Kokun Beach Bar,RESTAURANT,bar_cafe
-40.386173,15.000741,ov_lido_da_franca_40.3862_15.0007,Lido Da Franca,RESTAURANT,bar_cafe
-40.402508,15.000655,ov_il_portico_bar_paestum_40.4025_15.0007,Il Portico Bar Paestum,RESTAURANT,bar_cafe
-40.403994,15.001259,ov_the_rock_cafe_40.4040_15.0013,The Rock Cafe,RESTAURANT,bar_cafe
-40.407376,15.001946,ov_summer_cafe_40.4074_15.0019,Summer Cafe,RESTAURANT,bar_cafe
-40.409439,15.002437,ov_bar_il_naviglio_40.4094_15.0024,Bar Il Naviglio,RESTAURANT,bar_cafe
-40.409443,15.002410,ov_vintage_bar_40.4094_15.0024,Vintage bar,RESTAURANT,bar_cafe
-40.426850,15.003889,ov_gingin_40.4268_15.0039,GinGin,RESTAURANT,bar_cafe
-40.453443,15.002084,ov_agropark_capaccio_paestum_40.4534_15.0021,Agropark Capaccio Paestum,RESTAURANT,bar_cafe
-40.480050,15.032340,ov_monroe_lounge_disco_bar_40.4800_15.0323,Monroe lounge disco bar,RESTAURANT,bar_cafe
-40.453896,15.022165,ov_bar_getsemani_40.4539_15.0222,Bar Getsemani,RESTAURANT,bar_cafe
-40.496231,15.015851,ov_brooklyn_light_cafe_40.4962_15.0159,Brooklyn Light Cafe,RESTAURANT,bar_cafe
-40.479787,15.014995,ov_bar_san_giorgio_40.4798_15.0150,Bar San Giorgio,RESTAURANT,bar_cafe
-40.453909,15.007167,ov_ti_con_zero_40.4539_15.0072,Ti Con Zero,RESTAURANT,bar_cafe
-40.453703,15.006672,ov_bar_savoy_di_merola_alessandro_40.4537_15.0067,Bar Savoy Di Merola Alessandro,RESTAURANT,bar_cafe
-40.453756,15.006078,ov_bar_del_corso_40.4538_15.0061,Bar Del Corso,RESTAURANT,bar_cafe
-40.455102,15.004870,ov_bar_anna_cerrato_40.4551_15.0049,Bar anna Cerrato,RESTAURANT,bar_cafe
-40.441352,15.008605,ov_bar_happy_hour_40.4414_15.0086,Bar Happy Hour,RESTAURANT,bar_cafe
-40.456207,15.011425,ov_gran_caff__galardi_40.4562_15.0114,Gran Caffè Galardi,RESTAURANT,bar_cafe
-40.454540,15.013797,ov_bar_tabacchi_i__binario_40.4545_15.0138,Bar Tabacchi Iº Binario,RESTAURANT,bar_cafe
-40.458360,15.012390,ov_bar_my_way_40.4584_15.0124,Bar My Way,RESTAURANT,bar_cafe
-40.457879,15.012393,ov_bar_black_athena_40.4579_15.0124,Bar Black Athena,RESTAURANT,bar_cafe
-40.454774,15.011935,ov_caff__verdi_40.4548_15.0119,Caffè Verdi,RESTAURANT,bar_cafe
-40.452060,15.011554,ov_caf__950_40.4521_15.0116,Cafè 950,RESTAURANT,bar_cafe
-40.452727,15.011680,ov_lounge_pi_bar_40.4527_15.0117,Lounge Pi Bar,RESTAURANT,bar_cafe
-40.454137,15.011614,ov_gina_s_40.4541_15.0116,Gina's,RESTAURANT,bar_cafe
-40.457127,15.011876,ov_vittoria_caff____cocktail_bar_40.4571_15.0119,VITTORIA caffè & cocktail bar,RESTAURANT,bar_cafe
-40.456267,15.011821,ov_bar_nazionale_40.4563_15.0118,Bar Nazionale,RESTAURANT,bar_cafe
-40.455300,15.011930,ov_solito_supereasybar_40.4553_15.0119,Solito supereasybar,RESTAURANT,bar_cafe
-40.457706,15.011931,ov_enoteca_chez_amis_40.4577_15.0119,Enoteca Chez Amis,RESTAURANT,bar_cafe
-40.475877,15.014668,ov_bufala_caffe_40.4759_15.0147,Bufala Caffe,RESTAURANT,bar_cafe
-40.465235,15.015716,ov_caff__bellini_40.4652_15.0157,Caffè Bellini,RESTAURANT,bar_cafe
-40.426227,15.018337,ov_braceria___lounge_bar__business_lunch____40.4262_15.0183,Braceria - Lounge Bar -Business Lunch - Agripaestum,RESTAURANT,bar_cafe
-40.408701,15.013283,ov_bar_dolce_incontro_40.4087_15.0133,Bar Dolce Incontro,RESTAURANT,bar_cafe
-40.410147,15.012180,ov_bar_siano_40.4101_15.0122,Bar siano,RESTAURANT,bar_cafe
-40.440140,15.008480,ov_bar_marechiaro_caffe_e_drink_40.4401_15.0085,Bar Marechiaro Caffe e Drink,RESTAURANT,bar_cafe
-40.437951,15.007960,ov_bar_matteo_40.4380_15.0080,Bar Matteo,RESTAURANT,bar_cafe
-40.426968,15.005064,ov_bis__food_and_drink_40.4270_15.0051,Bisù Food and Drink,RESTAURANT,bar_cafe
-40.426764,15.005041,ov_porta_aurea_food___wine_40.4268_15.0050,Porta Aurea Food & Wine,RESTAURANT,bar_cafe
-40.426976,15.004979,ov_bar_magna_graecia_40.4270_15.0050,Bar Magna Graecia,RESTAURANT,bar_cafe
-40.424297,15.006447,ov_bar_anna_40.4243_15.0064,Bar Anna,RESTAURANT,bar_cafe
-40.424109,15.007037,ov_bar_la_basilica_cafe_40.4241_15.0070,Bar La Basilica Cafe,RESTAURANT,bar_cafe
-40.423986,15.079613,ov_caff__tempone_40.4240_15.0796,Caffè Tempone,RESTAURANT,bar_cafe
-40.424426,15.079278,ov_bar_sofia_di_marino_antonio_40.4244_15.0793,Bar Sofia Di Marino Antonio,RESTAURANT,bar_cafe
-40.423780,15.081650,ov_paestum_service_srl_40.4238_15.0816,Paestum Service Srl,RESTAURANT,bar_cafe
-40.423780,15.081650,ov_birrificio_di_paestum_40.4238_15.0816,Birrificio di Paestum,RESTAURANT,bar_cafe
-40.459027,15.056573,ov_bar_sorrisi_e_caff__40.4590_15.0566,Bar Sorrisi e Caffè,RESTAURANT,bar_cafe
-40.423602,15.006539,osm_caff__museo_40.4236_15.0065,Caffè Museo,bar_cafe,bar_cafe
+40.380179,15.001863,ov_kokun_beach_bar_40.3802_15.0019,Kokun Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/kokun_beach_bar_40.3802_15.0019.json,custom
+40.386173,15.000741,ov_lido_da_franca_40.3862_15.0007,Lido Da Franca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/lido_da_franca_40.3862_15.0007.json,custom
+40.402508,15.000655,ov_il_portico_bar_paestum_40.4025_15.0007,Il Portico Bar Paestum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/il_portico_bar_paestum_40.4025_15.0007.json,custom
+40.403994,15.001259,ov_the_rock_cafe_40.4040_15.0013,The Rock Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/the_rock_cafe_40.4040_15.0013.json,custom
+40.407376,15.001946,ov_summer_cafe_40.4074_15.0019,Summer Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/summer_cafe_40.4074_15.0019.json,custom
+40.409439,15.002437,ov_bar_il_naviglio_40.4094_15.0024,Bar Il Naviglio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_il_naviglio_40.4094_15.0024.json,custom
+40.409443,15.002410,ov_vintage_bar_40.4094_15.0024,Vintage bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/vintage_bar_40.4094_15.0024.json,custom
+40.426850,15.003889,ov_gingin_40.4268_15.0039,GinGin,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/gingin_40.4268_15.0039.json,custom
+40.453443,15.002084,ov_agropark_capaccio_paestum_40.4534_15.0021,Agropark Capaccio Paestum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/agropark_capaccio_paestum_40.4534_15.0021.json,custom
+40.480050,15.032340,ov_monroe_lounge_disco_bar_40.4800_15.0323,Monroe lounge disco bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/monroe_lounge_disco_bar_40.4800_15.0323.json,custom
+40.453896,15.022165,ov_bar_getsemani_40.4539_15.0222,Bar Getsemani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_getsemani_40.4539_15.0222.json,custom
+40.496231,15.015851,ov_brooklyn_light_cafe_40.4962_15.0159,Brooklyn Light Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/brooklyn_light_cafe_40.4962_15.0159.json,custom
+40.479787,15.014995,ov_bar_san_giorgio_40.4798_15.0150,Bar San Giorgio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_san_giorgio_40.4798_15.0150.json,custom
+40.453909,15.007167,ov_ti_con_zero_40.4539_15.0072,Ti Con Zero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/ti_con_zero_40.4539_15.0072.json,custom
+40.453703,15.006672,ov_bar_savoy_di_merola_alessandro_40.4537_15.0067,Bar Savoy Di Merola Alessandro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_savoy_di_merola_alessandro_40.4537_15.0067.json,custom
+40.453756,15.006078,ov_bar_del_corso_40.4538_15.0061,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_del_corso_40.4538_15.0061.json,custom
+40.455102,15.004870,ov_bar_anna_cerrato_40.4551_15.0049,Bar anna Cerrato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_anna_cerrato_40.4551_15.0049.json,custom
+40.441352,15.008605,ov_bar_happy_hour_40.4414_15.0086,Bar Happy Hour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_happy_hour_40.4414_15.0086.json,custom
+40.456207,15.011425,ov_gran_caff__galardi_40.4562_15.0114,Gran Caffè Galardi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/gran_caff_galardi_40.4562_15.0114.json,custom
+40.454540,15.013797,ov_bar_tabacchi_i__binario_40.4545_15.0138,Bar Tabacchi Iº Binario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_tabacchi_i_binario_40.4545_15.0138.json,custom
+40.458360,15.012390,ov_bar_my_way_40.4584_15.0124,Bar My Way,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_my_way_40.4584_15.0124.json,custom
+40.457879,15.012393,ov_bar_black_athena_40.4579_15.0124,Bar Black Athena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_black_athena_40.4579_15.0124.json,custom
+40.454774,15.011935,ov_caff__verdi_40.4548_15.0119,Caffè Verdi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/caff_verdi_40.4548_15.0119.json,custom
+40.452060,15.011554,ov_caf__950_40.4521_15.0116,Cafè 950,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/caf_950_40.4521_15.0116.json,custom
+40.452727,15.011680,ov_lounge_pi_bar_40.4527_15.0117,Lounge Pi Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/lounge_pi_bar_40.4527_15.0117.json,custom
+40.454137,15.011614,ov_gina_s_40.4541_15.0116,Gina's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/ginas_40.4541_15.0116.json,custom
+40.457127,15.011876,ov_vittoria_caff____cocktail_bar_40.4571_15.0119,VITTORIA caffè & cocktail bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/vittoria_caff_cocktail_bar_40.4571_15.0119.json,custom
+40.456267,15.011821,ov_bar_nazionale_40.4563_15.0118,Bar Nazionale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_nazionale_40.4563_15.0118.json,custom
+40.455300,15.011930,ov_solito_supereasybar_40.4553_15.0119,Solito supereasybar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/solito_supereasybar_40.4553_15.0119.json,custom
+40.457706,15.011931,ov_enoteca_chez_amis_40.4577_15.0119,Enoteca Chez Amis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/enoteca_chez_amis_40.4577_15.0119.json,custom
+40.475877,15.014668,ov_bufala_caffe_40.4759_15.0147,Bufala Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bufala_caffe_40.4759_15.0147.json,custom
+40.465235,15.015716,ov_caff__bellini_40.4652_15.0157,Caffè Bellini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/caff_bellini_40.4652_15.0157.json,custom
+40.426227,15.018337,ov_braceria___lounge_bar__business_lunch____40.4262_15.0183,Braceria - Lounge Bar -Business Lunch - Agripaestum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/braceria_-_lounge_bar_-business_lunch_-__40.4262_15.0183.json,custom
+40.408701,15.013283,ov_bar_dolce_incontro_40.4087_15.0133,Bar Dolce Incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_dolce_incontro_40.4087_15.0133.json,custom
+40.410147,15.012180,ov_bar_siano_40.4101_15.0122,Bar siano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_siano_40.4101_15.0122.json,custom
+40.440140,15.008480,ov_bar_marechiaro_caffe_e_drink_40.4401_15.0085,Bar Marechiaro Caffe e Drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_marechiaro_caffe_e_drink_40.4401_15.0085.json,custom
+40.437951,15.007960,ov_bar_matteo_40.4380_15.0080,Bar Matteo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_matteo_40.4380_15.0080.json,custom
+40.426968,15.005064,ov_bis__food_and_drink_40.4270_15.0051,Bisù Food and Drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bis_food_and_drink_40.4270_15.0051.json,custom
+40.426764,15.005041,ov_porta_aurea_food___wine_40.4268_15.0050,Porta Aurea Food & Wine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/porta_aurea_food_wine_40.4268_15.0050.json,custom
+40.426976,15.004979,ov_bar_magna_graecia_40.4270_15.0050,Bar Magna Graecia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_magna_graecia_40.4270_15.0050.json,custom
+40.424297,15.006447,ov_bar_anna_40.4243_15.0064,Bar Anna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_anna_40.4243_15.0064.json,custom
+40.424109,15.007037,ov_bar_la_basilica_cafe_40.4241_15.0070,Bar La Basilica Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_la_basilica_cafe_40.4241_15.0070.json,custom
+40.423986,15.079613,ov_caff__tempone_40.4240_15.0796,Caffè Tempone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/caff_tempone_40.4240_15.0796.json,custom
+40.424426,15.079278,ov_bar_sofia_di_marino_antonio_40.4244_15.0793,Bar Sofia Di Marino Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_sofia_di_marino_antonio_40.4244_15.0793.json,custom
+40.423780,15.081650,ov_paestum_service_srl_40.4238_15.0816,Paestum Service Srl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/paestum_service_srl_40.4238_15.0816.json,custom
+40.423780,15.081650,ov_birrificio_di_paestum_40.4238_15.0816,Birrificio di Paestum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/birrificio_di_paestum_40.4238_15.0816.json,custom
+40.459027,15.056573,ov_bar_sorrisi_e_caff__40.4590_15.0566,Bar Sorrisi e Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/bar_sorrisi_e_caff_40.4590_15.0566.json,custom
+40.423602,15.006539,osm_caff__museo_40.4236_15.0065,Caffè Museo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/capaccio_paestum/pages/caff_museo_40.4236_15.0065.json,custom

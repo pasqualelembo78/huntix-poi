@@ -1,20 +1,20 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # toritto -- restaurants
-40.965576,16.576215,osm_zona_viva_40.9656_16.5762,Zona Viva,ristorante,ristorante
-40.954387,16.548980,ov_agriturismo_fariello_40.9544_16.5490,Agriturismo Fariello,RESTAURANT,ristorante
-40.968237,16.576123,ov_braceria_di_giosa_40.9682_16.5761,Braceria Di Giosa,RESTAURANT,ristorante
-40.967588,16.571691,ov_murgia_garden_ricevimenti_40.9676_16.5717,MURGIA GARDEN Ricevimenti,RESTAURANT,ristorante
-41.000631,16.679103,ov_pescheria_da_pinuccio_41.0006_16.6791,Pescheria da Pinuccio,RESTAURANT,ristorante
-41.000803,16.682264,ov_papizza_41.0008_16.6823,PapizzA,RESTAURANT,ristorante
-40.997436,16.680915,ov_dal_pizzicagnolo____40.9974_16.6809,Dal pizzicagnolo. .,RESTAURANT,ristorante
-40.996993,16.680453,ov_pizzeria_da_skiro_40.9970_16.6805,Pizzeria da Skiro,RESTAURANT,ristorante
-40.996779,16.680741,ov_bar_pizzeria_del_parco_40.9968_16.6807,Bar Pizzeria Del Parco,RESTAURANT,ristorante
-40.996660,16.678943,ov_lo_spuntino_toritto_40.9967_16.6789,Lo Spuntino Toritto,RESTAURANT,ristorante
-40.995995,16.684031,ov_agriturismo_armienti_40.9960_16.6840,Agriturismo Armienti,RESTAURANT,ristorante
-40.996588,16.691270,ov_agriturismo_armienti_40.9966_16.6913,Agriturismo Armienti,RESTAURANT,ristorante
-40.997926,16.682432,ov_antico_frantoio_del_barone_40.9979_16.6824,Antico Frantoio del Barone,RESTAURANT,ristorante
-40.999879,16.681384,ov_pizzeria_dal_saraceno_40.9999_16.6814,Pizzeria Dal Saraceno,RESTAURANT,ristorante
-41.000035,16.681697,ov_pizzeria_babele_41.0000_16.6817,Pizzeria Babele,RESTAURANT,ristorante
-40.998213,16.676600,ov_agriturismo_fariello_40.9982_16.6766,Agriturismo Fariello,RESTAURANT,ristorante
-40.986998,16.616984,ov_masseria_storica_pilapalucci_40.9870_16.6170,Masseria Storica Pilapalucci,RESTAURANT,ristorante
-41.205120,16.589170,ov_pizzerie_d_autore_41.2051_16.5892,Pizzerie d'Autore,RESTAURANT,ristorante
+40.954387,16.548980,ov_agriturismo_fariello_40.9544_16.5490,Agriturismo Fariello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/agriturismo_fariello_40.9544_16.5490.json,custom
+40.968237,16.576123,ov_braceria_di_giosa_40.9682_16.5761,Braceria Di Giosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/braceria_di_giosa_40.9682_16.5761.json,custom
+40.967588,16.571691,ov_murgia_garden_ricevimenti_40.9676_16.5717,MURGIA GARDEN Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/murgia_garden_ricevimenti_40.9676_16.5717.json,custom
+41.000631,16.679103,ov_pescheria_da_pinuccio_41.0006_16.6791,Pescheria da Pinuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/pescheria_da_pinuccio_41.0006_16.6791.json,custom
+41.000803,16.682264,ov_papizza_41.0008_16.6823,PapizzA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/papizza_41.0008_16.6823.json,custom
+40.997436,16.680915,ov_dal_pizzicagnolo____40.9974_16.6809,Dal pizzicagnolo. .,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/dal_pizzicagnolo__40.9974_16.6809.json,custom
+40.996993,16.680453,ov_pizzeria_da_skiro_40.9970_16.6805,Pizzeria da Skiro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/pizzeria_da_skiro_40.9970_16.6805.json,custom
+40.996779,16.680741,ov_bar_pizzeria_del_parco_40.9968_16.6807,Bar Pizzeria Del Parco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/bar_pizzeria_del_parco_40.9968_16.6807.json,custom
+40.996660,16.678943,ov_lo_spuntino_toritto_40.9967_16.6789,Lo Spuntino Toritto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/lo_spuntino_toritto_40.9967_16.6789.json,custom
+40.995995,16.684031,ov_agriturismo_armienti_40.9960_16.6840,Agriturismo Armienti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/agriturismo_armienti_40.9960_16.6840.json,custom
+40.996588,16.691270,ov_agriturismo_armienti_40.9966_16.6913,Agriturismo Armienti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/agriturismo_armienti_40.9966_16.6913.json,custom
+40.997926,16.682432,ov_antico_frantoio_del_barone_40.9979_16.6824,Antico Frantoio del Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/antico_frantoio_del_barone_40.9979_16.6824.json,custom
+40.999879,16.681384,ov_pizzeria_dal_saraceno_40.9999_16.6814,Pizzeria Dal Saraceno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/pizzeria_dal_saraceno_40.9999_16.6814.json,custom
+41.000035,16.681697,ov_pizzeria_babele_41.0000_16.6817,Pizzeria Babele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/pizzeria_babele_41.0000_16.6817.json,custom
+40.998213,16.676600,ov_agriturismo_fariello_40.9982_16.6766,Agriturismo Fariello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/agriturismo_fariello_40.9982_16.6766.json,custom
+40.986998,16.616984,ov_masseria_storica_pilapalucci_40.9870_16.6170,Masseria Storica Pilapalucci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/masseria_storica_pilapalucci_40.9870_16.6170.json,custom
+41.205120,16.589170,ov_pizzerie_d_autore_41.2051_16.5892,Pizzerie d'Autore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/pizzerie_dautore_41.2051_16.5892.json,custom
+40.965576,16.576215,osm_zona_viva_40.9656_16.5762,Zona Viva,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/zona_viva_40.9656_16.5762.json,custom

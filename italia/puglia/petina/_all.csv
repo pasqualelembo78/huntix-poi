@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Petina -- Tutti
-40.532960,15.375020,ov_centro_residenziale__lucrezia_40.5330_15.3750,Centro Residenziale  Lucrezia,HOSPITAL,hospital
-40.531940,15.372545,ov_ristorante_marino_40.5319_15.3725,Ristorante Marino,RESTAURANT,ristorante
-40.532909,15.374594,ov_l_insolito_bar_gelateria_pub_40.5329_15.3746,L'Insolito Bar Gelateria Pub,RESTAURANT,bar_cafe
-40.531680,15.370147,ov_eremo_di_sant_onofrio_40.5317_15.3701,Eremo Di Sant'Onofrio,MONUMENT,monumento
+40.532960,15.375020,ov_centro_residenziale__lucrezia_40.5330_15.3750,Centro Residenziale  Lucrezia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/petina/pages/centro_residenziale_lucrezia_40.5330_15.3750.json,custom
+40.531940,15.372545,ov_ristorante_marino_40.5319_15.3725,Ristorante Marino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/petina/pages/ristorante_marino_40.5319_15.3725.json,custom
+40.532909,15.374594,ov_l_insolito_bar_gelateria_pub_40.5329_15.3746,L'Insolito Bar Gelateria Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/petina/pages/linsolito_bar_gelateria_pub_40.5329_15.3746.json,custom
+40.531680,15.370147,ov_eremo_di_sant_onofrio_40.5317_15.3701,Eremo Di Sant'Onofrio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/petina/pages/eremo_di_santonofrio_40.5317_15.3701.json,custom

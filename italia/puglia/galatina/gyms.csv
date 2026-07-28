@@ -1,21 +1,21 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # galatina -- gyms
-40.158758,18.158931,ov_centro_ippico_sant_eligio_40.1588_18.1589,Centro Ippico Sant'Eligio,GYM,palestra
-40.153021,18.167686,ov_phisica_asd_40.1530_18.1677,Phisica asd,GYM,palestra
-40.152116,18.167647,ov_be_move_40.1521_18.1676,Be Move,GYM,palestra
-40.180393,18.184511,ov_bodylife_40.1804_18.1845,BodyLife,GYM,palestra
-40.180608,18.167970,ov_sporting_club_the_one_40.1806_18.1680,Sporting CLUB the ONE,GYM,palestra
-40.177619,18.162822,ov_oistros_40.1776_18.1628,Oistros,GYM,palestra
-40.178416,18.167838,ov_palestra_zen_shin_40.1784_18.1678,Palestra Zen Shin,GYM,palestra
-40.178320,18.180210,ov_piazzetta_g__fedele_via_soleto___galatin_40.1783_18.1802,Piazzetta G. Fedele via Soleto - Galatina,GYM,palestra
-40.178250,18.185773,ov_palazzetto_dello_sport_fernando_panico_40.1783_18.1858,Palazzetto dello Sport Fernando Panico,GYM,palestra
-40.176696,18.175204,ov_palestra_champions_40.1767_18.1752,Palestra Champions,GYM,palestra
-40.175978,18.161251,ov_wita___aerial_acrobatic_centre_40.1760_18.1613,WITA - Aerial Acrobatic Centre,GYM,palestra
-40.173600,18.164886,ov_in_es_centro_yoga_40.1736_18.1649,In•es Centro Yoga,GYM,palestra
-40.170520,18.164720,ov_new_dance_studio_ballet_40.1705_18.1647,New dance studio ballet,GYM,palestra
-40.172251,18.163802,ov_palestra_vitasnella_40.1723_18.1638,Palestra vitasnella,GYM,palestra
-40.170829,18.164964,ov_family_sport_40.1708_18.1650,Family Sport,GYM,palestra
-40.171642,18.166218,ov_a_s_d__dance_art_40.1716_18.1662,A.s.d. Dance Art,GYM,palestra
-40.171199,18.158169,ov_centro_ginnastica_decathlon_40.1712_18.1582,centro ginnastica decathlon,GYM,palestra
-40.183241,18.168406,ov_360_piscina_palestra_40.1832_18.1684,360 Piscina Palestra,GYM,palestra
-40.184324,18.200372,ov_demos_fitness_40.1843_18.2004,Demos Fitness,GYM,palestra
+40.158758,18.158931,ov_centro_ippico_sant_eligio_40.1588_18.1589,Centro Ippico Sant'Eligio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/centro_ippico_santeligio_40.1588_18.1589.json,custom
+40.153021,18.167686,ov_phisica_asd_40.1530_18.1677,Phisica asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/phisica_asd_40.1530_18.1677.json,custom
+40.152116,18.167647,ov_be_move_40.1521_18.1676,Be Move,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/be_move_40.1521_18.1676.json,custom
+40.180393,18.184511,ov_bodylife_40.1804_18.1845,BodyLife,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/bodylife_40.1804_18.1845.json,custom
+40.180608,18.167970,ov_sporting_club_the_one_40.1806_18.1680,Sporting CLUB the ONE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/sporting_club_the_one_40.1806_18.1680.json,custom
+40.177619,18.162822,ov_oistros_40.1776_18.1628,Oistros,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/oistros_40.1776_18.1628.json,custom
+40.178416,18.167838,ov_palestra_zen_shin_40.1784_18.1678,Palestra Zen Shin,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/palestra_zen_shin_40.1784_18.1678.json,custom
+40.178320,18.180210,ov_piazzetta_g__fedele_via_soleto___galatin_40.1783_18.1802,Piazzetta G. Fedele via Soleto - Galatina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/piazzetta_g_fedele_via_soleto_-_galatina_40.1783_18.1802.json,custom
+40.178250,18.185773,ov_palazzetto_dello_sport_fernando_panico_40.1783_18.1858,Palazzetto dello Sport Fernando Panico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/palazzetto_dello_sport_fernando_panico_40.1783_18.1858.json,custom
+40.176696,18.175204,ov_palestra_champions_40.1767_18.1752,Palestra Champions,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/palestra_champions_40.1767_18.1752.json,custom
+40.175978,18.161251,ov_wita___aerial_acrobatic_centre_40.1760_18.1613,WITA - Aerial Acrobatic Centre,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/wita_-_aerial_acrobatic_centre_40.1760_18.1613.json,custom
+40.173600,18.164886,ov_in_es_centro_yoga_40.1736_18.1649,In•es Centro Yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/ines_centro_yoga_40.1736_18.1649.json,custom
+40.170520,18.164720,ov_new_dance_studio_ballet_40.1705_18.1647,New dance studio ballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/new_dance_studio_ballet_40.1705_18.1647.json,custom
+40.172251,18.163802,ov_palestra_vitasnella_40.1723_18.1638,Palestra vitasnella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/palestra_vitasnella_40.1723_18.1638.json,custom
+40.170829,18.164964,ov_family_sport_40.1708_18.1650,Family Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/family_sport_40.1708_18.1650.json,custom
+40.171642,18.166218,ov_a_s_d__dance_art_40.1716_18.1662,A.s.d. Dance Art,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/asd_dance_art_40.1716_18.1662.json,custom
+40.171199,18.158169,ov_centro_ginnastica_decathlon_40.1712_18.1582,centro ginnastica decathlon,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/centro_ginnastica_decathlon_40.1712_18.1582.json,custom
+40.183241,18.168406,ov_360_piscina_palestra_40.1832_18.1684,360 Piscina Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/360_piscina_palestra_40.1832_18.1684.json,custom
+40.184324,18.200372,ov_demos_fitness_40.1843_18.2004,Demos Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/demos_fitness_40.1843_18.2004.json,custom

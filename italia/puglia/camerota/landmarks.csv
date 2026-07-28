@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # camerota -- landmarks
-40.029540,15.373031,ov_museo_civico_di_camerota_40.0295_15.3730,Museo Civico di Camerota,MUSEUM,monumento
-40.054763,15.361375,ov_museo_storico_delle_arti_e_della_cultura_40.0548_15.3614,Museo Storico delle Arti e della Cultura Contadina,MUSEUM,monumento
+40.029540,15.373031,ov_museo_civico_di_camerota_40.0295_15.3730,Museo Civico di Camerota,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/museo_civico_di_camerota_40.0295_15.3730.json,custom
+40.054763,15.361375,ov_museo_storico_delle_arti_e_della_cultura_40.0548_15.3614,Museo Storico delle Arti e della Cultura Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/camerota/pages/museo_storico_delle_arti_e_della_cultura_40.0548_15.3614.json,custom

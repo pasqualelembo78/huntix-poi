@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cursi -- bars_cafes
-40.144930,18.321160,ov_chilling_40.1449_18.3212,Chilling,RESTAURANT,bar_cafe
-40.145967,18.311765,ov_prosit_bar_40.1460_18.3118,Prosit Bar,RESTAURANT,bar_cafe
-40.150443,18.315095,osm_bar_orion_40.1504_18.3151,Bar Orion,bar_cafe,bar_cafe
-40.149970,18.314279,osm_bar_sport_40.1500_18.3143,Bar Sport,bar_cafe,bar_cafe
-40.150141,18.314791,osm_bar_central_40.1501_18.3148,Bar Central,bar_cafe,bar_cafe
+40.144930,18.321160,ov_chilling_40.1449_18.3212,Chilling,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/chilling_40.1449_18.3212.json,custom
+40.145967,18.311765,ov_prosit_bar_40.1460_18.3118,Prosit Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/prosit_bar_40.1460_18.3118.json,custom
+40.150443,18.315095,osm_bar_orion_40.1504_18.3151,Bar Orion,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_orion_40.1504_18.3151.json,custom
+40.149970,18.314279,osm_bar_sport_40.1500_18.3143,Bar Sport,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_sport_40.1500_18.3143.json,custom
+40.150141,18.314791,osm_bar_central_40.1501_18.3148,Bar Central,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cursi/pages/bar_central_40.1501_18.3148.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alliste -- landmarks
-39.936431,18.117080,ov_castello_baronale_di_felline_39.9364_18.1171,Castello baronale di Felline,MONUMENT,monumento
-39.936350,18.117290,ov_frantoio_ipogeo_felline_39.9363_18.1173,Frantoio Ipogeo Felline,MUSEUM,monumento
+39.936431,18.117080,ov_castello_baronale_di_felline_39.9364_18.1171,Castello baronale di Felline,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/castello_baronale_di_felline_39.9364_18.1171.json,custom
+39.936350,18.117290,ov_frantoio_ipogeo_felline_39.9363_18.1173,Frantoio Ipogeo Felline,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alliste/pages/frantoio_ipogeo_felline_39.9363_18.1173.json,custom

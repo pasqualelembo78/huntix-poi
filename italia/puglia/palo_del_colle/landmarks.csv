@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palo_del_colle -- landmarks
-41.056570,16.706460,ov_museo_nazionale_napoli_41.0566_16.7065,Museo Nazionale Napoli,MUSEUM,monumento
-41.059402,16.705269,ov_studio_d_arte_muscatelli_41.0594_16.7053,Studio D'Arte Muscatelli,MUSEUM,monumento
+41.056570,16.706460,ov_museo_nazionale_napoli_41.0566_16.7065,Museo Nazionale Napoli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/museo_nazionale_napoli_41.0566_16.7065.json,custom
+41.059402,16.705269,ov_studio_d_arte_muscatelli_41.0594_16.7053,Studio D'Arte Muscatelli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palo_del_colle/pages/studio_darte_muscatelli_41.0594_16.7053.json,custom

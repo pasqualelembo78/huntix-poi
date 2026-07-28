@@ -1,35 +1,35 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Presicce-Acquarica -- Tutti
-39.896098,18.260810,ov_saint_louis_pizzeria_braceria_39.8961_18.2608,Saint Louis Pizzeria Braceria,RESTAURANT,ristorante
-39.896050,18.267994,ov_trattoria_da_salvatore_b_b_luxury_39.8961_18.2680,Trattoria da Salvatore B&B Luxury,RESTAURANT,ristorante
-39.899455,18.260686,ov_l_officina_del_pesce_39.8995_18.2607,L'Officina Del Pesce,RESTAURANT,ristorante
-39.898130,18.261160,ov_pizzeria_xi_comandamento_39.8981_18.2612,Pizzeria XI Comandamento,RESTAURANT,ristorante
-39.897924,18.261552,ov_antica_pietra_filosofale_39.8979_18.2616,Antica Pietra Filosofale,RESTAURANT,ristorante
-39.901303,18.259926,ov_palate_31_39.9013_18.2599,Palate 31,RESTAURANT,ristorante
-39.903720,18.253480,ov_la_stracciata_39.9037_18.2535,La Stracciata,RESTAURANT,ristorante
-39.903647,18.254774,ov_fast_food_salentino_39.9036_18.2548,Fast food Salentino,RESTAURANT,ristorante
-39.902721,18.260693,ov_i_fornelli_di_keer_39.9027_18.2607,I fornelli di KeEr,RESTAURANT,ristorante
-39.903461,18.259622,ov_mascapati_restaurant_39.9035_18.2596,Mascapati Restaurant,RESTAURANT,ristorante
-39.904096,18.258874,ov_mascapati_39.9041_18.2589,Mascapati,RESTAURANT,ristorante
-39.904580,18.258256,ov_fast_food_la_stazione_39.9046_18.2583,Fast Food La Stazione,RESTAURANT,ristorante
-39.909567,18.248562,ov_l_arte_di_bardi_39.9096_18.2486,L'Arte di Bardi,RESTAURANT,ristorante
-39.909170,18.248555,ov_la_grande_abbuffata_39.9092_18.2486,La Grande Abbuffata,RESTAURANT,ristorante
-39.908714,18.249568,ov_long_life_39.9087_18.2496,Long Life,RESTAURANT,ristorante
-39.909980,18.250280,ov_l_arena_del_gusto_39.9100_18.2503,L'Arena del Gusto,RESTAURANT,ristorante
-39.898367,18.260605,ov_caff__colonna_39.8984_18.2606,Caffè Colonna,RESTAURANT,bar_cafe
-39.899471,18.260586,ov_coop_39.8995_18.2606,Coop,RESTAURANT,bar_cafe
-39.899293,18.261511,ov_country_39.8993_18.2615,COUNTRY,RESTAURANT,bar_cafe
-39.899332,18.260386,ov_distillerie_clandestine_39.8993_18.2604,Distillerie Clandestine,RESTAURANT,bar_cafe
-39.899279,18.260564,ov_people_s_square_39.8993_18.2606,People’s Square,RESTAURANT,bar_cafe
-39.901980,18.260770,ov_bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608,Bar Lopes presso Centro Commerciale gli Angeli,RESTAURANT,bar_cafe
-39.900891,18.263744,ov_swami_39.9009_18.2637,Swami,RESTAURANT,bar_cafe
-39.902966,18.252704,ov_all_impianti_39.9030_18.2527,All'Impianti,RESTAURANT,bar_cafe
-39.902690,18.260880,ov_caffe_michelangelo_39.9027_18.2609,Caffe Michelangelo,RESTAURANT,bar_cafe
-39.904156,18.257360,ov_bar_pasticceria_roma_39.9042_18.2574,Bar Pasticceria Roma,RESTAURANT,bar_cafe
-39.904721,18.256467,ov_pizzeria_saloon_moerenhout_39.9047_18.2565,Pizzeria Saloon Moerenhout,RESTAURANT,bar_cafe
-39.905890,18.247470,ov_pr__39.9059_18.2475,PRÈ,RESTAURANT,bar_cafe
-39.906009,18.254873,ov_bairon_cafe_39.9060_18.2549,Bairon Cafe,RESTAURANT,bar_cafe
-39.908977,18.246005,ov_bar_la_stecca_39.9090_18.2460,Bar La Stecca,RESTAURANT,bar_cafe
-39.896836,18.269211,ov_eleven_sport_academy_39.8968_18.2692,Eleven Sport Academy,GYM,palestra
-39.904063,18.251863,ov_palazzetto_dello_sport_39.9041_18.2519,Palazzetto dello Sport,GYM,palestra
-39.899473,18.259234,ov_ara_artis___casa_turrita_loc__presicce_39.8995_18.2592,ARA ARTIS - Casa Turrita Loc. Presicce,MONUMENT,monumento
+39.896098,18.260810,ov_saint_louis_pizzeria_braceria_39.8961_18.2608,Saint Louis Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/saint_louis_pizzeria_braceria_39.8961_18.2608.json,custom
+39.896050,18.267994,ov_trattoria_da_salvatore_b_b_luxury_39.8961_18.2680,Trattoria da Salvatore B&B Luxury,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/trattoria_da_salvatore_bb_luxury_39.8961_18.2680.json,custom
+39.899455,18.260686,ov_l_officina_del_pesce_39.8995_18.2607,L'Officina Del Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/lofficina_del_pesce_39.8995_18.2607.json,custom
+39.898130,18.261160,ov_pizzeria_xi_comandamento_39.8981_18.2612,Pizzeria XI Comandamento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/pizzeria_xi_comandamento_39.8981_18.2612.json,custom
+39.897924,18.261552,ov_antica_pietra_filosofale_39.8979_18.2616,Antica Pietra Filosofale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/antica_pietra_filosofale_39.8979_18.2616.json,custom
+39.901303,18.259926,ov_palate_31_39.9013_18.2599,Palate 31,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/palate_31_39.9013_18.2599.json,custom
+39.903720,18.253480,ov_la_stracciata_39.9037_18.2535,La Stracciata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/la_stracciata_39.9037_18.2535.json,custom
+39.903647,18.254774,ov_fast_food_salentino_39.9036_18.2548,Fast food Salentino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/fast_food_salentino_39.9036_18.2548.json,custom
+39.902721,18.260693,ov_i_fornelli_di_keer_39.9027_18.2607,I fornelli di KeEr,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/i_fornelli_di_keer_39.9027_18.2607.json,custom
+39.903461,18.259622,ov_mascapati_restaurant_39.9035_18.2596,Mascapati Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/mascapati_restaurant_39.9035_18.2596.json,custom
+39.904096,18.258874,ov_mascapati_39.9041_18.2589,Mascapati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/mascapati_39.9041_18.2589.json,custom
+39.904580,18.258256,ov_fast_food_la_stazione_39.9046_18.2583,Fast Food La Stazione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/fast_food_la_stazione_39.9046_18.2583.json,custom
+39.909567,18.248562,ov_l_arte_di_bardi_39.9096_18.2486,L'Arte di Bardi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/larte_di_bardi_39.9096_18.2486.json,custom
+39.909170,18.248555,ov_la_grande_abbuffata_39.9092_18.2486,La Grande Abbuffata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/la_grande_abbuffata_39.9092_18.2486.json,custom
+39.908714,18.249568,ov_long_life_39.9087_18.2496,Long Life,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/long_life_39.9087_18.2496.json,custom
+39.909980,18.250280,ov_l_arena_del_gusto_39.9100_18.2503,L'Arena del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/larena_del_gusto_39.9100_18.2503.json,custom
+39.898367,18.260605,ov_caff__colonna_39.8984_18.2606,Caffè Colonna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/caff_colonna_39.8984_18.2606.json,custom
+39.899471,18.260586,ov_coop_39.8995_18.2606,Coop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/coop_39.8995_18.2606.json,custom
+39.899293,18.261511,ov_country_39.8993_18.2615,COUNTRY,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/country_39.8993_18.2615.json,custom
+39.899332,18.260386,ov_distillerie_clandestine_39.8993_18.2604,Distillerie Clandestine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/distillerie_clandestine_39.8993_18.2604.json,custom
+39.899279,18.260564,ov_people_s_square_39.8993_18.2606,People’s Square,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/peoples_square_39.8993_18.2606.json,custom
+39.901980,18.260770,ov_bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608,Bar Lopes presso Centro Commerciale gli Angeli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_lopes_presso_centro_commerciale_gli__39.9020_18.2608.json,custom
+39.900891,18.263744,ov_swami_39.9009_18.2637,Swami,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/swami_39.9009_18.2637.json,custom
+39.902966,18.252704,ov_all_impianti_39.9030_18.2527,All'Impianti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/allimpianti_39.9030_18.2527.json,custom
+39.902690,18.260880,ov_caffe_michelangelo_39.9027_18.2609,Caffe Michelangelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/caffe_michelangelo_39.9027_18.2609.json,custom
+39.904156,18.257360,ov_bar_pasticceria_roma_39.9042_18.2574,Bar Pasticceria Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_pasticceria_roma_39.9042_18.2574.json,custom
+39.904721,18.256467,ov_pizzeria_saloon_moerenhout_39.9047_18.2565,Pizzeria Saloon Moerenhout,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/pizzeria_saloon_moerenhout_39.9047_18.2565.json,custom
+39.905890,18.247470,ov_pr__39.9059_18.2475,PRÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/pr_39.9059_18.2475.json,custom
+39.906009,18.254873,ov_bairon_cafe_39.9060_18.2549,Bairon Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bairon_cafe_39.9060_18.2549.json,custom
+39.908977,18.246005,ov_bar_la_stecca_39.9090_18.2460,Bar La Stecca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/bar_la_stecca_39.9090_18.2460.json,custom
+39.896836,18.269211,ov_eleven_sport_academy_39.8968_18.2692,Eleven Sport Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/eleven_sport_academy_39.8968_18.2692.json,custom
+39.904063,18.251863,ov_palazzetto_dello_sport_39.9041_18.2519,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/palazzetto_dello_sport_39.9041_18.2519.json,custom
+39.899473,18.259234,ov_ara_artis___casa_turrita_loc__presicce_39.8995_18.2592,ARA ARTIS - Casa Turrita Loc. Presicce,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/presicce-acquarica/pages/ara_artis_-_casa_turrita_loc_presicce_39.8995_18.2592.json,custom

@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vernole -- bars_cafes
-40.287858,18.300099,ov_reby_bar_40.2879_18.3001,Reby Bar,RESTAURANT,bar_cafe
-40.287381,18.299671,ov_la_zona_pub_radical_beer_40.2874_18.2997,LA ZONA Pub Radical beer,RESTAURANT,bar_cafe
-40.288988,18.303424,ov_al_mio_caff__40.2890_18.3034,Al mio Caffè,RESTAURANT,bar_cafe
-40.288299,18.303540,ov_caffetteria_bar_margiotta_40.2883_18.3035,Caffetteria Bar Margiotta,RESTAURANT,bar_cafe
-40.288459,18.303642,ov_caff__del_centro_40.2885_18.3036,Caffè del Centro,RESTAURANT,bar_cafe
-40.317121,18.280958,ov_bar_smile_40.3171_18.2810,Bar Smile,RESTAURANT,bar_cafe
-40.306661,18.315819,ov_lubar_40.3067_18.3158,LuBar,RESTAURANT,bar_cafe
-40.306977,18.313862,ov_jbar_caffetteria_40.3070_18.3139,JBar caffetteria,RESTAURANT,bar_cafe
-40.334638,18.296840,ov_vecchia_botte_40.3346_18.2968,Vecchia botte,RESTAURANT,bar_cafe
-40.333420,18.297101,ov_nina_bar_40.3334_18.2971,Nina Bar,RESTAURANT,bar_cafe
-40.333948,18.296733,ov_cafe_pub_al_castello_40.3339_18.2967,Cafe Pub Al Castello,RESTAURANT,bar_cafe
-40.379558,18.309224,ov_lido_verde_40.3796_18.3092,Lido Verde,RESTAURANT,bar_cafe
+40.287858,18.300099,ov_reby_bar_40.2879_18.3001,Reby Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/reby_bar_40.2879_18.3001.json,custom
+40.287381,18.299671,ov_la_zona_pub_radical_beer_40.2874_18.2997,LA ZONA Pub Radical beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/la_zona_pub_radical_beer_40.2874_18.2997.json,custom
+40.288988,18.303424,ov_al_mio_caff__40.2890_18.3034,Al mio Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/al_mio_caff_40.2890_18.3034.json,custom
+40.288299,18.303540,ov_caffetteria_bar_margiotta_40.2883_18.3035,Caffetteria Bar Margiotta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/caffetteria_bar_margiotta_40.2883_18.3035.json,custom
+40.288459,18.303642,ov_caff__del_centro_40.2885_18.3036,Caffè del Centro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/caff_del_centro_40.2885_18.3036.json,custom
+40.317121,18.280958,ov_bar_smile_40.3171_18.2810,Bar Smile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/bar_smile_40.3171_18.2810.json,custom
+40.306661,18.315819,ov_lubar_40.3067_18.3158,LuBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/lubar_40.3067_18.3158.json,custom
+40.306977,18.313862,ov_jbar_caffetteria_40.3070_18.3139,JBar caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/jbar_caffetteria_40.3070_18.3139.json,custom
+40.334638,18.296840,ov_vecchia_botte_40.3346_18.2968,Vecchia botte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/vecchia_botte_40.3346_18.2968.json,custom
+40.333420,18.297101,ov_nina_bar_40.3334_18.2971,Nina Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/nina_bar_40.3334_18.2971.json,custom
+40.333948,18.296733,ov_cafe_pub_al_castello_40.3339_18.2967,Cafe Pub Al Castello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/cafe_pub_al_castello_40.3339_18.2967.json,custom
+40.379558,18.309224,ov_lido_verde_40.3796_18.3092,Lido Verde,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vernole/pages/lido_verde_40.3796_18.3092.json,custom

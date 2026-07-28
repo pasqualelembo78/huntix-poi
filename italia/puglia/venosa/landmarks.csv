@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # venosa -- landmarks
-40.969214,15.828484,ov_museo_archeologico_di_venosa_40.9692_15.8285,Museo archeologico di Venosa,MUSEUM,monumento
-40.961756,15.817985,ov_castello_di_venosa_40.9618_15.8180,Castello di Venosa,MONUMENT,monumento
-40.963899,15.822012,ov_fontana_messer_oto_40.9639_15.8220,Fontana Messer Oto,MONUMENT,monumento
-40.964849,15.822289,ov_museo_episcopale_di_venosa_40.9648_15.8223,Museo Episcopale di Venosa,MUSEUM,monumento
-40.964753,15.823619,ov_casa_di_orazio_40.9648_15.8236,Casa di Orazio,MONUMENT,monumento
-40.961374,15.818664,ov_musei_e_parchi_archeologici_di_melfi_e_v_40.9614_15.8187,Musei e parchi archeologici di Melfi e Venosa,MUSEUM,monumento
-40.961112,15.818619,ov_aragonese_castle_40.9611_15.8186,Aragonese Castle,MONUMENT,monumento
+40.969214,15.828484,ov_museo_archeologico_di_venosa_40.9692_15.8285,Museo archeologico di Venosa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/museo_archeologico_di_venosa_40.9692_15.8285.json,custom
+40.961756,15.817985,ov_castello_di_venosa_40.9618_15.8180,Castello di Venosa,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/castello_di_venosa_40.9618_15.8180.json,custom
+40.963899,15.822012,ov_fontana_messer_oto_40.9639_15.8220,Fontana Messer Oto,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/fontana_messer_oto_40.9639_15.8220.json,custom
+40.964849,15.822289,ov_museo_episcopale_di_venosa_40.9648_15.8223,Museo Episcopale di Venosa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/museo_episcopale_di_venosa_40.9648_15.8223.json,custom
+40.964753,15.823619,ov_casa_di_orazio_40.9648_15.8236,Casa di Orazio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/casa_di_orazio_40.9648_15.8236.json,custom
+40.961374,15.818664,ov_musei_e_parchi_archeologici_di_melfi_e_v_40.9614_15.8187,Musei e parchi archeologici di Melfi e Venosa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/musei_e_parchi_archeologici_di_melfi_e_v_40.9614_15.8187.json,custom
+40.961112,15.818619,ov_aragonese_castle_40.9611_15.8186,Aragonese Castle,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/venosa/pages/aragonese_castle_40.9611_15.8186.json,custom

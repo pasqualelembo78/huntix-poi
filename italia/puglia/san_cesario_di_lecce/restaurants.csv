@@ -1,15 +1,15 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_cesario_di_lecce -- restaurants
-40.301576,18.159652,osm_small_40.3016_18.1597,Small,ristorante,ristorante
-40.302957,18.159447,osm_man_vs_burger_40.3030_18.1594,Man vs Burger,ristorante,ristorante
-40.296858,18.172035,osm_agriturismo_lu_casale_40.2969_18.1720,Agriturismo Lu Casale,ristorante,ristorante
-40.296899,18.171884,ov_lu_casale_40.2969_18.1719,Lu Casale,RESTAURANT,ristorante
-40.299610,18.159450,ov_il_casaro_40.2996_18.1595,Il Casaro,RESTAURANT,ristorante
-40.299813,18.159440,ov_forno_a_legna_liaci_40.2998_18.1594,Forno a Legna Liaci,RESTAURANT,ristorante
-40.301609,18.159735,ov_small_cucina_and_more_40.3016_18.1597,Small Cucina And More,RESTAURANT,ristorante
-40.302935,18.159419,ov_jackson_a_typical_trattoria_and_pizzeria_40.3029_18.1594,Jackson A-typical trattoria and pizzeria,RESTAURANT,ristorante
-40.303171,18.160461,ov_la_vecchia_curte_40.3032_18.1605,La Vecchia Curte,RESTAURANT,ristorante
-40.304443,18.160046,ov_ristorante_lilith_40.3044_18.1600,Ristorante Lilith,RESTAURANT,ristorante
-40.305891,18.162147,ov_al_capone_40.3059_18.1621,Al Capone,RESTAURANT,ristorante
-40.322648,18.164342,ov_sfizi_cotti_40.3226_18.1643,Sfizi Cotti,RESTAURANT,ristorante
-40.309848,18.171641,ov_lu_farillu_40.3098_18.1716,Lu Farillu,RESTAURANT,ristorante
+40.296899,18.171884,ov_lu_casale_40.2969_18.1719,Lu Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/lu_casale_40.2969_18.1719.json,custom
+40.299610,18.159450,ov_il_casaro_40.2996_18.1595,Il Casaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/il_casaro_40.2996_18.1595.json,custom
+40.299813,18.159440,ov_forno_a_legna_liaci_40.2998_18.1594,Forno a Legna Liaci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/forno_a_legna_liaci_40.2998_18.1594.json,custom
+40.301609,18.159735,ov_small_cucina_and_more_40.3016_18.1597,Small Cucina And More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/small_cucina_and_more_40.3016_18.1597.json,custom
+40.302935,18.159419,ov_jackson_a_typical_trattoria_and_pizzeria_40.3029_18.1594,Jackson A-typical trattoria and pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/jackson_a-typical_trattoria_and_pizzeria_40.3029_18.1594.json,custom
+40.303171,18.160461,ov_la_vecchia_curte_40.3032_18.1605,La Vecchia Curte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/la_vecchia_curte_40.3032_18.1605.json,custom
+40.304443,18.160046,ov_ristorante_lilith_40.3044_18.1600,Ristorante Lilith,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/ristorante_lilith_40.3044_18.1600.json,custom
+40.305891,18.162147,ov_al_capone_40.3059_18.1621,Al Capone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/al_capone_40.3059_18.1621.json,custom
+40.322648,18.164342,ov_sfizi_cotti_40.3226_18.1643,Sfizi Cotti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/sfizi_cotti_40.3226_18.1643.json,custom
+40.309848,18.171641,ov_lu_farillu_40.3098_18.1716,Lu Farillu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/lu_farillu_40.3098_18.1716.json,custom
+40.301576,18.159652,osm_small_40.3016_18.1597,Small,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/small_40.3016_18.1597.json,custom
+40.302957,18.159447,osm_man_vs_burger_40.3030_18.1594,Man vs Burger,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/man_vs_burger_40.3030_18.1594.json,custom
+40.296858,18.172035,osm_agriturismo_lu_casale_40.2969_18.1720,Agriturismo Lu Casale,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cesario_di_lecce/pages/agriturismo_lu_casale_40.2969_18.1720.json,custom

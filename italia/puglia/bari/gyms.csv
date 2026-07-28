@@ -1,218 +1,221 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bari -- gyms
-40.995261,16.742727,ov_autodromo_del_levante_40.9953_16.7427,Autodromo del Levante,GYM,palestra
-41.087733,16.861898,ov_mondo_pilates_studio_asd_41.0877_16.8619,Mondo Pilates Studio ASD,GYM,palestra
-41.086629,16.878605,ov_player_academy_41.0866_16.8786,Player Academy,GYM,palestra
-41.086908,16.868130,ov_creartekids_bari_41.0869_16.8681,CrearteKids Bari,GYM,palestra
-41.088922,16.865021,ov_balletto_del_levante_41.0889_16.8650,Balletto del Levante,GYM,palestra
-41.089720,16.865810,ov_mens_sana_bari_asd_41.0897_16.8658,MENS SANA BARI asd,GYM,palestra
-41.090399,16.879190,ov_asd_paintball_bari_41.0904_16.8792,ASD Paintball Bari,GYM,palestra
-41.091370,16.883960,ov_meta_health_club_41.0914_16.8840,Meta Health Club,GYM,palestra
-41.091945,16.863701,ov_centro_danza_ensemble_41.0919_16.8637,Centro Danza Ensemble,GYM,palestra
-41.092786,16.863631,ov_mea_wellness_area_41.0928_16.8636,Mea Wellness Area,GYM,palestra
-41.094429,16.860836,ov_dance_fever_41.0944_16.8608,Dance Fever,GYM,palestra
-41.093260,16.854270,ov_asd_apoolia_billiard_academy_bari_41.0933_16.8543,ASD Apoolia Billiard Academy Bari,GYM,palestra
-41.093419,16.847990,ov_fipav_puglia_41.0934_16.8480,Fipav Puglia,GYM,palestra
-41.094486,16.861028,ov_wonderland_pole_and_aerial_studio_41.0945_16.8610,Wonderland Pole and Aerial Studio,GYM,palestra
-41.098236,16.852330,ov_la_via_dell_equilibrio___associazione_sp_41.0982_16.8523,La Via Dell'Equilibrio - Associazione Sportiva Dilettantisti,GYM,palestra
-41.099551,16.860480,ov_asd_dangerous_team_italy_41.0996_16.8605,ASD Dangerous Team Italy,GYM,palestra
-41.098620,16.855063,ov_w_space_in_villa_camilla_41.0986_16.8551,W Space in Villa Camilla,GYM,palestra
-41.098679,16.853227,ov_new_fitness_club___nfc_41.0987_16.8532,New Fitness Club - NFC,GYM,palestra
-41.098498,16.852584,ov_aidibio___accademia_italiana_discipline__41.0985_16.8526,Aidibio - Accademia Italiana Discipline Bionaturali,GYM,palestra
-41.099280,16.849380,ov_swing_heart_lindy_hop_bari_41.0993_16.8494,Swing Heart Lindy Hop Bari,GYM,palestra
-41.103040,16.856115,ov_harmony_dance_41.1030_16.8561,Harmony Dance,GYM,palestra
-41.102534,16.859656,ov_planetshop365_poggiofranco_community_41.1025_16.8597,Planetshop365 Poggiofranco community,GYM,palestra
-41.101800,16.854684,ov_sempresi_41.1018_16.8547,Sempresi,GYM,palestra
-41.100710,16.864927,ov_empire_gym_41.1007_16.8649,Empire Gym,GYM,palestra
-41.102129,16.868974,ov_spazio_benessere_41.1021_16.8690,Spazio Benessere,GYM,palestra
-41.101581,16.866914,ov_to_be_well_fitness_point_41.1016_16.8669,To Be Well Fitness Point,GYM,palestra
-41.104116,16.871288,ov_asd_bim_bum_bari_41.1041_16.8713,ASD Bim Bum BARI,GYM,palestra
-41.102462,16.871508,ov_studio_danza_41.1025_16.8715,Studio Danza,GYM,palestra
-41.102551,16.876612,ov_nutrifit_academy_41.1026_16.8766,NutriFit Academy,GYM,palestra
-41.102506,16.875992,ov_to_be_well_41.1025_16.8760,To Be Well,GYM,palestra
-41.104540,16.877960,ov_a_s_d_ilenia_dance_41.1045_16.8780,A.S.D Ilenia Dance,GYM,palestra
-41.104107,16.879631,ov_metaclub_41.1041_16.8796,Metaclub,GYM,palestra
-41.104196,16.877195,ov_kitesurf_e_sup_scuola__bari__puglia___it_41.1042_16.8772,"Kitesurf e Sup Scuola  Bari, Puglia - Italy, Spot Pane & Pom",GYM,palestra
-41.103877,16.883863,ov_myos_bari_41.1039_16.8839,Myos Bari,GYM,palestra
-41.103300,16.884293,ov_planet_gym_bari_41.1033_16.8843,Planet Gym Bari,GYM,palestra
-41.103196,16.884189,ov_diana_danza_e_teatro_41.1032_16.8842,DIANA Danza e Teatro,GYM,palestra
-41.103180,16.883980,ov_corsi_di_danza_del_ventre_a_bari_41.1032_16.8840,Corsi di danza del ventre a Bari,GYM,palestra
-41.102870,16.884080,ov_el_bailador_41.1029_16.8841,El Bailador,GYM,palestra
-41.101270,16.879490,ov_pilates_academy_41.1013_16.8795,Pilates Academy,GYM,palestra
-41.099793,16.884674,ov_eleven_club_41.0998_16.8847,Eleven Club,GYM,palestra
-41.099671,16.884773,ov_gotham_exclusive_gym_and_spa_41.0997_16.8848,Gotham Exclusive Gym and Spa,GYM,palestra
-41.098957,16.885135,ov_palacarrassi_bari_41.0990_16.8851,PalaCarrassi Bari,GYM,palestra
-41.098399,16.871177,ov_lovum_aps_41.0984_16.8712,Lovum Aps,GYM,palestra
-41.097451,16.868944,ov_scuola_di_ballo_bari_professional_dancin_41.0975_16.8689,Scuola di Ballo Bari Professional Dancing,GYM,palestra
-41.095827,16.862206,ov_v_rdica_devur_club_41.0958_16.8622,Vèrdica Devur Club,GYM,palestra
-41.096381,16.885026,ov_shivayayoga_41.0964_16.8850,ShivayaYoga,GYM,palestra
-41.096881,16.887465,ov_palestra_liceo_scientifico_statale_enric_41.0969_16.8875,Palestra Liceo Scientifico Statale Enrico Fermi,GYM,palestra
-41.098371,16.908773,ov_cavallone_training_hub_41.0984_16.9088,Cavallone Training Hub,GYM,palestra
-41.098700,16.909650,ov_paleolates_41.0987_16.9096,Paleolates,GYM,palestra
-41.098299,16.892185,ov_campusxsporting_41.0983_16.8922,Campusxsporting,GYM,palestra
-41.102035,16.888503,ov_union_judo_bari_41.1020_16.8885,Union Judo Bari,GYM,palestra
-41.102252,16.888372,ov_le_ali_di_iside_41.1023_16.8884,Le Ali di Iside,GYM,palestra
-41.103139,16.886293,ov_gym_millennium_wellness_41.1031_16.8863,Gym Millennium Wellness,GYM,palestra
-41.103622,16.887014,ov_prime_club_bari_41.1036_16.8870,Prime Club bari,GYM,palestra
-41.104799,16.910581,ov_fitactive_bari_japigia_41.1048_16.9106,FitActive Bari Japigia,GYM,palestra
-41.104591,16.922926,ov_atletica_phoenix_41.1046_16.9229,Atletica Phoenix,GYM,palestra
-41.104642,16.932681,ov_coaching_studio_club_41.1046_16.9327,Coaching Studio Club,GYM,palestra
-41.091120,16.892467,ov_asd_new_football_academy_bari_41.0911_16.8925,ASD New Football Academy Bari,GYM,palestra
-41.090600,16.889259,ov_dive_blu_bari_41.0906_16.8893,Dive Blu Bari,GYM,palestra
-41.087831,16.908198,ov_circolo_ippico_san_nicola_41.0878_16.9082,Circolo Ippico San Nicola,GYM,palestra
-41.075889,16.894197,ov_paintball_pro_bari_41.0759_16.8942,Paintball Pro Bari,GYM,palestra
-41.082894,16.870764,ov_shiva_41.0829_16.8708,Shiva,GYM,palestra
-41.077756,16.867206,ov_body_studio_41.0778_16.8672,Body Studio,GYM,palestra
-41.069472,16.879912,ov_circolo_ippico_meridionale_41.0695_16.8799,Circolo Ippico Meridionale,GYM,palestra
-41.071960,16.863670,ov_pilates_evolution_flow_41.0720_16.8637,Pilates Evolution Flow,GYM,palestra
-41.073115,16.871186,ov_asd_les_danses_41.0731_16.8712,ASD Les Danses,GYM,palestra
-41.073015,16.858613,ov_a_s_d__equilibrya_41.0730_16.8586,A.S.D. Equilibrya,GYM,palestra
-41.072891,16.858770,ov_paleolates_a_s_d__41.0729_16.8588,Paleolates A.S.D.,GYM,palestra
-41.054771,16.872427,ov_centro_danza_descarga_cubana_41.0548_16.8724,Centro Danza Descarga Cubana,GYM,palestra
-41.083193,16.998981,ov_asd_nautica_san_nicola_41.0832_16.9990,ASD Nautica San Nicola,GYM,palestra
-41.088631,16.981587,ov_sita_rama_yoga_bari_41.0886_16.9816,Sita Rama Yoga Bari,GYM,palestra
-41.089345,16.966353,ov_circolo_ippico_montecolucci_41.0893_16.9664,Circolo ippico Montecolucci,GYM,palestra
-41.093791,16.969609,ov_a_s_d__dellino_team_taekwondo_41.0938_16.9696,a.s.d. Dellino team Taekwondo,GYM,palestra
-41.096320,16.956850,ov_l_onda_in_testa_sea_plastic_free_surf____41.0963_16.9568,L'Onda in Testa sea plastic free surf & sailing,GYM,palestra
-41.097955,16.949769,ov_paintball_extreme_bari_41.0980_16.9498,Paintball Extreme Bari,GYM,palestra
-41.096409,16.959636,ov_cat_surf_41.0964_16.9596,Cat Surf,GYM,palestra
-41.085857,16.999045,ov_wav_e_space_bari_eva_41.0859_16.9990,Wav-e Space Bari Eva,GYM,palestra
-41.141420,16.734369,ov_asd_wonderful_41.1414_16.7344,ASD Wonderful,GYM,palestra
-41.146193,16.740640,ov_blue_dance_and_fitness_academy_41.1462_16.7406,Blue Dance and Fitness Academy,GYM,palestra
-41.165949,16.748631,ov_yacht_club_bari_41.1659_16.7486,Yacht Club Bari,GYM,palestra
-41.164647,16.747899,ov_dipda_line_41.1646_16.7479,Dipda-Line,GYM,palestra
-41.162855,16.747539,ov_centro_yoga_fissa_dimora_asd_41.1629_16.7475,Centro Yoga Fissa Dimora asd,GYM,palestra
-41.161601,16.751888,ov_associazione_etoile_academie_41.1616_16.7519,Associazione Etoile Academie,GYM,palestra
-41.160786,16.747828,ov_nuova_ballet_project_41.1608_16.7478,Nuova Ballet Project,GYM,palestra
-41.159457,16.750674,ov_blue_dance_torricella_41.1595_16.7507,Blue Dance-Torricella,GYM,palestra
-41.160010,16.764871,ov_tanaonda_surf_41.1600_16.7649,TanaOnda Surf,GYM,palestra
-41.156260,16.766120,ov_body_aga_asd_41.1563_16.7661,BODY AGA asd,GYM,palestra
-41.151136,16.758757,ov_danzofficina_asd___movimenti_41.1511_16.7588,Danzofficina ASD - MoviMenti,GYM,palestra
-41.153510,16.765600,ov_club_beppe_sciannimanico_palese_41.1535_16.7656,Club Beppe Sciannimanico Palese,GYM,palestra
-41.151518,16.763371,ov_asd_new_sportmania_41.1515_16.7634,ASD New Sportmania,GYM,palestra
-41.150670,16.763200,ov_star_gym_41.1507_16.7632,Star Gym,GYM,palestra
-41.152190,16.768158,ov_il_tempio_fitness_club_a_s_d__41.1522_16.7682,Il Tempio Fitness Club a.s.d.,GYM,palestra
-41.152765,16.767387,ov_a_s_d_london_ballet_school_41.1528_16.7674,A S D London Ballet School,GYM,palestra
-41.153073,16.766783,ov_centro_pilates_masavi_41.1531_16.7668,Centro pilates Masavi,GYM,palestra
-41.156490,16.767077,ov_a_s_d__revolution_gym_41.1565_16.7671,A.S.D. Revolution Gym,GYM,palestra
-41.150031,16.769517,ov_fitsmart_lab_41.1500_16.7695,FitSmart_Lab,GYM,palestra
-41.149249,16.766148,ov_34th_street_41.1492_16.7661,34th street,GYM,palestra
-41.142850,16.764580,ov_aero_club_bari_41.1428_16.7646,Aero Club Bari,GYM,palestra
-41.138814,16.808156,ov_flaminio_sports_field_41.1388_16.8082,Flaminio sports field,GYM,palestra
-41.141428,16.802703,ov_classic_pole_dance_41.1414_16.8027,Classic Pole Dance,GYM,palestra
-41.139240,16.818653,ov_scuola_surf_bari_41.1392_16.8187,Scuola Surf Bari,GYM,palestra
-41.133044,16.839020,ov_palestra_noage___bari_41.1330_16.8390,Palestra NOAGE - Bari,GYM,palestra
-41.132693,16.838684,ov_accademia_pugilistica_portoghese_41.1327_16.8387,Accademia Pugilistica Portoghese,GYM,palestra
-41.134262,16.830049,ov_palazzetto_capocasale_41.1343_16.8300,Palazzetto Capocasale,GYM,palestra
-41.133662,16.826193,ov_estate_al_campus_uisp_bari_41.1337_16.8262,Estate al Campus UISP Bari,GYM,palestra
-41.133200,16.822400,ov_c_u_s__bari_41.1332_16.8224,C.U.S. Bari,GYM,palestra
-41.131000,16.838709,ov_parinama_asd___yoga_bari_41.1310_16.8387,Parinama ASD - Yoga Bari,GYM,palestra
-41.128825,16.836188,ov_ardesia_training_41.1288_16.8362,Ardesia Training,GYM,palestra
-41.129151,16.836510,ov_crossfit_41.1292_16.8365,CrossFit,GYM,palestra
-41.120522,16.814734,ov_a_s_d_passepartout_aurora_bari_41.1205_16.8147,A.S.D.Passepartout Aurora Bari,GYM,palestra
-41.128237,16.798755,ov_scuola_di_ciclismo_franco_ballerini_41.1282_16.7988,Scuola di Ciclismo Franco Ballerini,GYM,palestra
-41.129989,16.784239,ov_asd_don_milani_volley_41.1300_16.7842,ASD Don Milani Volley,GYM,palestra
-41.107427,16.841716,ov_crossfire_asd_41.1074_16.8417,Crossfire Asd,GYM,palestra
-41.109173,16.850434,ov_fitactive_41.1092_16.8504,FitActive,GYM,palestra
-41.111757,16.863407,ov_fitness_lab_xl_41.1118_16.8634,Fitness Lab XL,GYM,palestra
-41.109683,16.860497,ov_la_maison_41.1097_16.8605,La Maison,GYM,palestra
-41.109610,16.862210,ov_new_dance_academy__41.1096_16.8622,New Dance Academy_,GYM,palestra
-41.108388,16.863993,ov_ars_nova_bari_41.1084_16.8640,ARS NOVA Bari,GYM,palestra
-41.107387,16.860923,ov_sport_line_41.1074_16.8609,Sport Line,GYM,palestra
-41.107066,16.861110,ov_accademia_dello_spettacolo_unika___assoc_41.1071_16.8611,Accademia Dello Spettacolo Unika - Associazione Sportiva Dil,GYM,palestra
-41.106988,16.855203,ov_societa_ginnastica_angiulli_41.1070_16.8552,Societa Ginnastica Angiulli,GYM,palestra
-41.106693,16.862444,ov_hello_dance_ssd_arl_41.1067_16.8624,Hello Dance ssd arl,GYM,palestra
-41.105720,16.867008,ov_associazione_culturale_artedanza_rossana_41.1057_16.8670,Associazione Culturale Artedanza Rossana,GYM,palestra
-41.105231,16.870161,ov_il_tempio_di_ganesh_41.1052_16.8702,Il Tempio di Ganesh,GYM,palestra
-41.108565,16.871840,ov_sgym_875_41.1086_16.8718,SGym 875,GYM,palestra
-41.106620,16.871790,ov_fitfighting__bari_41.1066_16.8718,FitFighting- BARI,GYM,palestra
-41.106762,16.871814,ov_my_gym_s_s_d_srl_41.1068_16.8718,My gym s.s.d srl,GYM,palestra
-41.105785,16.882406,ov_palestra_mcfit_bari_san_pasquale_41.1058_16.8824,Palestra McFit Bari San Pasquale,GYM,palestra
-41.108708,16.886479,ov_imperial_gym_41.1087_16.8865,Imperial Gym,GYM,palestra
-41.112532,16.874458,ov_palestra_physiodrome_41.1125_16.8745,Palestra Physiodrome,GYM,palestra
-41.110850,16.874917,ov_scuola_di_danza_palcoscenico_41.1108_16.8749,Scuola Di Danza Palcoscenico,GYM,palestra
-41.109900,16.874320,ov_associazione_sportiva_monica_club___asso_41.1099_16.8743,Associazione Sportiva Monica Club - Associazione Sportiva Di,GYM,palestra
-41.108973,16.873760,ov_progit_cycling_team_41.1090_16.8738,ProGiT Cycling Team,GYM,palestra
-41.109840,16.871610,ov_academy_of_dance_bari_41.1098_16.8716,Academy Of Dance Bari,GYM,palestra
-41.109977,16.871250,ov_centro_sportivo_di_cagno_abbrescia_41.1100_16.8713,Centro Sportivo Di Cagno Abbrescia,GYM,palestra
-41.108869,16.870226,ov_samira_oriental_academy_41.1089_16.8702,Samira Oriental Academy,GYM,palestra
-41.109020,16.869100,ov_joblanc___ballo_e_danza_a_bari_41.1090_16.8691,Joblanc - Ballo e Danza a Bari,GYM,palestra
-41.112900,16.865486,ov_wellness_n_gym_41.1129_16.8655,Wellness N Gym,GYM,palestra
-41.113180,16.865480,ov_cna_benessere___sanit__bari_41.1132_16.8655,CNA Benessere & Sanità Bari,GYM,palestra
-41.112912,16.869573,ov_iron_gym_and_fitness_41.1129_16.8696,Iron Gym and Fitness,GYM,palestra
-41.113540,16.870220,ov_interazioni___alla_ricerca_della_bellezz_41.1135_16.8702,Interazioni - Alla ricerca della bellezza perduta,GYM,palestra
-41.114000,16.867926,ov_kokoro_no_tenkan_41.1140_16.8679,Kokoro no Tenkan,GYM,palestra
-41.115770,16.866493,ov_gym_italy_41.1158_16.8665,Gym Italy,GYM,palestra
-41.115730,16.868820,ov_la_rossani_bari_41.1157_16.8688,La Rossani Bari,GYM,palestra
-41.115730,16.868820,ov_palestra_popolare_bari_41.1157_16.8688,Palestra Popolare Bari,GYM,palestra
-41.114892,16.868530,ov_lei_in_fit_41.1149_16.8685,Lei in Fit,GYM,palestra
-41.114798,16.872278,ov_associazione_le_meraviglie_41.1148_16.8723,Associazione Le Meraviglie,GYM,palestra
-41.116196,16.874317,ov_mind_process_studio_41.1162_16.8743,Mind Process Studio,GYM,palestra
-41.114410,16.876207,ov_free_dance_academy_41.1144_16.8762,Free Dance Academy,GYM,palestra
-41.114029,16.876205,ov_centro_ludico_motorio_warriors_elite_41.1140_16.8762,Centro Ludico Motorio Warriors elite,GYM,palestra
-41.113540,16.876388,ov_centro_formazione_danza_41.1135_16.8764,Centro Formazione Danza,GYM,palestra
-41.113948,16.881003,ov_snooker_bowling_41.1139_16.8810,Snooker Bowling,GYM,palestra
-41.115770,16.884180,ov_new_olimpic_41.1158_16.8842,New Olimpic,GYM,palestra
-41.116220,16.877289,ov_palestra_fitgallery_41.1162_16.8773,Palestra Fitgallery,GYM,palestra
-41.116848,16.879898,ov_dharma_studio_olistico_41.1168_16.8799,Dharma studio olistico,GYM,palestra
-41.117269,16.878792,ov_palestra_fitness_gym_41.1173_16.8788,Palestra Fitness Gym,GYM,palestra
-41.116514,16.883614,ov_a_s_d__levante_azzurro_41.1165_16.8836,A.S.D. Levante Azzurro,GYM,palestra
-41.118518,16.887182,ov_fitness_and_beach_41.1185_16.8872,Fitness and Beach,GYM,palestra
-41.119310,16.883482,ov_london_ballet_41.1193_16.8835,London Ballet,GYM,palestra
-41.117132,16.876197,ov_campo_comunale_bellavista_41.1171_16.8762,Campo Comunale bellavista,GYM,palestra
-41.118320,16.865220,ov_perfect_body___fitness_coaching_41.1183_16.8652,Perfect Body - fitness coaching,GYM,palestra
-41.119200,16.865500,ov_studio_legale_barnab__41.1192_16.8655,Studio Legale Barnabà,GYM,palestra
-41.119088,16.869129,ov_il_terzo_paradiso_41.1191_16.8691,Il Terzo Paradiso,GYM,palestra
-41.118777,16.864679,ov_bodyfly_41.1188_16.8647,Bodyfly,GYM,palestra
-41.116364,16.860223,ov_cumbalaye_41.1164_16.8602,Cumbalaye,GYM,palestra
-41.118029,16.864392,ov_scuola_di_ballo_jo_blanc_41.1180_16.8644,Scuola di Ballo Jo Blanc,GYM,palestra
-41.116022,16.861897,ov_six_pack_bari_41.1160_16.8619,Six Pack Bari,GYM,palestra
-41.115962,16.861621,ov_swing_y_sabor_fitness_jump___cross_cardi_41.1160_16.8616,Swing Y Sabor Fitness Jump & Cross Cardio,GYM,palestra
-41.115922,16.861669,ov_fitness_club_41.1159_16.8617,Fitness Club,GYM,palestra
-41.116360,16.859780,ov_andres_tv_41.1164_16.8598,Andres tv,GYM,palestra
-41.112797,16.863932,ov_dansfabrik_41.1128_16.8639,Dansfabrik,GYM,palestra
-41.112804,16.863999,ov_associazione_culturale_dance_studio_etoi_41.1128_16.8640,Associazione Culturale Dance Studio Etoile,GYM,palestra
-41.112698,16.858541,ov_kitesurf_bari_sideon_academy_41.1127_16.8585,Kitesurf Bari SideOn Academy,GYM,palestra
-41.122339,16.848085,ov_a_s_d__blading_academy_41.1223_16.8481,A.S.D. Blading Academy,GYM,palestra
-41.122907,16.850286,ov_a_s_d_lions_team_academy_41.1229_16.8503,A.S.D Lions Team Academy,GYM,palestra
-41.121837,16.858913,ov_magrone_daniele_41.1218_16.8589,Magrone Daniele,GYM,palestra
-41.123590,16.862406,ov_scuola_di_danza_ballet_center_41.1236_16.8624,Scuola di Danza Ballet Center,GYM,palestra
-41.124223,16.861262,ov_centro_yoga_lotus___bari_41.1242_16.8613,Centro Yoga Lotus - Bari,GYM,palestra
-41.124452,16.864844,ov_pilates_plus_41.1245_16.8648,Pilates Plus,GYM,palestra
-41.126162,16.861168,ov_il_centro___filosofia_pilates_41.1262_16.8612,Il Centro - Filosofia Pilates,GYM,palestra
-41.126330,16.863231,ov_centro_yoga_in_con_tatto_41.1263_16.8632,Centro Yoga In.Con.Tatto,GYM,palestra
-41.127400,16.851229,ov_dsg_nautica_41.1274_16.8512,Dsg Nautica,GYM,palestra
-41.126380,16.849998,ov_glisses_centro_formazione_danza_41.1264_16.8500,Glisses Centro Formazione Danza,GYM,palestra
-41.124411,16.852435,ov_vg_sport___fitness_41.1244_16.8524,VG Sport & Fitness,GYM,palestra
-41.125756,16.847917,ov_fit___joy_41.1258_16.8479,Fit & Joy,GYM,palestra
-41.131430,16.844090,ov_federginnastica_puglia_41.1314_16.8441,Federginnastica Puglia,GYM,palestra
-41.126202,16.865014,ov_orama_yoga_41.1262_16.8650,Orama Yoga,GYM,palestra
-41.125300,16.866700,ov_lungo_mare_di_bari_41.1253_16.8667,Lungo Mare Di Bari,GYM,palestra
-41.124481,16.864933,ov_ba_boo__asd_fitness_wellness_sport_41.1245_16.8649,BA.BOO. ASD Fitness Wellness Sport,GYM,palestra
-41.124006,16.869837,ov_centro_hara_s_s_d__a_r_l__41.1240_16.8698,Centro Hara s.s.d. a r.l.,GYM,palestra
-41.124040,16.870570,ov_contrology_pilates_studio_bari_41.1240_16.8706,Contrology Pilates Studio Bari,GYM,palestra
-41.125532,16.871564,ov_right_pilates_bari_41.1255_16.8716,Right Pilates Bari,GYM,palestra
-41.124014,16.875273,ov_sub_levante_bari_41.1240_16.8753,Sub Levante Bari,GYM,palestra
-41.122305,16.871684,ov_runningzen_consulenze_sportive_41.1223_16.8717,RUNNINGZEN consulenze sportive,GYM,palestra
-41.122090,16.871610,ov_centro_ginnico_eli_mar_41.1221_16.8716,Centro ginnico Eli&mar,GYM,palestra
-41.123440,16.871810,ov_area12___officina_del_movimento_ssdarl_41.1234_16.8718,Area12 - Officina del movimento ssdarl,GYM,palestra
-41.123120,16.866276,ov_beauty_line_41.1231_16.8663,Beauty Line,GYM,palestra
-41.122878,16.868410,ov_meda_pilates_lab_41.1229_16.8684,Meda Pilates Lab,GYM,palestra
-41.121156,16.870733,ov_fitandgo_41.1212_16.8707,FitAndGo,GYM,palestra
-41.120251,16.870872,ov_a_s_d_nuova_danzarte_41.1203_16.8709,A.S.D Nuova Danzarte,GYM,palestra
-41.120820,16.873230,ov_mon_studio_41.1208_16.8732,Mon Studio,GYM,palestra
-41.120798,16.873586,ov_enjoy_pilates_41.1208_16.8736,Enjoy Pilates,GYM,palestra
-41.120830,16.873305,ov_edian_danza_a_s_d__41.1208_16.8733,Edian Danza A.S.D.,GYM,palestra
-41.121386,16.871689,ov_progetto_forma_41.1214_16.8717,Progetto Forma,GYM,palestra
-41.120900,16.874560,ov_micromacro_41.1209_16.8746,MicroMacro,GYM,palestra
-41.121748,16.877922,ov_cai_sezione_di_bari_41.1217_16.8779,CAI Sezione di Bari,GYM,palestra
-41.116523,16.891809,ov_marina_sport_srl_41.1165_16.8918,Marina Sport SRL,GYM,palestra
-41.117005,16.893112,ov_csc_bari_41.1170_16.8931,CSC Bari,GYM,palestra
-41.117112,16.893031,ov_osteofit_41.1171_16.8930,Osteofit,GYM,palestra
-41.115630,16.892437,ov_fitness_garage___gym_co_41.1156_16.8924,Fitness Garage - Gym&Co,GYM,palestra
-41.113659,16.896568,ov_yoga_studio_bari_a_s_d__41.1137_16.8966,Yoga Studio Bari A.S.D.,GYM,palestra
-41.113918,16.895585,ov_iyengar_yoga_bari_41.1139_16.8956,Iyengar Yoga Bari,GYM,palestra
-41.113906,16.911466,ov_italy_bari_plazh_41.1139_16.9115,Italy Bari Plazh,GYM,palestra
-41.109470,16.893090,ov_in_action_by_millennium_41.1095_16.8931,In Action by Millennium,GYM,palestra
-41.108318,16.911560,ov_asd_the_dance_academy_bari_41.1083_16.9116,ASD The Dance Academy Bari,GYM,palestra
-41.106714,16.924685,ov_stadio_bellavista_bari_41.1067_16.9247,Stadio Bellavista Bari,GYM,palestra
+40.995261,16.742727,ov_autodromo_del_levante_40.9953_16.7427,Autodromo del Levante,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/autodromo_del_levante_40.9953_16.7427.json,custom
+41.087733,16.861898,ov_mondo_pilates_studio_asd_41.0877_16.8619,Mondo Pilates Studio ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/mondo_pilates_studio_asd_41.0877_16.8619.json,custom
+41.086629,16.878605,ov_player_academy_41.0866_16.8786,Player Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/player_academy_41.0866_16.8786.json,custom
+41.086908,16.868130,ov_creartekids_bari_41.0869_16.8681,CrearteKids Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/creartekids_bari_41.0869_16.8681.json,custom
+41.088922,16.865021,ov_balletto_del_levante_41.0889_16.8650,Balletto del Levante,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/balletto_del_levante_41.0889_16.8650.json,custom
+41.089720,16.865810,ov_mens_sana_bari_asd_41.0897_16.8658,MENS SANA BARI asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/mens_sana_bari_asd_41.0897_16.8658.json,custom
+41.090399,16.879190,ov_asd_paintball_bari_41.0904_16.8792,ASD Paintball Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_paintball_bari_41.0904_16.8792.json,custom
+41.091370,16.883960,ov_meta_health_club_41.0914_16.8840,Meta Health Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/meta_health_club_41.0914_16.8840.json,custom
+41.091945,16.863701,ov_centro_danza_ensemble_41.0919_16.8637,Centro Danza Ensemble,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_danza_ensemble_41.0919_16.8637.json,custom
+41.092786,16.863631,ov_mea_wellness_area_41.0928_16.8636,Mea Wellness Area,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/mea_wellness_area_41.0928_16.8636.json,custom
+41.094429,16.860836,ov_dance_fever_41.0944_16.8608,Dance Fever,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dance_fever_41.0944_16.8608.json,custom
+41.093260,16.854270,ov_asd_apoolia_billiard_academy_bari_41.0933_16.8543,ASD Apoolia Billiard Academy Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_apoolia_billiard_academy_bari_41.0933_16.8543.json,custom
+41.093419,16.847990,ov_fipav_puglia_41.0934_16.8480,Fipav Puglia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fipav_puglia_41.0934_16.8480.json,custom
+41.094486,16.861028,ov_wonderland_pole_and_aerial_studio_41.0945_16.8610,Wonderland Pole and Aerial Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/wonderland_pole_and_aerial_studio_41.0945_16.8610.json,custom
+41.098236,16.852330,ov_la_via_dell_equilibrio___associazione_sp_41.0982_16.8523,La Via Dell'Equilibrio - Associazione Sportiva Dilettantisti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/la_via_dellequilibrio_-_associazione_spo_41.0982_16.8523.json,custom
+41.099551,16.860480,ov_asd_dangerous_team_italy_41.0996_16.8605,ASD Dangerous Team Italy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_dangerous_team_italy_41.0996_16.8605.json,custom
+41.098620,16.855063,ov_w_space_in_villa_camilla_41.0986_16.8551,W Space in Villa Camilla,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/w_space_in_villa_camilla_41.0986_16.8551.json,custom
+41.098679,16.853227,ov_new_fitness_club___nfc_41.0987_16.8532,New Fitness Club - NFC,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/new_fitness_club_-_nfc_41.0987_16.8532.json,custom
+41.098498,16.852584,ov_aidibio___accademia_italiana_discipline__41.0985_16.8526,Aidibio - Accademia Italiana Discipline Bionaturali,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/aidibio_-_accademia_italiana_discipline__41.0985_16.8526.json,custom
+41.099280,16.849380,ov_swing_heart_lindy_hop_bari_41.0993_16.8494,Swing Heart Lindy Hop Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/swing_heart_lindy_hop_bari_41.0993_16.8494.json,custom
+41.103040,16.856115,ov_harmony_dance_41.1030_16.8561,Harmony Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/harmony_dance_41.1030_16.8561.json,custom
+41.102534,16.859656,ov_planetshop365_poggiofranco_community_41.1025_16.8597,Planetshop365 Poggiofranco community,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/planetshop365_poggiofranco_community_41.1025_16.8597.json,custom
+41.101800,16.854684,ov_sempresi_41.1018_16.8547,Sempresi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sempresi_41.1018_16.8547.json,custom
+41.100710,16.864927,ov_empire_gym_41.1007_16.8649,Empire Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/empire_gym_41.1007_16.8649.json,custom
+41.102129,16.868974,ov_spazio_benessere_41.1021_16.8690,Spazio Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/spazio_benessere_41.1021_16.8690.json,custom
+41.101581,16.866914,ov_to_be_well_fitness_point_41.1016_16.8669,To Be Well Fitness Point,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/to_be_well_fitness_point_41.1016_16.8669.json,custom
+41.104116,16.871288,ov_asd_bim_bum_bari_41.1041_16.8713,ASD Bim Bum BARI,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_bim_bum_bari_41.1041_16.8713.json,custom
+41.102462,16.871508,ov_studio_danza_41.1025_16.8715,Studio Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/studio_danza_41.1025_16.8715.json,custom
+41.102551,16.876612,ov_nutrifit_academy_41.1026_16.8766,NutriFit Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/nutrifit_academy_41.1026_16.8766.json,custom
+41.102506,16.875992,ov_to_be_well_41.1025_16.8760,To Be Well,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/to_be_well_41.1025_16.8760.json,custom
+41.104540,16.877960,ov_a_s_d_ilenia_dance_41.1045_16.8780,A.S.D Ilenia Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_ilenia_dance_41.1045_16.8780.json,custom
+41.104107,16.879631,ov_metaclub_41.1041_16.8796,Metaclub,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/metaclub_41.1041_16.8796.json,custom
+41.104196,16.877195,ov_kitesurf_e_sup_scuola__bari__puglia___it_41.1042_16.8772,"Kitesurf e Sup Scuola  Bari, Puglia - Italy, Spot Pane & Pom",GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/kitesurf_e_sup_scuola_bari_puglia_-_ital_41.1042_16.8772.json,custom
+41.103877,16.883863,ov_myos_bari_41.1039_16.8839,Myos Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/myos_bari_41.1039_16.8839.json,custom
+41.103300,16.884293,ov_planet_gym_bari_41.1033_16.8843,Planet Gym Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/planet_gym_bari_41.1033_16.8843.json,custom
+41.103196,16.884189,ov_diana_danza_e_teatro_41.1032_16.8842,DIANA Danza e Teatro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/diana_danza_e_teatro_41.1032_16.8842.json,custom
+41.103180,16.883980,ov_corsi_di_danza_del_ventre_a_bari_41.1032_16.8840,Corsi di danza del ventre a Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/corsi_di_danza_del_ventre_a_bari_41.1032_16.8840.json,custom
+41.102870,16.884080,ov_el_bailador_41.1029_16.8841,El Bailador,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/el_bailador_41.1029_16.8841.json,custom
+41.101270,16.879490,ov_pilates_academy_41.1013_16.8795,Pilates Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/pilates_academy_41.1013_16.8795.json,custom
+41.099793,16.884674,ov_eleven_club_41.0998_16.8847,Eleven Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/eleven_club_41.0998_16.8847.json,custom
+41.099671,16.884773,ov_gotham_exclusive_gym_and_spa_41.0997_16.8848,Gotham Exclusive Gym and Spa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/gotham_exclusive_gym_and_spa_41.0997_16.8848.json,custom
+41.098957,16.885135,ov_palacarrassi_bari_41.0990_16.8851,PalaCarrassi Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palacarrassi_bari_41.0990_16.8851.json,custom
+41.098399,16.871177,ov_lovum_aps_41.0984_16.8712,Lovum Aps,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lovum_aps_41.0984_16.8712.json,custom
+41.097451,16.868944,ov_scuola_di_ballo_bari_professional_dancin_41.0975_16.8689,Scuola di Ballo Bari Professional Dancing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_di_ballo_bari_professional_dancin_41.0975_16.8689.json,custom
+41.095827,16.862206,ov_v_rdica_devur_club_41.0958_16.8622,Vèrdica Devur Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/vrdica_devur_club_41.0958_16.8622.json,custom
+41.096381,16.885026,ov_shivayayoga_41.0964_16.8850,ShivayaYoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/shivayayoga_41.0964_16.8850.json,custom
+41.096881,16.887465,ov_palestra_liceo_scientifico_statale_enric_41.0969_16.8875,Palestra Liceo Scientifico Statale Enrico Fermi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_liceo_scientifico_statale_enric_41.0969_16.8875.json,custom
+41.098371,16.908773,ov_cavallone_training_hub_41.0984_16.9088,Cavallone Training Hub,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cavallone_training_hub_41.0984_16.9088.json,custom
+41.098700,16.909650,ov_paleolates_41.0987_16.9096,Paleolates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/paleolates_41.0987_16.9096.json,custom
+41.098299,16.892185,ov_campusxsporting_41.0983_16.8922,Campusxsporting,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/campusxsporting_41.0983_16.8922.json,custom
+41.102035,16.888503,ov_union_judo_bari_41.1020_16.8885,Union Judo Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/union_judo_bari_41.1020_16.8885.json,custom
+41.102252,16.888372,ov_le_ali_di_iside_41.1023_16.8884,Le Ali di Iside,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/le_ali_di_iside_41.1023_16.8884.json,custom
+41.103139,16.886293,ov_gym_millennium_wellness_41.1031_16.8863,Gym Millennium Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/gym_millennium_wellness_41.1031_16.8863.json,custom
+41.103622,16.887014,ov_prime_club_bari_41.1036_16.8870,Prime Club bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/prime_club_bari_41.1036_16.8870.json,custom
+41.104799,16.910581,ov_fitactive_bari_japigia_41.1048_16.9106,FitActive Bari Japigia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitactive_bari_japigia_41.1048_16.9106.json,custom
+41.104591,16.922926,ov_atletica_phoenix_41.1046_16.9229,Atletica Phoenix,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/atletica_phoenix_41.1046_16.9229.json,custom
+41.104642,16.932681,ov_coaching_studio_club_41.1046_16.9327,Coaching Studio Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/coaching_studio_club_41.1046_16.9327.json,custom
+41.091120,16.892467,ov_asd_new_football_academy_bari_41.0911_16.8925,ASD New Football Academy Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_new_football_academy_bari_41.0911_16.8925.json,custom
+41.090600,16.889259,ov_dive_blu_bari_41.0906_16.8893,Dive Blu Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dive_blu_bari_41.0906_16.8893.json,custom
+41.087831,16.908198,ov_circolo_ippico_san_nicola_41.0878_16.9082,Circolo Ippico San Nicola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/circolo_ippico_san_nicola_41.0878_16.9082.json,custom
+41.075889,16.894197,ov_paintball_pro_bari_41.0759_16.8942,Paintball Pro Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/paintball_pro_bari_41.0759_16.8942.json,custom
+41.082894,16.870764,ov_shiva_41.0829_16.8708,Shiva,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/shiva_41.0829_16.8708.json,custom
+41.077756,16.867206,ov_body_studio_41.0778_16.8672,Body Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/body_studio_41.0778_16.8672.json,custom
+41.069472,16.879912,ov_circolo_ippico_meridionale_41.0695_16.8799,Circolo Ippico Meridionale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/circolo_ippico_meridionale_41.0695_16.8799.json,custom
+41.071960,16.863670,ov_pilates_evolution_flow_41.0720_16.8637,Pilates Evolution Flow,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/pilates_evolution_flow_41.0720_16.8637.json,custom
+41.073115,16.871186,ov_asd_les_danses_41.0731_16.8712,ASD Les Danses,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_les_danses_41.0731_16.8712.json,custom
+41.073015,16.858613,ov_a_s_d__equilibrya_41.0730_16.8586,A.S.D. Equilibrya,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_equilibrya_41.0730_16.8586.json,custom
+41.072891,16.858770,ov_paleolates_a_s_d__41.0729_16.8588,Paleolates A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/paleolates_asd_41.0729_16.8588.json,custom
+41.054771,16.872427,ov_centro_danza_descarga_cubana_41.0548_16.8724,Centro Danza Descarga Cubana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_danza_descarga_cubana_41.0548_16.8724.json,custom
+41.083193,16.998981,ov_asd_nautica_san_nicola_41.0832_16.9990,ASD Nautica San Nicola,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_nautica_san_nicola_41.0832_16.9990.json,custom
+41.088631,16.981587,ov_sita_rama_yoga_bari_41.0886_16.9816,Sita Rama Yoga Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sita_rama_yoga_bari_41.0886_16.9816.json,custom
+41.089345,16.966353,ov_circolo_ippico_montecolucci_41.0893_16.9664,Circolo ippico Montecolucci,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/circolo_ippico_montecolucci_41.0893_16.9664.json,custom
+41.093791,16.969609,ov_a_s_d__dellino_team_taekwondo_41.0938_16.9696,a.s.d. Dellino team Taekwondo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_dellino_team_taekwondo_41.0938_16.9696.json,custom
+41.096320,16.956850,ov_l_onda_in_testa_sea_plastic_free_surf____41.0963_16.9568,L'Onda in Testa sea plastic free surf & sailing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/londa_in_testa_sea_plastic_free_surf_sai_41.0963_16.9568.json,custom
+41.097955,16.949769,ov_paintball_extreme_bari_41.0980_16.9498,Paintball Extreme Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/paintball_extreme_bari_41.0980_16.9498.json,custom
+41.096409,16.959636,ov_cat_surf_41.0964_16.9596,Cat Surf,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cat_surf_41.0964_16.9596.json,custom
+41.085857,16.999045,ov_wav_e_space_bari_eva_41.0859_16.9990,Wav-e Space Bari Eva,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/wav-e_space_bari_eva_41.0859_16.9990.json,custom
+41.141420,16.734369,ov_asd_wonderful_41.1414_16.7344,ASD Wonderful,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_wonderful_41.1414_16.7344.json,custom
+41.146193,16.740640,ov_blue_dance_and_fitness_academy_41.1462_16.7406,Blue Dance and Fitness Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/blue_dance_and_fitness_academy_41.1462_16.7406.json,custom
+41.165949,16.748631,ov_yacht_club_bari_41.1659_16.7486,Yacht Club Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/yacht_club_bari_41.1659_16.7486.json,custom
+41.164647,16.747899,ov_dipda_line_41.1646_16.7479,Dipda-Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dipda-line_41.1646_16.7479.json,custom
+41.162855,16.747539,ov_centro_yoga_fissa_dimora_asd_41.1629_16.7475,Centro Yoga Fissa Dimora asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_yoga_fissa_dimora_asd_41.1629_16.7475.json,custom
+41.161601,16.751888,ov_associazione_etoile_academie_41.1616_16.7519,Associazione Etoile Academie,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/associazione_etoile_academie_41.1616_16.7519.json,custom
+41.160786,16.747828,ov_nuova_ballet_project_41.1608_16.7478,Nuova Ballet Project,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/nuova_ballet_project_41.1608_16.7478.json,custom
+41.159457,16.750674,ov_blue_dance_torricella_41.1595_16.7507,Blue Dance-Torricella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/blue_dance-torricella_41.1595_16.7507.json,custom
+41.160010,16.764871,ov_tanaonda_surf_41.1600_16.7649,TanaOnda Surf,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/tanaonda_surf_41.1600_16.7649.json,custom
+41.156260,16.766120,ov_body_aga_asd_41.1563_16.7661,BODY AGA asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/body_aga_asd_41.1563_16.7661.json,custom
+41.151136,16.758757,ov_danzofficina_asd___movimenti_41.1511_16.7588,Danzofficina ASD - MoviMenti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/danzofficina_asd_-_movimenti_41.1511_16.7588.json,custom
+41.153510,16.765600,ov_club_beppe_sciannimanico_palese_41.1535_16.7656,Club Beppe Sciannimanico Palese,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/club_beppe_sciannimanico_palese_41.1535_16.7656.json,custom
+41.151518,16.763371,ov_asd_new_sportmania_41.1515_16.7634,ASD New Sportmania,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_new_sportmania_41.1515_16.7634.json,custom
+41.150670,16.763200,ov_star_gym_41.1507_16.7632,Star Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/star_gym_41.1507_16.7632.json,custom
+41.152190,16.768158,ov_il_tempio_fitness_club_a_s_d__41.1522_16.7682,Il Tempio Fitness Club a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_tempio_fitness_club_asd_41.1522_16.7682.json,custom
+41.152765,16.767387,ov_a_s_d_london_ballet_school_41.1528_16.7674,A S D London Ballet School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/a_s_d_london_ballet_school_41.1528_16.7674.json,custom
+41.153073,16.766783,ov_centro_pilates_masavi_41.1531_16.7668,Centro pilates Masavi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_pilates_masavi_41.1531_16.7668.json,custom
+41.156490,16.767077,ov_a_s_d__revolution_gym_41.1565_16.7671,A.S.D. Revolution Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_revolution_gym_41.1565_16.7671.json,custom
+41.150031,16.769517,ov_fitsmart_lab_41.1500_16.7695,FitSmart_Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitsmartlab_41.1500_16.7695.json,custom
+41.149249,16.766148,ov_34th_street_41.1492_16.7661,34th street,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/34th_street_41.1492_16.7661.json,custom
+41.142850,16.764580,ov_aero_club_bari_41.1428_16.7646,Aero Club Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/aero_club_bari_41.1428_16.7646.json,custom
+41.138814,16.808156,ov_flaminio_sports_field_41.1388_16.8082,Flaminio sports field,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/flaminio_sports_field_41.1388_16.8082.json,custom
+41.141428,16.802703,ov_classic_pole_dance_41.1414_16.8027,Classic Pole Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/classic_pole_dance_41.1414_16.8027.json,custom
+41.139240,16.818653,ov_scuola_surf_bari_41.1392_16.8187,Scuola Surf Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_surf_bari_41.1392_16.8187.json,custom
+41.133044,16.839020,ov_palestra_noage___bari_41.1330_16.8390,Palestra NOAGE - Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_noage_-_bari_41.1330_16.8390.json,custom
+41.132693,16.838684,ov_accademia_pugilistica_portoghese_41.1327_16.8387,Accademia Pugilistica Portoghese,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/accademia_pugilistica_portoghese_41.1327_16.8387.json,custom
+41.134262,16.830049,ov_palazzetto_capocasale_41.1343_16.8300,Palazzetto Capocasale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palazzetto_capocasale_41.1343_16.8300.json,custom
+41.133662,16.826193,ov_estate_al_campus_uisp_bari_41.1337_16.8262,Estate al Campus UISP Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/estate_al_campus_uisp_bari_41.1337_16.8262.json,custom
+41.133200,16.822400,ov_c_u_s__bari_41.1332_16.8224,C.U.S. Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cus_bari_41.1332_16.8224.json,custom
+41.131000,16.838709,ov_parinama_asd___yoga_bari_41.1310_16.8387,Parinama ASD - Yoga Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/parinama_asd_-_yoga_bari_41.1310_16.8387.json,custom
+41.128825,16.836188,ov_ardesia_training_41.1288_16.8362,Ardesia Training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ardesia_training_41.1288_16.8362.json,custom
+41.129151,16.836510,ov_crossfit_41.1292_16.8365,CrossFit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/crossfit_41.1292_16.8365.json,custom
+41.120522,16.814734,ov_a_s_d_passepartout_aurora_bari_41.1205_16.8147,A.S.D.Passepartout Aurora Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asdpassepartout_aurora_bari_41.1205_16.8147.json,custom
+41.128237,16.798755,ov_scuola_di_ciclismo_franco_ballerini_41.1282_16.7988,Scuola di Ciclismo Franco Ballerini,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_di_ciclismo_franco_ballerini_41.1282_16.7988.json,custom
+41.129989,16.784239,ov_asd_don_milani_volley_41.1300_16.7842,ASD Don Milani Volley,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_don_milani_volley_41.1300_16.7842.json,custom
+41.107427,16.841716,ov_crossfire_asd_41.1074_16.8417,Crossfire Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/crossfire_asd_41.1074_16.8417.json,custom
+41.109173,16.850434,ov_fitactive_41.1092_16.8504,FitActive,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitactive_41.1092_16.8504.json,custom
+41.111757,16.863407,ov_fitness_lab_xl_41.1118_16.8634,Fitness Lab XL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitness_lab_xl_41.1118_16.8634.json,custom
+41.109683,16.860497,ov_la_maison_41.1097_16.8605,La Maison,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/la_maison_41.1097_16.8605.json,custom
+41.109610,16.862210,ov_new_dance_academy__41.1096_16.8622,New Dance Academy_,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/new_dance_academy_41.1096_16.8622.json,custom
+41.108388,16.863993,ov_ars_nova_bari_41.1084_16.8640,ARS NOVA Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ars_nova_bari_41.1084_16.8640.json,custom
+41.107387,16.860923,ov_sport_line_41.1074_16.8609,Sport Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sport_line_41.1074_16.8609.json,custom
+41.107066,16.861110,ov_accademia_dello_spettacolo_unika___assoc_41.1071_16.8611,Accademia Dello Spettacolo Unika - Associazione Sportiva Dil,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/accademia_dello_spettacolo_unika_-_assoc_41.1071_16.8611.json,custom
+41.106988,16.855203,ov_societa_ginnastica_angiulli_41.1070_16.8552,Societa Ginnastica Angiulli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/societa_ginnastica_angiulli_41.1070_16.8552.json,custom
+41.106693,16.862444,ov_hello_dance_ssd_arl_41.1067_16.8624,Hello Dance ssd arl,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/hello_dance_ssd_arl_41.1067_16.8624.json,custom
+41.105720,16.867008,ov_associazione_culturale_artedanza_rossana_41.1057_16.8670,Associazione Culturale Artedanza Rossana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/associazione_culturale_artedanza_rossana_41.1057_16.8670.json,custom
+41.105231,16.870161,ov_il_tempio_di_ganesh_41.1052_16.8702,Il Tempio di Ganesh,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_tempio_di_ganesh_41.1052_16.8702.json,custom
+41.108565,16.871840,ov_sgym_875_41.1086_16.8718,SGym 875,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sgym_875_41.1086_16.8718.json,custom
+41.106620,16.871790,ov_fitfighting__bari_41.1066_16.8718,FitFighting- BARI,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitfighting-_bari_41.1066_16.8718.json,custom
+41.106762,16.871814,ov_my_gym_s_s_d_srl_41.1068_16.8718,My gym s.s.d srl,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/my_gym_ssd_srl_41.1068_16.8718.json,custom
+41.105785,16.882406,ov_palestra_mcfit_bari_san_pasquale_41.1058_16.8824,Palestra McFit Bari San Pasquale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_mcfit_bari_san_pasquale_41.1058_16.8824.json,custom
+41.108708,16.886479,ov_imperial_gym_41.1087_16.8865,Imperial Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/imperial_gym_41.1087_16.8865.json,custom
+41.112532,16.874458,ov_palestra_physiodrome_41.1125_16.8745,Palestra Physiodrome,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_physiodrome_41.1125_16.8745.json,custom
+41.110850,16.874917,ov_scuola_di_danza_palcoscenico_41.1108_16.8749,Scuola Di Danza Palcoscenico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_di_danza_palcoscenico_41.1108_16.8749.json,custom
+41.109900,16.874320,ov_associazione_sportiva_monica_club___asso_41.1099_16.8743,Associazione Sportiva Monica Club - Associazione Sportiva Di,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/associazione_sportiva_monica_club_-_asso_41.1099_16.8743.json,custom
+41.108973,16.873760,ov_progit_cycling_team_41.1090_16.8738,ProGiT Cycling Team,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/progit_cycling_team_41.1090_16.8738.json,custom
+41.109840,16.871610,ov_academy_of_dance_bari_41.1098_16.8716,Academy Of Dance Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/academy_of_dance_bari_41.1098_16.8716.json,custom
+41.109977,16.871250,ov_centro_sportivo_di_cagno_abbrescia_41.1100_16.8713,Centro Sportivo Di Cagno Abbrescia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_sportivo_di_cagno_abbrescia_41.1100_16.8713.json,custom
+41.108869,16.870226,ov_samira_oriental_academy_41.1089_16.8702,Samira Oriental Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/samira_oriental_academy_41.1089_16.8702.json,custom
+41.109020,16.869100,ov_joblanc___ballo_e_danza_a_bari_41.1090_16.8691,Joblanc - Ballo e Danza a Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/joblanc_-_ballo_e_danza_a_bari_41.1090_16.8691.json,custom
+41.112900,16.865486,ov_wellness_n_gym_41.1129_16.8655,Wellness N Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/wellness_n_gym_41.1129_16.8655.json,custom
+41.113180,16.865480,ov_cna_benessere___sanit__bari_41.1132_16.8655,CNA Benessere & Sanità Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cna_benessere_sanit_bari_41.1132_16.8655.json,custom
+41.112912,16.869573,ov_iron_gym_and_fitness_41.1129_16.8696,Iron Gym and Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/iron_gym_and_fitness_41.1129_16.8696.json,custom
+41.113540,16.870220,ov_interazioni___alla_ricerca_della_bellezz_41.1135_16.8702,Interazioni - Alla ricerca della bellezza perduta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/interazioni_-_alla_ricerca_della_bellezz_41.1135_16.8702.json,custom
+41.114000,16.867926,ov_kokoro_no_tenkan_41.1140_16.8679,Kokoro no Tenkan,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/kokoro_no_tenkan_41.1140_16.8679.json,custom
+41.115770,16.866493,ov_gym_italy_41.1158_16.8665,Gym Italy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/gym_italy_41.1158_16.8665.json,custom
+41.115730,16.868820,ov_la_rossani_bari_41.1157_16.8688,La Rossani Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/la_rossani_bari_41.1157_16.8688.json,custom
+41.115730,16.868820,ov_palestra_popolare_bari_41.1157_16.8688,Palestra Popolare Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_popolare_bari_41.1157_16.8688.json,custom
+41.114892,16.868530,ov_lei_in_fit_41.1149_16.8685,Lei in Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lei_in_fit_41.1149_16.8685.json,custom
+41.114798,16.872278,ov_associazione_le_meraviglie_41.1148_16.8723,Associazione Le Meraviglie,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/associazione_le_meraviglie_41.1148_16.8723.json,custom
+41.116196,16.874317,ov_mind_process_studio_41.1162_16.8743,Mind Process Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/mind_process_studio_41.1162_16.8743.json,custom
+41.114410,16.876207,ov_free_dance_academy_41.1144_16.8762,Free Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/free_dance_academy_41.1144_16.8762.json,custom
+41.114029,16.876205,ov_centro_ludico_motorio_warriors_elite_41.1140_16.8762,Centro Ludico Motorio Warriors elite,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_ludico_motorio_warriors_elite_41.1140_16.8762.json,custom
+41.113540,16.876388,ov_centro_formazione_danza_41.1135_16.8764,Centro Formazione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_formazione_danza_41.1135_16.8764.json,custom
+41.113948,16.881003,ov_snooker_bowling_41.1139_16.8810,Snooker Bowling,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/snooker_bowling_41.1139_16.8810.json,custom
+41.115770,16.884180,ov_new_olimpic_41.1158_16.8842,New Olimpic,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/new_olimpic_41.1158_16.8842.json,custom
+41.116220,16.877289,ov_palestra_fitgallery_41.1162_16.8773,Palestra Fitgallery,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_fitgallery_41.1162_16.8773.json,custom
+41.116848,16.879898,ov_dharma_studio_olistico_41.1168_16.8799,Dharma studio olistico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dharma_studio_olistico_41.1168_16.8799.json,custom
+41.117269,16.878792,ov_palestra_fitness_gym_41.1173_16.8788,Palestra Fitness Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/palestra_fitness_gym_41.1173_16.8788.json,custom
+41.116514,16.883614,ov_a_s_d__levante_azzurro_41.1165_16.8836,A.S.D. Levante Azzurro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_levante_azzurro_41.1165_16.8836.json,custom
+41.118518,16.887182,ov_fitness_and_beach_41.1185_16.8872,Fitness and Beach,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitness_and_beach_41.1185_16.8872.json,custom
+41.119310,16.883482,ov_london_ballet_41.1193_16.8835,London Ballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/london_ballet_41.1193_16.8835.json,custom
+41.117132,16.876197,ov_campo_comunale_bellavista_41.1171_16.8762,Campo Comunale bellavista,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/campo_comunale_bellavista_41.1171_16.8762.json,custom
+41.118320,16.865220,ov_perfect_body___fitness_coaching_41.1183_16.8652,Perfect Body - fitness coaching,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/perfect_body_-_fitness_coaching_41.1183_16.8652.json,custom
+41.119200,16.865500,ov_studio_legale_barnab__41.1192_16.8655,Studio Legale Barnabà,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/studio_legale_barnab_41.1192_16.8655.json,custom
+41.119088,16.869129,ov_il_terzo_paradiso_41.1191_16.8691,Il Terzo Paradiso,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_terzo_paradiso_41.1191_16.8691.json,custom
+41.118777,16.864679,ov_bodyfly_41.1188_16.8647,Bodyfly,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/bodyfly_41.1188_16.8647.json,custom
+41.116364,16.860223,ov_cumbalaye_41.1164_16.8602,Cumbalaye,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cumbalaye_41.1164_16.8602.json,custom
+41.118029,16.864392,ov_scuola_di_ballo_jo_blanc_41.1180_16.8644,Scuola di Ballo Jo Blanc,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_di_ballo_jo_blanc_41.1180_16.8644.json,custom
+41.116022,16.861897,ov_six_pack_bari_41.1160_16.8619,Six Pack Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/six_pack_bari_41.1160_16.8619.json,custom
+41.115962,16.861621,ov_swing_y_sabor_fitness_jump___cross_cardi_41.1160_16.8616,Swing Y Sabor Fitness Jump & Cross Cardio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/swing_y_sabor_fitness_jump_cross_cardio_41.1160_16.8616.json,custom
+41.115922,16.861669,ov_fitness_club_41.1159_16.8617,Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitness_club_41.1159_16.8617.json,custom
+41.116360,16.859780,ov_andres_tv_41.1164_16.8598,Andres tv,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/andres_tv_41.1164_16.8598.json,custom
+41.112797,16.863932,ov_dansfabrik_41.1128_16.8639,Dansfabrik,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dansfabrik_41.1128_16.8639.json,custom
+41.112804,16.863999,ov_associazione_culturale_dance_studio_etoi_41.1128_16.8640,Associazione Culturale Dance Studio Etoile,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/associazione_culturale_dance_studio_etoi_41.1128_16.8640.json,custom
+41.112698,16.858541,ov_kitesurf_bari_sideon_academy_41.1127_16.8585,Kitesurf Bari SideOn Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/kitesurf_bari_sideon_academy_41.1127_16.8585.json,custom
+41.122339,16.848085,ov_a_s_d__blading_academy_41.1223_16.8481,A.S.D. Blading Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_blading_academy_41.1223_16.8481.json,custom
+41.122907,16.850286,ov_a_s_d_lions_team_academy_41.1229_16.8503,A.S.D Lions Team Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_lions_team_academy_41.1229_16.8503.json,custom
+41.121837,16.858913,ov_magrone_daniele_41.1218_16.8589,Magrone Daniele,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/magrone_daniele_41.1218_16.8589.json,custom
+41.123590,16.862406,ov_scuola_di_danza_ballet_center_41.1236_16.8624,Scuola di Danza Ballet Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/scuola_di_danza_ballet_center_41.1236_16.8624.json,custom
+41.124223,16.861262,ov_centro_yoga_lotus___bari_41.1242_16.8613,Centro Yoga Lotus - Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_yoga_lotus_-_bari_41.1242_16.8613.json,custom
+41.124452,16.864844,ov_pilates_plus_41.1245_16.8648,Pilates Plus,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/pilates_plus_41.1245_16.8648.json,custom
+41.126162,16.861168,ov_il_centro___filosofia_pilates_41.1262_16.8612,Il Centro - Filosofia Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_centro_-_filosofia_pilates_41.1262_16.8612.json,custom
+41.126330,16.863231,ov_centro_yoga_in_con_tatto_41.1263_16.8632,Centro Yoga In.Con.Tatto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_yoga_incontatto_41.1263_16.8632.json,custom
+41.127400,16.851229,ov_dsg_nautica_41.1274_16.8512,Dsg Nautica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/dsg_nautica_41.1274_16.8512.json,custom
+41.126380,16.849998,ov_glisses_centro_formazione_danza_41.1264_16.8500,Glisses Centro Formazione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/glisses_centro_formazione_danza_41.1264_16.8500.json,custom
+41.124411,16.852435,ov_vg_sport___fitness_41.1244_16.8524,VG Sport & Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/vg_sport_fitness_41.1244_16.8524.json,custom
+41.125756,16.847917,ov_fit___joy_41.1258_16.8479,Fit & Joy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fit_joy_41.1258_16.8479.json,custom
+41.131430,16.844090,ov_federginnastica_puglia_41.1314_16.8441,Federginnastica Puglia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/federginnastica_puglia_41.1314_16.8441.json,custom
+41.126202,16.865014,ov_orama_yoga_41.1262_16.8650,Orama Yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/orama_yoga_41.1262_16.8650.json,custom
+41.125300,16.866700,ov_lungo_mare_di_bari_41.1253_16.8667,Lungo Mare Di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lungo_mare_di_bari_41.1253_16.8667.json,custom
+41.124481,16.864933,ov_ba_boo__asd_fitness_wellness_sport_41.1245_16.8649,BA.BOO. ASD Fitness Wellness Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/baboo_asd_fitness_wellness_sport_41.1245_16.8649.json,custom
+41.124006,16.869837,ov_centro_hara_s_s_d__a_r_l__41.1240_16.8698,Centro Hara s.s.d. a r.l.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_hara_ssd_a_rl_41.1240_16.8698.json,custom
+41.124040,16.870570,ov_contrology_pilates_studio_bari_41.1240_16.8706,Contrology Pilates Studio Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/contrology_pilates_studio_bari_41.1240_16.8706.json,custom
+41.125532,16.871564,ov_right_pilates_bari_41.1255_16.8716,Right Pilates Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/right_pilates_bari_41.1255_16.8716.json,custom
+41.124014,16.875273,ov_sub_levante_bari_41.1240_16.8753,Sub Levante Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sub_levante_bari_41.1240_16.8753.json,custom
+41.122305,16.871684,ov_runningzen_consulenze_sportive_41.1223_16.8717,RUNNINGZEN consulenze sportive,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/runningzen_consulenze_sportive_41.1223_16.8717.json,custom
+41.122090,16.871610,ov_centro_ginnico_eli_mar_41.1221_16.8716,Centro ginnico Eli&mar,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/centro_ginnico_elimar_41.1221_16.8716.json,custom
+41.123440,16.871810,ov_area12___officina_del_movimento_ssdarl_41.1234_16.8718,Area12 - Officina del movimento ssdarl,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/area12_-_officina_del_movimento_ssdarl_41.1234_16.8718.json,custom
+41.123120,16.866276,ov_beauty_line_41.1231_16.8663,Beauty Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/beauty_line_41.1231_16.8663.json,custom
+41.122878,16.868410,ov_meda_pilates_lab_41.1229_16.8684,Meda Pilates Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/meda_pilates_lab_41.1229_16.8684.json,custom
+41.121156,16.870733,ov_fitandgo_41.1212_16.8707,FitAndGo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitandgo_41.1212_16.8707.json,custom
+41.120251,16.870872,ov_a_s_d_nuova_danzarte_41.1203_16.8709,A.S.D Nuova Danzarte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_nuova_danzarte_41.1203_16.8709.json,custom
+41.120820,16.873230,ov_mon_studio_41.1208_16.8732,Mon Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/mon_studio_41.1208_16.8732.json,custom
+41.120798,16.873586,ov_enjoy_pilates_41.1208_16.8736,Enjoy Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/enjoy_pilates_41.1208_16.8736.json,custom
+41.120830,16.873305,ov_edian_danza_a_s_d__41.1208_16.8733,Edian Danza A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/edian_danza_asd_41.1208_16.8733.json,custom
+41.121386,16.871689,ov_progetto_forma_41.1214_16.8717,Progetto Forma,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/progetto_forma_41.1214_16.8717.json,custom
+41.120900,16.874560,ov_micromacro_41.1209_16.8746,MicroMacro,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/micromacro_41.1209_16.8746.json,custom
+41.121748,16.877922,ov_cai_sezione_di_bari_41.1217_16.8779,CAI Sezione di Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cai_sezione_di_bari_41.1217_16.8779.json,custom
+41.116523,16.891809,ov_marina_sport_srl_41.1165_16.8918,Marina Sport SRL,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/marina_sport_srl_41.1165_16.8918.json,custom
+41.117005,16.893112,ov_csc_bari_41.1170_16.8931,CSC Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/csc_bari_41.1170_16.8931.json,custom
+41.117112,16.893031,ov_osteofit_41.1171_16.8930,Osteofit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/osteofit_41.1171_16.8930.json,custom
+41.115630,16.892437,ov_fitness_garage___gym_co_41.1156_16.8924,Fitness Garage - Gym&Co,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fitness_garage_-_gymco_41.1156_16.8924.json,custom
+41.113659,16.896568,ov_yoga_studio_bari_a_s_d__41.1137_16.8966,Yoga Studio Bari A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/yoga_studio_bari_asd_41.1137_16.8966.json,custom
+41.113918,16.895585,ov_iyengar_yoga_bari_41.1139_16.8956,Iyengar Yoga Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/iyengar_yoga_bari_41.1139_16.8956.json,custom
+41.113906,16.911466,ov_italy_bari_plazh_41.1139_16.9115,Italy Bari Plazh,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/italy_bari_plazh_41.1139_16.9115.json,custom
+41.109470,16.893090,ov_in_action_by_millennium_41.1095_16.8931,In Action by Millennium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/in_action_by_millennium_41.1095_16.8931.json,custom
+41.108318,16.911560,ov_asd_the_dance_academy_bari_41.1083_16.9116,ASD The Dance Academy Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/asd_the_dance_academy_bari_41.1083_16.9116.json,custom
+41.106714,16.924685,ov_stadio_bellavista_bari_41.1067_16.9247,Stadio Bellavista Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/stadio_bellavista_bari_41.1067_16.9247.json,custom
+41.118049,16.864978,osm_wellness_n_gym_41.1180_16.8650,Wellness'n Gym,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/wellnessn_gym_41.1180_16.8650.json,custom
+41.121137,16.870821,osm_fit_and_go_41.1211_16.8708,Fit and Go,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/fit_and_go_41.1211_16.8708.json,custom
+41.124496,16.864811,osm_pilates__41.1245_16.8648,Pilates+,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/pilates_41.1245_16.8648.json,custom

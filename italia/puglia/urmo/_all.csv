@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Urmo -- Tutti
-40.325547,17.700816,osm_l_ora_d_oro_40.3255_17.7008,L'Ora D'Oro,ristorante,ristorante
-40.325487,17.700977,osm_hotel_belsito_40.3255_17.7010,Hotel Belsito,bar_cafe,bar_cafe
+40.325547,17.700816,osm_l_ora_d_oro_40.3255_17.7008,L'Ora D'Oro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/urmo/pages/lora_doro_40.3255_17.7008.json,custom
+40.325487,17.700977,osm_hotel_belsito_40.3255_17.7010,Hotel Belsito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/urmo/pages/hotel_belsito_40.3255_17.7010.json,custom

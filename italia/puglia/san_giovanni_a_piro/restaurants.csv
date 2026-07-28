@@ -1,26 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giovanni_a_piro -- restaurants
-40.050158,15.451258,ov_ristorante_pappacena_40.0502_15.4513,Ristorante PAPPACENA,RESTAURANT,ristorante
-40.050840,15.449791,ov_palazzo_vecchio_1757_40.0508_15.4498,Palazzo Vecchio 1757,RESTAURANT,ristorante
-40.072201,15.456449,ov_la_locanda_di_romeo_40.0722_15.4564,La Locanda di Romeo,RESTAURANT,ristorante
-40.070361,15.473129,ov_i_saraceni_restaurant_40.0704_15.4731,I Saraceni Restaurant,RESTAURANT,ristorante
-40.056245,15.492560,ov_gud_cilento_40.0562_15.4926,Gud Cilento,RESTAURANT,ristorante
-40.055795,15.491810,ov_la_taverna_del_lupo_40.0558_15.4918,La Taverna del Lupo,RESTAURANT,ristorante
-40.054621,15.491721,ov_braceria_churrascaria_pietro_e_andrea_40.0546_15.4917,Braceria-Churrascaria Pietro e Andrea,RESTAURANT,ristorante
-40.055129,15.491966,ov_quo_vadis_40.0551_15.4920,Quo Vadis,RESTAURANT,ristorante
-40.054732,15.492953,ov_scario_40.0547_15.4930,Scario,RESTAURANT,ristorante
-40.050369,15.490776,ov_ristorante_da_mario_40.0504_15.4908,Ristorante da Mario,RESTAURANT,ristorante
-40.051829,15.490664,ov_il_pirata_pizzeria_40.0518_15.4907,Il Pirata pizzeria,RESTAURANT,ristorante
-40.051896,15.491305,ov_ristorante_u__zifaro_40.0519_15.4913,Ristorante U' Zifaro,RESTAURANT,ristorante
-40.052517,15.491642,ov_ristorante_tipiteca_40.0525_15.4916,Ristorante Tipiteca,RESTAURANT,ristorante
-40.052541,15.491669,ov_la_gustoteca_40.0525_15.4917,La Gustoteca,RESTAURANT,ristorante
-40.053024,15.492119,ov_mami_scario_40.0530_15.4921,MAMI Scario,RESTAURANT,ristorante
-40.053086,15.492146,ov_ristorante_maria_luisa_40.0531_15.4921,Ristorante Maria Luisa,RESTAURANT,ristorante
-40.053311,15.492393,ov_moses_40.0533_15.4924,Moses,RESTAURANT,ristorante
-40.054068,15.492143,ov_u_cippo_40.0541_15.4921,U'cippo,RESTAURANT,ristorante
-40.050280,15.489470,ov_ristorante_primerose_40.0503_15.4895,Ristorante Primerose,RESTAURANT,ristorante
-40.049821,15.490212,ov_ristorante_pizzeria_il_faro_40.0498_15.4902,Ristorante Pizzeria Il Faro,RESTAURANT,ristorante
-40.049704,15.490161,ov_la_lanterna_40.0497_15.4902,La Lanterna,RESTAURANT,ristorante
-40.049577,15.490079,ov_pizzeria__elimar__40.0496_15.4901,Pizzeria “elimar”,RESTAURANT,ristorante
-40.048922,15.490507,ov_birreria_pizzeria_luna_nuova_40.0489_15.4905,Birreria Pizzeria Luna Nuova,RESTAURANT,ristorante
-40.051779,15.474965,ov_azienda_agrituristica_palazzone_40.0518_15.4750,Azienda Agrituristica Palazzone,RESTAURANT,ristorante
+40.050158,15.451258,ov_ristorante_pappacena_40.0502_15.4513,Ristorante PAPPACENA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_pappacena_40.0502_15.4513.json,custom
+40.050840,15.449791,ov_palazzo_vecchio_1757_40.0508_15.4498,Palazzo Vecchio 1757,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/palazzo_vecchio_1757_40.0508_15.4498.json,custom
+40.072201,15.456449,ov_la_locanda_di_romeo_40.0722_15.4564,La Locanda di Romeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_locanda_di_romeo_40.0722_15.4564.json,custom
+40.070361,15.473129,ov_i_saraceni_restaurant_40.0704_15.4731,I Saraceni Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/i_saraceni_restaurant_40.0704_15.4731.json,custom
+40.056245,15.492560,ov_gud_cilento_40.0562_15.4926,Gud Cilento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/gud_cilento_40.0562_15.4926.json,custom
+40.055795,15.491810,ov_la_taverna_del_lupo_40.0558_15.4918,La Taverna del Lupo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_taverna_del_lupo_40.0558_15.4918.json,custom
+40.054621,15.491721,ov_braceria_churrascaria_pietro_e_andrea_40.0546_15.4917,Braceria-Churrascaria Pietro e Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/braceria-churrascaria_pietro_e_andrea_40.0546_15.4917.json,custom
+40.055129,15.491966,ov_quo_vadis_40.0551_15.4920,Quo Vadis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/quo_vadis_40.0551_15.4920.json,custom
+40.054732,15.492953,ov_scario_40.0547_15.4930,Scario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/scario_40.0547_15.4930.json,custom
+40.050369,15.490776,ov_ristorante_da_mario_40.0504_15.4908,Ristorante da Mario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_da_mario_40.0504_15.4908.json,custom
+40.051829,15.490664,ov_il_pirata_pizzeria_40.0518_15.4907,Il Pirata pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/il_pirata_pizzeria_40.0518_15.4907.json,custom
+40.051896,15.491305,ov_ristorante_u__zifaro_40.0519_15.4913,Ristorante U' Zifaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_u_zifaro_40.0519_15.4913.json,custom
+40.052517,15.491642,ov_ristorante_tipiteca_40.0525_15.4916,Ristorante Tipiteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_tipiteca_40.0525_15.4916.json,custom
+40.052541,15.491669,ov_la_gustoteca_40.0525_15.4917,La Gustoteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_gustoteca_40.0525_15.4917.json,custom
+40.053024,15.492119,ov_mami_scario_40.0530_15.4921,MAMI Scario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/mami_scario_40.0530_15.4921.json,custom
+40.053086,15.492146,ov_ristorante_maria_luisa_40.0531_15.4921,Ristorante Maria Luisa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_maria_luisa_40.0531_15.4921.json,custom
+40.053311,15.492393,ov_moses_40.0533_15.4924,Moses,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/moses_40.0533_15.4924.json,custom
+40.054068,15.492143,ov_u_cippo_40.0541_15.4921,U'cippo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ucippo_40.0541_15.4921.json,custom
+40.050280,15.489470,ov_ristorante_primerose_40.0503_15.4895,Ristorante Primerose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_primerose_40.0503_15.4895.json,custom
+40.049821,15.490212,ov_ristorante_pizzeria_il_faro_40.0498_15.4902,Ristorante Pizzeria Il Faro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_pizzeria_il_faro_40.0498_15.4902.json,custom
+40.049704,15.490161,ov_la_lanterna_40.0497_15.4902,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_lanterna_40.0497_15.4902.json,custom
+40.049577,15.490079,ov_pizzeria__elimar__40.0496_15.4901,Pizzeria “elimar”,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/pizzeria_elimar_40.0496_15.4901.json,custom
+40.048922,15.490507,ov_birreria_pizzeria_luna_nuova_40.0489_15.4905,Birreria Pizzeria Luna Nuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/birreria_pizzeria_luna_nuova_40.0489_15.4905.json,custom
+40.051779,15.474965,ov_azienda_agrituristica_palazzone_40.0518_15.4750,Azienda Agrituristica Palazzone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/azienda_agrituristica_palazzone_40.0518_15.4750.json,custom

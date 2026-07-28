@@ -1,22 +1,22 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # potenza -- hospitals
-40.633647,15.787191,osm_polo_sanitario__madre_teresa_di_calcutta_40.6336_15.7872,Polo Sanitario 'Madre Teresa di Calcutta',hospital,hospital
-40.652047,15.805152,osm_ospedale_san_carlo_40.6520_15.8052,Ospedale San Carlo,hospital,hospital
-40.622900,15.618892,ov_ospedale_s__carlo_potenza_40.6229_15.6189,Ospedale S. Carlo Potenza,HOSPITAL,hospital
-40.637227,15.808754,ov_asp_basilicata_40.6372_15.8088,ASP Basilicata,HOSPITAL,hospital
-40.637031,15.808646,ov_azienda_sanitaria_locale_di_potenza_40.6370_15.8086,Azienda Sanitaria Locale di Potenza,HOSPITAL,hospital
-40.637740,15.810690,ov_studio_di_medicina_generale_40.6377_15.8107,Studio di Medicina Generale,HOSPITAL,hospital
-40.641096,15.825604,ov_asp_40.6411_15.8256,Asp,HOSPITAL,hospital
-40.642690,15.837130,ov_farmacia_guglielmi_apollonia_40.6427_15.8371,Farmacia Guglielmi Apollonia,HOSPITAL,hospital
-40.642269,15.789990,ov_asp_dirigente_medico_118_40.6423_15.7900,ASP Dirigente Medico 118,HOSPITAL,hospital
-40.650494,15.797195,ov_ozonoterapia_medica_agopuntura_ecografia_40.6505_15.7972,Ozonoterapia Medica Agopuntura Ecografia Dott. Nardiello Stu,HOSPITAL,hospital
-40.656617,15.801193,ov_clinica_del_sale_potenza_40.6566_15.8012,Clinica del Sale Potenza,HOSPITAL,hospital
-40.652975,15.803099,ov_basilicata_soccorso_118_40.6530_15.8031,Basilicata Soccorso 118,HOSPITAL,hospital
-40.653279,15.801671,ov_policura_hospital_40.6533_15.8017,Policura Hospital,HOSPITAL,hospital
-40.653788,15.803469,ov_azienda_ospedaliera_san_carlo_40.6538_15.8035,Azienda Ospedaliera San Carlo,HOSPITAL,hospital
-40.651445,15.800900,ov_azienda_ospedaliera_ospedale_s__carlo____40.6514_15.8009,Azienda Ospedaliera Ospedale S. Carlo - Potenza,HOSPITAL,hospital
-40.651879,15.806289,ov_azienda_ospedaliera_regionale_san_carlo_40.6519_15.8063,Azienda Ospedaliera Regionale San Carlo,HOSPITAL,hospital
-40.652140,15.807730,ov_pronto_soccorso_ostetrico_40.6521_15.8077,Pronto Soccorso Ostetrico,HOSPITAL,hospital
-40.651452,15.807475,ov_pediatrica_40.6515_15.8075,Pediatrica,HOSPITAL,hospital
-40.651100,15.807350,ov_centro_pediatrico_bambin_ges__basilicata_40.6511_15.8073,Centro pediatrico bambin gesù basilicata,HOSPITAL,hospital
-40.659793,15.809632,ov_avis_basilicata_40.6598_15.8096,Avis Basilicata,HOSPITAL,hospital
+40.622900,15.618892,ov_ospedale_s__carlo_potenza_40.6229_15.6189,Ospedale S. Carlo Potenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/ospedale_s_carlo_potenza_40.6229_15.6189.json,custom
+40.637227,15.808754,ov_asp_basilicata_40.6372_15.8088,ASP Basilicata,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/asp_basilicata_40.6372_15.8088.json,custom
+40.637031,15.808646,ov_azienda_sanitaria_locale_di_potenza_40.6370_15.8086,Azienda Sanitaria Locale di Potenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/azienda_sanitaria_locale_di_potenza_40.6370_15.8086.json,custom
+40.637740,15.810690,ov_studio_di_medicina_generale_40.6377_15.8107,Studio di Medicina Generale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/studio_di_medicina_generale_40.6377_15.8107.json,custom
+40.641096,15.825604,ov_asp_40.6411_15.8256,Asp,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/asp_40.6411_15.8256.json,custom
+40.642690,15.837130,ov_farmacia_guglielmi_apollonia_40.6427_15.8371,Farmacia Guglielmi Apollonia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/farmacia_guglielmi_apollonia_40.6427_15.8371.json,custom
+40.642269,15.789990,ov_asp_dirigente_medico_118_40.6423_15.7900,ASP Dirigente Medico 118,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/asp_dirigente_medico_118_40.6423_15.7900.json,custom
+40.650494,15.797195,ov_ozonoterapia_medica_agopuntura_ecografia_40.6505_15.7972,Ozonoterapia Medica Agopuntura Ecografia Dott. Nardiello Stu,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/ozonoterapia_medica_agopuntura_ecografia_40.6505_15.7972.json,custom
+40.656617,15.801193,ov_clinica_del_sale_potenza_40.6566_15.8012,Clinica del Sale Potenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/clinica_del_sale_potenza_40.6566_15.8012.json,custom
+40.652975,15.803099,ov_basilicata_soccorso_118_40.6530_15.8031,Basilicata Soccorso 118,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/basilicata_soccorso_118_40.6530_15.8031.json,custom
+40.653279,15.801671,ov_policura_hospital_40.6533_15.8017,Policura Hospital,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/policura_hospital_40.6533_15.8017.json,custom
+40.653788,15.803469,ov_azienda_ospedaliera_san_carlo_40.6538_15.8035,Azienda Ospedaliera San Carlo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/azienda_ospedaliera_san_carlo_40.6538_15.8035.json,custom
+40.651445,15.800900,ov_azienda_ospedaliera_ospedale_s__carlo____40.6514_15.8009,Azienda Ospedaliera Ospedale S. Carlo - Potenza,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/azienda_ospedaliera_ospedale_s_carlo_-_p_40.6514_15.8009.json,custom
+40.651879,15.806289,ov_azienda_ospedaliera_regionale_san_carlo_40.6519_15.8063,Azienda Ospedaliera Regionale San Carlo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/azienda_ospedaliera_regionale_san_carlo_40.6519_15.8063.json,custom
+40.652140,15.807730,ov_pronto_soccorso_ostetrico_40.6521_15.8077,Pronto Soccorso Ostetrico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/pronto_soccorso_ostetrico_40.6521_15.8077.json,custom
+40.651452,15.807475,ov_pediatrica_40.6515_15.8075,Pediatrica,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/pediatrica_40.6515_15.8075.json,custom
+40.651100,15.807350,ov_centro_pediatrico_bambin_ges__basilicata_40.6511_15.8073,Centro pediatrico bambin gesù basilicata,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/centro_pediatrico_bambin_ges_basilicata_40.6511_15.8073.json,custom
+40.659793,15.809632,ov_avis_basilicata_40.6598_15.8096,Avis Basilicata,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/avis_basilicata_40.6598_15.8096.json,custom
+40.633647,15.787191,osm_polo_sanitario__madre_teresa_di_calcutta_40.6336_15.7872,Polo Sanitario 'Madre Teresa di Calcutta',hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/polo_sanitario_madre_teresa_di_calcutta_40.6336_15.7872.json,custom
+40.652047,15.805152,osm_ospedale_san_carlo_40.6520_15.8052,Ospedale San Carlo,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/potenza/pages/ospedale_san_carlo_40.6520_15.8052.json,custom

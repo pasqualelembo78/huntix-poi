@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castri_di_lecce -- bars_cafes
-40.272026,18.260453,ov_bar_torsello_40.2720_18.2605,Bar Torsello,RESTAURANT,bar_cafe
-40.273260,18.265430,ov_bar_centrale__pitrizzi_40.2733_18.2654,BAR Centrale  Pitrizzi,RESTAURANT,bar_cafe
-40.272842,18.265784,ov_angio_bar_40.2728_18.2658,Angio Bar,RESTAURANT,bar_cafe
-40.273690,18.262554,ov_gloves_us_40.2737_18.2626,Gloves US,RESTAURANT,bar_cafe
-40.293760,18.196300,ov_garden_caf__40.2938_18.1963,Garden cafè,RESTAURANT,bar_cafe
-40.271968,18.260503,osm_bar_torsello_40.2720_18.2605,Bar Torsello,bar_cafe,bar_cafe
-40.273448,18.265301,osm_bar_centrale_40.2734_18.2653,Bar Centrale,bar_cafe,bar_cafe
-40.274014,18.256733,osm_bar_tonio___distributore_ip_40.2740_18.2567,Bar Tonio - Distributore IP,bar_cafe,bar_cafe
-40.274621,18.261718,osm_snack_cafe_40.2746_18.2617,Snack Cafe,bar_cafe,bar_cafe
+40.272026,18.260453,ov_bar_torsello_40.2720_18.2605,Bar Torsello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/bar_torsello_40.2720_18.2605.json,custom
+40.273260,18.265430,ov_bar_centrale__pitrizzi_40.2733_18.2654,BAR Centrale  Pitrizzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/bar_centrale_pitrizzi_40.2733_18.2654.json,custom
+40.272842,18.265784,ov_angio_bar_40.2728_18.2658,Angio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/angio_bar_40.2728_18.2658.json,custom
+40.273690,18.262554,ov_gloves_us_40.2737_18.2626,Gloves US,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/gloves_us_40.2737_18.2626.json,custom
+40.293760,18.196300,ov_garden_caf__40.2938_18.1963,Garden cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/garden_caf_40.2938_18.1963.json,custom
+40.271968,18.260503,osm_bar_torsello_40.2720_18.2605,Bar Torsello,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/bar_torsello_40.2720_18.2605.json,custom
+40.273448,18.265301,osm_bar_centrale_40.2734_18.2653,Bar Centrale,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/bar_centrale_40.2734_18.2653.json,custom
+40.274014,18.256733,osm_bar_tonio___distributore_ip_40.2740_18.2567,Bar Tonio - Distributore IP,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/bar_tonio_-_distributore_ip_40.2740_18.2567.json,custom
+40.274621,18.261718,osm_snack_cafe_40.2746_18.2617,Snack Cafe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castri_di_lecce/pages/snack_cafe_40.2746_18.2617.json,custom

@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # manduria -- landmarks
-40.403426,17.641167,ov_il_parco_archeologico_di_manduria_40.4034_17.6412,Il Parco archeologico di Manduria,MUSEUM,monumento
-40.401210,17.638430,ov_museo_civico_manduria_40.4012_17.6384,Museo Civico Manduria,MUSEUM,monumento
-40.396359,17.630996,ov_chiesa_di_santa_maria_di_bagnolo_40.3964_17.6310,Chiesa di Santa Maria di Bagnolo,MONUMENT,monumento
-40.306329,17.672388,ov_torre_san_pietro_40.3063_17.6724,Torre San Pietro,MONUMENT,monumento
+40.403426,17.641167,ov_il_parco_archeologico_di_manduria_40.4034_17.6412,Il Parco archeologico di Manduria,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/il_parco_archeologico_di_manduria_40.4034_17.6412.json,custom
+40.401210,17.638430,ov_museo_civico_manduria_40.4012_17.6384,Museo Civico Manduria,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/museo_civico_manduria_40.4012_17.6384.json,custom
+40.396359,17.630996,ov_chiesa_di_santa_maria_di_bagnolo_40.3964_17.6310,Chiesa di Santa Maria di Bagnolo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/chiesa_di_santa_maria_di_bagnolo_40.3964_17.6310.json,custom
+40.306329,17.672388,ov_torre_san_pietro_40.3063_17.6724,Torre San Pietro,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/torre_san_pietro_40.3063_17.6724.json,custom

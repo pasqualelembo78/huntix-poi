@@ -1,30 +1,30 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # sapri -- bars_cafes
-40.072293,15.630803,ov_bar_chiodo_40.0723_15.6308,Bar Chiodo,RESTAURANT,bar_cafe
-40.071823,15.631545,ov_hotel_posidonia_40.0718_15.6315,Hotel Posidonia,RESTAURANT,bar_cafe
-40.075061,15.633610,ov_carpe_diem_caffe_40.0751_15.6336,Carpe Diem Caffe,RESTAURANT,bar_cafe
-40.074686,15.633990,ov_bar_ideal_40.0747_15.6340,Bar Ideal,RESTAURANT,bar_cafe
-40.072722,15.630934,ov_il_veliero_40.0727_15.6309,Il Veliero,RESTAURANT,bar_cafe
-40.074501,15.629572,ov_bar_rosso_e_nero_40.0745_15.6296,Bar Rosso e Nero,RESTAURANT,bar_cafe
-40.073720,15.629380,ov_bar_cristal_40.0737_15.6294,Bar Cristal,RESTAURANT,bar_cafe
-40.073040,15.629690,ov_sansis_sapri_affittacamere_40.0730_15.6297,Sansis Sapri Affittacamere,RESTAURANT,bar_cafe
-40.075070,15.628200,ov_time_corso_garibaldi_sapri_40.0751_15.6282,TIME Corso Garibaldi Sapri,RESTAURANT,bar_cafe
-40.077793,15.627993,ov_buffet_stazione_40.0778_15.6280,Buffet Stazione,RESTAURANT,bar_cafe
-40.077529,15.627359,ov_e_express_bar_dlf_40.0775_15.6274,E.express bar DLF,RESTAURANT,bar_cafe
-40.076498,15.626929,ov_ronny_bar_40.0765_15.6269,Ronny Bar,RESTAURANT,bar_cafe
-40.075726,15.626356,ov_fabrika_40.0757_15.6264,Fabrika,RESTAURANT,bar_cafe
-40.076563,15.624697,ov_bar_pasticceria_l_incontro_40.0766_15.6247,Bar Pasticceria L'Incontro,RESTAURANT,bar_cafe
-40.074736,15.625299,ov_la_marmeria_40.0747_15.6253,La marmeria,RESTAURANT,bar_cafe
-40.074556,15.626108,ov_max___max_snc_tiki_hawaiian_bar_sapri_40.0746_15.6261,MAX & MAX SNC Tiki Hawaiian Bar Sapri,RESTAURANT,bar_cafe
-40.074306,15.625822,ov_tikibeach_40.0743_15.6258,TikiBeach,RESTAURANT,bar_cafe
-40.074483,15.626640,ov_masko_40.0745_15.6266,Masko,RESTAURANT,bar_cafe
-40.075102,15.627183,ov_bar_pepita_40.0751_15.6272,Bar Pepita,RESTAURANT,bar_cafe
-40.074341,15.627138,ov_pasticceria_chiara_di_cascone_antonio_40.0743_15.6271,Pasticceria Chiara di Cascone Antonio,RESTAURANT,bar_cafe
-40.074314,15.627205,ov_locanda_la_baia_40.0743_15.6272,Locanda la Baia,RESTAURANT,bar_cafe
-40.073739,15.621634,ov_fanny_s_pub_40.0737_15.6216,Fanny's Pub,RESTAURANT,bar_cafe
-40.077491,15.627216,osm_dopolavoro_ferroviario_40.0775_15.6272,dopolavoro ferroviario,bar_cafe,bar_cafe
-40.073876,15.626688,osm_lido_lazzarella_40.0739_15.6267,Lido Lazzarella,bar_cafe,bar_cafe
-40.074454,15.626685,osm_mask__bar_40.0745_15.6267,Maskò Bar,bar_cafe,bar_cafe
-40.073473,15.629893,osm_cristal_40.0735_15.6299,Cristal,bar_cafe,bar_cafe
-40.073305,15.629623,osm_scidron_40.0733_15.6296,Scidron,bar_cafe,bar_cafe
-40.075052,15.627214,osm_pepita_40.0751_15.6272,Pepita,bar_cafe,bar_cafe
+40.072293,15.630803,ov_bar_chiodo_40.0723_15.6308,Bar Chiodo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_chiodo_40.0723_15.6308.json,custom
+40.071823,15.631545,ov_hotel_posidonia_40.0718_15.6315,Hotel Posidonia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/hotel_posidonia_40.0718_15.6315.json,custom
+40.075061,15.633610,ov_carpe_diem_caffe_40.0751_15.6336,Carpe Diem Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/carpe_diem_caffe_40.0751_15.6336.json,custom
+40.074686,15.633990,ov_bar_ideal_40.0747_15.6340,Bar Ideal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_ideal_40.0747_15.6340.json,custom
+40.072722,15.630934,ov_il_veliero_40.0727_15.6309,Il Veliero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/il_veliero_40.0727_15.6309.json,custom
+40.074501,15.629572,ov_bar_rosso_e_nero_40.0745_15.6296,Bar Rosso e Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_rosso_e_nero_40.0745_15.6296.json,custom
+40.073720,15.629380,ov_bar_cristal_40.0737_15.6294,Bar Cristal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_cristal_40.0737_15.6294.json,custom
+40.073040,15.629690,ov_sansis_sapri_affittacamere_40.0730_15.6297,Sansis Sapri Affittacamere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/sansis_sapri_affittacamere_40.0730_15.6297.json,custom
+40.075070,15.628200,ov_time_corso_garibaldi_sapri_40.0751_15.6282,TIME Corso Garibaldi Sapri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/time_corso_garibaldi_sapri_40.0751_15.6282.json,custom
+40.077793,15.627993,ov_buffet_stazione_40.0778_15.6280,Buffet Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/buffet_stazione_40.0778_15.6280.json,custom
+40.077529,15.627359,ov_e_express_bar_dlf_40.0775_15.6274,E.express bar DLF,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/eexpress_bar_dlf_40.0775_15.6274.json,custom
+40.076498,15.626929,ov_ronny_bar_40.0765_15.6269,Ronny Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/ronny_bar_40.0765_15.6269.json,custom
+40.075726,15.626356,ov_fabrika_40.0757_15.6264,Fabrika,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/fabrika_40.0757_15.6264.json,custom
+40.076563,15.624697,ov_bar_pasticceria_l_incontro_40.0766_15.6247,Bar Pasticceria L'Incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_pasticceria_lincontro_40.0766_15.6247.json,custom
+40.074736,15.625299,ov_la_marmeria_40.0747_15.6253,La marmeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/la_marmeria_40.0747_15.6253.json,custom
+40.074556,15.626108,ov_max___max_snc_tiki_hawaiian_bar_sapri_40.0746_15.6261,MAX & MAX SNC Tiki Hawaiian Bar Sapri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/max_max_snc_tiki_hawaiian_bar_sapri_40.0746_15.6261.json,custom
+40.074306,15.625822,ov_tikibeach_40.0743_15.6258,TikiBeach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/tikibeach_40.0743_15.6258.json,custom
+40.074483,15.626640,ov_masko_40.0745_15.6266,Masko,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/masko_40.0745_15.6266.json,custom
+40.075102,15.627183,ov_bar_pepita_40.0751_15.6272,Bar Pepita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/bar_pepita_40.0751_15.6272.json,custom
+40.074341,15.627138,ov_pasticceria_chiara_di_cascone_antonio_40.0743_15.6271,Pasticceria Chiara di Cascone Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/pasticceria_chiara_di_cascone_antonio_40.0743_15.6271.json,custom
+40.074314,15.627205,ov_locanda_la_baia_40.0743_15.6272,Locanda la Baia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/locanda_la_baia_40.0743_15.6272.json,custom
+40.073739,15.621634,ov_fanny_s_pub_40.0737_15.6216,Fanny's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/fannys_pub_40.0737_15.6216.json,custom
+40.077491,15.627216,osm_dopolavoro_ferroviario_40.0775_15.6272,dopolavoro ferroviario,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/dopolavoro_ferroviario_40.0775_15.6272.json,custom
+40.073876,15.626688,osm_lido_lazzarella_40.0739_15.6267,Lido Lazzarella,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/lido_lazzarella_40.0739_15.6267.json,custom
+40.074454,15.626685,osm_mask__bar_40.0745_15.6267,Maskò Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/mask_bar_40.0745_15.6267.json,custom
+40.073473,15.629893,osm_cristal_40.0735_15.6299,Cristal,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/cristal_40.0735_15.6299.json,custom
+40.073305,15.629623,osm_scidron_40.0733_15.6296,Scidron,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/scidron_40.0733_15.6296.json,custom
+40.075052,15.627214,osm_pepita_40.0751_15.6272,Pepita,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sapri/pages/pepita_40.0751_15.6272.json,custom

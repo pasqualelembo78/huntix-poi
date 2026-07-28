@@ -1,53 +1,52 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # oria -- restaurants
-40.498406,17.643515,osm_wine_shop_la_saletta_40.4984_17.6435,Wine Shop La Saletta,ristorante,ristorante
-40.477156,17.609483,osm_l__angoletto_di_laurito_40.4772_17.6095,L' Angoletto di Laurito,ristorante,ristorante
-40.478358,17.608922,osm_parco_laurito_ricevimenti_40.4784_17.6089,Parco Laurito Ricevimenti,ristorante,ristorante
-40.477146,17.609533,osm_l__angoletto_di_laurito_40.4771_17.6095,L' Angoletto di Laurito,ristorante,ristorante
-40.496902,17.640029,osm_akropolis_40.4969_17.6400,Akropolis,ristorante,ristorante
-40.466853,17.678625,ov_ristorante_la_torretta_oria_40.4669_17.6786,Ristorante La Torretta Oria,RESTAURANT,ristorante
-40.461720,17.677085,ov_ristorante_pizzeria_tre_archi_40.4617_17.6771,Ristorante Pizzeria Tre Archi,RESTAURANT,ristorante
-40.458335,17.676499,ov_la_torretta_srl_40.4583_17.6765,La Torretta SRL,RESTAURANT,ristorante
-40.470381,17.640210,ov_masseria_palombara_restaurant_40.4704_17.6402,Masseria Palombara Restaurant,RESTAURANT,ristorante
-40.503936,17.648524,ov_cristel_40.5039_17.6485,Cristel,RESTAURANT,ristorante
-40.494002,17.651011,ov_ristorante_pizzeria_da_saverio_40.4940_17.6510,Ristorante Pizzeria da Saverio,RESTAURANT,ristorante
-40.494181,17.650786,ov_shami_sushi_40.4942_17.6508,Shami Sushi,RESTAURANT,ristorante
-40.494684,17.649453,ov_europa_80_40.4947_17.6495,Europa 80,RESTAURANT,ristorante
-40.498719,17.644432,ov_opificio_51_40.4987_17.6444,Opificio 51,RESTAURANT,ristorante
-40.496981,17.643609,ov_intra_moenia_40.4970_17.6436,Intra Moenia,RESTAURANT,ristorante
-40.497211,17.643492,ov_meats_40.4972_17.6435,MeatS,RESTAURANT,ristorante
-40.497496,17.643033,ov_trattoria_corrado_40.4975_17.6430,Trattoria Corrado,RESTAURANT,ristorante
-40.496531,17.641083,ov_joy_bistrot_40.4965_17.6411,JOY Bistrot,RESTAURANT,ristorante
-40.496576,17.641176,ov_palio_ristorante_40.4966_17.6412,Palio Ristorante,RESTAURANT,ristorante
-40.496480,17.643350,ov_pizzeria_pantheon_40.4965_17.6434,Pizzeria Pantheon,RESTAURANT,ristorante
-40.496851,17.642855,ov_il_maniero_40.4969_17.6429,Il Maniero,RESTAURANT,ristorante
-40.496761,17.643280,ov_vecchia_oria_40.4968_17.6433,Vecchia Oria,RESTAURANT,ristorante
-40.496825,17.643566,ov_osteria_luce_40.4968_17.6436,Osteria Luce,RESTAURANT,ristorante
-40.496771,17.644228,ov_d__andrea_fast_food_40.4968_17.6442,Dõ Andrea Fast Food,RESTAURANT,ristorante
-40.496572,17.643489,ov_fuori_porta___ristorante_40.4966_17.6435,Fuori Porta • Ristorante,RESTAURANT,ristorante
-40.496384,17.643629,ov_pescheria_57_40.4964_17.6436,Pescheria 57,RESTAURANT,ristorante
-40.496339,17.644169,ov_akropolis_bistrot_ristorante_pizzeria_40.4963_17.6442,Akropolis/bistrot/ristorante/pizzeria,RESTAURANT,ristorante
-40.495627,17.646367,ov_agor__food_and_beer_40.4956_17.6464,Agorà Food and Beer,RESTAURANT,ristorante
-40.495473,17.644149,ov_al_ficus_40.4955_17.6441,Al Ficus,RESTAURANT,ristorante
-40.496190,17.641550,ov_ristorante_l__angoletto_40.4962_17.6415,Ristorante L' angoletto,RESTAURANT,ristorante
-40.496974,17.640073,ov_akropolis_40.4970_17.6401,Akropolis,RESTAURANT,ristorante
-40.497406,17.639454,ov_speedy_cart_40.4974_17.6395,Speedy Cart,RESTAURANT,ristorante
-40.498281,17.640096,ov_bella_vista_40.4983_17.6401,Bella vista,RESTAURANT,ristorante
-40.500280,17.638100,ov_parco_laurito_sala_ricevimenti_40.5003_17.6381,Parco Laurito Sala Ricevimenti,RESTAURANT,ristorante
-40.499588,17.638961,ov_frantoio_oleario_italiano_vittorio__il_f_40.4996_17.6390,"Frantoio Oleario Italiano Vittorio, il Frantoio Tradizionale",RESTAURANT,ristorante
-40.499711,17.643317,ov_il_creatore_40.4997_17.6433,Il Creatore,RESTAURANT,ristorante
-40.499893,17.643382,ov_il_rugantino_40.4999_17.6434,Il Rugantino,RESTAURANT,ristorante
-40.500192,17.643794,ov_ristorante_caff__dec__40.5002_17.6438,Ristorante Caffè Decò,RESTAURANT,ristorante
-40.499903,17.643764,ov_la_tavernetta_da_francesco_piazza_lama_5_40.4999_17.6438,"La tavernetta da Francesco piazza lama 54Oria,BR",RESTAURANT,ristorante
-40.499787,17.643574,ov_fuori_porta_pizzeria_40.4998_17.6436,Fuori Porta Pizzeria,RESTAURANT,ristorante
-40.499396,17.645759,ov_la_corona_del_re_40.4994_17.6458,La Corona del Re,RESTAURANT,ristorante
-40.499925,17.646619,ov_il_panzerotto_di_leo_agata_40.4999_17.6466,Il Panzerotto di Leo Agata,RESTAURANT,ristorante
-40.500379,17.647450,ov_la_dolce_venere_40.5004_17.6475,La Dolce Venere,RESTAURANT,ristorante
-40.501729,17.645408,ov_il_saraceno_40.5017_17.6454,Il Saraceno,RESTAURANT,ristorante
-40.501128,17.644427,ov_i_gemelli_40.5011_17.6444,I Gemelli,RESTAURANT,ristorante
-40.502718,17.645289,ov_rin__40.5027_17.6453,Rinù,RESTAURANT,ristorante
-40.502821,17.645215,ov_la_ghianda_40.5028_17.6452,La Ghianda,RESTAURANT,ristorante
-40.504533,17.649466,ov_oleifici_masiello_s_n_c_40.5045_17.6495,Oleifici masiello s.n.c,RESTAURANT,ristorante
-40.507120,17.650270,ov_wine_shop_40.5071_17.6503,Wine Shop,RESTAURANT,ristorante
-40.477337,17.609309,ov_l_angoletto_di_laurito_40.4773_17.6093,L'Angoletto di Laurito,RESTAURANT,ristorante
-40.531494,17.656305,ov_hortus_agrobistrot_40.5315_17.6563,Hortus Agrobistrot,RESTAURANT,ristorante
+40.466853,17.678625,ov_ristorante_la_torretta_oria_40.4669_17.6786,Ristorante La Torretta Oria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/ristorante_la_torretta_oria_40.4669_17.6786.json,custom
+40.461720,17.677085,ov_ristorante_pizzeria_tre_archi_40.4617_17.6771,Ristorante Pizzeria Tre Archi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/ristorante_pizzeria_tre_archi_40.4617_17.6771.json,custom
+40.458335,17.676499,ov_la_torretta_srl_40.4583_17.6765,La Torretta SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/la_torretta_srl_40.4583_17.6765.json,custom
+40.470381,17.640210,ov_masseria_palombara_restaurant_40.4704_17.6402,Masseria Palombara Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/masseria_palombara_restaurant_40.4704_17.6402.json,custom
+40.503936,17.648524,ov_cristel_40.5039_17.6485,Cristel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/cristel_40.5039_17.6485.json,custom
+40.494002,17.651011,ov_ristorante_pizzeria_da_saverio_40.4940_17.6510,Ristorante Pizzeria da Saverio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/ristorante_pizzeria_da_saverio_40.4940_17.6510.json,custom
+40.494181,17.650786,ov_shami_sushi_40.4942_17.6508,Shami Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/shami_sushi_40.4942_17.6508.json,custom
+40.494684,17.649453,ov_europa_80_40.4947_17.6495,Europa 80,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/europa_80_40.4947_17.6495.json,custom
+40.498719,17.644432,ov_opificio_51_40.4987_17.6444,Opificio 51,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/opificio_51_40.4987_17.6444.json,custom
+40.496981,17.643609,ov_intra_moenia_40.4970_17.6436,Intra Moenia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/intra_moenia_40.4970_17.6436.json,custom
+40.497211,17.643492,ov_meats_40.4972_17.6435,MeatS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/meats_40.4972_17.6435.json,custom
+40.497496,17.643033,ov_trattoria_corrado_40.4975_17.6430,Trattoria Corrado,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/trattoria_corrado_40.4975_17.6430.json,custom
+40.496531,17.641083,ov_joy_bistrot_40.4965_17.6411,JOY Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/joy_bistrot_40.4965_17.6411.json,custom
+40.496576,17.641176,ov_palio_ristorante_40.4966_17.6412,Palio Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/palio_ristorante_40.4966_17.6412.json,custom
+40.496480,17.643350,ov_pizzeria_pantheon_40.4965_17.6434,Pizzeria Pantheon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/pizzeria_pantheon_40.4965_17.6434.json,custom
+40.496851,17.642855,ov_il_maniero_40.4969_17.6429,Il Maniero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/il_maniero_40.4969_17.6429.json,custom
+40.496761,17.643280,ov_vecchia_oria_40.4968_17.6433,Vecchia Oria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/vecchia_oria_40.4968_17.6433.json,custom
+40.496825,17.643566,ov_osteria_luce_40.4968_17.6436,Osteria Luce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/osteria_luce_40.4968_17.6436.json,custom
+40.496771,17.644228,ov_d__andrea_fast_food_40.4968_17.6442,Dõ Andrea Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/d_andrea_fast_food_40.4968_17.6442.json,custom
+40.496572,17.643489,ov_fuori_porta___ristorante_40.4966_17.6435,Fuori Porta • Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/fuori_porta_ristorante_40.4966_17.6435.json,custom
+40.496384,17.643629,ov_pescheria_57_40.4964_17.6436,Pescheria 57,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/pescheria_57_40.4964_17.6436.json,custom
+40.496339,17.644169,ov_akropolis_bistrot_ristorante_pizzeria_40.4963_17.6442,Akropolis/bistrot/ristorante/pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/akropolisbistrotristorantepizzeria_40.4963_17.6442.json,custom
+40.495627,17.646367,ov_agor__food_and_beer_40.4956_17.6464,Agorà Food and Beer,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/agor_food_and_beer_40.4956_17.6464.json,custom
+40.495473,17.644149,ov_al_ficus_40.4955_17.6441,Al Ficus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/al_ficus_40.4955_17.6441.json,custom
+40.496190,17.641550,ov_ristorante_l__angoletto_40.4962_17.6415,Ristorante L' angoletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/ristorante_l_angoletto_40.4962_17.6415.json,custom
+40.496974,17.640073,ov_akropolis_40.4970_17.6401,Akropolis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/akropolis_40.4970_17.6401.json,custom
+40.497406,17.639454,ov_speedy_cart_40.4974_17.6395,Speedy Cart,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/speedy_cart_40.4974_17.6395.json,custom
+40.498281,17.640096,ov_bella_vista_40.4983_17.6401,Bella vista,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/bella_vista_40.4983_17.6401.json,custom
+40.500280,17.638100,ov_parco_laurito_sala_ricevimenti_40.5003_17.6381,Parco Laurito Sala Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/parco_laurito_sala_ricevimenti_40.5003_17.6381.json,custom
+40.499588,17.638961,ov_frantoio_oleario_italiano_vittorio__il_f_40.4996_17.6390,"Frantoio Oleario Italiano Vittorio, il Frantoio Tradizionale",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/frantoio_oleario_italiano_vittorio_il_fr_40.4996_17.6390.json,custom
+40.499711,17.643317,ov_il_creatore_40.4997_17.6433,Il Creatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/il_creatore_40.4997_17.6433.json,custom
+40.499893,17.643382,ov_il_rugantino_40.4999_17.6434,Il Rugantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/il_rugantino_40.4999_17.6434.json,custom
+40.500192,17.643794,ov_ristorante_caff__dec__40.5002_17.6438,Ristorante Caffè Decò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/ristorante_caff_dec_40.5002_17.6438.json,custom
+40.499903,17.643764,ov_la_tavernetta_da_francesco_piazza_lama_5_40.4999_17.6438,"La tavernetta da Francesco piazza lama 54Oria,BR",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/la_tavernetta_da_francesco_piazza_lama_5_40.4999_17.6438.json,custom
+40.499787,17.643574,ov_fuori_porta_pizzeria_40.4998_17.6436,Fuori Porta Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/fuori_porta_pizzeria_40.4998_17.6436.json,custom
+40.499396,17.645759,ov_la_corona_del_re_40.4994_17.6458,La Corona del Re,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/la_corona_del_re_40.4994_17.6458.json,custom
+40.499925,17.646619,ov_il_panzerotto_di_leo_agata_40.4999_17.6466,Il Panzerotto di Leo Agata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/il_panzerotto_di_leo_agata_40.4999_17.6466.json,custom
+40.500379,17.647450,ov_la_dolce_venere_40.5004_17.6475,La Dolce Venere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/la_dolce_venere_40.5004_17.6475.json,custom
+40.501729,17.645408,ov_il_saraceno_40.5017_17.6454,Il Saraceno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/il_saraceno_40.5017_17.6454.json,custom
+40.501128,17.644427,ov_i_gemelli_40.5011_17.6444,I Gemelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/i_gemelli_40.5011_17.6444.json,custom
+40.502718,17.645289,ov_rin__40.5027_17.6453,Rinù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/rin_40.5027_17.6453.json,custom
+40.502821,17.645215,ov_la_ghianda_40.5028_17.6452,La Ghianda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/la_ghianda_40.5028_17.6452.json,custom
+40.504533,17.649466,ov_oleifici_masiello_s_n_c_40.5045_17.6495,Oleifici masiello s.n.c,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/oleifici_masiello_snc_40.5045_17.6495.json,custom
+40.507120,17.650270,ov_wine_shop_40.5071_17.6503,Wine Shop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/wine_shop_40.5071_17.6503.json,custom
+40.477337,17.609309,ov_l_angoletto_di_laurito_40.4773_17.6093,L'Angoletto di Laurito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/langoletto_di_laurito_40.4773_17.6093.json,custom
+40.531494,17.656305,ov_hortus_agrobistrot_40.5315_17.6563,Hortus Agrobistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/hortus_agrobistrot_40.5315_17.6563.json,custom
+40.498406,17.643515,osm_wine_shop_la_saletta_40.4984_17.6435,Wine Shop La Saletta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/wine_shop_la_saletta_40.4984_17.6435.json,custom
+40.477156,17.609483,osm_l__angoletto_di_laurito_40.4772_17.6095,L' Angoletto di Laurito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/l_angoletto_di_laurito_40.4772_17.6095.json,custom
+40.478358,17.608922,osm_parco_laurito_ricevimenti_40.4784_17.6089,Parco Laurito Ricevimenti,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/parco_laurito_ricevimenti_40.4784_17.6089.json,custom
+40.477146,17.609533,osm_l__angoletto_di_laurito_40.4771_17.6095,L' Angoletto di Laurito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/l_angoletto_di_laurito_40.4771_17.6095.json,custom

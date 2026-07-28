@@ -1,109 +1,104 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # porto_cesareo -- restaurants
-40.258474,17.892525,osm_da_antimo_40.2585_17.8925,Da Antimo,ristorante,ristorante
-40.231677,17.921947,osm_la_capannella_40.2317_17.9219,La Capannella,ristorante,ristorante
-40.288013,17.849287,osm_pescheria_3_0_40.2880_17.8493,Pescheria 3.0,ristorante,ristorante
-40.287920,17.848802,osm_matados_40.2879_17.8488,Matados,ristorante,ristorante
-40.259931,17.892260,osm_il_porticciolo_40.2599_17.8923,Il Porticciolo,ristorante,ristorante
-40.286717,17.851185,osm_solaris_torre_lapillo_40.2867_17.8512,Solaris Torre Lapillo,ristorante,ristorante
-40.257121,17.892880,osm_lu_cannizzu_40.2571_17.8929,Lu Cannizzu,ristorante,ristorante
-40.257519,17.892114,osm_pizza_a_metro_40.2575_17.8921,Pizza a Metro,ristorante,ristorante
-40.257840,17.892158,osm_meeting_40.2578_17.8922,Meeting,ristorante,ristorante
-40.258029,17.892391,osm_coccinella_40.2580_17.8924,Coccinella,ristorante,ristorante
-40.258306,17.892253,osm_la_bussola_40.2583_17.8923,La Bussola,ristorante,ristorante
-40.258200,17.892612,osm_parthenope_2_0_40.2582_17.8926,Parthenope 2.0,ristorante,ristorante
-40.259373,17.894041,osm_l_aragosta_da_c__40.2594_17.8940,L'Aragosta da Cò,ristorante,ristorante
-40.257532,17.891225,osm_puertu_picciu_40.2575_17.8912,Puertu Picciu,ristorante,ristorante
-40.272436,17.879012,osm_le_dune_40.2724_17.8790,Le Dune,ristorante,ristorante
-40.256914,17.891391,osm_al_gambero_40.2569_17.8914,Al gambero,ristorante,ristorante
-40.294178,17.855134,osm_l_angolo_di_beppe_ristorante_40.2942_17.8551,L'Angolo di Beppe Ristorante,ristorante,ristorante
-40.287620,17.847379,osm_fuoco_e_fiamme_40.2876_17.8474,Fuoco e Fiamme,ristorante,ristorante
-40.248320,17.911980,ov_ristorante___il_veliero__porto_cesareo_40.2483_17.9120,Ristorante   Il Veliero  Porto Cesareo,RESTAURANT,ristorante
-40.243164,17.914180,ov_la_strea_friggitoria___porto_cesareo_40.2432_17.9142,La Strea Friggitoria - Porto Cesareo,RESTAURANT,ristorante
-40.243268,17.914294,ov_chef_in_pescheria_40.2433_17.9143,Chef in Pescheria,RESTAURANT,ristorante
-40.247373,17.917819,ov_le_zagare_40.2474_17.9178,Le Zagare,RESTAURANT,ristorante
-40.282641,17.841117,ov_orchidea_marina_40.2826_17.8411,Orchidea Marina,RESTAURANT,ristorante
-40.281380,17.841529,ov_mare_fritto_40.2814_17.8415,Mare Fritto,RESTAURANT,ristorante
-40.275484,17.871643,ov_mordi_e_fuggi_pizzeria_40.2755_17.8716,Mordi e fuggi Pizzeria,RESTAURANT,ristorante
-40.286806,17.851194,ov_pensione_solaris_40.2868_17.8512,Pensione Solaris,RESTAURANT,ristorante
-40.286347,17.848231,ov_risto_bistro_caribia_40.2863_17.8482,Risto Bistro Caribia,RESTAURANT,ristorante
-40.287513,17.847421,ov_fuoco_e_fiamme_40.2875_17.8474,Fuoco E Fiamme,RESTAURANT,ristorante
-40.287571,17.850247,ov_poisson_40.2876_17.8502,Poisson,RESTAURANT,ristorante
-40.287983,17.849268,ov_pescheria_3_0_40.2880_17.8493,Pescheria 3.0,RESTAURANT,ristorante
-40.287806,17.849049,ov_pulcinella_40.2878_17.8490,Pulcinella,RESTAURANT,ristorante
-40.287899,17.848852,ov_matados_pizzeria_40.2879_17.8489,Matados Pizzeria,RESTAURANT,ristorante
-40.288009,17.848405,ov_kaila_bistr__40.2880_17.8484,Kaila Bistró,RESTAURANT,ristorante
-40.288565,17.852556,ov_punto_g_bistrot_40.2886_17.8526,Punto G Bistrot,RESTAURANT,ristorante
-40.288442,17.851402,ov_gegge_friggitoria_gastronomia_40.2884_17.8514,Gegge Friggitoria Gastronomia,RESTAURANT,ristorante
-40.287804,17.855571,ov_ristorante_pizzeria_torre_lapillo_40.2878_17.8556,Ristorante Pizzeria Torre Lapillo,RESTAURANT,ristorante
-40.292250,17.867790,ov_kaila_bistr__40.2923_17.8678,Kaila bistró,RESTAURANT,ristorante
-40.290852,17.853025,ov_voglia_di_mordere_40.2909_17.8530,Voglia_Di_Mordere,RESTAURANT,ristorante
-40.293775,17.854676,ov_l_angolo_di_beppe_40.2938_17.8547,L'Angolo di Beppe,RESTAURANT,ristorante
-40.287076,17.845784,ov_terrazza_nove_40.2871_17.8458,Terrazza Nove,RESTAURANT,ristorante
-40.286411,17.844505,ov_timme_tie_40.2864_17.8445,Timme Tie,RESTAURANT,ristorante
-40.286470,17.843382,ov_i_vinai_40.2865_17.8434,I Vinai,RESTAURANT,ristorante
-40.288261,17.837522,ov_ristorante_lu_puzzu___torre_lapillo___40.2883_17.8375,Ristorante Lu Puzzu ( Torre Lapillo ),RESTAURANT,ristorante
-40.295015,17.795964,ov_il_corallo_40.2950_17.7960,Il corallo,RESTAURANT,ristorante
-40.295173,17.784905,ov_il_graffio_40.2952_17.7849,Il Graffio,RESTAURANT,ristorante
-40.294507,17.764299,ov_l_ancora_40.2945_17.7643,L'Ancora,RESTAURANT,ristorante
-40.294388,17.766741,ov_punta_prosciutto_riva_beach_salento_40.2944_17.7667,Punta Prosciutto Riva Beach Salento,RESTAURANT,ristorante
-40.302367,17.834371,ov_masseria_tenuta_quintino_40.3024_17.8344,Masseria Tenuta Quintino,RESTAURANT,ristorante
-40.297180,17.816720,ov_shadak_sala_ricevimenti_40.2972_17.8167,Shadak Sala Ricevimenti,RESTAURANT,ristorante
-40.298754,17.857076,ov_ristorante_tipico___da_arneo_40.2988_17.8571,Ristorante Tipico   Da Arneo,RESTAURANT,ristorante
-40.326138,17.892096,ov_agriturismo_torre_del_cardo_40.3261_17.8921,Agriturismo Torre del Cardo,RESTAURANT,ristorante
-40.274464,17.882832,ov_la_piscina___ristorante_club_azzurro_40.2745_17.8828,La Piscina - Ristorante Club Azzurro,RESTAURANT,ristorante
-40.272477,17.879214,ov_aqua___dune_restaurant_40.2725_17.8792,Aqua - Dune Restaurant,RESTAURANT,ristorante
-40.266752,17.884724,ov_kalura_40.2668_17.8847,Kalura,RESTAURANT,ristorante
-40.265847,17.885160,ov_fly_sunset_emotion_40.2658_17.8852,Fly Sunset Emotion,RESTAURANT,ristorante
-40.262340,17.888776,ov_ristorante_bella_costa___porto_cesareo_40.2623_17.8888,Ristorante Bella Costa - Porto Cesareo,RESTAURANT,ristorante
-40.264182,17.888770,ov_le_capriate_ristorante_40.2642_17.8888,Le Capriate Ristorante,RESTAURANT,ristorante
-40.264155,17.900223,ov_ristorante_sciapo_40.2642_17.9002,Ristorante Sciapo,RESTAURANT,ristorante
-40.266626,17.897249,ov_l_arco_dei_sapori_friggitoria_gastronomi_40.2666_17.8972,L'arco DEI Sapori.friggitoria-Gastronomia Tipica,RESTAURANT,ristorante
-40.263048,17.902310,ov_le_darsene_40.2630_17.9023,Le Darsene,RESTAURANT,ristorante
-40.259003,17.893814,ov_coccinella_street_food_40.2590_17.8938,Coccinella street food,RESTAURANT,ristorante
-40.259399,17.894021,ov_l_aragosta_da_co_40.2594_17.8940,L'Aragosta da Co,RESTAURANT,ristorante
-40.259556,17.893908,ov_l__angolo_del_gusto_porto_cesareo_40.2596_17.8939,L' Angolo del Gusto Porto Cesareo,RESTAURANT,ristorante
-40.259731,17.893605,ov_la_piovra_40.2597_17.8936,La Piovra,RESTAURANT,ristorante
-40.260888,17.895214,ov_classic_burger_40.2609_17.8952,Classic Burger,RESTAURANT,ristorante
-40.261809,17.890177,ov_osteria_regina_40.2618_17.8902,Osteria Regina,RESTAURANT,ristorante
-40.261896,17.889407,ov_grecale_ristorante_hotel_40.2619_17.8894,Grecale Ristorante Hotel,RESTAURANT,ristorante
-40.260129,17.892635,ov_sushi_porto_cesareo_40.2601_17.8926,Sushi Porto Cesareo,RESTAURANT,ristorante
-40.260064,17.892287,ov_l_angolo_di_cloe_40.2601_17.8923,L'angolo di Cloe,RESTAURANT,ristorante
-40.260005,17.891996,ov_riviera_bar_restaurant_40.2600_17.8920,Riviera Bar Restaurant,RESTAURANT,ristorante
-40.260363,17.891180,ov_ristorante_cosimino_40.2604_17.8912,Ristorante Cosimino,RESTAURANT,ristorante
-40.260600,17.890768,ov_la_pecora_nera_ristorante___pizzeria___l_40.2606_17.8908,La Pecora Nera Ristorante - Pizzeria - LongeBar//Porto Cesar,RESTAURANT,ristorante
-40.260535,17.890718,ov_soho_loungebar_burger_caf__40.2605_17.8907,SOHO loungebar burger cafè,RESTAURANT,ristorante
-40.261821,17.888741,ov_break_stop_fast_food_40.2618_17.8887,BREAK STOP Fast Food,RESTAURANT,ristorante
-40.259538,17.892115,ov_al_settimo_gelo_40.2595_17.8921,Al Settimo Gelo,RESTAURANT,ristorante
-40.259380,17.891958,ov_baia_dei_pirati_porto_cesareo_40.2594_17.8920,Baia Dei Pirati Porto Cesareo,RESTAURANT,ristorante
-40.259567,17.892898,ov_cento_ducati_trattoria_40.2596_17.8929,Cento Ducati Trattoria,RESTAURANT,ristorante
-40.258657,17.892595,ov_creperia_driade_40.2587_17.8926,Creperia Driade,RESTAURANT,ristorante
-40.258565,17.892523,ov_le_arcate_40.2586_17.8925,Le Arcate,RESTAURANT,ristorante
-40.258768,17.892595,ov_la_viola_40.2588_17.8926,La Viola,RESTAURANT,ristorante
-40.258465,17.891702,ov_felix_ristorante_pizzeria_40.2585_17.8917,Felix Ristorante-Pizzeria,RESTAURANT,ristorante
-40.258318,17.892038,ov_pizzeria_la_tenta_40.2583_17.8920,Pizzeria La Tenta,RESTAURANT,ristorante
-40.258300,17.892280,ov_mani_e_core___ristorante_pizzeria_porto__40.2583_17.8923,Mani e Core - Ristorante Pizzeria Porto Cesareo,RESTAURANT,ristorante
-40.258441,17.892517,ov_da_antimo_40.2584_17.8925,Da Antimo,RESTAURANT,ristorante
-40.258412,17.893176,ov_la_tavernetta___braceria_40.2584_17.8932,La Tavernetta - Braceria,RESTAURANT,ristorante
-40.258399,17.893142,ov_sottocoperta_40.2584_17.8931,Sottocoperta,RESTAURANT,ristorante
-40.258254,17.893102,ov_vaste_927_40.2583_17.8931,Vaste 927,RESTAURANT,ristorante
-40.258223,17.893102,ov_fisheria_40.2582_17.8931,Fisheria,RESTAURANT,ristorante
-40.258122,17.892587,ov_pizzeria_parthenope_2_0_40.2581_17.8926,Pizzeria Parthenope 2.0,RESTAURANT,ristorante
-40.258136,17.892500,ov_salento_crepes_40.2581_17.8925,Salento Crepes,RESTAURANT,ristorante
-40.258091,17.892492,ov_osteria_29_40.2581_17.8925,Osteria 29,RESTAURANT,ristorante
-40.258078,17.892400,ov_coccinella_ristorante_pizzeria_40.2581_17.8924,Coccinella ristorante pizzeria,RESTAURANT,ristorante
-40.257919,17.893093,ov_ristorante_almanegra_porto_cesareo_40.2579_17.8931,Ristorante Almanegra Porto Cesareo,RESTAURANT,ristorante
-40.257685,17.892927,ov_al_grottino_40.2577_17.8929,Al Grottino,RESTAURANT,ristorante
-40.257670,17.892776,ov_pescheria_la_medusa_40.2577_17.8928,Pescheria La Medusa,RESTAURANT,ristorante
-40.257511,17.892148,ov_pizza_a_metro_40.2575_17.8921,Pizza a Metro,RESTAURANT,ristorante
-40.257885,17.892225,ov_meeting_trattoria_pizzeria_40.2579_17.8922,Meeting Trattoria Pizzeria,RESTAURANT,ristorante
-40.258125,17.892174,ov_ristorante_pizzeria_da_tonino_40.2581_17.8922,Ristorante Pizzeria da Tonino,RESTAURANT,ristorante
-40.258170,17.891357,ov_pizzeria_braceria_la_terrazza_40.2582_17.8914,Pizzeria Braceria La Terrazza,RESTAURANT,ristorante
-40.258134,17.891085,ov_toto_snack_40.2581_17.8911,Toto Snack,RESTAURANT,ristorante
-40.257728,17.891144,ov_osteria_il_rifugio_del_naufrago_40.2577_17.8911,Osteria Il Rifugio del Naufrago,RESTAURANT,ristorante
-40.256999,17.891433,ov_ristorante_al_gambero_40.2570_17.8914,Ristorante Al Gambero,RESTAURANT,ristorante
-40.257100,17.892932,ov_lu_cannizzu_40.2571_17.8929,Lu Cannizzu,RESTAURANT,ristorante
-40.255357,17.891581,ov_il_ristorante_dell_isola_40.2554_17.8916,Il Ristorante dell'Isola,RESTAURANT,ristorante
-40.255608,17.905226,ov_villa_marincanto_40.2556_17.9052,Villa Marincanto,RESTAURANT,ristorante
-40.256046,17.905542,ov_le_darsene_pizzeria_ristorante_40.2560_17.9055,Le Darsene Pizzeria Ristorante,RESTAURANT,ristorante
-40.256645,17.925248,ov_poesia___grotta_saracena___ristorante____40.2566_17.9252,Poesia - Grotta Saracena - Ristorante / Pizzeria,RESTAURANT,ristorante
+40.248320,17.911980,ov_ristorante___il_veliero__porto_cesareo_40.2483_17.9120,Ristorante   Il Veliero  Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_il_veliero_porto_cesareo_40.2483_17.9120.json,custom
+40.243164,17.914180,ov_la_strea_friggitoria___porto_cesareo_40.2432_17.9142,La Strea Friggitoria - Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_strea_friggitoria_-_porto_cesareo_40.2432_17.9142.json,custom
+40.243268,17.914294,ov_chef_in_pescheria_40.2433_17.9143,Chef in Pescheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/chef_in_pescheria_40.2433_17.9143.json,custom
+40.247373,17.917819,ov_le_zagare_40.2474_17.9178,Le Zagare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_zagare_40.2474_17.9178.json,custom
+40.282641,17.841117,ov_orchidea_marina_40.2826_17.8411,Orchidea Marina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/orchidea_marina_40.2826_17.8411.json,custom
+40.281380,17.841529,ov_mare_fritto_40.2814_17.8415,Mare Fritto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/mare_fritto_40.2814_17.8415.json,custom
+40.275484,17.871643,ov_mordi_e_fuggi_pizzeria_40.2755_17.8716,Mordi e fuggi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/mordi_e_fuggi_pizzeria_40.2755_17.8716.json,custom
+40.286806,17.851194,ov_pensione_solaris_40.2868_17.8512,Pensione Solaris,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pensione_solaris_40.2868_17.8512.json,custom
+40.286347,17.848231,ov_risto_bistro_caribia_40.2863_17.8482,Risto Bistro Caribia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/risto_bistro_caribia_40.2863_17.8482.json,custom
+40.287513,17.847421,ov_fuoco_e_fiamme_40.2875_17.8474,Fuoco E Fiamme,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/fuoco_e_fiamme_40.2875_17.8474.json,custom
+40.287571,17.850247,ov_poisson_40.2876_17.8502,Poisson,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/poisson_40.2876_17.8502.json,custom
+40.287983,17.849268,ov_pescheria_3_0_40.2880_17.8493,Pescheria 3.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pescheria_30_40.2880_17.8493.json,custom
+40.287806,17.849049,ov_pulcinella_40.2878_17.8490,Pulcinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pulcinella_40.2878_17.8490.json,custom
+40.287899,17.848852,ov_matados_pizzeria_40.2879_17.8489,Matados Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/matados_pizzeria_40.2879_17.8489.json,custom
+40.288009,17.848405,ov_kaila_bistr__40.2880_17.8484,Kaila Bistró,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/kaila_bistr_40.2880_17.8484.json,custom
+40.288565,17.852556,ov_punto_g_bistrot_40.2886_17.8526,Punto G Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/punto_g_bistrot_40.2886_17.8526.json,custom
+40.288442,17.851402,ov_gegge_friggitoria_gastronomia_40.2884_17.8514,Gegge Friggitoria Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/gegge_friggitoria_gastronomia_40.2884_17.8514.json,custom
+40.287804,17.855571,ov_ristorante_pizzeria_torre_lapillo_40.2878_17.8556,Ristorante Pizzeria Torre Lapillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_pizzeria_torre_lapillo_40.2878_17.8556.json,custom
+40.292250,17.867790,ov_kaila_bistr__40.2923_17.8678,Kaila bistró,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/kaila_bistr_40.2923_17.8678.json,custom
+40.290852,17.853025,ov_voglia_di_mordere_40.2909_17.8530,Voglia_Di_Mordere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/vogliadimordere_40.2909_17.8530.json,custom
+40.293775,17.854676,ov_l_angolo_di_beppe_40.2938_17.8547,L'Angolo di Beppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/langolo_di_beppe_40.2938_17.8547.json,custom
+40.287076,17.845784,ov_terrazza_nove_40.2871_17.8458,Terrazza Nove,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/terrazza_nove_40.2871_17.8458.json,custom
+40.286411,17.844505,ov_timme_tie_40.2864_17.8445,Timme Tie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/timme_tie_40.2864_17.8445.json,custom
+40.286470,17.843382,ov_i_vinai_40.2865_17.8434,I Vinai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/i_vinai_40.2865_17.8434.json,custom
+40.288261,17.837522,ov_ristorante_lu_puzzu___torre_lapillo___40.2883_17.8375,Ristorante Lu Puzzu ( Torre Lapillo ),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_lu_puzzu_torre_lapillo__40.2883_17.8375.json,custom
+40.295015,17.795964,ov_il_corallo_40.2950_17.7960,Il corallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/il_corallo_40.2950_17.7960.json,custom
+40.295173,17.784905,ov_il_graffio_40.2952_17.7849,Il Graffio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/il_graffio_40.2952_17.7849.json,custom
+40.294507,17.764299,ov_l_ancora_40.2945_17.7643,L'Ancora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/lancora_40.2945_17.7643.json,custom
+40.294388,17.766741,ov_punta_prosciutto_riva_beach_salento_40.2944_17.7667,Punta Prosciutto Riva Beach Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/punta_prosciutto_riva_beach_salento_40.2944_17.7667.json,custom
+40.302367,17.834371,ov_masseria_tenuta_quintino_40.3024_17.8344,Masseria Tenuta Quintino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/masseria_tenuta_quintino_40.3024_17.8344.json,custom
+40.297180,17.816720,ov_shadak_sala_ricevimenti_40.2972_17.8167,Shadak Sala Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/shadak_sala_ricevimenti_40.2972_17.8167.json,custom
+40.298754,17.857076,ov_ristorante_tipico___da_arneo_40.2988_17.8571,Ristorante Tipico   Da Arneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_tipico_da_arneo_40.2988_17.8571.json,custom
+40.326138,17.892096,ov_agriturismo_torre_del_cardo_40.3261_17.8921,Agriturismo Torre del Cardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/agriturismo_torre_del_cardo_40.3261_17.8921.json,custom
+40.274464,17.882832,ov_la_piscina___ristorante_club_azzurro_40.2745_17.8828,La Piscina - Ristorante Club Azzurro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_piscina_-_ristorante_club_azzurro_40.2745_17.8828.json,custom
+40.272477,17.879214,ov_aqua___dune_restaurant_40.2725_17.8792,Aqua - Dune Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/aqua_-_dune_restaurant_40.2725_17.8792.json,custom
+40.266752,17.884724,ov_kalura_40.2668_17.8847,Kalura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/kalura_40.2668_17.8847.json,custom
+40.265847,17.885160,ov_fly_sunset_emotion_40.2658_17.8852,Fly Sunset Emotion,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/fly_sunset_emotion_40.2658_17.8852.json,custom
+40.262340,17.888776,ov_ristorante_bella_costa___porto_cesareo_40.2623_17.8888,Ristorante Bella Costa - Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_bella_costa_-_porto_cesareo_40.2623_17.8888.json,custom
+40.264182,17.888770,ov_le_capriate_ristorante_40.2642_17.8888,Le Capriate Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_capriate_ristorante_40.2642_17.8888.json,custom
+40.264155,17.900223,ov_ristorante_sciapo_40.2642_17.9002,Ristorante Sciapo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_sciapo_40.2642_17.9002.json,custom
+40.266626,17.897249,ov_l_arco_dei_sapori_friggitoria_gastronomi_40.2666_17.8972,L'arco DEI Sapori.friggitoria-Gastronomia Tipica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/larco_dei_saporifriggitoria-gastronomia__40.2666_17.8972.json,custom
+40.263048,17.902310,ov_le_darsene_40.2630_17.9023,Le Darsene,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_darsene_40.2630_17.9023.json,custom
+40.259003,17.893814,ov_coccinella_street_food_40.2590_17.8938,Coccinella street food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/coccinella_street_food_40.2590_17.8938.json,custom
+40.259399,17.894021,ov_l_aragosta_da_co_40.2594_17.8940,L'Aragosta da Co,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/laragosta_da_co_40.2594_17.8940.json,custom
+40.259556,17.893908,ov_l__angolo_del_gusto_porto_cesareo_40.2596_17.8939,L' Angolo del Gusto Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/l_angolo_del_gusto_porto_cesareo_40.2596_17.8939.json,custom
+40.259731,17.893605,ov_la_piovra_40.2597_17.8936,La Piovra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_piovra_40.2597_17.8936.json,custom
+40.260888,17.895214,ov_classic_burger_40.2609_17.8952,Classic Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/classic_burger_40.2609_17.8952.json,custom
+40.261809,17.890177,ov_osteria_regina_40.2618_17.8902,Osteria Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/osteria_regina_40.2618_17.8902.json,custom
+40.261896,17.889407,ov_grecale_ristorante_hotel_40.2619_17.8894,Grecale Ristorante Hotel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/grecale_ristorante_hotel_40.2619_17.8894.json,custom
+40.260129,17.892635,ov_sushi_porto_cesareo_40.2601_17.8926,Sushi Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/sushi_porto_cesareo_40.2601_17.8926.json,custom
+40.260064,17.892287,ov_l_angolo_di_cloe_40.2601_17.8923,L'angolo di Cloe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/langolo_di_cloe_40.2601_17.8923.json,custom
+40.260005,17.891996,ov_riviera_bar_restaurant_40.2600_17.8920,Riviera Bar Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/riviera_bar_restaurant_40.2600_17.8920.json,custom
+40.260363,17.891180,ov_ristorante_cosimino_40.2604_17.8912,Ristorante Cosimino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_cosimino_40.2604_17.8912.json,custom
+40.260600,17.890768,ov_la_pecora_nera_ristorante___pizzeria___l_40.2606_17.8908,La Pecora Nera Ristorante - Pizzeria - LongeBar//Porto Cesar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_pecora_nera_ristorante_-_pizzeria_-_l_40.2606_17.8908.json,custom
+40.260535,17.890718,ov_soho_loungebar_burger_caf__40.2605_17.8907,SOHO loungebar burger cafè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/soho_loungebar_burger_caf_40.2605_17.8907.json,custom
+40.261821,17.888741,ov_break_stop_fast_food_40.2618_17.8887,BREAK STOP Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/break_stop_fast_food_40.2618_17.8887.json,custom
+40.259538,17.892115,ov_al_settimo_gelo_40.2595_17.8921,Al Settimo Gelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/al_settimo_gelo_40.2595_17.8921.json,custom
+40.259380,17.891958,ov_baia_dei_pirati_porto_cesareo_40.2594_17.8920,Baia Dei Pirati Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/baia_dei_pirati_porto_cesareo_40.2594_17.8920.json,custom
+40.259567,17.892898,ov_cento_ducati_trattoria_40.2596_17.8929,Cento Ducati Trattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/cento_ducati_trattoria_40.2596_17.8929.json,custom
+40.258657,17.892595,ov_creperia_driade_40.2587_17.8926,Creperia Driade,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/creperia_driade_40.2587_17.8926.json,custom
+40.258565,17.892523,ov_le_arcate_40.2586_17.8925,Le Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_arcate_40.2586_17.8925.json,custom
+40.258768,17.892595,ov_la_viola_40.2588_17.8926,La Viola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_viola_40.2588_17.8926.json,custom
+40.258465,17.891702,ov_felix_ristorante_pizzeria_40.2585_17.8917,Felix Ristorante-Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/felix_ristorante-pizzeria_40.2585_17.8917.json,custom
+40.258318,17.892038,ov_pizzeria_la_tenta_40.2583_17.8920,Pizzeria La Tenta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pizzeria_la_tenta_40.2583_17.8920.json,custom
+40.258300,17.892280,ov_mani_e_core___ristorante_pizzeria_porto__40.2583_17.8923,Mani e Core - Ristorante Pizzeria Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/mani_e_core_-_ristorante_pizzeria_porto__40.2583_17.8923.json,custom
+40.258441,17.892517,ov_da_antimo_40.2584_17.8925,Da Antimo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/da_antimo_40.2584_17.8925.json,custom
+40.258412,17.893176,ov_la_tavernetta___braceria_40.2584_17.8932,La Tavernetta - Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_tavernetta_-_braceria_40.2584_17.8932.json,custom
+40.258399,17.893142,ov_sottocoperta_40.2584_17.8931,Sottocoperta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/sottocoperta_40.2584_17.8931.json,custom
+40.258254,17.893102,ov_vaste_927_40.2583_17.8931,Vaste 927,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/vaste_927_40.2583_17.8931.json,custom
+40.258223,17.893102,ov_fisheria_40.2582_17.8931,Fisheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/fisheria_40.2582_17.8931.json,custom
+40.258122,17.892587,ov_pizzeria_parthenope_2_0_40.2581_17.8926,Pizzeria Parthenope 2.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pizzeria_parthenope_20_40.2581_17.8926.json,custom
+40.258136,17.892500,ov_salento_crepes_40.2581_17.8925,Salento Crepes,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/salento_crepes_40.2581_17.8925.json,custom
+40.258091,17.892492,ov_osteria_29_40.2581_17.8925,Osteria 29,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/osteria_29_40.2581_17.8925.json,custom
+40.258078,17.892400,ov_coccinella_ristorante_pizzeria_40.2581_17.8924,Coccinella ristorante pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/coccinella_ristorante_pizzeria_40.2581_17.8924.json,custom
+40.257919,17.893093,ov_ristorante_almanegra_porto_cesareo_40.2579_17.8931,Ristorante Almanegra Porto Cesareo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_almanegra_porto_cesareo_40.2579_17.8931.json,custom
+40.257685,17.892927,ov_al_grottino_40.2577_17.8929,Al Grottino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/al_grottino_40.2577_17.8929.json,custom
+40.257670,17.892776,ov_pescheria_la_medusa_40.2577_17.8928,Pescheria La Medusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pescheria_la_medusa_40.2577_17.8928.json,custom
+40.257511,17.892148,ov_pizza_a_metro_40.2575_17.8921,Pizza a Metro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pizza_a_metro_40.2575_17.8921.json,custom
+40.257885,17.892225,ov_meeting_trattoria_pizzeria_40.2579_17.8922,Meeting Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/meeting_trattoria_pizzeria_40.2579_17.8922.json,custom
+40.258125,17.892174,ov_ristorante_pizzeria_da_tonino_40.2581_17.8922,Ristorante Pizzeria da Tonino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_pizzeria_da_tonino_40.2581_17.8922.json,custom
+40.258170,17.891357,ov_pizzeria_braceria_la_terrazza_40.2582_17.8914,Pizzeria Braceria La Terrazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/pizzeria_braceria_la_terrazza_40.2582_17.8914.json,custom
+40.258134,17.891085,ov_toto_snack_40.2581_17.8911,Toto Snack,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/toto_snack_40.2581_17.8911.json,custom
+40.257728,17.891144,ov_osteria_il_rifugio_del_naufrago_40.2577_17.8911,Osteria Il Rifugio del Naufrago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/osteria_il_rifugio_del_naufrago_40.2577_17.8911.json,custom
+40.256999,17.891433,ov_ristorante_al_gambero_40.2570_17.8914,Ristorante Al Gambero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/ristorante_al_gambero_40.2570_17.8914.json,custom
+40.257100,17.892932,ov_lu_cannizzu_40.2571_17.8929,Lu Cannizzu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/lu_cannizzu_40.2571_17.8929.json,custom
+40.255357,17.891581,ov_il_ristorante_dell_isola_40.2554_17.8916,Il Ristorante dell'Isola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/il_ristorante_dellisola_40.2554_17.8916.json,custom
+40.255608,17.905226,ov_villa_marincanto_40.2556_17.9052,Villa Marincanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/villa_marincanto_40.2556_17.9052.json,custom
+40.256046,17.905542,ov_le_darsene_pizzeria_ristorante_40.2560_17.9055,Le Darsene Pizzeria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_darsene_pizzeria_ristorante_40.2560_17.9055.json,custom
+40.256645,17.925248,ov_poesia___grotta_saracena___ristorante____40.2566_17.9252,Poesia - Grotta Saracena - Ristorante / Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/poesia_-_grotta_saracena_-_ristorante_pi_40.2566_17.9252.json,custom
+40.231677,17.921947,osm_la_capannella_40.2317_17.9219,La Capannella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_capannella_40.2317_17.9219.json,custom
+40.287920,17.848802,osm_matados_40.2879_17.8488,Matados,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/matados_40.2879_17.8488.json,custom
+40.259931,17.892260,osm_il_porticciolo_40.2599_17.8923,Il Porticciolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/il_porticciolo_40.2599_17.8923.json,custom
+40.286717,17.851185,osm_solaris_torre_lapillo_40.2867_17.8512,Solaris Torre Lapillo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/solaris_torre_lapillo_40.2867_17.8512.json,custom
+40.257840,17.892158,osm_meeting_40.2578_17.8922,Meeting,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/meeting_40.2578_17.8922.json,custom
+40.258029,17.892391,osm_coccinella_40.2580_17.8924,Coccinella,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/coccinella_40.2580_17.8924.json,custom
+40.258306,17.892253,osm_la_bussola_40.2583_17.8923,La Bussola,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/la_bussola_40.2583_17.8923.json,custom
+40.258200,17.892612,osm_parthenope_2_0_40.2582_17.8926,Parthenope 2.0,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/parthenope_20_40.2582_17.8926.json,custom
+40.259373,17.894041,osm_l_aragosta_da_c__40.2594_17.8940,L'Aragosta da Cò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/laragosta_da_c_40.2594_17.8940.json,custom
+40.257532,17.891225,osm_puertu_picciu_40.2575_17.8912,Puertu Picciu,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/puertu_picciu_40.2575_17.8912.json,custom
+40.272436,17.879012,osm_le_dune_40.2724_17.8790,Le Dune,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/le_dune_40.2724_17.8790.json,custom
+40.256914,17.891391,osm_al_gambero_40.2569_17.8914,Al gambero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/al_gambero_40.2569_17.8914.json,custom
+40.294178,17.855134,osm_l_angolo_di_beppe_ristorante_40.2942_17.8551,L'Angolo di Beppe Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/porto_cesareo/pages/langolo_di_beppe_ristorante_40.2942_17.8551.json,custom

@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lecce -- hospitals
-40.321919,18.134090,ov_istituto_calabrese_rete_salute_calabrese_40.3219_18.1341,Istituto Calabrese Rete Salute Calabrese,HOSPITAL,hospital
-40.340847,18.129304,ov_citt__di_lecce_40.3408_18.1293,Città di Lecce,HOSPITAL,hospital
-40.338693,18.121061,ov_emedea__la_nostra_famiglia_40.3387_18.1211,Emedea  La Nostra Famiglia,HOSPITAL,hospital
-40.343529,18.177563,ov_ospedale_vecchio_galateo_40.3435_18.1776,Ospedale Vecchio Galateo,HOSPITAL,hospital
-40.329881,18.157474,ov_vito_fazzi_ospedale_lecce_40.3299_18.1575,Vito Fazzi Ospedale Lecce,HOSPITAL,hospital
-40.329728,18.161349,ov_oncologia_pediatrica_lecce_40.3297_18.1613,Oncologia Pediatrica Lecce,HOSPITAL,hospital
-40.355535,18.196515,ov_casa_di_cura_prof_petrucciani_40.3555_18.1965,Casa di Cura Prof.Petrucciani,HOSPITAL,hospital
-40.354009,18.186406,ov_istituto_di_fisioterapia_del_prof__monti_40.3540_18.1864,Istituto di Fisioterapia del prof. Montinari,HOSPITAL,hospital
-40.346068,18.185245,ov_medicina_dello_sport_lecce_40.3461_18.1852,Medicina dello sport Lecce,HOSPITAL,hospital
-40.344889,18.177488,ov_poliambulatorio_ex_vito_fazzi_40.3449_18.1775,Poliambulatorio Ex Vito Fazzi,HOSPITAL,hospital
-40.348500,18.163940,ov_centro_aidap_40.3485_18.1639,Centro AIDAP,HOSPITAL,hospital
-40.349805,18.174320,ov_monosi__amati_sas_studio_radiologico_40.3498_18.1743,Monosi- Amati SAS Studio Radiologico,HOSPITAL,hospital
-40.360882,18.152278,ov_psicoterapeuta_nadia_pisanello_40.3609_18.1523,Psicoterapeuta Nadia Pisanello,HOSPITAL,hospital
-40.366021,18.187569,ov_mauro_minelli_40.3660_18.1876,Mauro Minelli,HOSPITAL,hospital
+40.321919,18.134090,ov_istituto_calabrese_rete_salute_calabrese_40.3219_18.1341,Istituto Calabrese Rete Salute Calabrese,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/istituto_calabrese_rete_salute_calabrese_40.3219_18.1341.json,custom
+40.340847,18.129304,ov_citt__di_lecce_40.3408_18.1293,Città di Lecce,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/citt_di_lecce_40.3408_18.1293.json,custom
+40.338693,18.121061,ov_emedea__la_nostra_famiglia_40.3387_18.1211,Emedea  La Nostra Famiglia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/emedea_la_nostra_famiglia_40.3387_18.1211.json,custom
+40.343529,18.177563,ov_ospedale_vecchio_galateo_40.3435_18.1776,Ospedale Vecchio Galateo,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/ospedale_vecchio_galateo_40.3435_18.1776.json,custom
+40.329881,18.157474,ov_vito_fazzi_ospedale_lecce_40.3299_18.1575,Vito Fazzi Ospedale Lecce,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/vito_fazzi_ospedale_lecce_40.3299_18.1575.json,custom
+40.329728,18.161349,ov_oncologia_pediatrica_lecce_40.3297_18.1613,Oncologia Pediatrica Lecce,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/oncologia_pediatrica_lecce_40.3297_18.1613.json,custom
+40.355535,18.196515,ov_casa_di_cura_prof_petrucciani_40.3555_18.1965,Casa di Cura Prof.Petrucciani,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/casa_di_cura_profpetrucciani_40.3555_18.1965.json,custom
+40.354009,18.186406,ov_istituto_di_fisioterapia_del_prof__monti_40.3540_18.1864,Istituto di Fisioterapia del prof. Montinari,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/istituto_di_fisioterapia_del_prof_montin_40.3540_18.1864.json,custom
+40.346068,18.185245,ov_medicina_dello_sport_lecce_40.3461_18.1852,Medicina dello sport Lecce,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/medicina_dello_sport_lecce_40.3461_18.1852.json,custom
+40.344889,18.177488,ov_poliambulatorio_ex_vito_fazzi_40.3449_18.1775,Poliambulatorio Ex Vito Fazzi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/poliambulatorio_ex_vito_fazzi_40.3449_18.1775.json,custom
+40.348500,18.163940,ov_centro_aidap_40.3485_18.1639,Centro AIDAP,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/centro_aidap_40.3485_18.1639.json,custom
+40.349805,18.174320,ov_monosi__amati_sas_studio_radiologico_40.3498_18.1743,Monosi- Amati SAS Studio Radiologico,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/monosi-_amati_sas_studio_radiologico_40.3498_18.1743.json,custom
+40.360882,18.152278,ov_psicoterapeuta_nadia_pisanello_40.3609_18.1523,Psicoterapeuta Nadia Pisanello,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/psicoterapeuta_nadia_pisanello_40.3609_18.1523.json,custom
+40.366021,18.187569,ov_mauro_minelli_40.3660_18.1876,Mauro Minelli,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mauro_minelli_40.3660_18.1876.json,custom

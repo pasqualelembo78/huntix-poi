@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cannole -- restaurants
-40.166237,18.365737,osm_naif_ristogrill_40.1662_18.3657,Naif Ristogrill,ristorante,ristorante
-40.165487,18.368323,osm_zenzero_40.1655_18.3683,Zenzero,ristorante,ristorante
-40.166410,18.366740,ov_l_araba_fenice_40.1664_18.3667,L'Araba Fenice,RESTAURANT,ristorante
-40.166194,18.365747,ov_naif_40.1662_18.3657,Naif,RESTAURANT,ristorante
+40.166410,18.366740,ov_l_araba_fenice_40.1664_18.3667,L'Araba Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/laraba_fenice_40.1664_18.3667.json,custom
+40.166194,18.365747,ov_naif_40.1662_18.3657,Naif,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/naif_40.1662_18.3657.json,custom
+40.166237,18.365737,osm_naif_ristogrill_40.1662_18.3657,Naif Ristogrill,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/naif_ristogrill_40.1662_18.3657.json,custom
+40.165487,18.368323,osm_zenzero_40.1655_18.3683,Zenzero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/zenzero_40.1655_18.3683.json,custom

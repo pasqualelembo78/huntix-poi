@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Villammare -- Tutti
-40.075266,15.590715,osm_taverna_portosalvo_40.0753_15.5907,Taverna portosalvo,ristorante,ristorante
-40.075630,15.589832,osm_bar_gelateria_mascalzone_latino_40.0756_15.5898,Bar Gelateria Mascalzone Latino,bar_cafe,bar_cafe
+40.075266,15.590715,osm_taverna_portosalvo_40.0753_15.5907,Taverna portosalvo,ristorante,ristorante,
+40.075630,15.589832,osm_bar_gelateria_mascalzone_latino_40.0756_15.5898,Bar Gelateria Mascalzone Latino,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villammare/pages/bar_gelateria_mascalzone_latino_40.0756_15.5898.json,custom

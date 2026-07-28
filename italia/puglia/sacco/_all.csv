@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Sacco -- Tutti
-40.376713,15.380275,osm_l_uorto_40.3767_15.3803,L'Uorto,ristorante,ristorante
-40.381232,15.372423,osm_le_scintille_40.3812_15.3724,Le Scintille,ristorante,ristorante
-40.380989,15.372564,ov_le_scintille_40.3810_15.3726,Le Scintille,RESTAURANT,ristorante
-40.383730,15.428209,ov_rifugio_motola_40.3837_15.4282,Rifugio Motola,RESTAURANT,bar_cafe
+40.380989,15.372564,ov_le_scintille_40.3810_15.3726,Le Scintille,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sacco/pages/le_scintille_40.3810_15.3726.json,custom
+40.376713,15.380275,osm_l_uorto_40.3767_15.3803,L'Uorto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sacco/pages/luorto_40.3767_15.3803.json,custom
+40.381232,15.372423,osm_le_scintille_40.3812_15.3724,Le Scintille,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sacco/pages/le_scintille_40.3812_15.3724.json,custom
+40.383730,15.428209,ov_rifugio_motola_40.3837_15.4282,Rifugio Motola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/sacco/pages/rifugio_motola_40.3837_15.4282.json,custom

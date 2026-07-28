@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Roccaforzata -- Tutti
-40.434109,17.388033,ov_settimo_cielo_40.4341_17.3880,Settimo Cielo,RESTAURANT,ristorante
-40.436789,17.391012,ov_ristorante_il_pineta___roccaforzata_40.4368_17.3910,Ristorante Il Pineta - Roccaforzata,RESTAURANT,ristorante
-40.436916,17.391025,ov_la_pineta_40.4369_17.3910,La Pineta,RESTAURANT,ristorante
-40.438316,17.390175,ov_bar_pizzeria_enzo_corallo_40.4383_17.3902,Bar-Pizzeria Enzo Corallo,RESTAURANT,ristorante
-40.437155,17.390448,ov_go_west_saloon_40.4372_17.3904,Go West Saloon,RESTAURANT,ristorante
-40.436977,17.387328,ov_dolce_vita_cafe_40.4370_17.3873,Dolce Vita Cafe,RESTAURANT,bar_cafe
-40.435797,17.391685,ov_bar_lupin_40.4358_17.3917,BAR LUPIN,RESTAURANT,bar_cafe
-40.437243,17.390479,ov_noolas_40.4372_17.3905,Noolas,RESTAURANT,bar_cafe
+40.434109,17.388033,ov_settimo_cielo_40.4341_17.3880,Settimo Cielo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/settimo_cielo_40.4341_17.3880.json,custom
+40.436789,17.391012,ov_ristorante_il_pineta___roccaforzata_40.4368_17.3910,Ristorante Il Pineta - Roccaforzata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/ristorante_il_pineta_-_roccaforzata_40.4368_17.3910.json,custom
+40.436916,17.391025,ov_la_pineta_40.4369_17.3910,La Pineta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/la_pineta_40.4369_17.3910.json,custom
+40.438316,17.390175,ov_bar_pizzeria_enzo_corallo_40.4383_17.3902,Bar-Pizzeria Enzo Corallo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/bar-pizzeria_enzo_corallo_40.4383_17.3902.json,custom
+40.437155,17.390448,ov_go_west_saloon_40.4372_17.3904,Go West Saloon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/go_west_saloon_40.4372_17.3904.json,custom
+40.436977,17.387328,ov_dolce_vita_cafe_40.4370_17.3873,Dolce Vita Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/dolce_vita_cafe_40.4370_17.3873.json,custom
+40.435797,17.391685,ov_bar_lupin_40.4358_17.3917,BAR LUPIN,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/bar_lupin_40.4358_17.3917.json,custom
+40.437243,17.390479,ov_noolas_40.4372_17.3905,Noolas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roccaforzata/pages/noolas_40.4372_17.3905.json,custom

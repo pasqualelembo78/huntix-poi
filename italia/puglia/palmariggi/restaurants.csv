@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palmariggi -- restaurants
-40.133660,18.362902,osm_volivo_restaurant_40.1337_18.3629,Volivo Restaurant,ristorante,ristorante
-40.133549,18.362675,osm_secolario_natural_luxury_masseria_relais_40.1335_18.3627,Secolario Natural Luxury Masseria Relais,ristorante,ristorante
-40.129226,18.387951,ov_origano_osteria_40.1292_18.3880,Origano Osteria,RESTAURANT,ristorante
-40.132019,18.382937,ov_red_moon_40.1320_18.3829,Red Moon,RESTAURANT,ristorante
-40.130896,18.382170,ov_sciarabb__40.1309_18.3822,Sciarabbà,RESTAURANT,ristorante
+40.129226,18.387951,ov_origano_osteria_40.1292_18.3880,Origano Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/origano_osteria_40.1292_18.3880.json,custom
+40.132019,18.382937,ov_red_moon_40.1320_18.3829,Red Moon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/red_moon_40.1320_18.3829.json,custom
+40.130896,18.382170,ov_sciarabb__40.1309_18.3822,Sciarabbà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/sciarabb_40.1309_18.3822.json,custom
+40.133660,18.362902,osm_volivo_restaurant_40.1337_18.3629,Volivo Restaurant,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/volivo_restaurant_40.1337_18.3629.json,custom
+40.133549,18.362675,osm_secolario_natural_luxury_masseria_relais_40.1335_18.3627,Secolario Natural Luxury Masseria Relais,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palmariggi/pages/secolario_natural_luxury_masseria_relais_40.1335_18.3627.json,custom

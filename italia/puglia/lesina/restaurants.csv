@@ -1,42 +1,42 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lesina -- restaurants
-41.915646,15.328057,ov_ristorante_i_due_galli_41.9156_15.3281,Ristorante I Due Galli,RESTAURANT,ristorante
-41.916446,15.327670,ov_lido_albatross_ristorante_41.9164_15.3277,Lido Albatross Ristorante,RESTAURANT,ristorante
-41.916270,15.329025,ov_lido_la_sirena_41.9163_15.3290,Lido La Sirena,RESTAURANT,ristorante
-41.913190,15.325190,ov_masseria_cannella_41.9132_15.3252,Masseria Cannella,RESTAURANT,ristorante
-41.858630,15.291843,ov_piano_delle_vigne_41.8586_15.2918,Piano delle Vigne,RESTAURANT,ristorante
-41.856446,15.306441,ov_la_bufalara_resort_lesina_41.8564_15.3064,La Bufalara Resort Lesina,RESTAURANT,ristorante
-41.860930,15.272770,ov_piano_delle_vigne_41.8609_15.2728,Piano delle Vigne,RESTAURANT,ristorante
-41.860075,15.353463,ov_l_angolo_dei_matti_41.8601_15.3535,L'Angolo dei Matti,RESTAURANT,ristorante
-41.857823,15.356483,ov_la_conchiglia_41.8578_15.3565,La Conchiglia,RESTAURANT,ristorante
-41.859464,15.356440,ov_bisboccia_41.8595_15.3564,Bisboccia,RESTAURANT,ristorante
-41.864613,15.356893,ov_mood_experience_41.8646_15.3569,Mood Experience,RESTAURANT,ristorante
-41.862547,15.353823,ov_ugo_testa_41.8625_15.3538,Ugo Testa,RESTAURANT,ristorante
-41.863436,15.353159,ov_pizzamania_41.8634_15.3532,PizzaMania,RESTAURANT,ristorante
-41.863331,15.352951,ov_le_braci_41.8633_15.3530,Le Braci,RESTAURANT,ristorante
-41.864142,15.352699,ov_brakery89_41.8641_15.3527,Brakery89,RESTAURANT,ristorante
-41.864189,15.352631,ov_filome_41.8642_15.3526,Filome,RESTAURANT,ristorante
-41.865773,15.353064,ov_number_one_41.8658_15.3531,Number One,RESTAURANT,ristorante
-41.865152,15.354417,ov_le_antiche_sere_41.8652_15.3544,Le Antiche Sere,RESTAURANT,ristorante
-41.864727,15.349763,ov_la_bodeguita_del_lago_41.8647_15.3498,La Bodeguita del Lago,RESTAURANT,ristorante
-41.864810,15.350017,ov_la_terrazza_sfizi_e_tramonti_41.8648_15.3500,La terrazza sfizi e tramonti,RESTAURANT,ristorante
-41.864221,15.350129,ov_chiosco_della_villa_41.8642_15.3501,Chiosco della Villa,RESTAURANT,ristorante
-41.866504,15.351143,ov_la_cruna_del_lago_41.8665_15.3511,La Cruna del Lago,RESTAURANT,ristorante
-41.866701,15.352421,ov_bistro_41.8667_15.3524,Bistro,RESTAURANT,ristorante
-41.865257,15.351987,ov_la_grotta_delle_chianchette_41.8653_15.3520,La Grotta Delle Chianchette,RESTAURANT,ristorante
-41.865221,15.351307,ov_nonna_lina_41.8652_15.3513,Nonna Lina,RESTAURANT,ristorante
-41.865544,15.351631,ov_opus_art_event_41.8655_15.3516,Opus Art Event,RESTAURANT,ristorante
-41.863847,15.352584,ov_la_trave_41.8638_15.3526,La Trave,RESTAURANT,ristorante
-41.856638,15.348461,ov_carpe_diem_lesina_41.8566_15.3485,Carpe Diem lesina,RESTAURANT,ristorante
-41.894032,15.345562,ov_ristorante_bar_area_camper_e_picnic_acqu_41.8940_15.3456,Ristorante Bar Area Camper e Picnic Acquarotta,RESTAURANT,ristorante
-41.913717,15.331459,ov_bar___maraj__41.9137_15.3315,Bar Ò Marajà,RESTAURANT,ristorante
-41.913613,15.333341,ov_lido_rosa_rooms_41.9136_15.3333,Lido Rosa Rooms,RESTAURANT,ristorante
-41.913029,15.334150,ov_ristorante_pizzeria_kisskiss_di_popolo_m_41.9130_15.3341,RISTORANTE PIZZERIA KISSKISS di Popolo Marco,RESTAURANT,ristorante
-41.911530,15.337089,ov_bar_pizzeria_stella_marina_di_lesina_41.9115_15.3371,Bar-Pizzeria Stella Marina di Lesina,RESTAURANT,ristorante
-41.909530,15.337690,ov_ristorante_la_rosa_dei_venti_41.9095_15.3377,Ristorante La Rosa dei Venti,RESTAURANT,ristorante
-41.911919,15.335653,ov_acapulco2_ristorante_pizzeria_lesina_41.9119_15.3357,Acapulco2 Ristorante pizzeria lesina,RESTAURANT,ristorante
-41.912912,15.335447,ov_gastronomia_da_gino_41.9129_15.3354,Gastronomia da Gino,RESTAURANT,ristorante
-41.913082,15.335518,ov_pizze_e_sfizi_beach_41.9131_15.3355,Pizze e Sfizi Beach,RESTAURANT,ristorante
-41.912845,15.335481,ov_l_isola_del_gusto_41.9128_15.3355,L'Isola del Gusto,RESTAURANT,ristorante
-41.916220,15.333753,ov_lido_rosa_41.9162_15.3338,Lido Rosa,RESTAURANT,ristorante
-41.909842,15.346960,ov_lido_anna___beach_club___marina_di_lesin_41.9098_15.3470,Lido Anna - Beach Club - Marina di Lesina,RESTAURANT,ristorante
+41.915646,15.328057,ov_ristorante_i_due_galli_41.9156_15.3281,Ristorante I Due Galli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/ristorante_i_due_galli_41.9156_15.3281.json,custom
+41.916446,15.327670,ov_lido_albatross_ristorante_41.9164_15.3277,Lido Albatross Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lido_albatross_ristorante_41.9164_15.3277.json,custom
+41.916270,15.329025,ov_lido_la_sirena_41.9163_15.3290,Lido La Sirena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lido_la_sirena_41.9163_15.3290.json,custom
+41.913190,15.325190,ov_masseria_cannella_41.9132_15.3252,Masseria Cannella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/masseria_cannella_41.9132_15.3252.json,custom
+41.858630,15.291843,ov_piano_delle_vigne_41.8586_15.2918,Piano delle Vigne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/piano_delle_vigne_41.8586_15.2918.json,custom
+41.856446,15.306441,ov_la_bufalara_resort_lesina_41.8564_15.3064,La Bufalara Resort Lesina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_bufalara_resort_lesina_41.8564_15.3064.json,custom
+41.860930,15.272770,ov_piano_delle_vigne_41.8609_15.2728,Piano delle Vigne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/piano_delle_vigne_41.8609_15.2728.json,custom
+41.860075,15.353463,ov_l_angolo_dei_matti_41.8601_15.3535,L'Angolo dei Matti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/langolo_dei_matti_41.8601_15.3535.json,custom
+41.857823,15.356483,ov_la_conchiglia_41.8578_15.3565,La Conchiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_conchiglia_41.8578_15.3565.json,custom
+41.859464,15.356440,ov_bisboccia_41.8595_15.3564,Bisboccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/bisboccia_41.8595_15.3564.json,custom
+41.864613,15.356893,ov_mood_experience_41.8646_15.3569,Mood Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/mood_experience_41.8646_15.3569.json,custom
+41.862547,15.353823,ov_ugo_testa_41.8625_15.3538,Ugo Testa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/ugo_testa_41.8625_15.3538.json,custom
+41.863436,15.353159,ov_pizzamania_41.8634_15.3532,PizzaMania,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/pizzamania_41.8634_15.3532.json,custom
+41.863331,15.352951,ov_le_braci_41.8633_15.3530,Le Braci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/le_braci_41.8633_15.3530.json,custom
+41.864142,15.352699,ov_brakery89_41.8641_15.3527,Brakery89,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/brakery89_41.8641_15.3527.json,custom
+41.864189,15.352631,ov_filome_41.8642_15.3526,Filome,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/filome_41.8642_15.3526.json,custom
+41.865773,15.353064,ov_number_one_41.8658_15.3531,Number One,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/number_one_41.8658_15.3531.json,custom
+41.865152,15.354417,ov_le_antiche_sere_41.8652_15.3544,Le Antiche Sere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/le_antiche_sere_41.8652_15.3544.json,custom
+41.864727,15.349763,ov_la_bodeguita_del_lago_41.8647_15.3498,La Bodeguita del Lago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_bodeguita_del_lago_41.8647_15.3498.json,custom
+41.864810,15.350017,ov_la_terrazza_sfizi_e_tramonti_41.8648_15.3500,La terrazza sfizi e tramonti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_terrazza_sfizi_e_tramonti_41.8648_15.3500.json,custom
+41.864221,15.350129,ov_chiosco_della_villa_41.8642_15.3501,Chiosco della Villa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/chiosco_della_villa_41.8642_15.3501.json,custom
+41.866504,15.351143,ov_la_cruna_del_lago_41.8665_15.3511,La Cruna del Lago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_cruna_del_lago_41.8665_15.3511.json,custom
+41.866701,15.352421,ov_bistro_41.8667_15.3524,Bistro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/bistro_41.8667_15.3524.json,custom
+41.865257,15.351987,ov_la_grotta_delle_chianchette_41.8653_15.3520,La Grotta Delle Chianchette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_grotta_delle_chianchette_41.8653_15.3520.json,custom
+41.865221,15.351307,ov_nonna_lina_41.8652_15.3513,Nonna Lina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/nonna_lina_41.8652_15.3513.json,custom
+41.865544,15.351631,ov_opus_art_event_41.8655_15.3516,Opus Art Event,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/opus_art_event_41.8655_15.3516.json,custom
+41.863847,15.352584,ov_la_trave_41.8638_15.3526,La Trave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/la_trave_41.8638_15.3526.json,custom
+41.856638,15.348461,ov_carpe_diem_lesina_41.8566_15.3485,Carpe Diem lesina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/carpe_diem_lesina_41.8566_15.3485.json,custom
+41.894032,15.345562,ov_ristorante_bar_area_camper_e_picnic_acqu_41.8940_15.3456,Ristorante Bar Area Camper e Picnic Acquarotta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/ristorante_bar_area_camper_e_picnic_acqu_41.8940_15.3456.json,custom
+41.913717,15.331459,ov_bar___maraj__41.9137_15.3315,Bar Ò Marajà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/bar_maraj_41.9137_15.3315.json,custom
+41.913613,15.333341,ov_lido_rosa_rooms_41.9136_15.3333,Lido Rosa Rooms,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lido_rosa_rooms_41.9136_15.3333.json,custom
+41.913029,15.334150,ov_ristorante_pizzeria_kisskiss_di_popolo_m_41.9130_15.3341,RISTORANTE PIZZERIA KISSKISS di Popolo Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/ristorante_pizzeria_kisskiss_di_popolo_m_41.9130_15.3341.json,custom
+41.911530,15.337089,ov_bar_pizzeria_stella_marina_di_lesina_41.9115_15.3371,Bar-Pizzeria Stella Marina di Lesina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/bar-pizzeria_stella_marina_di_lesina_41.9115_15.3371.json,custom
+41.909530,15.337690,ov_ristorante_la_rosa_dei_venti_41.9095_15.3377,Ristorante La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/ristorante_la_rosa_dei_venti_41.9095_15.3377.json,custom
+41.911919,15.335653,ov_acapulco2_ristorante_pizzeria_lesina_41.9119_15.3357,Acapulco2 Ristorante pizzeria lesina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/acapulco2_ristorante_pizzeria_lesina_41.9119_15.3357.json,custom
+41.912912,15.335447,ov_gastronomia_da_gino_41.9129_15.3354,Gastronomia da Gino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/gastronomia_da_gino_41.9129_15.3354.json,custom
+41.913082,15.335518,ov_pizze_e_sfizi_beach_41.9131_15.3355,Pizze e Sfizi Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/pizze_e_sfizi_beach_41.9131_15.3355.json,custom
+41.912845,15.335481,ov_l_isola_del_gusto_41.9128_15.3355,L'Isola del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lisola_del_gusto_41.9128_15.3355.json,custom
+41.916220,15.333753,ov_lido_rosa_41.9162_15.3338,Lido Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lido_rosa_41.9162_15.3338.json,custom
+41.909842,15.346960,ov_lido_anna___beach_club___marina_di_lesin_41.9098_15.3470,Lido Anna - Beach Club - Marina di Lesina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lido_anna_-_beach_club_-_marina_di_lesin_41.9098_15.3470.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castrignano_de_greci -- gyms
-40.171329,18.297215,ov_bowling_ciak_40.1713_18.2972,Bowling Ciak,GYM,palestra
-40.178422,18.293897,ov_clan_centro_fitness_40.1784_18.2939,CLAN Centro Fitness,GYM,palestra
-40.336096,18.176567,ov_rainbow_gym_40.3361_18.1766,Rainbow Gym,GYM,palestra
+40.171329,18.297215,ov_bowling_ciak_40.1713_18.2972,Bowling Ciak,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_de_greci/pages/bowling_ciak_40.1713_18.2972.json,custom
+40.178422,18.293897,ov_clan_centro_fitness_40.1784_18.2939,CLAN Centro Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_de_greci/pages/clan_centro_fitness_40.1784_18.2939.json,custom
+40.336096,18.176567,ov_rainbow_gym_40.3361_18.1766,Rainbow Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castrignano_de_greci/pages/rainbow_gym_40.3361_18.1766.json,custom

@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Plataci -- Tutti
-39.880779,16.444698,ov_agriturimo_pinelli_39.8808_16.4447,agriturimo_pinelli,RESTAURANT,ristorante
-39.875799,16.448909,ov_ristorante_pizzeria_bellavista_village_39.8758_16.4489,Ristorante pizzeria bellavista village,RESTAURANT,ristorante
-39.875791,16.448643,ov_agriturismo_pinelli_39.8758_16.4486,Agriturismo Pinelli,RESTAURANT,ristorante
-39.900200,16.429930,ov_la_piccola_bottega_del_gusto_39.9002_16.4299,La Piccola Bottega del Gusto,RESTAURANT,ristorante
-39.902024,16.430903,ov_da_celeste_39.9020_16.4309,Da Celeste,RESTAURANT,ristorante
-39.904990,16.429394,ov_la_piccola_bottega_del_gusto_39.9050_16.4294,La Piccola Bottega del Gusto,RESTAURANT,ristorante
+39.880779,16.444698,ov_agriturimo_pinelli_39.8808_16.4447,agriturimo_pinelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/agriturimopinelli_39.8808_16.4447.json,custom
+39.875799,16.448909,ov_ristorante_pizzeria_bellavista_village_39.8758_16.4489,Ristorante pizzeria bellavista village,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/ristorante_pizzeria_bellavista_village_39.8758_16.4489.json,custom
+39.875791,16.448643,ov_agriturismo_pinelli_39.8758_16.4486,Agriturismo Pinelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/agriturismo_pinelli_39.8758_16.4486.json,custom
+39.900200,16.429930,ov_la_piccola_bottega_del_gusto_39.9002_16.4299,La Piccola Bottega del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/la_piccola_bottega_del_gusto_39.9002_16.4299.json,custom
+39.902024,16.430903,ov_da_celeste_39.9020_16.4309,Da Celeste,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/da_celeste_39.9020_16.4309.json,custom
+39.904990,16.429394,ov_la_piccola_bottega_del_gusto_39.9050_16.4294,La Piccola Bottega del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/plataci/pages/la_piccola_bottega_del_gusto_39.9050_16.4294.json,custom

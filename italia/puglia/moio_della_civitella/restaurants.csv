@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # moio_della_civitella -- restaurants
-40.243317,15.273043,ov_il_borracho_vineria_40.2433_15.2730,Il Borracho Vineria,RESTAURANT,ristorante
-40.244745,15.272332,ov_bar_pizzeria_garden_s_40.2447_15.2723,Bar Pizzeria Garden's,RESTAURANT,ristorante
-40.251453,15.267598,ov_le_cocole_locanda___moio_della_civitella_40.2515_15.2676,Le Cocole Locanda - Moio Della Civitella,RESTAURANT,ristorante
+40.243317,15.273043,ov_il_borracho_vineria_40.2433_15.2730,Il Borracho Vineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moio_della_civitella/pages/il_borracho_vineria_40.2433_15.2730.json,custom
+40.244745,15.272332,ov_bar_pizzeria_garden_s_40.2447_15.2723,Bar Pizzeria Garden's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moio_della_civitella/pages/bar_pizzeria_gardens_40.2447_15.2723.json,custom
+40.251453,15.267598,ov_le_cocole_locanda___moio_della_civitella_40.2515_15.2676,Le Cocole Locanda - Moio Della Civitella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/moio_della_civitella/pages/le_cocole_locanda_-_moio_della_civitella_40.2515_15.2676.json,custom

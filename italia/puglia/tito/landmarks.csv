@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tito -- landmarks
-40.337380,15.899464,ov_museo_delle_tradizioni_locali_40.3374_15.8995,Museo Delle Tradizioni Locali,MUSEUM,monumento
-40.566320,15.641671,ov_torre_di_satriano_40.5663_15.6417,Torre Di Satriano,MUSEUM,monumento
+40.337380,15.899464,ov_museo_delle_tradizioni_locali_40.3374_15.8995,Museo Delle Tradizioni Locali,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/museo_delle_tradizioni_locali_40.3374_15.8995.json,custom
+40.566320,15.641671,ov_torre_di_satriano_40.5663_15.6417,Torre Di Satriano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tito/pages/torre_di_satriano_40.5663_15.6417.json,custom

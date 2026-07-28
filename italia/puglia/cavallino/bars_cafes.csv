@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cavallino -- bars_cafes
-40.292946,18.197762,ov_c_c_caff__in_cialde_e_capsule_40.2929_18.1978,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe
-40.308101,18.203164,ov_mak_bar_cavallino_40.3081_18.2032,MakàBar Cavallino,RESTAURANT,bar_cafe
-40.304565,18.206091,ov_maka_40.3046_18.2061,Maka,RESTAURANT,bar_cafe
-40.324999,18.175438,ov_kick_off___sport_center_40.3250_18.1754,Kick Off - Sport Center,RESTAURANT,bar_cafe
-40.313995,18.198303,ov_birrosteria_il_bacio_40.3140_18.1983,Birrosteria Il Bacio,RESTAURANT,bar_cafe
-40.315283,18.195447,ov_il_bar_della_villa_40.3153_18.1954,Il Bar Della Villa,RESTAURANT,bar_cafe
-40.312837,18.200040,ov_new_tandem_bar_40.3128_18.2000,New Tandem Bar,RESTAURANT,bar_cafe
-40.311348,18.204326,ov_bar_gelateria_agora_40.3113_18.2043,Bar Gelateria Agora,RESTAURANT,bar_cafe
-40.311680,18.181810,ov_blueza_40.3117_18.1818,Blueza,RESTAURANT,bar_cafe
-40.312015,18.189265,ov_studio_bar_40.3120_18.1893,Studio bar,RESTAURANT,bar_cafe
-40.336350,18.178239,ov_americanbar_di_limone_silverio_40.3364_18.1782,AmericanBar di Limone Silverio,RESTAURANT,bar_cafe
-40.333606,18.179845,ov_lospaccio_40.3336_18.1798,LoSpaccio,RESTAURANT,bar_cafe
-40.334368,18.179505,ov_native_cafe_40.3344_18.1795,Native Cafe,RESTAURANT,bar_cafe
-40.334003,18.179527,ov_holiday_40.3340_18.1795,Holiday,RESTAURANT,bar_cafe
-40.312183,18.201679,osm_bar_la_fontana_40.3122_18.2017,Bar La Fontana,bar_cafe,bar_cafe
+40.292946,18.197762,ov_c_c_caff__in_cialde_e_capsule_40.2929_18.1978,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/cc_caff_in_cialde_e_capsule_40.2929_18.1978.json,custom
+40.308101,18.203164,ov_mak_bar_cavallino_40.3081_18.2032,MakàBar Cavallino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/makbar_cavallino_40.3081_18.2032.json,custom
+40.304565,18.206091,ov_maka_40.3046_18.2061,Maka,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/maka_40.3046_18.2061.json,custom
+40.324999,18.175438,ov_kick_off___sport_center_40.3250_18.1754,Kick Off - Sport Center,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/kick_off_-_sport_center_40.3250_18.1754.json,custom
+40.313995,18.198303,ov_birrosteria_il_bacio_40.3140_18.1983,Birrosteria Il Bacio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/birrosteria_il_bacio_40.3140_18.1983.json,custom
+40.315283,18.195447,ov_il_bar_della_villa_40.3153_18.1954,Il Bar Della Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/il_bar_della_villa_40.3153_18.1954.json,custom
+40.312837,18.200040,ov_new_tandem_bar_40.3128_18.2000,New Tandem Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/new_tandem_bar_40.3128_18.2000.json,custom
+40.311348,18.204326,ov_bar_gelateria_agora_40.3113_18.2043,Bar Gelateria Agora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/bar_gelateria_agora_40.3113_18.2043.json,custom
+40.311680,18.181810,ov_blueza_40.3117_18.1818,Blueza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/blueza_40.3117_18.1818.json,custom
+40.312015,18.189265,ov_studio_bar_40.3120_18.1893,Studio bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/studio_bar_40.3120_18.1893.json,custom
+40.336350,18.178239,ov_americanbar_di_limone_silverio_40.3364_18.1782,AmericanBar di Limone Silverio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/americanbar_di_limone_silverio_40.3364_18.1782.json,custom
+40.333606,18.179845,ov_lospaccio_40.3336_18.1798,LoSpaccio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/lospaccio_40.3336_18.1798.json,custom
+40.334368,18.179505,ov_native_cafe_40.3344_18.1795,Native Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/native_cafe_40.3344_18.1795.json,custom
+40.334003,18.179527,ov_holiday_40.3340_18.1795,Holiday,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/holiday_40.3340_18.1795.json,custom
+40.312183,18.201679,osm_bar_la_fontana_40.3122_18.2017,Bar La Fontana,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cavallino/pages/bar_la_fontana_40.3122_18.2017.json,custom

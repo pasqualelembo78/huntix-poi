@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carmiano -- restaurants
-40.345720,18.047372,osm_corte_celestini_40.3457_18.0474,Corte Celestini,ristorante,ristorante
-40.338400,18.061687,ov_la_maglianese_40.3384_18.0617,La Maglianese,RESTAURANT,ristorante
-40.339706,18.059666,ov_pizza_express__magliano__provincia_di_le_40.3397_18.0597,PIZZA EXPRESS (MAGLIANO) provincia di LECCE,RESTAURANT,ristorante
-40.339388,18.051259,ov_la_cascina_di_maria_pia_40.3394_18.0513,La Cascina di Maria Pia,RESTAURANT,ristorante
-40.344411,18.037780,ov_la_bella_vita_40.3444_18.0378,La Bella Vita,RESTAURANT,ristorante
-40.343382,18.043359,ov_nonno_celestino_pizzeria_40.3434_18.0434,Nonno Celestino Pizzeria,RESTAURANT,ristorante
-40.340183,18.044698,ov_il_palato_salato_carmiano_40.3402_18.0447,Il Palato Salato CARMIANO,RESTAURANT,ristorante
-40.348333,18.042699,ov_il_nido_food_drink_40.3483_18.0427,Il Nido food&drink,RESTAURANT,ristorante
-40.344709,18.043948,ov_bistr__4stagioni_40.3447_18.0439,Bistrò 4Stagioni,RESTAURANT,ristorante
-40.345023,18.046191,ov_fuori_orario_40.3450_18.0462,Fuori Orario,RESTAURANT,ristorante
-40.345695,18.047532,ov_corte_celestini_40.3457_18.0475,Corte Celestini,RESTAURANT,ristorante
-40.345680,18.047520,ov_brac_a___tagli___distillati_40.3457_18.0475,Bracìa - Tagli & Distillati,RESTAURANT,ristorante
-40.346349,18.040976,ov_andrea_lavinia_40.3463_18.0410,Andrea Lavinia,RESTAURANT,ristorante
-40.345112,18.038663,ov_ristorante_pizzeria_salento_40.3451_18.0387,Ristorante Pizzeria Salento,RESTAURANT,ristorante
-40.348496,18.037709,ov_pizzeria_la_piazzetta_40.3485_18.0377,Pizzeria La Piazzetta,RESTAURANT,ristorante
-40.350882,18.037969,ov_ottoemezzo_40.3509_18.0380,Ottoemezzo,RESTAURANT,ristorante
+40.338400,18.061687,ov_la_maglianese_40.3384_18.0617,La Maglianese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_maglianese_40.3384_18.0617.json,custom
+40.339706,18.059666,ov_pizza_express__magliano__provincia_di_le_40.3397_18.0597,PIZZA EXPRESS (MAGLIANO) provincia di LECCE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/pizza_express_magliano_provincia_di_lecc_40.3397_18.0597.json,custom
+40.339388,18.051259,ov_la_cascina_di_maria_pia_40.3394_18.0513,La Cascina di Maria Pia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_cascina_di_maria_pia_40.3394_18.0513.json,custom
+40.344411,18.037780,ov_la_bella_vita_40.3444_18.0378,La Bella Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/la_bella_vita_40.3444_18.0378.json,custom
+40.343382,18.043359,ov_nonno_celestino_pizzeria_40.3434_18.0434,Nonno Celestino Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/nonno_celestino_pizzeria_40.3434_18.0434.json,custom
+40.340183,18.044698,ov_il_palato_salato_carmiano_40.3402_18.0447,Il Palato Salato CARMIANO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/il_palato_salato_carmiano_40.3402_18.0447.json,custom
+40.348333,18.042699,ov_il_nido_food_drink_40.3483_18.0427,Il Nido food&drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/il_nido_fooddrink_40.3483_18.0427.json,custom
+40.344709,18.043948,ov_bistr__4stagioni_40.3447_18.0439,Bistrò 4Stagioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/bistr_4stagioni_40.3447_18.0439.json,custom
+40.345023,18.046191,ov_fuori_orario_40.3450_18.0462,Fuori Orario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/fuori_orario_40.3450_18.0462.json,custom
+40.345695,18.047532,ov_corte_celestini_40.3457_18.0475,Corte Celestini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/corte_celestini_40.3457_18.0475.json,custom
+40.345680,18.047520,ov_brac_a___tagli___distillati_40.3457_18.0475,Bracìa - Tagli & Distillati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/braca_-_tagli_distillati_40.3457_18.0475.json,custom
+40.346349,18.040976,ov_andrea_lavinia_40.3463_18.0410,Andrea Lavinia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/andrea_lavinia_40.3463_18.0410.json,custom
+40.345112,18.038663,ov_ristorante_pizzeria_salento_40.3451_18.0387,Ristorante Pizzeria Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ristorante_pizzeria_salento_40.3451_18.0387.json,custom
+40.348496,18.037709,ov_pizzeria_la_piazzetta_40.3485_18.0377,Pizzeria La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/pizzeria_la_piazzetta_40.3485_18.0377.json,custom
+40.350882,18.037969,ov_ottoemezzo_40.3509_18.0380,Ottoemezzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/ottoemezzo_40.3509_18.0380.json,custom
+40.345720,18.047372,osm_corte_celestini_40.3457_18.0474,Corte Celestini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carmiano/pages/corte_celestini_40.3457_18.0474.json,custom

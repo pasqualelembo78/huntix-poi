@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # botrugno -- restaurants
-40.063766,18.323928,osm_locanda_dei_camini_40.0638_18.3239,Locanda dei Camini,ristorante,ristorante
-40.058924,18.318142,ov_acqua_e_sale_40.0589_18.3181,Acqua e Sale,RESTAURANT,ristorante
-40.062258,18.319800,ov_la_lanterna_braceria_pizzeria_40.0623_18.3198,La Lanterna Braceria Pizzeria,RESTAURANT,ristorante
-40.063832,18.324049,ov_la_locanda_dei_camini_40.0638_18.3240,La Locanda dei Camini,RESTAURANT,ristorante
-40.063214,18.322825,ov_meat_master_frascaro_40.0632_18.3228,Meat Master Frascaro,RESTAURANT,ristorante
-40.066377,18.324231,ov_pizzeria_lu_sule_lu_mare_lu_ientu_40.0664_18.3242,Pizzeria Lu Sule Lu Mare Lu Ientu,RESTAURANT,ristorante
+40.058924,18.318142,ov_acqua_e_sale_40.0589_18.3181,Acqua e Sale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/acqua_e_sale_40.0589_18.3181.json,custom
+40.062258,18.319800,ov_la_lanterna_braceria_pizzeria_40.0623_18.3198,La Lanterna Braceria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/la_lanterna_braceria_pizzeria_40.0623_18.3198.json,custom
+40.063832,18.324049,ov_la_locanda_dei_camini_40.0638_18.3240,La Locanda dei Camini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/la_locanda_dei_camini_40.0638_18.3240.json,custom
+40.063214,18.322825,ov_meat_master_frascaro_40.0632_18.3228,Meat Master Frascaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/meat_master_frascaro_40.0632_18.3228.json,custom
+40.066377,18.324231,ov_pizzeria_lu_sule_lu_mare_lu_ientu_40.0664_18.3242,Pizzeria Lu Sule Lu Mare Lu Ientu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/pizzeria_lu_sule_lu_mare_lu_ientu_40.0664_18.3242.json,custom
+40.063766,18.323928,osm_locanda_dei_camini_40.0638_18.3239,Locanda dei Camini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/locanda_dei_camini_40.0638_18.3239.json,custom

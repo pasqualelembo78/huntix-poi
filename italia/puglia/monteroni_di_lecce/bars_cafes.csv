@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # monteroni_di_lecce -- bars_cafes
-40.316985,18.098844,ov_banlieue2_40.3170_18.0988,Banlieue2,RESTAURANT,bar_cafe
-40.323210,18.098572,ov_scaccomatto_40.3232_18.0986,Scaccomatto,RESTAURANT,bar_cafe
-40.324270,18.098294,ov_piper_bar_40.3243_18.0983,Piper Bar,RESTAURANT,bar_cafe
-40.324110,18.097219,ov_reynold_s_pub_40.3241_18.0972,Reynold's Pub,RESTAURANT,bar_cafe
-40.326675,18.094404,ov_sorsi_morsi_____colombina__40.3267_18.0944,Sorsi&Morsi    -Colombina-,RESTAURANT,bar_cafe
-40.326638,18.097800,ov_burton_pub_40.3266_18.0978,Burton Pub,RESTAURANT,bar_cafe
-40.321453,18.092230,ov_g_b_40.3215_18.0922,G&B,RESTAURANT,bar_cafe
-40.319313,18.092260,ov_woodstock_cafe_40.3193_18.0923,Woodstock Cafe,RESTAURANT,bar_cafe
-40.326826,18.096825,ov_bar_fratelli_mello_40.3268_18.0968,Bar Fratelli Mello,RESTAURANT,bar_cafe
-40.327085,18.096676,ov_caffetteria_f_lli_mello_40.3271_18.0967,Caffetteria F.lli Mello,RESTAURANT,bar_cafe
-40.327167,18.096285,ov_caffe_falconieri_40.3272_18.0963,Caffe Falconieri,RESTAURANT,bar_cafe
-40.327330,18.092750,ov_dreams_caf__40.3273_18.0927,Dreams Cafè,RESTAURANT,bar_cafe
-40.328013,18.101767,ov_caffe_alla_romana_40.3280_18.1018,Caffe Alla Romana,RESTAURANT,bar_cafe
-40.327926,18.101642,ov_elite_17_hamburgheria_birreria_gintoneri_40.3279_18.1016,ELITE_17_Hamburgheria_Birreria_Gintoneria,RESTAURANT,bar_cafe
-40.327739,18.100339,ov_caff__tiffany_40.3277_18.1003,Caffè Tiffany,RESTAURANT,bar_cafe
-40.327987,18.101818,osm_bar_politi_40.3280_18.1018,Bar Politi,bar_cafe,bar_cafe
+40.316985,18.098844,ov_banlieue2_40.3170_18.0988,Banlieue2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/banlieue2_40.3170_18.0988.json,custom
+40.323210,18.098572,ov_scaccomatto_40.3232_18.0986,Scaccomatto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/scaccomatto_40.3232_18.0986.json,custom
+40.324270,18.098294,ov_piper_bar_40.3243_18.0983,Piper Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/piper_bar_40.3243_18.0983.json,custom
+40.324110,18.097219,ov_reynold_s_pub_40.3241_18.0972,Reynold's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/reynolds_pub_40.3241_18.0972.json,custom
+40.326675,18.094404,ov_sorsi_morsi_____colombina__40.3267_18.0944,Sorsi&Morsi    -Colombina-,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/sorsimorsi_-colombina-_40.3267_18.0944.json,custom
+40.326638,18.097800,ov_burton_pub_40.3266_18.0978,Burton Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/burton_pub_40.3266_18.0978.json,custom
+40.321453,18.092230,ov_g_b_40.3215_18.0922,G&B,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/gb_40.3215_18.0922.json,custom
+40.319313,18.092260,ov_woodstock_cafe_40.3193_18.0923,Woodstock Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/woodstock_cafe_40.3193_18.0923.json,custom
+40.326826,18.096825,ov_bar_fratelli_mello_40.3268_18.0968,Bar Fratelli Mello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/bar_fratelli_mello_40.3268_18.0968.json,custom
+40.327085,18.096676,ov_caffetteria_f_lli_mello_40.3271_18.0967,Caffetteria F.lli Mello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffetteria_flli_mello_40.3271_18.0967.json,custom
+40.327167,18.096285,ov_caffe_falconieri_40.3272_18.0963,Caffe Falconieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffe_falconieri_40.3272_18.0963.json,custom
+40.327330,18.092750,ov_dreams_caf__40.3273_18.0927,Dreams Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/dreams_caf_40.3273_18.0927.json,custom
+40.328013,18.101767,ov_caffe_alla_romana_40.3280_18.1018,Caffe Alla Romana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffe_alla_romana_40.3280_18.1018.json,custom
+40.327926,18.101642,ov_elite_17_hamburgheria_birreria_gintoneri_40.3279_18.1016,ELITE_17_Hamburgheria_Birreria_Gintoneria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/elite17hamburgheriabirreriagintoneria_40.3279_18.1016.json,custom
+40.327739,18.100339,ov_caff__tiffany_40.3277_18.1003,Caffè Tiffany,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caff_tiffany_40.3277_18.1003.json,custom
+40.327987,18.101818,osm_bar_politi_40.3280_18.1018,Bar Politi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/bar_politi_40.3280_18.1018.json,custom

@@ -1,15 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # trecchina -- restaurants
-40.035122,15.782089,osm_agriturismo_l_aia_dei_cappellani_40.0351_15.7821,Agriturismo L’Aia dei Cappellani,ristorante,ristorante
-40.026077,15.776320,osm_a_vendura_40.0261_15.7763,A’Vendura,ristorante,ristorante
-40.026801,15.775184,osm_bulle_40.0268_15.7752,Bulle,ristorante,ristorante
-40.055467,15.787718,ov_la_briglia_albergo_ristorante_bar_40.0555_15.7877,La Briglia Albergo-Ristorante-Bar,RESTAURANT,ristorante
-40.033322,15.804915,ov_valle_del_noce_40.0333_15.8049,Valle del noce,RESTAURANT,ristorante
-40.040749,15.781341,ov_panificio_le_bonta__trecchinesi_40.0407_15.7813,Panificio Le Bonta' Trecchinesi,RESTAURANT,ristorante
-40.035102,15.782019,ov_agriturismo_l_aia_dei_cappellani_40.0351_15.7820,Agriturismo L'Aia dei Cappellani,RESTAURANT,ristorante
-40.025812,15.775494,ov_ristorante_pizzeria_lanterna_verde_40.0258_15.7755,Ristorante Pizzeria Lanterna Verde,RESTAURANT,ristorante
-40.026079,15.777977,ov_bar_gelateria_luna_rossa_rizzo_antonio_r_40.0261_15.7780,Bar Gelateria Luna Rossa Rizzo Antonio Ristorante,RESTAURANT,ristorante
-40.026276,15.777430,ov_lanternaverde_40.0263_15.7774,LanternaVerde,RESTAURANT,ristorante
-40.026111,15.776600,ov_pizza_si_40.0261_15.7766,Pizza Si,RESTAURANT,ristorante
-40.006436,15.796171,ov_la_casereccia_bar_ristorante_pizzeria_40.0064_15.7962,La Casereccia Bar Ristorante Pizzeria,RESTAURANT,ristorante
-40.010008,15.797975,ov_la_sorgente_3_40.0100_15.7980,La Sorgente 3,RESTAURANT,ristorante
+40.055467,15.787718,ov_la_briglia_albergo_ristorante_bar_40.0555_15.7877,La Briglia Albergo-Ristorante-Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/la_briglia_albergo-ristorante-bar_40.0555_15.7877.json,custom
+40.033322,15.804915,ov_valle_del_noce_40.0333_15.8049,Valle del noce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/valle_del_noce_40.0333_15.8049.json,custom
+40.040749,15.781341,ov_panificio_le_bonta__trecchinesi_40.0407_15.7813,Panificio Le Bonta' Trecchinesi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/panificio_le_bonta_trecchinesi_40.0407_15.7813.json,custom
+40.035102,15.782019,ov_agriturismo_l_aia_dei_cappellani_40.0351_15.7820,Agriturismo L'Aia dei Cappellani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/agriturismo_laia_dei_cappellani_40.0351_15.7820.json,custom
+40.025812,15.775494,ov_ristorante_pizzeria_lanterna_verde_40.0258_15.7755,Ristorante Pizzeria Lanterna Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/ristorante_pizzeria_lanterna_verde_40.0258_15.7755.json,custom
+40.026079,15.777977,ov_bar_gelateria_luna_rossa_rizzo_antonio_r_40.0261_15.7780,Bar Gelateria Luna Rossa Rizzo Antonio Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/bar_gelateria_luna_rossa_rizzo_antonio_r_40.0261_15.7780.json,custom
+40.026276,15.777430,ov_lanternaverde_40.0263_15.7774,LanternaVerde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/lanternaverde_40.0263_15.7774.json,custom
+40.026111,15.776600,ov_pizza_si_40.0261_15.7766,Pizza Si,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/pizza_si_40.0261_15.7766.json,custom
+40.006436,15.796171,ov_la_casereccia_bar_ristorante_pizzeria_40.0064_15.7962,La Casereccia Bar Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/la_casereccia_bar_ristorante_pizzeria_40.0064_15.7962.json,custom
+40.010008,15.797975,ov_la_sorgente_3_40.0100_15.7980,La Sorgente 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/la_sorgente_3_40.0100_15.7980.json,custom
+40.026077,15.776320,osm_a_vendura_40.0261_15.7763,A’Vendura,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/avendura_40.0261_15.7763.json,custom
+40.026801,15.775184,osm_bulle_40.0268_15.7752,Bulle,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trecchina/pages/bulle_40.0268_15.7752.json,custom

@@ -1,39 +1,39 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Torchiarolo -- Tutti
-40.483982,18.052597,osm_palazzo_baronale_40.4840_18.0526,Palazzo Baronale,ristorante,ristorante
-40.482028,18.054270,ov_nonna_lisa_40.4820_18.0543,Nonna Lisa,RESTAURANT,ristorante
-40.483881,18.052510,ov_south_bbq_40.4839_18.0525,South Bbq,RESTAURANT,ristorante
-40.484640,18.052358,ov_zona_fao_37_1_2_3_40.4846_18.0524,Zona Fao 37 1.2.3,RESTAURANT,ristorante
-40.484454,18.052561,ov_paninoteca_engel_40.4845_18.0526,Paninoteca Engel,RESTAURANT,ristorante
-40.485833,18.051997,ov_pizzeria_centrale_40.4858_18.0520,Pizzeria Centrale,RESTAURANT,ristorante
-40.485110,18.053730,ov_l_incontro_bar_torchiarolo_40.4851_18.0537,L'incontro bar torchiarolo,RESTAURANT,ristorante
-40.486884,18.043206,ov_ristorante_al_maestrale_40.4869_18.0432,Ristorante Al Maestrale,RESTAURANT,ristorante
-40.486466,18.046741,ov_non_solo_pizza_40.4865_18.0467,Non Solo Pizza,RESTAURANT,ristorante
-40.501339,18.045460,ov_masseria_pisciani_40.5013_18.0455,Masseria Pisciani,RESTAURANT,ristorante
-40.516235,18.094869,ov_ristorante_benny_40.5162_18.0949,Ristorante Benny,RESTAURANT,ristorante
-40.516638,18.092951,ov_lo_spizzicone_40.5166_18.0930,Lo Spizzicone,RESTAURANT,ristorante
-40.516987,18.092046,ov_il_botteghino_40.5170_18.0920,Il Botteghino,RESTAURANT,ristorante
-40.519597,18.089048,ov_la_playa_del_sol_2_40.5196_18.0890,La Playa del Sol 2,RESTAURANT,ristorante
-40.530822,18.078054,ov_senzastile_la_locanda_sul_mare_40.5308_18.0781,Senzastile la locanda sul mare,RESTAURANT,ristorante
-40.534399,18.073010,ov_al_maestrale_40.5344_18.0730,Al Maestrale,RESTAURANT,ristorante
-40.536208,18.075318,ov_zoki_40.5362_18.0753,Zoki,RESTAURANT,ristorante
-40.482245,18.055731,ov_osanna_caf__40.4822_18.0557,Osanna cafè,RESTAURANT,bar_cafe
-40.483857,18.052867,ov_castle_bar_40.4839_18.0529,Castle Bar,RESTAURANT,bar_cafe
-40.484570,18.053667,ov_garden_bar_40.4846_18.0537,Garden bar,RESTAURANT,bar_cafe
-40.484277,18.052538,ov_coffee_and_sound_40.4843_18.0525,Coffee and Sound,RESTAURANT,bar_cafe
-40.486422,18.049278,ov_long_bar___ricevitoria_40.4864_18.0493,Long bar & ricevitoria,RESTAURANT,bar_cafe
-40.516265,18.093336,ov_new_piccadilly_lendinuso_40.5163_18.0933,New Piccadilly Lendinuso,RESTAURANT,bar_cafe
-40.517292,18.092093,ov_miva_40.5173_18.0921,MiVa,RESTAURANT,bar_cafe
-40.518470,18.087000,ov_lendinuso_40.5185_18.0870,Lendinuso,RESTAURANT,bar_cafe
-40.519371,18.079547,ov_g_g_bar_40.5194_18.0795,G&G Bar,RESTAURANT,bar_cafe
-40.519435,18.089043,ov_bar_stefanelli_40.5194_18.0890,Bar Stefanelli,RESTAURANT,bar_cafe
-40.531764,18.077252,ov_le_dune_40.5318_18.0773,Le Dune,RESTAURANT,bar_cafe
-40.535130,18.075098,ov_olindo_s_cafe_40.5351_18.0751,Olindo's Cafe,RESTAURANT,bar_cafe
-40.535390,18.074781,ov_new_enjoy_cafe_40.5354_18.0748,New Enjoy Cafe,RESTAURANT,bar_cafe
-40.537488,18.074845,ov_fagu_s_food_40.5375_18.0748,Fagu's Food,RESTAURANT,bar_cafe
-40.537761,18.076082,ov_bar_nautico_torre_san_gennaro_40.5378_18.0761,Bar Nautico Torre San Gennaro,RESTAURANT,bar_cafe
-40.484962,18.047146,ov_gold_palextra_40.4850_18.0471,Gold Palextra,GYM,palestra
-40.487054,18.043418,ov_dance_for_you_daga_40.4871_18.0434,Dance For You Daga,GYM,palestra
-40.486933,18.043067,ov_padwell_40.4869_18.0431,Padwell,GYM,palestra
-40.534483,18.075222,ov_evolution_watersports_40.5345_18.0752,Evolution Watersports,GYM,palestra
-40.536335,18.073801,ov_valesio_40.5363_18.0738,Valesio,MONUMENT,monumento
+40.482028,18.054270,ov_nonna_lisa_40.4820_18.0543,Nonna Lisa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/nonna_lisa_40.4820_18.0543.json,custom
+40.483881,18.052510,ov_south_bbq_40.4839_18.0525,South Bbq,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/south_bbq_40.4839_18.0525.json,custom
+40.484640,18.052358,ov_zona_fao_37_1_2_3_40.4846_18.0524,Zona Fao 37 1.2.3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/zona_fao_37_123_40.4846_18.0524.json,custom
+40.484454,18.052561,ov_paninoteca_engel_40.4845_18.0526,Paninoteca Engel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/paninoteca_engel_40.4845_18.0526.json,custom
+40.485833,18.051997,ov_pizzeria_centrale_40.4858_18.0520,Pizzeria Centrale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/pizzeria_centrale_40.4858_18.0520.json,custom
+40.485110,18.053730,ov_l_incontro_bar_torchiarolo_40.4851_18.0537,L'incontro bar torchiarolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/lincontro_bar_torchiarolo_40.4851_18.0537.json,custom
+40.486884,18.043206,ov_ristorante_al_maestrale_40.4869_18.0432,Ristorante Al Maestrale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/ristorante_al_maestrale_40.4869_18.0432.json,custom
+40.486466,18.046741,ov_non_solo_pizza_40.4865_18.0467,Non Solo Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/non_solo_pizza_40.4865_18.0467.json,custom
+40.501339,18.045460,ov_masseria_pisciani_40.5013_18.0455,Masseria Pisciani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/masseria_pisciani_40.5013_18.0455.json,custom
+40.516235,18.094869,ov_ristorante_benny_40.5162_18.0949,Ristorante Benny,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/ristorante_benny_40.5162_18.0949.json,custom
+40.516638,18.092951,ov_lo_spizzicone_40.5166_18.0930,Lo Spizzicone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/lo_spizzicone_40.5166_18.0930.json,custom
+40.516987,18.092046,ov_il_botteghino_40.5170_18.0920,Il Botteghino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/il_botteghino_40.5170_18.0920.json,custom
+40.519597,18.089048,ov_la_playa_del_sol_2_40.5196_18.0890,La Playa del Sol 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/la_playa_del_sol_2_40.5196_18.0890.json,custom
+40.530822,18.078054,ov_senzastile_la_locanda_sul_mare_40.5308_18.0781,Senzastile la locanda sul mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/senzastile_la_locanda_sul_mare_40.5308_18.0781.json,custom
+40.534399,18.073010,ov_al_maestrale_40.5344_18.0730,Al Maestrale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/al_maestrale_40.5344_18.0730.json,custom
+40.536208,18.075318,ov_zoki_40.5362_18.0753,Zoki,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/zoki_40.5362_18.0753.json,custom
+40.483982,18.052597,osm_palazzo_baronale_40.4840_18.0526,Palazzo Baronale,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/palazzo_baronale_40.4840_18.0526.json,custom
+40.482245,18.055731,ov_osanna_caf__40.4822_18.0557,Osanna cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/osanna_caf_40.4822_18.0557.json,custom
+40.483857,18.052867,ov_castle_bar_40.4839_18.0529,Castle Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/castle_bar_40.4839_18.0529.json,custom
+40.484570,18.053667,ov_garden_bar_40.4846_18.0537,Garden bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/garden_bar_40.4846_18.0537.json,custom
+40.484277,18.052538,ov_coffee_and_sound_40.4843_18.0525,Coffee and Sound,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/coffee_and_sound_40.4843_18.0525.json,custom
+40.486422,18.049278,ov_long_bar___ricevitoria_40.4864_18.0493,Long bar & ricevitoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/long_bar_ricevitoria_40.4864_18.0493.json,custom
+40.516265,18.093336,ov_new_piccadilly_lendinuso_40.5163_18.0933,New Piccadilly Lendinuso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/new_piccadilly_lendinuso_40.5163_18.0933.json,custom
+40.517292,18.092093,ov_miva_40.5173_18.0921,MiVa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/miva_40.5173_18.0921.json,custom
+40.518470,18.087000,ov_lendinuso_40.5185_18.0870,Lendinuso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/lendinuso_40.5185_18.0870.json,custom
+40.519371,18.079547,ov_g_g_bar_40.5194_18.0795,G&G Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/gg_bar_40.5194_18.0795.json,custom
+40.519435,18.089043,ov_bar_stefanelli_40.5194_18.0890,Bar Stefanelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/bar_stefanelli_40.5194_18.0890.json,custom
+40.531764,18.077252,ov_le_dune_40.5318_18.0773,Le Dune,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/le_dune_40.5318_18.0773.json,custom
+40.535130,18.075098,ov_olindo_s_cafe_40.5351_18.0751,Olindo's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/olindos_cafe_40.5351_18.0751.json,custom
+40.535390,18.074781,ov_new_enjoy_cafe_40.5354_18.0748,New Enjoy Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/new_enjoy_cafe_40.5354_18.0748.json,custom
+40.537488,18.074845,ov_fagu_s_food_40.5375_18.0748,Fagu's Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/fagus_food_40.5375_18.0748.json,custom
+40.537761,18.076082,ov_bar_nautico_torre_san_gennaro_40.5378_18.0761,Bar Nautico Torre San Gennaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/bar_nautico_torre_san_gennaro_40.5378_18.0761.json,custom
+40.484962,18.047146,ov_gold_palextra_40.4850_18.0471,Gold Palextra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/gold_palextra_40.4850_18.0471.json,custom
+40.487054,18.043418,ov_dance_for_you_daga_40.4871_18.0434,Dance For You Daga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/dance_for_you_daga_40.4871_18.0434.json,custom
+40.486933,18.043067,ov_padwell_40.4869_18.0431,Padwell,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/padwell_40.4869_18.0431.json,custom
+40.534483,18.075222,ov_evolution_watersports_40.5345_18.0752,Evolution Watersports,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/evolution_watersports_40.5345_18.0752.json,custom
+40.536335,18.073801,ov_valesio_40.5363_18.0738,Valesio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/torchiarolo/pages/valesio_40.5363_18.0738.json,custom

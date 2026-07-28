@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # oria -- landmarks
-40.498852,17.643804,ov_museo_dell_olio_40.4989_17.6438,Museo Dell Olio,MUSEUM,monumento
-40.498550,17.643592,ov_palazzo_martini_40.4985_17.6436,Palazzo Martini,MONUMENT,monumento
-40.497632,17.642133,ov___cripta_delle_mummie___oria___40.4976_17.6421,- Cripta Delle Mummie - Oria -,MONUMENT,monumento
-40.500219,17.641488,ov_castello_normanno_svevo_40.5002_17.6415,Castello normanno svevo,MONUMENT,monumento
+40.498852,17.643804,ov_museo_dell_olio_40.4989_17.6438,Museo Dell Olio,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/museo_dell_olio_40.4989_17.6438.json,custom
+40.498550,17.643592,ov_palazzo_martini_40.4985_17.6436,Palazzo Martini,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/palazzo_martini_40.4985_17.6436.json,custom
+40.497632,17.642133,ov___cripta_delle_mummie___oria___40.4976_17.6421,- Cripta Delle Mummie - Oria -,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/-_cripta_delle_mummie_-_oria_-_40.4976_17.6421.json,custom
+40.500219,17.641488,ov_castello_normanno_svevo_40.5002_17.6415,Castello normanno svevo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/castello_normanno_svevo_40.5002_17.6415.json,custom

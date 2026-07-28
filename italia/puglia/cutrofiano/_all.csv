@@ -1,54 +1,53 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Cutrofiano -- Tutti
-40.090744,18.214295,osm_agriturismo_nobilterra_di_gorgoni_vincen_40.0907_18.2143,Agriturismo Nobilterra di Gorgoni Vincenzo,ristorante,ristorante
-40.127472,18.200883,osm_pizzeria_rosticceria_di_ripa_mauro_40.1275_18.2009,Pizzeria-Rosticceria di Ripa Mauro,ristorante,ristorante
-40.127260,18.201419,osm_pizzeria_mauro_40.1273_18.2014,Pizzeria Mauro,ristorante,ristorante
-40.125429,18.201414,osm_l_osteria_vini_divini_40.1254_18.2014,L'Osteria Vini Divini,ristorante,ristorante
-40.115431,18.161985,osm_villa_vergine_40.1154_18.1620,Villa Vergine,ristorante,ristorante
-40.127884,18.178978,osm_azienda_agricola_biologica_piccapane_40.1279_18.1790,Azienda Agricola Biologica Piccapane,ristorante,ristorante
-40.127323,18.202911,osm_tuela_ristorante_pizzeria_40.1273_18.2029,TuEla Ristorante Pizzeria,ristorante,ristorante
-40.069504,18.196546,ov_il_chiostro_ristorante___sangiorgio_reso_40.0695_18.1965,Il Chiostro Ristorante - Sangiorgio Resort,RESTAURANT,ristorante
-40.127680,18.199327,ov_puteka_salentina_40.1277_18.1993,Puteka Salentina,RESTAURANT,ristorante
-40.127349,18.202872,ov_tuela___ristorante_pizzeria_40.1273_18.2029,TuEla - Ristorante Pizzeria,RESTAURANT,ristorante
-40.125919,18.201098,ov_pesce_fritto_e_baccala_40.1259_18.2011,Pesce Fritto e Baccala,RESTAURANT,ristorante
-40.126073,18.201301,ov_love_of_christ_40.1261_18.2013,Love of Christ,RESTAURANT,ristorante
-40.126652,18.203407,ov_excelsior_piatti_tipici_40.1267_18.2034,Excelsior Piatti Tipici,RESTAURANT,ristorante
-40.126536,18.203408,ov_jack__n_jill_40.1265_18.2034,Jack 'n Jill,RESTAURANT,ristorante
-40.126705,18.201340,ov_laterradipuglia___prodotti_tipici_puglie_40.1267_18.2013,LaTerradiPuglia - Prodotti tipici pugliesi,RESTAURANT,ristorante
-40.127857,18.178989,ov_piccapane_vegan_farm_40.1279_18.1790,Piccapane Vegan Farm,RESTAURANT,ristorante
-40.124231,18.199047,ov_arnold_s_pizzeria_40.1242_18.1990,Arnold's Pizzeria,RESTAURANT,ristorante
-40.124430,18.198960,ov_agriturismo_nobilterra_40.1244_18.1990,Agriturismo Nobilterra,RESTAURANT,ristorante
-40.125432,18.201429,ov_l_osteria_vini_divini_40.1254_18.2014,L'Osteria Vini DiVini,RESTAURANT,ristorante
-40.125530,18.201532,ov_dada_birreria_pizzeria_40.1255_18.2015,DAda.Birreria.Pizzeria,RESTAURANT,ristorante
-40.123405,18.203365,ov_filocore_40.1234_18.2034,FiloCore,RESTAURANT,ristorante
-40.123310,18.203522,ov_ristorante_braceria_pizzeria_filocore_40.1233_18.2035,Ristorante Braceria Pizzeria Filocore,RESTAURANT,ristorante
-40.123182,18.201740,ov_agriturismo_tenuta_la_monaca_40.1232_18.2017,Agriturismo tenuta la monaca,RESTAURANT,ristorante
-40.119398,18.194089,ov_borgo_chiusa_40.1194_18.1941,Borgo Chiusa,RESTAURANT,ristorante
-40.115871,18.156752,ov_tenuta_mezzana_agriturismo_40.1159_18.1568,Tenuta Mezzana agriturismo,RESTAURANT,ristorante
-40.122770,18.110320,ov_pizzica_e_mozzica_40.1228_18.1103,Pizzica e mozzica,RESTAURANT,ristorante
-40.127896,18.203820,ov_l_antica_dispensa_40.1279_18.2038,L'Antica Dispensa,RESTAURANT,ristorante
-40.128910,18.203448,ov_kal_s_pizzeria_e_rosticceria_40.1289_18.2034,Kalòs Pizzeria e Rosticceria,RESTAURANT,ristorante
-40.126825,18.201878,ov_tabulounge_bar_40.1268_18.2019,Tabulounge Bar,RESTAURANT,bar_cafe
-40.126016,18.207327,ov_caffetteria_manco_40.1260_18.2073,Caffetteria Manco,RESTAURANT,bar_cafe
-40.125827,18.202605,ov_caff__saracino_40.1258_18.2026,Caffè Saracino,RESTAURANT,bar_cafe
-40.125773,18.202049,ov_smile_lounge_bar_40.1258_18.2020,Smile Lounge Bar,RESTAURANT,bar_cafe
-40.126280,18.199421,ov_crazy_bar_40.1263_18.1994,Crazy Bar,RESTAURANT,bar_cafe
-40.126421,18.201903,ov_bar_da_peppino_40.1264_18.2019,Bar da Peppino,RESTAURANT,bar_cafe
-40.126691,18.201357,ov_black___white_40.1267_18.2014,Black & White,RESTAURANT,bar_cafe
-40.127442,18.199152,ov_cialde_e_capsule_ciriolo_40.1274_18.1992,Cialde e capsule Ciriolo,RESTAURANT,bar_cafe
-40.127554,18.199048,ov_rossoenero_bar_40.1276_18.1990,Rossoenero Bar,RESTAURANT,bar_cafe
-40.124226,18.198883,ov_bar_snoopy_cutrofiano_40.1242_18.1989,Bar Snoopy Cutrofiano,RESTAURANT,bar_cafe
-40.125633,18.198786,ov_all_amico_bar_40.1256_18.1988,All Amico Bar,RESTAURANT,bar_cafe
-40.125440,18.198637,ov_eurobar_cutrofiano_40.1254_18.1986,Eurobar Cutrofiano,RESTAURANT,bar_cafe
-40.125360,18.199308,ov_pisco_bar_40.1254_18.1993,Pisco Bar,RESTAURANT,bar_cafe
-40.124100,18.204363,ov_70_metriquadri_40.1241_18.2044,70 Metriquadri,RESTAURANT,bar_cafe
-40.120030,18.199512,ov_gisby_40.1200_18.1995,Gisby,RESTAURANT,bar_cafe
-40.129158,18.200770,ov_commercio_40.1292_18.2008,Commercio,RESTAURANT,bar_cafe
-40.128283,18.202818,ov_bar_delle_rose_40.1283_18.2028,Bar Delle Rose,RESTAURANT,bar_cafe
-40.129011,18.200839,ov_fabric_40.1290_18.2008,Fabric,RESTAURANT,bar_cafe
-40.124380,18.202760,ov_palestra_flex_gym_and_wellness_40.1244_18.2028,Palestra Flex Gym and Wellness,GYM,palestra
-40.124035,18.200746,ov_armeria_brigante_caccia_40.1240_18.2007,Armeria Brigante Caccia,GYM,palestra
-40.130107,18.208015,ov_gym_fitness_40.1301_18.2080,Gym Fitness,GYM,palestra
-40.126438,18.201442,ov_museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014,Museo della Ceramica e Biblioteca di Cutrofiano,MUSEUM,monumento
-40.126645,18.201222,ov_monumento_a_san_pio_40.1266_18.2012,Monumento A San Pio,MONUMENT,monumento
-40.128000,18.208640,ov_cutrofiano_citt__della_ceramica_40.1280_18.2086,Cutrofiano Città della Ceramica,MUSEUM,monumento
+40.069504,18.196546,ov_il_chiostro_ristorante___sangiorgio_reso_40.0695_18.1965,Il Chiostro Ristorante - Sangiorgio Resort,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/il_chiostro_ristorante_-_sangiorgio_reso_40.0695_18.1965.json,custom
+40.127680,18.199327,ov_puteka_salentina_40.1277_18.1993,Puteka Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/puteka_salentina_40.1277_18.1993.json,custom
+40.127349,18.202872,ov_tuela___ristorante_pizzeria_40.1273_18.2029,TuEla - Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/tuela_-_ristorante_pizzeria_40.1273_18.2029.json,custom
+40.125919,18.201098,ov_pesce_fritto_e_baccala_40.1259_18.2011,Pesce Fritto e Baccala,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/pesce_fritto_e_baccala_40.1259_18.2011.json,custom
+40.126073,18.201301,ov_love_of_christ_40.1261_18.2013,Love of Christ,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/love_of_christ_40.1261_18.2013.json,custom
+40.126652,18.203407,ov_excelsior_piatti_tipici_40.1267_18.2034,Excelsior Piatti Tipici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/excelsior_piatti_tipici_40.1267_18.2034.json,custom
+40.126536,18.203408,ov_jack__n_jill_40.1265_18.2034,Jack 'n Jill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/jack_n_jill_40.1265_18.2034.json,custom
+40.126705,18.201340,ov_laterradipuglia___prodotti_tipici_puglie_40.1267_18.2013,LaTerradiPuglia - Prodotti tipici pugliesi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/laterradipuglia_-_prodotti_tipici_puglie_40.1267_18.2013.json,custom
+40.127857,18.178989,ov_piccapane_vegan_farm_40.1279_18.1790,Piccapane Vegan Farm,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/piccapane_vegan_farm_40.1279_18.1790.json,custom
+40.124231,18.199047,ov_arnold_s_pizzeria_40.1242_18.1990,Arnold's Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/arnolds_pizzeria_40.1242_18.1990.json,custom
+40.124430,18.198960,ov_agriturismo_nobilterra_40.1244_18.1990,Agriturismo Nobilterra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/agriturismo_nobilterra_40.1244_18.1990.json,custom
+40.125432,18.201429,ov_l_osteria_vini_divini_40.1254_18.2014,L'Osteria Vini DiVini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/losteria_vini_divini_40.1254_18.2014.json,custom
+40.125530,18.201532,ov_dada_birreria_pizzeria_40.1255_18.2015,DAda.Birreria.Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/dadabirreriapizzeria_40.1255_18.2015.json,custom
+40.123405,18.203365,ov_filocore_40.1234_18.2034,FiloCore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/filocore_40.1234_18.2034.json,custom
+40.123310,18.203522,ov_ristorante_braceria_pizzeria_filocore_40.1233_18.2035,Ristorante Braceria Pizzeria Filocore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/ristorante_braceria_pizzeria_filocore_40.1233_18.2035.json,custom
+40.123182,18.201740,ov_agriturismo_tenuta_la_monaca_40.1232_18.2017,Agriturismo tenuta la monaca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/agriturismo_tenuta_la_monaca_40.1232_18.2017.json,custom
+40.119398,18.194089,ov_borgo_chiusa_40.1194_18.1941,Borgo Chiusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/borgo_chiusa_40.1194_18.1941.json,custom
+40.115871,18.156752,ov_tenuta_mezzana_agriturismo_40.1159_18.1568,Tenuta Mezzana agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/tenuta_mezzana_agriturismo_40.1159_18.1568.json,custom
+40.122770,18.110320,ov_pizzica_e_mozzica_40.1228_18.1103,Pizzica e mozzica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/pizzica_e_mozzica_40.1228_18.1103.json,custom
+40.127896,18.203820,ov_l_antica_dispensa_40.1279_18.2038,L'Antica Dispensa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/lantica_dispensa_40.1279_18.2038.json,custom
+40.128910,18.203448,ov_kal_s_pizzeria_e_rosticceria_40.1289_18.2034,Kalòs Pizzeria e Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/kals_pizzeria_e_rosticceria_40.1289_18.2034.json,custom
+40.090744,18.214295,osm_agriturismo_nobilterra_di_gorgoni_vincen_40.0907_18.2143,Agriturismo Nobilterra di Gorgoni Vincenzo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/agriturismo_nobilterra_di_gorgoni_vincen_40.0907_18.2143.json,custom
+40.127472,18.200883,osm_pizzeria_rosticceria_di_ripa_mauro_40.1275_18.2009,Pizzeria-Rosticceria di Ripa Mauro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/pizzeria-rosticceria_di_ripa_mauro_40.1275_18.2009.json,custom
+40.127260,18.201419,osm_pizzeria_mauro_40.1273_18.2014,Pizzeria Mauro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/pizzeria_mauro_40.1273_18.2014.json,custom
+40.115431,18.161985,osm_villa_vergine_40.1154_18.1620,Villa Vergine,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/villa_vergine_40.1154_18.1620.json,custom
+40.127884,18.178978,osm_azienda_agricola_biologica_piccapane_40.1279_18.1790,Azienda Agricola Biologica Piccapane,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/azienda_agricola_biologica_piccapane_40.1279_18.1790.json,custom
+40.127323,18.202911,osm_tuela_ristorante_pizzeria_40.1273_18.2029,TuEla Ristorante Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/tuela_ristorante_pizzeria_40.1273_18.2029.json,custom
+40.126825,18.201878,ov_tabulounge_bar_40.1268_18.2019,Tabulounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/tabulounge_bar_40.1268_18.2019.json,custom
+40.126016,18.207327,ov_caffetteria_manco_40.1260_18.2073,Caffetteria Manco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/caffetteria_manco_40.1260_18.2073.json,custom
+40.125827,18.202605,ov_caff__saracino_40.1258_18.2026,Caffè Saracino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/caff_saracino_40.1258_18.2026.json,custom
+40.125773,18.202049,ov_smile_lounge_bar_40.1258_18.2020,Smile Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/smile_lounge_bar_40.1258_18.2020.json,custom
+40.126280,18.199421,ov_crazy_bar_40.1263_18.1994,Crazy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/crazy_bar_40.1263_18.1994.json,custom
+40.126421,18.201903,ov_bar_da_peppino_40.1264_18.2019,Bar da Peppino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/bar_da_peppino_40.1264_18.2019.json,custom
+40.126691,18.201357,ov_black___white_40.1267_18.2014,Black & White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/black_white_40.1267_18.2014.json,custom
+40.127442,18.199152,ov_cialde_e_capsule_ciriolo_40.1274_18.1992,Cialde e capsule Ciriolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/cialde_e_capsule_ciriolo_40.1274_18.1992.json,custom
+40.127554,18.199048,ov_rossoenero_bar_40.1276_18.1990,Rossoenero Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/rossoenero_bar_40.1276_18.1990.json,custom
+40.124226,18.198883,ov_bar_snoopy_cutrofiano_40.1242_18.1989,Bar Snoopy Cutrofiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/bar_snoopy_cutrofiano_40.1242_18.1989.json,custom
+40.125633,18.198786,ov_all_amico_bar_40.1256_18.1988,All Amico Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/all_amico_bar_40.1256_18.1988.json,custom
+40.125440,18.198637,ov_eurobar_cutrofiano_40.1254_18.1986,Eurobar Cutrofiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/eurobar_cutrofiano_40.1254_18.1986.json,custom
+40.125360,18.199308,ov_pisco_bar_40.1254_18.1993,Pisco Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/pisco_bar_40.1254_18.1993.json,custom
+40.124100,18.204363,ov_70_metriquadri_40.1241_18.2044,70 Metriquadri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/70_metriquadri_40.1241_18.2044.json,custom
+40.120030,18.199512,ov_gisby_40.1200_18.1995,Gisby,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/gisby_40.1200_18.1995.json,custom
+40.129158,18.200770,ov_commercio_40.1292_18.2008,Commercio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/commercio_40.1292_18.2008.json,custom
+40.128283,18.202818,ov_bar_delle_rose_40.1283_18.2028,Bar Delle Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/bar_delle_rose_40.1283_18.2028.json,custom
+40.129011,18.200839,ov_fabric_40.1290_18.2008,Fabric,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/fabric_40.1290_18.2008.json,custom
+40.124380,18.202760,ov_palestra_flex_gym_and_wellness_40.1244_18.2028,Palestra Flex Gym and Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/palestra_flex_gym_and_wellness_40.1244_18.2028.json,custom
+40.124035,18.200746,ov_armeria_brigante_caccia_40.1240_18.2007,Armeria Brigante Caccia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/armeria_brigante_caccia_40.1240_18.2007.json,custom
+40.130107,18.208015,ov_gym_fitness_40.1301_18.2080,Gym Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/gym_fitness_40.1301_18.2080.json,custom
+40.126438,18.201442,ov_museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014,Museo della Ceramica e Biblioteca di Cutrofiano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/museo_della_ceramica_e_biblioteca_di_cut_40.1264_18.2014.json,custom
+40.126645,18.201222,ov_monumento_a_san_pio_40.1266_18.2012,Monumento A San Pio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/monumento_a_san_pio_40.1266_18.2012.json,custom
+40.128000,18.208640,ov_cutrofiano_citt__della_ceramica_40.1280_18.2086,Cutrofiano Città della Ceramica,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cutrofiano/pages/cutrofiano_citt_della_ceramica_40.1280_18.2086.json,custom

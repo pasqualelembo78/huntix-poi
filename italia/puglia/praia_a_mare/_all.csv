@@ -1,91 +1,91 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Praia a Mare -- Tutti
-39.917397,15.779976,osm_ospedale_di_praia_a_mare_39.9174_15.7800,Ospedale di Praia a Mare,hospital,hospital
-39.917571,15.780194,ov_ospedale_civile_praia_a_mare_39.9176_15.7802,Ospedale Civile Praia a Mare,HOSPITAL,hospital
-39.909860,15.772780,ov_griglieria_officina_mediterranea_39.9099_15.7728,Griglieria Officina Mediterranea,RESTAURANT,ristorante
-39.909860,15.772780,ov_ristorante_vecchio_frantoio_39.9099_15.7728,Ristorante Vecchio Frantoio,RESTAURANT,ristorante
-39.913251,15.779338,ov_pizzeria_ferro_e_fuoco_39.9133_15.7793,Pizzeria Ferro E Fuoco,RESTAURANT,ristorante
-39.907665,15.781414,ov_pizzeria_n_ata_pasta_39.9077_15.7814,Pizzeria N'ata Pasta,RESTAURANT,ristorante
-39.887419,15.793102,ov_saraceno_39.8874_15.7931,Saraceno,RESTAURANT,ristorante
-39.886014,15.787587,ov_pizzeria_bar_emily_39.8860_15.7876,Pizzeria Bar Emily,RESTAURANT,ristorante
-39.892221,15.783540,ov_pizzeria___cucina_amici_s_39.8922_15.7835,Pizzeria & Cucina Amici's,RESTAURANT,ristorante
-39.896239,15.783408,ov_la_piedigrotta_39.8962_15.7834,La Piedigrotta,RESTAURANT,ristorante
-39.901754,15.778670,ov_friends_pub_di_domenico_covelli_39.9018_15.7787,Friends pub di Domenico Covelli,RESTAURANT,ristorante
-39.894553,15.782513,ov_il_ghiotto_39.8946_15.7825,Il Ghiotto,RESTAURANT,ristorante
-39.894697,15.782448,ov_ristorante_pizzeria_le_arcate_39.8947_15.7824,Ristorante Pizzeria Le Arcate,RESTAURANT,ristorante
-39.894778,15.782129,ov_c_ama_fa_39.8948_15.7821,C'ama Fa,RESTAURANT,ristorante
-39.895176,15.781928,ov_il_paiolo_magico_gga_39.8952_15.7819,Il Paiolo Magico_GGA,RESTAURANT,ristorante
-39.894965,15.780777,ov_rinaldi_pizzeria_39.8950_15.7808,Rinaldi Pizzeria,RESTAURANT,ristorante
-39.896399,15.780528,ov_la_cave_39.8964_15.7805,La Cave,RESTAURANT,ristorante
-39.896767,15.780517,ov_tranciorosso_39.8968_15.7805,TrancioRosso,RESTAURANT,ristorante
-39.896464,15.780639,ov_pizzeria_la_romana_39.8965_15.7806,Pizzeria La Romana,RESTAURANT,ristorante
-39.896502,15.781434,ov_ristorante_serrago_39.8965_15.7814,Ristorante Serrago,RESTAURANT,ristorante
-39.896536,15.781172,ov_il_fornaio_39.8965_15.7812,Il Fornaio,RESTAURANT,ristorante
-39.896563,15.781122,ov_made_in_sud_da_nino_39.8966_15.7811,Made in Sud da Nino,RESTAURANT,ristorante
-39.897414,15.780568,ov_burger_s_house_39.8974_15.7806,Burger's House,RESTAURANT,ristorante
-39.897430,15.780100,ov_porto_di_mare_39.8974_15.7801,Porto di Mare,RESTAURANT,ristorante
-39.897509,15.779908,ov_pizz_stop_39.8975_15.7799,Pizz Stop,RESTAURANT,ristorante
-39.897551,15.779821,ov_regina_reali_nel_gusto_39.8976_15.7798,Regina Reali Nel Gusto,RESTAURANT,ristorante
-39.895170,15.779740,ov_chiaia_ristorante_pizzeria_39.8952_15.7797,Chiaia Ristorante Pizzeria,RESTAURANT,ristorante
-39.895809,15.779408,ov_escopocodisera_39.8958_15.7794,Escopocodisera,RESTAURANT,ristorante
-39.896754,15.778522,ov_garden_restaurant_praia_39.8968_15.7785,Garden Restaurant Praia,RESTAURANT,ristorante
-39.898921,15.778502,ov_charlot_artigiani_della_pizza_39.8989_15.7785,Charlot Artigiani Della Pizza,RESTAURANT,ristorante
-39.898910,15.778830,ov_sindacato_italiano_balneari_calabria_39.8989_15.7788,Sindacato Italiano Balneari Calabria,RESTAURANT,ristorante
-39.898251,15.779642,ov_andujamu_39.8983_15.7796,Andujamu,RESTAURANT,ristorante
-39.897890,15.779992,ov_prosciutteria_la_rondinella_39.8979_15.7800,Prosciutteria La Rondinella,RESTAURANT,ristorante
-39.897965,15.779840,ov_vicolo_praja_39.8980_15.7798,Vicolo Praja,RESTAURANT,ristorante
-39.899377,15.778967,ov_mariposa_burger_and_bistrot_39.8994_15.7790,Mariposa Burger and Bistrot,RESTAURANT,ristorante
-39.899791,15.778613,ov_il_sospiro_39.8998_15.7786,Il Sospiro,RESTAURANT,ristorante
-39.899682,15.778449,ov_taverna_antica_39.8997_15.7784,Taverna Antica,RESTAURANT,ristorante
-39.900469,15.778393,ov_annare_ristorante_pizzeria_39.9005_15.7784,Annare Ristorante Pizzeria,RESTAURANT,ristorante
-39.898182,15.777303,ov_lido_nautilus_39.8982_15.7773,Lido Nautilus,RESTAURANT,ristorante
-39.897670,15.777810,ov_dino_restaurant___drink_39.8977_15.7778,Dino Restaurant & Drink,RESTAURANT,ristorante
-39.894403,15.782410,ov_ti_do_n__pizza_39.8944_15.7824,Ti Do Ná Pizza,RESTAURANT,ristorante
-39.894454,15.782484,ov_pensavopeggio_39.8945_15.7825,Pensavopeggio,RESTAURANT,ristorante
-39.873600,15.784381,ov_lido_caporena_39.8736_15.7844,Lido Caporena,RESTAURANT,ristorante
-39.873870,15.783790,ov_ristorante_bar_pizzeria_lido_da_roberto_39.8739_15.7838,Ristorante/Bar/Pizzeria Lido da Roberto,RESTAURANT,ristorante
-39.876382,15.788190,ov_pizzeria_la_mantinera_39.8764_15.7882,Pizzeria La Mantinera,RESTAURANT,ristorante
-39.871609,15.788971,ov_la_casetta_bianca_soul_restaurant_39.8716_15.7890,La Casetta Bianca Soul Restaurant,RESTAURANT,ristorante
-39.871531,15.787734,ov_lido_da_roberto_39.8715_15.7877,Lido da Roberto,RESTAURANT,ristorante
-39.873501,15.794783,ov_la_foresta_39.8735_15.7948,La Foresta,RESTAURANT,ristorante
-39.881270,15.796540,ov_ristorante_forest_villa_brazzano_39.8813_15.7965,Ristorante Forest Villa Brazzano,RESTAURANT,ristorante
-39.876991,15.800801,ov_trattoria_ticciabbaca_39.8770_15.8008,Trattoria Ticciabbaca,RESTAURANT,ristorante
-39.906856,15.777324,ov_bar_del_ponte_39.9069_15.7773,Bar del Ponte,RESTAURANT,bar_cafe
-39.912142,15.778828,ov_laccata_39.9121_15.7788,Laccata,RESTAURANT,bar_cafe
-39.886432,15.782964,ov_lido_peterpan_39.8864_15.7830,Lido PeterPan,RESTAURANT,bar_cafe
-39.887440,15.783520,ov_lido_red_91_39.8874_15.7835,Lido Red 91,RESTAURANT,bar_cafe
-39.892931,15.783224,ov_bar_smile_39.8929_15.7832,Bar Smile,RESTAURANT,bar_cafe
-39.891927,15.783724,ov_magic_bar_39.8919_15.7837,Magic Bar,RESTAURANT,bar_cafe
-39.893434,15.783095,ov_rio_plaza_cafe_39.8934_15.7831,Rio Plaza Cafe,RESTAURANT,bar_cafe
-39.898066,15.783403,ov_bottiglieria_da_nonno_angelo_39.8981_15.7834,Bottiglieria da Nonno Angelo,RESTAURANT,bar_cafe
-39.901496,15.778270,ov_silver_bar_39.9015_15.7783,Silver Bar,RESTAURANT,bar_cafe
-39.900819,15.780195,ov_binario_zero_39.9008_15.7802,Binario Zero,RESTAURANT,bar_cafe
-39.896564,15.781545,ov_30_posti_39.8966_15.7815,30 Posti,RESTAURANT,bar_cafe
-39.894492,15.782030,ov_mammamia_39.8945_15.7820,MammaMia,RESTAURANT,bar_cafe
-39.895755,15.781856,ov_bar_branca_39.8958_15.7819,Bar Branca,RESTAURANT,bar_cafe
-39.895579,15.781107,ov_la_bodeguita_39.8956_15.7811,La bodeguita,RESTAURANT,bar_cafe
-39.895480,15.780770,ov_torre_caf__39.8955_15.7808,Torre Cafè,RESTAURANT,bar_cafe
-39.896572,15.780924,ov_plaja_sclavorum_39.8966_15.7809,Plaja Sclavorum,RESTAURANT,bar_cafe
-39.896179,15.781478,ov_ritamadre_bar_branca_39.8962_15.7815,Ritamadre Bar Branca,RESTAURANT,bar_cafe
-39.898496,15.779054,ov_lounge_bar_ciacco_39.8985_15.7791,Lounge Bar Ciacco,RESTAURANT,bar_cafe
-39.898261,15.779194,ov_sailors_39.8983_15.7792,Sailors,RESTAURANT,bar_cafe
-39.897830,15.779130,ov_the_dom_exclusive_priv__39.8978_15.7791,The Dom Exclusive Privè,RESTAURANT,bar_cafe
-39.897998,15.779572,ov_bar_scalzipenna_39.8980_15.7796,Bar Scalzipenna,RESTAURANT,bar_cafe
-39.898177,15.779552,ov_bar_da_enzo_39.8982_15.7796,Bar Da Enzo,RESTAURANT,bar_cafe
-39.898177,15.779557,ov_seven_39.8982_15.7796,Seven,RESTAURANT,bar_cafe
-39.898440,15.779470,ov_triton_lounge_bar_39.8984_15.7795,Triton Lounge Bar,RESTAURANT,bar_cafe
-39.899508,15.779117,ov_madrigale_pub_39.8995_15.7791,Madrigale Pub,RESTAURANT,bar_cafe
-39.899678,15.778449,ov_bar_centrale_39.8997_15.7784,Bar Centrale,RESTAURANT,bar_cafe
-39.899652,15.778060,ov_karibe_lounge_music_club_39.8997_15.7781,Karibe lounge music club,RESTAURANT,bar_cafe
-39.898873,15.778038,ov_consorzio_turistico_del_tirreno_39.8989_15.7780,Consorzio Turistico del Tirreno,RESTAURANT,bar_cafe
-39.901218,15.774651,ov_delucas_lido_bar_39.9012_15.7747,Delucas lido/bar,RESTAURANT,bar_cafe
-39.901059,15.775681,ov_monkey_bar_39.9011_15.7757,monkey bar,RESTAURANT,bar_cafe
-39.894301,15.782207,ov_bar_tirreno_39.8943_15.7822,Bar Tirreno,RESTAURANT,bar_cafe
-39.894329,15.782444,ov_morgans_beverage_39.8943_15.7824,Morgans beverage,RESTAURANT,bar_cafe
-39.876158,15.793667,ov_bar_il_covo_39.8762_15.7937,Bar Il Covo,RESTAURANT,bar_cafe
-39.911314,15.778723,ov_physica_a_s_d__39.9113_15.7787,Physica A.s.d.,GYM,palestra
-39.909865,15.778141,ov_dojo_strength_39.9099_15.7781,Dojo Strength,GYM,palestra
-39.892321,15.782832,ov_mac_center_wellness___fitness_39.8923_15.7828,Mac Center Wellness & Fitness,GYM,palestra
-39.901320,15.782770,ov_asd_le_club_39.9013_15.7828,Asd Le Club,GYM,palestra
-39.898504,15.778631,ov_asd__enjoy_your_time_39.8985_15.7786,ASD  ENJOY your time,GYM,palestra
-39.881810,15.785331,ov_seahorse_diving_center_39.8818_15.7853,Seahorse Diving Center,GYM,palestra
+39.917571,15.780194,ov_ospedale_civile_praia_a_mare_39.9176_15.7802,Ospedale Civile Praia a Mare,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ospedale_civile_praia_a_mare_39.9176_15.7802.json,custom
+39.917397,15.779976,osm_ospedale_di_praia_a_mare_39.9174_15.7800,Ospedale di Praia a Mare,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ospedale_di_praia_a_mare_39.9174_15.7800.json,custom
+39.909860,15.772780,ov_griglieria_officina_mediterranea_39.9099_15.7728,Griglieria Officina Mediterranea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/griglieria_officina_mediterranea_39.9099_15.7728.json,custom
+39.909860,15.772780,ov_ristorante_vecchio_frantoio_39.9099_15.7728,Ristorante Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ristorante_vecchio_frantoio_39.9099_15.7728.json,custom
+39.913251,15.779338,ov_pizzeria_ferro_e_fuoco_39.9133_15.7793,Pizzeria Ferro E Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_ferro_e_fuoco_39.9133_15.7793.json,custom
+39.907665,15.781414,ov_pizzeria_n_ata_pasta_39.9077_15.7814,Pizzeria N'ata Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_nata_pasta_39.9077_15.7814.json,custom
+39.887419,15.793102,ov_saraceno_39.8874_15.7931,Saraceno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/saraceno_39.8874_15.7931.json,custom
+39.886014,15.787587,ov_pizzeria_bar_emily_39.8860_15.7876,Pizzeria Bar Emily,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_bar_emily_39.8860_15.7876.json,custom
+39.892221,15.783540,ov_pizzeria___cucina_amici_s_39.8922_15.7835,Pizzeria & Cucina Amici's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_cucina_amicis_39.8922_15.7835.json,custom
+39.896239,15.783408,ov_la_piedigrotta_39.8962_15.7834,La Piedigrotta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/la_piedigrotta_39.8962_15.7834.json,custom
+39.901754,15.778670,ov_friends_pub_di_domenico_covelli_39.9018_15.7787,Friends pub di Domenico Covelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/friends_pub_di_domenico_covelli_39.9018_15.7787.json,custom
+39.894553,15.782513,ov_il_ghiotto_39.8946_15.7825,Il Ghiotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/il_ghiotto_39.8946_15.7825.json,custom
+39.894697,15.782448,ov_ristorante_pizzeria_le_arcate_39.8947_15.7824,Ristorante Pizzeria Le Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ristorante_pizzeria_le_arcate_39.8947_15.7824.json,custom
+39.894778,15.782129,ov_c_ama_fa_39.8948_15.7821,C'ama Fa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/cama_fa_39.8948_15.7821.json,custom
+39.895176,15.781928,ov_il_paiolo_magico_gga_39.8952_15.7819,Il Paiolo Magico_GGA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/il_paiolo_magicogga_39.8952_15.7819.json,custom
+39.894965,15.780777,ov_rinaldi_pizzeria_39.8950_15.7808,Rinaldi Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/rinaldi_pizzeria_39.8950_15.7808.json,custom
+39.896399,15.780528,ov_la_cave_39.8964_15.7805,La Cave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/la_cave_39.8964_15.7805.json,custom
+39.896767,15.780517,ov_tranciorosso_39.8968_15.7805,TrancioRosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/tranciorosso_39.8968_15.7805.json,custom
+39.896464,15.780639,ov_pizzeria_la_romana_39.8965_15.7806,Pizzeria La Romana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_la_romana_39.8965_15.7806.json,custom
+39.896502,15.781434,ov_ristorante_serrago_39.8965_15.7814,Ristorante Serrago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ristorante_serrago_39.8965_15.7814.json,custom
+39.896536,15.781172,ov_il_fornaio_39.8965_15.7812,Il Fornaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/il_fornaio_39.8965_15.7812.json,custom
+39.896563,15.781122,ov_made_in_sud_da_nino_39.8966_15.7811,Made in Sud da Nino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/made_in_sud_da_nino_39.8966_15.7811.json,custom
+39.897414,15.780568,ov_burger_s_house_39.8974_15.7806,Burger's House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/burgers_house_39.8974_15.7806.json,custom
+39.897430,15.780100,ov_porto_di_mare_39.8974_15.7801,Porto di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/porto_di_mare_39.8974_15.7801.json,custom
+39.897509,15.779908,ov_pizz_stop_39.8975_15.7799,Pizz Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizz_stop_39.8975_15.7799.json,custom
+39.897551,15.779821,ov_regina_reali_nel_gusto_39.8976_15.7798,Regina Reali Nel Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/regina_reali_nel_gusto_39.8976_15.7798.json,custom
+39.895170,15.779740,ov_chiaia_ristorante_pizzeria_39.8952_15.7797,Chiaia Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/chiaia_ristorante_pizzeria_39.8952_15.7797.json,custom
+39.895809,15.779408,ov_escopocodisera_39.8958_15.7794,Escopocodisera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/escopocodisera_39.8958_15.7794.json,custom
+39.896754,15.778522,ov_garden_restaurant_praia_39.8968_15.7785,Garden Restaurant Praia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/garden_restaurant_praia_39.8968_15.7785.json,custom
+39.898921,15.778502,ov_charlot_artigiani_della_pizza_39.8989_15.7785,Charlot Artigiani Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/charlot_artigiani_della_pizza_39.8989_15.7785.json,custom
+39.898910,15.778830,ov_sindacato_italiano_balneari_calabria_39.8989_15.7788,Sindacato Italiano Balneari Calabria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/sindacato_italiano_balneari_calabria_39.8989_15.7788.json,custom
+39.898251,15.779642,ov_andujamu_39.8983_15.7796,Andujamu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/andujamu_39.8983_15.7796.json,custom
+39.897890,15.779992,ov_prosciutteria_la_rondinella_39.8979_15.7800,Prosciutteria La Rondinella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/prosciutteria_la_rondinella_39.8979_15.7800.json,custom
+39.897965,15.779840,ov_vicolo_praja_39.8980_15.7798,Vicolo Praja,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/vicolo_praja_39.8980_15.7798.json,custom
+39.899377,15.778967,ov_mariposa_burger_and_bistrot_39.8994_15.7790,Mariposa Burger and Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/mariposa_burger_and_bistrot_39.8994_15.7790.json,custom
+39.899791,15.778613,ov_il_sospiro_39.8998_15.7786,Il Sospiro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/il_sospiro_39.8998_15.7786.json,custom
+39.899682,15.778449,ov_taverna_antica_39.8997_15.7784,Taverna Antica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/taverna_antica_39.8997_15.7784.json,custom
+39.900469,15.778393,ov_annare_ristorante_pizzeria_39.9005_15.7784,Annare Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/annare_ristorante_pizzeria_39.9005_15.7784.json,custom
+39.898182,15.777303,ov_lido_nautilus_39.8982_15.7773,Lido Nautilus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lido_nautilus_39.8982_15.7773.json,custom
+39.897670,15.777810,ov_dino_restaurant___drink_39.8977_15.7778,Dino Restaurant & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/dino_restaurant_drink_39.8977_15.7778.json,custom
+39.894403,15.782410,ov_ti_do_n__pizza_39.8944_15.7824,Ti Do Ná Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ti_do_n_pizza_39.8944_15.7824.json,custom
+39.894454,15.782484,ov_pensavopeggio_39.8945_15.7825,Pensavopeggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pensavopeggio_39.8945_15.7825.json,custom
+39.873600,15.784381,ov_lido_caporena_39.8736_15.7844,Lido Caporena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lido_caporena_39.8736_15.7844.json,custom
+39.873870,15.783790,ov_ristorante_bar_pizzeria_lido_da_roberto_39.8739_15.7838,Ristorante/Bar/Pizzeria Lido da Roberto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ristorantebarpizzeria_lido_da_roberto_39.8739_15.7838.json,custom
+39.876382,15.788190,ov_pizzeria_la_mantinera_39.8764_15.7882,Pizzeria La Mantinera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/pizzeria_la_mantinera_39.8764_15.7882.json,custom
+39.871609,15.788971,ov_la_casetta_bianca_soul_restaurant_39.8716_15.7890,La Casetta Bianca Soul Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/la_casetta_bianca_soul_restaurant_39.8716_15.7890.json,custom
+39.871531,15.787734,ov_lido_da_roberto_39.8715_15.7877,Lido da Roberto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lido_da_roberto_39.8715_15.7877.json,custom
+39.873501,15.794783,ov_la_foresta_39.8735_15.7948,La Foresta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/la_foresta_39.8735_15.7948.json,custom
+39.881270,15.796540,ov_ristorante_forest_villa_brazzano_39.8813_15.7965,Ristorante Forest Villa Brazzano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ristorante_forest_villa_brazzano_39.8813_15.7965.json,custom
+39.876991,15.800801,ov_trattoria_ticciabbaca_39.8770_15.8008,Trattoria Ticciabbaca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/trattoria_ticciabbaca_39.8770_15.8008.json,custom
+39.906856,15.777324,ov_bar_del_ponte_39.9069_15.7773,Bar del Ponte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_del_ponte_39.9069_15.7773.json,custom
+39.912142,15.778828,ov_laccata_39.9121_15.7788,Laccata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/laccata_39.9121_15.7788.json,custom
+39.886432,15.782964,ov_lido_peterpan_39.8864_15.7830,Lido PeterPan,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lido_peterpan_39.8864_15.7830.json,custom
+39.887440,15.783520,ov_lido_red_91_39.8874_15.7835,Lido Red 91,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lido_red_91_39.8874_15.7835.json,custom
+39.892931,15.783224,ov_bar_smile_39.8929_15.7832,Bar Smile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_smile_39.8929_15.7832.json,custom
+39.891927,15.783724,ov_magic_bar_39.8919_15.7837,Magic Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/magic_bar_39.8919_15.7837.json,custom
+39.893434,15.783095,ov_rio_plaza_cafe_39.8934_15.7831,Rio Plaza Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/rio_plaza_cafe_39.8934_15.7831.json,custom
+39.898066,15.783403,ov_bottiglieria_da_nonno_angelo_39.8981_15.7834,Bottiglieria da Nonno Angelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bottiglieria_da_nonno_angelo_39.8981_15.7834.json,custom
+39.901496,15.778270,ov_silver_bar_39.9015_15.7783,Silver Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/silver_bar_39.9015_15.7783.json,custom
+39.900819,15.780195,ov_binario_zero_39.9008_15.7802,Binario Zero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/binario_zero_39.9008_15.7802.json,custom
+39.896564,15.781545,ov_30_posti_39.8966_15.7815,30 Posti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/30_posti_39.8966_15.7815.json,custom
+39.894492,15.782030,ov_mammamia_39.8945_15.7820,MammaMia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/mammamia_39.8945_15.7820.json,custom
+39.895755,15.781856,ov_bar_branca_39.8958_15.7819,Bar Branca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_branca_39.8958_15.7819.json,custom
+39.895579,15.781107,ov_la_bodeguita_39.8956_15.7811,La bodeguita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/la_bodeguita_39.8956_15.7811.json,custom
+39.895480,15.780770,ov_torre_caf__39.8955_15.7808,Torre Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/torre_caf_39.8955_15.7808.json,custom
+39.896572,15.780924,ov_plaja_sclavorum_39.8966_15.7809,Plaja Sclavorum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/plaja_sclavorum_39.8966_15.7809.json,custom
+39.896179,15.781478,ov_ritamadre_bar_branca_39.8962_15.7815,Ritamadre Bar Branca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/ritamadre_bar_branca_39.8962_15.7815.json,custom
+39.898496,15.779054,ov_lounge_bar_ciacco_39.8985_15.7791,Lounge Bar Ciacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/lounge_bar_ciacco_39.8985_15.7791.json,custom
+39.898261,15.779194,ov_sailors_39.8983_15.7792,Sailors,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/sailors_39.8983_15.7792.json,custom
+39.897830,15.779130,ov_the_dom_exclusive_priv__39.8978_15.7791,The Dom Exclusive Privè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/the_dom_exclusive_priv_39.8978_15.7791.json,custom
+39.897998,15.779572,ov_bar_scalzipenna_39.8980_15.7796,Bar Scalzipenna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_scalzipenna_39.8980_15.7796.json,custom
+39.898177,15.779552,ov_bar_da_enzo_39.8982_15.7796,Bar Da Enzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_da_enzo_39.8982_15.7796.json,custom
+39.898177,15.779557,ov_seven_39.8982_15.7796,Seven,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/seven_39.8982_15.7796.json,custom
+39.898440,15.779470,ov_triton_lounge_bar_39.8984_15.7795,Triton Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/triton_lounge_bar_39.8984_15.7795.json,custom
+39.899508,15.779117,ov_madrigale_pub_39.8995_15.7791,Madrigale Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/madrigale_pub_39.8995_15.7791.json,custom
+39.899678,15.778449,ov_bar_centrale_39.8997_15.7784,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_centrale_39.8997_15.7784.json,custom
+39.899652,15.778060,ov_karibe_lounge_music_club_39.8997_15.7781,Karibe lounge music club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/karibe_lounge_music_club_39.8997_15.7781.json,custom
+39.898873,15.778038,ov_consorzio_turistico_del_tirreno_39.8989_15.7780,Consorzio Turistico del Tirreno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/consorzio_turistico_del_tirreno_39.8989_15.7780.json,custom
+39.901218,15.774651,ov_delucas_lido_bar_39.9012_15.7747,Delucas lido/bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/delucas_lidobar_39.9012_15.7747.json,custom
+39.901059,15.775681,ov_monkey_bar_39.9011_15.7757,monkey bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/monkey_bar_39.9011_15.7757.json,custom
+39.894301,15.782207,ov_bar_tirreno_39.8943_15.7822,Bar Tirreno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_tirreno_39.8943_15.7822.json,custom
+39.894329,15.782444,ov_morgans_beverage_39.8943_15.7824,Morgans beverage,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/morgans_beverage_39.8943_15.7824.json,custom
+39.876158,15.793667,ov_bar_il_covo_39.8762_15.7937,Bar Il Covo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/bar_il_covo_39.8762_15.7937.json,custom
+39.911314,15.778723,ov_physica_a_s_d__39.9113_15.7787,Physica A.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/physica_asd_39.9113_15.7787.json,custom
+39.909865,15.778141,ov_dojo_strength_39.9099_15.7781,Dojo Strength,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/dojo_strength_39.9099_15.7781.json,custom
+39.892321,15.782832,ov_mac_center_wellness___fitness_39.8923_15.7828,Mac Center Wellness & Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/mac_center_wellness_fitness_39.8923_15.7828.json,custom
+39.901320,15.782770,ov_asd_le_club_39.9013_15.7828,Asd Le Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/asd_le_club_39.9013_15.7828.json,custom
+39.898504,15.778631,ov_asd__enjoy_your_time_39.8985_15.7786,ASD  ENJOY your time,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/asd_enjoy_your_time_39.8985_15.7786.json,custom
+39.881810,15.785331,ov_seahorse_diving_center_39.8818_15.7853,Seahorse Diving Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/praia_a_mare/pages/seahorse_diving_center_39.8818_15.7853.json,custom

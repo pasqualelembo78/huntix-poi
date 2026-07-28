@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_marzano_di_san_giuseppe -- bars_cafes
-40.453735,17.506853,ov_new_fashion_bar_40.4537_17.5069,New Fashion Bar,RESTAURANT,bar_cafe
-40.452250,17.509420,ov_agip_caf__avetrana_40.4522_17.5094,Agip Café Avetrana,RESTAURANT,bar_cafe
-40.451940,17.508424,ov_coffee_time_40.4519_17.5084,Coffee Time,RESTAURANT,bar_cafe
-40.451960,17.505475,ov_pink_bar_40.4520_17.5055,Pink Bar,RESTAURANT,bar_cafe
-40.452121,17.505543,ov_caffeine_wine_bar_40.4521_17.5055,Caffeine Wine Bar,RESTAURANT,bar_cafe
-40.450379,17.505340,ov_il_santo_bevitore_40.4504_17.5053,Il Santo Bevitore,RESTAURANT,bar_cafe
-40.450469,17.505043,ov_bar_borsci_40.4505_17.5050,Bar Borsci,RESTAURANT,bar_cafe
-40.437373,17.515112,ov_red_house_bar_40.4374_17.5151,Red House Bar,RESTAURANT,bar_cafe
-40.451918,17.508172,osm_new_york_lounge_bar_40.4519_17.5082,New York Lounge Bar,bar_cafe,bar_cafe
-40.450036,17.504834,osm_il_mito_40.4500_17.5048,Il Mito,bar_cafe,bar_cafe
-40.451343,17.505167,osm_lady_coffe_di_donzella_benedetto_40.4513_17.5052,Lady Coffe Di Donzella Benedetto,bar_cafe,bar_cafe
-40.452866,17.504834,osm_club_77_lounge_bar___food_40.4529_17.5048,Club 77 Lounge Bar & Food,bar_cafe,bar_cafe
-40.453822,17.509176,osm_sweetdreams_s_r_l_da_palazzone_40.4538_17.5092,Sweetdreams s.r.l da palazzone,bar_cafe,bar_cafe
-40.450506,17.504974,osm_bar_borsci_40.4505_17.5050,Bar Borsci,bar_cafe,bar_cafe
-40.455745,17.502711,osm_bar_sala_slot_40.4557_17.5027,Bar Sala Slot,bar_cafe,bar_cafe
-40.445872,17.507300,osm_al_dolce_ritrovo_40.4459_17.5073,Al Dolce Ritrovo,bar_cafe,bar_cafe
+40.453735,17.506853,ov_new_fashion_bar_40.4537_17.5069,New Fashion Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/new_fashion_bar_40.4537_17.5069.json,custom
+40.452250,17.509420,ov_agip_caf__avetrana_40.4522_17.5094,Agip Café Avetrana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/agip_caf_avetrana_40.4522_17.5094.json,custom
+40.451940,17.508424,ov_coffee_time_40.4519_17.5084,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/coffee_time_40.4519_17.5084.json,custom
+40.451960,17.505475,ov_pink_bar_40.4520_17.5055,Pink Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/pink_bar_40.4520_17.5055.json,custom
+40.452121,17.505543,ov_caffeine_wine_bar_40.4521_17.5055,Caffeine Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/caffeine_wine_bar_40.4521_17.5055.json,custom
+40.450379,17.505340,ov_il_santo_bevitore_40.4504_17.5053,Il Santo Bevitore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/il_santo_bevitore_40.4504_17.5053.json,custom
+40.450469,17.505043,ov_bar_borsci_40.4505_17.5050,Bar Borsci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/bar_borsci_40.4505_17.5050.json,custom
+40.437373,17.515112,ov_red_house_bar_40.4374_17.5151,Red House Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/red_house_bar_40.4374_17.5151.json,custom
+40.451918,17.508172,osm_new_york_lounge_bar_40.4519_17.5082,New York Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/new_york_lounge_bar_40.4519_17.5082.json,custom
+40.450036,17.504834,osm_il_mito_40.4500_17.5048,Il Mito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/il_mito_40.4500_17.5048.json,custom
+40.451343,17.505167,osm_lady_coffe_di_donzella_benedetto_40.4513_17.5052,Lady Coffe Di Donzella Benedetto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/lady_coffe_di_donzella_benedetto_40.4513_17.5052.json,custom
+40.452866,17.504834,osm_club_77_lounge_bar___food_40.4529_17.5048,Club 77 Lounge Bar & Food,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/club_77_lounge_bar_food_40.4529_17.5048.json,custom
+40.453822,17.509176,osm_sweetdreams_s_r_l_da_palazzone_40.4538_17.5092,Sweetdreams s.r.l da palazzone,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/sweetdreams_srl_da_palazzone_40.4538_17.5092.json,custom
+40.450506,17.504974,osm_bar_borsci_40.4505_17.5050,Bar Borsci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/bar_borsci_40.4505_17.5050.json,custom
+40.455745,17.502711,osm_bar_sala_slot_40.4557_17.5027,Bar Sala Slot,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/bar_sala_slot_40.4557_17.5027.json,custom
+40.445872,17.507300,osm_al_dolce_ritrovo_40.4459_17.5073,Al Dolce Ritrovo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_marzano_di_san_giuseppe/pages/al_dolce_ritrovo_40.4459_17.5073.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # stornarella -- bars_cafes
-41.256760,15.732523,ov_flower_bar_41.2568_15.7325,Flower bar,RESTAURANT,bar_cafe
-41.256880,15.730431,ov_antonii_di_corato_41.2569_15.7304,Antonii Di Corato,RESTAURANT,bar_cafe
-41.252687,15.731288,ov_garden_bar_41.2527_15.7313,Garden Bar,RESTAURANT,bar_cafe
+41.256760,15.732523,ov_flower_bar_41.2568_15.7325,Flower bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornarella/pages/flower_bar_41.2568_15.7325.json,custom
+41.256880,15.730431,ov_antonii_di_corato_41.2569_15.7304,Antonii Di Corato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornarella/pages/antonii_di_corato_41.2569_15.7304.json,custom
+41.252687,15.731288,ov_garden_bar_41.2527_15.7313,Garden Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornarella/pages/garden_bar_41.2527_15.7313.json,custom

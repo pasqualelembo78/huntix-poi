@@ -1,34 +1,33 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Specchia -- Tutti
-39.937551,18.312485,osm_caiaffa_39.9376_18.3125,Caiaffa,ristorante,ristorante
-39.941362,18.300441,osm_trattoria_da_coppuledda_39.9414_18.3004,Trattoria da Coppuledda,ristorante,ristorante
-39.942713,18.298199,osm_spicchi_d_arte_39.9427_18.2982,Spicchi d'Arte,ristorante,ristorante
-39.937062,18.298331,osm_la_brujita_39.9371_18.2983,La Brujita,ristorante,ristorante
-39.935503,18.302434,osm_eccoci_qua_39.9355_18.3024,Eccoci Qua,ristorante,ristorante
-39.934508,18.304620,osm_la_ficarigna_ristorante_39.9345_18.3046,La Ficarigna Ristorante,ristorante,ristorante
-39.936219,18.303688,osm_cantine_macinate_1931_39.9362_18.3037,Cantine Macinate 1931,ristorante,ristorante
-39.920454,18.312678,osm_tenuta_san_leonardo_39.9205_18.3127,Tenuta San Leonardo,ristorante,ristorante
-39.941357,18.300398,ov_da_coppuledda_39.9414_18.3004,Da Coppuledda,RESTAURANT,ristorante
-39.941892,18.300541,ov_la_friggitoria_di_coppuledda_39.9419_18.3005,La Friggitoria di Coppuledda,RESTAURANT,ristorante
-39.942915,18.301351,ov_tenuta_sanleonardo_39.9429_18.3014,Tenuta SanLeonardo,RESTAURANT,ristorante
-39.942137,18.299349,ov_crepes___yo_39.9421_18.2993,Crepes & Yo,RESTAURANT,ristorante
-39.942126,18.299215,ov_la_bettola_di_pericle_39.9421_18.2992,La Bettola di Pericle,RESTAURANT,ristorante
-39.941767,18.299555,ov_antica_salumeria_ricchiuto_39.9418_18.2996,Antica Salumeria Ricchiuto,RESTAURANT,ristorante
-39.941809,18.298156,ov_corte_degli_aranci_39.9418_18.2982,Corte degli Aranci,RESTAURANT,ristorante
-39.940416,18.298814,ov_pizzeria_specchia_l_archetto_39.9404_18.2988,Pizzeria Specchia L'Archetto,RESTAURANT,ristorante
-39.938878,18.297587,ov_trancio_villa_39.9389_18.2976,Trancio Villa,RESTAURANT,ristorante
-39.938252,18.297252,ov_acquolina_in_bocca_39.9383_18.2973,Acquolina in Bocca,RESTAURANT,ristorante
-39.937043,18.298367,ov_la_brujita_39.9370_18.2984,La Brujita,RESTAURANT,ristorante
-39.934453,18.304484,ov_ristorante_la_ficarigna_39.9345_18.3045,Ristorante la Ficarigna,RESTAURANT,ristorante
-39.936272,18.303559,ov_macinate_cantine_1931_39.9363_18.3036,Macinate Cantine 1931,RESTAURANT,ristorante
-39.937425,18.312502,ov_caiaffa_39.9374_18.3125,Caiaffa,RESTAURANT,ristorante
-39.925740,18.306902,ov_laniena_39.9257_18.3069,Laniena,RESTAURANT,ristorante
-39.947205,18.268556,ov_borgo_cardigliano_39.9472_18.2686,Borgo Cardigliano,RESTAURANT,ristorante
-39.942000,18.299350,ov_martinucci_laboratory_39.9420_18.2994,Martinucci Laboratory,RESTAURANT,bar_cafe
-39.941813,18.299661,ov_bar_al_castello_39.9418_18.2997,Bar Al Castello,RESTAURANT,bar_cafe
-39.940933,18.298787,ov_caffetteria_sorte_noscia_39.9409_18.2988,Caffetteria Sorte Noscia,RESTAURANT,bar_cafe
-39.937707,18.297582,ov_diciotto_39.9377_18.2976,Diciotto,RESTAURANT,bar_cafe
-39.937227,18.295807,ov_ventidue_aperitif_39.9372_18.2958,Ventidue Aperitif,RESTAURANT,bar_cafe
-39.940959,18.299797,osm_caff__degli_artisti_39.9410_18.2998,Caffè degli Artisti,bar_cafe,bar_cafe
-39.940421,18.298623,osm_le_mille_voglie_39.9404_18.2986,Le Mille Voglie,bar_cafe,bar_cafe
-39.942056,18.299577,ov_castello_risolo_39.9421_18.2996,Castello Risolo,MONUMENT,monumento
+39.941357,18.300398,ov_da_coppuledda_39.9414_18.3004,Da Coppuledda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/da_coppuledda_39.9414_18.3004.json,custom
+39.941892,18.300541,ov_la_friggitoria_di_coppuledda_39.9419_18.3005,La Friggitoria di Coppuledda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/la_friggitoria_di_coppuledda_39.9419_18.3005.json,custom
+39.942915,18.301351,ov_tenuta_sanleonardo_39.9429_18.3014,Tenuta SanLeonardo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/tenuta_sanleonardo_39.9429_18.3014.json,custom
+39.942137,18.299349,ov_crepes___yo_39.9421_18.2993,Crepes & Yo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/crepes_yo_39.9421_18.2993.json,custom
+39.942126,18.299215,ov_la_bettola_di_pericle_39.9421_18.2992,La Bettola di Pericle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/la_bettola_di_pericle_39.9421_18.2992.json,custom
+39.941767,18.299555,ov_antica_salumeria_ricchiuto_39.9418_18.2996,Antica Salumeria Ricchiuto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/antica_salumeria_ricchiuto_39.9418_18.2996.json,custom
+39.941809,18.298156,ov_corte_degli_aranci_39.9418_18.2982,Corte degli Aranci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/corte_degli_aranci_39.9418_18.2982.json,custom
+39.940416,18.298814,ov_pizzeria_specchia_l_archetto_39.9404_18.2988,Pizzeria Specchia L'Archetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/pizzeria_specchia_larchetto_39.9404_18.2988.json,custom
+39.938878,18.297587,ov_trancio_villa_39.9389_18.2976,Trancio Villa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/trancio_villa_39.9389_18.2976.json,custom
+39.938252,18.297252,ov_acquolina_in_bocca_39.9383_18.2973,Acquolina in Bocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/acquolina_in_bocca_39.9383_18.2973.json,custom
+39.937043,18.298367,ov_la_brujita_39.9370_18.2984,La Brujita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/la_brujita_39.9370_18.2984.json,custom
+39.934453,18.304484,ov_ristorante_la_ficarigna_39.9345_18.3045,Ristorante la Ficarigna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/ristorante_la_ficarigna_39.9345_18.3045.json,custom
+39.936272,18.303559,ov_macinate_cantine_1931_39.9363_18.3036,Macinate Cantine 1931,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/macinate_cantine_1931_39.9363_18.3036.json,custom
+39.937425,18.312502,ov_caiaffa_39.9374_18.3125,Caiaffa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/caiaffa_39.9374_18.3125.json,custom
+39.925740,18.306902,ov_laniena_39.9257_18.3069,Laniena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/laniena_39.9257_18.3069.json,custom
+39.947205,18.268556,ov_borgo_cardigliano_39.9472_18.2686,Borgo Cardigliano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/borgo_cardigliano_39.9472_18.2686.json,custom
+39.937551,18.312485,osm_caiaffa_39.9376_18.3125,Caiaffa,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/caiaffa_39.9376_18.3125.json,custom
+39.941362,18.300441,osm_trattoria_da_coppuledda_39.9414_18.3004,Trattoria da Coppuledda,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/trattoria_da_coppuledda_39.9414_18.3004.json,custom
+39.942713,18.298199,osm_spicchi_d_arte_39.9427_18.2982,Spicchi d'Arte,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/spicchi_darte_39.9427_18.2982.json,custom
+39.935503,18.302434,osm_eccoci_qua_39.9355_18.3024,Eccoci Qua,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/eccoci_qua_39.9355_18.3024.json,custom
+39.934508,18.304620,osm_la_ficarigna_ristorante_39.9345_18.3046,La Ficarigna Ristorante,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/la_ficarigna_ristorante_39.9345_18.3046.json,custom
+39.936219,18.303688,osm_cantine_macinate_1931_39.9362_18.3037,Cantine Macinate 1931,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/cantine_macinate_1931_39.9362_18.3037.json,custom
+39.920454,18.312678,osm_tenuta_san_leonardo_39.9205_18.3127,Tenuta San Leonardo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/tenuta_san_leonardo_39.9205_18.3127.json,custom
+39.942000,18.299350,ov_martinucci_laboratory_39.9420_18.2994,Martinucci Laboratory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/martinucci_laboratory_39.9420_18.2994.json,custom
+39.941813,18.299661,ov_bar_al_castello_39.9418_18.2997,Bar Al Castello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/bar_al_castello_39.9418_18.2997.json,custom
+39.940933,18.298787,ov_caffetteria_sorte_noscia_39.9409_18.2988,Caffetteria Sorte Noscia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/caffetteria_sorte_noscia_39.9409_18.2988.json,custom
+39.937707,18.297582,ov_diciotto_39.9377_18.2976,Diciotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/diciotto_39.9377_18.2976.json,custom
+39.937227,18.295807,ov_ventidue_aperitif_39.9372_18.2958,Ventidue Aperitif,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/ventidue_aperitif_39.9372_18.2958.json,custom
+39.940959,18.299797,osm_caff__degli_artisti_39.9410_18.2998,Caffè degli Artisti,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/caff_degli_artisti_39.9410_18.2998.json,custom
+39.940421,18.298623,osm_le_mille_voglie_39.9404_18.2986,Le Mille Voglie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/le_mille_voglie_39.9404_18.2986.json,custom
+39.942056,18.299577,ov_castello_risolo_39.9421_18.2996,Castello Risolo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/specchia/pages/castello_risolo_39.9421_18.2996.json,custom

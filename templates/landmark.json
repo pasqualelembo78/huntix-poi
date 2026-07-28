@@ -1,0 +1,9 @@
+{
+  "banner": { "icon": "\uD83C\uDFF0", "title": "{name}", "subtitle": "Monumento", "color": "#5D4037" },
+  "sections": [
+    {"type":"text","title":"Informazioni","content":"Benvenuto a {name}.\nUno dei luoghi pi\u00f9 affascinanti da visitare."},
+    {"type":"action","title":"Scatta una Foto","emoji":"\uD83D\uDCF7","action":{"type":"consume","need":"fun","gain":25}},
+    {"type":"action","title":"Leggi la Storia","emoji":"\uD83D\uDCD6","action":{"type":"consume","need":"fun","gain":20}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

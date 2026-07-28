@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # gallipoli -- landmarks
-40.053600,17.973200,ov_mura_urbiche_di_gallipoli_40.0536_17.9732,Mura Urbiche di Gallipoli,MONUMENT,monumento
-40.053031,17.974297,ov_chiostro_di_san_domenico__gallipoli_40.0530_17.9743,"Chiostro Di San Domenico, Gallipoli",MONUMENT,monumento
-40.054626,17.976229,ov_agata_provenzano_40.0546_17.9762,Agata Provenzano,MONUMENT,monumento
-40.054976,17.976248,ov_gallipoli_40.0550_17.9762,Gallipoli,MUSEUM,monumento
-40.054944,17.976892,ov_museo_diocesano_di_gallipoli_40.0549_17.9769,Museo Diocesano di Gallipoli,MUSEUM,monumento
-40.055427,17.978643,ov_castello_di_gallipoli__un_mare_di_storie_40.0554_17.9786,"Castello di Gallipoli, un mare di storie",MUSEUM,monumento
-40.055028,17.975601,ov_sala_collezione_coppola_40.0550_17.9756,Sala Collezione Coppola,MUSEUM,monumento
-40.054939,17.975736,ov_museo_del_mare_40.0549_17.9757,Museo del Mare,MUSEUM,monumento
-40.054699,17.975362,ov_museo_civico_emanuele_barba_40.0547_17.9754,Museo Civico Emanuele Barba,MUSEUM,monumento
-40.054523,17.975543,ov_il_frantoio_del_vicere_40.0545_17.9755,Il Frantoio del Vicere,MUSEUM,monumento
-40.054607,17.975281,ov_frantoio_ipogeo_di_palazzo_granafei_40.0546_17.9753,Frantoio Ipogeo di Palazzo Granafei,MUSEUM,monumento
-40.047861,18.003013,ov_torre_san_giovanni_la_pedata_40.0479_18.0030,Torre San Giovanni La Pedata,MONUMENT,monumento
+40.053600,17.973200,ov_mura_urbiche_di_gallipoli_40.0536_17.9732,Mura Urbiche di Gallipoli,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/mura_urbiche_di_gallipoli_40.0536_17.9732.json,custom
+40.053031,17.974297,ov_chiostro_di_san_domenico__gallipoli_40.0530_17.9743,"Chiostro Di San Domenico, Gallipoli",MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/chiostro_di_san_domenico_gallipoli_40.0530_17.9743.json,custom
+40.054626,17.976229,ov_agata_provenzano_40.0546_17.9762,Agata Provenzano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/agata_provenzano_40.0546_17.9762.json,custom
+40.054976,17.976248,ov_gallipoli_40.0550_17.9762,Gallipoli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/gallipoli_40.0550_17.9762.json,custom
+40.054944,17.976892,ov_museo_diocesano_di_gallipoli_40.0549_17.9769,Museo Diocesano di Gallipoli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/museo_diocesano_di_gallipoli_40.0549_17.9769.json,custom
+40.055427,17.978643,ov_castello_di_gallipoli__un_mare_di_storie_40.0554_17.9786,"Castello di Gallipoli, un mare di storie",MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/castello_di_gallipoli_un_mare_di_storie_40.0554_17.9786.json,custom
+40.055028,17.975601,ov_sala_collezione_coppola_40.0550_17.9756,Sala Collezione Coppola,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/sala_collezione_coppola_40.0550_17.9756.json,custom
+40.054939,17.975736,ov_museo_del_mare_40.0549_17.9757,Museo del Mare,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/museo_del_mare_40.0549_17.9757.json,custom
+40.054699,17.975362,ov_museo_civico_emanuele_barba_40.0547_17.9754,Museo Civico Emanuele Barba,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/museo_civico_emanuele_barba_40.0547_17.9754.json,custom
+40.054523,17.975543,ov_il_frantoio_del_vicere_40.0545_17.9755,Il Frantoio del Vicere,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/il_frantoio_del_vicere_40.0545_17.9755.json,custom
+40.054607,17.975281,ov_frantoio_ipogeo_di_palazzo_granafei_40.0546_17.9753,Frantoio Ipogeo di Palazzo Granafei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/frantoio_ipogeo_di_palazzo_granafei_40.0546_17.9753.json,custom
+40.047861,18.003013,ov_torre_san_giovanni_la_pedata_40.0479_18.0030,Torre San Giovanni La Pedata,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gallipoli/pages/torre_san_giovanni_la_pedata_40.0479_18.0030.json,custom

@@ -1,73 +1,73 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Maratea -- Tutti
-39.997722,15.719003,ov_ospedale_maratea_39.9977_15.7190,Ospedale Maratea,HOSPITAL,hospital
-39.932904,15.751681,ov_ristorante_l_approdo_39.9329_15.7517,Ristorante L'Approdo,RESTAURANT,ristorante
-39.937290,15.758442,ov_il_rustico_trattoria_di_felice_mirko_39.9373_15.7584,Il Rustico Trattoria di Felice Mirko,RESTAURANT,ristorante
-39.936356,15.764308,ov_la_tana_39.9364_15.7643,La Tana,RESTAURANT,ristorante
-39.954175,15.739105,ov_la_locanda_di_nettuno_39.9542_15.7391,La Locanda di Nettuno,RESTAURANT,ristorante
-39.994986,15.702119,ov_el_sol_39.9950_15.7021,El Sol,RESTAURANT,ristorante
-39.993617,15.704496,ov_ristorante_litrico_s_39.9936_15.7045,Ristorante Litrico's,RESTAURANT,ristorante
-39.994712,15.703411,ov_pizzeria_la_bussola_39.9947_15.7034,Pizzeria La Bussola,RESTAURANT,ristorante
-39.996462,15.705680,ov_a_fuoco_lento_39.9965_15.7057,A Fuoco Lento,RESTAURANT,ristorante
-39.993621,15.705613,ov_la_cambusa_39.9936_15.7056,La Cambusa,RESTAURANT,ristorante
-39.989695,15.708164,ov_yumara_39.9897_15.7082,Yumara,RESTAURANT,ristorante
-39.989511,15.708758,ov_scialuppa_25_39.9895_15.7088,Scialuppa 25,RESTAURANT,ristorante
-39.989451,15.708721,ov_lanterna_rossa_39.9895_15.7087,Lanterna Rossa,RESTAURANT,ristorante
-39.989514,15.708320,ov_santi_al_porto_39.9895_15.7083,Santi Al Porto,RESTAURANT,ristorante
-39.989360,15.707702,ov_1999_il_ristorante_39.9894_15.7077,1999 il Ristorante,RESTAURANT,ristorante
-39.988622,15.709685,ov_tre_nodi_39.9886_15.7097,Tre Nodi,RESTAURANT,ristorante
-39.998604,15.716558,ov_pescheria_friggitoria_da_felice_39.9986_15.7166,Pescheria Friggitoria Da Felice,RESTAURANT,ristorante
-39.994185,15.716440,ov_ristorante_santa_lucia_39.9942_15.7164,Ristorante Santa Lucia,RESTAURANT,ristorante
-39.992837,15.721349,ov_maratea_il_ghiottone_39.9928_15.7213,Maratea Il Ghiottone,RESTAURANT,ristorante
-39.992981,15.721611,ov_la_parada_del_mar_39.9930_15.7216,La Parada del Mar,RESTAURANT,ristorante
-39.992732,15.721944,ov_rolling_steaks_39.9927_15.7219,Rolling Steaks,RESTAURANT,ristorante
-39.992868,15.722368,ov_la_taverna_di_zu_cicco_39.9929_15.7224,La Taverna di Zu Cicco,RESTAURANT,ristorante
-39.992914,15.722725,ov_liberatore_pizza_al_taglio_rosticceria_39.9929_15.7227,Liberatore Pizza al Taglio Rosticceria,RESTAURANT,ristorante
-39.996860,15.719540,ov_selvaggio_pizzeria_39.9969_15.7195,Selvaggio pizzeria,RESTAURANT,ristorante
-40.000180,15.719650,ov_nera_40.0002_15.7196,Nera,RESTAURANT,ristorante
-40.001174,15.721632,ov_ristorante_da_mamma_e_pap__40.0012_15.7216,Ristorante da Mamma e Papà,RESTAURANT,ristorante
-39.995236,15.725240,ov_la_bella_lucania_39.9952_15.7252,La Bella Lucania,RESTAURANT,ristorante
-39.993716,15.723718,ov_divino_enoteca_e_specialita_regionali_39.9937_15.7237,Divino Enoteca e Specialita Regionali,RESTAURANT,ristorante
-39.992810,15.723687,ov_ristorante_maratea___la_perla_39.9928_15.7237,Ristorante Maratea - La Perla,RESTAURANT,ristorante
-39.992535,15.723565,ov_don_pasquale_39.9925_15.7236,Don Pasquale,RESTAURANT,ristorante
-39.992710,15.723311,ov_la_torre_39.9927_15.7233,La Torre,RESTAURANT,ristorante
-39.992029,15.722414,ov_la_merenderia_39.9920_15.7224,La Merenderia,RESTAURANT,ristorante
-39.992225,15.722639,ov_la_bella_lucania_ristobottega_39.9922_15.7226,La bella Lucania RistoBottega,RESTAURANT,ristorante
-39.992509,15.721952,ov_taverna_rovita_39.9925_15.7220,Taverna Rovita,RESTAURANT,ristorante
-39.991983,15.721091,ov_ristorante_il_sacello_39.9920_15.7211,Ristorante Il Sacello,RESTAURANT,ristorante
-39.970710,15.723544,ov_nera_maratea_39.9707_15.7235,Nera Maratea,RESTAURANT,ristorante
-39.958510,15.738610,ov_white_horse_39.9585_15.7386,White Horse,RESTAURANT,ristorante
-39.981460,15.749660,ov_il_giardino_di_epicuro___ristoranti_mara_39.9815_15.7497,Il giardino di Epicuro - Ristoranti Maratea,RESTAURANT,ristorante
-39.986303,15.740866,ov_casale_de_filippo_39.9863_15.7409,Casale De Filippo,RESTAURANT,ristorante
-39.986226,15.731714,ov_il_piccolo_ranch_39.9862_15.7317,Il Piccolo Ranch,RESTAURANT,ristorante
-40.001021,15.728039,ov_i_sapori_di_marianna_40.0010_15.7280,I Sapori di Marianna,RESTAURANT,ristorante
-40.012501,15.718926,ov_agriturismo_la_tenuta_del_barone_40.0125_15.7189,Agriturismo La Tenuta Del Barone,RESTAURANT,ristorante
-40.030216,15.676969,ov_ristoro_del_drago_40.0302_15.6770,Ristoro del Drago,RESTAURANT,ristorante
-40.036601,15.670622,ov_le_vele_40.0366_15.6706,le vele,RESTAURANT,ristorante
-40.036817,15.671433,ov_ristorante_pizzeria_da_peppe_40.0368_15.6714,Ristorante Pizzeria Da Peppe,RESTAURANT,ristorante
-40.031203,15.670691,ov_ristorante_pizzeria_da_peppe_40.0312_15.6707,Ristorante Pizzeria da Peppe,RESTAURANT,ristorante
-40.014215,15.679130,ov_da_cesare_40.0142_15.6791,Da Cesare,RESTAURANT,ristorante
-39.929066,15.753931,ov_area_di_sosta_riva_riva_39.9291_15.7539,Area di sosta Riva Riva,RESTAURANT,bar_cafe
-39.937032,15.757178,ov_il_mirto_solarium_bar_39.9370_15.7572,Il Mirto Solarium Bar,RESTAURANT,bar_cafe
-39.934625,15.743956,ov_mirto_solarium_bar_39.9346_15.7440,Mirto Solarium Bar,RESTAURANT,bar_cafe
-39.994989,15.703216,ov_bar_gelateria_pasticceria_da_riccardo_39.9950_15.7032,Bar Gelateria Pasticceria Da Riccardo,RESTAURANT,bar_cafe
-39.989524,15.708977,ov_bar_del_porto_39.9895_15.7090,Bar Del Porto,RESTAURANT,bar_cafe
-39.989413,15.708864,ov_il_clubbino_porto_39.9894_15.7089,Il Clubbino Porto,RESTAURANT,bar_cafe
-39.989386,15.708276,ov_il_moro_cafe_39.9894_15.7083,Il Moro Cafe,RESTAURANT,bar_cafe
-39.989680,15.705740,ov_il_bar_del_porto_39.9897_15.7057,Il bar del Porto,RESTAURANT,bar_cafe
-39.995558,15.722691,ov_marathia_39.9956_15.7227,Marathia,RESTAURANT,bar_cafe
-39.995747,15.722170,ov_ricevitoria_intralot___bar_caff__europa_39.9957_15.7222,Ricevitoria Intralot - Bar Caffè Europa,RESTAURANT,bar_cafe
-39.997640,15.726060,ov_santojanni__maratea_39.9976_15.7261,Santojanni  Maratea,RESTAURANT,bar_cafe
-39.992610,15.722359,ov_caffe_e_dolcezze_di_laprea_39.9926_15.7224,Caffe e Dolcezze di Laprea,RESTAURANT,bar_cafe
-39.992691,15.722151,ov_bar_avignano_39.9927_15.7222,Bar Avignano,RESTAURANT,bar_cafe
-39.992647,15.721923,ov_la_caffetteria_39.9926_15.7219,La Caffetteria,RESTAURANT,bar_cafe
-39.992665,15.721416,ov_rossofermo_risto_pub_39.9927_15.7214,Rossofermo Risto pub,RESTAURANT,bar_cafe
-39.937121,15.765443,ov_gusti_agricoli_calabro_lucani_39.9371_15.7654,Gusti Agricoli Calabro Lucani,RESTAURANT,bar_cafe
-39.992696,15.723283,ov_maratea___vie_ferrate_e_d_arrampicata_39.9927_15.7233,Maratea - Vie ferrate e d'arrampicata,GYM,palestra
-40.007040,15.729123,ov_stadio_europa_40.0070_15.7291,Stadio Europa,GYM,palestra
-39.936566,15.749584,ov_castello_di_castrocucco_39.9366_15.7496,Castello di Castrocucco,MONUMENT,monumento
-39.943424,15.735460,ov_torre_caja_39.9434_15.7355,Torre Caja,MONUMENT,monumento
-39.985050,15.711419,ov_torre_filocaio_39.9850_15.7114,Torre Filocaio,MONUMENT,monumento
-39.992866,15.720546,ov_palazzo_de_lieto_39.9929_15.7205,Palazzo De Lieto,MUSEUM,monumento
-39.987777,15.720926,ov_cristo_redentore_di_maratea_39.9878_15.7209,Cristo Redentore di Maratea,MONUMENT,monumento
-40.006988,15.681547,ov_torre_apprezzami_l_asino_torre_di_cersut_40.0070_15.6815,Torre Apprezzami L'Asino Torre di Cersuta,MONUMENT,monumento
+39.997722,15.719003,ov_ospedale_maratea_39.9977_15.7190,Ospedale Maratea,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ospedale_maratea_39.9977_15.7190.json,custom
+39.932904,15.751681,ov_ristorante_l_approdo_39.9329_15.7517,Ristorante L'Approdo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_lapprodo_39.9329_15.7517.json,custom
+39.937290,15.758442,ov_il_rustico_trattoria_di_felice_mirko_39.9373_15.7584,Il Rustico Trattoria di Felice Mirko,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_rustico_trattoria_di_felice_mirko_39.9373_15.7584.json,custom
+39.936356,15.764308,ov_la_tana_39.9364_15.7643,La Tana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_tana_39.9364_15.7643.json,custom
+39.954175,15.739105,ov_la_locanda_di_nettuno_39.9542_15.7391,La Locanda di Nettuno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_locanda_di_nettuno_39.9542_15.7391.json,custom
+39.994986,15.702119,ov_el_sol_39.9950_15.7021,El Sol,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/el_sol_39.9950_15.7021.json,custom
+39.993617,15.704496,ov_ristorante_litrico_s_39.9936_15.7045,Ristorante Litrico's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_litricos_39.9936_15.7045.json,custom
+39.994712,15.703411,ov_pizzeria_la_bussola_39.9947_15.7034,Pizzeria La Bussola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/pizzeria_la_bussola_39.9947_15.7034.json,custom
+39.996462,15.705680,ov_a_fuoco_lento_39.9965_15.7057,A Fuoco Lento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/a_fuoco_lento_39.9965_15.7057.json,custom
+39.993621,15.705613,ov_la_cambusa_39.9936_15.7056,La Cambusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_cambusa_39.9936_15.7056.json,custom
+39.989695,15.708164,ov_yumara_39.9897_15.7082,Yumara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/yumara_39.9897_15.7082.json,custom
+39.989511,15.708758,ov_scialuppa_25_39.9895_15.7088,Scialuppa 25,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/scialuppa_25_39.9895_15.7088.json,custom
+39.989451,15.708721,ov_lanterna_rossa_39.9895_15.7087,Lanterna Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/lanterna_rossa_39.9895_15.7087.json,custom
+39.989514,15.708320,ov_santi_al_porto_39.9895_15.7083,Santi Al Porto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/santi_al_porto_39.9895_15.7083.json,custom
+39.989360,15.707702,ov_1999_il_ristorante_39.9894_15.7077,1999 il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/1999_il_ristorante_39.9894_15.7077.json,custom
+39.988622,15.709685,ov_tre_nodi_39.9886_15.7097,Tre Nodi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/tre_nodi_39.9886_15.7097.json,custom
+39.998604,15.716558,ov_pescheria_friggitoria_da_felice_39.9986_15.7166,Pescheria Friggitoria Da Felice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/pescheria_friggitoria_da_felice_39.9986_15.7166.json,custom
+39.994185,15.716440,ov_ristorante_santa_lucia_39.9942_15.7164,Ristorante Santa Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_santa_lucia_39.9942_15.7164.json,custom
+39.992837,15.721349,ov_maratea_il_ghiottone_39.9928_15.7213,Maratea Il Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/maratea_il_ghiottone_39.9928_15.7213.json,custom
+39.992981,15.721611,ov_la_parada_del_mar_39.9930_15.7216,La Parada del Mar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_parada_del_mar_39.9930_15.7216.json,custom
+39.992732,15.721944,ov_rolling_steaks_39.9927_15.7219,Rolling Steaks,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/rolling_steaks_39.9927_15.7219.json,custom
+39.992868,15.722368,ov_la_taverna_di_zu_cicco_39.9929_15.7224,La Taverna di Zu Cicco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_taverna_di_zu_cicco_39.9929_15.7224.json,custom
+39.992914,15.722725,ov_liberatore_pizza_al_taglio_rosticceria_39.9929_15.7227,Liberatore Pizza al Taglio Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/liberatore_pizza_al_taglio_rosticceria_39.9929_15.7227.json,custom
+39.996860,15.719540,ov_selvaggio_pizzeria_39.9969_15.7195,Selvaggio pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/selvaggio_pizzeria_39.9969_15.7195.json,custom
+40.000180,15.719650,ov_nera_40.0002_15.7196,Nera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/nera_40.0002_15.7196.json,custom
+40.001174,15.721632,ov_ristorante_da_mamma_e_pap__40.0012_15.7216,Ristorante da Mamma e Papà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_da_mamma_e_pap_40.0012_15.7216.json,custom
+39.995236,15.725240,ov_la_bella_lucania_39.9952_15.7252,La Bella Lucania,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_bella_lucania_39.9952_15.7252.json,custom
+39.993716,15.723718,ov_divino_enoteca_e_specialita_regionali_39.9937_15.7237,Divino Enoteca e Specialita Regionali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/divino_enoteca_e_specialita_regionali_39.9937_15.7237.json,custom
+39.992810,15.723687,ov_ristorante_maratea___la_perla_39.9928_15.7237,Ristorante Maratea - La Perla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_maratea_-_la_perla_39.9928_15.7237.json,custom
+39.992535,15.723565,ov_don_pasquale_39.9925_15.7236,Don Pasquale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/don_pasquale_39.9925_15.7236.json,custom
+39.992710,15.723311,ov_la_torre_39.9927_15.7233,La Torre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_torre_39.9927_15.7233.json,custom
+39.992029,15.722414,ov_la_merenderia_39.9920_15.7224,La Merenderia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_merenderia_39.9920_15.7224.json,custom
+39.992225,15.722639,ov_la_bella_lucania_ristobottega_39.9922_15.7226,La bella Lucania RistoBottega,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_bella_lucania_ristobottega_39.9922_15.7226.json,custom
+39.992509,15.721952,ov_taverna_rovita_39.9925_15.7220,Taverna Rovita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/taverna_rovita_39.9925_15.7220.json,custom
+39.991983,15.721091,ov_ristorante_il_sacello_39.9920_15.7211,Ristorante Il Sacello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_il_sacello_39.9920_15.7211.json,custom
+39.970710,15.723544,ov_nera_maratea_39.9707_15.7235,Nera Maratea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/nera_maratea_39.9707_15.7235.json,custom
+39.958510,15.738610,ov_white_horse_39.9585_15.7386,White Horse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/white_horse_39.9585_15.7386.json,custom
+39.981460,15.749660,ov_il_giardino_di_epicuro___ristoranti_mara_39.9815_15.7497,Il giardino di Epicuro - Ristoranti Maratea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_giardino_di_epicuro_-_ristoranti_mara_39.9815_15.7497.json,custom
+39.986303,15.740866,ov_casale_de_filippo_39.9863_15.7409,Casale De Filippo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/casale_de_filippo_39.9863_15.7409.json,custom
+39.986226,15.731714,ov_il_piccolo_ranch_39.9862_15.7317,Il Piccolo Ranch,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_piccolo_ranch_39.9862_15.7317.json,custom
+40.001021,15.728039,ov_i_sapori_di_marianna_40.0010_15.7280,I Sapori di Marianna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/i_sapori_di_marianna_40.0010_15.7280.json,custom
+40.012501,15.718926,ov_agriturismo_la_tenuta_del_barone_40.0125_15.7189,Agriturismo La Tenuta Del Barone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/agriturismo_la_tenuta_del_barone_40.0125_15.7189.json,custom
+40.030216,15.676969,ov_ristoro_del_drago_40.0302_15.6770,Ristoro del Drago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristoro_del_drago_40.0302_15.6770.json,custom
+40.036601,15.670622,ov_le_vele_40.0366_15.6706,le vele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/le_vele_40.0366_15.6706.json,custom
+40.036817,15.671433,ov_ristorante_pizzeria_da_peppe_40.0368_15.6714,Ristorante Pizzeria Da Peppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_pizzeria_da_peppe_40.0368_15.6714.json,custom
+40.031203,15.670691,ov_ristorante_pizzeria_da_peppe_40.0312_15.6707,Ristorante Pizzeria da Peppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ristorante_pizzeria_da_peppe_40.0312_15.6707.json,custom
+40.014215,15.679130,ov_da_cesare_40.0142_15.6791,Da Cesare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/da_cesare_40.0142_15.6791.json,custom
+39.929066,15.753931,ov_area_di_sosta_riva_riva_39.9291_15.7539,Area di sosta Riva Riva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/area_di_sosta_riva_riva_39.9291_15.7539.json,custom
+39.937032,15.757178,ov_il_mirto_solarium_bar_39.9370_15.7572,Il Mirto Solarium Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_mirto_solarium_bar_39.9370_15.7572.json,custom
+39.934625,15.743956,ov_mirto_solarium_bar_39.9346_15.7440,Mirto Solarium Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/mirto_solarium_bar_39.9346_15.7440.json,custom
+39.994989,15.703216,ov_bar_gelateria_pasticceria_da_riccardo_39.9950_15.7032,Bar Gelateria Pasticceria Da Riccardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/bar_gelateria_pasticceria_da_riccardo_39.9950_15.7032.json,custom
+39.989524,15.708977,ov_bar_del_porto_39.9895_15.7090,Bar Del Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/bar_del_porto_39.9895_15.7090.json,custom
+39.989413,15.708864,ov_il_clubbino_porto_39.9894_15.7089,Il Clubbino Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_clubbino_porto_39.9894_15.7089.json,custom
+39.989386,15.708276,ov_il_moro_cafe_39.9894_15.7083,Il Moro Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_moro_cafe_39.9894_15.7083.json,custom
+39.989680,15.705740,ov_il_bar_del_porto_39.9897_15.7057,Il bar del Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/il_bar_del_porto_39.9897_15.7057.json,custom
+39.995558,15.722691,ov_marathia_39.9956_15.7227,Marathia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/marathia_39.9956_15.7227.json,custom
+39.995747,15.722170,ov_ricevitoria_intralot___bar_caff__europa_39.9957_15.7222,Ricevitoria Intralot - Bar Caffè Europa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/ricevitoria_intralot_-_bar_caff_europa_39.9957_15.7222.json,custom
+39.997640,15.726060,ov_santojanni__maratea_39.9976_15.7261,Santojanni  Maratea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/santojanni_maratea_39.9976_15.7261.json,custom
+39.992610,15.722359,ov_caffe_e_dolcezze_di_laprea_39.9926_15.7224,Caffe e Dolcezze di Laprea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/caffe_e_dolcezze_di_laprea_39.9926_15.7224.json,custom
+39.992691,15.722151,ov_bar_avignano_39.9927_15.7222,Bar Avignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/bar_avignano_39.9927_15.7222.json,custom
+39.992647,15.721923,ov_la_caffetteria_39.9926_15.7219,La Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/la_caffetteria_39.9926_15.7219.json,custom
+39.992665,15.721416,ov_rossofermo_risto_pub_39.9927_15.7214,Rossofermo Risto pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/rossofermo_risto_pub_39.9927_15.7214.json,custom
+39.937121,15.765443,ov_gusti_agricoli_calabro_lucani_39.9371_15.7654,Gusti Agricoli Calabro Lucani,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/gusti_agricoli_calabro_lucani_39.9371_15.7654.json,custom
+39.992696,15.723283,ov_maratea___vie_ferrate_e_d_arrampicata_39.9927_15.7233,Maratea - Vie ferrate e d'arrampicata,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/maratea_-_vie_ferrate_e_darrampicata_39.9927_15.7233.json,custom
+40.007040,15.729123,ov_stadio_europa_40.0070_15.7291,Stadio Europa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/stadio_europa_40.0070_15.7291.json,custom
+39.936566,15.749584,ov_castello_di_castrocucco_39.9366_15.7496,Castello di Castrocucco,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/castello_di_castrocucco_39.9366_15.7496.json,custom
+39.943424,15.735460,ov_torre_caja_39.9434_15.7355,Torre Caja,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/torre_caja_39.9434_15.7355.json,custom
+39.985050,15.711419,ov_torre_filocaio_39.9850_15.7114,Torre Filocaio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/torre_filocaio_39.9850_15.7114.json,custom
+39.992866,15.720546,ov_palazzo_de_lieto_39.9929_15.7205,Palazzo De Lieto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/palazzo_de_lieto_39.9929_15.7205.json,custom
+39.987777,15.720926,ov_cristo_redentore_di_maratea_39.9878_15.7209,Cristo Redentore di Maratea,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/cristo_redentore_di_maratea_39.9878_15.7209.json,custom
+40.006988,15.681547,ov_torre_apprezzami_l_asino_torre_di_cersut_40.0070_15.6815,Torre Apprezzami L'Asino Torre di Cersuta,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maratea/pages/torre_apprezzami_lasino_torre_di_cersuta_40.0070_15.6815.json,custom

@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # eboli -- landmarks
-40.618953,15.056648,ov_complesso_monumentale_san_francesco___eb_40.6190_15.0566,Complesso Monumentale San Francesco - Eboli,MONUMENT,monumento
-40.622353,15.056707,ov_museum_of_operation_avalanche_40.6224_15.0567,Museum of Operation Avalanche,MUSEUM,monumento
-40.618978,15.056223,ov_museo_archeologico_nazionale_di_eboli_40.6190_15.0562,Museo Archeologico Nazionale di Eboli,MUSEUM,monumento
-40.620587,15.054046,ov_monastero_delle_benedettine_40.6206_15.0540,Monastero delle Benedettine,MONUMENT,monumento
+40.618953,15.056648,ov_complesso_monumentale_san_francesco___eb_40.6190_15.0566,Complesso Monumentale San Francesco - Eboli,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/complesso_monumentale_san_francesco_-_eb_40.6190_15.0566.json,custom
+40.622353,15.056707,ov_museum_of_operation_avalanche_40.6224_15.0567,Museum of Operation Avalanche,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/museum_of_operation_avalanche_40.6224_15.0567.json,custom
+40.618978,15.056223,ov_museo_archeologico_nazionale_di_eboli_40.6190_15.0562,Museo Archeologico Nazionale di Eboli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/museo_archeologico_nazionale_di_eboli_40.6190_15.0562.json,custom
+40.620587,15.054046,ov_monastero_delle_benedettine_40.6206_15.0540,Monastero delle Benedettine,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/eboli/pages/monastero_delle_benedettine_40.6206_15.0540.json,custom

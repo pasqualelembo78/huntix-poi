@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # collepasso -- bars_cafes
-40.019706,18.239928,ov_mubo_s_cafe_40.0197_18.2399,Mubo's Cafe,RESTAURANT,bar_cafe
-40.072873,18.163285,ov_gran_bar_40.0729_18.1633,Gran Bar,RESTAURANT,bar_cafe
-40.073232,18.161640,ov_bar_la_palma_di_tedesco_40.0732_18.1616,Bar La Palma Di Tedesco,RESTAURANT,bar_cafe
-40.072797,18.162197,ov_caffetteria_caber_40.0728_18.1622,Caffetteria Caber,RESTAURANT,bar_cafe
-40.089649,18.163982,ov_area41_40.0896_18.1640,Area41,RESTAURANT,bar_cafe
-40.350600,18.181637,ov_proxima_s_r_l__40.3506_18.1816,Proxima s.r.l.,RESTAURANT,bar_cafe
-40.068466,18.165938,osm_sir_parsifal_40.0685_18.1659,Sir Parsifal,bar_cafe,bar_cafe
+40.019706,18.239928,ov_mubo_s_cafe_40.0197_18.2399,Mubo's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/mubos_cafe_40.0197_18.2399.json,custom
+40.072873,18.163285,ov_gran_bar_40.0729_18.1633,Gran Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/gran_bar_40.0729_18.1633.json,custom
+40.073232,18.161640,ov_bar_la_palma_di_tedesco_40.0732_18.1616,Bar La Palma Di Tedesco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/bar_la_palma_di_tedesco_40.0732_18.1616.json,custom
+40.072797,18.162197,ov_caffetteria_caber_40.0728_18.1622,Caffetteria Caber,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/caffetteria_caber_40.0728_18.1622.json,custom
+40.089649,18.163982,ov_area41_40.0896_18.1640,Area41,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/area41_40.0896_18.1640.json,custom
+40.350600,18.181637,ov_proxima_s_r_l__40.3506_18.1816,Proxima s.r.l.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/proxima_srl_40.3506_18.1816.json,custom
+40.068466,18.165938,osm_sir_parsifal_40.0685_18.1659,Sir Parsifal,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/sir_parsifal_40.0685_18.1659.json,custom

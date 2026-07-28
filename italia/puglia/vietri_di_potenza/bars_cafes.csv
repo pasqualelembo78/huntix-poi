@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # vietri_di_potenza -- bars_cafes
-40.599109,15.506650,ov_bar_feo_40.5991_15.5067,Bar Feo,RESTAURANT,bar_cafe
-40.599442,15.508104,ov_caffetteria_tabaccheria_cherie_40.5994_15.5081,Caffetteria Tabaccheria Cherie,RESTAURANT,bar_cafe
-40.599531,15.509479,ov_lowen_brau___caffetteria___tabaccheria_40.5995_15.5095,LOWEN BRAU - Caffetteria & Tabaccheria,RESTAURANT,bar_cafe
-40.599283,15.509338,ov_red_passion_club_40.5993_15.5093,Red Passion Club,RESTAURANT,bar_cafe
+40.599109,15.506650,ov_bar_feo_40.5991_15.5067,Bar Feo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/bar_feo_40.5991_15.5067.json,custom
+40.599442,15.508104,ov_caffetteria_tabaccheria_cherie_40.5994_15.5081,Caffetteria Tabaccheria Cherie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/caffetteria_tabaccheria_cherie_40.5994_15.5081.json,custom
+40.599531,15.509479,ov_lowen_brau___caffetteria___tabaccheria_40.5995_15.5095,LOWEN BRAU - Caffetteria & Tabaccheria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/lowen_brau_-_caffetteria_tabaccheria_40.5995_15.5095.json,custom
+40.599283,15.509338,ov_red_passion_club_40.5993_15.5093,Red Passion Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/red_passion_club_40.5993_15.5093.json,custom

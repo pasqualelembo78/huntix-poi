@@ -1,29 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # laterza -- bars_cafes
-40.617433,16.799147,ov_bar_cristallo___osmairm_40.6174_16.7991,Bar Cristallo - Osmairm,RESTAURANT,bar_cafe
-40.624667,16.798402,ov_cin_cin_bar_40.6247_16.7984,Cin Cin Bar,RESTAURANT,bar_cafe
-40.624051,16.798638,ov_bar_moderno_40.6241_16.7986,Bar Moderno,RESTAURANT,bar_cafe
-40.624323,16.798356,ov_zone_bistrot_pub_40.6243_16.7984,Zone bistrot pub,RESTAURANT,bar_cafe
-40.624495,16.797638,ov_365_prosit_40.6245_16.7976,365 Prosit,RESTAURANT,bar_cafe
-40.624543,16.797706,ov_drinkave_bereculturale_40.6245_16.7977,Drinkave BereCulturale,RESTAURANT,bar_cafe
-40.624561,16.797951,ov_gran_bar_40.6246_16.7980,Gran bar,RESTAURANT,bar_cafe
-40.624655,16.797983,ov_caffetteria_del_corso_40.6247_16.7980,Caffetteria del Corso,RESTAURANT,bar_cafe
-40.624735,16.798058,ov_ted__40.6247_16.7981,TeDÀ,RESTAURANT,bar_cafe
-40.625101,16.798145,ov_caffe_vittorio_emanuele_40.6251_16.7981,Caffe Vittorio Emanuele,RESTAURANT,bar_cafe
-40.623117,16.795700,ov_proloco_laterza_aps___d_azzia_sposi_a_pa_40.6231_16.7957,Proloco Laterza APS - D'Azzia sposi a Palazzo,RESTAURANT,bar_cafe
-40.623161,16.794976,ov_brix_40.6232_16.7950,Brix,RESTAURANT,bar_cafe
-40.622921,16.799283,ov_bilico_40.6229_16.7993,Bilico,RESTAURANT,bar_cafe
-40.625539,16.794772,ov_bar_carrera_40.6255_16.7948,Bar Carrera,RESTAURANT,bar_cafe
-40.625701,16.797955,ov_bar_caffe_ristretto_40.6257_16.7980,Bar Caffe Ristretto,RESTAURANT,bar_cafe
-40.626054,16.800075,ov_vito_santeramo_40.6261_16.8001,Vito Santeramo,RESTAURANT,bar_cafe
-40.627485,16.797722,ov_bar_tabacchi_punzi_dal_1962_40.6275_16.7977,Bar Tabacchi Punzi dal 1962,RESTAURANT,bar_cafe
-40.627234,16.797647,ov_arte_caffe_gelateria_artigianale_40.6272_16.7976,Arte Caffe Gelateria Artigianale,RESTAURANT,bar_cafe
-40.627056,16.797730,ov_gran_caffe_mirizzi_40.6271_16.7977,Gran Caffe Mirizzi,RESTAURANT,bar_cafe
-40.627440,16.799930,ov_la_caffeina_40.6274_16.7999,La caffeina,RESTAURANT,bar_cafe
-40.628280,16.798126,ov_caffetteria_raffaello_40.6283_16.7981,Caffetteria Raffaello,RESTAURANT,bar_cafe
-40.628594,16.792538,ov_heaven_cafe_40.6286_16.7925,Heaven Cafe,RESTAURANT,bar_cafe
-40.629055,16.800775,ov_motyl_bar_40.6291_16.8008,MOTYL BAR,RESTAURANT,bar_cafe
-40.629080,16.798188,ov_merceria_da_agnese_40.6291_16.7982,Merceria da Agnese,RESTAURANT,bar_cafe
-40.629401,16.797096,ov_bar_montanaro_francesco_ploom_reseller_40.6294_16.7971,Bar Montanaro Francesco PLOOM RESELLER,RESTAURANT,bar_cafe
-40.630584,16.795904,ov_caffe_montanaro_40.6306_16.7959,Caffe Montanaro,RESTAURANT,bar_cafe
-40.649803,16.846719,ov_pit_stop_40.6498_16.8467,PIT STOP,RESTAURANT,bar_cafe
+40.617433,16.799147,ov_bar_cristallo___osmairm_40.6174_16.7991,Bar Cristallo - Osmairm,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_cristallo_-_osmairm_40.6174_16.7991.json,custom
+40.624667,16.798402,ov_cin_cin_bar_40.6247_16.7984,Cin Cin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/cin_cin_bar_40.6247_16.7984.json,custom
+40.624051,16.798638,ov_bar_moderno_40.6241_16.7986,Bar Moderno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_moderno_40.6241_16.7986.json,custom
+40.624323,16.798356,ov_zone_bistrot_pub_40.6243_16.7984,Zone bistrot pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/zone_bistrot_pub_40.6243_16.7984.json,custom
+40.624495,16.797638,ov_365_prosit_40.6245_16.7976,365 Prosit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/365_prosit_40.6245_16.7976.json,custom
+40.624543,16.797706,ov_drinkave_bereculturale_40.6245_16.7977,Drinkave BereCulturale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/drinkave_bereculturale_40.6245_16.7977.json,custom
+40.624561,16.797951,ov_gran_bar_40.6246_16.7980,Gran bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/gran_bar_40.6246_16.7980.json,custom
+40.624655,16.797983,ov_caffetteria_del_corso_40.6247_16.7980,Caffetteria del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/caffetteria_del_corso_40.6247_16.7980.json,custom
+40.624735,16.798058,ov_ted__40.6247_16.7981,TeDÀ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/ted_40.6247_16.7981.json,custom
+40.625101,16.798145,ov_caffe_vittorio_emanuele_40.6251_16.7981,Caffe Vittorio Emanuele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/caffe_vittorio_emanuele_40.6251_16.7981.json,custom
+40.623117,16.795700,ov_proloco_laterza_aps___d_azzia_sposi_a_pa_40.6231_16.7957,Proloco Laterza APS - D'Azzia sposi a Palazzo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/proloco_laterza_aps_-_dazzia_sposi_a_pal_40.6231_16.7957.json,custom
+40.623161,16.794976,ov_brix_40.6232_16.7950,Brix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/brix_40.6232_16.7950.json,custom
+40.622921,16.799283,ov_bilico_40.6229_16.7993,Bilico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bilico_40.6229_16.7993.json,custom
+40.625539,16.794772,ov_bar_carrera_40.6255_16.7948,Bar Carrera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_carrera_40.6255_16.7948.json,custom
+40.625701,16.797955,ov_bar_caffe_ristretto_40.6257_16.7980,Bar Caffe Ristretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_caffe_ristretto_40.6257_16.7980.json,custom
+40.626054,16.800075,ov_vito_santeramo_40.6261_16.8001,Vito Santeramo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/vito_santeramo_40.6261_16.8001.json,custom
+40.627485,16.797722,ov_bar_tabacchi_punzi_dal_1962_40.6275_16.7977,Bar Tabacchi Punzi dal 1962,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_tabacchi_punzi_dal_1962_40.6275_16.7977.json,custom
+40.627234,16.797647,ov_arte_caffe_gelateria_artigianale_40.6272_16.7976,Arte Caffe Gelateria Artigianale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/arte_caffe_gelateria_artigianale_40.6272_16.7976.json,custom
+40.627056,16.797730,ov_gran_caffe_mirizzi_40.6271_16.7977,Gran Caffe Mirizzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/gran_caffe_mirizzi_40.6271_16.7977.json,custom
+40.627440,16.799930,ov_la_caffeina_40.6274_16.7999,La caffeina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/la_caffeina_40.6274_16.7999.json,custom
+40.628280,16.798126,ov_caffetteria_raffaello_40.6283_16.7981,Caffetteria Raffaello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/caffetteria_raffaello_40.6283_16.7981.json,custom
+40.628594,16.792538,ov_heaven_cafe_40.6286_16.7925,Heaven Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/heaven_cafe_40.6286_16.7925.json,custom
+40.629055,16.800775,ov_motyl_bar_40.6291_16.8008,MOTYL BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/motyl_bar_40.6291_16.8008.json,custom
+40.629080,16.798188,ov_merceria_da_agnese_40.6291_16.7982,Merceria da Agnese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/merceria_da_agnese_40.6291_16.7982.json,custom
+40.629401,16.797096,ov_bar_montanaro_francesco_ploom_reseller_40.6294_16.7971,Bar Montanaro Francesco PLOOM RESELLER,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/bar_montanaro_francesco_ploom_reseller_40.6294_16.7971.json,custom
+40.630584,16.795904,ov_caffe_montanaro_40.6306_16.7959,Caffe Montanaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/caffe_montanaro_40.6306_16.7959.json,custom
+40.649803,16.846719,ov_pit_stop_40.6498_16.8467,PIT STOP,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laterza/pages/pit_stop_40.6498_16.8467.json,custom

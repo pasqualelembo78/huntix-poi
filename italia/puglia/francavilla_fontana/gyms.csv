@@ -1,21 +1,25 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # francavilla_fontana -- gyms
-40.471296,17.527127,ov_eagle_s_paintball_40.4713_17.5271,Eagle's Paintball,GYM,palestra
-40.532560,17.552880,ov_danzamare_40.5326_17.5529,danzAmare,GYM,palestra
-40.536999,17.556812,ov_hyrox_urbanfit_40.5370_17.5568,Hyrox UrbanFit,GYM,palestra
-40.524837,17.579256,ov_yantra_studio_olistico_e_pilates_40.5248_17.5793,Yantra Studio Olistico e Pilates,GYM,palestra
-40.526171,17.585366,ov_zacfitlab_40.5262_17.5854,Zacfitlab,GYM,palestra
-40.524929,17.586545,ov_life_gym_center_40.5249_17.5865,Life gym center,GYM,palestra
-40.523541,17.580224,ov_gs_dance_academy_40.5235_17.5802,GS Dance Academy,GYM,palestra
-40.524032,17.593589,ov_shangri_la_studio_pilates_40.5240_17.5936,Shangri-La Studio Pilates,GYM,palestra
-40.528457,17.587073,ov_asd_studio_danza_desiato_40.5285_17.5871,Asd Studio Danza Desiato,GYM,palestra
-40.528530,17.587010,ov_palestra_excelsior_40.5285_17.5870,Palestra Excelsior,GYM,palestra
-40.528511,17.580095,ov_obiettivo_fitness_40.5285_17.5801,Obiettivo Fitness,GYM,palestra
-40.532148,17.580152,ov_a_s_d__motus_club_40.5321_17.5802,A.S.D. Motus Club,GYM,palestra
-40.532530,17.583188,ov_centro_diurno_un_mondo_a_colori_40.5325_17.5832,Centro diurno Un mondo a colori,GYM,palestra
-40.535346,17.576032,ov_shooting_center_academy_40.5353_17.5760,Shooting Center Academy,GYM,palestra
-40.537349,17.574804,ov_new_power_2_di_gianfranco_palmisano_40.5373_17.5748,New Power 2 di Gianfranco Palmisano,GYM,palestra
-40.537952,17.580626,ov_asd_ginnastica_francavilla_40.5380_17.5806,ASD Ginnastica francavilla,GYM,palestra
-40.539095,17.584138,ov_palestra_link_40.5391_17.5841,Palestra Link,GYM,palestra
-40.538981,17.579621,ov_life_core_fit_40.5390_17.5796,Life Core Fit,GYM,palestra
-40.563585,17.597605,ov_associazione_mery_dance_40.5636_17.5976,Associazione Mery Dance,GYM,palestra
+40.471296,17.527127,ov_eagle_s_paintball_40.4713_17.5271,Eagle's Paintball,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/eagles_paintball_40.4713_17.5271.json,custom
+40.532560,17.552880,ov_danzamare_40.5326_17.5529,danzAmare,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/danzamare_40.5326_17.5529.json,custom
+40.536999,17.556812,ov_hyrox_urbanfit_40.5370_17.5568,Hyrox UrbanFit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/hyrox_urbanfit_40.5370_17.5568.json,custom
+40.524837,17.579256,ov_yantra_studio_olistico_e_pilates_40.5248_17.5793,Yantra Studio Olistico e Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/yantra_studio_olistico_e_pilates_40.5248_17.5793.json,custom
+40.526171,17.585366,ov_zacfitlab_40.5262_17.5854,Zacfitlab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/zacfitlab_40.5262_17.5854.json,custom
+40.524929,17.586545,ov_life_gym_center_40.5249_17.5865,Life gym center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/life_gym_center_40.5249_17.5865.json,custom
+40.523541,17.580224,ov_gs_dance_academy_40.5235_17.5802,GS Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/gs_dance_academy_40.5235_17.5802.json,custom
+40.524032,17.593589,ov_shangri_la_studio_pilates_40.5240_17.5936,Shangri-La Studio Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/shangri-la_studio_pilates_40.5240_17.5936.json,custom
+40.528457,17.587073,ov_asd_studio_danza_desiato_40.5285_17.5871,Asd Studio Danza Desiato,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/asd_studio_danza_desiato_40.5285_17.5871.json,custom
+40.528530,17.587010,ov_palestra_excelsior_40.5285_17.5870,Palestra Excelsior,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/palestra_excelsior_40.5285_17.5870.json,custom
+40.528511,17.580095,ov_obiettivo_fitness_40.5285_17.5801,Obiettivo Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/obiettivo_fitness_40.5285_17.5801.json,custom
+40.532148,17.580152,ov_a_s_d__motus_club_40.5321_17.5802,A.S.D. Motus Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/asd_motus_club_40.5321_17.5802.json,custom
+40.532530,17.583188,ov_centro_diurno_un_mondo_a_colori_40.5325_17.5832,Centro diurno Un mondo a colori,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/centro_diurno_un_mondo_a_colori_40.5325_17.5832.json,custom
+40.535346,17.576032,ov_shooting_center_academy_40.5353_17.5760,Shooting Center Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/shooting_center_academy_40.5353_17.5760.json,custom
+40.537349,17.574804,ov_new_power_2_di_gianfranco_palmisano_40.5373_17.5748,New Power 2 di Gianfranco Palmisano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/new_power_2_di_gianfranco_palmisano_40.5373_17.5748.json,custom
+40.537952,17.580626,ov_asd_ginnastica_francavilla_40.5380_17.5806,ASD Ginnastica francavilla,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/asd_ginnastica_francavilla_40.5380_17.5806.json,custom
+40.539095,17.584138,ov_palestra_link_40.5391_17.5841,Palestra Link,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/palestra_link_40.5391_17.5841.json,custom
+40.538981,17.579621,ov_life_core_fit_40.5390_17.5796,Life Core Fit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/life_core_fit_40.5390_17.5796.json,custom
+40.563585,17.597605,ov_associazione_mery_dance_40.5636_17.5976,Associazione Mery Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/associazione_mery_dance_40.5636_17.5976.json,custom
+40.540791,17.580161,osm_icos_sporting_club_srl_40.5408_17.5802,Icos Sporting Club Srl,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/icos_sporting_club_srl_40.5408_17.5802.json,custom
+40.528256,17.591320,osm_palestra_diamond_leo_40.5283_17.5913,Palestra Diamond Leo,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/palestra_diamond_leo_40.5283_17.5913.json,custom
+40.536929,17.556850,osm_urbanfit_40.5369_17.5569,UrbanFit,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/urbanfit_40.5369_17.5569.json,custom
+40.528493,17.580057,osm_obiettivo_fitness_40.5285_17.5801,Obiettivo fitness,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_fontana/pages/obiettivo_fitness_40.5285_17.5801.json,custom

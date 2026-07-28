@@ -1,30 +1,29 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # morciano_di_leuca -- restaurants
-39.831943,18.274983,osm_al_porticciolo_39.8319_18.2750,Al Porticciolo,ristorante,ristorante
-39.831497,18.276809,osm_maestrale_39.8315_18.2768,Maestrale,ristorante,ristorante
-39.851025,18.310007,osm_al_posto_giusto_39.8510_18.3100,Al posto giusto,ristorante,ristorante
-39.845426,18.307734,osm_magazzino_n_4_39.8454_18.3077,Magazzino N.4,ristorante,ristorante
-39.829407,18.279061,ov_chiosco_allu_baffone_39.8294_18.2791,Chiosco Allu Baffone,RESTAURANT,ristorante
-39.829602,18.278737,ov_profumo_di_mare_39.8296_18.2787,Profumo di Mare,RESTAURANT,ristorante
-39.830941,18.277575,ov_la_kambusa_39.8309_18.2776,La Kambusa,RESTAURANT,ristorante
-39.831410,18.276940,ov_ristorante_le_12_miglia_torrevado_39.8314_18.2769,Ristorante Le 12 Miglia Torrevado,RESTAURANT,ristorante
-39.831924,18.277617,ov_torreantigua_39.8319_18.2776,Torreantigua,RESTAURANT,ristorante
-39.831806,18.275136,ov_santa_maria_ristorante_39.8318_18.2751,Santa Maria Ristorante,RESTAURANT,ristorante
-39.833247,18.278947,ov_ristorante_antichi_sapori_39.8332_18.2789,Ristorante Antichi Sapori,RESTAURANT,ristorante
-39.832878,18.274542,ov_un_pizzico_di_salento_39.8329_18.2745,Un pizzico di SALEnto,RESTAURANT,ristorante
-39.832439,18.275443,ov_mezzaluna___piadineria_39.8324_18.2754,Mezzaluna - Piadineria,RESTAURANT,ristorante
-39.833573,18.272131,ov_friggitoria_pesce_39.8336_18.2721,Friggitoria Pesce,RESTAURANT,ristorante
-39.833920,18.272945,ov_lu_rusciu_de_lu_mare_39.8339_18.2729,Lu Rusciu de lu Mare,RESTAURANT,ristorante
-39.834785,18.270807,ov_mg34_trattoria_pizzeria_39.8348_18.2708,Mg34 Trattoria Pizzeria,RESTAURANT,ristorante
-39.835592,18.274239,ov_ristorante_le_scalelle_39.8356_18.2742,Ristorante Le Scalelle,RESTAURANT,ristorante
-39.839704,18.293589,ov_l_ombra_del_carrubo_di_hotel_garden_39.8397_18.2936,L’Ombra del Carrubo di Hotel Garden,RESTAURANT,ristorante
-39.850809,18.310248,ov_al_posto_giusto_39.8508_18.3102,Al posto giusto,RESTAURANT,ristorante
-39.848074,18.310505,ov_core_a_core_39.8481_18.3105,Core a Core,RESTAURANT,ristorante
-39.846008,18.310682,ov_torri_dell_acqua_restaurant__39.8460_18.3107,Torri dell’acqua restaurant.,RESTAURANT,ristorante
-39.848000,18.310150,ov_home_restaurant_a_casa_di_donatella_39.8480_18.3102,Home Restaurant a Casa di Donatella,RESTAURANT,ristorante
-39.847990,18.310535,ov_il_saut__take_away_39.8480_18.3105,Il Sautè Take away,RESTAURANT,ristorante
-39.847356,18.309327,ov_jordan_trattoria_pizzeria_39.8474_18.3093,Jordan Trattoria Pizzeria,RESTAURANT,ristorante
-39.862007,18.330055,ov_nadani___salento_home_restaurant_39.8620_18.3301,Nadani - Salento Home Restaurant,RESTAURANT,ristorante
-39.863762,18.326520,ov_siciliano_pizzeria_39.8638_18.3265,Siciliano pizzeria,RESTAURANT,ristorante
-39.864994,18.326634,ov_home_restaurant_a_casa_di_donatella_39.8650_18.3266,Home Restaurant a Casa di Donatella,RESTAURANT,ristorante
-39.926532,18.054971,ov_frisara_39.9265_18.0550,Frisara,RESTAURANT,ristorante
+39.829407,18.279061,ov_chiosco_allu_baffone_39.8294_18.2791,Chiosco Allu Baffone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/chiosco_allu_baffone_39.8294_18.2791.json,custom
+39.829602,18.278737,ov_profumo_di_mare_39.8296_18.2787,Profumo di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/profumo_di_mare_39.8296_18.2787.json,custom
+39.830941,18.277575,ov_la_kambusa_39.8309_18.2776,La Kambusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/la_kambusa_39.8309_18.2776.json,custom
+39.831410,18.276940,ov_ristorante_le_12_miglia_torrevado_39.8314_18.2769,Ristorante Le 12 Miglia Torrevado,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/ristorante_le_12_miglia_torrevado_39.8314_18.2769.json,custom
+39.831924,18.277617,ov_torreantigua_39.8319_18.2776,Torreantigua,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/torreantigua_39.8319_18.2776.json,custom
+39.831806,18.275136,ov_santa_maria_ristorante_39.8318_18.2751,Santa Maria Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/santa_maria_ristorante_39.8318_18.2751.json,custom
+39.833247,18.278947,ov_ristorante_antichi_sapori_39.8332_18.2789,Ristorante Antichi Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/ristorante_antichi_sapori_39.8332_18.2789.json,custom
+39.832878,18.274542,ov_un_pizzico_di_salento_39.8329_18.2745,Un pizzico di SALEnto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/un_pizzico_di_salento_39.8329_18.2745.json,custom
+39.832439,18.275443,ov_mezzaluna___piadineria_39.8324_18.2754,Mezzaluna - Piadineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/mezzaluna_-_piadineria_39.8324_18.2754.json,custom
+39.833573,18.272131,ov_friggitoria_pesce_39.8336_18.2721,Friggitoria Pesce,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/friggitoria_pesce_39.8336_18.2721.json,custom
+39.833920,18.272945,ov_lu_rusciu_de_lu_mare_39.8339_18.2729,Lu Rusciu de lu Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/lu_rusciu_de_lu_mare_39.8339_18.2729.json,custom
+39.834785,18.270807,ov_mg34_trattoria_pizzeria_39.8348_18.2708,Mg34 Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/mg34_trattoria_pizzeria_39.8348_18.2708.json,custom
+39.835592,18.274239,ov_ristorante_le_scalelle_39.8356_18.2742,Ristorante Le Scalelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/ristorante_le_scalelle_39.8356_18.2742.json,custom
+39.839704,18.293589,ov_l_ombra_del_carrubo_di_hotel_garden_39.8397_18.2936,L’Ombra del Carrubo di Hotel Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/lombra_del_carrubo_di_hotel_garden_39.8397_18.2936.json,custom
+39.850809,18.310248,ov_al_posto_giusto_39.8508_18.3102,Al posto giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/al_posto_giusto_39.8508_18.3102.json,custom
+39.848074,18.310505,ov_core_a_core_39.8481_18.3105,Core a Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/core_a_core_39.8481_18.3105.json,custom
+39.846008,18.310682,ov_torri_dell_acqua_restaurant__39.8460_18.3107,Torri dell’acqua restaurant.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/torri_dellacqua_restaurant_39.8460_18.3107.json,custom
+39.848000,18.310150,ov_home_restaurant_a_casa_di_donatella_39.8480_18.3102,Home Restaurant a Casa di Donatella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/home_restaurant_a_casa_di_donatella_39.8480_18.3102.json,custom
+39.847990,18.310535,ov_il_saut__take_away_39.8480_18.3105,Il Sautè Take away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/il_saut_take_away_39.8480_18.3105.json,custom
+39.847356,18.309327,ov_jordan_trattoria_pizzeria_39.8474_18.3093,Jordan Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/jordan_trattoria_pizzeria_39.8474_18.3093.json,custom
+39.862007,18.330055,ov_nadani___salento_home_restaurant_39.8620_18.3301,Nadani - Salento Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/nadani_-_salento_home_restaurant_39.8620_18.3301.json,custom
+39.863762,18.326520,ov_siciliano_pizzeria_39.8638_18.3265,Siciliano pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/siciliano_pizzeria_39.8638_18.3265.json,custom
+39.864994,18.326634,ov_home_restaurant_a_casa_di_donatella_39.8650_18.3266,Home Restaurant a Casa di Donatella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/home_restaurant_a_casa_di_donatella_39.8650_18.3266.json,custom
+39.926532,18.054971,ov_frisara_39.9265_18.0550,Frisara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/frisara_39.9265_18.0550.json,custom
+39.831943,18.274983,osm_al_porticciolo_39.8319_18.2750,Al Porticciolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/al_porticciolo_39.8319_18.2750.json,custom
+39.831497,18.276809,osm_maestrale_39.8315_18.2768,Maestrale,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/maestrale_39.8315_18.2768.json,custom
+39.845426,18.307734,osm_magazzino_n_4_39.8454_18.3077,Magazzino N.4,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/morciano_di_leuca/pages/magazzino_n4_39.8454_18.3077.json,custom

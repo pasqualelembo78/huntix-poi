@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carpignano_salentino -- bars_cafes
-40.197937,18.340661,ov_namaste__40.1979_18.3407,Namaste',RESTAURANT,bar_cafe
-40.194322,18.338374,ov_pub_naima_caff__40.1943_18.3384,Pub Naima Caffé,RESTAURANT,bar_cafe
-40.194895,18.336189,ov_christian_cafe_gelateria_rosticceria_piz_40.1949_18.3362,Christian Cafe Gelateria Rosticceria Pizzeria,RESTAURANT,bar_cafe
-40.184765,18.351399,ov_bar_della_villa_40.1848_18.3514,Bar della Villa,RESTAURANT,bar_cafe
+40.197937,18.340661,ov_namaste__40.1979_18.3407,Namaste',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carpignano_salentino/pages/namaste_40.1979_18.3407.json,custom
+40.194322,18.338374,ov_pub_naima_caff__40.1943_18.3384,Pub Naima Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carpignano_salentino/pages/pub_naima_caff_40.1943_18.3384.json,custom
+40.194895,18.336189,ov_christian_cafe_gelateria_rosticceria_piz_40.1949_18.3362,Christian Cafe Gelateria Rosticceria Pizzeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carpignano_salentino/pages/christian_cafe_gelateria_rosticceria_piz_40.1949_18.3362.json,custom
+40.184765,18.351399,ov_bar_della_villa_40.1848_18.3514,Bar della Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carpignano_salentino/pages/bar_della_villa_40.1848_18.3514.json,custom

@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # campomarino -- landmarks
-41.906443,15.074487,ov_casale_madonna_grande_41.9064_15.0745,Casale Madonna Grande,MONUMENT,monumento
-41.957103,15.035642,ov_palazzo_norante_41.9571_15.0356,Palazzo Norante,MUSEUM,monumento
+41.906443,15.074487,ov_casale_madonna_grande_41.9064_15.0745,Casale Madonna Grande,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/casale_madonna_grande_41.9064_15.0745.json,custom
+41.957103,15.035642,ov_palazzo_norante_41.9571_15.0356,Palazzo Norante,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/palazzo_norante_41.9571_15.0356.json,custom

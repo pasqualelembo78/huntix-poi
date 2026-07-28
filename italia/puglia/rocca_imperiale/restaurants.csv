@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rocca_imperiale -- restaurants
-40.103365,16.617871,ov_pizza_e_sfizi_40.1034_16.6179,Pizza e Sfizi,RESTAURANT,ristorante
-40.103387,16.617884,ov_fuori_tempo_restaurant_40.1034_16.6179,Fuori Tempo Restaurant,RESTAURANT,ristorante
-40.100237,16.615305,ov_l_impero_40.1002_16.6153,L'Impero,RESTAURANT,ristorante
-40.101886,16.608596,ov_parsifal_ricevimenti_40.1019_16.6086,Parsifal Ricevimenti,RESTAURANT,ristorante
-40.096823,16.618505,ov_ristorante_pizzeria_la_baia_40.0968_16.6185,Ristorante Pizzeria La Baia,RESTAURANT,ristorante
-40.097864,16.619786,ov_lido_pagoda_beach_pizza___coffee_40.0979_16.6198,Lido Pagoda beach pizza & coffee,RESTAURANT,ristorante
-40.061629,16.601893,ov_ristorante_i_due_scogli_40.0616_16.6019,Ristorante I Due Scogli,RESTAURANT,ristorante
-40.110144,16.579173,ov_palazzo_pucci_40.1101_16.5792,Palazzo Pucci,RESTAURANT,ristorante
-40.110638,16.578762,ov_ferrovie_calabro_lucane_40.1106_16.5788,Ferrovie Calabro Lucane,RESTAURANT,ristorante
-40.110830,16.578561,ov_calainbocca_40.1108_16.5786,Calainbocca,RESTAURANT,ristorante
-40.109978,16.576392,ov_la_casetta_40.1100_16.5764,La Casetta,RESTAURANT,ristorante
-40.109937,16.578205,ov_il_sesto_quarto_esperienza_di_gusto_40.1099_16.5782,Il Sesto Quarto Esperienza di gusto,RESTAURANT,ristorante
-40.108971,16.578417,ov_sapori_nel_borgo_40.1090_16.5784,Sapori Nel Borgo,RESTAURANT,ristorante
-40.109618,16.579598,ov_trattoria_dei_poeti_40.1096_16.5796,trattoria dei poeti,RESTAURANT,ristorante
-40.110191,16.582406,ov_ricria_il_ristorante_40.1102_16.5824,Ricria il Ristorante,RESTAURANT,ristorante
+40.103365,16.617871,ov_pizza_e_sfizi_40.1034_16.6179,Pizza e Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/pizza_e_sfizi_40.1034_16.6179.json,custom
+40.103387,16.617884,ov_fuori_tempo_restaurant_40.1034_16.6179,Fuori Tempo Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/fuori_tempo_restaurant_40.1034_16.6179.json,custom
+40.100237,16.615305,ov_l_impero_40.1002_16.6153,L'Impero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/limpero_40.1002_16.6153.json,custom
+40.101886,16.608596,ov_parsifal_ricevimenti_40.1019_16.6086,Parsifal Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/parsifal_ricevimenti_40.1019_16.6086.json,custom
+40.096823,16.618505,ov_ristorante_pizzeria_la_baia_40.0968_16.6185,Ristorante Pizzeria La Baia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/ristorante_pizzeria_la_baia_40.0968_16.6185.json,custom
+40.097864,16.619786,ov_lido_pagoda_beach_pizza___coffee_40.0979_16.6198,Lido Pagoda beach pizza & coffee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/lido_pagoda_beach_pizza_coffee_40.0979_16.6198.json,custom
+40.061629,16.601893,ov_ristorante_i_due_scogli_40.0616_16.6019,Ristorante I Due Scogli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/ristorante_i_due_scogli_40.0616_16.6019.json,custom
+40.110144,16.579173,ov_palazzo_pucci_40.1101_16.5792,Palazzo Pucci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/palazzo_pucci_40.1101_16.5792.json,custom
+40.110638,16.578762,ov_ferrovie_calabro_lucane_40.1106_16.5788,Ferrovie Calabro Lucane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/ferrovie_calabro_lucane_40.1106_16.5788.json,custom
+40.110830,16.578561,ov_calainbocca_40.1108_16.5786,Calainbocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/calainbocca_40.1108_16.5786.json,custom
+40.109978,16.576392,ov_la_casetta_40.1100_16.5764,La Casetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/la_casetta_40.1100_16.5764.json,custom
+40.109937,16.578205,ov_il_sesto_quarto_esperienza_di_gusto_40.1099_16.5782,Il Sesto Quarto Esperienza di gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/il_sesto_quarto_esperienza_di_gusto_40.1099_16.5782.json,custom
+40.108971,16.578417,ov_sapori_nel_borgo_40.1090_16.5784,Sapori Nel Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/sapori_nel_borgo_40.1090_16.5784.json,custom
+40.109618,16.579598,ov_trattoria_dei_poeti_40.1096_16.5796,trattoria dei poeti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/trattoria_dei_poeti_40.1096_16.5796.json,custom
+40.110191,16.582406,ov_ricria_il_ristorante_40.1102_16.5824,Ricria il Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rocca_imperiale/pages/ricria_il_ristorante_40.1102_16.5824.json,custom

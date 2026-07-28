@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # garaguso -- restaurants
-40.547924,16.227925,ov_amici_di_levi_40.5479_16.2279,Amici Di Levi,RESTAURANT,ristorante
-40.593516,16.241560,ov_il_brigante_40.5935_16.2416,Il Brigante,RESTAURANT,ristorante
+40.547924,16.227925,ov_amici_di_levi_40.5479_16.2279,Amici Di Levi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/garaguso/pages/amici_di_levi_40.5479_16.2279.json,custom
+40.593516,16.241560,ov_il_brigante_40.5935_16.2416,Il Brigante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/garaguso/pages/il_brigante_40.5935_16.2416.json,custom

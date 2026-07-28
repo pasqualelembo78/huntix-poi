@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cassano_delle_murge -- gyms
-40.885847,16.771768,ov_anima_e_danza_40.8858_16.7718,Anima e Danza,GYM,palestra
-40.888262,16.766185,ov_academia_d_arte_cubano_arte_impacto_40.8883_16.7662,Academia D'Arte Cubano ARTE Impacto,GYM,palestra
-40.889666,16.762441,ov_empire_fitness_40.8897_16.7624,Empire Fitness,GYM,palestra
-40.890697,16.768404,ov_asd_lady_d__dance_40.8907_16.7684,ASD Lady D. Dance,GYM,palestra
-40.892334,16.764618,ov_polisportivo_comunale_cassano_delle_murg_40.8923_16.7646,Polisportivo Comunale Cassano delle Murge,GYM,palestra
-40.892864,16.761393,ov_gold_gym_fitness_center_40.8929_16.7614,Gold Gym Fitness Center,GYM,palestra
-40.897629,16.716559,ov_melior_club_40.8976_16.7166,Melior Club,GYM,palestra
-40.888860,16.773657,ov_la_panchina_del_gengi__40.8889_16.7737,La Panchina del Gengiù,GYM,palestra
-40.887750,16.772340,ov_centro_olistico_e_sportivo_afrodite_e_i__40.8877_16.7723,Centro Olistico e Sportivo Afrodite e i Suoi Titani,GYM,palestra
-40.852485,16.776309,ov_shapeonfit_asd_40.8525_16.7763,ShapeOnFit ASD,GYM,palestra
-40.863340,16.781825,ov_asd_centro_ippico_degli_ulivi_40.8633_16.7818,ASD Centro Ippico Degli Ulivi,GYM,palestra
-40.851855,16.692360,ov_asd_circolo_ippico_solinio_40.8519_16.6924,ASD Circolo Ippico Solinio,GYM,palestra
+40.885847,16.771768,ov_anima_e_danza_40.8858_16.7718,Anima e Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/anima_e_danza_40.8858_16.7718.json,custom
+40.888262,16.766185,ov_academia_d_arte_cubano_arte_impacto_40.8883_16.7662,Academia D'Arte Cubano ARTE Impacto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/academia_darte_cubano_arte_impacto_40.8883_16.7662.json,custom
+40.889666,16.762441,ov_empire_fitness_40.8897_16.7624,Empire Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/empire_fitness_40.8897_16.7624.json,custom
+40.890697,16.768404,ov_asd_lady_d__dance_40.8907_16.7684,ASD Lady D. Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/asd_lady_d_dance_40.8907_16.7684.json,custom
+40.892334,16.764618,ov_polisportivo_comunale_cassano_delle_murg_40.8923_16.7646,Polisportivo Comunale Cassano delle Murge,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/polisportivo_comunale_cassano_delle_murg_40.8923_16.7646.json,custom
+40.892864,16.761393,ov_gold_gym_fitness_center_40.8929_16.7614,Gold Gym Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/gold_gym_fitness_center_40.8929_16.7614.json,custom
+40.897629,16.716559,ov_melior_club_40.8976_16.7166,Melior Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/melior_club_40.8976_16.7166.json,custom
+40.888860,16.773657,ov_la_panchina_del_gengi__40.8889_16.7737,La Panchina del Gengiù,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/la_panchina_del_gengi_40.8889_16.7737.json,custom
+40.887750,16.772340,ov_centro_olistico_e_sportivo_afrodite_e_i__40.8877_16.7723,Centro Olistico e Sportivo Afrodite e i Suoi Titani,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/centro_olistico_e_sportivo_afrodite_e_i__40.8877_16.7723.json,custom
+40.852485,16.776309,ov_shapeonfit_asd_40.8525_16.7763,ShapeOnFit ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/shapeonfit_asd_40.8525_16.7763.json,custom
+40.863340,16.781825,ov_asd_centro_ippico_degli_ulivi_40.8633_16.7818,ASD Centro Ippico Degli Ulivi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/asd_centro_ippico_degli_ulivi_40.8633_16.7818.json,custom
+40.851855,16.692360,ov_asd_circolo_ippico_solinio_40.8519_16.6924,ASD Circolo Ippico Solinio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cassano_delle_murge/pages/asd_circolo_ippico_solinio_40.8519_16.6924.json,custom

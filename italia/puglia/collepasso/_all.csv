@@ -1,26 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Collepasso -- Tutti
-40.083294,18.160639,osm_masseria_palmento_40.0833_18.1606,Masseria Palmento,ristorante,ristorante
-40.073401,18.163343,osm_cadeb__40.0734_18.1633,CaDeBè,ristorante,ristorante
-40.072884,18.166838,ov_salento_con_gusto_40.0729_18.1668,Salento con Gusto,RESTAURANT,ristorante
-40.073114,18.164660,ov_via_vai_piatto_pronto_rosticceria_pizzer_40.0731_18.1647,Via Vai Piatto Pronto Rosticceria Pizzeria,RESTAURANT,ristorante
-40.073401,18.163343,ov_cadebe_40.0734_18.1633,Cadebe,RESTAURANT,ristorante
-40.072947,18.162461,ov_pizzeria_lu_bambu_40.0729_18.1625,Pizzeria Lu Bambu,RESTAURANT,ristorante
-40.072688,18.162962,ov_l__officina_pizza___grill_40.0727_18.1630,L' OFFICINA Pizza & Grill,RESTAURANT,ristorante
-40.072293,18.162573,ov_o_scugnizz_40.0723_18.1626,O'Scugnizz,RESTAURANT,ristorante
-40.068408,18.166007,ov_sir_parsifal_40.0684_18.1660,Sir Parsifal,RESTAURANT,ristorante
-40.069160,18.159609,ov_house_wine_bar___pizzeria_40.0692_18.1596,HouSe Wine Bar & Pizzeria,RESTAURANT,ristorante
-40.062038,18.154064,ov_masseria_sant_eleuterio_40.0620_18.1541,Masseria Sant'Eleuterio,RESTAURANT,ristorante
-40.074984,18.159706,ov_la_zona___food___drink_40.0750_18.1597,La Zona - Food & Drink,RESTAURANT,ristorante
-40.083571,18.160616,ov_masseria_palmento_40.0836_18.1606,Masseria Palmento,RESTAURANT,ristorante
-40.175190,18.169076,ov_pizzeria_lu_bambu_2_40.1752_18.1691,Pizzeria Lu Bambu 2,RESTAURANT,ristorante
-40.019706,18.239928,ov_mubo_s_cafe_40.0197_18.2399,Mubo's Cafe,RESTAURANT,bar_cafe
-40.072873,18.163285,ov_gran_bar_40.0729_18.1633,Gran Bar,RESTAURANT,bar_cafe
-40.073232,18.161640,ov_bar_la_palma_di_tedesco_40.0732_18.1616,Bar La Palma Di Tedesco,RESTAURANT,bar_cafe
-40.072797,18.162197,ov_caffetteria_caber_40.0728_18.1622,Caffetteria Caber,RESTAURANT,bar_cafe
-40.089649,18.163982,ov_area41_40.0896_18.1640,Area41,RESTAURANT,bar_cafe
-40.350600,18.181637,ov_proxima_s_r_l__40.3506_18.1816,Proxima s.r.l.,RESTAURANT,bar_cafe
-40.068466,18.165938,osm_sir_parsifal_40.0685_18.1659,Sir Parsifal,bar_cafe,bar_cafe
-40.073987,18.167090,ov_palestra_aktive_40.0740_18.1671,Palestra Aktive,GYM,palestra
-40.075380,18.169930,ov_dskm_italia_40.0754_18.1699,Dskm-Italia,GYM,palestra
-40.072330,18.160085,ov_castello_storico_collepasso_40.0723_18.1601,Castello Storico Collepasso,MONUMENT,monumento
+40.072884,18.166838,ov_salento_con_gusto_40.0729_18.1668,Salento con Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/salento_con_gusto_40.0729_18.1668.json,custom
+40.073114,18.164660,ov_via_vai_piatto_pronto_rosticceria_pizzer_40.0731_18.1647,Via Vai Piatto Pronto Rosticceria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/via_vai_piatto_pronto_rosticceria_pizzer_40.0731_18.1647.json,custom
+40.073401,18.163343,ov_cadebe_40.0734_18.1633,Cadebe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/cadebe_40.0734_18.1633.json,custom
+40.072947,18.162461,ov_pizzeria_lu_bambu_40.0729_18.1625,Pizzeria Lu Bambu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/pizzeria_lu_bambu_40.0729_18.1625.json,custom
+40.072688,18.162962,ov_l__officina_pizza___grill_40.0727_18.1630,L' OFFICINA Pizza & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/l_officina_pizza_grill_40.0727_18.1630.json,custom
+40.072293,18.162573,ov_o_scugnizz_40.0723_18.1626,O'Scugnizz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/oscugnizz_40.0723_18.1626.json,custom
+40.068408,18.166007,ov_sir_parsifal_40.0684_18.1660,Sir Parsifal,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/sir_parsifal_40.0684_18.1660.json,custom
+40.069160,18.159609,ov_house_wine_bar___pizzeria_40.0692_18.1596,HouSe Wine Bar & Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/house_wine_bar_pizzeria_40.0692_18.1596.json,custom
+40.062038,18.154064,ov_masseria_sant_eleuterio_40.0620_18.1541,Masseria Sant'Eleuterio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/masseria_santeleuterio_40.0620_18.1541.json,custom
+40.074984,18.159706,ov_la_zona___food___drink_40.0750_18.1597,La Zona - Food & Drink,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/la_zona_-_food_drink_40.0750_18.1597.json,custom
+40.083571,18.160616,ov_masseria_palmento_40.0836_18.1606,Masseria Palmento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/masseria_palmento_40.0836_18.1606.json,custom
+40.175190,18.169076,ov_pizzeria_lu_bambu_2_40.1752_18.1691,Pizzeria Lu Bambu 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/pizzeria_lu_bambu_2_40.1752_18.1691.json,custom
+40.083294,18.160639,osm_masseria_palmento_40.0833_18.1606,Masseria Palmento,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/masseria_palmento_40.0833_18.1606.json,custom
+40.073401,18.163343,osm_cadeb__40.0734_18.1633,CaDeBè,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/cadeb_40.0734_18.1633.json,custom
+40.019706,18.239928,ov_mubo_s_cafe_40.0197_18.2399,Mubo's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/mubos_cafe_40.0197_18.2399.json,custom
+40.072873,18.163285,ov_gran_bar_40.0729_18.1633,Gran Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/gran_bar_40.0729_18.1633.json,custom
+40.073232,18.161640,ov_bar_la_palma_di_tedesco_40.0732_18.1616,Bar La Palma Di Tedesco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/bar_la_palma_di_tedesco_40.0732_18.1616.json,custom
+40.072797,18.162197,ov_caffetteria_caber_40.0728_18.1622,Caffetteria Caber,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/caffetteria_caber_40.0728_18.1622.json,custom
+40.089649,18.163982,ov_area41_40.0896_18.1640,Area41,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/area41_40.0896_18.1640.json,custom
+40.350600,18.181637,ov_proxima_s_r_l__40.3506_18.1816,Proxima s.r.l.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/proxima_srl_40.3506_18.1816.json,custom
+40.068466,18.165938,osm_sir_parsifal_40.0685_18.1659,Sir Parsifal,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/sir_parsifal_40.0685_18.1659.json,custom
+40.073987,18.167090,ov_palestra_aktive_40.0740_18.1671,Palestra Aktive,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/palestra_aktive_40.0740_18.1671.json,custom
+40.075380,18.169930,ov_dskm_italia_40.0754_18.1699,Dskm-Italia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/dskm-italia_40.0754_18.1699.json,custom
+40.072330,18.160085,ov_castello_storico_collepasso_40.0723_18.1601,Castello Storico Collepasso,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/collepasso/pages/castello_storico_collepasso_40.0723_18.1601.json,custom

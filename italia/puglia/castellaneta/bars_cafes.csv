@@ -1,35 +1,35 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castellaneta -- bars_cafes
-40.632084,16.931533,ov_bar_valentino_40.6321_16.9315,Bar Valentino,RESTAURANT,bar_cafe
-40.633860,16.933445,ov_nomine_rosae_caffe_40.6339_16.9334,Nomine Rosae Caffe,RESTAURANT,bar_cafe
-40.626716,16.940161,ov_bar_albachiara_40.6267_16.9402,Bar Albachiara,RESTAURANT,bar_cafe
-40.626861,16.933667,ov_publi_2000_di_naselli_giorgio_40.6269_16.9337,Publi 2000 di Naselli Giorgio,RESTAURANT,bar_cafe
-40.627050,16.932940,ov_lucky_staar_40.6270_16.9329,Lucky Staar,RESTAURANT,bar_cafe
-40.630022,16.931582,ov_caffe_verdi_40.6300_16.9316,Caffe Verdi,RESTAURANT,bar_cafe
-40.629779,16.933496,ov_bar_74011_40.6298_16.9335,Bar 74011,RESTAURANT,bar_cafe
-40.629425,16.932396,ov_brass_monkey_40.6294_16.9324,Brass Monkey,RESTAURANT,bar_cafe
-40.628988,16.933736,ov_bar_111_40.6290_16.9337,Bar 111,RESTAURANT,bar_cafe
-40.629052,16.933950,ov_la_dolce_vita_40.6291_16.9340,La Dolce Vita,RESTAURANT,bar_cafe
-40.629297,16.935283,ov_coconut_castellaneta_40.6293_16.9353,Coconut Castellaneta,RESTAURANT,bar_cafe
-40.629650,16.938654,ov_il_piccio_del_centro_storico_40.6296_16.9387,Il Piccio del Centro Storico,RESTAURANT,bar_cafe
-40.630294,16.935546,ov_the_cube_40.6303_16.9355,The Cube,RESTAURANT,bar_cafe
-40.630719,16.934315,ov_bar_zanzibar_40.6307_16.9343,Bar Zanzibar,RESTAURANT,bar_cafe
-40.630773,16.934457,ov_kodo_40.6308_16.9345,Kodo,RESTAURANT,bar_cafe
-40.631546,16.934458,ov_birreria_56_40.6315_16.9345,Birreria 56,RESTAURANT,bar_cafe
-40.631542,16.934465,ov_pizzeria_infarina_40.6315_16.9345,Pizzeria Infarina,RESTAURANT,bar_cafe
-40.627914,16.925641,ov_almami_40.6279_16.9256,Almami,RESTAURANT,bar_cafe
-40.627079,16.925310,ov_coffeeshop_aragonese_point_castellaneta_40.6271_16.9253,Coffeeshop Aragonese Point Castellaneta,RESTAURANT,bar_cafe
-40.626364,16.924811,ov_pausa_caff__40.6264_16.9248,Pausa Caffè,RESTAURANT,bar_cafe
-40.625064,16.938203,ov_almat_infissi_40.6251_16.9382,Almat Infissi,RESTAURANT,bar_cafe
-40.537316,16.926058,ov_ip_stazione_di_servizio_essepitredici_40.5373_16.9261,IP Stazione di Servizio Essepitredici,RESTAURANT,bar_cafe
-40.481913,16.933795,ov_garden_caf__40.4819_16.9338,Garden Cafè,RESTAURANT,bar_cafe
-40.492276,16.927528,ov_statale_106_40.4923_16.9275,Statale 106,RESTAURANT,bar_cafe
-40.473690,16.934340,ov_barcotto_40.4737_16.9343,Barcotto,RESTAURANT,bar_cafe
-40.468073,16.937881,ov_dolci_pensieri_40.4681_16.9379,Dolci Pensieri,RESTAURANT,bar_cafe
-40.468461,16.946558,ov_bar_dell_anfiteatro_40.4685_16.9466,Bar dell'Anfiteatro,RESTAURANT,bar_cafe
-40.468554,16.946442,ov_shaila_fusion_beach_bar_40.4686_16.9464,Shaila Fusion Beach Bar,RESTAURANT,bar_cafe
-40.462705,16.937721,ov_lido_paradiso_bar_tabacchi_40.4627_16.9377,Lido Paradiso Bar Tabacchi,RESTAURANT,bar_cafe
-40.462169,16.936637,ov_terrazza_margherita_beach_40.4622_16.9366,Terrazza Margherita Beach,RESTAURANT,bar_cafe
-40.460704,16.934521,ov_lido_la_barchetta__castellaneta_marina__40.4607_16.9345,Lido La Barchetta -Castellaneta Marina-,RESTAURANT,bar_cafe
-40.456593,16.927904,ov_lido_la_marea_40.4566_16.9279,Lido La Marea,RESTAURANT,bar_cafe
-40.633942,16.933499,osm_nomine_rosae_40.6339_16.9335,Nomine Rosae,bar_cafe,bar_cafe
+40.632084,16.931533,ov_bar_valentino_40.6321_16.9315,Bar Valentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_valentino_40.6321_16.9315.json,custom
+40.633860,16.933445,ov_nomine_rosae_caffe_40.6339_16.9334,Nomine Rosae Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/nomine_rosae_caffe_40.6339_16.9334.json,custom
+40.626716,16.940161,ov_bar_albachiara_40.6267_16.9402,Bar Albachiara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_albachiara_40.6267_16.9402.json,custom
+40.626861,16.933667,ov_publi_2000_di_naselli_giorgio_40.6269_16.9337,Publi 2000 di Naselli Giorgio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/publi_2000_di_naselli_giorgio_40.6269_16.9337.json,custom
+40.627050,16.932940,ov_lucky_staar_40.6270_16.9329,Lucky Staar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/lucky_staar_40.6270_16.9329.json,custom
+40.630022,16.931582,ov_caffe_verdi_40.6300_16.9316,Caffe Verdi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/caffe_verdi_40.6300_16.9316.json,custom
+40.629779,16.933496,ov_bar_74011_40.6298_16.9335,Bar 74011,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_74011_40.6298_16.9335.json,custom
+40.629425,16.932396,ov_brass_monkey_40.6294_16.9324,Brass Monkey,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/brass_monkey_40.6294_16.9324.json,custom
+40.628988,16.933736,ov_bar_111_40.6290_16.9337,Bar 111,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_111_40.6290_16.9337.json,custom
+40.629052,16.933950,ov_la_dolce_vita_40.6291_16.9340,La Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/la_dolce_vita_40.6291_16.9340.json,custom
+40.629297,16.935283,ov_coconut_castellaneta_40.6293_16.9353,Coconut Castellaneta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/coconut_castellaneta_40.6293_16.9353.json,custom
+40.629650,16.938654,ov_il_piccio_del_centro_storico_40.6296_16.9387,Il Piccio del Centro Storico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/il_piccio_del_centro_storico_40.6296_16.9387.json,custom
+40.630294,16.935546,ov_the_cube_40.6303_16.9355,The Cube,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/the_cube_40.6303_16.9355.json,custom
+40.630719,16.934315,ov_bar_zanzibar_40.6307_16.9343,Bar Zanzibar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_zanzibar_40.6307_16.9343.json,custom
+40.630773,16.934457,ov_kodo_40.6308_16.9345,Kodo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/kodo_40.6308_16.9345.json,custom
+40.631546,16.934458,ov_birreria_56_40.6315_16.9345,Birreria 56,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/birreria_56_40.6315_16.9345.json,custom
+40.631542,16.934465,ov_pizzeria_infarina_40.6315_16.9345,Pizzeria Infarina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/pizzeria_infarina_40.6315_16.9345.json,custom
+40.627914,16.925641,ov_almami_40.6279_16.9256,Almami,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/almami_40.6279_16.9256.json,custom
+40.627079,16.925310,ov_coffeeshop_aragonese_point_castellaneta_40.6271_16.9253,Coffeeshop Aragonese Point Castellaneta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/coffeeshop_aragonese_point_castellaneta_40.6271_16.9253.json,custom
+40.626364,16.924811,ov_pausa_caff__40.6264_16.9248,Pausa Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/pausa_caff_40.6264_16.9248.json,custom
+40.625064,16.938203,ov_almat_infissi_40.6251_16.9382,Almat Infissi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/almat_infissi_40.6251_16.9382.json,custom
+40.537316,16.926058,ov_ip_stazione_di_servizio_essepitredici_40.5373_16.9261,IP Stazione di Servizio Essepitredici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/ip_stazione_di_servizio_essepitredici_40.5373_16.9261.json,custom
+40.481913,16.933795,ov_garden_caf__40.4819_16.9338,Garden Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/garden_caf_40.4819_16.9338.json,custom
+40.492276,16.927528,ov_statale_106_40.4923_16.9275,Statale 106,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/statale_106_40.4923_16.9275.json,custom
+40.473690,16.934340,ov_barcotto_40.4737_16.9343,Barcotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/barcotto_40.4737_16.9343.json,custom
+40.468073,16.937881,ov_dolci_pensieri_40.4681_16.9379,Dolci Pensieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/dolci_pensieri_40.4681_16.9379.json,custom
+40.468461,16.946558,ov_bar_dell_anfiteatro_40.4685_16.9466,Bar dell'Anfiteatro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/bar_dellanfiteatro_40.4685_16.9466.json,custom
+40.468554,16.946442,ov_shaila_fusion_beach_bar_40.4686_16.9464,Shaila Fusion Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/shaila_fusion_beach_bar_40.4686_16.9464.json,custom
+40.462705,16.937721,ov_lido_paradiso_bar_tabacchi_40.4627_16.9377,Lido Paradiso Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/lido_paradiso_bar_tabacchi_40.4627_16.9377.json,custom
+40.462169,16.936637,ov_terrazza_margherita_beach_40.4622_16.9366,Terrazza Margherita Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/terrazza_margherita_beach_40.4622_16.9366.json,custom
+40.460704,16.934521,ov_lido_la_barchetta__castellaneta_marina__40.4607_16.9345,Lido La Barchetta -Castellaneta Marina-,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/lido_la_barchetta_-castellaneta_marina-_40.4607_16.9345.json,custom
+40.456593,16.927904,ov_lido_la_marea_40.4566_16.9279,Lido La Marea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/lido_la_marea_40.4566_16.9279.json,custom
+40.633942,16.933499,osm_nomine_rosae_40.6339_16.9335,Nomine Rosae,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/nomine_rosae_40.6339_16.9335.json,custom

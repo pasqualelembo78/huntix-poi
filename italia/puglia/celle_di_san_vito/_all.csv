@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Celle di San Vito -- Tutti
-41.326935,15.180290,ov_il_picchio_trattoria_pizzeria_41.3269_15.1803,Il Picchio trattoria pizzeria,RESTAURANT,ristorante
-41.326106,15.181856,ov_le_fontanelle_41.3261_15.1819,Le Fontanelle,RESTAURANT,ristorante
-41.326022,15.182032,ov_bar_ristorante_pizzeria_fontanelle_41.3260_15.1820,Bar Ristorante Pizzeria Fontanelle,RESTAURANT,ristorante
-41.328254,15.180778,ov_museo_della_civilt__contadina_francoprov_41.3283_15.1808,Museo della civiltà contadina francoprovenzale Vincenzo Rubi,MUSEUM,monumento
+41.326935,15.180290,ov_il_picchio_trattoria_pizzeria_41.3269_15.1803,Il Picchio trattoria pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_san_vito/pages/il_picchio_trattoria_pizzeria_41.3269_15.1803.json,custom
+41.326106,15.181856,ov_le_fontanelle_41.3261_15.1819,Le Fontanelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_san_vito/pages/le_fontanelle_41.3261_15.1819.json,custom
+41.326022,15.182032,ov_bar_ristorante_pizzeria_fontanelle_41.3260_15.1820,Bar Ristorante Pizzeria Fontanelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_san_vito/pages/bar_ristorante_pizzeria_fontanelle_41.3260_15.1820.json,custom
+41.328254,15.180778,ov_museo_della_civilt__contadina_francoprov_41.3283_15.1808,Museo della civiltà contadina francoprovenzale Vincenzo Rubi,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/celle_di_san_vito/pages/museo_della_civilt_contadina_francoprove_41.3283_15.1808.json,custom

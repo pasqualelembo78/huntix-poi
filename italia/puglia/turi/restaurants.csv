@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # turi -- restaurants
-40.924837,17.018864,ov_san_domenico_bio_40.9248_17.0189,San Domenico Bio,RESTAURANT,ristorante
-40.918026,17.015812,ov_sav__40.9180_17.0158,Savè,RESTAURANT,ristorante
-40.916512,17.015244,ov_tondo_verace_40.9165_17.0152,Tondo Verace,RESTAURANT,ristorante
-40.916862,17.018310,ov_al_setaccio_40.9169_17.0183,Al Setaccio,RESTAURANT,ristorante
-40.916097,17.019617,ov_calo_bistrot_40.9161_17.0196,Calo Bistrot,RESTAURANT,ristorante
-40.915883,17.018634,ov_da_minguccio_40.9159_17.0186,Da Minguccio,RESTAURANT,ristorante
-40.916086,17.018264,ov_magno_40.9161_17.0183,Magno,RESTAURANT,ristorante
-40.915454,17.012989,ov_il_grano_d_oro_di_puglia_40.9155_17.0130,Il Grano d'Oro di Puglia,RESTAURANT,ristorante
-40.915115,17.019879,ov_degustibus_40.9151_17.0199,DeGustibus,RESTAURANT,ristorante
-40.915018,17.016455,ov_panzerottando_40.9150_17.0165,Panzerottando,RESTAURANT,ristorante
-40.905827,17.007413,ov_pernice_srl_40.9058_17.0074,Pernice Srl,RESTAURANT,ristorante
-40.894289,16.997564,ov_masseria_orlandi_40.8943_16.9976,Masseria Orlandi,RESTAURANT,ristorante
-40.905600,17.046848,ov_masseria_procida_40.9056_17.0468,Masseria Procida,RESTAURANT,ristorante
-40.916427,17.022003,ov_cuore_di_puglia_40.9164_17.0220,Cuore di Puglia,RESTAURANT,ristorante
-40.917373,17.020611,ov_il_capriccio_40.9174_17.0206,Il Capriccio,RESTAURANT,ristorante
-40.916975,17.022285,ov_palazzo_marchesale_venusio_40.9170_17.0223,Palazzo Marchesale Venusio,RESTAURANT,ristorante
-40.916586,17.022083,ov_ristorante_santa_chiara_40.9166_17.0221,Ristorante Santa Chiara,RESTAURANT,ristorante
-40.918442,17.020458,ov_ristorante_pizzeria_king_stone_40.9184_17.0205,Ristorante Pizzeria King Stone,RESTAURANT,ristorante
-40.919033,17.021021,ov_borgo_nuovo_40.9190_17.0210,Borgo Nuovo,RESTAURANT,ristorante
-40.920379,17.031783,ov_pizzart_40.9204_17.0318,Pizzart,RESTAURANT,ristorante
-40.922219,17.022892,ov_ristorante_pizzeria_desir_e_40.9222_17.0229,Ristorante Pizzeria Desirèe,RESTAURANT,ristorante
-40.976743,17.006208,ov_menelao_alle_cummerse_40.9767_17.0062,Menelao alle Cummerse,RESTAURANT,ristorante
+40.924837,17.018864,ov_san_domenico_bio_40.9248_17.0189,San Domenico Bio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/san_domenico_bio_40.9248_17.0189.json,custom
+40.918026,17.015812,ov_sav__40.9180_17.0158,Savè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/sav_40.9180_17.0158.json,custom
+40.916512,17.015244,ov_tondo_verace_40.9165_17.0152,Tondo Verace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/tondo_verace_40.9165_17.0152.json,custom
+40.916862,17.018310,ov_al_setaccio_40.9169_17.0183,Al Setaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/al_setaccio_40.9169_17.0183.json,custom
+40.916097,17.019617,ov_calo_bistrot_40.9161_17.0196,Calo Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/calo_bistrot_40.9161_17.0196.json,custom
+40.915883,17.018634,ov_da_minguccio_40.9159_17.0186,Da Minguccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/da_minguccio_40.9159_17.0186.json,custom
+40.916086,17.018264,ov_magno_40.9161_17.0183,Magno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/magno_40.9161_17.0183.json,custom
+40.915454,17.012989,ov_il_grano_d_oro_di_puglia_40.9155_17.0130,Il Grano d'Oro di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/il_grano_doro_di_puglia_40.9155_17.0130.json,custom
+40.915115,17.019879,ov_degustibus_40.9151_17.0199,DeGustibus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/degustibus_40.9151_17.0199.json,custom
+40.915018,17.016455,ov_panzerottando_40.9150_17.0165,Panzerottando,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/panzerottando_40.9150_17.0165.json,custom
+40.905827,17.007413,ov_pernice_srl_40.9058_17.0074,Pernice Srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/pernice_srl_40.9058_17.0074.json,custom
+40.894289,16.997564,ov_masseria_orlandi_40.8943_16.9976,Masseria Orlandi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/masseria_orlandi_40.8943_16.9976.json,custom
+40.905600,17.046848,ov_masseria_procida_40.9056_17.0468,Masseria Procida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/masseria_procida_40.9056_17.0468.json,custom
+40.916427,17.022003,ov_cuore_di_puglia_40.9164_17.0220,Cuore di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/cuore_di_puglia_40.9164_17.0220.json,custom
+40.917373,17.020611,ov_il_capriccio_40.9174_17.0206,Il Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/il_capriccio_40.9174_17.0206.json,custom
+40.916975,17.022285,ov_palazzo_marchesale_venusio_40.9170_17.0223,Palazzo Marchesale Venusio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/palazzo_marchesale_venusio_40.9170_17.0223.json,custom
+40.916586,17.022083,ov_ristorante_santa_chiara_40.9166_17.0221,Ristorante Santa Chiara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/ristorante_santa_chiara_40.9166_17.0221.json,custom
+40.918442,17.020458,ov_ristorante_pizzeria_king_stone_40.9184_17.0205,Ristorante Pizzeria King Stone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/ristorante_pizzeria_king_stone_40.9184_17.0205.json,custom
+40.919033,17.021021,ov_borgo_nuovo_40.9190_17.0210,Borgo Nuovo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/borgo_nuovo_40.9190_17.0210.json,custom
+40.920379,17.031783,ov_pizzart_40.9204_17.0318,Pizzart,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/pizzart_40.9204_17.0318.json,custom
+40.922219,17.022892,ov_ristorante_pizzeria_desir_e_40.9222_17.0229,Ristorante Pizzeria Desirèe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/ristorante_pizzeria_desire_40.9222_17.0229.json,custom
+40.976743,17.006208,ov_menelao_alle_cummerse_40.9767_17.0062,Menelao alle Cummerse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/turi/pages/menelao_alle_cummerse_40.9767_17.0062.json,custom

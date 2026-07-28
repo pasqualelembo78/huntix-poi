@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ceraso -- bars_cafes
-40.179680,15.255973,ov__uro_bar_40.1797_15.2560,€uro Bar,RESTAURANT,bar_cafe
-40.194693,15.256182,ov_cherry_s_pub_40.1947_15.2562,Cherry's Pub,RESTAURANT,bar_cafe
-40.195174,15.256193,ov_jessy_bar_40.1952_15.2562,Jessy Bar,RESTAURANT,bar_cafe
-40.202681,15.281768,ov_km_zero_40.2027_15.2818,Km Zero,RESTAURANT,bar_cafe
+40.179680,15.255973,ov__uro_bar_40.1797_15.2560,€uro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/uro_bar_40.1797_15.2560.json,custom
+40.194693,15.256182,ov_cherry_s_pub_40.1947_15.2562,Cherry's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/cherrys_pub_40.1947_15.2562.json,custom
+40.195174,15.256193,ov_jessy_bar_40.1952_15.2562,Jessy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/jessy_bar_40.1952_15.2562.json,custom
+40.202681,15.281768,ov_km_zero_40.2027_15.2818,Km Zero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ceraso/pages/km_zero_40.2027_15.2818.json,custom

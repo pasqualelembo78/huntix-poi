@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fragagnano -- bars_cafes
-40.425261,17.483202,ov_galieri_renata_40.4253_17.4832,Galieri Renata,RESTAURANT,bar_cafe
-40.427098,17.480649,ov_the_brazen_head_40.4271_17.4806,The Brazen Head,RESTAURANT,bar_cafe
-40.433183,17.476883,ov_al_parco_bar_paninoteca_40.4332_17.4769,Al Parco Bar Paninoteca,RESTAURANT,bar_cafe
-40.434028,17.477267,ov_bar_notorious_40.4340_17.4773,Bar Notorious,RESTAURANT,bar_cafe
-40.433684,17.475540,ov_fashion_cafe_40.4337_17.4755,Fashion Cafe,RESTAURANT,bar_cafe
-40.434729,17.471156,ov_nolita_lounge_bar_40.4347_17.4712,Nolita Lounge Bar,RESTAURANT,bar_cafe
-40.429284,17.471660,ov_freedom_cafe_40.4293_17.4717,Freedom Cafe,RESTAURANT,bar_cafe
-40.429678,17.469783,ov_caff__venere_40.4297_17.4698,Caffè Venere,RESTAURANT,bar_cafe
-40.432670,17.466400,ov_the_seven_40.4327_17.4664,The Seven,RESTAURANT,bar_cafe
-40.432360,17.474429,ov_il_palazzotto_40.4324_17.4744,Il Palazzotto,RESTAURANT,bar_cafe
-40.432583,17.474778,ov_bar_carpe_diem_fragagnano_40.4326_17.4748,Bar Carpe Diem Fragagnano,RESTAURANT,bar_cafe
-40.432416,17.477477,ov_trilly_cafe_40.4324_17.4775,Trilly Cafe,RESTAURANT,bar_cafe
+40.425261,17.483202,ov_galieri_renata_40.4253_17.4832,Galieri Renata,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/galieri_renata_40.4253_17.4832.json,custom
+40.427098,17.480649,ov_the_brazen_head_40.4271_17.4806,The Brazen Head,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/the_brazen_head_40.4271_17.4806.json,custom
+40.433183,17.476883,ov_al_parco_bar_paninoteca_40.4332_17.4769,Al Parco Bar Paninoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/al_parco_bar_paninoteca_40.4332_17.4769.json,custom
+40.434028,17.477267,ov_bar_notorious_40.4340_17.4773,Bar Notorious,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/bar_notorious_40.4340_17.4773.json,custom
+40.433684,17.475540,ov_fashion_cafe_40.4337_17.4755,Fashion Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/fashion_cafe_40.4337_17.4755.json,custom
+40.434729,17.471156,ov_nolita_lounge_bar_40.4347_17.4712,Nolita Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/nolita_lounge_bar_40.4347_17.4712.json,custom
+40.429284,17.471660,ov_freedom_cafe_40.4293_17.4717,Freedom Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/freedom_cafe_40.4293_17.4717.json,custom
+40.429678,17.469783,ov_caff__venere_40.4297_17.4698,Caffè Venere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/caff_venere_40.4297_17.4698.json,custom
+40.432670,17.466400,ov_the_seven_40.4327_17.4664,The Seven,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/the_seven_40.4327_17.4664.json,custom
+40.432360,17.474429,ov_il_palazzotto_40.4324_17.4744,Il Palazzotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/il_palazzotto_40.4324_17.4744.json,custom
+40.432583,17.474778,ov_bar_carpe_diem_fragagnano_40.4326_17.4748,Bar Carpe Diem Fragagnano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/bar_carpe_diem_fragagnano_40.4326_17.4748.json,custom
+40.432416,17.477477,ov_trilly_cafe_40.4324_17.4775,Trilly Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fragagnano/pages/trilly_cafe_40.4324_17.4775.json,custom

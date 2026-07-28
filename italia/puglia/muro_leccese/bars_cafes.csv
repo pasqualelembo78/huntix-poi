@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # muro_leccese -- bars_cafes
-40.097851,18.339383,ov_bar_santa_marina_40.0979_18.3394,Bar Santa Marina,RESTAURANT,bar_cafe
-40.103328,18.338653,ov_caff__miron_40.1033_18.3387,Caffè Miron,RESTAURANT,bar_cafe
-40.108460,18.325763,ov_piu_bar_40.1085_18.3258,Piu Bar,RESTAURANT,bar_cafe
-40.106759,18.329567,ov_menar_o___drinkeria_40.1068_18.3296,Menarìo - drinkeria,RESTAURANT,bar_cafe
-40.124320,18.335967,ov_petrolgrillarea_40.1243_18.3360,Petrolgrillarea,RESTAURANT,bar_cafe
+40.097851,18.339383,ov_bar_santa_marina_40.0979_18.3394,Bar Santa Marina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_leccese/pages/bar_santa_marina_40.0979_18.3394.json,custom
+40.103328,18.338653,ov_caff__miron_40.1033_18.3387,Caffè Miron,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_leccese/pages/caff_miron_40.1033_18.3387.json,custom
+40.108460,18.325763,ov_piu_bar_40.1085_18.3258,Piu Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_leccese/pages/piu_bar_40.1085_18.3258.json,custom
+40.106759,18.329567,ov_menar_o___drinkeria_40.1068_18.3296,Menarìo - drinkeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_leccese/pages/menaro_-_drinkeria_40.1068_18.3296.json,custom
+40.124320,18.335967,ov_petrolgrillarea_40.1243_18.3360,Petrolgrillarea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/muro_leccese/pages/petrolgrillarea_40.1243_18.3360.json,custom

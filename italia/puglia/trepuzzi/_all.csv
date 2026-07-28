@@ -1,49 +1,49 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Trepuzzi -- Tutti
-40.404645,18.070207,osm_pizzeria_marechiaro_40.4046_18.0702,Pizzeria Marechiaro,ristorante,ristorante
-40.399744,18.074705,ov_policlinico_di_bari_40.3997_18.0747,Policlinico Di Bari,HOSPITAL,hospital
-40.400730,18.080999,ov_la_graticola_da_donato_pizzeria_trattori_40.4007_18.0810,"La Graticola Da Donato Pizzeria,Trattoria,B&B",RESTAURANT,ristorante
-40.401663,18.070713,ov_pizzeria_ristorante_felix_di_ranieri_giu_40.4017_18.0707,Pizzeria Ristorante Felix Di Ranieri Giuseppe,RESTAURANT,ristorante
-40.401687,18.070981,ov_p20lab_bistrot_40.4017_18.0710,P20Lab Bistrot,RESTAURANT,ristorante
-40.398227,18.056563,ov_masseria_pezzuti_40.3982_18.0566,Masseria Pezzuti,RESTAURANT,ristorante
-40.403255,18.068603,ov_i_tesori_della_buona_terra_40.4033_18.0686,I Tesori della Buona Terra,RESTAURANT,ristorante
-40.404748,18.071513,ov_tre_pozzi_40.4047_18.0715,Tre Pozzi,RESTAURANT,ristorante
-40.404752,18.070413,ov_pizzeria_marechiaro_trepuzzi___le_40.4048_18.0704,Pizzeria Marechiaro Trepuzzi - LE,RESTAURANT,ristorante
-40.405442,18.069968,ov_pizzeria_rosticceria_italia_90_40.4054_18.0700,Pizzeria Rosticceria Italia 90,RESTAURANT,ristorante
-40.405619,18.071055,ov_al_rusticone_da_nino_40.4056_18.0711,Al Rusticone da Nino,RESTAURANT,ristorante
-40.405784,18.070737,ov_la_dolce_vita_40.4058_18.0707,La Dolce Vita,RESTAURANT,ristorante
-40.406418,18.077272,ov_pizzeria_o_sole_mio_40.4064_18.0773,Pizzeria O Sole Mio,RESTAURANT,ristorante
-40.410204,18.074821,ov_gusto_divino_trepuzzi_40.4102_18.0748,Gusto Divino Trepuzzi,RESTAURANT,ristorante
-40.410293,18.070594,ov_bella_vida_lounge_bar___bella_vida_grill_40.4103_18.0706,Bella Vida Lounge Bar & Bella Vida Grill,RESTAURANT,ristorante
-40.409432,18.067352,ov_pizzeria_braceria_dark_angel_40.4094_18.0674,Pizzeria Braceria Dark Angel,RESTAURANT,ristorante
-40.408330,18.068472,ov_sempre_lura_40.4083_18.0685,Sempre Lura,RESTAURANT,ristorante
-40.406539,18.076904,ov_pizzeria_rosticceria_chic__40.4065_18.0769,Pizzeria-rosticceria CHICÒ,RESTAURANT,ristorante
-40.486364,18.116444,ov_masseria_sotto_le_stelle_40.4864_18.1164,Masseria Sotto le Stelle,RESTAURANT,ristorante
-40.494346,18.124969,ov_la_rotonda_40.4943_18.1250,La Rotonda,RESTAURANT,ristorante
-40.496430,18.120480,ov_one_coffee_40.4964_18.1205,One Coffee,RESTAURANT,ristorante
-40.496670,18.122933,ov_ciritorno_casalabate_fristo_bar_40.4967_18.1229,Ciritorno Casalabate FRIsto Bar,RESTAURANT,ristorante
-40.496912,18.121948,ov_alto_mare_restaurant_loungebar__casalaba_40.4969_18.1219,ALTO MARE_Restaurant&LoungeBar_ Casalabate,RESTAURANT,ristorante
-40.287340,18.131534,ov_barq8_lequile___ss_lecce_gallipoli_40.2873_18.1315,BarQ8 lequile - ss lecce-gallipoli,RESTAURANT,bar_cafe
-40.405720,18.083626,ov_bar_sport_40.4057_18.0836,Bar Sport,RESTAURANT,bar_cafe
-40.404926,18.077935,ov_caf__bistrot_40.4049_18.0779,Cafè Bistrot,RESTAURANT,bar_cafe
-40.399839,18.081231,ov_iabb__bistrot_40.3998_18.0812,Iabbù Bistrot,RESTAURANT,bar_cafe
-40.402903,18.070648,ov_chiaro_kicco_40.4029_18.0706,Chiaro Kicco,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_twentyone_caf__40.4047_18.0715,TwentyOne Cafè,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_bar_stazione_trepuzzi_40.4047_18.0715,Bar stazione Trepuzzi,RESTAURANT,bar_cafe
-40.404748,18.071513,ov_q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715,Q8 Carburanti Bar Autolavaggio Trepuzzi,RESTAURANT,bar_cafe
-40.405257,18.071241,ov_bar_la_villa_40.4053_18.0712,Bar La Villa,RESTAURANT,bar_cafe
-40.405624,18.072717,ov_absolute_cafe_40.4056_18.0727,Absolute Cafe,RESTAURANT,bar_cafe
-40.405817,18.072871,ov_bar_del_corso_40.4058_18.0729,Bar Del Corso,RESTAURANT,bar_cafe
-40.405751,18.070156,ov_bar_matrix_40.4058_18.0702,Bar Matrix,RESTAURANT,bar_cafe
-40.410779,18.072876,ov_shaabisky_s_club_40.4108_18.0729,Shaabisky's Club,RESTAURANT,bar_cafe
-40.406948,18.073133,ov_la_dimora_dei_vini_enoteca_40.4069_18.0731,La Dimora Dei Vini Enoteca,RESTAURANT,bar_cafe
-40.406568,18.069700,ov_bar_des_amis_40.4066_18.0697,Bar Des Amis,RESTAURANT,bar_cafe
-40.411165,18.066436,ov_mark_rock_caff__40.4112_18.0664,Mark Rock Caffè,RESTAURANT,bar_cafe
-40.403753,18.081725,ov_reiki_trepuzzi_40.4038_18.0817,Reiki Trepuzzi,GYM,palestra
-40.402185,18.066843,ov_fit_stop___dance_40.4022_18.0668,Fit-stop & DANCE,GYM,palestra
-40.404840,18.074340,ov_scuola_di_danza_balletto_del_salento_40.4048_18.0743,Scuola di danza Balletto del Salento,GYM,palestra
-40.410556,18.074733,ov_evolution_a_s_d__40.4106_18.0747,Evolution A.S.D.,GYM,palestra
-40.410091,18.075462,ov_milos_club_40.4101_18.0755,Milos Club,GYM,palestra
-40.409890,18.075239,ov_ballet_school_40.4099_18.0752,Ballet School,GYM,palestra
-40.409340,18.067430,ov_family___usa_9_40.4093_18.0674,Family - USA 9,GYM,palestra
-40.411862,18.071519,ov_tripudium_functional_40.4119_18.0715,Tripudium Functional,GYM,palestra
+40.399744,18.074705,ov_policlinico_di_bari_40.3997_18.0747,Policlinico Di Bari,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/policlinico_di_bari_40.3997_18.0747.json,custom
+40.400730,18.080999,ov_la_graticola_da_donato_pizzeria_trattori_40.4007_18.0810,"La Graticola Da Donato Pizzeria,Trattoria,B&B",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/la_graticola_da_donato_pizzeriatrattoria_40.4007_18.0810.json,custom
+40.401663,18.070713,ov_pizzeria_ristorante_felix_di_ranieri_giu_40.4017_18.0707,Pizzeria Ristorante Felix Di Ranieri Giuseppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_ristorante_felix_di_ranieri_giu_40.4017_18.0707.json,custom
+40.401687,18.070981,ov_p20lab_bistrot_40.4017_18.0710,P20Lab Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/p20lab_bistrot_40.4017_18.0710.json,custom
+40.398227,18.056563,ov_masseria_pezzuti_40.3982_18.0566,Masseria Pezzuti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/masseria_pezzuti_40.3982_18.0566.json,custom
+40.403255,18.068603,ov_i_tesori_della_buona_terra_40.4033_18.0686,I Tesori della Buona Terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/i_tesori_della_buona_terra_40.4033_18.0686.json,custom
+40.404748,18.071513,ov_tre_pozzi_40.4047_18.0715,Tre Pozzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/tre_pozzi_40.4047_18.0715.json,custom
+40.404752,18.070413,ov_pizzeria_marechiaro_trepuzzi___le_40.4048_18.0704,Pizzeria Marechiaro Trepuzzi - LE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_marechiaro_trepuzzi_-_le_40.4048_18.0704.json,custom
+40.405442,18.069968,ov_pizzeria_rosticceria_italia_90_40.4054_18.0700,Pizzeria Rosticceria Italia 90,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_rosticceria_italia_90_40.4054_18.0700.json,custom
+40.405619,18.071055,ov_al_rusticone_da_nino_40.4056_18.0711,Al Rusticone da Nino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/al_rusticone_da_nino_40.4056_18.0711.json,custom
+40.405784,18.070737,ov_la_dolce_vita_40.4058_18.0707,La Dolce Vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/la_dolce_vita_40.4058_18.0707.json,custom
+40.406418,18.077272,ov_pizzeria_o_sole_mio_40.4064_18.0773,Pizzeria O Sole Mio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_o_sole_mio_40.4064_18.0773.json,custom
+40.410204,18.074821,ov_gusto_divino_trepuzzi_40.4102_18.0748,Gusto Divino Trepuzzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/gusto_divino_trepuzzi_40.4102_18.0748.json,custom
+40.410293,18.070594,ov_bella_vida_lounge_bar___bella_vida_grill_40.4103_18.0706,Bella Vida Lounge Bar & Bella Vida Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bella_vida_lounge_bar_bella_vida_grill_40.4103_18.0706.json,custom
+40.409432,18.067352,ov_pizzeria_braceria_dark_angel_40.4094_18.0674,Pizzeria Braceria Dark Angel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_braceria_dark_angel_40.4094_18.0674.json,custom
+40.408330,18.068472,ov_sempre_lura_40.4083_18.0685,Sempre Lura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/sempre_lura_40.4083_18.0685.json,custom
+40.406539,18.076904,ov_pizzeria_rosticceria_chic__40.4065_18.0769,Pizzeria-rosticceria CHICÒ,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria-rosticceria_chic_40.4065_18.0769.json,custom
+40.486364,18.116444,ov_masseria_sotto_le_stelle_40.4864_18.1164,Masseria Sotto le Stelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/masseria_sotto_le_stelle_40.4864_18.1164.json,custom
+40.494346,18.124969,ov_la_rotonda_40.4943_18.1250,La Rotonda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/la_rotonda_40.4943_18.1250.json,custom
+40.496430,18.120480,ov_one_coffee_40.4964_18.1205,One Coffee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/one_coffee_40.4964_18.1205.json,custom
+40.496670,18.122933,ov_ciritorno_casalabate_fristo_bar_40.4967_18.1229,Ciritorno Casalabate FRIsto Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/ciritorno_casalabate_fristo_bar_40.4967_18.1229.json,custom
+40.496912,18.121948,ov_alto_mare_restaurant_loungebar__casalaba_40.4969_18.1219,ALTO MARE_Restaurant&LoungeBar_ Casalabate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/alto_marerestaurantloungebar_casalabate_40.4969_18.1219.json,custom
+40.404645,18.070207,osm_pizzeria_marechiaro_40.4046_18.0702,Pizzeria Marechiaro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/pizzeria_marechiaro_40.4046_18.0702.json,custom
+40.287340,18.131534,ov_barq8_lequile___ss_lecce_gallipoli_40.2873_18.1315,BarQ8 lequile - ss lecce-gallipoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/barq8_lequile_-_ss_lecce-gallipoli_40.2873_18.1315.json,custom
+40.405720,18.083626,ov_bar_sport_40.4057_18.0836,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_sport_40.4057_18.0836.json,custom
+40.404926,18.077935,ov_caf__bistrot_40.4049_18.0779,Cafè Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/caf_bistrot_40.4049_18.0779.json,custom
+40.399839,18.081231,ov_iabb__bistrot_40.3998_18.0812,Iabbù Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/iabb_bistrot_40.3998_18.0812.json,custom
+40.402903,18.070648,ov_chiaro_kicco_40.4029_18.0706,Chiaro Kicco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/chiaro_kicco_40.4029_18.0706.json,custom
+40.404748,18.071513,ov_twentyone_caf__40.4047_18.0715,TwentyOne Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/twentyone_caf_40.4047_18.0715.json,custom
+40.404748,18.071513,ov_bar_stazione_trepuzzi_40.4047_18.0715,Bar stazione Trepuzzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_stazione_trepuzzi_40.4047_18.0715.json,custom
+40.404748,18.071513,ov_q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715,Q8 Carburanti Bar Autolavaggio Trepuzzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/q8_carburanti_bar_autolavaggio_trepuzzi_40.4047_18.0715.json,custom
+40.405257,18.071241,ov_bar_la_villa_40.4053_18.0712,Bar La Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_la_villa_40.4053_18.0712.json,custom
+40.405624,18.072717,ov_absolute_cafe_40.4056_18.0727,Absolute Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/absolute_cafe_40.4056_18.0727.json,custom
+40.405817,18.072871,ov_bar_del_corso_40.4058_18.0729,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_del_corso_40.4058_18.0729.json,custom
+40.405751,18.070156,ov_bar_matrix_40.4058_18.0702,Bar Matrix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_matrix_40.4058_18.0702.json,custom
+40.410779,18.072876,ov_shaabisky_s_club_40.4108_18.0729,Shaabisky's Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/shaabiskys_club_40.4108_18.0729.json,custom
+40.406948,18.073133,ov_la_dimora_dei_vini_enoteca_40.4069_18.0731,La Dimora Dei Vini Enoteca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/la_dimora_dei_vini_enoteca_40.4069_18.0731.json,custom
+40.406568,18.069700,ov_bar_des_amis_40.4066_18.0697,Bar Des Amis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/bar_des_amis_40.4066_18.0697.json,custom
+40.411165,18.066436,ov_mark_rock_caff__40.4112_18.0664,Mark Rock Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/mark_rock_caff_40.4112_18.0664.json,custom
+40.403753,18.081725,ov_reiki_trepuzzi_40.4038_18.0817,Reiki Trepuzzi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/reiki_trepuzzi_40.4038_18.0817.json,custom
+40.402185,18.066843,ov_fit_stop___dance_40.4022_18.0668,Fit-stop & DANCE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/fit-stop_dance_40.4022_18.0668.json,custom
+40.404840,18.074340,ov_scuola_di_danza_balletto_del_salento_40.4048_18.0743,Scuola di danza Balletto del Salento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/scuola_di_danza_balletto_del_salento_40.4048_18.0743.json,custom
+40.410556,18.074733,ov_evolution_a_s_d__40.4106_18.0747,Evolution A.S.D.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/evolution_asd_40.4106_18.0747.json,custom
+40.410091,18.075462,ov_milos_club_40.4101_18.0755,Milos Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/milos_club_40.4101_18.0755.json,custom
+40.409890,18.075239,ov_ballet_school_40.4099_18.0752,Ballet School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/ballet_school_40.4099_18.0752.json,custom
+40.409340,18.067430,ov_family___usa_9_40.4093_18.0674,Family - USA 9,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/family_-_usa_9_40.4093_18.0674.json,custom
+40.411862,18.071519,ov_tripudium_functional_40.4119_18.0715,Tripudium Functional,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trepuzzi/pages/tripudium_functional_40.4119_18.0715.json,custom

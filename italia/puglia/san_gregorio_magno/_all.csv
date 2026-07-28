@@ -1,37 +1,37 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Gregorio Magno -- Tutti
-40.656795,15.397417,ov_al_triangolo_40.6568_15.3974,Al Triangolo,RESTAURANT,ristorante
-40.655548,15.404260,ov_a_la_grotta_cantina_scafa_40.6555_15.4043,A La grotta Cantina Scafa,RESTAURANT,ristorante
-40.655277,15.402152,ov_cantina_iacullo_in_baccanalia_40.6553_15.4022,Cantina Iacullo in Baccanalia,RESTAURANT,ristorante
-40.655403,15.401813,ov_cantina_il_brillo_parlante_da_zio_donato_40.6554_15.4018,Cantina Il Brillo Parlante da Zio Donato,RESTAURANT,ristorante
-40.655403,15.401328,ov_cantina_mitt_a_vev___baccanalia_40.6554_15.4013,Cantina Mitt a Vev - Baccanalia,RESTAURANT,ristorante
-40.655400,15.400818,ov_il_brigante_angiolillo_40.6554_15.4008,Il Brigante Angiolillo,RESTAURANT,ristorante
-40.655431,15.400657,ov_cantina_menza_40.6554_15.4007,Cantina Menza,RESTAURANT,ristorante
-40.668150,15.355720,ov_ristorante_il_postaccio_40.6681_15.3557,Ristorante Il Postaccio,RESTAURANT,ristorante
-40.661500,15.405100,ov_pub_copacabana_40.6615_15.4051,Pub Copacabana,RESTAURANT,ristorante
-40.659525,15.403345,ov_agriturismo_lu__craparizz_40.6595_15.4033,Agriturismo Lu' Craparizz,RESTAURANT,ristorante
-40.660320,15.400894,ov_ristorante_malpede_40.6603_15.4009,Ristorante Malpede,RESTAURANT,ristorante
-40.660689,15.397430,ov_ristorante_pizzeria_il_veliero_40.6607_15.3974,Ristorante Pizzeria Il Veliero,RESTAURANT,ristorante
-40.659377,15.386757,ov_sesto_senso_gregoriano_40.6594_15.3868,Sesto senso gregoriano,RESTAURANT,ristorante
-40.658233,15.396199,ov_la_rosa_dei_venti_40.6582_15.3962,La Rosa dei Venti,RESTAURANT,ristorante
-40.658688,15.401190,ov_braceria_el_carnizzero_40.6587_15.4012,Braceria El Carnizzero,RESTAURANT,ristorante
-40.658969,15.399385,ov_osteria_pizzeria_lupin_40.6590_15.3994,Osteria Pizzeria Lupin,RESTAURANT,ristorante
-40.657711,15.402750,ov_la_cantina_40.6577_15.4028,La Cantina,RESTAURANT,ristorante
-40.658046,15.402395,ov_pizzeria_de_rosa_40.6580_15.4024,Pizzeria De Rosa,RESTAURANT,ristorante
-40.658245,15.401330,ov_magno_40.6582_15.4013,Magno,RESTAURANT,ristorante
-40.657850,15.398200,ov_ristorante_pizzeria_sesto_senso_40.6579_15.3982,Ristorante Pizzeria Sesto Senso,RESTAURANT,ristorante
-40.657963,15.400180,ov_l_oasi_del_re_piscine_40.6580_15.4002,L'Oasi del Re Piscine,RESTAURANT,ristorante
-40.657690,15.406429,ov_il_piacere_della_griglia_40.6577_15.4064,Il Piacere della griglia,RESTAURANT,ristorante
-40.673229,15.347867,ov_mary_lord_pub_40.6732_15.3479,Mary Lord Pub,RESTAURANT,bar_cafe
-40.659397,15.399004,ov_zenit_caffe_40.6594_15.3990,Zenit Caffe,RESTAURANT,bar_cafe
-40.659538,15.396468,ov_pippo_bar_40.6595_15.3965,Pippo Bar,RESTAURANT,bar_cafe
-40.660520,15.396939,ov_caff__divino_40.6605_15.3969,Caffè Divino,RESTAURANT,bar_cafe
-40.658865,15.396282,ov_cafe_ciali_40.6589_15.3963,Cafe Ciali,RESTAURANT,bar_cafe
-40.658410,15.398793,ov_bar_my_way_40.6584_15.3988,Bar My Way,RESTAURANT,bar_cafe
-40.658316,15.401272,ov_blue_moon_40.6583_15.4013,Blue Moon,RESTAURANT,bar_cafe
-40.659220,15.399914,ov_le_baccanti_40.6592_15.3999,Le Baccanti,RESTAURANT,bar_cafe
-40.657210,15.399100,ov_gg_gusto_gregoriano_40.6572_15.3991,GG Gusto Gregoriano,RESTAURANT,bar_cafe
-40.658641,15.399602,osm_jolly_blu_caffe_40.6586_15.3996,Jolly Blu Caffe,bar_cafe,bar_cafe
-40.688415,15.230163,ov_asd_invito_alla_danza_40.6884_15.2302,ASD Invito Alla Danza,GYM,palestra
-40.663649,15.396013,ov_centro_sportivo_polivalente_40.6636_15.3960,Centro sportivo polivalente,GYM,palestra
-40.658783,15.400554,ov_amasis_salute_e_benessere_40.6588_15.4006,Amasis Salute e Benessere,GYM,palestra
+40.656795,15.397417,ov_al_triangolo_40.6568_15.3974,Al Triangolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/al_triangolo_40.6568_15.3974.json,custom
+40.655548,15.404260,ov_a_la_grotta_cantina_scafa_40.6555_15.4043,A La grotta Cantina Scafa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/a_la_grotta_cantina_scafa_40.6555_15.4043.json,custom
+40.655277,15.402152,ov_cantina_iacullo_in_baccanalia_40.6553_15.4022,Cantina Iacullo in Baccanalia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/cantina_iacullo_in_baccanalia_40.6553_15.4022.json,custom
+40.655403,15.401813,ov_cantina_il_brillo_parlante_da_zio_donato_40.6554_15.4018,Cantina Il Brillo Parlante da Zio Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/cantina_il_brillo_parlante_da_zio_donato_40.6554_15.4018.json,custom
+40.655403,15.401328,ov_cantina_mitt_a_vev___baccanalia_40.6554_15.4013,Cantina Mitt a Vev - Baccanalia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/cantina_mitt_a_vev_-_baccanalia_40.6554_15.4013.json,custom
+40.655400,15.400818,ov_il_brigante_angiolillo_40.6554_15.4008,Il Brigante Angiolillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/il_brigante_angiolillo_40.6554_15.4008.json,custom
+40.655431,15.400657,ov_cantina_menza_40.6554_15.4007,Cantina Menza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/cantina_menza_40.6554_15.4007.json,custom
+40.668150,15.355720,ov_ristorante_il_postaccio_40.6681_15.3557,Ristorante Il Postaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/ristorante_il_postaccio_40.6681_15.3557.json,custom
+40.661500,15.405100,ov_pub_copacabana_40.6615_15.4051,Pub Copacabana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/pub_copacabana_40.6615_15.4051.json,custom
+40.659525,15.403345,ov_agriturismo_lu__craparizz_40.6595_15.4033,Agriturismo Lu' Craparizz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/agriturismo_lu_craparizz_40.6595_15.4033.json,custom
+40.660320,15.400894,ov_ristorante_malpede_40.6603_15.4009,Ristorante Malpede,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/ristorante_malpede_40.6603_15.4009.json,custom
+40.660689,15.397430,ov_ristorante_pizzeria_il_veliero_40.6607_15.3974,Ristorante Pizzeria Il Veliero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/ristorante_pizzeria_il_veliero_40.6607_15.3974.json,custom
+40.659377,15.386757,ov_sesto_senso_gregoriano_40.6594_15.3868,Sesto senso gregoriano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/sesto_senso_gregoriano_40.6594_15.3868.json,custom
+40.658233,15.396199,ov_la_rosa_dei_venti_40.6582_15.3962,La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/la_rosa_dei_venti_40.6582_15.3962.json,custom
+40.658688,15.401190,ov_braceria_el_carnizzero_40.6587_15.4012,Braceria El Carnizzero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/braceria_el_carnizzero_40.6587_15.4012.json,custom
+40.658969,15.399385,ov_osteria_pizzeria_lupin_40.6590_15.3994,Osteria Pizzeria Lupin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/osteria_pizzeria_lupin_40.6590_15.3994.json,custom
+40.657711,15.402750,ov_la_cantina_40.6577_15.4028,La Cantina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/la_cantina_40.6577_15.4028.json,custom
+40.658046,15.402395,ov_pizzeria_de_rosa_40.6580_15.4024,Pizzeria De Rosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/pizzeria_de_rosa_40.6580_15.4024.json,custom
+40.658245,15.401330,ov_magno_40.6582_15.4013,Magno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/magno_40.6582_15.4013.json,custom
+40.657850,15.398200,ov_ristorante_pizzeria_sesto_senso_40.6579_15.3982,Ristorante Pizzeria Sesto Senso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/ristorante_pizzeria_sesto_senso_40.6579_15.3982.json,custom
+40.657963,15.400180,ov_l_oasi_del_re_piscine_40.6580_15.4002,L'Oasi del Re Piscine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/loasi_del_re_piscine_40.6580_15.4002.json,custom
+40.657690,15.406429,ov_il_piacere_della_griglia_40.6577_15.4064,Il Piacere della griglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/il_piacere_della_griglia_40.6577_15.4064.json,custom
+40.673229,15.347867,ov_mary_lord_pub_40.6732_15.3479,Mary Lord Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/mary_lord_pub_40.6732_15.3479.json,custom
+40.659397,15.399004,ov_zenit_caffe_40.6594_15.3990,Zenit Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/zenit_caffe_40.6594_15.3990.json,custom
+40.659538,15.396468,ov_pippo_bar_40.6595_15.3965,Pippo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/pippo_bar_40.6595_15.3965.json,custom
+40.660520,15.396939,ov_caff__divino_40.6605_15.3969,Caffè Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/caff_divino_40.6605_15.3969.json,custom
+40.658865,15.396282,ov_cafe_ciali_40.6589_15.3963,Cafe Ciali,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/cafe_ciali_40.6589_15.3963.json,custom
+40.658410,15.398793,ov_bar_my_way_40.6584_15.3988,Bar My Way,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/bar_my_way_40.6584_15.3988.json,custom
+40.658316,15.401272,ov_blue_moon_40.6583_15.4013,Blue Moon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/blue_moon_40.6583_15.4013.json,custom
+40.659220,15.399914,ov_le_baccanti_40.6592_15.3999,Le Baccanti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/le_baccanti_40.6592_15.3999.json,custom
+40.657210,15.399100,ov_gg_gusto_gregoriano_40.6572_15.3991,GG Gusto Gregoriano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/gg_gusto_gregoriano_40.6572_15.3991.json,custom
+40.658641,15.399602,osm_jolly_blu_caffe_40.6586_15.3996,Jolly Blu Caffe,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/jolly_blu_caffe_40.6586_15.3996.json,custom
+40.688415,15.230163,ov_asd_invito_alla_danza_40.6884_15.2302,ASD Invito Alla Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/asd_invito_alla_danza_40.6884_15.2302.json,custom
+40.663649,15.396013,ov_centro_sportivo_polivalente_40.6636_15.3960,Centro sportivo polivalente,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/centro_sportivo_polivalente_40.6636_15.3960.json,custom
+40.658783,15.400554,ov_amasis_salute_e_benessere_40.6588_15.4006,Amasis Salute e Benessere,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_gregorio_magno/pages/amasis_salute_e_benessere_40.6588_15.4006.json,custom

@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bisignano -- gyms
-39.514495,16.289662,ov_ever_form_palestra_39.5145_16.2897,Ever Form Palestra,GYM,palestra
-39.504209,16.272727,ov_tersicore_dance_academy_39.5042_16.2727,Tersicore Dance Academy,GYM,palestra
-39.503261,16.264690,ov_universalbody_39.5033_16.2647,universalbody,GYM,palestra
-39.513194,16.285537,ov_palestra_comunale_collina_castello_39.5132_16.2855,Palestra Comunale Collina Castello,GYM,palestra
-39.531769,16.222238,ov_c_i_d_a__paglialonga_a_s_d__39.5318_16.2222,C.I.D.A. Paglialonga a.s.d.,GYM,palestra
+39.514495,16.289662,ov_ever_form_palestra_39.5145_16.2897,Ever Form Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisignano/pages/ever_form_palestra_39.5145_16.2897.json,custom
+39.504209,16.272727,ov_tersicore_dance_academy_39.5042_16.2727,Tersicore Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisignano/pages/tersicore_dance_academy_39.5042_16.2727.json,custom
+39.503261,16.264690,ov_universalbody_39.5033_16.2647,universalbody,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisignano/pages/universalbody_39.5033_16.2647.json,custom
+39.513194,16.285537,ov_palestra_comunale_collina_castello_39.5132_16.2855,Palestra Comunale Collina Castello,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisignano/pages/palestra_comunale_collina_castello_39.5132_16.2855.json,custom
+39.531769,16.222238,ov_c_i_d_a__paglialonga_a_s_d__39.5318_16.2222,C.I.D.A. Paglialonga a.s.d.,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bisignano/pages/cida_paglialonga_asd_39.5318_16.2222.json,custom

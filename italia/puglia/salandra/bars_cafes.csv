@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # salandra -- bars_cafes
-40.525507,16.318685,ov_clavin_pub_40.5255_16.3187,Clavin Pub,RESTAURANT,bar_cafe
-40.527714,16.319548,ov_bar_fortunello_40.5277_16.3195,Bar Fortunello,RESTAURANT,bar_cafe
+40.525507,16.318685,ov_clavin_pub_40.5255_16.3187,Clavin Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salandra/pages/clavin_pub_40.5255_16.3187.json,custom
+40.527714,16.319548,ov_bar_fortunello_40.5277_16.3195,Bar Fortunello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salandra/pages/bar_fortunello_40.5277_16.3195.json,custom

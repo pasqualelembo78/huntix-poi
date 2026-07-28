@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # manduria -- hospitals
-40.402691,17.639884,osm_pronto_soccorso_presidio_ospedaliero_mar_40.4027_17.6399,Pronto Soccorso Presidio Ospedaliero Marianna Giannuzzi,hospital,hospital
-40.402701,17.640410,ov_ospedale_marianna_giannuzzi_40.4027_17.6404,Ospedale Marianna Giannuzzi,HOSPITAL,hospital
+40.402701,17.640410,ov_ospedale_marianna_giannuzzi_40.4027_17.6404,Ospedale Marianna Giannuzzi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/ospedale_marianna_giannuzzi_40.4027_17.6404.json,custom
+40.402691,17.639884,osm_pronto_soccorso_presidio_ospedaliero_mar_40.4027_17.6399,Pronto Soccorso Presidio Ospedaliero Marianna Giannuzzi,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/manduria/pages/pronto_soccorso_presidio_ospedaliero_mar_40.4027_17.6399.json,custom

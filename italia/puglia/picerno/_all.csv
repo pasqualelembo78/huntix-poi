@@ -1,35 +1,35 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Picerno -- Tutti
-40.620360,15.667020,ov_villarzilla_40.6204_15.6670,VillArzilla,HOSPITAL,hospital
-40.622769,15.606494,ov_tre_pini_di_figliuolo_mario_c__sas_40.6228_15.6065,Tre Pini di Figliuolo Mario C. SAS,RESTAURANT,ristorante
-40.625299,15.614642,ov_ristorante_il_rifugio_40.6253_15.6146,Ristorante Il Rifugio,RESTAURANT,ristorante
-40.629351,15.623993,ov_green_park_ristorante_pizzeria_40.6294_15.6240,Green Park Ristorante Pizzeria,RESTAURANT,ristorante
-40.629346,15.620500,ov_plebiscito_caf____bistrot_40.6293_15.6205,Plebiscito Cafè - Bistrot,RESTAURANT,ristorante
-40.639451,15.639316,ov_ristorante_why_not_40.6395_15.6393,Ristorante Why Not,RESTAURANT,ristorante
-40.639472,15.639765,ov_gr_pizzeria_40.6395_15.6398,GR pizzeria,RESTAURANT,ristorante
-40.640885,15.640061,ov_pizzeria_time_40.6409_15.6401,pizzeria time,RESTAURANT,ristorante
-40.640918,15.639940,ov_sapori_picerno_food_40.6409_15.6399,Sapori Picerno Food,RESTAURANT,ristorante
-40.640235,15.637405,ov_osteria_antica_torre_40.6402_15.6374,Osteria Antica Torre,RESTAURANT,ristorante
-40.635946,15.625607,ov_green_park_ristorante_pizzeria_40.6359_15.6256,Green Park Ristorante Pizzeria,RESTAURANT,ristorante
-40.635848,15.623540,ov_tre_pini_40.6358_15.6235,Tre Pini,RESTAURANT,ristorante
-40.635225,15.638940,ov_pizzeria_4_luci_40.6352_15.6389,Pizzeria 4 Luci,RESTAURANT,ristorante
-40.633862,15.651763,ov_barcollando_40.6339_15.6518,Barcollando,RESTAURANT,ristorante
-40.647068,15.658318,ov_agriturismo_il_cerro_40.6471_15.6583,Agriturismo Il Cerro,RESTAURANT,ristorante
-40.666231,15.590639,ov_giardino_degli_ulivi_40.6662_15.5906,Giardino Degli Ulivi,RESTAURANT,ristorante
-40.669772,15.564332,ov_ristorante_delle_rose_40.6698_15.5643,Ristorante delle Rose,RESTAURANT,ristorante
-40.659477,15.665213,ov_agriturismo_la_nevena_40.6595_15.6652,Agriturismo La Nevena,RESTAURANT,ristorante
-40.729990,15.496159,ov_delle_rose_ricevimenti_40.7300_15.4962,Delle Rose Ricevimenti,RESTAURANT,ristorante
-40.647646,15.617492,ov_full_caf__40.6476_15.6175,Full Cafè,RESTAURANT,bar_cafe
-40.640620,15.639320,ov_teknogame_picerno_40.6406_15.6393,Teknogame Picerno,RESTAURANT,bar_cafe
-40.639231,15.635905,ov_bar_40.6392_15.6359,Bar,RESTAURANT,bar_cafe
-40.639197,15.636028,ov_caffetteria_bistrot_portanova_street_40.6392_15.6360,Caffetteria Bistrot Portanova Street,RESTAURANT,bar_cafe
-40.639008,15.636592,ov_pupi_bar_40.6390_15.6366,Pupi Bar,RESTAURANT,bar_cafe
-40.639260,15.623640,ov_al_km_3_3_40.6393_15.6236,Al KM 3.3,RESTAURANT,bar_cafe
-40.641702,15.636724,ov_bar_gelateria_gerardo_40.6417_15.6367,Bar Gelateria Gerardo,RESTAURANT,bar_cafe
-40.636696,15.623389,ov_full_caffe_40.6367_15.6234,Full Caffe,RESTAURANT,bar_cafe
-40.637472,15.644213,ov_la_dolce_vita_40.6375_15.6442,La Dolce Vita,RESTAURANT,bar_cafe
-40.637315,15.644383,ov_bar_lucano_picerno_40.6373_15.6444,Bar Lucano Picerno,RESTAURANT,bar_cafe
-40.636502,15.647480,ov_bar_tolla_40.6365_15.6475,Bar Tolla,RESTAURANT,bar_cafe
-40.620400,15.693520,ov_bar_metanauto_40.6204_15.6935,Bar Metanauto,RESTAURANT,bar_cafe
-40.638876,15.647942,ov_asd_tone_up_zone_palestra_40.6389_15.6479,Asd Tone Up Zone Palestra,GYM,palestra
-40.640369,15.637037,ov_palazzo_scarilli_40.6404_15.6370,Palazzo Scarilli,MUSEUM,monumento
+40.620360,15.667020,ov_villarzilla_40.6204_15.6670,VillArzilla,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/villarzilla_40.6204_15.6670.json,custom
+40.622769,15.606494,ov_tre_pini_di_figliuolo_mario_c__sas_40.6228_15.6065,Tre Pini di Figliuolo Mario C. SAS,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/tre_pini_di_figliuolo_mario_c_sas_40.6228_15.6065.json,custom
+40.625299,15.614642,ov_ristorante_il_rifugio_40.6253_15.6146,Ristorante Il Rifugio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/ristorante_il_rifugio_40.6253_15.6146.json,custom
+40.629351,15.623993,ov_green_park_ristorante_pizzeria_40.6294_15.6240,Green Park Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/green_park_ristorante_pizzeria_40.6294_15.6240.json,custom
+40.629346,15.620500,ov_plebiscito_caf____bistrot_40.6293_15.6205,Plebiscito Cafè - Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/plebiscito_caf_-_bistrot_40.6293_15.6205.json,custom
+40.639451,15.639316,ov_ristorante_why_not_40.6395_15.6393,Ristorante Why Not,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/ristorante_why_not_40.6395_15.6393.json,custom
+40.639472,15.639765,ov_gr_pizzeria_40.6395_15.6398,GR pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/gr_pizzeria_40.6395_15.6398.json,custom
+40.640885,15.640061,ov_pizzeria_time_40.6409_15.6401,pizzeria time,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/pizzeria_time_40.6409_15.6401.json,custom
+40.640918,15.639940,ov_sapori_picerno_food_40.6409_15.6399,Sapori Picerno Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/sapori_picerno_food_40.6409_15.6399.json,custom
+40.640235,15.637405,ov_osteria_antica_torre_40.6402_15.6374,Osteria Antica Torre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/osteria_antica_torre_40.6402_15.6374.json,custom
+40.635946,15.625607,ov_green_park_ristorante_pizzeria_40.6359_15.6256,Green Park Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/green_park_ristorante_pizzeria_40.6359_15.6256.json,custom
+40.635848,15.623540,ov_tre_pini_40.6358_15.6235,Tre Pini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/tre_pini_40.6358_15.6235.json,custom
+40.635225,15.638940,ov_pizzeria_4_luci_40.6352_15.6389,Pizzeria 4 Luci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/pizzeria_4_luci_40.6352_15.6389.json,custom
+40.633862,15.651763,ov_barcollando_40.6339_15.6518,Barcollando,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/barcollando_40.6339_15.6518.json,custom
+40.647068,15.658318,ov_agriturismo_il_cerro_40.6471_15.6583,Agriturismo Il Cerro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/agriturismo_il_cerro_40.6471_15.6583.json,custom
+40.666231,15.590639,ov_giardino_degli_ulivi_40.6662_15.5906,Giardino Degli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/giardino_degli_ulivi_40.6662_15.5906.json,custom
+40.669772,15.564332,ov_ristorante_delle_rose_40.6698_15.5643,Ristorante delle Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/ristorante_delle_rose_40.6698_15.5643.json,custom
+40.659477,15.665213,ov_agriturismo_la_nevena_40.6595_15.6652,Agriturismo La Nevena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/agriturismo_la_nevena_40.6595_15.6652.json,custom
+40.729990,15.496159,ov_delle_rose_ricevimenti_40.7300_15.4962,Delle Rose Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/delle_rose_ricevimenti_40.7300_15.4962.json,custom
+40.647646,15.617492,ov_full_caf__40.6476_15.6175,Full Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/full_caf_40.6476_15.6175.json,custom
+40.640620,15.639320,ov_teknogame_picerno_40.6406_15.6393,Teknogame Picerno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/teknogame_picerno_40.6406_15.6393.json,custom
+40.639231,15.635905,ov_bar_40.6392_15.6359,Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/bar_40.6392_15.6359.json,custom
+40.639197,15.636028,ov_caffetteria_bistrot_portanova_street_40.6392_15.6360,Caffetteria Bistrot Portanova Street,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/caffetteria_bistrot_portanova_street_40.6392_15.6360.json,custom
+40.639008,15.636592,ov_pupi_bar_40.6390_15.6366,Pupi Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/pupi_bar_40.6390_15.6366.json,custom
+40.639260,15.623640,ov_al_km_3_3_40.6393_15.6236,Al KM 3.3,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/al_km_33_40.6393_15.6236.json,custom
+40.641702,15.636724,ov_bar_gelateria_gerardo_40.6417_15.6367,Bar Gelateria Gerardo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/bar_gelateria_gerardo_40.6417_15.6367.json,custom
+40.636696,15.623389,ov_full_caffe_40.6367_15.6234,Full Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/full_caffe_40.6367_15.6234.json,custom
+40.637472,15.644213,ov_la_dolce_vita_40.6375_15.6442,La Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/la_dolce_vita_40.6375_15.6442.json,custom
+40.637315,15.644383,ov_bar_lucano_picerno_40.6373_15.6444,Bar Lucano Picerno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/bar_lucano_picerno_40.6373_15.6444.json,custom
+40.636502,15.647480,ov_bar_tolla_40.6365_15.6475,Bar Tolla,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/bar_tolla_40.6365_15.6475.json,custom
+40.620400,15.693520,ov_bar_metanauto_40.6204_15.6935,Bar Metanauto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/bar_metanauto_40.6204_15.6935.json,custom
+40.638876,15.647942,ov_asd_tone_up_zone_palestra_40.6389_15.6479,Asd Tone Up Zone Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/asd_tone_up_zone_palestra_40.6389_15.6479.json,custom
+40.640369,15.637037,ov_palazzo_scarilli_40.6404_15.6370,Palazzo Scarilli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/picerno/pages/palazzo_scarilli_40.6404_15.6370.json,custom

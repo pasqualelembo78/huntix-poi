@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # squinzano -- hospitals
-40.429330,18.035982,ov_centromedex_40.4293_18.0360,CentroMedex,HOSPITAL,hospital
-40.438399,18.038098,ov_medicina_verde_40.4384_18.0381,Medicina VERDE,HOSPITAL,hospital
+40.429330,18.035982,ov_centromedex_40.4293_18.0360,CentroMedex,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/centromedex_40.4293_18.0360.json,custom
+40.438399,18.038098,ov_medicina_verde_40.4384_18.0381,Medicina VERDE,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/squinzano/pages/medicina_verde_40.4384_18.0381.json,custom

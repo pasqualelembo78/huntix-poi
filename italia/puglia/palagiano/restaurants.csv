@@ -1,25 +1,25 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # palagiano -- restaurants
-40.540562,17.007150,ov_crival_club_and_more_40.5406_17.0072,Crival Club and More,RESTAURANT,ristorante
-40.515372,17.006968,ov_l_orchidea___stazione_di_servizio_q8_40.5154_17.0070,L'orchidea - Stazione di Servizio q8,RESTAURANT,ristorante
-40.518053,17.025818,ov_falanto_camping_village_40.5181_17.0258,Falanto Camping Village,RESTAURANT,ristorante
-40.581223,17.042208,ov_pizzeria_tagariello_40.5812_17.0422,Pizzeria Tagariello,RESTAURANT,ristorante
-40.581170,17.039035,ov_lo_spuntino_40.5812_17.0390,Lo spuntino,RESTAURANT,ristorante
-40.581429,17.037674,ov_la_gardenia_blu_40.5814_17.0377,La Gardenia Blu,RESTAURANT,ristorante
-40.581105,17.036948,ov_cuor_di_pizza_40.5811_17.0369,Cuor di Pizza,RESTAURANT,ristorante
-40.579895,17.037158,ov_fuoco_matto_40.5799_17.0372,Fuoco Matto,RESTAURANT,ristorante
-40.579214,17.037518,ov_pizzeria_da_daniel_40.5792_17.0375,Pizzeria da Daniel,RESTAURANT,ristorante
-40.579148,17.036922,ov_al_solito_posto_40.5791_17.0369,Al Solito Posto,RESTAURANT,ristorante
-40.578890,17.038810,ov_la_bottega_della_pizza_40.5789_17.0388,La Bottega della Pizza,RESTAURANT,ristorante
-40.578931,17.039133,ov_la_deliziosa_40.5789_17.0391,La Deliziosa,RESTAURANT,ristorante
-40.579054,17.040128,ov_black_cat__85_40.5791_17.0401,Black cat ‘85,RESTAURANT,ristorante
-40.579578,17.040519,ov_ristorante_pizzeria_40.5796_17.0405,Ristorante Pizzeria,RESTAURANT,ristorante
-40.579591,17.040485,ov_tagari__40.5796_17.0405,Tagarié,RESTAURANT,ristorante
-40.579842,17.040264,ov_pizza_and_art_di_tagariello_vincenzo_40.5798_17.0403,Pizza And Art di Tagariello Vincenzo,RESTAURANT,ristorante
-40.578212,17.039941,ov_lo_scantinato_40.5782_17.0399,Lo Scantinato,RESTAURANT,ristorante
-40.577396,17.038113,ov_bonta__di_campagna_40.5774_17.0381,Bonta' Di Campagna,RESTAURANT,ristorante
-40.576883,17.041295,ov_ristorante_living_palagiano_ta_40.5769_17.0413,Ristorante Living Palagiano TA,RESTAURANT,ristorante
-40.575382,17.040427,ov_zitto_emmangia_da_petralla_40.5754_17.0404,ZITTO Emmangia da Petralla,RESTAURANT,ristorante
-40.578114,17.035187,ov_pane___pomodoro_40.5781_17.0352,Pane & Pomodoro,RESTAURANT,ristorante
-40.583146,17.044548,ov_ferulli_40.5831_17.0445,Ferulli,RESTAURANT,ristorante
-40.601343,17.066266,ov_miyagawa_40.6013_17.0663,miyagawa,RESTAURANT,ristorante
+40.540562,17.007150,ov_crival_club_and_more_40.5406_17.0072,Crival Club and More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/crival_club_and_more_40.5406_17.0072.json,custom
+40.515372,17.006968,ov_l_orchidea___stazione_di_servizio_q8_40.5154_17.0070,L'orchidea - Stazione di Servizio q8,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/lorchidea_-_stazione_di_servizio_q8_40.5154_17.0070.json,custom
+40.518053,17.025818,ov_falanto_camping_village_40.5181_17.0258,Falanto Camping Village,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/falanto_camping_village_40.5181_17.0258.json,custom
+40.581223,17.042208,ov_pizzeria_tagariello_40.5812_17.0422,Pizzeria Tagariello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/pizzeria_tagariello_40.5812_17.0422.json,custom
+40.581170,17.039035,ov_lo_spuntino_40.5812_17.0390,Lo spuntino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/lo_spuntino_40.5812_17.0390.json,custom
+40.581429,17.037674,ov_la_gardenia_blu_40.5814_17.0377,La Gardenia Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/la_gardenia_blu_40.5814_17.0377.json,custom
+40.581105,17.036948,ov_cuor_di_pizza_40.5811_17.0369,Cuor di Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/cuor_di_pizza_40.5811_17.0369.json,custom
+40.579895,17.037158,ov_fuoco_matto_40.5799_17.0372,Fuoco Matto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/fuoco_matto_40.5799_17.0372.json,custom
+40.579214,17.037518,ov_pizzeria_da_daniel_40.5792_17.0375,Pizzeria da Daniel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/pizzeria_da_daniel_40.5792_17.0375.json,custom
+40.579148,17.036922,ov_al_solito_posto_40.5791_17.0369,Al Solito Posto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/al_solito_posto_40.5791_17.0369.json,custom
+40.578890,17.038810,ov_la_bottega_della_pizza_40.5789_17.0388,La Bottega della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/la_bottega_della_pizza_40.5789_17.0388.json,custom
+40.578931,17.039133,ov_la_deliziosa_40.5789_17.0391,La Deliziosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/la_deliziosa_40.5789_17.0391.json,custom
+40.579054,17.040128,ov_black_cat__85_40.5791_17.0401,Black cat ‘85,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/black_cat_85_40.5791_17.0401.json,custom
+40.579578,17.040519,ov_ristorante_pizzeria_40.5796_17.0405,Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/ristorante_pizzeria_40.5796_17.0405.json,custom
+40.579591,17.040485,ov_tagari__40.5796_17.0405,Tagarié,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/tagari_40.5796_17.0405.json,custom
+40.579842,17.040264,ov_pizza_and_art_di_tagariello_vincenzo_40.5798_17.0403,Pizza And Art di Tagariello Vincenzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/pizza_and_art_di_tagariello_vincenzo_40.5798_17.0403.json,custom
+40.578212,17.039941,ov_lo_scantinato_40.5782_17.0399,Lo Scantinato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/lo_scantinato_40.5782_17.0399.json,custom
+40.577396,17.038113,ov_bonta__di_campagna_40.5774_17.0381,Bonta' Di Campagna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/bonta_di_campagna_40.5774_17.0381.json,custom
+40.576883,17.041295,ov_ristorante_living_palagiano_ta_40.5769_17.0413,Ristorante Living Palagiano TA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/ristorante_living_palagiano_ta_40.5769_17.0413.json,custom
+40.575382,17.040427,ov_zitto_emmangia_da_petralla_40.5754_17.0404,ZITTO Emmangia da Petralla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/zitto_emmangia_da_petralla_40.5754_17.0404.json,custom
+40.578114,17.035187,ov_pane___pomodoro_40.5781_17.0352,Pane & Pomodoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/pane_pomodoro_40.5781_17.0352.json,custom
+40.583146,17.044548,ov_ferulli_40.5831_17.0445,Ferulli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/ferulli_40.5831_17.0445.json,custom
+40.601343,17.066266,ov_miyagawa_40.6013_17.0663,miyagawa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/palagiano/pages/miyagawa_40.6013_17.0663.json,custom

@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Serracapriola -- Tutti
-41.804595,15.159586,ov_pizzeria_la_stalla_41.8046_15.1596,Pizzeria la stalla,RESTAURANT,ristorante
-41.804623,15.159775,ov_la_dolce_vita_41.8046_15.1598,La dolce vita,RESTAURANT,ristorante
-41.806005,15.158895,ov_il_rifugio_dei_sapori_41.8060_15.1589,Il Rifugio dei Sapori,RESTAURANT,ristorante
-41.806542,15.159011,ov_da_gino_41.8065_15.1590,Da Gino,RESTAURANT,ristorante
-41.807300,15.161319,ov_olio_mannara_41.8073_15.1613,Olio Mannara,RESTAURANT,ristorante
-41.804690,15.159702,ov_bar_vecchia_serra_41.8047_15.1597,Bar Vecchia Serra,RESTAURANT,bar_cafe
-41.804882,15.159218,ov_bar_sport_41.8049_15.1592,Bar Sport,RESTAURANT,bar_cafe
-41.807261,15.159158,ov_moma_41.8073_15.1592,Moma,RESTAURANT,bar_cafe
-41.806056,15.158896,ov_cafe_rouge_41.8061_15.1589,Cafe Rouge,RESTAURANT,bar_cafe
-41.805896,15.158732,ov_bar_pasticceria_dolce_bont__41.8059_15.1587,Bar Pasticceria Dolce Bontà,RESTAURANT,bar_cafe
-41.805212,15.159172,ov_le_petit_cafe_41.8052_15.1592,Le Petit Cafe,RESTAURANT,bar_cafe
-41.806379,15.159484,ov_bar_centrale_41.8064_15.1595,Bar Centrale,RESTAURANT,bar_cafe
-41.811409,15.160877,ov_bar_la_bellavita_41.8114_15.1609,Bar LA BELLAVITA,RESTAURANT,bar_cafe
-41.804410,15.158627,ov_castello_maresca_41.8044_15.1586,Castello Maresca,MONUMENT,monumento
+41.804595,15.159586,ov_pizzeria_la_stalla_41.8046_15.1596,Pizzeria la stalla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/pizzeria_la_stalla_41.8046_15.1596.json,custom
+41.804623,15.159775,ov_la_dolce_vita_41.8046_15.1598,La dolce vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/la_dolce_vita_41.8046_15.1598.json,custom
+41.806005,15.158895,ov_il_rifugio_dei_sapori_41.8060_15.1589,Il Rifugio dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/il_rifugio_dei_sapori_41.8060_15.1589.json,custom
+41.806542,15.159011,ov_da_gino_41.8065_15.1590,Da Gino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/da_gino_41.8065_15.1590.json,custom
+41.807300,15.161319,ov_olio_mannara_41.8073_15.1613,Olio Mannara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/olio_mannara_41.8073_15.1613.json,custom
+41.804690,15.159702,ov_bar_vecchia_serra_41.8047_15.1597,Bar Vecchia Serra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/bar_vecchia_serra_41.8047_15.1597.json,custom
+41.804882,15.159218,ov_bar_sport_41.8049_15.1592,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/bar_sport_41.8049_15.1592.json,custom
+41.807261,15.159158,ov_moma_41.8073_15.1592,Moma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/moma_41.8073_15.1592.json,custom
+41.806056,15.158896,ov_cafe_rouge_41.8061_15.1589,Cafe Rouge,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/cafe_rouge_41.8061_15.1589.json,custom
+41.805896,15.158732,ov_bar_pasticceria_dolce_bont__41.8059_15.1587,Bar Pasticceria Dolce Bontà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/bar_pasticceria_dolce_bont_41.8059_15.1587.json,custom
+41.805212,15.159172,ov_le_petit_cafe_41.8052_15.1592,Le Petit Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/le_petit_cafe_41.8052_15.1592.json,custom
+41.806379,15.159484,ov_bar_centrale_41.8064_15.1595,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/bar_centrale_41.8064_15.1595.json,custom
+41.811409,15.160877,ov_bar_la_bellavita_41.8114_15.1609,Bar LA BELLAVITA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/bar_la_bellavita_41.8114_15.1609.json,custom
+41.804410,15.158627,ov_castello_maresca_41.8044_15.1586,Castello Maresca,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/serracapriola/pages/castello_maresca_41.8044_15.1586.json,custom

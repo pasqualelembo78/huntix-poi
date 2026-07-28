@@ -1,61 +1,60 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # galatina -- restaurants
-40.177314,18.168224,osm_zona_franca_40.1773_18.1682,Zona Franca,ristorante,ristorante
-40.180016,18.162442,osm_la_conceria_40.1800_18.1624,La Conceria,ristorante,ristorante
-40.174665,18.165458,osm_goji_pizzeria_con_cucina_40.1747_18.1655,Goji Pizzeria con Cucina,ristorante,ristorante
-40.176732,18.128786,osm_agriturismo_masseria_latronica_40.1767_18.1288,Agriturismo Masseria Latronica,ristorante,ristorante
-40.173838,18.169530,osm_anima___cuore_40.1738_18.1695,Anima & Cuore,ristorante,ristorante
-40.177707,18.164659,osm_pizzeria_la_torre_40.1777_18.1647,Pizzeria la Torre,ristorante,ristorante
-40.129260,18.122370,ov_gior__40.1293_18.1224,Giorè,RESTAURANT,ristorante
-40.144011,18.170004,ov_don_vincenzo_ricevimenti_40.1440_18.1700,Don Vincenzo Ricevimenti,RESTAURANT,ristorante
-40.154380,18.166030,ov_pescheria_sapore_di_mare__noha_di_galati_40.1544_18.1660,"Pescheria Sapore di mare, Noha di Galatina.",RESTAURANT,ristorante
-40.153854,18.166922,ov_ristorante_signoria_40.1539_18.1669,Ristorante Signoria,RESTAURANT,ristorante
-40.151715,18.166011,ov_centoundici_40.1517_18.1660,Centoundici,RESTAURANT,ristorante
-40.151052,18.165000,ov_pizzeria_pasticceria_bar_madagascar_40.1511_18.1650,Pizzeria Pasticceria Bar Madagascar,RESTAURANT,ristorante
-40.181162,18.168503,ov_mcdonald_s_40.1812_18.1685,McDonald's,RESTAURANT,ristorante
-40.180070,18.162521,ov_ristorante_la_conceria_40.1801_18.1625,Ristorante La Conceria,RESTAURANT,ristorante
-40.178778,18.165323,ov_binario_73_40.1788_18.1653,Binario 73,RESTAURANT,ristorante
-40.179326,18.162704,ov_incoho_40.1793_18.1627,Incoho,RESTAURANT,ristorante
-40.177880,18.166238,ov_sonora_40.1779_18.1662,Sonora,RESTAURANT,ristorante
-40.177090,18.176190,ov_l_angolo_del_gusto_40.1771_18.1762,L'Angolo del Gusto,RESTAURANT,ristorante
-40.177187,18.178984,ov_brusco___pub___bruschetteria_al_metro_40.1772_18.1790,Brusco • Pub & Bruschetteria al Metro,RESTAURANT,ristorante
-40.176669,18.178357,ov_la_torre___pizzeria_con_forno_a_legna_40.1767_18.1784,La Torre | Pizzeria con Forno a Legna,RESTAURANT,ristorante
-40.176105,18.161959,ov_hanami_sushi_40.1761_18.1620,Hanami Sushi,RESTAURANT,ristorante
-40.175437,18.172130,ov_meeting_pucceria_40.1754_18.1721,Meeting Pucceria,RESTAURANT,ristorante
-40.174641,18.169595,ov_dento_sushi_40.1746_18.1696,Dento Sushi,RESTAURANT,ristorante
-40.174511,18.167979,ov_kalasole_restaurant_40.1745_18.1680,Kalasole Restaurant,RESTAURANT,ristorante
-40.174612,18.164224,ov_rosticceria_moscara_40.1746_18.1642,Rosticceria Moscara,RESTAURANT,ristorante
-40.174656,18.165385,ov_impastello_40.1747_18.1654,Impastello,RESTAURANT,ristorante
-40.174997,18.167802,ov_pizza_mania___rosticceria___catering_40.1750_18.1678,Pizza Mania • Rosticceria & Catering,RESTAURANT,ristorante
-40.175317,18.169727,ov_braceria_40.1753_18.1697,Braceria,RESTAURANT,ristorante
-40.175243,18.167676,ov_pizzicheria_40.1752_18.1677,Pizzicheria,RESTAURANT,ristorante
-40.175291,18.166972,ov_dinastya_sushi_di_galatina_40.1753_18.1670,Dinastya sushi di Galatina,RESTAURANT,ristorante
-40.174800,18.159909,ov_il_gusto_40.1748_18.1599,Il Gusto,RESTAURANT,ristorante
-40.175048,18.156530,ov_i_due_trappeti_40.1750_18.1565,I Due Trappeti,RESTAURANT,ristorante
-40.173121,18.170175,ov_nonna_lilia_40.1731_18.1702,Nonna Lilia,RESTAURANT,ristorante
-40.173884,18.167163,ov_stella_del_mare_restaurant_40.1739_18.1672,Stella del Mare Restaurant,RESTAURANT,ristorante
-40.173982,18.169803,ov_clinica_del_gusto_40.1740_18.1698,Clinica del Gusto,RESTAURANT,ristorante
-40.174013,18.171032,ov_salumeria_di_turno_40.1740_18.1710,Salumeria Di Turno,RESTAURANT,ristorante
-40.173865,18.170716,ov_peperino_40.1739_18.1707,Peperino,RESTAURANT,ristorante
-40.173853,18.169485,ov_anima_e_cuore_40.1739_18.1695,Anima e Cuore,RESTAURANT,ristorante
-40.173731,18.169494,ov_il_covo_della_taranta_40.1737_18.1695,Il Covo della Taranta,RESTAURANT,ristorante
-40.173905,18.173589,ov_basilico_pizza_and_food_40.1739_18.1736,Basilico Pizza and Food,RESTAURANT,ristorante
-40.173478,18.172461,ov_corte_del_fuoco_40.1735_18.1725,Corte del Fuoco,RESTAURANT,ristorante
-40.173087,18.173252,ov_meat_n_burger___galatina_40.1731_18.1733,Meat'n'Burger • Galatina,RESTAURANT,ristorante
-40.165649,18.164491,ov_la_campina_40.1656_18.1645,La Campina,RESTAURANT,ristorante
-40.168971,18.163696,ov_il_ghiottone_40.1690_18.1637,Il Ghiottone,RESTAURANT,ristorante
-40.172985,18.171109,ov_tipozero_40.1730_18.1711,Tipozero,RESTAURANT,ristorante
-40.172670,18.171772,ov_il_fienile_ristorante_40.1727_18.1718,Il Fienile Ristorante,RESTAURANT,ristorante
-40.172514,18.171993,ov_trattoria_santa_caterina_sapori_del_sale_40.1725_18.1720,Trattoria santa caterina sapori del salento,RESTAURANT,ristorante
-40.172320,18.164580,ov_trattoria_da_sorpiera_40.1723_18.1646,trattoria da sorpiera,RESTAURANT,ristorante
-40.171944,18.165642,ov_pantagruel_40.1719_18.1656,Pantagruel,RESTAURANT,ristorante
-40.172406,18.172472,ov_la_focacceria_degli_orsini_40.1724_18.1725,La Focacceria degli Orsini,RESTAURANT,ristorante
-40.171747,18.167193,ov_ristorante_matambre_40.1717_18.1672,Ristorante Matambre,RESTAURANT,ristorante
-40.171105,18.160043,ov_punto_e_pasta_40.1711_18.1600,Punto e Pasta,RESTAURANT,ristorante
-40.170846,18.162929,ov_artigiana_cucina_tipica_salentina_40.1708_18.1629,Artigiana Cucina Tipica Salentina,RESTAURANT,ristorante
-40.176800,18.128731,ov_agriturismo_masseria_latronica_40.1768_18.1287,Agriturismo Masseria Latronica,RESTAURANT,ristorante
-40.206862,18.107548,ov_portici_salentini_40.2069_18.1075,Portici Salentini,RESTAURANT,ristorante
-40.208268,18.103372,ov_il_covo_delle_streghe_40.2083_18.1034,Il Covo delle Streghe,RESTAURANT,ristorante
-40.209780,18.158850,ov_tenuta_masseria_spallaccia_40.2098_18.1589,Tenuta Masseria Spallaccia,RESTAURANT,ristorante
-40.219870,18.154828,ov_masseria_spallaccia_azienda_agrituristic_40.2199_18.1548,Masseria Spallaccia Azienda Agrituristica,RESTAURANT,ristorante
-40.241825,18.164790,ov_ristorante_orto_e_cucina_puntarelle_40.2418_18.1648,Ristorante Orto e Cucina Puntarelle,RESTAURANT,ristorante
+40.129260,18.122370,ov_gior__40.1293_18.1224,Giorè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/gior_40.1293_18.1224.json,custom
+40.144011,18.170004,ov_don_vincenzo_ricevimenti_40.1440_18.1700,Don Vincenzo Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/don_vincenzo_ricevimenti_40.1440_18.1700.json,custom
+40.154380,18.166030,ov_pescheria_sapore_di_mare__noha_di_galati_40.1544_18.1660,"Pescheria Sapore di mare, Noha di Galatina.",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pescheria_sapore_di_mare_noha_di_galatin_40.1544_18.1660.json,custom
+40.153854,18.166922,ov_ristorante_signoria_40.1539_18.1669,Ristorante Signoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/ristorante_signoria_40.1539_18.1669.json,custom
+40.151715,18.166011,ov_centoundici_40.1517_18.1660,Centoundici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/centoundici_40.1517_18.1660.json,custom
+40.151052,18.165000,ov_pizzeria_pasticceria_bar_madagascar_40.1511_18.1650,Pizzeria Pasticceria Bar Madagascar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pizzeria_pasticceria_bar_madagascar_40.1511_18.1650.json,custom
+40.181162,18.168503,ov_mcdonald_s_40.1812_18.1685,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/mcdonalds_40.1812_18.1685.json,custom
+40.180070,18.162521,ov_ristorante_la_conceria_40.1801_18.1625,Ristorante La Conceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/ristorante_la_conceria_40.1801_18.1625.json,custom
+40.178778,18.165323,ov_binario_73_40.1788_18.1653,Binario 73,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/binario_73_40.1788_18.1653.json,custom
+40.179326,18.162704,ov_incoho_40.1793_18.1627,Incoho,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/incoho_40.1793_18.1627.json,custom
+40.177880,18.166238,ov_sonora_40.1779_18.1662,Sonora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/sonora_40.1779_18.1662.json,custom
+40.177090,18.176190,ov_l_angolo_del_gusto_40.1771_18.1762,L'Angolo del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/langolo_del_gusto_40.1771_18.1762.json,custom
+40.177187,18.178984,ov_brusco___pub___bruschetteria_al_metro_40.1772_18.1790,Brusco • Pub & Bruschetteria al Metro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/brusco_pub_bruschetteria_al_metro_40.1772_18.1790.json,custom
+40.176669,18.178357,ov_la_torre___pizzeria_con_forno_a_legna_40.1767_18.1784,La Torre | Pizzeria con Forno a Legna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/la_torre_pizzeria_con_forno_a_legna_40.1767_18.1784.json,custom
+40.176105,18.161959,ov_hanami_sushi_40.1761_18.1620,Hanami Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/hanami_sushi_40.1761_18.1620.json,custom
+40.175437,18.172130,ov_meeting_pucceria_40.1754_18.1721,Meeting Pucceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/meeting_pucceria_40.1754_18.1721.json,custom
+40.174641,18.169595,ov_dento_sushi_40.1746_18.1696,Dento Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/dento_sushi_40.1746_18.1696.json,custom
+40.174511,18.167979,ov_kalasole_restaurant_40.1745_18.1680,Kalasole Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/kalasole_restaurant_40.1745_18.1680.json,custom
+40.174612,18.164224,ov_rosticceria_moscara_40.1746_18.1642,Rosticceria Moscara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/rosticceria_moscara_40.1746_18.1642.json,custom
+40.174656,18.165385,ov_impastello_40.1747_18.1654,Impastello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/impastello_40.1747_18.1654.json,custom
+40.174997,18.167802,ov_pizza_mania___rosticceria___catering_40.1750_18.1678,Pizza Mania • Rosticceria & Catering,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pizza_mania_rosticceria_catering_40.1750_18.1678.json,custom
+40.175317,18.169727,ov_braceria_40.1753_18.1697,Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/braceria_40.1753_18.1697.json,custom
+40.175243,18.167676,ov_pizzicheria_40.1752_18.1677,Pizzicheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pizzicheria_40.1752_18.1677.json,custom
+40.175291,18.166972,ov_dinastya_sushi_di_galatina_40.1753_18.1670,Dinastya sushi di Galatina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/dinastya_sushi_di_galatina_40.1753_18.1670.json,custom
+40.174800,18.159909,ov_il_gusto_40.1748_18.1599,Il Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/il_gusto_40.1748_18.1599.json,custom
+40.175048,18.156530,ov_i_due_trappeti_40.1750_18.1565,I Due Trappeti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/i_due_trappeti_40.1750_18.1565.json,custom
+40.173121,18.170175,ov_nonna_lilia_40.1731_18.1702,Nonna Lilia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/nonna_lilia_40.1731_18.1702.json,custom
+40.173884,18.167163,ov_stella_del_mare_restaurant_40.1739_18.1672,Stella del Mare Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/stella_del_mare_restaurant_40.1739_18.1672.json,custom
+40.173982,18.169803,ov_clinica_del_gusto_40.1740_18.1698,Clinica del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/clinica_del_gusto_40.1740_18.1698.json,custom
+40.174013,18.171032,ov_salumeria_di_turno_40.1740_18.1710,Salumeria Di Turno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/salumeria_di_turno_40.1740_18.1710.json,custom
+40.173865,18.170716,ov_peperino_40.1739_18.1707,Peperino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/peperino_40.1739_18.1707.json,custom
+40.173853,18.169485,ov_anima_e_cuore_40.1739_18.1695,Anima e Cuore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/anima_e_cuore_40.1739_18.1695.json,custom
+40.173731,18.169494,ov_il_covo_della_taranta_40.1737_18.1695,Il Covo della Taranta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/il_covo_della_taranta_40.1737_18.1695.json,custom
+40.173905,18.173589,ov_basilico_pizza_and_food_40.1739_18.1736,Basilico Pizza and Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/basilico_pizza_and_food_40.1739_18.1736.json,custom
+40.173478,18.172461,ov_corte_del_fuoco_40.1735_18.1725,Corte del Fuoco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/corte_del_fuoco_40.1735_18.1725.json,custom
+40.173087,18.173252,ov_meat_n_burger___galatina_40.1731_18.1733,Meat'n'Burger • Galatina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/meatnburger_galatina_40.1731_18.1733.json,custom
+40.165649,18.164491,ov_la_campina_40.1656_18.1645,La Campina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/la_campina_40.1656_18.1645.json,custom
+40.168971,18.163696,ov_il_ghiottone_40.1690_18.1637,Il Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/il_ghiottone_40.1690_18.1637.json,custom
+40.172985,18.171109,ov_tipozero_40.1730_18.1711,Tipozero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/tipozero_40.1730_18.1711.json,custom
+40.172670,18.171772,ov_il_fienile_ristorante_40.1727_18.1718,Il Fienile Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/il_fienile_ristorante_40.1727_18.1718.json,custom
+40.172514,18.171993,ov_trattoria_santa_caterina_sapori_del_sale_40.1725_18.1720,Trattoria santa caterina sapori del salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/trattoria_santa_caterina_sapori_del_sale_40.1725_18.1720.json,custom
+40.172320,18.164580,ov_trattoria_da_sorpiera_40.1723_18.1646,trattoria da sorpiera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/trattoria_da_sorpiera_40.1723_18.1646.json,custom
+40.171944,18.165642,ov_pantagruel_40.1719_18.1656,Pantagruel,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pantagruel_40.1719_18.1656.json,custom
+40.172406,18.172472,ov_la_focacceria_degli_orsini_40.1724_18.1725,La Focacceria degli Orsini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/la_focacceria_degli_orsini_40.1724_18.1725.json,custom
+40.171747,18.167193,ov_ristorante_matambre_40.1717_18.1672,Ristorante Matambre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/ristorante_matambre_40.1717_18.1672.json,custom
+40.171105,18.160043,ov_punto_e_pasta_40.1711_18.1600,Punto e Pasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/punto_e_pasta_40.1711_18.1600.json,custom
+40.170846,18.162929,ov_artigiana_cucina_tipica_salentina_40.1708_18.1629,Artigiana Cucina Tipica Salentina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/artigiana_cucina_tipica_salentina_40.1708_18.1629.json,custom
+40.176800,18.128731,ov_agriturismo_masseria_latronica_40.1768_18.1287,Agriturismo Masseria Latronica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/agriturismo_masseria_latronica_40.1768_18.1287.json,custom
+40.206862,18.107548,ov_portici_salentini_40.2069_18.1075,Portici Salentini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/portici_salentini_40.2069_18.1075.json,custom
+40.208268,18.103372,ov_il_covo_delle_streghe_40.2083_18.1034,Il Covo delle Streghe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/il_covo_delle_streghe_40.2083_18.1034.json,custom
+40.209780,18.158850,ov_tenuta_masseria_spallaccia_40.2098_18.1589,Tenuta Masseria Spallaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/tenuta_masseria_spallaccia_40.2098_18.1589.json,custom
+40.219870,18.154828,ov_masseria_spallaccia_azienda_agrituristic_40.2199_18.1548,Masseria Spallaccia Azienda Agrituristica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/masseria_spallaccia_azienda_agrituristic_40.2199_18.1548.json,custom
+40.241825,18.164790,ov_ristorante_orto_e_cucina_puntarelle_40.2418_18.1648,Ristorante Orto e Cucina Puntarelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/ristorante_orto_e_cucina_puntarelle_40.2418_18.1648.json,custom
+40.177314,18.168224,osm_zona_franca_40.1773_18.1682,Zona Franca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/zona_franca_40.1773_18.1682.json,custom
+40.180016,18.162442,osm_la_conceria_40.1800_18.1624,La Conceria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/la_conceria_40.1800_18.1624.json,custom
+40.174665,18.165458,osm_goji_pizzeria_con_cucina_40.1747_18.1655,Goji Pizzeria con Cucina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/goji_pizzeria_con_cucina_40.1747_18.1655.json,custom
+40.173838,18.169530,osm_anima___cuore_40.1738_18.1695,Anima & Cuore,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/anima_cuore_40.1738_18.1695.json,custom
+40.177707,18.164659,osm_pizzeria_la_torre_40.1777_18.1647,Pizzeria la Torre,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/galatina/pages/pizzeria_la_torre_40.1777_18.1647.json,custom

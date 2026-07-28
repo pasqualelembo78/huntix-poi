@@ -1,21 +1,21 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # leporano -- bars_cafes
-40.381901,17.304815,ov_bar_sanremo_40.3819_17.3048,Bar Sanremo,RESTAURANT,bar_cafe
-40.381882,17.305017,ov_santa_caterina__gandoli_40.3819_17.3050,Santa Caterina. Gandoli,RESTAURANT,bar_cafe
-40.379788,17.307863,ov_kat_40.3798_17.3079,KAT,RESTAURANT,bar_cafe
-40.365670,17.317541,ov_bar_sanremo_40.3657_17.3175,Bar Sanremo,RESTAURANT,bar_cafe
-40.362880,17.339110,ov_il_valentino_bar_40.3629_17.3391,Il Valentino Bar,RESTAURANT,bar_cafe
-40.380112,17.334307,ov_zer099_art_cafe_40.3801_17.3343,Zer099 Art Cafe,RESTAURANT,bar_cafe
-40.382986,17.327230,ov_caf__la_palma_40.3830_17.3272,Café La Palma,RESTAURANT,bar_cafe
-40.382873,17.331933,ov_estate_leporanese_40.3829_17.3319,Estate Leporanese,RESTAURANT,bar_cafe
-40.383356,17.334143,ov_bar_mele_40.3834_17.3341,Bar Mele,RESTAURANT,bar_cafe
-40.381757,17.333783,ov_bar_il_diamante_40.3818_17.3338,Bar Il Diamante,RESTAURANT,bar_cafe
-40.383184,17.336343,ov_bar_tortuga_40.3832_17.3363,Bar Tortuga,RESTAURANT,bar_cafe
-40.384471,17.332725,ov_bar_tabacchi_di_papari_giovanni_40.3845_17.3327,Bar Tabacchi di Papari Giovanni,RESTAURANT,bar_cafe
-40.384190,17.332826,ov_bar_valentini_40.3842_17.3328,Bar Valentini,RESTAURANT,bar_cafe
-40.396323,17.307308,ov_caffe_time_40.3963_17.3073,Caffe Time,RESTAURANT,bar_cafe
-40.383561,17.303147,ov_quadrifoglio_40.3836_17.3031,Quadrifoglio,RESTAURANT,bar_cafe
-40.384014,17.302038,ov_katerin_pub_40.3840_17.3020,Katerin Pub,RESTAURANT,bar_cafe
-40.383861,17.292665,ov_bar_pasticceria_santomaj_40.3839_17.2927,Bar Pasticceria Santomaj,RESTAURANT,bar_cafe
-40.466298,17.243946,ov_b_side___wine_beer___cocktail_40.4663_17.2439,B-Side - Wine Beer & Cocktail,RESTAURANT,bar_cafe
-40.528334,17.439732,ov_bar_olimpia_40.5283_17.4397,Bar Olimpia,RESTAURANT,bar_cafe
+40.381901,17.304815,ov_bar_sanremo_40.3819_17.3048,Bar Sanremo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_sanremo_40.3819_17.3048.json,custom
+40.381882,17.305017,ov_santa_caterina__gandoli_40.3819_17.3050,Santa Caterina. Gandoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/santa_caterina_gandoli_40.3819_17.3050.json,custom
+40.379788,17.307863,ov_kat_40.3798_17.3079,KAT,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/kat_40.3798_17.3079.json,custom
+40.365670,17.317541,ov_bar_sanremo_40.3657_17.3175,Bar Sanremo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_sanremo_40.3657_17.3175.json,custom
+40.362880,17.339110,ov_il_valentino_bar_40.3629_17.3391,Il Valentino Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/il_valentino_bar_40.3629_17.3391.json,custom
+40.380112,17.334307,ov_zer099_art_cafe_40.3801_17.3343,Zer099 Art Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/zer099_art_cafe_40.3801_17.3343.json,custom
+40.382986,17.327230,ov_caf__la_palma_40.3830_17.3272,Café La Palma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/caf_la_palma_40.3830_17.3272.json,custom
+40.382873,17.331933,ov_estate_leporanese_40.3829_17.3319,Estate Leporanese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/estate_leporanese_40.3829_17.3319.json,custom
+40.383356,17.334143,ov_bar_mele_40.3834_17.3341,Bar Mele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_mele_40.3834_17.3341.json,custom
+40.381757,17.333783,ov_bar_il_diamante_40.3818_17.3338,Bar Il Diamante,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_il_diamante_40.3818_17.3338.json,custom
+40.383184,17.336343,ov_bar_tortuga_40.3832_17.3363,Bar Tortuga,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_tortuga_40.3832_17.3363.json,custom
+40.384471,17.332725,ov_bar_tabacchi_di_papari_giovanni_40.3845_17.3327,Bar Tabacchi di Papari Giovanni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_tabacchi_di_papari_giovanni_40.3845_17.3327.json,custom
+40.384190,17.332826,ov_bar_valentini_40.3842_17.3328,Bar Valentini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_valentini_40.3842_17.3328.json,custom
+40.396323,17.307308,ov_caffe_time_40.3963_17.3073,Caffe Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/caffe_time_40.3963_17.3073.json,custom
+40.383561,17.303147,ov_quadrifoglio_40.3836_17.3031,Quadrifoglio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/quadrifoglio_40.3836_17.3031.json,custom
+40.384014,17.302038,ov_katerin_pub_40.3840_17.3020,Katerin Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/katerin_pub_40.3840_17.3020.json,custom
+40.383861,17.292665,ov_bar_pasticceria_santomaj_40.3839_17.2927,Bar Pasticceria Santomaj,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_pasticceria_santomaj_40.3839_17.2927.json,custom
+40.466298,17.243946,ov_b_side___wine_beer___cocktail_40.4663_17.2439,B-Side - Wine Beer & Cocktail,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/b-side_-_wine_beer_cocktail_40.4663_17.2439.json,custom
+40.528334,17.439732,ov_bar_olimpia_40.5283_17.4397,Bar Olimpia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leporano/pages/bar_olimpia_40.5283_17.4397.json,custom

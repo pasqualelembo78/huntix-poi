@@ -1,74 +1,74 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # conversano -- restaurants
-40.984398,17.107668,osm_masseria_petrullo_40.9844_17.1077,Masseria Petrullo,ristorante,ristorante
-40.889206,17.058200,ov_tari_bio_gourmet_40.8892_17.0582,Tari Bio Gourmet,RESTAURANT,ristorante
-40.902422,17.058295,ov_masseria_gravelle_40.9024_17.0583,Masseria Gravelle,RESTAURANT,ristorante
-40.926099,17.169540,ov_bar_pizzeria_rosticceria_fuego_40.9261_17.1695,Bar Pizzeria Rosticceria FUEGO,RESTAURANT,ristorante
-40.926450,17.158976,ov_masseria_degli_ulivi_40.9264_17.1590,Masseria degli Ulivi,RESTAURANT,ristorante
-40.927383,17.168227,ov_braceria_da_matteo_40.9274_17.1682,Braceria da Matteo,RESTAURANT,ristorante
-40.992022,17.225485,ov_braceria_da_matteo_40.9920_17.2255,Braceria da Matteo,RESTAURANT,ristorante
-41.002068,17.097406,ov_masseria_le_cerase_41.0021_17.0974,Masseria Le Cerase,RESTAURANT,ristorante
-40.975160,17.106318,ov_taku_sushi_40.9752_17.1063,Taku Sushi,RESTAURANT,ristorante
-40.970022,17.108805,ov_akuaba_fusion_experience_40.9700_17.1088,Akuaba Fusion Experience,RESTAURANT,ristorante
-40.969044,17.112893,ov_rampavilla_40.9690_17.1129,Rampavilla,RESTAURANT,ristorante
-40.969026,17.115064,ov_pash__ristorante_e_dimora_40.9690_17.1151,Pashà Ristorante e Dimora,RESTAURANT,ristorante
-40.969023,17.115099,ov_verso_40.9690_17.1151,Verso,RESTAURANT,ristorante
-40.969506,17.110122,ov_mollica_di_pane_40.9695_17.1101,Mollica di Pane,RESTAURANT,ristorante
-40.970843,17.114200,ov_ristorante_pizzeria_novecento_40.9708_17.1142,Ristorante Pizzeria Novecento,RESTAURANT,ristorante
-40.971415,17.114886,ov_banco_40.9714_17.1149,Banco,RESTAURANT,ristorante
-40.970771,17.109270,ov_piacere_rosanna_40.9708_17.1093,Piacere Rosanna,RESTAURANT,ristorante
-40.970516,17.109203,ov_hubu_coffee_and_poke_40.9705_17.1092,Hubu Coffee and Poke,RESTAURANT,ristorante
-40.972700,17.110369,ov_malidea_a_casa_40.9727_17.1104,Malidea a Casa,RESTAURANT,ristorante
-40.969100,17.116165,ov_terra_rossa_40.9691_17.1162,Terra Rossa,RESTAURANT,ristorante
-40.968993,17.115842,ov_pizzeria_terrarossa_40.9690_17.1158,Pizzeria Terrarossa,RESTAURANT,ristorante
-40.968818,17.116959,ov_terrazze_belvedere_40.9688_17.1170,Terrazze Belvedere,RESTAURANT,ristorante
-40.966198,17.116400,ov_pizzaamorefantasia_40.9662_17.1164,Pizzaamorefantasia,RESTAURANT,ristorante
-40.966626,17.116892,ov_marzia_40.9666_17.1169,Marzia,RESTAURANT,ristorante
-40.967386,17.116913,ov_focacceria_barese__il_torrione_40.9674_17.1169,Focacceria Barese  Il torrione,RESTAURANT,ristorante
-40.967584,17.115791,ov_ristorante_o_reng_40.9676_17.1158,Ristorante O'Reng,RESTAURANT,ristorante
-40.967623,17.116158,ov_vita_pugliese_40.9676_17.1162,Vita Pugliese,RESTAURANT,ristorante
-40.968023,17.115602,ov_la_casa_di_toto_40.9680_17.1156,La Casa Di Toto,RESTAURANT,ristorante
-40.967847,17.117536,ov_il_bugigattolo_40.9678_17.1175,Il Bugigattolo,RESTAURANT,ristorante
-40.968379,17.115875,ov_il_giullare_40.9684_17.1159,Il Giullare,RESTAURANT,ristorante
-40.968694,17.114961,ov_panzeria_panzerotteria_gourmet_pizzeria__40.9687_17.1150,Panzeria Panzerotteria Gourmet Pizzeria e Birreria,RESTAURANT,ristorante
-40.968702,17.114157,ov_goffredo_ristorante_40.9687_17.1142,Goffredo Ristorante,RESTAURANT,ristorante
-40.967738,17.114699,ov_mac_gourmet_40.9677_17.1147,Mac&Gourmet,RESTAURANT,ristorante
-40.967518,17.113417,ov_panzeromper__by_arlecchino_40.9675_17.1134,Panzeromperà by Arlecchino,RESTAURANT,ristorante
-40.967175,17.105605,ov_sapore_perfetto_40.9672_17.1056,Sapore Perfetto,RESTAURANT,ristorante
-40.967221,17.105631,ov_spisso_pizza_chef_40.9672_17.1056,Spisso Pizza Chef,RESTAURANT,ristorante
-40.966924,17.112088,ov_don_carlo_40.9669_17.1121,Don Carlo,RESTAURANT,ristorante
-40.966792,17.114863,ov_la_focaccina_40.9668_17.1149,la Focaccina,RESTAURANT,ristorante
-40.966552,17.114095,ov_creperia_il_principe_40.9666_17.1141,Creperia Il Principe,RESTAURANT,ristorante
-40.966249,17.112785,ov_acquolina_in_bocca_40.9662_17.1128,Acquolina in Bocca,RESTAURANT,ristorante
-40.966397,17.114358,ov_tie_osteria_gintoneria_40.9664_17.1144,Tie Osteria Gintoneria,RESTAURANT,ristorante
-40.966005,17.113371,ov_sfizi___la_cucina_di_casa_40.9660_17.1134,Sfizi - La cucina di casa,RESTAURANT,ristorante
-40.963587,17.107761,ov_nettisd_40.9636_17.1078,NettisD,RESTAURANT,ristorante
-40.964785,17.109641,ov_polleria_jolly_40.9648_17.1096,Polleria Jolly,RESTAURANT,ristorante
-40.964528,17.116470,ov_pizza_amore___e_fantasia_40.9645_17.1165,Pizza amore...e fantasia,RESTAURANT,ristorante
-40.965820,17.115644,ov_la_vecchia_taverna_mordi___fuggi_40.9658_17.1156,La Vecchia Taverna Mordi & Fuggi,RESTAURANT,ristorante
-40.965789,17.120137,ov_la_taverna_dei_duellanti_40.9658_17.1201,La Taverna dei Duellanti,RESTAURANT,ristorante
-40.962311,17.122437,ov_liuzzi_latticini_40.9623_17.1224,Liuzzi Latticini,RESTAURANT,ristorante
-40.962398,17.117328,ov_rosty_pizza_40.9624_17.1173,Rosty Pizza,RESTAURANT,ristorante
-40.962583,17.117757,ov_da_massimo_40.9626_17.1178,Da Massimo,RESTAURANT,ristorante
-40.961734,17.120512,ov_dama_pizzeria_e_ristorante_40.9617_17.1205,Dama Pizzeria e Ristorante,RESTAURANT,ristorante
-40.961780,17.117620,ov_foralle___il_senza_glutine_per_tutti_40.9618_17.1176,ForAlle - Il senza glutine per tutti,RESTAURANT,ristorante
-40.959764,17.119659,ov_la_brace_40.9598_17.1197,La Brace,RESTAURANT,ristorante
-40.960707,17.120114,ov_sav__40.9607_17.1201,Savì,RESTAURANT,ristorante
-40.960790,17.120438,ov_39_ristorante_40.9608_17.1204,39 Ristorante,RESTAURANT,ristorante
-40.960753,17.121179,ov_sapore_perfetto_40.9608_17.1212,Sapore Perfetto,RESTAURANT,ristorante
-40.960852,17.120370,ov_piutrentanove_italian_restaurant_40.9609_17.1204,PiuTrentanove Italian Restaurant,RESTAURANT,ristorante
-40.960578,17.114298,ov_royal_pizza_40.9606_17.1143,Royal Pizza,RESTAURANT,ristorante
-40.958978,17.109221,ov_anima_e_core_40.9590_17.1092,Anima e Core,RESTAURANT,ristorante
-40.959982,17.108935,ov_panzerottiamo_conversano_40.9600_17.1089,Panzerottiamo Conversano,RESTAURANT,ristorante
-40.960759,17.108697,ov_fuoco_e_passione_40.9608_17.1087,fuoco e passione,RESTAURANT,ristorante
-40.961319,17.109052,ov_pizzeria_dalis___pizza___wine_conversano_40.9613_17.1091,Pizzeria Dalis - Pizza & Wine Conversano,RESTAURANT,ristorante
-40.961297,17.108796,ov_amar__40.9613_17.1088,Amarè,RESTAURANT,ristorante
-40.961494,17.109687,ov_ristorante_creperia_gradisca_40.9615_17.1097,Ristorante Creperia Gradisca,RESTAURANT,ristorante
-40.961862,17.111751,ov_proteina_rossa_40.9619_17.1118,Proteina Rossa,RESTAURANT,ristorante
-40.962506,17.109601,ov_arte_in_pizza_40.9625_17.1096,Arte in Pizza,RESTAURANT,ristorante
-40.962297,17.111137,ov_il_pomodorino_40.9623_17.1111,Il Pomodorino,RESTAURANT,ristorante
-40.963034,17.109479,ov_la_crepe_40.9630_17.1095,La Crepe,RESTAURANT,ristorante
-40.963563,17.106931,ov_conte_40.9636_17.1069,Conte,RESTAURANT,ristorante
-40.974018,17.076335,ov_masseria_de_bellis_40.9740_17.0763,Masseria De Bellis,RESTAURANT,ristorante
-40.974453,17.076736,ov_agriturismo_masseria_alberotanza___hospi_40.9745_17.0767,Agriturismo Masseria Alberotanza - Hospitality & Events in P,RESTAURANT,ristorante
-40.958172,17.113317,ov_a_casa_di_prometeo_40.9582_17.1133,A Casa di Prometeo,RESTAURANT,ristorante
+40.889206,17.058200,ov_tari_bio_gourmet_40.8892_17.0582,Tari Bio Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/tari_bio_gourmet_40.8892_17.0582.json,custom
+40.902422,17.058295,ov_masseria_gravelle_40.9024_17.0583,Masseria Gravelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/masseria_gravelle_40.9024_17.0583.json,custom
+40.926099,17.169540,ov_bar_pizzeria_rosticceria_fuego_40.9261_17.1695,Bar Pizzeria Rosticceria FUEGO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/bar_pizzeria_rosticceria_fuego_40.9261_17.1695.json,custom
+40.926450,17.158976,ov_masseria_degli_ulivi_40.9264_17.1590,Masseria degli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/masseria_degli_ulivi_40.9264_17.1590.json,custom
+40.927383,17.168227,ov_braceria_da_matteo_40.9274_17.1682,Braceria da Matteo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/braceria_da_matteo_40.9274_17.1682.json,custom
+40.992022,17.225485,ov_braceria_da_matteo_40.9920_17.2255,Braceria da Matteo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/braceria_da_matteo_40.9920_17.2255.json,custom
+41.002068,17.097406,ov_masseria_le_cerase_41.0021_17.0974,Masseria Le Cerase,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/masseria_le_cerase_41.0021_17.0974.json,custom
+40.975160,17.106318,ov_taku_sushi_40.9752_17.1063,Taku Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/taku_sushi_40.9752_17.1063.json,custom
+40.970022,17.108805,ov_akuaba_fusion_experience_40.9700_17.1088,Akuaba Fusion Experience,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/akuaba_fusion_experience_40.9700_17.1088.json,custom
+40.969044,17.112893,ov_rampavilla_40.9690_17.1129,Rampavilla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/rampavilla_40.9690_17.1129.json,custom
+40.969026,17.115064,ov_pash__ristorante_e_dimora_40.9690_17.1151,Pashà Ristorante e Dimora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/pash_ristorante_e_dimora_40.9690_17.1151.json,custom
+40.969023,17.115099,ov_verso_40.9690_17.1151,Verso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/verso_40.9690_17.1151.json,custom
+40.969506,17.110122,ov_mollica_di_pane_40.9695_17.1101,Mollica di Pane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/mollica_di_pane_40.9695_17.1101.json,custom
+40.970843,17.114200,ov_ristorante_pizzeria_novecento_40.9708_17.1142,Ristorante Pizzeria Novecento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/ristorante_pizzeria_novecento_40.9708_17.1142.json,custom
+40.971415,17.114886,ov_banco_40.9714_17.1149,Banco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/banco_40.9714_17.1149.json,custom
+40.970771,17.109270,ov_piacere_rosanna_40.9708_17.1093,Piacere Rosanna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/piacere_rosanna_40.9708_17.1093.json,custom
+40.970516,17.109203,ov_hubu_coffee_and_poke_40.9705_17.1092,Hubu Coffee and Poke,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/hubu_coffee_and_poke_40.9705_17.1092.json,custom
+40.972700,17.110369,ov_malidea_a_casa_40.9727_17.1104,Malidea a Casa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/malidea_a_casa_40.9727_17.1104.json,custom
+40.969100,17.116165,ov_terra_rossa_40.9691_17.1162,Terra Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/terra_rossa_40.9691_17.1162.json,custom
+40.968993,17.115842,ov_pizzeria_terrarossa_40.9690_17.1158,Pizzeria Terrarossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/pizzeria_terrarossa_40.9690_17.1158.json,custom
+40.968818,17.116959,ov_terrazze_belvedere_40.9688_17.1170,Terrazze Belvedere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/terrazze_belvedere_40.9688_17.1170.json,custom
+40.966198,17.116400,ov_pizzaamorefantasia_40.9662_17.1164,Pizzaamorefantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/pizzaamorefantasia_40.9662_17.1164.json,custom
+40.966626,17.116892,ov_marzia_40.9666_17.1169,Marzia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/marzia_40.9666_17.1169.json,custom
+40.967386,17.116913,ov_focacceria_barese__il_torrione_40.9674_17.1169,Focacceria Barese  Il torrione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/focacceria_barese_il_torrione_40.9674_17.1169.json,custom
+40.967584,17.115791,ov_ristorante_o_reng_40.9676_17.1158,Ristorante O'Reng,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/ristorante_oreng_40.9676_17.1158.json,custom
+40.967623,17.116158,ov_vita_pugliese_40.9676_17.1162,Vita Pugliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/vita_pugliese_40.9676_17.1162.json,custom
+40.968023,17.115602,ov_la_casa_di_toto_40.9680_17.1156,La Casa Di Toto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_casa_di_toto_40.9680_17.1156.json,custom
+40.967847,17.117536,ov_il_bugigattolo_40.9678_17.1175,Il Bugigattolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/il_bugigattolo_40.9678_17.1175.json,custom
+40.968379,17.115875,ov_il_giullare_40.9684_17.1159,Il Giullare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/il_giullare_40.9684_17.1159.json,custom
+40.968694,17.114961,ov_panzeria_panzerotteria_gourmet_pizzeria__40.9687_17.1150,Panzeria Panzerotteria Gourmet Pizzeria e Birreria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/panzeria_panzerotteria_gourmet_pizzeria__40.9687_17.1150.json,custom
+40.968702,17.114157,ov_goffredo_ristorante_40.9687_17.1142,Goffredo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/goffredo_ristorante_40.9687_17.1142.json,custom
+40.967738,17.114699,ov_mac_gourmet_40.9677_17.1147,Mac&Gourmet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/macgourmet_40.9677_17.1147.json,custom
+40.967518,17.113417,ov_panzeromper__by_arlecchino_40.9675_17.1134,Panzeromperà by Arlecchino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/panzeromper_by_arlecchino_40.9675_17.1134.json,custom
+40.967175,17.105605,ov_sapore_perfetto_40.9672_17.1056,Sapore Perfetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/sapore_perfetto_40.9672_17.1056.json,custom
+40.967221,17.105631,ov_spisso_pizza_chef_40.9672_17.1056,Spisso Pizza Chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/spisso_pizza_chef_40.9672_17.1056.json,custom
+40.966924,17.112088,ov_don_carlo_40.9669_17.1121,Don Carlo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/don_carlo_40.9669_17.1121.json,custom
+40.966792,17.114863,ov_la_focaccina_40.9668_17.1149,la Focaccina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_focaccina_40.9668_17.1149.json,custom
+40.966552,17.114095,ov_creperia_il_principe_40.9666_17.1141,Creperia Il Principe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/creperia_il_principe_40.9666_17.1141.json,custom
+40.966249,17.112785,ov_acquolina_in_bocca_40.9662_17.1128,Acquolina in Bocca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/acquolina_in_bocca_40.9662_17.1128.json,custom
+40.966397,17.114358,ov_tie_osteria_gintoneria_40.9664_17.1144,Tie Osteria Gintoneria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/tie_osteria_gintoneria_40.9664_17.1144.json,custom
+40.966005,17.113371,ov_sfizi___la_cucina_di_casa_40.9660_17.1134,Sfizi - La cucina di casa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/sfizi_-_la_cucina_di_casa_40.9660_17.1134.json,custom
+40.963587,17.107761,ov_nettisd_40.9636_17.1078,NettisD,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/nettisd_40.9636_17.1078.json,custom
+40.964785,17.109641,ov_polleria_jolly_40.9648_17.1096,Polleria Jolly,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/polleria_jolly_40.9648_17.1096.json,custom
+40.964528,17.116470,ov_pizza_amore___e_fantasia_40.9645_17.1165,Pizza amore...e fantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/pizza_amoree_fantasia_40.9645_17.1165.json,custom
+40.965820,17.115644,ov_la_vecchia_taverna_mordi___fuggi_40.9658_17.1156,La Vecchia Taverna Mordi & Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_vecchia_taverna_mordi_fuggi_40.9658_17.1156.json,custom
+40.965789,17.120137,ov_la_taverna_dei_duellanti_40.9658_17.1201,La Taverna dei Duellanti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_taverna_dei_duellanti_40.9658_17.1201.json,custom
+40.962311,17.122437,ov_liuzzi_latticini_40.9623_17.1224,Liuzzi Latticini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/liuzzi_latticini_40.9623_17.1224.json,custom
+40.962398,17.117328,ov_rosty_pizza_40.9624_17.1173,Rosty Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/rosty_pizza_40.9624_17.1173.json,custom
+40.962583,17.117757,ov_da_massimo_40.9626_17.1178,Da Massimo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/da_massimo_40.9626_17.1178.json,custom
+40.961734,17.120512,ov_dama_pizzeria_e_ristorante_40.9617_17.1205,Dama Pizzeria e Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/dama_pizzeria_e_ristorante_40.9617_17.1205.json,custom
+40.961780,17.117620,ov_foralle___il_senza_glutine_per_tutti_40.9618_17.1176,ForAlle - Il senza glutine per tutti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/foralle_-_il_senza_glutine_per_tutti_40.9618_17.1176.json,custom
+40.959764,17.119659,ov_la_brace_40.9598_17.1197,La Brace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_brace_40.9598_17.1197.json,custom
+40.960707,17.120114,ov_sav__40.9607_17.1201,Savì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/sav_40.9607_17.1201.json,custom
+40.960790,17.120438,ov_39_ristorante_40.9608_17.1204,39 Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/39_ristorante_40.9608_17.1204.json,custom
+40.960753,17.121179,ov_sapore_perfetto_40.9608_17.1212,Sapore Perfetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/sapore_perfetto_40.9608_17.1212.json,custom
+40.960852,17.120370,ov_piutrentanove_italian_restaurant_40.9609_17.1204,PiuTrentanove Italian Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/piutrentanove_italian_restaurant_40.9609_17.1204.json,custom
+40.960578,17.114298,ov_royal_pizza_40.9606_17.1143,Royal Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/royal_pizza_40.9606_17.1143.json,custom
+40.958978,17.109221,ov_anima_e_core_40.9590_17.1092,Anima e Core,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/anima_e_core_40.9590_17.1092.json,custom
+40.959982,17.108935,ov_panzerottiamo_conversano_40.9600_17.1089,Panzerottiamo Conversano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/panzerottiamo_conversano_40.9600_17.1089.json,custom
+40.960759,17.108697,ov_fuoco_e_passione_40.9608_17.1087,fuoco e passione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/fuoco_e_passione_40.9608_17.1087.json,custom
+40.961319,17.109052,ov_pizzeria_dalis___pizza___wine_conversano_40.9613_17.1091,Pizzeria Dalis - Pizza & Wine Conversano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/pizzeria_dalis_-_pizza_wine_conversano_40.9613_17.1091.json,custom
+40.961297,17.108796,ov_amar__40.9613_17.1088,Amarè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/amar_40.9613_17.1088.json,custom
+40.961494,17.109687,ov_ristorante_creperia_gradisca_40.9615_17.1097,Ristorante Creperia Gradisca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/ristorante_creperia_gradisca_40.9615_17.1097.json,custom
+40.961862,17.111751,ov_proteina_rossa_40.9619_17.1118,Proteina Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/proteina_rossa_40.9619_17.1118.json,custom
+40.962506,17.109601,ov_arte_in_pizza_40.9625_17.1096,Arte in Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/arte_in_pizza_40.9625_17.1096.json,custom
+40.962297,17.111137,ov_il_pomodorino_40.9623_17.1111,Il Pomodorino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/il_pomodorino_40.9623_17.1111.json,custom
+40.963034,17.109479,ov_la_crepe_40.9630_17.1095,La Crepe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/la_crepe_40.9630_17.1095.json,custom
+40.963563,17.106931,ov_conte_40.9636_17.1069,Conte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/conte_40.9636_17.1069.json,custom
+40.974018,17.076335,ov_masseria_de_bellis_40.9740_17.0763,Masseria De Bellis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/masseria_de_bellis_40.9740_17.0763.json,custom
+40.974453,17.076736,ov_agriturismo_masseria_alberotanza___hospi_40.9745_17.0767,Agriturismo Masseria Alberotanza - Hospitality & Events in P,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/agriturismo_masseria_alberotanza_-_hospi_40.9745_17.0767.json,custom
+40.958172,17.113317,ov_a_casa_di_prometeo_40.9582_17.1133,A Casa di Prometeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/a_casa_di_prometeo_40.9582_17.1133.json,custom
+40.984398,17.107668,osm_masseria_petrullo_40.9844_17.1077,Masseria Petrullo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/conversano/pages/masseria_petrullo_40.9844_17.1077.json,custom

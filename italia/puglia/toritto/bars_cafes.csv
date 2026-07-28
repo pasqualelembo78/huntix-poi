@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # toritto -- bars_cafes
-40.967287,16.576107,ov_soleluna_40.9673_16.5761,Soleluna,RESTAURANT,bar_cafe
-40.968090,16.577401,ov_bosco_di_quasano_40.9681_16.5774,Bosco Di Quasano,RESTAURANT,bar_cafe
-41.001022,16.679126,ov_loading_bar_pub_bistrot_41.0010_16.6791,Loading Bar Pub Bistrot,RESTAURANT,bar_cafe
-41.001990,16.684760,ov_zona_viva_quasano_41.0020_16.6848,Zona Viva Quasano,RESTAURANT,bar_cafe
-40.996444,16.678579,ov_cube_40.9964_16.6786,Cube,RESTAURANT,bar_cafe
-40.996003,16.683791,ov_bar_stazione_toritto_40.9960_16.6838,Bar Stazione Toritto,RESTAURANT,bar_cafe
-40.999392,16.681915,ov_friends_40.9994_16.6819,Friends,RESTAURANT,bar_cafe
-40.999721,16.681072,ov_rutigliano_olive_oil_40.9997_16.6811,Rutigliano Olive Oil,RESTAURANT,bar_cafe
-40.994792,16.676504,osm_mattiace_pasticceria_40.9948_16.6765,Mattiace pasticceria,bar_cafe,bar_cafe
+40.967287,16.576107,ov_soleluna_40.9673_16.5761,Soleluna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/soleluna_40.9673_16.5761.json,custom
+40.968090,16.577401,ov_bosco_di_quasano_40.9681_16.5774,Bosco Di Quasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/bosco_di_quasano_40.9681_16.5774.json,custom
+41.001022,16.679126,ov_loading_bar_pub_bistrot_41.0010_16.6791,Loading Bar Pub Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/loading_bar_pub_bistrot_41.0010_16.6791.json,custom
+41.001990,16.684760,ov_zona_viva_quasano_41.0020_16.6848,Zona Viva Quasano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/zona_viva_quasano_41.0020_16.6848.json,custom
+40.996444,16.678579,ov_cube_40.9964_16.6786,Cube,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/cube_40.9964_16.6786.json,custom
+40.996003,16.683791,ov_bar_stazione_toritto_40.9960_16.6838,Bar Stazione Toritto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/bar_stazione_toritto_40.9960_16.6838.json,custom
+40.999392,16.681915,ov_friends_40.9994_16.6819,Friends,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/friends_40.9994_16.6819.json,custom
+40.999721,16.681072,ov_rutigliano_olive_oil_40.9997_16.6811,Rutigliano Olive Oil,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/rutigliano_olive_oil_40.9997_16.6811.json,custom
+40.994792,16.676504,osm_mattiace_pasticceria_40.9948_16.6765,Mattiace pasticceria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/toritto/pages/mattiace_pasticceria_40.9948_16.6765.json,custom

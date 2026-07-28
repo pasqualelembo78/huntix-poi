@@ -1,13 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # scalea -- gyms
-39.814440,15.809844,ov_paintwar_scalea_39.8144_15.8098,Paintwar Scalea,GYM,palestra
-39.771336,15.815861,ov_circolo_ippico_la_bruca_39.7713_15.8159,Circolo Ippico La Bruca,GYM,palestra
-39.804131,15.798822,ov_impact_training_39.8041_15.7988,Impact Training,GYM,palestra
-39.803818,15.793336,ov_palestra_fitness_39.8038_15.7933,Palestra Fitness,GYM,palestra
-39.804982,15.794562,ov_asd_body_art_39.8050_15.7946,Asd Body Art,GYM,palestra
-39.791424,15.792160,ov_asd_made_in_sub_39.7914_15.7922,ASD Made In Sub,GYM,palestra
-39.814391,15.789370,ov_jampiland_a_scalea_39.8144_15.7894,Jampiland a Scalea,GYM,palestra
-39.811090,15.792078,ov_ferro_di_cavallo_39.8111_15.7921,Ferro di Cavallo,GYM,palestra
-39.810309,15.794450,ov_gymnasium_39.8103_15.7944,Gymnasium,GYM,palestra
-39.809089,15.794615,ov_sala_biliardi_la_fenice_39.8091_15.7946,Sala biliardi La FENICE,GYM,palestra
-39.826887,15.790622,ov_palestra_okinawa_scalea_39.8269_15.7906,Palestra Okinawa Scalea,GYM,palestra
+39.814440,15.809844,ov_paintwar_scalea_39.8144_15.8098,Paintwar Scalea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/paintwar_scalea_39.8144_15.8098.json,custom
+39.771336,15.815861,ov_circolo_ippico_la_bruca_39.7713_15.8159,Circolo Ippico La Bruca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/circolo_ippico_la_bruca_39.7713_15.8159.json,custom
+39.804131,15.798822,ov_impact_training_39.8041_15.7988,Impact Training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/impact_training_39.8041_15.7988.json,custom
+39.803818,15.793336,ov_palestra_fitness_39.8038_15.7933,Palestra Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/palestra_fitness_39.8038_15.7933.json,custom
+39.804982,15.794562,ov_asd_body_art_39.8050_15.7946,Asd Body Art,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/asd_body_art_39.8050_15.7946.json,custom
+39.791424,15.792160,ov_asd_made_in_sub_39.7914_15.7922,ASD Made In Sub,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/asd_made_in_sub_39.7914_15.7922.json,custom
+39.814391,15.789370,ov_jampiland_a_scalea_39.8144_15.7894,Jampiland a Scalea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/jampiland_a_scalea_39.8144_15.7894.json,custom
+39.811090,15.792078,ov_ferro_di_cavallo_39.8111_15.7921,Ferro di Cavallo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/ferro_di_cavallo_39.8111_15.7921.json,custom
+39.810309,15.794450,ov_gymnasium_39.8103_15.7944,Gymnasium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/gymnasium_39.8103_15.7944.json,custom
+39.809089,15.794615,ov_sala_biliardi_la_fenice_39.8091_15.7946,Sala biliardi La FENICE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/sala_biliardi_la_fenice_39.8091_15.7946.json,custom
+39.826887,15.790622,ov_palestra_okinawa_scalea_39.8269_15.7906,Palestra Okinawa Scalea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/palestra_okinawa_scalea_39.8269_15.7906.json,custom
+39.807527,15.799826,osm_adele_beauty_39.8075_15.7998,Adele Beauty,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/adele_beauty_39.8075_15.7998.json,custom

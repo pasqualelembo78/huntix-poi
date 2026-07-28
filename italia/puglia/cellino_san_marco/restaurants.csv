@@ -1,17 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cellino_san_marco -- restaurants
-40.471093,17.964567,osm_speedy_pizza_40.4711_17.9646,Speedy Pizza,ristorante,ristorante
-40.469031,17.960608,osm_che_pizza_da_luca_40.4690_17.9606,Che Pizza Da Luca,ristorante,ristorante
-40.471722,17.964631,osm_la_corte_dei_sapori_40.4717_17.9646,La Corte dei Sapori,ristorante,ristorante
-40.473805,17.970255,osm_la_tegola_40.4738_17.9703,La Tegola,ristorante,ristorante
-40.473920,17.970312,ov_pizzeria_la_tegola_40.4739_17.9703,Pizzeria La Tegola,RESTAURANT,ristorante
-40.474290,17.972490,ov_vini_gave_40.4743_17.9725,Vini gave,RESTAURANT,ristorante
-40.475815,17.963759,ov_ottagono_40.4758_17.9638,Ottagono,RESTAURANT,ristorante
-40.474880,17.963100,ov_prato_bistrot_40.4749_17.9631,Prato Bistrot,RESTAURANT,ristorante
-40.473040,17.967909,ov_dolce_terra_40.4730_17.9679,Dolce Terra,RESTAURANT,ristorante
-40.471680,17.965620,ov_ristorante_chiaro_di_luna_40.4717_17.9656,Ristorante Chiaro di Luna,RESTAURANT,ristorante
-40.471555,17.965216,ov_da_zio_gianni_40.4716_17.9652,Da Zio Gianni,RESTAURANT,ristorante
-40.471654,17.964566,ov_la_corte_dei_sapori_40.4717_17.9646,La corte dei sapori,RESTAURANT,ristorante
-40.472024,17.964146,ov_pizzeria_bistr__40.4720_17.9641,Pizzeria Bistrò,RESTAURANT,ristorante
-40.478201,17.928559,ov_ristorante_don_carmelo_40.4782_17.9286,Ristorante Don Carmelo,RESTAURANT,ristorante
-40.471151,17.966905,ov_cellino_san_marco_40.4712_17.9669,Cellino San Marco,RESTAURANT,ristorante
+40.473920,17.970312,ov_pizzeria_la_tegola_40.4739_17.9703,Pizzeria La Tegola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/pizzeria_la_tegola_40.4739_17.9703.json,custom
+40.474290,17.972490,ov_vini_gave_40.4743_17.9725,Vini gave,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/vini_gave_40.4743_17.9725.json,custom
+40.475815,17.963759,ov_ottagono_40.4758_17.9638,Ottagono,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/ottagono_40.4758_17.9638.json,custom
+40.474880,17.963100,ov_prato_bistrot_40.4749_17.9631,Prato Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/prato_bistrot_40.4749_17.9631.json,custom
+40.473040,17.967909,ov_dolce_terra_40.4730_17.9679,Dolce Terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/dolce_terra_40.4730_17.9679.json,custom
+40.471680,17.965620,ov_ristorante_chiaro_di_luna_40.4717_17.9656,Ristorante Chiaro di Luna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/ristorante_chiaro_di_luna_40.4717_17.9656.json,custom
+40.471555,17.965216,ov_da_zio_gianni_40.4716_17.9652,Da Zio Gianni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/da_zio_gianni_40.4716_17.9652.json,custom
+40.471654,17.964566,ov_la_corte_dei_sapori_40.4717_17.9646,La corte dei sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/la_corte_dei_sapori_40.4717_17.9646.json,custom
+40.472024,17.964146,ov_pizzeria_bistr__40.4720_17.9641,Pizzeria Bistrò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/pizzeria_bistr_40.4720_17.9641.json,custom
+40.478201,17.928559,ov_ristorante_don_carmelo_40.4782_17.9286,Ristorante Don Carmelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/ristorante_don_carmelo_40.4782_17.9286.json,custom
+40.471151,17.966905,ov_cellino_san_marco_40.4712_17.9669,Cellino San Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/cellino_san_marco_40.4712_17.9669.json,custom
+40.471093,17.964567,osm_speedy_pizza_40.4711_17.9646,Speedy Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/speedy_pizza_40.4711_17.9646.json,custom
+40.469031,17.960608,osm_che_pizza_da_luca_40.4690_17.9606,Che Pizza Da Luca,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/che_pizza_da_luca_40.4690_17.9606.json,custom
+40.473805,17.970255,osm_la_tegola_40.4738_17.9703,La Tegola,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/la_tegola_40.4738_17.9703.json,custom

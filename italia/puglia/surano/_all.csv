@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Surano -- Tutti
-40.025416,18.323214,ov_settimo_cielo_40.0254_18.3232,Settimo cielo,RESTAURANT,ristorante
-40.024544,18.323181,ov_ristorante_re_dei_re_40.0245_18.3232,Ristorante Re dei Re,RESTAURANT,ristorante
-40.032179,18.350724,ov_chiosco_todo_loco___surano_page_40.0322_18.3507,Chiosco Todo Loco - Surano Page,RESTAURANT,ristorante
-40.030420,18.349720,ov_brigros_40.0304_18.3497,Brigros,RESTAURANT,ristorante
-40.030430,18.349711,ov_terrapadula_40.0304_18.3497,Terrapadula,RESTAURANT,ristorante
-40.028489,18.344141,ov_pizzeria_d_asporto_40.0285_18.3441,Pizzeria D'Asporto,RESTAURANT,ristorante
-40.027328,18.345022,ov_trattoria_la_bersagliera_40.0273_18.3450,Trattoria La Bersagliera,RESTAURANT,ristorante
-40.026702,18.346701,ov_pizza_pazza_40.0267_18.3467,Pizza Pazza,RESTAURANT,ristorante
-40.028216,18.344231,ov_blend_bar_40.0282_18.3442,Blend Bar,RESTAURANT,bar_cafe
-40.026517,18.345340,ov_bar_kennedy_40.0265_18.3453,Bar Kennedy,RESTAURANT,bar_cafe
-40.012124,18.323690,ov_martinucci_laboratory_40.0121_18.3237,Martinucci Laboratory,RESTAURANT,bar_cafe
-40.029998,18.342544,ov_asd_alma_latina_studio_danza_40.0300_18.3425,Asd Alma Latina Studio Danza,GYM,palestra
+40.025416,18.323214,ov_settimo_cielo_40.0254_18.3232,Settimo cielo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/settimo_cielo_40.0254_18.3232.json,custom
+40.024544,18.323181,ov_ristorante_re_dei_re_40.0245_18.3232,Ristorante Re dei Re,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/ristorante_re_dei_re_40.0245_18.3232.json,custom
+40.032179,18.350724,ov_chiosco_todo_loco___surano_page_40.0322_18.3507,Chiosco Todo Loco - Surano Page,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/chiosco_todo_loco_-_surano_page_40.0322_18.3507.json,custom
+40.030420,18.349720,ov_brigros_40.0304_18.3497,Brigros,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/brigros_40.0304_18.3497.json,custom
+40.030430,18.349711,ov_terrapadula_40.0304_18.3497,Terrapadula,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/terrapadula_40.0304_18.3497.json,custom
+40.028489,18.344141,ov_pizzeria_d_asporto_40.0285_18.3441,Pizzeria D'Asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/pizzeria_dasporto_40.0285_18.3441.json,custom
+40.027328,18.345022,ov_trattoria_la_bersagliera_40.0273_18.3450,Trattoria La Bersagliera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/trattoria_la_bersagliera_40.0273_18.3450.json,custom
+40.026702,18.346701,ov_pizza_pazza_40.0267_18.3467,Pizza Pazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/pizza_pazza_40.0267_18.3467.json,custom
+40.028216,18.344231,ov_blend_bar_40.0282_18.3442,Blend Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/blend_bar_40.0282_18.3442.json,custom
+40.026517,18.345340,ov_bar_kennedy_40.0265_18.3453,Bar Kennedy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/bar_kennedy_40.0265_18.3453.json,custom
+40.012124,18.323690,ov_martinucci_laboratory_40.0121_18.3237,Martinucci Laboratory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/martinucci_laboratory_40.0121_18.3237.json,custom
+40.029998,18.342544,ov_asd_alma_latina_studio_danza_40.0300_18.3425,Asd Alma Latina Studio Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surano/pages/asd_alma_latina_studio_danza_40.0300_18.3425.json,custom

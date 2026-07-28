@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tarsia -- restaurants
-39.638529,16.258442,osm_agriturismo_rende_39.6385_16.2584,Agriturismo Rende,ristorante,ristorante
-39.578836,16.243095,ov_autogrill_tarsia_39.5788_16.2431,Autogrill Tarsia,RESTAURANT,ristorante
-39.578597,16.244191,ov_alborea_tarsia_est_39.5786_16.2442,Alborea Tarsia Est,RESTAURANT,ristorante
-39.613781,16.287528,ov_osteria_sul_lago_39.6138_16.2875,Osteria sul Lago,RESTAURANT,ristorante
-39.628859,16.227185,ov_autogrill_39.6289_16.2272,Autogrill,RESTAURANT,ristorante
-39.645801,16.241856,ov_euroristoro_srl_39.6458_16.2419,Euroristoro srl,RESTAURANT,ristorante
-39.651490,16.249000,ov_on_the_road___pizzeria___panineria_39.6515_16.2490,On The Road - Pizzeria - Panineria,RESTAURANT,ristorante
-39.627409,16.274904,ov_nino_s_garden_39.6274_16.2749,Nino's Garden,RESTAURANT,ristorante
-39.618331,16.272978,ov_rusticomania_l_angolo_39.6183_16.2730,Rusticomania L'angolo,RESTAURANT,ristorante
+39.578836,16.243095,ov_autogrill_tarsia_39.5788_16.2431,Autogrill Tarsia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/autogrill_tarsia_39.5788_16.2431.json,custom
+39.578597,16.244191,ov_alborea_tarsia_est_39.5786_16.2442,Alborea Tarsia Est,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/alborea_tarsia_est_39.5786_16.2442.json,custom
+39.613781,16.287528,ov_osteria_sul_lago_39.6138_16.2875,Osteria sul Lago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/osteria_sul_lago_39.6138_16.2875.json,custom
+39.628859,16.227185,ov_autogrill_39.6289_16.2272,Autogrill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/autogrill_39.6289_16.2272.json,custom
+39.645801,16.241856,ov_euroristoro_srl_39.6458_16.2419,Euroristoro srl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/euroristoro_srl_39.6458_16.2419.json,custom
+39.651490,16.249000,ov_on_the_road___pizzeria___panineria_39.6515_16.2490,On The Road - Pizzeria - Panineria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/on_the_road_-_pizzeria_-_panineria_39.6515_16.2490.json,custom
+39.627409,16.274904,ov_nino_s_garden_39.6274_16.2749,Nino's Garden,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/ninos_garden_39.6274_16.2749.json,custom
+39.618331,16.272978,ov_rusticomania_l_angolo_39.6183_16.2730,Rusticomania L'angolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/rusticomania_langolo_39.6183_16.2730.json,custom
+39.638529,16.258442,osm_agriturismo_rende_39.6385_16.2584,Agriturismo Rende,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tarsia/pages/agriturismo_rende_39.6385_16.2584.json,custom

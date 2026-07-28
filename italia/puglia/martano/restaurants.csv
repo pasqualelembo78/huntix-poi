@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # martano -- restaurants
-40.200378,18.298144,ov_paninhouse_40.2004_18.2981,Paninhouse,RESTAURANT,ristorante
-40.200747,18.301501,ov_la_lanterna_40.2007_18.3015,La Lanterna,RESTAURANT,ristorante
-40.201273,18.301716,ov_l_osteria_40.2013_18.3017,L'Osteria,RESTAURANT,ristorante
-40.202232,18.304472,ov_la_vera_tipica_40.2022_18.3045,La Vera Tipica,RESTAURANT,ristorante
-40.202272,18.301664,ov_biancodibianco_40.2023_18.3017,biancodibianco,RESTAURANT,ristorante
-40.201769,18.306718,ov_danisi_40.2018_18.3067,Danisi,RESTAURANT,ristorante
-40.201422,18.298072,ov_trattoria___griglieria_nonna_consiglia_40.2014_18.2981,Trattoria - Griglieria Nonna Consiglia,RESTAURANT,ristorante
-40.202420,18.298462,ov_la_sfoglia_di_carati_isabella_40.2024_18.2985,La Sfoglia Di Carati Isabella,RESTAURANT,ristorante
-40.202461,18.302110,ov_quinto_quarto_40.2025_18.3021,Quinto Quarto,RESTAURANT,ristorante
-40.202514,18.303288,ov_pizzeria_zio_camillo_40.2025_18.3033,Pizzeria Zio Camillo,RESTAURANT,ristorante
-40.202970,18.301462,ov_corte_micali_40.2030_18.3015,Corte Micali,RESTAURANT,ristorante
-40.203566,18.303428,ov_da_matteo_40.2036_18.3034,DA MATTEO,RESTAURANT,ristorante
-40.204477,18.306013,ov_masseria_malopra_40.2045_18.3060,Masseria Malopra,RESTAURANT,ristorante
-40.202625,18.310356,ov_levante_40.2026_18.3104,Levante,RESTAURANT,ristorante
-40.206577,18.302830,ov_osteria_opera_martano_40.2066_18.3028,Osteria Opera Martano,RESTAURANT,ristorante
-40.213401,18.311706,ov_ristorante_camp__40.2134_18.3117,Ristorante Campì,RESTAURANT,ristorante
-40.199860,18.312937,ov_ego_s_restaurant_40.1999_18.3129,Ego's Restaurant,RESTAURANT,ristorante
-40.199090,18.294370,ov_pit_stop_fast_food_martano_40.1991_18.2944,Pit Stop fast food Martano,RESTAURANT,ristorante
-40.198462,18.301912,ov_bizzo___pizza_e_dintorni_40.1985_18.3019,Bizzo - Pizza e Dintorni,RESTAURANT,ristorante
-40.197719,18.297970,ov_la_lanterna_40.1977_18.2980,La Lanterna,RESTAURANT,ristorante
-40.196525,18.305023,ov_armonia_del_sapore_40.1965_18.3050,Armonia del Sapore,RESTAURANT,ristorante
-40.230300,18.355777,ov_tenuta_kyrios_40.2303_18.3558,Tenuta Kyrios,RESTAURANT,ristorante
+40.200378,18.298144,ov_paninhouse_40.2004_18.2981,Paninhouse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/paninhouse_40.2004_18.2981.json,custom
+40.200747,18.301501,ov_la_lanterna_40.2007_18.3015,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_lanterna_40.2007_18.3015.json,custom
+40.201273,18.301716,ov_l_osteria_40.2013_18.3017,L'Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/losteria_40.2013_18.3017.json,custom
+40.202232,18.304472,ov_la_vera_tipica_40.2022_18.3045,La Vera Tipica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_vera_tipica_40.2022_18.3045.json,custom
+40.202272,18.301664,ov_biancodibianco_40.2023_18.3017,biancodibianco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/biancodibianco_40.2023_18.3017.json,custom
+40.201769,18.306718,ov_danisi_40.2018_18.3067,Danisi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/danisi_40.2018_18.3067.json,custom
+40.201422,18.298072,ov_trattoria___griglieria_nonna_consiglia_40.2014_18.2981,Trattoria - Griglieria Nonna Consiglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/trattoria_-_griglieria_nonna_consiglia_40.2014_18.2981.json,custom
+40.202420,18.298462,ov_la_sfoglia_di_carati_isabella_40.2024_18.2985,La Sfoglia Di Carati Isabella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_sfoglia_di_carati_isabella_40.2024_18.2985.json,custom
+40.202461,18.302110,ov_quinto_quarto_40.2025_18.3021,Quinto Quarto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/quinto_quarto_40.2025_18.3021.json,custom
+40.202514,18.303288,ov_pizzeria_zio_camillo_40.2025_18.3033,Pizzeria Zio Camillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/pizzeria_zio_camillo_40.2025_18.3033.json,custom
+40.202970,18.301462,ov_corte_micali_40.2030_18.3015,Corte Micali,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/corte_micali_40.2030_18.3015.json,custom
+40.203566,18.303428,ov_da_matteo_40.2036_18.3034,DA MATTEO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/da_matteo_40.2036_18.3034.json,custom
+40.204477,18.306013,ov_masseria_malopra_40.2045_18.3060,Masseria Malopra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/masseria_malopra_40.2045_18.3060.json,custom
+40.202625,18.310356,ov_levante_40.2026_18.3104,Levante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/levante_40.2026_18.3104.json,custom
+40.206577,18.302830,ov_osteria_opera_martano_40.2066_18.3028,Osteria Opera Martano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/osteria_opera_martano_40.2066_18.3028.json,custom
+40.213401,18.311706,ov_ristorante_camp__40.2134_18.3117,Ristorante Campì,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/ristorante_camp_40.2134_18.3117.json,custom
+40.199860,18.312937,ov_ego_s_restaurant_40.1999_18.3129,Ego's Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/egos_restaurant_40.1999_18.3129.json,custom
+40.199090,18.294370,ov_pit_stop_fast_food_martano_40.1991_18.2944,Pit Stop fast food Martano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/pit_stop_fast_food_martano_40.1991_18.2944.json,custom
+40.198462,18.301912,ov_bizzo___pizza_e_dintorni_40.1985_18.3019,Bizzo - Pizza e Dintorni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/bizzo_-_pizza_e_dintorni_40.1985_18.3019.json,custom
+40.197719,18.297970,ov_la_lanterna_40.1977_18.2980,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/la_lanterna_40.1977_18.2980.json,custom
+40.196525,18.305023,ov_armonia_del_sapore_40.1965_18.3050,Armonia del Sapore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/armonia_del_sapore_40.1965_18.3050.json,custom
+40.230300,18.355777,ov_tenuta_kyrios_40.2303_18.3558,Tenuta Kyrios,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martano/pages/tenuta_kyrios_40.2303_18.3558.json,custom

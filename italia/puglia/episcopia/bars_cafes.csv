@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # episcopia -- bars_cafes
-40.073030,16.097500,ov_pinta_bar_40.0730_16.0975,Pinta Bar,RESTAURANT,bar_cafe
-40.073030,16.097500,ov_la_maison_du_caf__episcopia_40.0730_16.0975,La maison du Cafè Episcopia,RESTAURANT,bar_cafe
-40.072639,16.098497,ov_la_cantina_del_tartufo_40.0726_16.0985,La Cantina Del Tartufo,RESTAURANT,bar_cafe
-40.072801,16.098451,ov_danasone67_40.0728_16.0985,Danasone67,RESTAURANT,bar_cafe
+40.073030,16.097500,ov_pinta_bar_40.0730_16.0975,Pinta Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/episcopia/pages/pinta_bar_40.0730_16.0975.json,custom
+40.073030,16.097500,ov_la_maison_du_caf__episcopia_40.0730_16.0975,La maison du Cafè Episcopia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/episcopia/pages/la_maison_du_caf_episcopia_40.0730_16.0975.json,custom
+40.072639,16.098497,ov_la_cantina_del_tartufo_40.0726_16.0985,La Cantina Del Tartufo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/episcopia/pages/la_cantina_del_tartufo_40.0726_16.0985.json,custom
+40.072801,16.098451,ov_danasone67_40.0728_16.0985,Danasone67,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/episcopia/pages/danasone67_40.0728_16.0985.json,custom

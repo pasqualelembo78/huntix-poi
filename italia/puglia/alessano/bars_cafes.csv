@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alessano -- bars_cafes
-39.887824,18.332498,ov_bar_italia_39.8878_18.3325,Bar Italia,RESTAURANT,bar_cafe
-39.891868,18.330435,ov_portanova_39.8919_18.3304,Portanova,RESTAURANT,bar_cafe
-39.893217,18.334221,ov_bar_e_tabacchi_39.8932_18.3342,Bar e Tabacchi,RESTAURANT,bar_cafe
-39.889116,18.331585,ov_la_villa_39.8891_18.3316,La Villa,RESTAURANT,bar_cafe
-39.889486,18.331440,ov_caffe_del_centro_39.8895_18.3314,Caffe Del Centro,RESTAURANT,bar_cafe
-39.889520,18.329790,ov_enoteca_le_vigne_del_salento_39.8895_18.3298,Enoteca Le vigne del Salento,RESTAURANT,bar_cafe
-39.889732,18.329596,ov_poster_gola_39.8897_18.3296,Poster Gola,RESTAURANT,bar_cafe
-39.889732,18.330949,ov_caffetteria_dell_orologio_39.8897_18.3309,Caffetteria dell'orologio,RESTAURANT,bar_cafe
-39.889961,18.331016,ov_gusto_divino_39.8900_18.3310,Gusto Divino,RESTAURANT,bar_cafe
-39.889924,18.331047,ov_break_39.8899_18.3310,Break,RESTAURANT,bar_cafe
-39.876172,18.339902,ov_moncafe_39.8762_18.3399,MonCafe,RESTAURANT,bar_cafe
-39.860792,18.392677,ov_chiosco_punta_rossa_39.8608_18.3927,Chiosco Punta Rossa,RESTAURANT,bar_cafe
-39.916535,18.326978,ov_q8_di_ratano_marco_39.9165_18.3270,Q8 di Ratano Marco,RESTAURANT,bar_cafe
-39.893249,18.334387,osm_bar_al_puntogiusto_39.8932_18.3344,BAR al Puntogiusto,bar_cafe,bar_cafe
+39.887824,18.332498,ov_bar_italia_39.8878_18.3325,Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/bar_italia_39.8878_18.3325.json,custom
+39.891868,18.330435,ov_portanova_39.8919_18.3304,Portanova,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/portanova_39.8919_18.3304.json,custom
+39.893217,18.334221,ov_bar_e_tabacchi_39.8932_18.3342,Bar e Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/bar_e_tabacchi_39.8932_18.3342.json,custom
+39.889116,18.331585,ov_la_villa_39.8891_18.3316,La Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/la_villa_39.8891_18.3316.json,custom
+39.889486,18.331440,ov_caffe_del_centro_39.8895_18.3314,Caffe Del Centro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/caffe_del_centro_39.8895_18.3314.json,custom
+39.889520,18.329790,ov_enoteca_le_vigne_del_salento_39.8895_18.3298,Enoteca Le vigne del Salento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/enoteca_le_vigne_del_salento_39.8895_18.3298.json,custom
+39.889732,18.329596,ov_poster_gola_39.8897_18.3296,Poster Gola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/poster_gola_39.8897_18.3296.json,custom
+39.889732,18.330949,ov_caffetteria_dell_orologio_39.8897_18.3309,Caffetteria dell'orologio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/caffetteria_dellorologio_39.8897_18.3309.json,custom
+39.889961,18.331016,ov_gusto_divino_39.8900_18.3310,Gusto Divino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/gusto_divino_39.8900_18.3310.json,custom
+39.889924,18.331047,ov_break_39.8899_18.3310,Break,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/break_39.8899_18.3310.json,custom
+39.876172,18.339902,ov_moncafe_39.8762_18.3399,MonCafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/moncafe_39.8762_18.3399.json,custom
+39.860792,18.392677,ov_chiosco_punta_rossa_39.8608_18.3927,Chiosco Punta Rossa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/chiosco_punta_rossa_39.8608_18.3927.json,custom
+39.916535,18.326978,ov_q8_di_ratano_marco_39.9165_18.3270,Q8 di Ratano Marco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/q8_di_ratano_marco_39.9165_18.3270.json,custom
+39.893249,18.334387,osm_bar_al_puntogiusto_39.8932_18.3344,BAR al Puntogiusto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alessano/pages/bar_al_puntogiusto_39.8932_18.3344.json,custom

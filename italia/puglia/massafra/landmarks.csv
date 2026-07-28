@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # massafra -- landmarks
-40.589266,17.110281,ov_frantoio_notaristefano_40.5893_17.1103,Frantoio Notaristefano,MUSEUM,monumento
-40.588334,17.112631,ov_palazzo_della_cultura_40.5883_17.1126,Palazzo della Cultura,MUSEUM,monumento
+40.589266,17.110281,ov_frantoio_notaristefano_40.5893_17.1103,Frantoio Notaristefano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/frantoio_notaristefano_40.5893_17.1103.json,custom
+40.588334,17.112631,ov_palazzo_della_cultura_40.5883_17.1126,Palazzo della Cultura,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/massafra/pages/palazzo_della_cultura_40.5883_17.1126.json,custom

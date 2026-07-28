@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rotondella -- restaurants
-40.170900,16.523906,ov_pizzeria_al_casone_40.1709_16.5239,Pizzeria Al Casone,RESTAURANT,ristorante
-40.173370,16.519779,ov_la_mortella_agriturismo_40.1734_16.5198,La Mortella Agriturismo,RESTAURANT,ristorante
-40.172930,16.524027,ov_locanda_pane_e_lavoro_40.1729_16.5240,Locanda Pane e Lavoro,RESTAURANT,ristorante
-40.171588,16.527890,ov_trattoria_le_lamie_40.1716_16.5279,Trattoria Le Lamie,RESTAURANT,ristorante
-40.172213,16.525945,ov_la_mangiatoia_40.1722_16.5259,La Mangiatoia,RESTAURANT,ristorante
-40.157361,16.621203,ov_agriturismo_il_pago_40.1574_16.6212,Agriturismo Il Pago,RESTAURANT,ristorante
-40.179344,16.582904,ov_terra_mea_40.1793_16.5829,Terra Mea,RESTAURANT,ristorante
+40.170900,16.523906,ov_pizzeria_al_casone_40.1709_16.5239,Pizzeria Al Casone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/pizzeria_al_casone_40.1709_16.5239.json,custom
+40.173370,16.519779,ov_la_mortella_agriturismo_40.1734_16.5198,La Mortella Agriturismo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/la_mortella_agriturismo_40.1734_16.5198.json,custom
+40.172930,16.524027,ov_locanda_pane_e_lavoro_40.1729_16.5240,Locanda Pane e Lavoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/locanda_pane_e_lavoro_40.1729_16.5240.json,custom
+40.171588,16.527890,ov_trattoria_le_lamie_40.1716_16.5279,Trattoria Le Lamie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/trattoria_le_lamie_40.1716_16.5279.json,custom
+40.172213,16.525945,ov_la_mangiatoia_40.1722_16.5259,La Mangiatoia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/la_mangiatoia_40.1722_16.5259.json,custom
+40.157361,16.621203,ov_agriturismo_il_pago_40.1574_16.6212,Agriturismo Il Pago,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/agriturismo_il_pago_40.1574_16.6212.json,custom
+40.179344,16.582904,ov_terra_mea_40.1793_16.5829,Terra Mea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rotondella/pages/terra_mea_40.1793_16.5829.json,custom

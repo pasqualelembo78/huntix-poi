@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # troia -- gyms
-41.397011,15.335258,ov_pirrosport_asd_41.3970_15.3353,Pirrosport ASD,GYM,palestra
-41.368071,15.342339,ov_stile_di_vita_asd_41.3681_15.3423,Stile di Vita asd,GYM,palestra
-41.369638,15.322165,ov_palazzetto_dello_sport_41.3696_15.3222,Palazzetto dello Sport,GYM,palestra
-41.360035,15.304858,ov_palestra_queen_gym_41.3600_15.3049,Palestra QUEEN GYM,GYM,palestra
+41.397011,15.335258,ov_pirrosport_asd_41.3970_15.3353,Pirrosport ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/pirrosport_asd_41.3970_15.3353.json,custom
+41.368071,15.342339,ov_stile_di_vita_asd_41.3681_15.3423,Stile di Vita asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/stile_di_vita_asd_41.3681_15.3423.json,custom
+41.369638,15.322165,ov_palazzetto_dello_sport_41.3696_15.3222,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/palazzetto_dello_sport_41.3696_15.3222.json,custom
+41.360035,15.304858,ov_palestra_queen_gym_41.3600_15.3049,Palestra QUEEN GYM,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/palestra_queen_gym_41.3600_15.3049.json,custom

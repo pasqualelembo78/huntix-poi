@@ -1,46 +1,46 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # alberobello -- bars_cafes
-40.766353,17.236095,ov_bar_bosco_selva_40.7664_17.2361,Bar Bosco Selva,RESTAURANT,bar_cafe
-40.779855,17.231713,ov_hasu_caf__40.7799_17.2317,hasu cafè,RESTAURANT,bar_cafe
-40.781642,17.236318,ov_bar_rione_monti_40.7816_17.2363,Bar Rione Monti,RESTAURANT,bar_cafe
-40.781505,17.236149,ov_bar_enoteca_a_casedd_40.7815_17.2361,Bar Enoteca a Casedd,RESTAURANT,bar_cafe
-40.781549,17.236322,ov_trulli_e_puglia_wine_bar_40.7815_17.2363,Trulli e Puglia Wine Bar,RESTAURANT,bar_cafe
-40.781766,17.236718,ov_bar_il_trulletto_40.7818_17.2367,Bar Il Trulletto,RESTAURANT,bar_cafe
-40.781825,17.236716,ov_martinucci_laboratory_40.7818_17.2367,Martinucci Laboratory,RESTAURANT,bar_cafe
-40.781804,17.236957,ov_malart_40.7818_17.2370,Malart,RESTAURANT,bar_cafe
-40.780826,17.242047,ov_mivida_cafe_40.7808_17.2420,Mivida Cafe,RESTAURANT,bar_cafe
-40.783023,17.236840,ov_clara_petra_40.7830_17.2368,Clara Petra,RESTAURANT,bar_cafe
-40.782895,17.237653,ov_bagia__alberobello_40.7829_17.2377,Bagia' Alberobello,RESTAURANT,bar_cafe
-40.782900,17.237494,ov_atelier_spiralis_40.7829_17.2375,Atelier Spiralis,RESTAURANT,bar_cafe
-40.782799,17.238019,ov_paco_wines_40.7828_17.2380,Paco Wines,RESTAURANT,bar_cafe
-40.782126,17.237169,ov_enoteca_tholos_40.7821_17.2372,Enoteca tholos,RESTAURANT,bar_cafe
-40.783444,17.235433,ov_republic_19_40.7834_17.2354,Republic 19,RESTAURANT,bar_cafe
-40.783440,17.236476,ov_l_altro_caff__40.7834_17.2365,L'Altro Caffè,RESTAURANT,bar_cafe
-40.783928,17.238290,ov_dolce_arte_cafe_40.7839_17.2383,Dolce Arte Cafe,RESTAURANT,bar_cafe
-40.783885,17.237109,ov_cico_il_bacaro_40.7839_17.2371,Cico il Bacaro,RESTAURANT,bar_cafe
-40.784167,17.237321,ov_caffe_blanco_40.7842_17.2373,Caffe Blanco,RESTAURANT,bar_cafe
-40.785871,17.236211,ov_gmatic24_40.7859_17.2362,Gmatic24,RESTAURANT,bar_cafe
-40.785775,17.236427,ov_central_bar_40.7858_17.2364,Central Bar,RESTAURANT,bar_cafe
-40.785140,17.238537,ov_88_gradi_caffe_e_gusto_40.7851_17.2385,88 GRADI Caffe e Gusto,RESTAURANT,bar_cafe
-40.785573,17.240086,ov_senso_unico_40.7856_17.2401,Senso Unico,RESTAURANT,bar_cafe
-40.784513,17.239040,ov_bevessere_beerkitchen_40.7845_17.2390,Bevessere Beerkitchen,RESTAURANT,bar_cafe
-40.784222,17.238881,ov_espressotherapy_40.7842_17.2389,EspressoTherapy,RESTAURANT,bar_cafe
-40.781304,17.244333,ov_pasticceria_gambrinus_40.7813_17.2443,Pasticceria Gambrinus,RESTAURANT,bar_cafe
-40.786974,17.240998,ov_agip_caf__40.7870_17.2410,Agip Café,RESTAURANT,bar_cafe
-40.786573,17.242099,ov_drink_time_caff__40.7866_17.2421,Drink Time Caffè,RESTAURANT,bar_cafe
-40.786476,17.241655,ov_pasticceria_caffetteria_black_and_white_40.7865_17.2417,Pasticceria Caffetteria Black and White,RESTAURANT,bar_cafe
-40.786445,17.241561,ov_black_and_white_40.7864_17.2416,Black and White,RESTAURANT,bar_cafe
-40.786421,17.240959,ov_polignano_a_mare_40.7864_17.2410,Polignano a mare,RESTAURANT,bar_cafe
-40.786416,17.239826,ov_bar_paninoteca_drink_time_40.7864_17.2398,Bar Paninoteca Drink Time,RESTAURANT,bar_cafe
-40.787301,17.239322,ov_pub_crash_40.7873_17.2393,Pub Crash,RESTAURANT,bar_cafe
-40.786070,17.237742,ov_il_galeone_di_carta_40.7861_17.2377,Il Galeone di Carta,RESTAURANT,bar_cafe
-40.787367,17.235146,ov_bar_dulcis_40.7874_17.2351,Bar Dulcis,RESTAURANT,bar_cafe
-40.789318,17.236403,ov_hashtag_cafe_40.7893_17.2364,Hashtag Cafe,RESTAURANT,bar_cafe
-40.788859,17.241688,ov_falcaffe_40.7889_17.2417,Falcaffe,RESTAURANT,bar_cafe
-40.787507,17.231617,ov_meryang_cafe_40.7875_17.2316,Meryang cafe,RESTAURANT,bar_cafe
-40.784049,17.232441,ov_chimera_40.7840_17.2324,Chimera,RESTAURANT,bar_cafe
-40.795450,17.231238,ov_torre_cafe__capitolo_monopoli_40.7954_17.2312,Torre Cafe' Capitolo-Monopoli,RESTAURANT,bar_cafe
-40.805694,17.264682,ov_interno_98_40.8057_17.2647,Interno 98,RESTAURANT,bar_cafe
-40.783300,17.266700,ov_eni_castellana__bar_24h_40.7833_17.2667,Eni castellana. bar 24h,RESTAURANT,bar_cafe
-40.787376,17.235123,osm_dulcis_40.7874_17.2351,Dulcis,bar_cafe,bar_cafe
-40.783835,17.237119,osm_cico_40.7838_17.2371,Cico,bar_cafe,bar_cafe
+40.766353,17.236095,ov_bar_bosco_selva_40.7664_17.2361,Bar Bosco Selva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_bosco_selva_40.7664_17.2361.json,custom
+40.779855,17.231713,ov_hasu_caf__40.7799_17.2317,hasu cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/hasu_caf_40.7799_17.2317.json,custom
+40.781642,17.236318,ov_bar_rione_monti_40.7816_17.2363,Bar Rione Monti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_rione_monti_40.7816_17.2363.json,custom
+40.781505,17.236149,ov_bar_enoteca_a_casedd_40.7815_17.2361,Bar Enoteca a Casedd,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_enoteca_a_casedd_40.7815_17.2361.json,custom
+40.781549,17.236322,ov_trulli_e_puglia_wine_bar_40.7815_17.2363,Trulli e Puglia Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/trulli_e_puglia_wine_bar_40.7815_17.2363.json,custom
+40.781766,17.236718,ov_bar_il_trulletto_40.7818_17.2367,Bar Il Trulletto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_il_trulletto_40.7818_17.2367.json,custom
+40.781825,17.236716,ov_martinucci_laboratory_40.7818_17.2367,Martinucci Laboratory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/martinucci_laboratory_40.7818_17.2367.json,custom
+40.781804,17.236957,ov_malart_40.7818_17.2370,Malart,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/malart_40.7818_17.2370.json,custom
+40.780826,17.242047,ov_mivida_cafe_40.7808_17.2420,Mivida Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/mivida_cafe_40.7808_17.2420.json,custom
+40.783023,17.236840,ov_clara_petra_40.7830_17.2368,Clara Petra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/clara_petra_40.7830_17.2368.json,custom
+40.782895,17.237653,ov_bagia__alberobello_40.7829_17.2377,Bagia' Alberobello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bagia_alberobello_40.7829_17.2377.json,custom
+40.782900,17.237494,ov_atelier_spiralis_40.7829_17.2375,Atelier Spiralis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/atelier_spiralis_40.7829_17.2375.json,custom
+40.782799,17.238019,ov_paco_wines_40.7828_17.2380,Paco Wines,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/paco_wines_40.7828_17.2380.json,custom
+40.782126,17.237169,ov_enoteca_tholos_40.7821_17.2372,Enoteca tholos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/enoteca_tholos_40.7821_17.2372.json,custom
+40.783444,17.235433,ov_republic_19_40.7834_17.2354,Republic 19,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/republic_19_40.7834_17.2354.json,custom
+40.783440,17.236476,ov_l_altro_caff__40.7834_17.2365,L'Altro Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/laltro_caff_40.7834_17.2365.json,custom
+40.783928,17.238290,ov_dolce_arte_cafe_40.7839_17.2383,Dolce Arte Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/dolce_arte_cafe_40.7839_17.2383.json,custom
+40.783885,17.237109,ov_cico_il_bacaro_40.7839_17.2371,Cico il Bacaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/cico_il_bacaro_40.7839_17.2371.json,custom
+40.784167,17.237321,ov_caffe_blanco_40.7842_17.2373,Caffe Blanco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/caffe_blanco_40.7842_17.2373.json,custom
+40.785871,17.236211,ov_gmatic24_40.7859_17.2362,Gmatic24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/gmatic24_40.7859_17.2362.json,custom
+40.785775,17.236427,ov_central_bar_40.7858_17.2364,Central Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/central_bar_40.7858_17.2364.json,custom
+40.785140,17.238537,ov_88_gradi_caffe_e_gusto_40.7851_17.2385,88 GRADI Caffe e Gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/88_gradi_caffe_e_gusto_40.7851_17.2385.json,custom
+40.785573,17.240086,ov_senso_unico_40.7856_17.2401,Senso Unico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/senso_unico_40.7856_17.2401.json,custom
+40.784513,17.239040,ov_bevessere_beerkitchen_40.7845_17.2390,Bevessere Beerkitchen,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bevessere_beerkitchen_40.7845_17.2390.json,custom
+40.784222,17.238881,ov_espressotherapy_40.7842_17.2389,EspressoTherapy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/espressotherapy_40.7842_17.2389.json,custom
+40.781304,17.244333,ov_pasticceria_gambrinus_40.7813_17.2443,Pasticceria Gambrinus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pasticceria_gambrinus_40.7813_17.2443.json,custom
+40.786974,17.240998,ov_agip_caf__40.7870_17.2410,Agip Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/agip_caf_40.7870_17.2410.json,custom
+40.786573,17.242099,ov_drink_time_caff__40.7866_17.2421,Drink Time Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/drink_time_caff_40.7866_17.2421.json,custom
+40.786476,17.241655,ov_pasticceria_caffetteria_black_and_white_40.7865_17.2417,Pasticceria Caffetteria Black and White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pasticceria_caffetteria_black_and_white_40.7865_17.2417.json,custom
+40.786445,17.241561,ov_black_and_white_40.7864_17.2416,Black and White,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/black_and_white_40.7864_17.2416.json,custom
+40.786421,17.240959,ov_polignano_a_mare_40.7864_17.2410,Polignano a mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/polignano_a_mare_40.7864_17.2410.json,custom
+40.786416,17.239826,ov_bar_paninoteca_drink_time_40.7864_17.2398,Bar Paninoteca Drink Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_paninoteca_drink_time_40.7864_17.2398.json,custom
+40.787301,17.239322,ov_pub_crash_40.7873_17.2393,Pub Crash,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/pub_crash_40.7873_17.2393.json,custom
+40.786070,17.237742,ov_il_galeone_di_carta_40.7861_17.2377,Il Galeone di Carta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/il_galeone_di_carta_40.7861_17.2377.json,custom
+40.787367,17.235146,ov_bar_dulcis_40.7874_17.2351,Bar Dulcis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/bar_dulcis_40.7874_17.2351.json,custom
+40.789318,17.236403,ov_hashtag_cafe_40.7893_17.2364,Hashtag Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/hashtag_cafe_40.7893_17.2364.json,custom
+40.788859,17.241688,ov_falcaffe_40.7889_17.2417,Falcaffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/falcaffe_40.7889_17.2417.json,custom
+40.787507,17.231617,ov_meryang_cafe_40.7875_17.2316,Meryang cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/meryang_cafe_40.7875_17.2316.json,custom
+40.784049,17.232441,ov_chimera_40.7840_17.2324,Chimera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/chimera_40.7840_17.2324.json,custom
+40.795450,17.231238,ov_torre_cafe__capitolo_monopoli_40.7954_17.2312,Torre Cafe' Capitolo-Monopoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/torre_cafe_capitolo-monopoli_40.7954_17.2312.json,custom
+40.805694,17.264682,ov_interno_98_40.8057_17.2647,Interno 98,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/interno_98_40.8057_17.2647.json,custom
+40.783300,17.266700,ov_eni_castellana__bar_24h_40.7833_17.2667,Eni castellana. bar 24h,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/eni_castellana_bar_24h_40.7833_17.2667.json,custom
+40.787376,17.235123,osm_dulcis_40.7874_17.2351,Dulcis,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/dulcis_40.7874_17.2351.json,custom
+40.783835,17.237119,osm_cico_40.7838_17.2371,Cico,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/alberobello/pages/cico_40.7838_17.2371.json,custom

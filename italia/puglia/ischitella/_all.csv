@@ -1,28 +1,28 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Ischitella -- Tutti
-41.898781,15.869713,ov_masseria_procacci_41.8988_15.8697,Masseria Procacci,RESTAURANT,ristorante
-41.891764,15.871734,ov_agriturismo_la_valletta_41.8918_15.8717,Agriturismo La Valletta,RESTAURANT,ristorante
-41.919625,15.799401,ov_ristorante_le_terrazze_41.9196_15.7994,Ristorante Le Terrazze,RESTAURANT,ristorante
-41.920113,15.796885,ov_golden_beach_41.9201_15.7969,Golden BEACH,RESTAURANT,ristorante
-41.918048,15.798177,ov_ristorante_le_due_ancore_41.9180_15.7982,Ristorante Le Due Ancore,RESTAURANT,ristorante
-41.919082,15.798418,ov_by_cosimillo_41.9191_15.7984,By Cosimillo,RESTAURANT,ristorante
-41.919475,15.800086,ov_i_sapori_del_mare_41.9195_15.8001,I sapori del mare,RESTAURANT,ristorante
-41.913715,15.753633,ov_ristorante_da_piero_41.9137_15.7536,Ristorante da Piero,RESTAURANT,ristorante
-41.914797,15.767355,ov_mim__e_coc__41.9148_15.7674,Mimì e Cocò,RESTAURANT,ristorante
-41.905554,15.894840,ov_sapor_divino_41.9056_15.8948,Sapor DiVino,RESTAURANT,ristorante
-41.904948,15.896175,ov_pinocchio_41.9049_15.8962,Pinocchio,RESTAURANT,ristorante
-41.904322,15.897345,ov_pizzeria_food_wine___drink_da_triglione_41.9043_15.8973,Pizzeria food wine & drink da triglione,RESTAURANT,ristorante
-41.905462,15.899158,ov_parco_del_sole_di_cataneo_gianfranco_41.9055_15.8992,Parco Del Sole di Cataneo Gianfranco,RESTAURANT,ristorante
-41.905070,15.901680,ov_damipizza_41.9051_15.9017,DamiPizza,RESTAURANT,ristorante
-41.905155,15.901846,ov_sapori_del_gargano_41.9052_15.9018,Sapori del Gargano,RESTAURANT,ristorante
-41.904563,15.899639,ov_agriturismo_dal_piccolo_principe_41.9046_15.8996,Agriturismo dal Piccolo Principe,RESTAURANT,ristorante
-41.905150,15.899639,ov_il_nuovo_grottino_41.9052_15.8996,Il Nuovo Grottino,RESTAURANT,ristorante
-41.921829,15.817251,ov_la_guardiola_41.9218_15.8173,La Guardiola,RESTAURANT,bar_cafe
-41.919134,15.798866,ov_bar_sant_antonio_41.9191_15.7989,Bar Sant'Antonio,RESTAURANT,bar_cafe
-41.904888,15.896795,ov_meraviglia_41.9049_15.8968,Meraviglia,RESTAURANT,bar_cafe
-41.904375,15.897434,ov_bar_centrale_41.9044_15.8974,Bar Centrale,RESTAURANT,bar_cafe
-41.904468,15.897524,ov_mente_locale_pub_41.9045_15.8975,Mente Locale Pub,RESTAURANT,bar_cafe
-41.904370,15.898140,ov_bar_ylfra_41.9044_15.8981,Bar Ylfra,RESTAURANT,bar_cafe
-41.903364,15.899904,ov_bar_da_nicola_41.9034_15.8999,Bar da nicola,RESTAURANT,bar_cafe
-41.903579,15.902371,ov_palextra_gymnasium_41.9036_15.9024,PaleXtra Gymnasium,GYM,palestra
-41.906190,15.899150,ov_wellness___dance_studios_asd_41.9062_15.8992,Wellness & Dance Studios asd,GYM,palestra
+41.898781,15.869713,ov_masseria_procacci_41.8988_15.8697,Masseria Procacci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/masseria_procacci_41.8988_15.8697.json,custom
+41.891764,15.871734,ov_agriturismo_la_valletta_41.8918_15.8717,Agriturismo La Valletta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/agriturismo_la_valletta_41.8918_15.8717.json,custom
+41.919625,15.799401,ov_ristorante_le_terrazze_41.9196_15.7994,Ristorante Le Terrazze,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/ristorante_le_terrazze_41.9196_15.7994.json,custom
+41.920113,15.796885,ov_golden_beach_41.9201_15.7969,Golden BEACH,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/golden_beach_41.9201_15.7969.json,custom
+41.918048,15.798177,ov_ristorante_le_due_ancore_41.9180_15.7982,Ristorante Le Due Ancore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/ristorante_le_due_ancore_41.9180_15.7982.json,custom
+41.919082,15.798418,ov_by_cosimillo_41.9191_15.7984,By Cosimillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/by_cosimillo_41.9191_15.7984.json,custom
+41.919475,15.800086,ov_i_sapori_del_mare_41.9195_15.8001,I sapori del mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/i_sapori_del_mare_41.9195_15.8001.json,custom
+41.913715,15.753633,ov_ristorante_da_piero_41.9137_15.7536,Ristorante da Piero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/ristorante_da_piero_41.9137_15.7536.json,custom
+41.914797,15.767355,ov_mim__e_coc__41.9148_15.7674,Mimì e Cocò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/mim_e_coc_41.9148_15.7674.json,custom
+41.905554,15.894840,ov_sapor_divino_41.9056_15.8948,Sapor DiVino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/sapor_divino_41.9056_15.8948.json,custom
+41.904948,15.896175,ov_pinocchio_41.9049_15.8962,Pinocchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/pinocchio_41.9049_15.8962.json,custom
+41.904322,15.897345,ov_pizzeria_food_wine___drink_da_triglione_41.9043_15.8973,Pizzeria food wine & drink da triglione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/pizzeria_food_wine_drink_da_triglione_41.9043_15.8973.json,custom
+41.905462,15.899158,ov_parco_del_sole_di_cataneo_gianfranco_41.9055_15.8992,Parco Del Sole di Cataneo Gianfranco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/parco_del_sole_di_cataneo_gianfranco_41.9055_15.8992.json,custom
+41.905070,15.901680,ov_damipizza_41.9051_15.9017,DamiPizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/damipizza_41.9051_15.9017.json,custom
+41.905155,15.901846,ov_sapori_del_gargano_41.9052_15.9018,Sapori del Gargano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/sapori_del_gargano_41.9052_15.9018.json,custom
+41.904563,15.899639,ov_agriturismo_dal_piccolo_principe_41.9046_15.8996,Agriturismo dal Piccolo Principe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/agriturismo_dal_piccolo_principe_41.9046_15.8996.json,custom
+41.905150,15.899639,ov_il_nuovo_grottino_41.9052_15.8996,Il Nuovo Grottino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/il_nuovo_grottino_41.9052_15.8996.json,custom
+41.921829,15.817251,ov_la_guardiola_41.9218_15.8173,La Guardiola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/la_guardiola_41.9218_15.8173.json,custom
+41.919134,15.798866,ov_bar_sant_antonio_41.9191_15.7989,Bar Sant'Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/bar_santantonio_41.9191_15.7989.json,custom
+41.904888,15.896795,ov_meraviglia_41.9049_15.8968,Meraviglia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/meraviglia_41.9049_15.8968.json,custom
+41.904375,15.897434,ov_bar_centrale_41.9044_15.8974,Bar Centrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/bar_centrale_41.9044_15.8974.json,custom
+41.904468,15.897524,ov_mente_locale_pub_41.9045_15.8975,Mente Locale Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/mente_locale_pub_41.9045_15.8975.json,custom
+41.904370,15.898140,ov_bar_ylfra_41.9044_15.8981,Bar Ylfra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/bar_ylfra_41.9044_15.8981.json,custom
+41.903364,15.899904,ov_bar_da_nicola_41.9034_15.8999,Bar da nicola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/bar_da_nicola_41.9034_15.8999.json,custom
+41.903579,15.902371,ov_palextra_gymnasium_41.9036_15.9024,PaleXtra Gymnasium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/palextra_gymnasium_41.9036_15.9024.json,custom
+41.906190,15.899150,ov_wellness___dance_studios_asd_41.9062_15.8992,Wellness & Dance Studios asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ischitella/pages/wellness_dance_studios_asd_41.9062_15.8992.json,custom

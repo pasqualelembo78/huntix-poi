@@ -1,72 +1,72 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Rutigliano -- Tutti
-41.008131,17.013189,osm_il_mulino_41.0081_17.0132,Il Mulino,ristorante,ristorante
-41.008862,16.997480,ov_ospedale_41.0089_16.9975,Ospedale,HOSPITAL,hospital
-40.957252,16.918413,ov_enjoy_caf__di_palmini_giuseppe_40.9573_16.9184,Enjoy Cafè di Palmini Giuseppe,RESTAURANT,ristorante
-41.016242,17.009710,ov_azetium_41.0162_17.0097,Azetium,RESTAURANT,ristorante
-41.011567,17.009556,ov_l__americano_market_41.0116_17.0096,L' Americano Market,RESTAURANT,ristorante
-41.012712,17.012418,ov_pizzeria_ristorante_leonn_41.0127_17.0124,Pizzeria Ristorante LEONN,RESTAURANT,ristorante
-41.014621,17.001436,ov_il_novecento_41.0146_17.0014,Il Novecento,RESTAURANT,ristorante
-41.012960,17.004196,ov_pizzeria_l_oper__41.0130_17.0042,Pizzeria L'Operà,RESTAURANT,ristorante
-41.012167,17.005774,ov_la_rosa_blu_41.0122_17.0058,La Rosa Blu,RESTAURANT,ristorante
-41.011133,17.003985,ov_acqua_e_farina_41.0111_17.0040,Acqua e Farina,RESTAURANT,ristorante
-41.021147,16.998200,ov_le_beef_bisteccheria_41.0211_16.9982,Le Beef Bisteccheria,RESTAURANT,ristorante
-41.005536,16.979854,ov_piazza_grande_food_cafe_41.0055_16.9799,Piazza Grande Food Cafe,RESTAURANT,ristorante
-41.001883,17.005708,ov_agrimare_di_francesco_cannito_41.0019_17.0057,Agrimare Di Francesco Cannito,RESTAURANT,ristorante
-41.003125,17.002349,ov_dai_due_amici_41.0031_17.0023,Dai due amici,RESTAURANT,ristorante
-41.005039,17.005927,ov_masseria_procida_41.0050_17.0059,Masseria Procida,RESTAURANT,ristorante
-41.003070,16.986539,ov_masseria_agrituristica_lama_san_giorgio_41.0031_16.9865,Masseria Agrituristica Lama San Giorgio,RESTAURANT,ristorante
-41.010078,17.002885,ov_in_pineta___rutigliano_41.0101_17.0029,In Pineta - Rutigliano,RESTAURANT,ristorante
-41.010090,17.003524,ov_pizzeria_pizza_e_passione_41.0101_17.0035,Pizzeria PIZZA E PASSIONE,RESTAURANT,ristorante
-41.010050,17.006410,ov_ristorante_mina__41.0100_17.0064,Ristorante Mina',RESTAURANT,ristorante
-41.009954,17.006339,ov_ville_de_paris_2017_41.0100_17.0063,Ville de Paris 2017,RESTAURANT,ristorante
-41.008907,17.005996,ov_bistrot_06_pizzeria__ristorante_41.0089_17.0060,"Bistrot 06 Pizzeria, Ristorante",RESTAURANT,ristorante
-41.008990,17.005990,ov_bistrot06_41.0090_17.0060,Bistrot06,RESTAURANT,ristorante
-41.009370,17.003778,ov_tipica_73_41.0094_17.0038,Tipica 73,RESTAURANT,ristorante
-41.008083,17.001694,ov_pizzeria_primograno_41.0081_17.0017,Pizzeria Primograno,RESTAURANT,ristorante
-41.009296,17.008247,ov_enjoy_cafe_41.0093_17.0082,Enjoy Cafe,RESTAURANT,ristorante
-41.010238,17.007947,ov_solo_pizza_41.0102_17.0079,Solo Pizza,RESTAURANT,ristorante
-41.010677,17.007500,ov_era_ora_pizzeria_41.0107_17.0075,Era Ora Pizzeria,RESTAURANT,ristorante
-41.010415,17.008310,ov_infarino_pizzeria_41.0104_17.0083,Infarino Pizzeria,RESTAURANT,ristorante
-41.010145,17.010214,ov_la_locanda_41.0101_17.0102,La Locanda,RESTAURANT,ristorante
-41.008935,17.013356,ov_300_gradi_pizza___food_41.0089_17.0134,300 Gradi Pizza & Food,RESTAURANT,ristorante
-41.008178,17.013143,ov_pizzeria_rutigliano_il_mulino_41.0082_17.0131,Pizzeria Rutigliano Il Mulino,RESTAURANT,ristorante
-41.004570,17.007680,ov_i_giardini_del_novecento_41.0046_17.0077,I Giardini del Novecento,RESTAURANT,ristorante
-41.003742,17.007965,ov_hanami_fusion_restaurant___sushi_41.0037_17.0080,Hanami Fusion Restaurant & Sushi,RESTAURANT,ristorante
-41.012036,17.010916,ov_panta_rei_41.0120_17.0109,Panta Rei,RESTAURANT,bar_cafe
-41.012920,17.005140,ov_niki_bar_night_and_day_41.0129_17.0051,NIKI BAR-night and day,RESTAURANT,bar_cafe
-41.012801,17.003516,ov_perfect_beer_41.0128_17.0035,Perfect Beer,RESTAURANT,bar_cafe
-41.011501,17.006628,ov_caf__mir__41.0115_17.0066,Café Mirò,RESTAURANT,bar_cafe
-41.011079,17.006440,ov_bar_aurora_41.0111_17.0064,Bar Aurora,RESTAURANT,bar_cafe
-41.010768,17.006361,ov_plaza_41.0108_17.0064,Plaza,RESTAURANT,bar_cafe
-41.011555,17.002791,ov_extrablatt_caf__41.0116_17.0028,Extrablatt Café,RESTAURANT,bar_cafe
-41.012988,17.000596,ov_mm_cafe_41.0130_17.0006,MM Cafe,RESTAURANT,bar_cafe
-41.016608,17.000095,ov_my_dill_s_by_zena_41.0166_17.0001,MY Dill's by ZENA,RESTAURANT,bar_cafe
-41.016127,17.000283,ov_soho_bar_41.0161_17.0003,Soho Bar,RESTAURANT,bar_cafe
-41.020837,16.998422,ov_mistral_cafe_41.0208_16.9984,Mistral Cafe,RESTAURANT,bar_cafe
-41.003689,17.005703,ov_namast__al_salotto_41.0037_17.0057,Namastè al Salotto,RESTAURANT,bar_cafe
-41.009507,17.002639,ov_gossip_cafe_41.0095_17.0026,Gossip Cafe,RESTAURANT,bar_cafe
-41.010252,17.006662,ov_blend_41.0103_17.0067,Blend,RESTAURANT,bar_cafe
-41.009713,17.006622,ov_chantal_1_41.0097_17.0066,Chantal 1,RESTAURANT,bar_cafe
-41.009481,17.004836,ov_dai_due_amici_bar_41.0095_17.0048,Dai Due Amici Bar,RESTAURANT,bar_cafe
-41.009078,17.004909,ov_mara_28_41.0091_17.0049,Mara 28,RESTAURANT,bar_cafe
-41.006220,17.006500,ov_bar_incontro_di_vitoantonio_anelli_41.0062_17.0065,Bar Incontro Di Vitoantonio Anelli,RESTAURANT,bar_cafe
-41.009088,17.010996,ov_moonlight_caff__41.0091_17.0110,Moonlight CAFFÈ,RESTAURANT,bar_cafe
-41.009135,17.008837,ov_bar_meeting_41.0091_17.0088,Bar Meeting,RESTAURANT,bar_cafe
-41.008919,17.009364,ov_byblo_s_risto_bar_41.0089_17.0094,Byblo's Risto Bar,RESTAURANT,bar_cafe
-41.009591,17.008013,ov_il_paradiso_perduto_41.0096_17.0080,Il Paradiso Perduto,RESTAURANT,bar_cafe
-41.009960,17.007840,ov_store_h24_41.0100_17.0078,STORE H24,RESTAURANT,bar_cafe
-41.010330,17.007781,ov_ark__caffetteria_41.0103_17.0078,Arkè Caffetteria,RESTAURANT,bar_cafe
-41.005725,17.021071,ov_forem_bar_41.0057_17.0211,Forem Bar,RESTAURANT,bar_cafe
-41.005310,17.010063,ov_eurobar_41.0053_17.0101,Eurobar,RESTAURANT,bar_cafe
-41.003486,17.008477,ov_caf__re_d_italia_41.0035_17.0085,Cafè Re d'Italia,RESTAURANT,bar_cafe
-41.004123,17.003622,ov_centro_sportivo_azetium_41.0041_17.0036,Centro sportivo azetium,GYM,palestra
-41.009123,16.999067,ov_millennium_fitness_club_41.0091_16.9991,Millennium Fitness Club,GYM,palestra
-41.008855,17.004201,ov_anad_l_accademia_della_danza_41.0089_17.0042,ANAD l'accademia della danza,GYM,palestra
-41.005980,17.006830,ov_fuoriscena__accademia_delle_arti_perform_41.0060_17.0068,Fuoriscena  Accademia delle Arti Performative,GYM,palestra
-41.008880,17.007390,ov_palestra_ama_41.0089_17.0074,Palestra AMA,GYM,palestra
-41.005293,17.009991,ov_d_club_41.0053_17.0100,D.Club,GYM,palestra
-41.011948,17.003039,ov_galloforie_41.0119_17.0030,Galloforie,MUSEUM,monumento
-41.011952,17.003022,ov_museo_del_fischietto_in_terracotta_41.0120_17.0030,Museo del Fischietto in Terracotta,MUSEUM,monumento
-41.010446,17.005594,ov_torre_normanna_41.0104_17.0056,Torre Normanna,MONUMENT,monumento
-41.010260,17.007292,ov_museo_civico_archeologico_41.0103_17.0073,Museo Civico Archeologico,MUSEUM,monumento
+41.008862,16.997480,ov_ospedale_41.0089_16.9975,Ospedale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/ospedale_41.0089_16.9975.json,custom
+40.957252,16.918413,ov_enjoy_caf__di_palmini_giuseppe_40.9573_16.9184,Enjoy Cafè di Palmini Giuseppe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/enjoy_caf_di_palmini_giuseppe_40.9573_16.9184.json,custom
+41.016242,17.009710,ov_azetium_41.0162_17.0097,Azetium,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/azetium_41.0162_17.0097.json,custom
+41.011567,17.009556,ov_l__americano_market_41.0116_17.0096,L' Americano Market,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/l_americano_market_41.0116_17.0096.json,custom
+41.012712,17.012418,ov_pizzeria_ristorante_leonn_41.0127_17.0124,Pizzeria Ristorante LEONN,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/pizzeria_ristorante_leonn_41.0127_17.0124.json,custom
+41.014621,17.001436,ov_il_novecento_41.0146_17.0014,Il Novecento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/il_novecento_41.0146_17.0014.json,custom
+41.012960,17.004196,ov_pizzeria_l_oper__41.0130_17.0042,Pizzeria L'Operà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/pizzeria_loper_41.0130_17.0042.json,custom
+41.012167,17.005774,ov_la_rosa_blu_41.0122_17.0058,La Rosa Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/la_rosa_blu_41.0122_17.0058.json,custom
+41.011133,17.003985,ov_acqua_e_farina_41.0111_17.0040,Acqua e Farina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/acqua_e_farina_41.0111_17.0040.json,custom
+41.021147,16.998200,ov_le_beef_bisteccheria_41.0211_16.9982,Le Beef Bisteccheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/le_beef_bisteccheria_41.0211_16.9982.json,custom
+41.005536,16.979854,ov_piazza_grande_food_cafe_41.0055_16.9799,Piazza Grande Food Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/piazza_grande_food_cafe_41.0055_16.9799.json,custom
+41.001883,17.005708,ov_agrimare_di_francesco_cannito_41.0019_17.0057,Agrimare Di Francesco Cannito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/agrimare_di_francesco_cannito_41.0019_17.0057.json,custom
+41.003125,17.002349,ov_dai_due_amici_41.0031_17.0023,Dai due amici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/dai_due_amici_41.0031_17.0023.json,custom
+41.005039,17.005927,ov_masseria_procida_41.0050_17.0059,Masseria Procida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/masseria_procida_41.0050_17.0059.json,custom
+41.003070,16.986539,ov_masseria_agrituristica_lama_san_giorgio_41.0031_16.9865,Masseria Agrituristica Lama San Giorgio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/masseria_agrituristica_lama_san_giorgio_41.0031_16.9865.json,custom
+41.010078,17.002885,ov_in_pineta___rutigliano_41.0101_17.0029,In Pineta - Rutigliano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/in_pineta_-_rutigliano_41.0101_17.0029.json,custom
+41.010090,17.003524,ov_pizzeria_pizza_e_passione_41.0101_17.0035,Pizzeria PIZZA E PASSIONE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/pizzeria_pizza_e_passione_41.0101_17.0035.json,custom
+41.010050,17.006410,ov_ristorante_mina__41.0100_17.0064,Ristorante Mina',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/ristorante_mina_41.0100_17.0064.json,custom
+41.009954,17.006339,ov_ville_de_paris_2017_41.0100_17.0063,Ville de Paris 2017,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/ville_de_paris_2017_41.0100_17.0063.json,custom
+41.008907,17.005996,ov_bistrot_06_pizzeria__ristorante_41.0089_17.0060,"Bistrot 06 Pizzeria, Ristorante",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bistrot_06_pizzeria_ristorante_41.0089_17.0060.json,custom
+41.008990,17.005990,ov_bistrot06_41.0090_17.0060,Bistrot06,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bistrot06_41.0090_17.0060.json,custom
+41.009370,17.003778,ov_tipica_73_41.0094_17.0038,Tipica 73,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/tipica_73_41.0094_17.0038.json,custom
+41.008083,17.001694,ov_pizzeria_primograno_41.0081_17.0017,Pizzeria Primograno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/pizzeria_primograno_41.0081_17.0017.json,custom
+41.009296,17.008247,ov_enjoy_cafe_41.0093_17.0082,Enjoy Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/enjoy_cafe_41.0093_17.0082.json,custom
+41.010238,17.007947,ov_solo_pizza_41.0102_17.0079,Solo Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/solo_pizza_41.0102_17.0079.json,custom
+41.010677,17.007500,ov_era_ora_pizzeria_41.0107_17.0075,Era Ora Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/era_ora_pizzeria_41.0107_17.0075.json,custom
+41.010415,17.008310,ov_infarino_pizzeria_41.0104_17.0083,Infarino Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/infarino_pizzeria_41.0104_17.0083.json,custom
+41.010145,17.010214,ov_la_locanda_41.0101_17.0102,La Locanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/la_locanda_41.0101_17.0102.json,custom
+41.008935,17.013356,ov_300_gradi_pizza___food_41.0089_17.0134,300 Gradi Pizza & Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/300_gradi_pizza_food_41.0089_17.0134.json,custom
+41.008178,17.013143,ov_pizzeria_rutigliano_il_mulino_41.0082_17.0131,Pizzeria Rutigliano Il Mulino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/pizzeria_rutigliano_il_mulino_41.0082_17.0131.json,custom
+41.004570,17.007680,ov_i_giardini_del_novecento_41.0046_17.0077,I Giardini del Novecento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/i_giardini_del_novecento_41.0046_17.0077.json,custom
+41.003742,17.007965,ov_hanami_fusion_restaurant___sushi_41.0037_17.0080,Hanami Fusion Restaurant & Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/hanami_fusion_restaurant_sushi_41.0037_17.0080.json,custom
+41.008131,17.013189,osm_il_mulino_41.0081_17.0132,Il Mulino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/il_mulino_41.0081_17.0132.json,custom
+41.012036,17.010916,ov_panta_rei_41.0120_17.0109,Panta Rei,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/panta_rei_41.0120_17.0109.json,custom
+41.012920,17.005140,ov_niki_bar_night_and_day_41.0129_17.0051,NIKI BAR-night and day,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/niki_bar-night_and_day_41.0129_17.0051.json,custom
+41.012801,17.003516,ov_perfect_beer_41.0128_17.0035,Perfect Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/perfect_beer_41.0128_17.0035.json,custom
+41.011501,17.006628,ov_caf__mir__41.0115_17.0066,Café Mirò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/caf_mir_41.0115_17.0066.json,custom
+41.011079,17.006440,ov_bar_aurora_41.0111_17.0064,Bar Aurora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_aurora_41.0111_17.0064.json,custom
+41.010768,17.006361,ov_plaza_41.0108_17.0064,Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/plaza_41.0108_17.0064.json,custom
+41.011555,17.002791,ov_extrablatt_caf__41.0116_17.0028,Extrablatt Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/extrablatt_caf_41.0116_17.0028.json,custom
+41.012988,17.000596,ov_mm_cafe_41.0130_17.0006,MM Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mm_cafe_41.0130_17.0006.json,custom
+41.016608,17.000095,ov_my_dill_s_by_zena_41.0166_17.0001,MY Dill's by ZENA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/my_dills_by_zena_41.0166_17.0001.json,custom
+41.016127,17.000283,ov_soho_bar_41.0161_17.0003,Soho Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/soho_bar_41.0161_17.0003.json,custom
+41.020837,16.998422,ov_mistral_cafe_41.0208_16.9984,Mistral Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mistral_cafe_41.0208_16.9984.json,custom
+41.003689,17.005703,ov_namast__al_salotto_41.0037_17.0057,Namastè al Salotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/namast_al_salotto_41.0037_17.0057.json,custom
+41.009507,17.002639,ov_gossip_cafe_41.0095_17.0026,Gossip Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/gossip_cafe_41.0095_17.0026.json,custom
+41.010252,17.006662,ov_blend_41.0103_17.0067,Blend,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/blend_41.0103_17.0067.json,custom
+41.009713,17.006622,ov_chantal_1_41.0097_17.0066,Chantal 1,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/chantal_1_41.0097_17.0066.json,custom
+41.009481,17.004836,ov_dai_due_amici_bar_41.0095_17.0048,Dai Due Amici Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/dai_due_amici_bar_41.0095_17.0048.json,custom
+41.009078,17.004909,ov_mara_28_41.0091_17.0049,Mara 28,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/mara_28_41.0091_17.0049.json,custom
+41.006220,17.006500,ov_bar_incontro_di_vitoantonio_anelli_41.0062_17.0065,Bar Incontro Di Vitoantonio Anelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_incontro_di_vitoantonio_anelli_41.0062_17.0065.json,custom
+41.009088,17.010996,ov_moonlight_caff__41.0091_17.0110,Moonlight CAFFÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/moonlight_caff_41.0091_17.0110.json,custom
+41.009135,17.008837,ov_bar_meeting_41.0091_17.0088,Bar Meeting,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/bar_meeting_41.0091_17.0088.json,custom
+41.008919,17.009364,ov_byblo_s_risto_bar_41.0089_17.0094,Byblo's Risto Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/byblos_risto_bar_41.0089_17.0094.json,custom
+41.009591,17.008013,ov_il_paradiso_perduto_41.0096_17.0080,Il Paradiso Perduto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/il_paradiso_perduto_41.0096_17.0080.json,custom
+41.009960,17.007840,ov_store_h24_41.0100_17.0078,STORE H24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/store_h24_41.0100_17.0078.json,custom
+41.010330,17.007781,ov_ark__caffetteria_41.0103_17.0078,Arkè Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/ark_caffetteria_41.0103_17.0078.json,custom
+41.005725,17.021071,ov_forem_bar_41.0057_17.0211,Forem Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/forem_bar_41.0057_17.0211.json,custom
+41.005310,17.010063,ov_eurobar_41.0053_17.0101,Eurobar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/eurobar_41.0053_17.0101.json,custom
+41.003486,17.008477,ov_caf__re_d_italia_41.0035_17.0085,Cafè Re d'Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/caf_re_ditalia_41.0035_17.0085.json,custom
+41.004123,17.003622,ov_centro_sportivo_azetium_41.0041_17.0036,Centro sportivo azetium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/centro_sportivo_azetium_41.0041_17.0036.json,custom
+41.009123,16.999067,ov_millennium_fitness_club_41.0091_16.9991,Millennium Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/millennium_fitness_club_41.0091_16.9991.json,custom
+41.008855,17.004201,ov_anad_l_accademia_della_danza_41.0089_17.0042,ANAD l'accademia della danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/anad_laccademia_della_danza_41.0089_17.0042.json,custom
+41.005980,17.006830,ov_fuoriscena__accademia_delle_arti_perform_41.0060_17.0068,Fuoriscena  Accademia delle Arti Performative,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/fuoriscena_accademia_delle_arti_performa_41.0060_17.0068.json,custom
+41.008880,17.007390,ov_palestra_ama_41.0089_17.0074,Palestra AMA,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/palestra_ama_41.0089_17.0074.json,custom
+41.005293,17.009991,ov_d_club_41.0053_17.0100,D.Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/dclub_41.0053_17.0100.json,custom
+41.011948,17.003039,ov_galloforie_41.0119_17.0030,Galloforie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/galloforie_41.0119_17.0030.json,custom
+41.011952,17.003022,ov_museo_del_fischietto_in_terracotta_41.0120_17.0030,Museo del Fischietto in Terracotta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/museo_del_fischietto_in_terracotta_41.0120_17.0030.json,custom
+41.010446,17.005594,ov_torre_normanna_41.0104_17.0056,Torre Normanna,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/torre_normanna_41.0104_17.0056.json,custom
+41.010260,17.007292,ov_museo_civico_archeologico_41.0103_17.0073,Museo Civico Archeologico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/museo_civico_archeologico_41.0103_17.0073.json,custom

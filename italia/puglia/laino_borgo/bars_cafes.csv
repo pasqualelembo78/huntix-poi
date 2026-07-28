@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # laino_borgo -- bars_cafes
-39.953701,15.909233,ov_azienda_agricola_la_valle_del_gada_39.9537_15.9092,Azienda Agricola La Valle del Gada,RESTAURANT,bar_cafe
-39.954245,15.975605,ov_cat__music_bar_bistrot___pizza_39.9542_15.9756,Catà Music Bar Bistrot & Pizza,RESTAURANT,bar_cafe
-39.954043,15.975492,ov_tabacchi_barletta_riv__n_1_laino_borgo_39.9540_15.9755,Tabacchi Barletta Riv. N.1 Laino Borgo,RESTAURANT,bar_cafe
+39.953701,15.909233,ov_azienda_agricola_la_valle_del_gada_39.9537_15.9092,Azienda Agricola La Valle del Gada,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laino_borgo/pages/azienda_agricola_la_valle_del_gada_39.9537_15.9092.json,custom
+39.954245,15.975605,ov_cat__music_bar_bistrot___pizza_39.9542_15.9756,Catà Music Bar Bistrot & Pizza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laino_borgo/pages/cat_music_bar_bistrot_pizza_39.9542_15.9756.json,custom
+39.954043,15.975492,ov_tabacchi_barletta_riv__n_1_laino_borgo_39.9540_15.9755,Tabacchi Barletta Riv. N.1 Laino Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/laino_borgo/pages/tabacchi_barletta_riv_n1_laino_borgo_39.9540_15.9755.json,custom

@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_michele_salentino -- bars_cafes
-40.630392,17.632034,ov_central_bar_40.6304_17.6320,Central Bar,RESTAURANT,bar_cafe
-40.630666,17.632066,ov_caffe_marconi_40.6307_17.6321,Caffe Marconi,RESTAURANT,bar_cafe
-40.630595,17.629897,ov_barcollo_40.6306_17.6299,Barcollo,RESTAURANT,bar_cafe
-40.630626,17.629924,ov_mati__cafe__40.6306_17.6299,Mati' Cafe',RESTAURANT,bar_cafe
-40.630238,17.630867,ov_lu_pizzulu_40.6302_17.6309,Lu Pizzulu,RESTAURANT,bar_cafe
-40.630272,17.631694,ov_la_piazzetta_di_salvatore_fino_40.6303_17.6317,La Piazzetta di Salvatore Fino,RESTAURANT,bar_cafe
-40.631091,17.634827,ov_co_caff__40.6311_17.6348,Co Caffè,RESTAURANT,bar_cafe
-40.632023,17.634959,ov_enoteca_gigliola_40.6320_17.6350,Enoteca Gigliola,RESTAURANT,bar_cafe
-40.632698,17.633815,ov_doppio_senso___nuova_gestione_40.6327_17.6338,Doppio Senso - Nuova Gestione,RESTAURANT,bar_cafe
+40.630392,17.632034,ov_central_bar_40.6304_17.6320,Central Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/central_bar_40.6304_17.6320.json,custom
+40.630666,17.632066,ov_caffe_marconi_40.6307_17.6321,Caffe Marconi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/caffe_marconi_40.6307_17.6321.json,custom
+40.630595,17.629897,ov_barcollo_40.6306_17.6299,Barcollo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/barcollo_40.6306_17.6299.json,custom
+40.630626,17.629924,ov_mati__cafe__40.6306_17.6299,Mati' Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/mati_cafe_40.6306_17.6299.json,custom
+40.630238,17.630867,ov_lu_pizzulu_40.6302_17.6309,Lu Pizzulu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/lu_pizzulu_40.6302_17.6309.json,custom
+40.630272,17.631694,ov_la_piazzetta_di_salvatore_fino_40.6303_17.6317,La Piazzetta di Salvatore Fino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/la_piazzetta_di_salvatore_fino_40.6303_17.6317.json,custom
+40.631091,17.634827,ov_co_caff__40.6311_17.6348,Co Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/co_caff_40.6311_17.6348.json,custom
+40.632023,17.634959,ov_enoteca_gigliola_40.6320_17.6350,Enoteca Gigliola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/enoteca_gigliola_40.6320_17.6350.json,custom
+40.632698,17.633815,ov_doppio_senso___nuova_gestione_40.6327_17.6338,Doppio Senso - Nuova Gestione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_michele_salentino/pages/doppio_senso_-_nuova_gestione_40.6327_17.6338.json,custom

@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fontanarosa -- bars_cafes
-41.018130,15.019970,ov_bar_iezza_michele_41.0181_15.0200,Bar Iezza Michele,RESTAURANT,bar_cafe
-41.018224,15.020074,ov_il_calice_rosso_41.0182_15.0201,Il Calice Rosso,RESTAURANT,bar_cafe
-41.016555,15.019228,ov_la_vie_en_rose_41.0166_15.0192,La Vie En Rose,RESTAURANT,bar_cafe
-41.016550,15.018872,ov_il_cortiglio_41.0166_15.0189,Il Cortiglio,RESTAURANT,bar_cafe
-41.033769,15.029253,ov_agos_caf__41.0338_15.0293,Agos Café,RESTAURANT,bar_cafe
+41.018130,15.019970,ov_bar_iezza_michele_41.0181_15.0200,Bar Iezza Michele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/bar_iezza_michele_41.0181_15.0200.json,custom
+41.018224,15.020074,ov_il_calice_rosso_41.0182_15.0201,Il Calice Rosso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/il_calice_rosso_41.0182_15.0201.json,custom
+41.016555,15.019228,ov_la_vie_en_rose_41.0166_15.0192,La Vie En Rose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/la_vie_en_rose_41.0166_15.0192.json,custom
+41.016550,15.018872,ov_il_cortiglio_41.0166_15.0189,Il Cortiglio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/il_cortiglio_41.0166_15.0189.json,custom
+41.033769,15.029253,ov_agos_caf__41.0338_15.0293,Agos Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fontanarosa/pages/agos_caf_41.0338_15.0293.json,custom

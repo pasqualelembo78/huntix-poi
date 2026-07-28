@@ -1,28 +1,28 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # roseto_capo_spulico -- restaurants
-39.971804,16.620295,osm_al_campo_di_grano_39.9718_16.6203,Al Campo di Grano,ristorante,ristorante
-39.986481,16.602375,osm_al_pozzo_antico_39.9865_16.6024,Al Pozzo Antico,ristorante,ristorante
-39.985860,16.604512,osm_peperoncino_rosso_39.9859_16.6045,Peperoncino Rosso,ristorante,ristorante
-39.973642,16.619181,osm_bar_ristorante_pizzeria_b_b_da_mario_39.9736_16.6192,Bar Ristorante Pizzeria B&B Da Mario,ristorante,ristorante
-39.969456,16.621648,osm_ristorante_nettuno_39.9695_16.6216,Ristorante Nettuno,ristorante,ristorante
-39.975683,16.617666,osm_il_gelso_39.9757_16.6177,Il Gelso,ristorante,ristorante
-39.757199,16.464074,ov_villa_costa_39.7572_16.4641,Villa Costa,RESTAURANT,ristorante
-39.979702,16.617526,ov_laguna_blu_39.9797_16.6175,Laguna blu,RESTAURANT,ristorante
-39.975771,16.617673,ov_ristorante_pizzeria_il_gelso_39.9758_16.6177,ristorante pizzeria Il Gelso,RESTAURANT,ristorante
-39.975024,16.619313,ov_ristorante_la_vela_39.9750_16.6193,Ristorante La Vela,RESTAURANT,ristorante
-39.973556,16.619268,ov_bar_ristorante_pizzeria_breakfast_da_mar_39.9736_16.6193,Bar Ristorante Pizzeria breakfast Da Mario.,RESTAURANT,ristorante
-39.973080,16.620040,ov_castello_federiciano_39.9731_16.6200,Castello Federiciano,RESTAURANT,ristorante
-39.972611,16.621921,ov_new_age_39.9726_16.6219,New Age,RESTAURANT,ristorante
-39.969522,16.621592,ov_ristorante_pizzeria_nettuno_39.9695_16.6216,Ristorante Pizzeria Nettuno,RESTAURANT,ristorante
-39.971530,16.620302,ov_la_perla_del_mare_vg_varlaro_ristorante_39.9715_16.6203,La perla del mare VG Varlaro Ristorante,RESTAURANT,ristorante
-39.967455,16.622457,ov_fratelli_varlaro_39.9675_16.6225,Fratelli Varlaro,RESTAURANT,ristorante
-39.967386,16.622580,ov_ristorante_la_perla_del_mare_vg_varlaro_39.9674_16.6226,Ristorante La Perla del Mare VG Varlaro,RESTAURANT,ristorante
-39.967768,16.628086,ov_lido_sole_luna_cns_fiamma___cosenza_39.9678_16.6281,Lido Sole Luna CNS Fiamma - Cosenza,RESTAURANT,ristorante
-39.970077,16.624555,ov_la_terrazza_del_gusto_39.9701_16.6246,La Terrazza del Gusto,RESTAURANT,ristorante
-39.985889,16.603661,ov_cinghiale_on_the_beach_39.9859_16.6037,Cinghiale On The Beach,RESTAURANT,ristorante
-39.984748,16.604830,ov_bar_ristorante__pizzeria_al_pozzo_antico_39.9847_16.6048,Bar Ristorante  Pizzeria Al pozzo Antico,RESTAURANT,ristorante
-39.984716,16.609223,ov_meraki_ristorante_39.9847_16.6092,Meraki Ristorante,RESTAURANT,ristorante
-39.985574,16.601968,ov_la_nicchia_39.9856_16.6020,La Nicchia,RESTAURANT,ristorante
-39.986670,16.602378,ov_masseria_capoliscio_39.9867_16.6024,Masseria Capoliscio,RESTAURANT,ristorante
-39.988311,16.598603,ov_gran_gal__miramare_sala_ricevimento_39.9883_16.5986,Gran Galà Miramare Sala Ricevimento,RESTAURANT,ristorante
-40.006306,16.593591,ov_ristorante_pizzeria_la_perla_del_mare_fr_40.0063_16.5936,Ristorante Pizzeria La Perla Del Mare Fratelli Varlaro di Il,RESTAURANT,ristorante
+39.757199,16.464074,ov_villa_costa_39.7572_16.4641,Villa Costa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/villa_costa_39.7572_16.4641.json,custom
+39.979702,16.617526,ov_laguna_blu_39.9797_16.6175,Laguna blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/laguna_blu_39.9797_16.6175.json,custom
+39.975771,16.617673,ov_ristorante_pizzeria_il_gelso_39.9758_16.6177,ristorante pizzeria Il Gelso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_pizzeria_il_gelso_39.9758_16.6177.json,custom
+39.975024,16.619313,ov_ristorante_la_vela_39.9750_16.6193,Ristorante La Vela,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_la_vela_39.9750_16.6193.json,custom
+39.973556,16.619268,ov_bar_ristorante_pizzeria_breakfast_da_mar_39.9736_16.6193,Bar Ristorante Pizzeria breakfast Da Mario.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/bar_ristorante_pizzeria_breakfast_da_mar_39.9736_16.6193.json,custom
+39.973080,16.620040,ov_castello_federiciano_39.9731_16.6200,Castello Federiciano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/castello_federiciano_39.9731_16.6200.json,custom
+39.972611,16.621921,ov_new_age_39.9726_16.6219,New Age,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/new_age_39.9726_16.6219.json,custom
+39.969522,16.621592,ov_ristorante_pizzeria_nettuno_39.9695_16.6216,Ristorante Pizzeria Nettuno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_pizzeria_nettuno_39.9695_16.6216.json,custom
+39.971530,16.620302,ov_la_perla_del_mare_vg_varlaro_ristorante_39.9715_16.6203,La perla del mare VG Varlaro Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/la_perla_del_mare_vg_varlaro_ristorante_39.9715_16.6203.json,custom
+39.967455,16.622457,ov_fratelli_varlaro_39.9675_16.6225,Fratelli Varlaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/fratelli_varlaro_39.9675_16.6225.json,custom
+39.967386,16.622580,ov_ristorante_la_perla_del_mare_vg_varlaro_39.9674_16.6226,Ristorante La Perla del Mare VG Varlaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_la_perla_del_mare_vg_varlaro_39.9674_16.6226.json,custom
+39.967768,16.628086,ov_lido_sole_luna_cns_fiamma___cosenza_39.9678_16.6281,Lido Sole Luna CNS Fiamma - Cosenza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/lido_sole_luna_cns_fiamma_-_cosenza_39.9678_16.6281.json,custom
+39.970077,16.624555,ov_la_terrazza_del_gusto_39.9701_16.6246,La Terrazza del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/la_terrazza_del_gusto_39.9701_16.6246.json,custom
+39.985889,16.603661,ov_cinghiale_on_the_beach_39.9859_16.6037,Cinghiale On The Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/cinghiale_on_the_beach_39.9859_16.6037.json,custom
+39.984748,16.604830,ov_bar_ristorante__pizzeria_al_pozzo_antico_39.9847_16.6048,Bar Ristorante  Pizzeria Al pozzo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/bar_ristorante_pizzeria_al_pozzo_antico_39.9847_16.6048.json,custom
+39.984716,16.609223,ov_meraki_ristorante_39.9847_16.6092,Meraki Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/meraki_ristorante_39.9847_16.6092.json,custom
+39.985574,16.601968,ov_la_nicchia_39.9856_16.6020,La Nicchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/la_nicchia_39.9856_16.6020.json,custom
+39.986670,16.602378,ov_masseria_capoliscio_39.9867_16.6024,Masseria Capoliscio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/masseria_capoliscio_39.9867_16.6024.json,custom
+39.988311,16.598603,ov_gran_gal__miramare_sala_ricevimento_39.9883_16.5986,Gran Galà Miramare Sala Ricevimento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/gran_gal_miramare_sala_ricevimento_39.9883_16.5986.json,custom
+40.006306,16.593591,ov_ristorante_pizzeria_la_perla_del_mare_fr_40.0063_16.5936,Ristorante Pizzeria La Perla Del Mare Fratelli Varlaro di Il,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_pizzeria_la_perla_del_mare_fr_40.0063_16.5936.json,custom
+39.971804,16.620295,osm_al_campo_di_grano_39.9718_16.6203,Al Campo di Grano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/al_campo_di_grano_39.9718_16.6203.json,custom
+39.986481,16.602375,osm_al_pozzo_antico_39.9865_16.6024,Al Pozzo Antico,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/al_pozzo_antico_39.9865_16.6024.json,custom
+39.985860,16.604512,osm_peperoncino_rosso_39.9859_16.6045,Peperoncino Rosso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/peperoncino_rosso_39.9859_16.6045.json,custom
+39.973642,16.619181,osm_bar_ristorante_pizzeria_b_b_da_mario_39.9736_16.6192,Bar Ristorante Pizzeria B&B Da Mario,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/bar_ristorante_pizzeria_bb_da_mario_39.9736_16.6192.json,custom
+39.969456,16.621648,osm_ristorante_nettuno_39.9695_16.6216,Ristorante Nettuno,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/ristorante_nettuno_39.9695_16.6216.json,custom
+39.975683,16.617666,osm_il_gelso_39.9757_16.6177,Il Gelso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/roseto_capo_spulico/pages/il_gelso_39.9757_16.6177.json,custom

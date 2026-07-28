@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Kopper pub",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.leggimenu.it%2Fmenu%2F7dpkbdqq7ps1&e=AT3mvfCePulnrH5aDzoc-hXniP9HB1Fm1kVplP32hqoRqDO3W0-tJ4JJhCGLOg3Q9KJHwALXiXgtoOS7jot3VI2ERG7_iPGg2JRPWw"
+    }
+  ]
+}

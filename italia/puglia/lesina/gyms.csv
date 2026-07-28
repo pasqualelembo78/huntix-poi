@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lesina -- gyms
-41.862949,15.356291,ov_atheneum_centro_fitness_41.8629_15.3563,Atheneum centro fitness,GYM,palestra
-41.860298,15.355425,ov_a_s_d__taka_41.8603_15.3554,A.S.D. Taka,GYM,palestra
-41.858005,15.350612,ov_asd_crazy_for_sport_41.8580_15.3506,ASD Crazy for Sport,GYM,palestra
-41.893021,15.345326,ov_gargano_lake_kite_school___wingfoil_41.8930_15.3453,Gargano Lake kite School & Wingfoil,GYM,palestra
-41.890989,15.378256,ov_l_isola_dei_cavalli_41.8910_15.3783,L'isola dei cavalli,GYM,palestra
+41.862949,15.356291,ov_atheneum_centro_fitness_41.8629_15.3563,Atheneum centro fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/atheneum_centro_fitness_41.8629_15.3563.json,custom
+41.860298,15.355425,ov_a_s_d__taka_41.8603_15.3554,A.S.D. Taka,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/asd_taka_41.8603_15.3554.json,custom
+41.858005,15.350612,ov_asd_crazy_for_sport_41.8580_15.3506,ASD Crazy for Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/asd_crazy_for_sport_41.8580_15.3506.json,custom
+41.893021,15.345326,ov_gargano_lake_kite_school___wingfoil_41.8930_15.3453,Gargano Lake kite School & Wingfoil,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/gargano_lake_kite_school_wingfoil_41.8930_15.3453.json,custom
+41.890989,15.378256,ov_l_isola_dei_cavalli_41.8910_15.3783,L'isola dei cavalli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lesina/pages/lisola_dei_cavalli_41.8910_15.3783.json,custom

@@ -1,21 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # terlizzi -- gyms
-41.130792,16.519566,ov_campetti_salvatore_41.1308_16.5196,Campetti Salvatore,GYM,palestra
-41.131023,16.520251,ov_terlizzi_sporting_center_41.1310_16.5203,Terlizzi Sporting Center,GYM,palestra
-41.132391,16.542916,ov_oltreleondeasd_41.1324_16.5429,OltreLeOndeASD,GYM,palestra
-41.131250,16.545512,ov_fit_lab_personal_training_service_41.1313_16.5455,FIT LAB personal training service,GYM,palestra
-41.128642,16.543951,ov_arcadia_centro_discipline_orientali_41.1286_16.5440,Arcadia Centro Discipline Orientali,GYM,palestra
-41.127933,16.544513,ov_fitness_studio_41.1279_16.5445,Fitness Studio,GYM,palestra
-41.129107,16.535249,ov_villa__romanazzi_carducci__bari_41.1291_16.5352,Villa  Romanazzi Carducci  Bari,GYM,palestra
-41.133170,16.541575,ov_new_fitness_academy_41.1332_16.5416,New Fitness Academy,GYM,palestra
-41.123830,16.550050,ov_kombateam_puglia_41.1238_16.5500,Kombateam Puglia,GYM,palestra
-41.125439,16.547099,ov_danzarte_41.1254_16.5471,Danzarte,GYM,palestra
-41.125920,16.550580,ov_activity_center___dance_fitness_41.1259_16.5506,Activity Center - Dance&Fitness,GYM,palestra
-41.125940,16.550606,ov_siente_y_baila_conmigo_41.1259_16.5506,Siente y Baila conmigo,GYM,palestra
-41.127160,16.548330,ov_rainbow_ludoteca_41.1272_16.5483,rainbow ludoteca,GYM,palestra
-41.127393,16.545869,ov_abi_dance_41.1274_16.5459,ABI Dance,GYM,palestra
-41.129305,16.551291,ov_adrit_danceclass_41.1293_16.5513,AdriT Danceclass,GYM,palestra
-41.129727,16.547573,ov_magic_dance_1_41.1297_16.5476,Magic Dance 1,GYM,palestra
-41.130043,16.548081,ov_blu_shark_diving_41.1300_16.5481,Blu Shark Diving,GYM,palestra
-41.131009,16.546550,ov_dna_danza_41.1310_16.5465,Dna Danza,GYM,palestra
-41.132406,16.547083,ov_planet_fitness_gym_41.1324_16.5471,Planet Fitness Gym,GYM,palestra
+41.130792,16.519566,ov_campetti_salvatore_41.1308_16.5196,Campetti Salvatore,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/campetti_salvatore_41.1308_16.5196.json,custom
+41.131023,16.520251,ov_terlizzi_sporting_center_41.1310_16.5203,Terlizzi Sporting Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/terlizzi_sporting_center_41.1310_16.5203.json,custom
+41.132391,16.542916,ov_oltreleondeasd_41.1324_16.5429,OltreLeOndeASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/oltreleondeasd_41.1324_16.5429.json,custom
+41.131250,16.545512,ov_fit_lab_personal_training_service_41.1313_16.5455,FIT LAB personal training service,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fit_lab_personal_training_service_41.1313_16.5455.json,custom
+41.128642,16.543951,ov_arcadia_centro_discipline_orientali_41.1286_16.5440,Arcadia Centro Discipline Orientali,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/arcadia_centro_discipline_orientali_41.1286_16.5440.json,custom
+41.127933,16.544513,ov_fitness_studio_41.1279_16.5445,Fitness Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/fitness_studio_41.1279_16.5445.json,custom
+41.129107,16.535249,ov_villa__romanazzi_carducci__bari_41.1291_16.5352,Villa  Romanazzi Carducci  Bari,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/villa_romanazzi_carducci_bari_41.1291_16.5352.json,custom
+41.133170,16.541575,ov_new_fitness_academy_41.1332_16.5416,New Fitness Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/new_fitness_academy_41.1332_16.5416.json,custom
+41.123830,16.550050,ov_kombateam_puglia_41.1238_16.5500,Kombateam Puglia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/kombateam_puglia_41.1238_16.5500.json,custom
+41.125439,16.547099,ov_danzarte_41.1254_16.5471,Danzarte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/danzarte_41.1254_16.5471.json,custom
+41.125920,16.550580,ov_activity_center___dance_fitness_41.1259_16.5506,Activity Center - Dance&Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/activity_center_-_dancefitness_41.1259_16.5506.json,custom
+41.125940,16.550606,ov_siente_y_baila_conmigo_41.1259_16.5506,Siente y Baila conmigo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/siente_y_baila_conmigo_41.1259_16.5506.json,custom
+41.127160,16.548330,ov_rainbow_ludoteca_41.1272_16.5483,rainbow ludoteca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/rainbow_ludoteca_41.1272_16.5483.json,custom
+41.127393,16.545869,ov_abi_dance_41.1274_16.5459,ABI Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/abi_dance_41.1274_16.5459.json,custom
+41.129305,16.551291,ov_adrit_danceclass_41.1293_16.5513,AdriT Danceclass,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/adrit_danceclass_41.1293_16.5513.json,custom
+41.129727,16.547573,ov_magic_dance_1_41.1297_16.5476,Magic Dance 1,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/magic_dance_1_41.1297_16.5476.json,custom
+41.130043,16.548081,ov_blu_shark_diving_41.1300_16.5481,Blu Shark Diving,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/blu_shark_diving_41.1300_16.5481.json,custom
+41.131009,16.546550,ov_dna_danza_41.1310_16.5465,Dna Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/dna_danza_41.1310_16.5465.json,custom
+41.132406,16.547083,ov_planet_fitness_gym_41.1324_16.5471,Planet Fitness Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/planet_fitness_gym_41.1324_16.5471.json,custom
+41.128605,16.550651,osm_happy_forma_41.1286_16.5507,Happy Forma,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/happy_forma_41.1286_16.5507.json,custom
+41.132341,16.547052,osm_planet_gym_41.1323_16.5471,Planet Gym,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/terlizzi/pages/planet_gym_41.1323_16.5471.json,custom

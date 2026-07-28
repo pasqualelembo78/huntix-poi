@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corsano -- restaurants
-39.888534,18.367809,ov_snai_39.8885_18.3678,SNAI,RESTAURANT,ristorante
-39.888458,18.368499,ov_mec_ciccio_39.8885_18.3685,Mec Ciccio,RESTAURANT,ristorante
-39.889306,18.365665,ov_il_rugantino_39.8893_18.3657,Il Rugantino,RESTAURANT,ristorante
-39.890238,18.371474,ov_pizzeria_fuegonosciu_39.8902_18.3715,Pizzeria FuegoNosciu,RESTAURANT,ristorante
-39.890921,18.397818,ov_oasi_byblos_39.8909_18.3978,Oasi Byblos,RESTAURANT,ristorante
-39.890641,18.397808,ov_oasiscalamasciu_39.8906_18.3978,Oasiscalamasciu,RESTAURANT,ristorante
-39.892703,18.361236,ov_note_di_gusto_39.8927_18.3612,Note Di Gusto,RESTAURANT,ristorante
-39.887115,18.372242,ov_lubl____pizzeria_d_asporto_39.8871_18.3722,Lublé · Pizzeria d'asporto,RESTAURANT,ristorante
+39.888534,18.367809,ov_snai_39.8885_18.3678,SNAI,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/snai_39.8885_18.3678.json,custom
+39.888458,18.368499,ov_mec_ciccio_39.8885_18.3685,Mec Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/mec_ciccio_39.8885_18.3685.json,custom
+39.889306,18.365665,ov_il_rugantino_39.8893_18.3657,Il Rugantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/il_rugantino_39.8893_18.3657.json,custom
+39.890238,18.371474,ov_pizzeria_fuegonosciu_39.8902_18.3715,Pizzeria FuegoNosciu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/pizzeria_fuegonosciu_39.8902_18.3715.json,custom
+39.890921,18.397818,ov_oasi_byblos_39.8909_18.3978,Oasi Byblos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/oasi_byblos_39.8909_18.3978.json,custom
+39.890641,18.397808,ov_oasiscalamasciu_39.8906_18.3978,Oasiscalamasciu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/oasiscalamasciu_39.8906_18.3978.json,custom
+39.892703,18.361236,ov_note_di_gusto_39.8927_18.3612,Note Di Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/note_di_gusto_39.8927_18.3612.json,custom
+39.887115,18.372242,ov_lubl____pizzeria_d_asporto_39.8871_18.3722,Lublé · Pizzeria d'asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/lubl_pizzeria_dasporto_39.8871_18.3722.json,custom

@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # marsicovetere -- bars_cafes
-40.342200,15.832850,ov_bar_pitstop82_40.3422_15.8329,BAR Pitstop82,RESTAURANT,bar_cafe
-40.352894,15.821743,ov_milleunacialda_di_pato_caffe__40.3529_15.8217,Milleunacialda di Pato Caffe',RESTAURANT,bar_cafe
-40.355374,15.828466,ov_bar_villa_mario_40.3554_15.8285,Bar Villa Mario,RESTAURANT,bar_cafe
-40.354988,15.829629,ov_bar_zipparri_40.3550_15.8296,Bar Zipparri,RESTAURANT,bar_cafe
-40.354257,15.830883,ov_gli_ostinati_40.3543_15.8309,Gli Ostinati,RESTAURANT,bar_cafe
-40.355329,15.825728,ov_blackout_music_pub_40.3553_15.8257,Blackout Music Pub,RESTAURANT,bar_cafe
-40.356956,15.825114,ov_bar_roma_40.3570_15.8251,Bar Roma,RESTAURANT,bar_cafe
-40.357360,15.834924,ov_bacco_e_cerere_40.3574_15.8349,Bacco e cerere,RESTAURANT,bar_cafe
-40.356840,15.822730,ov_stampiamoditutto_40.3568_15.8227,Stampiamoditutto,RESTAURANT,bar_cafe
-40.371088,15.806597,osm_mojito_40.3711_15.8066,Mojito,bar_cafe,bar_cafe
+40.342200,15.832850,ov_bar_pitstop82_40.3422_15.8329,BAR Pitstop82,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/bar_pitstop82_40.3422_15.8329.json,custom
+40.352894,15.821743,ov_milleunacialda_di_pato_caffe__40.3529_15.8217,Milleunacialda di Pato Caffe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/milleunacialda_di_pato_caffe_40.3529_15.8217.json,custom
+40.355374,15.828466,ov_bar_villa_mario_40.3554_15.8285,Bar Villa Mario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/bar_villa_mario_40.3554_15.8285.json,custom
+40.354988,15.829629,ov_bar_zipparri_40.3550_15.8296,Bar Zipparri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/bar_zipparri_40.3550_15.8296.json,custom
+40.354257,15.830883,ov_gli_ostinati_40.3543_15.8309,Gli Ostinati,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/gli_ostinati_40.3543_15.8309.json,custom
+40.355329,15.825728,ov_blackout_music_pub_40.3553_15.8257,Blackout Music Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/blackout_music_pub_40.3553_15.8257.json,custom
+40.356956,15.825114,ov_bar_roma_40.3570_15.8251,Bar Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/bar_roma_40.3570_15.8251.json,custom
+40.357360,15.834924,ov_bacco_e_cerere_40.3574_15.8349,Bacco e cerere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/bacco_e_cerere_40.3574_15.8349.json,custom
+40.356840,15.822730,ov_stampiamoditutto_40.3568_15.8227,Stampiamoditutto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/stampiamoditutto_40.3568_15.8227.json,custom
+40.371088,15.806597,osm_mojito_40.3711_15.8066,Mojito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/marsicovetere/pages/mojito_40.3711_15.8066.json,custom

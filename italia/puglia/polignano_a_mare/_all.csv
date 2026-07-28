@@ -1,253 +1,245 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Polignano a Mare -- Tutti
-41.013794,17.192704,osm_la_veranda_di_giselda_41.0138_17.1927,La Veranda di Giselda,ristorante,ristorante
-40.994991,17.215235,osm_villa_degli_aranci_40.9950_17.2152,Villa degli Aranci,ristorante,ristorante
-40.998093,17.215204,osm_la_tana_marina_40.9981_17.2152,La tana marina,ristorante,ristorante
-40.994264,17.220915,osm_antica_trattoria_comes_40.9943_17.2209,Antica Trattoria Comes,ristorante,ristorante
-40.998813,17.210848,osm_plenilunio_punta_paradiso_beach_bar_40.9988_17.2108,Plenilunio Punta Paradiso Beach Bar,ristorante,ristorante
-40.997065,17.217205,osm_meraviglioso_40.9971_17.2172,Meraviglioso,ristorante,ristorante
-40.994660,17.222731,osm_pizzeria_il_ritrovo_40.9947_17.2227,Pizzeria Il ritrovo,ristorante,ristorante
-40.995817,17.217380,osm_la_terrazza_40.9958_17.2174,La Terrazza,ristorante,ristorante
-40.995657,17.218300,osm_fcazz_e_birr_40.9957_17.2183,Fcazz e Birr,ristorante,ristorante
-40.995514,17.218884,osm_uccio_fish_food_40.9955_17.2189,Uccio Fish food,ristorante,ristorante
-40.995003,17.218948,osm_pic_nic_40.9950_17.2189,PIC-NIC,ristorante,ristorante
-40.995757,17.218672,osm_osteria_dei_mulini_40.9958_17.2187,Osteria dei mulini,ristorante,ristorante
-40.994734,17.219374,osm_pescaria_40.9947_17.2194,Pescaria,ristorante,ristorante
-40.993456,17.222430,osm_focacceria_del_corso_40.9935_17.2224,Focacceria del corso,ristorante,ristorante
-40.996033,17.219145,osm_pizzeria_osteria_bella__mbriana_40.9960_17.2191,Pizzeria Osteria Bella 'Mbriana,ristorante,ristorante
-40.995907,17.219574,osm_zia_l____la_merenda_barese_40.9959_17.2196,Zia Lè - La merenda Barese,ristorante,ristorante
-40.996119,17.224044,osm_gola_snack_da_vito_40.9961_17.2240,Gola Snack da Vito,ristorante,ristorante
-40.956617,17.204312,osm_paradisea_40.9566_17.2043,Paradisea,ristorante,ristorante
-40.989754,17.215013,osm_ristorante_pizzeria_il_sagittario_40.9898_17.2150,Ristorante Pizzeria Il Sagittario,ristorante,ristorante
-40.986983,17.190211,osm_sala_ricevimenti_san_tommaso_40.9870_17.1902,Sala ricevimenti San Tommaso,ristorante,ristorante
-40.985700,17.231180,ov_oralmedica_polignano_a_mare_40.9857_17.2312,Oralmedica Polignano a Mare,HOSPITAL,hospital
-40.930354,17.172855,ov_euforia_restaurant_40.9304_17.1729,Euforia Restaurant,RESTAURANT,ristorante
-40.926947,17.170092,ov_white_40.9269_17.1701,White,RESTAURANT,ristorante
-40.934727,17.178275,ov_il_ficodindia_40.9347_17.1783,Il Ficodindia,RESTAURANT,ristorante
-40.932344,17.188553,ov_ristorante_pizzeria_il_cuciniere_40.9323_17.1886,Ristorante Pizzeria Il Cuciniere,RESTAURANT,ristorante
-40.985746,17.236351,ov_graecalis_40.9857_17.2364,Graecalis,RESTAURANT,ristorante
-40.988581,17.228143,ov_l_officina_dei_sapori_40.9886_17.2281,L'Officina dei Sapori,RESTAURANT,ristorante
-40.989756,17.226305,ov_giuffr__40.9898_17.2263,Giuffrè,RESTAURANT,ristorante
-40.990568,17.227999,ov_golden_bar_pizza_more_40.9906_17.2280,Golden Bar-Pizza&more,RESTAURANT,ristorante
-40.990112,17.228472,ov_criv__pizzeria_40.9901_17.2285,Crivì pizzeria,RESTAURANT,ristorante
-40.990040,17.227182,ov_taxi_pizza_due_srl_40.9900_17.2272,Taxi Pizza Due SRL,RESTAURANT,ristorante
-40.989998,17.227115,ov_pinocchio_40.9900_17.2271,Pinocchio,RESTAURANT,ristorante
-40.992236,17.229543,ov_dettagli_di_mare_40.9922_17.2295,Dettagli di Mare,RESTAURANT,ristorante
-40.991939,17.224249,ov_pescheria_lo_scoglio_40.9919_17.2242,Pescheria Lo Scoglio,RESTAURANT,ristorante
-40.992849,17.229015,ov_pizzeria_triticum_40.9928_17.2290,Pizzeria Triticum,RESTAURANT,ristorante
-40.992754,17.229469,ov_leo_s_braci_d_autore_40.9928_17.2295,Leo's Braci d'Autore,RESTAURANT,ristorante
-40.993181,17.229123,ov_fra_crudi_and_cotti_40.9932_17.2291,Fra Crudi and Cotti,RESTAURANT,ristorante
-40.993144,17.229165,ov_l_eremita_40.9931_17.2292,L'eremita,RESTAURANT,ristorante
-40.993785,17.228192,ov_fuji_sushi_all_you_can_eat_40.9938_17.2282,Fuji Sushi All You Can Eat,RESTAURANT,ristorante
-40.993831,17.228267,ov_miyako_sushi_restaurant_40.9938_17.2283,Miyako Sushi Restaurant,RESTAURANT,ristorante
-40.996199,17.224085,ov_gola_snack_da_vito_ciambone_40.9962_17.2241,Gola Snack Da Vito Ciambone,RESTAURANT,ristorante
-40.998609,17.214752,ov_da_vittorino_by_vecchi_marinai_40.9986_17.2148,Da Vittorino by Vecchi Marinai,RESTAURANT,ristorante
-40.998344,17.213829,ov_ristorante_braceria_pizzeria_pepe_nero_40.9983_17.2138,Ristorante Braceria Pizzeria PEPE NERO,RESTAURANT,ristorante
-40.998345,17.214558,ov_da_pasqualino__il_re_del_polpo__40.9983_17.2146,Da Pasqualino -Il Re del Polpo-,RESTAURANT,ristorante
-40.997820,17.212479,ov_jamante_experience_restaurant_40.9978_17.2125,Jamante Experience Restaurant,RESTAURANT,ristorante
-40.998175,17.215161,ov_calapa_40.9982_17.2152,Calapa,RESTAURANT,ristorante
-40.996661,17.219493,ov_sunshine_lacasadelpolpo_40.9967_17.2195,Sunshine Lacasadelpolpo,RESTAURANT,ristorante
-40.996667,17.219491,ov_ristorante_la_balconata_40.9967_17.2195,Ristorante La Balconata,RESTAURANT,ristorante
-40.996847,17.219177,ov_lime_40.9968_17.2192,Lime,RESTAURANT,ristorante
-40.996630,17.219085,ov_strascina_40.9966_17.2191,Strascina,RESTAURANT,ristorante
-40.996403,17.219170,ov_number_one_paninoteca_friggitoria_40.9964_17.2192,Number ONE paninoteca friggitoria,RESTAURANT,ristorante
-40.996270,17.223283,ov_ristorante_grotta_ardito_40.9963_17.2233,Ristorante Grotta Ardito,RESTAURANT,ristorante
-40.995896,17.221121,ov_grotta_palazzese_40.9959_17.2211,Grotta Palazzese,RESTAURANT,ristorante
-40.995701,17.220997,ov_sporcamuss_40.9957_17.2210,Sporcamuss,RESTAURANT,ristorante
-40.995722,17.222495,ov_tuccino_40.9957_17.2225,tuccino,RESTAURANT,ristorante
-40.995352,17.221193,ov_mosto_polignano_40.9954_17.2212,Mosto Polignano,RESTAURANT,ristorante
-40.995441,17.221061,ov_vizi___sfizi_40.9954_17.2211,Vizi & Sfizi,RESTAURANT,ristorante
-40.995440,17.221569,ov_ristorante_nobilnonna_40.9954_17.2216,Ristorante Nobilnonna,RESTAURANT,ristorante
-40.995417,17.221774,ov_baguetteria_da_gianpie_40.9954_17.2218,Baguetteria da Gianpie,RESTAURANT,ristorante
-40.995493,17.221786,ov_pizza_e_fichi_40.9955_17.2218,Pizza E Fichi,RESTAURANT,ristorante
-40.995485,17.221097,ov_ruz_cucina_confidenziale_40.9955_17.2211,Ruz Cucina Confidenziale,RESTAURANT,ristorante
-40.995609,17.220889,ov_la_locanda_porta_picc_40.9956_17.2209,La Locanda Porta Picc,RESTAURANT,ristorante
-40.995367,17.220104,ov_tomarito_by_pescaria_40.9954_17.2201,Tomarito by Pescaria,RESTAURANT,ristorante
-40.995350,17.220212,ov_il_quadrifoglio_40.9953_17.2202,Il Quadrifoglio,RESTAURANT,ristorante
-40.995302,17.220520,ov_il_grottino_40.9953_17.2205,Il Grottino,RESTAURANT,ristorante
-40.995247,17.220532,ov_olio_su_pane_40.9952_17.2205,Olio su pane,RESTAURANT,ristorante
-40.995221,17.220902,ov_manvi_ortofood_40.9952_17.2209,ManVi Ortofood,RESTAURANT,ristorante
-40.995243,17.220122,ov_frum__focacceria_e_pinseria_40.9952_17.2201,Frumè Focacceria e Pinseria,RESTAURANT,ristorante
-40.995301,17.219979,ov_spizzicomania_40.9953_17.2200,Spizzicomania,RESTAURANT,ristorante
-40.995257,17.219702,ov_restaurant_antiche_mura_40.9953_17.2197,Restaurant Antiche Mura,RESTAURANT,ristorante
-40.995278,17.218743,ov_massari_mozzarella_bar_40.9953_17.2187,Massari Mozzarella Bar,RESTAURANT,ristorante
-40.995210,17.219280,ov_dragone_vito_40.9952_17.2193,Dragone Vito,RESTAURANT,ristorante
-40.995026,17.218944,ov_pic_nic___il_bistrot_di_casa_mia_40.9950_17.2189,PIC NIC - il bistrot di Casa Mia,RESTAURANT,ristorante
-40.995010,17.218700,ov_irvi_scafegelateria_40.9950_17.2187,Irvi’scafegelateria,RESTAURANT,ristorante
-40.995111,17.218686,ov_san_michele_osteria_40.9951_17.2187,San Michele Osteria,RESTAURANT,ristorante
-40.995213,17.218317,ov_lamare_40.9952_17.2183,Lamare,RESTAURANT,ristorante
-40.995351,17.218461,ov_al_buco_preferito_tranquillage_40.9954_17.2185,Al Buco Preferito Tranquillage,RESTAURANT,ristorante
-40.995339,17.219361,ov_osteria_dei_pellegrini_40.9953_17.2194,Osteria Dei Pellegrini,RESTAURANT,ristorante
-40.995417,17.218976,ov_begula_club_cafe_restaurant_40.9954_17.2190,Begula Club Cafe Restaurant,RESTAURANT,ristorante
-40.995522,17.218916,ov_cru_fish_bar_40.9955_17.2189,Cru Fish Bar,RESTAURANT,ristorante
-40.995861,17.219429,ov_trattoria_rosso_40.9959_17.2194,Trattoria Rosso,RESTAURANT,ristorante
-40.995744,17.218729,ov_osteria_dei_mulini_40.9957_17.2187,Osteria dei Mulini,RESTAURANT,ristorante
-40.995736,17.218963,ov_l_archibugio_40.9957_17.2190,L'Archibugio,RESTAURANT,ristorante
-40.995836,17.220478,ov_la_casa_di_nicole_40.9958_17.2205,La Casa di Nicole,RESTAURANT,ristorante
-40.995832,17.219610,ov_zia_l____la_merenda_barese_40.9958_17.2196,Zia Lè - La Merenda Barese,RESTAURANT,ristorante
-40.996175,17.220550,ov_casanova_polignano_a_mare_40.9962_17.2206,Casanova Polignano a Mare,RESTAURANT,ristorante
-40.996263,17.219900,ov_mint_cucina_fresca_40.9963_17.2199,MINT Cucina Fresca,RESTAURANT,ristorante
-40.996267,17.219291,ov_n_uro_ristorante_e_pizzeria_40.9963_17.2193,N€uro ristorante e pizzeria,RESTAURANT,ristorante
-40.996253,17.219060,ov_oro_della_terra_40.9963_17.2191,Oro della Terra,RESTAURANT,ristorante
-40.996057,17.219150,ov_bella__mbriana_40.9961_17.2192,Bella 'Mbriana,RESTAURANT,ristorante
-40.996098,17.219025,ov_ristorante_pizzeria_neuro_40.9961_17.2190,Ristorante Pizzeria Neuro,RESTAURANT,ristorante
-40.996256,17.217203,ov_la_focacceria_delle_noci_marco_40.9963_17.2172,La Focacceria Delle Noci Marco,RESTAURANT,ristorante
-40.996110,17.217176,ov_puro_40.9961_17.2172,Puro,RESTAURANT,ristorante
-40.995879,17.217416,ov_la_terrazza_40.9959_17.2174,La Terrazza,RESTAURANT,ristorante
-40.995961,17.217344,ov_la_rotellina_40.9960_17.2173,La Rotellina,RESTAURANT,ristorante
-40.995855,17.217849,ov_cove_restaurant___bar_40.9959_17.2178,Cove Restaurant & Bar,RESTAURANT,ristorante
-40.995813,17.217852,ov_fly_calaporto_40.9958_17.2179,Fly Calaporto,RESTAURANT,ristorante
-40.995698,17.217740,ov_terrazze_monachile_40.9957_17.2177,Terrazze Monachile,RESTAURANT,ristorante
-40.995061,17.215323,ov_villa_degli_aranci_40.9951_17.2153,Villa degli Aranci,RESTAURANT,ristorante
-40.996939,17.216895,ov_l_osteria_di_chichibio_40.9969_17.2169,L'Osteria di Chichibio,RESTAURANT,ristorante
-40.996849,17.216983,ov_cala_ponte_spa_40.9968_17.2170,Cala Ponte SPA,RESTAURANT,ristorante
-40.996928,17.216241,ov_trattoria_dal_monaco_40.9969_17.2162,Trattoria Dal Monaco,RESTAURANT,ristorante
-40.996742,17.215416,ov_ristorante_il_bastione_40.9967_17.2154,Ristorante Il Bastione,RESTAURANT,ristorante
-40.997098,17.215337,ov_focacce_memorabili_40.9971_17.2153,Focacce Memorabili,RESTAURANT,ristorante
-40.997067,17.215768,ov_osteria_piga_40.9971_17.2158,Osteria Piga,RESTAURANT,ristorante
-40.996955,17.216328,ov_braceria_dello_sport_40.9970_17.2163,Braceria dello Sport,RESTAURANT,ristorante
-40.997114,17.217155,ov_meraviglioso_40.9971_17.2172,Meraviglioso,RESTAURANT,ristorante
-40.997017,17.216963,ov_morus_ristorante_40.9970_17.2170,Morus Ristorante,RESTAURANT,ristorante
-40.997192,17.216677,ov_enzo_ciro__polignano_40.9972_17.2167,Enzo&Ciro- Polignano,RESTAURANT,ristorante
-40.997527,17.216534,ov_malidea_40.9975_17.2165,Malidea,RESTAURANT,ristorante
-40.994291,17.204486,ov_ristopizza_polignano_a_mare_40.9943_17.2045,Ristopizza Polignano A Mare,RESTAURANT,ristorante
-40.992872,17.217756,ov_moonlight_bistrot___polignano_a_mare_40.9929_17.2178,Moonlight Bistrot - Polignano a Mare,RESTAURANT,ristorante
-40.993430,17.212687,ov_360_gradi_40.9934_17.2127,360 Gradi,RESTAURANT,ristorante
-40.994397,17.215984,ov_specchia_sant_oronzo_40.9944_17.2160,Specchia Sant'Oronzo,RESTAURANT,ristorante
-40.993840,17.216300,ov_momo_sushi___grill_40.9938_17.2163,Momo Sushi & Grill,RESTAURANT,ristorante
-40.993842,17.218246,ov_panz_40.9938_17.2182,Panz,RESTAURANT,ristorante
-40.993733,17.219923,ov_eat___drink_kebab___pizza_40.9937_17.2199,Eat & Drink Kebab & Pizza,RESTAURANT,ristorante
-40.993907,17.220054,ov_braceria_da_marco_40.9939_17.2201,Braceria da Marco,RESTAURANT,ristorante
-40.994299,17.220927,ov_antica_trattoria_comes_40.9943_17.2209,Antica Trattoria Comes,RESTAURANT,ristorante
-40.994296,17.219766,ov_l_angolo_del_buon_gusto_40.9943_17.2198,L'Angolo del Buon Gusto,RESTAURANT,ristorante
-40.994321,17.219807,ov_la_rustica_40.9943_17.2198,La Rustica,RESTAURANT,ristorante
-40.994534,17.219226,ov_pizzeria_cucundeo_40.9945_17.2192,Pizzeria Cucundeo,RESTAURANT,ristorante
-40.994559,17.219340,ov_trattoria_il_cuccundeo_40.9946_17.2193,Trattoria Il Cuccundeo,RESTAURANT,ristorante
-40.994834,17.218825,ov_da_luciano_40.9948_17.2188,Da Luciano,RESTAURANT,ristorante
-40.994712,17.219395,ov_pescaria_40.9947_17.2194,Pescaria,RESTAURANT,ristorante
-40.994712,17.219402,ov_partenope_40.9947_17.2194,Partenope,RESTAURANT,ristorante
-40.994990,17.219910,ov_happy_food___il_fast_food_artigianale_40.9950_17.2199,Happy Food - Il fast food artigianale,RESTAURANT,ristorante
-40.994845,17.220624,ov_l_amo___love__fish___wine_40.9948_17.2206,"L'Amo - Love, Fish & Wine",RESTAURANT,ristorante
-40.994700,17.221080,ov_street_burger_40.9947_17.2211,Street Burger,RESTAURANT,ristorante
-40.993784,17.222143,ov_bottegasanta_40.9938_17.2221,Bottegasanta,RESTAURANT,ristorante
-40.993427,17.222558,ov_focacceria_del_corso_40.9934_17.2226,Focacceria del Corso,RESTAURANT,ristorante
-40.993453,17.219918,ov_braceria_leo_s_40.9935_17.2199,Braceria Leo's,RESTAURANT,ristorante
-40.993564,17.219742,ov_pizzeria_terra_marique_40.9936_17.2197,Pizzeria Terra Marique,RESTAURANT,ristorante
-40.993322,17.217989,ov_pa____vi__40.9933_17.2180,Pa' & Vi',RESTAURANT,ristorante
-40.993070,17.220020,ov_silvius_40.9931_17.2200,Silvius,RESTAURANT,ristorante
-40.993014,17.219924,ov_casa_orecchietta_40.9930_17.2199,Casa Orecchietta,RESTAURANT,ristorante
-40.992611,17.219458,ov_numeri_primi_40.9926_17.2195,Numeri Primi,RESTAURANT,ristorante
-40.992510,17.223110,ov_italiano_per_stranieri_a_polignano_a_mar_40.9925_17.2231,Italiano Per Stranieri a Polignano a Mare,RESTAURANT,ristorante
-40.991165,17.219443,ov_pruna_40.9912_17.2194,Pruna,RESTAURANT,ristorante
-40.991980,17.218650,ov_la_balconata_40.9920_17.2187,La Balconata,RESTAURANT,ristorante
-40.992008,17.214562,ov_ristorante_delicatesse_40.9920_17.2146,Ristorante Delicatesse,RESTAURANT,ristorante
-40.991923,17.214854,ov_pan_per_focaccia_40.9919_17.2149,Pan per focaccia,RESTAURANT,ristorante
-40.989799,17.215164,ov_ristorante_il_sagittario_40.9898_17.2152,Ristorante Il Sagittario,RESTAURANT,ristorante
-40.989968,17.215364,ov_il_capriccio_40.9900_17.2154,Il Capriccio,RESTAURANT,ristorante
-40.990873,17.220144,ov_peat_stop_40.9909_17.2201,Peat Stop,RESTAURANT,ristorante
-40.987854,17.222435,ov_ristorante_il_sagittario_40.9879_17.2224,Ristorante Il Sagittario,RESTAURANT,ristorante
-40.981432,17.183948,ov_villa_antos_40.9814_17.1839,Villa Antos,RESTAURANT,ristorante
-40.981229,17.183352,ov_macchialuna_40.9812_17.1834,Macchialuna,RESTAURANT,ristorante
-41.002818,17.202474,ov_da_tuccino_41.0028_17.2025,Da Tuccino,RESTAURANT,ristorante
-41.003249,17.202394,ov_abissi___bistrot_da_tuccino_41.0032_17.2024,Abissi - Bistrot da Tuccino,RESTAURANT,ristorante
-41.006548,17.201905,ov_ristorante_cala_ponte_41.0065_17.2019,Ristorante Cala Ponte,RESTAURANT,ristorante
-41.013737,17.192667,ov_la_veranda_di_giselda_41.0137_17.1927,La Veranda di Giselda,RESTAURANT,ristorante
-41.013244,17.192655,ov_locanda_dei_benedettini_41.0132_17.1927,Locanda dei Benedettini,RESTAURANT,ristorante
-41.013230,17.192900,ov_moonvida_41.0132_17.1929,Moonvida,RESTAURANT,ristorante
-40.950299,17.186346,ov_sand_veit_restaurant_40.9503_17.1863,Sand Veit Restaurant,RESTAURANT,ristorante
-40.957941,17.190698,ov_la_baracca_osteria_40.9579_17.1907,La Baracca Osteria,RESTAURANT,ristorante
-40.957670,17.191160,ov_white_restaurant_polignano_40.9577_17.1912,White Restaurant Polignano,RESTAURANT,ristorante
-40.954981,17.189530,ov_braceria_da_marcuccio_40.9550_17.1895,Braceria Da Marcuccio,RESTAURANT,ristorante
-40.960619,17.173716,ov_il_girasole_40.9606_17.1737,Il Girasole,RESTAURANT,ristorante
-40.960178,17.195139,ov_masseria_del_crocifisso_40.9602_17.1951,Masseria Del Crocifisso,RESTAURANT,ristorante
-40.962345,17.200663,ov_casale_dei_fornici_40.9623_17.2007,Casale dei Fornici,RESTAURANT,ristorante
-40.974791,17.251350,ov_baby_play__sporting_club_40.9748_17.2513,Baby Play- Sporting Club,RESTAURANT,ristorante
-40.973937,17.253040,ov_graecalis_40.9739_17.2530,Graecalis,RESTAURANT,ristorante
-40.952043,17.298647,ov_machi_charter_40.9520_17.2986,Machi Charter,RESTAURANT,ristorante
-40.932159,17.188673,ov_caf__robif__40.9322_17.1887,Café Robifé,RESTAURANT,bar_cafe
-41.028741,17.155845,ov_ip_carluccio_caffe_41.0287_17.1558,IP Carluccio Caffe,RESTAURANT,bar_cafe
-40.979290,17.258223,ov_bar_calipso_40.9793_17.2582,Bar Calipso,RESTAURANT,bar_cafe
-40.988438,17.226567,ov_life_cafe_games_40.9884_17.2266,Life Cafe Games,RESTAURANT,bar_cafe
-40.989825,17.226174,ov_bar_pasticceria_crema_caff__40.9898_17.2262,Bar Pasticceria Crema Caffé,RESTAURANT,bar_cafe
-40.989772,17.226203,ov_mari_urban_coffee_40.9898_17.2262,Mari Urban Coffee,RESTAURANT,bar_cafe
-40.991143,17.224087,ov_pasticceria_jolly_40.9911_17.2241,Pasticceria Jolly,RESTAURANT,bar_cafe
-40.993043,17.229155,ov_malikafe_40.9930_17.2292,Malikafe,RESTAURANT,bar_cafe
-40.994815,17.226300,ov_habitat_cafe_40.9948_17.2263,Habitat Cafe,RESTAURANT,bar_cafe
-40.996494,17.219194,ov_la_casa_del_mojito_40.9965_17.2192,La Casa Del Mojito,RESTAURANT,bar_cafe
-40.996601,17.218987,ov_sensory___polignano_a_mare_40.9966_17.2190,Sensory - Polignano a Mare,RESTAURANT,bar_cafe
-40.996438,17.219059,ov_six_star_lounge_bar_40.9964_17.2191,Six Star Lounge Bar,RESTAURANT,bar_cafe
-40.996568,17.219507,ov_la_bella_vista_40.9966_17.2195,La bella vista,RESTAURANT,bar_cafe
-40.995380,17.221140,ov_bar_peppino_40.9954_17.2211,Bar Peppino,RESTAURANT,bar_cafe
-40.995337,17.221378,ov_appian_way_40.9953_17.2214,Appian Way,RESTAURANT,bar_cafe
-40.995511,17.219438,ov_vinaria_40.9955_17.2194,Vinaria,RESTAURANT,bar_cafe
-40.995340,17.219707,ov_hops_birreria_and_wine_bar_40.9953_17.2197,Hops Birreria and Wine Bar,RESTAURANT,bar_cafe
-40.995197,17.219803,ov_bisciu_boatour_escursioni_polignano_40.9952_17.2198,Bisciu boatour Escursioni Polignano,RESTAURANT,bar_cafe
-40.995320,17.218286,ov_fcazz_e_birr_40.9953_17.2183,Fcazz e Birr,RESTAURANT,bar_cafe
-40.995363,17.218794,ov_bar_gelateria_40.9954_17.2188,Bar Gelateria,RESTAURANT,bar_cafe
-40.995530,17.218920,ov_oppure_kitchen_house___polignano_40.9955_17.2189,Oppure Kitchen House - Polignano,RESTAURANT,bar_cafe
-40.995562,17.218370,ov_millennium_cafe__polignano_40.9956_17.2184,Millennium cafe' Polignano,RESTAURANT,bar_cafe
-40.995756,17.218728,ov_nero_matto_40.9958_17.2187,Nero Matto,RESTAURANT,bar_cafe
-40.995662,17.218903,ov_bonta_sotto_l_arco_40.9957_17.2189,Bonta Sotto l'Arco,RESTAURANT,bar_cafe
-40.995842,17.220920,ov_luna_40.9958_17.2209,LUNA,RESTAURANT,bar_cafe
-40.995911,17.220672,ov_la_cueva_cafe_40.9959_17.2207,La Cueva Cafe,RESTAURANT,bar_cafe
-40.995951,17.220497,ov_infermento_40.9960_17.2205,Infermento,RESTAURANT,bar_cafe
-40.996191,17.220030,ov_sanb__40.9962_17.2200,Sanbé,RESTAURANT,bar_cafe
-40.995820,17.217240,ov_solarium_caffe_40.9958_17.2172,Solarium Caffe,RESTAURANT,bar_cafe
-40.996345,17.217666,ov_fly___food_sun___drink_40.9963_17.2177,Fly - food sun & drink,RESTAURANT,bar_cafe
-40.996516,17.216787,ov_bar_clipper_40.9965_17.2168,Bar Clipper,RESTAURANT,bar_cafe
-40.996474,17.216757,ov_caf__del_mare_40.9965_17.2168,Café Del Mare,RESTAURANT,bar_cafe
-40.996808,17.216738,ov_bar_riviera_40.9968_17.2167,Bar Riviera,RESTAURANT,bar_cafe
-40.996705,17.215829,ov_nnamari_40.9967_17.2158,Nnamari,RESTAURANT,bar_cafe
-40.997560,17.213280,ov_baia_del_fico___polignano_40.9976_17.2133,Baia del Fico - Polignano,RESTAURANT,bar_cafe
-40.998910,17.210858,ov_plenilunio_punta_paradiso_40.9989_17.2109,Plenilunio Punta Paradiso,RESTAURANT,bar_cafe
-40.994172,17.204434,ov_bar_al_punto_giusto_40.9942_17.2044,Bar al Punto Giusto,RESTAURANT,bar_cafe
-40.993205,17.211676,ov_caff__noir_40.9932_17.2117,Caffè Noir,RESTAURANT,bar_cafe
-40.993814,17.217500,ov_mist__caf__40.9938_17.2175,MISTÓ CAFÈ,RESTAURANT,bar_cafe
-40.993916,17.219075,ov_enoteca_la_cantina_del_vino_40.9939_17.2191,Enoteca La Cantina del Vino,RESTAURANT,bar_cafe
-40.994088,17.220105,ov_crema_caffe_40.9941_17.2201,Crema Caffe,RESTAURANT,bar_cafe
-40.994083,17.220132,ov_bar_gelateria_caffe_laguna_blu_40.9941_17.2201,Bar Gelateria Caffe Laguna Blu,RESTAURANT,bar_cafe
-40.994638,17.218743,ov_alcova_lounge_bar_40.9946_17.2187,Alcova Lounge Bar,RESTAURANT,bar_cafe
-40.994828,17.219394,ov_gran_caff__comes_40.9948_17.2194,Gran Caffè Comes,RESTAURANT,bar_cafe
-40.994956,17.220063,ov_b_local_40.9950_17.2201,B-local,RESTAURANT,bar_cafe
-40.994415,17.220862,ov_bar_turismo_40.9944_17.2209,Bar Turismo,RESTAURANT,bar_cafe
-40.994560,17.222670,ov_nalu_40.9946_17.2227,Nalu,RESTAURANT,bar_cafe
-40.994050,17.221620,ov_punto_snai_polignano_40.9941_17.2216,Punto Snai Polignano,RESTAURANT,bar_cafe
-40.993924,17.221560,ov_caff__italia_40.9939_17.2216,Caffè Italia,RESTAURANT,bar_cafe
-40.993374,17.219923,ov_sensi_di_vino_40.9934_17.2199,Sensi Di Vino,RESTAURANT,bar_cafe
-40.992710,17.223842,ov_glamour_cafe_40.9927_17.2238,Glamour Cafe,RESTAURANT,bar_cafe
-40.991593,17.223749,ov_il_re_del_panzerotto___sibilia_40.9916_17.2237,Il re del Panzerotto - Sibilia,RESTAURANT,bar_cafe
-40.991427,17.218935,ov_caffe_commercio_40.9914_17.2189,Caffe Commercio,RESTAURANT,bar_cafe
-40.992335,17.217566,ov_l_officina_del_caffe_40.9923_17.2176,L'Officina del Caffe,RESTAURANT,bar_cafe
-40.991864,17.215070,ov_max_caffe_40.9919_17.2151,Max Caffe,RESTAURANT,bar_cafe
-40.990852,17.220203,ov_l_arciere_40.9909_17.2202,L'Arciere,RESTAURANT,bar_cafe
-40.990330,17.223083,ov_soan_cafe_40.9903_17.2231,SOAN Cafe,RESTAURANT,bar_cafe
-40.989944,17.222163,ov_caff__degli_artisti_40.9899_17.2222,Caffè degli Artisti,RESTAURANT,bar_cafe
-40.982238,17.177144,ov_2erre_40.9822_17.1771,2erre,RESTAURANT,bar_cafe
-41.005611,17.200192,ov_mood_bay_41.0056_17.2002,Mood Bay,RESTAURANT,bar_cafe
-41.013345,17.191658,ov_moonshine___la_teoria_del_gusto_41.0133_17.1917,Moonshine - La teoria del gusto,RESTAURANT,bar_cafe
-41.013696,17.194143,ov_ristorante_la_colonna_41.0137_17.1941,Ristorante La Colonna,RESTAURANT,bar_cafe
-40.991985,17.225191,osm_cremeria_110_40.9920_17.2252,Cremeria 110,bar_cafe,bar_cafe
-40.994423,17.219601,osm_caff__minerva_40.9944_17.2196,Caffè Minerva,bar_cafe,bar_cafe
-40.992292,17.229622,osm_pink_roses_caf__e_lounge_bar_40.9923_17.2296,Pink Roses Cafè e Lounge Bar,bar_cafe,bar_cafe
-40.994243,17.221195,osm_bar_pasticceria_pedote_40.9942_17.2212,Bar Pasticceria Pedote,bar_cafe,bar_cafe
-40.991441,17.218892,osm_bar_commercio_40.9914_17.2189,Bar Commercio,bar_cafe,bar_cafe
-40.988483,17.226628,osm_life_caf__games_bar_paninoteca_40.9885_17.2266,Life Cafè games bar paninoteca,bar_cafe,bar_cafe
-40.995879,17.220544,osm_infermento_40.9959_17.2205,Infermento,bar_cafe,bar_cafe
-40.995453,17.219139,osm_begula_caf__40.9955_17.2191,Begula Cafè,bar_cafe,bar_cafe
-40.993333,17.217806,osm_irvi_s_caf__40.9933_17.2178,Irvi's Cafè,bar_cafe,bar_cafe
-40.994963,17.219293,osm_il_mago_del_gelato_40.9950_17.2193,Il mago del Gelato,bar_cafe,bar_cafe
-40.995968,17.218975,osm_zerottanta_40.9960_17.2190,Zerottanta,bar_cafe,bar_cafe
-40.986674,17.231449,ov_ohana____centro_ricreativo_per_bambini_40.9867_17.2314,OHANA -  Centro ricreativo per bambini,GYM,palestra
-40.992035,17.225126,ov_rosa_dance_school_40.9920_17.2251,Rosa Dance School,GYM,palestra
-40.992105,17.226643,ov_palestra_living_40.9921_17.2266,Palestra living,GYM,palestra
-40.996250,17.217191,ov_accademia_delle_muse_40.9963_17.2172,Accademia delle Muse,GYM,palestra
-40.989831,17.219406,ov_legend_gym_h24_40.9898_17.2194,Legend Gym H24,GYM,palestra
-40.989625,17.223029,ov_accademia_della_danza_nibe_40.9896_17.2230,Accademia della Danza NiBe,GYM,palestra
-40.974924,17.171214,ov_scuderie_le_torri_40.9749_17.1712,Scuderie Le Torri,GYM,palestra
-40.963156,17.200782,ov_calcetto_pane_e_acqua_40.9632_17.2008,Calcetto Pane e Acqua,GYM,palestra
-40.947665,17.286754,ov_studio_kinesis_40.9477_17.2868,Studio Kinesis,GYM,palestra
-40.994028,17.228673,ov_fondazione_pino_pascali___museo_di_arte__40.9940_17.2287,Fondazione Pino Pascali - Museo di Arte Contemporanea,MUSEUM,monumento
-40.997057,17.218952,ov_bastione_di_santo_stefano_40.9971_17.2190,Bastione di Santo Stefano,MONUMENT,monumento
-40.997255,17.217099,ov_statue_of_domenico_modugno_40.9973_17.2171,Statue of Domenico Modugno,MONUMENT,monumento
-40.990443,17.204308,ov_star_wars_museum_40.9904_17.2043,Star Wars Museum,MUSEUM,monumento
-40.993035,17.221818,ov_like_a_little_disaster_40.9930_17.2218,Like a little disaster,MUSEUM,monumento
+40.985700,17.231180,ov_oralmedica_polignano_a_mare_40.9857_17.2312,Oralmedica Polignano a Mare,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/oralmedica_polignano_a_mare_40.9857_17.2312.json,custom
+40.930354,17.172855,ov_euforia_restaurant_40.9304_17.1729,Euforia Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/euforia_restaurant_40.9304_17.1729.json,custom
+40.926947,17.170092,ov_white_40.9269_17.1701,White,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/white_40.9269_17.1701.json,custom
+40.934727,17.178275,ov_il_ficodindia_40.9347_17.1783,Il Ficodindia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_ficodindia_40.9347_17.1783.json,custom
+40.932344,17.188553,ov_ristorante_pizzeria_il_cuciniere_40.9323_17.1886,Ristorante Pizzeria Il Cuciniere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_pizzeria_il_cuciniere_40.9323_17.1886.json,custom
+40.985746,17.236351,ov_graecalis_40.9857_17.2364,Graecalis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/graecalis_40.9857_17.2364.json,custom
+40.988581,17.228143,ov_l_officina_dei_sapori_40.9886_17.2281,L'Officina dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/lofficina_dei_sapori_40.9886_17.2281.json,custom
+40.989756,17.226305,ov_giuffr__40.9898_17.2263,Giuffrè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/giuffr_40.9898_17.2263.json,custom
+40.990568,17.227999,ov_golden_bar_pizza_more_40.9906_17.2280,Golden Bar-Pizza&more,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/golden_bar-pizzamore_40.9906_17.2280.json,custom
+40.990112,17.228472,ov_criv__pizzeria_40.9901_17.2285,Crivì pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/criv_pizzeria_40.9901_17.2285.json,custom
+40.990040,17.227182,ov_taxi_pizza_due_srl_40.9900_17.2272,Taxi Pizza Due SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/taxi_pizza_due_srl_40.9900_17.2272.json,custom
+40.989998,17.227115,ov_pinocchio_40.9900_17.2271,Pinocchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pinocchio_40.9900_17.2271.json,custom
+40.992236,17.229543,ov_dettagli_di_mare_40.9922_17.2295,Dettagli di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/dettagli_di_mare_40.9922_17.2295.json,custom
+40.991939,17.224249,ov_pescheria_lo_scoglio_40.9919_17.2242,Pescheria Lo Scoglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pescheria_lo_scoglio_40.9919_17.2242.json,custom
+40.992849,17.229015,ov_pizzeria_triticum_40.9928_17.2290,Pizzeria Triticum,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizzeria_triticum_40.9928_17.2290.json,custom
+40.992754,17.229469,ov_leo_s_braci_d_autore_40.9928_17.2295,Leo's Braci d'Autore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/leos_braci_dautore_40.9928_17.2295.json,custom
+40.993181,17.229123,ov_fra_crudi_and_cotti_40.9932_17.2291,Fra Crudi and Cotti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fra_crudi_and_cotti_40.9932_17.2291.json,custom
+40.993144,17.229165,ov_l_eremita_40.9931_17.2292,L'eremita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/leremita_40.9931_17.2292.json,custom
+40.993785,17.228192,ov_fuji_sushi_all_you_can_eat_40.9938_17.2282,Fuji Sushi All You Can Eat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fuji_sushi_all_you_can_eat_40.9938_17.2282.json,custom
+40.993831,17.228267,ov_miyako_sushi_restaurant_40.9938_17.2283,Miyako Sushi Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/miyako_sushi_restaurant_40.9938_17.2283.json,custom
+40.996199,17.224085,ov_gola_snack_da_vito_ciambone_40.9962_17.2241,Gola Snack Da Vito Ciambone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/gola_snack_da_vito_ciambone_40.9962_17.2241.json,custom
+40.998609,17.214752,ov_da_vittorino_by_vecchi_marinai_40.9986_17.2148,Da Vittorino by Vecchi Marinai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/da_vittorino_by_vecchi_marinai_40.9986_17.2148.json,custom
+40.998344,17.213829,ov_ristorante_braceria_pizzeria_pepe_nero_40.9983_17.2138,Ristorante Braceria Pizzeria PEPE NERO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_braceria_pizzeria_pepe_nero_40.9983_17.2138.json,custom
+40.998345,17.214558,ov_da_pasqualino__il_re_del_polpo__40.9983_17.2146,Da Pasqualino -Il Re del Polpo-,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/da_pasqualino_-il_re_del_polpo-_40.9983_17.2146.json,custom
+40.997820,17.212479,ov_jamante_experience_restaurant_40.9978_17.2125,Jamante Experience Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/jamante_experience_restaurant_40.9978_17.2125.json,custom
+40.998175,17.215161,ov_calapa_40.9982_17.2152,Calapa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/calapa_40.9982_17.2152.json,custom
+40.996661,17.219493,ov_sunshine_lacasadelpolpo_40.9967_17.2195,Sunshine Lacasadelpolpo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sunshine_lacasadelpolpo_40.9967_17.2195.json,custom
+40.996667,17.219491,ov_ristorante_la_balconata_40.9967_17.2195,Ristorante La Balconata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_la_balconata_40.9967_17.2195.json,custom
+40.996847,17.219177,ov_lime_40.9968_17.2192,Lime,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/lime_40.9968_17.2192.json,custom
+40.996630,17.219085,ov_strascina_40.9966_17.2191,Strascina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/strascina_40.9966_17.2191.json,custom
+40.996403,17.219170,ov_number_one_paninoteca_friggitoria_40.9964_17.2192,Number ONE paninoteca friggitoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/number_one_paninoteca_friggitoria_40.9964_17.2192.json,custom
+40.996270,17.223283,ov_ristorante_grotta_ardito_40.9963_17.2233,Ristorante Grotta Ardito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_grotta_ardito_40.9963_17.2233.json,custom
+40.995896,17.221121,ov_grotta_palazzese_40.9959_17.2211,Grotta Palazzese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/grotta_palazzese_40.9959_17.2211.json,custom
+40.995701,17.220997,ov_sporcamuss_40.9957_17.2210,Sporcamuss,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sporcamuss_40.9957_17.2210.json,custom
+40.995722,17.222495,ov_tuccino_40.9957_17.2225,tuccino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/tuccino_40.9957_17.2225.json,custom
+40.995352,17.221193,ov_mosto_polignano_40.9954_17.2212,Mosto Polignano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/mosto_polignano_40.9954_17.2212.json,custom
+40.995441,17.221061,ov_vizi___sfizi_40.9954_17.2211,Vizi & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/vizi_sfizi_40.9954_17.2211.json,custom
+40.995440,17.221569,ov_ristorante_nobilnonna_40.9954_17.2216,Ristorante Nobilnonna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_nobilnonna_40.9954_17.2216.json,custom
+40.995417,17.221774,ov_baguetteria_da_gianpie_40.9954_17.2218,Baguetteria da Gianpie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/baguetteria_da_gianpie_40.9954_17.2218.json,custom
+40.995493,17.221786,ov_pizza_e_fichi_40.9955_17.2218,Pizza E Fichi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizza_e_fichi_40.9955_17.2218.json,custom
+40.995485,17.221097,ov_ruz_cucina_confidenziale_40.9955_17.2211,Ruz Cucina Confidenziale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ruz_cucina_confidenziale_40.9955_17.2211.json,custom
+40.995609,17.220889,ov_la_locanda_porta_picc_40.9956_17.2209,La Locanda Porta Picc,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_locanda_porta_picc_40.9956_17.2209.json,custom
+40.995367,17.220104,ov_tomarito_by_pescaria_40.9954_17.2201,Tomarito by Pescaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/tomarito_by_pescaria_40.9954_17.2201.json,custom
+40.995350,17.220212,ov_il_quadrifoglio_40.9953_17.2202,Il Quadrifoglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_quadrifoglio_40.9953_17.2202.json,custom
+40.995302,17.220520,ov_il_grottino_40.9953_17.2205,Il Grottino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_grottino_40.9953_17.2205.json,custom
+40.995247,17.220532,ov_olio_su_pane_40.9952_17.2205,Olio su pane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/olio_su_pane_40.9952_17.2205.json,custom
+40.995221,17.220902,ov_manvi_ortofood_40.9952_17.2209,ManVi Ortofood,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/manvi_ortofood_40.9952_17.2209.json,custom
+40.995243,17.220122,ov_frum__focacceria_e_pinseria_40.9952_17.2201,Frumè Focacceria e Pinseria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/frum_focacceria_e_pinseria_40.9952_17.2201.json,custom
+40.995301,17.219979,ov_spizzicomania_40.9953_17.2200,Spizzicomania,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/spizzicomania_40.9953_17.2200.json,custom
+40.995257,17.219702,ov_restaurant_antiche_mura_40.9953_17.2197,Restaurant Antiche Mura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/restaurant_antiche_mura_40.9953_17.2197.json,custom
+40.995278,17.218743,ov_massari_mozzarella_bar_40.9953_17.2187,Massari Mozzarella Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/massari_mozzarella_bar_40.9953_17.2187.json,custom
+40.995210,17.219280,ov_dragone_vito_40.9952_17.2193,Dragone Vito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/dragone_vito_40.9952_17.2193.json,custom
+40.995026,17.218944,ov_pic_nic___il_bistrot_di_casa_mia_40.9950_17.2189,PIC NIC - il bistrot di Casa Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pic_nic_-_il_bistrot_di_casa_mia_40.9950_17.2189.json,custom
+40.995010,17.218700,ov_irvi_scafegelateria_40.9950_17.2187,Irvi’scafegelateria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/irviscafegelateria_40.9950_17.2187.json,custom
+40.995111,17.218686,ov_san_michele_osteria_40.9951_17.2187,San Michele Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/san_michele_osteria_40.9951_17.2187.json,custom
+40.995213,17.218317,ov_lamare_40.9952_17.2183,Lamare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/lamare_40.9952_17.2183.json,custom
+40.995351,17.218461,ov_al_buco_preferito_tranquillage_40.9954_17.2185,Al Buco Preferito Tranquillage,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/al_buco_preferito_tranquillage_40.9954_17.2185.json,custom
+40.995339,17.219361,ov_osteria_dei_pellegrini_40.9953_17.2194,Osteria Dei Pellegrini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/osteria_dei_pellegrini_40.9953_17.2194.json,custom
+40.995417,17.218976,ov_begula_club_cafe_restaurant_40.9954_17.2190,Begula Club Cafe Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/begula_club_cafe_restaurant_40.9954_17.2190.json,custom
+40.995522,17.218916,ov_cru_fish_bar_40.9955_17.2189,Cru Fish Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/cru_fish_bar_40.9955_17.2189.json,custom
+40.995861,17.219429,ov_trattoria_rosso_40.9959_17.2194,Trattoria Rosso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/trattoria_rosso_40.9959_17.2194.json,custom
+40.995744,17.218729,ov_osteria_dei_mulini_40.9957_17.2187,Osteria dei Mulini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/osteria_dei_mulini_40.9957_17.2187.json,custom
+40.995736,17.218963,ov_l_archibugio_40.9957_17.2190,L'Archibugio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/larchibugio_40.9957_17.2190.json,custom
+40.995836,17.220478,ov_la_casa_di_nicole_40.9958_17.2205,La Casa di Nicole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_casa_di_nicole_40.9958_17.2205.json,custom
+40.995832,17.219610,ov_zia_l____la_merenda_barese_40.9958_17.2196,Zia Lè - La Merenda Barese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/zia_l_-_la_merenda_barese_40.9958_17.2196.json,custom
+40.996175,17.220550,ov_casanova_polignano_a_mare_40.9962_17.2206,Casanova Polignano a Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/casanova_polignano_a_mare_40.9962_17.2206.json,custom
+40.996263,17.219900,ov_mint_cucina_fresca_40.9963_17.2199,MINT Cucina Fresca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/mint_cucina_fresca_40.9963_17.2199.json,custom
+40.996267,17.219291,ov_n_uro_ristorante_e_pizzeria_40.9963_17.2193,N€uro ristorante e pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/nuro_ristorante_e_pizzeria_40.9963_17.2193.json,custom
+40.996253,17.219060,ov_oro_della_terra_40.9963_17.2191,Oro della Terra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/oro_della_terra_40.9963_17.2191.json,custom
+40.996057,17.219150,ov_bella__mbriana_40.9961_17.2192,Bella 'Mbriana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bella_mbriana_40.9961_17.2192.json,custom
+40.996098,17.219025,ov_ristorante_pizzeria_neuro_40.9961_17.2190,Ristorante Pizzeria Neuro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_pizzeria_neuro_40.9961_17.2190.json,custom
+40.996256,17.217203,ov_la_focacceria_delle_noci_marco_40.9963_17.2172,La Focacceria Delle Noci Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_focacceria_delle_noci_marco_40.9963_17.2172.json,custom
+40.996110,17.217176,ov_puro_40.9961_17.2172,Puro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/puro_40.9961_17.2172.json,custom
+40.995879,17.217416,ov_la_terrazza_40.9959_17.2174,La Terrazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_terrazza_40.9959_17.2174.json,custom
+40.995961,17.217344,ov_la_rotellina_40.9960_17.2173,La Rotellina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_rotellina_40.9960_17.2173.json,custom
+40.995855,17.217849,ov_cove_restaurant___bar_40.9959_17.2178,Cove Restaurant & Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/cove_restaurant_bar_40.9959_17.2178.json,custom
+40.995813,17.217852,ov_fly_calaporto_40.9958_17.2179,Fly Calaporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fly_calaporto_40.9958_17.2179.json,custom
+40.995698,17.217740,ov_terrazze_monachile_40.9957_17.2177,Terrazze Monachile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/terrazze_monachile_40.9957_17.2177.json,custom
+40.995061,17.215323,ov_villa_degli_aranci_40.9951_17.2153,Villa degli Aranci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/villa_degli_aranci_40.9951_17.2153.json,custom
+40.996939,17.216895,ov_l_osteria_di_chichibio_40.9969_17.2169,L'Osteria di Chichibio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/losteria_di_chichibio_40.9969_17.2169.json,custom
+40.996849,17.216983,ov_cala_ponte_spa_40.9968_17.2170,Cala Ponte SPA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/cala_ponte_spa_40.9968_17.2170.json,custom
+40.996928,17.216241,ov_trattoria_dal_monaco_40.9969_17.2162,Trattoria Dal Monaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/trattoria_dal_monaco_40.9969_17.2162.json,custom
+40.996742,17.215416,ov_ristorante_il_bastione_40.9967_17.2154,Ristorante Il Bastione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_il_bastione_40.9967_17.2154.json,custom
+40.997098,17.215337,ov_focacce_memorabili_40.9971_17.2153,Focacce Memorabili,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/focacce_memorabili_40.9971_17.2153.json,custom
+40.997067,17.215768,ov_osteria_piga_40.9971_17.2158,Osteria Piga,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/osteria_piga_40.9971_17.2158.json,custom
+40.996955,17.216328,ov_braceria_dello_sport_40.9970_17.2163,Braceria dello Sport,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/braceria_dello_sport_40.9970_17.2163.json,custom
+40.997114,17.217155,ov_meraviglioso_40.9971_17.2172,Meraviglioso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/meraviglioso_40.9971_17.2172.json,custom
+40.997017,17.216963,ov_morus_ristorante_40.9970_17.2170,Morus Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/morus_ristorante_40.9970_17.2170.json,custom
+40.997192,17.216677,ov_enzo_ciro__polignano_40.9972_17.2167,Enzo&Ciro- Polignano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/enzociro-_polignano_40.9972_17.2167.json,custom
+40.997527,17.216534,ov_malidea_40.9975_17.2165,Malidea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/malidea_40.9975_17.2165.json,custom
+40.994291,17.204486,ov_ristopizza_polignano_a_mare_40.9943_17.2045,Ristopizza Polignano A Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristopizza_polignano_a_mare_40.9943_17.2045.json,custom
+40.992872,17.217756,ov_moonlight_bistrot___polignano_a_mare_40.9929_17.2178,Moonlight Bistrot - Polignano a Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/moonlight_bistrot_-_polignano_a_mare_40.9929_17.2178.json,custom
+40.993430,17.212687,ov_360_gradi_40.9934_17.2127,360 Gradi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/360_gradi_40.9934_17.2127.json,custom
+40.994397,17.215984,ov_specchia_sant_oronzo_40.9944_17.2160,Specchia Sant'Oronzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/specchia_santoronzo_40.9944_17.2160.json,custom
+40.993840,17.216300,ov_momo_sushi___grill_40.9938_17.2163,Momo Sushi & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/momo_sushi_grill_40.9938_17.2163.json,custom
+40.993842,17.218246,ov_panz_40.9938_17.2182,Panz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/panz_40.9938_17.2182.json,custom
+40.993733,17.219923,ov_eat___drink_kebab___pizza_40.9937_17.2199,Eat & Drink Kebab & Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/eat_drink_kebab_pizza_40.9937_17.2199.json,custom
+40.993907,17.220054,ov_braceria_da_marco_40.9939_17.2201,Braceria da Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/braceria_da_marco_40.9939_17.2201.json,custom
+40.994299,17.220927,ov_antica_trattoria_comes_40.9943_17.2209,Antica Trattoria Comes,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/antica_trattoria_comes_40.9943_17.2209.json,custom
+40.994296,17.219766,ov_l_angolo_del_buon_gusto_40.9943_17.2198,L'Angolo del Buon Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/langolo_del_buon_gusto_40.9943_17.2198.json,custom
+40.994321,17.219807,ov_la_rustica_40.9943_17.2198,La Rustica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_rustica_40.9943_17.2198.json,custom
+40.994534,17.219226,ov_pizzeria_cucundeo_40.9945_17.2192,Pizzeria Cucundeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizzeria_cucundeo_40.9945_17.2192.json,custom
+40.994559,17.219340,ov_trattoria_il_cuccundeo_40.9946_17.2193,Trattoria Il Cuccundeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/trattoria_il_cuccundeo_40.9946_17.2193.json,custom
+40.994834,17.218825,ov_da_luciano_40.9948_17.2188,Da Luciano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/da_luciano_40.9948_17.2188.json,custom
+40.994712,17.219395,ov_pescaria_40.9947_17.2194,Pescaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pescaria_40.9947_17.2194.json,custom
+40.994712,17.219402,ov_partenope_40.9947_17.2194,Partenope,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/partenope_40.9947_17.2194.json,custom
+40.994990,17.219910,ov_happy_food___il_fast_food_artigianale_40.9950_17.2199,Happy Food - Il fast food artigianale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/happy_food_-_il_fast_food_artigianale_40.9950_17.2199.json,custom
+40.994845,17.220624,ov_l_amo___love__fish___wine_40.9948_17.2206,"L'Amo - Love, Fish & Wine",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/lamo_-_love_fish_wine_40.9948_17.2206.json,custom
+40.994700,17.221080,ov_street_burger_40.9947_17.2211,Street Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/street_burger_40.9947_17.2211.json,custom
+40.993784,17.222143,ov_bottegasanta_40.9938_17.2221,Bottegasanta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bottegasanta_40.9938_17.2221.json,custom
+40.993427,17.222558,ov_focacceria_del_corso_40.9934_17.2226,Focacceria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/focacceria_del_corso_40.9934_17.2226.json,custom
+40.993453,17.219918,ov_braceria_leo_s_40.9935_17.2199,Braceria Leo's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/braceria_leos_40.9935_17.2199.json,custom
+40.993564,17.219742,ov_pizzeria_terra_marique_40.9936_17.2197,Pizzeria Terra Marique,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizzeria_terra_marique_40.9936_17.2197.json,custom
+40.993322,17.217989,ov_pa____vi__40.9933_17.2180,Pa' & Vi',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pa_vi_40.9933_17.2180.json,custom
+40.993070,17.220020,ov_silvius_40.9931_17.2200,Silvius,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/silvius_40.9931_17.2200.json,custom
+40.993014,17.219924,ov_casa_orecchietta_40.9930_17.2199,Casa Orecchietta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/casa_orecchietta_40.9930_17.2199.json,custom
+40.992611,17.219458,ov_numeri_primi_40.9926_17.2195,Numeri Primi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/numeri_primi_40.9926_17.2195.json,custom
+40.992510,17.223110,ov_italiano_per_stranieri_a_polignano_a_mar_40.9925_17.2231,Italiano Per Stranieri a Polignano a Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/italiano_per_stranieri_a_polignano_a_mar_40.9925_17.2231.json,custom
+40.991165,17.219443,ov_pruna_40.9912_17.2194,Pruna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pruna_40.9912_17.2194.json,custom
+40.991980,17.218650,ov_la_balconata_40.9920_17.2187,La Balconata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_balconata_40.9920_17.2187.json,custom
+40.992008,17.214562,ov_ristorante_delicatesse_40.9920_17.2146,Ristorante Delicatesse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_delicatesse_40.9920_17.2146.json,custom
+40.991923,17.214854,ov_pan_per_focaccia_40.9919_17.2149,Pan per focaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pan_per_focaccia_40.9919_17.2149.json,custom
+40.989799,17.215164,ov_ristorante_il_sagittario_40.9898_17.2152,Ristorante Il Sagittario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_il_sagittario_40.9898_17.2152.json,custom
+40.989968,17.215364,ov_il_capriccio_40.9900_17.2154,Il Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_capriccio_40.9900_17.2154.json,custom
+40.990873,17.220144,ov_peat_stop_40.9909_17.2201,Peat Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/peat_stop_40.9909_17.2201.json,custom
+40.987854,17.222435,ov_ristorante_il_sagittario_40.9879_17.2224,Ristorante Il Sagittario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_il_sagittario_40.9879_17.2224.json,custom
+40.981432,17.183948,ov_villa_antos_40.9814_17.1839,Villa Antos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/villa_antos_40.9814_17.1839.json,custom
+40.981229,17.183352,ov_macchialuna_40.9812_17.1834,Macchialuna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/macchialuna_40.9812_17.1834.json,custom
+41.002818,17.202474,ov_da_tuccino_41.0028_17.2025,Da Tuccino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/da_tuccino_41.0028_17.2025.json,custom
+41.003249,17.202394,ov_abissi___bistrot_da_tuccino_41.0032_17.2024,Abissi - Bistrot da Tuccino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/abissi_-_bistrot_da_tuccino_41.0032_17.2024.json,custom
+41.006548,17.201905,ov_ristorante_cala_ponte_41.0065_17.2019,Ristorante Cala Ponte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_cala_ponte_41.0065_17.2019.json,custom
+41.013737,17.192667,ov_la_veranda_di_giselda_41.0137_17.1927,La Veranda di Giselda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_veranda_di_giselda_41.0137_17.1927.json,custom
+41.013244,17.192655,ov_locanda_dei_benedettini_41.0132_17.1927,Locanda dei Benedettini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/locanda_dei_benedettini_41.0132_17.1927.json,custom
+41.013230,17.192900,ov_moonvida_41.0132_17.1929,Moonvida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/moonvida_41.0132_17.1929.json,custom
+40.950299,17.186346,ov_sand_veit_restaurant_40.9503_17.1863,Sand Veit Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sand_veit_restaurant_40.9503_17.1863.json,custom
+40.957941,17.190698,ov_la_baracca_osteria_40.9579_17.1907,La Baracca Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_baracca_osteria_40.9579_17.1907.json,custom
+40.957670,17.191160,ov_white_restaurant_polignano_40.9577_17.1912,White Restaurant Polignano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/white_restaurant_polignano_40.9577_17.1912.json,custom
+40.954981,17.189530,ov_braceria_da_marcuccio_40.9550_17.1895,Braceria Da Marcuccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/braceria_da_marcuccio_40.9550_17.1895.json,custom
+40.960619,17.173716,ov_il_girasole_40.9606_17.1737,Il Girasole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_girasole_40.9606_17.1737.json,custom
+40.960178,17.195139,ov_masseria_del_crocifisso_40.9602_17.1951,Masseria Del Crocifisso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/masseria_del_crocifisso_40.9602_17.1951.json,custom
+40.962345,17.200663,ov_casale_dei_fornici_40.9623_17.2007,Casale dei Fornici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/casale_dei_fornici_40.9623_17.2007.json,custom
+40.974791,17.251350,ov_baby_play__sporting_club_40.9748_17.2513,Baby Play- Sporting Club,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/baby_play-_sporting_club_40.9748_17.2513.json,custom
+40.973937,17.253040,ov_graecalis_40.9739_17.2530,Graecalis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/graecalis_40.9739_17.2530.json,custom
+40.952043,17.298647,ov_machi_charter_40.9520_17.2986,Machi Charter,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/machi_charter_40.9520_17.2986.json,custom
+40.998093,17.215204,osm_la_tana_marina_40.9981_17.2152,La tana marina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_tana_marina_40.9981_17.2152.json,custom
+40.998813,17.210848,osm_plenilunio_punta_paradiso_beach_bar_40.9988_17.2108,Plenilunio Punta Paradiso Beach Bar,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/plenilunio_punta_paradiso_beach_bar_40.9988_17.2108.json,custom
+40.994660,17.222731,osm_pizzeria_il_ritrovo_40.9947_17.2227,Pizzeria Il ritrovo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizzeria_il_ritrovo_40.9947_17.2227.json,custom
+40.995657,17.218300,osm_fcazz_e_birr_40.9957_17.2183,Fcazz e Birr,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fcazz_e_birr_40.9957_17.2183.json,custom
+40.995514,17.218884,osm_uccio_fish_food_40.9955_17.2189,Uccio Fish food,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/uccio_fish_food_40.9955_17.2189.json,custom
+40.995003,17.218948,osm_pic_nic_40.9950_17.2189,PIC-NIC,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pic-nic_40.9950_17.2189.json,custom
+40.993456,17.222430,osm_focacceria_del_corso_40.9935_17.2224,Focacceria del corso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/focacceria_del_corso_40.9935_17.2224.json,custom
+40.996033,17.219145,osm_pizzeria_osteria_bella__mbriana_40.9960_17.2191,Pizzeria Osteria Bella 'Mbriana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pizzeria_osteria_bella_mbriana_40.9960_17.2191.json,custom
+40.996119,17.224044,osm_gola_snack_da_vito_40.9961_17.2240,Gola Snack da Vito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/gola_snack_da_vito_40.9961_17.2240.json,custom
+40.956617,17.204312,osm_paradisea_40.9566_17.2043,Paradisea,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/paradisea_40.9566_17.2043.json,custom
+40.989754,17.215013,osm_ristorante_pizzeria_il_sagittario_40.9898_17.2150,Ristorante Pizzeria Il Sagittario,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_pizzeria_il_sagittario_40.9898_17.2150.json,custom
+40.986983,17.190211,osm_sala_ricevimenti_san_tommaso_40.9870_17.1902,Sala ricevimenti San Tommaso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sala_ricevimenti_san_tommaso_40.9870_17.1902.json,custom
+40.932159,17.188673,ov_caf__robif__40.9322_17.1887,Café Robifé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caf_robif_40.9322_17.1887.json,custom
+41.028741,17.155845,ov_ip_carluccio_caffe_41.0287_17.1558,IP Carluccio Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ip_carluccio_caffe_41.0287_17.1558.json,custom
+40.979290,17.258223,ov_bar_calipso_40.9793_17.2582,Bar Calipso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_calipso_40.9793_17.2582.json,custom
+40.988438,17.226567,ov_life_cafe_games_40.9884_17.2266,Life Cafe Games,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/life_cafe_games_40.9884_17.2266.json,custom
+40.989825,17.226174,ov_bar_pasticceria_crema_caff__40.9898_17.2262,Bar Pasticceria Crema Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_pasticceria_crema_caff_40.9898_17.2262.json,custom
+40.989772,17.226203,ov_mari_urban_coffee_40.9898_17.2262,Mari Urban Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/mari_urban_coffee_40.9898_17.2262.json,custom
+40.991143,17.224087,ov_pasticceria_jolly_40.9911_17.2241,Pasticceria Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pasticceria_jolly_40.9911_17.2241.json,custom
+40.993043,17.229155,ov_malikafe_40.9930_17.2292,Malikafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/malikafe_40.9930_17.2292.json,custom
+40.994815,17.226300,ov_habitat_cafe_40.9948_17.2263,Habitat Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/habitat_cafe_40.9948_17.2263.json,custom
+40.996494,17.219194,ov_la_casa_del_mojito_40.9965_17.2192,La Casa Del Mojito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_casa_del_mojito_40.9965_17.2192.json,custom
+40.996601,17.218987,ov_sensory___polignano_a_mare_40.9966_17.2190,Sensory - Polignano a Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sensory_-_polignano_a_mare_40.9966_17.2190.json,custom
+40.996438,17.219059,ov_six_star_lounge_bar_40.9964_17.2191,Six Star Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/six_star_lounge_bar_40.9964_17.2191.json,custom
+40.996568,17.219507,ov_la_bella_vista_40.9966_17.2195,La bella vista,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_bella_vista_40.9966_17.2195.json,custom
+40.995380,17.221140,ov_bar_peppino_40.9954_17.2211,Bar Peppino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_peppino_40.9954_17.2211.json,custom
+40.995337,17.221378,ov_appian_way_40.9953_17.2214,Appian Way,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/appian_way_40.9953_17.2214.json,custom
+40.995511,17.219438,ov_vinaria_40.9955_17.2194,Vinaria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/vinaria_40.9955_17.2194.json,custom
+40.995340,17.219707,ov_hops_birreria_and_wine_bar_40.9953_17.2197,Hops Birreria and Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/hops_birreria_and_wine_bar_40.9953_17.2197.json,custom
+40.995197,17.219803,ov_bisciu_boatour_escursioni_polignano_40.9952_17.2198,Bisciu boatour Escursioni Polignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bisciu_boatour_escursioni_polignano_40.9952_17.2198.json,custom
+40.995320,17.218286,ov_fcazz_e_birr_40.9953_17.2183,Fcazz e Birr,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fcazz_e_birr_40.9953_17.2183.json,custom
+40.995363,17.218794,ov_bar_gelateria_40.9954_17.2188,Bar Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_gelateria_40.9954_17.2188.json,custom
+40.995530,17.218920,ov_oppure_kitchen_house___polignano_40.9955_17.2189,Oppure Kitchen House - Polignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/oppure_kitchen_house_-_polignano_40.9955_17.2189.json,custom
+40.995562,17.218370,ov_millennium_cafe__polignano_40.9956_17.2184,Millennium cafe' Polignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/millennium_cafe_polignano_40.9956_17.2184.json,custom
+40.995756,17.218728,ov_nero_matto_40.9958_17.2187,Nero Matto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/nero_matto_40.9958_17.2187.json,custom
+40.995662,17.218903,ov_bonta_sotto_l_arco_40.9957_17.2189,Bonta Sotto l'Arco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bonta_sotto_larco_40.9957_17.2189.json,custom
+40.995842,17.220920,ov_luna_40.9958_17.2209,LUNA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/luna_40.9958_17.2209.json,custom
+40.995911,17.220672,ov_la_cueva_cafe_40.9959_17.2207,La Cueva Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/la_cueva_cafe_40.9959_17.2207.json,custom
+40.995951,17.220497,ov_infermento_40.9960_17.2205,Infermento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/infermento_40.9960_17.2205.json,custom
+40.996191,17.220030,ov_sanb__40.9962_17.2200,Sanbé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sanb_40.9962_17.2200.json,custom
+40.995820,17.217240,ov_solarium_caffe_40.9958_17.2172,Solarium Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/solarium_caffe_40.9958_17.2172.json,custom
+40.996345,17.217666,ov_fly___food_sun___drink_40.9963_17.2177,Fly - food sun & drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fly_-_food_sun_drink_40.9963_17.2177.json,custom
+40.996516,17.216787,ov_bar_clipper_40.9965_17.2168,Bar Clipper,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_clipper_40.9965_17.2168.json,custom
+40.996474,17.216757,ov_caf__del_mare_40.9965_17.2168,Café Del Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caf_del_mare_40.9965_17.2168.json,custom
+40.996808,17.216738,ov_bar_riviera_40.9968_17.2167,Bar Riviera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_riviera_40.9968_17.2167.json,custom
+40.996705,17.215829,ov_nnamari_40.9967_17.2158,Nnamari,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/nnamari_40.9967_17.2158.json,custom
+40.997560,17.213280,ov_baia_del_fico___polignano_40.9976_17.2133,Baia del Fico - Polignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/baia_del_fico_-_polignano_40.9976_17.2133.json,custom
+40.998910,17.210858,ov_plenilunio_punta_paradiso_40.9989_17.2109,Plenilunio Punta Paradiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/plenilunio_punta_paradiso_40.9989_17.2109.json,custom
+40.994172,17.204434,ov_bar_al_punto_giusto_40.9942_17.2044,Bar al Punto Giusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_al_punto_giusto_40.9942_17.2044.json,custom
+40.993205,17.211676,ov_caff__noir_40.9932_17.2117,Caffè Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caff_noir_40.9932_17.2117.json,custom
+40.993814,17.217500,ov_mist__caf__40.9938_17.2175,MISTÓ CAFÈ,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/mist_caf_40.9938_17.2175.json,custom
+40.993916,17.219075,ov_enoteca_la_cantina_del_vino_40.9939_17.2191,Enoteca La Cantina del Vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/enoteca_la_cantina_del_vino_40.9939_17.2191.json,custom
+40.994088,17.220105,ov_crema_caffe_40.9941_17.2201,Crema Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/crema_caffe_40.9941_17.2201.json,custom
+40.994083,17.220132,ov_bar_gelateria_caffe_laguna_blu_40.9941_17.2201,Bar Gelateria Caffe Laguna Blu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_gelateria_caffe_laguna_blu_40.9941_17.2201.json,custom
+40.994638,17.218743,ov_alcova_lounge_bar_40.9946_17.2187,Alcova Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/alcova_lounge_bar_40.9946_17.2187.json,custom
+40.994828,17.219394,ov_gran_caff__comes_40.9948_17.2194,Gran Caffè Comes,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/gran_caff_comes_40.9948_17.2194.json,custom
+40.994956,17.220063,ov_b_local_40.9950_17.2201,B-local,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/b-local_40.9950_17.2201.json,custom
+40.994415,17.220862,ov_bar_turismo_40.9944_17.2209,Bar Turismo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_turismo_40.9944_17.2209.json,custom
+40.994560,17.222670,ov_nalu_40.9946_17.2227,Nalu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/nalu_40.9946_17.2227.json,custom
+40.994050,17.221620,ov_punto_snai_polignano_40.9941_17.2216,Punto Snai Polignano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/punto_snai_polignano_40.9941_17.2216.json,custom
+40.993924,17.221560,ov_caff__italia_40.9939_17.2216,Caffè Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caff_italia_40.9939_17.2216.json,custom
+40.993374,17.219923,ov_sensi_di_vino_40.9934_17.2199,Sensi Di Vino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/sensi_di_vino_40.9934_17.2199.json,custom
+40.992710,17.223842,ov_glamour_cafe_40.9927_17.2238,Glamour Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/glamour_cafe_40.9927_17.2238.json,custom
+40.991593,17.223749,ov_il_re_del_panzerotto___sibilia_40.9916_17.2237,Il re del Panzerotto - Sibilia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_re_del_panzerotto_-_sibilia_40.9916_17.2237.json,custom
+40.991427,17.218935,ov_caffe_commercio_40.9914_17.2189,Caffe Commercio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caffe_commercio_40.9914_17.2189.json,custom
+40.992335,17.217566,ov_l_officina_del_caffe_40.9923_17.2176,L'Officina del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/lofficina_del_caffe_40.9923_17.2176.json,custom
+40.991864,17.215070,ov_max_caffe_40.9919_17.2151,Max Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/max_caffe_40.9919_17.2151.json,custom
+40.990852,17.220203,ov_l_arciere_40.9909_17.2202,L'Arciere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/larciere_40.9909_17.2202.json,custom
+40.990330,17.223083,ov_soan_cafe_40.9903_17.2231,SOAN Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/soan_cafe_40.9903_17.2231.json,custom
+40.989944,17.222163,ov_caff__degli_artisti_40.9899_17.2222,Caffè degli Artisti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caff_degli_artisti_40.9899_17.2222.json,custom
+40.982238,17.177144,ov_2erre_40.9822_17.1771,2erre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/2erre_40.9822_17.1771.json,custom
+41.005611,17.200192,ov_mood_bay_41.0056_17.2002,Mood Bay,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/mood_bay_41.0056_17.2002.json,custom
+41.013345,17.191658,ov_moonshine___la_teoria_del_gusto_41.0133_17.1917,Moonshine - La teoria del gusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/moonshine_-_la_teoria_del_gusto_41.0133_17.1917.json,custom
+41.013696,17.194143,ov_ristorante_la_colonna_41.0137_17.1941,Ristorante La Colonna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ristorante_la_colonna_41.0137_17.1941.json,custom
+40.991985,17.225191,osm_cremeria_110_40.9920_17.2252,Cremeria 110,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/cremeria_110_40.9920_17.2252.json,custom
+40.994423,17.219601,osm_caff__minerva_40.9944_17.2196,Caffè Minerva,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/caff_minerva_40.9944_17.2196.json,custom
+40.992292,17.229622,osm_pink_roses_caf__e_lounge_bar_40.9923_17.2296,Pink Roses Cafè e Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/pink_roses_caf_e_lounge_bar_40.9923_17.2296.json,custom
+40.994243,17.221195,osm_bar_pasticceria_pedote_40.9942_17.2212,Bar Pasticceria Pedote,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_pasticceria_pedote_40.9942_17.2212.json,custom
+40.991441,17.218892,osm_bar_commercio_40.9914_17.2189,Bar Commercio,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bar_commercio_40.9914_17.2189.json,custom
+40.988483,17.226628,osm_life_caf__games_bar_paninoteca_40.9885_17.2266,Life Cafè games bar paninoteca,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/life_caf_games_bar_paninoteca_40.9885_17.2266.json,custom
+40.995879,17.220544,osm_infermento_40.9959_17.2205,Infermento,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/infermento_40.9959_17.2205.json,custom
+40.995453,17.219139,osm_begula_caf__40.9955_17.2191,Begula Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/begula_caf_40.9955_17.2191.json,custom
+40.993333,17.217806,osm_irvi_s_caf__40.9933_17.2178,Irvi's Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/irvis_caf_40.9933_17.2178.json,custom
+40.994963,17.219293,osm_il_mago_del_gelato_40.9950_17.2193,Il mago del Gelato,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/il_mago_del_gelato_40.9950_17.2193.json,custom
+40.995968,17.218975,osm_zerottanta_40.9960_17.2190,Zerottanta,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/zerottanta_40.9960_17.2190.json,custom
+40.986674,17.231449,ov_ohana____centro_ricreativo_per_bambini_40.9867_17.2314,OHANA -  Centro ricreativo per bambini,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/ohana_-_centro_ricreativo_per_bambini_40.9867_17.2314.json,custom
+40.992035,17.225126,ov_rosa_dance_school_40.9920_17.2251,Rosa Dance School,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/rosa_dance_school_40.9920_17.2251.json,custom
+40.992105,17.226643,ov_palestra_living_40.9921_17.2266,Palestra living,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/palestra_living_40.9921_17.2266.json,custom
+40.996250,17.217191,ov_accademia_delle_muse_40.9963_17.2172,Accademia delle Muse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/accademia_delle_muse_40.9963_17.2172.json,custom
+40.989831,17.219406,ov_legend_gym_h24_40.9898_17.2194,Legend Gym H24,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/legend_gym_h24_40.9898_17.2194.json,custom
+40.989625,17.223029,ov_accademia_della_danza_nibe_40.9896_17.2230,Accademia della Danza NiBe,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/accademia_della_danza_nibe_40.9896_17.2230.json,custom
+40.974924,17.171214,ov_scuderie_le_torri_40.9749_17.1712,Scuderie Le Torri,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/scuderie_le_torri_40.9749_17.1712.json,custom
+40.963156,17.200782,ov_calcetto_pane_e_acqua_40.9632_17.2008,Calcetto Pane e Acqua,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/calcetto_pane_e_acqua_40.9632_17.2008.json,custom
+40.947665,17.286754,ov_studio_kinesis_40.9477_17.2868,Studio Kinesis,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/studio_kinesis_40.9477_17.2868.json,custom
+40.994028,17.228673,ov_fondazione_pino_pascali___museo_di_arte__40.9940_17.2287,Fondazione Pino Pascali - Museo di Arte Contemporanea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fondazione_pino_pascali_-_museo_di_arte__40.9940_17.2287.json,custom
+40.997057,17.218952,ov_bastione_di_santo_stefano_40.9971_17.2190,Bastione di Santo Stefano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bastione_di_santo_stefano_40.9971_17.2190.json,custom
+40.997255,17.217099,ov_statue_of_domenico_modugno_40.9973_17.2171,Statue of Domenico Modugno,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/statue_of_domenico_modugno_40.9973_17.2171.json,custom
+40.990443,17.204308,ov_star_wars_museum_40.9904_17.2043,Star Wars Museum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/star_wars_museum_40.9904_17.2043.json,custom
+40.993035,17.221818,ov_like_a_little_disaster_40.9930_17.2218,Like a little disaster,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/like_a_little_disaster_40.9930_17.2218.json,custom

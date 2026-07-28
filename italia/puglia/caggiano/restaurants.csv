@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # caggiano -- restaurants
-40.546304,15.495786,ov_agriturismo_i_2_boschi_40.5463_15.4958,Agriturismo I 2 Boschi,RESTAURANT,ristorante
-40.546238,15.513202,ov_le_grotticelle_40.5462_15.5132,Le Grotticelle,RESTAURANT,ristorante
-40.549792,15.507507,ov_agriturismo_il_capitano_40.5498_15.5075,Agriturismo Il Capitano,RESTAURANT,ristorante
-40.568943,15.490961,ov_locanda_severino_40.5689_15.4910,Locanda Severino,RESTAURANT,ristorante
-40.567723,15.497183,ov_pizzeria_coco_caggiano_40.5677_15.4972,Pizzeria Coco Caggiano,RESTAURANT,ristorante
-40.568096,15.495194,ov_pizza_roc__40.5681_15.4952,Pizza Roc',RESTAURANT,ristorante
-40.567280,15.492932,ov_dal_macellaio_steakhouse_and_wine_40.5673_15.4929,Dal Macellaio Steakhouse and Wine,RESTAURANT,ristorante
-40.568083,15.490780,ov_grotto_pizzeria_castello_40.5681_15.4908,Grotto Pizzeria Castello,RESTAURANT,ristorante
-40.556021,15.496679,ov_ristorante_la_tana_del_lupo_40.5560_15.4967,Ristorante La Tana Del Lupo,RESTAURANT,ristorante
+40.546304,15.495786,ov_agriturismo_i_2_boschi_40.5463_15.4958,Agriturismo I 2 Boschi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/agriturismo_i_2_boschi_40.5463_15.4958.json,custom
+40.546238,15.513202,ov_le_grotticelle_40.5462_15.5132,Le Grotticelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/le_grotticelle_40.5462_15.5132.json,custom
+40.549792,15.507507,ov_agriturismo_il_capitano_40.5498_15.5075,Agriturismo Il Capitano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/agriturismo_il_capitano_40.5498_15.5075.json,custom
+40.568943,15.490961,ov_locanda_severino_40.5689_15.4910,Locanda Severino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/locanda_severino_40.5689_15.4910.json,custom
+40.567723,15.497183,ov_pizzeria_coco_caggiano_40.5677_15.4972,Pizzeria Coco Caggiano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/pizzeria_coco_caggiano_40.5677_15.4972.json,custom
+40.568096,15.495194,ov_pizza_roc__40.5681_15.4952,Pizza Roc',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/pizza_roc_40.5681_15.4952.json,custom
+40.567280,15.492932,ov_dal_macellaio_steakhouse_and_wine_40.5673_15.4929,Dal Macellaio Steakhouse and Wine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/dal_macellaio_steakhouse_and_wine_40.5673_15.4929.json,custom
+40.568083,15.490780,ov_grotto_pizzeria_castello_40.5681_15.4908,Grotto Pizzeria Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/grotto_pizzeria_castello_40.5681_15.4908.json,custom
+40.556021,15.496679,ov_ristorante_la_tana_del_lupo_40.5560_15.4967,Ristorante La Tana Del Lupo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/caggiano/pages/ristorante_la_tana_del_lupo_40.5560_15.4967.json,custom

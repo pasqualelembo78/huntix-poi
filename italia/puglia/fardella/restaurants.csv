@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # fardella -- restaurants
-40.116761,16.182878,ov_la_casetta_dei_raskatielli_40.1168_16.1829,La Casetta dei Raskatielli,RESTAURANT,ristorante
-40.113527,16.168947,ov_novecento_40.1135_16.1689,Novecento,RESTAURANT,ristorante
+40.116761,16.182878,ov_la_casetta_dei_raskatielli_40.1168_16.1829,La Casetta dei Raskatielli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fardella/pages/la_casetta_dei_raskatielli_40.1168_16.1829.json,custom
+40.113527,16.168947,ov_novecento_40.1135_16.1689,Novecento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/fardella/pages/novecento_40.1135_16.1689.json,custom

@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lizzano -- gyms
-40.398190,17.443710,ov_wod74028_40.3982_17.4437,Wod74028,GYM,palestra
-40.390930,17.446140,ov_golf_gym_40.3909_17.4461,Golf Gym,GYM,palestra
-40.390893,17.443229,ov_a__s__d__new_bailando_giusy_carrieri_40.3909_17.4432,A. S. D  New Bailando Giusy carrieri,GYM,palestra
-40.390217,17.449836,ov_associazione_promozione_danza_giselle_40.3902_17.4498,Associazione Promozione Danza Giselle,GYM,palestra
-40.390571,17.455264,ov_naturalfitness_40.3906_17.4553,NaturalFitness,GYM,palestra
-40.391760,17.453310,ov_flash_dance_40.3918_17.4533,Flash Dance,GYM,palestra
+40.398190,17.443710,ov_wod74028_40.3982_17.4437,Wod74028,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/wod74028_40.3982_17.4437.json,custom
+40.390930,17.446140,ov_golf_gym_40.3909_17.4461,Golf Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/golf_gym_40.3909_17.4461.json,custom
+40.390893,17.443229,ov_a__s__d__new_bailando_giusy_carrieri_40.3909_17.4432,A. S. D  New Bailando Giusy carrieri,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/a_s_d_new_bailando_giusy_carrieri_40.3909_17.4432.json,custom
+40.390217,17.449836,ov_associazione_promozione_danza_giselle_40.3902_17.4498,Associazione Promozione Danza Giselle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/associazione_promozione_danza_giselle_40.3902_17.4498.json,custom
+40.390571,17.455264,ov_naturalfitness_40.3906_17.4553,NaturalFitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/naturalfitness_40.3906_17.4553.json,custom
+40.391760,17.453310,ov_flash_dance_40.3918_17.4533,Flash Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lizzano/pages/flash_dance_40.3918_17.4533.json,custom

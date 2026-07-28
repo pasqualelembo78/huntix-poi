@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santarsenio -- bars_cafes
-40.464538,15.478432,ov_todis_40.4645_15.4784,Todis,RESTAURANT,bar_cafe
-40.466207,15.479656,ov_bar_all_angolo_40.4662_15.4797,Bar all'Angolo,RESTAURANT,bar_cafe
-40.469600,15.482236,ov_iqos_partner_la_piazzetta_40.4696_15.4822,IQOS Partner La Piazzetta,RESTAURANT,bar_cafe
-40.470292,15.482695,ov_bar_la_braida_40.4703_15.4827,Bar La Braida,RESTAURANT,bar_cafe
-40.470256,15.484159,ov_pub_pais__40.4703_15.4842,Pub Paisà,RESTAURANT,bar_cafe
-40.469245,15.484432,ov_eurocaffetteria_40.4692_15.4844,Eurocaffetteria,RESTAURANT,bar_cafe
-40.475426,15.486828,ov_lion_s_cafe_40.4754_15.4868,Lion's Cafe,RESTAURANT,bar_cafe
+40.464538,15.478432,ov_todis_40.4645_15.4784,Todis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/todis_40.4645_15.4784.json,custom
+40.466207,15.479656,ov_bar_all_angolo_40.4662_15.4797,Bar all'Angolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/bar_allangolo_40.4662_15.4797.json,custom
+40.469600,15.482236,ov_iqos_partner_la_piazzetta_40.4696_15.4822,IQOS Partner La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/iqos_partner_la_piazzetta_40.4696_15.4822.json,custom
+40.470292,15.482695,ov_bar_la_braida_40.4703_15.4827,Bar La Braida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/bar_la_braida_40.4703_15.4827.json,custom
+40.470256,15.484159,ov_pub_pais__40.4703_15.4842,Pub Paisà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/pub_pais_40.4703_15.4842.json,custom
+40.469245,15.484432,ov_eurocaffetteria_40.4692_15.4844,Eurocaffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/eurocaffetteria_40.4692_15.4844.json,custom
+40.475426,15.486828,ov_lion_s_cafe_40.4754_15.4868,Lion's Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santarsenio/pages/lions_cafe_40.4754_15.4868.json,custom

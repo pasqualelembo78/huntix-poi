@@ -101,6 +101,36 @@ def haversine_km(lat1, lng1, lat2, lng2):
     a = math.sin(dlat/2)**2 + math.cos(math.radians(lat1))*math.cos(math.radians(lat2))*math.sin(dlng/2)**2
     return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
 
+TEMPLATE_MAP = {
+    "restaurants": "restaurant.json",
+    "bars_cafes": "bar.json",
+    "gyms": "gym.json",
+    "hospitals": "hospital.json",
+}
+
+def generate_poi_page(name, cat_key, building_type, website, region_slug, city_slug, lat, lng, repo_dir):
+    if building_type == "MUSEUM":
+        tmpl = "museum.json"
+    elif cat_key in TEMPLATE_MAP:
+        tmpl = TEMPLATE_MAP[cat_key]
+    else:
+        tmpl = "landmark.json"
+    tpath = os.path.join(repo_dir, "templates", tmpl)
+    with open(tpath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    data["banner"]["title"] = name
+    website = (website or "").strip()
+    data["sections"] = [s for s in data["sections"] if s.get("type") != "link" or website]
+    for s in data["sections"]:
+        if s.get("type") == "link" and s.get("url") == "{website}":
+            s["url"] = website
+    slug = f"{norm_name(name)}_{lat:.4f}_{lng:.4f}"
+    pages_dir = os.path.join(repo_dir, "italia", region_slug, city_slug, "pages")
+    os.makedirs(pages_dir, exist_ok=True)
+    with open(os.path.join(pages_dir, f"{slug}.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    return f"https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/{region_slug}/{city_slug}/pages/{slug}.json"
+
 # ────────────────────── OSM ──────────────────────
 def query_osm(query_str, retries=3):
     for attempt in range(retries):
@@ -145,6 +175,7 @@ def parse_osm_poi(el, csv_type, cities_cache):
         "city": city or "sconosciuta",
         "csv_type": csv_type,
         "building_type": csv_type,
+        "url": tags.get("website", ""),
     }
 
 def load_osm_cities(bbox):
@@ -168,7 +199,8 @@ def query_overture(con, bbox, categories):
            basic_category,
            COALESCE(addresses[1].locality,'') as city,
            COALESCE(addresses[1].region,'') as region,
-           COALESCE(addresses[1].country,'') as country, confidence
+           COALESCE(addresses[1].country,'') as country, confidence,
+           COALESCE(websites[1],'') as website
     FROM read_parquet('{S3_PATH}', filename=true, hive_partitioning=1)
     WHERE bbox.xmin BETWEEN {w} AND {e}
       AND bbox.ymin BETWEEN {s} AND {n}
@@ -191,43 +223,41 @@ def query_overture_cities(con, bbox):
     return con.execute(sql).fetchall()
 
 # ────────────────────── FILE IO ──────────────────────
-def read_existing_keys(filename):
-    keys = set()
-    if not os.path.exists(filename):
-        return keys
-    with open(filename, "r", encoding="utf-8") as f:
-        for line in f:
-            s = line.strip()
-            if not s or s.startswith("#"):
-                continue
-            p = s.split(",")
-            if len(p) >= 4:
-                keys.add(f"{p[3]}_{p[0]}_{p[1]}")
-    return keys
-
 def merge_csv(filename, title, new_lines):
-    existing_keys = read_existing_keys(filename)
-    existing = []
+    old_by_key = {}
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             for line in f:
-                if not line.strip().startswith("#") and line.strip():
-                    existing.append(line.strip())
+                s = line.strip()
+                if not s or s.startswith("#"):
+                    continue
+                p = s.split(",")
+                if len(p) >= 4:
+                    old_by_key[f"{p[3]}_{p[0]}_{p[1]}"] = s
     added = 0
+    seen = set()
+    out = []
     for l in new_lines:
         p = l.split(",")
         if len(p) >= 4:
             key = f"{p[3]}_{p[0]}_{p[1]}"
-            if key in existing_keys:
+            if key in seen:
                 continue
-            existing_keys.add(key)
-        existing.append(l)
-        added += 1
+            seen.add(key)
+            old = old_by_key.get(key)
+            if old is not None and old == l:
+                out.append(old)
+                continue
+            if old is None:
+                added += 1
+            out.append(l)
+        else:
+            out.append(l)
     with open(filename, "w", encoding="utf-8") as f:
-        f.write(f"# lat,lng,id,name,building_type,type\n# {title}\n")
-        for l in existing:
+        f.write(f"# lat,lng,id,name,building_type,type,url,page_type\n# {title}\n")
+        for l in out:
             f.write(l + "\n")
-    return added, len(existing)
+    return added, len(out)
 
 def osm_category_query(cat_key, bbox):
     if cat_key == "landmarks":
@@ -296,7 +326,7 @@ def main():
         print(f"  Overture: {len(ov_rows)} POI")
 
         for row in ov_rows:
-            lat, lng, oid, name, basic_cat, city_addr, reg_addr, cntry_addr, conf = row
+            lat, lng, oid, name, basic_cat, city_addr, reg_addr, cntry_addr, conf, website = row
             if not lat or not lng or not name or name == "unknown" or len(name) < 3:
                 continue
 
@@ -327,7 +357,10 @@ def main():
             safe_name = name.replace('"', "").strip()[:60]
             name_csv = f'"{safe_name}"' if "," in safe_name else safe_name
             pid = re.sub(r"[^a-zA-Z0-9]", "_", safe_name.lower())[:40]
-            line = f"{lat:.6f},{lng:.6f},ov_{pid}_{lat:.4f}_{lng:.4f},{name_csv},{btype},{csv_type}"
+            website_url = website.strip() if website else ""
+            city_slug = norm_name(city or "sconosciuta")
+            json_url = generate_poi_page(safe_name, cat_key, btype, website_url, region_slug, city_slug, lat, lng, repo_dir)
+            line = f"{lat:.6f},{lng:.6f},ov_{pid}_{lat:.4f}_{lng:.4f},{name_csv},{btype},{csv_type},{json_url},custom"
 
             k = dedup_key(safe_name, lat, lng)
             cat_keys.add(k)
@@ -347,7 +380,9 @@ def main():
             if k in cat_keys or k in osm_seen:
                 continue  # Overture vince; OSM stesso no
             osm_seen.add(k)
-            line = f"{poi['lat']:.6f},{poi['lng']:.6f},{poi['id']},{poi['name']},{poi['building_type']},{poi['csv_type']}"
+            osm_city_slug = norm_name(poi["city"])
+            json_url = generate_poi_page(poi["name"], cat_key, poi["building_type"], poi["url"], region_slug, osm_city_slug, poi["lat"], poi["lng"], repo_dir)
+            line = f"{poi['lat']:.6f},{poi['lng']:.6f},{poi['id']},{poi['name']},{poi['building_type']},{poi['csv_type']},{json_url},custom"
             osm_pois.append((poi["city"], k, line))
 
         print(f"  -> Overture: {len(ov_pois)} | OSM (no dup): {len(osm_pois)} | tot: {len(ov_pois)+len(osm_pois)}")

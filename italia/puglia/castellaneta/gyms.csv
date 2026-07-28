@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castellaneta -- gyms
-40.631702,16.925630,ov_muscle_factory_40.6317_16.9256,Muscle factory,GYM,palestra
-40.632598,16.930322,ov_asd_la_palestra_ilgrande_40.6326_16.9303,Asd La Palestra Ilgrande,GYM,palestra
-40.633024,16.930921,ov_sport___fitness_40.6330_16.9309,Sport & Fitness,GYM,palestra
-40.625571,16.934250,ov_obsession_dance_academy_40.6256_16.9343,Obsession Dance Academy,GYM,palestra
-40.626082,16.934964,ov_palestra_asd_metamorphosy_mariano_40.6261_16.9350,Palestra ASD Metamorphosy Mariano,GYM,palestra
-40.626236,16.934262,ov_boom_fitness_club_40.6262_16.9343,Boom fitness club,GYM,palestra
-40.628988,16.935149,ov_palestra_reishiki_40.6290_16.9351,Palestra Reishiki,GYM,palestra
-40.628851,16.940986,ov_samatva_yoga_castellaneta_40.6289_16.9410,Samatva Yoga Castellaneta,GYM,palestra
-40.630039,16.937543,ov_ganesha_studio_40.6300_16.9375,Ganesha Studio,GYM,palestra
-40.625637,16.925961,ov_palatifo_40.6256_16.9260,Palatifo,GYM,palestra
-40.621097,16.940556,ov_il_rumb_n_castellaneta_associazione_spor_40.6211_16.9406,Il Rumbón Castellaneta Associazione Sportiva Dilettantistica,GYM,palestra
-40.623240,16.940950,ov_asd_kastanea_40.6232_16.9410,Asd Kastanea,GYM,palestra
+40.631702,16.925630,ov_muscle_factory_40.6317_16.9256,Muscle factory,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/muscle_factory_40.6317_16.9256.json,custom
+40.632598,16.930322,ov_asd_la_palestra_ilgrande_40.6326_16.9303,Asd La Palestra Ilgrande,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/asd_la_palestra_ilgrande_40.6326_16.9303.json,custom
+40.633024,16.930921,ov_sport___fitness_40.6330_16.9309,Sport & Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/sport_fitness_40.6330_16.9309.json,custom
+40.625571,16.934250,ov_obsession_dance_academy_40.6256_16.9343,Obsession Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/obsession_dance_academy_40.6256_16.9343.json,custom
+40.626082,16.934964,ov_palestra_asd_metamorphosy_mariano_40.6261_16.9350,Palestra ASD Metamorphosy Mariano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/palestra_asd_metamorphosy_mariano_40.6261_16.9350.json,custom
+40.626236,16.934262,ov_boom_fitness_club_40.6262_16.9343,Boom fitness club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/boom_fitness_club_40.6262_16.9343.json,custom
+40.628988,16.935149,ov_palestra_reishiki_40.6290_16.9351,Palestra Reishiki,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/palestra_reishiki_40.6290_16.9351.json,custom
+40.628851,16.940986,ov_samatva_yoga_castellaneta_40.6289_16.9410,Samatva Yoga Castellaneta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/samatva_yoga_castellaneta_40.6289_16.9410.json,custom
+40.630039,16.937543,ov_ganesha_studio_40.6300_16.9375,Ganesha Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/ganesha_studio_40.6300_16.9375.json,custom
+40.625637,16.925961,ov_palatifo_40.6256_16.9260,Palatifo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/palatifo_40.6256_16.9260.json,custom
+40.621097,16.940556,ov_il_rumb_n_castellaneta_associazione_spor_40.6211_16.9406,Il Rumbón Castellaneta Associazione Sportiva Dilettantistica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/il_rumbn_castellaneta_associazione_sport_40.6211_16.9406.json,custom
+40.623240,16.940950,ov_asd_kastanea_40.6232_16.9410,Asd Kastanea,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castellaneta/pages/asd_kastanea_40.6232_16.9410.json,custom

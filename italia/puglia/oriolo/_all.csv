@@ -1,16 +1,16 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Oriolo -- Tutti
-40.051773,16.444299,osm_trattoria_da_antonio_40.0518_16.4443,Trattoria Da Antonio,ristorante,ristorante
-40.093198,16.431018,ov_agriturismo_antico_casale_40.0932_16.4310,Agriturismo Antico Casale,RESTAURANT,ristorante
-40.053219,16.447481,ov_la_tavernetta_40.0532_16.4475,La Tavernetta,RESTAURANT,ristorante
-40.053187,16.444765,ov_pizzeria_a_corrado_40.0532_16.4448,Pizzeria A.Corrado,RESTAURANT,ristorante
-40.051734,16.444351,ov_trattoria_bar_sport_40.0517_16.4444,Trattoria Bar Sport,RESTAURANT,ristorante
-40.050660,16.449980,ov_taverna_del_borgo_40.0507_16.4500,Taverna DEL Borgo,RESTAURANT,ristorante
-40.036636,16.458519,ov_agriturismo_cervinace_40.0366_16.4585,Agriturismo Cervinace,RESTAURANT,ristorante
-40.007769,16.481991,ov_agriturismo_nonna_maria_40.0078_16.4820,Agriturismo Nonna Maria,RESTAURANT,ristorante
-40.052876,16.448186,ov_bar_d_angelo_40.0529_16.4482,Bar D'Angelo,RESTAURANT,bar_cafe
-40.052591,16.447061,ov_al_piccolo_40.0526_16.4471,Al Piccolo,RESTAURANT,bar_cafe
-40.052814,16.444142,ov_cantuccio_bar_40.0528_16.4441,Cantuccio Bar,RESTAURANT,bar_cafe
-40.051447,16.448598,ov_gatto_matto_birreria_piadineria_40.0514_16.4486,GATTO MATTO Birreria piadineria,RESTAURANT,bar_cafe
-40.051834,16.448734,ov_bar_900_40.0518_16.4487,Bar 900,RESTAURANT,bar_cafe
-40.051060,16.449460,ov_castello_di_oriolo_40.0511_16.4495,Castello Di Oriolo,MONUMENT,monumento
+40.093198,16.431018,ov_agriturismo_antico_casale_40.0932_16.4310,Agriturismo Antico Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/agriturismo_antico_casale_40.0932_16.4310.json,custom
+40.053219,16.447481,ov_la_tavernetta_40.0532_16.4475,La Tavernetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/la_tavernetta_40.0532_16.4475.json,custom
+40.053187,16.444765,ov_pizzeria_a_corrado_40.0532_16.4448,Pizzeria A.Corrado,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/pizzeria_acorrado_40.0532_16.4448.json,custom
+40.051734,16.444351,ov_trattoria_bar_sport_40.0517_16.4444,Trattoria Bar Sport,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/trattoria_bar_sport_40.0517_16.4444.json,custom
+40.050660,16.449980,ov_taverna_del_borgo_40.0507_16.4500,Taverna DEL Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/taverna_del_borgo_40.0507_16.4500.json,custom
+40.036636,16.458519,ov_agriturismo_cervinace_40.0366_16.4585,Agriturismo Cervinace,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/agriturismo_cervinace_40.0366_16.4585.json,custom
+40.007769,16.481991,ov_agriturismo_nonna_maria_40.0078_16.4820,Agriturismo Nonna Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/agriturismo_nonna_maria_40.0078_16.4820.json,custom
+40.051773,16.444299,osm_trattoria_da_antonio_40.0518_16.4443,Trattoria Da Antonio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/trattoria_da_antonio_40.0518_16.4443.json,custom
+40.052876,16.448186,ov_bar_d_angelo_40.0529_16.4482,Bar D'Angelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/bar_dangelo_40.0529_16.4482.json,custom
+40.052591,16.447061,ov_al_piccolo_40.0526_16.4471,Al Piccolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/al_piccolo_40.0526_16.4471.json,custom
+40.052814,16.444142,ov_cantuccio_bar_40.0528_16.4441,Cantuccio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/cantuccio_bar_40.0528_16.4441.json,custom
+40.051447,16.448598,ov_gatto_matto_birreria_piadineria_40.0514_16.4486,GATTO MATTO Birreria piadineria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/gatto_matto_birreria_piadineria_40.0514_16.4486.json,custom
+40.051834,16.448734,ov_bar_900_40.0518_16.4487,Bar 900,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/bar_900_40.0518_16.4487.json,custom
+40.051060,16.449460,ov_castello_di_oriolo_40.0511_16.4495,Castello Di Oriolo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oriolo/pages/castello_di_oriolo_40.0511_16.4495.json,custom

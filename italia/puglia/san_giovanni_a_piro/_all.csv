@@ -1,46 +1,46 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Giovanni a Piro -- Tutti
-40.050158,15.451258,ov_ristorante_pappacena_40.0502_15.4513,Ristorante PAPPACENA,RESTAURANT,ristorante
-40.050840,15.449791,ov_palazzo_vecchio_1757_40.0508_15.4498,Palazzo Vecchio 1757,RESTAURANT,ristorante
-40.072201,15.456449,ov_la_locanda_di_romeo_40.0722_15.4564,La Locanda di Romeo,RESTAURANT,ristorante
-40.070361,15.473129,ov_i_saraceni_restaurant_40.0704_15.4731,I Saraceni Restaurant,RESTAURANT,ristorante
-40.056245,15.492560,ov_gud_cilento_40.0562_15.4926,Gud Cilento,RESTAURANT,ristorante
-40.055795,15.491810,ov_la_taverna_del_lupo_40.0558_15.4918,La Taverna del Lupo,RESTAURANT,ristorante
-40.054621,15.491721,ov_braceria_churrascaria_pietro_e_andrea_40.0546_15.4917,Braceria-Churrascaria Pietro e Andrea,RESTAURANT,ristorante
-40.055129,15.491966,ov_quo_vadis_40.0551_15.4920,Quo Vadis,RESTAURANT,ristorante
-40.054732,15.492953,ov_scario_40.0547_15.4930,Scario,RESTAURANT,ristorante
-40.050369,15.490776,ov_ristorante_da_mario_40.0504_15.4908,Ristorante da Mario,RESTAURANT,ristorante
-40.051829,15.490664,ov_il_pirata_pizzeria_40.0518_15.4907,Il Pirata pizzeria,RESTAURANT,ristorante
-40.051896,15.491305,ov_ristorante_u__zifaro_40.0519_15.4913,Ristorante U' Zifaro,RESTAURANT,ristorante
-40.052517,15.491642,ov_ristorante_tipiteca_40.0525_15.4916,Ristorante Tipiteca,RESTAURANT,ristorante
-40.052541,15.491669,ov_la_gustoteca_40.0525_15.4917,La Gustoteca,RESTAURANT,ristorante
-40.053024,15.492119,ov_mami_scario_40.0530_15.4921,MAMI Scario,RESTAURANT,ristorante
-40.053086,15.492146,ov_ristorante_maria_luisa_40.0531_15.4921,Ristorante Maria Luisa,RESTAURANT,ristorante
-40.053311,15.492393,ov_moses_40.0533_15.4924,Moses,RESTAURANT,ristorante
-40.054068,15.492143,ov_u_cippo_40.0541_15.4921,U'cippo,RESTAURANT,ristorante
-40.050280,15.489470,ov_ristorante_primerose_40.0503_15.4895,Ristorante Primerose,RESTAURANT,ristorante
-40.049821,15.490212,ov_ristorante_pizzeria_il_faro_40.0498_15.4902,Ristorante Pizzeria Il Faro,RESTAURANT,ristorante
-40.049704,15.490161,ov_la_lanterna_40.0497_15.4902,La Lanterna,RESTAURANT,ristorante
-40.049577,15.490079,ov_pizzeria__elimar__40.0496_15.4901,Pizzeria “elimar”,RESTAURANT,ristorante
-40.048922,15.490507,ov_birreria_pizzeria_luna_nuova_40.0489_15.4905,Birreria Pizzeria Luna Nuova,RESTAURANT,ristorante
-40.051779,15.474965,ov_azienda_agrituristica_palazzone_40.0518_15.4750,Azienda Agrituristica Palazzone,RESTAURANT,ristorante
-40.050146,15.451217,ov_bar_tabacchi_pappacena_40.0501_15.4512,Bar Tabacchi Pappacena,RESTAURANT,bar_cafe
-40.050618,15.450329,ov_cambia_menti_40.0506_15.4503,Cambia-Menti,RESTAURANT,bar_cafe
-40.051051,15.450358,ov_happy_hours_cafe_40.0511_15.4504,Happy Hours Cafe,RESTAURANT,bar_cafe
-40.072728,15.456452,ov_bar_1828____bosco__40.0727_15.4565,Bar 1828 - (Bosco),RESTAURANT,bar_cafe
-40.072934,15.456339,ov_bar_onda_40.0729_15.4563,Bar Onda,RESTAURANT,bar_cafe
-40.071821,15.456678,ov_sambuco_bar_tabacchi_40.0718_15.4567,Sambuco Bar Tabacchi,RESTAURANT,bar_cafe
-40.056480,15.492690,ov_wima_caf__40.0565_15.4927,WIMA Cafè,RESTAURANT,bar_cafe
-40.054828,15.491594,ov_al_bivio_caff__40.0548_15.4916,Al Bivio Caffè,RESTAURANT,bar_cafe
-40.055149,15.491911,ov_agora_40.0551_15.4919,Agora,RESTAURANT,bar_cafe
-40.055614,15.491923,ov_lido_cayo_cocco_40.0556_15.4919,Lido Cayo Cocco,RESTAURANT,bar_cafe
-40.056311,15.494777,ov_bar_taro_40.0563_15.4948,Bar Taro,RESTAURANT,bar_cafe
-40.050129,15.490894,ov_albilu_40.0501_15.4909,Albilu,RESTAURANT,bar_cafe
-40.051216,15.491007,ov_vini__le_40.0512_15.4910,Vini..le,RESTAURANT,bar_cafe
-40.052067,15.491390,ov_bar_mose_40.0521_15.4914,Bar Mose,RESTAURANT,bar_cafe
-40.051727,15.491229,ov_jpub_scario_40.0517_15.4912,JPub Scario,RESTAURANT,bar_cafe
-40.051637,15.491227,ov_caff__del_mare_40.0516_15.4912,Caffè del Mare,RESTAURANT,bar_cafe
-40.053278,15.492414,ov_tipsy_lord_40.0533_15.4924,Tipsy Lord,RESTAURANT,bar_cafe
-40.048554,15.489883,ov_cubo_beach_bar_40.0486_15.4899,CUBO beach bar,RESTAURANT,bar_cafe
-40.072049,15.499104,ov_palestra_body_line_40.0720_15.4991,Palestra Body Line,GYM,palestra
-40.053173,15.492613,ov_piazza_immacolata_scario_40.0532_15.4926,Piazza Immacolata Scario,GYM,palestra
+40.050158,15.451258,ov_ristorante_pappacena_40.0502_15.4513,Ristorante PAPPACENA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_pappacena_40.0502_15.4513.json,custom
+40.050840,15.449791,ov_palazzo_vecchio_1757_40.0508_15.4498,Palazzo Vecchio 1757,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/palazzo_vecchio_1757_40.0508_15.4498.json,custom
+40.072201,15.456449,ov_la_locanda_di_romeo_40.0722_15.4564,La Locanda di Romeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_locanda_di_romeo_40.0722_15.4564.json,custom
+40.070361,15.473129,ov_i_saraceni_restaurant_40.0704_15.4731,I Saraceni Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/i_saraceni_restaurant_40.0704_15.4731.json,custom
+40.056245,15.492560,ov_gud_cilento_40.0562_15.4926,Gud Cilento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/gud_cilento_40.0562_15.4926.json,custom
+40.055795,15.491810,ov_la_taverna_del_lupo_40.0558_15.4918,La Taverna del Lupo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_taverna_del_lupo_40.0558_15.4918.json,custom
+40.054621,15.491721,ov_braceria_churrascaria_pietro_e_andrea_40.0546_15.4917,Braceria-Churrascaria Pietro e Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/braceria-churrascaria_pietro_e_andrea_40.0546_15.4917.json,custom
+40.055129,15.491966,ov_quo_vadis_40.0551_15.4920,Quo Vadis,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/quo_vadis_40.0551_15.4920.json,custom
+40.054732,15.492953,ov_scario_40.0547_15.4930,Scario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/scario_40.0547_15.4930.json,custom
+40.050369,15.490776,ov_ristorante_da_mario_40.0504_15.4908,Ristorante da Mario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_da_mario_40.0504_15.4908.json,custom
+40.051829,15.490664,ov_il_pirata_pizzeria_40.0518_15.4907,Il Pirata pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/il_pirata_pizzeria_40.0518_15.4907.json,custom
+40.051896,15.491305,ov_ristorante_u__zifaro_40.0519_15.4913,Ristorante U' Zifaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_u_zifaro_40.0519_15.4913.json,custom
+40.052517,15.491642,ov_ristorante_tipiteca_40.0525_15.4916,Ristorante Tipiteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_tipiteca_40.0525_15.4916.json,custom
+40.052541,15.491669,ov_la_gustoteca_40.0525_15.4917,La Gustoteca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_gustoteca_40.0525_15.4917.json,custom
+40.053024,15.492119,ov_mami_scario_40.0530_15.4921,MAMI Scario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/mami_scario_40.0530_15.4921.json,custom
+40.053086,15.492146,ov_ristorante_maria_luisa_40.0531_15.4921,Ristorante Maria Luisa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_maria_luisa_40.0531_15.4921.json,custom
+40.053311,15.492393,ov_moses_40.0533_15.4924,Moses,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/moses_40.0533_15.4924.json,custom
+40.054068,15.492143,ov_u_cippo_40.0541_15.4921,U'cippo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ucippo_40.0541_15.4921.json,custom
+40.050280,15.489470,ov_ristorante_primerose_40.0503_15.4895,Ristorante Primerose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_primerose_40.0503_15.4895.json,custom
+40.049821,15.490212,ov_ristorante_pizzeria_il_faro_40.0498_15.4902,Ristorante Pizzeria Il Faro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/ristorante_pizzeria_il_faro_40.0498_15.4902.json,custom
+40.049704,15.490161,ov_la_lanterna_40.0497_15.4902,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/la_lanterna_40.0497_15.4902.json,custom
+40.049577,15.490079,ov_pizzeria__elimar__40.0496_15.4901,Pizzeria “elimar”,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/pizzeria_elimar_40.0496_15.4901.json,custom
+40.048922,15.490507,ov_birreria_pizzeria_luna_nuova_40.0489_15.4905,Birreria Pizzeria Luna Nuova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/birreria_pizzeria_luna_nuova_40.0489_15.4905.json,custom
+40.051779,15.474965,ov_azienda_agrituristica_palazzone_40.0518_15.4750,Azienda Agrituristica Palazzone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/azienda_agrituristica_palazzone_40.0518_15.4750.json,custom
+40.050146,15.451217,ov_bar_tabacchi_pappacena_40.0501_15.4512,Bar Tabacchi Pappacena,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/bar_tabacchi_pappacena_40.0501_15.4512.json,custom
+40.050618,15.450329,ov_cambia_menti_40.0506_15.4503,Cambia-Menti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/cambia-menti_40.0506_15.4503.json,custom
+40.051051,15.450358,ov_happy_hours_cafe_40.0511_15.4504,Happy Hours Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/happy_hours_cafe_40.0511_15.4504.json,custom
+40.072728,15.456452,ov_bar_1828____bosco__40.0727_15.4565,Bar 1828 - (Bosco),RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/bar_1828_-_bosco_40.0727_15.4565.json,custom
+40.072934,15.456339,ov_bar_onda_40.0729_15.4563,Bar Onda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/bar_onda_40.0729_15.4563.json,custom
+40.071821,15.456678,ov_sambuco_bar_tabacchi_40.0718_15.4567,Sambuco Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/sambuco_bar_tabacchi_40.0718_15.4567.json,custom
+40.056480,15.492690,ov_wima_caf__40.0565_15.4927,WIMA Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/wima_caf_40.0565_15.4927.json,custom
+40.054828,15.491594,ov_al_bivio_caff__40.0548_15.4916,Al Bivio Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/al_bivio_caff_40.0548_15.4916.json,custom
+40.055149,15.491911,ov_agora_40.0551_15.4919,Agora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/agora_40.0551_15.4919.json,custom
+40.055614,15.491923,ov_lido_cayo_cocco_40.0556_15.4919,Lido Cayo Cocco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/lido_cayo_cocco_40.0556_15.4919.json,custom
+40.056311,15.494777,ov_bar_taro_40.0563_15.4948,Bar Taro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/bar_taro_40.0563_15.4948.json,custom
+40.050129,15.490894,ov_albilu_40.0501_15.4909,Albilu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/albilu_40.0501_15.4909.json,custom
+40.051216,15.491007,ov_vini__le_40.0512_15.4910,Vini..le,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/vinile_40.0512_15.4910.json,custom
+40.052067,15.491390,ov_bar_mose_40.0521_15.4914,Bar Mose,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/bar_mose_40.0521_15.4914.json,custom
+40.051727,15.491229,ov_jpub_scario_40.0517_15.4912,JPub Scario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/jpub_scario_40.0517_15.4912.json,custom
+40.051637,15.491227,ov_caff__del_mare_40.0516_15.4912,Caffè del Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/caff_del_mare_40.0516_15.4912.json,custom
+40.053278,15.492414,ov_tipsy_lord_40.0533_15.4924,Tipsy Lord,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/tipsy_lord_40.0533_15.4924.json,custom
+40.048554,15.489883,ov_cubo_beach_bar_40.0486_15.4899,CUBO beach bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/cubo_beach_bar_40.0486_15.4899.json,custom
+40.072049,15.499104,ov_palestra_body_line_40.0720_15.4991,Palestra Body Line,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/palestra_body_line_40.0720_15.4991.json,custom
+40.053173,15.492613,ov_piazza_immacolata_scario_40.0532_15.4926,Piazza Immacolata Scario,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giovanni_a_piro/pages/piazza_immacolata_scario_40.0532_15.4926.json,custom

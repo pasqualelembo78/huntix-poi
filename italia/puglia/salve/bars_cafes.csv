@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # salve -- bars_cafes
-39.835100,18.244902,ov_le_maldive_39.8351_18.2449,Le Maldive,RESTAURANT,bar_cafe
-39.837219,18.253408,ov_sgf_granite_siciliane_39.8372_18.2534,SGF Granite Siciliane,RESTAURANT,bar_cafe
-39.836911,18.255122,ov_boteguita_beach_pub_pescoluse_39.8369_18.2551,Boteguita Beach Pub Pescoluse,RESTAURANT,bar_cafe
-39.836852,18.263227,ov_bar_friend_s_39.8369_18.2632,Bar Friend's,RESTAURANT,bar_cafe
-39.838360,18.253840,ov_civico55_pescoluse_39.8384_18.2538,Civico55_pescoluse,RESTAURANT,bar_cafe
-39.838292,18.251094,ov_la_rotonda_39.8383_18.2511,La Rotonda,RESTAURANT,bar_cafe
-39.843418,18.210006,ov_caffetteria_miramare_39.8434_18.2100,Caffetteria miramare,RESTAURANT,bar_cafe
-39.838526,18.209206,ov_luna_rossa_bar_39.8385_18.2092,Luna Rossa bar,RESTAURANT,bar_cafe
-39.835226,18.237054,ov_lido_mariro__pescoluse_39.8352_18.2371,Lido Mariro' Pescoluse,RESTAURANT,bar_cafe
-39.872337,18.316209,ov_santa_marina___ruggiano_39.8723_18.3162,Santa Marina - Ruggiano,RESTAURANT,bar_cafe
-39.860240,18.300000,ov_freedom_cafe__39.8602_18.3000,Freedom CAFE',RESTAURANT,bar_cafe
-39.863812,18.294647,ov_new_generation_club_39.8638_18.2946,New Generation Club,RESTAURANT,bar_cafe
-39.859960,18.295660,ov_cocktailmatissebistrot_39.8600_18.2957,Cocktailmatissebistrot,RESTAURANT,bar_cafe
-39.859296,18.297111,ov_capricci_del_corso_39.8593_18.2971,Capricci del Corso,RESTAURANT,bar_cafe
-39.860096,18.295452,osm_caff__roma_39.8601_18.2955,Caffè Roma,bar_cafe,bar_cafe
-39.852401,18.189502,osm_caffetteria_martinucci_39.8524_18.1895,Caffetteria Martinucci,bar_cafe,bar_cafe
-39.838683,18.209681,osm_martinucci_laboratory_39.8387_18.2097,Martinucci Laboratory,bar_cafe,bar_cafe
+39.835100,18.244902,ov_le_maldive_39.8351_18.2449,Le Maldive,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/le_maldive_39.8351_18.2449.json,custom
+39.837219,18.253408,ov_sgf_granite_siciliane_39.8372_18.2534,SGF Granite Siciliane,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/sgf_granite_siciliane_39.8372_18.2534.json,custom
+39.836911,18.255122,ov_boteguita_beach_pub_pescoluse_39.8369_18.2551,Boteguita Beach Pub Pescoluse,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/boteguita_beach_pub_pescoluse_39.8369_18.2551.json,custom
+39.836852,18.263227,ov_bar_friend_s_39.8369_18.2632,Bar Friend's,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/bar_friends_39.8369_18.2632.json,custom
+39.838360,18.253840,ov_civico55_pescoluse_39.8384_18.2538,Civico55_pescoluse,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/civico55pescoluse_39.8384_18.2538.json,custom
+39.838292,18.251094,ov_la_rotonda_39.8383_18.2511,La Rotonda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/la_rotonda_39.8383_18.2511.json,custom
+39.843418,18.210006,ov_caffetteria_miramare_39.8434_18.2100,Caffetteria miramare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/caffetteria_miramare_39.8434_18.2100.json,custom
+39.838526,18.209206,ov_luna_rossa_bar_39.8385_18.2092,Luna Rossa bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/luna_rossa_bar_39.8385_18.2092.json,custom
+39.835226,18.237054,ov_lido_mariro__pescoluse_39.8352_18.2371,Lido Mariro' Pescoluse,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/lido_mariro_pescoluse_39.8352_18.2371.json,custom
+39.872337,18.316209,ov_santa_marina___ruggiano_39.8723_18.3162,Santa Marina - Ruggiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/santa_marina_-_ruggiano_39.8723_18.3162.json,custom
+39.860240,18.300000,ov_freedom_cafe__39.8602_18.3000,Freedom CAFE',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/freedom_cafe_39.8602_18.3000.json,custom
+39.863812,18.294647,ov_new_generation_club_39.8638_18.2946,New Generation Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/new_generation_club_39.8638_18.2946.json,custom
+39.859960,18.295660,ov_cocktailmatissebistrot_39.8600_18.2957,Cocktailmatissebistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/cocktailmatissebistrot_39.8600_18.2957.json,custom
+39.859296,18.297111,ov_capricci_del_corso_39.8593_18.2971,Capricci del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/capricci_del_corso_39.8593_18.2971.json,custom
+39.860096,18.295452,osm_caff__roma_39.8601_18.2955,Caffè Roma,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/caff_roma_39.8601_18.2955.json,custom
+39.852401,18.189502,osm_caffetteria_martinucci_39.8524_18.1895,Caffetteria Martinucci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/caffetteria_martinucci_39.8524_18.1895.json,custom
+39.838683,18.209681,osm_martinucci_laboratory_39.8387_18.2097,Martinucci Laboratory,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salve/pages/martinucci_laboratory_39.8387_18.2097.json,custom

@@ -1,28 +1,28 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Stornara -- Tutti
-41.288355,15.767685,osm_excalibur_pizzeria_41.2884_15.7677,Excalibur Pizzeria,ristorante,ristorante
-41.287891,15.767546,osm_fieramosca_bistr__41.2879_15.7675,Fieramosca Bistrò,ristorante,ristorante
-41.293867,15.775700,ov_braceria_porca_sperduta_41.2939_15.7757,Braceria Porca Sperduta,RESTAURANT,ristorante
-41.291132,15.769245,ov_go_go_baby_41.2911_15.7692,Go go baby,RESTAURANT,ristorante
-41.289576,15.767691,ov_ma_gi_caf__41.2896_15.7677,Ma•Gi Café,RESTAURANT,ristorante
-41.289120,15.768040,ov_pizzeria_ristorante_exalibur_41.2891_15.7680,Pizzeria ristorante exalibur,RESTAURANT,ristorante
-41.288224,15.767825,ov_excalibur_pizzeria__al_punto_giusto__41.2882_15.7678,Excalibur pizzeria (AL PUNTO GIUSTO),RESTAURANT,ristorante
-41.287617,15.768491,ov_pescheria_alta_marea_41.2876_15.7685,Pescheria alta marea,RESTAURANT,ristorante
-41.283049,15.769262,ov_incanto_41.2830_15.7693,Incanto,RESTAURANT,ristorante
-41.286398,15.768613,ov_era_ora_pizzeria_41.2864_15.7686,Era Ora Pizzeria,RESTAURANT,ristorante
-41.286825,15.767319,ov_wine_republic_eventi_41.2868_15.7673,Wine Republic Eventi,RESTAURANT,ristorante
-41.286673,15.764664,ov_antico_borgo_41.2867_15.7647,Antico Borgo,RESTAURANT,ristorante
-41.288056,15.766743,ov_chiosco_di_mamma_maria_41.2881_15.7667,Chiosco di Mamma Maria,RESTAURANT,ristorante
-41.277693,15.801903,ov_b_b_braceria_grandone_41.2777_15.8019,B&B_braceria Grandone,RESTAURANT,ristorante
-41.329647,15.771558,ov_sam__food_drink_41.3296_15.7716,SaMà Food&Drink,RESTAURANT,bar_cafe
-41.289852,15.767614,ov_divino_winebar_restaurant_41.2899_15.7676,Divino Winebar Restaurant,RESTAURANT,bar_cafe
-41.289580,15.768660,ov_bar_dolci_momenti_41.2896_15.7687,Bar Dolci Momenti,RESTAURANT,bar_cafe
-41.289052,15.768027,ov_the_hangover_41.2891_15.7680,The Hangover,RESTAURANT,bar_cafe
-41.288621,15.767655,ov_koala_shanti_bar_41.2886_15.7677,Koala Shanti Bar,RESTAURANT,bar_cafe
-41.288352,15.769081,ov_white_moon_bar_41.2884_15.7691,White Moon bar,RESTAURANT,bar_cafe
-41.287950,15.767630,ov_bar_bistr__fieramosca_41.2880_15.7676,Bar Bistrò Fieramosca,RESTAURANT,bar_cafe
-41.289501,15.779450,ov_bar_tabacchi_di_maurizio_e_daniela_41.2895_15.7795,Bar&Tabacchi di Maurizio e Daniela,RESTAURANT,bar_cafe
-41.286554,15.771415,ov_moulin_rouge_pub_ragazzi_41.2866_15.7714,Moulin Rouge Pub Ragazzi,RESTAURANT,bar_cafe
-41.286631,15.770160,ov_marilyn_41.2866_15.7702,Marilyn,RESTAURANT,bar_cafe
-41.286953,15.769319,ov_bloom_cafe__stornara_41.2870_15.7693,BLOOM CAFE' Stornara,RESTAURANT,bar_cafe
-41.286780,15.767233,ov_to_go_caf__41.2868_15.7672,To'Go Cafè,RESTAURANT,bar_cafe
+41.293867,15.775700,ov_braceria_porca_sperduta_41.2939_15.7757,Braceria Porca Sperduta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/braceria_porca_sperduta_41.2939_15.7757.json,custom
+41.291132,15.769245,ov_go_go_baby_41.2911_15.7692,Go go baby,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/go_go_baby_41.2911_15.7692.json,custom
+41.289576,15.767691,ov_ma_gi_caf__41.2896_15.7677,Ma•Gi Café,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/magi_caf_41.2896_15.7677.json,custom
+41.289120,15.768040,ov_pizzeria_ristorante_exalibur_41.2891_15.7680,Pizzeria ristorante exalibur,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/pizzeria_ristorante_exalibur_41.2891_15.7680.json,custom
+41.288224,15.767825,ov_excalibur_pizzeria__al_punto_giusto__41.2882_15.7678,Excalibur pizzeria (AL PUNTO GIUSTO),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/excalibur_pizzeria_al_punto_giusto_41.2882_15.7678.json,custom
+41.287617,15.768491,ov_pescheria_alta_marea_41.2876_15.7685,Pescheria alta marea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/pescheria_alta_marea_41.2876_15.7685.json,custom
+41.283049,15.769262,ov_incanto_41.2830_15.7693,Incanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/incanto_41.2830_15.7693.json,custom
+41.286398,15.768613,ov_era_ora_pizzeria_41.2864_15.7686,Era Ora Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/era_ora_pizzeria_41.2864_15.7686.json,custom
+41.286825,15.767319,ov_wine_republic_eventi_41.2868_15.7673,Wine Republic Eventi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/wine_republic_eventi_41.2868_15.7673.json,custom
+41.286673,15.764664,ov_antico_borgo_41.2867_15.7647,Antico Borgo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/antico_borgo_41.2867_15.7647.json,custom
+41.288056,15.766743,ov_chiosco_di_mamma_maria_41.2881_15.7667,Chiosco di Mamma Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/chiosco_di_mamma_maria_41.2881_15.7667.json,custom
+41.277693,15.801903,ov_b_b_braceria_grandone_41.2777_15.8019,B&B_braceria Grandone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/bbbraceria_grandone_41.2777_15.8019.json,custom
+41.288355,15.767685,osm_excalibur_pizzeria_41.2884_15.7677,Excalibur Pizzeria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/excalibur_pizzeria_41.2884_15.7677.json,custom
+41.287891,15.767546,osm_fieramosca_bistr__41.2879_15.7675,Fieramosca Bistrò,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/fieramosca_bistr_41.2879_15.7675.json,custom
+41.329647,15.771558,ov_sam__food_drink_41.3296_15.7716,SaMà Food&Drink,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/sam_fooddrink_41.3296_15.7716.json,custom
+41.289852,15.767614,ov_divino_winebar_restaurant_41.2899_15.7676,Divino Winebar Restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/divino_winebar_restaurant_41.2899_15.7676.json,custom
+41.289580,15.768660,ov_bar_dolci_momenti_41.2896_15.7687,Bar Dolci Momenti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/bar_dolci_momenti_41.2896_15.7687.json,custom
+41.289052,15.768027,ov_the_hangover_41.2891_15.7680,The Hangover,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/the_hangover_41.2891_15.7680.json,custom
+41.288621,15.767655,ov_koala_shanti_bar_41.2886_15.7677,Koala Shanti Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/koala_shanti_bar_41.2886_15.7677.json,custom
+41.288352,15.769081,ov_white_moon_bar_41.2884_15.7691,White Moon bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/white_moon_bar_41.2884_15.7691.json,custom
+41.287950,15.767630,ov_bar_bistr__fieramosca_41.2880_15.7676,Bar Bistrò Fieramosca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/bar_bistr_fieramosca_41.2880_15.7676.json,custom
+41.289501,15.779450,ov_bar_tabacchi_di_maurizio_e_daniela_41.2895_15.7795,Bar&Tabacchi di Maurizio e Daniela,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/bartabacchi_di_maurizio_e_daniela_41.2895_15.7795.json,custom
+41.286554,15.771415,ov_moulin_rouge_pub_ragazzi_41.2866_15.7714,Moulin Rouge Pub Ragazzi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/moulin_rouge_pub_ragazzi_41.2866_15.7714.json,custom
+41.286631,15.770160,ov_marilyn_41.2866_15.7702,Marilyn,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/marilyn_41.2866_15.7702.json,custom
+41.286953,15.769319,ov_bloom_cafe__stornara_41.2870_15.7693,BLOOM CAFE' Stornara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/bloom_cafe_stornara_41.2870_15.7693.json,custom
+41.286780,15.767233,ov_to_go_caf__41.2868_15.7672,To'Go Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/stornara/pages/togo_caf_41.2868_15.7672.json,custom

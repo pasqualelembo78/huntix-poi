@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ostuni -- landmarks
-40.733709,17.578714,ov_museo_civilta_preclassiche_della_murgia__40.7337_17.5787,Museo Civilta Preclassiche della Murgia Meridionale,MUSEUM,monumento
-40.733541,17.578672,ov_parco_di_santa_maria_d_agnano_40.7335_17.5787,Parco di Santa Maria d'Agnano,MUSEUM,monumento
-40.734398,17.580242,ov_porta_san_demetrio_40.7344_17.5802,Porta San Demetrio,MONUMENT,monumento
-40.734202,17.578624,ov_orizzonti_arte_contemporanea_40.7342_17.5786,Orizzonti Arte Contemporanea,MUSEUM,monumento
-40.734221,17.578690,ov_museo_diocesano_di_ostuni_40.7342_17.5787,Museo Diocesano di Ostuni,MUSEUM,monumento
-40.715797,17.529209,ov_la_luna_nel_pozzo_40.7158_17.5292,La Luna nel Pozzo,MUSEUM,monumento
-40.716733,17.555526,ov_castello_di_carmelina_40.7167_17.5555,Castello di Carmelina,MUSEUM,monumento
+40.733709,17.578714,ov_museo_civilta_preclassiche_della_murgia__40.7337_17.5787,Museo Civilta Preclassiche della Murgia Meridionale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/museo_civilta_preclassiche_della_murgia__40.7337_17.5787.json,custom
+40.733541,17.578672,ov_parco_di_santa_maria_d_agnano_40.7335_17.5787,Parco di Santa Maria d'Agnano,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/parco_di_santa_maria_dagnano_40.7335_17.5787.json,custom
+40.734398,17.580242,ov_porta_san_demetrio_40.7344_17.5802,Porta San Demetrio,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/porta_san_demetrio_40.7344_17.5802.json,custom
+40.734202,17.578624,ov_orizzonti_arte_contemporanea_40.7342_17.5786,Orizzonti Arte Contemporanea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/orizzonti_arte_contemporanea_40.7342_17.5786.json,custom
+40.734221,17.578690,ov_museo_diocesano_di_ostuni_40.7342_17.5787,Museo Diocesano di Ostuni,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/museo_diocesano_di_ostuni_40.7342_17.5787.json,custom
+40.715797,17.529209,ov_la_luna_nel_pozzo_40.7158_17.5292,La Luna nel Pozzo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_luna_nel_pozzo_40.7158_17.5292.json,custom
+40.716733,17.555526,ov_castello_di_carmelina_40.7167_17.5555,Castello di Carmelina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/castello_di_carmelina_40.7167_17.5555.json,custom

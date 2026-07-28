@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # otranto -- gyms
-40.142295,18.490123,ov_scuola_di_danza_tutti_in_scena_40.1423_18.4901,Scuola di danza tutti in scena,GYM,palestra
-40.128276,18.486124,ov_circolo_ippico_tumara_40.1283_18.4861,Circolo Ippico Tumara,GYM,palestra
-40.155825,18.252052,ov_frassanito___alimini_kitesurf_spot_40.1558_18.2521,Frassanito - Alimini Kitesurf Spot,GYM,palestra
-40.150124,18.482925,ov_palestra_body_line_otranto_40.1501_18.4829,Palestra Body Line Otranto,GYM,palestra
-40.149361,18.486676,ov_salento_coast_est_40.1494_18.4867,Salento Coast Est,GYM,palestra
-40.216379,18.460437,ov_alimini_surf_club_40.2164_18.4604,Alimini Surf Club,GYM,palestra
-40.201770,18.434267,ov_maneggio_di_lucio_40.2018_18.4343,Maneggio di Lucio,GYM,palestra
-40.232939,18.460793,ov_frassanito_surf_point_40.2329_18.4608,Frassanito Surf Point,GYM,palestra
+40.142295,18.490123,ov_scuola_di_danza_tutti_in_scena_40.1423_18.4901,Scuola di danza tutti in scena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/scuola_di_danza_tutti_in_scena_40.1423_18.4901.json,custom
+40.128276,18.486124,ov_circolo_ippico_tumara_40.1283_18.4861,Circolo Ippico Tumara,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/circolo_ippico_tumara_40.1283_18.4861.json,custom
+40.155825,18.252052,ov_frassanito___alimini_kitesurf_spot_40.1558_18.2521,Frassanito - Alimini Kitesurf Spot,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/frassanito_-_alimini_kitesurf_spot_40.1558_18.2521.json,custom
+40.150124,18.482925,ov_palestra_body_line_otranto_40.1501_18.4829,Palestra Body Line Otranto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/palestra_body_line_otranto_40.1501_18.4829.json,custom
+40.149361,18.486676,ov_salento_coast_est_40.1494_18.4867,Salento Coast Est,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/salento_coast_est_40.1494_18.4867.json,custom
+40.216379,18.460437,ov_alimini_surf_club_40.2164_18.4604,Alimini Surf Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/alimini_surf_club_40.2164_18.4604.json,custom
+40.201770,18.434267,ov_maneggio_di_lucio_40.2018_18.4343,Maneggio di Lucio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/maneggio_di_lucio_40.2018_18.4343.json,custom
+40.232939,18.460793,ov_frassanito_surf_point_40.2329_18.4608,Frassanito Surf Point,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/frassanito_surf_point_40.2329_18.4608.json,custom

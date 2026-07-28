@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ugento -- gyms
-39.876091,18.132528,ov_locals_crew_39.8761_18.1325,Locals Crew,GYM,palestra
-39.890140,18.115280,ov_pista_salentina_39.8901_18.1153,Pista Salentina,GYM,palestra
-39.891794,18.133807,ov_t_ng_kho_s__qu_n__o___c_anh_39.8918_18.1338,Tổng Kho Sỉ Quần Áo Đức Anh,GYM,palestra
-39.882096,18.125743,ov_bros_sport_family_asd_39.8821_18.1257,Bros Sport Family asd,GYM,palestra
-39.881501,18.124168,ov_locals_salento_kitesurf_39.8815_18.1242,Locals Salento Kitesurf,GYM,palestra
-39.920926,18.157000,ov_the_massive_gym_39.9209_18.1570,The Massive Gym,GYM,palestra
-39.922461,18.153889,ov_new_play_sport_e_fitness_39.9225_18.1539,New Play Sport e Fitness,GYM,palestra
-39.928554,18.164555,ov_training_lab_39.9286_18.1646,Training Lab,GYM,palestra
-39.929880,18.166759,ov_palaozan_tiziano_manni_39.9299_18.1668,PalaOzan Tiziano Manni,GYM,palestra
-39.931208,18.152245,ov_energym_39.9312_18.1522,Energym,GYM,palestra
-39.931049,18.152014,ov_koin__danza_39.9310_18.1520,Koinè Danza,GYM,palestra
+39.876091,18.132528,ov_locals_crew_39.8761_18.1325,Locals Crew,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/locals_crew_39.8761_18.1325.json,custom
+39.890140,18.115280,ov_pista_salentina_39.8901_18.1153,Pista Salentina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/pista_salentina_39.8901_18.1153.json,custom
+39.891794,18.133807,ov_t_ng_kho_s__qu_n__o___c_anh_39.8918_18.1338,Tổng Kho Sỉ Quần Áo Đức Anh,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/tng_kho_s_qun_o_c_anh_39.8918_18.1338.json,custom
+39.882096,18.125743,ov_bros_sport_family_asd_39.8821_18.1257,Bros Sport Family asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/bros_sport_family_asd_39.8821_18.1257.json,custom
+39.881501,18.124168,ov_locals_salento_kitesurf_39.8815_18.1242,Locals Salento Kitesurf,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/locals_salento_kitesurf_39.8815_18.1242.json,custom
+39.920926,18.157000,ov_the_massive_gym_39.9209_18.1570,The Massive Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/the_massive_gym_39.9209_18.1570.json,custom
+39.922461,18.153889,ov_new_play_sport_e_fitness_39.9225_18.1539,New Play Sport e Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/new_play_sport_e_fitness_39.9225_18.1539.json,custom
+39.928554,18.164555,ov_training_lab_39.9286_18.1646,Training Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/training_lab_39.9286_18.1646.json,custom
+39.929880,18.166759,ov_palaozan_tiziano_manni_39.9299_18.1668,PalaOzan Tiziano Manni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/palaozan_tiziano_manni_39.9299_18.1668.json,custom
+39.931208,18.152245,ov_energym_39.9312_18.1522,Energym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/energym_39.9312_18.1522.json,custom
+39.931049,18.152014,ov_koin__danza_39.9310_18.1520,Koinè Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ugento/pages/koin_danza_39.9310_18.1520.json,custom

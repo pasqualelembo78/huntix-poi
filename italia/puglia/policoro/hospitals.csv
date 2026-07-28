@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # policoro -- hospitals
-40.213858,16.670306,ov_presidio_ospedaliero_policoro_40.2139_16.6703,Presidio Ospedaliero Policoro,HOSPITAL,hospital
-40.213901,16.670821,ov_ospedale_40.2139_16.6708,Ospedale,HOSPITAL,hospital
+40.213858,16.670306,ov_presidio_ospedaliero_policoro_40.2139_16.6703,Presidio Ospedaliero Policoro,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/policoro/pages/presidio_ospedaliero_policoro_40.2139_16.6703.json,custom
+40.213901,16.670821,ov_ospedale_40.2139_16.6708,Ospedale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/policoro/pages/ospedale_40.2139_16.6708.json,custom

@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # polignano_a_mare -- landmarks
-40.994028,17.228673,ov_fondazione_pino_pascali___museo_di_arte__40.9940_17.2287,Fondazione Pino Pascali - Museo di Arte Contemporanea,MUSEUM,monumento
-40.997057,17.218952,ov_bastione_di_santo_stefano_40.9971_17.2190,Bastione di Santo Stefano,MONUMENT,monumento
-40.997255,17.217099,ov_statue_of_domenico_modugno_40.9973_17.2171,Statue of Domenico Modugno,MONUMENT,monumento
-40.990443,17.204308,ov_star_wars_museum_40.9904_17.2043,Star Wars Museum,MUSEUM,monumento
-40.993035,17.221818,ov_like_a_little_disaster_40.9930_17.2218,Like a little disaster,MUSEUM,monumento
+40.994028,17.228673,ov_fondazione_pino_pascali___museo_di_arte__40.9940_17.2287,Fondazione Pino Pascali - Museo di Arte Contemporanea,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/fondazione_pino_pascali_-_museo_di_arte__40.9940_17.2287.json,custom
+40.997057,17.218952,ov_bastione_di_santo_stefano_40.9971_17.2190,Bastione di Santo Stefano,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/bastione_di_santo_stefano_40.9971_17.2190.json,custom
+40.997255,17.217099,ov_statue_of_domenico_modugno_40.9973_17.2171,Statue of Domenico Modugno,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/statue_of_domenico_modugno_40.9973_17.2171.json,custom
+40.990443,17.204308,ov_star_wars_museum_40.9904_17.2043,Star Wars Museum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/star_wars_museum_40.9904_17.2043.json,custom
+40.993035,17.221818,ov_like_a_little_disaster_40.9930_17.2218,Like a little disaster,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/polignano_a_mare/pages/like_a_little_disaster_40.9930_17.2218.json,custom

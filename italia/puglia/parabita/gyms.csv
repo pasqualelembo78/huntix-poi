@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # parabita -- gyms
-40.053400,18.121070,ov_sensual_dance_fit_fabiola_parabita_40.0534_18.1211,Sensual Dance Fit Fabiola Parabita,GYM,palestra
-40.053935,18.119919,ov_victory_dance_40.0539_18.1199,Victory dance,GYM,palestra
-40.051527,18.122925,ov_green_sport_center_40.0515_18.1229,Green Sport Center,GYM,palestra
-40.052021,18.129757,ov_dynamika_ballet_asd_40.0520_18.1298,Dynamika Ballet ASD,GYM,palestra
-40.050459,18.121407,ov_a_s_d__reborn_gym_40.0505_18.1214,A.S.D. Reborn Gym,GYM,palestra
-40.046704,18.122738,ov_asd_amici_del_ballo_40.0467_18.1227,ASD Amici del Ballo,GYM,palestra
-40.046620,18.125540,ov_jump_fitness_center_40.0466_18.1255,Jump Fitness Center,GYM,palestra
+40.053400,18.121070,ov_sensual_dance_fit_fabiola_parabita_40.0534_18.1211,Sensual Dance Fit Fabiola Parabita,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/sensual_dance_fit_fabiola_parabita_40.0534_18.1211.json,custom
+40.053935,18.119919,ov_victory_dance_40.0539_18.1199,Victory dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/victory_dance_40.0539_18.1199.json,custom
+40.051527,18.122925,ov_green_sport_center_40.0515_18.1229,Green Sport Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/green_sport_center_40.0515_18.1229.json,custom
+40.052021,18.129757,ov_dynamika_ballet_asd_40.0520_18.1298,Dynamika Ballet ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/dynamika_ballet_asd_40.0520_18.1298.json,custom
+40.050459,18.121407,ov_a_s_d__reborn_gym_40.0505_18.1214,A.S.D. Reborn Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asd_reborn_gym_40.0505_18.1214.json,custom
+40.046704,18.122738,ov_asd_amici_del_ballo_40.0467_18.1227,ASD Amici del Ballo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asd_amici_del_ballo_40.0467_18.1227.json,custom
+40.046620,18.125540,ov_jump_fitness_center_40.0466_18.1255,Jump Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/jump_fitness_center_40.0466_18.1255.json,custom

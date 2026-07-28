@@ -1,22 +1,22 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # campomarino -- bars_cafes
-41.937900,15.014520,ov_ristobar_annar__41.9379_15.0145,Ristobar Annarè,RESTAURANT,bar_cafe
-41.954081,15.027624,ov_le_bistrot_41.9541_15.0276,Le Bistrot,RESTAURANT,bar_cafe
-41.954050,15.034260,ov_plaza_cafe_41.9541_15.0343,Plaza Cafe,RESTAURANT,bar_cafe
-41.952388,15.034531,ov_blackout_41.9524_15.0345,Blackout,RESTAURANT,bar_cafe
-41.953870,15.030320,ov_marina_hemingway_campomarino_di_maruggio_41.9539_15.0303,Marina Hemingway Campomarino di Maruggio,RESTAURANT,bar_cafe
-41.955263,15.034521,ov_bar_colitti_41.9553_15.0345,Bar Colitti,RESTAURANT,bar_cafe
-41.957254,15.035397,ov_coffee_time_41.9573_15.0354,Coffee Time,RESTAURANT,bar_cafe
-41.957930,15.035394,ov_kecaffe_41.9579_15.0354,KeCaffe,RESTAURANT,bar_cafe
-41.958247,15.038013,ov_dolceamaro_lounge_bar_41.9582_15.0380,DolceAmaro Lounge Bar,RESTAURANT,bar_cafe
-41.957601,15.035530,ov_mascolo_bar_gelateria_ricevitoria_sisal_41.9576_15.0355,Mascolo Bar Gelateria Ricevitoria Sisal,RESTAURANT,bar_cafe
-41.963125,15.051285,ov_lido_aurora_41.9631_15.0513,Lido Aurora,RESTAURANT,bar_cafe
-41.959120,15.051159,ov_bar_cornetteria_152_41.9591_15.0512,Bar Cornetteria 152,RESTAURANT,bar_cafe
-41.957890,15.048636,ov_bar_oasi_gelateria_yogurteria_cornetteri_41.9579_15.0486,Bar Oasi Gelateria Yogurteria Cornetteria,RESTAURANT,bar_cafe
-41.955339,15.048897,ov_bar_colorado_41.9553_15.0489,Bar Colorado,RESTAURANT,bar_cafe
-41.958622,15.050204,ov_piccolo_bar_41.9586_15.0502,Piccolo Bar,RESTAURANT,bar_cafe
-41.958089,15.052048,ov_paradise_caf__41.9581_15.0520,Paradise Cafè,RESTAURANT,bar_cafe
-41.957609,15.052264,ov_bar_7000_caffe_41.9576_15.0523,Bar 7000 Caffe,RESTAURANT,bar_cafe
-41.951583,15.065899,ov_lido_ritz_41.9516_15.0659,Lido Ritz,RESTAURANT,bar_cafe
-41.959553,15.057320,ov_lido_aurora_di_balante_massimo_41.9596_15.0573,Lido Aurora di Balante Massimo,RESTAURANT,bar_cafe
-41.958084,15.052034,osm_paradise_cafe_campomarino_41.9581_15.0520,Paradise Cafe Campomarino,bar_cafe,bar_cafe
+41.937900,15.014520,ov_ristobar_annar__41.9379_15.0145,Ristobar Annarè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/ristobar_annar_41.9379_15.0145.json,custom
+41.954081,15.027624,ov_le_bistrot_41.9541_15.0276,Le Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/le_bistrot_41.9541_15.0276.json,custom
+41.954050,15.034260,ov_plaza_cafe_41.9541_15.0343,Plaza Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/plaza_cafe_41.9541_15.0343.json,custom
+41.952388,15.034531,ov_blackout_41.9524_15.0345,Blackout,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/blackout_41.9524_15.0345.json,custom
+41.953870,15.030320,ov_marina_hemingway_campomarino_di_maruggio_41.9539_15.0303,Marina Hemingway Campomarino di Maruggio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/marina_hemingway_campomarino_di_maruggio_41.9539_15.0303.json,custom
+41.955263,15.034521,ov_bar_colitti_41.9553_15.0345,Bar Colitti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/bar_colitti_41.9553_15.0345.json,custom
+41.957254,15.035397,ov_coffee_time_41.9573_15.0354,Coffee Time,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/coffee_time_41.9573_15.0354.json,custom
+41.957930,15.035394,ov_kecaffe_41.9579_15.0354,KeCaffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/kecaffe_41.9579_15.0354.json,custom
+41.958247,15.038013,ov_dolceamaro_lounge_bar_41.9582_15.0380,DolceAmaro Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/dolceamaro_lounge_bar_41.9582_15.0380.json,custom
+41.957601,15.035530,ov_mascolo_bar_gelateria_ricevitoria_sisal_41.9576_15.0355,Mascolo Bar Gelateria Ricevitoria Sisal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/mascolo_bar_gelateria_ricevitoria_sisal_41.9576_15.0355.json,custom
+41.963125,15.051285,ov_lido_aurora_41.9631_15.0513,Lido Aurora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/lido_aurora_41.9631_15.0513.json,custom
+41.959120,15.051159,ov_bar_cornetteria_152_41.9591_15.0512,Bar Cornetteria 152,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/bar_cornetteria_152_41.9591_15.0512.json,custom
+41.957890,15.048636,ov_bar_oasi_gelateria_yogurteria_cornetteri_41.9579_15.0486,Bar Oasi Gelateria Yogurteria Cornetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/bar_oasi_gelateria_yogurteria_cornetteri_41.9579_15.0486.json,custom
+41.955339,15.048897,ov_bar_colorado_41.9553_15.0489,Bar Colorado,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/bar_colorado_41.9553_15.0489.json,custom
+41.958622,15.050204,ov_piccolo_bar_41.9586_15.0502,Piccolo Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/piccolo_bar_41.9586_15.0502.json,custom
+41.958089,15.052048,ov_paradise_caf__41.9581_15.0520,Paradise Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/paradise_caf_41.9581_15.0520.json,custom
+41.957609,15.052264,ov_bar_7000_caffe_41.9576_15.0523,Bar 7000 Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/bar_7000_caffe_41.9576_15.0523.json,custom
+41.951583,15.065899,ov_lido_ritz_41.9516_15.0659,Lido Ritz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/lido_ritz_41.9516_15.0659.json,custom
+41.959553,15.057320,ov_lido_aurora_di_balante_massimo_41.9596_15.0573,Lido Aurora di Balante Massimo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/lido_aurora_di_balante_massimo_41.9596_15.0573.json,custom
+41.958084,15.052034,osm_paradise_cafe_campomarino_41.9581_15.0520,Paradise Cafe Campomarino,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campomarino/pages/paradise_cafe_campomarino_41.9581_15.0520.json,custom

@@ -1,27 +1,27 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Andrano -- Tutti
-39.972920,18.407581,ov_mar__39.9729_18.4076,Maré,RESTAURANT,ristorante
-39.971787,18.405147,ov_la_pizzica_39.9718_18.4051,La Pizzica,RESTAURANT,ristorante
-39.970150,18.404930,ov_a_verace_pizzeria_napoletana_39.9701_18.4049,A'Verace Pizzeria Napoletana,RESTAURANT,ristorante
-39.982337,18.384259,ov_delizie_da_forno_39.9823_18.3843,Delizie Da Forno,RESTAURANT,ristorante
-39.985744,18.383038,ov_lu_spilu_ostaria_39.9857_18.3830,Lu Spilu Ostaria,RESTAURANT,ristorante
-39.983595,18.382207,ov_le_arcate_39.9836_18.3822,Le Arcate,RESTAURANT,ristorante
-39.983101,18.385532,ov_dagir__39.9831_18.3855,Dagirò,RESTAURANT,ristorante
-39.991243,18.382744,ov_carpediem_39.9912_18.3827,Carpediem,RESTAURANT,ristorante
-39.982318,18.348974,ov_trattoria_vardaceli_39.9823_18.3490,Trattoria Vardaceli,RESTAURANT,ristorante
-39.982346,18.348108,ov_stanlio___ollio_39.9823_18.3481,Stanlio & Ollio,RESTAURANT,ristorante
-39.982379,18.348132,ov__pizzeria_italia____rosticceria__paniner_39.9824_18.3481,"🍕PIZZERIA ITALIA 🍽️ Rosticceria, Panineria e Gastronomia",RESTAURANT,ristorante
-39.965747,18.404622,ov_pisco_river_s_bar_39.9657_18.4046,PISCO River's Bar,RESTAURANT,bar_cafe
-39.965304,18.405085,ov_lido_cochabamba_39.9653_18.4051,Lido Cochabamba,RESTAURANT,bar_cafe
-39.963964,18.404224,ov_chiosco_grotta_verde_andrano_39.9640_18.4042,Chiosco Grotta Verde Andrano,RESTAURANT,bar_cafe
-39.973820,18.407440,ov_bar_alba_39.9738_18.4074,Bar Alba,RESTAURANT,bar_cafe
-39.972322,18.407030,ov_malib____marina_di_andrano_39.9723_18.4070,Malibù - Marina Di Andrano,RESTAURANT,bar_cafe
-39.981870,18.380601,ov_caffe_da_vinci_39.9819_18.3806,Caffe Da Vinci,RESTAURANT,bar_cafe
-39.982690,18.378540,ov_acquaviva_39.9827_18.3785,Acquaviva,RESTAURANT,bar_cafe
-39.985739,18.382894,ov_bar_ilio_39.9857_18.3829,Bar Ilio,RESTAURANT,bar_cafe
-39.983831,18.379238,ov_wonderwall_caf__castro_39.9838_18.3792,Wonderwall Cafè Castro,RESTAURANT,bar_cafe
-39.983167,18.385192,ov_il_piccolo_principe_39.9832_18.3852,Il Piccolo Principe,RESTAURANT,bar_cafe
-39.982734,18.388900,ov_bar_agora_39.9827_18.3889,Bar Agora,RESTAURANT,bar_cafe
-39.983149,18.349261,ov_chiosco_bar_sole_luna_39.9831_18.3493,Chiosco Bar Sole Luna,RESTAURANT,bar_cafe
-39.987338,18.381516,ov_asd_new_aurora_dance_39.9873_18.3815,ASD New Aurora Dance,GYM,palestra
-39.983203,18.383905,ov_castello_spinola_caracciolo_39.9832_18.3839,Castello Spinola-Caracciolo,MONUMENT,monumento
+39.972920,18.407581,ov_mar__39.9729_18.4076,Maré,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/mar_39.9729_18.4076.json,custom
+39.971787,18.405147,ov_la_pizzica_39.9718_18.4051,La Pizzica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/la_pizzica_39.9718_18.4051.json,custom
+39.970150,18.404930,ov_a_verace_pizzeria_napoletana_39.9701_18.4049,A'Verace Pizzeria Napoletana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/averace_pizzeria_napoletana_39.9701_18.4049.json,custom
+39.982337,18.384259,ov_delizie_da_forno_39.9823_18.3843,Delizie Da Forno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/delizie_da_forno_39.9823_18.3843.json,custom
+39.985744,18.383038,ov_lu_spilu_ostaria_39.9857_18.3830,Lu Spilu Ostaria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/lu_spilu_ostaria_39.9857_18.3830.json,custom
+39.983595,18.382207,ov_le_arcate_39.9836_18.3822,Le Arcate,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/le_arcate_39.9836_18.3822.json,custom
+39.983101,18.385532,ov_dagir__39.9831_18.3855,Dagirò,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/dagir_39.9831_18.3855.json,custom
+39.991243,18.382744,ov_carpediem_39.9912_18.3827,Carpediem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/carpediem_39.9912_18.3827.json,custom
+39.982318,18.348974,ov_trattoria_vardaceli_39.9823_18.3490,Trattoria Vardaceli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/trattoria_vardaceli_39.9823_18.3490.json,custom
+39.982346,18.348108,ov_stanlio___ollio_39.9823_18.3481,Stanlio & Ollio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/stanlio_ollio_39.9823_18.3481.json,custom
+39.982379,18.348132,ov__pizzeria_italia____rosticceria__paniner_39.9824_18.3481,"🍕PIZZERIA ITALIA 🍽️ Rosticceria, Panineria e Gastronomia",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/pizzeria_italia_rosticceria_panineria_e__39.9824_18.3481.json,custom
+39.965747,18.404622,ov_pisco_river_s_bar_39.9657_18.4046,PISCO River's Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/pisco_rivers_bar_39.9657_18.4046.json,custom
+39.965304,18.405085,ov_lido_cochabamba_39.9653_18.4051,Lido Cochabamba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/lido_cochabamba_39.9653_18.4051.json,custom
+39.963964,18.404224,ov_chiosco_grotta_verde_andrano_39.9640_18.4042,Chiosco Grotta Verde Andrano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/chiosco_grotta_verde_andrano_39.9640_18.4042.json,custom
+39.973820,18.407440,ov_bar_alba_39.9738_18.4074,Bar Alba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_alba_39.9738_18.4074.json,custom
+39.972322,18.407030,ov_malib____marina_di_andrano_39.9723_18.4070,Malibù - Marina Di Andrano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/malib_-_marina_di_andrano_39.9723_18.4070.json,custom
+39.981870,18.380601,ov_caffe_da_vinci_39.9819_18.3806,Caffe Da Vinci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/caffe_da_vinci_39.9819_18.3806.json,custom
+39.982690,18.378540,ov_acquaviva_39.9827_18.3785,Acquaviva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/acquaviva_39.9827_18.3785.json,custom
+39.985739,18.382894,ov_bar_ilio_39.9857_18.3829,Bar Ilio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_ilio_39.9857_18.3829.json,custom
+39.983831,18.379238,ov_wonderwall_caf__castro_39.9838_18.3792,Wonderwall Cafè Castro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/wonderwall_caf_castro_39.9838_18.3792.json,custom
+39.983167,18.385192,ov_il_piccolo_principe_39.9832_18.3852,Il Piccolo Principe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/il_piccolo_principe_39.9832_18.3852.json,custom
+39.982734,18.388900,ov_bar_agora_39.9827_18.3889,Bar Agora,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/bar_agora_39.9827_18.3889.json,custom
+39.983149,18.349261,ov_chiosco_bar_sole_luna_39.9831_18.3493,Chiosco Bar Sole Luna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/chiosco_bar_sole_luna_39.9831_18.3493.json,custom
+39.987338,18.381516,ov_asd_new_aurora_dance_39.9873_18.3815,ASD New Aurora Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/asd_new_aurora_dance_39.9873_18.3815.json,custom
+39.983203,18.383905,ov_castello_spinola_caracciolo_39.9832_18.3839,Castello Spinola-Caracciolo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/andrano/pages/castello_spinola-caracciolo_39.9832_18.3839.json,custom

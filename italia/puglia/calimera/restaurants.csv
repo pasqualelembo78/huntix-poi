@@ -1,17 +1,17 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # calimera -- restaurants
-40.252495,18.276450,osm_la_bodeguita_40.2525_18.2765,La Bodeguita,ristorante,ristorante
-40.249509,18.303076,ov_masseria_san_biagio_40.2495_18.3031,Masseria San Biagio,RESTAURANT,ristorante
-40.243077,18.274370,ov_fast_food_mazzilli_40.2431_18.2744,Fast food Mazzilli,RESTAURANT,ristorante
-40.249297,18.276508,ov_da_pupi_40.2493_18.2765,Da Pupi,RESTAURANT,ristorante
-40.249480,18.277221,ov_pizza_del_sol_40.2495_18.2772,Pizza del Sol,RESTAURANT,ristorante
-40.250980,18.279550,ov_nine_00_40.2510_18.2796,Nine 00,RESTAURANT,ristorante
-40.250716,18.279135,ov_tiziano_40.2507_18.2791,Tiziano,RESTAURANT,ristorante
-40.251487,18.277252,ov_la_bodeguita_40.2515_18.2773,La Bodeguita,RESTAURANT,ristorante
-40.251147,18.280160,ov_vesuvio_3_40.2511_18.2802,Vesuvio 3,RESTAURANT,ristorante
-40.251289,18.281926,ov_trattoria_filippu_e_panaru_40.2513_18.2819,Trattoria Filippu e Panaru,RESTAURANT,ristorante
-40.251870,18.279450,ov_antichi_sapori_calimera_40.2519_18.2795,Antichi Sapori Calimera,RESTAURANT,ristorante
-40.251851,18.279465,ov_la_mia_voglia_40.2519_18.2795,La Mia Voglia,RESTAURANT,ristorante
-40.252343,18.278034,ov_la_luna_blu_40.2523_18.2780,La Luna Blu,RESTAURANT,ristorante
-40.252189,18.278077,ov_algo_mas_40.2522_18.2781,Algo Mas,RESTAURANT,ristorante
-40.253027,18.275987,ov_pizzart_40.2530_18.2760,PizzArt,RESTAURANT,ristorante
+40.249509,18.303076,ov_masseria_san_biagio_40.2495_18.3031,Masseria San Biagio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/masseria_san_biagio_40.2495_18.3031.json,custom
+40.243077,18.274370,ov_fast_food_mazzilli_40.2431_18.2744,Fast food Mazzilli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/fast_food_mazzilli_40.2431_18.2744.json,custom
+40.249297,18.276508,ov_da_pupi_40.2493_18.2765,Da Pupi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/da_pupi_40.2493_18.2765.json,custom
+40.249480,18.277221,ov_pizza_del_sol_40.2495_18.2772,Pizza del Sol,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/pizza_del_sol_40.2495_18.2772.json,custom
+40.250980,18.279550,ov_nine_00_40.2510_18.2796,Nine 00,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/nine_00_40.2510_18.2796.json,custom
+40.250716,18.279135,ov_tiziano_40.2507_18.2791,Tiziano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/tiziano_40.2507_18.2791.json,custom
+40.251487,18.277252,ov_la_bodeguita_40.2515_18.2773,La Bodeguita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/la_bodeguita_40.2515_18.2773.json,custom
+40.251147,18.280160,ov_vesuvio_3_40.2511_18.2802,Vesuvio 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/vesuvio_3_40.2511_18.2802.json,custom
+40.251289,18.281926,ov_trattoria_filippu_e_panaru_40.2513_18.2819,Trattoria Filippu e Panaru,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/trattoria_filippu_e_panaru_40.2513_18.2819.json,custom
+40.251870,18.279450,ov_antichi_sapori_calimera_40.2519_18.2795,Antichi Sapori Calimera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/antichi_sapori_calimera_40.2519_18.2795.json,custom
+40.251851,18.279465,ov_la_mia_voglia_40.2519_18.2795,La Mia Voglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/la_mia_voglia_40.2519_18.2795.json,custom
+40.252343,18.278034,ov_la_luna_blu_40.2523_18.2780,La Luna Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/la_luna_blu_40.2523_18.2780.json,custom
+40.252189,18.278077,ov_algo_mas_40.2522_18.2781,Algo Mas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/algo_mas_40.2522_18.2781.json,custom
+40.253027,18.275987,ov_pizzart_40.2530_18.2760,PizzArt,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/pizzart_40.2530_18.2760.json,custom
+40.252495,18.276450,osm_la_bodeguita_40.2525_18.2765,La Bodeguita,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/calimera/pages/la_bodeguita_40.2525_18.2765.json,custom

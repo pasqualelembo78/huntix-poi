@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ordona -- bars_cafes
-41.315185,15.631032,ov_lungomare_ordona_41.3152_15.6310,Lungomare Ordona,RESTAURANT,bar_cafe
-41.315010,15.624720,ov_la_fabrika_89_41.3150_15.6247,La Fabrika 89,RESTAURANT,bar_cafe
-41.316291,15.625674,ov_bar_pasticceria_matera_41.3163_15.6257,Bar Pasticceria Matera,RESTAURANT,bar_cafe
+41.315185,15.631032,ov_lungomare_ordona_41.3152_15.6310,Lungomare Ordona,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ordona/pages/lungomare_ordona_41.3152_15.6310.json,custom
+41.315010,15.624720,ov_la_fabrika_89_41.3150_15.6247,La Fabrika 89,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ordona/pages/la_fabrika_89_41.3150_15.6247.json,custom
+41.316291,15.625674,ov_bar_pasticceria_matera_41.3163_15.6257,Bar Pasticceria Matera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ordona/pages/bar_pasticceria_matera_41.3163_15.6257.json,custom

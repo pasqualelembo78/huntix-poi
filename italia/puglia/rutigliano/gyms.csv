@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # rutigliano -- gyms
-41.004123,17.003622,ov_centro_sportivo_azetium_41.0041_17.0036,Centro sportivo azetium,GYM,palestra
-41.009123,16.999067,ov_millennium_fitness_club_41.0091_16.9991,Millennium Fitness Club,GYM,palestra
-41.008855,17.004201,ov_anad_l_accademia_della_danza_41.0089_17.0042,ANAD l'accademia della danza,GYM,palestra
-41.005980,17.006830,ov_fuoriscena__accademia_delle_arti_perform_41.0060_17.0068,Fuoriscena  Accademia delle Arti Performative,GYM,palestra
-41.008880,17.007390,ov_palestra_ama_41.0089_17.0074,Palestra AMA,GYM,palestra
-41.005293,17.009991,ov_d_club_41.0053_17.0100,D.Club,GYM,palestra
+41.004123,17.003622,ov_centro_sportivo_azetium_41.0041_17.0036,Centro sportivo azetium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/centro_sportivo_azetium_41.0041_17.0036.json,custom
+41.009123,16.999067,ov_millennium_fitness_club_41.0091_16.9991,Millennium Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/millennium_fitness_club_41.0091_16.9991.json,custom
+41.008855,17.004201,ov_anad_l_accademia_della_danza_41.0089_17.0042,ANAD l'accademia della danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/anad_laccademia_della_danza_41.0089_17.0042.json,custom
+41.005980,17.006830,ov_fuoriscena__accademia_delle_arti_perform_41.0060_17.0068,Fuoriscena  Accademia delle Arti Performative,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/fuoriscena_accademia_delle_arti_performa_41.0060_17.0068.json,custom
+41.008880,17.007390,ov_palestra_ama_41.0089_17.0074,Palestra AMA,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/palestra_ama_41.0089_17.0074.json,custom
+41.005293,17.009991,ov_d_club_41.0053_17.0100,D.Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rutigliano/pages/dclub_41.0053_17.0100.json,custom

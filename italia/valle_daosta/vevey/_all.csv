@@ -1,44 +1,43 @@
-# lat,lng,id,name,building_type,type
-# Vevey — Tutti i POI
-46.463197,6.840978,osm_mcdonald_s_46.4632_6.8410,McDonald's,ristorante,ristorante
-46.460650,6.842772,osm_caf__restaurant_la_clef_46.4607_6.8428,Café Restaurant La Clef,ristorante,ristorante
-46.461239,6.843420,osm_pizzeria_ristorante_molino_46.4612_6.8434,Pizzeria Ristorante Molino,ristorante,ristorante
-46.461641,6.843647,osm_tao_yuan_46.4616_6.8436,Tao Yuan,ristorante,ristorante
-46.460296,6.840992,osm_le_national_46.4603_6.8410,Le National,ristorante,ristorante
-46.458857,6.848839,osm_a_la_valsainte_46.4589_6.8488,A la Valsainte,ristorante,ristorante
-46.458335,6.845154,osm_pizza_taxi_46.4583_6.8452,Pizza Taxi,ristorante,ristorante
-46.460252,6.843819,osm_ichioshi_46.4603_6.8438,Ichioshi,ristorante,ristorante
-46.459047,6.844524,osm_cr_perie_de_l_ancien_port_46.4590_6.8445,Crêperie de l'Ancien Port,ristorante,ristorante
-46.460001,6.843999,osm_l_armailli_46.4600_6.8440,L'Armailli,ristorante,ristorante
-46.459174,6.843843,osm_le_mazot_46.4592_6.8438,Le Mazot,ristorante,ristorante
-46.461654,6.844167,osm_ramberia_46.4617_6.8442,Ramberia,ristorante,ristorante
-46.459387,6.845996,osm_les_trois_sifflets_46.4594_6.8460,Les Trois Sifflets,ristorante,ristorante
-46.464368,6.834251,osm_les_bains_payes_46.4644_6.8343,Les Bains Payes,ristorante,ristorante
-46.458118,6.846999,osm_gueuleton_46.4581_6.8470,Gueuleton,ristorante,ristorante
-46.458067,6.847204,osm_kju_46.4581_6.8472,KJU,ristorante,ristorante
-46.460115,6.843463,osm_comelon_burrito_bar_46.4601_6.8435,Comelon Burrito Bar,ristorante,ristorante
-46.459382,6.846358,osm_vevey_bien_46.4594_6.8464,Vevey Bien,ristorante,ristorante
-46.458802,6.846556,osm_le_rubis_46.4588_6.8466,Le Rubis,ristorante,ristorante
-46.462896,6.843535,osm_sushi_kaiten_46.4629_6.8435,Sushi Kaiten,ristorante,ristorante
-46.458025,6.847355,osm_ma_cocotte_46.4580_6.8474,Ma Cocotte,ristorante,ristorante
-46.458637,6.847696,osm_pummaro_pizzas_46.4586_6.8477,Pummaro pizzas,ristorante,ristorante
-46.458749,6.843362,osm_la_brasserie_du_carr__46.4587_6.8434,La Brasserie du Carré,ristorante,ristorante
-46.464280,6.840415,osm_erawan_thai_restaurant_46.4643_6.8404,Erawan Thai Restaurant,ristorante,ristorante
-46.459245,6.844014,osm_palais_indien_46.4592_6.8440,Palais Indien,ristorante,ristorante
-46.461892,6.840724,osm_kym_m___venise_46.4619_6.8407,KymèM à Venise,ristorante,ristorante
-46.461722,6.844032,osm_chef_xu_46.4617_6.8440,Chef Xu,ristorante,ristorante
-46.464038,6.842656,osm_les_ateliers_46.4640_6.8427,Les Ateliers,ristorante,ristorante
-46.460532,6.843753,osm_caf__du_th__tre_46.4605_6.8438,Café du Théâtre,ristorante,ristorante
-46.459921,6.841394,osm_bla_bla_vevey_46.4599_6.8414,Bla Bla Vevey,ristorante,ristorante
-46.460093,6.841426,osm_mezz____co_46.4601_6.8414,Mezzé & Co,ristorante,ristorante
-46.457926,6.851475,osm_tomsab_thai_restaurant_46.4579_6.8515,TomSab Thai Restaurant,ristorante,ristorante
-46.465599,6.838342,osm_grill_house_vevey_46.4656_6.8383,Grill House Vevey,ristorante,ristorante
-46.459767,6.844454,osm_le_moose_46.4598_6.8445,Le Moose,ristorante,ristorante
-46.458732,6.846009,osm_le_11_me_46.4587_6.8460,Le 11ème,ristorante,ristorante
-46.467826,6.837122,osm_saveurs_du_coeur_46.4678_6.8371,Saveurs du coeur,ristorante,ristorante
-46.460197,6.843551,osm_ratatouille_46.4602_6.8436,Ratatouille,ristorante,ristorante
-46.458447,6.847850,osm_kaiseki_by_manabu_46.4584_6.8478,KAISEKI BY MANABU,ristorante,ristorante
-46.457806,6.851844,osm_emotions_by_guy_ravet_46.4578_6.8518,EMOTIONS by Guy Ravet,ristorante,ristorante
-46.463184,6.842612,osm_holy_cow_46.4632_6.8426,Holy Cow,ristorante,ristorante
-46.473732,6.854643,osm_restaurant_du_stand_de_gilamont_46.4737_6.8546,Restaurant du Stand de Gilamont,ristorante,ristorante
-46.464952,6.841702,osm_activ_fitness_46.4650_6.8417,Activ Fitness,palestra,palestra
+# lat,lng,id,name,building_type,type,url,page_type
+46.463197,6.840978,osm_mcdonald_s_46.4632_6.8410,McDonald's,ristorante,ristorante,
+46.460650,6.842772,osm_caf__restaurant_la_clef_46.4607_6.8428,Café Restaurant La Clef,ristorante,ristorante,
+46.461239,6.843420,osm_pizzeria_ristorante_molino_46.4612_6.8434,Pizzeria Ristorante Molino,ristorante,ristorante,
+46.461641,6.843647,osm_tao_yuan_46.4616_6.8436,Tao Yuan,ristorante,ristorante,
+46.460296,6.840992,osm_le_national_46.4603_6.8410,Le National,ristorante,ristorante,
+46.458857,6.848839,osm_a_la_valsainte_46.4589_6.8488,A la Valsainte,ristorante,ristorante,
+46.458335,6.845154,osm_pizza_taxi_46.4583_6.8452,Pizza Taxi,ristorante,ristorante,
+46.460252,6.843819,osm_ichioshi_46.4603_6.8438,Ichioshi,ristorante,ristorante,
+46.459047,6.844524,osm_cr_perie_de_l_ancien_port_46.4590_6.8445,Crêperie de l'Ancien Port,ristorante,ristorante,
+46.460001,6.843999,osm_l_armailli_46.4600_6.8440,L'Armailli,ristorante,ristorante,
+46.459174,6.843843,osm_le_mazot_46.4592_6.8438,Le Mazot,ristorante,ristorante,
+46.461654,6.844167,osm_ramberia_46.4617_6.8442,Ramberia,ristorante,ristorante,
+46.459387,6.845996,osm_les_trois_sifflets_46.4594_6.8460,Les Trois Sifflets,ristorante,ristorante,
+46.464368,6.834251,osm_les_bains_payes_46.4644_6.8343,Les Bains Payes,ristorante,ristorante,
+46.458118,6.846999,osm_gueuleton_46.4581_6.8470,Gueuleton,ristorante,ristorante,
+46.458067,6.847204,osm_kju_46.4581_6.8472,KJU,ristorante,ristorante,
+46.460115,6.843463,osm_comelon_burrito_bar_46.4601_6.8435,Comelon Burrito Bar,ristorante,ristorante,
+46.459382,6.846358,osm_vevey_bien_46.4594_6.8464,Vevey Bien,ristorante,ristorante,
+46.458802,6.846556,osm_le_rubis_46.4588_6.8466,Le Rubis,ristorante,ristorante,
+46.462896,6.843535,osm_sushi_kaiten_46.4629_6.8435,Sushi Kaiten,ristorante,ristorante,
+46.458025,6.847355,osm_ma_cocotte_46.4580_6.8474,Ma Cocotte,ristorante,ristorante,
+46.458637,6.847696,osm_pummaro_pizzas_46.4586_6.8477,Pummaro pizzas,ristorante,ristorante,
+46.458749,6.843362,osm_la_brasserie_du_carr__46.4587_6.8434,La Brasserie du Carré,ristorante,ristorante,
+46.464280,6.840415,osm_erawan_thai_restaurant_46.4643_6.8404,Erawan Thai Restaurant,ristorante,ristorante,
+46.459245,6.844014,osm_palais_indien_46.4592_6.8440,Palais Indien,ristorante,ristorante,
+46.461892,6.840724,osm_kym_m___venise_46.4619_6.8407,KymèM à Venise,ristorante,ristorante,
+46.461722,6.844032,osm_chef_xu_46.4617_6.8440,Chef Xu,ristorante,ristorante,
+46.464038,6.842656,osm_les_ateliers_46.4640_6.8427,Les Ateliers,ristorante,ristorante,
+46.460532,6.843753,osm_caf__du_th__tre_46.4605_6.8438,Café du Théâtre,ristorante,ristorante,
+46.459921,6.841394,osm_bla_bla_vevey_46.4599_6.8414,Bla Bla Vevey,ristorante,ristorante,
+46.460093,6.841426,osm_mezz____co_46.4601_6.8414,Mezzé & Co,ristorante,ristorante,
+46.457926,6.851475,osm_tomsab_thai_restaurant_46.4579_6.8515,TomSab Thai Restaurant,ristorante,ristorante,
+46.465599,6.838342,osm_grill_house_vevey_46.4656_6.8383,Grill House Vevey,ristorante,ristorante,
+46.459767,6.844454,osm_le_moose_46.4598_6.8445,Le Moose,ristorante,ristorante,
+46.458732,6.846009,osm_le_11_me_46.4587_6.8460,Le 11ème,ristorante,ristorante,
+46.467826,6.837122,osm_saveurs_du_coeur_46.4678_6.8371,Saveurs du coeur,ristorante,ristorante,
+46.460197,6.843551,osm_ratatouille_46.4602_6.8436,Ratatouille,ristorante,ristorante,
+46.458447,6.847850,osm_kaiseki_by_manabu_46.4584_6.8478,KAISEKI BY MANABU,ristorante,ristorante,
+46.457806,6.851844,osm_emotions_by_guy_ravet_46.4578_6.8518,EMOTIONS by Guy Ravet,ristorante,ristorante,
+46.463184,6.842612,osm_holy_cow_46.4632_6.8426,Holy Cow,ristorante,ristorante,
+46.473732,6.854643,osm_restaurant_du_stand_de_gilamont_46.4737_6.8546,Restaurant du Stand de Gilamont,ristorante,ristorante,
+46.464952,6.841702,osm_activ_fitness_46.4650_6.8417,Activ Fitness,palestra,palestra,

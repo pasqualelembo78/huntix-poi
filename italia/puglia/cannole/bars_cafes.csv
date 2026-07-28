@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cannole -- bars_cafes
-40.162777,18.363209,ov_mud_bar_pizzeria_40.1628_18.3632,Mud Bar Pizzeria,RESTAURANT,bar_cafe
-40.167899,18.367680,ov_fox_bar_40.1679_18.3677,Fox Bar,RESTAURANT,bar_cafe
+40.162777,18.363209,ov_mud_bar_pizzeria_40.1628_18.3632,Mud Bar Pizzeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/mud_bar_pizzeria_40.1628_18.3632.json,custom
+40.167899,18.367680,ov_fox_bar_40.1679_18.3677,Fox Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cannole/pages/fox_bar_40.1679_18.3677.json,custom

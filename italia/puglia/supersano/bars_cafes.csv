@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # supersano -- bars_cafes
-40.020182,18.239878,ov_birrificio_meliso_40.0202_18.2399,Birrificio Meliso,RESTAURANT,bar_cafe
-40.019663,18.240847,ov_copacabana_40.0197_18.2408,Copacabana,RESTAURANT,bar_cafe
-40.015735,18.242679,ov_caffe_margottini_luigi_40.0157_18.2427,Caffe Margottini Luigi,RESTAURANT,bar_cafe
-40.015908,18.242847,ov_pasticceria_caffetteria_tentazioni_40.0159_18.2428,Pasticceria Caffetteria Tentazioni,RESTAURANT,bar_cafe
-40.012074,18.244022,ov_free_life_pub_40.0121_18.2440,Free Life Pub,RESTAURANT,bar_cafe
+40.020182,18.239878,ov_birrificio_meliso_40.0202_18.2399,Birrificio Meliso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/birrificio_meliso_40.0202_18.2399.json,custom
+40.019663,18.240847,ov_copacabana_40.0197_18.2408,Copacabana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/copacabana_40.0197_18.2408.json,custom
+40.015735,18.242679,ov_caffe_margottini_luigi_40.0157_18.2427,Caffe Margottini Luigi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/caffe_margottini_luigi_40.0157_18.2427.json,custom
+40.015908,18.242847,ov_pasticceria_caffetteria_tentazioni_40.0159_18.2428,Pasticceria Caffetteria Tentazioni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/pasticceria_caffetteria_tentazioni_40.0159_18.2428.json,custom
+40.012074,18.244022,ov_free_life_pub_40.0121_18.2440,Free Life Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/supersano/pages/free_life_pub_40.0121_18.2440.json,custom

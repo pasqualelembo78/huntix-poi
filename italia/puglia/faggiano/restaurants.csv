@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # faggiano -- restaurants
-40.417225,17.389246,ov_masa____street_food_40.4172_17.3892,MASA' - Street Food,RESTAURANT,ristorante
-40.422270,17.384553,ov_la_cambusa_40.4223_17.3846,La Cambusa,RESTAURANT,ristorante
-40.419832,17.387409,ov_royal_grill_40.4198_17.3874,Royal Grill,RESTAURANT,ristorante
-40.427190,17.363730,ov_bread___coffee_40.4272_17.3637,Bread & Coffee,RESTAURANT,ristorante
-40.465900,17.400065,ov_pizzeria_il_top_carosino_di_andrea_lanza_40.4659_17.4001,Pizzeria il top carosino di Andrea Lanza,RESTAURANT,ristorante
+40.417225,17.389246,ov_masa____street_food_40.4172_17.3892,MASA' - Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/masa_-_street_food_40.4172_17.3892.json,custom
+40.422270,17.384553,ov_la_cambusa_40.4223_17.3846,La Cambusa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/la_cambusa_40.4223_17.3846.json,custom
+40.419832,17.387409,ov_royal_grill_40.4198_17.3874,Royal Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/royal_grill_40.4198_17.3874.json,custom
+40.427190,17.363730,ov_bread___coffee_40.4272_17.3637,Bread & Coffee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/bread_coffee_40.4272_17.3637.json,custom
+40.465900,17.400065,ov_pizzeria_il_top_carosino_di_andrea_lanza_40.4659_17.4001,Pizzeria il top carosino di Andrea Lanza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/faggiano/pages/pizzeria_il_top_carosino_di_andrea_lanza_40.4659_17.4001.json,custom

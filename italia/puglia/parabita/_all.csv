@@ -1,46 +1,45 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Parabita -- Tutti
-40.052788,18.124250,osm_l_artigiano_della_pizza_40.0528_18.1243,L'Artigiano della Pizza,ristorante,ristorante
-40.044569,18.125854,ov_asportiamo_40.0446_18.1259,Asportiamo,RESTAURANT,ristorante
-40.052851,18.124256,ov_l_artigiano_della_pizza_40.0529_18.1243,L'Artigiano Della Pizza,RESTAURANT,ristorante
-40.051172,18.125834,ov_pescheria_imbriani_40.0512_18.1258,Pescheria Imbriani,RESTAURANT,ristorante
-40.051226,18.126885,ov_li_rrusti_40.0512_18.1269,LI Rrusti,RESTAURANT,ristorante
-40.051055,18.131702,ov_la_lanterna_40.0511_18.1317,La Lanterna,RESTAURANT,ristorante
-40.050606,18.127094,ov_il_contenitore_wine_bistrot_40.0506_18.1271,Il Contenitore Wine Bistrot,RESTAURANT,ristorante
-40.050109,18.127141,ov_la_madre_40.0501_18.1271,La Madre,RESTAURANT,ristorante
-40.050014,18.127340,ov_osteria_lo_sturno_40.0500_18.1273,Osteria Lo Sturno,RESTAURANT,ristorante
-40.049818,18.126316,ov_il_contenitore___restaurant___bistrot_40.0498_18.1263,Il Contenitore - Restaurant & Bistrot,RESTAURANT,ristorante
-40.049664,18.122722,ov_nishiki_40.0497_18.1227,Nishiki,RESTAURANT,ristorante
-40.050197,18.125684,ov_i_maritati_40.0502_18.1257,I Maritati,RESTAURANT,ristorante
-40.050150,18.122660,ov_prima_o_poi_40.0502_18.1227,Prima o poi,RESTAURANT,ristorante
-40.050263,18.125639,ov_antiche_tradizioni_40.0503_18.1256,Antiche Tradizioni,RESTAURANT,ristorante
-40.047822,18.079546,ov_tenuta_yala___residenza_agrituristica_40.0478_18.0795,Tenuta Yala - Residenza Agrituristica,RESTAURANT,ristorante
-40.047274,18.098178,ov_agriturismo_paradiso_40.0473_18.0982,Agriturismo Paradiso,RESTAURANT,ristorante
-40.048801,18.123252,ov_giardino_delle_veneri_40.0488_18.1233,Giardino delle Veneri,RESTAURANT,ristorante
-40.048233,18.126378,ov_pizzeria_cotto_e_mangiato_40.0482_18.1264,Pizzeria Cotto e Mangiato,RESTAURANT,ristorante
-40.035520,18.178190,ov_reca_zuccheri_40.0355_18.1782,Reca Zuccheri,RESTAURANT,bar_cafe
-40.041593,18.116882,ov_c_c_caff__in_cialde_e_capsule_40.0416_18.1169,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe
-40.045021,18.132280,ov_birra_spinelli_40.0450_18.1323,Birra Spinelli,RESTAURANT,bar_cafe
-40.052731,18.131472,ov_vanity_cafe_40.0527_18.1315,Vanity Cafe,RESTAURANT,bar_cafe
-40.049742,18.127593,ov_radice___caf____bistrot_40.0497_18.1276,Radice | Cafè & Bistrot,RESTAURANT,bar_cafe
-40.048980,18.123450,ov_il_gatto_nero_40.0490_18.1234,Il Gatto Nero,RESTAURANT,bar_cafe
-40.049959,18.124666,ov_enoteca_salentusole_40.0500_18.1247,Enoteca Salentusole,RESTAURANT,bar_cafe
-40.046600,18.125740,ov_caff__facile_40.0466_18.1257,Caffè facile,RESTAURANT,bar_cafe
-40.047679,18.124802,ov_caffetteria_baguetteria_mave_40.0477_18.1248,Caffetteria Baguetteria Mave,RESTAURANT,bar_cafe
-40.048221,18.126042,ov_impero_concept_bar_40.0482_18.1260,Impero Concept Bar,RESTAURANT,bar_cafe
-40.047884,18.123774,ov_cinque_emme_latte_art_40.0479_18.1238,Cinque Emme Latte Art,RESTAURANT,bar_cafe
-40.047040,18.127270,ov_deseo_caf__40.0470_18.1273,Deseo Cafè,RESTAURANT,bar_cafe
-40.046665,18.127270,ov_tabacchi_bar_coccinella_40.0467_18.1273,Tabacchi Bar Coccinella,RESTAURANT,bar_cafe
-40.060142,18.148575,ov_route_66_40.0601_18.1486,Route 66,RESTAURANT,bar_cafe
-40.049771,18.125752,osm_la_porta_40.0498_18.1258,La Porta,bar_cafe,bar_cafe
-40.053400,18.121070,ov_sensual_dance_fit_fabiola_parabita_40.0534_18.1211,Sensual Dance Fit Fabiola Parabita,GYM,palestra
-40.053935,18.119919,ov_victory_dance_40.0539_18.1199,Victory dance,GYM,palestra
-40.051527,18.122925,ov_green_sport_center_40.0515_18.1229,Green Sport Center,GYM,palestra
-40.052021,18.129757,ov_dynamika_ballet_asd_40.0520_18.1298,Dynamika Ballet ASD,GYM,palestra
-40.050459,18.121407,ov_a_s_d__reborn_gym_40.0505_18.1214,A.S.D. Reborn Gym,GYM,palestra
-40.046704,18.122738,ov_asd_amici_del_ballo_40.0467_18.1227,ASD Amici del Ballo,GYM,palestra
-40.046620,18.125540,ov_jump_fitness_center_40.0466_18.1255,Jump Fitness Center,GYM,palestra
-40.055047,18.124347,ov_cimitero_di_parabita_40.0550_18.1243,Cimitero Di Parabita,MONUMENT,monumento
-40.050602,18.127783,ov_castello_angioino_40.0506_18.1278,Castello Angioino,MONUMENT,monumento
-40.049870,18.125800,ov_museo_pinacoteca_parabita_40.0499_18.1258,Museo Pinacoteca Parabita,MUSEUM,monumento
-40.049280,18.124450,ov_museo_del_manifesto_40.0493_18.1244,Museo del Manifesto,MUSEUM,monumento
+40.044569,18.125854,ov_asportiamo_40.0446_18.1259,Asportiamo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asportiamo_40.0446_18.1259.json,custom
+40.052851,18.124256,ov_l_artigiano_della_pizza_40.0529_18.1243,L'Artigiano Della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/lartigiano_della_pizza_40.0529_18.1243.json,custom
+40.051172,18.125834,ov_pescheria_imbriani_40.0512_18.1258,Pescheria Imbriani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/pescheria_imbriani_40.0512_18.1258.json,custom
+40.051226,18.126885,ov_li_rrusti_40.0512_18.1269,LI Rrusti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/li_rrusti_40.0512_18.1269.json,custom
+40.051055,18.131702,ov_la_lanterna_40.0511_18.1317,La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/la_lanterna_40.0511_18.1317.json,custom
+40.050606,18.127094,ov_il_contenitore_wine_bistrot_40.0506_18.1271,Il Contenitore Wine Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/il_contenitore_wine_bistrot_40.0506_18.1271.json,custom
+40.050109,18.127141,ov_la_madre_40.0501_18.1271,La Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/la_madre_40.0501_18.1271.json,custom
+40.050014,18.127340,ov_osteria_lo_sturno_40.0500_18.1273,Osteria Lo Sturno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/osteria_lo_sturno_40.0500_18.1273.json,custom
+40.049818,18.126316,ov_il_contenitore___restaurant___bistrot_40.0498_18.1263,Il Contenitore - Restaurant & Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/il_contenitore_-_restaurant_bistrot_40.0498_18.1263.json,custom
+40.049664,18.122722,ov_nishiki_40.0497_18.1227,Nishiki,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/nishiki_40.0497_18.1227.json,custom
+40.050197,18.125684,ov_i_maritati_40.0502_18.1257,I Maritati,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/i_maritati_40.0502_18.1257.json,custom
+40.050150,18.122660,ov_prima_o_poi_40.0502_18.1227,Prima o poi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/prima_o_poi_40.0502_18.1227.json,custom
+40.050263,18.125639,ov_antiche_tradizioni_40.0503_18.1256,Antiche Tradizioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/antiche_tradizioni_40.0503_18.1256.json,custom
+40.047822,18.079546,ov_tenuta_yala___residenza_agrituristica_40.0478_18.0795,Tenuta Yala - Residenza Agrituristica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/tenuta_yala_-_residenza_agrituristica_40.0478_18.0795.json,custom
+40.047274,18.098178,ov_agriturismo_paradiso_40.0473_18.0982,Agriturismo Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/agriturismo_paradiso_40.0473_18.0982.json,custom
+40.048801,18.123252,ov_giardino_delle_veneri_40.0488_18.1233,Giardino delle Veneri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/giardino_delle_veneri_40.0488_18.1233.json,custom
+40.048233,18.126378,ov_pizzeria_cotto_e_mangiato_40.0482_18.1264,Pizzeria Cotto e Mangiato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/pizzeria_cotto_e_mangiato_40.0482_18.1264.json,custom
+40.035520,18.178190,ov_reca_zuccheri_40.0355_18.1782,Reca Zuccheri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/reca_zuccheri_40.0355_18.1782.json,custom
+40.041593,18.116882,ov_c_c_caff__in_cialde_e_capsule_40.0416_18.1169,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/cc_caff_in_cialde_e_capsule_40.0416_18.1169.json,custom
+40.045021,18.132280,ov_birra_spinelli_40.0450_18.1323,Birra Spinelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/birra_spinelli_40.0450_18.1323.json,custom
+40.052731,18.131472,ov_vanity_cafe_40.0527_18.1315,Vanity Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/vanity_cafe_40.0527_18.1315.json,custom
+40.049742,18.127593,ov_radice___caf____bistrot_40.0497_18.1276,Radice | Cafè & Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/radice_caf_bistrot_40.0497_18.1276.json,custom
+40.048980,18.123450,ov_il_gatto_nero_40.0490_18.1234,Il Gatto Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/il_gatto_nero_40.0490_18.1234.json,custom
+40.049959,18.124666,ov_enoteca_salentusole_40.0500_18.1247,Enoteca Salentusole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/enoteca_salentusole_40.0500_18.1247.json,custom
+40.046600,18.125740,ov_caff__facile_40.0466_18.1257,Caffè facile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/caff_facile_40.0466_18.1257.json,custom
+40.047679,18.124802,ov_caffetteria_baguetteria_mave_40.0477_18.1248,Caffetteria Baguetteria Mave,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/caffetteria_baguetteria_mave_40.0477_18.1248.json,custom
+40.048221,18.126042,ov_impero_concept_bar_40.0482_18.1260,Impero Concept Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/impero_concept_bar_40.0482_18.1260.json,custom
+40.047884,18.123774,ov_cinque_emme_latte_art_40.0479_18.1238,Cinque Emme Latte Art,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/cinque_emme_latte_art_40.0479_18.1238.json,custom
+40.047040,18.127270,ov_deseo_caf__40.0470_18.1273,Deseo Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/deseo_caf_40.0470_18.1273.json,custom
+40.046665,18.127270,ov_tabacchi_bar_coccinella_40.0467_18.1273,Tabacchi Bar Coccinella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/tabacchi_bar_coccinella_40.0467_18.1273.json,custom
+40.060142,18.148575,ov_route_66_40.0601_18.1486,Route 66,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/route_66_40.0601_18.1486.json,custom
+40.049771,18.125752,osm_la_porta_40.0498_18.1258,La Porta,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/la_porta_40.0498_18.1258.json,custom
+40.053400,18.121070,ov_sensual_dance_fit_fabiola_parabita_40.0534_18.1211,Sensual Dance Fit Fabiola Parabita,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/sensual_dance_fit_fabiola_parabita_40.0534_18.1211.json,custom
+40.053935,18.119919,ov_victory_dance_40.0539_18.1199,Victory dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/victory_dance_40.0539_18.1199.json,custom
+40.051527,18.122925,ov_green_sport_center_40.0515_18.1229,Green Sport Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/green_sport_center_40.0515_18.1229.json,custom
+40.052021,18.129757,ov_dynamika_ballet_asd_40.0520_18.1298,Dynamika Ballet ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/dynamika_ballet_asd_40.0520_18.1298.json,custom
+40.050459,18.121407,ov_a_s_d__reborn_gym_40.0505_18.1214,A.S.D. Reborn Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asd_reborn_gym_40.0505_18.1214.json,custom
+40.046704,18.122738,ov_asd_amici_del_ballo_40.0467_18.1227,ASD Amici del Ballo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/asd_amici_del_ballo_40.0467_18.1227.json,custom
+40.046620,18.125540,ov_jump_fitness_center_40.0466_18.1255,Jump Fitness Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/jump_fitness_center_40.0466_18.1255.json,custom
+40.055047,18.124347,ov_cimitero_di_parabita_40.0550_18.1243,Cimitero Di Parabita,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/cimitero_di_parabita_40.0550_18.1243.json,custom
+40.050602,18.127783,ov_castello_angioino_40.0506_18.1278,Castello Angioino,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/castello_angioino_40.0506_18.1278.json,custom
+40.049870,18.125800,ov_museo_pinacoteca_parabita_40.0499_18.1258,Museo Pinacoteca Parabita,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/museo_pinacoteca_parabita_40.0499_18.1258.json,custom
+40.049280,18.124450,ov_museo_del_manifesto_40.0493_18.1244,Museo del Manifesto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/parabita/pages/museo_del_manifesto_40.0493_18.1244.json,custom

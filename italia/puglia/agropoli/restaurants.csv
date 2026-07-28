@@ -1,25 +1,25 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # agropoli -- restaurants
-40.338647,15.010891,osm_il_ceppo_40.3386_15.0109,Il Ceppo,ristorante,ristorante
-40.364396,15.000335,ov_lido_raggio_verde_pizza__fiamma_e_bevera_40.3644_15.0003,"Lido Raggio Verde pizza, fiamma e beverage",RESTAURANT,ristorante
-40.365910,15.001150,ov_tre_conchiglie_restaurant_disco_pub_40.3659_15.0012,Tre Conchiglie Restaurant-Disco-Pub,RESTAURANT,ristorante
-40.377761,15.002147,ov_lido_venere_agropoli_40.3778_15.0021,Lido Venere Agropoli,RESTAURANT,ristorante
-40.373720,15.000800,ov_il_cerchio_ristorante_lounge_bar_40.3737_15.0008,il cerchio ristorante lounge bar,RESTAURANT,ristorante
-40.383113,15.009932,ov_ristorante_villa_brunella_40.3831_15.0099,Ristorante Villa Brunella,RESTAURANT,ristorante
-40.365706,15.004557,ov_heretic_ristorante_braceria_40.3657_15.0046,Heretic Ristorante Braceria,RESTAURANT,ristorante
-40.370095,15.009340,ov_casa_cedrola_home_restaurant_40.3701_15.0093,Casa Cedrola Home Restaurant,RESTAURANT,ristorante
-40.378373,15.009611,ov_elysium_for_food_40.3784_15.0096,Elysium For Food,RESTAURANT,ristorante
-40.385260,15.025669,ov_kashima_40.3853_15.0257,Kashima,RESTAURANT,ristorante
-40.387350,15.027386,ov_zucchero_cannella_osteria_braceria_pizze_40.3873_15.0274,Zucchero&cannella Osteria Braceria Pizzeria Agropoli Mattine,RESTAURANT,ristorante
-40.386383,15.026455,ov_ristorante_pizzeria_insonnia_40.3864_15.0265,Ristorante Pizzeria Insonnia,RESTAURANT,ristorante
-40.373200,15.029370,ov_il_ristoro_40.3732_15.0294,Il Ristoro,RESTAURANT,ristorante
-40.351134,15.026311,ov_siculento_restaurant_40.3511_15.0263,Siculento Restaurant,RESTAURANT,ristorante
-40.360261,15.026082,ov_ristorante_gli_ulivi_40.3603_15.0261,Ristorante Gli Ulivi,RESTAURANT,ristorante
-40.351940,15.014130,ov_cene_cilentane_home_restaurant_40.3519_15.0141,Cene Cilentane Home Restaurant,RESTAURANT,ristorante
-40.351231,15.012713,ov_ristorante_la_casa_bianca_40.3512_15.0127,Ristorante La Casa Bianca,RESTAURANT,ristorante
-40.338483,15.011292,ov_ristorante_il_ceppo_40.3385_15.0113,Ristorante Il Ceppo,RESTAURANT,ristorante
-40.340150,15.008761,ov_il_fornaretto_40.3401_15.0088,Il Fornaretto,RESTAURANT,ristorante
-40.345700,15.002870,ov_le_ginestre_di_antonio_cataneo_40.3457_15.0029,Le Ginestre di Antonio Cataneo,RESTAURANT,ristorante
-40.346800,15.002740,ov_risto_club_le_ginestre_40.3468_15.0027,Risto Club Le Ginestre,RESTAURANT,ristorante
-40.358604,15.000323,ov_bed_breakfast_casa28_40.3586_15.0003,Bed&Breakfast Casa28,RESTAURANT,ristorante
-40.335657,15.003809,ov_moderato_pasticceria_caffetteria_gastron_40.3357_15.0038,Moderato Pasticceria Caffetteria Gastronomia,RESTAURANT,ristorante
+40.364396,15.000335,ov_lido_raggio_verde_pizza__fiamma_e_bevera_40.3644_15.0003,"Lido Raggio Verde pizza, fiamma e beverage",RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/lido_raggio_verde_pizza_fiamma_e_beverag_40.3644_15.0003.json,custom
+40.365910,15.001150,ov_tre_conchiglie_restaurant_disco_pub_40.3659_15.0012,Tre Conchiglie Restaurant-Disco-Pub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/tre_conchiglie_restaurant-disco-pub_40.3659_15.0012.json,custom
+40.377761,15.002147,ov_lido_venere_agropoli_40.3778_15.0021,Lido Venere Agropoli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/lido_venere_agropoli_40.3778_15.0021.json,custom
+40.373720,15.000800,ov_il_cerchio_ristorante_lounge_bar_40.3737_15.0008,il cerchio ristorante lounge bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/il_cerchio_ristorante_lounge_bar_40.3737_15.0008.json,custom
+40.383113,15.009932,ov_ristorante_villa_brunella_40.3831_15.0099,Ristorante Villa Brunella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/ristorante_villa_brunella_40.3831_15.0099.json,custom
+40.365706,15.004557,ov_heretic_ristorante_braceria_40.3657_15.0046,Heretic Ristorante Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/heretic_ristorante_braceria_40.3657_15.0046.json,custom
+40.370095,15.009340,ov_casa_cedrola_home_restaurant_40.3701_15.0093,Casa Cedrola Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/casa_cedrola_home_restaurant_40.3701_15.0093.json,custom
+40.378373,15.009611,ov_elysium_for_food_40.3784_15.0096,Elysium For Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/elysium_for_food_40.3784_15.0096.json,custom
+40.385260,15.025669,ov_kashima_40.3853_15.0257,Kashima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/kashima_40.3853_15.0257.json,custom
+40.387350,15.027386,ov_zucchero_cannella_osteria_braceria_pizze_40.3873_15.0274,Zucchero&cannella Osteria Braceria Pizzeria Agropoli Mattine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/zuccherocannella_osteria_braceria_pizzer_40.3873_15.0274.json,custom
+40.386383,15.026455,ov_ristorante_pizzeria_insonnia_40.3864_15.0265,Ristorante Pizzeria Insonnia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/ristorante_pizzeria_insonnia_40.3864_15.0265.json,custom
+40.373200,15.029370,ov_il_ristoro_40.3732_15.0294,Il Ristoro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/il_ristoro_40.3732_15.0294.json,custom
+40.351134,15.026311,ov_siculento_restaurant_40.3511_15.0263,Siculento Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/siculento_restaurant_40.3511_15.0263.json,custom
+40.360261,15.026082,ov_ristorante_gli_ulivi_40.3603_15.0261,Ristorante Gli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/ristorante_gli_ulivi_40.3603_15.0261.json,custom
+40.351940,15.014130,ov_cene_cilentane_home_restaurant_40.3519_15.0141,Cene Cilentane Home Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/cene_cilentane_home_restaurant_40.3519_15.0141.json,custom
+40.351231,15.012713,ov_ristorante_la_casa_bianca_40.3512_15.0127,Ristorante La Casa Bianca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/ristorante_la_casa_bianca_40.3512_15.0127.json,custom
+40.338483,15.011292,ov_ristorante_il_ceppo_40.3385_15.0113,Ristorante Il Ceppo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/ristorante_il_ceppo_40.3385_15.0113.json,custom
+40.340150,15.008761,ov_il_fornaretto_40.3401_15.0088,Il Fornaretto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/il_fornaretto_40.3401_15.0088.json,custom
+40.345700,15.002870,ov_le_ginestre_di_antonio_cataneo_40.3457_15.0029,Le Ginestre di Antonio Cataneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/le_ginestre_di_antonio_cataneo_40.3457_15.0029.json,custom
+40.346800,15.002740,ov_risto_club_le_ginestre_40.3468_15.0027,Risto Club Le Ginestre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/risto_club_le_ginestre_40.3468_15.0027.json,custom
+40.358604,15.000323,ov_bed_breakfast_casa28_40.3586_15.0003,Bed&Breakfast Casa28,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/bedbreakfast_casa28_40.3586_15.0003.json,custom
+40.335657,15.003809,ov_moderato_pasticceria_caffetteria_gastron_40.3357_15.0038,Moderato Pasticceria Caffetteria Gastronomia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/moderato_pasticceria_caffetteria_gastron_40.3357_15.0038.json,custom
+40.338647,15.010891,osm_il_ceppo_40.3386_15.0109,Il Ceppo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/agropoli/pages/il_ceppo_40.3386_15.0109.json,custom

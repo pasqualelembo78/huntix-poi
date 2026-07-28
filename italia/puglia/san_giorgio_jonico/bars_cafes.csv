@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giorgio_jonico -- bars_cafes
-40.460880,17.377687,ov_tulipano_40.4609_17.3777,Tulipano,RESTAURANT,bar_cafe
-40.461811,17.379833,ov_cocoa_bar_40.4618_17.3798,cocoa bar,RESTAURANT,bar_cafe
-40.462049,17.380585,ov_torrefazione_salento___caff__artigianali_40.4620_17.3806,Torrefazione Salento - caffè artigianali,RESTAURANT,bar_cafe
-40.460626,17.385813,ov_la_movida_40.4606_17.3858,La Movida,RESTAURANT,bar_cafe
-40.460521,17.386906,ov_kalua_lounge_cafe_40.4605_17.3869,Kalua Lounge Cafe,RESTAURANT,bar_cafe
-40.459806,17.377786,ov_vintage_dreams_40.4598_17.3778,Vintage Dreams,RESTAURANT,bar_cafe
-40.459142,17.373111,ov_bar_romantica_40.4591_17.3731,Bar Romantica,RESTAURANT,bar_cafe
-40.457275,17.379694,ov_barbapapa_40.4573_17.3797,Barbapapa,RESTAURANT,bar_cafe
-40.455670,17.382720,ov_cocoa_cafe__2_0_40.4557_17.3827,Cocoa cafe' 2.0,RESTAURANT,bar_cafe
-40.457180,17.386303,ov_familia_cafe_40.4572_17.3863,Familia Cafe,RESTAURANT,bar_cafe
-40.455852,17.387842,ov_bar_capri_40.4559_17.3878,Bar Capri,RESTAURANT,bar_cafe
-40.454481,17.384241,ov_isola_verde___food_drink___events_40.4545_17.3842,Isola Verde - Food Drink & Events,RESTAURANT,bar_cafe
-40.454794,17.384521,ov_al_chiosco_caffetteria_40.4548_17.3845,Al Chiosco Caffetteria,RESTAURANT,bar_cafe
-40.453171,17.386540,ov_birrificio_artigianale_fabbiano_40.4532_17.3865,Birrificio Artigianale Fabbiano,RESTAURANT,bar_cafe
-40.452625,17.386956,ov_cocoa_cafe_40.4526_17.3870,Cocoa Cafe,RESTAURANT,bar_cafe
-40.459955,17.371931,ov_l_enoteca_di_fabiana_40.4600_17.3719,L'Enoteca di Fabiana,RESTAURANT,bar_cafe
-40.460396,17.365745,ov_caffe_ninfole_40.4604_17.3657,Caffe ninfole,RESTAURANT,bar_cafe
+40.460880,17.377687,ov_tulipano_40.4609_17.3777,Tulipano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/tulipano_40.4609_17.3777.json,custom
+40.461811,17.379833,ov_cocoa_bar_40.4618_17.3798,cocoa bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_bar_40.4618_17.3798.json,custom
+40.462049,17.380585,ov_torrefazione_salento___caff__artigianali_40.4620_17.3806,Torrefazione Salento - caffè artigianali,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/torrefazione_salento_-_caff_artigianali_40.4620_17.3806.json,custom
+40.460626,17.385813,ov_la_movida_40.4606_17.3858,La Movida,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/la_movida_40.4606_17.3858.json,custom
+40.460521,17.386906,ov_kalua_lounge_cafe_40.4605_17.3869,Kalua Lounge Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/kalua_lounge_cafe_40.4605_17.3869.json,custom
+40.459806,17.377786,ov_vintage_dreams_40.4598_17.3778,Vintage Dreams,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/vintage_dreams_40.4598_17.3778.json,custom
+40.459142,17.373111,ov_bar_romantica_40.4591_17.3731,Bar Romantica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/bar_romantica_40.4591_17.3731.json,custom
+40.457275,17.379694,ov_barbapapa_40.4573_17.3797,Barbapapa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/barbapapa_40.4573_17.3797.json,custom
+40.455670,17.382720,ov_cocoa_cafe__2_0_40.4557_17.3827,Cocoa cafe' 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_cafe_20_40.4557_17.3827.json,custom
+40.457180,17.386303,ov_familia_cafe_40.4572_17.3863,Familia Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/familia_cafe_40.4572_17.3863.json,custom
+40.455852,17.387842,ov_bar_capri_40.4559_17.3878,Bar Capri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/bar_capri_40.4559_17.3878.json,custom
+40.454481,17.384241,ov_isola_verde___food_drink___events_40.4545_17.3842,Isola Verde - Food Drink & Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/isola_verde_-_food_drink_events_40.4545_17.3842.json,custom
+40.454794,17.384521,ov_al_chiosco_caffetteria_40.4548_17.3845,Al Chiosco Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/al_chiosco_caffetteria_40.4548_17.3845.json,custom
+40.453171,17.386540,ov_birrificio_artigianale_fabbiano_40.4532_17.3865,Birrificio Artigianale Fabbiano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/birrificio_artigianale_fabbiano_40.4532_17.3865.json,custom
+40.452625,17.386956,ov_cocoa_cafe_40.4526_17.3870,Cocoa Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/cocoa_cafe_40.4526_17.3870.json,custom
+40.459955,17.371931,ov_l_enoteca_di_fabiana_40.4600_17.3719,L'Enoteca di Fabiana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/lenoteca_di_fabiana_40.4600_17.3719.json,custom
+40.460396,17.365745,ov_caffe_ninfole_40.4604_17.3657,Caffe ninfole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/caffe_ninfole_40.4604_17.3657.json,custom

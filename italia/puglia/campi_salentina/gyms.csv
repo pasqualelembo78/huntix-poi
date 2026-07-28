@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # campi_salentina -- gyms
-40.395380,18.019170,ov_new_age_40.3954_18.0192,New Age,GYM,palestra
-40.395868,18.022862,ov_scuola_di_ballo_dance_for_you_campi_sale_40.3959_18.0229,Scuola di ballo Dance For You Campi Salentina,GYM,palestra
-40.397460,18.043032,ov_fitness_point_40.3975_18.0430,Fitness Point,GYM,palestra
-40.397650,18.028240,ov_asdc_lo_studio_della_danza_40.3976_18.0282,Asdc Lo Studio Della Danza,GYM,palestra
-40.398750,18.017430,ov_scuola_di_danza_the_best_for_dance_40.3987_18.0174,Scuola di danza THE BEST FOR DANCE,GYM,palestra
-40.402832,18.016863,ov_never_stop_dreaming_dance_lab_asd_40.4028_18.0169,Never Stop Dreaming Dance Lab Asd,GYM,palestra
-40.404284,18.071299,ov_generation_dance_40.4043_18.0713,Generation Dance,GYM,palestra
-40.405255,18.021185,ov_palestra_palladium_40.4053_18.0212,Palestra Palladium,GYM,palestra
+40.395380,18.019170,ov_new_age_40.3954_18.0192,New Age,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/new_age_40.3954_18.0192.json,custom
+40.395868,18.022862,ov_scuola_di_ballo_dance_for_you_campi_sale_40.3959_18.0229,Scuola di ballo Dance For You Campi Salentina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/scuola_di_ballo_dance_for_you_campi_sale_40.3959_18.0229.json,custom
+40.397460,18.043032,ov_fitness_point_40.3975_18.0430,Fitness Point,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/fitness_point_40.3975_18.0430.json,custom
+40.397650,18.028240,ov_asdc_lo_studio_della_danza_40.3976_18.0282,Asdc Lo Studio Della Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/asdc_lo_studio_della_danza_40.3976_18.0282.json,custom
+40.398750,18.017430,ov_scuola_di_danza_the_best_for_dance_40.3987_18.0174,Scuola di danza THE BEST FOR DANCE,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/scuola_di_danza_the_best_for_dance_40.3987_18.0174.json,custom
+40.402832,18.016863,ov_never_stop_dreaming_dance_lab_asd_40.4028_18.0169,Never Stop Dreaming Dance Lab Asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/never_stop_dreaming_dance_lab_asd_40.4028_18.0169.json,custom
+40.404284,18.071299,ov_generation_dance_40.4043_18.0713,Generation Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/generation_dance_40.4043_18.0713.json,custom
+40.405255,18.021185,ov_palestra_palladium_40.4053_18.0212,Palestra Palladium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/campi_salentina/pages/palestra_palladium_40.4053_18.0212.json,custom

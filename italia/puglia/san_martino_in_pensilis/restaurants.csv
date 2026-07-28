@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_martino_in_pensilis -- restaurants
-41.875316,15.016966,ov_ristorante_nonna_ninuccia_41.8753_15.0170,Ristorante Nonna Ninuccia,RESTAURANT,ristorante
-41.874228,15.015852,ov_don_vito_pizzeria_e_ristorante_campobass_41.8742_15.0159,Don Vito Pizzeria e Ristorante Campobasso,RESTAURANT,ristorante
-41.871914,15.012655,ov_pampanella_la_bella_martinese_41.8719_15.0127,Pampanella la bella martinese,RESTAURANT,ristorante
-41.870008,15.009079,ov_vico_segreto_41.8700_15.0091,Vico Segreto,RESTAURANT,ristorante
-41.869473,15.012248,ov_da_amede_41.8695_15.0122,Da Amede,RESTAURANT,ristorante
-41.870259,15.011865,ov_pampanella_la_vecchia_41.8703_15.0119,Pampanella La Vecchia,RESTAURANT,ristorante
-41.871448,15.012008,ov_anna_ecche_41.8714_15.0120,Anna Ecche,RESTAURANT,ristorante
-41.870277,15.010530,ov_ristorante_al_castello_41.8703_15.0105,Ristorante Al Castello,RESTAURANT,ristorante
-41.870538,15.010336,ov_pizzeria_del_borgo_antico_41.8705_15.0103,Pizzeria del Borgo Antico,RESTAURANT,ristorante
-41.872611,15.012217,ov_ristorante_locanda_monaco_41.8726_15.0122,Ristorante Locanda Monaco,RESTAURANT,ristorante
-41.842338,15.003024,ov_agriturismo_pizzeria_masseria_massimino_41.8423_15.0030,Agriturismo Pizzeria Masseria Massimino,RESTAURANT,ristorante
+41.875316,15.016966,ov_ristorante_nonna_ninuccia_41.8753_15.0170,Ristorante Nonna Ninuccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/ristorante_nonna_ninuccia_41.8753_15.0170.json,custom
+41.874228,15.015852,ov_don_vito_pizzeria_e_ristorante_campobass_41.8742_15.0159,Don Vito Pizzeria e Ristorante Campobasso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/don_vito_pizzeria_e_ristorante_campobass_41.8742_15.0159.json,custom
+41.871914,15.012655,ov_pampanella_la_bella_martinese_41.8719_15.0127,Pampanella la bella martinese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/pampanella_la_bella_martinese_41.8719_15.0127.json,custom
+41.870008,15.009079,ov_vico_segreto_41.8700_15.0091,Vico Segreto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/vico_segreto_41.8700_15.0091.json,custom
+41.869473,15.012248,ov_da_amede_41.8695_15.0122,Da Amede,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/da_amede_41.8695_15.0122.json,custom
+41.870259,15.011865,ov_pampanella_la_vecchia_41.8703_15.0119,Pampanella La Vecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/pampanella_la_vecchia_41.8703_15.0119.json,custom
+41.871448,15.012008,ov_anna_ecche_41.8714_15.0120,Anna Ecche,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/anna_ecche_41.8714_15.0120.json,custom
+41.870277,15.010530,ov_ristorante_al_castello_41.8703_15.0105,Ristorante Al Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/ristorante_al_castello_41.8703_15.0105.json,custom
+41.870538,15.010336,ov_pizzeria_del_borgo_antico_41.8705_15.0103,Pizzeria del Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/pizzeria_del_borgo_antico_41.8705_15.0103.json,custom
+41.872611,15.012217,ov_ristorante_locanda_monaco_41.8726_15.0122,Ristorante Locanda Monaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/ristorante_locanda_monaco_41.8726_15.0122.json,custom
+41.842338,15.003024,ov_agriturismo_pizzeria_masseria_massimino_41.8423_15.0030,Agriturismo Pizzeria Masseria Massimino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_martino_in_pensilis/pages/agriturismo_pizzeria_masseria_massimino_41.8423_15.0030.json,custom

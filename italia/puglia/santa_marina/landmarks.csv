@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # santa_marina -- landmarks
-40.073797,15.518334,ov_museo_degli_artisti_contemporanei_del_te_40.0738_15.5183,Museo degli Artisti Contemporanei del Terzo Millennio,MUSEUM,monumento
-40.074630,15.520636,ov_castello_di_policastro_bussentino_40.0746_15.5206,Castello Di Policastro Bussentino,MONUMENT,monumento
+40.073797,15.518334,ov_museo_degli_artisti_contemporanei_del_te_40.0738_15.5183,Museo degli Artisti Contemporanei del Terzo Millennio,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_marina/pages/museo_degli_artisti_contemporanei_del_te_40.0738_15.5183.json,custom
+40.074630,15.520636,ov_castello_di_policastro_bussentino_40.0746_15.5206,Castello Di Policastro Bussentino,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/santa_marina/pages/castello_di_policastro_bussentino_40.0746_15.5206.json,custom

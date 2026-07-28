@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Corsano -- Tutti
-39.888534,18.367809,ov_snai_39.8885_18.3678,SNAI,RESTAURANT,ristorante
-39.888458,18.368499,ov_mec_ciccio_39.8885_18.3685,Mec Ciccio,RESTAURANT,ristorante
-39.889306,18.365665,ov_il_rugantino_39.8893_18.3657,Il Rugantino,RESTAURANT,ristorante
-39.890238,18.371474,ov_pizzeria_fuegonosciu_39.8902_18.3715,Pizzeria FuegoNosciu,RESTAURANT,ristorante
-39.890921,18.397818,ov_oasi_byblos_39.8909_18.3978,Oasi Byblos,RESTAURANT,ristorante
-39.890641,18.397808,ov_oasiscalamasciu_39.8906_18.3978,Oasiscalamasciu,RESTAURANT,ristorante
-39.892703,18.361236,ov_note_di_gusto_39.8927_18.3612,Note Di Gusto,RESTAURANT,ristorante
-39.887115,18.372242,ov_lubl____pizzeria_d_asporto_39.8871_18.3722,Lublé · Pizzeria d'asporto,RESTAURANT,ristorante
-39.888669,18.368354,ov_portici_caf__39.8887_18.3684,Portici Cafè,RESTAURANT,bar_cafe
-39.889507,18.369897,ov_coffee_break_39.8895_18.3699,Coffee Break,RESTAURANT,bar_cafe
-39.889674,18.365460,ov_anemos_restaurant_cocktail_bar_39.8897_18.3655,Anemos Restaurant&Cocktail bar,RESTAURANT,bar_cafe
-39.890459,18.371150,ov_valhalla_39.8905_18.3711,Valhalla,RESTAURANT,bar_cafe
-39.889244,18.394002,ov_prima_lux_39.8892_18.3940,Prima Lux,RESTAURANT,bar_cafe
-39.892631,18.360895,ov_bosco_bar_di_bleve_walter_39.8926_18.3609,Bosco Bar Di Bleve Walter,RESTAURANT,bar_cafe
-39.894053,18.364879,ov_stazione_di_servizio_eni_di_riso_antonio_39.8941_18.3649,Stazione di servizio ENI di Riso Antonio,RESTAURANT,bar_cafe
-39.870940,18.395147,ov_la_guardiola_39.8709_18.3951,La Guardiola,RESTAURANT,bar_cafe
-39.894503,18.359375,osm_arome_de_cacao_39.8945_18.3594,Arome de Cacao,bar_cafe,bar_cafe
-39.843712,18.385605,ov_salentoverticale_39.8437_18.3856,Salentoverticale,GYM,palestra
-39.888416,18.374030,ov_scuola_tarantarte_39.8884_18.3740,Scuola Tarantarte,GYM,palestra
-39.893340,18.361552,ov_tersicore_officine_di_danza_39.8933_18.3616,Tersicore Officine Di Danza,GYM,palestra
-39.896773,18.362647,ov_asd_palestra_g_e_c_39.8968_18.3626,ASD Palestra G e C,GYM,palestra
-39.887886,18.370792,ov_cioli_filomena_39.8879_18.3708,Cioli Filomena,GYM,palestra
+39.888534,18.367809,ov_snai_39.8885_18.3678,SNAI,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/snai_39.8885_18.3678.json,custom
+39.888458,18.368499,ov_mec_ciccio_39.8885_18.3685,Mec Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/mec_ciccio_39.8885_18.3685.json,custom
+39.889306,18.365665,ov_il_rugantino_39.8893_18.3657,Il Rugantino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/il_rugantino_39.8893_18.3657.json,custom
+39.890238,18.371474,ov_pizzeria_fuegonosciu_39.8902_18.3715,Pizzeria FuegoNosciu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/pizzeria_fuegonosciu_39.8902_18.3715.json,custom
+39.890921,18.397818,ov_oasi_byblos_39.8909_18.3978,Oasi Byblos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/oasi_byblos_39.8909_18.3978.json,custom
+39.890641,18.397808,ov_oasiscalamasciu_39.8906_18.3978,Oasiscalamasciu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/oasiscalamasciu_39.8906_18.3978.json,custom
+39.892703,18.361236,ov_note_di_gusto_39.8927_18.3612,Note Di Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/note_di_gusto_39.8927_18.3612.json,custom
+39.887115,18.372242,ov_lubl____pizzeria_d_asporto_39.8871_18.3722,Lublé · Pizzeria d'asporto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/lubl_pizzeria_dasporto_39.8871_18.3722.json,custom
+39.888669,18.368354,ov_portici_caf__39.8887_18.3684,Portici Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/portici_caf_39.8887_18.3684.json,custom
+39.889507,18.369897,ov_coffee_break_39.8895_18.3699,Coffee Break,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/coffee_break_39.8895_18.3699.json,custom
+39.889674,18.365460,ov_anemos_restaurant_cocktail_bar_39.8897_18.3655,Anemos Restaurant&Cocktail bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/anemos_restaurantcocktail_bar_39.8897_18.3655.json,custom
+39.890459,18.371150,ov_valhalla_39.8905_18.3711,Valhalla,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/valhalla_39.8905_18.3711.json,custom
+39.889244,18.394002,ov_prima_lux_39.8892_18.3940,Prima Lux,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/prima_lux_39.8892_18.3940.json,custom
+39.892631,18.360895,ov_bosco_bar_di_bleve_walter_39.8926_18.3609,Bosco Bar Di Bleve Walter,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/bosco_bar_di_bleve_walter_39.8926_18.3609.json,custom
+39.894053,18.364879,ov_stazione_di_servizio_eni_di_riso_antonio_39.8941_18.3649,Stazione di servizio ENI di Riso Antonio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/stazione_di_servizio_eni_di_riso_antonio_39.8941_18.3649.json,custom
+39.870940,18.395147,ov_la_guardiola_39.8709_18.3951,La Guardiola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/la_guardiola_39.8709_18.3951.json,custom
+39.894503,18.359375,osm_arome_de_cacao_39.8945_18.3594,Arome de Cacao,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/arome_de_cacao_39.8945_18.3594.json,custom
+39.843712,18.385605,ov_salentoverticale_39.8437_18.3856,Salentoverticale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/salentoverticale_39.8437_18.3856.json,custom
+39.888416,18.374030,ov_scuola_tarantarte_39.8884_18.3740,Scuola Tarantarte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/scuola_tarantarte_39.8884_18.3740.json,custom
+39.893340,18.361552,ov_tersicore_officine_di_danza_39.8933_18.3616,Tersicore Officine Di Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/tersicore_officine_di_danza_39.8933_18.3616.json,custom
+39.896773,18.362647,ov_asd_palestra_g_e_c_39.8968_18.3626,ASD Palestra G e C,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/asd_palestra_g_e_c_39.8968_18.3626.json,custom
+39.887886,18.370792,ov_cioli_filomena_39.8879_18.3708,Cioli Filomena,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corsano/pages/cioli_filomena_39.8879_18.3708.json,custom

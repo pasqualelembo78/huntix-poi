@@ -1,23 +1,23 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lauria -- bars_cafes
-40.054813,15.839691,ov_new_bar_gran_caffe__40.0548_15.8397,New BAR GRAN Caffe',RESTAURANT,bar_cafe
-40.074560,15.860070,ov_la_cappellina_2_0_40.0746_15.8601,La Cappellina 2.0,RESTAURANT,bar_cafe
-40.082905,15.904308,ov_cogliandrino_di_lauria_40.0829_15.9043,Cogliandrino Di Lauria,RESTAURANT,bar_cafe
-40.081442,15.903863,ov_bar_italia_lauria_40.0814_15.9039,Bar Italia Lauria,RESTAURANT,bar_cafe
-40.019988,15.886531,ov_ontheroad_terminal_40.0200_15.8865,Ontheroad Terminal,RESTAURANT,bar_cafe
-40.019901,15.886431,ov_on_the_road19_40.0199_15.8864,On The Road19,RESTAURANT,bar_cafe
-40.021354,15.893044,ov_pub_freedom_40.0214_15.8930,Pub Freedom,RESTAURANT,bar_cafe
-40.014829,15.901427,ov_citybar_40.0148_15.9014,Citybar,RESTAURANT,bar_cafe
-40.053379,15.841774,ov_billy_bar_40.0534_15.8418,Billy Bar,RESTAURANT,bar_cafe
-40.049787,15.839263,ov_bermuda_2_0_40.0498_15.8393,Bermuda 2.0,RESTAURANT,bar_cafe
-40.049576,15.839606,ov_happy_cafe_40.0496_15.8396,Happy Cafe,RESTAURANT,bar_cafe
-40.049462,15.839103,ov_cinque_stelle_store_lauria_40.0495_15.8391,Cinque stelle store Lauria,RESTAURANT,bar_cafe
-40.048917,15.838280,ov_pausa_patisserie__caf____bistrot_40.0489_15.8383,"Pausa Patisserie, Café & Bistrot",RESTAURANT,bar_cafe
-40.049055,15.838539,ov_baccotabaccoevenere_lauria_40.0491_15.8385,Baccotabaccoevenere Lauria,RESTAURANT,bar_cafe
-40.051431,15.838424,ov_break_bar_40.0514_15.8384,Break Bar,RESTAURANT,bar_cafe
-40.051375,15.838877,ov_bar_bengodi_40.0514_15.8389,Bar Bengodi,RESTAURANT,bar_cafe
-40.047164,15.835381,ov_domp____la_cantinetta_40.0472_15.8354,DomPè - La Cantinetta,RESTAURANT,bar_cafe
-40.044617,15.835399,ov_enoteca_la_compagnia_del_cavatappi_40.0446_15.8354,Enoteca La Compagnia del Cavatappi,RESTAURANT,bar_cafe
-40.041112,15.835698,ov_maruca_40.0411_15.8357,Maruca,RESTAURANT,bar_cafe
-40.064948,15.938307,ov_asso_cafe_40.0649_15.9383,Asso Cafe,RESTAURANT,bar_cafe
-40.051166,15.838741,osm_bar_bgud_40.0512_15.8387,Bar bgud,bar_cafe,bar_cafe
+40.054813,15.839691,ov_new_bar_gran_caffe__40.0548_15.8397,New BAR GRAN Caffe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/new_bar_gran_caffe_40.0548_15.8397.json,custom
+40.074560,15.860070,ov_la_cappellina_2_0_40.0746_15.8601,La Cappellina 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/la_cappellina_20_40.0746_15.8601.json,custom
+40.082905,15.904308,ov_cogliandrino_di_lauria_40.0829_15.9043,Cogliandrino Di Lauria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/cogliandrino_di_lauria_40.0829_15.9043.json,custom
+40.081442,15.903863,ov_bar_italia_lauria_40.0814_15.9039,Bar Italia Lauria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bar_italia_lauria_40.0814_15.9039.json,custom
+40.019988,15.886531,ov_ontheroad_terminal_40.0200_15.8865,Ontheroad Terminal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/ontheroad_terminal_40.0200_15.8865.json,custom
+40.019901,15.886431,ov_on_the_road19_40.0199_15.8864,On The Road19,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/on_the_road19_40.0199_15.8864.json,custom
+40.021354,15.893044,ov_pub_freedom_40.0214_15.8930,Pub Freedom,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/pub_freedom_40.0214_15.8930.json,custom
+40.014829,15.901427,ov_citybar_40.0148_15.9014,Citybar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/citybar_40.0148_15.9014.json,custom
+40.053379,15.841774,ov_billy_bar_40.0534_15.8418,Billy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/billy_bar_40.0534_15.8418.json,custom
+40.049787,15.839263,ov_bermuda_2_0_40.0498_15.8393,Bermuda 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bermuda_20_40.0498_15.8393.json,custom
+40.049576,15.839606,ov_happy_cafe_40.0496_15.8396,Happy Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/happy_cafe_40.0496_15.8396.json,custom
+40.049462,15.839103,ov_cinque_stelle_store_lauria_40.0495_15.8391,Cinque stelle store Lauria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/cinque_stelle_store_lauria_40.0495_15.8391.json,custom
+40.048917,15.838280,ov_pausa_patisserie__caf____bistrot_40.0489_15.8383,"Pausa Patisserie, Café & Bistrot",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/pausa_patisserie_caf_bistrot_40.0489_15.8383.json,custom
+40.049055,15.838539,ov_baccotabaccoevenere_lauria_40.0491_15.8385,Baccotabaccoevenere Lauria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/baccotabaccoevenere_lauria_40.0491_15.8385.json,custom
+40.051431,15.838424,ov_break_bar_40.0514_15.8384,Break Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/break_bar_40.0514_15.8384.json,custom
+40.051375,15.838877,ov_bar_bengodi_40.0514_15.8389,Bar Bengodi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bar_bengodi_40.0514_15.8389.json,custom
+40.047164,15.835381,ov_domp____la_cantinetta_40.0472_15.8354,DomPè - La Cantinetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/domp_-_la_cantinetta_40.0472_15.8354.json,custom
+40.044617,15.835399,ov_enoteca_la_compagnia_del_cavatappi_40.0446_15.8354,Enoteca La Compagnia del Cavatappi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/enoteca_la_compagnia_del_cavatappi_40.0446_15.8354.json,custom
+40.041112,15.835698,ov_maruca_40.0411_15.8357,Maruca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/maruca_40.0411_15.8357.json,custom
+40.064948,15.938307,ov_asso_cafe_40.0649_15.9383,Asso Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/asso_cafe_40.0649_15.9383.json,custom
+40.051166,15.838741,osm_bar_bgud_40.0512_15.8387,Bar bgud,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lauria/pages/bar_bgud_40.0512_15.8387.json,custom

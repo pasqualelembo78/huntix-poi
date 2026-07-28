@@ -1,50 +1,50 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Trinitapoli -- Tutti
-41.326875,16.117715,ov_masseria_la_fenice_41.3269_16.1177,Masseria La Fenice,RESTAURANT,ristorante
-41.356679,16.085125,ov_zio_tom_41.3567_16.0851,Zio Tom,RESTAURANT,ristorante
-41.356875,16.084203,ov_la_bottega_del_gusto_41.3569_16.0842,La Bottega del Gusto,RESTAURANT,ristorante
-41.355924,16.082703,ov_la_dolce_vita_41.3559_16.0827,La Dolce vita,RESTAURANT,ristorante
-41.358008,16.081592,ov_antica_pasticceria_del_corso_41.3580_16.0816,Antica Pasticceria Del Corso,RESTAURANT,ristorante
-41.358817,16.082277,ov_savoir_faire_41.3588_16.0823,Savoir Faire,RESTAURANT,ristorante
-41.358083,16.087000,ov_tr3rroni_bistrot_41.3581_16.0870,Tr3rroni bistrot,RESTAURANT,ristorante
-41.358896,16.086188,ov_corte_maria_41.3589_16.0862,Corte Maria,RESTAURANT,ristorante
-41.354391,16.088999,ov_vittorio_41.3544_16.0890,Vittorio,RESTAURANT,ristorante
-41.353358,16.091543,ov_franklin_41.3534_16.0915,Franklin,RESTAURANT,ristorante
-41.353245,16.093785,ov_la_divina_41.3532_16.0938,La Divina,RESTAURANT,ristorante
-41.354596,16.091942,ov_panificio_fiorentino_41.3546_16.0919,Panificio Fiorentino,RESTAURANT,ristorante
-41.357194,16.090906,ov_la_taverna_del_cappio_41.3572_16.0909,La Taverna del Cappio,RESTAURANT,ristorante
-41.358841,16.091081,ov_i_tre_galletti_41.3588_16.0911,I Tre Galletti,RESTAURANT,ristorante
-41.355967,16.094931,ov_carpe_diem_41.3560_16.0949,Carpe Diem,RESTAURANT,ristorante
-41.354681,16.096056,ov_il_passetto_41.3547_16.0961,Il Passetto,RESTAURANT,ristorante
-41.352944,16.094551,ov_pizzeria_storelli_carlo_41.3529_16.0946,Pizzeria Storelli Carlo,RESTAURANT,ristorante
-41.350265,16.090882,ov_keens_pepper_41.3503_16.0909,Keens Pepper,RESTAURANT,ristorante
-41.359059,16.061627,ov_colorado_dancing_41.3591_16.0616,Colorado dancing,RESTAURANT,ristorante
-41.356914,16.084735,ov_capricci_41.3569_16.0847,Capricci,RESTAURANT,bar_cafe
-41.358739,16.082679,ov_roxy_41.3587_16.0827,Roxy,RESTAURANT,bar_cafe
-41.358618,16.087308,ov_la_cattedrale_41.3586_16.0873,La Cattedrale,RESTAURANT,bar_cafe
-41.355141,16.088290,ov_gin_tonic_club_41.3551_16.0883,Gin Tonic Club,RESTAURANT,bar_cafe
-41.355410,16.086232,ov_bar_tabacchi_41.3554_16.0862,Bar Tabacchi,RESTAURANT,bar_cafe
-41.354490,16.091301,ov_palace_41.3545_16.0913,Palace,RESTAURANT,bar_cafe
-41.356727,16.091621,ov_sport_41.3567_16.0916,Sport,RESTAURANT,bar_cafe
-41.357537,16.090419,ov_blend_narciso_41.3575_16.0904,Blend Narciso,RESTAURANT,bar_cafe
-41.358713,16.092295,ov_dolci_pause_trinitapoli_41.3587_16.0923,Dolci Pause Trinitapoli,RESTAURANT,bar_cafe
-41.355535,16.096357,ov_trocadero_41.3555_16.0964,Trocadero,RESTAURANT,bar_cafe
-41.355972,16.095715,ov_a_tutto_nunzio_41.3560_16.0957,A Tutto Nunzio,RESTAURANT,bar_cafe
-41.353924,16.095684,ov_el_mojito_bar_41.3539_16.0957,El Mojito bar,RESTAURANT,bar_cafe
-41.353042,16.094172,ov_koumiss_41.3530_16.0942,Koumiss,RESTAURANT,bar_cafe
-41.351439,16.089826,ov_pineta_cafe_41.3514_16.0898,Pineta Cafe,RESTAURANT,bar_cafe
-41.350342,16.090850,ov_bar_millennium_41.3503_16.0909,Bar Millennium,RESTAURANT,bar_cafe
-41.352669,16.100196,ov_butterfly_cafe_41.3527_16.1002,Butterfly Cafe,RESTAURANT,bar_cafe
-41.355040,16.099340,ov_bar_tamoil_trinitapoli_41.3550_16.0993,Bar Tamoil Trinitapoli,RESTAURANT,bar_cafe
-41.358171,16.078051,ov_birrificio_decimoprimo_41.3582_16.0781,Birrificio Decimoprimo,RESTAURANT,bar_cafe
-41.356440,16.080655,ov_bar_tabacchi_norba_41.3564_16.0807,Bar Tabacchi Norba,RESTAURANT,bar_cafe
-41.356340,16.083910,ov_asd_kinderballet_41.3563_16.0839,Asd Kinderballet,GYM,palestra
-41.355512,16.081993,ov_asd_norbagym_41.3555_16.0820,ASD Norbagym,GYM,palestra
-41.355140,16.089416,ov_fight_club_trinitapoli_41.3551_16.0894,Fight Club Trinitapoli,GYM,palestra
-41.353965,16.091861,ov_latin_way_41.3540_16.0919,Latin Way,GYM,palestra
-41.357464,16.091125,ov_body_perfect_palestra_41.3575_16.0911,Body Perfect Palestra,GYM,palestra
-41.352486,16.091957,ov_arte_in_movimento_41.3525_16.0920,Arte In Movimento,GYM,palestra
-41.361393,16.080910,ov_asd_energym_41.3614_16.0809,Asd Energym,GYM,palestra
-41.354850,16.076883,ov_fit_room_41.3549_16.0769,Fit Room,GYM,palestra
-41.355626,16.090989,ov_museo_archeologico_degli_ipogei_41.3556_16.0910,Museo Archeologico degli Ipogei,MUSEUM,monumento
-41.360096,16.079893,ov_parco_archeologico_degli_ipogei_41.3601_16.0799,Parco Archeologico degli Ipogei,MUSEUM,monumento
+41.326875,16.117715,ov_masseria_la_fenice_41.3269_16.1177,Masseria La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/masseria_la_fenice_41.3269_16.1177.json,custom
+41.356679,16.085125,ov_zio_tom_41.3567_16.0851,Zio Tom,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/zio_tom_41.3567_16.0851.json,custom
+41.356875,16.084203,ov_la_bottega_del_gusto_41.3569_16.0842,La Bottega del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/la_bottega_del_gusto_41.3569_16.0842.json,custom
+41.355924,16.082703,ov_la_dolce_vita_41.3559_16.0827,La Dolce vita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/la_dolce_vita_41.3559_16.0827.json,custom
+41.358008,16.081592,ov_antica_pasticceria_del_corso_41.3580_16.0816,Antica Pasticceria Del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/antica_pasticceria_del_corso_41.3580_16.0816.json,custom
+41.358817,16.082277,ov_savoir_faire_41.3588_16.0823,Savoir Faire,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/savoir_faire_41.3588_16.0823.json,custom
+41.358083,16.087000,ov_tr3rroni_bistrot_41.3581_16.0870,Tr3rroni bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/tr3rroni_bistrot_41.3581_16.0870.json,custom
+41.358896,16.086188,ov_corte_maria_41.3589_16.0862,Corte Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/corte_maria_41.3589_16.0862.json,custom
+41.354391,16.088999,ov_vittorio_41.3544_16.0890,Vittorio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/vittorio_41.3544_16.0890.json,custom
+41.353358,16.091543,ov_franklin_41.3534_16.0915,Franklin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/franklin_41.3534_16.0915.json,custom
+41.353245,16.093785,ov_la_divina_41.3532_16.0938,La Divina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/la_divina_41.3532_16.0938.json,custom
+41.354596,16.091942,ov_panificio_fiorentino_41.3546_16.0919,Panificio Fiorentino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/panificio_fiorentino_41.3546_16.0919.json,custom
+41.357194,16.090906,ov_la_taverna_del_cappio_41.3572_16.0909,La Taverna del Cappio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/la_taverna_del_cappio_41.3572_16.0909.json,custom
+41.358841,16.091081,ov_i_tre_galletti_41.3588_16.0911,I Tre Galletti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/i_tre_galletti_41.3588_16.0911.json,custom
+41.355967,16.094931,ov_carpe_diem_41.3560_16.0949,Carpe Diem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/carpe_diem_41.3560_16.0949.json,custom
+41.354681,16.096056,ov_il_passetto_41.3547_16.0961,Il Passetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/il_passetto_41.3547_16.0961.json,custom
+41.352944,16.094551,ov_pizzeria_storelli_carlo_41.3529_16.0946,Pizzeria Storelli Carlo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/pizzeria_storelli_carlo_41.3529_16.0946.json,custom
+41.350265,16.090882,ov_keens_pepper_41.3503_16.0909,Keens Pepper,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/keens_pepper_41.3503_16.0909.json,custom
+41.359059,16.061627,ov_colorado_dancing_41.3591_16.0616,Colorado dancing,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/colorado_dancing_41.3591_16.0616.json,custom
+41.356914,16.084735,ov_capricci_41.3569_16.0847,Capricci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/capricci_41.3569_16.0847.json,custom
+41.358739,16.082679,ov_roxy_41.3587_16.0827,Roxy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/roxy_41.3587_16.0827.json,custom
+41.358618,16.087308,ov_la_cattedrale_41.3586_16.0873,La Cattedrale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/la_cattedrale_41.3586_16.0873.json,custom
+41.355141,16.088290,ov_gin_tonic_club_41.3551_16.0883,Gin Tonic Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/gin_tonic_club_41.3551_16.0883.json,custom
+41.355410,16.086232,ov_bar_tabacchi_41.3554_16.0862,Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/bar_tabacchi_41.3554_16.0862.json,custom
+41.354490,16.091301,ov_palace_41.3545_16.0913,Palace,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/palace_41.3545_16.0913.json,custom
+41.356727,16.091621,ov_sport_41.3567_16.0916,Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/sport_41.3567_16.0916.json,custom
+41.357537,16.090419,ov_blend_narciso_41.3575_16.0904,Blend Narciso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/blend_narciso_41.3575_16.0904.json,custom
+41.358713,16.092295,ov_dolci_pause_trinitapoli_41.3587_16.0923,Dolci Pause Trinitapoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/dolci_pause_trinitapoli_41.3587_16.0923.json,custom
+41.355535,16.096357,ov_trocadero_41.3555_16.0964,Trocadero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/trocadero_41.3555_16.0964.json,custom
+41.355972,16.095715,ov_a_tutto_nunzio_41.3560_16.0957,A Tutto Nunzio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/a_tutto_nunzio_41.3560_16.0957.json,custom
+41.353924,16.095684,ov_el_mojito_bar_41.3539_16.0957,El Mojito bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/el_mojito_bar_41.3539_16.0957.json,custom
+41.353042,16.094172,ov_koumiss_41.3530_16.0942,Koumiss,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/koumiss_41.3530_16.0942.json,custom
+41.351439,16.089826,ov_pineta_cafe_41.3514_16.0898,Pineta Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/pineta_cafe_41.3514_16.0898.json,custom
+41.350342,16.090850,ov_bar_millennium_41.3503_16.0909,Bar Millennium,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/bar_millennium_41.3503_16.0909.json,custom
+41.352669,16.100196,ov_butterfly_cafe_41.3527_16.1002,Butterfly Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/butterfly_cafe_41.3527_16.1002.json,custom
+41.355040,16.099340,ov_bar_tamoil_trinitapoli_41.3550_16.0993,Bar Tamoil Trinitapoli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/bar_tamoil_trinitapoli_41.3550_16.0993.json,custom
+41.358171,16.078051,ov_birrificio_decimoprimo_41.3582_16.0781,Birrificio Decimoprimo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/birrificio_decimoprimo_41.3582_16.0781.json,custom
+41.356440,16.080655,ov_bar_tabacchi_norba_41.3564_16.0807,Bar Tabacchi Norba,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/bar_tabacchi_norba_41.3564_16.0807.json,custom
+41.356340,16.083910,ov_asd_kinderballet_41.3563_16.0839,Asd Kinderballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/asd_kinderballet_41.3563_16.0839.json,custom
+41.355512,16.081993,ov_asd_norbagym_41.3555_16.0820,ASD Norbagym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/asd_norbagym_41.3555_16.0820.json,custom
+41.355140,16.089416,ov_fight_club_trinitapoli_41.3551_16.0894,Fight Club Trinitapoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/fight_club_trinitapoli_41.3551_16.0894.json,custom
+41.353965,16.091861,ov_latin_way_41.3540_16.0919,Latin Way,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/latin_way_41.3540_16.0919.json,custom
+41.357464,16.091125,ov_body_perfect_palestra_41.3575_16.0911,Body Perfect Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/body_perfect_palestra_41.3575_16.0911.json,custom
+41.352486,16.091957,ov_arte_in_movimento_41.3525_16.0920,Arte In Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/arte_in_movimento_41.3525_16.0920.json,custom
+41.361393,16.080910,ov_asd_energym_41.3614_16.0809,Asd Energym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/asd_energym_41.3614_16.0809.json,custom
+41.354850,16.076883,ov_fit_room_41.3549_16.0769,Fit Room,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/fit_room_41.3549_16.0769.json,custom
+41.355626,16.090989,ov_museo_archeologico_degli_ipogei_41.3556_16.0910,Museo Archeologico degli Ipogei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/museo_archeologico_degli_ipogei_41.3556_16.0910.json,custom
+41.360096,16.079893,ov_parco_archeologico_degli_ipogei_41.3601_16.0799,Parco Archeologico degli Ipogei,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/trinitapoli/pages/parco_archeologico_degli_ipogei_41.3601_16.0799.json,custom

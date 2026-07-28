@@ -1,19 +1,19 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # adelfia -- bars_cafes
-41.007132,16.880493,ov_the_pot_spot_bistrot_coffe_shop_41.0071_16.8805,The Pot Spot bistrot_coffe&shop,RESTAURANT,bar_cafe
-41.003232,16.875645,ov_pausa_caffe_41.0032_16.8756,Pausa Caffe,RESTAURANT,bar_cafe
-41.003946,16.876059,ov_caff__living_41.0039_16.8761,Caffè Living,RESTAURANT,bar_cafe
-41.003992,16.876880,ov_bar_caprice_41.0040_16.8769,Bar Caprice,RESTAURANT,bar_cafe
-41.004060,16.875900,ov_internet_point_betpoint_41.0041_16.8759,Internet point BetPoint,RESTAURANT,bar_cafe
-41.004589,16.877520,ov_bar_nicolaus_41.0046_16.8775,Bar Nicolaus,RESTAURANT,bar_cafe
-41.004574,16.864448,ov_namast__coffee___lounge_bar_41.0046_16.8644,Namasté Coffee & Lounge Bar,RESTAURANT,bar_cafe
-41.004790,16.864231,ov_namaste_adelfia_41.0048_16.8642,Namaste Adelfia,RESTAURANT,bar_cafe
-41.003933,16.867144,ov_caffetteria_il_baretto_41.0039_16.8671,Caffetteria Il Baretto,RESTAURANT,bar_cafe
-41.003925,16.867735,ov_antica_caffetteria_vittoria_41.0039_16.8677,Antica Caffetteria Vittoria,RESTAURANT,bar_cafe
-41.003663,16.867846,ov_gir__caf__41.0037_16.8678,GiRó Cafè,RESTAURANT,bar_cafe
-41.003731,16.867752,ov_juventusclub_adelfia_41.0037_16.8678,Juventusclub Adelfia,RESTAURANT,bar_cafe
-41.003922,16.865146,ov_officina_pub_birreria_41.0039_16.8651,Officina Pub Birreria,RESTAURANT,bar_cafe
-41.003874,16.871591,ov_vive_41.0039_16.8716,Vive,RESTAURANT,bar_cafe
-41.000762,16.871286,ov_mav_fashion_cafe_41.0008_16.8713,Mav Fashion Cafe,RESTAURANT,bar_cafe
-41.000875,16.876480,ov_amir_cafe_41.0009_16.8765,Amir Cafe,RESTAURANT,bar_cafe
-41.015599,16.879791,ov_centro_sportivo_footballite_41.0156_16.8798,Centro Sportivo Footballite,RESTAURANT,bar_cafe
+41.007132,16.880493,ov_the_pot_spot_bistrot_coffe_shop_41.0071_16.8805,The Pot Spot bistrot_coffe&shop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/the_pot_spot_bistrotcoffeshop_41.0071_16.8805.json,custom
+41.003232,16.875645,ov_pausa_caffe_41.0032_16.8756,Pausa Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/pausa_caffe_41.0032_16.8756.json,custom
+41.003946,16.876059,ov_caff__living_41.0039_16.8761,Caffè Living,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/caff_living_41.0039_16.8761.json,custom
+41.003992,16.876880,ov_bar_caprice_41.0040_16.8769,Bar Caprice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/bar_caprice_41.0040_16.8769.json,custom
+41.004060,16.875900,ov_internet_point_betpoint_41.0041_16.8759,Internet point BetPoint,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/internet_point_betpoint_41.0041_16.8759.json,custom
+41.004589,16.877520,ov_bar_nicolaus_41.0046_16.8775,Bar Nicolaus,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/bar_nicolaus_41.0046_16.8775.json,custom
+41.004574,16.864448,ov_namast__coffee___lounge_bar_41.0046_16.8644,Namasté Coffee & Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/namast_coffee_lounge_bar_41.0046_16.8644.json,custom
+41.004790,16.864231,ov_namaste_adelfia_41.0048_16.8642,Namaste Adelfia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/namaste_adelfia_41.0048_16.8642.json,custom
+41.003933,16.867144,ov_caffetteria_il_baretto_41.0039_16.8671,Caffetteria Il Baretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/caffetteria_il_baretto_41.0039_16.8671.json,custom
+41.003925,16.867735,ov_antica_caffetteria_vittoria_41.0039_16.8677,Antica Caffetteria Vittoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/antica_caffetteria_vittoria_41.0039_16.8677.json,custom
+41.003663,16.867846,ov_gir__caf__41.0037_16.8678,GiRó Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/gir_caf_41.0037_16.8678.json,custom
+41.003731,16.867752,ov_juventusclub_adelfia_41.0037_16.8678,Juventusclub Adelfia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/juventusclub_adelfia_41.0037_16.8678.json,custom
+41.003922,16.865146,ov_officina_pub_birreria_41.0039_16.8651,Officina Pub Birreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/officina_pub_birreria_41.0039_16.8651.json,custom
+41.003874,16.871591,ov_vive_41.0039_16.8716,Vive,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/vive_41.0039_16.8716.json,custom
+41.000762,16.871286,ov_mav_fashion_cafe_41.0008_16.8713,Mav Fashion Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/mav_fashion_cafe_41.0008_16.8713.json,custom
+41.000875,16.876480,ov_amir_cafe_41.0009_16.8765,Amir Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/amir_cafe_41.0009_16.8765.json,custom
+41.015599,16.879791,ov_centro_sportivo_footballite_41.0156_16.8798,Centro Sportivo Footballite,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/adelfia/pages/centro_sportivo_footballite_41.0156_16.8798.json,custom

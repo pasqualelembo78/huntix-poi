@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # salice_salentino -- restaurants
-40.385552,17.962579,osm_the_kitchen_di_baldassarre_liliana_40.3856_17.9626,The Kitchen di Baldassarre Liliana,ristorante,ristorante
-40.385735,17.961176,ov_pizzeria_la_diavola_40.3857_17.9612,Pizzeria La Diavola,RESTAURANT,ristorante
-40.384550,17.960573,ov_tuttopasta_40.3845_17.9606,Tuttopasta,RESTAURANT,ristorante
-40.385467,17.962835,ov_the_kitchen_40.3855_17.9628,The Kitchen,RESTAURANT,ristorante
-40.389190,17.965170,ov_pizzeria_rosticceria_la_diavola_40.3892_17.9652,Pizzeria Rosticceria La Diavola,RESTAURANT,ristorante
-40.378180,17.966930,ov_new_van_gogh_ristorante_pizzeria_40.3782_17.9669,New Van Gogh ristorante pizzeria,RESTAURANT,ristorante
-40.382583,17.959556,ov_la_roscia_te_lu_fucalire_40.3826_17.9596,La Roscia te lu Fucalire,RESTAURANT,ristorante
-40.381144,17.953975,ov_canape_prato_s_bistro_40.3811_17.9540,Canape Prato's Bistro,RESTAURANT,ristorante
-40.376526,17.966353,ov_sakura_sushi_40.3765_17.9664,Sakura Sushi,RESTAURANT,ristorante
-40.369305,17.980787,ov_agriturismo_santa_barbara_40.3693_17.9808,Agriturismo Santa Barbara,RESTAURANT,ristorante
+40.385735,17.961176,ov_pizzeria_la_diavola_40.3857_17.9612,Pizzeria La Diavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pizzeria_la_diavola_40.3857_17.9612.json,custom
+40.384550,17.960573,ov_tuttopasta_40.3845_17.9606,Tuttopasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/tuttopasta_40.3845_17.9606.json,custom
+40.385467,17.962835,ov_the_kitchen_40.3855_17.9628,The Kitchen,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/the_kitchen_40.3855_17.9628.json,custom
+40.389190,17.965170,ov_pizzeria_rosticceria_la_diavola_40.3892_17.9652,Pizzeria Rosticceria La Diavola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/pizzeria_rosticceria_la_diavola_40.3892_17.9652.json,custom
+40.378180,17.966930,ov_new_van_gogh_ristorante_pizzeria_40.3782_17.9669,New Van Gogh ristorante pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/new_van_gogh_ristorante_pizzeria_40.3782_17.9669.json,custom
+40.382583,17.959556,ov_la_roscia_te_lu_fucalire_40.3826_17.9596,La Roscia te lu Fucalire,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/la_roscia_te_lu_fucalire_40.3826_17.9596.json,custom
+40.381144,17.953975,ov_canape_prato_s_bistro_40.3811_17.9540,Canape Prato's Bistro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/canape_pratos_bistro_40.3811_17.9540.json,custom
+40.376526,17.966353,ov_sakura_sushi_40.3765_17.9664,Sakura Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/sakura_sushi_40.3765_17.9664.json,custom
+40.369305,17.980787,ov_agriturismo_santa_barbara_40.3693_17.9808,Agriturismo Santa Barbara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/agriturismo_santa_barbara_40.3693_17.9808.json,custom
+40.385552,17.962579,osm_the_kitchen_di_baldassarre_liliana_40.3856_17.9626,The Kitchen di Baldassarre Liliana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/salice_salentino/pages/the_kitchen_di_baldassarre_liliana_40.3856_17.9626.json,custom

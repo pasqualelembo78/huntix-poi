@@ -1,10 +1,10 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # francavilla_in_sinni -- bars_cafes
-40.081553,16.201773,ov_sepbar_40.0816_16.2018,SepBar,RESTAURANT,bar_cafe
-40.078655,16.205624,ov_bar_caffetteria_danilo_40.0787_16.2056,Bar Caffetteria Danilo,RESTAURANT,bar_cafe
-40.080337,16.203342,ov_bar_las_vegas___sisal_40.0803_16.2033,Bar Las Vegas - Sisal,RESTAURANT,bar_cafe
-40.084928,16.208236,ov_bar_stadio_40.0849_16.2082,Bar Stadio,RESTAURANT,bar_cafe
-40.084960,16.207465,ov_honeymonkey_brewing_40.0850_16.2075,HoneyMonkey Brewing,RESTAURANT,bar_cafe
-40.080951,16.204199,osm_zamp_caff__40.0810_16.2042,Zamp Caffè,bar_cafe,bar_cafe
-40.079488,16.201094,osm_caff__chicco_d_oro_40.0795_16.2011,Caffè Chicco D'Oro,bar_cafe,bar_cafe
-40.081553,16.201773,osm_sep_bar_40.0816_16.2018,Sep Bar,bar_cafe,bar_cafe
+40.081553,16.201773,ov_sepbar_40.0816_16.2018,SepBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/sepbar_40.0816_16.2018.json,custom
+40.078655,16.205624,ov_bar_caffetteria_danilo_40.0787_16.2056,Bar Caffetteria Danilo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/bar_caffetteria_danilo_40.0787_16.2056.json,custom
+40.080337,16.203342,ov_bar_las_vegas___sisal_40.0803_16.2033,Bar Las Vegas - Sisal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/bar_las_vegas_-_sisal_40.0803_16.2033.json,custom
+40.084928,16.208236,ov_bar_stadio_40.0849_16.2082,Bar Stadio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/bar_stadio_40.0849_16.2082.json,custom
+40.084960,16.207465,ov_honeymonkey_brewing_40.0850_16.2075,HoneyMonkey Brewing,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/honeymonkey_brewing_40.0850_16.2075.json,custom
+40.080951,16.204199,osm_zamp_caff__40.0810_16.2042,Zamp Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/zamp_caff_40.0810_16.2042.json,custom
+40.079488,16.201094,osm_caff__chicco_d_oro_40.0795_16.2011,Caffè Chicco D'Oro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/caff_chicco_doro_40.0795_16.2011.json,custom
+40.081553,16.201773,osm_sep_bar_40.0816_16.2018,Sep Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/francavilla_in_sinni/pages/sep_bar_40.0816_16.2018.json,custom

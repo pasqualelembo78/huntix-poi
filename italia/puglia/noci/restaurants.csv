@@ -1,63 +1,63 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # noci -- restaurants
-40.769416,17.140467,osm_azienda_agrituristica_quaranta_40.7694_17.1405,Azienda Agrituristica Quaranta,ristorante,ristorante
-40.733266,17.025575,osm_masseria_bonelli_40.7333_17.0256,Masseria Bonelli,ristorante,ristorante
-40.794826,17.122844,osm_quotidien_40.7948_17.1228,Quotidien,ristorante,ristorante
-40.794999,17.123735,osm_san_bernardo___pizzeria_dal_1999_40.7950_17.1237,San Bernardo - Pizzeria dal 1999,ristorante,ristorante
-40.793116,17.116920,osm_sud_s_pregiato_birrificio_meridionale_40.7931_17.1169,SUD'S Pregiato Birrificio Meridionale,ristorante,ristorante
-40.794394,17.120639,osm_yuki_40.7944_17.1206,Yuki,ristorante,ristorante
-40.697060,17.310260,ov_il_briale_ristorante_40.6971_17.3103,Il Briale Ristorante,RESTAURANT,ristorante
-40.756511,17.149643,ov_agriturismo_tenuta_civitelluzza_40.7565_17.1496,Agriturismo Tenuta Civitelluzza,RESTAURANT,ristorante
-40.752492,17.167496,ov_agriturismo_aglio_piccolo_40.7525_17.1675,Agriturismo Aglio Piccolo,RESTAURANT,ristorante
-40.727096,17.079620,ov_masseria_mansueto_40.7271_17.0796,Masseria Mansueto,RESTAURANT,ristorante
-40.724808,17.023847,ov_ristorante_pizzeria_il_confine___cucina__40.7248_17.0238,Ristorante Pizzeria Il Confine | Cucina Tipica Pugliese,RESTAURANT,ristorante
-40.732860,17.024440,ov_quarato_alimenti_zootecnici_40.7329_17.0244,Quarato alimenti zootecnici,RESTAURANT,ristorante
-40.729209,17.131182,ov_masseria_torre_abbondanza_40.7292_17.1312,Masseria Torre Abbondanza,RESTAURANT,ristorante
-40.744708,17.088078,ov_masseria_don_gianvito_40.7447_17.0881,Masseria Don Gianvito,RESTAURANT,ristorante
-40.777580,17.046210,ov_ristorante_pizzeria_il_confine_40.7776_17.0462,Ristorante Pizzeria il Confine,RESTAURANT,ristorante
-40.777316,17.078641,ov_green_park_40.7773_17.0786,Green Park,RESTAURANT,ristorante
-40.789240,17.065580,ov_la_dolce_vita_by_monitilli_40.7892_17.0656,La Dolce Vita by Monitilli,RESTAURANT,ristorante
-40.808529,17.111805,ov_masseria_tinelli_40.8085_17.1118,Masseria Tinelli,RESTAURANT,ristorante
-40.805161,17.101334,ov_al_boschetto_40.8052_17.1013,Al Boschetto,RESTAURANT,ristorante
-40.799395,17.121176,ov_il_bosco_delle_noci__ristorante__pizzeri_40.7994_17.1212,Il Bosco delle Noci (Ristorante- Pizzeria),RESTAURANT,ristorante
-40.799194,17.117258,ov_la_bella_noci_40.7992_17.1173,La Bella Noci,RESTAURANT,ristorante
-40.797791,17.118669,ov_sole_di_puglia_antiche_ricette_40.7978_17.1187,Sole Di Puglia Antiche Ricette,RESTAURANT,ristorante
-40.798346,17.118359,ov_il_ritrovo_dei_sapori_40.7983_17.1184,Il Ritrovo dei Sapori,RESTAURANT,ristorante
-40.798750,17.115664,ov_bio_scaa_40.7987_17.1157,Bio SCAA,RESTAURANT,ristorante
-40.797549,17.117982,ov_nab___new_american_bar_40.7975_17.1180,NAB - New American Bar,RESTAURANT,ristorante
-40.797497,17.119389,ov_oliver_hardy_40.7975_17.1194,Oliver Hardy,RESTAURANT,ristorante
-40.797083,17.121242,ov_otto_il_panzerotto_40.7971_17.1212,Otto Il Panzerotto,RESTAURANT,ristorante
-40.796703,17.123149,ov_franto_40.7967_17.1231,Franto,RESTAURANT,ristorante
-40.796798,17.122759,ov_pizze___sfizi_40.7968_17.1228,Pizze & Sfizi,RESTAURANT,ristorante
-40.796839,17.121924,ov_ama_s___petit_bistrot_40.7968_17.1219,Ama's - Petit bistrot,RESTAURANT,ristorante
-40.797237,17.121209,ov_pizza_shop_40.7972_17.1212,Pizza Shop,RESTAURANT,ristorante
-40.797664,17.120257,ov_gustomania_40.7977_17.1203,Gustomania,RESTAURANT,ristorante
-40.797843,17.120722,ov_a_braciami_40.7978_17.1207,A Braciami,RESTAURANT,ristorante
-40.798281,17.120519,ov_bar_ritella_40.7983_17.1205,Bar Ritella,RESTAURANT,ristorante
-40.798211,17.120464,ov_da_nica_pizzicheria_stuzzicheria_40.7982_17.1205,Da Nica Pizzicheria Stuzzicheria,RESTAURANT,ristorante
-40.793870,17.125129,ov_l_officina_del_gusto_40.7939_17.1251,L'Officina del Gusto,RESTAURANT,ristorante
-40.794619,17.125052,ov_dama_caffe__antipasteria__spaghetteria___40.7946_17.1251,Dama Caffe..antipasteria..spaghetteria...pizzeria,RESTAURANT,ristorante
-40.794995,17.125019,ov_dimora_intini_ristorante_40.7950_17.1250,Dimora Intini Ristorante,RESTAURANT,ristorante
-40.794908,17.123394,ov_piazzantica_40.7949_17.1234,PiazzAntica,RESTAURANT,ristorante
-40.795098,17.122818,ov_santarosa_relais_40.7951_17.1228,Santarosa relais,RESTAURANT,ristorante
-40.794618,17.122910,ov_fresco_mare_40.7946_17.1229,Fresco Mare,RESTAURANT,ristorante
-40.794451,17.121676,ov_arte_e_gusto_pizzeria_40.7945_17.1217,Arte e Gusto Pizzeria,RESTAURANT,ristorante
-40.794414,17.120705,ov_yuki_cucina_giapponese_40.7944_17.1207,Yuki cucina giapponese,RESTAURANT,ristorante
-40.795822,17.122812,ov_osteria_montegrappa_40.7958_17.1228,Osteria Montegrappa,RESTAURANT,ristorante
-40.796226,17.122670,ov_l_antica_locanda_40.7962_17.1227,L'Antica Locanda,RESTAURANT,ristorante
-40.796433,17.122974,ov_hammmy_panini_40.7964_17.1230,Hammmy Panini,RESTAURANT,ristorante
-40.796069,17.119232,ov_copo___cinecoteca_italiana_40.7961_17.1192,Copo - Cinecoteca Italiana,RESTAURANT,ristorante
-40.793667,17.122948,ov_masino_orecchietta_bistrot_40.7937_17.1229,Masino Orecchietta Bistrot,RESTAURANT,ristorante
-40.793505,17.125414,ov_nocinpasta_40.7935_17.1254,Nocinpasta,RESTAURANT,ristorante
-40.793399,17.125183,ov_dimora_noci_mia_40.7934_17.1252,Dimora Noci Mia,RESTAURANT,ristorante
-40.791900,17.127597,ov_la_stella_blu_pescheria_40.7919_17.1276,La Stella Blu Pescheria,RESTAURANT,ristorante
-40.794062,17.129475,ov_che_sapore__bar___tavola_calda_40.7941_17.1295,CHE SAPORE! Bar & Tavola Calda,RESTAURANT,ristorante
-40.790090,17.137540,ov_pugliamia___taste_of_south_40.7901_17.1375,PugliaMia - taste of south,RESTAURANT,ristorante
-40.790297,17.130195,ov_chapeau_40.7903_17.1302,Chapeau,RESTAURANT,ristorante
-40.789266,17.132000,ov_l__eclettico_bistrot_contemporaneo_40.7893_17.1320,L' Eclettico Bistrot Contemporaneo,RESTAURANT,ristorante
-40.789730,17.133910,ov_hostaria_di_puglia_40.7897_17.1339,Hostaria di Puglia,RESTAURANT,ristorante
-40.786886,17.117321,ov_masseria_calandrella_40.7869_17.1173,Masseria Calandrella,RESTAURANT,ristorante
-40.788955,17.124578,ov_la_rosa_dei_venti_40.7890_17.1246,La Rosa dei Venti,RESTAURANT,ristorante
-40.788819,17.126498,ov_hinata_sushi_40.7888_17.1265,Hinata Sushi,RESTAURANT,ristorante
-40.790246,17.094819,ov_il_falco_pellegrino_40.7902_17.0948,Il Falco Pellegrino,RESTAURANT,ristorante
-40.780083,17.136127,ov_bami_40.7801_17.1361,Bami,RESTAURANT,ristorante
+40.697060,17.310260,ov_il_briale_ristorante_40.6971_17.3103,Il Briale Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/il_briale_ristorante_40.6971_17.3103.json,custom
+40.756511,17.149643,ov_agriturismo_tenuta_civitelluzza_40.7565_17.1496,Agriturismo Tenuta Civitelluzza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/agriturismo_tenuta_civitelluzza_40.7565_17.1496.json,custom
+40.752492,17.167496,ov_agriturismo_aglio_piccolo_40.7525_17.1675,Agriturismo Aglio Piccolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/agriturismo_aglio_piccolo_40.7525_17.1675.json,custom
+40.727096,17.079620,ov_masseria_mansueto_40.7271_17.0796,Masseria Mansueto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_mansueto_40.7271_17.0796.json,custom
+40.724808,17.023847,ov_ristorante_pizzeria_il_confine___cucina__40.7248_17.0238,Ristorante Pizzeria Il Confine | Cucina Tipica Pugliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/ristorante_pizzeria_il_confine_cucina_ti_40.7248_17.0238.json,custom
+40.732860,17.024440,ov_quarato_alimenti_zootecnici_40.7329_17.0244,Quarato alimenti zootecnici,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/quarato_alimenti_zootecnici_40.7329_17.0244.json,custom
+40.729209,17.131182,ov_masseria_torre_abbondanza_40.7292_17.1312,Masseria Torre Abbondanza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_torre_abbondanza_40.7292_17.1312.json,custom
+40.744708,17.088078,ov_masseria_don_gianvito_40.7447_17.0881,Masseria Don Gianvito,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_don_gianvito_40.7447_17.0881.json,custom
+40.777580,17.046210,ov_ristorante_pizzeria_il_confine_40.7776_17.0462,Ristorante Pizzeria il Confine,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/ristorante_pizzeria_il_confine_40.7776_17.0462.json,custom
+40.777316,17.078641,ov_green_park_40.7773_17.0786,Green Park,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/green_park_40.7773_17.0786.json,custom
+40.789240,17.065580,ov_la_dolce_vita_by_monitilli_40.7892_17.0656,La Dolce Vita by Monitilli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/la_dolce_vita_by_monitilli_40.7892_17.0656.json,custom
+40.808529,17.111805,ov_masseria_tinelli_40.8085_17.1118,Masseria Tinelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_tinelli_40.8085_17.1118.json,custom
+40.805161,17.101334,ov_al_boschetto_40.8052_17.1013,Al Boschetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/al_boschetto_40.8052_17.1013.json,custom
+40.799395,17.121176,ov_il_bosco_delle_noci__ristorante__pizzeri_40.7994_17.1212,Il Bosco delle Noci (Ristorante- Pizzeria),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/il_bosco_delle_noci_ristorante-_pizzeria_40.7994_17.1212.json,custom
+40.799194,17.117258,ov_la_bella_noci_40.7992_17.1173,La Bella Noci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/la_bella_noci_40.7992_17.1173.json,custom
+40.797791,17.118669,ov_sole_di_puglia_antiche_ricette_40.7978_17.1187,Sole Di Puglia Antiche Ricette,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/sole_di_puglia_antiche_ricette_40.7978_17.1187.json,custom
+40.798346,17.118359,ov_il_ritrovo_dei_sapori_40.7983_17.1184,Il Ritrovo dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/il_ritrovo_dei_sapori_40.7983_17.1184.json,custom
+40.798750,17.115664,ov_bio_scaa_40.7987_17.1157,Bio SCAA,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/bio_scaa_40.7987_17.1157.json,custom
+40.797549,17.117982,ov_nab___new_american_bar_40.7975_17.1180,NAB - New American Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/nab_-_new_american_bar_40.7975_17.1180.json,custom
+40.797497,17.119389,ov_oliver_hardy_40.7975_17.1194,Oliver Hardy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/oliver_hardy_40.7975_17.1194.json,custom
+40.797083,17.121242,ov_otto_il_panzerotto_40.7971_17.1212,Otto Il Panzerotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/otto_il_panzerotto_40.7971_17.1212.json,custom
+40.796703,17.123149,ov_franto_40.7967_17.1231,Franto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/franto_40.7967_17.1231.json,custom
+40.796798,17.122759,ov_pizze___sfizi_40.7968_17.1228,Pizze & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/pizze_sfizi_40.7968_17.1228.json,custom
+40.796839,17.121924,ov_ama_s___petit_bistrot_40.7968_17.1219,Ama's - Petit bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/amas_-_petit_bistrot_40.7968_17.1219.json,custom
+40.797237,17.121209,ov_pizza_shop_40.7972_17.1212,Pizza Shop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/pizza_shop_40.7972_17.1212.json,custom
+40.797664,17.120257,ov_gustomania_40.7977_17.1203,Gustomania,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/gustomania_40.7977_17.1203.json,custom
+40.797843,17.120722,ov_a_braciami_40.7978_17.1207,A Braciami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/a_braciami_40.7978_17.1207.json,custom
+40.798281,17.120519,ov_bar_ritella_40.7983_17.1205,Bar Ritella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/bar_ritella_40.7983_17.1205.json,custom
+40.798211,17.120464,ov_da_nica_pizzicheria_stuzzicheria_40.7982_17.1205,Da Nica Pizzicheria Stuzzicheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/da_nica_pizzicheria_stuzzicheria_40.7982_17.1205.json,custom
+40.793870,17.125129,ov_l_officina_del_gusto_40.7939_17.1251,L'Officina del Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/lofficina_del_gusto_40.7939_17.1251.json,custom
+40.794619,17.125052,ov_dama_caffe__antipasteria__spaghetteria___40.7946_17.1251,Dama Caffe..antipasteria..spaghetteria...pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/dama_caffeantipasteriaspaghetteriapizzer_40.7946_17.1251.json,custom
+40.794995,17.125019,ov_dimora_intini_ristorante_40.7950_17.1250,Dimora Intini Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/dimora_intini_ristorante_40.7950_17.1250.json,custom
+40.794908,17.123394,ov_piazzantica_40.7949_17.1234,PiazzAntica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/piazzantica_40.7949_17.1234.json,custom
+40.795098,17.122818,ov_santarosa_relais_40.7951_17.1228,Santarosa relais,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/santarosa_relais_40.7951_17.1228.json,custom
+40.794618,17.122910,ov_fresco_mare_40.7946_17.1229,Fresco Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/fresco_mare_40.7946_17.1229.json,custom
+40.794451,17.121676,ov_arte_e_gusto_pizzeria_40.7945_17.1217,Arte e Gusto Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/arte_e_gusto_pizzeria_40.7945_17.1217.json,custom
+40.794414,17.120705,ov_yuki_cucina_giapponese_40.7944_17.1207,Yuki cucina giapponese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/yuki_cucina_giapponese_40.7944_17.1207.json,custom
+40.795822,17.122812,ov_osteria_montegrappa_40.7958_17.1228,Osteria Montegrappa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/osteria_montegrappa_40.7958_17.1228.json,custom
+40.796226,17.122670,ov_l_antica_locanda_40.7962_17.1227,L'Antica Locanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/lantica_locanda_40.7962_17.1227.json,custom
+40.796433,17.122974,ov_hammmy_panini_40.7964_17.1230,Hammmy Panini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/hammmy_panini_40.7964_17.1230.json,custom
+40.796069,17.119232,ov_copo___cinecoteca_italiana_40.7961_17.1192,Copo - Cinecoteca Italiana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/copo_-_cinecoteca_italiana_40.7961_17.1192.json,custom
+40.793667,17.122948,ov_masino_orecchietta_bistrot_40.7937_17.1229,Masino Orecchietta Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masino_orecchietta_bistrot_40.7937_17.1229.json,custom
+40.793505,17.125414,ov_nocinpasta_40.7935_17.1254,Nocinpasta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/nocinpasta_40.7935_17.1254.json,custom
+40.793399,17.125183,ov_dimora_noci_mia_40.7934_17.1252,Dimora Noci Mia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/dimora_noci_mia_40.7934_17.1252.json,custom
+40.791900,17.127597,ov_la_stella_blu_pescheria_40.7919_17.1276,La Stella Blu Pescheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/la_stella_blu_pescheria_40.7919_17.1276.json,custom
+40.794062,17.129475,ov_che_sapore__bar___tavola_calda_40.7941_17.1295,CHE SAPORE! Bar & Tavola Calda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/che_sapore_bar_tavola_calda_40.7941_17.1295.json,custom
+40.790090,17.137540,ov_pugliamia___taste_of_south_40.7901_17.1375,PugliaMia - taste of south,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/pugliamia_-_taste_of_south_40.7901_17.1375.json,custom
+40.790297,17.130195,ov_chapeau_40.7903_17.1302,Chapeau,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/chapeau_40.7903_17.1302.json,custom
+40.789266,17.132000,ov_l__eclettico_bistrot_contemporaneo_40.7893_17.1320,L' Eclettico Bistrot Contemporaneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/l_eclettico_bistrot_contemporaneo_40.7893_17.1320.json,custom
+40.789730,17.133910,ov_hostaria_di_puglia_40.7897_17.1339,Hostaria di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/hostaria_di_puglia_40.7897_17.1339.json,custom
+40.786886,17.117321,ov_masseria_calandrella_40.7869_17.1173,Masseria Calandrella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_calandrella_40.7869_17.1173.json,custom
+40.788955,17.124578,ov_la_rosa_dei_venti_40.7890_17.1246,La Rosa dei Venti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/la_rosa_dei_venti_40.7890_17.1246.json,custom
+40.788819,17.126498,ov_hinata_sushi_40.7888_17.1265,Hinata Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/hinata_sushi_40.7888_17.1265.json,custom
+40.790246,17.094819,ov_il_falco_pellegrino_40.7902_17.0948,Il Falco Pellegrino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/il_falco_pellegrino_40.7902_17.0948.json,custom
+40.780083,17.136127,ov_bami_40.7801_17.1361,Bami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/bami_40.7801_17.1361.json,custom
+40.769416,17.140467,osm_azienda_agrituristica_quaranta_40.7694_17.1405,Azienda Agrituristica Quaranta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/azienda_agrituristica_quaranta_40.7694_17.1405.json,custom
+40.733266,17.025575,osm_masseria_bonelli_40.7333_17.0256,Masseria Bonelli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/masseria_bonelli_40.7333_17.0256.json,custom
+40.794826,17.122844,osm_quotidien_40.7948_17.1228,Quotidien,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/quotidien_40.7948_17.1228.json,custom
+40.794999,17.123735,osm_san_bernardo___pizzeria_dal_1999_40.7950_17.1237,San Bernardo - Pizzeria dal 1999,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/san_bernardo_-_pizzeria_dal_1999_40.7950_17.1237.json,custom
+40.793116,17.116920,osm_sud_s_pregiato_birrificio_meridionale_40.7931_17.1169,SUD'S Pregiato Birrificio Meridionale,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/suds_pregiato_birrificio_meridionale_40.7931_17.1169.json,custom
+40.794394,17.120639,osm_yuki_40.7944_17.1206,Yuki,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/noci/pages/yuki_40.7944_17.1206.json,custom

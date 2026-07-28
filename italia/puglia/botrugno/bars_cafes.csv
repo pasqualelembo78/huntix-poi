@@ -1,4 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # botrugno -- bars_cafes
-40.058623,18.318391,ov_vintage_40.0586_18.3184,Vintage,RESTAURANT,bar_cafe
-40.066924,18.325019,ov_chiosco_bar_loredana_40.0669_18.3250,Chiosco Bar Loredana,RESTAURANT,bar_cafe
+40.058623,18.318391,ov_vintage_40.0586_18.3184,Vintage,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/vintage_40.0586_18.3184.json,custom
+40.066924,18.325019,ov_chiosco_bar_loredana_40.0669_18.3250,Chiosco Bar Loredana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/botrugno/pages/chiosco_bar_loredana_40.0669_18.3250.json,custom

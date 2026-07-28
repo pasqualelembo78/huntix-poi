@@ -1,18 +1,17 @@
-# lat,lng,id,name,building_type,type
-# Montreux — restaurants
-46.430707,6.909146,osm_le_palais_oriental_46.4307_6.9091,Le Palais Oriental,ristorante,ristorante
-46.429981,6.913320,osm_la_bavaria_46.4300_6.9133,La Bavaria,ristorante,ristorante
-46.431578,6.909366,osm_pizzeria_molino_montreux_46.4316_6.9094,Pizzeria Molino Montreux,ristorante,ristorante
-46.430742,6.910028,osm_le_basilic_46.4307_6.9100,Le Basilic,ristorante,ristorante
-46.431379,6.910324,osm_dolce_vita_46.4314_6.9103,Dolce Vita,ristorante,ristorante
-46.433890,6.916585,osm_restaurant_du_pont_46.4339_6.9166,Restaurant Du Pont,ristorante,ristorante
-46.431526,6.911019,osm_istanbul_pizza_46.4315_6.9110,Istanbul Pizza,ristorante,ristorante
-46.434952,6.910076,osm_1820_46.4350_6.9101,1820,ristorante,ristorante
-46.435482,6.909787,osm_fuji_46.4355_6.9098,Fuji,ristorante,ristorante
-46.435940,6.909833,osm_restaurant_45_46.4359_6.9098,Restaurant 45,ristorante,ristorante
-46.436315,6.909143,osm_routier_pizza_express_46.4363_6.9091,Routier Pizza Express,ristorante,ristorante
-46.433536,6.913285,osm_caveau_des_vignerons_46.4335_6.9133,Caveau des Vignerons,ristorante,ristorante
-46.430472,6.909515,osm_chez_gaston_46.4305_6.9095,Chez Gaston,ristorante,ristorante
-46.433278,6.910870,osm_big_one_burger_46.4333_6.9109,Big One Burger,ristorante,ristorante
-46.433659,6.913313,osm_pizzeria_antica_roma_46.4337_6.9133,Pizzeria Antica Roma,ristorante,ristorante
-46.438011,6.909731,osm_la_fontaine_46.4380_6.9097,La Fontaine,ristorante,ristorante
+# lat,lng,id,name,building_type,type,url,page_type
+46.430707,6.909146,osm_le_palais_oriental_46.4307_6.9091,Le Palais Oriental,ristorante,ristorante,
+46.429981,6.913320,osm_la_bavaria_46.4300_6.9133,La Bavaria,ristorante,ristorante,
+46.431578,6.909366,osm_pizzeria_molino_montreux_46.4316_6.9094,Pizzeria Molino Montreux,ristorante,ristorante,
+46.430742,6.910028,osm_le_basilic_46.4307_6.9100,Le Basilic,ristorante,ristorante,
+46.431379,6.910324,osm_dolce_vita_46.4314_6.9103,Dolce Vita,ristorante,ristorante,
+46.433890,6.916585,osm_restaurant_du_pont_46.4339_6.9166,Restaurant Du Pont,ristorante,ristorante,
+46.431526,6.911019,osm_istanbul_pizza_46.4315_6.9110,Istanbul Pizza,ristorante,ristorante,
+46.434952,6.910076,osm_1820_46.4350_6.9101,1820,ristorante,ristorante,
+46.435482,6.909787,osm_fuji_46.4355_6.9098,Fuji,ristorante,ristorante,
+46.435940,6.909833,osm_restaurant_45_46.4359_6.9098,Restaurant 45,ristorante,ristorante,
+46.436315,6.909143,osm_routier_pizza_express_46.4363_6.9091,Routier Pizza Express,ristorante,ristorante,
+46.433536,6.913285,osm_caveau_des_vignerons_46.4335_6.9133,Caveau des Vignerons,ristorante,ristorante,
+46.430472,6.909515,osm_chez_gaston_46.4305_6.9095,Chez Gaston,ristorante,ristorante,
+46.433278,6.910870,osm_big_one_burger_46.4333_6.9109,Big One Burger,ristorante,ristorante,
+46.433659,6.913313,osm_pizzeria_antica_roma_46.4337_6.9133,Pizzeria Antica Roma,ristorante,ristorante,
+46.438011,6.909731,osm_la_fontaine_46.4380_6.9097,La Fontaine,ristorante,ristorante,

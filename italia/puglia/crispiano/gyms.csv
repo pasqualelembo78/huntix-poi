@@ -1,11 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # crispiano -- gyms
-40.587858,17.213220,ov_gold_s_gym_40.5879_17.2132,Gold's Gym,GYM,palestra
-40.600652,17.226368,ov_ocram_gym_functionalfit_40.6007_17.2264,Ocram Gym FunctionalFit,GYM,palestra
-40.606995,17.210864,ov_i_rampicanti_climbing_farm_40.6070_17.2109,I Rampicanti Climbing Farm,GYM,palestra
-40.604371,17.232560,ov_74012_fitness_40.6044_17.2326,74012 Fitness,GYM,palestra
-40.606601,17.228906,ov_moving_body_asd_40.6066_17.2289,Moving Body ASD,GYM,palestra
-40.607032,17.233323,ov_la_isla_cubana_40.6070_17.2333,La Isla Cubana,GYM,palestra
-40.608493,17.220906,ov_a_s_d_4horses_40.6085_17.2209,A.S.D 4Horses,GYM,palestra
-40.606060,17.237980,ov_cooperativa_sociale_skarabokkiando_40.6061_17.2380,Cooperativa sociale Skarabokkiando,GYM,palestra
-40.605028,17.234569,ov_asd_studio_danza_scarpette_rosa_40.6050_17.2346,ASD Studio Danza Scarpette Rosa,GYM,palestra
+40.587858,17.213220,ov_gold_s_gym_40.5879_17.2132,Gold's Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/golds_gym_40.5879_17.2132.json,custom
+40.600652,17.226368,ov_ocram_gym_functionalfit_40.6007_17.2264,Ocram Gym FunctionalFit,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/ocram_gym_functionalfit_40.6007_17.2264.json,custom
+40.606995,17.210864,ov_i_rampicanti_climbing_farm_40.6070_17.2109,I Rampicanti Climbing Farm,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/i_rampicanti_climbing_farm_40.6070_17.2109.json,custom
+40.604371,17.232560,ov_74012_fitness_40.6044_17.2326,74012 Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/74012_fitness_40.6044_17.2326.json,custom
+40.606601,17.228906,ov_moving_body_asd_40.6066_17.2289,Moving Body ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/moving_body_asd_40.6066_17.2289.json,custom
+40.607032,17.233323,ov_la_isla_cubana_40.6070_17.2333,La Isla Cubana,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/la_isla_cubana_40.6070_17.2333.json,custom
+40.608493,17.220906,ov_a_s_d_4horses_40.6085_17.2209,A.S.D 4Horses,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/asd_4horses_40.6085_17.2209.json,custom
+40.606060,17.237980,ov_cooperativa_sociale_skarabokkiando_40.6061_17.2380,Cooperativa sociale Skarabokkiando,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/cooperativa_sociale_skarabokkiando_40.6061_17.2380.json,custom
+40.605028,17.234569,ov_asd_studio_danza_scarpette_rosa_40.6050_17.2346,ASD Studio Danza Scarpette Rosa,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/asd_studio_danza_scarpette_rosa_40.6050_17.2346.json,custom
+40.604618,17.234945,osm_people_fitness_40.6046_17.2349,People Fitness,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/crispiano/pages/people_fitness_40.6046_17.2349.json,custom

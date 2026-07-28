@@ -1,3 +1,4 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # zollino -- gyms
-40.203268,18.238669,ov_jivamukti_ashram_40.2033_18.2387,Jivamukti Ashram,GYM,palestra
+40.203268,18.238669,ov_jivamukti_ashram_40.2033_18.2387,Jivamukti Ashram,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/jivamukti_ashram_40.2033_18.2387.json,custom
+40.203175,18.238871,osm_yis___yoga_in_salento_40.2032_18.2389,YIS - Yoga in Salento,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/yis_-_yoga_in_salento_40.2032_18.2389.json,custom

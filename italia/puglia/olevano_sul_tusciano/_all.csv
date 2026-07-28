@@ -1,26 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Olevano sul Tusciano -- Tutti
-40.649740,15.022030,ov_laboratorio_analisi_cliniche_marsilia_40.6497_15.0220,Laboratorio Analisi Cliniche Marsilia,HOSPITAL,hospital
-40.646043,15.009013,ov_il_mosaico_country_house_40.6460_15.0090,Il Mosaico Country House,RESTAURANT,ristorante
-40.659310,15.018310,ov_il_lago_ristorante_bar_40.6593_15.0183,Il Lago Ristorante-Bar,RESTAURANT,ristorante
-40.649146,15.018302,ov_tusc__40.6491_15.0183,Tuscè,RESTAURANT,ristorante
-40.651097,15.017589,ov_pais__40.6511_15.0176,Paisà,RESTAURANT,ristorante
-40.649402,15.021586,ov_pizzeria_stuzzicando___da_ines_40.6494_15.0216,Pizzeria Stuzzicando - Da Ines,RESTAURANT,ristorante
-40.657287,15.022084,ov_pupa_e_pizze_pizzeria_40.6573_15.0221,Pupa e Pizze Pizzeria,RESTAURANT,ristorante
-40.655340,15.022618,ov_l_ammiraglia_40.6553_15.0226,L'Ammiraglia,RESTAURANT,ristorante
-40.655160,15.023250,ov_il_lago___risto_pub_e_pizzeria_40.6552_15.0233,Il Lago - Risto-Pub e Pizzeria,RESTAURANT,ristorante
-40.650819,15.022605,ov_il_trappeto_40.6508_15.0226,Il Trappeto,RESTAURANT,ristorante
-40.676859,15.024487,ov_pizza_e_sfizi_40.6769_15.0245,Pizza E Sfizi,RESTAURANT,ristorante
-40.637270,15.001900,ov_bar_al_caff__40.6373_15.0019,Bar Al Caffè,RESTAURANT,bar_cafe
-40.638160,15.003371,ov_bar_pasticceria_alimentari_di_antonio_mo_40.6382_15.0034,Bar Pasticceria Alimentari di Antonio Montella,RESTAURANT,bar_cafe
-40.596564,15.002020,ov_karmacaffe1990_40.5966_15.0020,karmacaffe1990,RESTAURANT,bar_cafe
-40.628717,15.015478,ov_relax_coffee_capone_40.6287_15.0155,Relax Coffee Capone,RESTAURANT,bar_cafe
-40.649530,15.020778,ov_olympocaffe_2_0_40.6495_15.0208,Olympocaffe’2.0,RESTAURANT,bar_cafe
-40.649171,15.019702,ov_coffee___game_40.6492_15.0197,Coffee & Game,RESTAURANT,bar_cafe
-40.656654,15.025119,ov_phoenix_beer___oil_40.6567_15.0251,Phoenix Beer & Oil,RESTAURANT,bar_cafe
-40.676678,15.024157,ov_amnesja_cafe_40.6767_15.0242,Amnesja Cafe,RESTAURANT,bar_cafe
-40.675082,15.023531,ov_p___p_pub_40.6751_15.0235,P & P Pub,RESTAURANT,bar_cafe
-40.647825,15.013648,ov_enforma_fitness_club_40.6478_15.0136,Enforma Fitness Club,GYM,palestra
-40.645417,15.011653,ov_centro_sportivo_green_park_40.6454_15.0117,Centro sportivo Green Park,GYM,palestra
-40.649174,15.019736,ov_the_real_dance_40.6492_15.0197,The Real Dance,GYM,palestra
-40.652388,15.036935,ov_crossodromo_arena_bianca_40.6524_15.0369,Crossodromo arena bianca,GYM,palestra
+40.649740,15.022030,ov_laboratorio_analisi_cliniche_marsilia_40.6497_15.0220,Laboratorio Analisi Cliniche Marsilia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/laboratorio_analisi_cliniche_marsilia_40.6497_15.0220.json,custom
+40.646043,15.009013,ov_il_mosaico_country_house_40.6460_15.0090,Il Mosaico Country House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/il_mosaico_country_house_40.6460_15.0090.json,custom
+40.659310,15.018310,ov_il_lago_ristorante_bar_40.6593_15.0183,Il Lago Ristorante-Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/il_lago_ristorante-bar_40.6593_15.0183.json,custom
+40.649146,15.018302,ov_tusc__40.6491_15.0183,Tuscè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/tusc_40.6491_15.0183.json,custom
+40.651097,15.017589,ov_pais__40.6511_15.0176,Paisà,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/pais_40.6511_15.0176.json,custom
+40.649402,15.021586,ov_pizzeria_stuzzicando___da_ines_40.6494_15.0216,Pizzeria Stuzzicando - Da Ines,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/pizzeria_stuzzicando_-_da_ines_40.6494_15.0216.json,custom
+40.657287,15.022084,ov_pupa_e_pizze_pizzeria_40.6573_15.0221,Pupa e Pizze Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/pupa_e_pizze_pizzeria_40.6573_15.0221.json,custom
+40.655340,15.022618,ov_l_ammiraglia_40.6553_15.0226,L'Ammiraglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/lammiraglia_40.6553_15.0226.json,custom
+40.655160,15.023250,ov_il_lago___risto_pub_e_pizzeria_40.6552_15.0233,Il Lago - Risto-Pub e Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/il_lago_-_risto-pub_e_pizzeria_40.6552_15.0233.json,custom
+40.650819,15.022605,ov_il_trappeto_40.6508_15.0226,Il Trappeto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/il_trappeto_40.6508_15.0226.json,custom
+40.676859,15.024487,ov_pizza_e_sfizi_40.6769_15.0245,Pizza E Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/pizza_e_sfizi_40.6769_15.0245.json,custom
+40.637270,15.001900,ov_bar_al_caff__40.6373_15.0019,Bar Al Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/bar_al_caff_40.6373_15.0019.json,custom
+40.638160,15.003371,ov_bar_pasticceria_alimentari_di_antonio_mo_40.6382_15.0034,Bar Pasticceria Alimentari di Antonio Montella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/bar_pasticceria_alimentari_di_antonio_mo_40.6382_15.0034.json,custom
+40.596564,15.002020,ov_karmacaffe1990_40.5966_15.0020,karmacaffe1990,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/karmacaffe1990_40.5966_15.0020.json,custom
+40.628717,15.015478,ov_relax_coffee_capone_40.6287_15.0155,Relax Coffee Capone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/relax_coffee_capone_40.6287_15.0155.json,custom
+40.649530,15.020778,ov_olympocaffe_2_0_40.6495_15.0208,Olympocaffe’2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/olympocaffe20_40.6495_15.0208.json,custom
+40.649171,15.019702,ov_coffee___game_40.6492_15.0197,Coffee & Game,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/coffee_game_40.6492_15.0197.json,custom
+40.656654,15.025119,ov_phoenix_beer___oil_40.6567_15.0251,Phoenix Beer & Oil,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/phoenix_beer_oil_40.6567_15.0251.json,custom
+40.676678,15.024157,ov_amnesja_cafe_40.6767_15.0242,Amnesja Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/amnesja_cafe_40.6767_15.0242.json,custom
+40.675082,15.023531,ov_p___p_pub_40.6751_15.0235,P & P Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/p_p_pub_40.6751_15.0235.json,custom
+40.647825,15.013648,ov_enforma_fitness_club_40.6478_15.0136,Enforma Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/enforma_fitness_club_40.6478_15.0136.json,custom
+40.645417,15.011653,ov_centro_sportivo_green_park_40.6454_15.0117,Centro sportivo Green Park,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/centro_sportivo_green_park_40.6454_15.0117.json,custom
+40.649174,15.019736,ov_the_real_dance_40.6492_15.0197,The Real Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/the_real_dance_40.6492_15.0197.json,custom
+40.652388,15.036935,ov_crossodromo_arena_bianca_40.6524_15.0369,Crossodromo arena bianca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/olevano_sul_tusciano/pages/crossodromo_arena_bianca_40.6524_15.0369.json,custom

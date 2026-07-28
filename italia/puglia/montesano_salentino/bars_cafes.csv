@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montesano_salentino -- bars_cafes
-39.975361,18.323009,ov_sud_est_caf__39.9754_18.3230,Sud-Est cafè,RESTAURANT,bar_cafe
-39.975744,18.322834,ov_la_fiorentina_39.9757_18.3228,La Fiorentina,RESTAURANT,bar_cafe
-39.975284,18.320397,ov_sweet_paper_39.9753_18.3204,Sweet Paper,RESTAURANT,bar_cafe
-39.976470,18.325189,ov_275_cafe_39.9765_18.3252,275 Cafe,RESTAURANT,bar_cafe
-39.980278,18.322151,ov_byblos_39.9803_18.3222,Byblos,RESTAURANT,bar_cafe
+39.975361,18.323009,ov_sud_est_caf__39.9754_18.3230,Sud-Est cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/sud-est_caf_39.9754_18.3230.json,custom
+39.975744,18.322834,ov_la_fiorentina_39.9757_18.3228,La Fiorentina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/la_fiorentina_39.9757_18.3228.json,custom
+39.975284,18.320397,ov_sweet_paper_39.9753_18.3204,Sweet Paper,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/sweet_paper_39.9753_18.3204.json,custom
+39.976470,18.325189,ov_275_cafe_39.9765_18.3252,275 Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/275_cafe_39.9765_18.3252.json,custom
+39.980278,18.322151,ov_byblos_39.9803_18.3222,Byblos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montesano_salentino/pages/byblos_39.9803_18.3222.json,custom

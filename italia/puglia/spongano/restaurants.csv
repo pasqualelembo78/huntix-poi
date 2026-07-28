@@ -1,12 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # spongano -- restaurants
-40.013939,18.359786,osm_il_folletto_40.0139_18.3598,Il Folletto,ristorante,ristorante
-40.015545,18.362554,osm_casina_copini_40.0155_18.3626,Casina Copini,ristorante,ristorante
-40.018883,18.362657,ov_mediterranea_salento_40.0189_18.3627,Mediterranea Salento,RESTAURANT,ristorante
-40.017489,18.365464,ov_sapori___tradizioni_40.0175_18.3655,Sapori & Tradizioni,RESTAURANT,ristorante
-40.017963,18.372645,ov_braceria_rizzello_40.0180_18.3726,Braceria Rizzello,RESTAURANT,ristorante
-40.016727,18.364175,ov_borgo_antico_40.0167_18.3642,Borgo Antico,RESTAURANT,ristorante
-40.016699,18.364267,ov_picalo_40.0167_18.3643,Picalo,RESTAURANT,ristorante
-40.013661,18.370988,ov_big_ben_40.0137_18.3710,Big Ben,RESTAURANT,ristorante
-40.013908,18.359798,ov_il_folletto_40.0139_18.3598,Il Folletto,RESTAURANT,ristorante
-40.014445,18.361923,ov_osteria_santamarina_40.0144_18.3619,Osteria Santamarina,RESTAURANT,ristorante
+40.018883,18.362657,ov_mediterranea_salento_40.0189_18.3627,Mediterranea Salento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/mediterranea_salento_40.0189_18.3627.json,custom
+40.017489,18.365464,ov_sapori___tradizioni_40.0175_18.3655,Sapori & Tradizioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/sapori_tradizioni_40.0175_18.3655.json,custom
+40.017963,18.372645,ov_braceria_rizzello_40.0180_18.3726,Braceria Rizzello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/braceria_rizzello_40.0180_18.3726.json,custom
+40.016727,18.364175,ov_borgo_antico_40.0167_18.3642,Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/borgo_antico_40.0167_18.3642.json,custom
+40.016699,18.364267,ov_picalo_40.0167_18.3643,Picalo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/picalo_40.0167_18.3643.json,custom
+40.013661,18.370988,ov_big_ben_40.0137_18.3710,Big Ben,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/big_ben_40.0137_18.3710.json,custom
+40.013908,18.359798,ov_il_folletto_40.0139_18.3598,Il Folletto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/il_folletto_40.0139_18.3598.json,custom
+40.014445,18.361923,ov_osteria_santamarina_40.0144_18.3619,Osteria Santamarina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/osteria_santamarina_40.0144_18.3619.json,custom
+40.015545,18.362554,osm_casina_copini_40.0155_18.3626,Casina Copini,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/spongano/pages/casina_copini_40.0155_18.3626.json,custom

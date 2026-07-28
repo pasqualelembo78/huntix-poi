@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # erchie -- restaurants
-40.431920,17.732570,ov_ghiottone_40.4319_17.7326,Ghiottone,RESTAURANT,ristorante
-40.430087,17.738613,ov_experience_steak_house_40.4301_17.7386,Experience steak house,RESTAURANT,ristorante
-40.437789,17.732714,ov_la_vecchia_bottega_40.4378_17.7327,La Vecchia Bottega,RESTAURANT,ristorante
-40.437301,17.733805,ov_ristorantino_pizzeria_bar_ducale_40.4373_17.7338,Ristorantino Pizzeria Bar Ducale,RESTAURANT,ristorante
-40.436133,17.734573,ov_la_preferita_40.4361_17.7346,La Preferita,RESTAURANT,ristorante
-40.435028,17.733952,ov_la_rustica_40.4350_17.7340,La Rustica,RESTAURANT,ristorante
-40.435213,17.733615,ov_sapori_nostri_40.4352_17.7336,Sapori Nostri,RESTAURANT,ristorante
-40.435733,17.728758,ov_masca_del_tacco_40.4357_17.7288,Masca del Tacco,RESTAURANT,ristorante
-40.437410,17.730684,ov_antica_osteria_40.4374_17.7307,Antica Osteria,RESTAURANT,ristorante
-40.439286,17.725661,ov_kiva_pizzeria_40.4393_17.7257,Kiva Pizzeria,RESTAURANT,ristorante
-40.448099,17.735782,ov_red___white_40.4481_17.7358,Red & White,RESTAURANT,ristorante
+40.431920,17.732570,ov_ghiottone_40.4319_17.7326,Ghiottone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/ghiottone_40.4319_17.7326.json,custom
+40.430087,17.738613,ov_experience_steak_house_40.4301_17.7386,Experience steak house,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/experience_steak_house_40.4301_17.7386.json,custom
+40.437789,17.732714,ov_la_vecchia_bottega_40.4378_17.7327,La Vecchia Bottega,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/la_vecchia_bottega_40.4378_17.7327.json,custom
+40.437301,17.733805,ov_ristorantino_pizzeria_bar_ducale_40.4373_17.7338,Ristorantino Pizzeria Bar Ducale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/ristorantino_pizzeria_bar_ducale_40.4373_17.7338.json,custom
+40.436133,17.734573,ov_la_preferita_40.4361_17.7346,La Preferita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/la_preferita_40.4361_17.7346.json,custom
+40.435028,17.733952,ov_la_rustica_40.4350_17.7340,La Rustica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/la_rustica_40.4350_17.7340.json,custom
+40.435213,17.733615,ov_sapori_nostri_40.4352_17.7336,Sapori Nostri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/sapori_nostri_40.4352_17.7336.json,custom
+40.435733,17.728758,ov_masca_del_tacco_40.4357_17.7288,Masca del Tacco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/masca_del_tacco_40.4357_17.7288.json,custom
+40.437410,17.730684,ov_antica_osteria_40.4374_17.7307,Antica Osteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/antica_osteria_40.4374_17.7307.json,custom
+40.439286,17.725661,ov_kiva_pizzeria_40.4393_17.7257,Kiva Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/kiva_pizzeria_40.4393_17.7257.json,custom
+40.448099,17.735782,ov_red___white_40.4481_17.7358,Red & White,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/erchie/pages/red_white_40.4481_17.7358.json,custom

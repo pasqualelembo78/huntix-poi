@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # San Cassiano -- Tutti
-40.054215,18.335556,ov_il_tempio_dei_sapori_40.0542_18.3356,Il Tempio dei Sapori,RESTAURANT,ristorante
-40.054499,18.336254,ov_san_rocco_san_cassiano___le_arrosteria_p_40.0545_18.3363,San Rocco San Cassiano - LE Arrosteria Pizzeria Pignateria B,RESTAURANT,ristorante
-40.056956,18.335376,ov_il_mattarello_40.0570_18.3354,Il Mattarello,RESTAURANT,ristorante
-40.060290,18.346880,ov_scazzamurreddhu_ristorante_pizzeria_bar_40.0603_18.3469,Scazzamurreddhu Ristorante Pizzeria Bar,RESTAURANT,ristorante
-40.057524,18.335561,ov_bar_villa_40.0575_18.3356,Bar Villa,RESTAURANT,bar_cafe
-40.057539,18.334058,ov_iter_coffee_house_40.0575_18.3341,ITER Coffee House,RESTAURANT,bar_cafe
-40.057667,18.334057,ov_prima_o_poi_40.0577_18.3341,Prima o Poi,RESTAURANT,bar_cafe
-40.060535,18.329094,ov_il_mito_40.0605_18.3291,Il Mito,RESTAURANT,bar_cafe
-40.054800,18.319882,osm_le_dolci_fantasie_40.0548_18.3199,Le Dolci Fantasie,bar_cafe,bar_cafe
-40.057153,18.334492,ov_a_s_d__vittoria_dance_salento_san_cassia_40.0572_18.3345,A.S.D. Vittoria Dance Salento San Cassiano,GYM,palestra
+40.054215,18.335556,ov_il_tempio_dei_sapori_40.0542_18.3356,Il Tempio dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/il_tempio_dei_sapori_40.0542_18.3356.json,custom
+40.054499,18.336254,ov_san_rocco_san_cassiano___le_arrosteria_p_40.0545_18.3363,San Rocco San Cassiano - LE Arrosteria Pizzeria Pignateria B,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/san_rocco_san_cassiano_-_le_arrosteria_p_40.0545_18.3363.json,custom
+40.056956,18.335376,ov_il_mattarello_40.0570_18.3354,Il Mattarello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/il_mattarello_40.0570_18.3354.json,custom
+40.060290,18.346880,ov_scazzamurreddhu_ristorante_pizzeria_bar_40.0603_18.3469,Scazzamurreddhu Ristorante Pizzeria Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/scazzamurreddhu_ristorante_pizzeria_bar_40.0603_18.3469.json,custom
+40.057524,18.335561,ov_bar_villa_40.0575_18.3356,Bar Villa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/bar_villa_40.0575_18.3356.json,custom
+40.057539,18.334058,ov_iter_coffee_house_40.0575_18.3341,ITER Coffee House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/iter_coffee_house_40.0575_18.3341.json,custom
+40.057667,18.334057,ov_prima_o_poi_40.0577_18.3341,Prima o Poi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/prima_o_poi_40.0577_18.3341.json,custom
+40.060535,18.329094,ov_il_mito_40.0605_18.3291,Il Mito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/il_mito_40.0605_18.3291.json,custom
+40.054800,18.319882,osm_le_dolci_fantasie_40.0548_18.3199,Le Dolci Fantasie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/le_dolci_fantasie_40.0548_18.3199.json,custom
+40.057153,18.334492,ov_a_s_d__vittoria_dance_salento_san_cassia_40.0572_18.3345,A.S.D. Vittoria Dance Salento San Cassiano,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_cassiano/pages/asd_vittoria_dance_salento_san_cassiano_40.0572_18.3345.json,custom

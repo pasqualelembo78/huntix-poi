@@ -1,32 +1,32 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Troia -- Tutti
-41.376030,15.357100,ov_agli_archi_di_villa_maria_ristorante_piz_41.3760_15.3571,Agli Archi di Villa Maria Ristorante Pizzeria,RESTAURANT,ristorante
-41.396692,15.334937,ov_agriturismo_pirro_41.3967_15.3349,Agriturismo Pirro,RESTAURANT,ristorante
-41.359360,15.305353,ov_i_cavalieri_di_malta_41.3594_15.3054,I Cavalieri di Malta,RESTAURANT,ristorante
-41.359401,15.305206,ov_alimentari_san_francesco_41.3594_15.3052,Alimentari San Francesco,RESTAURANT,ristorante
-41.360715,15.307952,ov_il_borgo_antico_41.3607_15.3080,Il Borgo Antico,RESTAURANT,ristorante
-41.361800,15.310309,ov_l_osteria_del_d_avalos_41.3618_15.3103,L'Osteria del D'Avalos,RESTAURANT,ristorante
-41.362023,15.310887,ov_osteria_fra_due_terre_41.3620_15.3109,Osteria fra due terre,RESTAURANT,ristorante
-41.361017,15.308023,ov_la_pizzeria_del_corso_41.3610_15.3080,La pizzeria del Corso,RESTAURANT,ristorante
-41.361977,15.307655,ov_la_stalla_del_nonno_41.3620_15.3077,La Stalla Del Nonno,RESTAURANT,ristorante
-41.361735,15.308545,ov_osteria_da_marianeve_41.3617_15.3085,Osteria Da MariaNeve,RESTAURANT,ristorante
-41.364820,15.316813,ov_pizzeria_da_luciano_41.3648_15.3168,Pizzeria Da Luciano,RESTAURANT,ristorante
-41.363674,15.313844,ov_sapori_e_tradizioni_di_buffo_lucia_41.3637_15.3138,Sapori e Tradizioni di Buffo Lucia,RESTAURANT,ristorante
-41.363280,15.312951,ov_gallery_bistrot_contemporaneo_41.3633_15.3130,Gallery Bistrot Contemporaneo,RESTAURANT,ristorante
-41.365123,15.320091,ov_trattoria_alba_d_oro_41.3651_15.3201,Trattoria Alba D'Oro,RESTAURANT,ristorante
-41.365327,15.321100,ov_in_cucina_con_elisa_41.3653_15.3211,In Cucina Con Elisa,RESTAURANT,ristorante
-41.366442,15.324072,ov_dada_41.3664_15.3241,Dada,RESTAURANT,bar_cafe
-41.366808,15.323350,ov_bar_pizzeria_da_sas__41.3668_15.3233,Bar Pizzeria da Sasà,RESTAURANT,bar_cafe
-41.359840,15.305615,ov_san_francesco___bar_caffetteria_41.3598_15.3056,San Francesco - Bar Caffetteria,RESTAURANT,bar_cafe
-41.359950,15.305258,ov_new_livingstone_pub_41.3599_15.3053,New Livingstone pub,RESTAURANT,bar_cafe
-41.359933,15.305647,ov_alvis_place_pub_41.3599_15.3056,Alvis Place Pub,RESTAURANT,bar_cafe
-41.361869,15.309832,ov_caffe_dell_arco_41.3619_15.3098,Caffe dell'Arco,RESTAURANT,bar_cafe
-41.361610,15.309340,ov_la_gintoneria_di_uvarara_41.3616_15.3093,La Gintoneria di Uvarara,RESTAURANT,bar_cafe
-41.361940,15.308197,ov_ambaradam_pub_41.3619_15.3082,Ambaradam pub,RESTAURANT,bar_cafe
-41.358520,15.303440,ov_bellotta_41.3585_15.3034,Bellotta,RESTAURANT,bar_cafe
-41.397011,15.335258,ov_pirrosport_asd_41.3970_15.3353,Pirrosport ASD,GYM,palestra
-41.368071,15.342339,ov_stile_di_vita_asd_41.3681_15.3423,Stile di Vita asd,GYM,palestra
-41.369638,15.322165,ov_palazzetto_dello_sport_41.3696_15.3222,Palazzetto dello Sport,GYM,palestra
-41.360035,15.304858,ov_palestra_queen_gym_41.3600_15.3049,Palestra QUEEN GYM,GYM,palestra
-41.362110,15.310100,ov_civico_41.3621_15.3101,Civico,MUSEUM,monumento
-41.362014,15.310016,ov_museo_civico_troia_41.3620_15.3100,Museo Civico Troia,MUSEUM,monumento
+41.376030,15.357100,ov_agli_archi_di_villa_maria_ristorante_piz_41.3760_15.3571,Agli Archi di Villa Maria Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/agli_archi_di_villa_maria_ristorante_piz_41.3760_15.3571.json,custom
+41.396692,15.334937,ov_agriturismo_pirro_41.3967_15.3349,Agriturismo Pirro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/agriturismo_pirro_41.3967_15.3349.json,custom
+41.359360,15.305353,ov_i_cavalieri_di_malta_41.3594_15.3054,I Cavalieri di Malta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/i_cavalieri_di_malta_41.3594_15.3054.json,custom
+41.359401,15.305206,ov_alimentari_san_francesco_41.3594_15.3052,Alimentari San Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/alimentari_san_francesco_41.3594_15.3052.json,custom
+41.360715,15.307952,ov_il_borgo_antico_41.3607_15.3080,Il Borgo Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/il_borgo_antico_41.3607_15.3080.json,custom
+41.361800,15.310309,ov_l_osteria_del_d_avalos_41.3618_15.3103,L'Osteria del D'Avalos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/losteria_del_davalos_41.3618_15.3103.json,custom
+41.362023,15.310887,ov_osteria_fra_due_terre_41.3620_15.3109,Osteria fra due terre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/osteria_fra_due_terre_41.3620_15.3109.json,custom
+41.361017,15.308023,ov_la_pizzeria_del_corso_41.3610_15.3080,La pizzeria del Corso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/la_pizzeria_del_corso_41.3610_15.3080.json,custom
+41.361977,15.307655,ov_la_stalla_del_nonno_41.3620_15.3077,La Stalla Del Nonno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/la_stalla_del_nonno_41.3620_15.3077.json,custom
+41.361735,15.308545,ov_osteria_da_marianeve_41.3617_15.3085,Osteria Da MariaNeve,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/osteria_da_marianeve_41.3617_15.3085.json,custom
+41.364820,15.316813,ov_pizzeria_da_luciano_41.3648_15.3168,Pizzeria Da Luciano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/pizzeria_da_luciano_41.3648_15.3168.json,custom
+41.363674,15.313844,ov_sapori_e_tradizioni_di_buffo_lucia_41.3637_15.3138,Sapori e Tradizioni di Buffo Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/sapori_e_tradizioni_di_buffo_lucia_41.3637_15.3138.json,custom
+41.363280,15.312951,ov_gallery_bistrot_contemporaneo_41.3633_15.3130,Gallery Bistrot Contemporaneo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/gallery_bistrot_contemporaneo_41.3633_15.3130.json,custom
+41.365123,15.320091,ov_trattoria_alba_d_oro_41.3651_15.3201,Trattoria Alba D'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/trattoria_alba_doro_41.3651_15.3201.json,custom
+41.365327,15.321100,ov_in_cucina_con_elisa_41.3653_15.3211,In Cucina Con Elisa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/in_cucina_con_elisa_41.3653_15.3211.json,custom
+41.366442,15.324072,ov_dada_41.3664_15.3241,Dada,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/dada_41.3664_15.3241.json,custom
+41.366808,15.323350,ov_bar_pizzeria_da_sas__41.3668_15.3233,Bar Pizzeria da Sasà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/bar_pizzeria_da_sas_41.3668_15.3233.json,custom
+41.359840,15.305615,ov_san_francesco___bar_caffetteria_41.3598_15.3056,San Francesco - Bar Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/san_francesco_-_bar_caffetteria_41.3598_15.3056.json,custom
+41.359950,15.305258,ov_new_livingstone_pub_41.3599_15.3053,New Livingstone pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/new_livingstone_pub_41.3599_15.3053.json,custom
+41.359933,15.305647,ov_alvis_place_pub_41.3599_15.3056,Alvis Place Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/alvis_place_pub_41.3599_15.3056.json,custom
+41.361869,15.309832,ov_caffe_dell_arco_41.3619_15.3098,Caffe dell'Arco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/caffe_dellarco_41.3619_15.3098.json,custom
+41.361610,15.309340,ov_la_gintoneria_di_uvarara_41.3616_15.3093,La Gintoneria di Uvarara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/la_gintoneria_di_uvarara_41.3616_15.3093.json,custom
+41.361940,15.308197,ov_ambaradam_pub_41.3619_15.3082,Ambaradam pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/ambaradam_pub_41.3619_15.3082.json,custom
+41.358520,15.303440,ov_bellotta_41.3585_15.3034,Bellotta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/bellotta_41.3585_15.3034.json,custom
+41.397011,15.335258,ov_pirrosport_asd_41.3970_15.3353,Pirrosport ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/pirrosport_asd_41.3970_15.3353.json,custom
+41.368071,15.342339,ov_stile_di_vita_asd_41.3681_15.3423,Stile di Vita asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/stile_di_vita_asd_41.3681_15.3423.json,custom
+41.369638,15.322165,ov_palazzetto_dello_sport_41.3696_15.3222,Palazzetto dello Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/palazzetto_dello_sport_41.3696_15.3222.json,custom
+41.360035,15.304858,ov_palestra_queen_gym_41.3600_15.3049,Palestra QUEEN GYM,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/palestra_queen_gym_41.3600_15.3049.json,custom
+41.362110,15.310100,ov_civico_41.3621_15.3101,Civico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/civico_41.3621_15.3101.json,custom
+41.362014,15.310016,ov_museo_civico_troia_41.3620_15.3100,Museo Civico Troia,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/troia/pages/museo_civico_troia_41.3620_15.3100.json,custom

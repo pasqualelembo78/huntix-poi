@@ -1,26 +1,26 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_pietro_vernotico -- restaurants
-40.498562,17.997678,osm_tenuta_persano_40.4986_17.9977,Tenuta Persano,ristorante,ristorante
-40.495150,17.992647,ov_lido_gogo__40.4952_17.9926,LIDO GOGO',RESTAURANT,ristorante
-40.494360,17.995151,ov_friggi_e_fuggi_40.4944_17.9952,Friggi e fuggi,RESTAURANT,ristorante
-40.495119,17.994983,ov_teglia_40.4951_17.9950,Teglia,RESTAURANT,ristorante
-40.493370,17.995600,ov_pronto_pizza_40.4934_17.9956,Pronto Pizza,RESTAURANT,ristorante
-40.493448,17.995600,ov_glamour_fast_food_40.4934_17.9956,Glamour Fast Food,RESTAURANT,ristorante
-40.490987,17.996120,ov_lavota_pasquale_40.4910_17.9961,Lavota Pasquale,RESTAURANT,ristorante
-40.488198,17.997467,ov_la_rusticana_40.4882_17.9975,La Rusticana,RESTAURANT,ristorante
-40.490181,17.990638,ov_da_francesco_40.4902_17.9906,Da Francesco,RESTAURANT,ristorante
-40.486338,17.996485,ov_pizzeria_piazza_regina_margherita_40.4863_17.9965,Pizzeria Piazza Regina Margherita,RESTAURANT,ristorante
-40.487350,17.996264,ov_da_catia_restaurant_40.4873_17.9963,Da Catia RESTAURANT,RESTAURANT,ristorante
-40.487006,17.996822,ov_via_mercato_40.4870_17.9968,Via Mercato,RESTAURANT,ristorante
-40.487406,17.997130,ov_in_piazza_40.4874_17.9971,In Piazza,RESTAURANT,ristorante
-40.487677,17.997723,ov_gusto_40.4877_17.9977,Gusto,RESTAURANT,ristorante
-40.487731,17.999007,ov_dolce_e_salato_junior_40.4877_17.9990,Dolce e Salato Junior,RESTAURANT,ristorante
-40.481582,18.004430,ov_la_distilleria_40.4816_18.0044,La Distilleria,RESTAURANT,ristorante
-40.482199,18.000660,ov_tenuta_persano_40.4822_18.0007,Tenuta Persano,RESTAURANT,ristorante
-40.483859,18.002440,ov_sapori_bollenti_40.4839_18.0024,Sapori Bollenti,RESTAURANT,ristorante
-40.484338,18.002199,ov_pizzeria_mille_gusti_40.4843_18.0022,Pizzeria Mille Gusti,RESTAURANT,ristorante
-40.535511,18.074670,ov_friggi_e_fuggi_40.5355_18.0747,Friggi e Fuggi,RESTAURANT,ristorante
-40.538350,18.072196,ov_garden_85_40.5383_18.0722,Garden 85,RESTAURANT,ristorante
-40.539071,18.066796,ov_trattoria_zia_anna_40.5391_18.0668,Trattoria Zia Anna,RESTAURANT,ristorante
-40.541755,18.061110,ov_ristorante_cimalu_40.5418_18.0611,Ristorante Cimalu,RESTAURANT,ristorante
-40.539628,18.070125,ov_sunrise_40.5396_18.0701,Sunrise,RESTAURANT,ristorante
+40.495150,17.992647,ov_lido_gogo__40.4952_17.9926,LIDO GOGO',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lido_gogo_40.4952_17.9926.json,custom
+40.494360,17.995151,ov_friggi_e_fuggi_40.4944_17.9952,Friggi e fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/friggi_e_fuggi_40.4944_17.9952.json,custom
+40.495119,17.994983,ov_teglia_40.4951_17.9950,Teglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/teglia_40.4951_17.9950.json,custom
+40.493370,17.995600,ov_pronto_pizza_40.4934_17.9956,Pronto Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pronto_pizza_40.4934_17.9956.json,custom
+40.493448,17.995600,ov_glamour_fast_food_40.4934_17.9956,Glamour Fast Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/glamour_fast_food_40.4934_17.9956.json,custom
+40.490987,17.996120,ov_lavota_pasquale_40.4910_17.9961,Lavota Pasquale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/lavota_pasquale_40.4910_17.9961.json,custom
+40.488198,17.997467,ov_la_rusticana_40.4882_17.9975,La Rusticana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/la_rusticana_40.4882_17.9975.json,custom
+40.490181,17.990638,ov_da_francesco_40.4902_17.9906,Da Francesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/da_francesco_40.4902_17.9906.json,custom
+40.486338,17.996485,ov_pizzeria_piazza_regina_margherita_40.4863_17.9965,Pizzeria Piazza Regina Margherita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pizzeria_piazza_regina_margherita_40.4863_17.9965.json,custom
+40.487350,17.996264,ov_da_catia_restaurant_40.4873_17.9963,Da Catia RESTAURANT,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/da_catia_restaurant_40.4873_17.9963.json,custom
+40.487006,17.996822,ov_via_mercato_40.4870_17.9968,Via Mercato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/via_mercato_40.4870_17.9968.json,custom
+40.487406,17.997130,ov_in_piazza_40.4874_17.9971,In Piazza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/in_piazza_40.4874_17.9971.json,custom
+40.487677,17.997723,ov_gusto_40.4877_17.9977,Gusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/gusto_40.4877_17.9977.json,custom
+40.487731,17.999007,ov_dolce_e_salato_junior_40.4877_17.9990,Dolce e Salato Junior,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/dolce_e_salato_junior_40.4877_17.9990.json,custom
+40.481582,18.004430,ov_la_distilleria_40.4816_18.0044,La Distilleria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/la_distilleria_40.4816_18.0044.json,custom
+40.482199,18.000660,ov_tenuta_persano_40.4822_18.0007,Tenuta Persano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/tenuta_persano_40.4822_18.0007.json,custom
+40.483859,18.002440,ov_sapori_bollenti_40.4839_18.0024,Sapori Bollenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/sapori_bollenti_40.4839_18.0024.json,custom
+40.484338,18.002199,ov_pizzeria_mille_gusti_40.4843_18.0022,Pizzeria Mille Gusti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/pizzeria_mille_gusti_40.4843_18.0022.json,custom
+40.535511,18.074670,ov_friggi_e_fuggi_40.5355_18.0747,Friggi e Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/friggi_e_fuggi_40.5355_18.0747.json,custom
+40.538350,18.072196,ov_garden_85_40.5383_18.0722,Garden 85,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/garden_85_40.5383_18.0722.json,custom
+40.539071,18.066796,ov_trattoria_zia_anna_40.5391_18.0668,Trattoria Zia Anna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/trattoria_zia_anna_40.5391_18.0668.json,custom
+40.541755,18.061110,ov_ristorante_cimalu_40.5418_18.0611,Ristorante Cimalu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/ristorante_cimalu_40.5418_18.0611.json,custom
+40.539628,18.070125,ov_sunrise_40.5396_18.0701,Sunrise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/sunrise_40.5396_18.0701.json,custom
+40.498562,17.997678,osm_tenuta_persano_40.4986_17.9977,Tenuta Persano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_pietro_vernotico/pages/tenuta_persano_40.4986_17.9977.json,custom

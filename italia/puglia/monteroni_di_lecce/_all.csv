@@ -1,42 +1,41 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Monteroni di Lecce -- Tutti
-40.328019,18.102228,osm_lo_scacciapensieri_40.3280_18.1022,Lo ScacciaPensieri,ristorante,ristorante
-40.331105,18.117684,osm_malcandrino_40.3311_18.1177,Malcandrino,ristorante,ristorante
-40.301198,18.083543,ov_green_balera_ristorante_pizzeria_montero_40.3012_18.0835,Green balera Ristorante Pizzeria Monteroni D. L. LE,RESTAURANT,ristorante
-40.307057,18.062568,ov_torre_saetta_40.3071_18.0626,Torre Saetta,RESTAURANT,ristorante
-40.316682,18.089784,ov_villa_tre_rose_40.3167_18.0898,Villa Tre Rose,RESTAURANT,ristorante
-40.322552,18.098109,ov_garibaldi_snack_40.3226_18.0981,Garibaldi Snack,RESTAURANT,ristorante
-40.322941,18.100197,ov_jordan_kebab_40.3229_18.1002,Jordan Kebab,RESTAURANT,ristorante
-40.325510,18.098500,ov_li_cumpari___trattoria_pizzeria_40.3255_18.0985,Li Cumpari - Trattoria Pizzeria,RESTAURANT,ristorante
-40.324778,18.097501,ov_jolly_fast_food_40.3248_18.0975,Jolly fast food,RESTAURANT,ristorante
-40.324424,18.091943,ov_pizza___pummaro__40.3244_18.0919,Pizza & Pummaro',RESTAURANT,ristorante
-40.321430,18.099391,ov_fior_di_pizza_40.3214_18.0994,Fior di pizza,RESTAURANT,ristorante
-40.321773,18.099462,ov_berry_cricket_40.3218_18.0995,Berry Cricket,RESTAURANT,ristorante
-40.319849,18.099310,ov_i_sapori_del_sud_40.3198_18.0993,I Sapori Del Sud,RESTAURANT,ristorante
-40.327397,18.102476,ov_la_rustichella_40.3274_18.1025,La Rustichella,RESTAURANT,ristorante
-40.331276,18.117703,ov_malcandrino_40.3313_18.1177,Malcandrino,RESTAURANT,ristorante
-40.316985,18.098844,ov_banlieue2_40.3170_18.0988,Banlieue2,RESTAURANT,bar_cafe
-40.323210,18.098572,ov_scaccomatto_40.3232_18.0986,Scaccomatto,RESTAURANT,bar_cafe
-40.324270,18.098294,ov_piper_bar_40.3243_18.0983,Piper Bar,RESTAURANT,bar_cafe
-40.324110,18.097219,ov_reynold_s_pub_40.3241_18.0972,Reynold's Pub,RESTAURANT,bar_cafe
-40.326675,18.094404,ov_sorsi_morsi_____colombina__40.3267_18.0944,Sorsi&Morsi    -Colombina-,RESTAURANT,bar_cafe
-40.326638,18.097800,ov_burton_pub_40.3266_18.0978,Burton Pub,RESTAURANT,bar_cafe
-40.321453,18.092230,ov_g_b_40.3215_18.0922,G&B,RESTAURANT,bar_cafe
-40.319313,18.092260,ov_woodstock_cafe_40.3193_18.0923,Woodstock Cafe,RESTAURANT,bar_cafe
-40.326826,18.096825,ov_bar_fratelli_mello_40.3268_18.0968,Bar Fratelli Mello,RESTAURANT,bar_cafe
-40.327085,18.096676,ov_caffetteria_f_lli_mello_40.3271_18.0967,Caffetteria F.lli Mello,RESTAURANT,bar_cafe
-40.327167,18.096285,ov_caffe_falconieri_40.3272_18.0963,Caffe Falconieri,RESTAURANT,bar_cafe
-40.327330,18.092750,ov_dreams_caf__40.3273_18.0927,Dreams Cafè,RESTAURANT,bar_cafe
-40.328013,18.101767,ov_caffe_alla_romana_40.3280_18.1018,Caffe Alla Romana,RESTAURANT,bar_cafe
-40.327926,18.101642,ov_elite_17_hamburgheria_birreria_gintoneri_40.3279_18.1016,ELITE_17_Hamburgheria_Birreria_Gintoneria,RESTAURANT,bar_cafe
-40.327739,18.100339,ov_caff__tiffany_40.3277_18.1003,Caffè Tiffany,RESTAURANT,bar_cafe
-40.327987,18.101818,osm_bar_politi_40.3280_18.1018,Bar Politi,bar_cafe,bar_cafe
-40.317061,18.089514,ov_luxury_lab_40.3171_18.0895,Luxury Lab,GYM,palestra
-40.322670,18.088960,ov_arci_officina_mentis_40.3227_18.0890,Arci Officina Mentis,GYM,palestra
-40.322450,18.088260,ov_asd_off_balance_monteroni_40.3225_18.0883,Asd Off Balance Monteroni,GYM,palestra
-40.322811,18.096519,ov_asdc_danzaspettacolo_nuova_accademia_del_40.3228_18.0965,Asdc Danzaspettacolo Nuova Accademia del Balletto,GYM,palestra
-40.321253,18.094699,ov_live_dancing_40.3213_18.0947,Live Dancing,GYM,palestra
-40.321885,18.087247,ov_action_40.3219_18.0872,Action,GYM,palestra
-40.318957,18.088501,ov_excite_pure_monteroni_40.3190_18.0885,Excite Pure Monteroni,GYM,palestra
-40.327337,18.102194,ov_rafael_elias_trainer_40.3273_18.1022,Rafael Elias Trainer,GYM,palestra
-40.331427,18.099751,ov_palestra_torven_40.3314_18.0998,Palestra Torven,GYM,palestra
+40.301198,18.083543,ov_green_balera_ristorante_pizzeria_montero_40.3012_18.0835,Green balera Ristorante Pizzeria Monteroni D. L. LE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/green_balera_ristorante_pizzeria_montero_40.3012_18.0835.json,custom
+40.307057,18.062568,ov_torre_saetta_40.3071_18.0626,Torre Saetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/torre_saetta_40.3071_18.0626.json,custom
+40.316682,18.089784,ov_villa_tre_rose_40.3167_18.0898,Villa Tre Rose,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/villa_tre_rose_40.3167_18.0898.json,custom
+40.322552,18.098109,ov_garibaldi_snack_40.3226_18.0981,Garibaldi Snack,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/garibaldi_snack_40.3226_18.0981.json,custom
+40.322941,18.100197,ov_jordan_kebab_40.3229_18.1002,Jordan Kebab,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/jordan_kebab_40.3229_18.1002.json,custom
+40.325510,18.098500,ov_li_cumpari___trattoria_pizzeria_40.3255_18.0985,Li Cumpari - Trattoria Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/li_cumpari_-_trattoria_pizzeria_40.3255_18.0985.json,custom
+40.324778,18.097501,ov_jolly_fast_food_40.3248_18.0975,Jolly fast food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/jolly_fast_food_40.3248_18.0975.json,custom
+40.324424,18.091943,ov_pizza___pummaro__40.3244_18.0919,Pizza & Pummaro',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/pizza_pummaro_40.3244_18.0919.json,custom
+40.321430,18.099391,ov_fior_di_pizza_40.3214_18.0994,Fior di pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/fior_di_pizza_40.3214_18.0994.json,custom
+40.321773,18.099462,ov_berry_cricket_40.3218_18.0995,Berry Cricket,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/berry_cricket_40.3218_18.0995.json,custom
+40.319849,18.099310,ov_i_sapori_del_sud_40.3198_18.0993,I Sapori Del Sud,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/i_sapori_del_sud_40.3198_18.0993.json,custom
+40.327397,18.102476,ov_la_rustichella_40.3274_18.1025,La Rustichella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/la_rustichella_40.3274_18.1025.json,custom
+40.331276,18.117703,ov_malcandrino_40.3313_18.1177,Malcandrino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/malcandrino_40.3313_18.1177.json,custom
+40.328019,18.102228,osm_lo_scacciapensieri_40.3280_18.1022,Lo ScacciaPensieri,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/lo_scacciapensieri_40.3280_18.1022.json,custom
+40.316985,18.098844,ov_banlieue2_40.3170_18.0988,Banlieue2,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/banlieue2_40.3170_18.0988.json,custom
+40.323210,18.098572,ov_scaccomatto_40.3232_18.0986,Scaccomatto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/scaccomatto_40.3232_18.0986.json,custom
+40.324270,18.098294,ov_piper_bar_40.3243_18.0983,Piper Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/piper_bar_40.3243_18.0983.json,custom
+40.324110,18.097219,ov_reynold_s_pub_40.3241_18.0972,Reynold's Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/reynolds_pub_40.3241_18.0972.json,custom
+40.326675,18.094404,ov_sorsi_morsi_____colombina__40.3267_18.0944,Sorsi&Morsi    -Colombina-,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/sorsimorsi_-colombina-_40.3267_18.0944.json,custom
+40.326638,18.097800,ov_burton_pub_40.3266_18.0978,Burton Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/burton_pub_40.3266_18.0978.json,custom
+40.321453,18.092230,ov_g_b_40.3215_18.0922,G&B,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/gb_40.3215_18.0922.json,custom
+40.319313,18.092260,ov_woodstock_cafe_40.3193_18.0923,Woodstock Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/woodstock_cafe_40.3193_18.0923.json,custom
+40.326826,18.096825,ov_bar_fratelli_mello_40.3268_18.0968,Bar Fratelli Mello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/bar_fratelli_mello_40.3268_18.0968.json,custom
+40.327085,18.096676,ov_caffetteria_f_lli_mello_40.3271_18.0967,Caffetteria F.lli Mello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffetteria_flli_mello_40.3271_18.0967.json,custom
+40.327167,18.096285,ov_caffe_falconieri_40.3272_18.0963,Caffe Falconieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffe_falconieri_40.3272_18.0963.json,custom
+40.327330,18.092750,ov_dreams_caf__40.3273_18.0927,Dreams Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/dreams_caf_40.3273_18.0927.json,custom
+40.328013,18.101767,ov_caffe_alla_romana_40.3280_18.1018,Caffe Alla Romana,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caffe_alla_romana_40.3280_18.1018.json,custom
+40.327926,18.101642,ov_elite_17_hamburgheria_birreria_gintoneri_40.3279_18.1016,ELITE_17_Hamburgheria_Birreria_Gintoneria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/elite17hamburgheriabirreriagintoneria_40.3279_18.1016.json,custom
+40.327739,18.100339,ov_caff__tiffany_40.3277_18.1003,Caffè Tiffany,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/caff_tiffany_40.3277_18.1003.json,custom
+40.327987,18.101818,osm_bar_politi_40.3280_18.1018,Bar Politi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/bar_politi_40.3280_18.1018.json,custom
+40.317061,18.089514,ov_luxury_lab_40.3171_18.0895,Luxury Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/luxury_lab_40.3171_18.0895.json,custom
+40.322670,18.088960,ov_arci_officina_mentis_40.3227_18.0890,Arci Officina Mentis,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/arci_officina_mentis_40.3227_18.0890.json,custom
+40.322450,18.088260,ov_asd_off_balance_monteroni_40.3225_18.0883,Asd Off Balance Monteroni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/asd_off_balance_monteroni_40.3225_18.0883.json,custom
+40.322811,18.096519,ov_asdc_danzaspettacolo_nuova_accademia_del_40.3228_18.0965,Asdc Danzaspettacolo Nuova Accademia del Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/asdc_danzaspettacolo_nuova_accademia_del_40.3228_18.0965.json,custom
+40.321253,18.094699,ov_live_dancing_40.3213_18.0947,Live Dancing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/live_dancing_40.3213_18.0947.json,custom
+40.321885,18.087247,ov_action_40.3219_18.0872,Action,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/action_40.3219_18.0872.json,custom
+40.318957,18.088501,ov_excite_pure_monteroni_40.3190_18.0885,Excite Pure Monteroni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/excite_pure_monteroni_40.3190_18.0885.json,custom
+40.327337,18.102194,ov_rafael_elias_trainer_40.3273_18.1022,Rafael Elias Trainer,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/rafael_elias_trainer_40.3273_18.1022.json,custom
+40.331427,18.099751,ov_palestra_torven_40.3314_18.0998,Palestra Torven,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/monteroni_di_lecce/pages/palestra_torven_40.3314_18.0998.json,custom

@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # aradeo -- gyms
-40.123633,18.132482,ov_international_dance_40.1236_18.1325,International dance,GYM,palestra
-40.126733,18.134956,ov_asd_centro_sportivo_aradeo_40.1267_18.1350,ASD Centro Sportivo Aradeo,GYM,palestra
-40.126995,18.133662,ov_palestra_new_life_40.1270_18.1337,Palestra New Life,GYM,palestra
-40.130650,18.134112,ov_euthymia_40.1307_18.1341,Euthymia,GYM,palestra
+40.123633,18.132482,ov_international_dance_40.1236_18.1325,International dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aradeo/pages/international_dance_40.1236_18.1325.json,custom
+40.126733,18.134956,ov_asd_centro_sportivo_aradeo_40.1267_18.1350,ASD Centro Sportivo Aradeo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aradeo/pages/asd_centro_sportivo_aradeo_40.1267_18.1350.json,custom
+40.126995,18.133662,ov_palestra_new_life_40.1270_18.1337,Palestra New Life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aradeo/pages/palestra_new_life_40.1270_18.1337.json,custom
+40.130650,18.134112,ov_euthymia_40.1307_18.1341,Euthymia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/aradeo/pages/euthymia_40.1307_18.1341.json,custom

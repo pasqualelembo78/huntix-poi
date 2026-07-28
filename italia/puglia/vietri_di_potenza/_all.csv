@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Vietri di Potenza -- Tutti
-40.604813,15.507622,ov_woodpecker_s_40.6048_15.5076,Woodpecker's,RESTAURANT,ristorante
-40.597170,15.480740,ov_agriturismo_melandro_40.5972_15.4807,Agriturismo Melandro,RESTAURANT,ristorante
-40.627150,15.565320,ov_si_balla_40.6272_15.5653,Si balla,RESTAURANT,ristorante
-40.599109,15.506650,ov_bar_feo_40.5991_15.5067,Bar Feo,RESTAURANT,bar_cafe
-40.599442,15.508104,ov_caffetteria_tabaccheria_cherie_40.5994_15.5081,Caffetteria Tabaccheria Cherie,RESTAURANT,bar_cafe
-40.599531,15.509479,ov_lowen_brau___caffetteria___tabaccheria_40.5995_15.5095,LOWEN BRAU - Caffetteria & Tabaccheria,RESTAURANT,bar_cafe
-40.599283,15.509338,ov_red_passion_club_40.5993_15.5093,Red Passion Club,RESTAURANT,bar_cafe
-40.602724,15.474884,ov_piscina_del_sole_centro_sportivo_polival_40.6027_15.4749,Piscina del Sole Centro Sportivo Polivalente,GYM,palestra
-40.599158,15.508214,ov_latin_art_academy_freedom_40.5992_15.5082,Latin Art Academy Freedom,GYM,palestra
+40.604813,15.507622,ov_woodpecker_s_40.6048_15.5076,Woodpecker's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/woodpeckers_40.6048_15.5076.json,custom
+40.597170,15.480740,ov_agriturismo_melandro_40.5972_15.4807,Agriturismo Melandro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/agriturismo_melandro_40.5972_15.4807.json,custom
+40.627150,15.565320,ov_si_balla_40.6272_15.5653,Si balla,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/si_balla_40.6272_15.5653.json,custom
+40.599109,15.506650,ov_bar_feo_40.5991_15.5067,Bar Feo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/bar_feo_40.5991_15.5067.json,custom
+40.599442,15.508104,ov_caffetteria_tabaccheria_cherie_40.5994_15.5081,Caffetteria Tabaccheria Cherie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/caffetteria_tabaccheria_cherie_40.5994_15.5081.json,custom
+40.599531,15.509479,ov_lowen_brau___caffetteria___tabaccheria_40.5995_15.5095,LOWEN BRAU - Caffetteria & Tabaccheria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/lowen_brau_-_caffetteria_tabaccheria_40.5995_15.5095.json,custom
+40.599283,15.509338,ov_red_passion_club_40.5993_15.5093,Red Passion Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/red_passion_club_40.5993_15.5093.json,custom
+40.602724,15.474884,ov_piscina_del_sole_centro_sportivo_polival_40.6027_15.4749,Piscina del Sole Centro Sportivo Polivalente,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/piscina_del_sole_centro_sportivo_polival_40.6027_15.4749.json,custom
+40.599158,15.508214,ov_latin_art_academy_freedom_40.5992_15.5082,Latin Art Academy Freedom,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/vietri_di_potenza/pages/latin_art_academy_freedom_40.5992_15.5082.json,custom

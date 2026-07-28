@@ -1,82 +1,81 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Rionero in Vulture -- Tutti
-40.936428,15.615713,osm_grotta_neviera_40.9364_15.6157,Grotta Neviera,ristorante,ristorante
-40.930592,15.612010,osm_mapalu__pub_di_maura_internoscia_40.9306_15.6120,Mapalu' Pub di Maura Internoscia,ristorante,ristorante
-40.937418,15.606691,osm_lago_grande_40.9374_15.6067,Lago Grande,ristorante,ristorante
-40.941510,15.569354,osm_il_casale_dell_acqua_rossa_40.9415_15.5694,IL casale dell'Acqua Rossa,ristorante,ristorante
-40.939974,15.583524,osm_agriturismo_il_riccio_40.9400_15.5835,Agriturismo Il Riccio,ristorante,ristorante
-40.935833,15.608440,osm_ottantuno_ristobottega_lucana_40.9358_15.6084,Ottantuno Ristobottega Lucana,ristorante,ristorante
-40.931235,15.675264,ov_irccs___crob_40.9312_15.6753,Irccs - Crob,HOSPITAL,hospital
-40.918837,15.668434,ov_helianthus_centro_di_nutrizione_clinica_40.9188_15.6684,Helianthus Centro di Nutrizione Clinica,HOSPITAL,hospital
-40.924601,15.577287,ov_vulcano_monticchio_40.9246_15.5773,Vulcano Monticchio,RESTAURANT,ristorante
-40.937182,15.606655,ov_ristorante_lago_grande_colucci_40.9372_15.6067,Ristorante Lago Grande Colucci,RESTAURANT,ristorante
-40.935577,15.608168,ov_ristorante_restaino_40.9356_15.6082,Ristorante Restaino,RESTAURANT,ristorante
-40.922718,15.673144,ov_pizzeria_caffe_giardino_40.9227_15.6731,Pizzeria Caffe Giardino,RESTAURANT,ristorante
-40.922637,15.672878,ov_joy_40.9226_15.6729,Joy,RESTAURANT,ristorante
-40.923467,15.673151,ov_tacob__40.9235_15.6732,Tacobù,RESTAURANT,ristorante
-40.923011,15.677733,ov_taverna_paradiso_40.9230_15.6777,Taverna Paradiso,RESTAURANT,ristorante
-40.922330,15.677979,ov_zend__food_drink_caf__40.9223_15.6780,Zendè Food Drink Cafè,RESTAURANT,ristorante
-40.922225,15.678255,ov_idea_pizza_40.9222_15.6783,Idea Pizza,RESTAURANT,ristorante
-40.921576,15.672341,ov_mordi_e_fuggi_40.9216_15.6723,Mordi e Fuggi,RESTAURANT,ristorante
-40.920901,15.674432,ov_il_pazzesco_40.9209_15.6744,Il Pazzesco,RESTAURANT,ristorante
-40.920828,15.675551,ov_glamour_fashion_pizza_40.9208_15.6756,Glamour Fashion Pizza,RESTAURANT,ristorante
-40.920689,15.675467,ov_glamour_antonello_scatorchia_40.9207_15.6755,Glamour Antonello Scatorchia,RESTAURANT,ristorante
-40.920634,15.672743,ov_ok_pizza_di_lombardi_elena_40.9206_15.6727,Ok Pizza Di Lombardi Elena,RESTAURANT,ristorante
-40.928044,15.675221,ov_ristorante_osteria_vecchio_cortile_40.9280_15.6752,Ristorante Osteria Vecchio Cortile,RESTAURANT,ristorante
-40.928320,15.675218,ov_ristorante_pizzeria_la_pergola_40.9283_15.6752,Ristorante Pizzeria La Pergola,RESTAURANT,ristorante
-40.927684,15.671471,ov_pizzeria_la_nuit_40.9277_15.6715,Pizzeria La Nuit,RESTAURANT,ristorante
-40.927383,15.676730,ov_pizzeria_da_bobo_40.9274_15.6767,Pizzeria Da Bobo,RESTAURANT,ristorante
-40.927219,15.671045,ov_cami_40.9272_15.6710,Cami,RESTAURANT,ristorante
-40.924362,15.674157,ov_kebab___co__40.9244_15.6742,Kebab & Co.,RESTAURANT,ristorante
-40.925482,15.672412,ov_bar_gelateria_blex_40.9255_15.6724,Bar Gelateria Blex,RESTAURANT,ristorante
-40.925519,15.659817,ov_eurobar_40.9255_15.6598,Eurobar,RESTAURANT,ristorante
-40.928654,15.673551,ov_bar_la_segheria_40.9287_15.6736,Bar La Segheria,RESTAURANT,ristorante
-40.932850,15.676287,ov_pizzeria_al_ristoro_del_vulture_40.9328_15.6763,Pizzeria Al Ristoro del Vulture,RESTAURANT,ristorante
-40.918875,15.673489,ov_la_macina_40.9189_15.6735,La Macina,RESTAURANT,ristorante
-40.917110,15.677750,ov_vertigo_caf__40.9171_15.6777,Vertigo Cafè,RESTAURANT,ristorante
-40.913746,15.681392,ov_arte_chef_ristorante_40.9137_15.6814,Arte Chef ristorante,RESTAURANT,ristorante
-40.913370,15.666380,ov_noircaf_ristopub_liveandmore_40.9134_15.6664,Noircafèristopub Liveandmore,RESTAURANT,ristorante
-40.912559,15.665360,ov_ristorante_i_gemelli_40.9126_15.6654,Ristorante I Gemelli,RESTAURANT,ristorante
-40.912595,15.665622,ov_il_pescatore_ristorante_e_sala_ricevimen_40.9126_15.6656,Il Pescatore Ristorante e Sala Ricevimenti,RESTAURANT,ristorante
-40.907167,15.686785,ov_sintesi_pane_e_pizza_40.9072_15.6868,Sintesi Pane e Pizza,RESTAURANT,ristorante
-40.950681,15.568790,ov_ristorante_da_fulvio_40.9507_15.5688,Ristorante da fulvio,RESTAURANT,ristorante
-40.941552,15.569473,ov_il_casale_dell_acqua_rossa_40.9416_15.5695,Il Casale dell'Acqua Rossa,RESTAURANT,ristorante
-40.939904,15.583478,ov_agriturismo_il_riccio_40.9399_15.5835,Agriturismo Il Riccio,RESTAURANT,ristorante
-40.871094,15.649857,ov_scev__clubbing_40.8711_15.6499,SceVà Clubbing,RESTAURANT,bar_cafe
-40.921926,15.670331,ov_bar_la_madonnina_40.9219_15.6703,Bar La Madonnina,RESTAURANT,bar_cafe
-40.922158,15.671521,ov_caffe_e_news_40.9222_15.6715,Caffe e News,RESTAURANT,bar_cafe
-40.922212,15.672830,ov_lazzarella_cafe_40.9222_15.6728,Lazzarella Cafe,RESTAURANT,bar_cafe
-40.923175,15.673887,ov_alter_ego_40.9232_15.6739,Alter Ego,RESTAURANT,bar_cafe
-40.922031,15.678519,ov_bar_buffet_stazione_40.9220_15.6785,Bar Buffet Stazione,RESTAURANT,bar_cafe
-40.921478,15.675324,ov_planet_caf__better_40.9215_15.6753,Planet Cafè Better,RESTAURANT,bar_cafe
-40.921391,15.672587,ov_la_boutique_del_caffe_40.9214_15.6726,La Boutique Del Caffe,RESTAURANT,bar_cafe
-40.921059,15.670309,ov_the_coffy_way_rionero_40.9211_15.6703,The Coffy Way Rionero,RESTAURANT,bar_cafe
-40.920581,15.673776,ov_gran_caff__da_eva_40.9206_15.6738,Gran Caffè Da Eva,RESTAURANT,bar_cafe
-40.927038,15.670399,ov_chiosco_sorsi_e_morsi_40.9270_15.6704,Chiosco Sorsi e Morsi,RESTAURANT,bar_cafe
-40.925030,15.677090,ov_merceria_ramunno_40.9250_15.6771,Merceria Ramunno,RESTAURANT,bar_cafe
-40.924743,15.673311,ov_bibendum_wine_bar_40.9247_15.6733,Bibendum Wine Bar,RESTAURANT,bar_cafe
-40.924761,15.673459,ov_cherry_club_40.9248_15.6735,Cherry club,RESTAURANT,bar_cafe
-40.925821,15.675348,ov_circolo__il_rionero_40.9258_15.6753,Circolo  Il Rionero,RESTAURANT,bar_cafe
-40.926280,15.668053,ov_birrificio_del_vulture_40.9263_15.6681,Birrificio del Vulture,RESTAURANT,bar_cafe
-40.926373,15.669453,ov_zerodue_40.9264_15.6695,ZeroDue,RESTAURANT,bar_cafe
-40.929587,15.673773,ov_degustazioni_shop_40.9296_15.6738,Degustazioni Shop,RESTAURANT,bar_cafe
-40.913020,15.667290,ov_brooklyn_bar___casin__40.9130_15.6673,Brooklyn BAR & Casinò,RESTAURANT,bar_cafe
-40.937408,15.606772,ov_bibendum_monticchio_40.9374_15.6068,Bibendum Monticchio,RESTAURANT,bar_cafe
-40.831850,15.715706,osm_bar_white_statiom_40.8318_15.7157,bar white statiom,bar_cafe,bar_cafe
-40.919800,15.666915,ov_new_dance_academy_40.9198_15.6669,New Dance Academy,GYM,palestra
-40.920390,15.666700,ov_rionero_in_arte_40.9204_15.6667,Rionero in Arte,GYM,palestra
-40.920251,15.668394,ov_powergym_40.9203_15.6684,Powergym,GYM,palestra
-40.922511,15.663306,ov_life_energy_asd_40.9225_15.6633,Life Energy asd,GYM,palestra
-40.921193,15.671258,ov_tanz_ballet_40.9212_15.6713,Tanz_Ballet,GYM,palestra
-40.924824,15.676206,ov_asd_rosario_dance_school_rionero_40.9248_15.6762,Asd Rosario Dance School Rionero,GYM,palestra
-40.925822,15.673463,ov_tanaliberatutti_40.9258_15.6735,Tanaliberatutti,GYM,palestra
-40.925880,15.657950,ov_centro_olistico_fiore_di_loto_40.9259_15.6579,Centro Olistico Fiore di Loto,GYM,palestra
-40.918678,15.684244,ov_palestra_energym_fitness_40.9187_15.6842,Palestra Energym Fitness,GYM,palestra
-40.918881,15.671274,ov_mistral_club_zandolino_40.9189_15.6713,Mistral Club Zandolino,GYM,palestra
-40.919366,15.668125,ov_gymnasium_40.9194_15.6681,Gymnasium,GYM,palestra
-40.912968,15.666250,ov_vybe_training_club_40.9130_15.6663,Vybe Training Club,GYM,palestra
-40.945475,15.574007,ov_campo_di_tiro_monticchio_di_bagni_40.9455_15.5740,Campo di Tiro Monticchio di Bagni,GYM,palestra
-40.888066,15.678127,ov_castello_di_lagopesole_40.8881_15.6781,Castello di Lagopesole,MONUMENT,monumento
-40.922053,15.674680,ov_museo_del_brigantaggio_40.9221_15.6747,Museo del Brigantaggio,MUSEUM,monumento
-40.921904,15.675948,ov_casa_natale_di_carmine_crocco_40.9219_15.6759,Casa natale di Carmine Crocco,MONUMENT,monumento
-40.950734,15.569592,ov_museo_di_storia_naturale_del_vulture_40.9507_15.5696,Museo di Storia Naturale del Vulture,MUSEUM,monumento
+40.931235,15.675264,ov_irccs___crob_40.9312_15.6753,Irccs - Crob,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/irccs_-_crob_40.9312_15.6753.json,custom
+40.918837,15.668434,ov_helianthus_centro_di_nutrizione_clinica_40.9188_15.6684,Helianthus Centro di Nutrizione Clinica,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/helianthus_centro_di_nutrizione_clinica_40.9188_15.6684.json,custom
+40.924601,15.577287,ov_vulcano_monticchio_40.9246_15.5773,Vulcano Monticchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/vulcano_monticchio_40.9246_15.5773.json,custom
+40.937182,15.606655,ov_ristorante_lago_grande_colucci_40.9372_15.6067,Ristorante Lago Grande Colucci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_lago_grande_colucci_40.9372_15.6067.json,custom
+40.935577,15.608168,ov_ristorante_restaino_40.9356_15.6082,Ristorante Restaino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_restaino_40.9356_15.6082.json,custom
+40.922718,15.673144,ov_pizzeria_caffe_giardino_40.9227_15.6731,Pizzeria Caffe Giardino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/pizzeria_caffe_giardino_40.9227_15.6731.json,custom
+40.922637,15.672878,ov_joy_40.9226_15.6729,Joy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/joy_40.9226_15.6729.json,custom
+40.923467,15.673151,ov_tacob__40.9235_15.6732,Tacobù,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/tacob_40.9235_15.6732.json,custom
+40.923011,15.677733,ov_taverna_paradiso_40.9230_15.6777,Taverna Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/taverna_paradiso_40.9230_15.6777.json,custom
+40.922330,15.677979,ov_zend__food_drink_caf__40.9223_15.6780,Zendè Food Drink Cafè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/zend_food_drink_caf_40.9223_15.6780.json,custom
+40.922225,15.678255,ov_idea_pizza_40.9222_15.6783,Idea Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/idea_pizza_40.9222_15.6783.json,custom
+40.921576,15.672341,ov_mordi_e_fuggi_40.9216_15.6723,Mordi e Fuggi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/mordi_e_fuggi_40.9216_15.6723.json,custom
+40.920901,15.674432,ov_il_pazzesco_40.9209_15.6744,Il Pazzesco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/il_pazzesco_40.9209_15.6744.json,custom
+40.920828,15.675551,ov_glamour_fashion_pizza_40.9208_15.6756,Glamour Fashion Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/glamour_fashion_pizza_40.9208_15.6756.json,custom
+40.920689,15.675467,ov_glamour_antonello_scatorchia_40.9207_15.6755,Glamour Antonello Scatorchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/glamour_antonello_scatorchia_40.9207_15.6755.json,custom
+40.920634,15.672743,ov_ok_pizza_di_lombardi_elena_40.9206_15.6727,Ok Pizza Di Lombardi Elena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ok_pizza_di_lombardi_elena_40.9206_15.6727.json,custom
+40.928044,15.675221,ov_ristorante_osteria_vecchio_cortile_40.9280_15.6752,Ristorante Osteria Vecchio Cortile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_osteria_vecchio_cortile_40.9280_15.6752.json,custom
+40.928320,15.675218,ov_ristorante_pizzeria_la_pergola_40.9283_15.6752,Ristorante Pizzeria La Pergola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_pizzeria_la_pergola_40.9283_15.6752.json,custom
+40.927684,15.671471,ov_pizzeria_la_nuit_40.9277_15.6715,Pizzeria La Nuit,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/pizzeria_la_nuit_40.9277_15.6715.json,custom
+40.927383,15.676730,ov_pizzeria_da_bobo_40.9274_15.6767,Pizzeria Da Bobo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/pizzeria_da_bobo_40.9274_15.6767.json,custom
+40.927219,15.671045,ov_cami_40.9272_15.6710,Cami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/cami_40.9272_15.6710.json,custom
+40.924362,15.674157,ov_kebab___co__40.9244_15.6742,Kebab & Co.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/kebab_co_40.9244_15.6742.json,custom
+40.925482,15.672412,ov_bar_gelateria_blex_40.9255_15.6724,Bar Gelateria Blex,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bar_gelateria_blex_40.9255_15.6724.json,custom
+40.925519,15.659817,ov_eurobar_40.9255_15.6598,Eurobar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/eurobar_40.9255_15.6598.json,custom
+40.928654,15.673551,ov_bar_la_segheria_40.9287_15.6736,Bar La Segheria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bar_la_segheria_40.9287_15.6736.json,custom
+40.932850,15.676287,ov_pizzeria_al_ristoro_del_vulture_40.9328_15.6763,Pizzeria Al Ristoro del Vulture,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/pizzeria_al_ristoro_del_vulture_40.9328_15.6763.json,custom
+40.918875,15.673489,ov_la_macina_40.9189_15.6735,La Macina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/la_macina_40.9189_15.6735.json,custom
+40.917110,15.677750,ov_vertigo_caf__40.9171_15.6777,Vertigo Cafè,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/vertigo_caf_40.9171_15.6777.json,custom
+40.913746,15.681392,ov_arte_chef_ristorante_40.9137_15.6814,Arte Chef ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/arte_chef_ristorante_40.9137_15.6814.json,custom
+40.913370,15.666380,ov_noircaf_ristopub_liveandmore_40.9134_15.6664,Noircafèristopub Liveandmore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/noircafristopub_liveandmore_40.9134_15.6664.json,custom
+40.912559,15.665360,ov_ristorante_i_gemelli_40.9126_15.6654,Ristorante I Gemelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_i_gemelli_40.9126_15.6654.json,custom
+40.912595,15.665622,ov_il_pescatore_ristorante_e_sala_ricevimen_40.9126_15.6656,Il Pescatore Ristorante e Sala Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/il_pescatore_ristorante_e_sala_ricevimen_40.9126_15.6656.json,custom
+40.907167,15.686785,ov_sintesi_pane_e_pizza_40.9072_15.6868,Sintesi Pane e Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/sintesi_pane_e_pizza_40.9072_15.6868.json,custom
+40.950681,15.568790,ov_ristorante_da_fulvio_40.9507_15.5688,Ristorante da fulvio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ristorante_da_fulvio_40.9507_15.5688.json,custom
+40.941552,15.569473,ov_il_casale_dell_acqua_rossa_40.9416_15.5695,Il Casale dell'Acqua Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/il_casale_dellacqua_rossa_40.9416_15.5695.json,custom
+40.939904,15.583478,ov_agriturismo_il_riccio_40.9399_15.5835,Agriturismo Il Riccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/agriturismo_il_riccio_40.9399_15.5835.json,custom
+40.936428,15.615713,osm_grotta_neviera_40.9364_15.6157,Grotta Neviera,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/grotta_neviera_40.9364_15.6157.json,custom
+40.930592,15.612010,osm_mapalu__pub_di_maura_internoscia_40.9306_15.6120,Mapalu' Pub di Maura Internoscia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/mapalu_pub_di_maura_internoscia_40.9306_15.6120.json,custom
+40.937418,15.606691,osm_lago_grande_40.9374_15.6067,Lago Grande,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/lago_grande_40.9374_15.6067.json,custom
+40.939974,15.583524,osm_agriturismo_il_riccio_40.9400_15.5835,Agriturismo Il Riccio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/agriturismo_il_riccio_40.9400_15.5835.json,custom
+40.935833,15.608440,osm_ottantuno_ristobottega_lucana_40.9358_15.6084,Ottantuno Ristobottega Lucana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/ottantuno_ristobottega_lucana_40.9358_15.6084.json,custom
+40.871094,15.649857,ov_scev__clubbing_40.8711_15.6499,SceVà Clubbing,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/scev_clubbing_40.8711_15.6499.json,custom
+40.921926,15.670331,ov_bar_la_madonnina_40.9219_15.6703,Bar La Madonnina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bar_la_madonnina_40.9219_15.6703.json,custom
+40.922158,15.671521,ov_caffe_e_news_40.9222_15.6715,Caffe e News,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/caffe_e_news_40.9222_15.6715.json,custom
+40.922212,15.672830,ov_lazzarella_cafe_40.9222_15.6728,Lazzarella Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/lazzarella_cafe_40.9222_15.6728.json,custom
+40.923175,15.673887,ov_alter_ego_40.9232_15.6739,Alter Ego,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/alter_ego_40.9232_15.6739.json,custom
+40.922031,15.678519,ov_bar_buffet_stazione_40.9220_15.6785,Bar Buffet Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bar_buffet_stazione_40.9220_15.6785.json,custom
+40.921478,15.675324,ov_planet_caf__better_40.9215_15.6753,Planet Cafè Better,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/planet_caf_better_40.9215_15.6753.json,custom
+40.921391,15.672587,ov_la_boutique_del_caffe_40.9214_15.6726,La Boutique Del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/la_boutique_del_caffe_40.9214_15.6726.json,custom
+40.921059,15.670309,ov_the_coffy_way_rionero_40.9211_15.6703,The Coffy Way Rionero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/the_coffy_way_rionero_40.9211_15.6703.json,custom
+40.920581,15.673776,ov_gran_caff__da_eva_40.9206_15.6738,Gran Caffè Da Eva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/gran_caff_da_eva_40.9206_15.6738.json,custom
+40.927038,15.670399,ov_chiosco_sorsi_e_morsi_40.9270_15.6704,Chiosco Sorsi e Morsi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/chiosco_sorsi_e_morsi_40.9270_15.6704.json,custom
+40.925030,15.677090,ov_merceria_ramunno_40.9250_15.6771,Merceria Ramunno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/merceria_ramunno_40.9250_15.6771.json,custom
+40.924743,15.673311,ov_bibendum_wine_bar_40.9247_15.6733,Bibendum Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bibendum_wine_bar_40.9247_15.6733.json,custom
+40.924761,15.673459,ov_cherry_club_40.9248_15.6735,Cherry club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/cherry_club_40.9248_15.6735.json,custom
+40.925821,15.675348,ov_circolo__il_rionero_40.9258_15.6753,Circolo  Il Rionero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/circolo_il_rionero_40.9258_15.6753.json,custom
+40.926280,15.668053,ov_birrificio_del_vulture_40.9263_15.6681,Birrificio del Vulture,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/birrificio_del_vulture_40.9263_15.6681.json,custom
+40.926373,15.669453,ov_zerodue_40.9264_15.6695,ZeroDue,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/zerodue_40.9264_15.6695.json,custom
+40.929587,15.673773,ov_degustazioni_shop_40.9296_15.6738,Degustazioni Shop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/degustazioni_shop_40.9296_15.6738.json,custom
+40.913020,15.667290,ov_brooklyn_bar___casin__40.9130_15.6673,Brooklyn BAR & Casinò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/brooklyn_bar_casin_40.9130_15.6673.json,custom
+40.937408,15.606772,ov_bibendum_monticchio_40.9374_15.6068,Bibendum Monticchio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bibendum_monticchio_40.9374_15.6068.json,custom
+40.831850,15.715706,osm_bar_white_statiom_40.8318_15.7157,bar white statiom,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/bar_white_statiom_40.8318_15.7157.json,custom
+40.919800,15.666915,ov_new_dance_academy_40.9198_15.6669,New Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/new_dance_academy_40.9198_15.6669.json,custom
+40.920390,15.666700,ov_rionero_in_arte_40.9204_15.6667,Rionero in Arte,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/rionero_in_arte_40.9204_15.6667.json,custom
+40.920251,15.668394,ov_powergym_40.9203_15.6684,Powergym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/powergym_40.9203_15.6684.json,custom
+40.922511,15.663306,ov_life_energy_asd_40.9225_15.6633,Life Energy asd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/life_energy_asd_40.9225_15.6633.json,custom
+40.921193,15.671258,ov_tanz_ballet_40.9212_15.6713,Tanz_Ballet,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/tanzballet_40.9212_15.6713.json,custom
+40.924824,15.676206,ov_asd_rosario_dance_school_rionero_40.9248_15.6762,Asd Rosario Dance School Rionero,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/asd_rosario_dance_school_rionero_40.9248_15.6762.json,custom
+40.925822,15.673463,ov_tanaliberatutti_40.9258_15.6735,Tanaliberatutti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/tanaliberatutti_40.9258_15.6735.json,custom
+40.925880,15.657950,ov_centro_olistico_fiore_di_loto_40.9259_15.6579,Centro Olistico Fiore di Loto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/centro_olistico_fiore_di_loto_40.9259_15.6579.json,custom
+40.918678,15.684244,ov_palestra_energym_fitness_40.9187_15.6842,Palestra Energym Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/palestra_energym_fitness_40.9187_15.6842.json,custom
+40.918881,15.671274,ov_mistral_club_zandolino_40.9189_15.6713,Mistral Club Zandolino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/mistral_club_zandolino_40.9189_15.6713.json,custom
+40.919366,15.668125,ov_gymnasium_40.9194_15.6681,Gymnasium,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/gymnasium_40.9194_15.6681.json,custom
+40.912968,15.666250,ov_vybe_training_club_40.9130_15.6663,Vybe Training Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/vybe_training_club_40.9130_15.6663.json,custom
+40.945475,15.574007,ov_campo_di_tiro_monticchio_di_bagni_40.9455_15.5740,Campo di Tiro Monticchio di Bagni,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/campo_di_tiro_monticchio_di_bagni_40.9455_15.5740.json,custom
+40.888066,15.678127,ov_castello_di_lagopesole_40.8881_15.6781,Castello di Lagopesole,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/castello_di_lagopesole_40.8881_15.6781.json,custom
+40.922053,15.674680,ov_museo_del_brigantaggio_40.9221_15.6747,Museo del Brigantaggio,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/museo_del_brigantaggio_40.9221_15.6747.json,custom
+40.921904,15.675948,ov_casa_natale_di_carmine_crocco_40.9219_15.6759,Casa natale di Carmine Crocco,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/casa_natale_di_carmine_crocco_40.9219_15.6759.json,custom
+40.950734,15.569592,ov_museo_di_storia_naturale_del_vulture_40.9507_15.5696,Museo di Storia Naturale del Vulture,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/rionero_in_vulture/pages/museo_di_storia_naturale_del_vulture_40.9507_15.5696.json,custom

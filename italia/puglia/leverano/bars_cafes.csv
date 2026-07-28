@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # leverano -- bars_cafes
-40.291546,17.999219,ov_koala_caffe_leverano_40.2915_17.9992,Koala Caffe Leverano,RESTAURANT,bar_cafe
-40.290379,17.999959,ov_barattolo_a_sud_40.2904_18.0000,Barattolo a Sud,RESTAURANT,bar_cafe
-40.289954,18.000196,ov_mistral_bar_40.2900_18.0002,Mistral Bar,RESTAURANT,bar_cafe
-40.290131,17.998696,ov_il_mulino_leverano_40.2901_17.9987,Il Mulino Leverano,RESTAURANT,bar_cafe
-40.291735,17.995283,ov_birrozza_40.2917_17.9953,BIRROZZA,RESTAURANT,bar_cafe
-40.290036,17.991506,ov_beer_e_sound_40.2900_17.9915,Beer e Sound,RESTAURANT,bar_cafe
-40.285002,17.987716,ov_retro_40.2850_17.9877,Retro,RESTAURANT,bar_cafe
-40.287940,17.995825,ov_chocolate_bar_40.2879_17.9958,Chocolate Bar,RESTAURANT,bar_cafe
-40.289546,17.994772,ov_f_r_i_e_n_d_s_40.2895_17.9948,F•r•i•e•n•d•s,RESTAURANT,bar_cafe
-40.289520,17.994870,ov_habitu__caf__40.2895_17.9949,Habitué Café,RESTAURANT,bar_cafe
-40.289638,17.999140,ov_santo_spirito_food_drink_music_40.2896_17.9991,Santo Spirito Food Drink Music,RESTAURANT,bar_cafe
-40.289528,17.999313,ov_la_nina_40.2895_17.9993,La Nina,RESTAURANT,bar_cafe
-40.288850,17.999629,ov_fra_diavolo_40.2889_17.9996,Fra Diavolo,RESTAURANT,bar_cafe
-40.288608,17.998764,ov_petra_cocktaileria_and_food_40.2886_17.9988,Petra Cocktaileria and Food,RESTAURANT,bar_cafe
-40.285362,18.012339,ov_baretto_40.2854_18.0123,Baretto,RESTAURANT,bar_cafe
-40.288549,18.006756,ov_bakitha_40.2885_18.0068,Bakitha,RESTAURANT,bar_cafe
-40.289440,18.000410,ov_so_mbrillo_40.2894_18.0004,So'mbrillo,RESTAURANT,bar_cafe
-40.293330,18.004360,ov_la_pasticceria_da_franco_40.2933_18.0044,La Pasticceria da Franco,RESTAURANT,bar_cafe
-40.298510,18.003933,ov_birra_salento_40.2985_18.0039,Birra Salento,RESTAURANT,bar_cafe
-40.299064,18.006753,ov_bar_diamond_di_perrone_giacomo_40.2991_18.0068,Bar DIAMOND di Perrone Giacomo,RESTAURANT,bar_cafe
-40.290700,17.999131,osm_pausacaff__40.2907_17.9991,Pausacaffè,bar_cafe,bar_cafe
-40.290458,17.996673,osm_mini_bar_di_tumolo_40.2905_17.9967,Mini Bar di Tumolo,bar_cafe,bar_cafe
+40.291546,17.999219,ov_koala_caffe_leverano_40.2915_17.9992,Koala Caffe Leverano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/koala_caffe_leverano_40.2915_17.9992.json,custom
+40.290379,17.999959,ov_barattolo_a_sud_40.2904_18.0000,Barattolo a Sud,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/barattolo_a_sud_40.2904_18.0000.json,custom
+40.289954,18.000196,ov_mistral_bar_40.2900_18.0002,Mistral Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/mistral_bar_40.2900_18.0002.json,custom
+40.290131,17.998696,ov_il_mulino_leverano_40.2901_17.9987,Il Mulino Leverano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/il_mulino_leverano_40.2901_17.9987.json,custom
+40.291735,17.995283,ov_birrozza_40.2917_17.9953,BIRROZZA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/birrozza_40.2917_17.9953.json,custom
+40.290036,17.991506,ov_beer_e_sound_40.2900_17.9915,Beer e Sound,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/beer_e_sound_40.2900_17.9915.json,custom
+40.285002,17.987716,ov_retro_40.2850_17.9877,Retro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/retro_40.2850_17.9877.json,custom
+40.287940,17.995825,ov_chocolate_bar_40.2879_17.9958,Chocolate Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/chocolate_bar_40.2879_17.9958.json,custom
+40.289546,17.994772,ov_f_r_i_e_n_d_s_40.2895_17.9948,F•r•i•e•n•d•s,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/friends_40.2895_17.9948.json,custom
+40.289520,17.994870,ov_habitu__caf__40.2895_17.9949,Habitué Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/habitu_caf_40.2895_17.9949.json,custom
+40.289638,17.999140,ov_santo_spirito_food_drink_music_40.2896_17.9991,Santo Spirito Food Drink Music,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/santo_spirito_food_drink_music_40.2896_17.9991.json,custom
+40.289528,17.999313,ov_la_nina_40.2895_17.9993,La Nina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_nina_40.2895_17.9993.json,custom
+40.288850,17.999629,ov_fra_diavolo_40.2889_17.9996,Fra Diavolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/fra_diavolo_40.2889_17.9996.json,custom
+40.288608,17.998764,ov_petra_cocktaileria_and_food_40.2886_17.9988,Petra Cocktaileria and Food,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/petra_cocktaileria_and_food_40.2886_17.9988.json,custom
+40.285362,18.012339,ov_baretto_40.2854_18.0123,Baretto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/baretto_40.2854_18.0123.json,custom
+40.288549,18.006756,ov_bakitha_40.2885_18.0068,Bakitha,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/bakitha_40.2885_18.0068.json,custom
+40.289440,18.000410,ov_so_mbrillo_40.2894_18.0004,So'mbrillo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/sombrillo_40.2894_18.0004.json,custom
+40.293330,18.004360,ov_la_pasticceria_da_franco_40.2933_18.0044,La Pasticceria da Franco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_pasticceria_da_franco_40.2933_18.0044.json,custom
+40.298510,18.003933,ov_birra_salento_40.2985_18.0039,Birra Salento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/birra_salento_40.2985_18.0039.json,custom
+40.299064,18.006753,ov_bar_diamond_di_perrone_giacomo_40.2991_18.0068,Bar DIAMOND di Perrone Giacomo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/bar_diamond_di_perrone_giacomo_40.2991_18.0068.json,custom
+40.290700,17.999131,osm_pausacaff__40.2907_17.9991,Pausacaffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/pausacaff_40.2907_17.9991.json,custom
+40.290458,17.996673,osm_mini_bar_di_tumolo_40.2905_17.9967,Mini Bar di Tumolo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/mini_bar_di_tumolo_40.2905_17.9967.json,custom

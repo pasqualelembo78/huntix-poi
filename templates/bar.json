@@ -1,0 +1,18 @@
+{
+  "banner": { "icon": "\uD83C\uDF7A", "title": "{name}", "subtitle": "Bar & Caff\u00e8", "color": "#E65100" },
+  "sections": [
+    {"type":"menu","title":"Caffetteria","items":[
+      {"name":"Caff\u00e8","price":"\u20ac1,20","emoji":"\u2615","action":{"type":"consume","need":"thirst","gain":15}},
+      {"name":"Cappuccino","price":"\u20ac1,50","emoji":"\u2615","action":{"type":"consume","need":"thirst","gain":18}},
+      {"name":"Cornetto","price":"\u20ac1,50","emoji":"\uD83E\uDD50","action":{"type":"consume","need":"hunger","gain":15}}
+    ]},
+    {"type":"menu","title":"Bevande","items":[
+      {"name":"Birra Piccola","price":"\u20ac3,00","emoji":"\uD83C\uDF7A","action":{"type":"consume","need":"thirst","gain":20}},
+      {"name":"Aperitivo","price":"\u20ac5,00","emoji":"\uD83C\uDF78","action":{"type":"consume","need":"thirst","gain":25}},
+      {"name":"Analcolico","price":"\u20ac2,50","emoji":"\uD83E\uDD64","action":{"type":"consume","need":"thirst","gain":18}}
+    ]},
+    {"type":"text","title":"Orari","content":"Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"},
+    {"type":"action","title":"Prendi un Caff\u00e8","emoji":"\u2615","action":{"type":"consume","need":"thirst","gain":20}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"\uD83C\uDF10","url":"{website}"}
+  ]
+}

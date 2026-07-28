@@ -1,11 +1,11 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # soleto -- restaurants
-40.184501,18.199083,ov_adelchi_40.1845_18.1991,Adelchi,RESTAURANT,ristorante
-40.186134,18.206458,ov_rosticceria_pizzeria_speedy_pizza_40.1861_18.2065,Rosticceria Pizzeria Speedy Pizza,RESTAURANT,ristorante
-40.189578,18.204484,ov_il_cappero_40.1896_18.2045,Il Cappero,RESTAURANT,ristorante
-40.189460,18.210527,ov_tozzi_pizzeria_braceria_40.1895_18.2105,Tozzi Pizzeria Braceria,RESTAURANT,ristorante
-40.188105,18.208720,ov_la_casereccia_da_zonzi_40.1881_18.2087,La Casereccia da Zonzi,RESTAURANT,ristorante
-40.187405,18.205533,ov_l_angolo_della_pizza_40.1874_18.2055,L'Angolo della Pizza,RESTAURANT,ristorante
-40.187626,18.207604,ov_zonzi_40.1876_18.2076,Zonzi,RESTAURANT,ristorante
-40.187735,18.206168,ov_osteria_cibus_da_marineddrha_40.1877_18.2062,Osteria Cibus da Marineddrha,RESTAURANT,ristorante
-40.194566,18.213081,ov_sole_griko_40.1946_18.2131,Sole Griko,RESTAURANT,ristorante
+40.184501,18.199083,ov_adelchi_40.1845_18.1991,Adelchi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/adelchi_40.1845_18.1991.json,custom
+40.186134,18.206458,ov_rosticceria_pizzeria_speedy_pizza_40.1861_18.2065,Rosticceria Pizzeria Speedy Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/rosticceria_pizzeria_speedy_pizza_40.1861_18.2065.json,custom
+40.189578,18.204484,ov_il_cappero_40.1896_18.2045,Il Cappero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/il_cappero_40.1896_18.2045.json,custom
+40.189460,18.210527,ov_tozzi_pizzeria_braceria_40.1895_18.2105,Tozzi Pizzeria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/tozzi_pizzeria_braceria_40.1895_18.2105.json,custom
+40.188105,18.208720,ov_la_casereccia_da_zonzi_40.1881_18.2087,La Casereccia da Zonzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/la_casereccia_da_zonzi_40.1881_18.2087.json,custom
+40.187405,18.205533,ov_l_angolo_della_pizza_40.1874_18.2055,L'Angolo della Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/langolo_della_pizza_40.1874_18.2055.json,custom
+40.187626,18.207604,ov_zonzi_40.1876_18.2076,Zonzi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/zonzi_40.1876_18.2076.json,custom
+40.187735,18.206168,ov_osteria_cibus_da_marineddrha_40.1877_18.2062,Osteria Cibus da Marineddrha,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/osteria_cibus_da_marineddrha_40.1877_18.2062.json,custom
+40.194566,18.213081,ov_sole_griko_40.1946_18.2131,Sole Griko,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/soleto/pages/sole_griko_40.1946_18.2131.json,custom

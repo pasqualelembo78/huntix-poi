@@ -1,42 +1,42 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Surbo -- Tutti
-40.376222,18.146861,osm_crazy_bull_caf__40.3762_18.1469,Crazy Bull Cafè,ristorante,ristorante
-40.395471,18.129668,osm_vibes_bistropizza_40.3955_18.1297,VIBES Bistropizza,ristorante,ristorante
-40.375440,18.147342,osm_mcdonald_s_40.3754_18.1473,McDonald's,ristorante,ristorante
-40.379459,18.139917,ov_lu_capannone_40.3795_18.1399,Lu Capannone,RESTAURANT,ristorante
-40.376016,18.147026,ov_crazy_bull_cafe_40.3760_18.1470,Crazy Bull Cafe,RESTAURANT,ristorante
-40.376272,18.144185,ov_kfc_40.3763_18.1442,KFC,RESTAURANT,ristorante
-40.376295,18.143944,ov_mezzodi_40.3763_18.1439,Mezzodi,RESTAURANT,ristorante
-40.375715,18.147639,ov_burger_king_40.3757_18.1476,Burger King,RESTAURANT,ristorante
-40.375591,18.147265,ov_mcdonald_s_40.3756_18.1473,McDonald's,RESTAURANT,ristorante
-40.382808,18.136327,ov_wok_imperiale_40.3828_18.1363,Wok Imperiale,RESTAURANT,ristorante
-40.384943,18.134817,ov_fast_food_da_donato_40.3849_18.1348,Fast food da Donato,RESTAURANT,ristorante
-40.385802,18.150289,ov_la_nuova_fattoria_40.3858_18.1503,La Nuova Fattoria,RESTAURANT,ristorante
-40.388102,18.133392,ov_pinsa_pe_tie_pizza_chef_40.3881_18.1334,Pinsa pe tie Pizza chef,RESTAURANT,ristorante
-40.396765,18.131944,ov_civico104_pizzeria_friggitoria_pucceria_40.3968_18.1319,Civico104 Pizzeria friggitoria pucceria,RESTAURANT,ristorante
-40.394460,18.129514,ov_simone_molendini_40.3945_18.1295,Simone molendini,RESTAURANT,ristorante
-40.391509,18.131270,ov_che_pollo_40.3915_18.1313,Che Pollo,RESTAURANT,ristorante
-40.393135,18.132165,ov_trattoria_pizzeria_s_lucia_40.3931_18.1322,Trattoria Pizzeria S.Lucia,RESTAURANT,ristorante
-40.388773,18.132538,ov_bonne_vie_40.3888_18.1325,Bonne Vie,RESTAURANT,ristorante
-40.389590,18.135838,ov_titanic_bistrot_40.3896_18.1358,Titanic Bistrot,RESTAURANT,ristorante
-40.397849,18.135729,ov_d_elite_ristorante_pizzeria_40.3978_18.1357,D'Elite Ristorante Pizzeria,RESTAURANT,ristorante
-40.449218,18.134372,ov_masseria_melcarne_40.4492_18.1344,Masseria Melcarne,RESTAURANT,ristorante
-40.384282,18.135588,ov_barlab__snc_di_barlab__salvatore_ed_edi__40.3843_18.1356,Barlabà SNC Di Barlabà Salvatore Ed Edi Loren,RESTAURANT,bar_cafe
-40.385580,18.146700,ov_caffe_michelangelo_40.3856_18.1467,Caffe Michelangelo,RESTAURANT,bar_cafe
-40.385738,18.134091,ov_bar_ip_di_simone_e_lory_40.3857_18.1341,Bar Ip di Simone e Lory,RESTAURANT,bar_cafe
-40.386874,18.151242,ov_joan_pub_e_pizzeria_40.3869_18.1512,Joan Pub e Pizzeria,RESTAURANT,bar_cafe
-40.386860,18.151770,ov_newbar_2_0_40.3869_18.1518,Newbar 2.0,RESTAURANT,bar_cafe
-40.396113,18.133344,ov_caffe_del_corso_40.3961_18.1333,Caffe del Corso,RESTAURANT,bar_cafe
-40.395174,18.134774,ov_bar_klo_40.3952_18.1348,Bar Klo,RESTAURANT,bar_cafe
-40.394038,18.131400,ov_bar_leone_d_oro_40.3940_18.1314,Bar Leone D'Oro,RESTAURANT,bar_cafe
-40.393900,18.129820,ov_diaz_115_lounge_bar_40.3939_18.1298,DIAZ 115 Lounge BAR,RESTAURANT,bar_cafe
-40.393718,18.137210,ov_zelig_duepuntozero_40.3937_18.1372,Zelig duepuntozero,RESTAURANT,bar_cafe
-40.388843,18.132797,ov_zelig_cafe_40.3888_18.1328,Zelig Cafe,RESTAURANT,bar_cafe
-40.389050,18.132551,ov_leonebet_40.3890_18.1326,Leonebet,RESTAURANT,bar_cafe
-40.389770,18.132018,ov_bar_mary_40.3898_18.1320,Bar Mary,RESTAURANT,bar_cafe
-40.390640,18.131801,ov_bar_flamingo_40.3906_18.1318,Bar Flamingo,RESTAURANT,bar_cafe
-40.397989,18.135511,ov_caf__del_mar_40.3980_18.1355,Café Del Mar,RESTAURANT,bar_cafe
-40.382387,18.136505,ov_q_fun_laser_game_40.3824_18.1365,Q-Fun Laser Game,GYM,palestra
-40.388643,18.132912,ov_centro_danza_carlotta_martella_40.3886_18.1329,Centro Danza Carlotta Martella,GYM,palestra
-40.391634,18.135384,ov_espressione_danza_40.3916_18.1354,Espressione Danza,GYM,palestra
-40.399590,18.136814,ov_palestra_frimarc_sport_40.3996_18.1368,Palestra Frimarc Sport,GYM,palestra
+40.379459,18.139917,ov_lu_capannone_40.3795_18.1399,Lu Capannone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/lu_capannone_40.3795_18.1399.json,custom
+40.376016,18.147026,ov_crazy_bull_cafe_40.3760_18.1470,Crazy Bull Cafe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/crazy_bull_cafe_40.3760_18.1470.json,custom
+40.376272,18.144185,ov_kfc_40.3763_18.1442,KFC,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/kfc_40.3763_18.1442.json,custom
+40.376295,18.143944,ov_mezzodi_40.3763_18.1439,Mezzodi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/mezzodi_40.3763_18.1439.json,custom
+40.375715,18.147639,ov_burger_king_40.3757_18.1476,Burger King,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/burger_king_40.3757_18.1476.json,custom
+40.375591,18.147265,ov_mcdonald_s_40.3756_18.1473,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/mcdonalds_40.3756_18.1473.json,custom
+40.382808,18.136327,ov_wok_imperiale_40.3828_18.1363,Wok Imperiale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/wok_imperiale_40.3828_18.1363.json,custom
+40.384943,18.134817,ov_fast_food_da_donato_40.3849_18.1348,Fast food da Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/fast_food_da_donato_40.3849_18.1348.json,custom
+40.385802,18.150289,ov_la_nuova_fattoria_40.3858_18.1503,La Nuova Fattoria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/la_nuova_fattoria_40.3858_18.1503.json,custom
+40.388102,18.133392,ov_pinsa_pe_tie_pizza_chef_40.3881_18.1334,Pinsa pe tie Pizza chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/pinsa_pe_tie_pizza_chef_40.3881_18.1334.json,custom
+40.396765,18.131944,ov_civico104_pizzeria_friggitoria_pucceria_40.3968_18.1319,Civico104 Pizzeria friggitoria pucceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/civico104_pizzeria_friggitoria_pucceria_40.3968_18.1319.json,custom
+40.394460,18.129514,ov_simone_molendini_40.3945_18.1295,Simone molendini,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/simone_molendini_40.3945_18.1295.json,custom
+40.391509,18.131270,ov_che_pollo_40.3915_18.1313,Che Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/che_pollo_40.3915_18.1313.json,custom
+40.393135,18.132165,ov_trattoria_pizzeria_s_lucia_40.3931_18.1322,Trattoria Pizzeria S.Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/trattoria_pizzeria_slucia_40.3931_18.1322.json,custom
+40.388773,18.132538,ov_bonne_vie_40.3888_18.1325,Bonne Vie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bonne_vie_40.3888_18.1325.json,custom
+40.389590,18.135838,ov_titanic_bistrot_40.3896_18.1358,Titanic Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/titanic_bistrot_40.3896_18.1358.json,custom
+40.397849,18.135729,ov_d_elite_ristorante_pizzeria_40.3978_18.1357,D'Elite Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/delite_ristorante_pizzeria_40.3978_18.1357.json,custom
+40.449218,18.134372,ov_masseria_melcarne_40.4492_18.1344,Masseria Melcarne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/masseria_melcarne_40.4492_18.1344.json,custom
+40.376222,18.146861,osm_crazy_bull_caf__40.3762_18.1469,Crazy Bull Cafè,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/crazy_bull_caf_40.3762_18.1469.json,custom
+40.395471,18.129668,osm_vibes_bistropizza_40.3955_18.1297,VIBES Bistropizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/vibes_bistropizza_40.3955_18.1297.json,custom
+40.375440,18.147342,osm_mcdonald_s_40.3754_18.1473,McDonald's,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/mcdonalds_40.3754_18.1473.json,custom
+40.384282,18.135588,ov_barlab__snc_di_barlab__salvatore_ed_edi__40.3843_18.1356,Barlabà SNC Di Barlabà Salvatore Ed Edi Loren,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/barlab_snc_di_barlab_salvatore_ed_edi_lo_40.3843_18.1356.json,custom
+40.385580,18.146700,ov_caffe_michelangelo_40.3856_18.1467,Caffe Michelangelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/caffe_michelangelo_40.3856_18.1467.json,custom
+40.385738,18.134091,ov_bar_ip_di_simone_e_lory_40.3857_18.1341,Bar Ip di Simone e Lory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bar_ip_di_simone_e_lory_40.3857_18.1341.json,custom
+40.386874,18.151242,ov_joan_pub_e_pizzeria_40.3869_18.1512,Joan Pub e Pizzeria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/joan_pub_e_pizzeria_40.3869_18.1512.json,custom
+40.386860,18.151770,ov_newbar_2_0_40.3869_18.1518,Newbar 2.0,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/newbar_20_40.3869_18.1518.json,custom
+40.396113,18.133344,ov_caffe_del_corso_40.3961_18.1333,Caffe del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/caffe_del_corso_40.3961_18.1333.json,custom
+40.395174,18.134774,ov_bar_klo_40.3952_18.1348,Bar Klo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bar_klo_40.3952_18.1348.json,custom
+40.394038,18.131400,ov_bar_leone_d_oro_40.3940_18.1314,Bar Leone D'Oro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bar_leone_doro_40.3940_18.1314.json,custom
+40.393900,18.129820,ov_diaz_115_lounge_bar_40.3939_18.1298,DIAZ 115 Lounge BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/diaz_115_lounge_bar_40.3939_18.1298.json,custom
+40.393718,18.137210,ov_zelig_duepuntozero_40.3937_18.1372,Zelig duepuntozero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/zelig_duepuntozero_40.3937_18.1372.json,custom
+40.388843,18.132797,ov_zelig_cafe_40.3888_18.1328,Zelig Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/zelig_cafe_40.3888_18.1328.json,custom
+40.389050,18.132551,ov_leonebet_40.3890_18.1326,Leonebet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/leonebet_40.3890_18.1326.json,custom
+40.389770,18.132018,ov_bar_mary_40.3898_18.1320,Bar Mary,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bar_mary_40.3898_18.1320.json,custom
+40.390640,18.131801,ov_bar_flamingo_40.3906_18.1318,Bar Flamingo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/bar_flamingo_40.3906_18.1318.json,custom
+40.397989,18.135511,ov_caf__del_mar_40.3980_18.1355,Café Del Mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/caf_del_mar_40.3980_18.1355.json,custom
+40.382387,18.136505,ov_q_fun_laser_game_40.3824_18.1365,Q-Fun Laser Game,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/q-fun_laser_game_40.3824_18.1365.json,custom
+40.388643,18.132912,ov_centro_danza_carlotta_martella_40.3886_18.1329,Centro Danza Carlotta Martella,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/centro_danza_carlotta_martella_40.3886_18.1329.json,custom
+40.391634,18.135384,ov_espressione_danza_40.3916_18.1354,Espressione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/espressione_danza_40.3916_18.1354.json,custom
+40.399590,18.136814,ov_palestra_frimarc_sport_40.3996_18.1368,Palestra Frimarc Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/surbo/pages/palestra_frimarc_sport_40.3996_18.1368.json,custom

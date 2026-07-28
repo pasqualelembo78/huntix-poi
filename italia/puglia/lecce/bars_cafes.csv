@@ -1,347 +1,347 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # lecce -- bars_cafes
-40.336832,18.176949,ov_bar_pasticceria_taurisano_40.3368_18.1769,Bar Pasticceria Taurisano,RESTAURANT,bar_cafe
-40.336390,18.182320,ov_star_caf__40.3364_18.1823,Star Cafè,RESTAURANT,bar_cafe
-40.339418,18.176330,ov_revolution_caffe_40.3394_18.1763,Revolution Caffe,RESTAURANT,bar_cafe
-40.338098,18.177406,ov_la_brasiliana_del_caffe_40.3381_18.1774,La Brasiliana del Caffe,RESTAURANT,bar_cafe
-40.341541,18.179378,ov_korten_social_bar_40.3415_18.1794,KORTEN Social Bar,RESTAURANT,bar_cafe
-40.341781,18.158671,ov_bar_sofia_40.3418_18.1587,Bar Sofia,RESTAURANT,bar_cafe
-40.343175,18.173029,ov_js_bar_40.3432_18.1730,Js Bar,RESTAURANT,bar_cafe
-40.343309,18.172889,ov_caffetteria_danny_40.3433_18.1729,Caffetteria Danny,RESTAURANT,bar_cafe
-40.344120,18.157725,ov_new_caffe_dell_angolo_40.3441_18.1577,New Caffe dell'Angolo,RESTAURANT,bar_cafe
-40.343593,18.173052,ov_barcollando_40.3436_18.1731,Barcollando,RESTAURANT,bar_cafe
-40.343536,18.173585,ov_il_caffe_di_dahlia_40.3435_18.1736,Il Caffe Di Dahlia,RESTAURANT,bar_cafe
-40.344231,18.183415,ov_i_sette_grammi_40.3442_18.1834,I Sette Grammi,RESTAURANT,bar_cafe
-40.343217,18.177743,ov_daniel_s_bar_40.3432_18.1777,Daniel'S Bar,RESTAURANT,bar_cafe
-40.334709,18.166106,ov_pasticceria_stefano_bianco_40.3347_18.1661,Pasticceria Stefano Bianco,RESTAURANT,bar_cafe
-40.332543,18.179828,ov_bar_latte_e_miele_40.3325_18.1798,Bar Latte E Miele,RESTAURANT,bar_cafe
-40.331914,18.157912,ov_caffe_stella_40.3319_18.1579,Caffe Stella,RESTAURANT,bar_cafe
-40.330679,18.166190,ov_barpasticceria_samui_40.3307_18.1662,BarPasticceria Samui,RESTAURANT,bar_cafe
-40.330264,18.157215,ov_magie_del_caff__40.3303_18.1572,Magie del Caffè,RESTAURANT,bar_cafe
-40.330059,18.167767,ov_elsibar_40.3301_18.1678,ELSIbar,RESTAURANT,bar_cafe
-40.327777,18.182752,ov_birrificio_b94_40.3278_18.1828,Birrificio B94,RESTAURANT,bar_cafe
-40.360360,18.203420,ov_beer_up_40.3604_18.2034,Beer Up,RESTAURANT,bar_cafe
-40.361104,18.200618,ov_bar_dello_sport_40.3611_18.2006,Bar dello Sport,RESTAURANT,bar_cafe
-40.361516,18.187679,ov_bar_emanuel_40.3615_18.1877,Bar Emanuel,RESTAURANT,bar_cafe
-40.361248,18.179997,ov_bar_yvonne_40.3612_18.1800,Bar Yvonne,RESTAURANT,bar_cafe
-40.362039,18.179325,ov_giowine_40.3620_18.1793,Giowine,RESTAURANT,bar_cafe
-40.361379,18.168928,ov_relax_bar___grand_hotel_tiziano_40.3614_18.1689,Relax bar - Grand Hotel Tiziano,RESTAURANT,bar_cafe
-40.361221,18.170111,ov_bar_commercio_40.3612_18.1701,Bar Commercio,RESTAURANT,bar_cafe
-40.360776,18.172274,ov_bar_mirea_40.3608_18.1723,Bar Mirea,RESTAURANT,bar_cafe
-40.360200,18.171989,ov_accadilly_lounge_bar_40.3602_18.1720,Accadilly Lounge Bar,RESTAURANT,bar_cafe
-40.360158,18.171960,ov_new_piccadilly_street_40.3602_18.1720,New Piccadilly Street,RESTAURANT,bar_cafe
-40.360568,18.180576,ov_mind_40.3606_18.1806,Mind,RESTAURANT,bar_cafe
-40.358965,18.192302,ov_levelup_40.3590_18.1923,LevelUp,RESTAURANT,bar_cafe
-40.359103,18.181492,ov_the_papillon_bar_40.3591_18.1815,The Papillon bar,RESTAURANT,bar_cafe
-40.359140,18.178155,ov_caffe_metro_40.3591_18.1782,Caffe Metro,RESTAURANT,bar_cafe
-40.359174,18.177720,ov_officine_birrai_40.3592_18.1777,Officine Birrai,RESTAURANT,bar_cafe
-40.359349,18.178042,ov_princess_game___slot___dreams_40.3593_18.1780,Princess Game - Slot & Dreams,RESTAURANT,bar_cafe
-40.359537,18.175285,ov_prophet_pub_40.3595_18.1753,Prophet Pub,RESTAURANT,bar_cafe
-40.359803,18.176504,ov_essenza_caffe_40.3598_18.1765,Essenza Caffe,RESTAURANT,bar_cafe
-40.359833,18.176357,ov_l_allegro_caff__40.3598_18.1764,L'Allegro Caffé,RESTAURANT,bar_cafe
-40.359335,18.157332,ov_jungle_bar_40.3593_18.1573,Jungle Bar,RESTAURANT,bar_cafe
-40.358958,18.164720,ov_unisalento_40.3590_18.1647,Unisalento,RESTAURANT,bar_cafe
-40.358529,18.166690,ov_caff__belloluogo_40.3585_18.1667,Caffè Belloluogo,RESTAURANT,bar_cafe
-40.358828,18.166742,ov_sudest_cafe_40.3588_18.1667,Sudest Cafe,RESTAURANT,bar_cafe
-40.358556,18.162466,ov_oscar_cafe_40.3586_18.1625,Oscar Cafe,RESTAURANT,bar_cafe
-40.358150,18.163540,ov_mokamokacaff__40.3582_18.1635,MokaMokaCaffè,RESTAURANT,bar_cafe
-40.358150,18.164240,ov_l_altro_bar_40.3582_18.1642,L'Altro Bar,RESTAURANT,bar_cafe
-40.358164,18.163946,ov_studio_bar_40.3582_18.1639,Studio bar,RESTAURANT,bar_cafe
-40.357955,18.162449,ov_madigans_40.3580_18.1624,Madigans,RESTAURANT,bar_cafe
-40.357970,18.168020,ov_bar_rudiae_lecce_40.3580_18.1680,Bar rudiae Lecce,RESTAURANT,bar_cafe
-40.357960,18.168010,ov_115_speakeasy_40.3580_18.1680,115 Speakeasy,RESTAURANT,bar_cafe
-40.357960,18.168011,ov_kokopelli_street_cocktail_bar_40.3580_18.1680,Kokopelli Street cocktail bar,RESTAURANT,bar_cafe
-40.357990,18.179928,ov_new_caf__hawaii_40.3580_18.1799,New Cafè Hawaii,RESTAURANT,bar_cafe
-40.358379,18.179589,ov_caffetteria_ariosto_coffee_art_40.3584_18.1796,Caffetteria Ariosto Coffee Art,RESTAURANT,bar_cafe
-40.358730,18.192050,ov_il_barotto_bar_40.3587_18.1920,Il Barotto bar,RESTAURANT,bar_cafe
-40.358098,18.189845,ov_hamburginerie_40.3581_18.1898,hamburginerie,RESTAURANT,bar_cafe
-40.358206,18.189531,ov_bar_code_40.3582_18.1895,Bar Code,RESTAURANT,bar_cafe
-40.357876,18.197248,ov_menouno_caf__40.3579_18.1972,MenoUno Café,RESTAURANT,bar_cafe
-40.358470,18.195110,ov_caffetteria_r_e_m__40.3585_18.1951,caffetteria R.E.M.,RESTAURANT,bar_cafe
-40.357540,18.190779,ov_tropicana_bar_40.3575_18.1908,Tropicana Bar,RESTAURANT,bar_cafe
-40.357608,18.187194,ov_il_viale_40.3576_18.1872,IL VIALE,RESTAURANT,bar_cafe
-40.357349,18.186584,ov_caffetteria_valentino_40.3573_18.1866,Caffetteria Valentino,RESTAURANT,bar_cafe
-40.357348,18.186521,ov_bar_liberta_40.3573_18.1865,Bar Liberta,RESTAURANT,bar_cafe
-40.356629,18.187137,ov_pasticceria_charlot_40.3566_18.1871,Pasticceria Charlot,RESTAURANT,bar_cafe
-40.356894,18.185447,ov_bar_l_incontro_40.3569_18.1854,Bar L'Incontro,RESTAURANT,bar_cafe
-40.357043,18.188566,ov_wine_bar_pierandrea_40.3570_18.1886,Wine Bar Pierandrea,RESTAURANT,bar_cafe
-40.357050,18.188740,ov_le_petit_caf__40.3571_18.1887,Le Petit cafè,RESTAURANT,bar_cafe
-40.357510,18.181250,ov_rab_caf__40.3575_18.1812,Rab Cafè,RESTAURANT,bar_cafe
-40.357714,18.173248,ov_officine_cantelmo_40.3577_18.1732,Officine Cantelmo,RESTAURANT,bar_cafe
-40.357186,18.166781,ov_old_house_cafe_40.3572_18.1668,Old House Cafe,RESTAURANT,bar_cafe
-40.357532,18.167172,ov_bar_costarica_40.3575_18.1672,Bar Costarica,RESTAURANT,bar_cafe
-40.357638,18.165100,ov_bar_elisee_40.3576_18.1651,Bar Elisee,RESTAURANT,bar_cafe
-40.356422,18.172609,ov_saloon_keeper_1933_40.3564_18.1726,Saloon Keeper 1933,RESTAURANT,bar_cafe
-40.356279,18.169653,ov_buro_40.3563_18.1697,Buro,RESTAURANT,bar_cafe
-40.356428,18.168974,ov_caffe_palmieri_40.3564_18.1690,Caffe Palmieri,RESTAURANT,bar_cafe
-40.356536,18.166626,ov_cantiere_hambirreria_40.3565_18.1666,Cantiere Hambirreria,RESTAURANT,bar_cafe
-40.355522,18.160915,ov_bar_meeting_40.3555_18.1609,Bar Meeting,RESTAURANT,bar_cafe
-40.355666,18.172693,ov_santa_cruz_40.3557_18.1727,Santa Cruz,RESTAURANT,bar_cafe
-40.355660,18.172660,ov_viveur_40.3557_18.1727,Viveur,RESTAURANT,bar_cafe
-40.355658,18.172637,ov_shui_cocktail_mixology_40.3557_18.1726,Shui Cocktail Mixology,RESTAURANT,bar_cafe
-40.355549,18.172704,ov_shui_wine_40.3555_18.1727,Shui Wine,RESTAURANT,bar_cafe
-40.355638,18.179938,ov_il_palio_40.3556_18.1799,Il Palio,RESTAURANT,bar_cafe
-40.355721,18.181536,ov_hopster_beer_shop_40.3557_18.1815,Hopster Beer Shop,RESTAURANT,bar_cafe
-40.356153,18.178258,ov_caff__antonucci_40.3562_18.1783,Caffè Antonucci,RESTAURANT,bar_cafe
-40.356131,18.177380,ov_malibu_pub_40.3561_18.1774,Malibu Pub,RESTAURANT,bar_cafe
-40.356233,18.174934,ov_amarcord_cafe_40.3562_18.1749,Amarcord Cafe,RESTAURANT,bar_cafe
-40.356419,18.177225,ov_nabukko_40.3564_18.1772,Nabukko,RESTAURANT,bar_cafe
-40.356315,18.183337,ov_bar_quinto_ennio_40.3563_18.1833,bar Quinto ennio,RESTAURANT,bar_cafe
-40.356176,18.188586,ov_douglas_hyde_irish_pub_40.3562_18.1886,Douglas Hyde irish pub,RESTAURANT,bar_cafe
-40.355908,18.190828,ov_my_way_cafe_40.3559_18.1908,My Way Cafe,RESTAURANT,bar_cafe
-40.355987,18.190840,ov_le_bistrot_srl_40.3560_18.1908,Le Bistrot SRL,RESTAURANT,bar_cafe
-40.355820,18.184950,ov_royal_bar_40.3558_18.1850,Royal Bar,RESTAURANT,bar_cafe
-40.355504,18.188500,ov_carletto_40.3555_18.1885,Carletto,RESTAURANT,bar_cafe
-40.355305,18.186572,ov_la_brasiliana_del_caffe_40.3553_18.1866,La Brasiliana del Caffe,RESTAURANT,bar_cafe
-40.355258,18.186421,ov_bar_degli_angeli_40.3553_18.1864,Bar Degli Angeli,RESTAURANT,bar_cafe
-40.354890,18.188785,ov_vivaldi_caff__40.3549_18.1888,Vivaldi Caffè,RESTAURANT,bar_cafe
-40.354560,18.180671,ov_caffetteria_ribes_40.3546_18.1807,Caffetteria Ribes,RESTAURANT,bar_cafe
-40.354544,18.178828,ov_blue_sand_lecce_40.3545_18.1788,Blue Sand Lecce,RESTAURANT,bar_cafe
-40.354700,18.178506,ov_ci_vediamo_al_number_23_40.3547_18.1785,Ci vediamo al Number 23,RESTAURANT,bar_cafe
-40.354904,18.178145,ov_quart_a_caff__pacamara_40.3549_18.1781,Quart'a Caffè Pacamara,RESTAURANT,bar_cafe
-40.355471,18.178410,ov_caffe_adriano_40.3555_18.1784,Caffe Adriano,RESTAURANT,bar_cafe
-40.355237,18.176864,ov_mac_bar_40.3552_18.1769,Mac Bar,RESTAURANT,bar_cafe
-40.355141,18.172785,ov_jolly_roger_40.3551_18.1728,Jolly Roger,RESTAURANT,bar_cafe
-40.355078,18.169507,ov_quer_ncia_exotic_bar___restaurant_40.3551_18.1695,Querència Exotic Bar & Restaurant,RESTAURANT,bar_cafe
-40.355229,18.168483,ov_caff__paisiello_40.3552_18.1685,Caffè Paisiello,RESTAURANT,bar_cafe
-40.354460,18.168620,ov______40.3545_18.1686,盈華門店,RESTAURANT,bar_cafe
-40.354314,18.172314,ov_i_galli_40.3543_18.1723,i galli,RESTAURANT,bar_cafe
-40.354120,18.171994,ov_messapia_ristorante_tipico_40.3541_18.1720,Messapia Ristorante Tipico,RESTAURANT,bar_cafe
-40.354211,18.172342,ov_joyce___irish_pub___trattoria_tipica_sal_40.3542_18.1723,Joyce { Irish Pub / Trattoria Tipica Salentina },RESTAURANT,bar_cafe
-40.354152,18.173461,ov_rubens_brasserie_pub_40.3542_18.1735,Rubens Brasserie Pub,RESTAURANT,bar_cafe
-40.354087,18.173114,ov_la_strada_del_vino_wine_bistrot_40.3541_18.1731,La Strada Del Vino Wine Bistrot,RESTAURANT,bar_cafe
-40.354087,18.172628,ov_alventuno_40.3541_18.1726,AlVentuno,RESTAURANT,bar_cafe
-40.353879,18.165250,ov_greengo_lounge_bar_40.3539_18.1653,Greengo Lounge Bar,RESTAURANT,bar_cafe
-40.354225,18.165456,ov_bar_rudiae_40.3542_18.1655,Bar rudiae,RESTAURANT,bar_cafe
-40.354278,18.168417,ov_red_rabbit_40.3543_18.1684,Red Rabbit,RESTAURANT,bar_cafe
-40.353941,18.161669,ov_birrificio_malatesta_40.3539_18.1617,Birrificio Malatesta,RESTAURANT,bar_cafe
-40.353810,18.160651,ov_bar_san_pio_40.3538_18.1607,Bar San Pio,RESTAURANT,bar_cafe
-40.353573,18.174111,ov_avio_bar_40.3536_18.1741,Avio Bar,RESTAURANT,bar_cafe
-40.353390,18.171620,ov_pagina_chiusa_40.3534_18.1716,Pagina chiusa,RESTAURANT,bar_cafe
-40.353350,18.172590,ov_zar_ristorante_caf__40.3533_18.1726,ZAR ristorante cafè,RESTAURANT,bar_cafe
-40.353360,18.172580,ov_martinucci_laboratory_40.3534_18.1726,Martinucci Laboratory,RESTAURANT,bar_cafe
-40.353373,18.178289,ov_300mila_bar_lounge_40.3534_18.1783,300mila Bar Lounge,RESTAURANT,bar_cafe
-40.353401,18.181185,ov_compagnia_dei_vinai_40.3534_18.1812,Compagnia dei Vinai,RESTAURANT,bar_cafe
-40.353304,18.183191,ov_c_box_40.3533_18.1832,C Box,RESTAURANT,bar_cafe
-40.353503,18.182881,ov_raphael_78_40.3535_18.1829,Raphael 78,RESTAURANT,bar_cafe
-40.353506,18.179757,ov_duoemme_aperitif_40.3535_18.1798,Duoemme Aperitif,RESTAURANT,bar_cafe
-40.353779,18.182727,ov_l_emporio_40.3538_18.1827,L'Emporio,RESTAURANT,bar_cafe
-40.353688,18.176269,ov_bar_il_chioschetto_40.3537_18.1763,Bar Il Chioschetto,RESTAURANT,bar_cafe
-40.353692,18.174547,ov_bar_costa_lecce_40.3537_18.1745,Bar Costa Lecce,RESTAURANT,bar_cafe
-40.354055,18.183122,ov_bar_manhattan_40.3541_18.1831,Bar Manhattan,RESTAURANT,bar_cafe
-40.354109,18.182721,ov_kras__40.3541_18.1827,Krasí,RESTAURANT,bar_cafe
-40.354117,18.182614,ov_birreria_128_40.3541_18.1826,Birreria 128,RESTAURANT,bar_cafe
-40.353965,18.181621,ov_five_roses_club_40.3540_18.1816,Five Roses Club,RESTAURANT,bar_cafe
-40.353965,18.181526,ov_caffe_trinchese_40.3540_18.1815,Caffe Trinchese,RESTAURANT,bar_cafe
-40.353432,18.185637,ov_blue_bar_40.3534_18.1856,Blue Bar,RESTAURANT,bar_cafe
-40.353467,18.185590,ov_smooke_40.3535_18.1856,Smooke,RESTAURANT,bar_cafe
-40.347969,18.194659,ov_bar_deborah_40.3480_18.1947,Bar Deborah,RESTAURANT,bar_cafe
-40.347910,18.194675,ov_lp_lounge_bar_40.3479_18.1947,LP Lounge Bar,RESTAURANT,bar_cafe
-40.345158,18.198821,ov_vero_smart_bar_40.3452_18.1988,Vero Smart Bar,RESTAURANT,bar_cafe
-40.346134,18.187347,ov_nonsolocaff__40.3461_18.1873,Nonsolocaffè,RESTAURANT,bar_cafe
-40.344814,18.176711,ov_bar_signore_40.3448_18.1767,Bar Signore,RESTAURANT,bar_cafe
-40.345487,18.174615,ov_enoteca_tondo_40.3455_18.1746,Enoteca Tondo,RESTAURANT,bar_cafe
-40.345214,18.171866,ov_caff__cassandra_40.3452_18.1719,Caffè Cassandra,RESTAURANT,bar_cafe
-40.345144,18.174501,ov_titanic_40.3451_18.1745,Titanic,RESTAURANT,bar_cafe
-40.346264,18.166178,ov_bar_cristallo_40.3463_18.1662,Bar Cristallo,RESTAURANT,bar_cafe
-40.346636,18.160826,ov_marien_platz_40.3466_18.1608,Marien Platz,RESTAURANT,bar_cafe
-40.346486,18.161054,ov_miscelarte_40.3465_18.1611,Miscelarte,RESTAURANT,bar_cafe
-40.346597,18.158938,ov_bolognese_multiservizi_40.3466_18.1589,Bolognese Multiservizi,RESTAURANT,bar_cafe
-40.346792,18.160022,ov_white_lady_cafe_40.3468_18.1600,White Lady Cafe,RESTAURANT,bar_cafe
-40.347236,18.159622,ov_bar_matteo_40.3472_18.1596,Bar Matteo,RESTAURANT,bar_cafe
-40.347529,18.164787,ov_bar_kennedy_40.3475_18.1648,Bar Kennedy,RESTAURANT,bar_cafe
-40.347293,18.164994,ov_bar_carioca_40.3473_18.1650,Bar Carioca,RESTAURANT,bar_cafe
-40.347423,18.172125,ov_cantine_baldari_40.3474_18.1721,Cantine Baldari,RESTAURANT,bar_cafe
-40.348755,18.180191,ov_bar_olimpia_40.3488_18.1802,Bar Olimpia,RESTAURANT,bar_cafe
-40.348575,18.173026,ov_fuel_birreria_artigianale_40.3486_18.1730,FUEL birreria artigianale,RESTAURANT,bar_cafe
-40.348297,18.167887,ov_euclide_40.3483_18.1679,Euclide,RESTAURANT,bar_cafe
-40.347962,18.159207,ov_bar_flaminia_40.3480_18.1592,Bar Flaminia,RESTAURANT,bar_cafe
-40.348828,18.162325,ov_al37_rosso_caffetteria_40.3488_18.1623,Al37 Rosso Caffetteria,RESTAURANT,bar_cafe
-40.349200,18.172700,ov_bar_astoria_40.3492_18.1727,Bar Astoria,RESTAURANT,bar_cafe
-40.349276,18.173634,ov_caff__del_monumento_40.3493_18.1736,Caffè Del Monumento,RESTAURANT,bar_cafe
-40.349171,18.168741,ov_kandinsky_bistrot_40.3492_18.1687,kandinsky_bistrot,RESTAURANT,bar_cafe
-40.349523,18.172441,ov_caffetteria_mat__40.3495_18.1724,Caffetteria MaTà,RESTAURANT,bar_cafe
-40.349653,18.171863,ov_kingallo_medieval_pub_40.3497_18.1719,Kingallo Medieval Pub,RESTAURANT,bar_cafe
-40.349919,18.172140,ov_historic_pub_road66_40.3499_18.1721,Historic PUB Road66,RESTAURANT,bar_cafe
-40.350411,18.163594,ov_bar_rosso_e_nero_40.3504_18.1636,Bar Rosso E Nero,RESTAURANT,bar_cafe
-40.350980,18.169569,ov_quanto_basta_40.3510_18.1696,Quanto Basta,RESTAURANT,bar_cafe
-40.350889,18.169663,ov_prohibition_40.3509_18.1697,Prohibition,RESTAURANT,bar_cafe
-40.350860,18.174420,ov_yamila_wine_bar_40.3509_18.1744,Yamila Wine Bar,RESTAURANT,bar_cafe
-40.350656,18.174014,ov_ecce35_40.3507_18.1740,Ecce35,RESTAURANT,bar_cafe
-40.350729,18.171687,ov_la_negra_tomasa_40.3507_18.1717,La Negra Tomasa,RESTAURANT,bar_cafe
-40.350770,18.170494,ov_enoteca_nocco_40.3508_18.1705,Enoteca Nocco,RESTAURANT,bar_cafe
-40.350601,18.170424,ov_laurus_cocktail_experience_40.3506_18.1704,Laurus Cocktail Experience,RESTAURANT,bar_cafe
-40.350560,18.169785,ov_sanlu__40.3506_18.1698,Sanlu',RESTAURANT,bar_cafe
-40.350598,18.174109,ov_lo_re_cafe_40.3506_18.1741,LO RE CAFE,RESTAURANT,bar_cafe
-40.350375,18.171547,ov_pica_lecce_40.3504_18.1715,Pica Lecce,RESTAURANT,bar_cafe
-40.349978,18.169573,ov_drinker_40.3500_18.1696,Drinker,RESTAURANT,bar_cafe
-40.350101,18.169835,ov_caff__letterario_40.3501_18.1698,Caffè Letterario,RESTAURANT,bar_cafe
-40.350187,18.169828,ov_pop_cafe_40.3502_18.1698,Pop Cafe,RESTAURANT,bar_cafe
-40.350044,18.173574,ov_gio_cafe_40.3500_18.1736,Gio Cafe,RESTAURANT,bar_cafe
-40.350180,18.175450,ov_lobl__40.3502_18.1755,Loblò,RESTAURANT,bar_cafe
-40.351052,18.179043,ov_caffe_foscarini_40.3511_18.1790,Caffe Foscarini,RESTAURANT,bar_cafe
-40.350555,18.179846,ov_sybar_40.3506_18.1798,Sybar,RESTAURANT,bar_cafe
-40.350190,18.188890,ov_jazz_bar_jamm_session_40.3502_18.1889,Jazz Bar Jamm Session,RESTAURANT,bar_cafe
-40.349234,18.181675,ov_bar_san_lazzaro_40.3492_18.1817,Bar San Lazzaro,RESTAURANT,bar_cafe
-40.349152,18.180233,ov_allu_bar_40.3492_18.1802,Allu Bar,RESTAURANT,bar_cafe
-40.349167,18.180188,ov_lu_bar_40.3492_18.1802,Lu Bar,RESTAURANT,bar_cafe
-40.349330,18.174600,ov_godstime_africa_bar_40.3493_18.1746,Godstime Africa bar,RESTAURANT,bar_cafe
-40.351600,18.197720,ov_citybar_40.3516_18.1977,CityBar,RESTAURANT,bar_cafe
-40.352033,18.194815,ov_il_barrito_40.3520_18.1948,Il Barrito,RESTAURANT,bar_cafe
-40.352936,18.185579,ov_pasticceria_citiso_40.3529_18.1856,Pasticceria Citiso,RESTAURANT,bar_cafe
-40.352835,18.176925,ov_la_tap_room___baff_beer_40.3528_18.1769,La tap room - Baff Beer,RESTAURANT,bar_cafe
-40.352849,18.181780,ov_la_vetta_dello_spritz_40.3528_18.1818,La Vetta Dello Spritz,RESTAURANT,bar_cafe
-40.352901,18.180398,ov_gioia_40.3529_18.1804,Gioia,RESTAURANT,bar_cafe
-40.352567,18.182268,ov_la_bottiglieria_40.3526_18.1823,La bottiglieria,RESTAURANT,bar_cafe
-40.352332,18.178538,ov_caff__gir__40.3523_18.1785,Caffè Girò,RESTAURANT,bar_cafe
-40.352280,18.176898,ov_diablo_pub_40.3523_18.1769,Diablo Pub,RESTAURANT,bar_cafe
-40.352380,18.185480,ov_bar_j_adore_via_95reg_fanteria_n_118_40.3524_18.1855,Bar J'adore via 95reg.fanteria n 118,RESTAURANT,bar_cafe
-40.351436,18.183685,ov_bar_il_portico_40.3514_18.1837,Bar Il Portico,RESTAURANT,bar_cafe
-40.351215,18.175946,ov_bar_cotognata_leccese_40.3512_18.1759,Bar Cotognata Leccese,RESTAURANT,bar_cafe
-40.351371,18.175241,ov_enoteca_carlo_v_40.3514_18.1752,Enoteca Carlo V,RESTAURANT,bar_cafe
-40.351456,18.176620,ov_molly_malone_irish_pub_40.3515_18.1766,Molly Malone Irish Pub,RESTAURANT,bar_cafe
-40.351661,18.176277,ov_moulin_rouge_40.3517_18.1763,Moulin Rouge,RESTAURANT,bar_cafe
-40.351666,18.180063,ov_bamboo_40.3517_18.1801,Bamboo,RESTAURANT,bar_cafe
-40.352022,18.181178,ov_bar_minniti_40.3520_18.1812,Bar Minniti,RESTAURANT,bar_cafe
-40.352065,18.182610,ov_al_mondoni_40.3521_18.1826,Al Mondoni,RESTAURANT,bar_cafe
-40.352138,18.183117,ov_l__altro_vino_enoteca_naturale_40.3521_18.1831,L' Altro Vino Enoteca Naturale,RESTAURANT,bar_cafe
-40.352136,18.177779,ov_aumma_aumma_caffe_40.3521_18.1778,Aumma Aumma Caffe,RESTAURANT,bar_cafe
-40.351940,18.173780,ov_quarta__store_by_stefania_q__40.3519_18.1738,Quarta  Store by Stefania Q.,RESTAURANT,bar_cafe
-40.351973,18.171171,ov_deja_vu_40.3520_18.1712,Deja Vu,RESTAURANT,bar_cafe
-40.351656,18.171920,ov_filotto_drink___more_40.3517_18.1719,FILOTTO drink & more,RESTAURANT,bar_cafe
-40.351669,18.172084,ov_urban_cafe_40.3517_18.1721,Urban Cafe,RESTAURANT,bar_cafe
-40.351795,18.169813,ov_doppiozero_40.3518_18.1698,Doppiozero,RESTAURANT,bar_cafe
-40.351837,18.169955,ov_vineria_la_mara_40.3518_18.1700,Vineria La Mara,RESTAURANT,bar_cafe
-40.351859,18.170160,ov_la_tipografia_lecce_40.3519_18.1702,La Tipografia Lecce,RESTAURANT,bar_cafe
-40.351723,18.172419,ov_al_civico_n1_40.3517_18.1724,Al civico n1,RESTAURANT,bar_cafe
-40.351687,18.172457,ov_gemelli_piazzetta_santa_chiara_40.3517_18.1725,Gemelli Piazzetta Santa Chiara,RESTAURANT,bar_cafe
-40.351649,18.172362,ov_tacco_12_40.3516_18.1724,Tacco 12,RESTAURANT,bar_cafe
-40.351600,18.174480,ov_pasticceria_giuri_ss_lecce_40.3516_18.1745,Pasticceria Giuri'ss Lecce,RESTAURANT,bar_cafe
-40.351543,18.172770,ov_club020_40.3515_18.1728,Club020,RESTAURANT,bar_cafe
-40.351607,18.172672,ov_mivida_lounge_bar_40.3516_18.1727,MiVida Lounge Bar,RESTAURANT,bar_cafe
-40.351579,18.171649,ov_altrove_40.3516_18.1716,Altrove,RESTAURANT,bar_cafe
-40.351355,18.171713,ov_al_baffo_40.3514_18.1717,Al Baffo,RESTAURANT,bar_cafe
-40.351309,18.173884,ov_off_side_ristopub_40.3513_18.1739,Off Side Ristopub,RESTAURANT,bar_cafe
-40.351454,18.165737,ov_caffe_del_corso_lecce_40.3515_18.1657,Caffe del Corso Lecce,RESTAURANT,bar_cafe
-40.351572,18.165939,ov_mokaff____lecce_40.3516_18.1659,Mokaffè - Lecce,RESTAURANT,bar_cafe
-40.351480,18.164670,ov_karpyn_bar_40.3515_18.1647,Karpyn BAR,RESTAURANT,bar_cafe
-40.351470,18.164680,ov_7hdemico_40.3515_18.1647,7hdemico,RESTAURANT,bar_cafe
-40.351696,18.163638,ov_bluebeat_pub_40.3517_18.1636,Bluebeat Pub,RESTAURANT,bar_cafe
-40.352429,18.169306,ov_bar_martinica_40.3524_18.1693,Bar Martinica,RESTAURANT,bar_cafe
-40.352291,18.168654,ov_syrbar_40.3523_18.1687,Syrbar,RESTAURANT,bar_cafe
-40.352579,18.173430,ov_folia_bar___lab_40.3526_18.1734,Folia Bar & Lab,RESTAURANT,bar_cafe
-40.352794,18.173115,ov_caff__alvino_40.3528_18.1731,Caffè Alvino,RESTAURANT,bar_cafe
-40.353025,18.171175,ov_caffe_della_lupa_40.3530_18.1712,Caffe della Lupa,RESTAURANT,bar_cafe
-40.353088,18.173508,ov_frivolo___fine_drinks___specialty_coffee_40.3531_18.1735,Frivolo - Fine Drinks & Specialty Coffee,RESTAURANT,bar_cafe
-40.353134,18.173670,ov_xis_khrim_40.3531_18.1737,Xis-Khrim,RESTAURANT,bar_cafe
-40.353263,18.171633,ov_caff__cittadino_40.3533_18.1716,Caffè Cittadino,RESTAURANT,bar_cafe
-40.353065,18.168457,ov_lecce_centro_40.3531_18.1685,Lecce centro,RESTAURANT,bar_cafe
-40.347150,18.153378,ov_bar_stop_40.3471_18.1534,Bar Stop,RESTAURANT,bar_cafe
-40.346630,18.151747,ov_sweet_coffee_40.3466_18.1517,Sweet Coffee,RESTAURANT,bar_cafe
-40.345203,18.147541,ov_bar_il_soldato_40.3452_18.1475,Bar Il Soldato,RESTAURANT,bar_cafe
-40.345140,18.147330,ov_tabaccheria_bar_stop_di_fabrizio_persano_40.3451_18.1473,Tabaccheria Bar Stop di Fabrizio Persano,RESTAURANT,bar_cafe
-40.361789,18.154085,ov_absolut_lounge_and_restaurant_40.3618_18.1541,Absolut Lounge and Restaurant,RESTAURANT,bar_cafe
-40.365391,18.069810,ov_dell__arco_di_prato_jrt___lecce_40.3654_18.0698,Dell' Arco Di Prato Jrt - Lecce,RESTAURANT,bar_cafe
-40.370678,18.136926,ov_maestri_caffettieri_40.3707_18.1369,Maestri Caffettieri,RESTAURANT,bar_cafe
-40.363499,18.107462,ov_sum_project_40.3635_18.1075,SUM Project,RESTAURANT,bar_cafe
-40.362728,18.150607,ov_rizzato_1960___pasticceria___caffetteria_40.3627_18.1506,Rizzato 1960 - Pasticceria / Caffetteria,RESTAURANT,bar_cafe
-40.362675,18.175998,ov_caff__foscolo_40.3627_18.1760,Caffè Foscolo,RESTAURANT,bar_cafe
-40.362566,18.181394,ov_pasticceria_perche_no_40.3626_18.1814,Pasticceria Perche No,RESTAURANT,bar_cafe
-40.362950,18.180370,ov_bellini_caffetteria_40.3629_18.1804,Bellini Caffetteria,RESTAURANT,bar_cafe
-40.363498,18.182267,ov_new_colorado_cafe_40.3635_18.1823,New Colorado Cafe,RESTAURANT,bar_cafe
-40.363404,18.180727,ov_ds26_progetta_e_arreda_40.3634_18.1807,DS26 Progetta E Arreda,RESTAURANT,bar_cafe
-40.363857,18.172458,ov_icolitta_40.3639_18.1725,iColitta,RESTAURANT,bar_cafe
-40.366076,18.167874,ov_bar_hollywood_40.3661_18.1679,Bar Hollywood,RESTAURANT,bar_cafe
-40.365513,18.176701,ov_new_ciak_bar_40.3655_18.1767,New ciak bar,RESTAURANT,bar_cafe
-40.366231,18.176431,ov_bar_carpe_diem_40.3662_18.1764,Bar Carpe Diem,RESTAURANT,bar_cafe
-40.366523,18.176735,ov_primo_cafe_40.3665_18.1767,Primo Cafe,RESTAURANT,bar_cafe
-40.365810,18.187328,ov_nueva_vida_cafe_40.3658_18.1873,Nueva Vida Cafe,RESTAURANT,bar_cafe
-40.362326,18.199580,ov_parsifal__lecce_40.3623_18.1996,Parsifal  Lecce,RESTAURANT,bar_cafe
-40.368605,18.204159,ov_bar_de_mo_40.3686_18.2042,Bar De Mo,RESTAURANT,bar_cafe
-40.368925,18.168317,ov_baff_beer_40.3689_18.1683,Baff Beer,RESTAURANT,bar_cafe
-40.396421,18.125206,ov_new_bar_commercio_40.3964_18.1252,New Bar Commercio,RESTAURANT,bar_cafe
-40.394603,18.251172,ov_tavlecce_40.3946_18.2512,Tavlecce,RESTAURANT,bar_cafe
-40.390757,18.302380,ov_makossa_40.3908_18.3024,MaKossa,RESTAURANT,bar_cafe
-40.390532,18.305488,ov_bar_yvonne_nunzio_40.3905_18.3055,Bar Yvonne Nunzio,RESTAURANT,bar_cafe
-40.389693,18.304888,ov_alibi_summer_club_40.3897_18.3049,Alibi Summer Club,RESTAURANT,bar_cafe
-40.389775,18.302830,ov_pasticceria_nobile_40.3898_18.3028,Pasticceria Nobile,RESTAURANT,bar_cafe
-40.385792,18.167485,ov_cloro_cocktail_bar_and_pizza_40.3858_18.1675,CLORO cocktail bar and pizza,RESTAURANT,bar_cafe
-40.383300,18.183300,ov_bar_pit_stop___asporto_gratuito_40.3833_18.1833,Bar Pit Stop - Asporto gratuito,RESTAURANT,bar_cafe
-40.383300,18.183300,ov_salento_oil_40.3833_18.1833,Salento Oil,RESTAURANT,bar_cafe
-40.401350,18.098670,ov_the_originals_40.4014_18.0987,The Originals,RESTAURANT,bar_cafe
-40.425888,18.241000,ov_caf__aurora_frigole_40.4259_18.2410,Cafè Aurora Frigole,RESTAURANT,bar_cafe
-40.430594,18.244701,ov_racar_brasserie_40.4306_18.2447,Racar Brasserie,RESTAURANT,bar_cafe
-40.468180,18.188890,ov_lido_cambusa_40.4682_18.1889,Lido Cambusa,RESTAURANT,bar_cafe
-40.465398,18.195239,ov_bar_simone_40.4654_18.1952,Bar Simone,RESTAURANT,bar_cafe
-40.462991,18.209775,ov_bar_la_torre_40.4630_18.2098,Bar La Torre,RESTAURANT,bar_cafe
-40.469674,18.184197,ov_polepole_beachbar_40.4697_18.1842,Polepole Beachbar,RESTAURANT,bar_cafe
-40.481634,18.159034,ov_humility_srls_torre_rinalda_40.4816_18.1590,Humility Srls Torre Rinalda,RESTAURANT,bar_cafe
-40.356110,18.177436,osm_malib__40.3561_18.1774,Malibù,bar_cafe,bar_cafe
-40.351317,18.164162,osm_caff__rudiae_40.3513_18.1642,Caffé Rudiae,bar_cafe,bar_cafe
-40.352161,18.172556,osm_caff__dell_anfiteatro_40.3522_18.1726,Caffé dell'Anfiteatro,bar_cafe,bar_cafe
-40.350354,18.163516,osm_bar_rosso___nero_40.3504_18.1635,Bar Rosso & Nero,bar_cafe,bar_cafe
-40.354293,18.176731,osm_caledonia_tavern_40.3543_18.1767,Caledonia Tavern,bar_cafe,bar_cafe
-40.353650,18.168665,osm_orient_express_40.3537_18.1687,Orient Express,bar_cafe,bar_cafe
-40.345264,18.176790,osm_bar_pareo_40.3453_18.1768,Bar Pareo,bar_cafe,bar_cafe
-40.351959,18.173835,osm_quarta_store_40.3520_18.1738,Quarta store,bar_cafe,bar_cafe
-40.353569,18.182898,osm_bar_raphael_78_40.3536_18.1829,Bar Raphael 78,bar_cafe,bar_cafe
-40.352479,18.173146,osm_misvago_lounge_bar_40.3525_18.1731,Misvago Lounge Bar,bar_cafe,bar_cafe
-40.351688,18.163640,osm_bluebeat_bar_40.3517_18.1636,Bluebeat Bar,bar_cafe,bar_cafe
-40.362221,18.179216,osm_caff__sheffield_40.3622_18.1792,Caffè Sheffield,bar_cafe,bar_cafe
-40.360482,18.193064,osm_caff__degli_studenti_40.3605_18.1931,Caffè degli Studenti,bar_cafe,bar_cafe
-40.352152,18.172766,osm_bonasciana_40.3522_18.1728,BonaSciana,bar_cafe,bar_cafe
-40.352154,18.172702,osm_gianmir__40.3522_18.1727,Gianmirò,bar_cafe,bar_cafe
-40.351416,18.172815,osm_nen__beer_40.3514_18.1728,Nené Beer,bar_cafe,bar_cafe
-40.346959,18.171616,osm_caff__otranto_40.3470_18.1716,Caffè Otranto,bar_cafe,bar_cafe
-40.350983,18.169471,osm_la_sapore_40.3510_18.1695,La Sapore,bar_cafe,bar_cafe
-40.359752,18.184814,osm_gelateria_caffetteria_sensi_40.3598_18.1848,Gelateria Caffetteria Sensi,bar_cafe,bar_cafe
-40.361300,18.170104,osm_bar_leonardo_40.3613_18.1701,Bar Leonardo,bar_cafe,bar_cafe
-40.351635,18.186104,osm_twin_towers_caf__40.3516_18.1861,Twin Towers Cafè,bar_cafe,bar_cafe
-40.355440,18.172691,osm_la_barrique_40.3554_18.1727,La Barrique,bar_cafe,bar_cafe
-40.355489,18.172683,osm_mamma_elvira_enoteca_40.3555_18.1727,Mamma Elvira Enoteca,bar_cafe,bar_cafe
-40.353408,18.172296,osm_caffetteria_tentazioni_40.3534_18.1723,Caffetteria Tentazioni,bar_cafe,bar_cafe
-40.362965,18.180515,osm_caff__new_bellini_40.3630_18.1805,Caffè New Bellini,bar_cafe,bar_cafe
-40.363512,18.182185,osm_new_colorado_caf__40.3635_18.1822,New Colorado Cafè,bar_cafe,bar_cafe
-40.357780,18.165098,osm_73_cento_40.3578_18.1651,73 Cento,bar_cafe,bar_cafe
-40.363536,18.169862,osm_garden_coffee_40.3635_18.1699,Garden Coffee,bar_cafe,bar_cafe
-40.339474,18.176286,osm_caff__rubino_40.3395_18.1763,Caffè Rubino,bar_cafe,bar_cafe
-40.347500,18.164828,osm_bar_kennedy_40.3475_18.1648,Bar Kennedy,bar_cafe,bar_cafe
-40.356261,18.172562,osm_southeast_caf__40.3563_18.1726,Southeast Cafè,bar_cafe,bar_cafe
-40.354181,18.183087,osm_manhattan_caf__40.3542_18.1831,Manhattan Cafè,bar_cafe,bar_cafe
-40.352239,18.178119,osm_aumma_aumma_caff__40.3522_18.1781,Aumma Aumma Caffè,bar_cafe,bar_cafe
-40.358325,18.179561,osm_ariosto_bar_40.3583_18.1796,Ariosto Bar,bar_cafe,bar_cafe
-40.357648,18.179359,osm_caff__hawaii_40.3576_18.1794,Caffè Hawaii,bar_cafe,bar_cafe
-40.347828,18.170191,osm_rocky_bar_40.3478_18.1702,Rocky Bar,bar_cafe,bar_cafe
-40.357889,18.181397,osm_nuovo_caff__europa_40.3579_18.1814,Nuovo Caffè Europa,bar_cafe,bar_cafe
-40.353197,18.179905,osm_baldieri_dolce___salato_40.3532_18.1799,Baldieri Dolce & Salato,bar_cafe,bar_cafe
-40.352905,18.180505,osm_setted_sette_40.3529_18.1805,Settedìsette,bar_cafe,bar_cafe
-40.354690,18.181977,osm_caf__noir_40.3547_18.1820,Cafè Noir,bar_cafe,bar_cafe
-39.930137,18.355972,osm_dolcemente_cake_design_39.9301_18.3560,Dolcemente Cake Design,bar_cafe,bar_cafe
-40.349417,18.169136,osm_new_caff__italiano_40.3494_18.1691,New Caffè Italiano,bar_cafe,bar_cafe
-40.366533,18.176778,osm_nen__bar_40.3665_18.1768,Nenè Bar,bar_cafe,bar_cafe
-40.346129,18.170853,osm_jasti_s_40.3461_18.1709,Jasti's,bar_cafe,bar_cafe
-40.356657,18.187060,osm_charlot_40.3567_18.1871,Charlot,bar_cafe,bar_cafe
-40.351706,18.172371,osm_gemelli_40.3517_18.1724,Gemelli,bar_cafe,bar_cafe
-40.351657,18.171785,osm_alibi_40.3517_18.1718,Alibi,bar_cafe,bar_cafe
-40.355381,18.176624,osm_bar_cappuccineria_degli_angeli_40.3554_18.1766,Bar Cappuccineria degli Angeli,bar_cafe,bar_cafe
-40.353918,18.181515,osm_trinchese_caf__40.3539_18.1815,Trinchese Cafè,bar_cafe,bar_cafe
-40.352904,18.183549,osm_2017_caf__40.3529_18.1835,2017 Cafè,bar_cafe,bar_cafe
-40.350597,18.169763,osm_san_l__vintage_40.3506_18.1698,San Lù Vintage,bar_cafe,bar_cafe
-40.349490,18.169221,osm_i_birrattieri_40.3495_18.1692,I birrattieri,bar_cafe,bar_cafe
-40.351615,18.165978,osm_south_40.3516_18.1660,South,bar_cafe,bar_cafe
-40.353491,18.179884,osm_duo_emme_aperitif_40.3535_18.1799,Duo Emme Aperitif,bar_cafe,bar_cafe
-40.362181,18.169752,osm_coffeness_40.3622_18.1698,Coffeness,bar_cafe,bar_cafe
-40.353942,18.176559,osm_mida_gran_caf__40.3539_18.1766,Mida Gran Cafè,bar_cafe,bar_cafe
-40.351189,18.178871,osm_caff__foscarini_40.3512_18.1789,Caffè Foscarini,bar_cafe,bar_cafe
-40.356505,18.166560,osm_cantiere_40.3565_18.1666,Cantiere,bar_cafe,bar_cafe
-40.354492,18.180734,osm_bibou_art_40.3545_18.1807,Bibou Art,bar_cafe,bar_cafe
-40.355609,18.188400,osm_nuovo_caff__carletto_40.3556_18.1884,Nuovo Caffè Carletto,bar_cafe,bar_cafe
-40.362288,18.168610,osm_terminal_bar_40.3623_18.1686,Terminal Bar,bar_cafe,bar_cafe
-40.351585,18.172487,osm_sun_city_cicchetteria_40.3516_18.1725,Sun City Cicchetteria,bar_cafe,bar_cafe
-40.351578,18.172680,osm_mivida_40.3516_18.1727,Mivida,bar_cafe,bar_cafe
-40.358443,18.166683,osm_caff__belloluogo_40.3584_18.1667,Caffè Belloluogo,bar_cafe,bar_cafe
-40.350487,18.171577,osm_quarta_stefania_40.3505_18.1716,Quarta Stefania,bar_cafe,bar_cafe
-40.348283,18.167907,osm_bar_euclide_40.3483_18.1679,Bar Euclide,bar_cafe,bar_cafe
-40.354379,18.177253,osm_float_40.3544_18.1773,Float,bar_cafe,bar_cafe
-40.352130,18.194853,osm_barrito_40.3521_18.1949,Barrito,bar_cafe,bar_cafe
-40.360652,18.157505,osm_tennent_s_grill_40.3607_18.1575,Tennent's Grill,bar_cafe,bar_cafe
+40.336832,18.176949,ov_bar_pasticceria_taurisano_40.3368_18.1769,Bar Pasticceria Taurisano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_pasticceria_taurisano_40.3368_18.1769.json,custom
+40.336390,18.182320,ov_star_caf__40.3364_18.1823,Star Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/star_caf_40.3364_18.1823.json,custom
+40.339418,18.176330,ov_revolution_caffe_40.3394_18.1763,Revolution Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/revolution_caffe_40.3394_18.1763.json,custom
+40.338098,18.177406,ov_la_brasiliana_del_caffe_40.3381_18.1774,La Brasiliana del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_brasiliana_del_caffe_40.3381_18.1774.json,custom
+40.341541,18.179378,ov_korten_social_bar_40.3415_18.1794,KORTEN Social Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/korten_social_bar_40.3415_18.1794.json,custom
+40.341781,18.158671,ov_bar_sofia_40.3418_18.1587,Bar Sofia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_sofia_40.3418_18.1587.json,custom
+40.343175,18.173029,ov_js_bar_40.3432_18.1730,Js Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/js_bar_40.3432_18.1730.json,custom
+40.343309,18.172889,ov_caffetteria_danny_40.3433_18.1729,Caffetteria Danny,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_danny_40.3433_18.1729.json,custom
+40.344120,18.157725,ov_new_caffe_dell_angolo_40.3441_18.1577,New Caffe dell'Angolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_caffe_dellangolo_40.3441_18.1577.json,custom
+40.343593,18.173052,ov_barcollando_40.3436_18.1731,Barcollando,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/barcollando_40.3436_18.1731.json,custom
+40.343536,18.173585,ov_il_caffe_di_dahlia_40.3435_18.1736,Il Caffe Di Dahlia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/il_caffe_di_dahlia_40.3435_18.1736.json,custom
+40.344231,18.183415,ov_i_sette_grammi_40.3442_18.1834,I Sette Grammi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/i_sette_grammi_40.3442_18.1834.json,custom
+40.343217,18.177743,ov_daniel_s_bar_40.3432_18.1777,Daniel'S Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/daniels_bar_40.3432_18.1777.json,custom
+40.334709,18.166106,ov_pasticceria_stefano_bianco_40.3347_18.1661,Pasticceria Stefano Bianco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_stefano_bianco_40.3347_18.1661.json,custom
+40.332543,18.179828,ov_bar_latte_e_miele_40.3325_18.1798,Bar Latte E Miele,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_latte_e_miele_40.3325_18.1798.json,custom
+40.331914,18.157912,ov_caffe_stella_40.3319_18.1579,Caffe Stella,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_stella_40.3319_18.1579.json,custom
+40.330679,18.166190,ov_barpasticceria_samui_40.3307_18.1662,BarPasticceria Samui,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/barpasticceria_samui_40.3307_18.1662.json,custom
+40.330264,18.157215,ov_magie_del_caff__40.3303_18.1572,Magie del Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/magie_del_caff_40.3303_18.1572.json,custom
+40.330059,18.167767,ov_elsibar_40.3301_18.1678,ELSIbar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/elsibar_40.3301_18.1678.json,custom
+40.327777,18.182752,ov_birrificio_b94_40.3278_18.1828,Birrificio B94,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/birrificio_b94_40.3278_18.1828.json,custom
+40.360360,18.203420,ov_beer_up_40.3604_18.2034,Beer Up,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/beer_up_40.3604_18.2034.json,custom
+40.361104,18.200618,ov_bar_dello_sport_40.3611_18.2006,Bar dello Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_dello_sport_40.3611_18.2006.json,custom
+40.361516,18.187679,ov_bar_emanuel_40.3615_18.1877,Bar Emanuel,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_emanuel_40.3615_18.1877.json,custom
+40.361248,18.179997,ov_bar_yvonne_40.3612_18.1800,Bar Yvonne,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_yvonne_40.3612_18.1800.json,custom
+40.362039,18.179325,ov_giowine_40.3620_18.1793,Giowine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/giowine_40.3620_18.1793.json,custom
+40.361379,18.168928,ov_relax_bar___grand_hotel_tiziano_40.3614_18.1689,Relax bar - Grand Hotel Tiziano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/relax_bar_-_grand_hotel_tiziano_40.3614_18.1689.json,custom
+40.361221,18.170111,ov_bar_commercio_40.3612_18.1701,Bar Commercio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_commercio_40.3612_18.1701.json,custom
+40.360776,18.172274,ov_bar_mirea_40.3608_18.1723,Bar Mirea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_mirea_40.3608_18.1723.json,custom
+40.360200,18.171989,ov_accadilly_lounge_bar_40.3602_18.1720,Accadilly Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/accadilly_lounge_bar_40.3602_18.1720.json,custom
+40.360158,18.171960,ov_new_piccadilly_street_40.3602_18.1720,New Piccadilly Street,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_piccadilly_street_40.3602_18.1720.json,custom
+40.360568,18.180576,ov_mind_40.3606_18.1806,Mind,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mind_40.3606_18.1806.json,custom
+40.358965,18.192302,ov_levelup_40.3590_18.1923,LevelUp,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/levelup_40.3590_18.1923.json,custom
+40.359103,18.181492,ov_the_papillon_bar_40.3591_18.1815,The Papillon bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/the_papillon_bar_40.3591_18.1815.json,custom
+40.359140,18.178155,ov_caffe_metro_40.3591_18.1782,Caffe Metro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_metro_40.3591_18.1782.json,custom
+40.359174,18.177720,ov_officine_birrai_40.3592_18.1777,Officine Birrai,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/officine_birrai_40.3592_18.1777.json,custom
+40.359349,18.178042,ov_princess_game___slot___dreams_40.3593_18.1780,Princess Game - Slot & Dreams,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/princess_game_-_slot_dreams_40.3593_18.1780.json,custom
+40.359537,18.175285,ov_prophet_pub_40.3595_18.1753,Prophet Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/prophet_pub_40.3595_18.1753.json,custom
+40.359803,18.176504,ov_essenza_caffe_40.3598_18.1765,Essenza Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/essenza_caffe_40.3598_18.1765.json,custom
+40.359833,18.176357,ov_l_allegro_caff__40.3598_18.1764,L'Allegro Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lallegro_caff_40.3598_18.1764.json,custom
+40.359335,18.157332,ov_jungle_bar_40.3593_18.1573,Jungle Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/jungle_bar_40.3593_18.1573.json,custom
+40.358958,18.164720,ov_unisalento_40.3590_18.1647,Unisalento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/unisalento_40.3590_18.1647.json,custom
+40.358529,18.166690,ov_caff__belloluogo_40.3585_18.1667,Caffè Belloluogo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_belloluogo_40.3585_18.1667.json,custom
+40.358828,18.166742,ov_sudest_cafe_40.3588_18.1667,Sudest Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sudest_cafe_40.3588_18.1667.json,custom
+40.358556,18.162466,ov_oscar_cafe_40.3586_18.1625,Oscar Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/oscar_cafe_40.3586_18.1625.json,custom
+40.358150,18.163540,ov_mokamokacaff__40.3582_18.1635,MokaMokaCaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mokamokacaff_40.3582_18.1635.json,custom
+40.358150,18.164240,ov_l_altro_bar_40.3582_18.1642,L'Altro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/laltro_bar_40.3582_18.1642.json,custom
+40.358164,18.163946,ov_studio_bar_40.3582_18.1639,Studio bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/studio_bar_40.3582_18.1639.json,custom
+40.357955,18.162449,ov_madigans_40.3580_18.1624,Madigans,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/madigans_40.3580_18.1624.json,custom
+40.357970,18.168020,ov_bar_rudiae_lecce_40.3580_18.1680,Bar rudiae Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_rudiae_lecce_40.3580_18.1680.json,custom
+40.357960,18.168010,ov_115_speakeasy_40.3580_18.1680,115 Speakeasy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/115_speakeasy_40.3580_18.1680.json,custom
+40.357960,18.168011,ov_kokopelli_street_cocktail_bar_40.3580_18.1680,Kokopelli Street cocktail bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/kokopelli_street_cocktail_bar_40.3580_18.1680.json,custom
+40.357990,18.179928,ov_new_caf__hawaii_40.3580_18.1799,New Cafè Hawaii,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_caf_hawaii_40.3580_18.1799.json,custom
+40.358379,18.179589,ov_caffetteria_ariosto_coffee_art_40.3584_18.1796,Caffetteria Ariosto Coffee Art,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_ariosto_coffee_art_40.3584_18.1796.json,custom
+40.358730,18.192050,ov_il_barotto_bar_40.3587_18.1920,Il Barotto bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/il_barotto_bar_40.3587_18.1920.json,custom
+40.358098,18.189845,ov_hamburginerie_40.3581_18.1898,hamburginerie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/hamburginerie_40.3581_18.1898.json,custom
+40.358206,18.189531,ov_bar_code_40.3582_18.1895,Bar Code,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_code_40.3582_18.1895.json,custom
+40.357876,18.197248,ov_menouno_caf__40.3579_18.1972,MenoUno Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/menouno_caf_40.3579_18.1972.json,custom
+40.358470,18.195110,ov_caffetteria_r_e_m__40.3585_18.1951,caffetteria R.E.M.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_rem_40.3585_18.1951.json,custom
+40.357540,18.190779,ov_tropicana_bar_40.3575_18.1908,Tropicana Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/tropicana_bar_40.3575_18.1908.json,custom
+40.357608,18.187194,ov_il_viale_40.3576_18.1872,IL VIALE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/il_viale_40.3576_18.1872.json,custom
+40.357349,18.186584,ov_caffetteria_valentino_40.3573_18.1866,Caffetteria Valentino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_valentino_40.3573_18.1866.json,custom
+40.357348,18.186521,ov_bar_liberta_40.3573_18.1865,Bar Liberta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_liberta_40.3573_18.1865.json,custom
+40.356629,18.187137,ov_pasticceria_charlot_40.3566_18.1871,Pasticceria Charlot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_charlot_40.3566_18.1871.json,custom
+40.356894,18.185447,ov_bar_l_incontro_40.3569_18.1854,Bar L'Incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_lincontro_40.3569_18.1854.json,custom
+40.357043,18.188566,ov_wine_bar_pierandrea_40.3570_18.1886,Wine Bar Pierandrea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/wine_bar_pierandrea_40.3570_18.1886.json,custom
+40.357050,18.188740,ov_le_petit_caf__40.3571_18.1887,Le Petit cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/le_petit_caf_40.3571_18.1887.json,custom
+40.357510,18.181250,ov_rab_caf__40.3575_18.1812,Rab Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/rab_caf_40.3575_18.1812.json,custom
+40.357714,18.173248,ov_officine_cantelmo_40.3577_18.1732,Officine Cantelmo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/officine_cantelmo_40.3577_18.1732.json,custom
+40.357186,18.166781,ov_old_house_cafe_40.3572_18.1668,Old House Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/old_house_cafe_40.3572_18.1668.json,custom
+40.357532,18.167172,ov_bar_costarica_40.3575_18.1672,Bar Costarica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_costarica_40.3575_18.1672.json,custom
+40.357638,18.165100,ov_bar_elisee_40.3576_18.1651,Bar Elisee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_elisee_40.3576_18.1651.json,custom
+40.356422,18.172609,ov_saloon_keeper_1933_40.3564_18.1726,Saloon Keeper 1933,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/saloon_keeper_1933_40.3564_18.1726.json,custom
+40.356279,18.169653,ov_buro_40.3563_18.1697,Buro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/buro_40.3563_18.1697.json,custom
+40.356428,18.168974,ov_caffe_palmieri_40.3564_18.1690,Caffe Palmieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_palmieri_40.3564_18.1690.json,custom
+40.356536,18.166626,ov_cantiere_hambirreria_40.3565_18.1666,Cantiere Hambirreria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/cantiere_hambirreria_40.3565_18.1666.json,custom
+40.355522,18.160915,ov_bar_meeting_40.3555_18.1609,Bar Meeting,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_meeting_40.3555_18.1609.json,custom
+40.355666,18.172693,ov_santa_cruz_40.3557_18.1727,Santa Cruz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/santa_cruz_40.3557_18.1727.json,custom
+40.355660,18.172660,ov_viveur_40.3557_18.1727,Viveur,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/viveur_40.3557_18.1727.json,custom
+40.355658,18.172637,ov_shui_cocktail_mixology_40.3557_18.1726,Shui Cocktail Mixology,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/shui_cocktail_mixology_40.3557_18.1726.json,custom
+40.355549,18.172704,ov_shui_wine_40.3555_18.1727,Shui Wine,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/shui_wine_40.3555_18.1727.json,custom
+40.355638,18.179938,ov_il_palio_40.3556_18.1799,Il Palio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/il_palio_40.3556_18.1799.json,custom
+40.355721,18.181536,ov_hopster_beer_shop_40.3557_18.1815,Hopster Beer Shop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/hopster_beer_shop_40.3557_18.1815.json,custom
+40.356153,18.178258,ov_caff__antonucci_40.3562_18.1783,Caffè Antonucci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_antonucci_40.3562_18.1783.json,custom
+40.356131,18.177380,ov_malibu_pub_40.3561_18.1774,Malibu Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/malibu_pub_40.3561_18.1774.json,custom
+40.356233,18.174934,ov_amarcord_cafe_40.3562_18.1749,Amarcord Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/amarcord_cafe_40.3562_18.1749.json,custom
+40.356419,18.177225,ov_nabukko_40.3564_18.1772,Nabukko,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nabukko_40.3564_18.1772.json,custom
+40.356315,18.183337,ov_bar_quinto_ennio_40.3563_18.1833,bar Quinto ennio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_quinto_ennio_40.3563_18.1833.json,custom
+40.356176,18.188586,ov_douglas_hyde_irish_pub_40.3562_18.1886,Douglas Hyde irish pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/douglas_hyde_irish_pub_40.3562_18.1886.json,custom
+40.355908,18.190828,ov_my_way_cafe_40.3559_18.1908,My Way Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/my_way_cafe_40.3559_18.1908.json,custom
+40.355987,18.190840,ov_le_bistrot_srl_40.3560_18.1908,Le Bistrot SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/le_bistrot_srl_40.3560_18.1908.json,custom
+40.355820,18.184950,ov_royal_bar_40.3558_18.1850,Royal Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/royal_bar_40.3558_18.1850.json,custom
+40.355504,18.188500,ov_carletto_40.3555_18.1885,Carletto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/carletto_40.3555_18.1885.json,custom
+40.355305,18.186572,ov_la_brasiliana_del_caffe_40.3553_18.1866,La Brasiliana del Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_brasiliana_del_caffe_40.3553_18.1866.json,custom
+40.355258,18.186421,ov_bar_degli_angeli_40.3553_18.1864,Bar Degli Angeli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_degli_angeli_40.3553_18.1864.json,custom
+40.354890,18.188785,ov_vivaldi_caff__40.3549_18.1888,Vivaldi Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/vivaldi_caff_40.3549_18.1888.json,custom
+40.354560,18.180671,ov_caffetteria_ribes_40.3546_18.1807,Caffetteria Ribes,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_ribes_40.3546_18.1807.json,custom
+40.354544,18.178828,ov_blue_sand_lecce_40.3545_18.1788,Blue Sand Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/blue_sand_lecce_40.3545_18.1788.json,custom
+40.354700,18.178506,ov_ci_vediamo_al_number_23_40.3547_18.1785,Ci vediamo al Number 23,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/ci_vediamo_al_number_23_40.3547_18.1785.json,custom
+40.354904,18.178145,ov_quart_a_caff__pacamara_40.3549_18.1781,Quart'a Caffè Pacamara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/quarta_caff_pacamara_40.3549_18.1781.json,custom
+40.355471,18.178410,ov_caffe_adriano_40.3555_18.1784,Caffe Adriano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_adriano_40.3555_18.1784.json,custom
+40.355237,18.176864,ov_mac_bar_40.3552_18.1769,Mac Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mac_bar_40.3552_18.1769.json,custom
+40.355141,18.172785,ov_jolly_roger_40.3551_18.1728,Jolly Roger,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/jolly_roger_40.3551_18.1728.json,custom
+40.355078,18.169507,ov_quer_ncia_exotic_bar___restaurant_40.3551_18.1695,Querència Exotic Bar & Restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/querncia_exotic_bar_restaurant_40.3551_18.1695.json,custom
+40.355229,18.168483,ov_caff__paisiello_40.3552_18.1685,Caffè Paisiello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_paisiello_40.3552_18.1685.json,custom
+40.354460,18.168620,ov______40.3545_18.1686,盈華門店,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/_40.3545_18.1686.json,custom
+40.354314,18.172314,ov_i_galli_40.3543_18.1723,i galli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/i_galli_40.3543_18.1723.json,custom
+40.354120,18.171994,ov_messapia_ristorante_tipico_40.3541_18.1720,Messapia Ristorante Tipico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/messapia_ristorante_tipico_40.3541_18.1720.json,custom
+40.354211,18.172342,ov_joyce___irish_pub___trattoria_tipica_sal_40.3542_18.1723,Joyce { Irish Pub / Trattoria Tipica Salentina },RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/joyce_irish_pub_trattoria_tipica_salenti_40.3542_18.1723.json,custom
+40.354152,18.173461,ov_rubens_brasserie_pub_40.3542_18.1735,Rubens Brasserie Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/rubens_brasserie_pub_40.3542_18.1735.json,custom
+40.354087,18.173114,ov_la_strada_del_vino_wine_bistrot_40.3541_18.1731,La Strada Del Vino Wine Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_strada_del_vino_wine_bistrot_40.3541_18.1731.json,custom
+40.354087,18.172628,ov_alventuno_40.3541_18.1726,AlVentuno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/alventuno_40.3541_18.1726.json,custom
+40.353879,18.165250,ov_greengo_lounge_bar_40.3539_18.1653,Greengo Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/greengo_lounge_bar_40.3539_18.1653.json,custom
+40.354225,18.165456,ov_bar_rudiae_40.3542_18.1655,Bar rudiae,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_rudiae_40.3542_18.1655.json,custom
+40.354278,18.168417,ov_red_rabbit_40.3543_18.1684,Red Rabbit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/red_rabbit_40.3543_18.1684.json,custom
+40.353941,18.161669,ov_birrificio_malatesta_40.3539_18.1617,Birrificio Malatesta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/birrificio_malatesta_40.3539_18.1617.json,custom
+40.353810,18.160651,ov_bar_san_pio_40.3538_18.1607,Bar San Pio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_san_pio_40.3538_18.1607.json,custom
+40.353573,18.174111,ov_avio_bar_40.3536_18.1741,Avio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/avio_bar_40.3536_18.1741.json,custom
+40.353390,18.171620,ov_pagina_chiusa_40.3534_18.1716,Pagina chiusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pagina_chiusa_40.3534_18.1716.json,custom
+40.353350,18.172590,ov_zar_ristorante_caf__40.3533_18.1726,ZAR ristorante cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/zar_ristorante_caf_40.3533_18.1726.json,custom
+40.353360,18.172580,ov_martinucci_laboratory_40.3534_18.1726,Martinucci Laboratory,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/martinucci_laboratory_40.3534_18.1726.json,custom
+40.353373,18.178289,ov_300mila_bar_lounge_40.3534_18.1783,300mila Bar Lounge,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/300mila_bar_lounge_40.3534_18.1783.json,custom
+40.353401,18.181185,ov_compagnia_dei_vinai_40.3534_18.1812,Compagnia dei Vinai,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/compagnia_dei_vinai_40.3534_18.1812.json,custom
+40.353304,18.183191,ov_c_box_40.3533_18.1832,C Box,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/c_box_40.3533_18.1832.json,custom
+40.353503,18.182881,ov_raphael_78_40.3535_18.1829,Raphael 78,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/raphael_78_40.3535_18.1829.json,custom
+40.353506,18.179757,ov_duoemme_aperitif_40.3535_18.1798,Duoemme Aperitif,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/duoemme_aperitif_40.3535_18.1798.json,custom
+40.353779,18.182727,ov_l_emporio_40.3538_18.1827,L'Emporio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lemporio_40.3538_18.1827.json,custom
+40.353688,18.176269,ov_bar_il_chioschetto_40.3537_18.1763,Bar Il Chioschetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_il_chioschetto_40.3537_18.1763.json,custom
+40.353692,18.174547,ov_bar_costa_lecce_40.3537_18.1745,Bar Costa Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_costa_lecce_40.3537_18.1745.json,custom
+40.354055,18.183122,ov_bar_manhattan_40.3541_18.1831,Bar Manhattan,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_manhattan_40.3541_18.1831.json,custom
+40.354109,18.182721,ov_kras__40.3541_18.1827,Krasí,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/kras_40.3541_18.1827.json,custom
+40.354117,18.182614,ov_birreria_128_40.3541_18.1826,Birreria 128,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/birreria_128_40.3541_18.1826.json,custom
+40.353965,18.181621,ov_five_roses_club_40.3540_18.1816,Five Roses Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/five_roses_club_40.3540_18.1816.json,custom
+40.353965,18.181526,ov_caffe_trinchese_40.3540_18.1815,Caffe Trinchese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_trinchese_40.3540_18.1815.json,custom
+40.353432,18.185637,ov_blue_bar_40.3534_18.1856,Blue Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/blue_bar_40.3534_18.1856.json,custom
+40.353467,18.185590,ov_smooke_40.3535_18.1856,Smooke,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/smooke_40.3535_18.1856.json,custom
+40.347969,18.194659,ov_bar_deborah_40.3480_18.1947,Bar Deborah,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_deborah_40.3480_18.1947.json,custom
+40.347910,18.194675,ov_lp_lounge_bar_40.3479_18.1947,LP Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lp_lounge_bar_40.3479_18.1947.json,custom
+40.345158,18.198821,ov_vero_smart_bar_40.3452_18.1988,Vero Smart Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/vero_smart_bar_40.3452_18.1988.json,custom
+40.346134,18.187347,ov_nonsolocaff__40.3461_18.1873,Nonsolocaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nonsolocaff_40.3461_18.1873.json,custom
+40.344814,18.176711,ov_bar_signore_40.3448_18.1767,Bar Signore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_signore_40.3448_18.1767.json,custom
+40.345487,18.174615,ov_enoteca_tondo_40.3455_18.1746,Enoteca Tondo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/enoteca_tondo_40.3455_18.1746.json,custom
+40.345214,18.171866,ov_caff__cassandra_40.3452_18.1719,Caffè Cassandra,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_cassandra_40.3452_18.1719.json,custom
+40.345144,18.174501,ov_titanic_40.3451_18.1745,Titanic,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/titanic_40.3451_18.1745.json,custom
+40.346264,18.166178,ov_bar_cristallo_40.3463_18.1662,Bar Cristallo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_cristallo_40.3463_18.1662.json,custom
+40.346636,18.160826,ov_marien_platz_40.3466_18.1608,Marien Platz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/marien_platz_40.3466_18.1608.json,custom
+40.346486,18.161054,ov_miscelarte_40.3465_18.1611,Miscelarte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/miscelarte_40.3465_18.1611.json,custom
+40.346597,18.158938,ov_bolognese_multiservizi_40.3466_18.1589,Bolognese Multiservizi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bolognese_multiservizi_40.3466_18.1589.json,custom
+40.346792,18.160022,ov_white_lady_cafe_40.3468_18.1600,White Lady Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/white_lady_cafe_40.3468_18.1600.json,custom
+40.347236,18.159622,ov_bar_matteo_40.3472_18.1596,Bar Matteo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_matteo_40.3472_18.1596.json,custom
+40.347529,18.164787,ov_bar_kennedy_40.3475_18.1648,Bar Kennedy,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_kennedy_40.3475_18.1648.json,custom
+40.347293,18.164994,ov_bar_carioca_40.3473_18.1650,Bar Carioca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_carioca_40.3473_18.1650.json,custom
+40.347423,18.172125,ov_cantine_baldari_40.3474_18.1721,Cantine Baldari,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/cantine_baldari_40.3474_18.1721.json,custom
+40.348755,18.180191,ov_bar_olimpia_40.3488_18.1802,Bar Olimpia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_olimpia_40.3488_18.1802.json,custom
+40.348575,18.173026,ov_fuel_birreria_artigianale_40.3486_18.1730,FUEL birreria artigianale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/fuel_birreria_artigianale_40.3486_18.1730.json,custom
+40.348297,18.167887,ov_euclide_40.3483_18.1679,Euclide,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/euclide_40.3483_18.1679.json,custom
+40.347962,18.159207,ov_bar_flaminia_40.3480_18.1592,Bar Flaminia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_flaminia_40.3480_18.1592.json,custom
+40.348828,18.162325,ov_al37_rosso_caffetteria_40.3488_18.1623,Al37 Rosso Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/al37_rosso_caffetteria_40.3488_18.1623.json,custom
+40.349200,18.172700,ov_bar_astoria_40.3492_18.1727,Bar Astoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_astoria_40.3492_18.1727.json,custom
+40.349276,18.173634,ov_caff__del_monumento_40.3493_18.1736,Caffè Del Monumento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_del_monumento_40.3493_18.1736.json,custom
+40.349171,18.168741,ov_kandinsky_bistrot_40.3492_18.1687,kandinsky_bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/kandinskybistrot_40.3492_18.1687.json,custom
+40.349523,18.172441,ov_caffetteria_mat__40.3495_18.1724,Caffetteria MaTà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_mat_40.3495_18.1724.json,custom
+40.349653,18.171863,ov_kingallo_medieval_pub_40.3497_18.1719,Kingallo Medieval Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/kingallo_medieval_pub_40.3497_18.1719.json,custom
+40.349919,18.172140,ov_historic_pub_road66_40.3499_18.1721,Historic PUB Road66,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/historic_pub_road66_40.3499_18.1721.json,custom
+40.350411,18.163594,ov_bar_rosso_e_nero_40.3504_18.1636,Bar Rosso E Nero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_rosso_e_nero_40.3504_18.1636.json,custom
+40.350980,18.169569,ov_quanto_basta_40.3510_18.1696,Quanto Basta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/quanto_basta_40.3510_18.1696.json,custom
+40.350889,18.169663,ov_prohibition_40.3509_18.1697,Prohibition,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/prohibition_40.3509_18.1697.json,custom
+40.350860,18.174420,ov_yamila_wine_bar_40.3509_18.1744,Yamila Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/yamila_wine_bar_40.3509_18.1744.json,custom
+40.350656,18.174014,ov_ecce35_40.3507_18.1740,Ecce35,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/ecce35_40.3507_18.1740.json,custom
+40.350729,18.171687,ov_la_negra_tomasa_40.3507_18.1717,La Negra Tomasa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_negra_tomasa_40.3507_18.1717.json,custom
+40.350770,18.170494,ov_enoteca_nocco_40.3508_18.1705,Enoteca Nocco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/enoteca_nocco_40.3508_18.1705.json,custom
+40.350601,18.170424,ov_laurus_cocktail_experience_40.3506_18.1704,Laurus Cocktail Experience,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/laurus_cocktail_experience_40.3506_18.1704.json,custom
+40.350560,18.169785,ov_sanlu__40.3506_18.1698,Sanlu',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sanlu_40.3506_18.1698.json,custom
+40.350598,18.174109,ov_lo_re_cafe_40.3506_18.1741,LO RE CAFE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lo_re_cafe_40.3506_18.1741.json,custom
+40.350375,18.171547,ov_pica_lecce_40.3504_18.1715,Pica Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pica_lecce_40.3504_18.1715.json,custom
+40.349978,18.169573,ov_drinker_40.3500_18.1696,Drinker,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/drinker_40.3500_18.1696.json,custom
+40.350101,18.169835,ov_caff__letterario_40.3501_18.1698,Caffè Letterario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_letterario_40.3501_18.1698.json,custom
+40.350187,18.169828,ov_pop_cafe_40.3502_18.1698,Pop Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pop_cafe_40.3502_18.1698.json,custom
+40.350044,18.173574,ov_gio_cafe_40.3500_18.1736,Gio Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gio_cafe_40.3500_18.1736.json,custom
+40.350180,18.175450,ov_lobl__40.3502_18.1755,Loblò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lobl_40.3502_18.1755.json,custom
+40.351052,18.179043,ov_caffe_foscarini_40.3511_18.1790,Caffe Foscarini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_foscarini_40.3511_18.1790.json,custom
+40.350555,18.179846,ov_sybar_40.3506_18.1798,Sybar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sybar_40.3506_18.1798.json,custom
+40.350190,18.188890,ov_jazz_bar_jamm_session_40.3502_18.1889,Jazz Bar Jamm Session,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/jazz_bar_jamm_session_40.3502_18.1889.json,custom
+40.349234,18.181675,ov_bar_san_lazzaro_40.3492_18.1817,Bar San Lazzaro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_san_lazzaro_40.3492_18.1817.json,custom
+40.349152,18.180233,ov_allu_bar_40.3492_18.1802,Allu Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/allu_bar_40.3492_18.1802.json,custom
+40.349167,18.180188,ov_lu_bar_40.3492_18.1802,Lu Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lu_bar_40.3492_18.1802.json,custom
+40.349330,18.174600,ov_godstime_africa_bar_40.3493_18.1746,Godstime Africa bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/godstime_africa_bar_40.3493_18.1746.json,custom
+40.351600,18.197720,ov_citybar_40.3516_18.1977,CityBar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/citybar_40.3516_18.1977.json,custom
+40.352033,18.194815,ov_il_barrito_40.3520_18.1948,Il Barrito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/il_barrito_40.3520_18.1948.json,custom
+40.352936,18.185579,ov_pasticceria_citiso_40.3529_18.1856,Pasticceria Citiso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_citiso_40.3529_18.1856.json,custom
+40.352835,18.176925,ov_la_tap_room___baff_beer_40.3528_18.1769,La tap room - Baff Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_tap_room_-_baff_beer_40.3528_18.1769.json,custom
+40.352849,18.181780,ov_la_vetta_dello_spritz_40.3528_18.1818,La Vetta Dello Spritz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_vetta_dello_spritz_40.3528_18.1818.json,custom
+40.352901,18.180398,ov_gioia_40.3529_18.1804,Gioia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gioia_40.3529_18.1804.json,custom
+40.352567,18.182268,ov_la_bottiglieria_40.3526_18.1823,La bottiglieria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_bottiglieria_40.3526_18.1823.json,custom
+40.352332,18.178538,ov_caff__gir__40.3523_18.1785,Caffè Girò,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_gir_40.3523_18.1785.json,custom
+40.352280,18.176898,ov_diablo_pub_40.3523_18.1769,Diablo Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/diablo_pub_40.3523_18.1769.json,custom
+40.352380,18.185480,ov_bar_j_adore_via_95reg_fanteria_n_118_40.3524_18.1855,Bar J'adore via 95reg.fanteria n 118,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_jadore_via_95regfanteria_n_118_40.3524_18.1855.json,custom
+40.351436,18.183685,ov_bar_il_portico_40.3514_18.1837,Bar Il Portico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_il_portico_40.3514_18.1837.json,custom
+40.351215,18.175946,ov_bar_cotognata_leccese_40.3512_18.1759,Bar Cotognata Leccese,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_cotognata_leccese_40.3512_18.1759.json,custom
+40.351371,18.175241,ov_enoteca_carlo_v_40.3514_18.1752,Enoteca Carlo V,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/enoteca_carlo_v_40.3514_18.1752.json,custom
+40.351456,18.176620,ov_molly_malone_irish_pub_40.3515_18.1766,Molly Malone Irish Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/molly_malone_irish_pub_40.3515_18.1766.json,custom
+40.351661,18.176277,ov_moulin_rouge_40.3517_18.1763,Moulin Rouge,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/moulin_rouge_40.3517_18.1763.json,custom
+40.351666,18.180063,ov_bamboo_40.3517_18.1801,Bamboo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bamboo_40.3517_18.1801.json,custom
+40.352022,18.181178,ov_bar_minniti_40.3520_18.1812,Bar Minniti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_minniti_40.3520_18.1812.json,custom
+40.352065,18.182610,ov_al_mondoni_40.3521_18.1826,Al Mondoni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/al_mondoni_40.3521_18.1826.json,custom
+40.352138,18.183117,ov_l__altro_vino_enoteca_naturale_40.3521_18.1831,L' Altro Vino Enoteca Naturale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/l_altro_vino_enoteca_naturale_40.3521_18.1831.json,custom
+40.352136,18.177779,ov_aumma_aumma_caffe_40.3521_18.1778,Aumma Aumma Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/aumma_aumma_caffe_40.3521_18.1778.json,custom
+40.351940,18.173780,ov_quarta__store_by_stefania_q__40.3519_18.1738,Quarta  Store by Stefania Q.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/quarta_store_by_stefania_q_40.3519_18.1738.json,custom
+40.351973,18.171171,ov_deja_vu_40.3520_18.1712,Deja Vu,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/deja_vu_40.3520_18.1712.json,custom
+40.351656,18.171920,ov_filotto_drink___more_40.3517_18.1719,FILOTTO drink & more,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/filotto_drink_more_40.3517_18.1719.json,custom
+40.351669,18.172084,ov_urban_cafe_40.3517_18.1721,Urban Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/urban_cafe_40.3517_18.1721.json,custom
+40.351795,18.169813,ov_doppiozero_40.3518_18.1698,Doppiozero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/doppiozero_40.3518_18.1698.json,custom
+40.351837,18.169955,ov_vineria_la_mara_40.3518_18.1700,Vineria La Mara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/vineria_la_mara_40.3518_18.1700.json,custom
+40.351859,18.170160,ov_la_tipografia_lecce_40.3519_18.1702,La Tipografia Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_tipografia_lecce_40.3519_18.1702.json,custom
+40.351723,18.172419,ov_al_civico_n1_40.3517_18.1724,Al civico n1,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/al_civico_n1_40.3517_18.1724.json,custom
+40.351687,18.172457,ov_gemelli_piazzetta_santa_chiara_40.3517_18.1725,Gemelli Piazzetta Santa Chiara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gemelli_piazzetta_santa_chiara_40.3517_18.1725.json,custom
+40.351649,18.172362,ov_tacco_12_40.3516_18.1724,Tacco 12,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/tacco_12_40.3516_18.1724.json,custom
+40.351600,18.174480,ov_pasticceria_giuri_ss_lecce_40.3516_18.1745,Pasticceria Giuri'ss Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_giuriss_lecce_40.3516_18.1745.json,custom
+40.351543,18.172770,ov_club020_40.3515_18.1728,Club020,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/club020_40.3515_18.1728.json,custom
+40.351607,18.172672,ov_mivida_lounge_bar_40.3516_18.1727,MiVida Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mivida_lounge_bar_40.3516_18.1727.json,custom
+40.351579,18.171649,ov_altrove_40.3516_18.1716,Altrove,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/altrove_40.3516_18.1716.json,custom
+40.351355,18.171713,ov_al_baffo_40.3514_18.1717,Al Baffo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/al_baffo_40.3514_18.1717.json,custom
+40.351309,18.173884,ov_off_side_ristopub_40.3513_18.1739,Off Side Ristopub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/off_side_ristopub_40.3513_18.1739.json,custom
+40.351454,18.165737,ov_caffe_del_corso_lecce_40.3515_18.1657,Caffe del Corso Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_del_corso_lecce_40.3515_18.1657.json,custom
+40.351572,18.165939,ov_mokaff____lecce_40.3516_18.1659,Mokaffè - Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mokaff_-_lecce_40.3516_18.1659.json,custom
+40.351480,18.164670,ov_karpyn_bar_40.3515_18.1647,Karpyn BAR,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/karpyn_bar_40.3515_18.1647.json,custom
+40.351470,18.164680,ov_7hdemico_40.3515_18.1647,7hdemico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/7hdemico_40.3515_18.1647.json,custom
+40.351696,18.163638,ov_bluebeat_pub_40.3517_18.1636,Bluebeat Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bluebeat_pub_40.3517_18.1636.json,custom
+40.352429,18.169306,ov_bar_martinica_40.3524_18.1693,Bar Martinica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_martinica_40.3524_18.1693.json,custom
+40.352291,18.168654,ov_syrbar_40.3523_18.1687,Syrbar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/syrbar_40.3523_18.1687.json,custom
+40.352579,18.173430,ov_folia_bar___lab_40.3526_18.1734,Folia Bar & Lab,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/folia_bar_lab_40.3526_18.1734.json,custom
+40.352794,18.173115,ov_caff__alvino_40.3528_18.1731,Caffè Alvino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_alvino_40.3528_18.1731.json,custom
+40.353025,18.171175,ov_caffe_della_lupa_40.3530_18.1712,Caffe della Lupa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffe_della_lupa_40.3530_18.1712.json,custom
+40.353088,18.173508,ov_frivolo___fine_drinks___specialty_coffee_40.3531_18.1735,Frivolo - Fine Drinks & Specialty Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/frivolo_-_fine_drinks_specialty_coffee_40.3531_18.1735.json,custom
+40.353134,18.173670,ov_xis_khrim_40.3531_18.1737,Xis-Khrim,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/xis-khrim_40.3531_18.1737.json,custom
+40.353263,18.171633,ov_caff__cittadino_40.3533_18.1716,Caffè Cittadino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_cittadino_40.3533_18.1716.json,custom
+40.353065,18.168457,ov_lecce_centro_40.3531_18.1685,Lecce centro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lecce_centro_40.3531_18.1685.json,custom
+40.347150,18.153378,ov_bar_stop_40.3471_18.1534,Bar Stop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_stop_40.3471_18.1534.json,custom
+40.346630,18.151747,ov_sweet_coffee_40.3466_18.1517,Sweet Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sweet_coffee_40.3466_18.1517.json,custom
+40.345203,18.147541,ov_bar_il_soldato_40.3452_18.1475,Bar Il Soldato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_il_soldato_40.3452_18.1475.json,custom
+40.345140,18.147330,ov_tabaccheria_bar_stop_di_fabrizio_persano_40.3451_18.1473,Tabaccheria Bar Stop di Fabrizio Persano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/tabaccheria_bar_stop_di_fabrizio_persano_40.3451_18.1473.json,custom
+40.361789,18.154085,ov_absolut_lounge_and_restaurant_40.3618_18.1541,Absolut Lounge and Restaurant,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/absolut_lounge_and_restaurant_40.3618_18.1541.json,custom
+40.365391,18.069810,ov_dell__arco_di_prato_jrt___lecce_40.3654_18.0698,Dell' Arco Di Prato Jrt - Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/dell_arco_di_prato_jrt_-_lecce_40.3654_18.0698.json,custom
+40.370678,18.136926,ov_maestri_caffettieri_40.3707_18.1369,Maestri Caffettieri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/maestri_caffettieri_40.3707_18.1369.json,custom
+40.363499,18.107462,ov_sum_project_40.3635_18.1075,SUM Project,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sum_project_40.3635_18.1075.json,custom
+40.362728,18.150607,ov_rizzato_1960___pasticceria___caffetteria_40.3627_18.1506,Rizzato 1960 - Pasticceria / Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/rizzato_1960_-_pasticceria_caffetteria_40.3627_18.1506.json,custom
+40.362675,18.175998,ov_caff__foscolo_40.3627_18.1760,Caffè Foscolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_foscolo_40.3627_18.1760.json,custom
+40.362566,18.181394,ov_pasticceria_perche_no_40.3626_18.1814,Pasticceria Perche No,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_perche_no_40.3626_18.1814.json,custom
+40.362950,18.180370,ov_bellini_caffetteria_40.3629_18.1804,Bellini Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bellini_caffetteria_40.3629_18.1804.json,custom
+40.363498,18.182267,ov_new_colorado_cafe_40.3635_18.1823,New Colorado Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_colorado_cafe_40.3635_18.1823.json,custom
+40.363404,18.180727,ov_ds26_progetta_e_arreda_40.3634_18.1807,DS26 Progetta E Arreda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/ds26_progetta_e_arreda_40.3634_18.1807.json,custom
+40.363857,18.172458,ov_icolitta_40.3639_18.1725,iColitta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/icolitta_40.3639_18.1725.json,custom
+40.366076,18.167874,ov_bar_hollywood_40.3661_18.1679,Bar Hollywood,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_hollywood_40.3661_18.1679.json,custom
+40.365513,18.176701,ov_new_ciak_bar_40.3655_18.1767,New ciak bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_ciak_bar_40.3655_18.1767.json,custom
+40.366231,18.176431,ov_bar_carpe_diem_40.3662_18.1764,Bar Carpe Diem,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_carpe_diem_40.3662_18.1764.json,custom
+40.366523,18.176735,ov_primo_cafe_40.3665_18.1767,Primo Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/primo_cafe_40.3665_18.1767.json,custom
+40.365810,18.187328,ov_nueva_vida_cafe_40.3658_18.1873,Nueva Vida Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nueva_vida_cafe_40.3658_18.1873.json,custom
+40.362326,18.199580,ov_parsifal__lecce_40.3623_18.1996,Parsifal  Lecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/parsifal_lecce_40.3623_18.1996.json,custom
+40.368605,18.204159,ov_bar_de_mo_40.3686_18.2042,Bar De Mo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_de_mo_40.3686_18.2042.json,custom
+40.368925,18.168317,ov_baff_beer_40.3689_18.1683,Baff Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/baff_beer_40.3689_18.1683.json,custom
+40.396421,18.125206,ov_new_bar_commercio_40.3964_18.1252,New Bar Commercio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_bar_commercio_40.3964_18.1252.json,custom
+40.394603,18.251172,ov_tavlecce_40.3946_18.2512,Tavlecce,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/tavlecce_40.3946_18.2512.json,custom
+40.390757,18.302380,ov_makossa_40.3908_18.3024,MaKossa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/makossa_40.3908_18.3024.json,custom
+40.390532,18.305488,ov_bar_yvonne_nunzio_40.3905_18.3055,Bar Yvonne Nunzio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_yvonne_nunzio_40.3905_18.3055.json,custom
+40.389693,18.304888,ov_alibi_summer_club_40.3897_18.3049,Alibi Summer Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/alibi_summer_club_40.3897_18.3049.json,custom
+40.389775,18.302830,ov_pasticceria_nobile_40.3898_18.3028,Pasticceria Nobile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/pasticceria_nobile_40.3898_18.3028.json,custom
+40.385792,18.167485,ov_cloro_cocktail_bar_and_pizza_40.3858_18.1675,CLORO cocktail bar and pizza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/cloro_cocktail_bar_and_pizza_40.3858_18.1675.json,custom
+40.383300,18.183300,ov_bar_pit_stop___asporto_gratuito_40.3833_18.1833,Bar Pit Stop - Asporto gratuito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_pit_stop_-_asporto_gratuito_40.3833_18.1833.json,custom
+40.383300,18.183300,ov_salento_oil_40.3833_18.1833,Salento Oil,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/salento_oil_40.3833_18.1833.json,custom
+40.401350,18.098670,ov_the_originals_40.4014_18.0987,The Originals,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/the_originals_40.4014_18.0987.json,custom
+40.425888,18.241000,ov_caf__aurora_frigole_40.4259_18.2410,Cafè Aurora Frigole,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caf_aurora_frigole_40.4259_18.2410.json,custom
+40.430594,18.244701,ov_racar_brasserie_40.4306_18.2447,Racar Brasserie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/racar_brasserie_40.4306_18.2447.json,custom
+40.468180,18.188890,ov_lido_cambusa_40.4682_18.1889,Lido Cambusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/lido_cambusa_40.4682_18.1889.json,custom
+40.465398,18.195239,ov_bar_simone_40.4654_18.1952,Bar Simone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_simone_40.4654_18.1952.json,custom
+40.462991,18.209775,ov_bar_la_torre_40.4630_18.2098,Bar La Torre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_la_torre_40.4630_18.2098.json,custom
+40.469674,18.184197,ov_polepole_beachbar_40.4697_18.1842,Polepole Beachbar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/polepole_beachbar_40.4697_18.1842.json,custom
+40.481634,18.159034,ov_humility_srls_torre_rinalda_40.4816_18.1590,Humility Srls Torre Rinalda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/humility_srls_torre_rinalda_40.4816_18.1590.json,custom
+40.356110,18.177436,osm_malib__40.3561_18.1774,Malibù,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/malib_40.3561_18.1774.json,custom
+40.351317,18.164162,osm_caff__rudiae_40.3513_18.1642,Caffé Rudiae,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_rudiae_40.3513_18.1642.json,custom
+40.352161,18.172556,osm_caff__dell_anfiteatro_40.3522_18.1726,Caffé dell'Anfiteatro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_dellanfiteatro_40.3522_18.1726.json,custom
+40.350354,18.163516,osm_bar_rosso___nero_40.3504_18.1635,Bar Rosso & Nero,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_rosso_nero_40.3504_18.1635.json,custom
+40.354293,18.176731,osm_caledonia_tavern_40.3543_18.1767,Caledonia Tavern,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caledonia_tavern_40.3543_18.1767.json,custom
+40.353650,18.168665,osm_orient_express_40.3537_18.1687,Orient Express,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/orient_express_40.3537_18.1687.json,custom
+40.345264,18.176790,osm_bar_pareo_40.3453_18.1768,Bar Pareo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_pareo_40.3453_18.1768.json,custom
+40.351959,18.173835,osm_quarta_store_40.3520_18.1738,Quarta store,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/quarta_store_40.3520_18.1738.json,custom
+40.353569,18.182898,osm_bar_raphael_78_40.3536_18.1829,Bar Raphael 78,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_raphael_78_40.3536_18.1829.json,custom
+40.352479,18.173146,osm_misvago_lounge_bar_40.3525_18.1731,Misvago Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/misvago_lounge_bar_40.3525_18.1731.json,custom
+40.351688,18.163640,osm_bluebeat_bar_40.3517_18.1636,Bluebeat Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bluebeat_bar_40.3517_18.1636.json,custom
+40.362221,18.179216,osm_caff__sheffield_40.3622_18.1792,Caffè Sheffield,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_sheffield_40.3622_18.1792.json,custom
+40.360482,18.193064,osm_caff__degli_studenti_40.3605_18.1931,Caffè degli Studenti,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_degli_studenti_40.3605_18.1931.json,custom
+40.352152,18.172766,osm_bonasciana_40.3522_18.1728,BonaSciana,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bonasciana_40.3522_18.1728.json,custom
+40.352154,18.172702,osm_gianmir__40.3522_18.1727,Gianmirò,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gianmir_40.3522_18.1727.json,custom
+40.351416,18.172815,osm_nen__beer_40.3514_18.1728,Nené Beer,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nen_beer_40.3514_18.1728.json,custom
+40.346959,18.171616,osm_caff__otranto_40.3470_18.1716,Caffè Otranto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_otranto_40.3470_18.1716.json,custom
+40.350983,18.169471,osm_la_sapore_40.3510_18.1695,La Sapore,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_sapore_40.3510_18.1695.json,custom
+40.359752,18.184814,osm_gelateria_caffetteria_sensi_40.3598_18.1848,Gelateria Caffetteria Sensi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gelateria_caffetteria_sensi_40.3598_18.1848.json,custom
+40.361300,18.170104,osm_bar_leonardo_40.3613_18.1701,Bar Leonardo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_leonardo_40.3613_18.1701.json,custom
+40.351635,18.186104,osm_twin_towers_caf__40.3516_18.1861,Twin Towers Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/twin_towers_caf_40.3516_18.1861.json,custom
+40.355440,18.172691,osm_la_barrique_40.3554_18.1727,La Barrique,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/la_barrique_40.3554_18.1727.json,custom
+40.355489,18.172683,osm_mamma_elvira_enoteca_40.3555_18.1727,Mamma Elvira Enoteca,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mamma_elvira_enoteca_40.3555_18.1727.json,custom
+40.353408,18.172296,osm_caffetteria_tentazioni_40.3534_18.1723,Caffetteria Tentazioni,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caffetteria_tentazioni_40.3534_18.1723.json,custom
+40.362965,18.180515,osm_caff__new_bellini_40.3630_18.1805,Caffè New Bellini,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_new_bellini_40.3630_18.1805.json,custom
+40.363512,18.182185,osm_new_colorado_caf__40.3635_18.1822,New Colorado Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_colorado_caf_40.3635_18.1822.json,custom
+40.357780,18.165098,osm_73_cento_40.3578_18.1651,73 Cento,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/73_cento_40.3578_18.1651.json,custom
+40.363536,18.169862,osm_garden_coffee_40.3635_18.1699,Garden Coffee,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/garden_coffee_40.3635_18.1699.json,custom
+40.339474,18.176286,osm_caff__rubino_40.3395_18.1763,Caffè Rubino,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_rubino_40.3395_18.1763.json,custom
+40.347500,18.164828,osm_bar_kennedy_40.3475_18.1648,Bar Kennedy,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_kennedy_40.3475_18.1648.json,custom
+40.356261,18.172562,osm_southeast_caf__40.3563_18.1726,Southeast Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/southeast_caf_40.3563_18.1726.json,custom
+40.354181,18.183087,osm_manhattan_caf__40.3542_18.1831,Manhattan Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/manhattan_caf_40.3542_18.1831.json,custom
+40.352239,18.178119,osm_aumma_aumma_caff__40.3522_18.1781,Aumma Aumma Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/aumma_aumma_caff_40.3522_18.1781.json,custom
+40.358325,18.179561,osm_ariosto_bar_40.3583_18.1796,Ariosto Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/ariosto_bar_40.3583_18.1796.json,custom
+40.357648,18.179359,osm_caff__hawaii_40.3576_18.1794,Caffè Hawaii,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_hawaii_40.3576_18.1794.json,custom
+40.347828,18.170191,osm_rocky_bar_40.3478_18.1702,Rocky Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/rocky_bar_40.3478_18.1702.json,custom
+40.357889,18.181397,osm_nuovo_caff__europa_40.3579_18.1814,Nuovo Caffè Europa,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nuovo_caff_europa_40.3579_18.1814.json,custom
+40.353197,18.179905,osm_baldieri_dolce___salato_40.3532_18.1799,Baldieri Dolce & Salato,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/baldieri_dolce_salato_40.3532_18.1799.json,custom
+40.352905,18.180505,osm_setted_sette_40.3529_18.1805,Settedìsette,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/settedsette_40.3529_18.1805.json,custom
+40.354690,18.181977,osm_caf__noir_40.3547_18.1820,Cafè Noir,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caf_noir_40.3547_18.1820.json,custom
+39.930137,18.355972,osm_dolcemente_cake_design_39.9301_18.3560,Dolcemente Cake Design,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/dolcemente_cake_design_39.9301_18.3560.json,custom
+40.349417,18.169136,osm_new_caff__italiano_40.3494_18.1691,New Caffè Italiano,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/new_caff_italiano_40.3494_18.1691.json,custom
+40.366533,18.176778,osm_nen__bar_40.3665_18.1768,Nenè Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nen_bar_40.3665_18.1768.json,custom
+40.346129,18.170853,osm_jasti_s_40.3461_18.1709,Jasti's,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/jastis_40.3461_18.1709.json,custom
+40.356657,18.187060,osm_charlot_40.3567_18.1871,Charlot,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/charlot_40.3567_18.1871.json,custom
+40.351706,18.172371,osm_gemelli_40.3517_18.1724,Gemelli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/gemelli_40.3517_18.1724.json,custom
+40.351657,18.171785,osm_alibi_40.3517_18.1718,Alibi,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/alibi_40.3517_18.1718.json,custom
+40.355381,18.176624,osm_bar_cappuccineria_degli_angeli_40.3554_18.1766,Bar Cappuccineria degli Angeli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_cappuccineria_degli_angeli_40.3554_18.1766.json,custom
+40.353918,18.181515,osm_trinchese_caf__40.3539_18.1815,Trinchese Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/trinchese_caf_40.3539_18.1815.json,custom
+40.352904,18.183549,osm_2017_caf__40.3529_18.1835,2017 Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/2017_caf_40.3529_18.1835.json,custom
+40.350597,18.169763,osm_san_l__vintage_40.3506_18.1698,San Lù Vintage,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/san_l_vintage_40.3506_18.1698.json,custom
+40.349490,18.169221,osm_i_birrattieri_40.3495_18.1692,I birrattieri,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/i_birrattieri_40.3495_18.1692.json,custom
+40.351615,18.165978,osm_south_40.3516_18.1660,South,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/south_40.3516_18.1660.json,custom
+40.353491,18.179884,osm_duo_emme_aperitif_40.3535_18.1799,Duo Emme Aperitif,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/duo_emme_aperitif_40.3535_18.1799.json,custom
+40.362181,18.169752,osm_coffeness_40.3622_18.1698,Coffeness,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/coffeness_40.3622_18.1698.json,custom
+40.353942,18.176559,osm_mida_gran_caf__40.3539_18.1766,Mida Gran Cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mida_gran_caf_40.3539_18.1766.json,custom
+40.351189,18.178871,osm_caff__foscarini_40.3512_18.1789,Caffè Foscarini,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_foscarini_40.3512_18.1789.json,custom
+40.356505,18.166560,osm_cantiere_40.3565_18.1666,Cantiere,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/cantiere_40.3565_18.1666.json,custom
+40.354492,18.180734,osm_bibou_art_40.3545_18.1807,Bibou Art,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bibou_art_40.3545_18.1807.json,custom
+40.355609,18.188400,osm_nuovo_caff__carletto_40.3556_18.1884,Nuovo Caffè Carletto,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/nuovo_caff_carletto_40.3556_18.1884.json,custom
+40.362288,18.168610,osm_terminal_bar_40.3623_18.1686,Terminal Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/terminal_bar_40.3623_18.1686.json,custom
+40.351585,18.172487,osm_sun_city_cicchetteria_40.3516_18.1725,Sun City Cicchetteria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/sun_city_cicchetteria_40.3516_18.1725.json,custom
+40.351578,18.172680,osm_mivida_40.3516_18.1727,Mivida,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/mivida_40.3516_18.1727.json,custom
+40.358443,18.166683,osm_caff__belloluogo_40.3584_18.1667,Caffè Belloluogo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/caff_belloluogo_40.3584_18.1667.json,custom
+40.350487,18.171577,osm_quarta_stefania_40.3505_18.1716,Quarta Stefania,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/quarta_stefania_40.3505_18.1716.json,custom
+40.348283,18.167907,osm_bar_euclide_40.3483_18.1679,Bar Euclide,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/bar_euclide_40.3483_18.1679.json,custom
+40.354379,18.177253,osm_float_40.3544_18.1773,Float,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/float_40.3544_18.1773.json,custom
+40.352130,18.194853,osm_barrito_40.3521_18.1949,Barrito,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/barrito_40.3521_18.1949.json,custom
+40.360652,18.157505,osm_tennent_s_grill_40.3607_18.1575,Tennent's Grill,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/lecce/pages/tennents_grill_40.3607_18.1575.json,custom

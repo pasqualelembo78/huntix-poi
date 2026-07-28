@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # bitonto -- landmarks
-41.110850,16.688201,ov_museo_archeologico_fondazione_de_palo_un_41.1108_16.6882,Museo Archeologico Fondazione De Palo Ungaro,MUSEUM,monumento
-41.107658,16.691325,ov_piazza_cavour___bitonto_41.1077_16.6913,Piazza Cavour - Bitonto,MONUMENT,monumento
-41.106920,16.690880,ov_la_macchina_del_tempo__museo_di_storia_v_41.1069_16.6909,La Macchina del Tempo. Museo di Storia Virtuale,MUSEUM,monumento
-41.105975,16.691667,ov_museo_diocesano_mons__a__marena_41.1060_16.6917,Museo Diocesano Mons. A. Marena,MUSEUM,monumento
-41.106723,16.690726,ov_galleria_nazionale_della_puglia_g__e_r___41.1067_16.6907,Galleria Nazionale della Puglia G. e R. Devanna,MUSEUM,monumento
+41.110850,16.688201,ov_museo_archeologico_fondazione_de_palo_un_41.1108_16.6882,Museo Archeologico Fondazione De Palo Ungaro,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitonto/pages/museo_archeologico_fondazione_de_palo_un_41.1108_16.6882.json,custom
+41.107658,16.691325,ov_piazza_cavour___bitonto_41.1077_16.6913,Piazza Cavour - Bitonto,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitonto/pages/piazza_cavour_-_bitonto_41.1077_16.6913.json,custom
+41.106920,16.690880,ov_la_macchina_del_tempo__museo_di_storia_v_41.1069_16.6909,La Macchina del Tempo. Museo di Storia Virtuale,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitonto/pages/la_macchina_del_tempo_museo_di_storia_vi_41.1069_16.6909.json,custom
+41.105975,16.691667,ov_museo_diocesano_mons__a__marena_41.1060_16.6917,Museo Diocesano Mons. A. Marena,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitonto/pages/museo_diocesano_mons_a_marena_41.1060_16.6917.json,custom
+41.106723,16.690726,ov_galleria_nazionale_della_puglia_g__e_r___41.1067_16.6907,Galleria Nazionale della Puglia G. e R. Devanna,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bitonto/pages/galleria_nazionale_della_puglia_g_e_r_de_41.1067_16.6907.json,custom

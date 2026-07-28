@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carbone -- bars_cafes
-40.141106,16.091365,ov_cotton_club_40.1411_16.0914,Cotton Club,RESTAURANT,bar_cafe
-40.142482,16.091727,ov_bar_dello_sport_40.1425_16.0917,Bar dello Sport,RESTAURANT,bar_cafe
-40.141200,16.088906,ov_budcafe21_40.1412_16.0889,Budcafe21,RESTAURANT,bar_cafe
-40.140357,16.087421,ov_questa_e__carbone_40.1404_16.0874,Questa E' Carbone,RESTAURANT,bar_cafe
+40.141106,16.091365,ov_cotton_club_40.1411_16.0914,Cotton Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carbone/pages/cotton_club_40.1411_16.0914.json,custom
+40.142482,16.091727,ov_bar_dello_sport_40.1425_16.0917,Bar dello Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carbone/pages/bar_dello_sport_40.1425_16.0917.json,custom
+40.141200,16.088906,ov_budcafe21_40.1412_16.0889,Budcafe21,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carbone/pages/budcafe21_40.1412_16.0889.json,custom
+40.140357,16.087421,ov_questa_e__carbone_40.1404_16.0874,Questa E' Carbone,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carbone/pages/questa_e_carbone_40.1404_16.0874.json,custom

@@ -1,42 +1,41 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # leverano -- restaurants
-40.290589,18.000030,osm_ristorante_pizzeria_da_franco_40.2906_18.0000,Ristorante pizzeria Da Franco,ristorante,ristorante
-40.294311,17.996509,osm_la_pittula_40.2943_17.9965,La Pittula,ristorante,ristorante
-40.277574,17.954122,osm_exedra_restaurant___villa_ghetta_country_40.2776_17.9541,Exedra Restaurant - Villa Ghetta Country House,ristorante,ristorante
-40.309060,17.986516,ov_albaro_resort_40.3091_17.9865,Albaro Resort,RESTAURANT,ristorante
-40.311758,17.983733,ov_agriturismo_aromi_e_sapori_40.3118_17.9837,Agriturismo Aromi e Sapori,RESTAURANT,ristorante
-40.297762,17.993534,ov_il_toscanaccio_40.2978_17.9935,Il Toscanaccio,RESTAURANT,ristorante
-40.294072,17.997267,ov_la_vecchia_pergola_40.2941_17.9973,La Vecchia Pergola,RESTAURANT,ristorante
-40.294307,17.996535,ov_la_pittula_40.2943_17.9965,La Pittula,RESTAURANT,ristorante
-40.292130,17.999112,ov_il_re_matto_40.2921_17.9991,Il Re Matto,RESTAURANT,ristorante
-40.292013,17.999328,ov_rem__restaurant___pizza_40.2920_17.9993,Remè Restaurant & Pizza,RESTAURANT,ristorante
-40.291788,17.998707,ov_al_posto_giusto_40.2918_17.9987,Al Posto Giusto,RESTAURANT,ristorante
-40.291869,17.998749,ov_umami_40.2919_17.9987,Umami,RESTAURANT,ristorante
-40.291813,17.998795,ov_pizzeria_napule_40.2918_17.9988,Pizzeria Napule,RESTAURANT,ristorante
-40.290578,17.999962,ov_zecca_franco_40.2906_18.0000,Zecca Franco,RESTAURANT,ristorante
-40.289971,17.999267,ov_arc_s_pizza___grill_40.2900_17.9993,Arcùs Pizza & Grill,RESTAURANT,ristorante
-40.291098,17.998317,ov_la_serra_bistrot_40.2911_17.9983,La Serra Bistrot,RESTAURANT,ristorante
-40.285333,17.989129,ov_il_quadrifoglio_40.2853_17.9891,Il Quadrifoglio,RESTAURANT,ristorante
-40.289210,17.988940,ov_sapore_di_mare__ristorante__40.2892_17.9889,Sapore di Mare -Ristorante-,RESTAURANT,ristorante
-40.289391,17.991318,ov_fermentum_pizzeria_e_birreria_40.2894_17.9913,Fermentum Pizzeria e Birreria,RESTAURANT,ristorante
-40.289471,17.991979,ov_al_bruschettone_40.2895_17.9920,Al Bruschettone,RESTAURANT,ristorante
-40.289569,17.993914,ov_dolci_delizie_bar_pasticceria_40.2896_17.9939,Dolci Delizie Bar-Pasticceria,RESTAURANT,ristorante
-40.289835,17.994500,ov_la_vivanda_40.2898_17.9945,la Vivanda,RESTAURANT,ristorante
-40.288599,17.998078,ov_casa_birrozza_40.2886_17.9981,Casa Birrozza,RESTAURANT,ristorante
-40.289381,17.998997,ov_sushi_leverano_40.2894_17.9990,Sushi Leverano,RESTAURANT,ristorante
-40.289374,17.999336,ov_roma_spa_40.2894_17.9993,Roma Spa,RESTAURANT,ristorante
-40.289340,17.998742,ov_take_away_di_albano_giorgio_40.2893_17.9987,Take Away di Albano Giorgio,RESTAURANT,ristorante
-40.289419,17.998721,ov_civico_9_da_vlady_40.2894_17.9987,Civico 9 da Vlady,RESTAURANT,ristorante
-40.289334,17.999488,ov_zoe_2nd_food___drink_leverano_40.2893_17.9995,Zoe 2nd Food & Drink-Leverano,RESTAURANT,ristorante
-40.288953,17.999851,ov_diverso_risto_pub_40.2890_17.9999,Diverso Risto Pub,RESTAURANT,ristorante
-40.289002,17.999770,ov_borgo_pizza_bar_40.2890_17.9998,Borgo Pizza Bar,RESTAURANT,ristorante
-40.289124,17.999220,ov_cosimo_russo_ristorante_40.2891_17.9992,Cosimo Russo Ristorante,RESTAURANT,ristorante
-40.288180,17.996889,ov_pizzeria_bar_h_40.2882_17.9969,Pizzeria-Bar H,RESTAURANT,ristorante
-40.281882,17.973528,ov_locanda_calieri_40.2819_17.9735,Locanda Calieri,RESTAURANT,ristorante
-40.277811,17.953984,ov_exedra_restaurant_40.2778_17.9540,Exedra Restaurant,RESTAURANT,ristorante
-40.282912,17.953121,ov_masseria_gentile_40.2829_17.9531,Masseria Gentile,RESTAURANT,ristorante
-40.286700,17.957166,ov_residence_gli_ulivi_40.2867_17.9572,Residence Gli Ulivi,RESTAURANT,ristorante
-40.285574,17.965244,ov_tenuta_flora_maria_40.2856_17.9652,Tenuta Flora Maria,RESTAURANT,ristorante
-40.288392,18.007231,ov_pizzeria_lo_sfizio_leverano_40.2884_18.0072,Pizzeria Lo Sfizio Leverano,RESTAURANT,ristorante
-40.294570,18.000610,ov_la_fenice_40.2946_18.0006,La Fenice,RESTAURANT,ristorante
-40.301048,18.013719,ov_ristorante_vigna_grande_40.3010_18.0137,Ristorante Vigna Grande,RESTAURANT,ristorante
+40.309060,17.986516,ov_albaro_resort_40.3091_17.9865,Albaro Resort,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/albaro_resort_40.3091_17.9865.json,custom
+40.311758,17.983733,ov_agriturismo_aromi_e_sapori_40.3118_17.9837,Agriturismo Aromi e Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/agriturismo_aromi_e_sapori_40.3118_17.9837.json,custom
+40.297762,17.993534,ov_il_toscanaccio_40.2978_17.9935,Il Toscanaccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/il_toscanaccio_40.2978_17.9935.json,custom
+40.294072,17.997267,ov_la_vecchia_pergola_40.2941_17.9973,La Vecchia Pergola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_vecchia_pergola_40.2941_17.9973.json,custom
+40.294307,17.996535,ov_la_pittula_40.2943_17.9965,La Pittula,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_pittula_40.2943_17.9965.json,custom
+40.292130,17.999112,ov_il_re_matto_40.2921_17.9991,Il Re Matto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/il_re_matto_40.2921_17.9991.json,custom
+40.292013,17.999328,ov_rem__restaurant___pizza_40.2920_17.9993,Remè Restaurant & Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/rem_restaurant_pizza_40.2920_17.9993.json,custom
+40.291788,17.998707,ov_al_posto_giusto_40.2918_17.9987,Al Posto Giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/al_posto_giusto_40.2918_17.9987.json,custom
+40.291869,17.998749,ov_umami_40.2919_17.9987,Umami,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/umami_40.2919_17.9987.json,custom
+40.291813,17.998795,ov_pizzeria_napule_40.2918_17.9988,Pizzeria Napule,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/pizzeria_napule_40.2918_17.9988.json,custom
+40.290578,17.999962,ov_zecca_franco_40.2906_18.0000,Zecca Franco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/zecca_franco_40.2906_18.0000.json,custom
+40.289971,17.999267,ov_arc_s_pizza___grill_40.2900_17.9993,Arcùs Pizza & Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/arcs_pizza_grill_40.2900_17.9993.json,custom
+40.291098,17.998317,ov_la_serra_bistrot_40.2911_17.9983,La Serra Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_serra_bistrot_40.2911_17.9983.json,custom
+40.285333,17.989129,ov_il_quadrifoglio_40.2853_17.9891,Il Quadrifoglio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/il_quadrifoglio_40.2853_17.9891.json,custom
+40.289210,17.988940,ov_sapore_di_mare__ristorante__40.2892_17.9889,Sapore di Mare -Ristorante-,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/sapore_di_mare_-ristorante-_40.2892_17.9889.json,custom
+40.289391,17.991318,ov_fermentum_pizzeria_e_birreria_40.2894_17.9913,Fermentum Pizzeria e Birreria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/fermentum_pizzeria_e_birreria_40.2894_17.9913.json,custom
+40.289471,17.991979,ov_al_bruschettone_40.2895_17.9920,Al Bruschettone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/al_bruschettone_40.2895_17.9920.json,custom
+40.289569,17.993914,ov_dolci_delizie_bar_pasticceria_40.2896_17.9939,Dolci Delizie Bar-Pasticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/dolci_delizie_bar-pasticceria_40.2896_17.9939.json,custom
+40.289835,17.994500,ov_la_vivanda_40.2898_17.9945,la Vivanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_vivanda_40.2898_17.9945.json,custom
+40.288599,17.998078,ov_casa_birrozza_40.2886_17.9981,Casa Birrozza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/casa_birrozza_40.2886_17.9981.json,custom
+40.289381,17.998997,ov_sushi_leverano_40.2894_17.9990,Sushi Leverano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/sushi_leverano_40.2894_17.9990.json,custom
+40.289374,17.999336,ov_roma_spa_40.2894_17.9993,Roma Spa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/roma_spa_40.2894_17.9993.json,custom
+40.289340,17.998742,ov_take_away_di_albano_giorgio_40.2893_17.9987,Take Away di Albano Giorgio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/take_away_di_albano_giorgio_40.2893_17.9987.json,custom
+40.289419,17.998721,ov_civico_9_da_vlady_40.2894_17.9987,Civico 9 da Vlady,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/civico_9_da_vlady_40.2894_17.9987.json,custom
+40.289334,17.999488,ov_zoe_2nd_food___drink_leverano_40.2893_17.9995,Zoe 2nd Food & Drink-Leverano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/zoe_2nd_food_drink-leverano_40.2893_17.9995.json,custom
+40.288953,17.999851,ov_diverso_risto_pub_40.2890_17.9999,Diverso Risto Pub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/diverso_risto_pub_40.2890_17.9999.json,custom
+40.289002,17.999770,ov_borgo_pizza_bar_40.2890_17.9998,Borgo Pizza Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/borgo_pizza_bar_40.2890_17.9998.json,custom
+40.289124,17.999220,ov_cosimo_russo_ristorante_40.2891_17.9992,Cosimo Russo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/cosimo_russo_ristorante_40.2891_17.9992.json,custom
+40.288180,17.996889,ov_pizzeria_bar_h_40.2882_17.9969,Pizzeria-Bar H,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/pizzeria-bar_h_40.2882_17.9969.json,custom
+40.281882,17.973528,ov_locanda_calieri_40.2819_17.9735,Locanda Calieri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/locanda_calieri_40.2819_17.9735.json,custom
+40.277811,17.953984,ov_exedra_restaurant_40.2778_17.9540,Exedra Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/exedra_restaurant_40.2778_17.9540.json,custom
+40.282912,17.953121,ov_masseria_gentile_40.2829_17.9531,Masseria Gentile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/masseria_gentile_40.2829_17.9531.json,custom
+40.286700,17.957166,ov_residence_gli_ulivi_40.2867_17.9572,Residence Gli Ulivi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/residence_gli_ulivi_40.2867_17.9572.json,custom
+40.285574,17.965244,ov_tenuta_flora_maria_40.2856_17.9652,Tenuta Flora Maria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/tenuta_flora_maria_40.2856_17.9652.json,custom
+40.288392,18.007231,ov_pizzeria_lo_sfizio_leverano_40.2884_18.0072,Pizzeria Lo Sfizio Leverano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/pizzeria_lo_sfizio_leverano_40.2884_18.0072.json,custom
+40.294570,18.000610,ov_la_fenice_40.2946_18.0006,La Fenice,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/la_fenice_40.2946_18.0006.json,custom
+40.301048,18.013719,ov_ristorante_vigna_grande_40.3010_18.0137,Ristorante Vigna Grande,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/ristorante_vigna_grande_40.3010_18.0137.json,custom
+40.290589,18.000030,osm_ristorante_pizzeria_da_franco_40.2906_18.0000,Ristorante pizzeria Da Franco,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/ristorante_pizzeria_da_franco_40.2906_18.0000.json,custom
+40.277574,17.954122,osm_exedra_restaurant___villa_ghetta_country_40.2776_17.9541,Exedra Restaurant - Villa Ghetta Country House,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/leverano/pages/exedra_restaurant_-_villa_ghetta_country_40.2776_17.9541.json,custom

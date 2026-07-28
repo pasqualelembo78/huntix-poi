@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # castelluccio_dei_sauri -- restaurants
-41.305483,15.465680,ov_antichi_merletti_41.3055_15.4657,Antichi Merletti,RESTAURANT,ristorante
-41.303872,15.474054,ov_al_vecchio_casale_41.3039_15.4741,Al Vecchio Casale,RESTAURANT,ristorante
-41.360106,15.537336,ov_posta_piana___pizzeria_trattoria_braceri_41.3601_15.5373,POSTA PIANA - Pizzeria Trattoria Braceria,RESTAURANT,ristorante
+41.305483,15.465680,ov_antichi_merletti_41.3055_15.4657,Antichi Merletti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelluccio_dei_sauri/pages/antichi_merletti_41.3055_15.4657.json,custom
+41.303872,15.474054,ov_al_vecchio_casale_41.3039_15.4741,Al Vecchio Casale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelluccio_dei_sauri/pages/al_vecchio_casale_41.3039_15.4741.json,custom
+41.360106,15.537336,ov_posta_piana___pizzeria_trattoria_braceri_41.3601_15.5373,POSTA PIANA - Pizzeria Trattoria Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/castelluccio_dei_sauri/pages/posta_piana_-_pizzeria_trattoria_braceri_41.3601_15.5373.json,custom

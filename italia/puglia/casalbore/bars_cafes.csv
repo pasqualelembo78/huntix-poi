@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # casalbore -- bars_cafes
-41.234917,15.005307,ov_il_commendatore_41.2349_15.0053,Il Commendatore,RESTAURANT,bar_cafe
-41.234740,15.010650,ov_la_brocca_41.2347_15.0107,La Brocca,RESTAURANT,bar_cafe
-41.232055,15.008116,ov_pasticceria_del_viscovo_41.2321_15.0081,Pasticceria Del Viscovo,RESTAURANT,bar_cafe
+41.234917,15.005307,ov_il_commendatore_41.2349_15.0053,Il Commendatore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalbore/pages/il_commendatore_41.2349_15.0053.json,custom
+41.234740,15.010650,ov_la_brocca_41.2347_15.0107,La Brocca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalbore/pages/la_brocca_41.2347_15.0107.json,custom
+41.232055,15.008116,ov_pasticceria_del_viscovo_41.2321_15.0081,Pasticceria Del Viscovo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/casalbore/pages/pasticceria_del_viscovo_41.2321_15.0081.json,custom

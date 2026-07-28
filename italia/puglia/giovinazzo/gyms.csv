@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # giovinazzo -- gyms
-41.189760,16.674000,ov_asd_ginnastica_ritmica_iris_41.1898_16.6740,ASD Ginnastica Ritmica IRIS,GYM,palestra
-41.192740,16.657535,ov_la_torretta_41.1927_16.6575,La Torretta,GYM,palestra
-41.191492,16.650403,ov_lido_nautilus___giovinazzo_41.1915_16.6504,Lido Nautilus - Giovinazzo,GYM,palestra
-41.189062,16.667633,ov_campo_calcetto_monaci_giovinazzo_41.1891_16.6676,Campo Calcetto Monaci Giovinazzo,GYM,palestra
-41.183993,16.664299,ov_coreutica_scuola_di_balletto_41.1840_16.6643,Coreutica Scuola Di Balletto,GYM,palestra
-41.182721,16.678154,ov_better_lottomatica_giovinazzo_41.1827_16.6782,Better Lottomatica Giovinazzo,GYM,palestra
-41.184110,16.678070,ov_dance_team_giovinazzo_41.1841_16.6781,Dance Team Giovinazzo,GYM,palestra
-41.183808,16.672827,ov_omkara_studio_yoga_41.1838_16.6728,Omkara studio yoga,GYM,palestra
-41.184061,16.668995,ov_college_of_dance_41.1841_16.6690,College Of Dance,GYM,palestra
-41.185324,16.672648,ov_palestra_linea_fitness_41.1853_16.6726,Palestra Linea Fitness,GYM,palestra
-41.186336,16.669527,ov_hero_gym_41.1863_16.6695,Hero Gym,GYM,palestra
-41.187177,16.671986,ov_tf_quarter_horse_41.1872_16.6720,TF Quarter Horse,GYM,palestra
+41.189760,16.674000,ov_asd_ginnastica_ritmica_iris_41.1898_16.6740,ASD Ginnastica Ritmica IRIS,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/asd_ginnastica_ritmica_iris_41.1898_16.6740.json,custom
+41.192740,16.657535,ov_la_torretta_41.1927_16.6575,La Torretta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/la_torretta_41.1927_16.6575.json,custom
+41.191492,16.650403,ov_lido_nautilus___giovinazzo_41.1915_16.6504,Lido Nautilus - Giovinazzo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/lido_nautilus_-_giovinazzo_41.1915_16.6504.json,custom
+41.189062,16.667633,ov_campo_calcetto_monaci_giovinazzo_41.1891_16.6676,Campo Calcetto Monaci Giovinazzo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/campo_calcetto_monaci_giovinazzo_41.1891_16.6676.json,custom
+41.183993,16.664299,ov_coreutica_scuola_di_balletto_41.1840_16.6643,Coreutica Scuola Di Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/coreutica_scuola_di_balletto_41.1840_16.6643.json,custom
+41.182721,16.678154,ov_better_lottomatica_giovinazzo_41.1827_16.6782,Better Lottomatica Giovinazzo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/better_lottomatica_giovinazzo_41.1827_16.6782.json,custom
+41.184110,16.678070,ov_dance_team_giovinazzo_41.1841_16.6781,Dance Team Giovinazzo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/dance_team_giovinazzo_41.1841_16.6781.json,custom
+41.183808,16.672827,ov_omkara_studio_yoga_41.1838_16.6728,Omkara studio yoga,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/omkara_studio_yoga_41.1838_16.6728.json,custom
+41.184061,16.668995,ov_college_of_dance_41.1841_16.6690,College Of Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/college_of_dance_41.1841_16.6690.json,custom
+41.185324,16.672648,ov_palestra_linea_fitness_41.1853_16.6726,Palestra Linea Fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/palestra_linea_fitness_41.1853_16.6726.json,custom
+41.186336,16.669527,ov_hero_gym_41.1863_16.6695,Hero Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/hero_gym_41.1863_16.6695.json,custom
+41.187177,16.671986,ov_tf_quarter_horse_41.1872_16.6720,TF Quarter Horse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/giovinazzo/pages/tf_quarter_horse_41.1872_16.6720.json,custom

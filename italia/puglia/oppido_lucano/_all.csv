@@ -1,17 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Oppido Lucano -- Tutti
-40.760430,15.977349,ov_agriturismo_la_cascina_40.7604_15.9773,Agriturismo La Cascina,RESTAURANT,ristorante
-40.765605,15.989832,ov_mir__bistrot_braceria_40.7656_15.9898,MiRò Bistrot Braceria,RESTAURANT,ristorante
-40.765855,15.993069,ov_la_cascina_bistrot_40.7659_15.9931,La Cascina Bistrot,RESTAURANT,ristorante
-40.764973,15.990853,ov_fantini_store_oppido_lucano_40.7650_15.9909,Fantini Store Oppido Lucano,RESTAURANT,ristorante
-40.763198,15.990711,ov_roma67_40.7632_15.9907,Roma67,RESTAURANT,ristorante
-40.774970,15.986390,ov_agriturismo_l_oasi_40.7750_15.9864,Agriturismo L'Oasi,RESTAURANT,ristorante
-40.694967,16.017513,ov_85015_risto_pub_40.6950_16.0175,85015 Risto-Pub,RESTAURANT,bar_cafe
-40.756930,15.996670,ov_flam__40.7569_15.9967,Flamì,RESTAURANT,bar_cafe
-40.761884,15.986554,ov_85015_ristopub_40.7619_15.9866,85015 Ristopub,RESTAURANT,bar_cafe
-40.764783,15.991228,ov_bar_italia_40.7648_15.9912,Bar Italia,RESTAURANT,bar_cafe
-40.996336,15.654259,ov_escaff__40.9963_15.6543,Escaffè,RESTAURANT,bar_cafe
-40.765464,15.990555,ov_bar_brothers_gym_club_40.7655_15.9906,Bar Brothers Gym Club,GYM,palestra
-40.763991,15.991215,ov_goblin_s_gym_40.7640_15.9912,Goblin's Gym,GYM,palestra
-40.732110,15.922370,ov_castello_di_cancellara_40.7321_15.9224,Castello di Cancellara,MONUMENT,monumento
-40.765062,15.992320,ov_castello_di_oppido_40.7651_15.9923,Castello di Oppido,MONUMENT,monumento
+40.760430,15.977349,ov_agriturismo_la_cascina_40.7604_15.9773,Agriturismo La Cascina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/agriturismo_la_cascina_40.7604_15.9773.json,custom
+40.765605,15.989832,ov_mir__bistrot_braceria_40.7656_15.9898,MiRò Bistrot Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/mir_bistrot_braceria_40.7656_15.9898.json,custom
+40.765855,15.993069,ov_la_cascina_bistrot_40.7659_15.9931,La Cascina Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/la_cascina_bistrot_40.7659_15.9931.json,custom
+40.764973,15.990853,ov_fantini_store_oppido_lucano_40.7650_15.9909,Fantini Store Oppido Lucano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/fantini_store_oppido_lucano_40.7650_15.9909.json,custom
+40.763198,15.990711,ov_roma67_40.7632_15.9907,Roma67,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/roma67_40.7632_15.9907.json,custom
+40.774970,15.986390,ov_agriturismo_l_oasi_40.7750_15.9864,Agriturismo L'Oasi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/agriturismo_loasi_40.7750_15.9864.json,custom
+40.694967,16.017513,ov_85015_risto_pub_40.6950_16.0175,85015 Risto-Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/85015_risto-pub_40.6950_16.0175.json,custom
+40.756930,15.996670,ov_flam__40.7569_15.9967,Flamì,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/flam_40.7569_15.9967.json,custom
+40.761884,15.986554,ov_85015_ristopub_40.7619_15.9866,85015 Ristopub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/85015_ristopub_40.7619_15.9866.json,custom
+40.764783,15.991228,ov_bar_italia_40.7648_15.9912,Bar Italia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/bar_italia_40.7648_15.9912.json,custom
+40.996336,15.654259,ov_escaff__40.9963_15.6543,Escaffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/escaff_40.9963_15.6543.json,custom
+40.765464,15.990555,ov_bar_brothers_gym_club_40.7655_15.9906,Bar Brothers Gym Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/bar_brothers_gym_club_40.7655_15.9906.json,custom
+40.763991,15.991215,ov_goblin_s_gym_40.7640_15.9912,Goblin's Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/goblins_gym_40.7640_15.9912.json,custom
+40.765529,15.990543,osm_bar_brothers_gym_club_40.7655_15.9905,Bar Brothers Gym Club,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/bar_brothers_gym_club_40.7655_15.9905.json,custom
+40.732110,15.922370,ov_castello_di_cancellara_40.7321_15.9224,Castello di Cancellara,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/castello_di_cancellara_40.7321_15.9224.json,custom
+40.765062,15.992320,ov_castello_di_oppido_40.7651_15.9923,Castello di Oppido,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oppido_lucano/pages/castello_di_oppido_40.7651_15.9923.json,custom

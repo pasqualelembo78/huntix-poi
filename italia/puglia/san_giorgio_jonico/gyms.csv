@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # san_giorgio_jonico -- gyms
-40.460931,17.378454,ov_dancing_my_life_40.4609_17.3785,Dancing my life,GYM,palestra
-40.461419,17.383940,ov_vibe_art_studio_asd_40.4614_17.3839,Vibe Art Studio ASD,GYM,palestra
-40.459856,17.378312,ov_gym_and_style_40.4599_17.3783,Gym And Style,GYM,palestra
-40.459077,17.373032,ov_asd_fabbiano_boxing_40.4591_17.3730,Asd Fabbiano Boxing,GYM,palestra
-40.456870,17.374250,ov_dojo_oyama_san_giorgio_jonico_40.4569_17.3742,Dojo Oyama San Giorgio Jonico,GYM,palestra
-40.455276,17.374648,ov_gdm_italiana_bambini___sez__san_giorgio__40.4553_17.3746,GDM Italiana Bambini - Sez. San Giorgio Ionico,GYM,palestra
-40.455274,17.387691,ov_a__s__d__fitness_exellence_40.4553_17.3877,A. S. D. Fitness Exellence,GYM,palestra
-40.453003,17.385683,ov_scuola_di_ballo_power_dance_40.4530_17.3857,Scuola di Ballo Power Dance,GYM,palestra
-40.458430,17.370520,ov_poligono_a_team_40.4584_17.3705,Poligono A-team,GYM,palestra
-40.449205,17.370616,ov_circolo_ippico_horse_club_terra_jonica_40.4492_17.3706,Circolo Ippico Horse Club Terra Jonica,GYM,palestra
-40.454583,17.388398,ov_l_etoile_forum_40.4546_17.3884,L'Etoile Forum,GYM,palestra
+40.460931,17.378454,ov_dancing_my_life_40.4609_17.3785,Dancing my life,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/dancing_my_life_40.4609_17.3785.json,custom
+40.461419,17.383940,ov_vibe_art_studio_asd_40.4614_17.3839,Vibe Art Studio ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/vibe_art_studio_asd_40.4614_17.3839.json,custom
+40.459856,17.378312,ov_gym_and_style_40.4599_17.3783,Gym And Style,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/gym_and_style_40.4599_17.3783.json,custom
+40.459077,17.373032,ov_asd_fabbiano_boxing_40.4591_17.3730,Asd Fabbiano Boxing,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/asd_fabbiano_boxing_40.4591_17.3730.json,custom
+40.456870,17.374250,ov_dojo_oyama_san_giorgio_jonico_40.4569_17.3742,Dojo Oyama San Giorgio Jonico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/dojo_oyama_san_giorgio_jonico_40.4569_17.3742.json,custom
+40.455276,17.374648,ov_gdm_italiana_bambini___sez__san_giorgio__40.4553_17.3746,GDM Italiana Bambini - Sez. San Giorgio Ionico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/gdm_italiana_bambini_-_sez_san_giorgio_i_40.4553_17.3746.json,custom
+40.455274,17.387691,ov_a__s__d__fitness_exellence_40.4553_17.3877,A. S. D. Fitness Exellence,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/a_s_d_fitness_exellence_40.4553_17.3877.json,custom
+40.453003,17.385683,ov_scuola_di_ballo_power_dance_40.4530_17.3857,Scuola di Ballo Power Dance,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/scuola_di_ballo_power_dance_40.4530_17.3857.json,custom
+40.458430,17.370520,ov_poligono_a_team_40.4584_17.3705,Poligono A-team,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/poligono_a-team_40.4584_17.3705.json,custom
+40.449205,17.370616,ov_circolo_ippico_horse_club_terra_jonica_40.4492_17.3706,Circolo Ippico Horse Club Terra Jonica,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/circolo_ippico_horse_club_terra_jonica_40.4492_17.3706.json,custom
+40.454583,17.388398,ov_l_etoile_forum_40.4546_17.3884,L'Etoile Forum,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/san_giorgio_jonico/pages/letoile_forum_40.4546_17.3884.json,custom

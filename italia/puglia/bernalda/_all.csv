@@ -1,75 +1,75 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Bernalda -- Tutti
-40.360336,16.836903,osm_terrazzino_degli_dei___da_vito_40.3603_16.8369,Terrazzino degli dei - da vito,ristorante,ristorante
-40.403290,16.688503,osm_ristorante_alle_porte_40.4033_16.6885,Ristorante alle Porte,ristorante,ristorante
-40.409689,16.686588,osm_boutique_della_carne_carlucci_antonio_40.4097_16.6866,Boutique della carne CARLUCCI Antonio,ristorante,ristorante
-40.408453,16.687624,osm_ristorante_i_pitagorici_40.4085_16.6876,Ristorante I Pitagorici,ristorante,ristorante
-40.406341,16.688069,ov_stazione_di_inanellamento_foce_bradano_40.4063_16.6881,Stazione di Inanellamento Foce Bradano,HOSPITAL,hospital
-40.373147,16.838436,ov_ristorante___riva_dei_greci_40.3731_16.8384,Ristorante - Riva Dei Greci,RESTAURANT,ristorante
-40.355682,16.833453,ov_lido_la_chimera_40.3557_16.8335,Lido La Chimera,RESTAURANT,ristorante
-40.358994,16.835360,ov_ristorante_pizzeria_le_sirene_40.3590_16.8354,Ristorante/Pizzeria Le Sirene,RESTAURANT,ristorante
-40.358638,16.835718,ov_blumen_bad_beach_40.3586_16.8357,Blumen Bad Beach,RESTAURANT,ristorante
-40.360378,16.836774,ov_il_terrazzino_degli_dei_40.3604_16.8368,Il Terrazzino degli Dei,RESTAURANT,ristorante
-40.361373,16.837263,ov_l_oasi_ristorante_b_b_40.3614_16.8373,L'Oasi Ristorante B&B,RESTAURANT,ristorante
-40.362099,16.834735,ov_trattoria_la_barchetta_40.3621_16.8347,Trattoria La Barchetta,RESTAURANT,ristorante
-40.359499,16.831784,ov_blue_iris_ristorante_40.3595_16.8318,Blue Iris ristorante,RESTAURANT,ristorante
-40.371040,16.809780,ov_ristorante_la_chimera_40.3710_16.8098,Ristorante La Chimera,RESTAURANT,ristorante
-40.375697,16.787052,ov_mojto_40.3757_16.7871,Mojto,RESTAURANT,ristorante
-40.379029,16.837385,ov_sicanto_40.3790_16.8374,Sicanto,RESTAURANT,ristorante
-40.395241,16.801270,ov_punto_bianco_40.3952_16.8013,Punto Bianco,RESTAURANT,ristorante
-40.394660,16.800843,ov_colucci_ristorante_40.3947_16.8008,Colucci Ristorante,RESTAURANT,ristorante
-40.409703,16.687976,ov_concept___lunatic_bistrot_40.4097_16.6880,Concept - Lunatic Bistrot,RESTAURANT,ristorante
-40.409615,16.688256,ov_gnam_gnam_40.4096_16.6883,Gnam Gnam,RESTAURANT,ristorante
-40.410504,16.689589,ov_le_bon_petite_40.4105_16.6896,Le Bon Petite,RESTAURANT,ristorante
-40.410734,16.689700,ov_bernaldabella_ristorante_40.4107_16.6897,Bernaldabella Ristorante,RESTAURANT,ristorante
-40.410342,16.688963,ov_ristorante_pennetta_40.4103_16.6890,Ristorante Pennetta,RESTAURANT,ristorante
-40.415629,16.692331,ov_as_argenti_40.4156_16.6923,As Argenti,RESTAURANT,ristorante
-40.415070,16.693310,ov_la_mangiatoia_40.4151_16.6933,La Mangiatoia,RESTAURANT,ristorante
-40.414863,16.692390,ov_ristorante___pizzeria_san_donato_40.4149_16.6924,Ristorante - Pizzeria San Donato,RESTAURANT,ristorante
-40.414304,16.689677,ov_pizzeria_dal_pirata_40.4143_16.6897,Pizzeria dal Pirata,RESTAURANT,ristorante
-40.412562,16.692025,ov_simpatia_40.4126_16.6920,Simpatia,RESTAURANT,ristorante
-40.408470,16.687601,ov_i_pitagorici_ristorante_in_bernalda_40.4085_16.6876,I Pitagorici Ristorante in Bernalda,RESTAURANT,ristorante
-40.408475,16.687599,ov_azienda_agrituristica_masseria_cardillo_40.4085_16.6876,Azienda Agrituristica Masseria Cardillo,RESTAURANT,ristorante
-40.407630,16.687289,ov_ristorante_pizzeria_al_vecchio_frantoio_40.4076_16.6873,Ristorante Pizzeria Al Vecchio Frantoio,RESTAURANT,ristorante
-40.407550,16.688394,ov_pizza_stop_40.4075_16.6884,Pizza Stop,RESTAURANT,ristorante
-40.406153,16.686963,ov_la_mangiatoia_40.4062_16.6870,La Mangiatoia,RESTAURANT,ristorante
-40.359671,16.835536,ov_lounge_cafe_de_mar_40.3597_16.8355,Lounge Cafe De Mar,RESTAURANT,bar_cafe
-40.362113,16.834890,ov_al_rabbit_40.3621_16.8349,Al Rabbit,RESTAURANT,bar_cafe
-40.371040,16.809780,ov_sunrise_bar_40.3710_16.8098,Sunrise Bar,RESTAURANT,bar_cafe
-40.410834,16.689621,ov_bar_pasticceria_del_corso_la_scorzetta_d_40.4108_16.6896,Bar pasticceria Del Corso La Scorzetta di Vincenzo Spinelli,RESTAURANT,bar_cafe
-40.410956,16.689338,ov_momart_40.4110_16.6893,Momart,RESTAURANT,bar_cafe
-40.410866,16.689434,ov_kilgore_pub_40.4109_16.6894,Kilgore Pub,RESTAURANT,bar_cafe
-40.411644,16.690310,ov_new_duemila___subway_40.4116_16.6903,New Duemila - Subway,RESTAURANT,bar_cafe
-40.411851,16.690404,ov_crema___cioccolato_bernalda_40.4119_16.6904,Crema & cioccolato Bernalda,RESTAURANT,bar_cafe
-40.411921,16.691501,ov_pasticceria___cocktail_bar_sissi_40.4119_16.6915,Pasticceria & Cocktail Bar SISSI,RESTAURANT,bar_cafe
-40.412534,16.690997,ov_iqos_premium_partner_bernalda_40.4125_16.6910,IQOS PREMIUM PARTNER BERNALDA,RESTAURANT,bar_cafe
-40.415320,16.693060,ov_eden_park_40.4153_16.6931,Eden Park,RESTAURANT,bar_cafe
-40.414524,16.692441,ov_goldbet_40.4145_16.6924,Goldbet,RESTAURANT,bar_cafe
-40.413562,16.691432,ov_l_orchidea_caffetteria_pasticceria_40.4136_16.6914,L'orchidea Caffetteria Pasticceria,RESTAURANT,bar_cafe
-40.413355,16.690436,ov_merceria_l_ago_incantato_40.4134_16.6904,Merceria L'ago Incantato,RESTAURANT,bar_cafe
-40.413211,16.691166,ov_bar_2000_40.4132_16.6912,Bar 2000,RESTAURANT,bar_cafe
-40.408391,16.687742,ov_azimut_cafe_40.4084_16.6877,Azimut Cafe,RESTAURANT,bar_cafe
-40.408279,16.688303,ov_memphis_pub_40.4083_16.6883,Memphis Pub,RESTAURANT,bar_cafe
-40.408158,16.687554,ov_sciumekafe_40.4082_16.6876,Sciumekafe,RESTAURANT,bar_cafe
-40.408020,16.687470,ov_barcollo_40.4080_16.6875,BarCollo,RESTAURANT,bar_cafe
-40.408898,16.688216,ov_bar_fuor_di_sesto_40.4089_16.6882,Bar Fuor Di Sesto,RESTAURANT,bar_cafe
-40.409314,16.689038,ov_torrefazione_caffe_lucano_40.4093_16.6890,Torrefazione Caffe Lucano,RESTAURANT,bar_cafe
-40.409273,16.688488,ov_caff__turco_40.4093_16.6885,Caffè Turco,RESTAURANT,bar_cafe
-40.407704,16.686998,ov_il_chioschetto_bar_rosticceria_40.4077_16.6870,Il Chioschetto Bar Rosticceria,RESTAURANT,bar_cafe
-40.407417,16.687091,ov_cinecitta_bar_bistrot_40.4074_16.6871,Cinecitta Bar Bistrot,RESTAURANT,bar_cafe
-40.419904,16.676904,ov_bar___benzina_da_megal_40.4199_16.6769,Bar - Benzina da Megal,RESTAURANT,bar_cafe
-40.407742,16.785968,ov_golf_club_metaponto_40.4077_16.7860,Golf Club Metaponto,GYM,palestra
-40.360955,16.837569,ov_nautilus_circolo_polisportivo_ssd_40.3610_16.8376,Nautilus circolo polisportivo ssd,GYM,palestra
-40.393429,16.799831,ov_touchdown_bowling_metaponto_40.3934_16.7998,Touchdown Bowling Metaponto,GYM,palestra
-40.410641,16.686946,ov_beefire_40.4106_16.6869,Beefire,GYM,palestra
-40.407491,16.688469,ov_palestra_sportime_asd_40.4075_16.6885,Palestra Sportime ASD,GYM,palestra
-40.407185,16.692199,ov_palagalilei_40.4072_16.6922,Palagalilei,GYM,palestra
-40.420040,16.703613,ov_centro_sspa_40.4200_16.7036,Centro SSPA,GYM,palestra
-40.416056,16.692941,ov_palazzetto_dello_sport_palacampagna_40.4161_16.6929,Palazzetto dello Sport Palacampagna,GYM,palestra
-40.426271,16.671281,ov_fattoria_sportiva_mastrangelo_40.4263_16.6713,Fattoria Sportiva Mastrangelo,GYM,palestra
-40.415930,16.816798,ov_temple_of_hera_40.4159_16.8168,Temple of Hera,MUSEUM,monumento
-40.410948,16.813410,ov_museo_archeologico_metaponto_40.4109_16.8134,Museo Archeologico Metaponto,MUSEUM,monumento
-40.405778,16.809295,ov_goodit_40.4058_16.8093,Goodit,MUSEUM,monumento
-40.373556,16.807418,ov_museo_archeologico_nazionale_di_metapont_40.3736_16.8074,Museo Archeologico Nazionale di Metaponto,MUSEUM,monumento
-40.404681,16.687192,ov_casa_museo_contadina_40.4047_16.6872,Casa Museo Contadina,MUSEUM,monumento
-40.403561,16.687862,ov_castello_di_bernalda_40.4036_16.6879,Castello di Bernalda,MONUMENT,monumento
+40.406341,16.688069,ov_stazione_di_inanellamento_foce_bradano_40.4063_16.6881,Stazione di Inanellamento Foce Bradano,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/stazione_di_inanellamento_foce_bradano_40.4063_16.6881.json,custom
+40.373147,16.838436,ov_ristorante___riva_dei_greci_40.3731_16.8384,Ristorante - Riva Dei Greci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_-_riva_dei_greci_40.3731_16.8384.json,custom
+40.355682,16.833453,ov_lido_la_chimera_40.3557_16.8335,Lido La Chimera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/lido_la_chimera_40.3557_16.8335.json,custom
+40.358994,16.835360,ov_ristorante_pizzeria_le_sirene_40.3590_16.8354,Ristorante/Pizzeria Le Sirene,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorantepizzeria_le_sirene_40.3590_16.8354.json,custom
+40.358638,16.835718,ov_blumen_bad_beach_40.3586_16.8357,Blumen Bad Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/blumen_bad_beach_40.3586_16.8357.json,custom
+40.360378,16.836774,ov_il_terrazzino_degli_dei_40.3604_16.8368,Il Terrazzino degli Dei,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/il_terrazzino_degli_dei_40.3604_16.8368.json,custom
+40.361373,16.837263,ov_l_oasi_ristorante_b_b_40.3614_16.8373,L'Oasi Ristorante B&B,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/loasi_ristorante_bb_40.3614_16.8373.json,custom
+40.362099,16.834735,ov_trattoria_la_barchetta_40.3621_16.8347,Trattoria La Barchetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/trattoria_la_barchetta_40.3621_16.8347.json,custom
+40.359499,16.831784,ov_blue_iris_ristorante_40.3595_16.8318,Blue Iris ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/blue_iris_ristorante_40.3595_16.8318.json,custom
+40.371040,16.809780,ov_ristorante_la_chimera_40.3710_16.8098,Ristorante La Chimera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_la_chimera_40.3710_16.8098.json,custom
+40.375697,16.787052,ov_mojto_40.3757_16.7871,Mojto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/mojto_40.3757_16.7871.json,custom
+40.379029,16.837385,ov_sicanto_40.3790_16.8374,Sicanto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/sicanto_40.3790_16.8374.json,custom
+40.395241,16.801270,ov_punto_bianco_40.3952_16.8013,Punto Bianco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/punto_bianco_40.3952_16.8013.json,custom
+40.394660,16.800843,ov_colucci_ristorante_40.3947_16.8008,Colucci Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/colucci_ristorante_40.3947_16.8008.json,custom
+40.409703,16.687976,ov_concept___lunatic_bistrot_40.4097_16.6880,Concept - Lunatic Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/concept_-_lunatic_bistrot_40.4097_16.6880.json,custom
+40.409615,16.688256,ov_gnam_gnam_40.4096_16.6883,Gnam Gnam,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/gnam_gnam_40.4096_16.6883.json,custom
+40.410504,16.689589,ov_le_bon_petite_40.4105_16.6896,Le Bon Petite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/le_bon_petite_40.4105_16.6896.json,custom
+40.410734,16.689700,ov_bernaldabella_ristorante_40.4107_16.6897,Bernaldabella Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/bernaldabella_ristorante_40.4107_16.6897.json,custom
+40.410342,16.688963,ov_ristorante_pennetta_40.4103_16.6890,Ristorante Pennetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_pennetta_40.4103_16.6890.json,custom
+40.415629,16.692331,ov_as_argenti_40.4156_16.6923,As Argenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/as_argenti_40.4156_16.6923.json,custom
+40.415070,16.693310,ov_la_mangiatoia_40.4151_16.6933,La Mangiatoia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/la_mangiatoia_40.4151_16.6933.json,custom
+40.414863,16.692390,ov_ristorante___pizzeria_san_donato_40.4149_16.6924,Ristorante - Pizzeria San Donato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_-_pizzeria_san_donato_40.4149_16.6924.json,custom
+40.414304,16.689677,ov_pizzeria_dal_pirata_40.4143_16.6897,Pizzeria dal Pirata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/pizzeria_dal_pirata_40.4143_16.6897.json,custom
+40.412562,16.692025,ov_simpatia_40.4126_16.6920,Simpatia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/simpatia_40.4126_16.6920.json,custom
+40.408470,16.687601,ov_i_pitagorici_ristorante_in_bernalda_40.4085_16.6876,I Pitagorici Ristorante in Bernalda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/i_pitagorici_ristorante_in_bernalda_40.4085_16.6876.json,custom
+40.408475,16.687599,ov_azienda_agrituristica_masseria_cardillo_40.4085_16.6876,Azienda Agrituristica Masseria Cardillo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/azienda_agrituristica_masseria_cardillo_40.4085_16.6876.json,custom
+40.407630,16.687289,ov_ristorante_pizzeria_al_vecchio_frantoio_40.4076_16.6873,Ristorante Pizzeria Al Vecchio Frantoio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_pizzeria_al_vecchio_frantoio_40.4076_16.6873.json,custom
+40.407550,16.688394,ov_pizza_stop_40.4075_16.6884,Pizza Stop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/pizza_stop_40.4075_16.6884.json,custom
+40.406153,16.686963,ov_la_mangiatoia_40.4062_16.6870,La Mangiatoia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/la_mangiatoia_40.4062_16.6870.json,custom
+40.360336,16.836903,osm_terrazzino_degli_dei___da_vito_40.3603_16.8369,Terrazzino degli dei - da vito,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/terrazzino_degli_dei_-_da_vito_40.3603_16.8369.json,custom
+40.403290,16.688503,osm_ristorante_alle_porte_40.4033_16.6885,Ristorante alle Porte,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_alle_porte_40.4033_16.6885.json,custom
+40.409689,16.686588,osm_boutique_della_carne_carlucci_antonio_40.4097_16.6866,Boutique della carne CARLUCCI Antonio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/boutique_della_carne_carlucci_antonio_40.4097_16.6866.json,custom
+40.408453,16.687624,osm_ristorante_i_pitagorici_40.4085_16.6876,Ristorante I Pitagorici,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/ristorante_i_pitagorici_40.4085_16.6876.json,custom
+40.359671,16.835536,ov_lounge_cafe_de_mar_40.3597_16.8355,Lounge Cafe De Mar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/lounge_cafe_de_mar_40.3597_16.8355.json,custom
+40.362113,16.834890,ov_al_rabbit_40.3621_16.8349,Al Rabbit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/al_rabbit_40.3621_16.8349.json,custom
+40.371040,16.809780,ov_sunrise_bar_40.3710_16.8098,Sunrise Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/sunrise_bar_40.3710_16.8098.json,custom
+40.410834,16.689621,ov_bar_pasticceria_del_corso_la_scorzetta_d_40.4108_16.6896,Bar pasticceria Del Corso La Scorzetta di Vincenzo Spinelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/bar_pasticceria_del_corso_la_scorzetta_d_40.4108_16.6896.json,custom
+40.410956,16.689338,ov_momart_40.4110_16.6893,Momart,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/momart_40.4110_16.6893.json,custom
+40.410866,16.689434,ov_kilgore_pub_40.4109_16.6894,Kilgore Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/kilgore_pub_40.4109_16.6894.json,custom
+40.411644,16.690310,ov_new_duemila___subway_40.4116_16.6903,New Duemila - Subway,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/new_duemila_-_subway_40.4116_16.6903.json,custom
+40.411851,16.690404,ov_crema___cioccolato_bernalda_40.4119_16.6904,Crema & cioccolato Bernalda,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/crema_cioccolato_bernalda_40.4119_16.6904.json,custom
+40.411921,16.691501,ov_pasticceria___cocktail_bar_sissi_40.4119_16.6915,Pasticceria & Cocktail Bar SISSI,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/pasticceria_cocktail_bar_sissi_40.4119_16.6915.json,custom
+40.412534,16.690997,ov_iqos_premium_partner_bernalda_40.4125_16.6910,IQOS PREMIUM PARTNER BERNALDA,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/iqos_premium_partner_bernalda_40.4125_16.6910.json,custom
+40.415320,16.693060,ov_eden_park_40.4153_16.6931,Eden Park,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/eden_park_40.4153_16.6931.json,custom
+40.414524,16.692441,ov_goldbet_40.4145_16.6924,Goldbet,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/goldbet_40.4145_16.6924.json,custom
+40.413562,16.691432,ov_l_orchidea_caffetteria_pasticceria_40.4136_16.6914,L'orchidea Caffetteria Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/lorchidea_caffetteria_pasticceria_40.4136_16.6914.json,custom
+40.413355,16.690436,ov_merceria_l_ago_incantato_40.4134_16.6904,Merceria L'ago Incantato,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/merceria_lago_incantato_40.4134_16.6904.json,custom
+40.413211,16.691166,ov_bar_2000_40.4132_16.6912,Bar 2000,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/bar_2000_40.4132_16.6912.json,custom
+40.408391,16.687742,ov_azimut_cafe_40.4084_16.6877,Azimut Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/azimut_cafe_40.4084_16.6877.json,custom
+40.408279,16.688303,ov_memphis_pub_40.4083_16.6883,Memphis Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/memphis_pub_40.4083_16.6883.json,custom
+40.408158,16.687554,ov_sciumekafe_40.4082_16.6876,Sciumekafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/sciumekafe_40.4082_16.6876.json,custom
+40.408020,16.687470,ov_barcollo_40.4080_16.6875,BarCollo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/barcollo_40.4080_16.6875.json,custom
+40.408898,16.688216,ov_bar_fuor_di_sesto_40.4089_16.6882,Bar Fuor Di Sesto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/bar_fuor_di_sesto_40.4089_16.6882.json,custom
+40.409314,16.689038,ov_torrefazione_caffe_lucano_40.4093_16.6890,Torrefazione Caffe Lucano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/torrefazione_caffe_lucano_40.4093_16.6890.json,custom
+40.409273,16.688488,ov_caff__turco_40.4093_16.6885,Caffè Turco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/caff_turco_40.4093_16.6885.json,custom
+40.407704,16.686998,ov_il_chioschetto_bar_rosticceria_40.4077_16.6870,Il Chioschetto Bar Rosticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/il_chioschetto_bar_rosticceria_40.4077_16.6870.json,custom
+40.407417,16.687091,ov_cinecitta_bar_bistrot_40.4074_16.6871,Cinecitta Bar Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/cinecitta_bar_bistrot_40.4074_16.6871.json,custom
+40.419904,16.676904,ov_bar___benzina_da_megal_40.4199_16.6769,Bar - Benzina da Megal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/bar_-_benzina_da_megal_40.4199_16.6769.json,custom
+40.407742,16.785968,ov_golf_club_metaponto_40.4077_16.7860,Golf Club Metaponto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/golf_club_metaponto_40.4077_16.7860.json,custom
+40.360955,16.837569,ov_nautilus_circolo_polisportivo_ssd_40.3610_16.8376,Nautilus circolo polisportivo ssd,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/nautilus_circolo_polisportivo_ssd_40.3610_16.8376.json,custom
+40.393429,16.799831,ov_touchdown_bowling_metaponto_40.3934_16.7998,Touchdown Bowling Metaponto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/touchdown_bowling_metaponto_40.3934_16.7998.json,custom
+40.410641,16.686946,ov_beefire_40.4106_16.6869,Beefire,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/beefire_40.4106_16.6869.json,custom
+40.407491,16.688469,ov_palestra_sportime_asd_40.4075_16.6885,Palestra Sportime ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/palestra_sportime_asd_40.4075_16.6885.json,custom
+40.407185,16.692199,ov_palagalilei_40.4072_16.6922,Palagalilei,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/palagalilei_40.4072_16.6922.json,custom
+40.420040,16.703613,ov_centro_sspa_40.4200_16.7036,Centro SSPA,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/centro_sspa_40.4200_16.7036.json,custom
+40.416056,16.692941,ov_palazzetto_dello_sport_palacampagna_40.4161_16.6929,Palazzetto dello Sport Palacampagna,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/palazzetto_dello_sport_palacampagna_40.4161_16.6929.json,custom
+40.426271,16.671281,ov_fattoria_sportiva_mastrangelo_40.4263_16.6713,Fattoria Sportiva Mastrangelo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/fattoria_sportiva_mastrangelo_40.4263_16.6713.json,custom
+40.415930,16.816798,ov_temple_of_hera_40.4159_16.8168,Temple of Hera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/temple_of_hera_40.4159_16.8168.json,custom
+40.410948,16.813410,ov_museo_archeologico_metaponto_40.4109_16.8134,Museo Archeologico Metaponto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/museo_archeologico_metaponto_40.4109_16.8134.json,custom
+40.405778,16.809295,ov_goodit_40.4058_16.8093,Goodit,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/goodit_40.4058_16.8093.json,custom
+40.373556,16.807418,ov_museo_archeologico_nazionale_di_metapont_40.3736_16.8074,Museo Archeologico Nazionale di Metaponto,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/museo_archeologico_nazionale_di_metapont_40.3736_16.8074.json,custom
+40.404681,16.687192,ov_casa_museo_contadina_40.4047_16.6872,Casa Museo Contadina,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/casa_museo_contadina_40.4047_16.6872.json,custom
+40.403561,16.687862,ov_castello_di_bernalda_40.4036_16.6879,Castello di Bernalda,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bernalda/pages/castello_di_bernalda_40.4036_16.6879.json,custom

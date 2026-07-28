@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Zollino -- Tutti
-40.205304,18.250990,osm_ristorantino_da_fabio_40.2053_18.2510,Ristorantino da Fabio,ristorante,ristorante
-40.206223,18.251103,osm_pizzeria_mamova_40.2062_18.2511,Pizzeria MaMoVa,ristorante,ristorante
-40.206121,18.251015,ov_pizzeria_mamova_40.2061_18.2510,Pizzeria Mamova,RESTAURANT,ristorante
-40.205367,18.251027,ov_da_fabio_40.2054_18.2510,Da Fabio,RESTAURANT,ristorante
-40.207359,18.249507,ov_krifo_40.2074_18.2495,Krifo,RESTAURANT,ristorante
-40.209379,18.244998,ov_cmt_zollino___centro_musicale_transfront_40.2094_18.2450,CMT Zollino - Centro Musicale Transfrontaliero,RESTAURANT,bar_cafe
-40.205585,18.249917,ov_bar_terzo_tempo_40.2056_18.2499,Bar Terzo Tempo,RESTAURANT,bar_cafe
-40.204940,18.247132,ov_phoenix_american_bar_40.2049_18.2471,Phoenix American Bar,RESTAURANT,bar_cafe
-40.207501,18.249254,ov_yucatan_musicaf__40.2075_18.2493,Yucatan Musicafè,RESTAURANT,bar_cafe
-40.207450,18.249284,osm_bar_krif__40.2075_18.2493,Bar Krifò,bar_cafe,bar_cafe
-40.203268,18.238669,ov_jivamukti_ashram_40.2033_18.2387,Jivamukti Ashram,GYM,palestra
-40.205840,18.250584,ov_le_pozzelle_di_pirro___zollino_40.2058_18.2506,Le pozzelle di Pirro - Zollino,MUSEUM,monumento
+40.206121,18.251015,ov_pizzeria_mamova_40.2061_18.2510,Pizzeria Mamova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/pizzeria_mamova_40.2061_18.2510.json,custom
+40.205367,18.251027,ov_da_fabio_40.2054_18.2510,Da Fabio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/da_fabio_40.2054_18.2510.json,custom
+40.207359,18.249507,ov_krifo_40.2074_18.2495,Krifo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/krifo_40.2074_18.2495.json,custom
+40.205304,18.250990,osm_ristorantino_da_fabio_40.2053_18.2510,Ristorantino da Fabio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/ristorantino_da_fabio_40.2053_18.2510.json,custom
+40.209379,18.244998,ov_cmt_zollino___centro_musicale_transfront_40.2094_18.2450,CMT Zollino - Centro Musicale Transfrontaliero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/cmt_zollino_-_centro_musicale_transfront_40.2094_18.2450.json,custom
+40.205585,18.249917,ov_bar_terzo_tempo_40.2056_18.2499,Bar Terzo Tempo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/bar_terzo_tempo_40.2056_18.2499.json,custom
+40.204940,18.247132,ov_phoenix_american_bar_40.2049_18.2471,Phoenix American Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/phoenix_american_bar_40.2049_18.2471.json,custom
+40.207501,18.249254,ov_yucatan_musicaf__40.2075_18.2493,Yucatan Musicafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/yucatan_musicaf_40.2075_18.2493.json,custom
+40.207450,18.249284,osm_bar_krif__40.2075_18.2493,Bar Krifò,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/bar_krif_40.2075_18.2493.json,custom
+40.203268,18.238669,ov_jivamukti_ashram_40.2033_18.2387,Jivamukti Ashram,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/jivamukti_ashram_40.2033_18.2387.json,custom
+40.203175,18.238871,osm_yis___yoga_in_salento_40.2032_18.2389,YIS - Yoga in Salento,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/yis_-_yoga_in_salento_40.2032_18.2389.json,custom
+40.205840,18.250584,ov_le_pozzelle_di_pirro___zollino_40.2058_18.2506,Le pozzelle di Pirro - Zollino,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/le_pozzelle_di_pirro_-_zollino_40.2058_18.2506.json,custom

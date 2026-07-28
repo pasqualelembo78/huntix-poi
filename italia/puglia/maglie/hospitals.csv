@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # maglie -- hospitals
-40.117451,18.294321,ov_ausl_le_2_40.1175_18.2943,Ausl Le 2,HOSPITAL,hospital
-40.120985,18.298807,ov_studio_di_psicomotricit__e_terapia_occup_40.1210_18.2988,Studio di Psicomotricità e Terapia Occupazionale in età pedi,HOSPITAL,hospital
-40.120408,18.293643,ov_ospedale_maria_tamborino___urp_40.1204_18.2936,Ospedale Maria Tamborino - Urp,HOSPITAL,hospital
+40.117451,18.294321,ov_ausl_le_2_40.1175_18.2943,Ausl Le 2,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/ausl_le_2_40.1175_18.2943.json,custom
+40.120985,18.298807,ov_studio_di_psicomotricit__e_terapia_occup_40.1210_18.2988,Studio di Psicomotricità e Terapia Occupazionale in età pedi,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/studio_di_psicomotricit_e_terapia_occupa_40.1210_18.2988.json,custom
+40.120408,18.293643,ov_ospedale_maria_tamborino___urp_40.1204_18.2936,Ospedale Maria Tamborino - Urp,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/maglie/pages/ospedale_maria_tamborino_-_urp_40.1204_18.2936.json,custom

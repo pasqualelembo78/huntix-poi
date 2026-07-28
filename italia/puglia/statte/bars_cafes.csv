@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # statte -- bars_cafes
-40.568576,17.202288,ov_friend_s_caf__bar_tabacchi_40.5686_17.2023,Friend's Café Bar Tabacchi,RESTAURANT,bar_cafe
-40.567600,17.208691,ov_gualtieri_caf__40.5676_17.2087,Gualtieri Café,RESTAURANT,bar_cafe
-40.567377,17.212496,ov_bar_maia_40.5674_17.2125,Bar Maia,RESTAURANT,bar_cafe
-40.564830,17.214670,ov_the_new_las_vegas_40.5648_17.2147,The New Las Vegas,RESTAURANT,bar_cafe
-40.565027,17.210766,ov_underground_pub_statte_40.5650_17.2108,Underground Pub Statte,RESTAURANT,bar_cafe
-40.563943,17.210648,ov_new_sweet_life_40.5639_17.2106,New Sweet Life,RESTAURANT,bar_cafe
-40.563695,17.209160,ov_pizzeria_mangiafuoco_40.5637_17.2092,Pizzeria Mangiafuoco,RESTAURANT,bar_cafe
-40.561419,17.209301,ov_caff__e_dintorni_40.5614_17.2093,Caffè e Dintorni,RESTAURANT,bar_cafe
-40.561648,17.204709,ov_new_dinner_caffe_40.5616_17.2047,New Dinner caffe,RESTAURANT,bar_cafe
-40.548823,17.274790,ov_bar_tabacchi_nittoso_40.5488_17.2748,Bar Tabacchi Nittoso,RESTAURANT,bar_cafe
+40.568576,17.202288,ov_friend_s_caf__bar_tabacchi_40.5686_17.2023,Friend's Café Bar Tabacchi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/friends_caf_bar_tabacchi_40.5686_17.2023.json,custom
+40.567600,17.208691,ov_gualtieri_caf__40.5676_17.2087,Gualtieri Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/gualtieri_caf_40.5676_17.2087.json,custom
+40.567377,17.212496,ov_bar_maia_40.5674_17.2125,Bar Maia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/bar_maia_40.5674_17.2125.json,custom
+40.564830,17.214670,ov_the_new_las_vegas_40.5648_17.2147,The New Las Vegas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/the_new_las_vegas_40.5648_17.2147.json,custom
+40.565027,17.210766,ov_underground_pub_statte_40.5650_17.2108,Underground Pub Statte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/underground_pub_statte_40.5650_17.2108.json,custom
+40.563943,17.210648,ov_new_sweet_life_40.5639_17.2106,New Sweet Life,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/new_sweet_life_40.5639_17.2106.json,custom
+40.563695,17.209160,ov_pizzeria_mangiafuoco_40.5637_17.2092,Pizzeria Mangiafuoco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/pizzeria_mangiafuoco_40.5637_17.2092.json,custom
+40.561419,17.209301,ov_caff__e_dintorni_40.5614_17.2093,Caffè e Dintorni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/caff_e_dintorni_40.5614_17.2093.json,custom
+40.561648,17.204709,ov_new_dinner_caffe_40.5616_17.2047,New Dinner caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/new_dinner_caffe_40.5616_17.2047.json,custom
+40.548823,17.274790,ov_bar_tabacchi_nittoso_40.5488_17.2748,Bar Tabacchi Nittoso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/statte/pages/bar_tabacchi_nittoso_40.5488_17.2748.json,custom

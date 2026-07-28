@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # carovigno -- gyms
-40.704064,17.657728,ov_asia_dance_gi__gi__animazione_40.7041_17.6577,Asia Dance Giò Giò Animazione,GYM,palestra
-40.709964,17.661747,ov_eribe_club_40.7100_17.6617,Eribe Club,GYM,palestra
-40.712901,17.658011,ov_samadhi_asd_40.7129_17.6580,Samadhi ASD,GYM,palestra
-40.709904,17.685921,ov_tiro_a_segno_nazionale_40.7099_17.6859,Tiro a Segno Nazionale,GYM,palestra
+40.704064,17.657728,ov_asia_dance_gi__gi__animazione_40.7041_17.6577,Asia Dance Giò Giò Animazione,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/asia_dance_gi_gi_animazione_40.7041_17.6577.json,custom
+40.709964,17.661747,ov_eribe_club_40.7100_17.6617,Eribe Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/eribe_club_40.7100_17.6617.json,custom
+40.712901,17.658011,ov_samadhi_asd_40.7129_17.6580,Samadhi ASD,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/samadhi_asd_40.7129_17.6580.json,custom
+40.709904,17.685921,ov_tiro_a_segno_nazionale_40.7099_17.6859,Tiro a Segno Nazionale,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/carovigno/pages/tiro_a_segno_nazionale_40.7099_17.6859.json,custom

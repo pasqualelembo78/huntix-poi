@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # corigliano_dotranto -- bars_cafes
-40.161186,18.255327,ov_stazione_di_servizio_ip_corigliano_40.1612_18.2553,Stazione di servizio IP Corigliano,RESTAURANT,bar_cafe
-40.160991,18.256742,ov_bar_il_monello_40.1610_18.2567,Bar Il Monello,RESTAURANT,bar_cafe
-40.159811,18.256327,ov_bar_lux_40.1598_18.2563,Bar Lux,RESTAURANT,bar_cafe
-40.157669,18.256932,ov_ribalta_40.1577_18.2569,Ribalta,RESTAURANT,bar_cafe
-40.157715,18.255580,ov_malisud___music_soul_40.1577_18.2556,MaliSud - Music Soul,RESTAURANT,bar_cafe
-40.157866,18.255275,ov_olden_times_cafe_40.1579_18.2553,Olden Times Cafe,RESTAURANT,bar_cafe
-40.159126,18.257234,ov_caff__mania_40.1591_18.2572,Caffè Mania,RESTAURANT,bar_cafe
-40.159092,18.257456,ov_bar_castello_40.1591_18.2575,Bar Castello,RESTAURANT,bar_cafe
-40.156240,18.252480,ov_microbirrificio_vinicola_campa_40.1562_18.2525,Microbirrificio Vinicola Campa,RESTAURANT,bar_cafe
-40.156803,18.256195,ov_my_dream_risto_pub_corigliano_d_otranto_40.1568_18.2562,My Dream Risto Pub Corigliano D'Otranto,RESTAURANT,bar_cafe
-40.154940,18.252840,ov_flamingo___bar_dello_sport_40.1549_18.2528,Flamingo & Bar dello sport,RESTAURANT,bar_cafe
-40.158383,18.254510,osm_pasticceria___liquori_donno_40.1584_18.2545,Pasticceria & Liquori Donno,bar_cafe,bar_cafe
+40.161186,18.255327,ov_stazione_di_servizio_ip_corigliano_40.1612_18.2553,Stazione di servizio IP Corigliano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/stazione_di_servizio_ip_corigliano_40.1612_18.2553.json,custom
+40.160991,18.256742,ov_bar_il_monello_40.1610_18.2567,Bar Il Monello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/bar_il_monello_40.1610_18.2567.json,custom
+40.159811,18.256327,ov_bar_lux_40.1598_18.2563,Bar Lux,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/bar_lux_40.1598_18.2563.json,custom
+40.157669,18.256932,ov_ribalta_40.1577_18.2569,Ribalta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/ribalta_40.1577_18.2569.json,custom
+40.157715,18.255580,ov_malisud___music_soul_40.1577_18.2556,MaliSud - Music Soul,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/malisud_-_music_soul_40.1577_18.2556.json,custom
+40.157866,18.255275,ov_olden_times_cafe_40.1579_18.2553,Olden Times Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/olden_times_cafe_40.1579_18.2553.json,custom
+40.159126,18.257234,ov_caff__mania_40.1591_18.2572,Caffè Mania,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/caff_mania_40.1591_18.2572.json,custom
+40.159092,18.257456,ov_bar_castello_40.1591_18.2575,Bar Castello,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/bar_castello_40.1591_18.2575.json,custom
+40.156240,18.252480,ov_microbirrificio_vinicola_campa_40.1562_18.2525,Microbirrificio Vinicola Campa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/microbirrificio_vinicola_campa_40.1562_18.2525.json,custom
+40.156803,18.256195,ov_my_dream_risto_pub_corigliano_d_otranto_40.1568_18.2562,My Dream Risto Pub Corigliano D'Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/my_dream_risto_pub_corigliano_dotranto_40.1568_18.2562.json,custom
+40.154940,18.252840,ov_flamingo___bar_dello_sport_40.1549_18.2528,Flamingo & Bar dello sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/flamingo_bar_dello_sport_40.1549_18.2528.json,custom
+40.158383,18.254510,osm_pasticceria___liquori_donno_40.1584_18.2545,Pasticceria & Liquori Donno,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/corigliano_dotranto/pages/pasticceria_liquori_donno_40.1584_18.2545.json,custom

@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # grumento_nova -- landmarks
-40.280158,15.902777,ov_museo_archeologico_nazionale_dell_alta_v_40.2802_15.9028,Museo Archeologico Nazionale dell'Alta Val D'Agri e Parco Ar,MUSEUM,monumento
-40.283277,15.905320,ov_teatro_scavi_grumento_nova_40.2833_15.9053,Teatro Scavi Grumento Nova,MUSEUM,monumento
-40.285116,15.889839,ov_castello_san_severino_40.2851_15.8898,Castello San Severino,MUSEUM,monumento
+40.280158,15.902777,ov_museo_archeologico_nazionale_dell_alta_v_40.2802_15.9028,Museo Archeologico Nazionale dell'Alta Val D'Agri e Parco Ar,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/museo_archeologico_nazionale_dellalta_va_40.2802_15.9028.json,custom
+40.283277,15.905320,ov_teatro_scavi_grumento_nova_40.2833_15.9053,Teatro Scavi Grumento Nova,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/teatro_scavi_grumento_nova_40.2833_15.9053.json,custom
+40.285116,15.889839,ov_castello_san_severino_40.2851_15.8898,Castello San Severino,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/grumento_nova/pages/castello_san_severino_40.2851_15.8898.json,custom

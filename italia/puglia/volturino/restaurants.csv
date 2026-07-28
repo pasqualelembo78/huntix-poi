@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # volturino -- restaurants
-41.481530,15.124610,ov_punto_ristoro_la_lanterna_41.4815_15.1246,Punto Ristoro La Lanterna,RESTAURANT,ristorante
-41.478960,15.124845,ov_new_bar_del_corso_41.4790_15.1248,New BAR DEL CORSO,RESTAURANT,ristorante
-41.478586,15.124526,ov_albergo_ristorante_la_balconata_41.4786_15.1245,Albergo Ristorante La Balconata,RESTAURANT,ristorante
-41.478268,15.124418,ov_la_balconata___volturino_41.4783_15.1244,La Balconata - volturino,RESTAURANT,ristorante
+41.481530,15.124610,ov_punto_ristoro_la_lanterna_41.4815_15.1246,Punto Ristoro La Lanterna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/volturino/pages/punto_ristoro_la_lanterna_41.4815_15.1246.json,custom
+41.478960,15.124845,ov_new_bar_del_corso_41.4790_15.1248,New BAR DEL CORSO,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/volturino/pages/new_bar_del_corso_41.4790_15.1248.json,custom
+41.478586,15.124526,ov_albergo_ristorante_la_balconata_41.4786_15.1245,Albergo Ristorante La Balconata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/volturino/pages/albergo_ristorante_la_balconata_41.4786_15.1245.json,custom
+41.478268,15.124418,ov_la_balconata___volturino_41.4783_15.1244,La Balconata - volturino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/volturino/pages/la_balconata_-_volturino_41.4783_15.1244.json,custom

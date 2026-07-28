@@ -1,298 +1,297 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Molfetta -- Tutti
-41.191532,16.591254,osm_pronto_soccorso_ospedale_don_tonino_bell_41.1915_16.5913,Pronto Soccorso Ospedale Don Tonino Bello,hospital,hospital
-41.203681,16.601843,osm_la_baguetterie_molfetta_41.2037_16.6018,La Baguetterie Molfetta,ristorante,ristorante
-41.200836,16.597748,osm_pizzeria_happy_day_s_41.2008_16.5977,Pizzeria Happy Day's,ristorante,ristorante
-41.190549,16.535067,osm_agriturismo_la_ferrovia_41.1905_16.5351,agriturismo la ferrovia,ristorante,ristorante
-41.194442,16.626139,osm_ricomincio_da_3_41.1944_16.6261,Ricomincio da 3,ristorante,ristorante
-41.204551,16.597691,osm_sapemore_41.2046_16.5977,Sapemore,ristorante,ristorante
-41.205106,16.600072,osm_malie_41.2051_16.6001,Malie,ristorante,ristorante
-41.191912,16.591106,ov_unit__operativa_dipartimento_di_medicina_41.1919_16.5911,Unità Operativa Dipartimento di Medicina Trasfusionale,HOSPITAL,hospital
-41.191752,16.591402,ov_pronto_soccorso_molfetta_41.1918_16.5914,Pronto Soccorso Molfetta,HOSPITAL,hospital
-41.191687,16.591444,ov_ospedale_don_tonino_bello_41.1917_16.5914,Ospedale Don Tonino Bello,HOSPITAL,hospital
-41.192271,16.593732,ov_medical_ortopedia_41.1923_16.5937,Medical Ortopedia,HOSPITAL,hospital
-41.197050,16.584830,ov_salus_point_poliambulatorio_41.1970_16.5848,Salus Point Poliambulatorio,HOSPITAL,hospital
-41.198620,16.607062,ov_ricerche_radiologiche_41.1986_16.6071,Ricerche Radiologiche,HOSPITAL,hospital
-41.214025,16.542679,ov_mastrodonato___ristobar_41.2140_16.5427,Mastrodonato - Ristobar,RESTAURANT,ristorante
-41.190727,16.533786,ov_agriturismo_la_ferrovia_41.1907_16.5338,Agriturismo La Ferrovia,RESTAURANT,ristorante
-41.180777,16.597386,ov_tenuta_serena_41.1808_16.5974,Tenuta Serena,RESTAURANT,ristorante
-41.188677,16.598631,ov_il_pizzaiuolo_41.1887_16.5986,Il Pizzaiuolo,RESTAURANT,ristorante
-41.184979,16.607681,ov_il_melograno_41.1850_16.6077,Il melograno,RESTAURANT,ristorante
-41.191277,16.639194,ov_ristorante_pizzeria_mareluna_41.1913_16.6392,Ristorante Pizzeria Mareluna,RESTAURANT,ristorante
-41.191417,16.633098,ov_ristorante_ricomincio_da_3_da_franco_de__41.1914_16.6331,Ristorante ricomincio da 3 da Franco de Ruvo,RESTAURANT,ristorante
-41.192579,16.633631,ov_ristorante_adriatico_41.1926_16.6336,Ristorante Adriatico,RESTAURANT,ristorante
-41.192578,16.633350,ov_playa_del_sol_molfetta_41.1926_16.6334,Playa del Sol Molfetta,RESTAURANT,ristorante
-41.192646,16.633477,ov_ristorante_playa_del_sol_41.1926_16.6335,Ristorante Playa del Sol,RESTAURANT,ristorante
-41.193452,16.629500,ov_ricomincio_da_tre_41.1935_16.6295,Ricomincio Da Tre,RESTAURANT,ristorante
-41.194282,16.626125,ov_ristorante_ricomincio_da_3_41.1943_16.6261,Ristorante Ricomincio da 3,RESTAURANT,ristorante
-41.195935,16.621690,ov_buen_vivir_41.1959_16.6217,Buen Vivir,RESTAURANT,ristorante
-41.195710,16.621500,ov_sapemare_41.1957_16.6215,Sapemare,RESTAURANT,ristorante
-41.195019,16.617843,ov_miki_sushi_41.1950_16.6178,Miki Sushi,RESTAURANT,ristorante
-41.191913,16.617522,ov_la_pineta_ricevimenti_41.1919_16.6175,La Pineta Ricevimenti,RESTAURANT,ristorante
-41.189900,16.605640,ov_il_melograno_41.1899_16.6056,Il Melograno,RESTAURANT,ristorante
-41.192214,16.595350,ov_ciambotto_41.1922_16.5953,Ciambotto,RESTAURANT,ristorante
-41.195409,16.592579,ov_pizzeria_incontro_41.1954_16.5926,pizzeria incontro,RESTAURANT,ristorante
-41.195532,16.589064,ov_il_tentacolo_41.1955_16.5891,Il Tentacolo,RESTAURANT,ristorante
-41.195450,16.589740,ov_il_guerriero_41.1954_16.5897,Il Guerriero,RESTAURANT,ristorante
-41.194939,16.591687,ov_pizza_amore_e_fantasia_41.1949_16.5917,Pizza Amore e Fantasia,RESTAURANT,ristorante
-41.194480,16.590991,ov_superfresco_41.1945_16.5910,Superfresco,RESTAURANT,ristorante
-41.193738,16.592129,ov_mille_e_una_pizza_41.1937_16.5921,Mille e una pizza,RESTAURANT,ristorante
-41.193091,16.593642,ov_sushi_wang_41.1931_16.5936,Sushi Wang,RESTAURANT,ristorante
-41.192939,16.591844,ov_pizzeria_eden_41.1929_16.5918,Pizzeria EDEN,RESTAURANT,ristorante
-41.192796,16.584619,ov_pizzeria_lo_scugnizzo_41.1928_16.5846,Pizzeria Lo Scugnizzo,RESTAURANT,ristorante
-41.193618,16.584875,ov_pescheria_fish_and_love_41.1936_16.5849,Pescheria Fish and Love,RESTAURANT,ristorante
-41.195998,16.588512,ov_pizzeria_paradiso_41.1960_16.5885,Pizzeria Paradiso,RESTAURANT,ristorante
-41.191508,16.585485,ov_queens_caffe_bistrot_41.1915_16.5855,Queens Caffe Bistrot,RESTAURANT,ristorante
-41.190656,16.586649,ov_il_buco_41.1907_16.5866,Il Buco,RESTAURANT,ristorante
-41.191473,16.589894,ov_il_rifugio_3_0_41.1915_16.5899,Il Rifugio 3.0,RESTAURANT,ristorante
-41.191899,16.594093,ov_ristorante_pizzeria_boh_41.1919_16.5941,Ristorante Pizzeria Boh,RESTAURANT,ristorante
-41.191459,16.593318,ov_pizzeria_tuning_car_41.1915_16.5933,Pizzeria Tuning Car,RESTAURANT,ristorante
-41.189870,16.592149,ov_bagus___be_positive_41.1899_16.5921,Bagus - be positive,RESTAURANT,ristorante
-41.189878,16.592242,ov_koun_sushi_41.1899_16.5922,Koun sushi,RESTAURANT,ristorante
-41.187299,16.590398,ov_olio_e_basilico_3_0_41.1873_16.5904,Olio e Basilico 3.0,RESTAURANT,ristorante
-41.181615,16.583334,ov_chalet_del_sole_molfetta_41.1816_16.5833,Chalet del sole Molfetta,RESTAURANT,ristorante
-41.203347,16.560546,ov_mister_chef_41.2033_16.5605,Mister Chef,RESTAURANT,ristorante
-41.203510,16.561856,ov_bluedancing_molfetta_41.2035_16.5619,Bluedancing Molfetta,RESTAURANT,ristorante
-41.196908,16.582165,ov_i_5_monelli_41.1969_16.5822,I 5 Monelli,RESTAURANT,ristorante
-41.199453,16.592809,ov_voglia_di_pizza_41.1995_16.5928,Voglia di pizza,RESTAURANT,ristorante
-41.199475,16.591457,ov_pizzeria_misfizio_41.1995_16.5915,Pizzeria MiSfizio,RESTAURANT,ristorante
-41.199343,16.587428,ov_la_rustica_41.1993_16.5874,La Rustica,RESTAURANT,ristorante
-41.202246,16.590949,ov_pizza_planet_41.2022_16.5909,Pizza Planet,RESTAURANT,ristorante
-41.203032,16.590789,ov_nuova_porta_del_sole_41.2030_16.5908,Nuova porta del sole,RESTAURANT,ristorante
-41.204375,16.589775,ov_al_marinaio_41.2044_16.5898,Al Marinaio,RESTAURANT,ristorante
-41.204867,16.589630,ov_mr_poldo_pizzeria_41.2049_16.5896,Mr Poldo Pizzeria,RESTAURANT,ristorante
-41.204928,16.589537,ov_mister_poldo_chicken_41.2049_16.5895,Mister Poldo chicken,RESTAURANT,ristorante
-41.204879,16.589491,ov_ristorante_el_arriero_41.2049_16.5895,Ristorante El Arriero,RESTAURANT,ristorante
-41.205101,16.588974,ov_ristorante_pizzeria_miramare_41.2051_16.5890,Ristorante Pizzeria miramare,RESTAURANT,ristorante
-41.205160,16.589300,ov_monelli_41.2052_16.5893,Monelli,RESTAURANT,ristorante
-41.206670,16.586932,ov_ristorante_pizzeria_marechiaro_41.2067_16.5869,Ristorante Pizzeria Marechiaro,RESTAURANT,ristorante
-41.206478,16.553804,ov_vesuvya_41.2065_16.5538,Vesuvya,RESTAURANT,ristorante
-41.205176,16.556448,ov_mcdonald_s_41.2052_16.5564,McDonald's,RESTAURANT,ristorante
-41.204333,16.554456,ov_old_wild_west___molfetta_mongolfiera_41.2043_16.5545,Old Wild West - Molfetta Mongolfiera,RESTAURANT,ristorante
-41.204725,16.553477,ov_kfc_41.2047_16.5535,KFC,RESTAURANT,ristorante
-41.205777,16.552515,ov_molfetta_mongolfiera_41.2058_16.5525,Molfetta Mongolfiera,RESTAURANT,ristorante
-41.209128,16.551001,ov_caff__vergnano_41.2091_16.5510,Caffè Vergnano,RESTAURANT,ristorante
-41.209529,16.556117,ov_la_macchia_degli_esperti_41.2095_16.5561,La Macchia degli Esperti,RESTAURANT,ristorante
-41.209460,16.555160,ov_new_lions_ricevimenti_41.2095_16.5552,New Lions Ricevimenti,RESTAURANT,ristorante
-41.215773,16.546318,ov_bacio_di_puglia_41.2158_16.5463,Bacio Di Puglia,RESTAURANT,ristorante
-41.216788,16.546843,ov_whao___italian_food___design_41.2168_16.5468,WHAO - Italian food & design,RESTAURANT,ristorante
-41.216796,16.546773,ov_old_wild_west___molfetta_puglia_outlet_v_41.2168_16.5468,Old Wild West - Molfetta Puglia Outlet Village,RESTAURANT,ristorante
-41.213959,16.572342,ov_blue_paradise_41.2140_16.5723,Blue Paradise,RESTAURANT,ristorante
-41.213458,16.573149,ov_san_giacomo___orto_cotto_41.2135_16.5731,San Giacomo - Orto Cotto,RESTAURANT,ristorante
-41.205022,16.600382,ov_guyot_braceria_41.2050_16.6004,Guyot Braceria,RESTAURANT,ristorante
-41.205064,16.600597,ov_supersantos_burger_41.2051_16.6006,Supersantos Burger,RESTAURANT,ristorante
-41.204954,16.600271,ov_guyot_enobistrot_41.2050_16.6003,Guyot Enobistrot,RESTAURANT,ristorante
-41.205133,16.599722,ov_malie_41.2051_16.5997,Malie,RESTAURANT,ristorante
-41.205410,16.598250,ov_santa_puglia___pizza___cr_pe_41.2054_16.5983,Santa Puglia - Pizza & Crêpe,RESTAURANT,ristorante
-41.205360,16.598510,ov_cantine_pop_41.2054_16.5985,Cantine Pop,RESTAURANT,ristorante
-41.204894,16.596120,ov_i_due_foscari_41.2049_16.5961,I due Foscari,RESTAURANT,ristorante
-41.204945,16.596545,ov_sea_chef___ristorante___molfetta_41.2049_16.5965,Sea Chef - Ristorante - Molfetta,RESTAURANT,ristorante
-41.205117,16.597663,ov_isola_di_sant_andrea_41.2051_16.5977,Isola di Sant'Andrea,RESTAURANT,ristorante
-41.205071,16.597761,ov_fermento_vivo___pizzeria_e_ristorante_41.2051_16.5978,Fermento Vivo - Pizzeria e Ristorante,RESTAURANT,ristorante
-41.205098,16.597680,ov_mezzopieno_41.2051_16.5977,Mezzopieno,RESTAURANT,ristorante
-41.204864,16.597757,ov_kent_smash_burgers_41.2049_16.5978,Kent smash burgers,RESTAURANT,ristorante
-41.204702,16.597331,ov_greedy_ristorazione_41.2047_16.5973,Greedy Ristorazione,RESTAURANT,ristorante
-41.204570,16.597697,ov_sapemore___il_cucininostrano_41.2046_16.5977,Sapemore - il CuciniNostrano,RESTAURANT,ristorante
-41.204664,16.595463,ov_la_vineria_di_san_domenico_41.2047_16.5955,La Vineria di San Domenico,RESTAURANT,ristorante
-41.204060,16.595716,ov_la_pinta___public_house_41.2041_16.5957,La Pinta - Public House,RESTAURANT,ristorante
-41.204754,16.598461,ov_corso_dante_41.2048_16.5985,Corso Dante,RESTAURANT,ristorante
-41.204810,16.598541,ov_palato_cafe_e_bistrot_41.2048_16.5985,Palato Cafe e Bistrot,RESTAURANT,ristorante
-41.204672,16.598755,ov_norcineria_vetusta_nursia_41.2047_16.5988,Norcineria Vetusta Nursia,RESTAURANT,ristorante
-41.204744,16.599389,ov_dentro_le_mura_41.2047_16.5994,Dentro Le Mura,RESTAURANT,ristorante
-41.204581,16.598847,ov_bistrot_41.2046_16.5988,Bistrot,RESTAURANT,ristorante
-41.204440,16.599963,ov_chocolat_41.2044_16.6000,Chocolat,RESTAURANT,ristorante
-41.204600,16.599650,ov_le_quattro_stagioni_41.2046_16.5997,Le Quattro Stagioni,RESTAURANT,ristorante
-41.204750,16.600675,ov_baia_salada_41.2047_16.6007,Baia Salada,RESTAURANT,ristorante
-41.204388,16.600459,ov_pizzeria_garibaldi_41.2044_16.6005,Pizzeria Garibaldi,RESTAURANT,ristorante
-41.204281,16.600876,ov_osteria_amelie_41.2043_16.6009,Osteria Amelie,RESTAURANT,ristorante
-41.204300,16.600249,ov_officina_del_gusto_san_marco_41.2043_16.6002,Officina del Gusto San Marco,RESTAURANT,ristorante
-41.203953,16.601672,ov_pole_pole_41.2040_16.6017,Pole Pole,RESTAURANT,ristorante
-41.201371,16.607406,ov_ciao_ciao_41.2014_16.6074,Ciao Ciao,RESTAURANT,ristorante
-41.201453,16.607268,ov_timeout_41.2015_16.6073,Timeout,RESTAURANT,ristorante
-41.202090,16.605190,ov_me_la_mangio___churrascaria___street_foo_41.2021_16.6052,Me la Mangio - Churrascaria & Street Food - Molfetta,RESTAURANT,ristorante
-41.202359,16.604734,ov_il_ritrovo_dei_gabbiani_41.2024_16.6047,Il Ritrovo Dei Gabbiani,RESTAURANT,ristorante
-41.202363,16.602014,ov_spoon_spaghetteria_41.2024_16.6020,Spoon spaghetteria,RESTAURANT,ristorante
-41.202669,16.601968,ov_sottacqua_fish_bar_41.2027_16.6020,Sottacqua Fish Bar,RESTAURANT,ristorante
-41.203283,16.602790,ov_halal_ottimo_kebabberia_hoshiarpuria__bo_41.2033_16.6028,HALAL Ottimo kebabberia HOSHIARPURIA (BOBBY),RESTAURANT,ristorante
-41.203739,16.602006,ov_chotto_chotto_41.2037_16.6020,Chotto Chotto,RESTAURANT,ristorante
-41.203017,16.600252,ov_happy_dinner_41.2030_16.6003,Happy dinner,RESTAURANT,ristorante
-41.203355,16.600216,ov_friends_41.2034_16.6002,Friends,RESTAURANT,ristorante
-41.202986,16.598140,ov_al_capriccio_41.2030_16.5981,Al Capriccio,RESTAURANT,ristorante
-41.203401,16.598102,ov_sea_riad_41.2034_16.5981,Sea Riad,RESTAURANT,ristorante
-41.202948,16.598908,ov_bulul____arepabar_41.2029_16.5989,Bululú - ArepaBar,RESTAURANT,ristorante
-41.202849,16.599143,ov_ristorante_bufi_41.2028_16.5991,Ristorante Bufi,RESTAURANT,ristorante
-41.202780,16.599635,ov_convivium_contemporary_pizza___bistrot_41.2028_16.5996,Convivium Contemporary Pizza & Bistrot,RESTAURANT,ristorante
-41.201367,16.595655,ov_osteria_solidale_41.2014_16.5957,Osteria Solidale,RESTAURANT,ristorante
-41.200360,16.603068,ov_angela_pizzeria_i_ghiottoni_41.2004_16.6031,Angela Pizzeria I Ghiottoni,RESTAURANT,ristorante
-41.200426,16.603076,ov_i_ghiottoni_41.2004_16.6031,I Ghiottoni,RESTAURANT,ristorante
-41.201399,16.601906,ov_bellavista_pizzeria_lievito_madre_41.2014_16.6019,Bellavista Pizzeria Lievito Madre,RESTAURANT,ristorante
-41.201470,16.601979,ov_snoopy_41.2015_16.6020,Snoopy,RESTAURANT,ristorante
-41.201596,16.604679,ov_la_cucina_del_mare_41.2016_16.6047,La Cucina Del Mare,RESTAURANT,ristorante
-41.200728,16.606561,ov_mini_bar_garden_bistrot_41.2007_16.6066,Mini Bar Garden Bistrot,RESTAURANT,ristorante
-41.200268,16.604633,ov_poste_italiane_41.2003_16.6046,Poste Italiane,RESTAURANT,ristorante
-41.198689,16.602753,ov_casa_della_pasta_fresca_sagittario_41.1987_16.6028,Casa della pasta fresca Sagittario,RESTAURANT,ristorante
-41.199458,16.601608,ov_verde_basilico_41.1995_16.6016,Verde Basilico,RESTAURANT,ristorante
-41.199360,16.602157,ov_lo_sfizio_41.1994_16.6022,Lo Sfizio,RESTAURANT,ristorante
-41.199958,16.602816,ov__etrogusto_41.2000_16.6028,Яetrogusto,RESTAURANT,ristorante
-41.199322,16.600279,ov_pescheria_da_giampino_41.1993_16.6003,Pescheria da Giampino,RESTAURANT,ristorante
-41.198418,16.597201,ov_il_vecchio_gazebo_41.1984_16.5972,Il Vecchio Gazebo,RESTAURANT,ristorante
-41.198859,16.599650,ov_pizzeria_campo_di_grano_41.1989_16.5997,Pizzeria Campo Di Grano,RESTAURANT,ristorante
-41.198130,16.600320,ov_pizzeria_il_girasole_41.1981_16.6003,Pizzeria Il Girasole,RESTAURANT,ristorante
-41.197597,16.598623,ov_la_bussola_41.1976_16.5986,La Bussola,RESTAURANT,ristorante
-41.198180,16.598070,ov_lin_poke_41.1982_16.5981,Lin Poke,RESTAURANT,ristorante
-41.197880,16.597052,ov_roma_2_41.1979_16.5971,Roma 2,RESTAURANT,ristorante
-41.197416,16.595558,ov_osteria_baccomatto_41.1974_16.5956,Osteria Baccomatto,RESTAURANT,ristorante
-41.196883,16.597146,ov_carne_diem_41.1969_16.5971,Carne Diem,RESTAURANT,ristorante
-41.196842,16.597112,ov_gavet_ne___pizzeria_urbana_41.1968_16.5971,Gavetøne - Pizzeria Urbana,RESTAURANT,ristorante
-41.196679,16.596462,ov_la_piedigrotta_41.1967_16.5965,La Piedigrotta,RESTAURANT,ristorante
-41.196883,16.598943,ov_spazio_verdesca_41.1969_16.5989,Spazio Verdesca,RESTAURANT,ristorante
-41.199494,16.609633,ov_braceria_de_lucia_41.1995_16.6096,Braceria de Lucia,RESTAURANT,ristorante
-41.198365,16.611928,ov_quattro_quarti___pizzeria_con_cucina_41.1984_16.6119,Quattro Quarti - Pizzeria con Cucina,RESTAURANT,ristorante
-41.187045,16.598313,ov_raphael_caf__41.1870_16.5983,Raphael Cafè,RESTAURANT,bar_cafe
-41.194082,16.626629,ov_pane___amore_beach_41.1941_16.6266,Pane & Amore Beach,RESTAURANT,bar_cafe
-41.194650,16.625253,ov_supersantos_soul_beer_41.1947_16.6253,Supersantos Soul Beer,RESTAURANT,bar_cafe
-41.195437,16.623919,ov_bar_ruz_41.1954_16.6239,Bar Ruz,RESTAURANT,bar_cafe
-41.195896,16.606193,ov_oasi_del_caffe_41.1959_16.6062,Oasi del caffe,RESTAURANT,bar_cafe
-41.195901,16.605059,ov_flory_s_caffe_41.1959_16.6051,Flory's Caffe,RESTAURANT,bar_cafe
-41.195960,16.592405,ov_oasi_de_cafe_41.1960_16.5924,Oasi De Cafe,RESTAURANT,bar_cafe
-41.195340,16.590281,ov_roxy_bar_41.1953_16.5903,Roxy Bar,RESTAURANT,bar_cafe
-41.194654,16.590015,ov_museum_lounge_cafe_41.1947_16.5900,Museum Lounge Cafe,RESTAURANT,bar_cafe
-41.194050,16.592290,ov_london_caf__specialty_coffee_41.1940_16.5923,London Cafè Specialty Coffee,RESTAURANT,bar_cafe
-41.193680,16.594476,ov_tr_s_jolie_41.1937_16.5945,Très Jolie,RESTAURANT,bar_cafe
-41.193461,16.588173,ov_caffetteria_venere_41.1935_16.5882,Caffetteria Venere,RESTAURANT,bar_cafe
-41.195725,16.588557,ov_la_caffetteria_41.1957_16.5886,La Caffetteria,RESTAURANT,bar_cafe
-41.190878,16.582877,ov_joti_41.1909_16.5829,JOTI,RESTAURANT,bar_cafe
-41.190887,16.589765,ov_ai_parioli_fuori_dal_comune_41.1909_16.5898,Ai Parioli fuori dal comune,RESTAURANT,bar_cafe
-41.191155,16.590133,ov_caffetteria_grease_41.1912_16.5901,Caffetteria Grease,RESTAURANT,bar_cafe
-41.192464,16.590995,ov_bar_broadway_41.1925_16.5910,Bar Broadway,RESTAURANT,bar_cafe
-41.192071,16.593212,ov_new_york_garden_bar_41.1921_16.5932,New York Garden Bar,RESTAURANT,bar_cafe
-41.191979,16.593603,ov_enoteca_scacco_bacco_41.1920_16.5936,Enoteca Scacco Bacco,RESTAURANT,bar_cafe
-41.187648,16.587072,ov_bar_eden_41.1876_16.5871,BAR EDEN,RESTAURANT,bar_cafe
-41.202658,16.559835,ov_baracche_ribelli___le_macerie_41.2027_16.5598,Baracche Ribelli - Le Macerie,RESTAURANT,bar_cafe
-41.199763,16.571860,ov_gardenia_41.1998_16.5719,Gardenia,RESTAURANT,bar_cafe
-41.197874,16.584635,ov_revenge_cafe_41.1979_16.5846,Revenge Cafe,RESTAURANT,bar_cafe
-41.196579,16.586511,ov_lion_s_caffetteria_41.1966_16.5865,Lion's Caffetteria,RESTAURANT,bar_cafe
-41.196516,16.586623,ov_merceria_cartoleria_gadaleta_angela_41.1965_16.5866,Merceria-cartoleria Gadaleta Angela,RESTAURANT,bar_cafe
-41.198638,16.592827,ov_new_black_caffetteria_41.1986_16.5928,New Black Caffetteria,RESTAURANT,bar_cafe
-41.198747,16.592881,ov_la_vie_est_belle_41.1987_16.5929,La vie est belle,RESTAURANT,bar_cafe
-41.199022,16.592386,ov_bar_cavour_41.1990_16.5924,Bar Cavour,RESTAURANT,bar_cafe
-41.199857,16.590565,ov_italian_coffee_house_41.1999_16.5906,Italian Coffee House,RESTAURANT,bar_cafe
-41.199873,16.588280,ov_bianco_latte__molfetta_41.1999_16.5883,Bianco Latte  Molfetta,RESTAURANT,bar_cafe
-41.199474,16.585282,ov_atlantis_41.1995_16.5853,Atlantis,RESTAURANT,bar_cafe
-41.200528,16.587711,ov_la_cueva_41.2005_16.5877,La Cueva,RESTAURANT,bar_cafe
-41.200312,16.589668,ov_in_vino_veritas_41.2003_16.5897,In Vino Veritas,RESTAURANT,bar_cafe
-41.200617,16.588967,ov_moonlight_caf__41.2006_16.5890,Moonlight Cafè,RESTAURANT,bar_cafe
-41.200537,16.591799,ov_bar_la_nuova_roma_41.2005_16.5918,Bar la nuova roma,RESTAURANT,bar_cafe
-41.203619,16.589467,ov_diva_caf__41.2036_16.5895,Diva Café,RESTAURANT,bar_cafe
-41.205461,16.588027,ov_la_resaca_41.2055_16.5880,La Resaca,RESTAURANT,bar_cafe
-41.205088,16.589802,ov_black_bart_pubs_41.2051_16.5898,Black Bart pubs,RESTAURANT,bar_cafe
-41.207266,16.557233,ov_new_valmon___euphemia_benessere_in_tazza_41.2073_16.5572,New Valmon - Euphemia Benessere in Tazza,RESTAURANT,bar_cafe
-41.210490,16.547970,ov_network_coffee_41.2105_16.5480,Network Coffee,RESTAURANT,bar_cafe
-41.216443,16.546280,ov_4home_caf__41.2164_16.5463,4Home Cafè,RESTAURANT,bar_cafe
-41.221230,16.564870,ov_parco_san_giacomo___ricevimenti_41.2212_16.5649,Parco San Giacomo - Ricevimenti,RESTAURANT,bar_cafe
-41.206069,16.597528,ov_bar_al_duomo___panzerottificio_molfetta_41.2061_16.5975,Bar Al Duomo - Panzerottificio Molfetta,RESTAURANT,bar_cafe
-41.206426,16.598376,ov_lunatica_la_spiaggetta_41.2064_16.5984,Lunatica La Spiaggetta,RESTAURANT,bar_cafe
-41.206750,16.598030,ov_casa_del_mar___chiringuito_41.2067_16.5980,Casa del Mar - Chiringuito,RESTAURANT,bar_cafe
-41.204954,16.600271,ov_la_boca___bar_de_la_plaza_41.2050_16.6003,La Boca - Bar de la Plaza,RESTAURANT,bar_cafe
-41.204965,16.599896,ov_baraka_pub_wine_bar_41.2050_16.5999,Baraka Pub&Wine Bar,RESTAURANT,bar_cafe
-41.205381,16.598501,ov_clandestino_41.2054_16.5985,Clandestino,RESTAURANT,bar_cafe
-41.204873,16.595422,ov_bar_tabaccheria_al_porto_41.2049_16.5954,Bar Tabaccheria Al Porto,RESTAURANT,bar_cafe
-41.204950,16.597215,ov_vidaloca_caffetteria___lounge_bar_41.2050_16.5972,VIDALOCA Caffetteria - Lounge Bar,RESTAURANT,bar_cafe
-41.204849,16.598376,ov_beer_condicio_41.2048_16.5984,Beer Condicio,RESTAURANT,bar_cafe
-41.204832,16.598601,ov_muraglia_29_41.2048_16.5986,Muraglia 29,RESTAURANT,bar_cafe
-41.204730,16.598442,ov_bar_vittoria_41.2047_16.5984,Bar Vittoria,RESTAURANT,bar_cafe
-41.204632,16.598555,ov_blues_cafe_41.2046_16.5986,Blues Cafe,RESTAURANT,bar_cafe
-41.204723,16.599655,ov_cin_cin_bar_41.2047_16.5997,Cin Cin Bar,RESTAURANT,bar_cafe
-41.204764,16.600128,ov_mattia_s_caff__41.2048_16.6001,Mattia's Caffè,RESTAURANT,bar_cafe
-41.204800,16.600460,ov_cantina_maya___vino_e_confidenze_41.2048_16.6005,Cantina MAYA - vino e confidenze,RESTAURANT,bar_cafe
-41.204380,16.599900,ov_boorp_41.2044_16.5999,Boorp,RESTAURANT,bar_cafe
-41.203951,16.601466,ov_birreria_wood_stock_41.2040_16.6015,Birreria Wood Stock,RESTAURANT,bar_cafe
-41.201470,16.607186,ov_the_beatles_pub_41.2015_16.6072,The Beatles Pub,RESTAURANT,bar_cafe
-41.203394,16.602301,ov_coffee_and_co_41.2034_16.6023,Coffee and Co,RESTAURANT,bar_cafe
-41.203897,16.601397,ov_off_street_cafe_41.2039_16.6014,Off Street Cafe,RESTAURANT,bar_cafe
-41.202604,16.598112,ov_central_bar_41.2026_16.5981,Central Bar,RESTAURANT,bar_cafe
-41.202632,16.598015,ov_caffe_41.2026_16.5980,Caffe,RESTAURANT,bar_cafe
-41.201718,16.599890,ov_san_marco_concept_bar_41.2017_16.5999,San Marco Concept Bar,RESTAURANT,bar_cafe
-41.201630,16.599870,ov_bar_amici_41.2016_16.5999,Bar Amici,RESTAURANT,bar_cafe
-41.201270,16.599723,ov_caffetteria_astoria_41.2013_16.5997,Caffetteria Astoria,RESTAURANT,bar_cafe
-41.201557,16.595752,ov_caff__santina_41.2016_16.5958,Caffè Santina,RESTAURANT,bar_cafe
-41.200557,16.596564,ov_new_open_shop_fumo_e_fortuna_41.2006_16.5966,New Open Shop Fumo E Fortuna,RESTAURANT,bar_cafe
-41.200695,16.599335,ov_cafe_bistrot_savoia_41.2007_16.5993,Cafe Bistrot Savoia,RESTAURANT,bar_cafe
-41.200480,16.602580,ov_like_cafe__41.2005_16.6026,Like cafe',RESTAURANT,bar_cafe
-41.200968,16.604141,ov_bar_caffetteria_la_favola_mia_41.2010_16.6041,Bar Caffetteria La Favola Mia,RESTAURANT,bar_cafe
-41.199408,16.604908,ov_swing_pub_41.1994_16.6049,Swing Pub,RESTAURANT,bar_cafe
-41.198973,16.605837,ov_box_wood_cafe_41.1990_16.6058,Box Wood Cafe,RESTAURANT,bar_cafe
-41.199092,16.601316,ov_viveur_coffee_room_41.1991_16.6013,Viveur Coffee Room,RESTAURANT,bar_cafe
-41.199796,16.602615,ov_caffetteria_hope_41.1998_16.6026,Caffetteria Hope,RESTAURANT,bar_cafe
-41.199939,16.603513,ov_l_enoteca_del_viale_41.1999_16.6035,L'Enoteca del Viale,RESTAURANT,bar_cafe
-41.199981,16.599086,ov_bar_sport_41.2000_16.5991,Bar Sport,RESTAURANT,bar_cafe
-41.199930,16.599050,ov_nel_mondo_dei_carillon_41.1999_16.5990,Nel mondo dei Carillon,RESTAURANT,bar_cafe
-41.199350,16.597836,ov_bar_ariston_41.1994_16.5978,Bar Ariston,RESTAURANT,bar_cafe
-41.199278,16.597251,ov_coffee_break_41.1993_16.5973,Coffee Break,RESTAURANT,bar_cafe
-41.199143,16.596781,ov_crystal_shop_h24_41.1991_16.5968,Crystal shop h24,RESTAURANT,bar_cafe
-41.198501,16.597065,ov_mamy_caf__41.1985_16.5971,Mamy Cafè,RESTAURANT,bar_cafe
-41.198739,16.598131,ov_de_virgilio_41.1987_16.5981,De Virgilio,RESTAURANT,bar_cafe
-41.198809,16.599638,ov_coffee_point_41.1988_16.5996,Coffee Point,RESTAURANT,bar_cafe
-41.198199,16.600264,ov_bar_clich__41.1982_16.6003,Bar Cliché,RESTAURANT,bar_cafe
-41.198098,16.597869,ov_chat_noir_caf__41.1981_16.5979,Chat Noir Café,RESTAURANT,bar_cafe
-41.197285,16.597469,ov_asterix_41.1973_16.5975,Asterix,RESTAURANT,bar_cafe
-41.196314,16.596687,ov_bar_stazione_41.1963_16.5967,Bar Stazione,RESTAURANT,bar_cafe
-41.196609,16.596898,ov_caffetteria_piazza_moro_41.1966_16.5969,Caffetteria Piazza Moro,RESTAURANT,bar_cafe
-41.196346,16.603224,ov_live_82_41.1963_16.6032,Live 82,RESTAURANT,bar_cafe
-41.197977,16.601419,ov_la_cantina_di_nonno_pino_41.1980_16.6014,La cantina di Nonno Pino,RESTAURANT,bar_cafe
-41.197377,16.602969,ov_le_chic_j_adore_41.1974_16.6030,Le Chic J'Adore,RESTAURANT,bar_cafe
-41.200034,16.607187,ov_cariama___cooperativa_sociale_a_r_l__41.2000_16.6072,Cariama - Cooperativa Sociale a R.L.,RESTAURANT,bar_cafe
-41.200026,16.608585,ov_pizzeria_pub_flowers_41.2000_16.6086,Pizzeria Pub Flowers,RESTAURANT,bar_cafe
-41.197602,16.618452,ov_bloom_beach_bar_41.1976_16.6185,Bloom Beach Bar,RESTAURANT,bar_cafe
-41.196810,16.617050,ov_mamar__beach_club_41.1968_16.6170,Mamarè Beach Club,RESTAURANT,bar_cafe
-41.199892,16.602369,osm_gelateria_ice_cream_41.1999_16.6024,Gelateria Ice Cream,bar_cafe,bar_cafe
-41.204952,16.599976,osm_baraka_41.2050_16.6000,Baraka,bar_cafe,bar_cafe
-41.205042,16.600706,osm_supersantos_beershop_41.2050_16.6007,Supersantos beershop,bar_cafe,bar_cafe
-41.187482,16.598169,ov_dance_with_you_41.1875_16.5982,Dance with You,GYM,palestra
-41.195337,16.617547,ov_era_ora_palestra_41.1953_16.6175,Era Ora Palestra,GYM,palestra
-41.194290,16.598570,ov_a_s_d_natural_gym_pilates_41.1943_16.5986,A.S.D Natural Gym Pilates,GYM,palestra
-41.193998,16.599806,ov_numero_uno_molfetta_41.1940_16.5998,Numero Uno Molfetta,GYM,palestra
-41.193440,16.601380,ov_fitness_up_41.1934_16.6014,Fitness Up,GYM,palestra
-41.193478,16.593661,ov_training_studio___personal_pilates___fun_41.1935_16.5937,Training Studio - Personal Pilates & Functional,GYM,palestra
-41.193476,16.591427,ov_cage_lab_41.1935_16.5914,Cage Lab,GYM,palestra
-41.193850,16.586683,ov_palestrina_41.1939_16.5867,Palestrina,GYM,palestra
-41.192851,16.584365,ov_passione_danza_41.1929_16.5844,Passione Danza,GYM,palestra
-41.192871,16.584369,ov_bodysmile___molfetta_41.1929_16.5844,BodySmile - Molfetta,GYM,palestra
-41.191306,16.585414,ov_nucleo_sub_molfetta_41.1913_16.5854,Nucleo Sub Molfetta,GYM,palestra
-41.190834,16.586656,ov_yukta_yoga_studio_41.1908_16.5867,Yukta Yoga Studio,GYM,palestra
-41.191970,16.593340,ov_my_pilates_molfetta_41.1920_16.5933,My Pilates Molfetta,GYM,palestra
-41.192131,16.594161,ov_asd_athlon_center_molfetta_41.1921_16.5942,Asd Athlon Center Molfetta,GYM,palestra
-41.187992,16.586210,ov_360_gym___wellness_41.1880_16.5862,360 Gym & Wellness,GYM,palestra
-41.184438,16.569516,ov_campo_estivo_2_falchi_41.1844_16.5695,Campo Estivo 2 Falchi,GYM,palestra
-41.197840,16.581130,ov_pilates___wellness___studio_di_scienze_m_41.1978_16.5811,Pilates & Wellness - Studio di Scienze Motorie,GYM,palestra
-41.198912,16.593438,ov_les_dances_41.1989_16.5934,Les Dances,GYM,palestra
-41.199620,16.593047,ov_il_laboratorio_della_danza_41.1996_16.5930,Il Laboratorio della Danza,GYM,palestra
-41.200678,16.587783,ov_vanex_gym_41.2007_16.5878,Vanex Gym,GYM,palestra
-41.203557,16.590828,ov_asd_olimpia_club_molfetta_41.2036_16.5908,ASD Olimpia Club Molfetta,GYM,palestra
-41.204500,16.588826,ov_ginnastica_artistica_life_in_41.2045_16.5888,Ginnastica artistica Life In,GYM,palestra
-41.208438,16.553835,ov_yogananda_srf_italia_41.2084_16.5538,Yogananda-SRF-Italia,GYM,palestra
-41.216383,16.546530,ov_hyperspace_trampoline_parks_41.2164_16.5465,Hyperspace Trampoline Parks,GYM,palestra
-41.204162,16.596857,ov_yoga_studio_shanti_41.2042_16.5969,Yoga Studio Shanti,GYM,palestra
-41.200411,16.610001,ov_yes_fitness_palestra_molfetta_41.2004_16.6100,Yes Fitness Palestra Molfetta,GYM,palestra
-41.203888,16.596575,ov_enjoyoga_molfetta_41.2039_16.5966,Enjoyoga Molfetta,GYM,palestra
-41.202429,16.599737,ov_corpore_studio_personal_training_41.2024_16.5997,Corpore Studio Personal Training,GYM,palestra
-41.201478,16.602345,ov_asd_free_runners_molfetta_41.2015_16.6023,Asd Free Runners Molfetta,GYM,palestra
-41.201717,16.604504,ov_il_sogno_41.2017_16.6045,Il Sogno,GYM,palestra
-41.199552,16.604201,ov_gyrotonic_molfetta_41.1996_16.6042,Gyrotonic Molfetta,GYM,palestra
-41.199074,16.606360,ov_lifein_centro_ginnico_41.1991_16.6064,LifeIn Centro Ginnico,GYM,palestra
-41.198742,16.603028,ov_millennium_wellness_41.1987_16.6030,Millennium Wellness,GYM,palestra
-41.197310,16.598310,ov_molfetta_next_gen_41.1973_16.5983,Molfetta Next Gen,GYM,palestra
-41.197535,16.598289,ov_rt_studio_postura_pilates_di_raffaella_t_41.1975_16.5983,RT studio postura&pilates di Raffaella Tattoli,GYM,palestra
-41.196602,16.598643,ov_healthy_studio_41.1966_16.5986,Healthy Studio,GYM,palestra
-41.197119,16.602516,ov_olimpia_club_s_r_l__palestra_a_molfetta_41.1971_16.6025,Olimpia Club S.r.l. Palestra a Molfetta,GYM,palestra
-41.198172,16.611422,ov_360_gym___wellness_molfetta_41.1982_16.6114,360 Gym & Wellness Molfetta,GYM,palestra
-41.198863,16.607393,ov_etoile_fabbrica_di_stelle_41.1989_16.6074,Etoile Fabbrica di Stelle,GYM,palestra
-41.199292,16.607704,ov_poseidon_blu_team_41.1993_16.6077,Poseidon Blu Team,GYM,palestra
-41.198722,16.611830,ov_palazzetto_g__panunzio_41.1987_16.6118,Palazzetto G. Panunzio,GYM,palestra
-41.185606,16.517919,ov_castello_di_trani_41.1856_16.5179,Castello di Trani,MONUMENT,monumento
-41.192909,16.586044,ov_rayan_gold_41.1929_16.5860,RAYAN GOLD,MUSEUM,monumento
-41.197944,16.583834,ov_museo_civico_archeologico_del_pulo_41.1979_16.5838,Museo Civico Archeologico del Pulo,MUSEUM,monumento
-41.204480,16.593958,ov_fabbrica_di_san_domenico___molfetta_41.2045_16.5940,Fabbrica di San Domenico - Molfetta,MUSEUM,monumento
-41.215530,16.571100,ov_torre_san_giacomo_41.2155_16.5711,Torre San Giacomo,MONUMENT,monumento
-41.204940,16.595860,ov_casa_poli_41.2049_16.5959,Casa Poli,MUSEUM,monumento
-41.204038,16.599447,ov_museo_diocesano_molfetta_41.2040_16.5994,Museo Diocesano Molfetta,MUSEUM,monumento
+41.191912,16.591106,ov_unit__operativa_dipartimento_di_medicina_41.1919_16.5911,Unità Operativa Dipartimento di Medicina Trasfusionale,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/unit_operativa_dipartimento_di_medicina__41.1919_16.5911.json,custom
+41.191752,16.591402,ov_pronto_soccorso_molfetta_41.1918_16.5914,Pronto Soccorso Molfetta,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pronto_soccorso_molfetta_41.1918_16.5914.json,custom
+41.191687,16.591444,ov_ospedale_don_tonino_bello_41.1917_16.5914,Ospedale Don Tonino Bello,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ospedale_don_tonino_bello_41.1917_16.5914.json,custom
+41.192271,16.593732,ov_medical_ortopedia_41.1923_16.5937,Medical Ortopedia,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/medical_ortopedia_41.1923_16.5937.json,custom
+41.197050,16.584830,ov_salus_point_poliambulatorio_41.1970_16.5848,Salus Point Poliambulatorio,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/salus_point_poliambulatorio_41.1970_16.5848.json,custom
+41.198620,16.607062,ov_ricerche_radiologiche_41.1986_16.6071,Ricerche Radiologiche,HOSPITAL,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ricerche_radiologiche_41.1986_16.6071.json,custom
+41.191532,16.591254,osm_pronto_soccorso_ospedale_don_tonino_bell_41.1915_16.5913,Pronto Soccorso Ospedale Don Tonino Bello,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pronto_soccorso_ospedale_don_tonino_bell_41.1915_16.5913.json,custom
+41.214025,16.542679,ov_mastrodonato___ristobar_41.2140_16.5427,Mastrodonato - Ristobar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mastrodonato_-_ristobar_41.2140_16.5427.json,custom
+41.190727,16.533786,ov_agriturismo_la_ferrovia_41.1907_16.5338,Agriturismo La Ferrovia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/agriturismo_la_ferrovia_41.1907_16.5338.json,custom
+41.180777,16.597386,ov_tenuta_serena_41.1808_16.5974,Tenuta Serena,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/tenuta_serena_41.1808_16.5974.json,custom
+41.188677,16.598631,ov_il_pizzaiuolo_41.1887_16.5986,Il Pizzaiuolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_pizzaiuolo_41.1887_16.5986.json,custom
+41.184979,16.607681,ov_il_melograno_41.1850_16.6077,Il melograno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_melograno_41.1850_16.6077.json,custom
+41.191277,16.639194,ov_ristorante_pizzeria_mareluna_41.1913_16.6392,Ristorante Pizzeria Mareluna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_pizzeria_mareluna_41.1913_16.6392.json,custom
+41.191417,16.633098,ov_ristorante_ricomincio_da_3_da_franco_de__41.1914_16.6331,Ristorante ricomincio da 3 da Franco de Ruvo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_ricomincio_da_3_da_franco_de__41.1914_16.6331.json,custom
+41.192579,16.633631,ov_ristorante_adriatico_41.1926_16.6336,Ristorante Adriatico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_adriatico_41.1926_16.6336.json,custom
+41.192578,16.633350,ov_playa_del_sol_molfetta_41.1926_16.6334,Playa del Sol Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/playa_del_sol_molfetta_41.1926_16.6334.json,custom
+41.192646,16.633477,ov_ristorante_playa_del_sol_41.1926_16.6335,Ristorante Playa del Sol,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_playa_del_sol_41.1926_16.6335.json,custom
+41.193452,16.629500,ov_ricomincio_da_tre_41.1935_16.6295,Ricomincio Da Tre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ricomincio_da_tre_41.1935_16.6295.json,custom
+41.194282,16.626125,ov_ristorante_ricomincio_da_3_41.1943_16.6261,Ristorante Ricomincio da 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_ricomincio_da_3_41.1943_16.6261.json,custom
+41.195935,16.621690,ov_buen_vivir_41.1959_16.6217,Buen Vivir,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/buen_vivir_41.1959_16.6217.json,custom
+41.195710,16.621500,ov_sapemare_41.1957_16.6215,Sapemare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sapemare_41.1957_16.6215.json,custom
+41.195019,16.617843,ov_miki_sushi_41.1950_16.6178,Miki Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/miki_sushi_41.1950_16.6178.json,custom
+41.191913,16.617522,ov_la_pineta_ricevimenti_41.1919_16.6175,La Pineta Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_pineta_ricevimenti_41.1919_16.6175.json,custom
+41.189900,16.605640,ov_il_melograno_41.1899_16.6056,Il Melograno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_melograno_41.1899_16.6056.json,custom
+41.192214,16.595350,ov_ciambotto_41.1922_16.5953,Ciambotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ciambotto_41.1922_16.5953.json,custom
+41.195409,16.592579,ov_pizzeria_incontro_41.1954_16.5926,pizzeria incontro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_incontro_41.1954_16.5926.json,custom
+41.195532,16.589064,ov_il_tentacolo_41.1955_16.5891,Il Tentacolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_tentacolo_41.1955_16.5891.json,custom
+41.195450,16.589740,ov_il_guerriero_41.1954_16.5897,Il Guerriero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_guerriero_41.1954_16.5897.json,custom
+41.194939,16.591687,ov_pizza_amore_e_fantasia_41.1949_16.5917,Pizza Amore e Fantasia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizza_amore_e_fantasia_41.1949_16.5917.json,custom
+41.194480,16.590991,ov_superfresco_41.1945_16.5910,Superfresco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/superfresco_41.1945_16.5910.json,custom
+41.193738,16.592129,ov_mille_e_una_pizza_41.1937_16.5921,Mille e una pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mille_e_una_pizza_41.1937_16.5921.json,custom
+41.193091,16.593642,ov_sushi_wang_41.1931_16.5936,Sushi Wang,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sushi_wang_41.1931_16.5936.json,custom
+41.192939,16.591844,ov_pizzeria_eden_41.1929_16.5918,Pizzeria EDEN,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_eden_41.1929_16.5918.json,custom
+41.192796,16.584619,ov_pizzeria_lo_scugnizzo_41.1928_16.5846,Pizzeria Lo Scugnizzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_lo_scugnizzo_41.1928_16.5846.json,custom
+41.193618,16.584875,ov_pescheria_fish_and_love_41.1936_16.5849,Pescheria Fish and Love,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pescheria_fish_and_love_41.1936_16.5849.json,custom
+41.195998,16.588512,ov_pizzeria_paradiso_41.1960_16.5885,Pizzeria Paradiso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_paradiso_41.1960_16.5885.json,custom
+41.191508,16.585485,ov_queens_caffe_bistrot_41.1915_16.5855,Queens Caffe Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/queens_caffe_bistrot_41.1915_16.5855.json,custom
+41.190656,16.586649,ov_il_buco_41.1907_16.5866,Il Buco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_buco_41.1907_16.5866.json,custom
+41.191473,16.589894,ov_il_rifugio_3_0_41.1915_16.5899,Il Rifugio 3.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_rifugio_30_41.1915_16.5899.json,custom
+41.191899,16.594093,ov_ristorante_pizzeria_boh_41.1919_16.5941,Ristorante Pizzeria Boh,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_pizzeria_boh_41.1919_16.5941.json,custom
+41.191459,16.593318,ov_pizzeria_tuning_car_41.1915_16.5933,Pizzeria Tuning Car,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_tuning_car_41.1915_16.5933.json,custom
+41.189870,16.592149,ov_bagus___be_positive_41.1899_16.5921,Bagus - be positive,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bagus_-_be_positive_41.1899_16.5921.json,custom
+41.189878,16.592242,ov_koun_sushi_41.1899_16.5922,Koun sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/koun_sushi_41.1899_16.5922.json,custom
+41.187299,16.590398,ov_olio_e_basilico_3_0_41.1873_16.5904,Olio e Basilico 3.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/olio_e_basilico_30_41.1873_16.5904.json,custom
+41.181615,16.583334,ov_chalet_del_sole_molfetta_41.1816_16.5833,Chalet del sole Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/chalet_del_sole_molfetta_41.1816_16.5833.json,custom
+41.203347,16.560546,ov_mister_chef_41.2033_16.5605,Mister Chef,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mister_chef_41.2033_16.5605.json,custom
+41.203510,16.561856,ov_bluedancing_molfetta_41.2035_16.5619,Bluedancing Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bluedancing_molfetta_41.2035_16.5619.json,custom
+41.196908,16.582165,ov_i_5_monelli_41.1969_16.5822,I 5 Monelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/i_5_monelli_41.1969_16.5822.json,custom
+41.199453,16.592809,ov_voglia_di_pizza_41.1995_16.5928,Voglia di pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/voglia_di_pizza_41.1995_16.5928.json,custom
+41.199475,16.591457,ov_pizzeria_misfizio_41.1995_16.5915,Pizzeria MiSfizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_misfizio_41.1995_16.5915.json,custom
+41.199343,16.587428,ov_la_rustica_41.1993_16.5874,La Rustica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_rustica_41.1993_16.5874.json,custom
+41.202246,16.590949,ov_pizza_planet_41.2022_16.5909,Pizza Planet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizza_planet_41.2022_16.5909.json,custom
+41.203032,16.590789,ov_nuova_porta_del_sole_41.2030_16.5908,Nuova porta del sole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/nuova_porta_del_sole_41.2030_16.5908.json,custom
+41.204375,16.589775,ov_al_marinaio_41.2044_16.5898,Al Marinaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/al_marinaio_41.2044_16.5898.json,custom
+41.204867,16.589630,ov_mr_poldo_pizzeria_41.2049_16.5896,Mr Poldo Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mr_poldo_pizzeria_41.2049_16.5896.json,custom
+41.204928,16.589537,ov_mister_poldo_chicken_41.2049_16.5895,Mister Poldo chicken,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mister_poldo_chicken_41.2049_16.5895.json,custom
+41.204879,16.589491,ov_ristorante_el_arriero_41.2049_16.5895,Ristorante El Arriero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_el_arriero_41.2049_16.5895.json,custom
+41.205101,16.588974,ov_ristorante_pizzeria_miramare_41.2051_16.5890,Ristorante Pizzeria miramare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_pizzeria_miramare_41.2051_16.5890.json,custom
+41.205160,16.589300,ov_monelli_41.2052_16.5893,Monelli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/monelli_41.2052_16.5893.json,custom
+41.206670,16.586932,ov_ristorante_pizzeria_marechiaro_41.2067_16.5869,Ristorante Pizzeria Marechiaro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_pizzeria_marechiaro_41.2067_16.5869.json,custom
+41.206478,16.553804,ov_vesuvya_41.2065_16.5538,Vesuvya,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/vesuvya_41.2065_16.5538.json,custom
+41.205176,16.556448,ov_mcdonald_s_41.2052_16.5564,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mcdonalds_41.2052_16.5564.json,custom
+41.204333,16.554456,ov_old_wild_west___molfetta_mongolfiera_41.2043_16.5545,Old Wild West - Molfetta Mongolfiera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/old_wild_west_-_molfetta_mongolfiera_41.2043_16.5545.json,custom
+41.204725,16.553477,ov_kfc_41.2047_16.5535,KFC,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/kfc_41.2047_16.5535.json,custom
+41.205777,16.552515,ov_molfetta_mongolfiera_41.2058_16.5525,Molfetta Mongolfiera,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/molfetta_mongolfiera_41.2058_16.5525.json,custom
+41.209128,16.551001,ov_caff__vergnano_41.2091_16.5510,Caffè Vergnano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caff_vergnano_41.2091_16.5510.json,custom
+41.209529,16.556117,ov_la_macchia_degli_esperti_41.2095_16.5561,La Macchia degli Esperti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_macchia_degli_esperti_41.2095_16.5561.json,custom
+41.209460,16.555160,ov_new_lions_ricevimenti_41.2095_16.5552,New Lions Ricevimenti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/new_lions_ricevimenti_41.2095_16.5552.json,custom
+41.215773,16.546318,ov_bacio_di_puglia_41.2158_16.5463,Bacio Di Puglia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bacio_di_puglia_41.2158_16.5463.json,custom
+41.216788,16.546843,ov_whao___italian_food___design_41.2168_16.5468,WHAO - Italian food & design,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/whao_-_italian_food_design_41.2168_16.5468.json,custom
+41.216796,16.546773,ov_old_wild_west___molfetta_puglia_outlet_v_41.2168_16.5468,Old Wild West - Molfetta Puglia Outlet Village,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/old_wild_west_-_molfetta_puglia_outlet_v_41.2168_16.5468.json,custom
+41.213959,16.572342,ov_blue_paradise_41.2140_16.5723,Blue Paradise,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/blue_paradise_41.2140_16.5723.json,custom
+41.213458,16.573149,ov_san_giacomo___orto_cotto_41.2135_16.5731,San Giacomo - Orto Cotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/san_giacomo_-_orto_cotto_41.2135_16.5731.json,custom
+41.205022,16.600382,ov_guyot_braceria_41.2050_16.6004,Guyot Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/guyot_braceria_41.2050_16.6004.json,custom
+41.205064,16.600597,ov_supersantos_burger_41.2051_16.6006,Supersantos Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/supersantos_burger_41.2051_16.6006.json,custom
+41.204954,16.600271,ov_guyot_enobistrot_41.2050_16.6003,Guyot Enobistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/guyot_enobistrot_41.2050_16.6003.json,custom
+41.205133,16.599722,ov_malie_41.2051_16.5997,Malie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/malie_41.2051_16.5997.json,custom
+41.205410,16.598250,ov_santa_puglia___pizza___cr_pe_41.2054_16.5983,Santa Puglia - Pizza & Crêpe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/santa_puglia_-_pizza_crpe_41.2054_16.5983.json,custom
+41.205360,16.598510,ov_cantine_pop_41.2054_16.5985,Cantine Pop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cantine_pop_41.2054_16.5985.json,custom
+41.204894,16.596120,ov_i_due_foscari_41.2049_16.5961,I due Foscari,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/i_due_foscari_41.2049_16.5961.json,custom
+41.204945,16.596545,ov_sea_chef___ristorante___molfetta_41.2049_16.5965,Sea Chef - Ristorante - Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sea_chef_-_ristorante_-_molfetta_41.2049_16.5965.json,custom
+41.205117,16.597663,ov_isola_di_sant_andrea_41.2051_16.5977,Isola di Sant'Andrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/isola_di_santandrea_41.2051_16.5977.json,custom
+41.205071,16.597761,ov_fermento_vivo___pizzeria_e_ristorante_41.2051_16.5978,Fermento Vivo - Pizzeria e Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/fermento_vivo_-_pizzeria_e_ristorante_41.2051_16.5978.json,custom
+41.205098,16.597680,ov_mezzopieno_41.2051_16.5977,Mezzopieno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mezzopieno_41.2051_16.5977.json,custom
+41.204864,16.597757,ov_kent_smash_burgers_41.2049_16.5978,Kent smash burgers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/kent_smash_burgers_41.2049_16.5978.json,custom
+41.204702,16.597331,ov_greedy_ristorazione_41.2047_16.5973,Greedy Ristorazione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/greedy_ristorazione_41.2047_16.5973.json,custom
+41.204570,16.597697,ov_sapemore___il_cucininostrano_41.2046_16.5977,Sapemore - il CuciniNostrano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sapemore_-_il_cucininostrano_41.2046_16.5977.json,custom
+41.204664,16.595463,ov_la_vineria_di_san_domenico_41.2047_16.5955,La Vineria di San Domenico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_vineria_di_san_domenico_41.2047_16.5955.json,custom
+41.204060,16.595716,ov_la_pinta___public_house_41.2041_16.5957,La Pinta - Public House,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_pinta_-_public_house_41.2041_16.5957.json,custom
+41.204754,16.598461,ov_corso_dante_41.2048_16.5985,Corso Dante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/corso_dante_41.2048_16.5985.json,custom
+41.204810,16.598541,ov_palato_cafe_e_bistrot_41.2048_16.5985,Palato Cafe e Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/palato_cafe_e_bistrot_41.2048_16.5985.json,custom
+41.204672,16.598755,ov_norcineria_vetusta_nursia_41.2047_16.5988,Norcineria Vetusta Nursia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/norcineria_vetusta_nursia_41.2047_16.5988.json,custom
+41.204744,16.599389,ov_dentro_le_mura_41.2047_16.5994,Dentro Le Mura,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/dentro_le_mura_41.2047_16.5994.json,custom
+41.204581,16.598847,ov_bistrot_41.2046_16.5988,Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bistrot_41.2046_16.5988.json,custom
+41.204440,16.599963,ov_chocolat_41.2044_16.6000,Chocolat,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/chocolat_41.2044_16.6000.json,custom
+41.204600,16.599650,ov_le_quattro_stagioni_41.2046_16.5997,Le Quattro Stagioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/le_quattro_stagioni_41.2046_16.5997.json,custom
+41.204750,16.600675,ov_baia_salada_41.2047_16.6007,Baia Salada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/baia_salada_41.2047_16.6007.json,custom
+41.204388,16.600459,ov_pizzeria_garibaldi_41.2044_16.6005,Pizzeria Garibaldi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_garibaldi_41.2044_16.6005.json,custom
+41.204281,16.600876,ov_osteria_amelie_41.2043_16.6009,Osteria Amelie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/osteria_amelie_41.2043_16.6009.json,custom
+41.204300,16.600249,ov_officina_del_gusto_san_marco_41.2043_16.6002,Officina del Gusto San Marco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/officina_del_gusto_san_marco_41.2043_16.6002.json,custom
+41.203953,16.601672,ov_pole_pole_41.2040_16.6017,Pole Pole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pole_pole_41.2040_16.6017.json,custom
+41.201371,16.607406,ov_ciao_ciao_41.2014_16.6074,Ciao Ciao,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ciao_ciao_41.2014_16.6074.json,custom
+41.201453,16.607268,ov_timeout_41.2015_16.6073,Timeout,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/timeout_41.2015_16.6073.json,custom
+41.202090,16.605190,ov_me_la_mangio___churrascaria___street_foo_41.2021_16.6052,Me la Mangio - Churrascaria & Street Food - Molfetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/me_la_mangio_-_churrascaria_street_food__41.2021_16.6052.json,custom
+41.202359,16.604734,ov_il_ritrovo_dei_gabbiani_41.2024_16.6047,Il Ritrovo Dei Gabbiani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_ritrovo_dei_gabbiani_41.2024_16.6047.json,custom
+41.202363,16.602014,ov_spoon_spaghetteria_41.2024_16.6020,Spoon spaghetteria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/spoon_spaghetteria_41.2024_16.6020.json,custom
+41.202669,16.601968,ov_sottacqua_fish_bar_41.2027_16.6020,Sottacqua Fish Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sottacqua_fish_bar_41.2027_16.6020.json,custom
+41.203283,16.602790,ov_halal_ottimo_kebabberia_hoshiarpuria__bo_41.2033_16.6028,HALAL Ottimo kebabberia HOSHIARPURIA (BOBBY),RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/halal_ottimo_kebabberia_hoshiarpuria_bob_41.2033_16.6028.json,custom
+41.203739,16.602006,ov_chotto_chotto_41.2037_16.6020,Chotto Chotto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/chotto_chotto_41.2037_16.6020.json,custom
+41.203017,16.600252,ov_happy_dinner_41.2030_16.6003,Happy dinner,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/happy_dinner_41.2030_16.6003.json,custom
+41.203355,16.600216,ov_friends_41.2034_16.6002,Friends,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/friends_41.2034_16.6002.json,custom
+41.202986,16.598140,ov_al_capriccio_41.2030_16.5981,Al Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/al_capriccio_41.2030_16.5981.json,custom
+41.203401,16.598102,ov_sea_riad_41.2034_16.5981,Sea Riad,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sea_riad_41.2034_16.5981.json,custom
+41.202948,16.598908,ov_bulul____arepabar_41.2029_16.5989,Bululú - ArepaBar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bulul_-_arepabar_41.2029_16.5989.json,custom
+41.202849,16.599143,ov_ristorante_bufi_41.2028_16.5991,Ristorante Bufi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ristorante_bufi_41.2028_16.5991.json,custom
+41.202780,16.599635,ov_convivium_contemporary_pizza___bistrot_41.2028_16.5996,Convivium Contemporary Pizza & Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/convivium_contemporary_pizza_bistrot_41.2028_16.5996.json,custom
+41.201367,16.595655,ov_osteria_solidale_41.2014_16.5957,Osteria Solidale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/osteria_solidale_41.2014_16.5957.json,custom
+41.200360,16.603068,ov_angela_pizzeria_i_ghiottoni_41.2004_16.6031,Angela Pizzeria I Ghiottoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/angela_pizzeria_i_ghiottoni_41.2004_16.6031.json,custom
+41.200426,16.603076,ov_i_ghiottoni_41.2004_16.6031,I Ghiottoni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/i_ghiottoni_41.2004_16.6031.json,custom
+41.201399,16.601906,ov_bellavista_pizzeria_lievito_madre_41.2014_16.6019,Bellavista Pizzeria Lievito Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bellavista_pizzeria_lievito_madre_41.2014_16.6019.json,custom
+41.201470,16.601979,ov_snoopy_41.2015_16.6020,Snoopy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/snoopy_41.2015_16.6020.json,custom
+41.201596,16.604679,ov_la_cucina_del_mare_41.2016_16.6047,La Cucina Del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_cucina_del_mare_41.2016_16.6047.json,custom
+41.200728,16.606561,ov_mini_bar_garden_bistrot_41.2007_16.6066,Mini Bar Garden Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mini_bar_garden_bistrot_41.2007_16.6066.json,custom
+41.200268,16.604633,ov_poste_italiane_41.2003_16.6046,Poste Italiane,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/poste_italiane_41.2003_16.6046.json,custom
+41.198689,16.602753,ov_casa_della_pasta_fresca_sagittario_41.1987_16.6028,Casa della pasta fresca Sagittario,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/casa_della_pasta_fresca_sagittario_41.1987_16.6028.json,custom
+41.199458,16.601608,ov_verde_basilico_41.1995_16.6016,Verde Basilico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/verde_basilico_41.1995_16.6016.json,custom
+41.199360,16.602157,ov_lo_sfizio_41.1994_16.6022,Lo Sfizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lo_sfizio_41.1994_16.6022.json,custom
+41.199958,16.602816,ov__etrogusto_41.2000_16.6028,Яetrogusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/etrogusto_41.2000_16.6028.json,custom
+41.199322,16.600279,ov_pescheria_da_giampino_41.1993_16.6003,Pescheria da Giampino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pescheria_da_giampino_41.1993_16.6003.json,custom
+41.198418,16.597201,ov_il_vecchio_gazebo_41.1984_16.5972,Il Vecchio Gazebo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_vecchio_gazebo_41.1984_16.5972.json,custom
+41.198859,16.599650,ov_pizzeria_campo_di_grano_41.1989_16.5997,Pizzeria Campo Di Grano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_campo_di_grano_41.1989_16.5997.json,custom
+41.198130,16.600320,ov_pizzeria_il_girasole_41.1981_16.6003,Pizzeria Il Girasole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_il_girasole_41.1981_16.6003.json,custom
+41.197597,16.598623,ov_la_bussola_41.1976_16.5986,La Bussola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_bussola_41.1976_16.5986.json,custom
+41.198180,16.598070,ov_lin_poke_41.1982_16.5981,Lin Poke,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lin_poke_41.1982_16.5981.json,custom
+41.197880,16.597052,ov_roma_2_41.1979_16.5971,Roma 2,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/roma_2_41.1979_16.5971.json,custom
+41.197416,16.595558,ov_osteria_baccomatto_41.1974_16.5956,Osteria Baccomatto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/osteria_baccomatto_41.1974_16.5956.json,custom
+41.196883,16.597146,ov_carne_diem_41.1969_16.5971,Carne Diem,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/carne_diem_41.1969_16.5971.json,custom
+41.196842,16.597112,ov_gavet_ne___pizzeria_urbana_41.1968_16.5971,Gavetøne - Pizzeria Urbana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/gavetne_-_pizzeria_urbana_41.1968_16.5971.json,custom
+41.196679,16.596462,ov_la_piedigrotta_41.1967_16.5965,La Piedigrotta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_piedigrotta_41.1967_16.5965.json,custom
+41.196883,16.598943,ov_spazio_verdesca_41.1969_16.5989,Spazio Verdesca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/spazio_verdesca_41.1969_16.5989.json,custom
+41.199494,16.609633,ov_braceria_de_lucia_41.1995_16.6096,Braceria de Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/braceria_de_lucia_41.1995_16.6096.json,custom
+41.198365,16.611928,ov_quattro_quarti___pizzeria_con_cucina_41.1984_16.6119,Quattro Quarti - Pizzeria con Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/quattro_quarti_-_pizzeria_con_cucina_41.1984_16.6119.json,custom
+41.203681,16.601843,osm_la_baguetterie_molfetta_41.2037_16.6018,La Baguetterie Molfetta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_baguetterie_molfetta_41.2037_16.6018.json,custom
+41.200836,16.597748,osm_pizzeria_happy_day_s_41.2008_16.5977,Pizzeria Happy Day's,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_happy_days_41.2008_16.5977.json,custom
+41.190549,16.535067,osm_agriturismo_la_ferrovia_41.1905_16.5351,agriturismo la ferrovia,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/agriturismo_la_ferrovia_41.1905_16.5351.json,custom
+41.194442,16.626139,osm_ricomincio_da_3_41.1944_16.6261,Ricomincio da 3,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ricomincio_da_3_41.1944_16.6261.json,custom
+41.204551,16.597691,osm_sapemore_41.2046_16.5977,Sapemore,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/sapemore_41.2046_16.5977.json,custom
+41.187045,16.598313,ov_raphael_caf__41.1870_16.5983,Raphael Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/raphael_caf_41.1870_16.5983.json,custom
+41.194082,16.626629,ov_pane___amore_beach_41.1941_16.6266,Pane & Amore Beach,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pane_amore_beach_41.1941_16.6266.json,custom
+41.194650,16.625253,ov_supersantos_soul_beer_41.1947_16.6253,Supersantos Soul Beer,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/supersantos_soul_beer_41.1947_16.6253.json,custom
+41.195437,16.623919,ov_bar_ruz_41.1954_16.6239,Bar Ruz,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_ruz_41.1954_16.6239.json,custom
+41.195896,16.606193,ov_oasi_del_caffe_41.1959_16.6062,Oasi del caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/oasi_del_caffe_41.1959_16.6062.json,custom
+41.195901,16.605059,ov_flory_s_caffe_41.1959_16.6051,Flory's Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/florys_caffe_41.1959_16.6051.json,custom
+41.195960,16.592405,ov_oasi_de_cafe_41.1960_16.5924,Oasi De Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/oasi_de_cafe_41.1960_16.5924.json,custom
+41.195340,16.590281,ov_roxy_bar_41.1953_16.5903,Roxy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/roxy_bar_41.1953_16.5903.json,custom
+41.194654,16.590015,ov_museum_lounge_cafe_41.1947_16.5900,Museum Lounge Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/museum_lounge_cafe_41.1947_16.5900.json,custom
+41.194050,16.592290,ov_london_caf__specialty_coffee_41.1940_16.5923,London Cafè Specialty Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/london_caf_specialty_coffee_41.1940_16.5923.json,custom
+41.193680,16.594476,ov_tr_s_jolie_41.1937_16.5945,Très Jolie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/trs_jolie_41.1937_16.5945.json,custom
+41.193461,16.588173,ov_caffetteria_venere_41.1935_16.5882,Caffetteria Venere,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffetteria_venere_41.1935_16.5882.json,custom
+41.195725,16.588557,ov_la_caffetteria_41.1957_16.5886,La Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_caffetteria_41.1957_16.5886.json,custom
+41.190878,16.582877,ov_joti_41.1909_16.5829,JOTI,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/joti_41.1909_16.5829.json,custom
+41.190887,16.589765,ov_ai_parioli_fuori_dal_comune_41.1909_16.5898,Ai Parioli fuori dal comune,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ai_parioli_fuori_dal_comune_41.1909_16.5898.json,custom
+41.191155,16.590133,ov_caffetteria_grease_41.1912_16.5901,Caffetteria Grease,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffetteria_grease_41.1912_16.5901.json,custom
+41.192464,16.590995,ov_bar_broadway_41.1925_16.5910,Bar Broadway,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_broadway_41.1925_16.5910.json,custom
+41.192071,16.593212,ov_new_york_garden_bar_41.1921_16.5932,New York Garden Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/new_york_garden_bar_41.1921_16.5932.json,custom
+41.191979,16.593603,ov_enoteca_scacco_bacco_41.1920_16.5936,Enoteca Scacco Bacco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/enoteca_scacco_bacco_41.1920_16.5936.json,custom
+41.187648,16.587072,ov_bar_eden_41.1876_16.5871,BAR EDEN,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_eden_41.1876_16.5871.json,custom
+41.202658,16.559835,ov_baracche_ribelli___le_macerie_41.2027_16.5598,Baracche Ribelli - Le Macerie,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/baracche_ribelli_-_le_macerie_41.2027_16.5598.json,custom
+41.199763,16.571860,ov_gardenia_41.1998_16.5719,Gardenia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/gardenia_41.1998_16.5719.json,custom
+41.197874,16.584635,ov_revenge_cafe_41.1979_16.5846,Revenge Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/revenge_cafe_41.1979_16.5846.json,custom
+41.196579,16.586511,ov_lion_s_caffetteria_41.1966_16.5865,Lion's Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lions_caffetteria_41.1966_16.5865.json,custom
+41.196516,16.586623,ov_merceria_cartoleria_gadaleta_angela_41.1965_16.5866,Merceria-cartoleria Gadaleta Angela,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/merceria-cartoleria_gadaleta_angela_41.1965_16.5866.json,custom
+41.198638,16.592827,ov_new_black_caffetteria_41.1986_16.5928,New Black Caffetteria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/new_black_caffetteria_41.1986_16.5928.json,custom
+41.198747,16.592881,ov_la_vie_est_belle_41.1987_16.5929,La vie est belle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_vie_est_belle_41.1987_16.5929.json,custom
+41.199022,16.592386,ov_bar_cavour_41.1990_16.5924,Bar Cavour,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_cavour_41.1990_16.5924.json,custom
+41.199857,16.590565,ov_italian_coffee_house_41.1999_16.5906,Italian Coffee House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/italian_coffee_house_41.1999_16.5906.json,custom
+41.199873,16.588280,ov_bianco_latte__molfetta_41.1999_16.5883,Bianco Latte  Molfetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bianco_latte_molfetta_41.1999_16.5883.json,custom
+41.199474,16.585282,ov_atlantis_41.1995_16.5853,Atlantis,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/atlantis_41.1995_16.5853.json,custom
+41.200528,16.587711,ov_la_cueva_41.2005_16.5877,La Cueva,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_cueva_41.2005_16.5877.json,custom
+41.200312,16.589668,ov_in_vino_veritas_41.2003_16.5897,In Vino Veritas,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/in_vino_veritas_41.2003_16.5897.json,custom
+41.200617,16.588967,ov_moonlight_caf__41.2006_16.5890,Moonlight Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/moonlight_caf_41.2006_16.5890.json,custom
+41.200537,16.591799,ov_bar_la_nuova_roma_41.2005_16.5918,Bar la nuova roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_la_nuova_roma_41.2005_16.5918.json,custom
+41.203619,16.589467,ov_diva_caf__41.2036_16.5895,Diva Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/diva_caf_41.2036_16.5895.json,custom
+41.205461,16.588027,ov_la_resaca_41.2055_16.5880,La Resaca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_resaca_41.2055_16.5880.json,custom
+41.205088,16.589802,ov_black_bart_pubs_41.2051_16.5898,Black Bart pubs,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/black_bart_pubs_41.2051_16.5898.json,custom
+41.207266,16.557233,ov_new_valmon___euphemia_benessere_in_tazza_41.2073_16.5572,New Valmon - Euphemia Benessere in Tazza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/new_valmon_-_euphemia_benessere_in_tazza_41.2073_16.5572.json,custom
+41.210490,16.547970,ov_network_coffee_41.2105_16.5480,Network Coffee,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/network_coffee_41.2105_16.5480.json,custom
+41.216443,16.546280,ov_4home_caf__41.2164_16.5463,4Home Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/4home_caf_41.2164_16.5463.json,custom
+41.221230,16.564870,ov_parco_san_giacomo___ricevimenti_41.2212_16.5649,Parco San Giacomo - Ricevimenti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/parco_san_giacomo_-_ricevimenti_41.2212_16.5649.json,custom
+41.206069,16.597528,ov_bar_al_duomo___panzerottificio_molfetta_41.2061_16.5975,Bar Al Duomo - Panzerottificio Molfetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_al_duomo_-_panzerottificio_molfetta_41.2061_16.5975.json,custom
+41.206426,16.598376,ov_lunatica_la_spiaggetta_41.2064_16.5984,Lunatica La Spiaggetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lunatica_la_spiaggetta_41.2064_16.5984.json,custom
+41.206750,16.598030,ov_casa_del_mar___chiringuito_41.2067_16.5980,Casa del Mar - Chiringuito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/casa_del_mar_-_chiringuito_41.2067_16.5980.json,custom
+41.204954,16.600271,ov_la_boca___bar_de_la_plaza_41.2050_16.6003,La Boca - Bar de la Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_boca_-_bar_de_la_plaza_41.2050_16.6003.json,custom
+41.204965,16.599896,ov_baraka_pub_wine_bar_41.2050_16.5999,Baraka Pub&Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/baraka_pubwine_bar_41.2050_16.5999.json,custom
+41.205381,16.598501,ov_clandestino_41.2054_16.5985,Clandestino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/clandestino_41.2054_16.5985.json,custom
+41.204873,16.595422,ov_bar_tabaccheria_al_porto_41.2049_16.5954,Bar Tabaccheria Al Porto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_tabaccheria_al_porto_41.2049_16.5954.json,custom
+41.204950,16.597215,ov_vidaloca_caffetteria___lounge_bar_41.2050_16.5972,VIDALOCA Caffetteria - Lounge Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/vidaloca_caffetteria_-_lounge_bar_41.2050_16.5972.json,custom
+41.204849,16.598376,ov_beer_condicio_41.2048_16.5984,Beer Condicio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/beer_condicio_41.2048_16.5984.json,custom
+41.204832,16.598601,ov_muraglia_29_41.2048_16.5986,Muraglia 29,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/muraglia_29_41.2048_16.5986.json,custom
+41.204730,16.598442,ov_bar_vittoria_41.2047_16.5984,Bar Vittoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_vittoria_41.2047_16.5984.json,custom
+41.204632,16.598555,ov_blues_cafe_41.2046_16.5986,Blues Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/blues_cafe_41.2046_16.5986.json,custom
+41.204723,16.599655,ov_cin_cin_bar_41.2047_16.5997,Cin Cin Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cin_cin_bar_41.2047_16.5997.json,custom
+41.204764,16.600128,ov_mattia_s_caff__41.2048_16.6001,Mattia's Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mattias_caff_41.2048_16.6001.json,custom
+41.204800,16.600460,ov_cantina_maya___vino_e_confidenze_41.2048_16.6005,Cantina MAYA - vino e confidenze,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cantina_maya_-_vino_e_confidenze_41.2048_16.6005.json,custom
+41.204380,16.599900,ov_boorp_41.2044_16.5999,Boorp,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/boorp_41.2044_16.5999.json,custom
+41.203951,16.601466,ov_birreria_wood_stock_41.2040_16.6015,Birreria Wood Stock,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/birreria_wood_stock_41.2040_16.6015.json,custom
+41.201470,16.607186,ov_the_beatles_pub_41.2015_16.6072,The Beatles Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/the_beatles_pub_41.2015_16.6072.json,custom
+41.203394,16.602301,ov_coffee_and_co_41.2034_16.6023,Coffee and Co,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/coffee_and_co_41.2034_16.6023.json,custom
+41.203897,16.601397,ov_off_street_cafe_41.2039_16.6014,Off Street Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/off_street_cafe_41.2039_16.6014.json,custom
+41.202604,16.598112,ov_central_bar_41.2026_16.5981,Central Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/central_bar_41.2026_16.5981.json,custom
+41.202632,16.598015,ov_caffe_41.2026_16.5980,Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffe_41.2026_16.5980.json,custom
+41.201718,16.599890,ov_san_marco_concept_bar_41.2017_16.5999,San Marco Concept Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/san_marco_concept_bar_41.2017_16.5999.json,custom
+41.201630,16.599870,ov_bar_amici_41.2016_16.5999,Bar Amici,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_amici_41.2016_16.5999.json,custom
+41.201270,16.599723,ov_caffetteria_astoria_41.2013_16.5997,Caffetteria Astoria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffetteria_astoria_41.2013_16.5997.json,custom
+41.201557,16.595752,ov_caff__santina_41.2016_16.5958,Caffè Santina,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caff_santina_41.2016_16.5958.json,custom
+41.200557,16.596564,ov_new_open_shop_fumo_e_fortuna_41.2006_16.5966,New Open Shop Fumo E Fortuna,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/new_open_shop_fumo_e_fortuna_41.2006_16.5966.json,custom
+41.200695,16.599335,ov_cafe_bistrot_savoia_41.2007_16.5993,Cafe Bistrot Savoia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cafe_bistrot_savoia_41.2007_16.5993.json,custom
+41.200480,16.602580,ov_like_cafe__41.2005_16.6026,Like cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/like_cafe_41.2005_16.6026.json,custom
+41.200968,16.604141,ov_bar_caffetteria_la_favola_mia_41.2010_16.6041,Bar Caffetteria La Favola Mia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_caffetteria_la_favola_mia_41.2010_16.6041.json,custom
+41.199408,16.604908,ov_swing_pub_41.1994_16.6049,Swing Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/swing_pub_41.1994_16.6049.json,custom
+41.198973,16.605837,ov_box_wood_cafe_41.1990_16.6058,Box Wood Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/box_wood_cafe_41.1990_16.6058.json,custom
+41.199092,16.601316,ov_viveur_coffee_room_41.1991_16.6013,Viveur Coffee Room,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/viveur_coffee_room_41.1991_16.6013.json,custom
+41.199796,16.602615,ov_caffetteria_hope_41.1998_16.6026,Caffetteria Hope,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffetteria_hope_41.1998_16.6026.json,custom
+41.199939,16.603513,ov_l_enoteca_del_viale_41.1999_16.6035,L'Enoteca del Viale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lenoteca_del_viale_41.1999_16.6035.json,custom
+41.199981,16.599086,ov_bar_sport_41.2000_16.5991,Bar Sport,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_sport_41.2000_16.5991.json,custom
+41.199930,16.599050,ov_nel_mondo_dei_carillon_41.1999_16.5990,Nel mondo dei Carillon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/nel_mondo_dei_carillon_41.1999_16.5990.json,custom
+41.199350,16.597836,ov_bar_ariston_41.1994_16.5978,Bar Ariston,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_ariston_41.1994_16.5978.json,custom
+41.199278,16.597251,ov_coffee_break_41.1993_16.5973,Coffee Break,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/coffee_break_41.1993_16.5973.json,custom
+41.199143,16.596781,ov_crystal_shop_h24_41.1991_16.5968,Crystal shop h24,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/crystal_shop_h24_41.1991_16.5968.json,custom
+41.198501,16.597065,ov_mamy_caf__41.1985_16.5971,Mamy Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mamy_caf_41.1985_16.5971.json,custom
+41.198739,16.598131,ov_de_virgilio_41.1987_16.5981,De Virgilio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/de_virgilio_41.1987_16.5981.json,custom
+41.198809,16.599638,ov_coffee_point_41.1988_16.5996,Coffee Point,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/coffee_point_41.1988_16.5996.json,custom
+41.198199,16.600264,ov_bar_clich__41.1982_16.6003,Bar Cliché,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_clich_41.1982_16.6003.json,custom
+41.198098,16.597869,ov_chat_noir_caf__41.1981_16.5979,Chat Noir Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/chat_noir_caf_41.1981_16.5979.json,custom
+41.197285,16.597469,ov_asterix_41.1973_16.5975,Asterix,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/asterix_41.1973_16.5975.json,custom
+41.196314,16.596687,ov_bar_stazione_41.1963_16.5967,Bar Stazione,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bar_stazione_41.1963_16.5967.json,custom
+41.196609,16.596898,ov_caffetteria_piazza_moro_41.1966_16.5969,Caffetteria Piazza Moro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/caffetteria_piazza_moro_41.1966_16.5969.json,custom
+41.196346,16.603224,ov_live_82_41.1963_16.6032,Live 82,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/live_82_41.1963_16.6032.json,custom
+41.197977,16.601419,ov_la_cantina_di_nonno_pino_41.1980_16.6014,La cantina di Nonno Pino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/la_cantina_di_nonno_pino_41.1980_16.6014.json,custom
+41.197377,16.602969,ov_le_chic_j_adore_41.1974_16.6030,Le Chic J'Adore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/le_chic_jadore_41.1974_16.6030.json,custom
+41.200034,16.607187,ov_cariama___cooperativa_sociale_a_r_l__41.2000_16.6072,Cariama - Cooperativa Sociale a R.L.,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cariama_-_cooperativa_sociale_a_rl_41.2000_16.6072.json,custom
+41.200026,16.608585,ov_pizzeria_pub_flowers_41.2000_16.6086,Pizzeria Pub Flowers,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pizzeria_pub_flowers_41.2000_16.6086.json,custom
+41.197602,16.618452,ov_bloom_beach_bar_41.1976_16.6185,Bloom Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bloom_beach_bar_41.1976_16.6185.json,custom
+41.196810,16.617050,ov_mamar__beach_club_41.1968_16.6170,Mamarè Beach Club,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/mamar_beach_club_41.1968_16.6170.json,custom
+41.199892,16.602369,osm_gelateria_ice_cream_41.1999_16.6024,Gelateria Ice Cream,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/gelateria_ice_cream_41.1999_16.6024.json,custom
+41.204952,16.599976,osm_baraka_41.2050_16.6000,Baraka,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/baraka_41.2050_16.6000.json,custom
+41.205042,16.600706,osm_supersantos_beershop_41.2050_16.6007,Supersantos beershop,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/supersantos_beershop_41.2050_16.6007.json,custom
+41.187482,16.598169,ov_dance_with_you_41.1875_16.5982,Dance with You,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/dance_with_you_41.1875_16.5982.json,custom
+41.195337,16.617547,ov_era_ora_palestra_41.1953_16.6175,Era Ora Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/era_ora_palestra_41.1953_16.6175.json,custom
+41.194290,16.598570,ov_a_s_d_natural_gym_pilates_41.1943_16.5986,A.S.D Natural Gym Pilates,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/asd_natural_gym_pilates_41.1943_16.5986.json,custom
+41.193998,16.599806,ov_numero_uno_molfetta_41.1940_16.5998,Numero Uno Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/numero_uno_molfetta_41.1940_16.5998.json,custom
+41.193440,16.601380,ov_fitness_up_41.1934_16.6014,Fitness Up,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/fitness_up_41.1934_16.6014.json,custom
+41.193478,16.593661,ov_training_studio___personal_pilates___fun_41.1935_16.5937,Training Studio - Personal Pilates & Functional,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/training_studio_-_personal_pilates_funct_41.1935_16.5937.json,custom
+41.193476,16.591427,ov_cage_lab_41.1935_16.5914,Cage Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/cage_lab_41.1935_16.5914.json,custom
+41.193850,16.586683,ov_palestrina_41.1939_16.5867,Palestrina,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/palestrina_41.1939_16.5867.json,custom
+41.192851,16.584365,ov_passione_danza_41.1929_16.5844,Passione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/passione_danza_41.1929_16.5844.json,custom
+41.192871,16.584369,ov_bodysmile___molfetta_41.1929_16.5844,BodySmile - Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/bodysmile_-_molfetta_41.1929_16.5844.json,custom
+41.191306,16.585414,ov_nucleo_sub_molfetta_41.1913_16.5854,Nucleo Sub Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/nucleo_sub_molfetta_41.1913_16.5854.json,custom
+41.190834,16.586656,ov_yukta_yoga_studio_41.1908_16.5867,Yukta Yoga Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/yukta_yoga_studio_41.1908_16.5867.json,custom
+41.191970,16.593340,ov_my_pilates_molfetta_41.1920_16.5933,My Pilates Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/my_pilates_molfetta_41.1920_16.5933.json,custom
+41.192131,16.594161,ov_asd_athlon_center_molfetta_41.1921_16.5942,Asd Athlon Center Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/asd_athlon_center_molfetta_41.1921_16.5942.json,custom
+41.187992,16.586210,ov_360_gym___wellness_41.1880_16.5862,360 Gym & Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/360_gym_wellness_41.1880_16.5862.json,custom
+41.184438,16.569516,ov_campo_estivo_2_falchi_41.1844_16.5695,Campo Estivo 2 Falchi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/campo_estivo_2_falchi_41.1844_16.5695.json,custom
+41.197840,16.581130,ov_pilates___wellness___studio_di_scienze_m_41.1978_16.5811,Pilates & Wellness - Studio di Scienze Motorie,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/pilates_wellness_-_studio_di_scienze_mot_41.1978_16.5811.json,custom
+41.198912,16.593438,ov_les_dances_41.1989_16.5934,Les Dances,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/les_dances_41.1989_16.5934.json,custom
+41.199620,16.593047,ov_il_laboratorio_della_danza_41.1996_16.5930,Il Laboratorio della Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_laboratorio_della_danza_41.1996_16.5930.json,custom
+41.200678,16.587783,ov_vanex_gym_41.2007_16.5878,Vanex Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/vanex_gym_41.2007_16.5878.json,custom
+41.203557,16.590828,ov_asd_olimpia_club_molfetta_41.2036_16.5908,ASD Olimpia Club Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/asd_olimpia_club_molfetta_41.2036_16.5908.json,custom
+41.204500,16.588826,ov_ginnastica_artistica_life_in_41.2045_16.5888,Ginnastica artistica Life In,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/ginnastica_artistica_life_in_41.2045_16.5888.json,custom
+41.208438,16.553835,ov_yogananda_srf_italia_41.2084_16.5538,Yogananda-SRF-Italia,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/yogananda-srf-italia_41.2084_16.5538.json,custom
+41.216383,16.546530,ov_hyperspace_trampoline_parks_41.2164_16.5465,Hyperspace Trampoline Parks,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/hyperspace_trampoline_parks_41.2164_16.5465.json,custom
+41.204162,16.596857,ov_yoga_studio_shanti_41.2042_16.5969,Yoga Studio Shanti,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/yoga_studio_shanti_41.2042_16.5969.json,custom
+41.200411,16.610001,ov_yes_fitness_palestra_molfetta_41.2004_16.6100,Yes Fitness Palestra Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/yes_fitness_palestra_molfetta_41.2004_16.6100.json,custom
+41.203888,16.596575,ov_enjoyoga_molfetta_41.2039_16.5966,Enjoyoga Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/enjoyoga_molfetta_41.2039_16.5966.json,custom
+41.202429,16.599737,ov_corpore_studio_personal_training_41.2024_16.5997,Corpore Studio Personal Training,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/corpore_studio_personal_training_41.2024_16.5997.json,custom
+41.201478,16.602345,ov_asd_free_runners_molfetta_41.2015_16.6023,Asd Free Runners Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/asd_free_runners_molfetta_41.2015_16.6023.json,custom
+41.201717,16.604504,ov_il_sogno_41.2017_16.6045,Il Sogno,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/il_sogno_41.2017_16.6045.json,custom
+41.199552,16.604201,ov_gyrotonic_molfetta_41.1996_16.6042,Gyrotonic Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/gyrotonic_molfetta_41.1996_16.6042.json,custom
+41.199074,16.606360,ov_lifein_centro_ginnico_41.1991_16.6064,LifeIn Centro Ginnico,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/lifein_centro_ginnico_41.1991_16.6064.json,custom
+41.198742,16.603028,ov_millennium_wellness_41.1987_16.6030,Millennium Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/millennium_wellness_41.1987_16.6030.json,custom
+41.197310,16.598310,ov_molfetta_next_gen_41.1973_16.5983,Molfetta Next Gen,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/molfetta_next_gen_41.1973_16.5983.json,custom
+41.197535,16.598289,ov_rt_studio_postura_pilates_di_raffaella_t_41.1975_16.5983,RT studio postura&pilates di Raffaella Tattoli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/rt_studio_posturapilates_di_raffaella_ta_41.1975_16.5983.json,custom
+41.196602,16.598643,ov_healthy_studio_41.1966_16.5986,Healthy Studio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/healthy_studio_41.1966_16.5986.json,custom
+41.197119,16.602516,ov_olimpia_club_s_r_l__palestra_a_molfetta_41.1971_16.6025,Olimpia Club S.r.l. Palestra a Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/olimpia_club_srl_palestra_a_molfetta_41.1971_16.6025.json,custom
+41.198172,16.611422,ov_360_gym___wellness_molfetta_41.1982_16.6114,360 Gym & Wellness Molfetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/360_gym_wellness_molfetta_41.1982_16.6114.json,custom
+41.198863,16.607393,ov_etoile_fabbrica_di_stelle_41.1989_16.6074,Etoile Fabbrica di Stelle,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/etoile_fabbrica_di_stelle_41.1989_16.6074.json,custom
+41.199292,16.607704,ov_poseidon_blu_team_41.1993_16.6077,Poseidon Blu Team,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/poseidon_blu_team_41.1993_16.6077.json,custom
+41.198722,16.611830,ov_palazzetto_g__panunzio_41.1987_16.6118,Palazzetto G. Panunzio,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/palazzetto_g_panunzio_41.1987_16.6118.json,custom
+41.185606,16.517919,ov_castello_di_trani_41.1856_16.5179,Castello di Trani,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/castello_di_trani_41.1856_16.5179.json,custom
+41.192909,16.586044,ov_rayan_gold_41.1929_16.5860,RAYAN GOLD,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/rayan_gold_41.1929_16.5860.json,custom
+41.197944,16.583834,ov_museo_civico_archeologico_del_pulo_41.1979_16.5838,Museo Civico Archeologico del Pulo,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/museo_civico_archeologico_del_pulo_41.1979_16.5838.json,custom
+41.204480,16.593958,ov_fabbrica_di_san_domenico___molfetta_41.2045_16.5940,Fabbrica di San Domenico - Molfetta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/fabbrica_di_san_domenico_-_molfetta_41.2045_16.5940.json,custom
+41.215530,16.571100,ov_torre_san_giacomo_41.2155_16.5711,Torre San Giacomo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/torre_san_giacomo_41.2155_16.5711.json,custom
+41.204940,16.595860,ov_casa_poli_41.2049_16.5959,Casa Poli,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/casa_poli_41.2049_16.5959.json,custom
+41.204038,16.599447,ov_museo_diocesano_molfetta_41.2040_16.5994,Museo Diocesano Molfetta,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/molfetta/pages/museo_diocesano_molfetta_41.2040_16.5994.json,custom

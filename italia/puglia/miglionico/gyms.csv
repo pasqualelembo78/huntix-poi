@@ -1,5 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # miglionico -- gyms
-40.570125,16.499749,ov_asd_health_beauty_center_40.5701_16.4997,ASD Health Beauty Center,GYM,palestra
-40.568250,16.497110,ov_asd_motoria_e_wellness_40.5682_16.4971,ASD Motoria e Wellness,GYM,palestra
-40.567610,16.502765,ov_centro_polivalente_d_amoroso_foco_40.5676_16.5028,Centro Polivalente D'Amoroso Foco,GYM,palestra
+40.570125,16.499749,ov_asd_health_beauty_center_40.5701_16.4997,ASD Health Beauty Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miglionico/pages/asd_health_beauty_center_40.5701_16.4997.json,custom
+40.568250,16.497110,ov_asd_motoria_e_wellness_40.5682_16.4971,ASD Motoria e Wellness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miglionico/pages/asd_motoria_e_wellness_40.5682_16.4971.json,custom
+40.567610,16.502765,ov_centro_polivalente_d_amoroso_foco_40.5676_16.5028,Centro Polivalente D'Amoroso Foco,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miglionico/pages/centro_polivalente_damoroso_foco_40.5676_16.5028.json,custom

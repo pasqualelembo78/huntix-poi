@@ -1,6 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # scalea -- landmarks
-39.817840,15.790657,ov_ruderi_del_castello_normanno_39.8178_15.7907,Ruderi del Castello Normanno,MONUMENT,monumento
-39.816612,15.791564,ov_torre_cimalonga_39.8166_15.7916,Torre Cimalonga,MONUMENT,monumento
-39.815893,15.790929,ov_presepe_artistico_39.8159_15.7909,Presepe Artistico,MUSEUM,monumento
-39.812560,15.788155,ov_torre_talao_39.8126_15.7882,Torre Talao,MONUMENT,monumento
+39.817840,15.790657,ov_ruderi_del_castello_normanno_39.8178_15.7907,Ruderi del Castello Normanno,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/ruderi_del_castello_normanno_39.8178_15.7907.json,custom
+39.816612,15.791564,ov_torre_cimalonga_39.8166_15.7916,Torre Cimalonga,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/torre_cimalonga_39.8166_15.7916.json,custom
+39.815893,15.790929,ov_presepe_artistico_39.8159_15.7909,Presepe Artistico,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/presepe_artistico_39.8159_15.7909.json,custom
+39.812560,15.788155,ov_torre_talao_39.8126_15.7882,Torre Talao,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/scalea/pages/torre_talao_39.8126_15.7882.json,custom

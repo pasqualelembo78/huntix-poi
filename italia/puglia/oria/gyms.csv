@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # oria -- gyms
-40.468408,17.674239,ov_dsc_magna_grecia__oria__40.4684_17.6742,DSC Magna Grecia -Oria-,GYM,palestra
-40.493368,17.641710,ov_a_s_d_palestra_meeting_40.4934_17.6417,A.S.D Palestra Meeting,GYM,palestra
-40.504330,17.649270,ov_free_time_40.5043_17.6493,Free Time,GYM,palestra
-40.493619,17.650986,ov_asd_arte_in_movimento_40.4936_17.6510,Asd Arte In Movimento,GYM,palestra
-40.504550,17.649690,ov_asd_ciak_dance__academy_40.5046_17.6497,ASD Ciak Dance  Academy,GYM,palestra
-40.504635,17.649813,ov_centro_yoga_avidya_40.5046_17.6498,Centro Yoga Avidya,GYM,palestra
-40.506048,17.652547,ov_asd_the_body_lab_oria_40.5060_17.6525,ASD The Body Lab Oria,GYM,palestra
+40.468408,17.674239,ov_dsc_magna_grecia__oria__40.4684_17.6742,DSC Magna Grecia -Oria-,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/dsc_magna_grecia_-oria-_40.4684_17.6742.json,custom
+40.493368,17.641710,ov_a_s_d_palestra_meeting_40.4934_17.6417,A.S.D Palestra Meeting,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/asd_palestra_meeting_40.4934_17.6417.json,custom
+40.504330,17.649270,ov_free_time_40.5043_17.6493,Free Time,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/free_time_40.5043_17.6493.json,custom
+40.493619,17.650986,ov_asd_arte_in_movimento_40.4936_17.6510,Asd Arte In Movimento,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/asd_arte_in_movimento_40.4936_17.6510.json,custom
+40.504550,17.649690,ov_asd_ciak_dance__academy_40.5046_17.6497,ASD Ciak Dance  Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/asd_ciak_dance_academy_40.5046_17.6497.json,custom
+40.504635,17.649813,ov_centro_yoga_avidya_40.5046_17.6498,Centro Yoga Avidya,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/centro_yoga_avidya_40.5046_17.6498.json,custom
+40.506048,17.652547,ov_asd_the_body_lab_oria_40.5060_17.6525,ASD The Body Lab Oria,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/oria/pages/asd_the_body_lab_oria_40.5060_17.6525.json,custom

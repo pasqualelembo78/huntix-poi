@@ -1,43 +1,42 @@
-# lat,lng,id,name,building_type,type
-# sconosciuta — gyms
-46.110707,7.095576,osm__cole_de_krav_op_rationnel_et_profession_46.1107_7.0956,École de Krav Opérationnel et Professionnel du Valais (EKOP-,palestra,palestra
-46.423593,6.925465,osm_mov_it_fitness_46.4236_6.9255,Mov'it Fitness,palestra,palestra
-46.430948,6.911053,osm_yoga_centre_montreux_46.4309_6.9111,Yoga Centre Montreux,palestra,palestra
-46.318672,6.937351,osm_activ_fitness_46.3187_6.9374,Activ Fitness,palestra,palestra
-46.085321,6.981239,osm_salle_de_grimpe_bloc_46.0853_6.9812,Salle de grimpe bloc,palestra,palestra
-46.464206,6.839092,osm_let_s_go_fitness_46.4642_6.8391,Let's Go Fitness,palestra,palestra
-46.149333,7.174531,osm_d_fi_sport_46.1493_7.1745,Défi Sport,palestra,palestra
-45.610869,7.354182,osm_sala_pesi_45.6109_7.3542,Sala pesi,palestra,palestra
-46.459847,6.846989,osm_log_3_fitness_46.4598_6.8470,Log 3 Fitness,palestra,palestra
-46.453147,7.447270,osm_feldenkrais_lenk_46.4531_7.4473,Feldenkrais Lenk,palestra,palestra
-46.465455,6.842200,osm_espace_le_lab_46.4655_6.8422,Espace Le Lab,palestra,palestra
-46.458512,6.849915,osm_body_brain_46.4585_6.8499,Body Brain,palestra,palestra
-46.466965,6.844380,osm_terre_d_eveil_46.4670_6.8444,Terre d’Eveil,palestra,palestra
-46.468395,6.842451,osm_pilates25_46.4684_6.8425,Pilates25,palestra,palestra
-46.466939,6.844443,osm_terre_du_yoga_46.4669_6.8444,Terre du Yoga,palestra,palestra
-46.226262,7.335744,osm_fitness_xplode_46.2263_7.3357,Fitness Xplode,palestra,palestra
-46.227686,7.340571,osm_progym_46.2277_7.3406,Progym,palestra,palestra
-46.230356,7.351026,osm_yoga_om_46.2304_7.3510,Yoga OM,palestra,palestra
-46.221822,7.298055,osm_david_fitness_46.2218_7.2981,David Fitness,palestra,palestra
-46.223886,7.304857,osm_california_46.2239_7.3049,California,palestra,palestra
-46.120451,7.939090,osm_saaswellfit_ch_46.1205_7.9391,SaasWellFit.ch,palestra,palestra
-46.284813,6.940051,osm_vitaforme_46.2848_6.9401,Vitaforme,palestra,palestra
-46.460428,6.844404,osm_iron_bodyfit_46.4604_6.8444,Iron Bodyfit,palestra,palestra
-46.230512,7.353663,osm_no_time_46.2305_7.3537,No Time,palestra,palestra
-46.158410,6.668443,osm_fitlife_46.1584_6.6684,Fitlife,palestra,palestra
-46.024017,7.749505,osm_schlosssport___fitness___yoga_46.0240_7.7495,SchlossSport – Fitness & Yoga,palestra,palestra
-46.024385,7.753560,osm_kraftwerk_fitness_46.0244_7.7536,Kraftwerk Fitness,palestra,palestra
-46.028631,7.753814,osm_fitness_viking_zermatt_gmbh_46.0286_7.7538,Fitness Viking Zermatt GmbH,palestra,palestra
-45.947973,6.632293,osm_aire_de_jeux_de_vouilloux_45.9480_6.6323,Aire de jeux de Vouilloux,palestra,palestra
-45.618938,6.768723,osm_amilcar_coaching_45.6189_6.7687,Amilcar Coaching,palestra,palestra
-46.100525,7.088182,osm_cbm_sport_46.1005_7.0882,CBM Sport,palestra,palestra
-46.291187,7.525530,osm_eden_fitness_club_46.2912_7.5255,Eden Fitness-Club,palestra,palestra
-46.431574,6.910301,osm_activ_fitness_montreux_46.4316_6.9103,ACTIV FITNESS Montreux,palestra,palestra
-46.162515,6.871094,osm_yogalps___massage_46.1625_6.8711,Yogalps & massage,palestra,palestra
-46.318566,7.989513,osm_activ_fitness_46.3186_7.9895,Activ Fitness,palestra,palestra
-46.297709,7.905110,osm_freshcube_sportstation_46.2977_7.9051,FreshCube SportStation,palestra,palestra
-46.247192,7.003070,osm_mov_it_fitness_46.2472_7.0031,Mov'It Fitness,palestra,palestra
-46.066310,6.566850,osm_cot__forme_46.0663_6.5668,Coté Forme,palestra,palestra
-45.732631,7.311399,osm_palestra_45.7326_7.3114,Palestra,palestra,palestra
-45.740556,7.465248,osm_palestra_delle_scuole_45.7406_7.4652,Palestra delle Scuole,palestra,palestra
-46.175581,7.802520,osm_turnhalle_46.1756_7.8025,Turnhalle,palestra,palestra
+# lat,lng,id,name,building_type,type,url,page_type
+46.110707,7.095576,osm__cole_de_krav_op_rationnel_et_profession_46.1107_7.0956,École de Krav Opérationnel et Professionnel du Valais (EKOP-,palestra,palestra,
+46.423593,6.925465,osm_mov_it_fitness_46.4236_6.9255,Mov'it Fitness,palestra,palestra,
+46.430948,6.911053,osm_yoga_centre_montreux_46.4309_6.9111,Yoga Centre Montreux,palestra,palestra,
+46.318672,6.937351,osm_activ_fitness_46.3187_6.9374,Activ Fitness,palestra,palestra,
+46.085321,6.981239,osm_salle_de_grimpe_bloc_46.0853_6.9812,Salle de grimpe bloc,palestra,palestra,
+46.464206,6.839092,osm_let_s_go_fitness_46.4642_6.8391,Let's Go Fitness,palestra,palestra,
+46.149333,7.174531,osm_d_fi_sport_46.1493_7.1745,Défi Sport,palestra,palestra,
+45.610869,7.354182,osm_sala_pesi_45.6109_7.3542,Sala pesi,palestra,palestra,
+46.459847,6.846989,osm_log_3_fitness_46.4598_6.8470,Log 3 Fitness,palestra,palestra,
+46.453147,7.447270,osm_feldenkrais_lenk_46.4531_7.4473,Feldenkrais Lenk,palestra,palestra,
+46.465455,6.842200,osm_espace_le_lab_46.4655_6.8422,Espace Le Lab,palestra,palestra,
+46.458512,6.849915,osm_body_brain_46.4585_6.8499,Body Brain,palestra,palestra,
+46.466965,6.844380,osm_terre_d_eveil_46.4670_6.8444,Terre d’Eveil,palestra,palestra,
+46.468395,6.842451,osm_pilates25_46.4684_6.8425,Pilates25,palestra,palestra,
+46.466939,6.844443,osm_terre_du_yoga_46.4669_6.8444,Terre du Yoga,palestra,palestra,
+46.226262,7.335744,osm_fitness_xplode_46.2263_7.3357,Fitness Xplode,palestra,palestra,
+46.227686,7.340571,osm_progym_46.2277_7.3406,Progym,palestra,palestra,
+46.230356,7.351026,osm_yoga_om_46.2304_7.3510,Yoga OM,palestra,palestra,
+46.221822,7.298055,osm_david_fitness_46.2218_7.2981,David Fitness,palestra,palestra,
+46.223886,7.304857,osm_california_46.2239_7.3049,California,palestra,palestra,
+46.120451,7.939090,osm_saaswellfit_ch_46.1205_7.9391,SaasWellFit.ch,palestra,palestra,
+46.284813,6.940051,osm_vitaforme_46.2848_6.9401,Vitaforme,palestra,palestra,
+46.460428,6.844404,osm_iron_bodyfit_46.4604_6.8444,Iron Bodyfit,palestra,palestra,
+46.230512,7.353663,osm_no_time_46.2305_7.3537,No Time,palestra,palestra,
+46.158410,6.668443,osm_fitlife_46.1584_6.6684,Fitlife,palestra,palestra,
+46.024017,7.749505,osm_schlosssport___fitness___yoga_46.0240_7.7495,SchlossSport – Fitness & Yoga,palestra,palestra,
+46.024385,7.753560,osm_kraftwerk_fitness_46.0244_7.7536,Kraftwerk Fitness,palestra,palestra,
+46.028631,7.753814,osm_fitness_viking_zermatt_gmbh_46.0286_7.7538,Fitness Viking Zermatt GmbH,palestra,palestra,
+45.947973,6.632293,osm_aire_de_jeux_de_vouilloux_45.9480_6.6323,Aire de jeux de Vouilloux,palestra,palestra,
+45.618938,6.768723,osm_amilcar_coaching_45.6189_6.7687,Amilcar Coaching,palestra,palestra,
+46.100525,7.088182,osm_cbm_sport_46.1005_7.0882,CBM Sport,palestra,palestra,
+46.291187,7.525530,osm_eden_fitness_club_46.2912_7.5255,Eden Fitness-Club,palestra,palestra,
+46.431574,6.910301,osm_activ_fitness_montreux_46.4316_6.9103,ACTIV FITNESS Montreux,palestra,palestra,
+46.162515,6.871094,osm_yogalps___massage_46.1625_6.8711,Yogalps & massage,palestra,palestra,
+46.318566,7.989513,osm_activ_fitness_46.3186_7.9895,Activ Fitness,palestra,palestra,
+46.297709,7.905110,osm_freshcube_sportstation_46.2977_7.9051,FreshCube SportStation,palestra,palestra,
+46.247192,7.003070,osm_mov_it_fitness_46.2472_7.0031,Mov'It Fitness,palestra,palestra,
+46.066310,6.566850,osm_cot__forme_46.0663_6.5668,Coté Forme,palestra,palestra,
+45.732631,7.311399,osm_palestra_45.7326_7.3114,Palestra,palestra,palestra,
+45.740556,7.465248,osm_palestra_delle_scuole_45.7406_7.4652,Palestra delle Scuole,palestra,palestra,
+46.175581,7.802520,osm_turnhalle_46.1756_7.8025,Turnhalle,palestra,palestra,

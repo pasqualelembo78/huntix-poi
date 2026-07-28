@@ -1,18 +1,18 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Gesualdo -- Tutti
-41.009426,15.066574,ov_san_vincenzo___ristorante___pizzeria___b_41.0094_15.0666,San Vincenzo • Ristorante • Pizzeria • Braceria,RESTAURANT,ristorante
-41.007902,15.072575,ov_decanta_41.0079_15.0726,Decanta,RESTAURANT,ristorante
-41.007991,15.072199,ov_ristorante_km_0_41.0080_15.0722,Ristorante KM.0,RESTAURANT,ristorante
-41.006642,15.070247,ov_il_chiosco_del_principe_41.0066_15.0702,Il Chiosco del Principe,RESTAURANT,ristorante
-41.006185,15.071222,ov_la_taverna_41.0062_15.0712,La Taverna,RESTAURANT,ristorante
-41.006263,15.071466,ov_d_avalos_41.0063_15.0715,d'Avalos,RESTAURANT,ristorante
-41.004954,15.075600,ov_bar_ristorante_pizzeria_da_peppino_41.0050_15.0756,Bar Ristorante Pizzeria Da Peppino,RESTAURANT,ristorante
-40.999932,15.065893,ov_la_pergola_di_gesualdo_40.9999_15.0659,La Pergola di Gesualdo,RESTAURANT,ristorante
-41.006687,15.070344,ov_caffe_neviera_41.0067_15.0703,Caffe Neviera,RESTAURANT,bar_cafe
-41.005947,15.070126,ov_bar_caffetteria_umberto_41.0059_15.0701,Bar Caffetteria Umberto,RESTAURANT,bar_cafe
-41.004150,15.068659,ov_compagnia_di_danza_carlo_gesualdo_41.0041_15.0687,Compagnia di Danza Carlo Gesualdo,GYM,palestra
-41.000138,15.048159,ov_cosmo_fitness_club_41.0001_15.0482,Cosmo Fitness Club,GYM,palestra
-41.003106,15.076469,ov_campo_di_bocce_i_tre_tigli_41.0031_15.0765,Campo di bocce I tre Tigli,GYM,palestra
-41.034143,15.082211,ov_vespa_club_torre_dei_monaci___gesualdo_a_41.0341_15.0822,Vespa Club Torre Dei Monaci - Gesualdo AV,GYM,palestra
-41.006575,15.069269,ov_castello_di_gesualdo_41.0066_15.0693,Castello di Gesualdo,MONUMENT,monumento
-41.006580,15.068210,ov_centro_storico_gesualdo_41.0066_15.0682,Centro Storico Gesualdo,MONUMENT,monumento
+41.009426,15.066574,ov_san_vincenzo___ristorante___pizzeria___b_41.0094_15.0666,San Vincenzo • Ristorante • Pizzeria • Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/san_vincenzo_ristorante_pizzeria_braceri_41.0094_15.0666.json,custom
+41.007902,15.072575,ov_decanta_41.0079_15.0726,Decanta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/decanta_41.0079_15.0726.json,custom
+41.007991,15.072199,ov_ristorante_km_0_41.0080_15.0722,Ristorante KM.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/ristorante_km0_41.0080_15.0722.json,custom
+41.006642,15.070247,ov_il_chiosco_del_principe_41.0066_15.0702,Il Chiosco del Principe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/il_chiosco_del_principe_41.0066_15.0702.json,custom
+41.006185,15.071222,ov_la_taverna_41.0062_15.0712,La Taverna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/la_taverna_41.0062_15.0712.json,custom
+41.006263,15.071466,ov_d_avalos_41.0063_15.0715,d'Avalos,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/davalos_41.0063_15.0715.json,custom
+41.004954,15.075600,ov_bar_ristorante_pizzeria_da_peppino_41.0050_15.0756,Bar Ristorante Pizzeria Da Peppino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/bar_ristorante_pizzeria_da_peppino_41.0050_15.0756.json,custom
+40.999932,15.065893,ov_la_pergola_di_gesualdo_40.9999_15.0659,La Pergola di Gesualdo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/la_pergola_di_gesualdo_40.9999_15.0659.json,custom
+41.006687,15.070344,ov_caffe_neviera_41.0067_15.0703,Caffe Neviera,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/caffe_neviera_41.0067_15.0703.json,custom
+41.005947,15.070126,ov_bar_caffetteria_umberto_41.0059_15.0701,Bar Caffetteria Umberto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/bar_caffetteria_umberto_41.0059_15.0701.json,custom
+41.004150,15.068659,ov_compagnia_di_danza_carlo_gesualdo_41.0041_15.0687,Compagnia di Danza Carlo Gesualdo,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/compagnia_di_danza_carlo_gesualdo_41.0041_15.0687.json,custom
+41.000138,15.048159,ov_cosmo_fitness_club_41.0001_15.0482,Cosmo Fitness Club,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/cosmo_fitness_club_41.0001_15.0482.json,custom
+41.003106,15.076469,ov_campo_di_bocce_i_tre_tigli_41.0031_15.0765,Campo di bocce I tre Tigli,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/campo_di_bocce_i_tre_tigli_41.0031_15.0765.json,custom
+41.034143,15.082211,ov_vespa_club_torre_dei_monaci___gesualdo_a_41.0341_15.0822,Vespa Club Torre Dei Monaci - Gesualdo AV,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/vespa_club_torre_dei_monaci_-_gesualdo_a_41.0341_15.0822.json,custom
+41.006575,15.069269,ov_castello_di_gesualdo_41.0066_15.0693,Castello di Gesualdo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/castello_di_gesualdo_41.0066_15.0693.json,custom
+41.006580,15.068210,ov_centro_storico_gesualdo_41.0066_15.0682,Centro Storico Gesualdo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/gesualdo/pages/centro_storico_gesualdo_41.0066_15.0682.json,custom

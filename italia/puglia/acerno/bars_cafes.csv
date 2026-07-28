@@ -1,12 +1,12 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # acerno -- bars_cafes
-40.735366,15.056836,ov_millennial_pub_40.7354_15.0568,Millennial Pub,RESTAURANT,bar_cafe
-40.735870,15.057727,ov_rewind_caffe_40.7359_15.0577,Rewind Caffe,RESTAURANT,bar_cafe
-40.739993,15.056000,ov_paradise_pub_40.7400_15.0560,Paradise PUB,RESTAURANT,bar_cafe
-40.739545,15.055690,ov_bar_jolly_40.7395_15.0557,Bar Jolly,RESTAURANT,bar_cafe
-40.738529,15.059108,ov_piccadilly_bar_40.7385_15.0591,Piccadilly Bar,RESTAURANT,bar_cafe
-40.737689,15.057007,ov_al_bistr__2_0_pub_pizzeria_restaurant_wi_40.7377_15.0570,Al Bistrò 2.0 Pub Pizzeria Restaurant Winner Bar,RESTAURANT,bar_cafe
-40.737434,15.056569,ov_concy_bar_40.7374_15.0566,Concy Bar,RESTAURANT,bar_cafe
-40.736055,15.057729,ov_central_social_bar_40.7361_15.0577,CENTRAL Social Bar,RESTAURANT,bar_cafe
-40.736703,15.057254,ov_la_piazzetta_40.7367_15.0573,La Piazzetta,RESTAURANT,bar_cafe
-40.736919,15.056812,osm_pasticceria_bar_lucia_40.7369_15.0568,Pasticceria Bar Lucia,bar_cafe,bar_cafe
+40.735366,15.056836,ov_millennial_pub_40.7354_15.0568,Millennial Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/millennial_pub_40.7354_15.0568.json,custom
+40.735870,15.057727,ov_rewind_caffe_40.7359_15.0577,Rewind Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/rewind_caffe_40.7359_15.0577.json,custom
+40.739993,15.056000,ov_paradise_pub_40.7400_15.0560,Paradise PUB,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/paradise_pub_40.7400_15.0560.json,custom
+40.739545,15.055690,ov_bar_jolly_40.7395_15.0557,Bar Jolly,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/bar_jolly_40.7395_15.0557.json,custom
+40.738529,15.059108,ov_piccadilly_bar_40.7385_15.0591,Piccadilly Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/piccadilly_bar_40.7385_15.0591.json,custom
+40.737689,15.057007,ov_al_bistr__2_0_pub_pizzeria_restaurant_wi_40.7377_15.0570,Al Bistrò 2.0 Pub Pizzeria Restaurant Winner Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/al_bistr_20_pub_pizzeria_restaurant_winn_40.7377_15.0570.json,custom
+40.737434,15.056569,ov_concy_bar_40.7374_15.0566,Concy Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/concy_bar_40.7374_15.0566.json,custom
+40.736055,15.057729,ov_central_social_bar_40.7361_15.0577,CENTRAL Social Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/central_social_bar_40.7361_15.0577.json,custom
+40.736703,15.057254,ov_la_piazzetta_40.7367_15.0573,La Piazzetta,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/la_piazzetta_40.7367_15.0573.json,custom
+40.736919,15.056812,osm_pasticceria_bar_lucia_40.7369_15.0568,Pasticceria Bar Lucia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/acerno/pages/pasticceria_bar_lucia_40.7369_15.0568.json,custom

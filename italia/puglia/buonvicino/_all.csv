@@ -1,13 +1,13 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Buonvicino -- Tutti
-39.678046,15.836977,ov_pasta_ricca_39.6780_15.8370,Pasta Ricca,RESTAURANT,ristorante
-39.679188,15.844259,ov_ristorante_pizzeria_il_lago_verde_39.6792_15.8443,Ristorante Pizzeria Il Lago Verde,RESTAURANT,ristorante
-39.678843,15.840342,ov_new_green_house_di_ciriaco_valente_39.6788_15.8403,New Green House di Ciriaco Valente,RESTAURANT,ristorante
-39.681187,15.862834,ov_ristorante_il_mulino_39.6812_15.8628,Ristorante Il Mulino,RESTAURANT,ristorante
-39.678604,15.862940,ov_ristorante_gli_ontani_39.6786_15.8629,Ristorante Gli Ontani,RESTAURANT,ristorante
-39.684652,15.878072,ov_ristorante_antica_locanda_san_ciriaco_39.6847_15.8781,Ristorante Antica Locanda San Ciriaco,RESTAURANT,ristorante
-39.690454,15.883910,ov_trattoria_da_nella_39.6905_15.8839,Trattoria Da Nella,RESTAURANT,ristorante
-39.691078,15.882646,ov_ristorante_don_ippolito___antica_cucina_39.6911_15.8826,Ristorante Don Ippolito - Antica Cucina,RESTAURANT,ristorante
-39.678853,15.840346,ov_bar_tabacchi_green_house_39.6789_15.8403,Bar Tabacchi Green House,RESTAURANT,bar_cafe
-39.690259,15.883593,ov_agora_del_borgo_39.6903_15.8836,Agora del Borgo,RESTAURANT,bar_cafe
-39.690782,15.882719,ov_magb_museo_arti_gusto_buonvicino_39.6908_15.8827,MAGB Museo Arti Gusto Buonvicino,MUSEUM,monumento
+39.678046,15.836977,ov_pasta_ricca_39.6780_15.8370,Pasta Ricca,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/pasta_ricca_39.6780_15.8370.json,custom
+39.679188,15.844259,ov_ristorante_pizzeria_il_lago_verde_39.6792_15.8443,Ristorante Pizzeria Il Lago Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/ristorante_pizzeria_il_lago_verde_39.6792_15.8443.json,custom
+39.678843,15.840342,ov_new_green_house_di_ciriaco_valente_39.6788_15.8403,New Green House di Ciriaco Valente,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/new_green_house_di_ciriaco_valente_39.6788_15.8403.json,custom
+39.681187,15.862834,ov_ristorante_il_mulino_39.6812_15.8628,Ristorante Il Mulino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/ristorante_il_mulino_39.6812_15.8628.json,custom
+39.678604,15.862940,ov_ristorante_gli_ontani_39.6786_15.8629,Ristorante Gli Ontani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/ristorante_gli_ontani_39.6786_15.8629.json,custom
+39.684652,15.878072,ov_ristorante_antica_locanda_san_ciriaco_39.6847_15.8781,Ristorante Antica Locanda San Ciriaco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/ristorante_antica_locanda_san_ciriaco_39.6847_15.8781.json,custom
+39.690454,15.883910,ov_trattoria_da_nella_39.6905_15.8839,Trattoria Da Nella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/trattoria_da_nella_39.6905_15.8839.json,custom
+39.691078,15.882646,ov_ristorante_don_ippolito___antica_cucina_39.6911_15.8826,Ristorante Don Ippolito - Antica Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/ristorante_don_ippolito_-_antica_cucina_39.6911_15.8826.json,custom
+39.678853,15.840346,ov_bar_tabacchi_green_house_39.6789_15.8403,Bar Tabacchi Green House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/bar_tabacchi_green_house_39.6789_15.8403.json,custom
+39.690259,15.883593,ov_agora_del_borgo_39.6903_15.8836,Agora del Borgo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/agora_del_borgo_39.6903_15.8836.json,custom
+39.690782,15.882719,ov_magb_museo_arti_gusto_buonvicino_39.6908_15.8827,MAGB Museo Arti Gusto Buonvicino,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/buonvicino/pages/magb_museo_arti_gusto_buonvicino_39.6908_15.8827.json,custom

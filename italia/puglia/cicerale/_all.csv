@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Cicerale -- Tutti
-40.347038,15.113245,ov_ristorante_pizzeria_santa_lucia_40.3470_15.1132,Ristorante Pizzeria Santa Lucia,RESTAURANT,ristorante
-40.346241,15.113186,ov_osteria_arcovecchio_sas_di_colonnini_ver_40.3462_15.1132,Osteria Arcovecchio SAS di Colonnini Veronica & c.,RESTAURANT,ristorante
-40.326877,15.108290,ov_villa_saint_george_40.3269_15.1083,Villa Saint George,RESTAURANT,ristorante
-40.382819,15.060349,ov_u__cecere_agriturismo___cilento_40.3828_15.0603,U' Cecere Agriturismo - Cilento,RESTAURANT,ristorante
-40.345421,15.119770,ov_il_giardinetto_40.3454_15.1198,Il Giardinetto,RESTAURANT,bar_cafe
-40.344160,15.128769,ov_bar_il_bab__40.3442_15.1288,Bar Il Babà,RESTAURANT,bar_cafe
-40.343782,15.127031,ov_bar_chalet_montecicerale_40.3438_15.1270,Bar-Chalet Montecicerale,RESTAURANT,bar_cafe
+40.347038,15.113245,ov_ristorante_pizzeria_santa_lucia_40.3470_15.1132,Ristorante Pizzeria Santa Lucia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/ristorante_pizzeria_santa_lucia_40.3470_15.1132.json,custom
+40.346241,15.113186,ov_osteria_arcovecchio_sas_di_colonnini_ver_40.3462_15.1132,Osteria Arcovecchio SAS di Colonnini Veronica & c.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/osteria_arcovecchio_sas_di_colonnini_ver_40.3462_15.1132.json,custom
+40.326877,15.108290,ov_villa_saint_george_40.3269_15.1083,Villa Saint George,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/villa_saint_george_40.3269_15.1083.json,custom
+40.382819,15.060349,ov_u__cecere_agriturismo___cilento_40.3828_15.0603,U' Cecere Agriturismo - Cilento,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/u_cecere_agriturismo_-_cilento_40.3828_15.0603.json,custom
+40.345421,15.119770,ov_il_giardinetto_40.3454_15.1198,Il Giardinetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/il_giardinetto_40.3454_15.1198.json,custom
+40.344160,15.128769,ov_bar_il_bab__40.3442_15.1288,Bar Il Babà,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/bar_il_bab_40.3442_15.1288.json,custom
+40.343782,15.127031,ov_bar_chalet_montecicerale_40.3438_15.1270,Bar-Chalet Montecicerale,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cicerale/pages/bar-chalet_montecicerale_40.3438_15.1270.json,custom

@@ -1,4 +1,5 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # cellino_san_marco -- gyms
-40.473481,17.945091,ov_chiurizzi_ranch_40.4735_17.9451,Chiurizzi Ranch,GYM,palestra
-40.469647,17.968664,ov_danza___vita_40.4696_17.9687,Danza è vita,GYM,palestra
+40.473481,17.945091,ov_chiurizzi_ranch_40.4735_17.9451,Chiurizzi Ranch,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/chiurizzi_ranch_40.4735_17.9451.json,custom
+40.469647,17.968664,ov_danza___vita_40.4696_17.9687,Danza è vita,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/danza_vita_40.4696_17.9687.json,custom
+40.467802,17.954309,osm_enjoy_feel_good_40.4678_17.9543,Enjoy Feel Good,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/cellino_san_marco/pages/enjoy_feel_good_40.4678_17.9543.json,custom

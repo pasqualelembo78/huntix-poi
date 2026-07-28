@@ -1,24 +1,24 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Melissano -- Tutti
-39.970189,18.121414,osm_gusti_39.9702_18.1214,Gusti,ristorante,ristorante
-39.972124,18.125829,osm_scialaneddha_39.9721_18.1258,Scialaneddha,ristorante,ristorante
-39.966386,18.120466,ov_l_ozio_street_food_39.9664_18.1205,L'Ozio street food,RESTAURANT,ristorante
-39.965912,18.121180,ov_pizzeria_arcobaleno_39.9659_18.1212,Pizzeria Arcobaleno,RESTAURANT,ristorante
-39.962553,18.120613,ov_la_grottella_39.9626_18.1206,La Grottella,RESTAURANT,ristorante
-39.991179,18.129039,ov_salento_street_food_39.9912_18.1290,Salento Street Food,RESTAURANT,ristorante
-39.972207,18.125845,ov_pizzeria_scialaneddha_39.9722_18.1258,pizzeria Scialaneddha,RESTAURANT,ristorante
-39.979632,18.095514,ov_pattio_39.9796_18.0955,Pattio,RESTAURANT,ristorante
-39.973933,18.117857,ov_gnommareddhu_39.9739_18.1179,Gnommareddhu,RESTAURANT,ristorante
-39.972637,18.118217,ov_da_titi_39.9726_18.1182,Da Titi,RESTAURANT,ristorante
-39.970615,18.119815,ov_pizzeria_savio_39.9706_18.1198,Pizzeria Savio,RESTAURANT,ristorante
-39.965687,18.126499,ov_bar_relax_39.9657_18.1265,Bar Relax,RESTAURANT,bar_cafe
-39.966136,18.125053,ov_girovagando_bar_39.9661_18.1251,Girovagando Bar,RESTAURANT,bar_cafe
-39.969802,18.125499,ov_girovagando_bar_39.9698_18.1255,Girovagando Bar,RESTAURANT,bar_cafe
-39.971363,18.126141,ov_gran_caffe_gelateria_39.9714_18.1261,Gran Caffe Gelateria,RESTAURANT,bar_cafe
-39.971442,18.126100,ov_angybar_39.9714_18.1261,Angybar,RESTAURANT,bar_cafe
-39.971591,18.126036,ov_centrum_39.9716_18.1260,Centrum,RESTAURANT,bar_cafe
-39.971580,18.126060,ov_oro_nero_cafe__39.9716_18.1261,Oro Nero Cafe',RESTAURANT,bar_cafe
-39.971602,18.126001,osm_caffetteria_del_centro_39.9716_18.1260,Caffetteria del Centro,bar_cafe,bar_cafe
-39.969067,18.129796,ov_body_alive_39.9691_18.1298,Body Alive,GYM,palestra
-39.976250,18.084805,ov_energy_club___centro_fitness_39.9763_18.0848,Energy club - centro fitness,GYM,palestra
-39.974966,18.119196,ov_centro_danza_sylphide_39.9750_18.1192,Centro Danza Sylphide,GYM,palestra
+39.966386,18.120466,ov_l_ozio_street_food_39.9664_18.1205,L'Ozio street food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/lozio_street_food_39.9664_18.1205.json,custom
+39.965912,18.121180,ov_pizzeria_arcobaleno_39.9659_18.1212,Pizzeria Arcobaleno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/pizzeria_arcobaleno_39.9659_18.1212.json,custom
+39.962553,18.120613,ov_la_grottella_39.9626_18.1206,La Grottella,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/la_grottella_39.9626_18.1206.json,custom
+39.991179,18.129039,ov_salento_street_food_39.9912_18.1290,Salento Street Food,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/salento_street_food_39.9912_18.1290.json,custom
+39.972207,18.125845,ov_pizzeria_scialaneddha_39.9722_18.1258,pizzeria Scialaneddha,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/pizzeria_scialaneddha_39.9722_18.1258.json,custom
+39.979632,18.095514,ov_pattio_39.9796_18.0955,Pattio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/pattio_39.9796_18.0955.json,custom
+39.973933,18.117857,ov_gnommareddhu_39.9739_18.1179,Gnommareddhu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/gnommareddhu_39.9739_18.1179.json,custom
+39.972637,18.118217,ov_da_titi_39.9726_18.1182,Da Titi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/da_titi_39.9726_18.1182.json,custom
+39.970615,18.119815,ov_pizzeria_savio_39.9706_18.1198,Pizzeria Savio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/pizzeria_savio_39.9706_18.1198.json,custom
+39.970189,18.121414,osm_gusti_39.9702_18.1214,Gusti,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/gusti_39.9702_18.1214.json,custom
+39.972124,18.125829,osm_scialaneddha_39.9721_18.1258,Scialaneddha,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/scialaneddha_39.9721_18.1258.json,custom
+39.965687,18.126499,ov_bar_relax_39.9657_18.1265,Bar Relax,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/bar_relax_39.9657_18.1265.json,custom
+39.966136,18.125053,ov_girovagando_bar_39.9661_18.1251,Girovagando Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/girovagando_bar_39.9661_18.1251.json,custom
+39.969802,18.125499,ov_girovagando_bar_39.9698_18.1255,Girovagando Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/girovagando_bar_39.9698_18.1255.json,custom
+39.971363,18.126141,ov_gran_caffe_gelateria_39.9714_18.1261,Gran Caffe Gelateria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/gran_caffe_gelateria_39.9714_18.1261.json,custom
+39.971442,18.126100,ov_angybar_39.9714_18.1261,Angybar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/angybar_39.9714_18.1261.json,custom
+39.971591,18.126036,ov_centrum_39.9716_18.1260,Centrum,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/centrum_39.9716_18.1260.json,custom
+39.971580,18.126060,ov_oro_nero_cafe__39.9716_18.1261,Oro Nero Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/oro_nero_cafe_39.9716_18.1261.json,custom
+39.971602,18.126001,osm_caffetteria_del_centro_39.9716_18.1260,Caffetteria del Centro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/caffetteria_del_centro_39.9716_18.1260.json,custom
+39.969067,18.129796,ov_body_alive_39.9691_18.1298,Body Alive,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/body_alive_39.9691_18.1298.json,custom
+39.976250,18.084805,ov_energy_club___centro_fitness_39.9763_18.0848,Energy club - centro fitness,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/energy_club_-_centro_fitness_39.9763_18.0848.json,custom
+39.974966,18.119196,ov_centro_danza_sylphide_39.9750_18.1192,Centro Danza Sylphide,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/melissano/pages/centro_danza_sylphide_39.9750_18.1192.json,custom

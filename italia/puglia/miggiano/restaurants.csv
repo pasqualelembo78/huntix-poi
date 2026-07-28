@@ -1,7 +1,7 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # miggiano -- restaurants
-39.964821,18.310745,osm_borgo_vecchio_39.9648_18.3107,Borgo Vecchio,ristorante,ristorante
-39.966356,18.307375,ov_al_solito_posto_39.9664_18.3074,Al Solito Posto,RESTAURANT,ristorante
-39.964468,18.310137,ov_bottega_tranne_39.9645_18.3101,Bottega Tranne,RESTAURANT,ristorante
-39.964900,18.310746,ov__borgo_vecchio__di_merico_vincenzo_39.9649_18.3107,'borgo Vecchio' di Merico Vincenzo,RESTAURANT,ristorante
-39.959466,18.319124,ov_la_rustica_39.9595_18.3191,La Rustica,RESTAURANT,ristorante
+39.966356,18.307375,ov_al_solito_posto_39.9664_18.3074,Al Solito Posto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miggiano/pages/al_solito_posto_39.9664_18.3074.json,custom
+39.964468,18.310137,ov_bottega_tranne_39.9645_18.3101,Bottega Tranne,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miggiano/pages/bottega_tranne_39.9645_18.3101.json,custom
+39.964900,18.310746,ov__borgo_vecchio__di_merico_vincenzo_39.9649_18.3107,'borgo Vecchio' di Merico Vincenzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miggiano/pages/borgo_vecchio_di_merico_vincenzo_39.9649_18.3107.json,custom
+39.959466,18.319124,ov_la_rustica_39.9595_18.3191,La Rustica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miggiano/pages/la_rustica_39.9595_18.3191.json,custom
+39.964821,18.310745,osm_borgo_vecchio_39.9648_18.3107,Borgo Vecchio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/miggiano/pages/borgo_vecchio_39.9648_18.3107.json,custom

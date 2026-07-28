@@ -1,8 +1,8 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # montecalvo_irpino -- bars_cafes
-41.192245,15.032099,ov_lu_varrile_41.1922_15.0321,Lu Varrile,RESTAURANT,bar_cafe
-41.197071,15.037958,ov_cento_passi_41.1971_15.0380,Cento Passi,RESTAURANT,bar_cafe
-41.196542,15.034776,ov_antica_caffetteria_pappano_41.1965_15.0348,Antica Caffetteria Pappano,RESTAURANT,bar_cafe
-41.195900,15.033536,ov_black_out_bar_41.1959_15.0335,Black Out Bar,RESTAURANT,bar_cafe
-41.196223,15.034419,ov_bar_del_corso_di_caccese_albino_41.1962_15.0344,Bar Del Corso Di Caccese Albino,RESTAURANT,bar_cafe
-41.196045,15.037239,ov_la_taranta_public_house_41.1960_15.0372,La Taranta Public House,RESTAURANT,bar_cafe
+41.192245,15.032099,ov_lu_varrile_41.1922_15.0321,Lu Varrile,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/lu_varrile_41.1922_15.0321.json,custom
+41.197071,15.037958,ov_cento_passi_41.1971_15.0380,Cento Passi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/cento_passi_41.1971_15.0380.json,custom
+41.196542,15.034776,ov_antica_caffetteria_pappano_41.1965_15.0348,Antica Caffetteria Pappano,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/antica_caffetteria_pappano_41.1965_15.0348.json,custom
+41.195900,15.033536,ov_black_out_bar_41.1959_15.0335,Black Out Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/black_out_bar_41.1959_15.0335.json,custom
+41.196223,15.034419,ov_bar_del_corso_di_caccese_albino_41.1962_15.0344,Bar Del Corso Di Caccese Albino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/bar_del_corso_di_caccese_albino_41.1962_15.0344.json,custom
+41.196045,15.037239,ov_la_taranta_public_house_41.1960_15.0372,La Taranta Public House,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/montecalvo_irpino/pages/la_taranta_public_house_41.1960_15.0372.json,custom

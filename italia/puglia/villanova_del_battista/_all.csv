@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # Villanova del Battista -- Tutti
-41.103986,15.139901,ov_ristorante_pizzeria_amicizia_41.1040_15.1399,Ristorante Pizzeria Amicizia,RESTAURANT,ristorante
-41.104117,15.139885,ov_profumo_di_mare_41.1041_15.1399,Profumo Di Mare,RESTAURANT,ristorante
-41.114234,15.159717,ov_pizzeria_cioffi_41.1142_15.1597,Pizzeria Cioffi,RESTAURANT,ristorante
-41.116180,15.158500,ov_catering_buffet_pitstop_41.1162_15.1585,Catering&Buffet PitStop,RESTAURANT,ristorante
-41.122587,15.158042,ov_bar_chiosco_41.1226_15.1580,Bar Chiosco,RESTAURANT,bar_cafe
-41.116681,15.158686,ov_bar_pit_stop_41.1167_15.1587,Bar Pit Stop,RESTAURANT,bar_cafe
-41.114840,15.157446,ov_museo_della_transumanza_41.1148_15.1574,Museo della Transumanza,MUSEUM,monumento
+41.103986,15.139901,ov_ristorante_pizzeria_amicizia_41.1040_15.1399,Ristorante Pizzeria Amicizia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/ristorante_pizzeria_amicizia_41.1040_15.1399.json,custom
+41.104117,15.139885,ov_profumo_di_mare_41.1041_15.1399,Profumo Di Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/profumo_di_mare_41.1041_15.1399.json,custom
+41.114234,15.159717,ov_pizzeria_cioffi_41.1142_15.1597,Pizzeria Cioffi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/pizzeria_cioffi_41.1142_15.1597.json,custom
+41.116180,15.158500,ov_catering_buffet_pitstop_41.1162_15.1585,Catering&Buffet PitStop,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/cateringbuffet_pitstop_41.1162_15.1585.json,custom
+41.122587,15.158042,ov_bar_chiosco_41.1226_15.1580,Bar Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/bar_chiosco_41.1226_15.1580.json,custom
+41.116681,15.158686,ov_bar_pit_stop_41.1167_15.1587,Bar Pit Stop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/bar_pit_stop_41.1167_15.1587.json,custom
+41.114840,15.157446,ov_museo_della_transumanza_41.1148_15.1574,Museo della Transumanza,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/villanova_del_battista/pages/museo_della_transumanza_41.1148_15.1574.json,custom

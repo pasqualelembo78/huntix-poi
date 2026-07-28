@@ -1,45 +1,45 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # otranto -- bars_cafes
-40.079527,18.482881,ov_bar_alimentari_tabacchi_da_carlo_40.0795_18.4829,Bar Alimentari Tabacchi da Carlo,RESTAURANT,bar_cafe
-40.078762,18.484249,ov_skaf__al_casotto_40.0788_18.4842,Skafè al Casotto,RESTAURANT,bar_cafe
-40.141653,18.488188,ov_caff__demos_40.1417_18.4882,Caffè Demos,RESTAURANT,bar_cafe
-40.144459,18.494514,ov_di_bolina_caf__40.1445_18.4945,Di Bolina Cafè,RESTAURANT,bar_cafe
-40.144893,18.492229,ov_la_cambusa_40.1449_18.4922,La Cambusa,RESTAURANT,bar_cafe
-40.145222,18.492587,ov_birrificio_artigianale_capo_d_otranto_sr_40.1452_18.4926,Birrificio Artigianale Capo d'Otranto Srl,RESTAURANT,bar_cafe
-40.145160,18.492707,ov_blu_bar_bistrot_40.1452_18.4927,Blu Bar Bistrot,RESTAURANT,bar_cafe
-40.145777,18.492951,ov_batik_otranto_40.1458_18.4930,BATIK Otranto,RESTAURANT,bar_cafe
-40.145677,18.492343,ov_barcollo_bistrot_wine_bar_40.1457_18.4923,Barcollo Bistrot Wine Bar,RESTAURANT,bar_cafe
-40.145839,18.488593,ov_che_fusto_la_beereria_40.1458_18.4886,CHE FUSTO la beereria,RESTAURANT,bar_cafe
-40.145750,18.488410,ov_otranto_fruit_bar_40.1457_18.4884,Otranto Fruit Bar,RESTAURANT,bar_cafe
-40.145718,18.487699,ov_marefuori_trattoria_tipica_40.1457_18.4877,MareFuori Trattoria Tipica,RESTAURANT,bar_cafe
-40.136573,18.483798,ov_birrificio_capo_d_otranto_40.1366_18.4838,Birrificio Capo d'Otranto,RESTAURANT,bar_cafe
-40.149334,18.487035,ov_borderline_caf__40.1493_18.4870,Borderline Cafè,RESTAURANT,bar_cafe
-40.150205,18.482564,ov_acqua_speed_srl_40.1502_18.4826,Acqua Speed Srl,RESTAURANT,bar_cafe
-40.150042,18.487266,ov_caffetteria_il_moresco_40.1500_18.4873,Caffetteria Il Moresco,RESTAURANT,bar_cafe
-40.149830,18.482974,ov_da_petio_bar_40.1498_18.4830,Da Petio Bar,RESTAURANT,bar_cafe
-40.148070,18.479979,ov_nelson_park_40.1481_18.4800,Nelson Park,RESTAURANT,bar_cafe
-40.147374,18.487485,ov_caf__miramare_40.1474_18.4875,Cafè Miramare,RESTAURANT,bar_cafe
-40.147322,18.487657,ov_santi___briganti_40.1473_18.4877,Santi & Briganti,RESTAURANT,bar_cafe
-40.146094,18.489373,ov_boomerang_srl_40.1461_18.4894,Boomerang SRL,RESTAURANT,bar_cafe
-40.146036,18.489328,ov_bar_ai_giardini_di_lomonaco_alessandra_e_40.1460_18.4893,Bar Ai Giardini di Lomonaco Alessandra e Miggiano Pamela Vit,RESTAURANT,bar_cafe
-40.146108,18.488514,ov_sudest_bar_40.1461_18.4885,SudEst Bar,RESTAURANT,bar_cafe
-40.146424,18.490978,ov_enoteca_la_botte_40.1464_18.4910,Enoteca La Botte,RESTAURANT,bar_cafe
-40.146312,18.491664,ov_40__parallelo_40.1463_18.4917,40° Parallelo,RESTAURANT,bar_cafe
-40.146331,18.491278,ov_il_giardino_del_re_40.1463_18.4913,Il Giardino del Re,RESTAURANT,bar_cafe
-40.146318,18.490312,ov_borgo_antico_caff__40.1463_18.4903,Borgo antico Caffè,RESTAURANT,bar_cafe
-40.146275,18.489862,ov_idro_bar_40.1463_18.4899,Idro Bar,RESTAURANT,bar_cafe
-40.146744,18.490826,ov_la_torre_bar___bistrot_40.1467_18.4908,La Torre Bar & Bistrot,RESTAURANT,bar_cafe
-40.154359,18.488301,ov_birrificio_capo_d_otranto_40.1544_18.4883,Birrificio Capo d'Otranto,RESTAURANT,bar_cafe
-40.150632,18.484111,ov_caprice_40.1506_18.4841,Caprice,RESTAURANT,bar_cafe
-40.150636,18.482394,ov_bar_incontro_40.1506_18.4824,Bar incontro,RESTAURANT,bar_cafe
-40.210536,18.450393,ov_al_relitto_40.2105_18.4504,AL RELITTO,RESTAURANT,bar_cafe
-40.206693,18.454663,ov_bar_carpe_diem_40.2067_18.4547,Bar Carpe Diem,RESTAURANT,bar_cafe
-40.202133,18.458937,ov_lido_la_sirena_otranto_40.2021_18.4589,Lido La Sirena Otranto,RESTAURANT,bar_cafe
-40.200063,18.459232,ov_balnearea_beach_otranto_40.2001_18.4592,Balnearea Beach Otranto,RESTAURANT,bar_cafe
-40.241230,18.380501,ov_cafe__matarico_40.2412_18.3805,Cafe' Matarico,RESTAURANT,bar_cafe
-40.229527,18.448122,ov_cantina_tenuta_merico___otranto_40.2295_18.4481,Cantina Tenuta Merico - Otranto,RESTAURANT,bar_cafe
-40.147374,18.487485,osm_caffetteria_martinucci_40.1474_18.4875,Caffetteria Martinucci,bar_cafe,bar_cafe
-40.144853,18.491898,osm_bar_castello_40.1449_18.4919,Bar Castello,bar_cafe,bar_cafe
-40.146138,18.489590,osm_garden_bar_40.1461_18.4896,Garden Bar,bar_cafe,bar_cafe
-40.146200,18.489827,osm_idro_40.1462_18.4898,Idro,bar_cafe,bar_cafe
-40.144486,18.494358,osm_di_bolina_40.1445_18.4944,Di Bolina,bar_cafe,bar_cafe
+40.079527,18.482881,ov_bar_alimentari_tabacchi_da_carlo_40.0795_18.4829,Bar Alimentari Tabacchi da Carlo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/bar_alimentari_tabacchi_da_carlo_40.0795_18.4829.json,custom
+40.078762,18.484249,ov_skaf__al_casotto_40.0788_18.4842,Skafè al Casotto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/skaf_al_casotto_40.0788_18.4842.json,custom
+40.141653,18.488188,ov_caff__demos_40.1417_18.4882,Caffè Demos,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/caff_demos_40.1417_18.4882.json,custom
+40.144459,18.494514,ov_di_bolina_caf__40.1445_18.4945,Di Bolina Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/di_bolina_caf_40.1445_18.4945.json,custom
+40.144893,18.492229,ov_la_cambusa_40.1449_18.4922,La Cambusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/la_cambusa_40.1449_18.4922.json,custom
+40.145222,18.492587,ov_birrificio_artigianale_capo_d_otranto_sr_40.1452_18.4926,Birrificio Artigianale Capo d'Otranto Srl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/birrificio_artigianale_capo_dotranto_srl_40.1452_18.4926.json,custom
+40.145160,18.492707,ov_blu_bar_bistrot_40.1452_18.4927,Blu Bar Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/blu_bar_bistrot_40.1452_18.4927.json,custom
+40.145777,18.492951,ov_batik_otranto_40.1458_18.4930,BATIK Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/batik_otranto_40.1458_18.4930.json,custom
+40.145677,18.492343,ov_barcollo_bistrot_wine_bar_40.1457_18.4923,Barcollo Bistrot Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/barcollo_bistrot_wine_bar_40.1457_18.4923.json,custom
+40.145839,18.488593,ov_che_fusto_la_beereria_40.1458_18.4886,CHE FUSTO la beereria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/che_fusto_la_beereria_40.1458_18.4886.json,custom
+40.145750,18.488410,ov_otranto_fruit_bar_40.1457_18.4884,Otranto Fruit Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/otranto_fruit_bar_40.1457_18.4884.json,custom
+40.145718,18.487699,ov_marefuori_trattoria_tipica_40.1457_18.4877,MareFuori Trattoria Tipica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/marefuori_trattoria_tipica_40.1457_18.4877.json,custom
+40.136573,18.483798,ov_birrificio_capo_d_otranto_40.1366_18.4838,Birrificio Capo d'Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/birrificio_capo_dotranto_40.1366_18.4838.json,custom
+40.149334,18.487035,ov_borderline_caf__40.1493_18.4870,Borderline Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/borderline_caf_40.1493_18.4870.json,custom
+40.150205,18.482564,ov_acqua_speed_srl_40.1502_18.4826,Acqua Speed Srl,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/acqua_speed_srl_40.1502_18.4826.json,custom
+40.150042,18.487266,ov_caffetteria_il_moresco_40.1500_18.4873,Caffetteria Il Moresco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/caffetteria_il_moresco_40.1500_18.4873.json,custom
+40.149830,18.482974,ov_da_petio_bar_40.1498_18.4830,Da Petio Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/da_petio_bar_40.1498_18.4830.json,custom
+40.148070,18.479979,ov_nelson_park_40.1481_18.4800,Nelson Park,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/nelson_park_40.1481_18.4800.json,custom
+40.147374,18.487485,ov_caf__miramare_40.1474_18.4875,Cafè Miramare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/caf_miramare_40.1474_18.4875.json,custom
+40.147322,18.487657,ov_santi___briganti_40.1473_18.4877,Santi & Briganti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/santi_briganti_40.1473_18.4877.json,custom
+40.146094,18.489373,ov_boomerang_srl_40.1461_18.4894,Boomerang SRL,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/boomerang_srl_40.1461_18.4894.json,custom
+40.146036,18.489328,ov_bar_ai_giardini_di_lomonaco_alessandra_e_40.1460_18.4893,Bar Ai Giardini di Lomonaco Alessandra e Miggiano Pamela Vit,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/bar_ai_giardini_di_lomonaco_alessandra_e_40.1460_18.4893.json,custom
+40.146108,18.488514,ov_sudest_bar_40.1461_18.4885,SudEst Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/sudest_bar_40.1461_18.4885.json,custom
+40.146424,18.490978,ov_enoteca_la_botte_40.1464_18.4910,Enoteca La Botte,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/enoteca_la_botte_40.1464_18.4910.json,custom
+40.146312,18.491664,ov_40__parallelo_40.1463_18.4917,40° Parallelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/40_parallelo_40.1463_18.4917.json,custom
+40.146331,18.491278,ov_il_giardino_del_re_40.1463_18.4913,Il Giardino del Re,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/il_giardino_del_re_40.1463_18.4913.json,custom
+40.146318,18.490312,ov_borgo_antico_caff__40.1463_18.4903,Borgo antico Caffè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/borgo_antico_caff_40.1463_18.4903.json,custom
+40.146275,18.489862,ov_idro_bar_40.1463_18.4899,Idro Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/idro_bar_40.1463_18.4899.json,custom
+40.146744,18.490826,ov_la_torre_bar___bistrot_40.1467_18.4908,La Torre Bar & Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/la_torre_bar_bistrot_40.1467_18.4908.json,custom
+40.154359,18.488301,ov_birrificio_capo_d_otranto_40.1544_18.4883,Birrificio Capo d'Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/birrificio_capo_dotranto_40.1544_18.4883.json,custom
+40.150632,18.484111,ov_caprice_40.1506_18.4841,Caprice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/caprice_40.1506_18.4841.json,custom
+40.150636,18.482394,ov_bar_incontro_40.1506_18.4824,Bar incontro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/bar_incontro_40.1506_18.4824.json,custom
+40.210536,18.450393,ov_al_relitto_40.2105_18.4504,AL RELITTO,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/al_relitto_40.2105_18.4504.json,custom
+40.206693,18.454663,ov_bar_carpe_diem_40.2067_18.4547,Bar Carpe Diem,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/bar_carpe_diem_40.2067_18.4547.json,custom
+40.202133,18.458937,ov_lido_la_sirena_otranto_40.2021_18.4589,Lido La Sirena Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/lido_la_sirena_otranto_40.2021_18.4589.json,custom
+40.200063,18.459232,ov_balnearea_beach_otranto_40.2001_18.4592,Balnearea Beach Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/balnearea_beach_otranto_40.2001_18.4592.json,custom
+40.241230,18.380501,ov_cafe__matarico_40.2412_18.3805,Cafe' Matarico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/cafe_matarico_40.2412_18.3805.json,custom
+40.229527,18.448122,ov_cantina_tenuta_merico___otranto_40.2295_18.4481,Cantina Tenuta Merico - Otranto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/cantina_tenuta_merico_-_otranto_40.2295_18.4481.json,custom
+40.147374,18.487485,osm_caffetteria_martinucci_40.1474_18.4875,Caffetteria Martinucci,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/caffetteria_martinucci_40.1474_18.4875.json,custom
+40.144853,18.491898,osm_bar_castello_40.1449_18.4919,Bar Castello,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/bar_castello_40.1449_18.4919.json,custom
+40.146138,18.489590,osm_garden_bar_40.1461_18.4896,Garden Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/garden_bar_40.1461_18.4896.json,custom
+40.146200,18.489827,osm_idro_40.1462_18.4898,Idro,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/idro_40.1462_18.4898.json,custom
+40.144486,18.494358,osm_di_bolina_40.1445_18.4944,Di Bolina,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/otranto/pages/di_bolina_40.1445_18.4944.json,custom

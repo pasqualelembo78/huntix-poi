@@ -1,9 +1,9 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # martina_franca -- landmarks
-40.705720,17.338450,ov_laboratorio_dell_emigrazione_di_valle_d__40.7057_17.3385,Laboratorio dell'emigrazione di valle d'Itria,MUSEUM,monumento
-40.705792,17.337507,ov_museo_muba_40.7058_17.3375,Museo MuBa,MUSEUM,monumento
-40.705578,17.335971,ov_duomo_martina_franca_40.7056_17.3360,Duomo Martina Franca,MONUMENT,monumento
-40.706280,17.333580,ov_palazzo_ruggeri_40.7063_17.3336,Palazzo Ruggeri,MONUMENT,monumento
-40.704814,17.339100,ov_arco_di_sant_antonio___martina_franca_40.7048_17.3391,Arco di Sant'Antonio - Martina Franca,MONUMENT,monumento
-40.702044,17.340075,ov_monumento_dei_caduti_40.7020_17.3401,Monumento dei Caduti,MONUMENT,monumento
-40.697347,17.342919,ov_chiara_sasso_restauri_40.6973_17.3429,Chiara sasso restauri,MUSEUM,monumento
+40.705720,17.338450,ov_laboratorio_dell_emigrazione_di_valle_d__40.7057_17.3385,Laboratorio dell'emigrazione di valle d'Itria,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/laboratorio_dellemigrazione_di_valle_dit_40.7057_17.3385.json,custom
+40.705792,17.337507,ov_museo_muba_40.7058_17.3375,Museo MuBa,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/museo_muba_40.7058_17.3375.json,custom
+40.705578,17.335971,ov_duomo_martina_franca_40.7056_17.3360,Duomo Martina Franca,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/duomo_martina_franca_40.7056_17.3360.json,custom
+40.706280,17.333580,ov_palazzo_ruggeri_40.7063_17.3336,Palazzo Ruggeri,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/palazzo_ruggeri_40.7063_17.3336.json,custom
+40.704814,17.339100,ov_arco_di_sant_antonio___martina_franca_40.7048_17.3391,Arco di Sant'Antonio - Martina Franca,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/arco_di_santantonio_-_martina_franca_40.7048_17.3391.json,custom
+40.702044,17.340075,ov_monumento_dei_caduti_40.7020_17.3401,Monumento dei Caduti,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/monumento_dei_caduti_40.7020_17.3401.json,custom
+40.697347,17.342919,ov_chiara_sasso_restauri_40.6973_17.3429,Chiara sasso restauri,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/martina_franca/pages/chiara_sasso_restauri_40.6973_17.3429.json,custom

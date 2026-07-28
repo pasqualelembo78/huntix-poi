@@ -1,7 +1,6 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # zollino -- restaurants
-40.205304,18.250990,osm_ristorantino_da_fabio_40.2053_18.2510,Ristorantino da Fabio,ristorante,ristorante
-40.206223,18.251103,osm_pizzeria_mamova_40.2062_18.2511,Pizzeria MaMoVa,ristorante,ristorante
-40.206121,18.251015,ov_pizzeria_mamova_40.2061_18.2510,Pizzeria Mamova,RESTAURANT,ristorante
-40.205367,18.251027,ov_da_fabio_40.2054_18.2510,Da Fabio,RESTAURANT,ristorante
-40.207359,18.249507,ov_krifo_40.2074_18.2495,Krifo,RESTAURANT,ristorante
+40.206121,18.251015,ov_pizzeria_mamova_40.2061_18.2510,Pizzeria Mamova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/pizzeria_mamova_40.2061_18.2510.json,custom
+40.205367,18.251027,ov_da_fabio_40.2054_18.2510,Da Fabio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/da_fabio_40.2054_18.2510.json,custom
+40.207359,18.249507,ov_krifo_40.2074_18.2495,Krifo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/krifo_40.2074_18.2495.json,custom
+40.205304,18.250990,osm_ristorantino_da_fabio_40.2053_18.2510,Ristorantino da Fabio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/zollino/pages/ristorantino_da_fabio_40.2053_18.2510.json,custom

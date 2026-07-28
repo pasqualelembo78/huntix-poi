@@ -1,14 +1,14 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # tursi -- bars_cafes
-40.246667,16.468770,ov_caffe_plaza_40.2467_16.4688,Caffe Plaza,RESTAURANT,bar_cafe
-40.246403,16.468567,ov_bar_margherita_40.2464_16.4686,Bar Margherita,RESTAURANT,bar_cafe
-40.246499,16.467678,ov_il_cantuccio_di_digno_angelo_40.2465_16.4677,Il Cantuccio di Digno Angelo,RESTAURANT,bar_cafe
-40.245717,16.468370,ov_life_caff__tursi_40.2457_16.4684,Life caffé Tursi,RESTAURANT,bar_cafe
-40.246420,16.467550,ov_bazar_i_3_diavoletti_40.2464_16.4675,Bazar I 3 Diavoletti,RESTAURANT,bar_cafe
-40.245629,16.465825,ov_caff__roma_40.2456_16.4658,Caffè Roma,RESTAURANT,bar_cafe
-40.245319,16.464983,ov_bar_del_corso_40.2453_16.4650,Bar Del Corso,RESTAURANT,bar_cafe
-40.243334,16.463055,ov_concessionario_caffe_moak_falciglia_40.2433_16.4631,Concessionario Caffe Moak Falciglia,RESTAURANT,bar_cafe
-40.243059,16.462482,ov_bar_caffetteria_spirito_libero_40.2431_16.4625,Bar Caffetteria Spirito Libero,RESTAURANT,bar_cafe
-40.246356,16.470617,ov_caf__noir_40.2464_16.4706,Cafè Noir,RESTAURANT,bar_cafe
-40.246948,16.478900,ov_hollywood_cafe_40.2469_16.4789,Hollywood Cafe,RESTAURANT,bar_cafe
-40.251300,16.470810,ov_rabatan_40.2513_16.4708,Rabatan,RESTAURANT,bar_cafe
+40.246667,16.468770,ov_caffe_plaza_40.2467_16.4688,Caffe Plaza,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/caffe_plaza_40.2467_16.4688.json,custom
+40.246403,16.468567,ov_bar_margherita_40.2464_16.4686,Bar Margherita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/bar_margherita_40.2464_16.4686.json,custom
+40.246499,16.467678,ov_il_cantuccio_di_digno_angelo_40.2465_16.4677,Il Cantuccio di Digno Angelo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/il_cantuccio_di_digno_angelo_40.2465_16.4677.json,custom
+40.245717,16.468370,ov_life_caff__tursi_40.2457_16.4684,Life caffé Tursi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/life_caff_tursi_40.2457_16.4684.json,custom
+40.246420,16.467550,ov_bazar_i_3_diavoletti_40.2464_16.4675,Bazar I 3 Diavoletti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/bazar_i_3_diavoletti_40.2464_16.4675.json,custom
+40.245629,16.465825,ov_caff__roma_40.2456_16.4658,Caffè Roma,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/caff_roma_40.2456_16.4658.json,custom
+40.245319,16.464983,ov_bar_del_corso_40.2453_16.4650,Bar Del Corso,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/bar_del_corso_40.2453_16.4650.json,custom
+40.243334,16.463055,ov_concessionario_caffe_moak_falciglia_40.2433_16.4631,Concessionario Caffe Moak Falciglia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/concessionario_caffe_moak_falciglia_40.2433_16.4631.json,custom
+40.243059,16.462482,ov_bar_caffetteria_spirito_libero_40.2431_16.4625,Bar Caffetteria Spirito Libero,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/bar_caffetteria_spirito_libero_40.2431_16.4625.json,custom
+40.246356,16.470617,ov_caf__noir_40.2464_16.4706,Cafè Noir,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/caf_noir_40.2464_16.4706.json,custom
+40.246948,16.478900,ov_hollywood_cafe_40.2469_16.4789,Hollywood Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/hollywood_cafe_40.2469_16.4789.json,custom
+40.251300,16.470810,ov_rabatan_40.2513_16.4708,Rabatan,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/tursi/pages/rabatan_40.2513_16.4708.json,custom

@@ -1,188 +1,187 @@
-# lat,lng,id,name,building_type,type
+# lat,lng,id,name,building_type,type,url,page_type
 # ostuni -- restaurants
-40.724812,17.578838,osm_la_nuova_bruschetta_40.7248_17.5788,La Nuova Bruschetta,ristorante,ristorante
-40.796233,17.563438,osm_white_ostuni_beach_club_40.7962_17.5634,White Ostuni Beach Club,ristorante,ristorante
-40.733075,17.578671,osm_kidra_pub_40.7331_17.5787,Kidra Pub,ristorante,ristorante
-40.734350,17.579677,osm_nudo_e_crudo_fishbar_40.7344_17.5797,Nudo e Crudo Fishbar,ristorante,ristorante
-40.733765,17.579757,osm_il_posto_affianco_40.7338_17.5798,Il Posto Affianco,ristorante,ristorante
-40.732175,17.578782,osm_la_pastasciutta_40.7322_17.5788,La Pastasciutta,ristorante,ristorante
-40.703750,17.572730,osm_ristorante_nonno_vittorio_40.7038_17.5727,Ristorante Nonno Vittorio,ristorante,ristorante
-40.699660,17.404331,ov_masseria_ferri_il_ristorante_40.6997_17.4043,Masseria Ferri IL Ristorante,RESTAURANT,ristorante
-40.698022,17.418238,ov_sale_e_pepe_40.6980_17.4182,Sale e Pepe,RESTAURANT,ristorante
-40.701970,17.420610,ov_saleepepegalante_40.7020_17.4206,Saleepepegalante,RESTAURANT,ristorante
-40.696127,17.469939,ov_pizzeria_da_micchio_40.6961_17.4699,Pizzeria Da Micchio,RESTAURANT,ristorante
-40.694968,17.469807,ov_giugra__solo_eventi_di_qualit__40.6950_17.4698,Giugra' solo eventi di qualità,RESTAURANT,ristorante
-40.703110,17.497980,ov_la_corte_dei_briganti_40.7031_17.4980,La Corte Dei Briganti,RESTAURANT,ristorante
-40.699062,17.479487,ov_agritria_40.6991_17.4795,Agritria,RESTAURANT,ristorante
-40.734830,17.505180,ov_il_trullo_dell_angelo_40.7348_17.5052,il_trullo_dell_angelo,RESTAURANT,ristorante
-40.790733,17.518095,ov_masseria_fontevecchia_40.7907_17.5181,Masseria Fontevecchia,RESTAURANT,ristorante
-40.806918,17.529275,ov_amazonica_40.8069_17.5293,Amazonica,RESTAURANT,ristorante
-40.808203,17.530251,ov_lido_bosco_verde_40.8082_17.5303,Lido Bosco Verde,RESTAURANT,ristorante
-40.808540,17.530029,ov_crazy_on_the_beach_40.8085_17.5300,Crazy On The Beach,RESTAURANT,ristorante
-40.801933,17.548012,ov_juniperus_rosamarina_40.8019_17.5480,Juniperus Rosamarina,RESTAURANT,ristorante
-40.794677,17.550583,ov_da_ciccio_40.7947_17.5506,Da Ciccio,RESTAURANT,ristorante
-40.795796,17.543361,ov_la_taverna_da_maurizio_40.7958_17.5434,La Taverna da Maurizio,RESTAURANT,ristorante
-40.792939,17.545500,ov_la_piazzetta_40.7929_17.5455,La Piazzetta,RESTAURANT,ristorante
-40.792043,17.563382,ov_trattoria_q8_40.7920_17.5634,Trattoria Q8,RESTAURANT,ristorante
-40.791522,17.582092,ov_kios_ostuni_40.7915_17.5821,KIOS Ostuni,RESTAURANT,ristorante
-40.787065,17.596353,ov_il_faro_ostuni_40.7871_17.5964,Il Faro Ostuni,RESTAURANT,ristorante
-40.787887,17.596727,ov_il_veliero_40.7879_17.5967,Il Veliero,RESTAURANT,ristorante
-40.788435,17.594143,ov_holiday_osteria_di_mare_e_pizza_40.7884_17.5941,Holiday Osteria di Mare e Pizza,RESTAURANT,ristorante
-40.788414,17.594329,ov_vicolo_43_40.7884_17.5943,Vicolo 43,RESTAURANT,ristorante
-40.789923,17.587336,ov_peschera_bistrot_re_del_mare_40.7899_17.5873,Peschera Bistrot RE DEL MARE,RESTAURANT,ristorante
-40.790163,17.588731,ov_si_sea_villanova_40.7902_17.5887,Si Sea Villanova,RESTAURANT,ristorante
-40.790072,17.587617,ov_re_del_mare_40.7901_17.5876,Re del Mare,RESTAURANT,ristorante
-40.790038,17.586704,ov_gnam_gnam_40.7900_17.5867,GNAM GNAM,RESTAURANT,ristorante
-40.789673,17.585559,ov_sorsi___morsea_40.7897_17.5856,Sorsi & Morsea,RESTAURANT,ristorante
-40.789569,17.585387,ov_mediterraneo_villanova_40.7896_17.5854,Mediterraneo Villanova,RESTAURANT,ristorante
-40.788878,17.585028,ov_ristorante_pizzeria_alta_marea_40.7889_17.5850,Ristorante Pizzeria Alta Marea,RESTAURANT,ristorante
-40.789637,17.581866,ov_al_pescatore_40.7896_17.5819,Al Pescatore,RESTAURANT,ristorante
-40.785185,17.600784,ov_gli_archi_40.7852_17.6008,Gli Archi,RESTAURANT,ristorante
-40.785177,17.600895,ov_ristorante_gli_archi___villanova_40.7852_17.6009,Ristorante gli Archi ~ villanova,RESTAURANT,ristorante
-40.773884,17.652416,ov_paragrafo_25_40.7739_17.6524,Paragrafo 25,RESTAURANT,ristorante
-40.775901,17.641850,ov_restaurant_camping_costa_merlata_40.7759_17.6419,Restaurant Camping Costa Merlata,RESTAURANT,ristorante
-40.763342,17.636109,ov_masseria_refrigerio_40.7633_17.6361,Masseria Refrigerio,RESTAURANT,ristorante
-40.761548,17.624037,ov_masseria_della_piana_40.7615_17.6240,Masseria Della Piana,RESTAURANT,ristorante
-40.750528,17.575743,ov_paninomania_pb_40.7505_17.5757,Paninomania PB,RESTAURANT,ristorante
-40.766420,17.515730,ov_masseria_casamassima_40.7664_17.5157,Masseria Casamassima,RESTAURANT,ristorante
-40.758698,17.521808,ov_masseria_casamassima_40.7587_17.5218,Masseria Casamassima,RESTAURANT,ristorante
-40.737866,17.511741,ov_il_trullo_dell_angelo_40.7379_17.5117,Il Trullo Dell'angelo,RESTAURANT,ristorante
-40.728791,17.574892,ov_la_locanda_del_macellaio_40.7288_17.5749,La Locanda Del Macellaio,RESTAURANT,ristorante
-40.729349,17.577064,ov_barrio_bar_bistr__40.7293_17.5771,Barrio Bar BistrÓ,RESTAURANT,ristorante
-40.729861,17.577042,ov_restaurant_700_40.7299_17.5770,Restaurant 700,RESTAURANT,ristorante
-40.729541,17.577243,ov_kebbaberia_di_ostuni_40.7295_17.5772,Kebbaberia Di Ostuni,RESTAURANT,ristorante
-40.729505,17.577126,ov_rossopizza_40.7295_17.5771,Rossopizza,RESTAURANT,ristorante
-40.731181,17.578946,ov_sho_ann_40.7312_17.5789,Sho Ann,RESTAURANT,ristorante
-40.731189,17.575704,ov_ca_lipso_by_wonderful_italy_40.7312_17.5757,Ca'Lipso by Wonderful Italy,RESTAURANT,ristorante
-40.731920,17.574440,ov_ristorante_la_casa_dei_marinai_40.7319_17.5744,Ristorante La Casa Dei Marinai,RESTAURANT,ristorante
-40.731956,17.574381,ov_impasto_napoletano_40.7320_17.5744,Impasto Napoletano,RESTAURANT,ristorante
-40.731992,17.575035,ov_pizzeria_follie_da_tonio_40.7320_17.5750,Pizzeria Follie da Tonio,RESTAURANT,ristorante
-40.732115,17.574960,ov_hanami_ostuni_40.7321_17.5750,Hanami Ostuni,RESTAURANT,ristorante
-40.733043,17.576891,ov_badia_pizzeria_risto_wine_pub_40.7330_17.5769,Badia Pizzeria Risto Wine Pub,RESTAURANT,ristorante
-40.733898,17.576126,ov_osteria_casaciaccia_40.7339_17.5761,Osteria CasaCiaccia,RESTAURANT,ristorante
-40.733738,17.576571,ov_ristorante_porta_nova_40.7337_17.5766,Ristorante Porta Nova,RESTAURANT,ristorante
-40.733337,17.577563,ov_ristorante_san_pietro_ostuni_40.7333_17.5776,Ristorante San Pietro Ostuni,RESTAURANT,ristorante
-40.733822,17.578795,ov_la_vispa_teresa_40.7338_17.5788,La Vispa Teresa,RESTAURANT,ristorante
-40.733681,17.579020,ov_asia_lorusso_saxristopub_ostuni_40.7337_17.5790,Asia Lorusso Saxristopub Ostuni,RESTAURANT,ristorante
-40.733524,17.578805,ov_osteria_monacelle_40.7335_17.5788,Osteria Monacelle,RESTAURANT,ristorante
-40.733419,17.578901,ov_casa_san_giacomo_ostuni_40.7334_17.5789,Casa San Giacomo Ostuni,RESTAURANT,ristorante
-40.733135,17.578777,ov_ristorante_pizzeria_la_massara_40.7331_17.5788,Ristorante pizzeria la Massara,RESTAURANT,ristorante
-40.733099,17.578690,ov_la_reggia_di_ostuni_40.7331_17.5787,La Reggia di Ostuni,RESTAURANT,ristorante
-40.733086,17.578215,ov_tami_cucina_e_pizza_40.7331_17.5782,Tami Cucina e Pizza,RESTAURANT,ristorante
-40.733155,17.578463,ov_sax_restaurant_40.7332_17.5785,Sax Restaurant,RESTAURANT,ristorante
-40.733255,17.578632,ov_ama_chilometrozero_40.7333_17.5786,Ama chilometrozero,RESTAURANT,ristorante
-40.732791,17.578103,ov_pizza___patata_40.7328_17.5781,Pizza & Patata,RESTAURANT,ristorante
-40.732727,17.577376,ov_vulcani_40.7327_17.5774,Vulcani,RESTAURANT,ristorante
-40.732871,17.578662,ov_l_arco_dei_sapori_40.7329_17.5787,L'Arco Dei Sapori,RESTAURANT,ristorante
-40.732465,17.579070,ov_pizzeria_regina_40.7325_17.5791,Pizzeria Regina,RESTAURANT,ristorante
-40.732468,17.579002,ov_hosteria_pizzeria_regina_40.7325_17.5790,Hosteria Pizzeria Regina,RESTAURANT,ristorante
-40.732504,17.578618,ov_ramunno_bistrot_40.7325_17.5786,Ramunno Bistrot,RESTAURANT,ristorante
-40.732462,17.578628,ov_ristorante_gourmet_izzica_ostuni_40.7325_17.5786,RISTORANTE GOURMET IZZICA OSTUNI,RESTAURANT,ristorante
-40.732337,17.578272,ov_petit_bistrot_e_pizzeria_codice_a_barre_40.7323_17.5783,Petit Bistrot e Pizzeria Codice a Barre,RESTAURANT,ristorante
-40.732452,17.578738,ov_l_antica_locanda_40.7325_17.5787,L'Antica Locanda,RESTAURANT,ristorante
-40.732121,17.578901,ov_la_pastasciutta_40.7321_17.5789,La Pastasciutta,RESTAURANT,ristorante
-40.732257,17.578628,ov_garbato_40.7323_17.5786,Garbato,RESTAURANT,ristorante
-40.732275,17.578419,ov_osteria_ostuni_bistrot_40.7323_17.5784,Osteria Ostuni Bistrot,RESTAURANT,ristorante
-40.732474,17.575376,ov_al_solito_posto_40.7325_17.5754,Al Solito Posto,RESTAURANT,ristorante
-40.732200,17.575846,ov_pizzeria_da_torino_40.7322_17.5758,Pizzeria da Torino,RESTAURANT,ristorante
-40.731857,17.578209,ov_tentazioni_40.7319_17.5782,Tentazioni,RESTAURANT,ristorante
-40.731810,17.578000,ov_caffe_garibaldi_40.7318_17.5780,Caffe Garibaldi,RESTAURANT,ristorante
-40.731726,17.578272,ov_la_grotta_degli_avi_40.7317_17.5783,La Grotta degli Avi,RESTAURANT,ristorante
-40.731965,17.578413,ov_osteria_madre_40.7320_17.5784,Osteria Madre,RESTAURANT,ristorante
-40.731932,17.579129,ov_drogheria_pugliese_40.7319_17.5791,Drogheria Pugliese,RESTAURANT,ristorante
-40.731881,17.578976,ov_coffee___more_40.7319_17.5790,Coffee & More,RESTAURANT,ristorante
-40.731501,17.579099,ov_giuseppe_fabrizio_nacci_40.7315_17.5791,Giuseppe Fabrizio Nacci,RESTAURANT,ristorante
-40.731785,17.579559,ov_lo_sfizio_dei_sensi_40.7318_17.5796,Lo Sfizio dei Sensi,RESTAURANT,ristorante
-40.731947,17.579256,ov_cicinedda_fruit_bistrot_40.7319_17.5793,Cicinedda fruit bistrot,RESTAURANT,ristorante
-40.731815,17.579833,ov_tito_schipa_restaurant_cocktail_bar_40.7318_17.5798,Tito Schipa Restaurant Cocktail Bar,RESTAURANT,ristorante
-40.731904,17.579694,ov_mosca_bianca_food_bar_40.7319_17.5797,Mosca Bianca Food&Bar,RESTAURANT,ristorante
-40.732190,17.582300,ov_arrostuni___braceria_40.7322_17.5823,Arrostuni - Braceria,RESTAURANT,ristorante
-40.732188,17.579189,ov_osteria_la_sparacima_40.7322_17.5792,Osteria La Sparacima,RESTAURANT,ristorante
-40.732983,17.579251,ov_nuovo_inizio___ristorante_pizzeria_40.7330_17.5793,Nuovo Inizio - Ristorante Pizzeria,RESTAURANT,ristorante
-40.732958,17.579215,ov_calce_bianca_osteria_contemporanea_40.7330_17.5792,Calce Bianca Osteria Contemporanea,RESTAURANT,ristorante
-40.733052,17.579275,ov_vicolo_43_40.7331_17.5793,Vicolo 43,RESTAURANT,ristorante
-40.733915,17.579696,ov_gabo_ristorante_40.7339_17.5797,Gabo Ristorante,RESTAURANT,ristorante
-40.733844,17.579961,ov_il_pozzo_dei_desideri_40.7338_17.5800,Il Pozzo dei Desideri,RESTAURANT,ristorante
-40.733643,17.579899,ov_brillo_food___spirits_40.7336_17.5799,Brillo Food & Spirits,RESTAURANT,ristorante
-40.733813,17.580790,ov_terrazza_zero_81_ostuni_40.7338_17.5808,Terrazza Zero 81 Ostuni,RESTAURANT,ristorante
-40.733928,17.580636,ov_la_risacca_2_ostuni_40.7339_17.5806,La Risacca 2 Ostuni,RESTAURANT,ristorante
-40.733744,17.583677,ov_hostaria_antica_posada_40.7337_17.5837,Hostaria Antica Posada,RESTAURANT,ristorante
-40.730742,17.581120,ov_ristorante_la_vecchia_terrazza_ostuni_40.7307_17.5811,Ristorante La Vecchia Terrazza Ostuni,RESTAURANT,ristorante
-40.731138,17.580489,ov_dish_restaurant_40.7311_17.5805,Dish Restaurant,RESTAURANT,ristorante
-40.731247,17.580221,ov_operaprima_ristorante_pizzeria_40.7312_17.5802,Operaprima Ristorante Pizzeria,RESTAURANT,ristorante
-40.731255,17.579197,ov_les_crepes_fantastique_40.7313_17.5792,Les Crepes Fantastique,RESTAURANT,ristorante
-40.731115,17.579384,ov_ristorante_trattoria_fave_e_fogghje_40.7311_17.5794,Ristorante Trattoria Fave e Fogghje,RESTAURANT,ristorante
-40.731070,17.579502,ov_osteria_n_divino_salentino_40.7311_17.5795,Osteria N'divino Salentino,RESTAURANT,ristorante
-40.730954,17.579511,ov_osteria_ricanatti_40.7310_17.5795,Osteria Ricanatti,RESTAURANT,ristorante
-40.730809,17.579664,ov_asso_di_spade_panzerotti_40.7308_17.5797,Asso di Spade Panzerotti,RESTAURANT,ristorante
-40.730352,17.580248,ov_osteria_don_chisciotte_40.7304_17.5802,Osteria Don Chisciotte,RESTAURANT,ristorante
-40.730644,17.580431,ov_clover_40.7306_17.5804,Clover,RESTAURANT,ristorante
-40.730183,17.579949,ov_il_delfino___flipper___pescheria_braceri_40.7302_17.5799,Il Delfino / Flipper - Pescheria Braceria Friggitoria Ristor,RESTAURANT,ristorante
-40.730230,17.579934,ov_american_pizza_40.7302_17.5799,American Pizza,RESTAURANT,ristorante
-40.730220,17.580611,ov_don_chisciotte_40.7302_17.5806,Don Chisciotte,RESTAURANT,ristorante
-40.730511,17.581126,ov_al_cortiletto___vino_birra_ostuni_40.7305_17.5811,Al Cortiletto - Vino&Birra Ostuni,RESTAURANT,ristorante
-40.729808,17.579875,ov_priscio_alimentare_40.7298_17.5799,Priscio Alimentare,RESTAURANT,ristorante
-40.729836,17.579894,ov_ristorante_nautilus_40.7298_17.5799,Ristorante Nautilus,RESTAURANT,ristorante
-40.729140,17.580396,ov_pescheria_il_delfino_40.7291_17.5804,Pescheria Il Delfino,RESTAURANT,ristorante
-40.729339,17.580522,ov_casa_del_formaggio_40.7293_17.5805,Casa del Formaggio,RESTAURANT,ristorante
-40.729310,17.584720,ov_suavis___brace_e_cucina_40.7293_17.5847,Suavis - Brace e Cucina,RESTAURANT,ristorante
-40.733688,17.589821,ov_il_fienile_40.7337_17.5898,Il Fienile,RESTAURANT,ristorante
-40.734110,17.579917,ov_taverna_della_gelosia_40.7341_17.5799,Taverna della Gelosia,RESTAURANT,ristorante
-40.734209,17.579625,ov_ristorante_pinzimonio_40.7342_17.5796,Ristorante Pinzimonio,RESTAURANT,ristorante
-40.734390,17.579542,ov_bellavista_ostuni_ristorante_pizzeria_40.7344_17.5795,Bellavista Ostuni Ristorante Pizzeria,RESTAURANT,ristorante
-40.734499,17.579305,ov_cielo_40.7345_17.5793,Cielo,RESTAURANT,ristorante
-40.734614,17.579417,ov_osteria_del_tempo_perso_40.7346_17.5794,Osteria del Tempo Perso,RESTAURANT,ristorante
-40.734885,17.579528,ov_la_terrazza_di_evo__40.7349_17.5795,La Terrazza di Evo',RESTAURANT,ristorante
-40.734891,17.578126,ov_abc___apulian_bistrot_40.7349_17.5781,ABC - Apulian Bistrot,RESTAURANT,ristorante
-40.734617,17.578292,ov_borgo_antico_bistrot_40.7346_17.5783,Borgo Antico Bistrot,RESTAURANT,ristorante
-40.733986,17.578307,ov_trattoria_sapere_e_sapori_40.7340_17.5783,Trattoria Sapere E Sapori,RESTAURANT,ristorante
-40.734211,17.578367,ov_osteria_piazzetta_cattedrale_40.7342_17.5784,Osteria Piazzetta Cattedrale,RESTAURANT,ristorante
-40.734176,17.577527,ov_spessite_40.7342_17.5775,Spessite,RESTAURANT,ristorante
-40.745705,17.623800,ov_agriturismo_masseria_asciano_40.7457_17.6238,Agriturismo Masseria Asciano,RESTAURANT,ristorante
-40.716613,17.603135,ov_casale_800_40.7166_17.6031,Casale 800,RESTAURANT,ristorante
-40.709923,17.598754,ov_ristorante_da_gigione_40.7099_17.5988,Ristorante da Gigione,RESTAURANT,ristorante
-40.715110,17.578440,ov_masseria_san_paolo_grande_40.7151_17.5784,Masseria San Paolo Grande,RESTAURANT,ristorante
-40.720520,17.576460,ov_la_tana_dei_golosi_40.7205_17.5765,La Tana Dei Golosi,RESTAURANT,ristorante
-40.721556,17.574554,ov_papere_e_nuvole_40.7216_17.5746,Papere e Nuvole,RESTAURANT,ristorante
-40.722133,17.573413,ov_rosa_blu_40.7221_17.5734,Rosa Blu,RESTAURANT,ristorante
-40.722590,17.577060,ov_poste_italiane_ostuni_3_40.7226_17.5771,Poste Italiane Ostuni 3,RESTAURANT,ristorante
-40.722685,17.576866,ov_pizzeria_retrogusto_ostuni_40.7227_17.5769,Pizzeria Retrogusto ostuni,RESTAURANT,ristorante
-40.722870,17.577610,ov_american_pizza_40.7229_17.5776,American Pizza,RESTAURANT,ristorante
-40.723353,17.578597,ov_noir_ostuni_40.7234_17.5786,Noir Ostuni,RESTAURANT,ristorante
-40.723290,17.578970,ov_terra_rossa_40.7233_17.5790,Terra Rossa,RESTAURANT,ristorante
-40.721735,17.579915,ov_farina_32_40.7217_17.5799,Farina 32,RESTAURANT,ristorante
-40.723328,17.579200,ov_l_alimento_e_qualit__da_paolone_40.7233_17.5792,L'Alimento e Qualità da Paolone,RESTAURANT,ristorante
-40.723070,17.581623,ov_umami___ristorante_giapponese_40.7231_17.5816,Umami - Ristorante giapponese,RESTAURANT,ristorante
-40.723119,17.582362,ov_la_braceria_40.7231_17.5824,La Braceria,RESTAURANT,ristorante
-40.724400,17.587363,ov_panzerotti___co__40.7244_17.5874,Panzerotti & Co.,RESTAURANT,ristorante
-40.728378,17.580300,ov_fenix_40.7284_17.5803,Fenix,RESTAURANT,ristorante
-40.727760,17.579700,ov_la_boutique_del_pollo_40.7278_17.5797,La Boutique del Pollo,RESTAURANT,ristorante
-40.727380,17.579368,ov_datterino_giallo___pizzeria_40.7274_17.5794,Datterino Giallo - Pizzeria,RESTAURANT,ristorante
-40.727351,17.579311,ov_lo_sfizietto_pizzeria_rosticceria_40.7274_17.5793,Lo Sfizietto Pizzeria Rosticceria,RESTAURANT,ristorante
-40.726717,17.579900,ov_da_bruno_40.7267_17.5799,Da Bruno,RESTAURANT,ristorante
-40.726200,17.584924,ov_yasaka_sushi_40.7262_17.5849,Yasaka Sushi,RESTAURANT,ristorante
-40.725590,17.583891,ov_terra_sana_40.7256_17.5839,Terra Sana,RESTAURANT,ristorante
-40.723660,17.581373,ov_mystic_focacceria_40.7237_17.5814,Mystic Focacceria,RESTAURANT,ristorante
-40.725721,17.582993,ov_la_capagira_40.7257_17.5830,La Capagira,RESTAURANT,ristorante
-40.725818,17.582141,ov_il_posto_giusto_40.7258_17.5821,Il Posto Giusto,RESTAURANT,ristorante
-40.724828,17.578810,ov_la_bruschetta___ristorante_pizzeria_40.7248_17.5788,La Bruschetta - Ristorante Pizzeria,RESTAURANT,ristorante
-40.723843,17.577924,ov_bear_burger_40.7238_17.5779,Bear Burger,RESTAURANT,ristorante
-40.724237,17.576389,ov_pizzeria_da_roberto_40.7242_17.5764,Pizzeria da Roberto,RESTAURANT,ristorante
-40.726008,17.572322,ov_golosiamo_3_0_40.7260_17.5723,Golosiamo 3.0,RESTAURANT,ristorante
-40.727150,17.573330,ov_il_capriccio_40.7272_17.5733,Il Capriccio,RESTAURANT,ristorante
-40.726541,17.576866,ov_muna_restaurant_40.7265_17.5769,Muna Restaurant,RESTAURANT,ristorante
-40.726295,17.577228,ov_golosiamo_food_via_paolo_orlando_40.7263_17.5772,Golosiamo Food via Paolo Orlando,RESTAURANT,ristorante
-40.726501,17.579129,ov_pizzeria_pucceria_c___pizza_per_te_40.7265_17.5791,Pizzeria Pucceria C'è Pizza per Te,RESTAURANT,ristorante
-40.727007,17.578392,ov_la_pastasciutta_40.7270_17.5784,La Pastasciutta,RESTAURANT,ristorante
-40.727283,17.578051,ov_il_convivio_bistrot_40.7273_17.5781,Il Convivio Bistrot,RESTAURANT,ristorante
-40.727350,17.575670,ov_pans__ostuni_40.7274_17.5757,Pansà Ostuni,RESTAURANT,ristorante
-40.728613,17.578752,ov_osteria_da_nonna_ia_40.7286_17.5788,Osteria Da Nonna Ia,RESTAURANT,ristorante
-40.728695,17.578102,ov_osteria_monacelle_40.7287_17.5781,Osteria Monacelle,RESTAURANT,ristorante
-40.728359,17.576150,ov_il_posto_giusto_40.7284_17.5761,Il Posto Giusto,RESTAURANT,ristorante
-40.728378,17.576153,ov_la_cantinina_40.7284_17.5762,La Cantinina,RESTAURANT,ristorante
-40.727809,17.568350,ov_shine_bar_40.7278_17.5683,Shine Bar,RESTAURANT,ristorante
-40.726201,17.570650,ov_pizzeria_mister_pomes_40.7262_17.5707,Pizzeria Mister Pomes,RESTAURANT,ristorante
-40.726223,17.570547,ov_etr__pizza___sfizi_40.7262_17.5705,Etrè Pizza & Sfizi,RESTAURANT,ristorante
-40.702345,17.510405,ov_trullo_del_moro_40.7023_17.5104,Trullo del Moro,RESTAURANT,ristorante
-40.706583,17.589651,ov_agriturismo_salinola_40.7066_17.5897,Agriturismo Salinola,RESTAURANT,ristorante
-40.703076,17.617530,ov_casa_santo_scalone_40.7031_17.6175,Casa Santo Scalone,RESTAURANT,ristorante
+40.699660,17.404331,ov_masseria_ferri_il_ristorante_40.6997_17.4043,Masseria Ferri IL Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_ferri_il_ristorante_40.6997_17.4043.json,custom
+40.698022,17.418238,ov_sale_e_pepe_40.6980_17.4182,Sale e Pepe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/sale_e_pepe_40.6980_17.4182.json,custom
+40.701970,17.420610,ov_saleepepegalante_40.7020_17.4206,Saleepepegalante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/saleepepegalante_40.7020_17.4206.json,custom
+40.696127,17.469939,ov_pizzeria_da_micchio_40.6961_17.4699,Pizzeria Da Micchio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_da_micchio_40.6961_17.4699.json,custom
+40.694968,17.469807,ov_giugra__solo_eventi_di_qualit__40.6950_17.4698,Giugra' solo eventi di qualità,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/giugra_solo_eventi_di_qualit_40.6950_17.4698.json,custom
+40.703110,17.497980,ov_la_corte_dei_briganti_40.7031_17.4980,La Corte Dei Briganti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_corte_dei_briganti_40.7031_17.4980.json,custom
+40.699062,17.479487,ov_agritria_40.6991_17.4795,Agritria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/agritria_40.6991_17.4795.json,custom
+40.734830,17.505180,ov_il_trullo_dell_angelo_40.7348_17.5052,il_trullo_dell_angelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/iltrullodellangelo_40.7348_17.5052.json,custom
+40.790733,17.518095,ov_masseria_fontevecchia_40.7907_17.5181,Masseria Fontevecchia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_fontevecchia_40.7907_17.5181.json,custom
+40.806918,17.529275,ov_amazonica_40.8069_17.5293,Amazonica,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/amazonica_40.8069_17.5293.json,custom
+40.808203,17.530251,ov_lido_bosco_verde_40.8082_17.5303,Lido Bosco Verde,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lido_bosco_verde_40.8082_17.5303.json,custom
+40.808540,17.530029,ov_crazy_on_the_beach_40.8085_17.5300,Crazy On The Beach,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/crazy_on_the_beach_40.8085_17.5300.json,custom
+40.801933,17.548012,ov_juniperus_rosamarina_40.8019_17.5480,Juniperus Rosamarina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/juniperus_rosamarina_40.8019_17.5480.json,custom
+40.794677,17.550583,ov_da_ciccio_40.7947_17.5506,Da Ciccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/da_ciccio_40.7947_17.5506.json,custom
+40.795796,17.543361,ov_la_taverna_da_maurizio_40.7958_17.5434,La Taverna da Maurizio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_taverna_da_maurizio_40.7958_17.5434.json,custom
+40.792939,17.545500,ov_la_piazzetta_40.7929_17.5455,La Piazzetta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_piazzetta_40.7929_17.5455.json,custom
+40.792043,17.563382,ov_trattoria_q8_40.7920_17.5634,Trattoria Q8,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/trattoria_q8_40.7920_17.5634.json,custom
+40.791522,17.582092,ov_kios_ostuni_40.7915_17.5821,KIOS Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/kios_ostuni_40.7915_17.5821.json,custom
+40.787065,17.596353,ov_il_faro_ostuni_40.7871_17.5964,Il Faro Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_faro_ostuni_40.7871_17.5964.json,custom
+40.787887,17.596727,ov_il_veliero_40.7879_17.5967,Il Veliero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_veliero_40.7879_17.5967.json,custom
+40.788435,17.594143,ov_holiday_osteria_di_mare_e_pizza_40.7884_17.5941,Holiday Osteria di Mare e Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/holiday_osteria_di_mare_e_pizza_40.7884_17.5941.json,custom
+40.788414,17.594329,ov_vicolo_43_40.7884_17.5943,Vicolo 43,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/vicolo_43_40.7884_17.5943.json,custom
+40.789923,17.587336,ov_peschera_bistrot_re_del_mare_40.7899_17.5873,Peschera Bistrot RE DEL MARE,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/peschera_bistrot_re_del_mare_40.7899_17.5873.json,custom
+40.790163,17.588731,ov_si_sea_villanova_40.7902_17.5887,Si Sea Villanova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/si_sea_villanova_40.7902_17.5887.json,custom
+40.790072,17.587617,ov_re_del_mare_40.7901_17.5876,Re del Mare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/re_del_mare_40.7901_17.5876.json,custom
+40.790038,17.586704,ov_gnam_gnam_40.7900_17.5867,GNAM GNAM,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/gnam_gnam_40.7900_17.5867.json,custom
+40.789673,17.585559,ov_sorsi___morsea_40.7897_17.5856,Sorsi & Morsea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/sorsi_morsea_40.7897_17.5856.json,custom
+40.789569,17.585387,ov_mediterraneo_villanova_40.7896_17.5854,Mediterraneo Villanova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mediterraneo_villanova_40.7896_17.5854.json,custom
+40.788878,17.585028,ov_ristorante_pizzeria_alta_marea_40.7889_17.5850,Ristorante Pizzeria Alta Marea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_pizzeria_alta_marea_40.7889_17.5850.json,custom
+40.789637,17.581866,ov_al_pescatore_40.7896_17.5819,Al Pescatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/al_pescatore_40.7896_17.5819.json,custom
+40.785185,17.600784,ov_gli_archi_40.7852_17.6008,Gli Archi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/gli_archi_40.7852_17.6008.json,custom
+40.785177,17.600895,ov_ristorante_gli_archi___villanova_40.7852_17.6009,Ristorante gli Archi ~ villanova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_gli_archi_villanova_40.7852_17.6009.json,custom
+40.773884,17.652416,ov_paragrafo_25_40.7739_17.6524,Paragrafo 25,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/paragrafo_25_40.7739_17.6524.json,custom
+40.775901,17.641850,ov_restaurant_camping_costa_merlata_40.7759_17.6419,Restaurant Camping Costa Merlata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/restaurant_camping_costa_merlata_40.7759_17.6419.json,custom
+40.763342,17.636109,ov_masseria_refrigerio_40.7633_17.6361,Masseria Refrigerio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_refrigerio_40.7633_17.6361.json,custom
+40.761548,17.624037,ov_masseria_della_piana_40.7615_17.6240,Masseria Della Piana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_della_piana_40.7615_17.6240.json,custom
+40.750528,17.575743,ov_paninomania_pb_40.7505_17.5757,Paninomania PB,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/paninomania_pb_40.7505_17.5757.json,custom
+40.766420,17.515730,ov_masseria_casamassima_40.7664_17.5157,Masseria Casamassima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_casamassima_40.7664_17.5157.json,custom
+40.758698,17.521808,ov_masseria_casamassima_40.7587_17.5218,Masseria Casamassima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_casamassima_40.7587_17.5218.json,custom
+40.737866,17.511741,ov_il_trullo_dell_angelo_40.7379_17.5117,Il Trullo Dell'angelo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_trullo_dellangelo_40.7379_17.5117.json,custom
+40.728791,17.574892,ov_la_locanda_del_macellaio_40.7288_17.5749,La Locanda Del Macellaio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_locanda_del_macellaio_40.7288_17.5749.json,custom
+40.729349,17.577064,ov_barrio_bar_bistr__40.7293_17.5771,Barrio Bar BistrÓ,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/barrio_bar_bistr_40.7293_17.5771.json,custom
+40.729861,17.577042,ov_restaurant_700_40.7299_17.5770,Restaurant 700,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/restaurant_700_40.7299_17.5770.json,custom
+40.729541,17.577243,ov_kebbaberia_di_ostuni_40.7295_17.5772,Kebbaberia Di Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/kebbaberia_di_ostuni_40.7295_17.5772.json,custom
+40.729505,17.577126,ov_rossopizza_40.7295_17.5771,Rossopizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/rossopizza_40.7295_17.5771.json,custom
+40.731181,17.578946,ov_sho_ann_40.7312_17.5789,Sho Ann,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/sho_ann_40.7312_17.5789.json,custom
+40.731189,17.575704,ov_ca_lipso_by_wonderful_italy_40.7312_17.5757,Ca'Lipso by Wonderful Italy,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/calipso_by_wonderful_italy_40.7312_17.5757.json,custom
+40.731920,17.574440,ov_ristorante_la_casa_dei_marinai_40.7319_17.5744,Ristorante La Casa Dei Marinai,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_la_casa_dei_marinai_40.7319_17.5744.json,custom
+40.731956,17.574381,ov_impasto_napoletano_40.7320_17.5744,Impasto Napoletano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/impasto_napoletano_40.7320_17.5744.json,custom
+40.731992,17.575035,ov_pizzeria_follie_da_tonio_40.7320_17.5750,Pizzeria Follie da Tonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_follie_da_tonio_40.7320_17.5750.json,custom
+40.732115,17.574960,ov_hanami_ostuni_40.7321_17.5750,Hanami Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/hanami_ostuni_40.7321_17.5750.json,custom
+40.733043,17.576891,ov_badia_pizzeria_risto_wine_pub_40.7330_17.5769,Badia Pizzeria Risto Wine Pub,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/badia_pizzeria_risto_wine_pub_40.7330_17.5769.json,custom
+40.733898,17.576126,ov_osteria_casaciaccia_40.7339_17.5761,Osteria CasaCiaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_casaciaccia_40.7339_17.5761.json,custom
+40.733738,17.576571,ov_ristorante_porta_nova_40.7337_17.5766,Ristorante Porta Nova,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_porta_nova_40.7337_17.5766.json,custom
+40.733337,17.577563,ov_ristorante_san_pietro_ostuni_40.7333_17.5776,Ristorante San Pietro Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_san_pietro_ostuni_40.7333_17.5776.json,custom
+40.733822,17.578795,ov_la_vispa_teresa_40.7338_17.5788,La Vispa Teresa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_vispa_teresa_40.7338_17.5788.json,custom
+40.733681,17.579020,ov_asia_lorusso_saxristopub_ostuni_40.7337_17.5790,Asia Lorusso Saxristopub Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asia_lorusso_saxristopub_ostuni_40.7337_17.5790.json,custom
+40.733524,17.578805,ov_osteria_monacelle_40.7335_17.5788,Osteria Monacelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_monacelle_40.7335_17.5788.json,custom
+40.733419,17.578901,ov_casa_san_giacomo_ostuni_40.7334_17.5789,Casa San Giacomo Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/casa_san_giacomo_ostuni_40.7334_17.5789.json,custom
+40.733135,17.578777,ov_ristorante_pizzeria_la_massara_40.7331_17.5788,Ristorante pizzeria la Massara,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_pizzeria_la_massara_40.7331_17.5788.json,custom
+40.733099,17.578690,ov_la_reggia_di_ostuni_40.7331_17.5787,La Reggia di Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_reggia_di_ostuni_40.7331_17.5787.json,custom
+40.733086,17.578215,ov_tami_cucina_e_pizza_40.7331_17.5782,Tami Cucina e Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tami_cucina_e_pizza_40.7331_17.5782.json,custom
+40.733155,17.578463,ov_sax_restaurant_40.7332_17.5785,Sax Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/sax_restaurant_40.7332_17.5785.json,custom
+40.733255,17.578632,ov_ama_chilometrozero_40.7333_17.5786,Ama chilometrozero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ama_chilometrozero_40.7333_17.5786.json,custom
+40.732791,17.578103,ov_pizza___patata_40.7328_17.5781,Pizza & Patata,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizza_patata_40.7328_17.5781.json,custom
+40.732727,17.577376,ov_vulcani_40.7327_17.5774,Vulcani,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/vulcani_40.7327_17.5774.json,custom
+40.732871,17.578662,ov_l_arco_dei_sapori_40.7329_17.5787,L'Arco Dei Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/larco_dei_sapori_40.7329_17.5787.json,custom
+40.732465,17.579070,ov_pizzeria_regina_40.7325_17.5791,Pizzeria Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_regina_40.7325_17.5791.json,custom
+40.732468,17.579002,ov_hosteria_pizzeria_regina_40.7325_17.5790,Hosteria Pizzeria Regina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/hosteria_pizzeria_regina_40.7325_17.5790.json,custom
+40.732504,17.578618,ov_ramunno_bistrot_40.7325_17.5786,Ramunno Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ramunno_bistrot_40.7325_17.5786.json,custom
+40.732462,17.578628,ov_ristorante_gourmet_izzica_ostuni_40.7325_17.5786,RISTORANTE GOURMET IZZICA OSTUNI,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_gourmet_izzica_ostuni_40.7325_17.5786.json,custom
+40.732337,17.578272,ov_petit_bistrot_e_pizzeria_codice_a_barre_40.7323_17.5783,Petit Bistrot e Pizzeria Codice a Barre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/petit_bistrot_e_pizzeria_codice_a_barre_40.7323_17.5783.json,custom
+40.732452,17.578738,ov_l_antica_locanda_40.7325_17.5787,L'Antica Locanda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lantica_locanda_40.7325_17.5787.json,custom
+40.732121,17.578901,ov_la_pastasciutta_40.7321_17.5789,La Pastasciutta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_pastasciutta_40.7321_17.5789.json,custom
+40.732257,17.578628,ov_garbato_40.7323_17.5786,Garbato,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/garbato_40.7323_17.5786.json,custom
+40.732275,17.578419,ov_osteria_ostuni_bistrot_40.7323_17.5784,Osteria Ostuni Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_ostuni_bistrot_40.7323_17.5784.json,custom
+40.732474,17.575376,ov_al_solito_posto_40.7325_17.5754,Al Solito Posto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/al_solito_posto_40.7325_17.5754.json,custom
+40.732200,17.575846,ov_pizzeria_da_torino_40.7322_17.5758,Pizzeria da Torino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_da_torino_40.7322_17.5758.json,custom
+40.731857,17.578209,ov_tentazioni_40.7319_17.5782,Tentazioni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tentazioni_40.7319_17.5782.json,custom
+40.731810,17.578000,ov_caffe_garibaldi_40.7318_17.5780,Caffe Garibaldi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/caffe_garibaldi_40.7318_17.5780.json,custom
+40.731726,17.578272,ov_la_grotta_degli_avi_40.7317_17.5783,La Grotta degli Avi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_grotta_degli_avi_40.7317_17.5783.json,custom
+40.731965,17.578413,ov_osteria_madre_40.7320_17.5784,Osteria Madre,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_madre_40.7320_17.5784.json,custom
+40.731932,17.579129,ov_drogheria_pugliese_40.7319_17.5791,Drogheria Pugliese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/drogheria_pugliese_40.7319_17.5791.json,custom
+40.731881,17.578976,ov_coffee___more_40.7319_17.5790,Coffee & More,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/coffee_more_40.7319_17.5790.json,custom
+40.731501,17.579099,ov_giuseppe_fabrizio_nacci_40.7315_17.5791,Giuseppe Fabrizio Nacci,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/giuseppe_fabrizio_nacci_40.7315_17.5791.json,custom
+40.731785,17.579559,ov_lo_sfizio_dei_sensi_40.7318_17.5796,Lo Sfizio dei Sensi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lo_sfizio_dei_sensi_40.7318_17.5796.json,custom
+40.731947,17.579256,ov_cicinedda_fruit_bistrot_40.7319_17.5793,Cicinedda fruit bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/cicinedda_fruit_bistrot_40.7319_17.5793.json,custom
+40.731815,17.579833,ov_tito_schipa_restaurant_cocktail_bar_40.7318_17.5798,Tito Schipa Restaurant Cocktail Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/tito_schipa_restaurant_cocktail_bar_40.7318_17.5798.json,custom
+40.731904,17.579694,ov_mosca_bianca_food_bar_40.7319_17.5797,Mosca Bianca Food&Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mosca_bianca_foodbar_40.7319_17.5797.json,custom
+40.732190,17.582300,ov_arrostuni___braceria_40.7322_17.5823,Arrostuni - Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/arrostuni_-_braceria_40.7322_17.5823.json,custom
+40.732188,17.579189,ov_osteria_la_sparacima_40.7322_17.5792,Osteria La Sparacima,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_la_sparacima_40.7322_17.5792.json,custom
+40.732983,17.579251,ov_nuovo_inizio___ristorante_pizzeria_40.7330_17.5793,Nuovo Inizio - Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/nuovo_inizio_-_ristorante_pizzeria_40.7330_17.5793.json,custom
+40.732958,17.579215,ov_calce_bianca_osteria_contemporanea_40.7330_17.5792,Calce Bianca Osteria Contemporanea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/calce_bianca_osteria_contemporanea_40.7330_17.5792.json,custom
+40.733052,17.579275,ov_vicolo_43_40.7331_17.5793,Vicolo 43,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/vicolo_43_40.7331_17.5793.json,custom
+40.733915,17.579696,ov_gabo_ristorante_40.7339_17.5797,Gabo Ristorante,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/gabo_ristorante_40.7339_17.5797.json,custom
+40.733844,17.579961,ov_il_pozzo_dei_desideri_40.7338_17.5800,Il Pozzo dei Desideri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_pozzo_dei_desideri_40.7338_17.5800.json,custom
+40.733643,17.579899,ov_brillo_food___spirits_40.7336_17.5799,Brillo Food & Spirits,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/brillo_food_spirits_40.7336_17.5799.json,custom
+40.733813,17.580790,ov_terrazza_zero_81_ostuni_40.7338_17.5808,Terrazza Zero 81 Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/terrazza_zero_81_ostuni_40.7338_17.5808.json,custom
+40.733928,17.580636,ov_la_risacca_2_ostuni_40.7339_17.5806,La Risacca 2 Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_risacca_2_ostuni_40.7339_17.5806.json,custom
+40.733744,17.583677,ov_hostaria_antica_posada_40.7337_17.5837,Hostaria Antica Posada,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/hostaria_antica_posada_40.7337_17.5837.json,custom
+40.730742,17.581120,ov_ristorante_la_vecchia_terrazza_ostuni_40.7307_17.5811,Ristorante La Vecchia Terrazza Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_la_vecchia_terrazza_ostuni_40.7307_17.5811.json,custom
+40.731138,17.580489,ov_dish_restaurant_40.7311_17.5805,Dish Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/dish_restaurant_40.7311_17.5805.json,custom
+40.731247,17.580221,ov_operaprima_ristorante_pizzeria_40.7312_17.5802,Operaprima Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/operaprima_ristorante_pizzeria_40.7312_17.5802.json,custom
+40.731255,17.579197,ov_les_crepes_fantastique_40.7313_17.5792,Les Crepes Fantastique,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/les_crepes_fantastique_40.7313_17.5792.json,custom
+40.731115,17.579384,ov_ristorante_trattoria_fave_e_fogghje_40.7311_17.5794,Ristorante Trattoria Fave e Fogghje,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_trattoria_fave_e_fogghje_40.7311_17.5794.json,custom
+40.731070,17.579502,ov_osteria_n_divino_salentino_40.7311_17.5795,Osteria N'divino Salentino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_ndivino_salentino_40.7311_17.5795.json,custom
+40.730954,17.579511,ov_osteria_ricanatti_40.7310_17.5795,Osteria Ricanatti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_ricanatti_40.7310_17.5795.json,custom
+40.730809,17.579664,ov_asso_di_spade_panzerotti_40.7308_17.5797,Asso di Spade Panzerotti,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/asso_di_spade_panzerotti_40.7308_17.5797.json,custom
+40.730352,17.580248,ov_osteria_don_chisciotte_40.7304_17.5802,Osteria Don Chisciotte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_don_chisciotte_40.7304_17.5802.json,custom
+40.730644,17.580431,ov_clover_40.7306_17.5804,Clover,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/clover_40.7306_17.5804.json,custom
+40.730183,17.579949,ov_il_delfino___flipper___pescheria_braceri_40.7302_17.5799,Il Delfino / Flipper - Pescheria Braceria Friggitoria Ristor,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_delfino_flipper_-_pescheria_braceria__40.7302_17.5799.json,custom
+40.730230,17.579934,ov_american_pizza_40.7302_17.5799,American Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/american_pizza_40.7302_17.5799.json,custom
+40.730220,17.580611,ov_don_chisciotte_40.7302_17.5806,Don Chisciotte,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/don_chisciotte_40.7302_17.5806.json,custom
+40.730511,17.581126,ov_al_cortiletto___vino_birra_ostuni_40.7305_17.5811,Al Cortiletto - Vino&Birra Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/al_cortiletto_-_vinobirra_ostuni_40.7305_17.5811.json,custom
+40.729808,17.579875,ov_priscio_alimentare_40.7298_17.5799,Priscio Alimentare,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/priscio_alimentare_40.7298_17.5799.json,custom
+40.729836,17.579894,ov_ristorante_nautilus_40.7298_17.5799,Ristorante Nautilus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_nautilus_40.7298_17.5799.json,custom
+40.729140,17.580396,ov_pescheria_il_delfino_40.7291_17.5804,Pescheria Il Delfino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pescheria_il_delfino_40.7291_17.5804.json,custom
+40.729339,17.580522,ov_casa_del_formaggio_40.7293_17.5805,Casa del Formaggio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/casa_del_formaggio_40.7293_17.5805.json,custom
+40.729310,17.584720,ov_suavis___brace_e_cucina_40.7293_17.5847,Suavis - Brace e Cucina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/suavis_-_brace_e_cucina_40.7293_17.5847.json,custom
+40.733688,17.589821,ov_il_fienile_40.7337_17.5898,Il Fienile,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_fienile_40.7337_17.5898.json,custom
+40.734110,17.579917,ov_taverna_della_gelosia_40.7341_17.5799,Taverna della Gelosia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/taverna_della_gelosia_40.7341_17.5799.json,custom
+40.734209,17.579625,ov_ristorante_pinzimonio_40.7342_17.5796,Ristorante Pinzimonio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_pinzimonio_40.7342_17.5796.json,custom
+40.734390,17.579542,ov_bellavista_ostuni_ristorante_pizzeria_40.7344_17.5795,Bellavista Ostuni Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bellavista_ostuni_ristorante_pizzeria_40.7344_17.5795.json,custom
+40.734499,17.579305,ov_cielo_40.7345_17.5793,Cielo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/cielo_40.7345_17.5793.json,custom
+40.734614,17.579417,ov_osteria_del_tempo_perso_40.7346_17.5794,Osteria del Tempo Perso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_del_tempo_perso_40.7346_17.5794.json,custom
+40.734885,17.579528,ov_la_terrazza_di_evo__40.7349_17.5795,La Terrazza di Evo',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_terrazza_di_evo_40.7349_17.5795.json,custom
+40.734891,17.578126,ov_abc___apulian_bistrot_40.7349_17.5781,ABC - Apulian Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/abc_-_apulian_bistrot_40.7349_17.5781.json,custom
+40.734617,17.578292,ov_borgo_antico_bistrot_40.7346_17.5783,Borgo Antico Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/borgo_antico_bistrot_40.7346_17.5783.json,custom
+40.733986,17.578307,ov_trattoria_sapere_e_sapori_40.7340_17.5783,Trattoria Sapere E Sapori,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/trattoria_sapere_e_sapori_40.7340_17.5783.json,custom
+40.734211,17.578367,ov_osteria_piazzetta_cattedrale_40.7342_17.5784,Osteria Piazzetta Cattedrale,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_piazzetta_cattedrale_40.7342_17.5784.json,custom
+40.734176,17.577527,ov_spessite_40.7342_17.5775,Spessite,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/spessite_40.7342_17.5775.json,custom
+40.745705,17.623800,ov_agriturismo_masseria_asciano_40.7457_17.6238,Agriturismo Masseria Asciano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/agriturismo_masseria_asciano_40.7457_17.6238.json,custom
+40.716613,17.603135,ov_casale_800_40.7166_17.6031,Casale 800,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/casale_800_40.7166_17.6031.json,custom
+40.709923,17.598754,ov_ristorante_da_gigione_40.7099_17.5988,Ristorante da Gigione,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_da_gigione_40.7099_17.5988.json,custom
+40.715110,17.578440,ov_masseria_san_paolo_grande_40.7151_17.5784,Masseria San Paolo Grande,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/masseria_san_paolo_grande_40.7151_17.5784.json,custom
+40.720520,17.576460,ov_la_tana_dei_golosi_40.7205_17.5765,La Tana Dei Golosi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_tana_dei_golosi_40.7205_17.5765.json,custom
+40.721556,17.574554,ov_papere_e_nuvole_40.7216_17.5746,Papere e Nuvole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/papere_e_nuvole_40.7216_17.5746.json,custom
+40.722133,17.573413,ov_rosa_blu_40.7221_17.5734,Rosa Blu,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/rosa_blu_40.7221_17.5734.json,custom
+40.722590,17.577060,ov_poste_italiane_ostuni_3_40.7226_17.5771,Poste Italiane Ostuni 3,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/poste_italiane_ostuni_3_40.7226_17.5771.json,custom
+40.722685,17.576866,ov_pizzeria_retrogusto_ostuni_40.7227_17.5769,Pizzeria Retrogusto ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_retrogusto_ostuni_40.7227_17.5769.json,custom
+40.722870,17.577610,ov_american_pizza_40.7229_17.5776,American Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/american_pizza_40.7229_17.5776.json,custom
+40.723353,17.578597,ov_noir_ostuni_40.7234_17.5786,Noir Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/noir_ostuni_40.7234_17.5786.json,custom
+40.723290,17.578970,ov_terra_rossa_40.7233_17.5790,Terra Rossa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/terra_rossa_40.7233_17.5790.json,custom
+40.721735,17.579915,ov_farina_32_40.7217_17.5799,Farina 32,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/farina_32_40.7217_17.5799.json,custom
+40.723328,17.579200,ov_l_alimento_e_qualit__da_paolone_40.7233_17.5792,L'Alimento e Qualità da Paolone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lalimento_e_qualit_da_paolone_40.7233_17.5792.json,custom
+40.723070,17.581623,ov_umami___ristorante_giapponese_40.7231_17.5816,Umami - Ristorante giapponese,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/umami_-_ristorante_giapponese_40.7231_17.5816.json,custom
+40.723119,17.582362,ov_la_braceria_40.7231_17.5824,La Braceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_braceria_40.7231_17.5824.json,custom
+40.724400,17.587363,ov_panzerotti___co__40.7244_17.5874,Panzerotti & Co.,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/panzerotti_co_40.7244_17.5874.json,custom
+40.728378,17.580300,ov_fenix_40.7284_17.5803,Fenix,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/fenix_40.7284_17.5803.json,custom
+40.727760,17.579700,ov_la_boutique_del_pollo_40.7278_17.5797,La Boutique del Pollo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_boutique_del_pollo_40.7278_17.5797.json,custom
+40.727380,17.579368,ov_datterino_giallo___pizzeria_40.7274_17.5794,Datterino Giallo - Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/datterino_giallo_-_pizzeria_40.7274_17.5794.json,custom
+40.727351,17.579311,ov_lo_sfizietto_pizzeria_rosticceria_40.7274_17.5793,Lo Sfizietto Pizzeria Rosticceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/lo_sfizietto_pizzeria_rosticceria_40.7274_17.5793.json,custom
+40.726717,17.579900,ov_da_bruno_40.7267_17.5799,Da Bruno,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/da_bruno_40.7267_17.5799.json,custom
+40.726200,17.584924,ov_yasaka_sushi_40.7262_17.5849,Yasaka Sushi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/yasaka_sushi_40.7262_17.5849.json,custom
+40.725590,17.583891,ov_terra_sana_40.7256_17.5839,Terra Sana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/terra_sana_40.7256_17.5839.json,custom
+40.723660,17.581373,ov_mystic_focacceria_40.7237_17.5814,Mystic Focacceria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/mystic_focacceria_40.7237_17.5814.json,custom
+40.725721,17.582993,ov_la_capagira_40.7257_17.5830,La Capagira,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_capagira_40.7257_17.5830.json,custom
+40.725818,17.582141,ov_il_posto_giusto_40.7258_17.5821,Il Posto Giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_posto_giusto_40.7258_17.5821.json,custom
+40.724828,17.578810,ov_la_bruschetta___ristorante_pizzeria_40.7248_17.5788,La Bruschetta - Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_bruschetta_-_ristorante_pizzeria_40.7248_17.5788.json,custom
+40.723843,17.577924,ov_bear_burger_40.7238_17.5779,Bear Burger,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/bear_burger_40.7238_17.5779.json,custom
+40.724237,17.576389,ov_pizzeria_da_roberto_40.7242_17.5764,Pizzeria da Roberto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_da_roberto_40.7242_17.5764.json,custom
+40.726008,17.572322,ov_golosiamo_3_0_40.7260_17.5723,Golosiamo 3.0,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/golosiamo_30_40.7260_17.5723.json,custom
+40.727150,17.573330,ov_il_capriccio_40.7272_17.5733,Il Capriccio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_capriccio_40.7272_17.5733.json,custom
+40.726541,17.576866,ov_muna_restaurant_40.7265_17.5769,Muna Restaurant,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/muna_restaurant_40.7265_17.5769.json,custom
+40.726295,17.577228,ov_golosiamo_food_via_paolo_orlando_40.7263_17.5772,Golosiamo Food via Paolo Orlando,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/golosiamo_food_via_paolo_orlando_40.7263_17.5772.json,custom
+40.726501,17.579129,ov_pizzeria_pucceria_c___pizza_per_te_40.7265_17.5791,Pizzeria Pucceria C'è Pizza per Te,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_pucceria_c_pizza_per_te_40.7265_17.5791.json,custom
+40.727007,17.578392,ov_la_pastasciutta_40.7270_17.5784,La Pastasciutta,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_pastasciutta_40.7270_17.5784.json,custom
+40.727283,17.578051,ov_il_convivio_bistrot_40.7273_17.5781,Il Convivio Bistrot,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_convivio_bistrot_40.7273_17.5781.json,custom
+40.727350,17.575670,ov_pans__ostuni_40.7274_17.5757,Pansà Ostuni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pans_ostuni_40.7274_17.5757.json,custom
+40.728613,17.578752,ov_osteria_da_nonna_ia_40.7286_17.5788,Osteria Da Nonna Ia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_da_nonna_ia_40.7286_17.5788.json,custom
+40.728695,17.578102,ov_osteria_monacelle_40.7287_17.5781,Osteria Monacelle,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/osteria_monacelle_40.7287_17.5781.json,custom
+40.728359,17.576150,ov_il_posto_giusto_40.7284_17.5761,Il Posto Giusto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_posto_giusto_40.7284_17.5761.json,custom
+40.728378,17.576153,ov_la_cantinina_40.7284_17.5762,La Cantinina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_cantinina_40.7284_17.5762.json,custom
+40.727809,17.568350,ov_shine_bar_40.7278_17.5683,Shine Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/shine_bar_40.7278_17.5683.json,custom
+40.726201,17.570650,ov_pizzeria_mister_pomes_40.7262_17.5707,Pizzeria Mister Pomes,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/pizzeria_mister_pomes_40.7262_17.5707.json,custom
+40.726223,17.570547,ov_etr__pizza___sfizi_40.7262_17.5705,Etrè Pizza & Sfizi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/etr_pizza_sfizi_40.7262_17.5705.json,custom
+40.702345,17.510405,ov_trullo_del_moro_40.7023_17.5104,Trullo del Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/trullo_del_moro_40.7023_17.5104.json,custom
+40.706583,17.589651,ov_agriturismo_salinola_40.7066_17.5897,Agriturismo Salinola,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/agriturismo_salinola_40.7066_17.5897.json,custom
+40.703076,17.617530,ov_casa_santo_scalone_40.7031_17.6175,Casa Santo Scalone,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/casa_santo_scalone_40.7031_17.6175.json,custom
+40.724812,17.578838,osm_la_nuova_bruschetta_40.7248_17.5788,La Nuova Bruschetta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/la_nuova_bruschetta_40.7248_17.5788.json,custom
+40.796233,17.563438,osm_white_ostuni_beach_club_40.7962_17.5634,White Ostuni Beach Club,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/white_ostuni_beach_club_40.7962_17.5634.json,custom
+40.733075,17.578671,osm_kidra_pub_40.7331_17.5787,Kidra Pub,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/kidra_pub_40.7331_17.5787.json,custom
+40.734350,17.579677,osm_nudo_e_crudo_fishbar_40.7344_17.5797,Nudo e Crudo Fishbar,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/nudo_e_crudo_fishbar_40.7344_17.5797.json,custom
+40.733765,17.579757,osm_il_posto_affianco_40.7338_17.5798,Il Posto Affianco,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/il_posto_affianco_40.7338_17.5798.json,custom
+40.703750,17.572730,osm_ristorante_nonno_vittorio_40.7038_17.5727,Ristorante Nonno Vittorio,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/ostuni/pages/ristorante_nonno_vittorio_40.7038_17.5727.json,custom
