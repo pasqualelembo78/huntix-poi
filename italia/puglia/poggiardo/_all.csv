@@ -1,7 +1,45 @@
 # lat,lng,id,name,building_type,type
-# Poggiardo — Tutti i POI
+# Poggiardo -- Tutti
 40.052034,18.381311,osm_zenzero_40.0520_18.3813,Zenzero,ristorante,ristorante
 40.060105,18.372597,osm_papale_papale_40.0601_18.3726,Papale Papale,ristorante,ristorante
 40.052312,18.377636,osm_caff__borghese_40.0523_18.3776,Caffè Borghese,ristorante,ristorante
 40.055685,18.377135,osm_lievito_madre_40.0557_18.3771,Lievito Madre,ristorante,ristorante
 40.051310,18.384235,osm_tesoretto_40.0513_18.3842,Tesoretto,ristorante,ristorante
+40.058262,18.374395,ov_ospedale_francesco_pispico_40.0583_18.3744,Ospedale Francesco Pispico,HOSPITAL,hospital
+40.054942,18.374915,ov_rosticceria_i_salentini_40.0549_18.3749,Rosticceria i Salentini,RESTAURANT,ristorante
+40.054085,18.377086,ov_gustodi_40.0541_18.3771,Gustodi,RESTAURANT,ristorante
+40.054171,18.377546,ov_la_piazza_40.0542_18.3775,La Piazza,RESTAURANT,ristorante
+40.053586,18.374539,ov_voglia_di_pizza___poggiardo_40.0536_18.3745,Voglia di Pizza - Poggiardo,RESTAURANT,ristorante
+40.052980,18.378013,ov_takos___ristorante___pizzeria_40.0530_18.3780,Takos - Ristorante | Pizzeria,RESTAURANT,ristorante
+40.052440,18.377685,ov_caff__borghese_40.0524_18.3777,Caffè Borghese,RESTAURANT,ristorante
+40.051920,18.374982,ov_ozium___bistr__e_cocktail_bar_40.0519_18.3750,Ozium - Bistró e Cocktail Bar,RESTAURANT,ristorante
+40.051872,18.375028,ov_lievito_madre_40.0519_18.3750,Lievito Madre,RESTAURANT,ristorante
+40.051910,18.381234,ov_zenzero_hamburgeria_pizzeria_napoletana__40.0519_18.3812,Zenzero Hamburgeria Pizzeria Napoletana Poggiardo,RESTAURANT,ristorante
+40.050314,18.374818,ov_pit_stop_40.0503_18.3748,Pit Stop,RESTAURANT,ristorante
+40.061103,18.372467,ov_oasi_40.0611_18.3725,Oasi,RESTAURANT,ristorante
+40.054125,18.377561,ov_bar_cittadino_40.0541_18.3776,Bar Cittadino,RESTAURANT,bar_cafe
+40.053659,18.375935,ov_caff__bovary_40.0537_18.3759,Caffè Bovary,RESTAURANT,bar_cafe
+40.053887,18.377618,ov_caffe_italia_40.0539_18.3776,Caffe Italia,RESTAURANT,bar_cafe
+40.053232,18.378666,ov_meeting_wine_cafe_40.0532_18.3787,Meeting Wine Cafe,RESTAURANT,bar_cafe
+40.053311,18.375550,ov_tirami_40.0533_18.3756,Tirami,RESTAURANT,bar_cafe
+40.048386,18.388503,ov_sunset_bar_40.0484_18.3885,Sunset BAR,RESTAURANT,bar_cafe
+40.048861,18.385587,ov_energie_40.0489_18.3856,Energie,RESTAURANT,bar_cafe
+40.062178,18.372689,ov_malu_poggiardo_40.0622_18.3727,MALU Poggiardo,RESTAURANT,bar_cafe
+40.064092,18.377810,ov_casbah_caf__40.0641_18.3778,Casbah Cafè,RESTAURANT,bar_cafe
+40.058305,18.374666,ov_bar_moderno_40.0583_18.3747,Bar moderno,RESTAURANT,bar_cafe
+40.056973,18.376941,ov_bargrande_40.0570_18.3769,BarGrande,RESTAURANT,bar_cafe
+40.056884,18.376738,ov_caffe_del_popolo_40.0569_18.3767,Caffe del Popolo,RESTAURANT,bar_cafe
+40.056669,18.376408,ov_la_cisterna_official_40.0567_18.3764,La Cisterna Official,RESTAURANT,bar_cafe
+40.047385,18.387369,osm_baronale_museum_caf__40.0474_18.3874,Baronale Museum Cafè,bar_cafe,bar_cafe
+40.044438,18.360043,ov_billions_games_poggiardo_40.0444_18.3600,Billions Games Poggiardo,GYM,palestra
+40.053458,18.382835,ov_kalimba_studio_dance_40.0535_18.3828,Kalimba Studio Dance,GYM,palestra
+40.053371,18.383082,ov_futura_training_space_40.0534_18.3831,Futura Training Space,GYM,palestra
+40.052056,18.384132,ov_style_fitness_40.0521_18.3841,Style Fitness,GYM,palestra
+40.050775,18.382457,ov_new_life_club_40.0508_18.3825,New Life Club,GYM,palestra
+40.050179,18.374217,ov_scuola_di_ballo_cuban_puglia_40.0502_18.3742,Scuola di Ballo Cuban Puglia,GYM,palestra
+40.050059,18.374564,ov_centro__amrit_40.0501_18.3746,Centro  AMRIT,GYM,palestra
+40.059033,18.375242,ov_scuola_di_danza_relev__40.0590_18.3752,Scuola di danza Relevé,GYM,palestra
+40.054277,18.383333,ov_museo_della_conchiglia_e_del_corallo_40.0543_18.3833,Museo della Conchiglia e del Corallo,MUSEUM,monumento
+40.052685,18.377740,ov_museo_degli_affreschi_della_cripta_di_sa_40.0527_18.3777,Museo degli Affreschi della Cripta di Santa Maria degli Ange,MUSEUM,monumento
+40.047212,18.386830,ov_sistema_museale_vaste_poggiardo_40.0472_18.3868,Sistema Museale Vaste Poggiardo,MUSEUM,monumento
+40.047284,18.387212,ov_museo_archeologico_di_vaste_40.0473_18.3872,Museo Archeologico di Vaste,MUSEUM,monumento

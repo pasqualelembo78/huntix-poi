@@ -1,3 +1,148 @@
 # lat,lng,id,name,building_type,type
-# Conversano — Tutti i POI
+# Conversano -- Tutti
 40.984398,17.107668,osm_masseria_petrullo_40.9844_17.1077,Masseria Petrullo,ristorante,ristorante
+40.965135,17.110643,ov_presidio_territoriale_di_assistenza_flor_40.9651_17.1106,Presidio Territoriale di Assistenza Florenzo Jaja,HOSPITAL,hospital
+40.960621,17.110713,ov_medicol___villa_lucia_40.9606_17.1107,Medicol - Villa Lucia,HOSPITAL,hospital
+40.960534,17.110422,ov_gvm___villa_lucia_hospital_40.9605_17.1104,GVM - Villa Lucia Hospital,HOSPITAL,hospital
+40.889206,17.058200,ov_tari_bio_gourmet_40.8892_17.0582,Tari Bio Gourmet,RESTAURANT,ristorante
+40.902422,17.058295,ov_masseria_gravelle_40.9024_17.0583,Masseria Gravelle,RESTAURANT,ristorante
+40.926099,17.169540,ov_bar_pizzeria_rosticceria_fuego_40.9261_17.1695,Bar Pizzeria Rosticceria FUEGO,RESTAURANT,ristorante
+40.926450,17.158976,ov_masseria_degli_ulivi_40.9264_17.1590,Masseria degli Ulivi,RESTAURANT,ristorante
+40.927383,17.168227,ov_braceria_da_matteo_40.9274_17.1682,Braceria da Matteo,RESTAURANT,ristorante
+40.992022,17.225485,ov_braceria_da_matteo_40.9920_17.2255,Braceria da Matteo,RESTAURANT,ristorante
+41.002068,17.097406,ov_masseria_le_cerase_41.0021_17.0974,Masseria Le Cerase,RESTAURANT,ristorante
+40.975160,17.106318,ov_taku_sushi_40.9752_17.1063,Taku Sushi,RESTAURANT,ristorante
+40.970022,17.108805,ov_akuaba_fusion_experience_40.9700_17.1088,Akuaba Fusion Experience,RESTAURANT,ristorante
+40.969044,17.112893,ov_rampavilla_40.9690_17.1129,Rampavilla,RESTAURANT,ristorante
+40.969026,17.115064,ov_pash__ristorante_e_dimora_40.9690_17.1151,Pashà Ristorante e Dimora,RESTAURANT,ristorante
+40.969023,17.115099,ov_verso_40.9690_17.1151,Verso,RESTAURANT,ristorante
+40.969506,17.110122,ov_mollica_di_pane_40.9695_17.1101,Mollica di Pane,RESTAURANT,ristorante
+40.970843,17.114200,ov_ristorante_pizzeria_novecento_40.9708_17.1142,Ristorante Pizzeria Novecento,RESTAURANT,ristorante
+40.971415,17.114886,ov_banco_40.9714_17.1149,Banco,RESTAURANT,ristorante
+40.970771,17.109270,ov_piacere_rosanna_40.9708_17.1093,Piacere Rosanna,RESTAURANT,ristorante
+40.970516,17.109203,ov_hubu_coffee_and_poke_40.9705_17.1092,Hubu Coffee and Poke,RESTAURANT,ristorante
+40.972700,17.110369,ov_malidea_a_casa_40.9727_17.1104,Malidea a Casa,RESTAURANT,ristorante
+40.969100,17.116165,ov_terra_rossa_40.9691_17.1162,Terra Rossa,RESTAURANT,ristorante
+40.968993,17.115842,ov_pizzeria_terrarossa_40.9690_17.1158,Pizzeria Terrarossa,RESTAURANT,ristorante
+40.968818,17.116959,ov_terrazze_belvedere_40.9688_17.1170,Terrazze Belvedere,RESTAURANT,ristorante
+40.966198,17.116400,ov_pizzaamorefantasia_40.9662_17.1164,Pizzaamorefantasia,RESTAURANT,ristorante
+40.966626,17.116892,ov_marzia_40.9666_17.1169,Marzia,RESTAURANT,ristorante
+40.967386,17.116913,ov_focacceria_barese__il_torrione_40.9674_17.1169,Focacceria Barese  Il torrione,RESTAURANT,ristorante
+40.967584,17.115791,ov_ristorante_o_reng_40.9676_17.1158,Ristorante O'Reng,RESTAURANT,ristorante
+40.967623,17.116158,ov_vita_pugliese_40.9676_17.1162,Vita Pugliese,RESTAURANT,ristorante
+40.968023,17.115602,ov_la_casa_di_toto_40.9680_17.1156,La Casa Di Toto,RESTAURANT,ristorante
+40.967847,17.117536,ov_il_bugigattolo_40.9678_17.1175,Il Bugigattolo,RESTAURANT,ristorante
+40.968379,17.115875,ov_il_giullare_40.9684_17.1159,Il Giullare,RESTAURANT,ristorante
+40.968694,17.114961,ov_panzeria_panzerotteria_gourmet_pizzeria__40.9687_17.1150,Panzeria Panzerotteria Gourmet Pizzeria e Birreria,RESTAURANT,ristorante
+40.968702,17.114157,ov_goffredo_ristorante_40.9687_17.1142,Goffredo Ristorante,RESTAURANT,ristorante
+40.967738,17.114699,ov_mac_gourmet_40.9677_17.1147,Mac&Gourmet,RESTAURANT,ristorante
+40.967518,17.113417,ov_panzeromper__by_arlecchino_40.9675_17.1134,Panzeromperà by Arlecchino,RESTAURANT,ristorante
+40.967175,17.105605,ov_sapore_perfetto_40.9672_17.1056,Sapore Perfetto,RESTAURANT,ristorante
+40.967221,17.105631,ov_spisso_pizza_chef_40.9672_17.1056,Spisso Pizza Chef,RESTAURANT,ristorante
+40.966924,17.112088,ov_don_carlo_40.9669_17.1121,Don Carlo,RESTAURANT,ristorante
+40.966792,17.114863,ov_la_focaccina_40.9668_17.1149,la Focaccina,RESTAURANT,ristorante
+40.966552,17.114095,ov_creperia_il_principe_40.9666_17.1141,Creperia Il Principe,RESTAURANT,ristorante
+40.966249,17.112785,ov_acquolina_in_bocca_40.9662_17.1128,Acquolina in Bocca,RESTAURANT,ristorante
+40.966397,17.114358,ov_tie_osteria_gintoneria_40.9664_17.1144,Tie Osteria Gintoneria,RESTAURANT,ristorante
+40.966005,17.113371,ov_sfizi___la_cucina_di_casa_40.9660_17.1134,Sfizi - La cucina di casa,RESTAURANT,ristorante
+40.963587,17.107761,ov_nettisd_40.9636_17.1078,NettisD,RESTAURANT,ristorante
+40.964785,17.109641,ov_polleria_jolly_40.9648_17.1096,Polleria Jolly,RESTAURANT,ristorante
+40.964528,17.116470,ov_pizza_amore___e_fantasia_40.9645_17.1165,Pizza amore...e fantasia,RESTAURANT,ristorante
+40.965820,17.115644,ov_la_vecchia_taverna_mordi___fuggi_40.9658_17.1156,La Vecchia Taverna Mordi & Fuggi,RESTAURANT,ristorante
+40.965789,17.120137,ov_la_taverna_dei_duellanti_40.9658_17.1201,La Taverna dei Duellanti,RESTAURANT,ristorante
+40.962311,17.122437,ov_liuzzi_latticini_40.9623_17.1224,Liuzzi Latticini,RESTAURANT,ristorante
+40.962398,17.117328,ov_rosty_pizza_40.9624_17.1173,Rosty Pizza,RESTAURANT,ristorante
+40.962583,17.117757,ov_da_massimo_40.9626_17.1178,Da Massimo,RESTAURANT,ristorante
+40.961734,17.120512,ov_dama_pizzeria_e_ristorante_40.9617_17.1205,Dama Pizzeria e Ristorante,RESTAURANT,ristorante
+40.961780,17.117620,ov_foralle___il_senza_glutine_per_tutti_40.9618_17.1176,ForAlle - Il senza glutine per tutti,RESTAURANT,ristorante
+40.959764,17.119659,ov_la_brace_40.9598_17.1197,La Brace,RESTAURANT,ristorante
+40.960707,17.120114,ov_sav__40.9607_17.1201,Savì,RESTAURANT,ristorante
+40.960790,17.120438,ov_39_ristorante_40.9608_17.1204,39 Ristorante,RESTAURANT,ristorante
+40.960753,17.121179,ov_sapore_perfetto_40.9608_17.1212,Sapore Perfetto,RESTAURANT,ristorante
+40.960852,17.120370,ov_piutrentanove_italian_restaurant_40.9609_17.1204,PiuTrentanove Italian Restaurant,RESTAURANT,ristorante
+40.960578,17.114298,ov_royal_pizza_40.9606_17.1143,Royal Pizza,RESTAURANT,ristorante
+40.958978,17.109221,ov_anima_e_core_40.9590_17.1092,Anima e Core,RESTAURANT,ristorante
+40.959982,17.108935,ov_panzerottiamo_conversano_40.9600_17.1089,Panzerottiamo Conversano,RESTAURANT,ristorante
+40.960759,17.108697,ov_fuoco_e_passione_40.9608_17.1087,fuoco e passione,RESTAURANT,ristorante
+40.961319,17.109052,ov_pizzeria_dalis___pizza___wine_conversano_40.9613_17.1091,Pizzeria Dalis - Pizza & Wine Conversano,RESTAURANT,ristorante
+40.961297,17.108796,ov_amar__40.9613_17.1088,Amarè,RESTAURANT,ristorante
+40.961494,17.109687,ov_ristorante_creperia_gradisca_40.9615_17.1097,Ristorante Creperia Gradisca,RESTAURANT,ristorante
+40.961862,17.111751,ov_proteina_rossa_40.9619_17.1118,Proteina Rossa,RESTAURANT,ristorante
+40.962506,17.109601,ov_arte_in_pizza_40.9625_17.1096,Arte in Pizza,RESTAURANT,ristorante
+40.962297,17.111137,ov_il_pomodorino_40.9623_17.1111,Il Pomodorino,RESTAURANT,ristorante
+40.963034,17.109479,ov_la_crepe_40.9630_17.1095,La Crepe,RESTAURANT,ristorante
+40.963563,17.106931,ov_conte_40.9636_17.1069,Conte,RESTAURANT,ristorante
+40.974018,17.076335,ov_masseria_de_bellis_40.9740_17.0763,Masseria De Bellis,RESTAURANT,ristorante
+40.974453,17.076736,ov_agriturismo_masseria_alberotanza___hospi_40.9745_17.0767,Agriturismo Masseria Alberotanza - Hospitality & Events in P,RESTAURANT,ristorante
+40.958172,17.113317,ov_a_casa_di_prometeo_40.9582_17.1133,A Casa di Prometeo,RESTAURANT,ristorante
+40.926632,17.169279,ov_birreria_birranova_40.9266_17.1693,Birreria Birranova,RESTAURANT,bar_cafe
+40.931181,17.169574,ov_street_120_bar___food_tabacchi_40.9312_17.1696,Street 120 Bar & Food Tabacchi,RESTAURANT,bar_cafe
+40.969413,17.107272,ov_punto_bar_40.9694_17.1073,Punto Bar,RESTAURANT,bar_cafe
+40.969082,17.108189,ov_bar_flowers_40.9691_17.1082,Bar Flowers,RESTAURANT,bar_cafe
+40.969297,17.111180,ov_la_piazzetta_40.9693_17.1112,La Piazzetta,RESTAURANT,bar_cafe
+40.969330,17.111226,ov_antica_caffetteria_norba_40.9693_17.1112,Antica caffetteria norba,RESTAURANT,bar_cafe
+40.969480,17.111090,ov_rani__40.9695_17.1111,Raniè,RESTAURANT,bar_cafe
+40.970390,17.112994,ov_caff__dell_isola_40.9704_17.1130,Caffè dell'Isola,RESTAURANT,bar_cafe
+40.970930,17.114300,ov_double_p_boxe_conversano_40.9709_17.1143,Double.P Boxe Conversano,RESTAURANT,bar_cafe
+40.972525,17.109704,ov_muccino_bar_40.9725_17.1097,Muccino Bar,RESTAURANT,bar_cafe
+40.972140,17.109998,ov_dream_cafe_40.9721_17.1100,Dream Cafe,RESTAURANT,bar_cafe
+40.969717,17.115430,ov_caldodentro_40.9697_17.1154,Caldodentro,RESTAURANT,bar_cafe
+40.967060,17.117140,ov_torre_in_fiore_bar_tabacchi_40.9671_17.1171,Torre in Fiore Bar Tabacchi,RESTAURANT,bar_cafe
+40.967480,17.117380,ov_bamboo_40.9675_17.1174,Bamboo,RESTAURANT,bar_cafe
+40.968006,17.115973,ov_7000_caff__40.9680_17.1160,7000 Caffè,RESTAURANT,bar_cafe
+40.968747,17.117247,ov_altracasa_vino_40.9687_17.1172,Altracasa vino,RESTAURANT,bar_cafe
+40.968286,17.115901,ov_lie___not_the_truth_40.9683_17.1159,LIE - Not the Truth,RESTAURANT,bar_cafe
+40.968701,17.115023,ov_raf_bar_40.9687_17.1150,Raf Bar,RESTAURANT,bar_cafe
+40.966225,17.104097,ov_nanu_23_40.9662_17.1041,Nanu 23,RESTAURANT,bar_cafe
+40.966831,17.109461,ov_mail_caf__40.9668_17.1095,Mail Cafè,RESTAURANT,bar_cafe
+40.967178,17.113849,ov_l_oblio_40.9672_17.1138,L'Oblio,RESTAURANT,bar_cafe
+40.967014,17.113971,ov_iu__40.9670_17.1140,IU$,RESTAURANT,bar_cafe
+40.966977,17.115130,ov_ichos_pub_40.9670_17.1151,Ichos Pub,RESTAURANT,bar_cafe
+40.966711,17.115045,ov_a_due_passi_40.9667_17.1150,A Due Passi,RESTAURANT,bar_cafe
+40.966835,17.114612,ov_caffe_dell_incontro_40.9668_17.1146,Caffe Dell'Incontro,RESTAURANT,bar_cafe
+40.966150,17.114152,ov_pausa_cafe_conversano_40.9661_17.1142,Pausa Cafe Conversano,RESTAURANT,bar_cafe
+40.965803,17.114485,ov_spikkio_bar_40.9658_17.1145,Spikkio bar,RESTAURANT,bar_cafe
+40.965246,17.111844,ov_caf__du_monde_40.9652_17.1118,Cafè du Monde,RESTAURANT,bar_cafe
+40.965731,17.109987,ov_sweet_caffe_gelateria_40.9657_17.1100,Sweet Caffe Gelateria,RESTAURANT,bar_cafe
+40.965706,17.111747,ov_caffetteria_italia_40.9657_17.1117,Caffetteria Italia,RESTAURANT,bar_cafe
+40.963618,17.107134,ov_imperial_cafe_40.9636_17.1071,Imperial Cafe,RESTAURANT,bar_cafe
+40.964690,17.113340,ov_imperial_caf__40.9647_17.1133,Imperial Cafè,RESTAURANT,bar_cafe
+40.965780,17.116035,ov_bar_caffetteria_del_teatro_40.9658_17.1160,Bar Caffetteria del Teatro,RESTAURANT,bar_cafe
+40.966128,17.115866,ov_bar_golden_pasticceria_dolci_di_mandorie_40.9661_17.1159,Bar Golden Pasticceria Dolci Di Mandorie,RESTAURANT,bar_cafe
+40.966178,17.116171,ov_drink___panini_40.9662_17.1162,Drink & Panini,RESTAURANT,bar_cafe
+40.966180,17.116470,ov_flower_s_bar_40.9662_17.1165,Flower's Bar,RESTAURANT,bar_cafe
+40.966180,17.116470,ov_vicinato_conversano_40.9662_17.1165,Vicinato Conversano,RESTAURANT,bar_cafe
+40.966190,17.116480,ov_g_lami_italia_40.9662_17.1165,Gèlami Italia,RESTAURANT,bar_cafe
+40.963563,17.120998,ov_avorio_nero_40.9636_17.1210,Avorio Nero,RESTAURANT,bar_cafe
+40.962304,17.118167,ov_frullo_40.9623_17.1182,Frullo,RESTAURANT,bar_cafe
+40.961904,17.120409,ov_meet_food___people_40.9619_17.1204,Meet Food & People,RESTAURANT,bar_cafe
+40.960605,17.119834,ov_truth___mixology___kitchen_40.9606_17.1198,Truth - Mixology & Kitchen,RESTAURANT,bar_cafe
+40.960946,17.120582,ov_caffe_mediterraneo_40.9609_17.1206,Caffe Mediterraneo,RESTAURANT,bar_cafe
+40.959576,17.110301,ov_codice_a_bar_40.9596_17.1103,Codice a bar,RESTAURANT,bar_cafe
+40.961230,17.112909,ov_caf__bigben_muccino_40.9612_17.1129,Cafè BigBen Muccino,RESTAURANT,bar_cafe
+40.962069,17.114438,ov_elen_bar_40.9621_17.1144,Elen Bar,RESTAURANT,bar_cafe
+40.969140,17.113027,osm_rampavilla_40.9691_17.1130,RampaVilla,bar_cafe,bar_cafe
+40.924633,17.167984,ov_centro_tecnico_della_subacquea_40.9246_17.1680,Centro Tecnico Della Subacquea,GYM,palestra
+40.969058,17.106056,ov_melody_dance_academy_40.9691_17.1061,Melody Dance Academy,GYM,palestra
+40.971063,17.113563,ov_nuova_era___scuola_di_ballo_conversano_40.9711_17.1136,Nuova Era - Scuola Di ballo Conversano,GYM,palestra
+40.971185,17.113474,ov_los_angeles_school_40.9712_17.1135,Los Angeles School,GYM,palestra
+40.973095,17.105494,ov_club_2000_40.9731_17.1055,Club 2000,GYM,palestra
+40.972371,17.109838,ov_sangha__yoga_e_discipline_olistiche_40.9724_17.1098,"Sangha, yoga e discipline olistiche",GYM,palestra
+40.970598,17.115447,ov_centro_sportivo_crescamus_40.9706_17.1154,Centro Sportivo Crescamus,GYM,palestra
+40.966350,17.121920,ov_airon_40.9663_17.1219,Airon,GYM,palestra
+40.967606,17.106922,ov_imperial_gym_40.9676_17.1069,Imperial Gym,GYM,palestra
+40.966684,17.107591,ov_ahi_nama_danze_ballo_e_fitness_40.9667_17.1076,Ahi Nama Danze Ballo e Fitness,GYM,palestra
+40.963960,17.116904,ov_in_movimento_fitness_club_40.9640_17.1169,In Movimento Fitness Club,GYM,palestra
+40.966180,17.116470,ov_asd_circolo_ippico_dei_sannaci_40.9662_17.1165,ASD Circolo Ippico dei Sannaci,GYM,palestra
+40.961513,17.121374,ov_palasport_san_giacomo_40.9615_17.1214,PalaSport San Giacomo,GYM,palestra
+40.959943,17.113049,ov_petite_etoile_40.9599_17.1130,Petite Etoile,GYM,palestra
+40.960059,17.113059,ov_emotions_atelier_40.9601_17.1131,Emotions Atelier,GYM,palestra
+40.963239,17.111091,ov_cyclon_lab_40.9632_17.1111,Cyclon Lab,GYM,palestra
+40.963227,17.111142,ov_asd_centro_iyengar_yoga_samasthiti_40.9632_17.1111,ASD Centro Iyengar Yoga Samasthiti,GYM,palestra
+40.968842,17.114997,ov_castello_di_conversano_40.9688_17.1150,Castello di Conversano,MUSEUM,monumento
+40.969002,17.115441,ov_museco___musei_in_conversano_40.9690_17.1154,Museco - Musei in Conversano,MUSEUM,monumento
+40.966573,17.124038,ov_labottega___laboratorio_urbano_conversan_40.9666_17.1240,LABottega - Laboratorio Urbano Conversano,MUSEUM,monumento
+40.967841,17.115940,ov_mura_megalitiche_di_conversano_40.9678_17.1159,Mura megalitiche di Conversano,MUSEUM,monumento
+40.967928,17.115315,ov_museo_civico_archeologico_di_conversano_40.9679_17.1153,Museo Civico Archeologico di Conversano,MUSEUM,monumento
+40.967701,17.115136,ov_chiostro_san_benedetto_40.9677_17.1151,Chiostro san Benedetto,MONUMENT,monumento
+40.966180,17.116470,ov_mumaf___museo_della_marineria_e_dei_fari_40.9662_17.1165,MUMAF - Museo della Marineria e dei Fari,MUSEUM,monumento

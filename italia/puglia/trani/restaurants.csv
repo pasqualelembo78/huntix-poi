@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Trani — restaurants
+# trani -- restaurants
 41.272740,16.429450,osm_il_patriarca_41.2727_16.4294,Il Patriarca,ristorante,ristorante
 41.256491,16.457399,osm_ristorante_pizzeria_pulcinella_41.2565_16.4574,Ristorante Pizzeria Pulcinella,ristorante,ristorante
 41.277446,16.419227,osm_tine_drink_and_food_41.2774_16.4192,Tine drink and food,ristorante,ristorante
@@ -11,3 +11,221 @@
 41.277827,16.420423,osm_pechef_41.2778_16.4204,Pechef,ristorante,ristorante
 41.254336,16.460154,osm_quinto_quarto_41.2543_16.4602,Quinto Quarto,ristorante,ristorante
 41.277606,16.419231,osm_all_ombra_di_trani_41.2776_16.4192,All'Ombra di Trani,ristorante,ristorante
+41.259383,16.427005,ov_home_restaurant_da_stefania_41.2594_16.4270,Home Restaurant da Stefania,RESTAURANT,ristorante
+41.260004,16.432417,ov_kayuba_41.2600_16.4324,Kayuba,RESTAURANT,ristorante
+41.263799,16.437992,ov_pronto_a_tavola___cibo_e_brace_41.2638_16.4380,Pronto A Tavola - Cibo e Brace,RESTAURANT,ristorante
+41.264709,16.441085,ov_ervin_caf____bar_ristorante___pizzeria___41.2647_16.4411,Ervin Café - Bar Ristorante & Pizzeria - Trani,RESTAURANT,ristorante
+41.264914,16.438410,ov_taurus_13___ristorante_di_carne_41.2649_16.4384,Taurus 13 - Ristorante di Carne,RESTAURANT,ristorante
+41.265265,16.431517,ov_des_garcons_41.2653_16.4315,Des Garcons,RESTAURANT,ristorante
+41.266995,16.420420,ov_lievitum_41.2670_16.4204,Lievitum,RESTAURANT,ristorante
+41.266704,16.431787,ov_matahambre_41.2667_16.4318,Matahambre,RESTAURANT,ristorante
+41.266511,16.435576,ov_trani_a_go_go_41.2665_16.4356,Trani a Go-Go,RESTAURANT,ristorante
+41.266619,16.433683,ov_pizzeria_la_torre_41.2666_16.4337,Pizzeria La Torre,RESTAURANT,ristorante
+41.265470,16.436324,ov_pizzeria_da_nicola_41.2655_16.4363,Pizzeria da Nicola,RESTAURANT,ristorante
+41.256668,16.457434,ov_pizzeria_pulcinella_trani_41.2567_16.4574,Pizzeria Pulcinella Trani,RESTAURANT,ristorante
+41.253225,16.464553,ov_vigna_caracciolo_41.2532_16.4646,Vigna Caracciolo,RESTAURANT,ristorante
+41.253501,16.461590,ov_cinque_sensi_41.2535_16.4616,Cinque Sensi,RESTAURANT,ristorante
+41.254180,16.461950,ov_villa_alea_41.2542_16.4620,Villa Alea,RESTAURANT,ristorante
+41.254817,16.460127,ov_quinto_quarto_41.2548_16.4601,Quinto Quarto,RESTAURANT,ristorante
+41.246548,16.412278,ov_san_judas___pizza_e_bolle_41.2465_16.4123,San Judas - Pizza e Bolle,RESTAURANT,ristorante
+41.249208,16.426609,ov_pizza___vino_puglia_41.2492_16.4266,Pizza & Vino Puglia,RESTAURANT,ristorante
+41.249572,16.427115,ov_l_r__restaurant_41.2496_16.4271,L.R. Restaurant,RESTAURANT,ristorante
+41.240846,16.487468,ov_caff__italiano_41.2408_16.4875,Caffè Italiano,RESTAURANT,ristorante
+41.232799,16.439784,ov_tenuta_lama_gorga_41.2328_16.4398,Tenuta Lama Gorga,RESTAURANT,ristorante
+41.192247,16.417778,ov_ristorante_sala_ricevimenti_holiday___tr_41.1922_16.4178,Ristorante Sala Ricevimenti Holiday - Trani,RESTAURANT,ristorante
+41.304623,16.267351,ov_il_cucu_41.3046_16.2674,Il Cucu,RESTAURANT,ristorante
+41.305205,16.317628,ov_tennis_bistr__41.3052_16.3176,Tennis Bistrò,RESTAURANT,ristorante
+41.284502,16.398051,ov_pescheria_porto_di_mare_41.2845_16.3981,Pescheria Porto Di Mare,RESTAURANT,ristorante
+41.281240,16.408340,ov_food___more_41.2812_16.4083,Food & More,RESTAURANT,ristorante
+41.280491,16.410166,ov_a_tutta_pizza_41.2805_16.4102,A Tutta Pizza,RESTAURANT,ristorante
+41.279899,16.409204,ov_alex_pizza_41.2799_16.4092,Alex pizza,RESTAURANT,ristorante
+41.281114,16.411005,ov_la_barriera_41.2811_16.4110,La Barriera,RESTAURANT,ristorante
+41.279792,16.412126,ov_santoro_bongustai_di_famiglia_dal_1974_41.2798_16.4121,Santoro Bongustai di famiglia dal 1974,RESTAURANT,ristorante
+41.276634,16.412130,ov_pizzeria_ciccibacco_trani_41.2766_16.4121,Pizzeria CicciBacco Trani,RESTAURANT,ristorante
+41.278002,16.409776,ov_burger_king_41.2780_16.4098,Burger King,RESTAURANT,ristorante
+41.278245,16.409241,ov_fior_di_pizza_41.2782_16.4092,Fior di Pizza,RESTAURANT,ristorante
+41.278381,16.409312,ov_stef_41.2784_16.4093,STEF,RESTAURANT,ristorante
+41.279031,16.406530,ov_jambo_pizza_41.2790_16.4065,Jambo Pizza,RESTAURANT,ristorante
+41.275568,16.405554,ov_kobe_gastronomia_41.2756_16.4056,Kobe Gastronomia,RESTAURANT,ristorante
+41.276449,16.401808,ov_bar_caffetteria_gaudi_41.2764_16.4018,Bar Caffetteria Gaudi,RESTAURANT,ristorante
+41.272668,16.404168,ov_mcdonald_s_41.2727_16.4042,McDonald's,RESTAURANT,ristorante
+41.272311,16.409349,ov_il_cantuccio_41.2723_16.4093,IL Cantuccio,RESTAURANT,ristorante
+41.268102,16.420293,ov_il_ritrovo_da_christian_41.2681_16.4203,Il Ritrovo da Christian,RESTAURANT,ristorante
+41.273317,16.418362,ov_yummy_sushi_41.2733_16.4184,Yummy Sushi,RESTAURANT,ristorante
+41.271707,16.420418,ov_gemiti_vito_41.2717_16.4204,Gemiti Vito,RESTAURANT,ristorante
+41.273228,16.420412,ov_pizzeria_bovio_41.2732_16.4204,Pizzeria Bovio,RESTAURANT,ristorante
+41.273514,16.418705,ov_pizzeria_cavour_41.2735_16.4187,Pizzeria Cavour,RESTAURANT,ristorante
+41.274924,16.418050,ov_roadhouse_restaurant_41.2749_16.4181,Roadhouse Restaurant,RESTAURANT,ristorante
+41.273405,16.417842,ov_la_giara_41.2734_16.4178,La Giara,RESTAURANT,ristorante
+41.276962,16.413986,ov_la_pazzeria_41.2770_16.4140,La Pazzeria,RESTAURANT,ristorante
+41.277968,16.414649,ov_moselli_restaurant_41.2780_16.4146,Moselli Restaurant,RESTAURANT,ristorante
+41.277965,16.414637,ov_quintessenza_41.2780_16.4146,Quintessenza,RESTAURANT,ristorante
+41.277343,16.416013,ov_salumeria_di_lernia_pietro_41.2773_16.4160,Salumeria Di Lernia Pietro,RESTAURANT,ristorante
+41.279182,16.416049,ov_la_locanda_del_giullare__il_ristorarte_41.2792_16.4160,La Locanda del Giullare. Il RistorArte,RESTAURANT,ristorante
+41.278383,16.414567,ov_focacceria_l_arena_41.2784_16.4146,Focacceria L'Arena,RESTAURANT,ristorante
+41.277882,16.413212,ov_da_carlett_41.2779_16.4132,Da Carlett,RESTAURANT,ristorante
+41.280098,16.413442,ov_osteria_la_cisterna_41.2801_16.4134,Osteria La Cisterna,RESTAURANT,ristorante
+41.280422,16.413158,ov_san_ciriaco_41.2804_16.4132,San Ciriaco,RESTAURANT,ristorante
+41.280269,16.412691,ov_osteria_frangipane_41.2803_16.4127,Osteria Frangipane,RESTAURANT,ristorante
+41.281199,16.414884,ov_l_isola_di_galusenia_41.2812_16.4149,L'isola di Galusenia,RESTAURANT,ristorante
+41.281712,16.416380,ov_pizzachef_angelo_davide_consiglio_41.2817_16.4164,Pizzachef Angelo Davide Consiglio,RESTAURANT,ristorante
+41.280580,16.415437,ov_san_giovanni_41.2806_16.4154,San Giovanni,RESTAURANT,ristorante
+41.279207,16.414428,ov_m_m__masseria_urbana_41.2792_16.4144,Mómó Masseria Urbana,RESTAURANT,ristorante
+41.279775,16.415928,ov_ristorante_taverna_portanova_41.2798_16.4159,Ristorante Taverna Portanova,RESTAURANT,ristorante
+41.279361,16.416306,ov_osteria_ferro_e_fuoco_41.2794_16.4163,Osteria Ferro e Fuoco,RESTAURANT,ristorante
+41.279248,16.416412,ov_momopizzeria_41.2792_16.4164,Momopizzeria,RESTAURANT,ristorante
+41.279251,16.416503,ov_ristorante_oasi_marina_41.2793_16.4165,Ristorante Oasi Marina,RESTAURANT,ristorante
+41.279229,16.416674,ov_il_gatto_e_la_volpe_41.2792_16.4167,Il Gatto e la Volpe,RESTAURANT,ristorante
+41.280000,16.417029,ov_pizzeria_la_sinagoga_41.2800_16.4170,Pizzeria La Sinagoga,RESTAURANT,ristorante
+41.279311,16.418027,ov_la_giudea_41.2793_16.4180,La Giudea,RESTAURANT,ristorante
+41.280774,16.416796,ov_beltrani29_ristorante_41.2808_16.4168,Beltrani29 Ristorante,RESTAURANT,ristorante
+41.281377,16.418083,ov_carmelita_bistrot_41.2814_16.4181,Carmelita Bistrot,RESTAURANT,ristorante
+41.281516,16.418050,ov_re_artu_41.2815_16.4181,Re Artu,RESTAURANT,ristorante
+41.281521,16.418116,ov_elcohiba_trani_41.2815_16.4181,Elcohiba Trani,RESTAURANT,ristorante
+41.281424,16.418136,ov_cottura_media_41.2814_16.4181,Cottura Media,RESTAURANT,ristorante
+41.281431,16.418192,ov_pizzeria_osteria_buca_navarra_41.2814_16.4182,Pizzeria Osteria Buca Navarra,RESTAURANT,ristorante
+41.281481,16.418483,ov_osteria_caccianferno_41.2815_16.4185,Osteria Caccianferno,RESTAURANT,ristorante
+41.280480,16.418730,ov_trani___ristorante_borgo_antico_41.2805_16.4187,Trani - Ristorante Borgo Antico,RESTAURANT,ristorante
+41.280563,16.418616,ov_osteria_frangipane_41.2806_16.4186,Osteria Frangipane,RESTAURANT,ristorante
+41.280376,16.418774,ov_il_pep__41.2804_16.4188,Il Pepè,RESTAURANT,ristorante
+41.280438,16.419162,ov_antiche_arcate_41.2804_16.4192,Antiche Arcate,RESTAURANT,ristorante
+41.280529,16.419376,ov_toyo_41.2805_16.4194,Toyo,RESTAURANT,ristorante
+41.279848,16.418611,ov_ristorante_corteinfiore_41.2798_16.4186,Ristorante Corteinfiore,RESTAURANT,ristorante
+41.279450,16.418904,ov_osteria_la_perla_del_sud_41.2794_16.4189,Osteria La Perla del Sud,RESTAURANT,ristorante
+41.279209,16.418872,ov_riso_patate_e_cozze_41.2792_16.4189,Riso Patate e Cozze,RESTAURANT,ristorante
+41.279230,16.418922,ov_la_banchina_41.2792_16.4189,La Banchina,RESTAURANT,ristorante
+41.279526,16.419167,ov_ognissantino_41.2795_16.4192,Ognissantino,RESTAURANT,ristorante
+41.277980,16.420197,ov_gallo_restaurant_41.2780_16.4202,Gallo Restaurant,RESTAURANT,ristorante
+41.277777,16.420313,ov_locanda_trani_41.2778_16.4203,Locanda Trani,RESTAURANT,ristorante
+41.277811,16.420284,ov_peschef_41.2778_16.4203,Peschef,RESTAURANT,ristorante
+41.277537,16.420258,ov_la_bodeguita_41.2775_16.4203,La Bodeguita,RESTAURANT,ristorante
+41.277687,16.420016,ov_ristorante_liguori_di_scrimieri_deborah__41.2777_16.4200,Ristorante Liguori di Scrimieri Deborah & C. SAS,RESTAURANT,ristorante
+41.277272,16.419944,ov_scugniz_41.2773_16.4199,Scugniz,RESTAURANT,ristorante
+41.277390,16.419707,ov_carpediem_pizzeria_braceria_41.2774_16.4197,Carpediem pizzeria braceria,RESTAURANT,ristorante
+41.278080,16.419869,ov_amadeus_trani_41.2781_16.4199,Amadeus Trani,RESTAURANT,ristorante
+41.278088,16.419973,ov_l_altro_molo_41.2781_16.4200,L'Altro Molo,RESTAURANT,ristorante
+41.278138,16.419895,ov_mania_di_pizza_41.2781_16.4199,Mania Di Pizza,RESTAURANT,ristorante
+41.278211,16.419601,ov_pelledoca_restaurant_41.2782_16.4196,Pelledoca restaurant,RESTAURANT,ristorante
+41.277929,16.418990,ov_trattoria_da_rosetta_41.2779_16.4190,Trattoria da Rosetta,RESTAURANT,ristorante
+41.277899,16.419335,ov_taverna_dei_suoni_41.2779_16.4193,Taverna Dei Suoni,RESTAURANT,ristorante
+41.277420,16.419377,ov_memento_ristorante_41.2774_16.4194,Memento Ristorante,RESTAURANT,ristorante
+41.278522,16.419048,ov_ristorante_rosa_dei_venti_41.2785_16.4190,Ristorante Rosa dei Venti,RESTAURANT,ristorante
+41.278757,16.419095,ov_al_porto_osteria_pizzeria_41.2788_16.4191,Al Porto Osteria Pizzeria,RESTAURANT,ristorante
+41.278757,16.419267,ov_rampa_la_conca_41.2788_16.4193,Rampa la Conca,RESTAURANT,ristorante
+41.279036,16.419025,ov_acqua_e_farina_41.2790_16.4190,Acqua e Farina,RESTAURANT,ristorante
+41.279091,16.418976,ov_gianri_restaurant_41.2791_16.4190,GianRi Restaurant,RESTAURANT,ristorante
+41.277957,16.416462,ov_pizzeria_il_grottino_41.2780_16.4165,Pizzeria Il Grottino,RESTAURANT,ristorante
+41.277574,16.416855,ov_ogni_volta_41.2776_16.4169,Ogni Volta,RESTAURANT,ristorante
+41.277431,16.416777,ov_ilgrottinoxxl_41.2774_16.4168,ilgrottinoxxl,RESTAURANT,ristorante
+41.277495,16.417068,ov_agriturismo_il_pastore_41.2775_16.4171,Agriturismo Il Pastore,RESTAURANT,ristorante
+41.277500,16.417767,ov_trani_41.2775_16.4178,Trani,RESTAURANT,ristorante
+41.277292,16.418227,ov_trattoria_la_casalinga_41.2773_16.4182,Trattoria La Casalinga,RESTAURANT,ristorante
+41.277260,16.418355,ov_ristorante_fefino_cucina_naturale_a_tran_41.2773_16.4184,Ristorante Fefino Cucina Naturale a Trani,RESTAURANT,ristorante
+41.276543,16.418190,ov_pizzeria_le_muraglie_41.2765_16.4182,Pizzeria Le Muraglie,RESTAURANT,ristorante
+41.277100,16.417238,ov_altemura_41.2771_16.4172,Altemura,RESTAURANT,ristorante
+41.276858,16.417348,ov_aswine_trani_41.2769_16.4173,AsWine Trani,RESTAURANT,ristorante
+41.277170,16.417111,ov_braceria_i_piaceri_della_carne_41.2772_16.4171,Braceria I Piaceri della Carne,RESTAURANT,ristorante
+41.277135,16.416395,ov_donna_rosa_41.2771_16.4164,Donna Rosa,RESTAURANT,ristorante
+41.276748,16.416993,ov_pizzeria_in_41.2767_16.4170,Pizzeria In,RESTAURANT,ristorante
+41.276698,16.416999,ov_specialita_panzerotto_fritto_41.2767_16.4170,Specialita Panzerotto Fritto,RESTAURANT,ristorante
+41.275750,16.417292,ov_pescheria_raffaele_41.2757_16.4173,Pescheria Raffaele,RESTAURANT,ristorante
+41.275345,16.417915,ov_pizzhub_41.2753_16.4179,Pizzhub,RESTAURANT,ristorante
+41.275521,16.419134,ov_pizzaart_41.2755_16.4191,PizzaArt,RESTAURANT,ristorante
+41.275902,16.419458,ov_casal_de__pazzi_41.2759_16.4195,Casal de' pazzi,RESTAURANT,ristorante
+41.276211,16.418659,ov_street_burger_41.2762_16.4187,Street Burger,RESTAURANT,ristorante
+41.276192,16.418542,ov_el_palenque_41.2762_16.4185,El Palenque,RESTAURANT,ristorante
+41.276844,16.419114,ov_sopra_alla_nonna___pasta_fresca_take_awa_41.2768_16.4191,Sopra Alla Nonna - Pasta Fresca Take Away,RESTAURANT,ristorante
+41.277010,16.419210,ov_ti_griglio_tua_madre_41.2770_16.4192,Ti griglio tua madre,RESTAURANT,ristorante
+41.276901,16.419681,ov_no_difference_trani_41.2769_16.4197,No Difference Trani,RESTAURANT,ristorante
+41.277125,16.419919,ov_focolare_bistrot_41.2771_16.4199,Focolare Bistrot,RESTAURANT,ristorante
+41.276995,16.419942,ov_osteria_la_pentolaccia_41.2770_16.4199,Osteria La Pentolaccia,RESTAURANT,ristorante
+41.277137,16.420014,ov_era_ora_restaurant_41.2771_16.4200,Era Ora Restaurant,RESTAURANT,ristorante
+41.277074,16.420504,ov_pizzeria_da_dino_41.2771_16.4205,Pizzeria da Dino,RESTAURANT,ristorante
+41.276936,16.420332,ov_officina_del_panzerotto_41.2769_16.4203,Officina del Panzerotto,RESTAURANT,ristorante
+41.276368,16.420136,ov_boutique_della_pizza_41.2764_16.4201,Boutique Della Pizza,RESTAURANT,ristorante
+41.276226,16.420165,ov_opera_restaurant_41.2762_16.4202,Opera Restaurant,RESTAURANT,ristorante
+41.275736,16.419982,ov_il_melograno_41.2757_16.4200,Il Melograno,RESTAURANT,ristorante
+41.275786,16.419926,ov_antica_pizzeria_bovio_41.2758_16.4199,Antica Pizzeria Bovio,RESTAURANT,ristorante
+41.275777,16.420047,ov_ristorante_cattaneo_41.2758_16.4200,Ristorante Cattaneo,RESTAURANT,ristorante
+41.276234,16.420789,ov_tody_pizzeria_41.2762_16.4208,Tody Pizzeria,RESTAURANT,ristorante
+41.276308,16.420870,ov_osteria_de_roma_41.2763_16.4209,Osteria de Roma,RESTAURANT,ristorante
+41.276560,16.420830,ov_mandolino_trani_41.2766_16.4208,Mandolino Trani,RESTAURANT,ristorante
+41.277043,16.421274,ov_santo_graal_trani_41.2770_16.4213,Santo graal trani,RESTAURANT,ristorante
+41.276747,16.421455,ov_giupi_zza_41.2767_16.4215,giupi.zza,RESTAURANT,ristorante
+41.276455,16.421769,ov_osteria_al_solito_posto_41.2765_16.4218,Osteria Al Solito Posto,RESTAURANT,ristorante
+41.276455,16.421917,ov_pescaria___trani_41.2765_16.4219,Pescaria - Trani,RESTAURANT,ristorante
+41.277023,16.421820,ov_taku_ristorante_giapponese_41.2770_16.4218,Taku Ristorante Giapponese,RESTAURANT,ristorante
+41.276661,16.422252,ov_braceria_conte_cavour_41.2767_16.4223,Braceria Conte Cavour,RESTAURANT,ristorante
+41.276727,16.422181,ov_pizzeria_4_stagioni_41.2767_16.4222,Pizzeria 4 Stagioni,RESTAURANT,ristorante
+41.276431,16.424427,ov_pizzeria_il_piccolo_rifugio_41.2764_16.4244,Pizzeria il piccolo rifugio,RESTAURANT,ristorante
+41.277039,16.422974,ov_osteria_sale_grosso_41.2770_16.4230,Osteria Sale Grosso,RESTAURANT,ristorante
+41.278161,16.422729,ov_pescandalo_41.2782_16.4227,Pescandalo,RESTAURANT,ristorante
+41.277507,16.423587,ov_la_ruota___pizzeria_41.2775_16.4236,La Ruota - Pizzeria,RESTAURANT,ristorante
+41.277531,16.423271,ov_osteria_svolta_l_angolo_41.2775_16.4233,Osteria Svolta l'Angolo,RESTAURANT,ristorante
+41.277472,16.423307,ov_osteria_ai_platani_41.2775_16.4233,Osteria Ai Platani,RESTAURANT,ristorante
+41.278525,16.423555,ov_pesto_di_pistacchio_41.2785_16.4236,Pesto di Pistacchio,RESTAURANT,ristorante
+41.278319,16.423295,ov_pizza___company_41.2783_16.4233,Pizza & Company,RESTAURANT,ristorante
+41.278616,16.423329,ov_da_natina_41.2786_16.4233,Da Natina,RESTAURANT,ristorante
+41.278385,16.422805,ov_savi_la_creperia_41.2784_16.4228,Savi La Creperia,RESTAURANT,ristorante
+41.278304,16.422545,ov_il_fico_bar_gourmet_41.2783_16.4225,Il Fico Bar Gourmet,RESTAURANT,ristorante
+41.278063,16.422432,ov_vista_mare_ristorante_41.2781_16.4224,Vista Mare Ristorante,RESTAURANT,ristorante
+41.278010,16.422205,ov_ristorante_la_darsena_41.2780_16.4222,Ristorante La Darsena,RESTAURANT,ristorante
+41.277755,16.422547,ov_le_arcate_41.2778_16.4225,Le Arcate,RESTAURANT,ristorante
+41.277385,16.422388,ov_terradimare_41.2774_16.4224,Terradimare,RESTAURANT,ristorante
+41.277579,16.422185,ov_manima___osteria_41.2776_16.4222,Manima - Osteria,RESTAURANT,ristorante
+41.277814,16.421071,ov_la_kambusa_di_paninart_41.2778_16.4211,La Kambusa di Paninart,RESTAURANT,ristorante
+41.277687,16.421370,ov_parmigianeria_41.2777_16.4214,Parmigianeria,RESTAURANT,ristorante
+41.277326,16.420750,ov_l_incanto___panzerotti___caf__41.2773_16.4208,L'Incanto - Panzerotti & Cafè,RESTAURANT,ristorante
+41.277480,16.420520,ov_sfizio_41.2775_16.4205,Sfizio,RESTAURANT,ristorante
+41.277854,16.420581,ov_jeami_al_porto_di_trani_41.2779_16.4206,JeaMi al Porto di Trani,RESTAURANT,ristorante
+41.277836,16.420883,ov_hula_poke___sushi_41.2778_16.4209,Hula Poke & Sushi,RESTAURANT,ristorante
+41.280401,16.422109,ov_le_lampare_al_fortino_41.2804_16.4221,Le Lampare al Fortino,RESTAURANT,ristorante
+41.280581,16.422422,ov_il_vecchio_e_il_mare_41.2806_16.4224,Il Vecchio e il Mare,RESTAURANT,ristorante
+41.279093,16.425492,ov_aquae_restaurant___lido_bella_venezia_41.2791_16.4255,Aquae Restaurant - Lido Bella Venezia,RESTAURANT,ristorante
+41.271408,16.426211,ov_pizzeria_dalmazia_trani_41.2714_16.4262,Pizzeria Dalmazia trani,RESTAURANT,ristorante
+41.273266,16.424950,ov_acqua___sapone_41.2733_16.4249,Acqua & Sapone,RESTAURANT,ristorante
+41.275055,16.424690,ov_shabby_chic_41.2751_16.4247,Shabby Chic,RESTAURANT,ristorante
+41.275251,16.424612,ov_antiche_delizie_gastronomia_41.2753_16.4246,Antiche Delizie gastronomia,RESTAURANT,ristorante
+41.274525,16.423928,ov_pizzeria_da_paolo_41.2745_16.4239,Pizzeria Da Paolo,RESTAURANT,ristorante
+41.274195,16.423695,ov_trani_take_away_41.2742_16.4237,Trani Take Away,RESTAURANT,ristorante
+41.273822,16.423346,ov_la_nicchia_41.2738_16.4233,La Nicchia,RESTAURANT,ristorante
+41.273528,16.423024,ov_lab_57_bottega_gastronomica_41.2735_16.4230,LAB 57 Bottega Gastronomica,RESTAURANT,ristorante
+41.275097,16.422286,ov_pizzeria_da_giovina_41.2751_16.4223,Pizzeria da Giovina,RESTAURANT,ristorante
+41.274851,16.422574,ov_pizzeria_due_archi_41.2749_16.4226,Pizzeria Due Archi,RESTAURANT,ristorante
+41.274098,16.420667,ov_pizzeria_civico_10_41.2741_16.4207,Pizzeria Civico 10,RESTAURANT,ristorante
+41.273435,16.420624,ov_pizzeria_reale_41.2734_16.4206,Pizzeria Reale,RESTAURANT,ristorante
+41.272770,16.422242,ov_ecobonus_110__general_contractor_41.2728_16.4222,Ecobonus 110% General Contractor,RESTAURANT,ristorante
+41.272721,16.420642,ov_casa_dello_spiedo_41.2727_16.4206,Casa dello Spiedo,RESTAURANT,ristorante
+41.272890,16.422750,ov_burger_king_41.2729_16.4228,Burger King,RESTAURANT,ristorante
+41.271087,16.422316,ov_fvme_pizza_and_drink_41.2711_16.4223,Fvme Pizza and Drink,RESTAURANT,ristorante
+41.269249,16.425164,ov_doppio_zero_41.2692_16.4252,Doppio Zero,RESTAURANT,ristorante
+41.271319,16.424871,ov_i_piaceri_del_mare_41.2713_16.4249,I Piaceri del Mare,RESTAURANT,ristorante
+41.271201,16.426364,ov_bread_and_bonta_41.2712_16.4264,Bread and Bonta,RESTAURANT,ristorante
+41.269954,16.427497,ov_pizzeria_il_ciccio_41.2700_16.4275,Pizzeria il Ciccio,RESTAURANT,ristorante
+41.270742,16.428261,ov_ristorante_del_agua_de_coco_beach_club_41.2707_16.4283,ristorante del Agua de Coco Beach Club,RESTAURANT,ristorante
+41.269207,16.428755,ov_pizzafast_f_lli_porcaro_41.2692_16.4288,Pizzafast F.lli Porcaro,RESTAURANT,ristorante
+41.268555,16.429367,ov_pizzeria_la_tettoia_41.2686_16.4294,Pizzeria La Tettoia,RESTAURANT,ristorante
+41.267753,16.432457,ov_retrogusto_cantina_sensoriale_41.2678_16.4325,Retrogusto cantina sensoriale,RESTAURANT,ristorante
+41.270830,16.429862,ov_pizzeria_ristorante_carosello_41.2708_16.4299,Pizzeria Ristorante Carosello,RESTAURANT,ristorante
+41.269537,16.430247,ov_pizzeria_thewhite_41.2695_16.4302,Pizzeria TheWhite,RESTAURANT,ristorante
+41.270315,16.428924,ov_stile_libero_pizzeria_41.2703_16.4289,Stile Libero Pizzeria,RESTAURANT,ristorante
+41.272776,16.429962,ov_barbayanne_41.2728_16.4300,Barbayanne,RESTAURANT,ristorante
+41.272680,16.430020,ov_cristoforo_colombo_21___al_mare_41.2727_16.4300,Cristoforo colombo 21 - al mare,RESTAURANT,ristorante
+41.272765,16.429474,ov_ristorante_il_monastero_41.2728_16.4295,Ristorante il monastero,RESTAURANT,ristorante
+41.272780,16.429071,ov_ristorante_falcone_41.2728_16.4291,Ristorante Falcone,RESTAURANT,ristorante
+41.272022,16.431147,ov_mira_mar_1952_41.2720_16.4311,Mira Mar 1952,RESTAURANT,ristorante
+41.270147,16.435317,ov_restaurant_belladonna_at_caruso_s_41.2701_16.4353,Restaurant Belladonna at Caruso’s,RESTAURANT,ristorante
+41.270257,16.435181,ov_caruso__trani_41.2703_16.4352,"Caruso, Trani",RESTAURANT,ristorante
+41.270464,16.434203,ov_casa_sgarra_ristorante_41.2705_16.4342,Casa Sgarra Ristorante,RESTAURANT,ristorante
+41.270373,16.434529,ov_starpops_41.2704_16.4345,Starpops,RESTAURANT,ristorante
+41.270046,16.438710,ov_big_red_41.2700_16.4387,Big Red,RESTAURANT,ristorante
+41.269683,16.439030,ov_terradimare_41.2697_16.4390,TerradiMare,RESTAURANT,ristorante
+41.269921,16.439295,ov_ristorante_capo_colonna_trani_41.2699_16.4393,Ristorante Capo Colonna Trani,RESTAURANT,ristorante
+41.269773,16.439364,ov_capo_colonna_41.2698_16.4394,Capo Colonna,RESTAURANT,ristorante
+41.269678,16.440790,ov_casal_de_pazzi_summer_location_41.2697_16.4408,Casal de Pazzi Summer Location,RESTAURANT,ristorante
+41.269011,16.440238,ov_calda_calda_41.2690_16.4402,Calda Calda,RESTAURANT,ristorante
+41.268905,16.440150,ov_mareluna_41.2689_16.4401,Mareluna,RESTAURANT,ristorante
+41.267605,16.439948,ov_shibumi_trani___fusion_experience_41.2676_16.4399,Shibumi Trani - Fusion Experience,RESTAURANT,ristorante
+41.267880,16.440261,ov_burg__vista_mare_41.2679_16.4403,BURGÓ vista mare,RESTAURANT,ristorante
+41.269413,16.441339,ov_riva_beach_trani_41.2694_16.4413,RIVA Beach Trani,RESTAURANT,ristorante
+41.269847,16.442343,ov_salto_dell_acciuga_41.2698_16.4423,Salto dell'Acciuga,RESTAURANT,ristorante

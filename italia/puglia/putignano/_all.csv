@@ -1,6 +1,153 @@
 # lat,lng,id,name,building_type,type
-# Putignano — Tutti i POI
+# Putignano -- Tutti
 40.851781,17.116985,osm_pronto_soccorso_ospedale_s__m__angeli_40.8518_17.1170,Pronto Soccorso Ospedale S. M. Angeli,hospital,hospital
 40.823215,17.108757,osm_centro_vaccinale_anti_covid19_putignano__40.8232_17.1088,Centro Vaccinale anti-Covid19 Putignano - Monte Laureto,hospital,hospital
 40.848106,17.125296,osm_la_piazzetta_40.8481_17.1253,La Piazzetta,ristorante,ristorante
 40.849400,17.133194,osm_molino_pizzeria__il_trullo__40.8494_17.1332,Molino Pizzeria (IL TRULLO),ristorante,ristorante
+40.845668,17.123963,ov_p_o___san_michele____monte_laureto___put_40.8457_17.1240,P.O.  San Michele  - Monte Laureto - Putignano,HOSPITAL,hospital
+40.851700,17.122880,ov_tecnofon_centri_per_l_udito_40.8517_17.1229,Tecnofon Centri Per L'udito,HOSPITAL,hospital
+40.851937,17.117592,ov_ospedale_santa_maria_degli_angeli_40.8519_17.1176,Ospedale Santa Maria Degli Angeli,HOSPITAL,hospital
+40.846300,17.005325,ov_bed___breakfast_masseria_montelli_40.8463_17.0053,Bed & Breakfast Masseria Montelli,RESTAURANT,ristorante
+40.828125,17.008005,ov_agriturismo_pedone_40.8281_17.0080,Agriturismo Pedone,RESTAURANT,ristorante
+40.795020,17.123682,ov_san_bernardo_pizzeria_40.7950_17.1237,San Bernardo Pizzeria,RESTAURANT,ristorante
+40.808174,17.176356,ov_agriturismo_barsentello_40.8082_17.1764,Agriturismo Barsentello,RESTAURANT,ristorante
+40.818104,17.167747,ov_agriturismo_terranostra_40.8181_17.1677,Agriturismo TerraNostra,RESTAURANT,ristorante
+40.852070,17.129120,ov_pizzeria_bella_napoli_40.8521_17.1291,Pizzeria Bella Napoli,RESTAURANT,ristorante
+40.850178,17.134723,ov_old_money_40.8502_17.1347,Old money,RESTAURANT,ristorante
+40.848170,17.125443,ov_la_piazzetta_di_pinto_giuseppe_40.8482_17.1254,La Piazzetta Di Pinto Giuseppe,RESTAURANT,ristorante
+40.848189,17.125341,ov_friggitoria_san_domenico_40.8482_17.1253,Friggitoria San Domenico,RESTAURANT,ristorante
+40.848398,17.124891,ov_strato_40.8484_17.1249,Strato,RESTAURANT,ristorante
+40.848023,17.123179,ov_le_delizie_del_mare_40.8480_17.1232,Le Delizie del Mare,RESTAURANT,ristorante
+40.847995,17.122592,ov_aufer_gastronomia_40.8480_17.1226,Aufer Gastronomia,RESTAURANT,ristorante
+40.848291,17.122370,ov_pizzeria_lievitomadre_40.8483_17.1224,Pizzeria LievitoMadre,RESTAURANT,ristorante
+40.847695,17.121379,ov_bollenti_piatti_40.8477_17.1214,Bollenti Piatti,RESTAURANT,ristorante
+40.846982,17.127354,ov_l_angolo_divino_40.8470_17.1274,L'Angolo Divino,RESTAURANT,ristorante
+40.847417,17.118500,ov_pizza_pi__40.8474_17.1185,Pizza Più,RESTAURANT,ristorante
+40.850870,17.118879,ov_acquolina_sulla_bocca_di_tutti_40.8509_17.1189,ACQUOLINA sulla bocca di tutti,RESTAURANT,ristorante
+40.850251,17.119641,ov_caff__roma_40.8503_17.1196,Caffè Roma,RESTAURANT,ristorante
+40.849187,17.119618,ov_dal_ghiottone_40.8492_17.1196,Dal Ghiottone,RESTAURANT,ristorante
+40.848850,17.121410,ov_lola_specialit__di_pollo_fritto_40.8488_17.1214,LOLA Specialità di pollo fritto,RESTAURANT,ristorante
+40.849224,17.119788,ov_il_piacere_della_pasta_fresca_40.8492_17.1198,Il Piacere della Pasta Fresca,RESTAURANT,ristorante
+40.849394,17.120005,ov_living___miscele_di_gusto_40.8494_17.1200,Living - Miscele di Gusto,RESTAURANT,ristorante
+40.849689,17.121609,ov_cicirinella_osteria_contadina_40.8497_17.1216,Cicirinella Osteria Contadina,RESTAURANT,ristorante
+40.849350,17.121931,ov_premiata_pizzeria_40.8493_17.1219,Premiata Pizzeria,RESTAURANT,ristorante
+40.849392,17.122060,ov_paolina___osteria_sincera_40.8494_17.1221,Paolina - Osteria Sincera,RESTAURANT,ristorante
+40.849700,17.121867,ov_la_farmacia_40.8497_17.1219,La Farmacia,RESTAURANT,ristorante
+40.849503,17.122710,ov_mirum_cantina_con_cucina_40.8495_17.1227,Mirum cantina con cucina,RESTAURANT,ristorante
+40.849013,17.123489,ov_chi_va_piano_40.8490_17.1235,Chi va Piano,RESTAURANT,ristorante
+40.849169,17.122764,ov_osteria_botteghe_antiche_40.8492_17.1228,Osteria Botteghe Antiche,RESTAURANT,ristorante
+40.849584,17.125608,ov_la_brace_stuzzicheria_40.8496_17.1256,La Brace Stuzzicheria,RESTAURANT,ristorante
+40.849558,17.125504,ov_la_rustica_voglia_di___40.8496_17.1255,La Rustica Voglia di….,RESTAURANT,ristorante
+40.850467,17.124578,ov_il_gamberetto_40.8505_17.1246,Il Gamberetto,RESTAURANT,ristorante
+40.850428,17.124687,ov_toni_hamburger_40.8504_17.1247,Toni Hamburger,RESTAURANT,ristorante
+40.850526,17.123825,ov_porta_nuova_40.8505_17.1238,Porta Nuova,RESTAURANT,ristorante
+40.850873,17.124281,ov_rosticceria_fantasia_40.8509_17.1243,Rosticceria Fantasia,RESTAURANT,ristorante
+40.850944,17.122144,ov_stravirs__bistrot_40.8509_17.1221,StravirS⁴ Bistrot,RESTAURANT,ristorante
+40.850635,17.123469,ov_stefan_40.8506_17.1235,Stefan,RESTAURANT,ristorante
+40.850160,17.123153,ov_santa_maria___fornello_pronto_40.8502_17.1232,Santa Maria - Fornello Pronto,RESTAURANT,ristorante
+40.850070,17.122605,ov_angelo_sabatelli_40.8501_17.1226,Angelo Sabatelli,RESTAURANT,ristorante
+40.850561,17.120562,ov_nagoya_putignano_40.8506_17.1206,Nagoya Putignano,RESTAURANT,ristorante
+40.850637,17.121074,ov_crisalide_caffetteria_40.8506_17.1211,Crisalide Caffetteria,RESTAURANT,ristorante
+40.850995,17.120826,ov_comb__pizzeria_40.8510_17.1208,Combà Pizzeria,RESTAURANT,ristorante
+40.851094,17.120230,ov_coffetto_bio_shop_40.8511_17.1202,Coffetto Bio Shop,RESTAURANT,ristorante
+40.851301,17.119872,ov_ristorante_mammam__40.8513_17.1199,Ristorante Mammamè,RESTAURANT,ristorante
+40.851389,17.119963,ov_barsento_40.8514_17.1200,Barsento,RESTAURANT,ristorante
+40.851250,17.120488,ov_bastion_40.8512_17.1205,Bastion,RESTAURANT,ristorante
+40.851264,17.120345,ov_alibaba_kebabberia_40.8513_17.1203,Alibaba Kebabberia,RESTAURANT,ristorante
+40.851480,17.119880,ov_michelangelo_chef_40.8515_17.1199,Michelangelo Chef,RESTAURANT,ristorante
+40.852011,17.120524,ov_pizza_go_go_40.8520_17.1205,Pizza Go-Go,RESTAURANT,ristorante
+40.852092,17.120184,ov_amplifon_corso_umberto_i__putignano_40.8521_17.1202,"Amplifon Corso Umberto I, Putignano",RESTAURANT,ristorante
+40.852019,17.120054,ov_le_delizie_di_michela_40.8520_17.1201,Le Delizie di Michela,RESTAURANT,ristorante
+40.852301,17.119742,ov_norcineria_il_simposio_40.8523_17.1197,Norcineria Il Simposio,RESTAURANT,ristorante
+40.852866,17.122536,ov_pizzeria_quattro_rose_40.8529_17.1225,Pizzeria Quattro Rose,RESTAURANT,ristorante
+40.853320,17.119906,ov_mode_sushi_putignano___ristorante_sushi_40.8533_17.1199,Mode Sushi Putignano | Ristorante Sushi,RESTAURANT,ristorante
+40.853593,17.119946,ov_guaglio_40.8536_17.1199,Guaglio,RESTAURANT,ristorante
+40.853403,17.119610,ov_la_casa_di_toto_40.8534_17.1196,La Casa di Toto,RESTAURANT,ristorante
+40.842428,17.105606,ov_biscottificio_panificio_farinella_40.8424_17.1056,Biscottificio Panificio Farinella,RESTAURANT,ristorante
+40.827459,17.051001,ov_essenza_agriturismo_by_querceta_40.8275_17.0510,Essenza Agriturismo by Querceta,RESTAURANT,ristorante
+40.824980,17.074510,ov_b_b__la_russa_40.8250_17.0745,B&B  La Russa,RESTAURANT,ristorante
+40.828498,17.022237,ov_masseria_spartaglio_40.8285_17.0222,Masseria Spartaglio,RESTAURANT,ristorante
+40.855172,17.118368,ov_pizzeria_pit_stop_40.8552_17.1184,Pizzeria Pit Stop,RESTAURANT,ristorante
+40.856329,17.119855,ov_ristorante_dal_mollusco_40.8563_17.1199,Ristorante Dal Mollusco,RESTAURANT,ristorante
+40.854405,17.120884,ov_pizzeria_l_acquario_40.8544_17.1209,Pizzeria L'Acquario,RESTAURANT,ristorante
+40.854072,17.121678,ov_antichi_sapori_40.8541_17.1217,Antichi Sapori,RESTAURANT,ristorante
+40.862805,17.118672,ov_fuegh_40.8628_17.1187,FUEGH,RESTAURANT,ristorante
+40.875130,17.080635,ov_masseria_foggiagrande_40.8751_17.0806,Masseria Foggiagrande,RESTAURANT,ristorante
+40.875613,17.058193,ov_la_reggia_del_bali_40.8756_17.0582,La Reggia del Bali,RESTAURANT,ristorante
+40.878738,17.053764,ov_masseria_la_lunghiera_40.8787_17.0538,Masseria La Lunghiera,RESTAURANT,ristorante
+40.839572,17.150307,ov_katia_172_stazione_di_servizio_q8_italia_40.8396_17.1503,Katia 172 Stazione di servizio Q8 Italia,RESTAURANT,bar_cafe
+40.850506,17.127527,ov_gran_caff__magnolia_40.8505_17.1275,Gran Caffè Magnolia,RESTAURANT,bar_cafe
+40.850110,17.127523,ov_b_art_caffe_40.8501_17.1275,B'art Caffe,RESTAURANT,bar_cafe
+40.849328,17.129949,ov_pastificio_del_levante_srl_40.8493_17.1299,Pastificio Del Levante Srl,RESTAURANT,bar_cafe
+40.846293,17.128348,ov_vineria_intini_40.8463_17.1283,Vineria Intini,RESTAURANT,bar_cafe
+40.847740,17.131050,ov_tam__40.8477_17.1310,Tamì,RESTAURANT,bar_cafe
+40.848445,17.125492,ov_caffetteria_barsento_40.8484_17.1255,Caffetteria Barsento,RESTAURANT,bar_cafe
+40.847865,17.123970,ov_caffetteria_laruccia_40.8479_17.1240,Caffetteria Laruccia,RESTAURANT,bar_cafe
+40.847939,17.123043,ov_tipico_40.8479_17.1230,Tipico,RESTAURANT,bar_cafe
+40.845579,17.120281,ov_dream_coffee_40.8456_17.1203,Dream Coffee,RESTAURANT,bar_cafe
+40.843893,17.112597,ov_caff__italiano_40.8439_17.1126,Caffè Italiano,RESTAURANT,bar_cafe
+40.847283,17.117570,ov_eurobet_caf__putignano_40.8473_17.1176,Eurobet Cafè Putignano,RESTAURANT,bar_cafe
+40.847481,17.119023,ov_raffaello_cafe_40.8475_17.1190,Raffaello Cafe,RESTAURANT,bar_cafe
+40.848672,17.117863,ov_job_40.8487_17.1179,Job,RESTAURANT,bar_cafe
+40.849039,17.118971,ov_karipi__40.8490_17.1190,Karipiè,RESTAURANT,bar_cafe
+40.849060,17.119380,ov_caf__elit_40.8491_17.1194,Cafè Elit,RESTAURANT,bar_cafe
+40.849232,17.119840,ov_cipriani_cafe_aperitif_40.8492_17.1198,Cipriani Cafe Aperitif,RESTAURANT,bar_cafe
+40.849355,17.119987,ov_living___ristorante_putignano___cocktail_40.8494_17.1200,Living | Ristorante Putignano - Cocktail Bar,RESTAURANT,bar_cafe
+40.849313,17.120983,ov_caffe_olmo_40.8493_17.1210,Caffe Olmo,RESTAURANT,bar_cafe
+40.849327,17.120787,ov_central_bar_40.8493_17.1208,Central Bar,RESTAURANT,bar_cafe
+40.849313,17.122449,ov_green_daily_40.8493_17.1224,Green Daily,RESTAURANT,bar_cafe
+40.849650,17.121893,ov_scinua_40.8497_17.1219,Scinua,RESTAURANT,bar_cafe
+40.849338,17.122613,ov_birreria_oi_40.8493_17.1226,Birreria Oi,RESTAURANT,bar_cafe
+40.849115,17.122649,ov_vineria_40.8491_17.1226,Vineria,RESTAURANT,bar_cafe
+40.848563,17.125342,ov_bar_sento_40.8486_17.1253,Bar Sento,RESTAURANT,bar_cafe
+40.850099,17.124457,ov_la_caffettiera_40.8501_17.1245,La CaffettiEra,RESTAURANT,bar_cafe
+40.850406,17.124781,ov_pabulo_pub_40.8504_17.1248,Pabulo Pub,RESTAURANT,bar_cafe
+40.849892,17.125049,ov_dopolavoro___vineria_40.8499_17.1250,Dopolavoro - vineria,RESTAURANT,bar_cafe
+40.850949,17.122249,ov_tripoli_caffe_40.8509_17.1222,Tripoli Caffe,RESTAURANT,bar_cafe
+40.850290,17.121140,ov_mokkate__drink_caff__40.8503_17.1211,Mokkate’ Drink Caffè,RESTAURANT,bar_cafe
+40.849948,17.121147,ov_bobos_wine_bar_40.8499_17.1211,Bobos Wine Bar,RESTAURANT,bar_cafe
+40.850007,17.121281,ov_la_torre_di_bacco_40.8500_17.1213,La torre di bacco,RESTAURANT,bar_cafe
+40.851180,17.120300,ov_cb_specialty_coffee_putignano_40.8512_17.1203,CB Specialty Coffee Putignano,RESTAURANT,bar_cafe
+40.851690,17.120786,ov_mala_rupa_pub_40.8517_17.1208,Mala Rupa Pub,RESTAURANT,bar_cafe
+40.852187,17.120129,ov_holiday_bar_40.8522_17.1201,Holiday bar,RESTAURANT,bar_cafe
+40.852301,17.119936,ov_arian_caf__40.8523_17.1199,Arian Cafè,RESTAURANT,bar_cafe
+40.852061,17.120961,ov_caff__borghese_40.8521_17.1210,Caffè Borghese,RESTAURANT,bar_cafe
+40.851683,17.122012,ov_the_cockney_pub_40.8517_17.1220,The Cockney Pub,RESTAURANT,bar_cafe
+40.851177,17.124488,ov_ottimo_caf__40.8512_17.1245,Ottimo Cafè,RESTAURANT,bar_cafe
+40.853379,17.122880,ov_bar_pierino_40.8534_17.1229,Bar Pierino,RESTAURANT,bar_cafe
+40.853150,17.117880,ov_why_not__caff__40.8531_17.1179,Why not? Caffè,RESTAURANT,bar_cafe
+40.851713,17.119557,ov_the_rose___crown_pub_40.8517_17.1196,The Rose & Crown Pub,RESTAURANT,bar_cafe
+40.855102,17.118623,ov_pasticceria_tio_pepe_40.8551_17.1186,Pasticceria Tio Pepe,RESTAURANT,bar_cafe
+40.856060,17.116858,ov_flaircafe_40.8561_17.1169,Flaircafe,RESTAURANT,bar_cafe
+40.854493,17.121768,ov_bar_tavola_calda_riviera_40.8545_17.1218,Bar Tavola Calda Riviera,RESTAURANT,bar_cafe
+40.854555,17.120322,ov_meetingcafe_40.8546_17.1203,Meetingcafe,RESTAURANT,bar_cafe
+40.854984,17.124128,ov_quadro_putignano_40.8550_17.1241,Quadro Putignano,RESTAURANT,bar_cafe
+40.866221,17.143191,ov_apulia_cafe__40.8662_17.1432,Apulia Cafe',RESTAURANT,bar_cafe
+40.847793,17.123998,osm_laruccia_caffetteria_40.8478_17.1240,Laruccia Caffetteria,bar_cafe,bar_cafe
+40.825144,17.168029,ov_dangerfarm_40.8251_17.1680,Dangerfarm,GYM,palestra
+40.825128,17.168025,ov_crossodromo_magnagrecia_bernalda_40.8251_17.1680,Crossodromo Magnagrecia Bernalda,GYM,palestra
+40.847739,17.132298,ov_indaclub_40.8477_17.1323,Indaclub,GYM,palestra
+40.848029,17.133383,ov_il_loto_zen_40.8480_17.1334,Il Loto Zen,GYM,palestra
+40.848300,17.119820,ov_uplevel_putignano_40.8483_17.1198,UpLevel Putignano,GYM,palestra
+40.846747,17.120504,ov_asd_nuova_soham___associazione_yoga_40.8467_17.1205,ASD Nuova Soham - Associazione Yoga,GYM,palestra
+40.847759,17.115326,ov_forma_studio_40.8478_17.1153,Forma Studio,GYM,palestra
+40.849980,17.116782,ov_joy_fit_putignano_40.8500_17.1168,Joy Fit Putignano,GYM,palestra
+40.850513,17.118543,ov_scenart_di_chiara_labalestra_40.8505_17.1185,Scenart di Chiara Labalestra,GYM,palestra
+40.851007,17.118144,ov_kineskrea_40.8510_17.1181,Kineskrea,GYM,palestra
+40.852183,17.121371,ov_la_palestra_40.8522_17.1214,La Palestra,GYM,palestra
+40.852357,17.124542,ov_asd_centro_feldenkrais_equilibrium_40.8524_17.1245,ASD Centro Feldenkrais Equilibrium,GYM,palestra
+40.843830,17.107086,ov_k2_indoor_40.8438_17.1071,K2 Indoor,GYM,palestra
+40.843264,17.106763,ov_palafive_40.8433_17.1068,Palafive,GYM,palestra
+40.831948,17.109893,ov_the_box_asd_40.8319_17.1099,The Box ASD,GYM,palestra
+40.854751,17.119391,ov_chinesio_movement_40.8548_17.1194,Chinesio Movement,GYM,palestra
+40.854835,17.119586,ov_chinesio_center_40.8548_17.1196,Chinesio Center,GYM,palestra
+40.855701,17.116070,ov_trifit_putignano_40.8557_17.1161,Trifit Putignano,GYM,palestra
+40.855069,17.119706,ov_sensual_dance_fit_40.8551_17.1197,Sensual Dance Fit,GYM,palestra
+40.855325,17.121047,ov_officina_del_ben_essere_di_agata_m__40.8553_17.1210,Officina del Ben-Essere di Agata M.,GYM,palestra
+40.854759,17.120892,ov_a_s_d__muscle_academy_40.8548_17.1209,A.s.d. muscle academy,GYM,palestra
+40.854025,17.121984,ov_scuola_di_danza_classica_e_moderna_olimp_40.8540_17.1220,Scuola di Danza Classica e Moderna Olimpia Pascale,GYM,palestra
+40.864219,17.119137,ov_crossfit_load_40.8642_17.1191,CrossFit Load,GYM,palestra
+40.913670,17.113310,ov_centro_ippico_marchione_di_puglia_40.9137_17.1133,Centro Ippico Marchione Di Puglia,GYM,palestra
+40.846303,17.118256,ov_il_palazzo_del_bali_40.8463_17.1183,Il palazzo del Bali,MUSEUM,monumento
+40.849266,17.122774,ov_museo_civico___principe_guglielmo_romana_40.8493_17.1228,Museo Civico - Principe Guglielmo Romanazzi Carducci di Sant,MUSEUM,monumento
+40.855270,17.120400,ov_museo_farinella_40.8553_17.1204,Museo Farinella,MUSEUM,monumento

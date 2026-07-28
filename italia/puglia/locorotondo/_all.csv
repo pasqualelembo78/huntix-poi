@@ -1,7 +1,103 @@
 # lat,lng,id,name,building_type,type
-# Locorotondo — Tutti i POI
+# Locorotondo -- Tutti
 40.755551,17.318175,osm_gianfrate_carni_pregiate_40.7556_17.3182,Gianfrate Carni Pregiate,ristorante,ristorante
 40.752333,17.329033,osm_pizzera_casa_pinto_40.7523_17.3290,Pizzera Casa Pinto,ristorante,ristorante
 40.752415,17.330537,osm_kiatz___piazza_bar_con_cucina_40.7524_17.3305,KIATZ - Piazza Bar con Cucina,ristorante,ristorante
 40.752074,17.329642,osm_bon_bon_40.7521_17.3296,Bon Bon,ristorante,ristorante
 40.753312,17.331903,osm_l_angolo_del_gusto_40.7533_17.3319,L'angolo del gusto,ristorante,ristorante
+40.756580,17.326494,ov_ospedale_locorotondo_40.7566_17.3265,Ospedale Locorotondo,HOSPITAL,hospital
+40.759105,17.328049,ov_cinquenoci___tavola_calda_40.7591_17.3280,Cinquenoci - Tavola Calda,RESTAURANT,ristorante
+40.758810,17.327978,ov_pastarillo___racconti_di_gusto_40.7588_17.3280,Pastarillo - racconti di gusto,RESTAURANT,ristorante
+40.758642,17.328221,ov_oi_pulpit_trattoria___pizzeria_40.7586_17.3282,Oi Pulpit Trattoria - Pizzeria,RESTAURANT,ristorante
+40.758574,17.331506,ov_i_piaceri_della_carne_40.7586_17.3315,I piaceri della carne,RESTAURANT,ristorante
+40.756696,17.326955,ov_bon_bon_40.7567_17.3270,Bon Bon,RESTAURANT,ristorante
+40.755497,17.326707,ov_anima_ristorante_40.7555_17.3267,Anima Ristorante,RESTAURANT,ristorante
+40.755214,17.327502,ov_artecamino_di_piccoli_domenico_40.7552_17.3275,Artecamino di Piccoli Domenico,RESTAURANT,ristorante
+40.755251,17.326689,ov_il_regno_dei_sapori_40.7553_17.3267,Il regno dei sapori,RESTAURANT,ristorante
+40.755089,17.326832,ov_l_ove_creperia_40.7551_17.3268,L'ove Creperia,RESTAURANT,ristorante
+40.754776,17.327301,ov_l_archetto_da_tonio_40.7548_17.3273,L'Archetto da Tonio,RESTAURANT,ristorante
+40.754860,17.329684,ov_goodo_ristorante_40.7549_17.3297,GOODO Ristorante,RESTAURANT,ristorante
+40.754400,17.328798,ov_controtendenza_caffe_40.7544_17.3288,Controtendenza Caffe,RESTAURANT,ristorante
+40.754485,17.327140,ov_la_creperie_40.7545_17.3271,La Creperie,RESTAURANT,ristorante
+40.754067,17.327845,ov_bina_ristorante_di_puglia_40.7541_17.3278,Bina Ristorante di Puglia,RESTAURANT,ristorante
+40.754079,17.327064,ov_alleria_40.7541_17.3271,Alleria,RESTAURANT,ristorante
+40.753523,17.328174,ov_versa_e_favella_40.7535_17.3282,Versa E Favella,RESTAURANT,ristorante
+40.753611,17.329276,ov_ai_tre_santi_40.7536_17.3293,Ai Tre Santi,RESTAURANT,ristorante
+40.752909,17.329220,ov_centro_storico_40.7529_17.3292,Centro Storico,RESTAURANT,ristorante
+40.752820,17.329216,ov_la_braceria_40.7528_17.3292,La Braceria,RESTAURANT,ristorante
+40.752882,17.329141,ov_ristorante_osteria_il_rosone_40.7529_17.3291,Ristorante Osteria Il Rosone,RESTAURANT,ristorante
+40.752966,17.328799,ov_atipico___bar___caffetteria___ristorante_40.7530_17.3288,Atipico - Bar • Caffetteria • Ristorante,RESTAURANT,ristorante
+40.752913,17.328624,ov_la_bottega_de_i_pastini_40.7529_17.3286,La bottega de I Pastini,RESTAURANT,ristorante
+40.753414,17.327941,ov_braceria_140_gradi_40.7534_17.3279,Braceria 140 gradi,RESTAURANT,ristorante
+40.753254,17.327798,ov_piatto_piano_40.7533_17.3278,Piatto Piano,RESTAURANT,ristorante
+40.752298,17.328942,ov_ristorante_pizzeria_lounge_bar_belvedere_40.7523_17.3289,Ristorante Pizzeria Lounge Bar Belvedere,RESTAURANT,ristorante
+40.752397,17.329087,ov_pizzeria_casa_pinto_40.7524_17.3291,Pizzeria Casa Pinto,RESTAURANT,ristorante
+40.752692,17.328525,ov_vinifera_vini___affini_40.7527_17.3285,Vinifera vini & affini,RESTAURANT,ristorante
+40.752700,17.328389,ov_mandragora_pozioni_e_porzioni_40.7527_17.3284,Mandragora Pozioni e Porzioni,RESTAURANT,ristorante
+40.752761,17.328474,ov_calici_e_dentici_40.7528_17.3285,Calici e Dentici,RESTAURANT,ristorante
+40.752743,17.328768,ov_la_taverna_del_duca_40.7527_17.3288,La Taverna Del Duca,RESTAURANT,ristorante
+40.752737,17.329031,ov_trattoria_al_vecchio_arco_40.7527_17.3290,Trattoria al Vecchio Arco,RESTAURANT,ristorante
+40.752514,17.329751,ov_locorotondi_40.7525_17.3298,Locorotondi,RESTAURANT,ristorante
+40.752722,17.330706,ov_l_arco_dei_tipici_40.7527_17.3307,L'Arco dei Tipici,RESTAURANT,ristorante
+40.753043,17.330942,ov_carn__ristomacelleria_40.7530_17.3309,Carné Ristomacelleria,RESTAURANT,ristorante
+40.752979,17.330488,ov_la_pignatta_40.7530_17.3305,La Pignatta,RESTAURANT,ristorante
+40.753270,17.330299,ov_bespoke_puglia_40.7533_17.3303,Bespoke Puglia,RESTAURANT,ristorante
+40.753388,17.330910,ov_sapori_mediterranei_40.7534_17.3309,Sapori Mediterranei,RESTAURANT,ristorante
+40.753297,17.331884,ov_l_angolo_del_gusto_40.7533_17.3319,L'Angolo del Gusto,RESTAURANT,ristorante
+40.752658,17.332385,ov_e__s_senza_40.7527_17.3324,E'(S)Senza,RESTAURANT,ristorante
+40.752723,17.332509,ov_h_nt__sushi_40.7527_17.3325,Hôntô Sushi,RESTAURANT,ristorante
+40.752058,17.329828,ov_controra_40.7521_17.3298,Controra,RESTAURANT,ristorante
+40.752079,17.329700,ov_belsit_locorotondo_40.7521_17.3297,belsit_locorotondo,RESTAURANT,ristorante
+40.754317,17.326214,ov_barbanera_40.7543_17.3262,Barbanera,RESTAURANT,ristorante
+40.754998,17.323133,ov_friends_caffe_40.7550_17.3231,Friends Caffe,RESTAURANT,ristorante
+40.754800,17.326261,ov_pietranuda_40.7548_17.3263,Pietranuda,RESTAURANT,ristorante
+40.756136,17.325318,ov_panzerotto_express_40.7561_17.3253,Panzerotto Express,RESTAURANT,ristorante
+40.756969,17.326066,ov_il_piccio_40.7570_17.3261,Il Piccio,RESTAURANT,ristorante
+40.757508,17.324681,ov_pizze___sfizi_40.7575_17.3247,Pizze & Sfizi,RESTAURANT,ristorante
+40.758271,17.325210,ov_sapori_e_delizie_40.7583_17.3252,Sapori e Delizie,RESTAURANT,ristorante
+40.758152,17.317732,ov_la_greppia_del_frate_40.7582_17.3177,La Greppia del Frate,RESTAURANT,ristorante
+40.761509,17.296969,ov_rainbow_locorotondo_40.7615_17.2970,Rainbow Locorotondo,RESTAURANT,ristorante
+40.823990,17.239751,ov_la_taverna_del_duca__antonella_40.8240_17.2398,La Taverna Del Duca- Antonella,RESTAURANT,ristorante
+40.792107,17.326038,ov_l_arco_antico_40.7921_17.3260,L'Arco Antico,RESTAURANT,ristorante
+40.775956,17.336745,ov_pittarosso_40.7760_17.3367,PittaRosso,RESTAURANT,ristorante
+40.785812,17.363993,ov_macelleria_nicola_semeraro_40.7858_17.3640,Macelleria Nicola Semeraro,RESTAURANT,ristorante
+40.767562,17.361744,ov_dome_cafe_40.7676_17.3617,Dome Cafe,RESTAURANT,bar_cafe
+40.760965,17.328570,ov_carpe_diem_food_and_drink_40.7610_17.3286,Carpe Diem Food and Drink,RESTAURANT,bar_cafe
+40.758718,17.331728,ov_dolce_passione_pasticceria_40.7587_17.3317,Dolce Passione Pasticceria,RESTAURANT,bar_cafe
+40.759009,17.328837,ov_pupi_e_pupe_40.7590_17.3288,Pupi e Pupe,RESTAURANT,bar_cafe
+40.758202,17.329636,ov_rimessaggio_barche_savelletri_40.7582_17.3296,Rimessaggio Barche Savelletri,RESTAURANT,bar_cafe
+40.756760,17.326610,ov_dodo_caff__40.7568_17.3266,Dodo Caffè,RESTAURANT,bar_cafe
+40.753763,17.327783,ov_zeus_cafe_40.7538_17.3278,Zeus Cafe,RESTAURANT,bar_cafe
+40.753504,17.328196,ov_zero_cocktail_bar___izakaya_40.7535_17.3282,Zero Cocktail bar - Izakaya,RESTAURANT,bar_cafe
+40.753942,17.329987,ov_bar_pasticceria_rosticceria_poldo_40.7539_17.3300,Bar Pasticceria Rosticceria Poldo,RESTAURANT,bar_cafe
+40.752962,17.328610,ov_caff__della_villa_40.7530_17.3286,Caffè della Villa,RESTAURANT,bar_cafe
+40.753299,17.328016,ov_pasticceria_campanella_40.7533_17.3280,Pasticceria Campanella,RESTAURANT,bar_cafe
+40.752733,17.328520,ov_vinifera_vini_e_affini_40.7527_17.3285,Vinifera Vini e Affini,RESTAURANT,bar_cafe
+40.752770,17.329215,ov_pub___sud_malteria_40.7528_17.3292,Pub & Sud Malteria,RESTAURANT,bar_cafe
+40.752228,17.329536,ov_la_salottina_40.7522_17.3295,La Salottina,RESTAURANT,bar_cafe
+40.752388,17.330508,ov_docks_101_40.7524_17.3305,Docks 101,RESTAURANT,bar_cafe
+40.752339,17.330651,ov_20m2_locorotondo_40.7523_17.3307,20m2-LOCOROTONDO,RESTAURANT,bar_cafe
+40.753239,17.331142,ov_piazza_antonio_mitrano___locorotondo__ba_40.7532_17.3311,Piazza Antonio Mitrano - Locorotondo (Ba),RESTAURANT,bar_cafe
+40.753226,17.330835,ov_caffetteria_agor__40.7532_17.3308,Caffetteria Agorà,RESTAURANT,bar_cafe
+40.752070,17.329382,ov_pav_wine_restaurant_40.7521_17.3294,Pav wine restaurant,RESTAURANT,bar_cafe
+40.749570,17.349640,ov_nclaud_40.7496_17.3496,Nclaud,RESTAURANT,bar_cafe
+40.755708,17.318785,ov_bonjour_cafe_40.7557_17.3188,Bonjour Cafe,RESTAURANT,bar_cafe
+40.755994,17.326009,ov_pav__wine_restaurant_40.7560_17.3260,Pavì wine restaurant,RESTAURANT,bar_cafe
+40.756081,17.325489,ov_bar_guida_di_guida_martino_40.7561_17.3255,Bar Guida di Guida Martino,RESTAURANT,bar_cafe
+40.758718,17.316351,ov_campanella_poggio_fiorito_40.7587_17.3164,Campanella Poggio Fiorito,RESTAURANT,bar_cafe
+40.761916,17.303620,ov_pausa_caff__40.7619_17.3036,Pausa Caffè,RESTAURANT,bar_cafe
+40.764369,17.325645,ov_convertini_caf__40.7644_17.3256,Convertini Cafè,RESTAURANT,bar_cafe
+40.791670,17.318374,ov_san_marco_caf__40.7917_17.3184,San Marco Cafè,RESTAURANT,bar_cafe
+40.778822,17.293216,ov_angelini_cafe_40.7788_17.2932,Angelini Cafe,RESTAURANT,bar_cafe
+40.752669,17.332372,osm_essenza_40.7527_17.3324,Essenza,bar_cafe,bar_cafe
+40.760262,17.329382,ov_gym_moving_club_locorotondo_40.7603_17.3294,Gym Moving Club Locorotondo,GYM,palestra
+40.758428,17.342613,ov_centro_sportivo_sportlandia_40.7584_17.3426,Centro Sportivo Sportlandia,GYM,palestra
+40.759755,17.328880,ov_techno_body_40.7598_17.3289,Techno BODY,GYM,palestra
+40.759232,17.328741,ov_unalome_corpo_libero_di_martina_frizzier_40.7592_17.3287,Unalome Corpo Libero di Martina Frizziero,GYM,palestra
+40.756009,17.311759,ov_palestra_venus_40.7560_17.3118,Palestra Venus,GYM,palestra
+40.756076,17.310812,ov_murri_giuseppe_40.7561_17.3108,Murri Giuseppe,GYM,palestra
+40.785860,17.344110,ov_centro_ippico_equitando_40.7859_17.3441,Centro Ippico Equitando,GYM,palestra
+40.781155,17.386845,ov_ycs_trullimare_40.7812_17.3868,YCS trullimare,GYM,palestra
+40.781585,17.389031,ov_maneggio_azienda_agricola_basile_40.7816_17.3890,Maneggio Azienda Agricola Basile,GYM,palestra
+40.751930,17.330400,ov_museo_perle_di_memoria_40.7519_17.3304,Museo Perle Di Memoria,MUSEUM,monumento
+40.799440,17.342400,ov_trullii_del_prete_40.7994_17.3424,TrulliI Del Prete,MONUMENT,monumento

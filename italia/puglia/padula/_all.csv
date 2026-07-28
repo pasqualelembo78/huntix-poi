@@ -1,4 +1,52 @@
 # lat,lng,id,name,building_type,type
-# Padula — Tutti i POI
+# Padula -- Tutti
 40.293081,15.650139,osm_pizzeria_luna_rossa_40.2931_15.6501,Pizzeria Luna Rossa,ristorante,ristorante
 40.309748,15.638443,osm_taverna_ferrigno_40.3097_15.6384,Taverna Ferrigno,ristorante,ristorante
+40.297859,15.645804,ov_ristorante_orizzonte_40.2979_15.6458,Ristorante Orizzonte,RESTAURANT,ristorante
+40.295072,15.648831,ov_ristorante_pizzeria_colonia_40.2951_15.6488,Ristorante Pizzeria Colonia,RESTAURANT,ristorante
+40.296539,15.648380,ov_ristorante_pizzeria_azzurro_40.2965_15.6484,Ristorante Pizzeria Azzurro,RESTAURANT,ristorante
+40.294092,15.648714,ov_peperoncino_40.2941_15.6487,Peperoncino,RESTAURANT,ristorante
+40.292930,15.650263,ov_ristorante_trattoria_pizzeria_luna_rossa_40.2929_15.6503,Ristorante Trattoria Pizzeria Luna Rossa,RESTAURANT,ristorante
+40.293104,15.643437,ov_ristorante_massachusetts_40.2931_15.6434,Ristorante Massachusetts,RESTAURANT,ristorante
+40.291038,15.651017,ov_antica_taverna_cantatore_40.2910_15.6510,Antica Taverna Cantatore,RESTAURANT,ristorante
+40.289870,15.651640,ov_tenuta_taverna_ferrigno_40.2899_15.6516,Tenuta Taverna Ferrigno,RESTAURANT,ristorante
+40.288020,15.648040,ov_ristorante_orizzonte_40.2880_15.6480,Ristorante Orizzonte,RESTAURANT,ristorante
+40.341511,15.657857,ov_taverna_austin_p_con_40.3415_15.6579,Taverna Austin P'Con,RESTAURANT,ristorante
+40.340701,15.655579,ov_la_locanda_dei_trecento_40.3407_15.6556,La Locanda dei Trecento,RESTAURANT,ristorante
+40.336851,15.653960,ov_il_certosino_40.3369_15.6540,Il Certosino,RESTAURANT,ristorante
+40.334933,15.658459,ov_ristorante_pizzeria_agriconvivio_40.3349_15.6585,Ristorante Pizzeria Agriconvivio,RESTAURANT,ristorante
+40.329459,15.656188,ov_agriturismo_tre_santi_40.3295_15.6562,Agriturismo Tre Santi,RESTAURANT,ristorante
+40.316185,15.740662,ov_pizzeria_degli_ulivi_40.3162_15.7407,Pizzeria degli Ulivi,RESTAURANT,ristorante
+40.323985,15.646780,ov_la_sosta_del_priore_40.3240_15.6468,La Sosta del Priore,RESTAURANT,ristorante
+40.322360,15.628260,ov_el_carnicero_40.3224_15.6283,El Carnicero,RESTAURANT,ristorante
+40.324815,15.627464,ov_alioth_pizzeria_bar_40.3248_15.6275,Alioth pizzeria bar,RESTAURANT,ristorante
+40.325698,15.627788,ov_al_picchio_nero_40.3257_15.6278,Al Picchio Nero,RESTAURANT,ristorante
+40.306151,15.652498,ov_agriturismo_la_casa_vecchia_40.3062_15.6525,Agriturismo La Casa Vecchia,RESTAURANT,ristorante
+40.330090,15.625200,ov_very_nice__food_and_love_40.3301_15.6252,Very Nice -Food and Love,RESTAURANT,ristorante
+40.335390,15.625110,ov_caseificio_mediterraneo_40.3354_15.6251,Caseificio Mediterraneo,RESTAURANT,ristorante
+40.333519,15.649776,ov_ristorante_peperoncino_40.3335_15.6498,Ristorante Peperoncino,RESTAURANT,ristorante
+40.334826,15.651432,ov_la_taverna_della_certosa_40.3348_15.6514,La Taverna Della Certosa,RESTAURANT,ristorante
+40.335505,15.652171,ov_bar_area_picnic_di_onorato_antonio_40.3355_15.6522,Bar Area Picnic di Onorato Antonio,RESTAURANT,ristorante
+40.336032,15.652100,ov_certosa_di_san_lorenzo___padula__sa__40.3360_15.6521,Certosa Di San Lorenzo - Padula (Sa),RESTAURANT,ristorante
+40.335990,15.653245,ov_trattoria_degli_ulivi_40.3360_15.6532,Trattoria degli Ulivi,RESTAURANT,ristorante
+40.334962,15.642682,ov_agriturismo_aia_antica_40.3350_15.6427,Agriturismo Aia Antica,RESTAURANT,ristorante
+40.342604,15.625194,ov_casello48_40.3426_15.6252,Casello48,RESTAURANT,ristorante
+40.297070,15.647440,ov_bistrot_caf__40.2971_15.6474,Bistrot Cafè,RESTAURANT,bar_cafe
+40.342006,15.659021,ov_bar_jolly_40.3420_15.6590,Bar Jolly,RESTAURANT,bar_cafe
+40.341273,15.657680,ov_route_77_40.3413_15.6577,Route 77,RESTAURANT,bar_cafe
+40.338166,15.654441,ov_bar_de_vita_40.3382_15.6544,Bar De Vita,RESTAURANT,bar_cafe
+40.326209,15.626855,ov_jamiro_bar_40.3262_15.6269,JAMIRO BAR,RESTAURANT,bar_cafe
+40.338060,15.625070,ov_happy_bar_40.3381_15.6251,Happy Bar,RESTAURANT,bar_cafe
+40.340935,15.625128,ov_momi_bar_40.3409_15.6251,Momi Bar,RESTAURANT,bar_cafe
+40.333326,15.625223,osm_bar_padula_40.3333_15.6252,Bar Padula,bar_cafe,bar_cafe
+40.332690,15.624644,osm_bar_sabia_carburanti_40.3327_15.6246,Bar Sabia Carburanti,bar_cafe,bar_cafe
+40.313959,15.638288,ov_a_s_d_new_want_to_dance_40.3140_15.6383,A.S.D New Want To Dance,GYM,palestra
+40.341197,15.659177,ov_museo_del_cognome_40.3412_15.6592,Museo del Cognome,MUSEUM,monumento
+40.340983,15.659009,ov_museo_civico_multimediale_di_padula_40.3410_15.6590,Museo Civico Multimediale Di Padula,MUSEUM,monumento
+40.340977,15.655503,ov_sacrario_dei_trecento_40.3410_15.6555,Sacrario dei trecento,MUSEUM,monumento
+40.339317,15.658509,ov_casa_museo_joe_petrosino_40.3393_15.6585,Casa Museo Joe Petrosino,MUSEUM,monumento
+40.337780,15.655540,ov_eremo_di_san_michele_alle_grottelle_40.3378_15.6555,Eremo di San Michele alle Grottelle,MONUMENT,monumento
+40.335553,15.652084,ov_padula_sistema_museo_40.3356_15.6521,Padula sistema museo,MUSEUM,monumento
+40.336223,15.651675,ov_certosa_di_padula_40.3362_15.6517,Certosa di Padula,MUSEUM,monumento
+40.337480,15.642540,ov_associazione_italiana_amici_del_presepio_40.3375_15.6425,Associazione Italiana Amici del Presepio sez. P.Gallo Padula,MUSEUM,monumento
+40.336896,15.651257,ov_museo_archeologico_provinciale_della_luc_40.3369_15.6513,Museo Archeologico Provinciale della Lucania Occidentale,MUSEUM,monumento

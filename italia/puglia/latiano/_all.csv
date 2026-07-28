@@ -1,8 +1,59 @@
 # lat,lng,id,name,building_type,type
-# Latiano — Tutti i POI
+# Latiano -- Tutti
 40.549929,17.713841,osm_guardia_medica_40.5499_17.7138,guardia medica,hospital,hospital
 40.549653,17.713139,osm_daburghi_40.5497_17.7131,Daburghi,ristorante,ristorante
 40.543542,17.701354,osm_imo___stefania_eventi_40.5435_17.7014,Imo & Stefania Eventi,ristorante,ristorante
 40.550106,17.721794,osm_la_fenice__bar____trattoria___pizzeria_40.5501_17.7218,La Fenice  Bar -  Trattoria - Pizzeria,ristorante,ristorante
 40.552856,17.722355,osm_la_puccia_40.5529_17.7224,La Puccia,ristorante,ristorante
 40.566364,17.719848,osm_crisumma_philosophy_40.5664_17.7198,Crisumma Philosophy,ristorante,ristorante
+40.553416,17.718689,ov_ospedale_francavilla_fontana_40.5534_17.7187,Ospedale Francavilla Fontana,HOSPITAL,hospital
+40.553711,17.718985,ov_officine_ortopediche_caforio_40.5537_17.7190,Officine Ortopediche Caforio,HOSPITAL,hospital
+40.563245,17.739419,ov_trattoria_del_negroamaro_40.5632_17.7394,Trattoria del Negroamaro,RESTAURANT,ristorante
+40.559158,17.728726,ov_la_calabrese_40.5592_17.7287,La Calabrese,RESTAURANT,ristorante
+40.550846,17.726639,ov_misfizio_40.5508_17.7266,Misfizio,RESTAURANT,ristorante
+40.549420,17.712102,ov_ristorante_burghi_40.5494_17.7121,Ristorante Burghi,RESTAURANT,ristorante
+40.550895,17.715085,ov_panetteria_sant_antonio_mon_amour_40.5509_17.7151,Panetteria Sant Antonio Mon Amour,RESTAURANT,ristorante
+40.550819,17.716092,ov_ristorante_bar_pizzeria_dante_40.5508_17.7161,Ristorante Bar Pizzeria Dante,RESTAURANT,ristorante
+40.549537,17.719536,ov_natura_puglia_40.5495_17.7195,Natura Puglia,RESTAURANT,ristorante
+40.552646,17.719907,ov_pizzeria_il_trancio_da_maurizio_40.5526_17.7199,Pizzeria Il Trancio Da Maurizio,RESTAURANT,ristorante
+40.553584,17.717848,ov_borgo_imperiali_40.5536_17.7178,Borgo Imperiali,RESTAURANT,ristorante
+40.554006,17.716108,ov_caffetteria_andreea_40.5540_17.7161,Caffetteria Andreea,RESTAURANT,ristorante
+40.553882,17.714373,ov_chiaro_scuro_giosu__40.5539_17.7144,Chiaro Scuro Giosuè,RESTAURANT,ristorante
+40.553205,17.714845,ov_la_taverna_di_pascalone_40.5532_17.7148,La Taverna Di Pascalone,RESTAURANT,ristorante
+40.553338,17.713416,ov_casablanca_40.5533_17.7134,Casablanca,RESTAURANT,ristorante
+40.552785,17.714718,ov_panificio_san_giuseppe_focaccia_taralli__40.5528_17.7147,Panificio San Giuseppe-Focaccia-Taralli-Frise-Biscotti-Buffe,RESTAURANT,ristorante
+40.552508,17.714328,ov_luppolo___farina_40.5525_17.7143,Luppolo & Farina,RESTAURANT,ristorante
+40.554126,17.714551,ov_pizzeria_my_way_40.5541_17.7146,Pizzeria My Way,RESTAURANT,ristorante
+40.557375,17.717611,ov_pizzeria_le_colonne_40.5574_17.7176,Pizzeria Le Colonne,RESTAURANT,ristorante
+40.556510,17.706691,ov_zizzi_ferranenta_40.5565_17.7067,Zizzi Ferranenta,RESTAURANT,ristorante
+40.529270,17.685980,ov_ristorante_conca_d_oro__latiano_40.5293_17.6860,Ristorante CONCA D’ORO -Latiano,RESTAURANT,ristorante
+40.481770,18.052610,ov_acqua_spin_40.4818_18.0526,Acqua Spin,RESTAURANT,ristorante
+40.553594,17.728927,ov_viavai_and_coffee_40.5536_17.7289,Viavai and Coffee,RESTAURANT,bar_cafe
+40.550826,17.706754,ov_punto_ristoro_bar_stazione_di_servizio_l_40.5508_17.7068,Punto Ristoro Bar Stazione di Servizio Latiano,RESTAURANT,bar_cafe
+40.549931,17.712934,ov_caffetteria_de_girolamo_40.5499_17.7129,Caffetteria De Girolamo,RESTAURANT,bar_cafe
+40.550068,17.721753,ov_la_fenice_40.5501_17.7218,La Fenice,RESTAURANT,bar_cafe
+40.553406,17.717584,ov_black_dog_rocknfood_40.5534_17.7176,Black Dog rocknfood,RESTAURANT,bar_cafe
+40.553451,17.717540,ov_manhattan_latiano_40.5535_17.7175,Manhattan Latiano,RESTAURANT,bar_cafe
+40.553913,17.717367,ov_era_ora_wine_40.5539_17.7174,Era Ora Wine,RESTAURANT,bar_cafe
+40.553824,17.716330,ov_viavai___coffee_40.5538_17.7163,ViaVai & Coffee,RESTAURANT,bar_cafe
+40.553097,17.714353,ov_civico_100_40.5531_17.7144,Civico 100,RESTAURANT,bar_cafe
+40.553366,17.715682,ov_cafe_sifflet_40.5534_17.7157,Cafe Sifflet,RESTAURANT,bar_cafe
+40.552552,17.714547,ov_zero_kitchen_bar_40.5526_17.7145,Zero Kitchen Bar,RESTAURANT,bar_cafe
+40.556592,17.714962,ov_caff__piccadilly_40.5566_17.7150,Caffè Piccadilly,RESTAURANT,bar_cafe
+40.554570,17.716490,ov_caf__noir_40.5546_17.7165,Café Noir,RESTAURANT,bar_cafe
+40.554547,17.723988,ov_enoteca_sfizi_e_vini_a_latiano_40.5545_17.7240,Enoteca Sfizi e Vini a Latiano,RESTAURANT,bar_cafe
+40.557874,17.717550,ov_binario_1_40.5579_17.7176,Binario 1,RESTAURANT,bar_cafe
+40.552994,17.722695,osm_bar_degli_angeli_40.5530_17.7227,Bar degli Angeli,bar_cafe,bar_cafe
+40.553584,17.728685,osm_viavai___coffee_s_r_l__40.5536_17.7287,Viavai & Coffee S.r.l.,bar_cafe,bar_cafe
+40.556573,17.715166,osm_bar_piccadilly___tabacchi_40.5566_17.7152,Bar Piccadilly - Tabacchi,bar_cafe,bar_cafe
+40.553863,17.716186,osm_viavai___coffee_2_0_40.5539_17.7162,ViaVai & Coffee 2.0,bar_cafe,bar_cafe
+40.551510,17.716851,osm_piazza_operaia_40.5515_17.7169,Piazza Operaia,bar_cafe,bar_cafe
+40.552737,17.713808,osm_mode___zucchero_e_cose_40.5527_17.7138,Mode - zucchero e cose,bar_cafe,bar_cafe
+40.557524,17.717976,osm_caff__mir__40.5575_17.7180,Caffè Mirò,bar_cafe,bar_cafe
+40.553533,17.717537,osm_caff__manhattan_40.5535_17.7175,Caffè Manhattan,bar_cafe,bar_cafe
+40.552908,17.716156,ov_planet_gym_2004_40.5529_17.7162,Planet Gym 2004,GYM,palestra
+40.554340,17.711070,ov_centro_studi_progetto_danza_latiano___ce_40.5543_17.7111,Centro Studi Progetto Danza Latiano - Centro Avviamento Prof,GYM,palestra
+40.554617,17.715698,ov_lively_dance_40.5546_17.7157,Lively Dance,GYM,palestra
+40.554330,17.722150,ov_tamburi_imperiali_latiano_40.5543_17.7221,Tamburi Imperiali Latiano,GYM,palestra
+40.552716,17.718030,ov_casa_museo_ribezzi_petrosillo_40.5527_17.7180,Casa Museo Ribezzi Petrosillo,MUSEUM,monumento
+40.556112,17.717538,ov_polo_museale_ex_convento_dei_domenicani_40.5561_17.7175,Polo Museale Ex Convento dei Domenicani,MUSEUM,monumento

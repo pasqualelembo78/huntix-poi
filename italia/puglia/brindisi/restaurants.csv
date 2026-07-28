@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Brindisi — restaurants
+# brindisi -- restaurants
 40.640265,17.940813,osm_antica_osteria_la_sciabica_40.6403_17.9408,Antica osteria la sciabica,ristorante,ristorante
 40.658710,17.958123,osm_la_sciaia_a_mare_40.6587_17.9581,La Sciaia a mare,ristorante,ristorante
 40.635358,17.942818,osm_burger_house_40.6354_17.9428,Burger House,ristorante,ristorante
@@ -22,3 +22,208 @@
 40.634421,17.942978,osm_kebab_pizza_adana_40.6344_17.9430,Kebab pizza Adana,ristorante,ristorante
 40.622170,17.944416,osm_makoto_40.6222_17.9444,Makoto,ristorante,ristorante
 40.623108,17.915973,osm_mcdonald_s_40.6231_17.9160,McDonald's,ristorante,ristorante
+40.556475,17.763876,ov_makoto_ristorante_giapponese_cinese_40.5565_17.7639,Makoto Ristorante Giapponese Cinese,RESTAURANT,ristorante
+40.601642,17.916989,ov_locanda_san_lorenzo_brindisi_40.6016_17.9170,Locanda San Lorenzo Brindisi,RESTAURANT,ristorante
+40.544876,17.948680,ov_binario_40_pizza_and_bistrot_40.5449_17.9487,Binario 40 Pizza and Bistrot,RESTAURANT,ristorante
+40.697512,17.820775,ov_boa_gialla_40.6975_17.8208,Boa Gialla,RESTAURANT,ristorante
+40.614775,17.819285,ov_masseria_baroni_nuovi_40.6148_17.8193,Masseria Baroni Nuovi,RESTAURANT,ristorante
+40.638681,17.866517,ov_la_locanda_ti_li_spilusi_40.6387_17.8665,La Locanda Ti Li Spilusi,RESTAURANT,ristorante
+40.677731,17.821507,ov_braceria_la_palma_40.6777_17.8215,Braceria La Palma,RESTAURANT,ristorante
+40.684895,17.831753,ov_azienda_agricola_fra_diavolo_40.6849_17.8318,Azienda Agricola Fra Diavolo,RESTAURANT,ristorante
+40.679450,17.874710,ov_gustapulia_40.6795_17.8747,Gustapulia,RESTAURANT,ristorante
+40.655038,17.898916,ov_brindisi_citta__d_acqua_40.6550_17.8989,Brindisi Citta' D'acqua,RESTAURANT,ristorante
+40.648971,17.920357,ov_kasawika_40.6490_17.9204,Kasawika,RESTAURANT,ristorante
+40.648434,17.920615,ov_supermercato_famila_40.6484_17.9206,Supermercato Famila,RESTAURANT,ristorante
+40.657745,17.938482,ov_pulia_40.6577_17.9385,Pulia,RESTAURANT,ristorante
+40.657745,17.938482,ov_autogrill_amore_do_eat_better_40.6577_17.9385,Autogrill AMORE Do Eat Better,RESTAURANT,ristorante
+40.678588,17.937884,ov_la_nuova_casareccia_40.6786_17.9379,La Nuova Casareccia,RESTAURANT,ristorante
+40.674620,17.941050,ov_villa_borromeo_40.6746_17.9411,Villa Borromeo,RESTAURANT,ristorante
+40.676440,17.939790,ov_crepy_amo2021_40.6764_17.9398,Crepy amo2021,RESTAURANT,ristorante
+40.664776,17.952254,ov_lido_brin_40.6648_17.9523,Lido Brin,RESTAURANT,ristorante
+40.664790,17.949660,ov_granchio_rosso_bar_pizzeria_40.6648_17.9497,Granchio Rosso Bar Pizzeria,RESTAURANT,ristorante
+40.656762,17.945349,ov_autogrill_40.6568_17.9453,Autogrill,RESTAURANT,ristorante
+40.658734,17.958141,ov_rist_pizzeria_la_sciaia_a_mare_40.6587_17.9581,Rist.Pizzeria La Sciaia a mare,RESTAURANT,ristorante
+40.660569,17.961476,ov_il_porticciolo_40.6606_17.9615,Il Porticciolo,RESTAURANT,ristorante
+40.646980,17.943846,ov_la_griglia_40.6470_17.9438,La griglia,RESTAURANT,ristorante
+40.646858,17.943687,ov_de_vitis_nicola_40.6469_17.9437,De Vitis Nicola,RESTAURANT,ristorante
+40.647140,17.943190,ov_mari_misti_40.6471_17.9432,Mari Misti,RESTAURANT,ristorante
+40.647659,17.943145,ov_l_angolo_40.6477_17.9431,L'Angolo,RESTAURANT,ristorante
+40.645616,17.943919,ov_la_scalinata_40.6456_17.9439,La scalinata,RESTAURANT,ristorante
+40.646094,17.943690,ov_merceria_casale_40.6461_17.9437,Merceria Casale,RESTAURANT,ristorante
+40.646152,17.943497,ov_in_cucina_dall__ortolano_2_0_40.6462_17.9435,In Cucina Dall' Ortolano 2.0,RESTAURANT,ristorante
+40.646328,17.943660,ov_solo_di_sera_40.6463_17.9437,Solo Di Sera,RESTAURANT,ristorante
+40.646572,17.943642,ov_pizzeria_rosticceria_brindisi_40.6466_17.9436,Pizzeria Rosticceria Brindisi,RESTAURANT,ristorante
+40.646458,17.944004,ov_la_pizzeria_da_piero_40.6465_17.9440,La Pizzeria da Piero,RESTAURANT,ristorante
+40.626322,17.942311,ov_pizza___sfizi_40.6263_17.9423,Pizza & Sfizi,RESTAURANT,ristorante
+40.626412,17.941631,ov_la_puddica_40.6264_17.9416,La Puddica,RESTAURANT,ristorante
+40.628365,17.943037,ov_spiedo_matto___ristorante__braceria_e_pi_40.6284_17.9430,"Spiedo Matto - Ristorante, Braceria e Pizzeria a Brindisi",RESTAURANT,ristorante
+40.630718,17.940820,ov_o_lucianiello_40.6307_17.9408,O'Lucianiello,RESTAURANT,ristorante
+40.630527,17.940084,ov_sushi_feng_40.6305_17.9401,Sushi Feng,RESTAURANT,ristorante
+40.631207,17.940163,ov_romanelli_40.6312_17.9402,Romanelli,RESTAURANT,ristorante
+40.632350,17.947430,ov_il_panino_matto_40.6324_17.9474,Il Panino Matto,RESTAURANT,ristorante
+40.634433,17.942956,ov_kebab_pizza_adana_40.6344_17.9430,kebab pizza adana,RESTAURANT,ristorante
+40.633960,17.946730,ov_il_capriccio_40.6340_17.9467,Il Capriccio,RESTAURANT,ristorante
+40.632995,17.945935,ov_quaranta_caff__40.6330_17.9459,Quaranta Caffè,RESTAURANT,ristorante
+40.633715,17.940614,ov_hello_guys___the_burger_joint_40.6337_17.9406,Hello Guys - The Burger Joint,RESTAURANT,ristorante
+40.633780,17.940550,ov_hambjuj_40.6338_17.9406,Hambjuj,RESTAURANT,ristorante
+40.634003,17.942879,ov_pizzeria_cucinelli_da_osvaldo_40.6340_17.9429,Pizzeria Cucinelli da Osvaldo,RESTAURANT,ristorante
+40.634965,17.940282,ov_pizzeria_la_diavola_40.6350_17.9403,Pizzeria La Diavola,RESTAURANT,ristorante
+40.634940,17.940538,ov_my_poke_brindisi_40.6349_17.9405,My Poke Brindisi,RESTAURANT,ristorante
+40.635984,17.940954,ov_iku_sushi_40.6360_17.9410,Iku Sushi,RESTAURANT,ristorante
+40.635392,17.942807,ov_burgerhouse_40.6354_17.9428,Burgerhouse,RESTAURANT,ristorante
+40.635272,17.942284,ov_parrucchieri_men_women_40.6353_17.9423,Parrucchieri.men.women,RESTAURANT,ristorante
+40.635210,17.942480,ov_ristorante_pizzeria_a_metro_maccheroni_40.6352_17.9425,Ristorante Pizzeria a Metro Maccheroni,RESTAURANT,ristorante
+40.635200,17.943804,ov_bento_40.6352_17.9438,Bento,RESTAURANT,ristorante
+40.635247,17.943679,ov_taschino_street_sud_40.6352_17.9437,Taschino street sud,RESTAURANT,ristorante
+40.635533,17.942928,ov_secca_40.6355_17.9429,Secca,RESTAURANT,ristorante
+40.635541,17.946364,ov_la_strittulecchia_40.6355_17.9464,La strittulecchia,RESTAURANT,ristorante
+40.636023,17.945024,ov_il_botteghino_40.6360_17.9450,Il Botteghino,RESTAURANT,ristorante
+40.636152,17.944933,ov_sushiro_brindisi_40.6362_17.9449,Sushiro Brindisi,RESTAURANT,ristorante
+40.636113,17.945118,ov_spilusi_40.6361_17.9451,Spilusi,RESTAURANT,ristorante
+40.636220,17.944835,ov_arabella__fish_restaurant_40.6362_17.9448,Arabella- Fish Restaurant,RESTAURANT,ristorante
+40.636187,17.944092,ov_c_era_una_volta_40.6362_17.9441,C'era una volta,RESTAURANT,ristorante
+40.636147,17.943891,ov_100_____a_stare_40.6361_17.9439,100 ... A Stare,RESTAURANT,ristorante
+40.636000,17.943980,ov_nota___drink_wine_food_40.6360_17.9440,Nota - Drink Wine Food,RESTAURANT,ristorante
+40.635591,17.944335,ov_rendez_vous_cafe_bistrot_40.6356_17.9443,Rendez-Vous Cafe Bistrot,RESTAURANT,ristorante
+40.636396,17.944969,ov_la_capricciosa_40.6364_17.9450,La Capricciosa,RESTAURANT,ristorante
+40.636623,17.946344,ov_mama_trattoria_di_mare_40.6366_17.9463,Mama Trattoria di Mare,RESTAURANT,ristorante
+40.636919,17.946409,ov_pizzeria_romanelli_40.6369_17.9464,Pizzeria Romanelli,RESTAURANT,ristorante
+40.637118,17.946393,ov_nove_radici___apulian_food_experience_40.6371_17.9464,Nove Radici - Apulian Food Experience,RESTAURANT,ristorante
+40.637261,17.946189,ov_l_angolo_della_piada_40.6373_17.9462,L'Angolo della Piada,RESTAURANT,ristorante
+40.637231,17.946403,ov_ristorante_giubilo_40.6372_17.9464,Ristorante Giubilo,RESTAURANT,ristorante
+40.637483,17.946374,ov_principepatata_40.6375_17.9464,Principepatata,RESTAURANT,ristorante
+40.637282,17.945581,ov_mova_sushi_fusion_restaurant_40.6373_17.9456,Mova Sushi Fusion Restaurant,RESTAURANT,ristorante
+40.637231,17.944931,ov_nobis_food_40.6372_17.9449,NOBIS Food,RESTAURANT,ristorante
+40.637453,17.944791,ov_pizzeria_la_piazzetta_40.6375_17.9448,Pizzeria La Piazzetta,RESTAURANT,ristorante
+40.637275,17.944076,ov_lu_furnu_40.6373_17.9441,Lu Furnu,RESTAURANT,ristorante
+40.637286,17.944685,ov_fao_37_40.6373_17.9447,Fao 37,RESTAURANT,ristorante
+40.637103,17.944468,ov_bracerie_escosazio_40.6371_17.9445,Bracerie Escosazio,RESTAURANT,ristorante
+40.637328,17.942947,ov_trattoria_la_brasciola_40.6373_17.9429,Trattoria la Brasciola,RESTAURANT,ristorante
+40.636692,17.939563,ov_hanami_40.6367_17.9396,Hanami,RESTAURANT,ristorante
+40.638810,17.942654,ov_toto___raf_40.6388_17.9427,Toto & Raf,RESTAURANT,ristorante
+40.638637,17.941436,ov_cascip__40.6386_17.9414,Cascipò,RESTAURANT,ristorante
+40.639703,17.940965,ov_ristorante_pizzeria_regine_40.6397_17.9410,Ristorante Pizzeria Regine,RESTAURANT,ristorante
+40.639488,17.941867,ov_smoke_40.6395_17.9419,Smoke,RESTAURANT,ristorante
+40.638851,17.943040,ov_il_tempio_dei_sapori_40.6389_17.9430,Il Tempio dei Sapori,RESTAURANT,ristorante
+40.638850,17.943761,ov_pizzeria_spaccanapoli_40.6389_17.9438,Pizzeria SpaccaNapoli,RESTAURANT,ristorante
+40.639831,17.942958,ov_acquapazza_40.6398_17.9430,Acquapazza,RESTAURANT,ristorante
+40.639878,17.943156,ov_brunda_pizzeria_40.6399_17.9432,Brunda Pizzeria,RESTAURANT,ristorante
+40.640135,17.944350,ov_il_giardino_40.6401_17.9444,Il Giardino,RESTAURANT,ristorante
+40.639707,17.944828,ov_social___hamburgeria_40.6397_17.9448,Social - Hamburgeria,RESTAURANT,ristorante
+40.639342,17.945801,ov_retrogusto_40.6393_17.9458,Retrogusto,RESTAURANT,ristorante
+40.638260,17.946369,ov_la_cantina_ti_l_artisti_40.6383_17.9464,La Cantina Ti L'Artisti,RESTAURANT,ristorante
+40.638310,17.945530,ov_fava_40.6383_17.9455,Fava,RESTAURANT,ristorante
+40.638479,17.944995,ov_empanadas_de_diez_40.6385_17.9450,Empanadas De Diez,RESTAURANT,ristorante
+40.638542,17.944949,ov_taylor_s_bistrot_40.6385_17.9449,Taylor's Bistrot,RESTAURANT,ristorante
+40.638806,17.943581,ov_antipasteria_il_carpaccio_40.6388_17.9436,Antipasteria Il Carpaccio,RESTAURANT,ristorante
+40.638311,17.944155,ov_concordia_bistrot_40.6383_17.9442,Concordia Bistrot,RESTAURANT,ristorante
+40.638299,17.944105,ov_la_plaza_brindisi_40.6383_17.9441,La Plaza Brindisi,RESTAURANT,ristorante
+40.637709,17.944261,ov_trattoria_siamo_fritti_40.6377_17.9443,Trattoria Siamo Fritti,RESTAURANT,ristorante
+40.637725,17.944783,ov_putea___sapore_di_sud_40.6377_17.9448,Putea - sapore di sud,RESTAURANT,ristorante
+40.637842,17.944862,ov_molo_33_40.6378_17.9449,Molo 33,RESTAURANT,ristorante
+40.638032,17.944939,ov_pizza___sfizi_40.6380_17.9449,Pizza & Sfizi,RESTAURANT,ristorante
+40.637989,17.945753,ov_iku_sushi_bar_food_drink_40.6380_17.9458,IKU SUSHI BAR Food&Drink,RESTAURANT,ristorante
+40.637838,17.946414,ov_edo_40.6378_17.9464,Edo,RESTAURANT,ristorante
+40.637915,17.947329,ov_piadineria_40.6379_17.9473,Piadineria,RESTAURANT,ristorante
+40.638490,17.947510,ov_urban_beat_burger___coffee_40.6385_17.9475,Urban Beat Burger & Coffee,RESTAURANT,ristorante
+40.638270,17.947425,ov_mama_panzerotti_40.6383_17.9474,Mama Panzerotti,RESTAURANT,ristorante
+40.638286,17.947205,ov_barbecue_brothers_40.6383_17.9472,Barbecue Brothers,RESTAURANT,ristorante
+40.638625,17.947225,ov_kebaberia_paris_40.6386_17.9472,Kebaberia Paris,RESTAURANT,ristorante
+40.638618,17.947211,ov_royal_kebab_40.6386_17.9472,Royal Kebab,RESTAURANT,ristorante
+40.638552,17.947163,ov_il_sultano_40.6386_17.9472,Il Sultano,RESTAURANT,ristorante
+40.638827,17.947563,ov_antica_focacceria_boscaini_40.6388_17.9476,Antica Focacceria Boscaini,RESTAURANT,ristorante
+40.639242,17.947791,ov_levante_puglia_e_mangia_40.6392_17.9478,Levante Puglia e Mangia,RESTAURANT,ristorante
+40.639339,17.947828,ov_la_baguetteria_del_corso_40.6393_17.9478,La Baguetteria del Corso,RESTAURANT,ristorante
+40.639231,17.947035,ov_pantagruele_40.6392_17.9470,Pantagruele,RESTAURANT,ristorante
+40.639509,17.947269,ov_la_dimora_del_porto_40.6395_17.9473,La dimora del porto,RESTAURANT,ristorante
+40.639924,17.947373,ov_penny_40.6399_17.9474,Penny,RESTAURANT,ristorante
+40.639676,17.947726,ov_pacman_brindisi_40.6397_17.9477,Pacman Brindisi,RESTAURANT,ristorante
+40.636045,17.948977,ov_kalispera_40.6360_17.9490,Kalispera,RESTAURANT,ristorante
+40.635476,17.948663,ov_hamare_40.6355_17.9487,Hamare,RESTAURANT,ristorante
+40.640291,17.946807,ov_don_angus_restaurant___steak_house_40.6403_17.9468,DON ANGUS Restaurant & Steak House,RESTAURANT,ristorante
+40.641666,17.944566,ov_bella_napoli_40.6417_17.9446,Bella Napoli,RESTAURANT,ristorante
+40.641652,17.945766,ov_pescheria_del_porto_40.6417_17.9458,Pescheria del Porto,RESTAURANT,ristorante
+40.641740,17.945640,ov_alkilo_steakhouse_40.6417_17.9456,Alkilo Steakhouse,RESTAURANT,ristorante
+40.641468,17.946477,ov_windsurf_40.6415_17.9465,Windsurf,RESTAURANT,ristorante
+40.641499,17.946588,ov_sapido_40.6415_17.9466,Sapido,RESTAURANT,ristorante
+40.641107,17.946716,ov_ristorante_piazzetta_colonne_40.6411_17.9467,Ristorante Piazzetta Colonne,RESTAURANT,ristorante
+40.640903,17.946610,ov_mamm_anna_pizzeria_birreria_40.6409_17.9466,Mamm’Anna Pizzeria Birreria,RESTAURANT,ristorante
+40.641252,17.944708,ov_la_locanda_del_porto_40.6413_17.9447,La Locanda del Porto,RESTAURANT,ristorante
+40.641234,17.942286,ov_marea_seaside_experience_40.6412_17.9423,Marea Seaside Experience,RESTAURANT,ristorante
+40.640523,17.941971,ov_trattoria_di_mare_40.6405_17.9420,Trattoria Di Mare,RESTAURANT,ristorante
+40.640540,17.941445,ov_da_luigi_il_capitano_40.6405_17.9414,Da Luigi il Capitano,RESTAURANT,ristorante
+40.640514,17.941794,ov_la_paranza_40.6405_17.9418,La Paranza,RESTAURANT,ristorante
+40.640595,17.941558,ov_ristorante_diecimiglia_40.6406_17.9416,Ristorante Diecimiglia,RESTAURANT,ristorante
+40.640688,17.941788,ov_la_nassa_40.6407_17.9418,La Nassa,RESTAURANT,ristorante
+40.640312,17.940862,ov_antica_osteria_pizzeria_la_sciabica_40.6403_17.9409,Antica Osteria Pizzeria La Sciabica,RESTAURANT,ristorante
+40.643686,17.940759,ov_maredentro_seafood_40.6437_17.9408,MaRedentro seafood,RESTAURANT,ristorante
+40.642859,17.933375,ov_al_porto_da_guido_40.6429_17.9334,Al Porto Da Guido,RESTAURANT,ristorante
+40.642808,17.933322,ov_la_lega_da_guidone_street_food_40.6428_17.9333,La Lega da Guidone Street Food,RESTAURANT,ristorante
+40.637073,17.938873,ov_pizzeria_lo_svevo_40.6371_17.9389,Pizzeria Lo Svevo,RESTAURANT,ristorante
+40.635346,17.937020,ov_pizzeria_romanelli_tor_pisana_40.6353_17.9370,Pizzeria Romanelli Tor Pisana,RESTAURANT,ristorante
+40.635384,17.936215,ov_pizzeria_sosta_e_gusta_40.6354_17.9362,Pizzeria Sosta e Gusta,RESTAURANT,ristorante
+40.636650,17.932695,ov_nonna_mina_40.6367_17.9327,Nonna Mina,RESTAURANT,ristorante
+40.636261,17.933141,ov_il_dragone_d_oro_40.6363_17.9331,Il dragone d'oro,RESTAURANT,ristorante
+40.635251,17.927933,ov_pasta_fresca_shop_40.6353_17.9279,Pasta Fresca Shop,RESTAURANT,ristorante
+40.637001,17.925260,ov_mille_sapori_40.6370_17.9253,Mille Sapori,RESTAURANT,ristorante
+40.637629,17.929033,ov_grano_uva_40.6376_17.9290,Grano&Uva,RESTAURANT,ristorante
+40.637558,17.929572,ov_pizzeria_little_maira___focacceria__rost_40.6376_17.9296,"Pizzeria Little Maira | Focacceria, rosticceria, buffet",RESTAURANT,ristorante
+40.624614,17.923524,ov_paninosteria_enrico_e_carmela_40.6246_17.9235,PaninOsteria Enrico e Carmela,RESTAURANT,ristorante
+40.624768,17.923391,ov_pizza_pazza_40.6248_17.9234,Pizza Pazza,RESTAURANT,ristorante
+40.627716,17.923713,ov_mister_pizza_40.6277_17.9237,Mister Pizza,RESTAURANT,ristorante
+40.628026,17.923344,ov_lele_pizzeria_40.6280_17.9233,Lele Pizzeria,RESTAURANT,ristorante
+40.628820,17.920310,ov_consenti_tavolacalda_bar_40.6288_17.9203,Consenti tavolacalda bar,RESTAURANT,ristorante
+40.629938,17.925384,ov_pizzeria_pit_stop_40.6299_17.9254,Pizzeria Pit Stop,RESTAURANT,ristorante
+40.630123,17.923960,ov_pizzeria_gnam_gnam_40.6301_17.9240,Pizzeria GNAM GNAM,RESTAURANT,ristorante
+40.630377,17.930861,ov_pizzeria_da_antonio_40.6304_17.9309,Pizzeria da Antonio,RESTAURANT,ristorante
+40.630950,17.930600,ov_iaccato___ristorante_del_pescatore___bri_40.6309_17.9306,Iaccato - Ristorante del Pescatore - Brindisi,RESTAURANT,ristorante
+40.630679,17.927696,ov_xiao_sushi_40.6307_17.9277,Xiao Sushi,RESTAURANT,ristorante
+40.631513,17.929160,ov_surgelsud_40.6315_17.9292,Surgelsud,RESTAURANT,ristorante
+40.631127,17.928686,ov_acci_pizza_40.6311_17.9287,Acci Pizza,RESTAURANT,ristorante
+40.633150,17.929810,ov_lo_stuzzicone_40.6331_17.9298,Lo Stuzzicone,RESTAURANT,ristorante
+40.633451,17.934131,ov_ristorante_ce_si_era_buono_ma_meglio_ann_40.6335_17.9341,Ristorante Ce Si Era Buono ma Meglio Anna da un'Altra Parte,RESTAURANT,ristorante
+40.633333,17.932672,ov_cozza_nera_40.6333_17.9327,Cozza Nera,RESTAURANT,ristorante
+40.634189,17.931940,ov_pronto_cuoci___pizzeria_la_principessa_40.6342_17.9319,"Pronto Cuoci , Pizzeria LA PRINCIPESSA",RESTAURANT,ristorante
+40.634428,17.934730,ov_cotto___mangiato_40.6344_17.9347,Cotto & Mangiato,RESTAURANT,ristorante
+40.634040,17.933690,ov_ghiotto_pizza_40.6340_17.9337,Ghiotto Pizza,RESTAURANT,ristorante
+40.633226,17.935739,ov_pizzeria_baffo_40.6332_17.9357,Pizzeria Baffo,RESTAURANT,ristorante
+40.632360,17.938090,ov_friggitoria_krystal_40.6324_17.9381,Friggitoria Krystal,RESTAURANT,ristorante
+40.631241,17.935842,ov_il_pranzo_e_servito_40.6312_17.9358,Il Pranzo e Servito,RESTAURANT,ristorante
+40.631933,17.936449,ov_l_orto_cotto_40.6319_17.9364,L'Orto Cotto,RESTAURANT,ristorante
+40.631724,17.933293,ov_el_pica_pollo_girarrosto_40.6317_17.9333,El Pica Pollo Girarrosto,RESTAURANT,ristorante
+40.631604,17.933244,ov_il_boccalino_40.6316_17.9332,Il Boccalino,RESTAURANT,ristorante
+40.630837,17.933858,ov_pizzicotto_40.6308_17.9339,Pizzicotto,RESTAURANT,ristorante
+40.629800,17.932495,ov_pescheria_da_romeo_40.6298_17.9325,Pescheria da Romeo,RESTAURANT,ristorante
+40.628453,17.936119,ov_il_rifugio_pizzeria_40.6285_17.9361,Il Rifugio Pizzeria,RESTAURANT,ristorante
+40.628181,17.933603,ov_pizzeria_miky_40.6282_17.9336,Pizzeria Miky,RESTAURANT,ristorante
+40.628162,17.933734,ov_vera_napoli_40.6282_17.9337,Vera Napoli,RESTAURANT,ristorante
+40.627948,17.935062,ov_che_gusto_cucinelli_40.6279_17.9351,Che Gusto Cucinelli,RESTAURANT,ristorante
+40.627280,17.931710,ov_bistrot_40.6273_17.9317,Bistrot,RESTAURANT,ristorante
+40.627362,17.931561,ov_pizzeria_lievita_24_40.6274_17.9316,Pizzeria Lievita 24,RESTAURANT,ristorante
+40.628947,17.932139,ov_pizzeria_ciro_40.6289_17.9321,Pizzeria Ciro,RESTAURANT,ristorante
+40.627273,17.925422,ov_antica_gastronomia_da_prassede_40.6273_17.9254,Antica Gastronomia da Prassede,RESTAURANT,ristorante
+40.627414,17.927038,ov_che_bont__40.6274_17.9270,Che bontà,RESTAURANT,ristorante
+40.627115,17.925830,ov_il_bistrot_dei_desideri_40.6271_17.9258,Il bistrot dei desideri,RESTAURANT,ristorante
+40.627120,17.925825,ov_pizze_e_cozze_40.6271_17.9258,Pizze e Cozze,RESTAURANT,ristorante
+40.627037,17.925652,ov_il_ritrovo_pizzeri_40.6270_17.9257,Il ritrovo pizzeri,RESTAURANT,ristorante
+40.626916,17.924882,ov_la_piazzetta_40.6269_17.9249,La Piazzetta,RESTAURANT,ristorante
+40.626857,17.924564,ov_panino_giusto_40.6269_17.9246,Panino Giusto,RESTAURANT,ristorante
+40.626039,17.924617,ov_il_ghiottone_40.6260_17.9246,Il Ghiottone,RESTAURANT,ristorante
+40.625410,17.927280,ov_pizzeria_de_matteis_40.6254_17.9273,Pizzeria De Matteis,RESTAURANT,ristorante
+40.625217,17.924156,ov_pizzeria_boomerang_40.6252_17.9242,Pizzeria Boomerang,RESTAURANT,ristorante
+40.624643,17.926057,ov_pizzeria_santa_chiara_40.6246_17.9261,Pizzeria SANTA CHIARA,RESTAURANT,ristorante
+40.624331,17.927023,ov_folie_caf__et_bistrot_40.6243_17.9270,Folie Café et Bistrot,RESTAURANT,ristorante
+40.624023,17.926604,ov_ocean_beef_40.6240_17.9266,Ocean Beef,RESTAURANT,ristorante
+40.620613,17.927022,ov_pizzeria_sant_andrea_40.6206_17.9270,Pizzeria Sant'Andrea,RESTAURANT,ristorante
+40.619179,17.938170,ov_mediterraneo_mare_40.6192_17.9382,Mediterraneo Mare,RESTAURANT,ristorante
+40.617605,17.913209,ov_vieni_a_casa_ca_ti_cucinu_40.6176_17.9132,Vieni a casa ca ti cucinu,RESTAURANT,ristorante
+40.619388,17.919803,ov_al_parco_pizzeria_antipasteria_40.6194_17.9198,Al parco Pizzeria Antipasteria,RESTAURANT,ristorante
+40.622280,17.916330,ov_stuzzicheria_mare_terra_40.6223_17.9163,Stuzzicheria mare terra,RESTAURANT,ristorante
+40.623178,17.915813,ov_mcdonald_s_40.6232_17.9158,McDonald's,RESTAURANT,ristorante
+40.618500,17.902698,ov_cewei_la_baracchina_del_porto_40.6185_17.9027,Cewei La Baracchina Del Porto,RESTAURANT,ristorante
+40.618683,17.902298,ov_billy_tacos_40.6187_17.9023,Billy Tacos,RESTAURANT,ristorante
+40.606739,17.885498,ov_braceria_pizzeria_torre_mozza_sporting_c_40.6067_17.8855,Braceria Pizzeria Torre Mozza Sporting Club,RESTAURANT,ristorante
+40.605522,17.884118,ov_alice_pizza_40.6055_17.8841,Alice Pizza,RESTAURANT,ristorante
+40.605130,17.939000,ov_beverly_grills_40.6051_17.9390,Beverly grills,RESTAURANT,ristorante
+40.620220,17.944423,ov_pizza_flash_40.6202_17.9444,Pizza Flash,RESTAURANT,ristorante
+40.624430,17.940162,ov_pizzeria_magic_star_40.6244_17.9402,Pizzeria Magic Star,RESTAURANT,ristorante

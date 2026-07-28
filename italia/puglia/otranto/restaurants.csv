@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Otranto — restaurants
+# otranto -- restaurants
 40.147307,18.487543,osm_ristorante_da_nonna_tina_40.1473_18.4875,Ristorante Da Nonna Tina,ristorante,ristorante
 40.147436,18.487871,osm_ristorante_miramare_40.1474_18.4879,Ristorante Miramare,ristorante,ristorante
 40.145768,18.492247,osm_l_alternativa_pizzeria_40.1458_18.4922,L'Alternativa Pizzeria,ristorante,ristorante
@@ -17,3 +17,130 @@
 40.146210,18.491688,osm_vecchia_otranto_40.1462_18.4917,Vecchia Otranto,ristorante,ristorante
 40.147590,18.487823,osm_cala_dei_normanni_40.1476_18.4878,Cala dei Normanni,ristorante,ristorante
 40.093883,18.488269,osm_tenuta_sant_emiliano_40.0939_18.4883,Tenuta Sant'Emiliano,ristorante,ristorante
+40.098793,18.482537,ov_la_cucina_della_provvidenza_40.0988_18.4825,La Cucina della Provvidenza,RESTAURANT,ristorante
+40.098786,18.480955,ov_masseria_panareo_40.0988_18.4810,Masseria Panareo,RESTAURANT,ristorante
+40.093902,18.488185,ov_tenuta_sant_emiliano_40.0939_18.4882,Tenuta Sant'Emiliano,RESTAURANT,ristorante
+40.088591,18.486710,ov_tenuta_l_alba_di_monte_matino_40.0886_18.4867,Tenuta L'Alba di Monte Matino,RESTAURANT,ristorante
+40.081409,18.482131,ov_approdo_di_enea_40.0814_18.4821,Approdo di Enea,RESTAURANT,ristorante
+40.080125,18.483281,ov_skile_40.0801_18.4833,Skile,RESTAURANT,ristorante
+40.079449,18.482855,ov_le_tajate___porto_badisco_40.0794_18.4829,Le Tajate - Porto Badisco,RESTAURANT,ristorante
+40.079254,18.482762,ov_trattoria_le_taiate_40.0793_18.4828,Trattoria Le Taiate,RESTAURANT,ristorante
+40.140485,18.491941,ov_b13_pizzeria_friggitoria_40.1405_18.4919,B13 Pizzeria Friggitoria,RESTAURANT,ristorante
+40.140074,18.483012,ov_materia_hostaria_in_otranto_40.1401_18.4830,Materia Hostaria in Otranto,RESTAURANT,ristorante
+40.139480,18.484630,ov_pizzeria_frumento_40.1395_18.4846,Pizzeria Frumento,RESTAURANT,ristorante
+40.139555,18.492286,ov_tenuta_torre_pinta_40.1396_18.4923,Tenuta Torre Pinta,RESTAURANT,ristorante
+40.138890,18.490766,ov_gli_ulivi_40.1389_18.4908,Gli Ulivi,RESTAURANT,ristorante
+40.143587,18.493942,ov_classe80_40.1436_18.4939,Classe80,RESTAURANT,ristorante
+40.144354,18.487071,ov_vicky_s_otranto_40.1444_18.4871,Vicky's Otranto,RESTAURANT,ristorante
+40.143846,18.491120,ov_terra_degli_ulivi_40.1438_18.4911,Terra degli Ulivi,RESTAURANT,ristorante
+40.143907,18.493128,ov_la_botte_trattoria_pinseria_40.1439_18.4931,La Botte Trattoria Pinseria,RESTAURANT,ristorante
+40.143892,18.493180,ov_alla_risacca_40.1439_18.4932,Alla Risacca,RESTAURANT,ristorante
+40.144373,18.491434,ov_masseria_le_creste_40.1444_18.4914,masseria le creste,RESTAURANT,ristorante
+40.144423,18.490490,ov_balconcino_d_oriente_40.1444_18.4905,Balconcino d'Oriente,RESTAURANT,ristorante
+40.144902,18.489489,ov_fossi_bar_e_cucina_40.1449_18.4895,Fossi Bar e Cucina,RESTAURANT,ristorante
+40.144967,18.489252,ov_oste_locanda_marinara_40.1450_18.4893,Oste Locanda Marinara,RESTAURANT,ristorante
+40.144876,18.491807,ov_ristorante_il_castello_otranto_40.1449_18.4918,Ristorante Il Castello Otranto,RESTAURANT,ristorante
+40.144851,18.492598,ov_icon_restaurant_otranto_40.1449_18.4926,Icon Restaurant Otranto,RESTAURANT,ristorante
+40.144915,18.492153,ov_duchesca_by_batik_40.1449_18.4922,Duchesca by Batik,RESTAURANT,ristorante
+40.144970,18.492170,ov_aqua_40.1450_18.4922,Aqua,RESTAURANT,ristorante
+40.145008,18.491516,ov_laltrobaffo_ristorante_40.1450_18.4915,LaltroBaffo Ristorante,RESTAURANT,ristorante
+40.145115,18.492519,ov_marinero_ristorante_40.1451_18.4925,Marinero Ristorante,RESTAURANT,ristorante
+40.145105,18.489329,ov_pi_greco_40.1451_18.4893,Pi Greco,RESTAURANT,ristorante
+40.145229,18.489729,ov_primo_trattoria_40.1452_18.4897,Primo Trattoria,RESTAURANT,ristorante
+40.145290,18.489657,ov_terra_nostra_40.1453_18.4897,Terra Nostra,RESTAURANT,ristorante
+40.145302,18.492423,ov_riva_21_40.1453_18.4924,Riva 21,RESTAURANT,ristorante
+40.145311,18.492338,ov_sosta_e_gusta_40.1453_18.4923,Sosta e Gusta,RESTAURANT,ristorante
+40.145289,18.492440,ov_borghi_d_otranto_40.1453_18.4924,Borghi d'Otranto,RESTAURANT,ristorante
+40.145206,18.490861,ov_arborvitae_40.1452_18.4909,ArborVitae,RESTAURANT,ristorante
+40.145186,18.491160,ov_l_ortale_ristoro_40.1452_18.4912,L'Ortale Ristoro,RESTAURANT,ristorante
+40.145145,18.492573,ov_postofisso_pucceria_agricola_40.1451_18.4926,Postofisso pucceria agricola,RESTAURANT,ristorante
+40.145123,18.492844,ov_agli_angeli_ribelli_40.1451_18.4928,Agli Angeli Ribelli,RESTAURANT,ristorante
+40.145221,18.492970,ov_il_corsaro_40.1452_18.4930,Il Corsaro,RESTAURANT,ristorante
+40.145227,18.493074,ov_friggitoria_otranto_40.1452_18.4931,Friggitoria Otranto,RESTAURANT,ristorante
+40.144923,18.494563,ov_ai_bastioni_40.1449_18.4946,Ai Bastioni,RESTAURANT,ristorante
+40.145447,18.493064,ov_covo_dei_mori_40.1454_18.4931,Covo Dei Mori,RESTAURANT,ristorante
+40.145563,18.491991,ov_ristorante_da_sergio_40.1456_18.4920,Ristorante da Sergio,RESTAURANT,ristorante
+40.145502,18.492049,ov_la_pignata_40.1455_18.4920,La Pignata,RESTAURANT,ristorante
+40.145438,18.492556,ov_vicolo_matto_fishbar_40.1454_18.4926,Vicolo Matto Fishbar,RESTAURANT,ristorante
+40.145437,18.492344,ov_l_ora_di_mezzo_40.1454_18.4923,L'Ora di Mezzo,RESTAURANT,ristorante
+40.145690,18.492322,ov_ristorante_terrazza_san_pietro_40.1457_18.4923,Ristorante Terrazza San Pietro,RESTAURANT,ristorante
+40.145751,18.492202,ov_l_alternativa_40.1458_18.4922,L'Alternativa,RESTAURANT,ristorante
+40.145890,18.492239,ov_lo_sfizio_40.1459_18.4922,Lo Sfizio,RESTAURANT,ristorante
+40.145922,18.492368,ov_patronale_40.1459_18.4924,Patronale,RESTAURANT,ristorante
+40.145597,18.488031,ov_myrko_roma_otranto_40.1456_18.4880,Myrko Roma-Otranto,RESTAURANT,ristorante
+40.123915,18.474662,ov_li_cuti_40.1239_18.4747,Li Cuti,RESTAURANT,ristorante
+40.125507,18.488440,ov_tenuta_scirocco_cucina_tipica_agriturism_40.1255_18.4884,Tenuta Scirocco cucina tipica agriturismo biologico,RESTAURANT,ristorante
+40.119314,18.480261,ov_agriturismo_la_fattoria_otranto_40.1193_18.4803,Agriturismo La Fattoria Otranto,RESTAURANT,ristorante
+40.119432,18.480982,ov_i_fatti_vostri___fans_40.1194_18.4810,I Fatti Vostri - Fans,RESTAURANT,ristorante
+40.119904,18.480990,ov_agriturismo_scalelle_40.1199_18.4810,Agriturismo Scalelle,RESTAURANT,ristorante
+40.120840,18.486650,ov_tenuta_scirocco_agriturismo_40.1208_18.4867,Tenuta Scirocco Agriturismo,RESTAURANT,ristorante
+40.115282,18.469069,ov_agriturismo_tenuta_malepane_40.1153_18.4691,Agriturismo Tenuta Malepane,RESTAURANT,ristorante
+40.148491,18.472491,ov_la_carcara_40.1485_18.4725,La Carcara,RESTAURANT,ristorante
+40.148377,18.486744,ov_il_ghiottone_40.1484_18.4867,Il Ghiottone,RESTAURANT,ristorante
+40.150159,18.482891,ov_lido_due_mori_40.1502_18.4829,Lido Due Mori,RESTAURANT,ristorante
+40.150427,18.487517,ov_skafe_la_locanda_40.1504_18.4875,Skafe La Locanda,RESTAURANT,ristorante
+40.149890,18.483060,ov_da_gabriele_40.1499_18.4831,Da Gabriele,RESTAURANT,ristorante
+40.148085,18.486679,ov_vizio_streetlab_40.1481_18.4867,VIZIO StreetLab,RESTAURANT,ristorante
+40.147854,18.487315,ov_white_restaurant_40.1479_18.4873,WHITE Restaurant,RESTAURANT,ristorante
+40.147694,18.486942,ov_horus_40.1477_18.4869,Horus,RESTAURANT,ristorante
+40.147502,18.487670,ov_ristorart_miramare_40.1475_18.4877,RistorArt Miramare,RESTAURANT,ristorante
+40.147410,18.487447,ov_ristorante_dal_baffo_40.1474_18.4874,Ristorante Dal Baffo,RESTAURANT,ristorante
+40.147255,18.487578,ov_la_cucina_di_nonna_tina_40.1473_18.4876,La Cucina di Nonna Tina,RESTAURANT,ristorante
+40.147265,18.487184,ov_retro_gusto_40.1473_18.4872,Retro Gusto,RESTAURANT,ristorante
+40.147115,18.487868,ov_ristorantino___dinette_40.1471_18.4879,Ristorantino...Dinette,RESTAURANT,ristorante
+40.146960,18.485104,ov_agriturismo_la_casetta_40.1470_18.4851,Agriturismo LA CASETTA,RESTAURANT,ristorante
+40.146642,18.488259,ov_ristorante_fronte_mare___otranto___salen_40.1466_18.4883,Ristorante Fronte Mare - Otranto - Salento (Le),RESTAURANT,ristorante
+40.146655,18.487492,ov_al_tartufo_40.1467_18.4875,Al Tartufo,RESTAURANT,ristorante
+40.146610,18.488147,ov_ristorante_profumo_di_mare_otranto_fish__40.1466_18.4881,Ristorante Profumo di Mare OTRANTO fish restaurant,RESTAURANT,ristorante
+40.147040,18.471730,ov_ristorante_la_triglia_40.1470_18.4717,Ristorante La Triglia,RESTAURANT,ristorante
+40.146284,18.487921,ov_lu_tata_n_zinu_40.1463_18.4879,Lu Tata N'zinu,RESTAURANT,ristorante
+40.146299,18.487973,ov_creperie_boom_40.1463_18.4880,Creperie Boom,RESTAURANT,ristorante
+40.146310,18.488044,ov_le_roi_de_la_crepe_40.1463_18.4880,Le Roi de la Crepe,RESTAURANT,ristorante
+40.146255,18.488085,ov_la_cornacchia_e_il_mosto_di_gianluca_cib_40.1463_18.4881,La Cornacchia e il Mosto di Gianluca cibelli,RESTAURANT,ristorante
+40.146178,18.487736,ov_l_oasi_della_pagnotta_40.1462_18.4877,L'Oasi Della Pagnotta,RESTAURANT,ristorante
+40.146166,18.488542,ov_fao_37_40.1462_18.4885,Fao 37,RESTAURANT,ristorante
+40.146232,18.488504,ov_amar__fish_food_40.1462_18.4885,Amarè Fish Food,RESTAURANT,ristorante
+40.146104,18.491369,ov_peccato_di_vino_40.1461_18.4914,Peccato di Vino,RESTAURANT,ristorante
+40.146197,18.491663,ov_vecchia_otranto_40.1462_18.4917,Vecchia Otranto,RESTAURANT,ristorante
+40.146074,18.492742,ov_moenia_40.1461_18.4927,Moenia,RESTAURANT,ristorante
+40.145985,18.491808,ov_sofish_40.1460_18.4918,SoFish,RESTAURANT,ristorante
+40.146276,18.496468,ov_peschiera_martinelli_40.1463_18.4965,Peschiera martinelli,RESTAURANT,ristorante
+40.146503,18.491482,ov_santamarea_40.1465_18.4915,Santamarea,RESTAURANT,ristorante
+40.146496,18.491793,ov_acmet_pasci__40.1465_18.4918,Acmet Pascià,RESTAURANT,ristorante
+40.146392,18.492204,ov_la_polperia_fish_bar_and_restaurant_40.1464_18.4922,La Polperia Fish Bar and Restaurant,RESTAURANT,ristorante
+40.146335,18.491402,ov_the_garden_of_the_king_40.1463_18.4914,The Garden of the King,RESTAURANT,ristorante
+40.146277,18.490048,ov_summer_fish_40.1463_18.4900,Summer Fish,RESTAURANT,ristorante
+40.146467,18.490109,ov_la_bella_idrusa_40.1465_18.4901,La Bella Idrusa,RESTAURANT,ristorante
+40.146619,18.490203,ov_la_bella_otranto_40.1466_18.4902,La Bella Otranto,RESTAURANT,ristorante
+40.146581,18.491254,ov_rosticceria_bibbo_40.1466_18.4913,Rosticceria Bibbo,RESTAURANT,ristorante
+40.146618,18.491040,ov_osteria_dei_villani___cucina_idruntina_40.1466_18.4910,Osteria dei Villani - Cucina Idruntina,RESTAURANT,ristorante
+40.146606,18.491063,ov_i_villani_d_aragona_40.1466_18.4911,I Villani D'Aragona,RESTAURANT,ristorante
+40.153874,18.488910,ov_nautilus_40.1539_18.4889,Nautilus,RESTAURANT,ristorante
+40.153761,18.490278,ov_atlantis_beach_otranto_40.1538_18.4903,Atlantis Beach Otranto,RESTAURANT,ristorante
+40.150550,18.487356,ov_laffaccio_40.1506_18.4874,Laffaccio,RESTAURANT,ristorante
+40.150554,18.482564,ov_ristorante_due_laghi_40.1506_18.4826,Ristorante Due Laghi,RESTAURANT,ristorante
+40.151763,18.481534,ov_cicerietria_40.1518_18.4815,Cicerietria,RESTAURANT,ristorante
+40.153569,18.464999,ov_masseria_montevergine_40.1536_18.4650,Masseria Montevergine,RESTAURANT,ristorante
+40.155612,18.453942,ov_corte_del_casaro_40.1556_18.4539,Corte del Casaro,RESTAURANT,ristorante
+40.155271,18.473008,ov_il_diavolicchio_goloso_40.1553_18.4730,Il Diavolicchio Goloso,RESTAURANT,ristorante
+40.163500,18.470430,ov_podere_san_michele_ristorante_40.1635_18.4704,Podere San Michele Ristorante,RESTAURANT,ristorante
+40.160527,18.452521,ov_da_gelsomino_40.1605_18.4525,Da Gelsomino,RESTAURANT,ristorante
+40.163766,18.454468,ov_li_massari_40.1638_18.4545,Li Massari,RESTAURANT,ristorante
+40.168247,18.464749,ov_agriturismo_terra_rossa_40.1682_18.4647,Agriturismo Terra Rossa,RESTAURANT,ristorante
+40.166980,18.475110,ov_pizzeria_la_boa_40.1670_18.4751,Pizzeria La Boa,RESTAURANT,ristorante
+40.169059,18.468047,ov_green_restaurant_40.1691_18.4680,Green Restaurant,RESTAURANT,ristorante
+40.168814,18.465593,ov_otus_camere_40.1688_18.4656,Otus Camere,RESTAURANT,ristorante
+40.174150,18.463924,ov_cicerietria_40.1742_18.4639,Cicerietria,RESTAURANT,ristorante
+40.175639,18.458906,ov_farmhouse_il_piccolo_lago_40.1756_18.4589,Farmhouse Il Piccolo Lago,RESTAURANT,ristorante
+40.177849,18.476258,ov_la_masseria_40.1778_18.4763,La Masseria,RESTAURANT,ristorante
+40.217779,18.451324,ov_ristorante_il_mirto_essenze_mediterranee_40.2178_18.4513,Ristorante Il Mirto Essenze Mediterranee,RESTAURANT,ristorante
+40.217920,18.461569,ov_serra_degli_alimini_1_40.2179_18.4616,Serra degli Alimini 1,RESTAURANT,ristorante
+40.204670,18.457110,ov_lido_del_sol___alimini_otranto_40.2047_18.4571,Lido del Sol - Alimini Otranto,RESTAURANT,ristorante
+40.203471,18.457997,ov_cocobay_40.2035_18.4580,Cocobay,RESTAURANT,ristorante
+40.189941,18.440019,ov_agriturismo_pietra_grande_40.1899_18.4400,Agriturismo Pietra Grande,RESTAURANT,ristorante
+40.244186,18.446388,ov_la_piazzetta_40.2442_18.4464,La Piazzetta,RESTAURANT,ristorante
+40.230315,18.451544,ov_lu_podere_40.2303_18.4515,Lu Podere,RESTAURANT,ristorante
+40.228520,18.442178,ov_ristorante_da_umberto_1972_40.2285_18.4422,Ristorante Da Umberto 1972,RESTAURANT,ristorante
+40.222117,18.441523,ov_da_umberto_40.2221_18.4415,Da Umberto,RESTAURANT,ristorante
+40.224311,18.448593,ov_agriturismo_la_moro_40.2243_18.4486,Agriturismo La Moro,RESTAURANT,ristorante
+40.226792,18.440586,ov_agriturismo_terra_dei_profumi_40.2268_18.4406,Agriturismo Terra dei Profumi,RESTAURANT,ristorante

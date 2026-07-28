@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Ceglie Messapica — restaurants
+# ceglie_messapica -- restaurants
 40.646372,17.518424,osm_cibus_40.6464_17.5184,Cibus,ristorante,ristorante
 40.647666,17.519114,osm_ristorante_l_antico_arco_40.6477_17.5191,Ristorante L'Antico Arco,ristorante,ristorante
 40.644955,17.520420,osm_pizzeria_trattoria_da_angelo_40.6450_17.5204,Pizzeria Trattoria da Angelo,ristorante,ristorante
@@ -7,3 +7,75 @@
 40.645609,17.516461,osm_trattoria_piaceri_e_tradizioni_40.6456_17.5165,Trattoria piaceri e tradizioni,ristorante,ristorante
 40.646274,17.516495,osm_osteria_pugliese_40.6463_17.5165,Osteria Pugliese,ristorante,ristorante
 40.647438,17.519208,osm_il_borghetto_40.6474_17.5192,Il Borghetto,ristorante,ristorante
+40.639296,17.502823,ov_ristorante_albergo_tre_trulli_40.6393_17.5028,Ristorante Albergo Tre Trulli,RESTAURANT,ristorante
+40.639646,17.502161,ov_la_baita_40.6396_17.5022,La Baita,RESTAURANT,ristorante
+40.640357,17.507401,ov_ristorante_da_gino_40.6404_17.5074,Ristorante Da Gino,RESTAURANT,ristorante
+40.641577,17.505177,ov_ristorante_da_mimma_40.6416_17.5052,Ristorante da Mimma,RESTAURANT,ristorante
+40.643752,17.509447,ov_nuova_pizzeria_pugliese_40.6438_17.5094,Nuova Pizzeria Pugliese,RESTAURANT,ristorante
+40.644792,17.509699,ov_le_5_stagioni_40.6448_17.5097,Le 5 Stagioni,RESTAURANT,ristorante
+40.642915,17.493487,ov_il_giardino_della_signora_40.6429_17.4935,Il Giardino della Signora,RESTAURANT,ristorante
+40.648421,17.508993,ov_crosta_40.6484_17.5090,Crosta,RESTAURANT,ristorante
+40.648618,17.509879,ov_da_rita_40.6486_17.5099,Da Rita,RESTAURANT,ristorante
+40.648987,17.509677,ov_l_angolo_della_pasta_40.6490_17.5097,L'Angolo della Pasta,RESTAURANT,ristorante
+40.649294,17.510061,ov_al_posto_giusto_40.6493_17.5101,Al Posto Giusto,RESTAURANT,ristorante
+40.655998,17.504078,ov_masseria_il_mandorlo_fiorito_40.6560_17.5041,Masseria il Mandorlo Fiorito,RESTAURANT,ristorante
+40.666169,17.449923,ov_masseria_tarturiello_40.6662_17.4499,Masseria Tarturiello,RESTAURANT,ristorante
+40.692334,17.454463,ov_masseria_selvaggi_40.6923_17.4545,Masseria Selvaggi,RESTAURANT,ristorante
+40.670382,17.535367,ov_masseria_casina_vitale_40.6704_17.5354,Masseria Casina Vitale,RESTAURANT,ristorante
+40.665729,17.551756,ov_casina_terramora_40.6657_17.5518,Casina Terramora,RESTAURANT,ristorante
+40.655317,17.540218,ov_antimo_40.6553_17.5402,Antimo,RESTAURANT,ristorante
+40.648695,17.513417,ov_base_margherita_40.6487_17.5134,Base Margherita,RESTAURANT,ristorante
+40.648096,17.515889,ov_la_forchetta_curiosa_40.6481_17.5159,La Forchetta Curiosa,RESTAURANT,ristorante
+40.647390,17.517389,ov_botrus_40.6474_17.5174,Botrus,RESTAURANT,ristorante
+40.647520,17.517827,ov_aloisia_40.6475_17.5178,Aloisia,RESTAURANT,ristorante
+40.646720,17.516434,ov_japigiano_40.6467_17.5164,Japigiano,RESTAURANT,ristorante
+40.646882,17.515245,ov_osteria_da_giuseppe_40.6469_17.5152,Osteria da Giuseppe,RESTAURANT,ristorante
+40.647378,17.514864,ov_la_piada_40.6474_17.5149,La Piada,RESTAURANT,ristorante
+40.647328,17.515404,ov_l_osteria_del_divingustare_40.6473_17.5154,L'Osteria del DivinGustare,RESTAURANT,ristorante
+40.647600,17.513240,ov_il_mantesino_40.6476_17.5132,Il Mantesino,RESTAURANT,ristorante
+40.647832,17.510950,ov_focacceria_l_incontro_40.6478_17.5110,Focacceria L'Incontro,RESTAURANT,ristorante
+40.646732,17.513497,ov_antica_forneria_pannofino_40.6467_17.5135,Antica Forneria Pannofino,RESTAURANT,ristorante
+40.646161,17.516773,ov_coimbra_brothers___in_piazza_40.6462_17.5168,Coimbra Brothers - in Piazza,RESTAURANT,ristorante
+40.646317,17.516601,ov_osteria_pugliese_40.6463_17.5166,Osteria Pugliese,RESTAURANT,ristorante
+40.646526,17.516456,ov_osteria_dell_orto_40.6465_17.5165,Osteria dell'Orto,RESTAURANT,ristorante
+40.646379,17.517719,ov_trattoria_la_cucina_della_nonna_40.6464_17.5177,Trattoria La Cucina della Nonna,RESTAURANT,ristorante
+40.646044,17.517130,ov_neviera_elia_40.6460_17.5171,Neviera Elia,RESTAURANT,ristorante
+40.646087,17.517528,ov_il_fico_40.6461_17.5175,Il Fico,RESTAURANT,ristorante
+40.646033,17.517830,ov_taverna_dei_domenicani_srl_40.6460_17.5178,Taverna Dei Domenicani Srl,RESTAURANT,ristorante
+40.645851,17.516956,ov_al_setaccio_40.6459_17.5170,Al setaccio,RESTAURANT,ristorante
+40.646000,17.517230,ov_trattoria_messapica_40.6460_17.5172,Trattoria Messapica,RESTAURANT,ristorante
+40.645934,17.516639,ov_zitto_e_mangia_40.6459_17.5166,Zitto e Mangia,RESTAURANT,ristorante
+40.645556,17.516526,ov_vino_fritti_e_cucina_40.6456_17.5165,Vino fritti e cucina,RESTAURANT,ristorante
+40.645629,17.516531,ov_trattoria_piaceri_e_tradizione_40.6456_17.5165,Trattoria piaceri e tradizione,RESTAURANT,ristorante
+40.645501,17.517546,ov_osteria_del_capitolo_40.6455_17.5175,Osteria del Capitolo,RESTAURANT,ristorante
+40.645515,17.517494,ov_l_acquolina_40.6455_17.5175,L'Acquolina,RESTAURANT,ristorante
+40.646391,17.519455,ov_la_locanda_40.6464_17.5195,La Locanda,RESTAURANT,ristorante
+40.646133,17.519159,ov_terra_di_juso_40.6461_17.5192,Terra Di Juso,RESTAURANT,ristorante
+40.646009,17.518964,ov_la_bottega_di_nisco_40.6460_17.5190,La Bottega di Nisco,RESTAURANT,ristorante
+40.646449,17.518422,ov_cibus_40.6464_17.5184,Cibus,RESTAURANT,ristorante
+40.646497,17.518842,ov_da_franco_relax_and_more_40.6465_17.5188,Da Franco relax and more,RESTAURANT,ristorante
+40.646688,17.519328,ov_catucci_ristorante_40.6467_17.5193,Catucci Ristorante,RESTAURANT,ristorante
+40.647285,17.518417,ov_i_capatosta_40.6473_17.5184,i Capatosta,RESTAURANT,ristorante
+40.647207,17.518279,ov_arrosteria_borgo_antico_40.6472_17.5183,Arrosteria Borgo Antico,RESTAURANT,ristorante
+40.647779,17.517997,ov_gira_mulo_hamburgheria_italiana_40.6478_17.5180,Gira Mulo Hamburgheria Italiana,RESTAURANT,ristorante
+40.647937,17.518684,ov_angolo_food_bistrot_40.6479_17.5187,Angolo food bistrot,RESTAURANT,ristorante
+40.647863,17.518922,ov_braceria_dei_santi_40.6479_17.5189,Braceria dei santi,RESTAURANT,ristorante
+40.647631,17.519075,ov_l_antico_arco_osteria_40.6476_17.5191,L'Antico Arco Osteria,RESTAURANT,ristorante
+40.647466,17.519208,ov_il_borghetto_40.6475_17.5192,Il Borghetto,RESTAURANT,ristorante
+40.647189,17.520083,ov_almar__40.6472_17.5201,Almaré,RESTAURANT,ristorante
+40.646469,17.619092,ov_masseria_palagogna_40.6465_17.6191,Masseria Palagogna,RESTAURANT,ristorante
+40.641507,17.537999,ov_villa_kailia_40.6415_17.5380,Villa Kailia,RESTAURANT,ristorante
+40.645160,17.521770,ov_borgo_mediterraneo_40.6452_17.5218,Borgo Mediterraneo,RESTAURANT,ristorante
+40.645146,17.522425,ov_garden___ristorante_pizzeria_40.6451_17.5224,Garden - Ristorante Pizzeria,RESTAURANT,ristorante
+40.644560,17.518936,ov_la_roccia_40.6446_17.5189,La Roccia,RESTAURANT,ristorante
+40.644980,17.520486,ov_blufin_sushi_40.6450_17.5205,Blufin Sushi,RESTAURANT,ristorante
+40.644458,17.516281,ov_fiscolo_pizzeria_mediterranea_40.6445_17.5163,Fiscolo Pizzeria Mediterranea,RESTAURANT,ristorante
+40.644755,17.515013,ov_ristorante_frammenti_d_itria_40.6448_17.5150,Ristorante Frammenti d'Itria,RESTAURANT,ristorante
+40.644645,17.511975,ov_mordi_e_fuggi_40.6446_17.5120,Mordi e Fuggi,RESTAURANT,ristorante
+40.643007,17.515326,ov_pizzeria_cento_pini_40.6430_17.5153,Pizzeria Cento Pini,RESTAURANT,ristorante
+40.642361,17.513750,ov_food_vibes_40.6424_17.5138,FOOD VIBES,RESTAURANT,ristorante
+40.642622,17.511414,ov_stella_gialla_40.6426_17.5114,Stella Gialla,RESTAURANT,ristorante
+40.641972,17.512880,ov_casa_dello_chef_40.6420_17.5129,Casa dello Chef,RESTAURANT,ristorante
+40.640559,17.512735,ov_ristorante_pizzeria_montevicoli_40.6406_17.5127,Ristorante Pizzeria Montevicoli,RESTAURANT,ristorante
+40.641490,17.519110,ov_josef_caf__40.6415_17.5191,Josef Cafè,RESTAURANT,ristorante
+40.639727,17.513384,ov_il_pirata_40.6397_17.5134,Il Pirata,RESTAURANT,ristorante

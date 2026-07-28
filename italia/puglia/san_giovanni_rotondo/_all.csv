@@ -1,4 +1,151 @@
 # lat,lng,id,name,building_type,type
-# San Giovanni Rotondo — Tutti i POI
+# San Giovanni Rotondo -- Tutti
 41.707588,15.706679,osm_i_santi_41.7076_15.7067,I Santi,ristorante,ristorante
 41.707850,15.706864,osm_la_cialda_41.7078_15.7069,La Cialda,ristorante,ristorante
+41.707250,15.719540,ov_ospedale_san_giovanni_rotondo_41.7073_15.7195,Ospedale San Giovanni Rotondo,HOSPITAL,hospital
+41.707260,15.719360,ov_neurochirurgia_spinale_41.7073_15.7194,Neurochirurgia Spinale,HOSPITAL,hospital
+41.707162,15.719516,ov_chirurgia_del_ginocchio_casa_sollievo_de_41.7072_15.7195,Chirurgia del Ginocchio Casa Sollievo della Sofferenza,HOSPITAL,hospital
+41.707093,15.720787,ov_casa_sollievo_della_sofferenza_41.7071_15.7208,Casa Sollievo della Sofferenza,HOSPITAL,hospital
+41.708228,15.712528,ov_fondazione_centri_di_riabilitazione_padr_41.7082_15.7125,Fondazione Centri di Riabilitazione Padre Pio Onlus,HOSPITAL,hospital
+41.708541,15.701907,ov_poliambulatorio_giovanni_paolo_ii_41.7085_15.7019,Poliambulatorio Giovanni Paolo II,HOSPITAL,hospital
+41.708459,15.706554,ov_casa_sollievo_della_sofferenza_41.7085_15.7066,Casa Sollievo della Sofferenza,HOSPITAL,hospital
+41.705317,15.734106,ov_altare_san_camillo_de_lellis_41.7053_15.7341,Altare San Camillo de Lellis,HOSPITAL,hospital
+41.699109,15.733770,ov_novamentis_41.6991_15.7338,NovaMentis,HOSPITAL,hospital
+41.636410,15.723910,ov_trattoria_montecatini_villamanda_41.6364_15.7239,Trattoria Montecatini-VILLAMANDA,RESTAURANT,ristorante
+41.657625,15.750882,ov_agriturismo_lombardi_41.6576_15.7509,Agriturismo LOMBARDI,RESTAURANT,ristorante
+41.667390,15.727000,ov_novecento___braceria_pizzeria_41.6674_15.7270,Novecento - Braceria pizzeria,RESTAURANT,ristorante
+41.680743,15.728743,ov_trattoria_buenza_41.6807_15.7287,Trattoria Buenza,RESTAURANT,ristorante
+41.685435,15.751821,ov_ristorante_paradiso_in_collina_41.6854_15.7518,Ristorante Paradiso in Collina,RESTAURANT,ristorante
+41.623218,15.733827,ov_tenuta_chianchito_41.6232_15.7338,Tenuta Chianchito,RESTAURANT,ristorante
+41.586483,15.767989,ov_tenuta_santa_lucia_41.5865_15.7680,Tenuta Santa Lucia,RESTAURANT,ristorante
+41.699224,15.673199,ov_tre_carlini_ristorante_41.6992_15.6732,Tre Carlini Ristorante,RESTAURANT,ristorante
+41.706102,15.697911,ov_lo_chalet_41.7061_15.6979,Lo Chalet,RESTAURANT,ristorante
+41.707081,15.721404,ov_tiffany_41.7071_15.7214,Tiffany,RESTAURANT,ristorante
+41.702350,15.720230,ov_therooftop_sgr_41.7024_15.7202,therooftop.sgr,RESTAURANT,ristorante
+41.706069,15.719514,ov_parrot_beer_and_grill_41.7061_15.7195,Parrot Beer and Grill,RESTAURANT,ristorante
+41.705875,15.719082,ov_pizzeria_da_vincenzo_o__napoletano_41.7059_15.7191,Pizzeria da Vincenzo o' Napoletano,RESTAURANT,ristorante
+41.705913,15.719227,ov_mamma_filomena_41.7059_15.7192,Mamma Filomena,RESTAURANT,ristorante
+41.705405,15.717225,ov_pranzi_express_41.7054_15.7172,Pranzi Express,RESTAURANT,ristorante
+41.705128,15.717301,ov_la_chimera_41.7051_15.7173,La Chimera,RESTAURANT,ristorante
+41.708210,15.714880,ov_wantedpub_braceria_41.7082_15.7149,Wantedpub Braceria,RESTAURANT,ristorante
+41.708275,15.713220,ov_antica_trattoria_41.7083_15.7132,Antica Trattoria,RESTAURANT,ristorante
+41.704885,15.713942,ov_regina_margherita_41.7049_15.7139,Regina Margherita,RESTAURANT,ristorante
+41.707355,15.701829,ov_taverna_panorama_41.7074_15.7018,Taverna Panorama,RESTAURANT,ristorante
+41.708171,15.701269,ov_il_passante_41.7082_15.7013,Il Passante,RESTAURANT,ristorante
+41.705096,15.700915,ov_la_perla_del_gargano_41.7051_15.7009,La Perla Del Gargano,RESTAURANT,ristorante
+41.703530,15.702244,ov_osteria_antica_piazzetta_41.7035_15.7022,Osteria Antica Piazzetta,RESTAURANT,ristorante
+41.705872,15.701363,ov_trattoria_le_more_41.7059_15.7014,Trattoria Le More,RESTAURANT,ristorante
+41.706014,15.703794,ov_trattoria_bar_millennium_41.7060_15.7038,Trattoria bar Millennium,RESTAURANT,ristorante
+41.702902,15.705010,ov_ristorante_sale_e_pepe_41.7029_15.7050,Ristorante Sale e Pepe,RESTAURANT,ristorante
+41.705265,15.707043,ov_hotel_corona_41.7053_15.7070,Hotel Corona,RESTAURANT,ristorante
+41.706291,15.705605,ov_trattoria_le_campane_41.7063_15.7056,Trattoria Le Campane,RESTAURANT,ristorante
+41.707771,15.706858,ov_la_cialda_41.7078_15.7069,La Cialda,RESTAURANT,ristorante
+41.704992,15.707231,ov_antica_posta_41.7050_15.7072,Antica POSTA,RESTAURANT,ristorante
+41.704020,15.707255,ov_trattoria_da_peppe_41.7040_15.7073,Trattoria da Peppe,RESTAURANT,ristorante
+41.703912,15.707409,ov_da_peppe_41.7039_15.7074,Da Peppe,RESTAURANT,ristorante
+41.695791,15.704193,ov_coppa_cicuta_41.6958_15.7042,Coppa Cicuta,RESTAURANT,ristorante
+41.697525,15.720731,ov_wanted_veggie_41.6975_15.7207,Wanted Veggie,RESTAURANT,ristorante
+41.697921,15.719829,ov_italian_kitchen_41.6979_15.7198,Italian kitchen,RESTAURANT,ristorante
+41.694431,15.728877,ov_villa_belvedere_41.6944_15.7289,Villa Belvedere,RESTAURANT,ristorante
+41.698507,15.732790,ov_macbeth_love_burger_41.6985_15.7328,Macbeth Love Burger,RESTAURANT,ristorante
+41.698410,15.732800,ov_l_angolo_divino_41.6984_15.7328,L'angolo Divino,RESTAURANT,ristorante
+41.698700,15.733030,ov_l_aperitivo__l_ape_dove_vuoi_41.6987_15.7330,"L’Aperitivo, l’ape dove vuoi",RESTAURANT,ristorante
+41.699248,15.729836,ov_f_lli_massa_snc_41.6992_15.7298,F.lli Massa Snc,RESTAURANT,ristorante
+41.702210,15.728081,ov_ristorante_l_arcadia_41.7022_15.7281,Ristorante l’arcadia,RESTAURANT,ristorante
+41.700240,15.726660,ov_ristorante_bar_i_santi_41.7002_15.7267,Ristorante bar I Santi,RESTAURANT,ristorante
+41.698589,15.722391,ov_villa_fontana_41.6986_15.7224,Villa Fontana,RESTAURANT,ristorante
+41.703454,15.723681,ov_le_magie_della_pasta_41.7035_15.7237,Le Magie Della Pasta,RESTAURANT,ristorante
+41.703811,15.725749,ov_pasti_e_condimenti_41.7038_15.7257,Pasti e condimenti,RESTAURANT,ristorante
+41.703380,15.725782,ov_pescheria_del_corso_41.7034_15.7258,Pescheria Del Corso,RESTAURANT,ristorante
+41.703414,15.725787,ov_pizzeria_strike_41.7034_15.7258,Pizzeria Strike,RESTAURANT,ristorante
+41.702569,15.726911,ov_katan__pranzi_d_asporto_41.7026_15.7269,Katané Pranzi D'asporto,RESTAURANT,ristorante
+41.706976,15.724828,ov_mezza_luna_41.7070_15.7248,Mezza Luna,RESTAURANT,ristorante
+41.707514,15.725729,ov_pizzeria_301_41.7075_15.7257,Pizzeria 301,RESTAURANT,ristorante
+41.707740,15.724122,ov_strapizzami_41.7077_15.7241,Strapizzami,RESTAURANT,ristorante
+41.707521,15.723336,ov_queen_rose_41.7075_15.7233,Queen Rose,RESTAURANT,ristorante
+41.706519,15.732616,ov_braceria_da_peppino_41.7065_15.7326,Braceria da Peppino,RESTAURANT,ristorante
+41.706510,15.732664,ov_pizzeria_da_peppino_41.7065_15.7327,Pizzeria da Peppino,RESTAURANT,ristorante
+41.706506,15.731719,ov_blumen_41.7065_15.7317,Blumen,RESTAURANT,ristorante
+41.706522,15.731509,ov_risto_healthy_cibo_per_l_anima_41.7065_15.7315,Risto Healthy cibo per l anima,RESTAURANT,ristorante
+41.706712,15.731189,ov_doya_sushi_41.7067_15.7312,Doya Sushi,RESTAURANT,ristorante
+41.708866,15.727769,ov_trattoria_chiazza_ranna_41.7089_15.7278,Trattoria Chiazza Ranna,RESTAURANT,ristorante
+41.707803,15.727460,ov_fil___max_ristorante_41.7078_15.7275,Fil & Max Ristorante,RESTAURANT,ristorante
+41.707597,15.727757,ov_nonna_puglia___san_giovanni_rotondo_41.7076_15.7278,Nonna Puglia - San Giovanni Rotondo,RESTAURANT,ristorante
+41.706790,15.728447,ov_washoku_kyo_41.7068_15.7284,Washoku Kyo,RESTAURANT,ristorante
+41.706863,15.728441,ov_buon_naso_buona_pizza_41.7069_15.7284,Buon naso buona pizza,RESTAURANT,ristorante
+41.706683,15.728407,ov_levels___food___drink_41.7067_15.7284,Levels - Food & Drink,RESTAURANT,ristorante
+41.706600,15.728820,ov_habibi_kebab_rosticceria_41.7066_15.7288,Habibi Kebab Rosticceria,RESTAURANT,ristorante
+41.706660,15.728857,ov_pizzeria_spizza_41.7067_15.7289,Pizzeria Spizza,RESTAURANT,ristorante
+41.706738,15.728826,ov_rosticceria_del_corso_41.7067_15.7288,Rosticceria Del Corso,RESTAURANT,ristorante
+41.708029,15.729361,ov_zimb____ristorante_brasiliano_41.7080_15.7294,Zimbó - Ristorante Brasiliano,RESTAURANT,ristorante
+41.708154,15.729437,ov_panas_41.7082_15.7294,Panas,RESTAURANT,ristorante
+41.706629,15.729897,ov_sfizieria_41.7066_15.7299,Sfizieria,RESTAURANT,ristorante
+41.705351,15.729676,ov_masseria_mil__41.7054_15.7297,Masseria Milù,RESTAURANT,ristorante
+41.705222,15.729550,ov_bosco_elda_41.7052_15.7295,Bosco Elda,RESTAURANT,ristorante
+41.703194,15.730374,ov_al_soppalco_41.7032_15.7304,Al Soppalco,RESTAURANT,ristorante
+41.706301,15.734636,ov_pizza_pazza_41.7063_15.7346,Pizza Pazza,RESTAURANT,ristorante
+41.666821,15.733050,ov_bar_le_matine_41.6668_15.7330,Bar Le Matine,RESTAURANT,bar_cafe
+41.613646,15.730705,ov_bar_barbano_41.6136_15.7307,Bar Barbano,RESTAURANT,bar_cafe
+41.471570,15.600268,ov_studiobar_41.4716_15.6003,StudioBar,RESTAURANT,bar_cafe
+41.706998,15.719748,ov_eurobet_san_giovanni_rotondo_41.7070_15.7197,Eurobet san giovanni rotondo,RESTAURANT,bar_cafe
+41.704647,15.714377,ov_zaira_bar_41.7046_15.7144,Zaira Bar,RESTAURANT,bar_cafe
+41.703807,15.715562,ov_factory_food_and_fun_41.7038_15.7156,Factory Food and Fun,RESTAURANT,bar_cafe
+41.708956,15.703160,ov_bar_la_fontanella_41.7090_15.7032,Bar La Fontanella,RESTAURANT,bar_cafe
+41.708942,15.703058,ov_la_piccola_baita_41.7089_15.7031,La Piccola Baita,RESTAURANT,bar_cafe
+41.704616,15.700105,ov_mood_coffee___restaurant_41.7046_15.7001,Mood Coffee & Restaurant,RESTAURANT,bar_cafe
+41.706034,15.702159,ov_cala_la_sera_41.7060_15.7022,Cala la Sera,RESTAURANT,bar_cafe
+41.708160,15.708255,ov_millionaire_caf__41.7082_15.7083,Millionaire Cafè,RESTAURANT,bar_cafe
+41.708056,15.708723,ov_eden_caffe_41.7081_15.7087,Eden Caffe,RESTAURANT,bar_cafe
+41.697678,15.718614,ov_extr__bar_41.6977_15.7186,Extrò Bar,RESTAURANT,bar_cafe
+41.700113,15.716206,ov_dea_caf__41.7001_15.7162,Dea Café,RESTAURANT,bar_cafe
+41.702060,15.720040,ov_voga_caf__i_mandorli_41.7021_15.7200,VOGA CAFÉ I Mandorli,RESTAURANT,bar_cafe
+41.702203,15.720524,ov_rise_cocktail___skyline_41.7022_15.7205,Rise Cocktail & Skyline,RESTAURANT,bar_cafe
+41.697514,15.720670,ov_snai_vincendo_41.6975_15.7207,Snai vincendo,RESTAURANT,bar_cafe
+41.698118,15.718800,ov_villa_alibi_41.6981_15.7188,Villa Alibi,RESTAURANT,bar_cafe
+41.698410,15.732800,ov_thebackdoorexperience_41.6984_15.7328,Thebackdoorexperience,RESTAURANT,bar_cafe
+41.701965,15.728550,ov_iqos_partner___bar_tabaccheria_stazione__41.7020_15.7286,"IQOS PARTNER - Bar tabaccheria stazione di servizio q8, San ",RESTAURANT,bar_cafe
+41.701124,15.723407,ov_corrall_pub_brewery_41.7011_15.7234,Corrall Pub Brewery,RESTAURANT,bar_cafe
+41.701120,15.723370,ov_terrazza_elisir_41.7011_15.7234,Terrazza Elisir,RESTAURANT,bar_cafe
+41.701120,15.723370,ov_elisir_outdoor_bar_41.7011_15.7234,ELISIR_outdoor bar,RESTAURANT,bar_cafe
+41.701549,15.723293,ov_bar_fiordelisi_41.7015_15.7233,Bar Fiordelisi,RESTAURANT,bar_cafe
+41.702054,15.721549,ov_plaza_cafe_41.7021_15.7215,Plaza Cafe,RESTAURANT,bar_cafe
+41.703610,15.723359,ov_extro_cafe_41.7036_15.7234,Extro Cafe,RESTAURANT,bar_cafe
+41.704858,15.725477,ov_il__bowling_di_pasquale_caronte_41.7049_15.7255,IL  Bowling di Pasquale Caronte,RESTAURANT,bar_cafe
+41.707077,15.725836,ov_caffe_xvi_41.7071_15.7258,Caffe XVI,RESTAURANT,bar_cafe
+41.707120,15.726480,ov_capricci_di_carne_41.7071_15.7265,Capricci di Carne,RESTAURANT,bar_cafe
+41.706820,15.724282,ov_manifa_videolottery_41.7068_15.7243,Manifa Videolottery,RESTAURANT,bar_cafe
+41.706924,15.724007,ov_bar_pasticceria_villa_41.7069_15.7240,Bar Pasticceria Villa,RESTAURANT,bar_cafe
+41.707352,15.723555,ov_train_cafe_41.7074_15.7236,Train Cafe,RESTAURANT,bar_cafe
+41.707310,15.722668,ov_scruffy_doffer_pub_41.7073_15.7227,Scruffy Doffer Pub,RESTAURANT,bar_cafe
+41.707280,15.721750,ov_bar_i_portici_41.7073_15.7218,Bar I Portici,RESTAURANT,bar_cafe
+41.707280,15.721750,ov_poik_bar_41.7073_15.7218,Poik Bar,RESTAURANT,bar_cafe
+41.706544,15.730892,ov_bar_millevoglie_41.7065_15.7309,Bar Millevoglie,RESTAURANT,bar_cafe
+41.707725,15.728441,ov_new_old_fashioned_41.7077_15.7284,New old fashioned,RESTAURANT,bar_cafe
+41.707713,15.728461,ov_opuswine_41.7077_15.7285,Opuswine,RESTAURANT,bar_cafe
+41.708172,15.728360,ov_la_birra_nel_pozzo_41.7082_15.7284,La Birra nel Pozzo,RESTAURANT,bar_cafe
+41.706876,15.728082,ov_bar_centrale_41.7069_15.7281,Bar Centrale,RESTAURANT,bar_cafe
+41.706769,15.728681,ov_bar_degli_olmi_41.7068_15.7287,Bar Degli Olmi,RESTAURANT,bar_cafe
+41.706787,15.729948,ov_baracca_da_biasino_41.7068_15.7299,Baracca Da Biasino,RESTAURANT,bar_cafe
+41.705230,15.729546,ov_civico23_41.7052_15.7295,Civico23,RESTAURANT,bar_cafe
+41.705416,15.728352,ov_monte_castellana_41.7054_15.7284,Monte Castellana,RESTAURANT,bar_cafe
+41.703168,15.727884,ov_drinking_enoteca_da_luca_41.7032_15.7279,DRINKing Enoteca da Luca,RESTAURANT,bar_cafe
+41.706282,15.735014,ov_kronos_bar_41.7063_15.7350,Kronos Bar,RESTAURANT,bar_cafe
+41.700000,15.733300,ov_bar_plaza_san_giovanni_rotondo_41.7000_15.7333,Bar Plaza San Giovanni Rotondo,RESTAURANT,bar_cafe
+41.700000,15.733300,ov_dejavu_jim_41.7000_15.7333,Dejavu JIM,RESTAURANT,bar_cafe
+41.706228,15.719630,ov_asd_alma_dance_41.7062_15.7196,ASD Alma Dance,GYM,palestra
+41.703119,15.720502,ov_centrodanza_41.7031_15.7205,Centrodanza,GYM,palestra
+41.705632,15.719380,ov_la_mecca_fitness_41.7056_15.7194,La Mecca fitness,GYM,palestra
+41.699707,15.714702,ov_asd_domino_urban_dance_area_41.6997_15.7147,Asd Domino urban dance area,GYM,palestra
+41.699516,15.716185,ov_fisiofit_41.6995_15.7162,Fisiofit,GYM,palestra
+41.700563,15.717761,ov_gym_life_41.7006_15.7178,Gym Life,GYM,palestra
+41.699870,15.727140,ov_technofitness_41.6999_15.7271,Technofitness,GYM,palestra
+41.705611,15.726871,ov_palestra_orientale_sport__fitness__circu_41.7056_15.7269,"Palestra Orientale Sport, Fitness, Circuito Training, Body B",GYM,palestra
+41.706155,15.725318,ov_associazione_culturale_solidale_mario_fi_41.7062_15.7253,Associazione Culturale Solidale Mario Fiore da 1990,GYM,palestra
+41.706804,15.725952,ov_nak_muay_gym_41.7068_15.7260,Nak Muay Gym,GYM,palestra
+41.707677,15.721683,ov_centro_yoga_wu_wei_41.7077_15.7217,Centro Yoga Wu Wei,GYM,palestra
+41.704247,15.730301,ov_ass__accademia_il_punto_41.7042_15.7303,Ass. Accademia Il Punto,GYM,palestra
+41.702290,15.732613,ov_bodyshape_totaltraining_41.7023_15.7326,BodyShape TotalTraining,GYM,palestra
+41.705604,15.734837,ov_scuola_calcio_real_san_giovanni_41.7056_15.7348,Scuola Calcio Real San Giovanni,GYM,palestra
+41.707989,15.706204,ov_via_crucis_monumentale_41.7080_15.7062,Via Crucis Monumentale,MONUMENT,monumento
+41.702140,15.729311,ov_di_maggio_tech_seum_41.7021_15.7293,DI Maggio Tech-seum,MUSEUM,monumento
+41.708955,15.727847,ov_museo_sull_arte_e_sulle_tradizioni_popol_41.7090_15.7278,Museo sull'arte e sulle tradizioni popolari del Gargano,MUSEUM,monumento

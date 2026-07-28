@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Salve — Tutti i POI
+# Salve -- Tutti
 39.836554,18.254858,osm_la_boteguita_39.8366_18.2549,La Boteguita,ristorante,ristorante
 39.851414,18.299284,osm_agriturismo_sante_le_muse_39.8514_18.2993,Agriturismo Sante Le Muse,ristorante,ristorante
 39.855677,18.302541,osm_jameson_pub_39.8557_18.3025,Jameson Pub,ristorante,ristorante
@@ -10,3 +10,65 @@
 39.835808,18.265628,osm_la_cozza_39.8358_18.2656,La Cozza,ristorante,ristorante
 39.836942,18.263935,osm_lu_postu_vecchiu_39.8369_18.2639,Lu Postu Vecchiu,ristorante,ristorante
 39.852341,18.188941,osm_kumare_39.8523_18.1889,Kumare,ristorante,ristorante
+39.835940,18.265666,ov_la_cozza___ristorante_pizzeria_posto_vec_39.8359_18.2657,La Cozza - Ristorante Pizzeria Posto Vecchio,RESTAURANT,ristorante
+39.836543,18.254913,ov_fast_food_da_damiano_39.8365_18.2549,Fast Food da Damiano,RESTAURANT,ristorante
+39.836558,18.252274,ov_katabba_39.8366_18.2523,Katabba,RESTAURANT,ristorante
+39.837283,18.255622,ov_ikarus____pescoluse_39.8373_18.2556,Ikarus  - Pescoluse,RESTAURANT,ristorante
+39.836664,18.264138,ov_parcheggi_auto_ombrelloni_e_lettini_post_39.8367_18.2641,Parcheggi auto ombrelloni e lettini Posto Vecchio,RESTAURANT,ristorante
+39.837383,18.256809,ov_fumisia___grill_beach_side_bar__spiaggia_39.8374_18.2568,Fumisia - grill beach side bar- spiaggia attrezzata,RESTAURANT,ristorante
+39.838267,18.254681,ov_dea_poke_39.8383_18.2547,Dea Poke,RESTAURANT,ristorante
+39.838265,18.252155,ov_mehari_39.8383_18.2522,Mehari,RESTAURANT,ristorante
+39.849584,18.268990,ov_masseria_ficazzana_39.8496_18.2690,Masseria Ficazzana,RESTAURANT,ristorante
+39.851394,18.299339,ov_sante_le_muse_39.8514_18.2993,Sante Le Muse,RESTAURANT,ristorante
+39.851567,18.262328,ov_tenuta_serre_39.8516_18.2623,Tenuta Serre,RESTAURANT,ristorante
+39.850684,18.191780,ov_la_cozza_39.8507_18.1918,La Cozza,RESTAURANT,ristorante
+39.852340,18.188335,ov_note_di_vino_trattoria_39.8523_18.1883,NOTE DI VINO Trattoria,RESTAURANT,ristorante
+39.852111,18.189787,ov_la_passeggiata_39.8521_18.1898,La Passeggiata,RESTAURANT,ristorante
+39.851191,18.190927,ov_martin_s_burger_planet_39.8512_18.1909,Martin's Burger Planet,RESTAURANT,ristorante
+39.850959,18.193457,ov_hotel_resort_l_arco_del_saracino_39.8510_18.1935,Hotel Resort L'Arco del Saracino,RESTAURANT,ristorante
+39.852383,18.189005,ov_kumare_braceria___steakhouse_39.8524_18.1890,Kumare braceria - steakhouse,RESTAURANT,ristorante
+39.842476,18.208065,ov_freedom_torre_pali_39.8425_18.2081,Freedom Torre Pali,RESTAURANT,ristorante
+39.842550,18.209363,ov_da_leo_39.8426_18.2094,Da Leo,RESTAURANT,ristorante
+39.843457,18.209756,ov_piatto_volante_39.8435_18.2098,Piatto Volante,RESTAURANT,ristorante
+39.844002,18.212325,ov_li_pali_39.8440_18.2123,Li Pali,RESTAURANT,ristorante
+39.842170,18.207831,ov_green_world_torre_pali_39.8422_18.2078,Green World Torre Pali,RESTAURANT,ristorante
+39.838836,18.207111,ov_salee_39.8388_18.2071,Salee,RESTAURANT,ristorante
+39.838864,18.209334,ov_ristorante_stella_del_mare_39.8389_18.2093,Ristorante Stella Del Mare,RESTAURANT,ristorante
+39.839041,18.209923,ov_nova_bar_bistrot_39.8390_18.2099,Nova Bar&Bistrot,RESTAURANT,ristorante
+39.837571,18.218990,ov_lido_gold_lounge_restaurant_39.8376_18.2190,Lido Gold Lounge Restaurant,RESTAURANT,ristorante
+39.838726,18.212239,ov_ristorante_bar_vela_mayor_39.8387_18.2122,Ristorante bar Vela Mayor,RESTAURANT,ristorante
+39.835518,18.237643,ov_reem_beach___restaurant___ricevimenti_39.8355_18.2376,Reem Beach - Restaurant - Ricevimenti,RESTAURANT,ristorante
+39.835699,18.236070,ov_fanum_pescoluse_39.8357_18.2361,Fanum Pescoluse,RESTAURANT,ristorante
+39.872501,18.316477,ov_agriturismo_terra_di_leuca_39.8725_18.3165,Agriturismo Terra di Leuca,RESTAURANT,ristorante
+39.863514,18.298151,ov_last_road_39.8635_18.2982,Last Road,RESTAURANT,ristorante
+39.863217,18.295708,ov_pizzeria_salentina___salve_39.8632_18.2957,Pizzeria Salentina - Salve,RESTAURANT,ristorante
+39.862459,18.296948,ov_rist_la_tavernetta_salve___le__39.8625_18.2969,Rist La Tavernetta Salve  (Le),RESTAURANT,ristorante
+39.862877,18.294349,ov_la_rivola_39.8629_18.2943,La Rivola,RESTAURANT,ristorante
+39.861120,18.293110,ov_panificio_italia_39.8611_18.2931,Panificio Italia,RESTAURANT,ristorante
+39.860421,18.295511,ov_pizzacata_39.8604_18.2955,PizzaCata,RESTAURANT,ristorante
+39.860349,18.295399,ov_supercarni_steak_and_grill_39.8603_18.2954,Supercarni Steak and Grill,RESTAURANT,ristorante
+39.860203,18.290621,ov_alimentari_vizzino_39.8602_18.2906,Alimentari Vizzino,RESTAURANT,ristorante
+39.859645,18.296112,ov_tatamino_39.8596_18.2961,Tatamino,RESTAURANT,ristorante
+39.858878,18.294349,ov_il_borghetto_39.8589_18.2943,Il Borghetto,RESTAURANT,ristorante
+39.858208,18.294260,ov_bouk_f_ristorantino___bar_39.8582_18.2943,Boukéf Ristorantino & Bar,RESTAURANT,ristorante
+39.858222,18.295447,ov_conca_d_oro_39.8582_18.2954,Conca D'oro,RESTAURANT,ristorante
+39.858421,18.293537,ov_il_cenacolo_della_tradizione_39.8584_18.2935,Il Cenacolo della Tradizione,RESTAURANT,ristorante
+39.835100,18.244902,ov_le_maldive_39.8351_18.2449,Le Maldive,RESTAURANT,bar_cafe
+39.837219,18.253408,ov_sgf_granite_siciliane_39.8372_18.2534,SGF Granite Siciliane,RESTAURANT,bar_cafe
+39.836911,18.255122,ov_boteguita_beach_pub_pescoluse_39.8369_18.2551,Boteguita Beach Pub Pescoluse,RESTAURANT,bar_cafe
+39.836852,18.263227,ov_bar_friend_s_39.8369_18.2632,Bar Friend's,RESTAURANT,bar_cafe
+39.838360,18.253840,ov_civico55_pescoluse_39.8384_18.2538,Civico55_pescoluse,RESTAURANT,bar_cafe
+39.838292,18.251094,ov_la_rotonda_39.8383_18.2511,La Rotonda,RESTAURANT,bar_cafe
+39.843418,18.210006,ov_caffetteria_miramare_39.8434_18.2100,Caffetteria miramare,RESTAURANT,bar_cafe
+39.838526,18.209206,ov_luna_rossa_bar_39.8385_18.2092,Luna Rossa bar,RESTAURANT,bar_cafe
+39.835226,18.237054,ov_lido_mariro__pescoluse_39.8352_18.2371,Lido Mariro' Pescoluse,RESTAURANT,bar_cafe
+39.872337,18.316209,ov_santa_marina___ruggiano_39.8723_18.3162,Santa Marina - Ruggiano,RESTAURANT,bar_cafe
+39.860240,18.300000,ov_freedom_cafe__39.8602_18.3000,Freedom CAFE',RESTAURANT,bar_cafe
+39.863812,18.294647,ov_new_generation_club_39.8638_18.2946,New Generation Club,RESTAURANT,bar_cafe
+39.859960,18.295660,ov_cocktailmatissebistrot_39.8600_18.2957,Cocktailmatissebistrot,RESTAURANT,bar_cafe
+39.859296,18.297111,ov_capricci_del_corso_39.8593_18.2971,Capricci del Corso,RESTAURANT,bar_cafe
+39.860096,18.295452,osm_caff__roma_39.8601_18.2955,Caffè Roma,bar_cafe,bar_cafe
+39.852401,18.189502,osm_caffetteria_martinucci_39.8524_18.1895,Caffetteria Martinucci,bar_cafe,bar_cafe
+39.838683,18.209681,osm_martinucci_laboratory_39.8387_18.2097,Martinucci Laboratory,bar_cafe,bar_cafe
+39.870443,18.317573,ov_w_sport_lab_39.8704_18.3176,W Sport Lab,GYM,palestra
+39.860476,18.292205,ov_palestra_pleine_forme_39.8605_18.2922,Palestra PLEINE Forme,GYM,palestra

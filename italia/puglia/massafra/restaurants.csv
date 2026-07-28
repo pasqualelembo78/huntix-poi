@@ -1,6 +1,69 @@
 # lat,lng,id,name,building_type,type
-# Massafra — restaurants
+# massafra -- restaurants
 40.585753,17.121731,osm_l_angolo_dei_golosi_40.5858_17.1217,L'angolo dei golosi,ristorante,ristorante
 40.589938,17.112300,osm_locanda_zia_riri_40.5899_17.1123,Locanda Zia Riri,ristorante,ristorante
 40.579650,17.109643,osm_byblos_caf__40.5797_17.1096,Byblos Cafè,ristorante,ristorante
 40.522658,17.106877,osm_pizzeria_campeggio_verdemare_40.5227_17.1069,Pizzeria Campeggio VerdeMare,ristorante,ristorante
+40.607803,16.987411,ov_demi_40.6078_16.9874,DeMi,RESTAURANT,ristorante
+40.515657,17.055641,ov_chiato__40.5157_17.0556,Chiato',RESTAURANT,ristorante
+40.516520,17.058030,ov_osteria_la_botte_40.5165_17.0580,Osteria La Botte,RESTAURANT,ristorante
+40.583641,17.111030,ov_mcdonald_s_40.5836_17.1110,McDonald's,RESTAURANT,ristorante
+40.585475,17.111365,ov_cavae_40.5855_17.1114,Cavae,RESTAURANT,ristorante
+40.585294,17.109368,ov_mr__poldo_40.5853_17.1094,Mr. Poldo,RESTAURANT,ristorante
+40.585344,17.109068,ov_trattoria_onda_blu_da_mimmo_ingrosso_40.5853_17.1091,Trattoria Onda blu da Mimmo Ingrosso,RESTAURANT,ristorante
+40.586227,17.103905,ov_damar_italia_40.5862_17.1039,DAMAR Italia,RESTAURANT,ristorante
+40.588495,17.111822,ov_pizzeria_l_orologio_fratelli_cardone_40.5885_17.1118,Pizzeria L'Orologio Fratelli Cardone,RESTAURANT,ristorante
+40.588891,17.111402,ov_la_topaia_40.5889_17.1114,La Topaia,RESTAURANT,ristorante
+40.590195,17.111647,ov_focacceria_da_paolo_40.5902_17.1116,Focacceria Da Paolo,RESTAURANT,ristorante
+40.592494,17.110926,ov_mordi_e_fuggi_40.5925_17.1109,Mordi E Fuggi,RESTAURANT,ristorante
+40.596317,17.112168,ov_ristorante_casa_mia_40.5963_17.1122,Ristorante Casa Mia,RESTAURANT,ristorante
+40.593894,17.110984,ov_la_ruota_della_fortuna_40.5939_17.1110,La Ruota Della Fortuna,RESTAURANT,ristorante
+40.595275,17.114112,ov_la_carica_dei_101_40.5953_17.1141,La Carica dei 101,RESTAURANT,ristorante
+40.594531,17.125767,ov_gommista_giuliani_vitantonio_40.5945_17.1258,Gommista Giuliani Vitantonio,RESTAURANT,ristorante
+40.597890,17.113702,ov_rosso_fuoco_40.5979_17.1137,Rosso Fuoco,RESTAURANT,ristorante
+40.588134,17.130849,ov_pizzeria_ristorante_bombablack_40.5881_17.1308,Pizzeria ristorante Bombablack,RESTAURANT,ristorante
+40.588093,17.128658,ov_pizzeria_felicissima_sera_40.5881_17.1287,Pizzeria Felicissima Sera,RESTAURANT,ristorante
+40.590475,17.124581,ov_enjoy___taste_the_experience_40.5905_17.1246,ENJOY - Taste the Experience,RESTAURANT,ristorante
+40.590134,17.122708,ov_la_regina_della_piada_40.5901_17.1227,La Regina Della Piada,RESTAURANT,ristorante
+40.591265,17.122965,ov_venti3_restaurant_40.5913_17.1230,Venti3 Restaurant,RESTAURANT,ristorante
+40.591838,17.118082,ov_frostar_40.5918_17.1181,Frostar,RESTAURANT,ristorante
+40.592273,17.114630,ov_aloha_poke_sushi_40.5923_17.1146,aloha poke sushi,RESTAURANT,ristorante
+40.590918,17.117529,ov_fabri_concept_pizza_40.5909_17.1175,Fabri Concept Pizza,RESTAURANT,ristorante
+40.589685,17.118780,ov_bomba_black_40.5897_17.1188,Bomba Black,RESTAURANT,ristorante
+40.589290,17.116699,ov_al_bacio_40.5893_17.1167,Al Bacio,RESTAURANT,ristorante
+40.587889,17.116156,ov_nuova_trattoria_pizzeria_onda_blu_40.5879_17.1162,Nuova trattoria pizzeria onda blu,RESTAURANT,ristorante
+40.587538,17.113547,ov_mba_hamburgeria_40.5875_17.1135,MBA Hamburgeria,RESTAURANT,ristorante
+40.587319,17.113790,ov_vecchie_storie_ristorante_40.5873_17.1138,Vecchie Storie Ristorante,RESTAURANT,ristorante
+40.587862,17.116383,ov_pizzeria_la_mia_passione_2_40.5879_17.1164,Pizzeria la mia Passione 2,RESTAURANT,ristorante
+40.587196,17.119102,ov_tuttaltra_pizza_40.5872_17.1191,Tuttaltra Pizza,RESTAURANT,ristorante
+40.588759,17.125668,ov_toyo_massafra_40.5888_17.1257,Toyo Massafra,RESTAURANT,ristorante
+40.585858,17.124392,ov_u__spiul_ristorante_40.5859_17.1244,U' Spiul Ristorante,RESTAURANT,ristorante
+40.585261,17.122694,ov_pizzeria_the_queen_40.5853_17.1227,Pizzeria The Queen,RESTAURANT,ristorante
+40.585777,17.121783,ov_l_angolo_dei_golosi_40.5858_17.1218,L'angolo Dei Golosi,RESTAURANT,ristorante
+40.586268,17.122683,ov_pizzeria_paradiso_40.5863_17.1227,Pizzeria Paradiso,RESTAURANT,ristorante
+40.586925,17.118980,ov_pizzeria_focacceria_da_gianmarco_40.5869_17.1190,Pizzeria focacceria da Gianmarco,RESTAURANT,ristorante
+40.586550,17.117170,ov_tuapulia_40.5866_17.1172,Tuapulia,RESTAURANT,ristorante
+40.586901,17.117401,ov_bar_moderno_40.5869_17.1174,Bar Moderno,RESTAURANT,ristorante
+40.587019,17.115549,ov_pizzeria_del_centro___le_specialita_di_e_40.5870_17.1155,Pizzeria Del Centro...le specialita di Eliseo e Francesco,RESTAURANT,ristorante
+40.586427,17.113151,ov_hostaria_la_serra_40.5864_17.1132,Hostaria La Serra,RESTAURANT,ristorante
+40.585976,17.112622,ov_civico_45_enosteria_40.5860_17.1126,Civico 45 Enosteria,RESTAURANT,ristorante
+40.585624,17.115029,ov_tan__pizzeria_focacceria_40.5856_17.1150,Tanì Pizzeria Focacceria,RESTAURANT,ristorante
+40.585638,17.114988,ov_frittaria_40.5856_17.1150,Frittaria,RESTAURANT,ristorante
+40.585667,17.114825,ov_la_pala_pizzeria_40.5857_17.1148,La Pala Pizzeria,RESTAURANT,ristorante
+40.585463,17.112346,ov_il_ritrovo_degli_ostinati_40.5855_17.1123,Il Ritrovo degli Ostinati,RESTAURANT,ristorante
+40.584481,17.113970,ov_yasaka_fusion_restaurant_40.5845_17.1140,Yasaka Fusion Restaurant,RESTAURANT,ristorante
+40.584265,17.116681,ov_linbo___premium_italian_citrus_40.5843_17.1167,LINBO - Premium Italian Citrus,RESTAURANT,ristorante
+40.584220,17.114524,ov_pizzeria_belvedere_40.5842_17.1145,Pizzeria Belvedere,RESTAURANT,ristorante
+40.582619,17.114497,ov_il_porcospino_40.5826_17.1145,Il Porcospino,RESTAURANT,ristorante
+40.582491,17.124694,ov_tornerai_food___wine_bar_40.5825_17.1247,Tornerai Food & Wine Bar,RESTAURANT,ristorante
+40.582289,17.124326,ov_arke_pizzeria_40.5823_17.1243,Arke Pizzeria,RESTAURANT,ristorante
+40.582120,17.124270,ov_voglia_pizza___sapori_40.5821_17.1243,Voglia Pizza & Sapori,RESTAURANT,ristorante
+40.582020,17.124126,ov_maior_cafe_40.5820_17.1241,Maior Cafe,RESTAURANT,ristorante
+40.586596,17.130304,ov_975_industrial_bistrot_40.5866_17.1303,975 Industrial Bistrot,RESTAURANT,ristorante
+40.579731,17.124666,ov_cristal_40.5797_17.1247,Cristal,RESTAURANT,ristorante
+40.580360,17.124607,ov_that_s_amore_massafra_40.5804_17.1246,That's Amore Massafra,RESTAURANT,ristorante
+40.580677,17.116833,ov_il_rifugio_del_re_40.5807_17.1168,Il Rifugio Del Re,RESTAURANT,ristorante
+40.581227,17.112629,ov_450gradi_italia____puglia_40.5812_17.1126,450Gradi Italia 🇮🇹 Puglia,RESTAURANT,ristorante
+40.569887,17.102834,ov_osteria_degli_ostinati_40.5699_17.1028,Osteria Degli Ostinati,RESTAURANT,ristorante
+40.650224,17.166759,ov_tenuta_la_ginestra_40.6502_17.1668,Tenuta la Ginestra,RESTAURANT,ristorante
+40.678190,17.166193,ov_masseria_cicerone_40.6782_17.1662,Masseria Cicerone,RESTAURANT,ristorante

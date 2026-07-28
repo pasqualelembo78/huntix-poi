@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Polignano a Mare — restaurants
+# polignano_a_mare -- restaurants
 41.013794,17.192704,osm_la_veranda_di_giselda_41.0138_17.1927,La Veranda di Giselda,ristorante,ristorante
 40.994991,17.215235,osm_villa_degli_aranci_40.9950_17.2152,Villa degli Aranci,ristorante,ristorante
 40.998093,17.215204,osm_la_tana_marina_40.9981_17.2152,La tana marina,ristorante,ristorante
@@ -20,3 +20,146 @@
 40.956617,17.204312,osm_paradisea_40.9566_17.2043,Paradisea,ristorante,ristorante
 40.989754,17.215013,osm_ristorante_pizzeria_il_sagittario_40.9898_17.2150,Ristorante Pizzeria Il Sagittario,ristorante,ristorante
 40.986983,17.190211,osm_sala_ricevimenti_san_tommaso_40.9870_17.1902,Sala ricevimenti San Tommaso,ristorante,ristorante
+40.930354,17.172855,ov_euforia_restaurant_40.9304_17.1729,Euforia Restaurant,RESTAURANT,ristorante
+40.926947,17.170092,ov_white_40.9269_17.1701,White,RESTAURANT,ristorante
+40.934727,17.178275,ov_il_ficodindia_40.9347_17.1783,Il Ficodindia,RESTAURANT,ristorante
+40.932344,17.188553,ov_ristorante_pizzeria_il_cuciniere_40.9323_17.1886,Ristorante Pizzeria Il Cuciniere,RESTAURANT,ristorante
+40.985746,17.236351,ov_graecalis_40.9857_17.2364,Graecalis,RESTAURANT,ristorante
+40.988581,17.228143,ov_l_officina_dei_sapori_40.9886_17.2281,L'Officina dei Sapori,RESTAURANT,ristorante
+40.989756,17.226305,ov_giuffr__40.9898_17.2263,Giuffrè,RESTAURANT,ristorante
+40.990568,17.227999,ov_golden_bar_pizza_more_40.9906_17.2280,Golden Bar-Pizza&more,RESTAURANT,ristorante
+40.990112,17.228472,ov_criv__pizzeria_40.9901_17.2285,Crivì pizzeria,RESTAURANT,ristorante
+40.990040,17.227182,ov_taxi_pizza_due_srl_40.9900_17.2272,Taxi Pizza Due SRL,RESTAURANT,ristorante
+40.989998,17.227115,ov_pinocchio_40.9900_17.2271,Pinocchio,RESTAURANT,ristorante
+40.992236,17.229543,ov_dettagli_di_mare_40.9922_17.2295,Dettagli di Mare,RESTAURANT,ristorante
+40.991939,17.224249,ov_pescheria_lo_scoglio_40.9919_17.2242,Pescheria Lo Scoglio,RESTAURANT,ristorante
+40.992849,17.229015,ov_pizzeria_triticum_40.9928_17.2290,Pizzeria Triticum,RESTAURANT,ristorante
+40.992754,17.229469,ov_leo_s_braci_d_autore_40.9928_17.2295,Leo's Braci d'Autore,RESTAURANT,ristorante
+40.993181,17.229123,ov_fra_crudi_and_cotti_40.9932_17.2291,Fra Crudi and Cotti,RESTAURANT,ristorante
+40.993144,17.229165,ov_l_eremita_40.9931_17.2292,L'eremita,RESTAURANT,ristorante
+40.993785,17.228192,ov_fuji_sushi_all_you_can_eat_40.9938_17.2282,Fuji Sushi All You Can Eat,RESTAURANT,ristorante
+40.993831,17.228267,ov_miyako_sushi_restaurant_40.9938_17.2283,Miyako Sushi Restaurant,RESTAURANT,ristorante
+40.996199,17.224085,ov_gola_snack_da_vito_ciambone_40.9962_17.2241,Gola Snack Da Vito Ciambone,RESTAURANT,ristorante
+40.998609,17.214752,ov_da_vittorino_by_vecchi_marinai_40.9986_17.2148,Da Vittorino by Vecchi Marinai,RESTAURANT,ristorante
+40.998344,17.213829,ov_ristorante_braceria_pizzeria_pepe_nero_40.9983_17.2138,Ristorante Braceria Pizzeria PEPE NERO,RESTAURANT,ristorante
+40.998345,17.214558,ov_da_pasqualino__il_re_del_polpo__40.9983_17.2146,Da Pasqualino -Il Re del Polpo-,RESTAURANT,ristorante
+40.997820,17.212479,ov_jamante_experience_restaurant_40.9978_17.2125,Jamante Experience Restaurant,RESTAURANT,ristorante
+40.998175,17.215161,ov_calapa_40.9982_17.2152,Calapa,RESTAURANT,ristorante
+40.996661,17.219493,ov_sunshine_lacasadelpolpo_40.9967_17.2195,Sunshine Lacasadelpolpo,RESTAURANT,ristorante
+40.996667,17.219491,ov_ristorante_la_balconata_40.9967_17.2195,Ristorante La Balconata,RESTAURANT,ristorante
+40.996847,17.219177,ov_lime_40.9968_17.2192,Lime,RESTAURANT,ristorante
+40.996630,17.219085,ov_strascina_40.9966_17.2191,Strascina,RESTAURANT,ristorante
+40.996403,17.219170,ov_number_one_paninoteca_friggitoria_40.9964_17.2192,Number ONE paninoteca friggitoria,RESTAURANT,ristorante
+40.996270,17.223283,ov_ristorante_grotta_ardito_40.9963_17.2233,Ristorante Grotta Ardito,RESTAURANT,ristorante
+40.995896,17.221121,ov_grotta_palazzese_40.9959_17.2211,Grotta Palazzese,RESTAURANT,ristorante
+40.995701,17.220997,ov_sporcamuss_40.9957_17.2210,Sporcamuss,RESTAURANT,ristorante
+40.995722,17.222495,ov_tuccino_40.9957_17.2225,tuccino,RESTAURANT,ristorante
+40.995352,17.221193,ov_mosto_polignano_40.9954_17.2212,Mosto Polignano,RESTAURANT,ristorante
+40.995441,17.221061,ov_vizi___sfizi_40.9954_17.2211,Vizi & Sfizi,RESTAURANT,ristorante
+40.995440,17.221569,ov_ristorante_nobilnonna_40.9954_17.2216,Ristorante Nobilnonna,RESTAURANT,ristorante
+40.995417,17.221774,ov_baguetteria_da_gianpie_40.9954_17.2218,Baguetteria da Gianpie,RESTAURANT,ristorante
+40.995493,17.221786,ov_pizza_e_fichi_40.9955_17.2218,Pizza E Fichi,RESTAURANT,ristorante
+40.995485,17.221097,ov_ruz_cucina_confidenziale_40.9955_17.2211,Ruz Cucina Confidenziale,RESTAURANT,ristorante
+40.995609,17.220889,ov_la_locanda_porta_picc_40.9956_17.2209,La Locanda Porta Picc,RESTAURANT,ristorante
+40.995367,17.220104,ov_tomarito_by_pescaria_40.9954_17.2201,Tomarito by Pescaria,RESTAURANT,ristorante
+40.995350,17.220212,ov_il_quadrifoglio_40.9953_17.2202,Il Quadrifoglio,RESTAURANT,ristorante
+40.995302,17.220520,ov_il_grottino_40.9953_17.2205,Il Grottino,RESTAURANT,ristorante
+40.995247,17.220532,ov_olio_su_pane_40.9952_17.2205,Olio su pane,RESTAURANT,ristorante
+40.995221,17.220902,ov_manvi_ortofood_40.9952_17.2209,ManVi Ortofood,RESTAURANT,ristorante
+40.995243,17.220122,ov_frum__focacceria_e_pinseria_40.9952_17.2201,Frumè Focacceria e Pinseria,RESTAURANT,ristorante
+40.995301,17.219979,ov_spizzicomania_40.9953_17.2200,Spizzicomania,RESTAURANT,ristorante
+40.995257,17.219702,ov_restaurant_antiche_mura_40.9953_17.2197,Restaurant Antiche Mura,RESTAURANT,ristorante
+40.995278,17.218743,ov_massari_mozzarella_bar_40.9953_17.2187,Massari Mozzarella Bar,RESTAURANT,ristorante
+40.995210,17.219280,ov_dragone_vito_40.9952_17.2193,Dragone Vito,RESTAURANT,ristorante
+40.995026,17.218944,ov_pic_nic___il_bistrot_di_casa_mia_40.9950_17.2189,PIC NIC - il bistrot di Casa Mia,RESTAURANT,ristorante
+40.995010,17.218700,ov_irvi_scafegelateria_40.9950_17.2187,Irvi’scafegelateria,RESTAURANT,ristorante
+40.995111,17.218686,ov_san_michele_osteria_40.9951_17.2187,San Michele Osteria,RESTAURANT,ristorante
+40.995213,17.218317,ov_lamare_40.9952_17.2183,Lamare,RESTAURANT,ristorante
+40.995351,17.218461,ov_al_buco_preferito_tranquillage_40.9954_17.2185,Al Buco Preferito Tranquillage,RESTAURANT,ristorante
+40.995339,17.219361,ov_osteria_dei_pellegrini_40.9953_17.2194,Osteria Dei Pellegrini,RESTAURANT,ristorante
+40.995417,17.218976,ov_begula_club_cafe_restaurant_40.9954_17.2190,Begula Club Cafe Restaurant,RESTAURANT,ristorante
+40.995522,17.218916,ov_cru_fish_bar_40.9955_17.2189,Cru Fish Bar,RESTAURANT,ristorante
+40.995861,17.219429,ov_trattoria_rosso_40.9959_17.2194,Trattoria Rosso,RESTAURANT,ristorante
+40.995744,17.218729,ov_osteria_dei_mulini_40.9957_17.2187,Osteria dei Mulini,RESTAURANT,ristorante
+40.995736,17.218963,ov_l_archibugio_40.9957_17.2190,L'Archibugio,RESTAURANT,ristorante
+40.995836,17.220478,ov_la_casa_di_nicole_40.9958_17.2205,La Casa di Nicole,RESTAURANT,ristorante
+40.995832,17.219610,ov_zia_l____la_merenda_barese_40.9958_17.2196,Zia Lè - La Merenda Barese,RESTAURANT,ristorante
+40.996175,17.220550,ov_casanova_polignano_a_mare_40.9962_17.2206,Casanova Polignano a Mare,RESTAURANT,ristorante
+40.996263,17.219900,ov_mint_cucina_fresca_40.9963_17.2199,MINT Cucina Fresca,RESTAURANT,ristorante
+40.996267,17.219291,ov_n_uro_ristorante_e_pizzeria_40.9963_17.2193,N€uro ristorante e pizzeria,RESTAURANT,ristorante
+40.996253,17.219060,ov_oro_della_terra_40.9963_17.2191,Oro della Terra,RESTAURANT,ristorante
+40.996057,17.219150,ov_bella__mbriana_40.9961_17.2192,Bella 'Mbriana,RESTAURANT,ristorante
+40.996098,17.219025,ov_ristorante_pizzeria_neuro_40.9961_17.2190,Ristorante Pizzeria Neuro,RESTAURANT,ristorante
+40.996256,17.217203,ov_la_focacceria_delle_noci_marco_40.9963_17.2172,La Focacceria Delle Noci Marco,RESTAURANT,ristorante
+40.996110,17.217176,ov_puro_40.9961_17.2172,Puro,RESTAURANT,ristorante
+40.995879,17.217416,ov_la_terrazza_40.9959_17.2174,La Terrazza,RESTAURANT,ristorante
+40.995961,17.217344,ov_la_rotellina_40.9960_17.2173,La Rotellina,RESTAURANT,ristorante
+40.995855,17.217849,ov_cove_restaurant___bar_40.9959_17.2178,Cove Restaurant & Bar,RESTAURANT,ristorante
+40.995813,17.217852,ov_fly_calaporto_40.9958_17.2179,Fly Calaporto,RESTAURANT,ristorante
+40.995698,17.217740,ov_terrazze_monachile_40.9957_17.2177,Terrazze Monachile,RESTAURANT,ristorante
+40.995061,17.215323,ov_villa_degli_aranci_40.9951_17.2153,Villa degli Aranci,RESTAURANT,ristorante
+40.996939,17.216895,ov_l_osteria_di_chichibio_40.9969_17.2169,L'Osteria di Chichibio,RESTAURANT,ristorante
+40.996849,17.216983,ov_cala_ponte_spa_40.9968_17.2170,Cala Ponte SPA,RESTAURANT,ristorante
+40.996928,17.216241,ov_trattoria_dal_monaco_40.9969_17.2162,Trattoria Dal Monaco,RESTAURANT,ristorante
+40.996742,17.215416,ov_ristorante_il_bastione_40.9967_17.2154,Ristorante Il Bastione,RESTAURANT,ristorante
+40.997098,17.215337,ov_focacce_memorabili_40.9971_17.2153,Focacce Memorabili,RESTAURANT,ristorante
+40.997067,17.215768,ov_osteria_piga_40.9971_17.2158,Osteria Piga,RESTAURANT,ristorante
+40.996955,17.216328,ov_braceria_dello_sport_40.9970_17.2163,Braceria dello Sport,RESTAURANT,ristorante
+40.997114,17.217155,ov_meraviglioso_40.9971_17.2172,Meraviglioso,RESTAURANT,ristorante
+40.997017,17.216963,ov_morus_ristorante_40.9970_17.2170,Morus Ristorante,RESTAURANT,ristorante
+40.997192,17.216677,ov_enzo_ciro__polignano_40.9972_17.2167,Enzo&Ciro- Polignano,RESTAURANT,ristorante
+40.997527,17.216534,ov_malidea_40.9975_17.2165,Malidea,RESTAURANT,ristorante
+40.994291,17.204486,ov_ristopizza_polignano_a_mare_40.9943_17.2045,Ristopizza Polignano A Mare,RESTAURANT,ristorante
+40.992872,17.217756,ov_moonlight_bistrot___polignano_a_mare_40.9929_17.2178,Moonlight Bistrot - Polignano a Mare,RESTAURANT,ristorante
+40.993430,17.212687,ov_360_gradi_40.9934_17.2127,360 Gradi,RESTAURANT,ristorante
+40.994397,17.215984,ov_specchia_sant_oronzo_40.9944_17.2160,Specchia Sant'Oronzo,RESTAURANT,ristorante
+40.993840,17.216300,ov_momo_sushi___grill_40.9938_17.2163,Momo Sushi & Grill,RESTAURANT,ristorante
+40.993842,17.218246,ov_panz_40.9938_17.2182,Panz,RESTAURANT,ristorante
+40.993733,17.219923,ov_eat___drink_kebab___pizza_40.9937_17.2199,Eat & Drink Kebab & Pizza,RESTAURANT,ristorante
+40.993907,17.220054,ov_braceria_da_marco_40.9939_17.2201,Braceria da Marco,RESTAURANT,ristorante
+40.994299,17.220927,ov_antica_trattoria_comes_40.9943_17.2209,Antica Trattoria Comes,RESTAURANT,ristorante
+40.994296,17.219766,ov_l_angolo_del_buon_gusto_40.9943_17.2198,L'Angolo del Buon Gusto,RESTAURANT,ristorante
+40.994321,17.219807,ov_la_rustica_40.9943_17.2198,La Rustica,RESTAURANT,ristorante
+40.994534,17.219226,ov_pizzeria_cucundeo_40.9945_17.2192,Pizzeria Cucundeo,RESTAURANT,ristorante
+40.994559,17.219340,ov_trattoria_il_cuccundeo_40.9946_17.2193,Trattoria Il Cuccundeo,RESTAURANT,ristorante
+40.994834,17.218825,ov_da_luciano_40.9948_17.2188,Da Luciano,RESTAURANT,ristorante
+40.994712,17.219395,ov_pescaria_40.9947_17.2194,Pescaria,RESTAURANT,ristorante
+40.994712,17.219402,ov_partenope_40.9947_17.2194,Partenope,RESTAURANT,ristorante
+40.994990,17.219910,ov_happy_food___il_fast_food_artigianale_40.9950_17.2199,Happy Food - Il fast food artigianale,RESTAURANT,ristorante
+40.994845,17.220624,ov_l_amo___love__fish___wine_40.9948_17.2206,"L'Amo - Love, Fish & Wine",RESTAURANT,ristorante
+40.994700,17.221080,ov_street_burger_40.9947_17.2211,Street Burger,RESTAURANT,ristorante
+40.993784,17.222143,ov_bottegasanta_40.9938_17.2221,Bottegasanta,RESTAURANT,ristorante
+40.993427,17.222558,ov_focacceria_del_corso_40.9934_17.2226,Focacceria del Corso,RESTAURANT,ristorante
+40.993453,17.219918,ov_braceria_leo_s_40.9935_17.2199,Braceria Leo's,RESTAURANT,ristorante
+40.993564,17.219742,ov_pizzeria_terra_marique_40.9936_17.2197,Pizzeria Terra Marique,RESTAURANT,ristorante
+40.993322,17.217989,ov_pa____vi__40.9933_17.2180,Pa' & Vi',RESTAURANT,ristorante
+40.993070,17.220020,ov_silvius_40.9931_17.2200,Silvius,RESTAURANT,ristorante
+40.993014,17.219924,ov_casa_orecchietta_40.9930_17.2199,Casa Orecchietta,RESTAURANT,ristorante
+40.992611,17.219458,ov_numeri_primi_40.9926_17.2195,Numeri Primi,RESTAURANT,ristorante
+40.992510,17.223110,ov_italiano_per_stranieri_a_polignano_a_mar_40.9925_17.2231,Italiano Per Stranieri a Polignano a Mare,RESTAURANT,ristorante
+40.991165,17.219443,ov_pruna_40.9912_17.2194,Pruna,RESTAURANT,ristorante
+40.991980,17.218650,ov_la_balconata_40.9920_17.2187,La Balconata,RESTAURANT,ristorante
+40.992008,17.214562,ov_ristorante_delicatesse_40.9920_17.2146,Ristorante Delicatesse,RESTAURANT,ristorante
+40.991923,17.214854,ov_pan_per_focaccia_40.9919_17.2149,Pan per focaccia,RESTAURANT,ristorante
+40.989799,17.215164,ov_ristorante_il_sagittario_40.9898_17.2152,Ristorante Il Sagittario,RESTAURANT,ristorante
+40.989968,17.215364,ov_il_capriccio_40.9900_17.2154,Il Capriccio,RESTAURANT,ristorante
+40.990873,17.220144,ov_peat_stop_40.9909_17.2201,Peat Stop,RESTAURANT,ristorante
+40.987854,17.222435,ov_ristorante_il_sagittario_40.9879_17.2224,Ristorante Il Sagittario,RESTAURANT,ristorante
+40.981432,17.183948,ov_villa_antos_40.9814_17.1839,Villa Antos,RESTAURANT,ristorante
+40.981229,17.183352,ov_macchialuna_40.9812_17.1834,Macchialuna,RESTAURANT,ristorante
+41.002818,17.202474,ov_da_tuccino_41.0028_17.2025,Da Tuccino,RESTAURANT,ristorante
+41.003249,17.202394,ov_abissi___bistrot_da_tuccino_41.0032_17.2024,Abissi - Bistrot da Tuccino,RESTAURANT,ristorante
+41.006548,17.201905,ov_ristorante_cala_ponte_41.0065_17.2019,Ristorante Cala Ponte,RESTAURANT,ristorante
+41.013737,17.192667,ov_la_veranda_di_giselda_41.0137_17.1927,La Veranda di Giselda,RESTAURANT,ristorante
+41.013244,17.192655,ov_locanda_dei_benedettini_41.0132_17.1927,Locanda dei Benedettini,RESTAURANT,ristorante
+41.013230,17.192900,ov_moonvida_41.0132_17.1929,Moonvida,RESTAURANT,ristorante
+40.950299,17.186346,ov_sand_veit_restaurant_40.9503_17.1863,Sand Veit Restaurant,RESTAURANT,ristorante
+40.957941,17.190698,ov_la_baracca_osteria_40.9579_17.1907,La Baracca Osteria,RESTAURANT,ristorante
+40.957670,17.191160,ov_white_restaurant_polignano_40.9577_17.1912,White Restaurant Polignano,RESTAURANT,ristorante
+40.954981,17.189530,ov_braceria_da_marcuccio_40.9550_17.1895,Braceria Da Marcuccio,RESTAURANT,ristorante
+40.960619,17.173716,ov_il_girasole_40.9606_17.1737,Il Girasole,RESTAURANT,ristorante
+40.960178,17.195139,ov_masseria_del_crocifisso_40.9602_17.1951,Masseria Del Crocifisso,RESTAURANT,ristorante
+40.962345,17.200663,ov_casale_dei_fornici_40.9623_17.2007,Casale dei Fornici,RESTAURANT,ristorante
+40.974791,17.251350,ov_baby_play__sporting_club_40.9748_17.2513,Baby Play- Sporting Club,RESTAURANT,ristorante
+40.973937,17.253040,ov_graecalis_40.9739_17.2530,Graecalis,RESTAURANT,ristorante
+40.952043,17.298647,ov_machi_charter_40.9520_17.2986,Machi Charter,RESTAURANT,ristorante

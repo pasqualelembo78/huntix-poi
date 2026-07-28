@@ -1,4 +1,174 @@
 # lat,lng,id,name,building_type,type
-# Vieste — restaurants
+# vieste -- restaurants
 41.881920,16.176825,osm_la_tipica_paposcia_41.8819_16.1768,La Tipica Paposcia,ristorante,ristorante
 41.881260,16.181749,osm_ristorante_la_ripa_41.8813_16.1817,Ristorante La Ripa,ristorante,ristorante
+41.790097,16.187799,ov_ristorante_i_delfini_41.7901_16.1878,Ristorante I Delfini,RESTAURANT,ristorante
+41.812464,16.148145,ov_masseria_san_salvatore_41.8125_16.1481,Masseria San Salvatore,RESTAURANT,ristorante
+41.825684,16.148374,ov_country_house_azienda_agricola_tavernola_41.8257_16.1484,Country House Azienda Agricola Tavernola,RESTAURANT,ristorante
+41.853994,16.168104,ov_de_simio_41.8540_16.1681,De Simio,RESTAURANT,ristorante
+41.854135,16.168116,ov_ristorante_desimio_41.8541_16.1681,Ristorante Desimio,RESTAURANT,ristorante
+41.854173,16.175810,ov_lisa_bay_41.8542_16.1758,Lisa Bay,RESTAURANT,ristorante
+41.855322,16.175392,ov_le_tre_vele_41.8553_16.1754,Le Tre Vele,RESTAURANT,ristorante
+41.855517,16.173754,ov_ristorante_gianni_e_il_mare_41.8555_16.1738,Ristorante Gianni e il Mare,RESTAURANT,ristorante
+41.857881,16.174689,ov_le_due_rose_41.8579_16.1747,Le Due Rose,RESTAURANT,ristorante
+41.849207,16.178186,ov_agriturismo_fara_del_falco_41.8492_16.1782,Agriturismo Fara del Falco,RESTAURANT,ristorante
+41.849225,16.177995,ov_lido_delfino_41.8492_16.1780,Lido Delfino,RESTAURANT,ristorante
+41.882471,16.182970,ov_ristorante_osteria_degli_archi_41.8825_16.1830,Ristorante Osteria Degli Archi,RESTAURANT,ristorante
+41.882700,16.182670,ov_donl__ristorante_41.8827_16.1827,Donlù Ristorante,RESTAURANT,ristorante
+41.882492,16.181812,ov_ristorante_padre_pio_41.8825_16.1818,Ristorante Padre Pio,RESTAURANT,ristorante
+41.882365,16.182064,ov_antichi_sapori_41.8824_16.1821,Antichi Sapori,RESTAURANT,ristorante
+41.882370,16.182020,ov_tett__a_tett__vieste_41.8824_16.1820,Tett’ A Tett’ Vieste,RESTAURANT,ristorante
+41.881353,16.181813,ov_sapore_di_mare_41.8814_16.1818,Sapore di Mare,RESTAURANT,ristorante
+41.881613,16.181692,ov_guarda_che_luna_41.8816_16.1817,Guarda che Luna,RESTAURANT,ristorante
+41.881413,16.181625,ov_ristorante_la_ripa_41.8814_16.1816,Ristorante La Ripa,RESTAURANT,ristorante
+41.881239,16.181359,ov_ristorante_piazzetta_petrone_41.8812_16.1814,Ristorante Piazzetta Petrone,RESTAURANT,ristorante
+41.881507,16.181193,ov_al_vicoletto_41.8815_16.1812,Al Vicoletto,RESTAURANT,ristorante
+41.881693,16.181121,ov_enoteca_vesta_41.8817_16.1811,Enoteca Vesta,RESTAURANT,ristorante
+41.881748,16.181022,ov_al_dragone_41.8817_16.1810,Al Dragone,RESTAURANT,ristorante
+41.881670,16.180956,ov_l_antica_pietra_41.8817_16.1810,L'Antica Pietra,RESTAURANT,ristorante
+41.881884,16.180766,ov_locanda_la_macina_41.8819_16.1808,Locanda La Macina,RESTAURANT,ristorante
+41.882307,16.180786,ov_pepe_nero_vieste_41.8823_16.1808,Pepe Nero Vieste,RESTAURANT,ristorante
+41.882662,16.180932,ov_le_mura_restaurant_vieste_41.8827_16.1809,Le Mura Restaurant Vieste,RESTAURANT,ristorante
+41.882904,16.180847,ov_l_angolo_del_panzerotto_41.8829_16.1808,L'angolo del Panzerotto,RESTAURANT,ristorante
+41.882764,16.181103,ov_la_tavernetta_ristorante_tipico_41.8828_16.1811,La Tavernetta Ristorante Tipico,RESTAURANT,ristorante
+41.882923,16.181036,ov_principe_41.8829_16.1810,Principe,RESTAURANT,ristorante
+41.882930,16.180984,ov_il_fornaio_41.8829_16.1810,il fornaio,RESTAURANT,ristorante
+41.883082,16.181125,ov_kraken_street_food_fish_41.8831_16.1811,Kraken street food fish,RESTAURANT,ristorante
+41.883157,16.180981,ov_pepa_pizza_e_vini_d_autore_41.8832_16.1810,Pepa Pizza e Vini D’Autore,RESTAURANT,ristorante
+41.883228,16.180884,ov_trattoria_pizzeria_i_piaceri_del_fosso_41.8832_16.1809,Trattoria pizzeria I piaceri del Fosso,RESTAURANT,ristorante
+41.883283,16.180756,ov_il_pizzicotto_41.8833_16.1808,Il Pizzicotto,RESTAURANT,ristorante
+41.883307,16.180731,ov_al_vaporetto_antipasteria_troccoleria_di_41.8833_16.1807,Al Vaporetto Antipasteria Troccoleria di Mare,RESTAURANT,ristorante
+41.883291,16.180783,ov_puglia_mia_41.8833_16.1808,Puglia Mia,RESTAURANT,ristorante
+41.883280,16.181190,ov_tirovino_41.8833_16.1812,Tirovino,RESTAURANT,ristorante
+41.883244,16.181409,ov_la_cantina__osteria___pizzeria_41.8832_16.1814,La Cantina: osteria - pizzeria,RESTAURANT,ristorante
+41.882973,16.181317,ov_la_grande_paposceria_bruschetteria_viest_41.8830_16.1813,La Grande Paposceria Bruschetteria Viestana,RESTAURANT,ristorante
+41.882783,16.181900,ov_pietra_vieste_41.8828_16.1819,Pietra Vieste,RESTAURANT,ristorante
+41.882812,16.182007,ov_arcaroli_41.8828_16.1820,Arcaroli,RESTAURANT,ristorante
+41.883466,16.182274,ov_grottino_41.8835_16.1823,Grottino,RESTAURANT,ristorante
+41.883414,16.182638,ov_bruschetteria_del_faro_41.8834_16.1826,Bruschetteria del Faro,RESTAURANT,ristorante
+41.882867,16.182955,ov_vecchia_vieste_ristorantetipico_41.8829_16.1830,Vecchia Vieste RistoranteTipico,RESTAURANT,ristorante
+41.885960,16.178749,ov_lni_revolution_41.8860_16.1787,LNI Revolution,RESTAURANT,ristorante
+41.885739,16.178719,ov_ristorante_pizzeria_del_porto_41.8857_16.1787,Ristorante Pizzeria Del Porto,RESTAURANT,ristorante
+41.884873,16.179404,ov_bella_napoli_41.8849_16.1794,Bella Napoli,RESTAURANT,ristorante
+41.884797,16.179466,ov_al_granaio___pizzeria_a_vieste_con_conse_41.8848_16.1795,Al Granaio - Pizzeria a Vieste con Consegna a Domicilio,RESTAURANT,ristorante
+41.885408,16.179896,ov_los_amigos_panzerotteria_vieste_41.8854_16.1799,Los Amigos Panzerotteria Vieste,RESTAURANT,ristorante
+41.884193,16.179984,ov_pizzeria_da_enzo_41.8842_16.1800,Pizzeria Da Enzo,RESTAURANT,ristorante
+41.883562,16.180512,ov_pizzerialabonaccia_41.8836_16.1805,pizzerialabonaccia,RESTAURANT,ristorante
+41.883701,16.180222,ov_pizzeria_portofino_41.8837_16.1802,Pizzeria Portofino,RESTAURANT,ristorante
+41.883507,16.180432,ov_la_bonaccia___ristorante__pizzeria__papo_41.8835_16.1804,"La Bonaccia - Ristorante, Pizzeria, Paposceria",RESTAURANT,ristorante
+41.883526,16.180424,ov_filo_d_olio_41.8835_16.1804,Filo d'Olio,RESTAURANT,ristorante
+41.883057,16.180651,ov_l_angolo_delle_crepes_41.8831_16.1807,L'angolo delle Crepes,RESTAURANT,ristorante
+41.882800,16.180395,ov_podolica_apulian_burgers___grill_41.8828_16.1804,Podolica Apulian Burgers & Grill,RESTAURANT,ristorante
+41.883177,16.180276,ov_trattoria_pizzeria_borgo_ottocento_41.8832_16.1803,Trattoria Pizzeria Borgo Ottocento,RESTAURANT,ristorante
+41.882944,16.180044,ov_pizzeria_friggitoria_km_0_41.8829_16.1800,Pizzeria Friggitoria Km 0,RESTAURANT,ristorante
+41.882998,16.179784,ov_piazza_roma_41.8830_16.1798,piazza Roma,RESTAURANT,ristorante
+41.882908,16.179380,ov_trattoria_il_paniere_41.8829_16.1794,Trattoria Il Paniere,RESTAURANT,ristorante
+41.882909,16.179132,ov_trattoria_pizzeria_la_piazzetta_41.8829_16.1791,Trattoria Pizzeria La Piazzetta,RESTAURANT,ristorante
+41.882972,16.178485,ov_piccolo_ristoro_by_gerry_41.8830_16.1785,Piccolo Ristoro By Gerry,RESTAURANT,ristorante
+41.882949,16.178112,ov_voglia_di_pizza_41.8829_16.1781,Voglia di Pizza,RESTAURANT,ristorante
+41.883130,16.177754,ov_la_viestana_41.8831_16.1778,La Viestana,RESTAURANT,ristorante
+41.883291,16.177131,ov_el_sombrero_41.8833_16.1771,El sombrero,RESTAURANT,ristorante
+41.882869,16.176727,ov_la_pizzoteca_41.8829_16.1767,La Pizzoteca,RESTAURANT,ristorante
+41.883485,16.176858,ov_miro_restaurant_bistrot_41.8835_16.1769,Miro Restaurant Bistrot,RESTAURANT,ristorante
+41.883620,16.177012,ov_box_19_41.8836_16.1770,Box 19,RESTAURANT,ristorante
+41.883651,16.176895,ov_trattoria_la_galea_41.8837_16.1769,Trattoria La Galea,RESTAURANT,ristorante
+41.883477,16.176693,ov_ristorante_box_19_41.8835_16.1767,Ristorante Box 19,RESTAURANT,ristorante
+41.883549,16.176607,ov_pescheria_stella_maris_41.8835_16.1766,Pescheria Stella Maris,RESTAURANT,ristorante
+41.885678,16.177790,ov_il_capriccio_41.8857_16.1778,Il Capriccio,RESTAURANT,ristorante
+41.884029,16.176432,ov_skipper_41.8840_16.1764,Skipper,RESTAURANT,ristorante
+41.883720,16.176482,ov_pizzeria_napoli_da_giorgio_41.8837_16.1765,Pizzeria Napoli da Giorgio,RESTAURANT,ristorante
+41.884900,16.173820,ov_lido_san_lorenzo_41.8849_16.1738,Lido San Lorenzo,RESTAURANT,ristorante
+41.886859,16.173403,ov_molo54_41.8869_16.1734,Molo54,RESTAURANT,ristorante
+41.887847,16.174403,ov_la_goletta_41.8878_16.1744,La Goletta,RESTAURANT,ristorante
+41.885312,16.167472,ov_agriturismo_passione_natura_41.8853_16.1675,Agriturismo Passione Natura,RESTAURANT,ristorante
+41.885126,16.171325,ov_millemolliche_vieste_41.8851_16.1713,Millemolliche Vieste,RESTAURANT,ristorante
+41.885433,16.170787,ov_havana_vistamar___nuova_gestione_41.8854_16.1708,Havana Vistamar - Nuova Gestione,RESTAURANT,ristorante
+41.885140,16.171640,ov_il_capriccio_41.8851_16.1716,Il Capriccio,RESTAURANT,ristorante
+41.884940,16.171483,ov_ristorante_a_mare_41.8849_16.1715,Ristorante A'mare,RESTAURANT,ristorante
+41.882691,16.172294,ov_azienda_agricola_papagni_salvatore_41.8827_16.1723,Azienda Agricola Papagni Salvatore,RESTAURANT,ristorante
+41.881506,16.171890,ov_trattoria_rustichello_41.8815_16.1719,Trattoria Rustichello,RESTAURANT,ristorante
+41.877387,16.171916,ov_ragni_mare_s_r_l__41.8774_16.1719,Ragni Mare S.r.l.,RESTAURANT,ristorante
+41.875508,16.176085,ov_ristorante_lido_vesta_41.8755_16.1761,Ristorante Lido Vesta,RESTAURANT,ristorante
+41.876498,16.176294,ov_ristorante_scial__vieste_41.8765_16.1763,ristorante scialí Vieste,RESTAURANT,ristorante
+41.876456,16.176223,ov_lido_mediterraneo_41.8765_16.1762,Lido Mediterraneo,RESTAURANT,ristorante
+41.882106,16.174360,ov_teglie_di_puglia_41.8821_16.1744,Teglie di Puglia,RESTAURANT,ristorante
+41.881750,16.173708,ov_istanbul_kebab_41.8818_16.1737,Istanbul Kebab,RESTAURANT,ristorante
+41.881750,16.173708,ov_la_camastra_41.8818_16.1737,La Camastra,RESTAURANT,ristorante
+41.882031,16.174968,ov_pizzeria_carpe_diem_41.8820_16.1750,Pizzeria Carpe Diem,RESTAURANT,ristorante
+41.882586,16.175003,ov_pescheria_adriatica_41.8826_16.1750,Pescheria Adriatica,RESTAURANT,ristorante
+41.882619,16.175751,ov_ristorante_piazzetta_petrone_41.8826_16.1758,Ristorante Piazzetta Petrone,RESTAURANT,ristorante
+41.882360,16.176051,ov_pizzeria_notte_e_di_41.8824_16.1761,Pizzeria Notte e Di,RESTAURANT,ristorante
+41.882261,16.176205,ov_sushiya_41.8823_16.1762,Sushiya,RESTAURANT,ristorante
+41.882398,16.176281,ov_pizzeria_big_boy_paposceria_41.8824_16.1763,Pizzeria Big Boy Paposceria,RESTAURANT,ristorante
+41.881112,16.175956,ov_la_scarpetta__trattoria_da_mario_41.8811_16.1760,"La Scarpetta, Trattoria da Mario",RESTAURANT,ristorante
+41.880311,16.175602,ov_pelikano_41.8803_16.1756,Pelikano,RESTAURANT,ristorante
+41.879818,16.175658,ov_el_churrasco_41.8798_16.1757,El Churrasco,RESTAURANT,ristorante
+41.881957,16.176920,ov_nicola_monacis_pasticceria_41.8820_16.1769,Nicola Monacis Pasticceria,RESTAURANT,ristorante
+41.882339,16.176841,ov_dolce_salato_41.8823_16.1768,Dolce Salato,RESTAURANT,ristorante
+41.881995,16.177880,ov_ristorante_la_teresina_41.8820_16.1779,Ristorante La Teresina,RESTAURANT,ristorante
+41.882212,16.177883,ov_brillo_parlante_41.8822_16.1779,Brillo Parlante,RESTAURANT,ristorante
+41.882066,16.177733,ov_dei_ricordi_41.8821_16.1777,dei Ricordi,RESTAURANT,ristorante
+41.882455,16.177613,ov_trattoria_europa_41.8825_16.1776,Trattoria Europa,RESTAURANT,ristorante
+41.882420,16.177943,ov_la_bruschetta_41.8824_16.1779,La bruschetta,RESTAURANT,ristorante
+41.882541,16.178424,ov_trattoria_pizzeria_da_mamma_antonella_41.8825_16.1784,Trattoria pizzeria da mamma Antonella,RESTAURANT,ristorante
+41.882562,16.178516,ov_il_ritrovo_41.8826_16.1785,Il Ritrovo,RESTAURANT,ristorante
+41.881973,16.178187,ov_l_osteria_41.8820_16.1782,L'Osteria,RESTAURANT,ristorante
+41.881898,16.178850,ov_trattoria_i_sapori_viestani_41.8819_16.1788,Trattoria i sapori viestani,RESTAURANT,ristorante
+41.881883,16.179023,ov_l_antica_bruschetta_41.8819_16.1790,L'Antica Bruschetta,RESTAURANT,ristorante
+41.882686,16.179283,ov_gustus_41.8827_16.1793,Gustus,RESTAURANT,ristorante
+41.881943,16.179182,ov_trattoria_del_mare_41.8819_16.1792,Trattoria del mare,RESTAURANT,ristorante
+41.881817,16.179717,ov_borgo_antico_41.8818_16.1797,Borgo Antico,RESTAURANT,ristorante
+41.882035,16.180643,ov_osteria_al_duomo_41.8820_16.1806,Osteria al Duomo,RESTAURANT,ristorante
+41.882085,16.180465,ov_osteria_degli_angeli_41.8821_16.1805,Osteria degli Angeli,RESTAURANT,ristorante
+41.881765,16.180605,ov_pesto_puglia_41.8818_16.1806,Pesto Puglia,RESTAURANT,ristorante
+41.874494,16.175922,ov_lido_albatros_41.8745_16.1759,Lido Albatros,RESTAURANT,ristorante
+41.873159,16.175662,ov_pelikano_restaurant___beach_club_41.8732_16.1757,Pelikano Restaurant & Beach Club,RESTAURANT,ristorante
+41.874870,16.175520,ov_arcobaleno_41.8749_16.1755,Arcobaleno,RESTAURANT,ristorante
+41.871688,16.175478,ov_pizzomunno_beach_club___rena_restaurant_41.8717_16.1755,Pizzomunno Beach Club - Rena Restaurant,RESTAURANT,ristorante
+41.867797,16.175128,ov_lido_fantasy_beach_41.8678_16.1751,Lido Fantasy Beach,RESTAURANT,ristorante
+41.868775,16.175038,ov_paradiso_selvaggio_beach_41.8688_16.1750,Paradiso Selvaggio Beach,RESTAURANT,ristorante
+41.862884,16.174262,ov_ghironda_beach___vieste_41.8629_16.1743,Ghironda Beach - Vieste,RESTAURANT,ristorante
+41.865125,16.172947,ov_ristorante_pizzeria_villaggio_arcobaleno_41.8651_16.1729,Ristorante-pizzeria villaggio Arcobaleno,RESTAURANT,ristorante
+41.860434,16.160677,ov_chalet_degli_ulivi_41.8604_16.1607,Chalet Degli Ulivi,RESTAURANT,ristorante
+41.882290,16.156760,ov_mrpaninovieste_41.8823_16.1568,Mrpaninovieste,RESTAURANT,ristorante
+41.889824,16.162649,ov_lido_helios_vieste_41.8898_16.1626,Lido Helios Vieste,RESTAURANT,ristorante
+41.890045,16.162078,ov_ristorante_la_canzone_del_mare_41.8900_16.1621,Ristorante La canzone del mare,RESTAURANT,ristorante
+41.905820,16.150562,ov_pizzeria_mezzaluna_41.9058_16.1506,Pizzeria Mezzaluna,RESTAURANT,ristorante
+41.905756,16.150576,ov_la_luna_di_molinella_41.9058_16.1506,La Luna Di Molinella,RESTAURANT,ristorante
+41.904676,16.150747,ov_ristorante_lido_la_malva_2019_41.9047_16.1507,Ristorante Lido la Malva 2019,RESTAURANT,ristorante
+41.894786,16.158316,ov_ristorante_san_lorenzo_41.8948_16.1583,Ristorante San Lorenzo,RESTAURANT,ristorante
+41.890666,16.161810,ov_lido_marilupe_41.8907_16.1618,Lido Marilupe,RESTAURANT,ristorante
+41.893065,16.160243,ov_baia_turchese_lounge___fish_bar_41.8931_16.1602,Baia Turchese Lounge & Fish Bar,RESTAURANT,ristorante
+41.908176,16.149041,ov_pizzeria_ristorante_sole_mare_41.9082_16.1490,"Pizzeria,ristorante Sole Mare",RESTAURANT,ristorante
+41.908215,16.149172,ov_tale_restaurant_41.9082_16.1492,Tale Restaurant,RESTAURANT,ristorante
+41.905000,16.084850,ov_ristorante_porticello_by_salvatore_41.9050_16.0848,Ristorante Porticello By Salvatore,RESTAURANT,ristorante
+41.898079,16.103645,ov_ristorante_bar_pizzeria_crovatico_41.8981_16.1036,Ristorante Bar Pizzeria Crovatico,RESTAURANT,ristorante
+41.898079,16.103645,ov_piana_della_battaglia_41.8981_16.1036,Piana della battaglia,RESTAURANT,ristorante
+41.891752,16.114052,ov_la_sirena_ristorante_pizzeria_41.8918_16.1141,La Sirena Ristorante Pizzeria,RESTAURANT,ristorante
+41.911291,16.112282,ov_ristorante_pizzeria_delfino_41.9113_16.1123,Ristorante Pizzeria Delfino,RESTAURANT,ristorante
+41.910948,16.113539,ov_la_casupola_41.9109_16.1135,La Casupola,RESTAURANT,ristorante
+41.913480,16.109470,ov_ristorante_umbramare_41.9135_16.1095,Ristorante Umbramare,RESTAURANT,ristorante
+41.924489,16.088683,ov_agriturismo_la_masseria_41.9245_16.0887,Agriturismo La Masseria,RESTAURANT,ristorante
+41.929804,16.096295,ov_trattoria_da_lucia_41.9298_16.0963,Trattoria Da Lucia,RESTAURANT,ristorante
+41.931959,16.093873,ov_oltremare_lounge_bar_41.9320_16.0939,Oltremare Lounge Bar,RESTAURANT,ristorante
+41.924996,16.108874,ov_al_capo_41.9250_16.1089,Al capo,RESTAURANT,ristorante
+41.912670,16.136062,ov_al_tramonto_41.9127_16.1361,Al Tramonto,RESTAURANT,ristorante
+41.907067,16.136244,ov_braceria_cariglia_41.9071_16.1362,Braceria Cariglia,RESTAURANT,ristorante
+41.911823,16.131930,ov_ristorante_ebbrodiblu_41.9118_16.1319,Ristorante Ebbrodiblu,RESTAURANT,ristorante
+41.910827,16.135129,ov_ritual___sottovento___ristorante_beach_b_41.9108_16.1351,Ritual & Sottovento - Ristorante/Beach bar,RESTAURANT,ristorante
+41.916977,16.115770,ov_kitesu_shi_41.9170_16.1158,Kitesu-shi,RESTAURANT,ristorante
+41.917330,16.115932,ov_panini_di_mare_bistrot_41.9173_16.1159,Panini di Mare Bistrot,RESTAURANT,ristorante
+41.914820,16.119020,ov_duccio_a_mare_41.9148_16.1190,Duccio a mare,RESTAURANT,ristorante
+41.916012,16.121063,ov_ristorante_pizzeria_touring_41.9160_16.1211,Ristorante Pizzeria Touring,RESTAURANT,ristorante
+41.913746,16.120412,ov_gli_orientali_41.9137_16.1204,Gli Orientali,RESTAURANT,ristorante
+41.912225,16.125759,ov_fuori_rotta_vieste_41.9122_16.1258,Fuori Rotta Vieste,RESTAURANT,ristorante
+41.902780,16.122611,ov_lume_di_candela_41.9028_16.1226,Lume di Candela,RESTAURANT,ristorante
+41.902589,16.122545,ov_piana_della_battaglia___vieste_41.9026_16.1225,Piana della Battaglia - Vieste,RESTAURANT,ristorante
+41.901280,16.132444,ov_agriturismo_i_sapori_del_gargano_41.9013_16.1324,Agriturismo i Sapori del Gargano,RESTAURANT,ristorante
+41.882261,16.135244,ov_ristorante_donna_maria_41.8823_16.1352,Ristorante Donna Maria,RESTAURANT,ristorante
+41.871508,16.137593,ov_la_locanda_san_luca_41.8715_16.1376,La Locanda San Luca,RESTAURANT,ristorante
+41.879727,16.122816,ov_agriturismo_ranch_dell_ambrenella_41.8797_16.1228,Agriturismo Ranch Dell'Ambrenella,RESTAURANT,ristorante
+41.887441,16.130320,ov_tenuta_padre_pio_vieste_41.8874_16.1303,Tenuta Padre Pio Vieste,RESTAURANT,ristorante
+41.875106,16.113981,ov_passione_cucina_da_romeo_41.8751_16.1140,Passione cucina da Romeo,RESTAURANT,ristorante
+41.834231,16.103999,ov_masseria_la_valle_del_cerro_41.8342_16.1040,Masseria La valle del cerro,RESTAURANT,ristorante
+41.870620,16.079190,ov_trattoria_donnangela_agriturismo_fara_de_41.8706_16.0792,Trattoria Donnangela agriturismo Fara del Falco,RESTAURANT,ristorante

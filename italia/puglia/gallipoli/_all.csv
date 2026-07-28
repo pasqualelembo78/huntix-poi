@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Gallipoli — Tutti i POI
+# Gallipoli -- Tutti
 40.055857,17.991846,osm_kyoto_sushi_40.0559_17.9918,Kyoto Sushi,ristorante,ristorante
 40.056010,17.982307,osm_mojm__40.0560_17.9823,Mojmò,ristorante,ristorante
 40.055840,17.990898,osm_nonno_picci_40.0558_17.9909,Nonno Picci,ristorante,ristorante
@@ -28,3 +28,295 @@
 40.111362,18.007825,osm_scapricciatiello_40.1114_18.0078,Scapricciatiello,ristorante,ristorante
 40.111181,18.008080,osm_la_maruzzella_40.1112_18.0081,La Maruzzella,ristorante,ristorante
 40.052877,17.992228,osm_bar_la_rotonda_40.0529_17.9922,Bar La Rotonda,ristorante,ristorante
+40.055818,17.992525,ov_asl_le_40.0558_17.9925,Asl Le,HOSPITAL,hospital
+40.059207,17.993504,ov_ospedale_vecchio__gallipoli_40.0592_17.9935,Ospedale Vecchio  Gallipoli,HOSPITAL,hospital
+40.057300,18.000740,ov_ambulatorio_cardiologico_salus_cordis_40.0573_18.0007,Ambulatorio Cardiologico Salus Cordis,HOSPITAL,hospital
+40.056764,18.014678,ov_ospedale_gallipoli_40.0568_18.0147,Ospedale Gallipoli,HOSPITAL,hospital
+40.064990,17.999960,ov_pop_food_40.0650_18.0000,Pop Food,RESTAURANT,ristorante
+40.054071,17.972890,ov_il_faro_restaurant_40.0541_17.9729,Il Faro Restaurant,RESTAURANT,ristorante
+40.054105,17.974040,ov_la_vecchia_caserma_40.0541_17.9740,La Vecchia Caserma,RESTAURANT,ristorante
+40.053268,17.973594,ov_buena_vista_40.0533_17.9736,Buena Vista,RESTAURANT,ristorante
+40.053718,17.975299,ov_ristorante_grotta_marinara_40.0537_17.9753,Ristorante Grotta Marinara,RESTAURANT,ristorante
+40.052774,17.975039,ov_amu_fish_restaurant_and_store_40.0528_17.9750,AMU Fish Restaurant and Store,RESTAURANT,ristorante
+40.052671,17.974330,ov_il_bastione_40.0527_17.9743,Il Bastione,RESTAURANT,ristorante
+40.052741,17.974859,ov_ritro_restaurant___wine_club_40.0527_17.9749,Ritro Restaurant & Wine Club,RESTAURANT,ristorante
+40.053546,17.977796,ov_mediterranee_40.0535_17.9778,Mediterranee,RESTAURANT,ristorante
+40.053195,17.977205,ov_ristorante_la_vinaigrette_40.0532_17.9772,Ristorante La Vinaigrette,RESTAURANT,ristorante
+40.054358,17.976316,ov_scaf_d_mare_40.0544_17.9763,Scafùd Mare,RESTAURANT,ristorante
+40.054381,17.976422,ov_dimora_muzio_restaurant_40.0544_17.9764,Dimora Muzio Restaurant,RESTAURANT,ristorante
+40.054501,17.975852,ov_ristorante_torre_sabea___cucina_agricola_40.0545_17.9759,Ristorante Torre Sabea - Cucina Agricola,RESTAURANT,ristorante
+40.055020,17.976120,ov_trattoria_le_mura_40.0550_17.9761,Trattoria Le Mura,RESTAURANT,ristorante
+40.055070,17.976082,ov_bistrot_le_garibaldine_40.0551_17.9761,Bistrot Le Garibaldine,RESTAURANT,ristorante
+40.055051,17.976709,ov_agatha_amore_dal_mare_ristorante_gallipo_40.0551_17.9767,Agatha Amore dal Mare ristorante Gallipoli,RESTAURANT,ristorante
+40.055060,17.977006,ov_le_tre_sorelle_40.0551_17.9770,Le Tre Sorelle,RESTAURANT,ristorante
+40.054969,17.977359,ov_marida_sea_food_40.0550_17.9774,Marida Sea Food,RESTAURANT,ristorante
+40.054495,17.978376,ov_trattoria_l_isola_dei_pirati_40.0545_17.9784,Trattoria L'Isola Dei Pirati,RESTAURANT,ristorante
+40.055073,17.978279,ov_yellow_scapece_40.0551_17.9783,Yellow Scapece,RESTAURANT,ristorante
+40.054844,17.978373,ov_al_123_pucceria_pizzeria_40.0548_17.9784,Al 123 Pucceria Pizzeria,RESTAURANT,ristorante
+40.054691,17.978372,ov_la_locanda_degli_angioini_40.0547_17.9784,La Locanda Degli Angioini,RESTAURANT,ristorante
+40.055023,17.977829,ov_il_tramonto_40.0550_17.9778,Il Tramonto,RESTAURANT,ristorante
+40.055067,17.977949,ov_da_clara_40.0551_17.9779,Da Clara,RESTAURANT,ristorante
+40.055085,17.977562,ov_mamangi___gallipoli_40.0551_17.9776,Mamangi - Gallipoli,RESTAURANT,ristorante
+40.055189,17.977757,ov_pane_olio_e_fantasia_40.0552_17.9778,Pane Olio e Fantasia,RESTAURANT,ristorante
+40.055278,17.977775,ov_osteria_del_vico_40.0553_17.9778,Osteria del Vico,RESTAURANT,ristorante
+40.055518,17.977576,ov_marea_cucina_marinara_40.0555_17.9776,MAREA cucina marinara,RESTAURANT,ristorante
+40.055476,17.977957,ov_la_briciola_40.0555_17.9780,La Briciola,RESTAURANT,ristorante
+40.055912,17.978327,ov_trattoria_la_paranza_40.0559_17.9783,Trattoria La Paranza,RESTAURANT,ristorante
+40.055728,17.978150,ov_made_polis_40.0557_17.9782,Made Polis,RESTAURANT,ristorante
+40.055771,17.977965,ov_portaterra_40.0558_17.9780,Portaterra,RESTAURANT,ristorante
+40.056050,17.977687,ov_capitoni_coraggiosi_40.0560_17.9777,Capitoni Coraggiosi,RESTAURANT,ristorante
+40.056056,17.977771,ov_mera_ristorante_40.0561_17.9778,Mera Ristorante,RESTAURANT,ristorante
+40.055596,17.977515,ov_le_garibaldine_40.0556_17.9775,Le Garibaldine,RESTAURANT,ristorante
+40.055376,17.977518,ov_radium_40.0554_17.9775,Radium,RESTAURANT,ristorante
+40.055316,17.977307,ov_la_navicula_40.0553_17.9773,La Navicula,RESTAURANT,ristorante
+40.055412,17.977052,ov_la_lampara_fish_lab_40.0554_17.9771,La Lampara Fish Lab,RESTAURANT,ristorante
+40.055517,17.976829,ov_trattoria_rosinella_40.0555_17.9768,Trattoria Rosinella,RESTAURANT,ristorante
+40.055155,17.976055,ov_antica_trattoria_40.0552_17.9761,Antica Trattoria,RESTAURANT,ristorante
+40.055680,17.975567,ov_lazzaro___caterina_40.0557_17.9756,Lazzaro & Caterina,RESTAURANT,ristorante
+40.055377,17.975684,ov_osteria_sant_angelo_40.0554_17.9757,Osteria Sant'Angelo,RESTAURANT,ristorante
+40.055122,17.975567,ov_santi_e_massari_40.0551_17.9756,Santi e Massari,RESTAURANT,ristorante
+40.055083,17.974937,ov_la_puritate_40.0551_17.9749,La Puritate,RESTAURANT,ristorante
+40.054607,17.975128,ov_matre_ristorante_40.0546_17.9751,MATRE Ristorante,RESTAURANT,ristorante
+40.054617,17.975318,ov_l_osteria_casa_noscia_40.0546_17.9753,L'Osteria Casa Noscia,RESTAURANT,ristorante
+40.054597,17.975541,ov_more__40.0546_17.9755,More',RESTAURANT,ristorante
+40.054484,17.975621,ov_l_ostricaro_gallipoli_40.0545_17.9756,L’Ostricaro Gallipoli,RESTAURANT,ristorante
+40.054193,17.975570,ov_l_angolo_blu_40.0542_17.9756,L'Angolo Blu,RESTAURANT,ristorante
+40.054604,17.974505,ov_osteria_del_santo___gallipoli_40.0546_17.9745,Osteria del Santo - Gallipoli,RESTAURANT,ristorante
+40.054327,17.974295,ov_osteria_briganti_40.0543_17.9743,Osteria Briganti,RESTAURANT,ristorante
+40.054931,17.974652,ov_l_osteria_mia_40.0549_17.9747,L’Osteria Mia,RESTAURANT,ristorante
+40.055005,17.974747,ov_santa_monaca_40.0550_17.9747,Santa Monaca,RESTAURANT,ristorante
+40.055036,17.974715,ov_ristorante_il_pettolino_40.0550_17.9747,Ristorante Il Pettolino,RESTAURANT,ristorante
+40.055043,17.974656,ov_la_corte___gallipoli_40.0550_17.9747,La Corte - Gallipoli,RESTAURANT,ristorante
+40.054628,17.973383,ov_c_est_la_vie_40.0546_17.9734,C'est la Vie,RESTAURANT,ristorante
+40.054686,17.973503,ov_cicalinda___local_bistrot_40.0547_17.9735,Cicalinda - Local Bistrot,RESTAURANT,ristorante
+40.054713,17.973504,ov_trattoria_roccia_40.0547_17.9735,Trattoria Roccia,RESTAURANT,ristorante
+40.054707,17.973649,ov_saponeria___piccolo_ristoro_di_spirito_40.0547_17.9736,SAPONERIA - piccolo ristoro di spirito,RESTAURANT,ristorante
+40.054560,17.973120,ov_ristorante_la_risacca_gallipoli_40.0546_17.9731,Ristorante La Risacca Gallipoli,RESTAURANT,ristorante
+40.054446,17.972762,ov_la_taverna_40.0544_17.9728,La Taverna,RESTAURANT,ristorante
+40.054345,17.972601,ov_trattoria_le_bistrot_40.0543_17.9726,Trattoria LE Bistrot,RESTAURANT,ristorante
+40.054508,17.972601,ov_mivida_gallipoli_40.0545_17.9726,Mivida Gallipoli,RESTAURANT,ristorante
+40.056927,17.975172,ov_bonavoglia_900_40.0569_17.9752,Bonavoglia 900,RESTAURANT,ristorante
+40.057199,17.975362,ov_trattoria_portolano_40.0572_17.9754,Trattoria Portolano,RESTAURANT,ristorante
+40.056396,17.977123,ov_marea_fish_and_more_40.0564_17.9771,Marea Fish and More,RESTAURANT,ristorante
+40.056367,17.977204,ov_thalassa___sapori_dal_mare_40.0564_17.9772,THALASSA - Sapori dal Mare,RESTAURANT,ristorante
+40.056321,17.977361,ov_porto_antico_40.0563_17.9774,Porto Antico,RESTAURANT,ristorante
+40.056875,17.980349,ov_ristorante_marechiaro_40.0569_17.9803,Ristorante Marechiaro,RESTAURANT,ristorante
+40.057295,17.985795,ov_ristorante_marechiaro_40.0573_17.9858,Ristorante Marechiaro,RESTAURANT,ristorante
+40.057184,17.983091,ov_best_bleu_salento_40.0572_17.9831,Best Bleu Salento,RESTAURANT,ristorante
+40.056449,17.984432,ov_le_ricchezze_del_mare_40.0564_17.9844,LE Ricchezze DEL MARE,RESTAURANT,ristorante
+40.056481,17.985916,ov_tramontana_40.0565_17.9859,Tramontana,RESTAURANT,ristorante
+40.056413,17.985818,ov_you_cibo_e_piacere_40.0564_17.9858,You Cibo e piacere,RESTAURANT,ristorante
+40.056143,17.985715,ov_coco_mavi_40.0561_17.9857,Coco Mavi,RESTAURANT,ristorante
+40.055854,17.985154,ov_la_giara_art_40.0559_17.9852,La Giara Art,RESTAURANT,ristorante
+40.055408,17.984768,ov_magna_pizza_40.0554_17.9848,Magna pizza,RESTAURANT,ristorante
+40.055126,17.986136,ov_22pizzastreet_40.0551_17.9861,22PizzaStreet,RESTAURANT,ristorante
+40.055049,17.986283,ov_fire_braceria_carne___pesce_40.0550_17.9863,FIRE Braceria Carne & Pesce,RESTAURANT,ristorante
+40.055002,17.985957,ov_jin_oro_40.0550_17.9860,Jin Oro,RESTAURANT,ristorante
+40.055088,17.983865,ov_la_giudecca_40.0551_17.9839,La Giudecca,RESTAURANT,ristorante
+40.055342,17.983478,ov_kumi_40.0553_17.9835,Kumi,RESTAURANT,ristorante
+40.055968,17.984347,ov_dolcevita_bistrot___terraces_40.0560_17.9843,DolceVita Bistrot & Terraces,RESTAURANT,ristorante
+40.056067,17.984355,ov_rubino_ristorante_tipico_40.0561_17.9844,Rubino Ristorante Tipico,RESTAURANT,ristorante
+40.056059,17.983883,ov_trattoria_stella_marina_40.0561_17.9839,Trattoria Stella Marina,RESTAURANT,ristorante
+40.056031,17.983659,ov_l_acquolina_40.0560_17.9837,L'Acquolina,RESTAURANT,ristorante
+40.055982,17.983577,ov_bar_pizzeria_gabbiano_40.0560_17.9836,Bar Pizzeria Gabbiano,RESTAURANT,ristorante
+40.055963,17.983094,ov_morsi_e_bocconi_40.0560_17.9831,Morsi e bocconi,RESTAURANT,ristorante
+40.055996,17.983056,ov_wegrill_gallipoli_40.0560_17.9831,WeGrill Gallipoli,RESTAURANT,ristorante
+40.056022,17.983138,ov_l_angolo_salentino_40.0560_17.9831,L'angolo Salentino,RESTAURANT,ristorante
+40.056075,17.983143,ov_pizzeria_la_romana_40.0561_17.9831,Pizzeria La Romana,RESTAURANT,ristorante
+40.055179,17.981883,ov_mare___pepe_40.0552_17.9819,Mare & Pepe,RESTAURANT,ristorante
+40.055114,17.981888,ov_mam__bistrot_40.0551_17.9819,Mamí Bistrot,RESTAURANT,ristorante
+40.055494,17.981126,ov_ristorante_la_penisola_40.0555_17.9811,Ristorante La Penisola,RESTAURANT,ristorante
+40.056080,17.981946,ov_street_poke_gallipoli_40.0561_17.9819,Street Poke Gallipoli,RESTAURANT,ristorante
+40.056077,17.981784,ov_bellavista_club_40.0561_17.9818,Bellavista Club,RESTAURANT,ristorante
+40.056019,17.981675,ov_zerostelle_40.0560_17.9817,Zerostelle,RESTAURANT,ristorante
+40.054764,17.990761,ov_l_ucceria_40.0548_17.9908,L'Ucceria,RESTAURANT,ristorante
+40.054293,17.991023,ov_la_pizza_da_michele_40.0543_17.9910,La Pizza Da Michele,RESTAURANT,ristorante
+40.055759,17.992901,ov_don_vincenzo_40.0558_17.9929,Don Vincenzo,RESTAURANT,ristorante
+40.055873,17.992045,ov_i_portici_beerstrot_italiano_40.0559_17.9920,I PORTICI Beerstrot Italiano,RESTAURANT,ristorante
+40.055807,17.991810,ov_baccante_40.0558_17.9918,Baccante,RESTAURANT,ristorante
+40.056098,17.990987,ov_la_burrateria_gallipoli_40.0561_17.9910,La Burrateria Gallipoli,RESTAURANT,ristorante
+40.055353,17.990595,ov_peterland_40.0554_17.9906,Peterland,RESTAURANT,ristorante
+40.055729,17.989977,ov_eskada_40.0557_17.9900,Eskada,RESTAURANT,ristorante
+40.055714,17.990274,ov_fermento___pizzeria_40.0557_17.9903,Fermento - Pizzeria,RESTAURANT,ristorante
+40.055848,17.990692,ov_open12_40.0558_17.9907,Open12,RESTAURANT,ristorante
+40.056088,17.989501,ov_lievita_72_40.0561_17.9895,Lievita 72,RESTAURANT,ristorante
+40.055917,17.988578,ov_lu_cannaozzu_street_food_40.0559_17.9886,Lu Cannaozzu Street Food,RESTAURANT,ristorante
+40.055498,17.989207,ov_pentola_degli_gnomi_osteria_40.0555_17.9892,Pentola Degli Gnomi Osteria,RESTAURANT,ristorante
+40.054807,17.988662,ov_la_forchetta_del_salento___scapece_d_ama_40.0548_17.9887,La Forchetta Del Salento & Scapece D'Amato ~ Gastronomia E F,RESTAURANT,ristorante
+40.054698,17.988018,ov_vista_mare_lu_spariolu_40.0547_17.9880,Vista Mare Lu Spariolu,RESTAURANT,ristorante
+40.056070,17.986920,ov_creperia_sabato_40.0561_17.9869,Creperia Sabato,RESTAURANT,ristorante
+40.056070,17.986920,ov_man_in_pasta_crepes_40.0561_17.9869,Man In Pasta Crepes,RESTAURANT,ristorante
+40.055980,17.986790,ov_bar_pizzeria_trasporto_i_due_leoni_40.0560_17.9868,Bar pizzeria trasporto i due leoni,RESTAURANT,ristorante
+40.056311,17.986584,ov_terra_del_sol_40.0563_17.9866,Terra del Sol,RESTAURANT,ristorante
+40.057020,17.986996,ov_il_macchiolino_40.0570_17.9870,Il Macchiolino,RESTAURANT,ristorante
+40.056729,17.988000,ov_atipica_osteria_meridionale_40.0567_17.9880,Atipica Osteria Meridionale,RESTAURANT,ristorante
+40.056576,17.988004,ov_trattoria_la_stazione_40.0566_17.9880,Trattoria La Stazione,RESTAURANT,ristorante
+40.056350,17.987997,ov_da_olga_40.0563_17.9880,Da Olga,RESTAURANT,ristorante
+40.056322,17.987628,ov_la_tavernetta_trattoria_tipica_gallipoli_40.0563_17.9876,La Tavernetta Trattoria Tipica Gallipolina,RESTAURANT,ristorante
+40.056340,17.987786,ov_tutte_le_sante_volte_40.0563_17.9878,Tutte le Sante Volte,RESTAURANT,ristorante
+40.056403,17.988934,ov_caruso_ristorante_pizzeria_40.0564_17.9889,Caruso Ristorante Pizzeria,RESTAURANT,ristorante
+40.056099,17.989664,ov_facula_40.0561_17.9897,Facula,RESTAURANT,ristorante
+40.056843,17.988556,ov_magazzini_casotti_40.0568_17.9886,Magazzini Casotti,RESTAURANT,ristorante
+40.057953,17.993153,ov_mediterraneo_40.0580_17.9932,Mediterraneo,RESTAURANT,ristorante
+40.057221,17.990105,ov_pasta_fresca_la_spiga_d_oro_40.0572_17.9901,Pasta Fresca La Spiga D'Oro,RESTAURANT,ristorante
+40.056311,17.993076,ov_ristorante_joly_park_40.0563_17.9931,Ristorante Joly Park,RESTAURANT,ristorante
+40.057030,17.994380,ov_gallipoli_fresco__s_forno__al_volo_pizza_40.0570_17.9944,Gallipoli Fresco 's Forno: Al Volo Pizza e Birra,RESTAURANT,ristorante
+40.056823,17.996280,ov_l_ora_della_pizza_40.0568_17.9963,L'Ora della Pizza,RESTAURANT,ristorante
+40.058200,17.993459,ov_pizzeria_pit_stop_17_40.0582_17.9935,Pizzeria Pit Stop 17,RESTAURANT,ristorante
+40.056803,17.999622,ov_zheng_sushi_40.0568_17.9996,Zheng Sushi,RESTAURANT,ristorante
+40.055986,17.994265,ov_la_lavana_40.0560_17.9943,La Lavana,RESTAURANT,ristorante
+40.054291,17.994946,ov_redipizza_40.0543_17.9949,Redipizza,RESTAURANT,ristorante
+40.051570,17.997737,ov_l_isola_del_pesce_40.0516_17.9977,L'Isola del Pesce,RESTAURANT,ristorante
+40.051540,17.997224,ov_sfizio_pizza_40.0515_17.9972,Sfizio Pizza,RESTAURANT,ristorante
+39.889795,18.111177,ov_calura_salentina_39.8898_18.1112,Calura Salentina,RESTAURANT,ristorante
+39.973170,18.014440,ov_trattoria_pizzeria_casa_l_ario__39.9732_18.0144,Trattoria Pizzeria Casa L'Ario',RESTAURANT,ristorante
+39.985423,18.017204,ov_le_caravelle_39.9854_18.0172,Le caravelle,RESTAURANT,ristorante
+40.024172,18.021186,ov_waikiki_gallipoli___trattoria_40.0242_18.0212,Waikiki Gallipoli...trattoria,RESTAURANT,ristorante
+40.026381,18.019730,ov_lido_sottovento_gallipoli_40.0264_18.0197,Lido Sottovento Gallipoli,RESTAURANT,ristorante
+40.032140,18.018633,ov_soqquadro_40.0321_18.0186,Soqquadro,RESTAURANT,ristorante
+40.032010,18.027720,ov_costa_del_sud_40.0320_18.0277,Costa del Sud,RESTAURANT,ristorante
+40.035391,18.018537,ov_pizzeria_pummar__40.0354_18.0185,Pizzeria Pummarò,RESTAURANT,ristorante
+40.037182,18.014911,ov_la_rosa_del_mare_gallipoli_40.0372_18.0149,La Rosa del Mare Gallipoli,RESTAURANT,ristorante
+40.037150,18.014917,ov_belvedere_food___pizza_40.0372_18.0149,Belvedere Food & Pizza,RESTAURANT,ristorante
+40.037464,18.017210,ov_friggitoria_lupin_40.0375_18.0172,Friggitoria Lupin,RESTAURANT,ristorante
+40.049451,18.000804,ov_red_sunset_40.0495_18.0008,Red Sunset,RESTAURANT,ristorante
+40.049456,18.001919,ov_botto_panzerotteria_pizzeria_pucceria_40.0495_18.0019,Botto Panzerotteria Pizzeria Pucceria,RESTAURANT,ristorante
+40.049471,18.001228,ov_sapori_salentini_40.0495_18.0012,Sapori Salentini,RESTAURANT,ristorante
+40.050635,18.010190,ov_mavi_s_gallipoli_40.0506_18.0102,Mavi’s Gallipoli,RESTAURANT,ristorante
+40.050655,18.001002,ov_pizzeria_mal__40.0507_18.0010,pizzeria malù,RESTAURANT,ristorante
+40.051356,18.004266,ov_le_masserizie_40.0514_18.0043,Le masserizie,RESTAURANT,ristorante
+40.052035,18.011318,ov_tenuta_ferraro_40.0520_18.0113,Tenuta Ferraro,RESTAURANT,ristorante
+40.052920,18.009510,ov_pizzeria_fattobene_40.0529_18.0095,Pizzeria Fattobene,RESTAURANT,ristorante
+40.055349,18.005210,ov_antichi_sapori_40.0553_18.0052,Antichi Sapori,RESTAURANT,ristorante
+40.057440,18.001519,ov_sfizi_di_carne_gallipoli_40.0574_18.0015,Sfizi di Carne Gallipoli,RESTAURANT,ristorante
+40.062060,18.010580,ov_pietra_viva_40.0621_18.0106,Pietra Viva,RESTAURANT,ristorante
+40.067033,18.004981,ov_vesuvio_40.0670_18.0050,Vesuvio,RESTAURANT,ristorante
+40.067574,18.002467,ov_varius_al_porto_osteria_di_mare_40.0676_18.0025,Varius al Porto Osteria di Mare,RESTAURANT,ristorante
+40.068227,18.002849,ov_trattoria_le_caravelle_40.0682_18.0028,Trattoria Le Caravelle,RESTAURANT,ristorante
+40.069913,18.004315,ov_dio_del_mare_40.0699_18.0043,Dio del Mare,RESTAURANT,ristorante
+40.070551,18.004655,ov_l_ostricaro_40.0706_18.0047,L'Ostricaro,RESTAURANT,ristorante
+40.072038,18.016581,ov_l_antico_frantoio_ristorante_40.0720_18.0166,L'Antico Frantoio Ristorante,RESTAURANT,ristorante
+40.077872,18.015903,ov_al_vigneto_40.0779_18.0159,Al Vigneto,RESTAURANT,ristorante
+40.079044,18.009959,ov_il_galeone_40.0790_18.0100,Il Galeone,RESTAURANT,ristorante
+40.080460,18.009580,ov_la_maruzzella_40.0805_18.0096,La Maruzzella,RESTAURANT,ristorante
+40.084945,18.012489,ov_ristorante_il_ponticello_40.0849_18.0125,Ristorante Il Ponticello,RESTAURANT,ristorante
+40.084917,18.012690,ov_il_nuovo_ponticello_40.0849_18.0127,Il Nuovo Ponticello,RESTAURANT,ristorante
+40.086966,18.011408,ov_l_avana_40.0870_18.0114,L'Avana,RESTAURANT,ristorante
+40.086856,18.010973,ov_popula_40.0869_18.0110,Popula,RESTAURANT,ristorante
+40.087249,18.011597,ov_friggitoria_frisci_e_mangia_40.0872_18.0116,Friggitoria Frisci e Mangia,RESTAURANT,ristorante
+40.098664,18.013450,ov_la_padula__ristorante_e_pizzeria_40.0987_18.0135,"La Padula, Ristorante e Pizzeria",RESTAURANT,ristorante
+40.102478,18.012283,ov_ulivo_bianco_40.1025_18.0123,Ulivo Bianco,RESTAURANT,ristorante
+40.107618,18.010862,ov_il_chiosco_bar___ristorante_40.1076_18.0109,Il Chiosco Bar - Ristorante,RESTAURANT,ristorante
+40.108153,18.011014,ov_la_finestra_di_enzo_40.1082_18.0110,La Finestra di Enzo,RESTAURANT,ristorante
+40.109300,18.010196,ov_mesciu_peppe_40.1093_18.0102,Mesciu Peppe,RESTAURANT,ristorante
+40.111485,18.007824,ov_scapricciatiello_40.1115_18.0078,Scapricciatiello,RESTAURANT,ristorante
+40.111276,18.008169,ov_la_maruzzella_40.1113_18.0082,La Maruzzella,RESTAURANT,ristorante
+40.062751,17.997266,ov_tiger_bar_esso_40.0628_17.9973,Tiger Bar Esso,RESTAURANT,bar_cafe
+40.053143,17.973391,ov_rio_bo_40.0531_17.9734,Rio Bo,RESTAURANT,bar_cafe
+40.052952,17.975868,ov_kalis___wine___cocktail_bar_40.0530_17.9759,Kalis - Wine & Cocktail Bar,RESTAURANT,bar_cafe
+40.052976,17.975856,ov_la_spingula_40.0530_17.9759,La Spingula,RESTAURANT,bar_cafe
+40.053036,17.976402,ov_santave_by_tequila_40.0530_17.9764,Santave by Tequila,RESTAURANT,bar_cafe
+40.055023,17.976334,ov_caff__duomo_40.0550_17.9763,Caffè Duomo,RESTAURANT,bar_cafe
+40.055047,17.976883,ov_officine_brewer_birroteca_salentina_40.0550_17.9769,Officine Brewer Birroteca Salentina,RESTAURANT,bar_cafe
+40.055060,17.977110,ov_pasticceria_fedele_40.0551_17.9771,Pasticceria Fedele,RESTAURANT,bar_cafe
+40.055217,17.978337,ov_gran_caffe_dello_sport_40.0552_17.9783,Gran Caffe dello Sport,RESTAURANT,bar_cafe
+40.055790,17.978140,ov_51_nodi_sailor_bar_castello_gallipoli_40.0558_17.9781,51 NODI_sailor bar_Castello Gallipoli,RESTAURANT,bar_cafe
+40.055903,17.977794,ov_tilt_40.0559_17.9778,Tilt,RESTAURANT,bar_cafe
+40.055156,17.977514,ov_la_meridiana_cafe_40.0552_17.9775,La Meridiana Cafe,RESTAURANT,bar_cafe
+40.054712,17.975476,ov_bar_picciuli_40.0547_17.9755,Bar Picciuli,RESTAURANT,bar_cafe
+40.054586,17.975242,ov_la_cantina_del_salento_40.0546_17.9752,La cantina del Salento,RESTAURANT,bar_cafe
+40.054534,17.974761,ov_801_cocktail_bar_40.0545_17.9748,801 Cocktail Bar,RESTAURANT,bar_cafe
+40.054710,17.973131,ov_mivida_caf__40.0547_17.9731,Mivida Cafè,RESTAURANT,bar_cafe
+40.056611,17.974696,ov_caf__del_mar_40.0566_17.9747,Café del Mar,RESTAURANT,bar_cafe
+40.057218,17.975482,ov_la_bitta_champagneria_del_porto_40.0572_17.9755,La Bitta Champagneria del Porto,RESTAURANT,bar_cafe
+40.056309,17.977523,ov_bar_del_porto_40.0563_17.9775,Bar del Porto,RESTAURANT,bar_cafe
+40.056415,17.983589,ov_bar_marconi_40.0564_17.9836,Bar Marconi,RESTAURANT,bar_cafe
+40.056190,17.985760,ov_bar_caff__del_corso_gallipoli_40.0562_17.9858,Bar Caffè del Corso Gallipoli,RESTAURANT,bar_cafe
+40.055156,17.986171,ov_the_rooster_pub_40.0552_17.9862,The Rooster Pub,RESTAURANT,bar_cafe
+40.056057,17.982336,ov_bar_centrale_40.0561_17.9823,Bar Centrale,RESTAURANT,bar_cafe
+40.055949,17.981268,ov_fontana_greca_caffe_40.0559_17.9813,Fontana Greca Caffe,RESTAURANT,bar_cafe
+40.052800,17.992580,ov_p3_bar_40.0528_17.9926,P3 Bar,RESTAURANT,bar_cafe
+40.052681,17.993049,ov_bar_jonic___paninoteca_da_marino_40.0527_17.9930,Bar Jonic - Paninoteca da Marino,RESTAURANT,bar_cafe
+40.052907,17.992263,ov_bar_la_rotonda_40.0529_17.9923,Bar La Rotonda,RESTAURANT,bar_cafe
+40.055877,17.992231,ov_dejavu_40.0559_17.9922,Dejavu,RESTAURANT,bar_cafe
+40.055894,17.992327,ov_caffe_bellini_40.0559_17.9923,Caffe Bellini,RESTAURANT,bar_cafe
+40.055909,17.991385,ov_bar_paolo_40.0559_17.9914,Bar Paolo,RESTAURANT,bar_cafe
+40.056052,17.990146,ov_spinelli_h24_gallipoli_40.0561_17.9901,Spinelli H24 Gallipoli,RESTAURANT,bar_cafe
+40.056084,17.989183,ov_il_nascondiglio_40.0561_17.9892,Il nascondiglio,RESTAURANT,bar_cafe
+40.055874,17.988592,ov_sbronzeria_tellini_40.0559_17.9886,Sbronzeria Tellini,RESTAURANT,bar_cafe
+40.055943,17.987700,ov_laboratori_urbani_40.0559_17.9877,Laboratori Urbani,RESTAURANT,bar_cafe
+40.055930,17.987750,ov_mata_mua_40.0559_17.9877,Mata Mua,RESTAURANT,bar_cafe
+40.056029,17.987477,ov_bar_pasticceria_martinucci_gallipoli_40.0560_17.9875,Bar-Pasticceria Martinucci Gallipoli,RESTAURANT,bar_cafe
+40.056001,17.986444,ov_bar_la_palma_40.0560_17.9864,Bar La Palma,RESTAURANT,bar_cafe
+40.056448,17.987373,ov_la_compagnia_pub_40.0564_17.9874,La Compagnia Pub,RESTAURANT,bar_cafe
+40.056457,17.988678,ov_brasserie_40.0565_17.9887,Brasserie,RESTAURANT,bar_cafe
+40.057991,17.988819,ov_bar_marconi_40.0580_17.9888,BAR Marconi,RESTAURANT,bar_cafe
+40.058818,17.992510,ov_new_garden_bar_40.0588_17.9925,New Garden Bar,RESTAURANT,bar_cafe
+40.056387,17.990573,ov_la_putea_experience_40.0564_17.9906,La Putea Experience,RESTAURANT,bar_cafe
+40.058642,17.993529,ov_azzurra_bar_40.0586_17.9935,Azzurra Bar,RESTAURANT,bar_cafe
+40.058843,17.993464,ov_cantine_li_capasuni_40.0588_17.9935,Cantine Li Capasuni,RESTAURANT,bar_cafe
+40.055977,17.994109,ov_bar_pasticceria_parioli_40.0560_17.9941,Bar Pasticceria Parioli,RESTAURANT,bar_cafe
+40.054340,17.994000,ov_l_angolo_della_fortuna_40.0543_17.9940,L'angolo Della Fortuna,RESTAURANT,bar_cafe
+40.053338,17.993395,ov_la_fabbrica_del_cornetto_40.0533_17.9934,La fabbrica del cornetto,RESTAURANT,bar_cafe
+40.052738,17.996493,ov_pub_topkapi_40.0527_17.9965,Pub Topkapi,RESTAURANT,bar_cafe
+40.051482,17.997357,ov_blucafe_bar_40.0515_17.9974,Blucafe Bar,RESTAURANT,bar_cafe
+39.863060,18.351760,ov_divino_primitivo_di_manduria_39.8631_18.3518,Divino primitivo di Manduria,RESTAURANT,bar_cafe
+40.003547,18.023480,ov_ape_volante_40.0035_18.0235,Ape volante,RESTAURANT,bar_cafe
+40.004987,18.016676,ov_g_beach_gallipoli_40.0050_18.0167,G Beach Gallipoli,RESTAURANT,bar_cafe
+40.021688,18.020529,ov_lido_sant_anna_40.0217_18.0205,Lido Sant'Anna,RESTAURANT,bar_cafe
+40.025173,18.019928,ov__t__40.0252_18.0199,Été,RESTAURANT,bar_cafe
+40.037297,18.015274,ov_albiro_cafe_40.0373_18.0153,Albiro Cafe,RESTAURANT,bar_cafe
+40.036481,18.018145,ov_praja_cafe_40.0365_18.0181,PRAJA CAFE,RESTAURANT,bar_cafe
+40.047878,18.004411,ov_tonga_40.0479_18.0044,Tonga,RESTAURANT,bar_cafe
+40.047790,18.004861,ov_tresor_gallipoli_40.0478_18.0049,Tresor Gallipoli,RESTAURANT,bar_cafe
+40.049174,18.002728,ov_arist__gallipoli_40.0492_18.0027,Aristò Gallipoli,RESTAURANT,bar_cafe
+40.049440,18.001082,ov_white_bar_40.0494_18.0011,White Bar,RESTAURANT,bar_cafe
+40.049640,18.001294,ov_oasi_2_0___coffee___drink_40.0496_18.0013,Oasi 2.0 - Coffee & Drink,RESTAURANT,bar_cafe
+40.054362,18.004892,ov_blues_bar_40.0544_18.0049,Blues Bar,RESTAURANT,bar_cafe
+40.055140,18.004616,ov_fantasy_bar_40.0551_18.0046,Fantasy Bar,RESTAURANT,bar_cafe
+40.055221,18.088786,ov_bar_canneto_40.0552_18.0888,Bar Canneto,RESTAURANT,bar_cafe
+40.057149,18.003229,ov_bar_tyche_40.0571_18.0032,BAR TYCHE,RESTAURANT,bar_cafe
+40.072120,18.008851,ov___easy___caf__more_40.0721_18.0089,• EASY•  cafè&more,RESTAURANT,bar_cafe
+40.073326,18.010617,ov_pizzeria_braceria_1489_food_pop_40.0733_18.0106,Pizzeria Braceria 1489 Food Pop,RESTAURANT,bar_cafe
+40.087052,18.011661,ov_vintage_bar_2_1_40.0871_18.0117,Vintage Bar 2.1,RESTAURANT,bar_cafe
+40.086993,18.011562,ov_gimami_caffetteria_40.0870_18.0116,Gimami Caffetteria,RESTAURANT,bar_cafe
+40.090226,18.012446,ov_le_dune_beach_bar_gallipoli_40.0902_18.0124,Le Dune Beach Bar Gallipoli,RESTAURANT,bar_cafe
+40.099083,18.015598,ov_lido_dei_pini__padula_bianca__gallipoli_40.0991_18.0156,"Lido dei pini, Padula Bianca, Gallipoli",RESTAURANT,bar_cafe
+40.108439,18.010411,ov_papaya_40.1084_18.0104,Papaya,RESTAURANT,bar_cafe
+40.108595,18.011646,ov_bar_tabacchi_arlecchino_40.1086_18.0116,Bar Tabacchi Arlecchino,RESTAURANT,bar_cafe
+40.055616,17.977966,osm_il_girone_dei_golosi_40.0556_17.9780,Il Girone Dei Golosi,bar_cafe,bar_cafe
+40.055855,17.992347,osm_caff__bellini_40.0559_17.9923,Caffé Bellini,bar_cafe,bar_cafe
+40.037301,18.015190,osm_bar_albir__40.0373_18.0152,Bar Albirò,bar_cafe,bar_cafe
+40.055942,17.987513,osm_martinucci_laboratory_40.0559_17.9875,Martinucci Laboratory,bar_cafe,bar_cafe
+40.053163,17.973366,osm_buena_vista_40.0532_17.9734,Buena Vista,bar_cafe,bar_cafe
+40.055768,17.977989,osm_portaterra_40.0558_17.9780,Portaterra,bar_cafe,bar_cafe
+40.055244,17.981136,osm_bar_canneto_40.0552_17.9811,Bar Canneto,bar_cafe,bar_cafe
+40.055995,17.985066,osm_cal__40.0560_17.9851,Calò,bar_cafe,bar_cafe
+40.055659,17.977613,osm_blanc_cafe___living_store_40.0557_17.9776,Blanc Cafe & Living Store,bar_cafe,bar_cafe
+40.055884,17.990385,osm_savino_40.0559_17.9904,Savino,bar_cafe,bar_cafe
+40.055011,17.976328,osm_caffe__duomo_40.0550_17.9763,Caffe' Duomo,bar_cafe,bar_cafe
+40.061099,17.994270,ov_betty_boop_dance_academy_40.0611_17.9943,Betty Boop Dance Academy,GYM,palestra
+40.056245,17.978416,ov_porto_di_gallipoli_40.0562_17.9784,Porto di Gallipoli,GYM,palestra
+40.055430,17.985910,ov_pilates_con_luciana_de_benedetto_40.0554_17.9859,Pilates Con Luciana De Benedetto,GYM,palestra
+40.054038,17.992827,ov_scuola_di_balletto_classico_cinzia_ria_40.0540_17.9928,Scuola di Balletto Classico Cinzia Ria,GYM,palestra
+40.057370,17.998470,ov_new_fitness___gallipoli_40.0574_17.9985,New Fitness - Gallipoli,GYM,palestra
+40.053191,17.996603,ov_disc_n_roll_40.0532_17.9966,Disc'n Roll,GYM,palestra
+40.048569,18.002399,ov_salento_coast_ovest_kitesurf_school___fi_40.0486_18.0024,Salento Coast Ovest Kitesurf School - FIV e IKO,GYM,palestra
+40.049270,18.004540,ov_meeting_gym_40.0493_18.0045,Meeting Gym,GYM,palestra
+40.049591,18.002806,ov_palestra_rizzello_srl_40.0496_18.0028,Palestra Rizzello Srl,GYM,palestra
+40.054639,18.004589,ov_mr_fit_lab_40.0546_18.0046,Mr Fit Lab,GYM,palestra
+40.055074,18.004597,ov_ics___incorporesano_40.0551_18.0046,ICS - Incorporesano,GYM,palestra
+40.056436,18.031889,ov_evergreengallipoli_40.0564_18.0319,EvergreenGallipoli,GYM,palestra
+40.068651,18.003762,ov_fisiokinesis___fitness_cataldi_40.0687_18.0038,Fisiokinesis & Fitness Cataldi,GYM,palestra
+40.053600,17.973200,ov_mura_urbiche_di_gallipoli_40.0536_17.9732,Mura Urbiche di Gallipoli,MONUMENT,monumento
+40.053031,17.974297,ov_chiostro_di_san_domenico__gallipoli_40.0530_17.9743,"Chiostro Di San Domenico, Gallipoli",MONUMENT,monumento
+40.054626,17.976229,ov_agata_provenzano_40.0546_17.9762,Agata Provenzano,MONUMENT,monumento
+40.054976,17.976248,ov_gallipoli_40.0550_17.9762,Gallipoli,MUSEUM,monumento
+40.054944,17.976892,ov_museo_diocesano_di_gallipoli_40.0549_17.9769,Museo Diocesano di Gallipoli,MUSEUM,monumento
+40.055427,17.978643,ov_castello_di_gallipoli__un_mare_di_storie_40.0554_17.9786,"Castello di Gallipoli, un mare di storie",MUSEUM,monumento
+40.055028,17.975601,ov_sala_collezione_coppola_40.0550_17.9756,Sala Collezione Coppola,MUSEUM,monumento
+40.054939,17.975736,ov_museo_del_mare_40.0549_17.9757,Museo del Mare,MUSEUM,monumento
+40.054699,17.975362,ov_museo_civico_emanuele_barba_40.0547_17.9754,Museo Civico Emanuele Barba,MUSEUM,monumento
+40.054523,17.975543,ov_il_frantoio_del_vicere_40.0545_17.9755,Il Frantoio del Vicere,MUSEUM,monumento
+40.054607,17.975281,ov_frantoio_ipogeo_di_palazzo_granafei_40.0546_17.9753,Frantoio Ipogeo di Palazzo Granafei,MUSEUM,monumento
+40.047861,18.003013,ov_torre_san_giovanni_la_pedata_40.0479_18.0030,Torre San Giovanni La Pedata,MONUMENT,monumento

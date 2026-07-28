@@ -1,8 +1,117 @@
 # lat,lng,id,name,building_type,type
-# Canosa di Puglia — Tutti i POI
+# Canosa di Puglia -- Tutti
 41.201414,16.082405,osm_il_giardino_del_mago_41.2014_16.0824,Il Giardino del Mago,ristorante,ristorante
 41.211635,16.078695,osm_villa_torre_caracciolo_41.2116_16.0787,Villa Torre Caracciolo,ristorante,ristorante
 41.217238,16.073646,osm_coll_xstro_41.2172_16.0736,CollĒxstro,ristorante,ristorante
 41.219013,16.070371,osm_pizzeria_tip_top_41.2190_16.0704,Pizzeria Tip Top,ristorante,ristorante
 41.212799,16.078052,osm_ristorante_la_terrazza_41.2128_16.0781,Ristorante La Terrazza,ristorante,ristorante
 41.214655,16.072230,osm_lo_smeraldo_41.2147_16.0722,Lo Smeraldo,ristorante,ristorante
+41.225725,16.072231,ov_pronto_soccorso_ospedale_caduti_in_guerr_41.2257_16.0722,Pronto Soccorso Ospedale Caduti in Guerra,HOSPITAL,hospital
+40.669529,17.109377,ov_ramses_ristopub_40.6695_17.1094,Ramses RistoPub,RESTAURANT,ristorante
+41.225823,16.060560,ov_ristorante_carbon_dolce_41.2258_16.0606,Ristorante Carbon Dolce,RESTAURANT,ristorante
+41.226865,16.066922,ov_resta_cumme_41.2269_16.0669,Resta Cumme,RESTAURANT,ristorante
+41.227181,16.063711,ov_nana_41.2272_16.0637,NaNa,RESTAURANT,ristorante
+41.225440,16.073513,ov_locanda_di_nunno_41.2254_16.0735,Locanda Di Nunno,RESTAURANT,ristorante
+41.225561,16.072961,ov_vadi_da_margot_braceria_41.2256_16.0730,Vadi da Margot Braceria,RESTAURANT,ristorante
+41.224930,16.072018,ov_pizzeria_red_lion_41.2249_16.0720,Pizzeria Red Lion,RESTAURANT,ristorante
+41.225242,16.068527,ov_ristobottega_rotondo_41.2252_16.0685,Ristobottega Rotondo,RESTAURANT,ristorante
+41.224676,16.061964,ov_nell_arco_del_tempo_41.2247_16.0620,Nell'Arco del Tempo,RESTAURANT,ristorante
+41.224348,16.062978,ov_pizz_e_core_41.2243_16.0630,Pizz e Core,RESTAURANT,ristorante
+41.224350,16.064017,ov_pane_e_salame_41.2243_16.0640,Pane e Salame,RESTAURANT,ristorante
+41.224208,16.070561,ov_la_gusteria_41.2242_16.0706,La Gusteria,RESTAURANT,ristorante
+41.223595,16.069544,ov_talismano_pizzeria_41.2236_16.0695,Talismano Pizzeria,RESTAURANT,ristorante
+41.223583,16.066092,ov_ristorante_antonio_bologna_41.2236_16.0661,Ristorante Antonio Bologna,RESTAURANT,ristorante
+41.223951,16.062841,ov_da_rossano_41.2240_16.0628,Da Rossano,RESTAURANT,ristorante
+41.224163,16.065752,ov_coll_xstro_41.2242_16.0658,CollĒxstro,RESTAURANT,ristorante
+41.224230,16.063646,ov_vin_lia_41.2242_16.0636,Vinàlia,RESTAURANT,ristorante
+41.224169,16.063773,ov_kebab_el_faraon_41.2242_16.0638,Kebab el Faraon,RESTAURANT,ristorante
+41.224036,16.064448,ov_calamariba_41.2240_16.0644,Calamariba,RESTAURANT,ristorante
+41.221204,16.059056,ov_red_lion_v_41.2212_16.0591,Red Lion V,RESTAURANT,ristorante
+41.222051,16.060829,ov_mu_mang_ristobottega_41.2221_16.0608,Mu Mang ristobottega,RESTAURANT,ristorante
+41.222251,16.060764,ov_la_pr_ule_41.2223_16.0608,La Prèule,RESTAURANT,ristorante
+41.222283,16.068300,ov_da_mario_41.2223_16.0683,Da Mario,RESTAURANT,ristorante
+41.222646,16.065344,ov_amore_in_ogni_dove_41.2226_16.0653,Amore In Ogni Dove,RESTAURANT,ristorante
+41.222571,16.065027,ov_pizzeria_la_nicchia_41.2226_16.0650,Pizzeria La Nicchia,RESTAURANT,ristorante
+41.222799,16.061320,ov_ristorante_mare_in_terra_41.2228_16.0613,Ristorante Mare In Terra,RESTAURANT,ristorante
+41.223079,16.061861,ov_pizzeria_mondo_pizza_41.2231_16.0619,Pizzeria Mondo pizza,RESTAURANT,ristorante
+41.223186,16.065392,ov_pizzeria_dall_orco_41.2232_16.0654,Pizzeria dall'Orco,RESTAURANT,ristorante
+41.223156,16.068607,ov_istanbul_kebab_41.2232_16.0686,Istanbul Kebab,RESTAURANT,ristorante
+41.222759,16.065636,ov_mare_in_terra_41.2228_16.0656,Mare in Terra,RESTAURANT,ristorante
+41.221902,16.072875,ov_mo__41.2219_16.0729,MOÈ,RESTAURANT,ristorante
+41.222053,16.065745,ov_la_capannina_41.2221_16.0657,La Capannina,RESTAURANT,ristorante
+41.221830,16.066540,ov_la_siesta_41.2218_16.0665,La Siesta,RESTAURANT,ristorante
+41.221360,16.066350,ov_don_ciccio___cucina_tipica___piatti_da_a_41.2214_16.0663,Don Ciccio - Cucina Tipica - Piatti da asporto,RESTAURANT,ristorante
+41.221013,16.065545,ov_da_franco_41.2210_16.0655,Da Franco,RESTAURANT,ristorante
+41.220709,16.068389,ov_that_s_amore_41.2207_16.0684,That's Amore,RESTAURANT,ristorante
+41.220451,16.067253,ov_mister_angus_41.2205_16.0673,Mister Angus,RESTAURANT,ristorante
+41.218990,16.070342,ov_tip_top_41.2190_16.0703,Tip Top,RESTAURANT,ristorante
+41.218679,16.063163,ov_da_pasquale_41.2187_16.0632,Da Pasquale,RESTAURANT,ristorante
+41.218285,16.076209,ov_saraceno_41.2183_16.0762,Saraceno,RESTAURANT,ristorante
+41.217661,16.066617,ov_pizze_e_delizie_41.2177_16.0666,Pizze e Delizie,RESTAURANT,ristorante
+41.215185,16.047515,ov_ristorante_antonio_bologna_41.2152_16.0475,Ristorante Antonio Bologna,RESTAURANT,ristorante
+41.214373,16.056848,ov_twins_41.2144_16.0568,Twins,RESTAURANT,ristorante
+41.213326,16.077884,ov_yama_sushi_restaurant_41.2133_16.0779,Yama Sushi Restaurant,RESTAURANT,ristorante
+41.212854,16.077955,ov_la_terrazza_41.2129_16.0780,La Terrazza,RESTAURANT,ristorante
+41.209809,16.078440,ov_blue_moon_41.2098_16.0784,Blue Moon,RESTAURANT,ristorante
+41.211242,16.078683,ov_villa_torre_caracciolo_41.2112_16.0787,Villa Torre Caracciolo,RESTAURANT,ristorante
+41.212518,16.078001,ov_brimax_41.2125_16.0780,Brimax,RESTAURANT,ristorante
+41.200980,16.080480,ov_giardino_del_mago_41.2010_16.0805,Giardino del Mago,RESTAURANT,ristorante
+41.191805,16.040394,ov_cucina_cefalicchio_41.1918_16.0404,Cucina Cefalicchio,RESTAURANT,ristorante
+41.159329,15.938491,ov_pizzeria_bar_loconia_41.1593_15.9385,Pizzeria Bar Loconia,RESTAURANT,ristorante
+41.227432,16.061093,ov_colorado_caff__41.2274_16.0611,Colorado Caffè,RESTAURANT,bar_cafe
+41.225300,16.062162,ov_lamanna_41.2253_16.0622,Lamanna,RESTAURANT,bar_cafe
+41.224905,16.071684,ov_jazz_caf__41.2249_16.0717,Jazz Cafè,RESTAURANT,bar_cafe
+41.224447,16.063217,ov_bar_million_41.2244_16.0632,Bar million,RESTAURANT,bar_cafe
+41.224608,16.071541,ov_orange_cafe_41.2246_16.0715,Orange Cafe,RESTAURANT,bar_cafe
+41.223191,16.068572,ov_ohana_caff__41.2232_16.0686,Ohana Caffè,RESTAURANT,bar_cafe
+41.223289,16.065797,ov_caffetteria_valentina_41.2233_16.0658,Caffetteria Valentina,RESTAURANT,bar_cafe
+41.223310,16.065205,ov_caf__calypso_41.2233_16.0652,Café Calypso,RESTAURANT,bar_cafe
+41.223880,16.064176,ov_bar_cono_d_oro_41.2239_16.0642,Bar Cono D'Oro,RESTAURANT,bar_cafe
+41.224130,16.066100,ov_oberdanristopub_41.2241_16.0661,oberdanristopub,RESTAURANT,bar_cafe
+41.222438,16.061198,ov_bar_miriana_41.2224_16.0612,Bar Miriana,RESTAURANT,bar_cafe
+41.222452,16.066970,ov_planet_cafe_41.2225_16.0670,Planet Cafe,RESTAURANT,bar_cafe
+41.222425,16.066670,ov_casa_del_caffe_41.2224_16.0667,Casa Del Caffe,RESTAURANT,bar_cafe
+41.222470,16.065281,ov_internet_cafe_sas_41.2225_16.0653,Internet Cafe SAS,RESTAURANT,bar_cafe
+41.222753,16.065721,ov_bar_pasticceria___food_41.2228_16.0657,Bar Pasticceria & Food,RESTAURANT,bar_cafe
+41.219512,16.076834,ov_bim_bum_bar_41.2195_16.0768,Bim bum bar,RESTAURANT,bar_cafe
+41.219050,16.074190,ov_chiosco_caf__beaux_arts_41.2191_16.0742,Chiosco cafè beaux arts,RESTAURANT,bar_cafe
+41.220002,16.066732,ov_carpe_diem_41.2200_16.0667,Carpe Diem,RESTAURANT,bar_cafe
+41.220410,16.057566,ov_caffetteria_nuova_stella_41.2204_16.0576,Caffetteria Nuova Stella,RESTAURANT,bar_cafe
+41.217225,16.060228,ov_cafe_lumiere_41.2172_16.0602,Cafe Lumiere,RESTAURANT,bar_cafe
+41.218072,16.059085,ov_white_bar__ristorazione_e_bar__41.2181_16.0591,White Bar -Ristorazione e Bar-,RESTAURANT,bar_cafe
+41.218315,16.069160,ov_caffettiamo_41.2183_16.0692,Caffettiamo,RESTAURANT,bar_cafe
+41.218775,16.070335,ov_caffe_italiano_41.2188_16.0703,Caffe Italiano,RESTAURANT,bar_cafe
+41.218940,16.069770,ov_lounge_buddha_bar_41.2189_16.0698,Lounge Buddha Bar,RESTAURANT,bar_cafe
+41.218131,16.076447,ov_jolly_blu_la_sala_gioki_41.2181_16.0764,JoLLy BLu La SaLa GioKi,RESTAURANT,bar_cafe
+41.217782,16.077094,ov_lamanna_41.2178_16.0771,Lamanna,RESTAURANT,bar_cafe
+41.217545,16.074076,ov_collexstro_food_art_41.2175_16.0741,CollExstro Food Art,RESTAURANT,bar_cafe
+41.217159,16.063473,ov_bar_millico_41.2172_16.0635,BAR Millico,RESTAURANT,bar_cafe
+41.216692,16.078406,ov_canosa_a_mmare_41.2167_16.0784,Canosa a'Mmare,RESTAURANT,bar_cafe
+41.216667,16.075064,ov_jimmy_s_cafe_41.2167_16.0751,Jimmy's Cafe,RESTAURANT,bar_cafe
+41.215960,16.059620,ov_bar_l_angolo_del_caff__41.2160_16.0596,Bar L angolo del caffè,RESTAURANT,bar_cafe
+41.214130,16.059784,ov_ip_costantinopoli_snack_bar_41.2141_16.0598,IP Costantinopoli Snack Bar,RESTAURANT,bar_cafe
+41.212990,16.077980,ov_les_gourmets_bar_confectioners_41.2130_16.0780,Les gourmets bar confectioners,RESTAURANT,bar_cafe
+41.211679,16.077764,ov_cafe_papillon_41.2117_16.0778,Cafe Papillon,RESTAURANT,bar_cafe
+41.215220,16.073172,osm_caffe_91_41.2152_16.0732,Caffe'91,bar_cafe,bar_cafe
+41.224580,16.068200,ov_club_for_fitness_41.2246_16.0682,Club for Fitness,GYM,palestra
+41.222643,16.069650,ov_asd_body_masters_gym_41.2226_16.0696,ASD Body Masters Gym,GYM,palestra
+41.220717,16.075281,ov_asd_reasport_wellness_41.2207_16.0753,ASD Reasport Wellness,GYM,palestra
+41.219413,16.069383,ov_l_etoile_41.2194_16.0694,L'Etoile,GYM,palestra
+41.220396,16.058982,ov_veneziano_ranch_a_s_d_41.2204_16.0590,Veneziano Ranch A.s.d,GYM,palestra
+41.218337,16.064761,ov_cave_1882_fitness_club_41.2183_16.0648,Cave 1882 Fitness Club,GYM,palestra
+41.218904,16.070388,ov_hollywood_dance_canosa_41.2189_16.0704,Hollywood Dance Canosa,GYM,palestra
+41.217620,16.064970,ov_korpea_41.2176_16.0650,korpea,GYM,palestra
+41.215402,16.079256,ov_db_performance_lab_41.2154_16.0793,DB Performance Lab,GYM,palestra
+41.214670,16.059430,ov_boxe_di_palo_41.2147_16.0594,Boxe Di Palo,GYM,palestra
+41.211506,16.077694,ov_fitness_and_dance_studio_damiano_41.2115_16.0777,Fitness and Dance Studio Damiano,GYM,palestra
+41.211180,16.077650,ov_asd_simona_metta_fit___dance_41.2112_16.0776,ASD Simona Metta FIT & DANCE,GYM,palestra
+41.176069,16.032372,ov_color_wars_paintball_41.1761_16.0324,Color Wars Paintball,GYM,palestra
+41.225663,16.060033,ov_castello_di_canosa_41.2257_16.0600,Castello di Canosa,MONUMENT,monumento
+41.225120,16.061863,ov_museo_archeologico_di_palazzo_iliceto_41.2251_16.0619,Museo Archeologico di Palazzo Iliceto,MUSEUM,monumento
+41.222331,16.066203,ov_museo_dei_vescovi_monsignor_francesco_mi_41.2223_16.0662,Museo dei Vescovi Monsignor Francesco Minerva,MUSEUM,monumento
+41.221440,16.067900,ov_gruppo_di_studio_degli_anarchici_di_cano_41.2214_16.0679,Gruppo di studio degli anarchici di Canosa di Puglia,MUSEUM,monumento
+41.221413,16.066702,ov_museo_archeologico_nazionale_canosa_di_p_41.2214_16.0667,Museo Archeologico Nazionale Canosa di Puglia,MUSEUM,monumento
+41.220105,16.065136,ov_tempio_di_giove_toro_41.2201_16.0651,Tempio di Giove Toro,MONUMENT,monumento
+41.219183,16.070466,ov_mausoleo_del_principe_boemondo_d_altavil_41.2192_16.0705,Mausoleo del Principe Boemondo D'altavilla,MONUMENT,monumento
+41.214897,16.058204,ov_tomba_varrese_41.2149_16.0582,Tomba Varrese,MONUMENT,monumento
+41.210978,16.070637,ov_san_leucio__canosa_41.2110_16.0706,San Leucio. Canosa,MUSEUM,monumento

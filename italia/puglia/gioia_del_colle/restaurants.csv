@@ -1,8 +1,77 @@
 # lat,lng,id,name,building_type,type
-# Gioia del Colle — restaurants
+# gioia_del_colle -- restaurants
 40.800043,16.922458,osm_cab__40.8000_16.9225,Cabò,ristorante,ristorante
 40.802047,16.927664,osm_su_x_gi__40.8020_16.9277,Su x Giù,ristorante,ristorante
 40.808596,16.924650,osm_izumi_sushi_40.8086_16.9247,Izumi Sushi,ristorante,ristorante
 40.798680,16.924587,osm_ristorante_pizzeria_il_mago_40.7987_16.9246,Ristorante Pizzeria Il Mago,ristorante,ristorante
 40.794078,16.924171,osm_angolo_divino_40.7941_16.9242,Angolo Divino,ristorante,ristorante
 40.803330,16.922946,osm_pizzeria_pub_artois_40.8033_16.9229,Pizzeria Pub Artois,ristorante,ristorante
+40.833780,16.883950,ov_tenuta_antico_leccio_agriturismo___ricev_40.8338_16.8839,Tenuta Antico Leccio Agriturismo & Ricevimenti,RESTAURANT,ristorante
+40.808863,16.923722,ov_focacceria_fellini_40.8089_16.9237,Focacceria Fellini,RESTAURANT,ristorante
+40.808536,16.922947,ov_queens_gioia_pizzeria_40.8085_16.9229,Queens Gioia Pizzeria,RESTAURANT,ristorante
+40.808566,16.922829,ov_bello_ciccio_pizzeria_40.8086_16.9228,Bello Ciccio Pizzeria,RESTAURANT,ristorante
+40.807392,16.909420,ov_la_facenda_40.8074_16.9094,La Facenda,RESTAURANT,ristorante
+40.807814,16.924021,ov_marab__pizzeria_ristorante_40.8078_16.9240,Marabù Pizzeria-Ristorante,RESTAURANT,ristorante
+40.802371,16.927341,ov_su_x_gi__40.8024_16.9273,Su X Giù,RESTAURANT,ristorante
+40.804224,16.922857,ov_nun__40.8042_16.9229,Nunè,RESTAURANT,ristorante
+40.804403,16.922858,ov_pizzeria_la_lira_40.8044_16.9229,Pizzeria La Lira,RESTAURANT,ristorante
+40.801931,16.922902,ov_la_vecchia_gioia_40.8019_16.9229,La Vecchia Gioia,RESTAURANT,ristorante
+40.802082,16.920096,ov_il_pizzicagnolo_40.8021_16.9201,Il Pizzicagnolo,RESTAURANT,ristorante
+40.801632,16.919481,ov_ascatigno_40.8016_16.9195,Ascatigno,RESTAURANT,ristorante
+40.801690,16.922658,ov_alibaba_kebabberia_40.8017_16.9227,Alibaba kebabberia,RESTAURANT,ristorante
+40.801718,16.924182,ov_ciobio_by_secret_food_40.8017_16.9242,CioBio by Secret Food,RESTAURANT,ristorante
+40.801985,16.924441,ov_ristorante___enoteca_la_pergola_saracino_40.8020_16.9244,Ristorante - Enoteca La Pergola Saracino SRL,RESTAURANT,ristorante
+40.801220,16.922770,ov_taverna_da_romoletto_40.8012_16.9228,Taverna Da Romoletto,RESTAURANT,ristorante
+40.800763,16.922697,ov_bello_ciccio_40.8008_16.9227,Bello Ciccio,RESTAURANT,ristorante
+40.800611,16.921301,ov_youpizza_40.8006_16.9213,Youpizza,RESTAURANT,ristorante
+40.800910,16.923160,ov_la_golosa_di_puglia_40.8009_16.9232,La Golosa di Puglia,RESTAURANT,ristorante
+40.800586,16.925488,ov_red_pepper_40.8006_16.9255,Red Pepper,RESTAURANT,ristorante
+40.800140,16.923805,ov_piano___susci_italiano_40.8001_16.9238,Piano - Susci Italiano,RESTAURANT,ristorante
+40.799941,16.921171,ov_osteria_del_borgo_antico_40.7999_16.9212,Osteria del Borgo Antico,RESTAURANT,ristorante
+40.799942,16.921240,ov_borgo_antico_40.7999_16.9212,Borgo Antico,RESTAURANT,ristorante
+40.800008,16.922984,ov_mezzo_quinto_40.8000_16.9230,Mezzo Quinto,RESTAURANT,ristorante
+40.800087,16.922595,ov_cabo_tigelleria_40.8001_16.9226,Cabo Tigelleria,RESTAURANT,ristorante
+40.800343,16.922510,ov_trattoria_pugliese_40.8003_16.9225,Trattoria Pugliese,RESTAURANT,ristorante
+40.800367,16.922826,ov_al_castello_pizzeria_birreria_40.8004_16.9228,Al Castello Pizzeria Birreria,RESTAURANT,ristorante
+40.800420,16.922600,ov_________40.8004_16.9226,게임크리에이터,RESTAURANT,ristorante
+40.800221,16.918527,ov_novus_di_pietro_giorgio_40.8002_16.9185,Novus di Pietro Giorgio,RESTAURANT,ristorante
+40.799879,16.917165,ov_agriturismo_antico_leccio_40.7999_16.9172,Agriturismo Antico Leccio,RESTAURANT,ristorante
+40.797223,16.917694,ov_brando_pizza_bistrot_40.7972_16.9177,Brando Pizza Bistrot,RESTAURANT,ristorante
+40.798810,16.913078,ov_pizza_royal_40.7988_16.9131,Pizza Royal,RESTAURANT,ristorante
+40.798943,16.913076,ov_authentico_pizzeria_40.7989_16.9131,Authentico Pizzeria,RESTAURANT,ristorante
+40.799075,16.912538,ov_manhattan_40.7991_16.9125,Manhattan,RESTAURANT,ristorante
+40.799058,16.919258,ov_stargate_panzerotteria_pizzeria_40.7991_16.9193,Stargate Panzerotteria Pizzeria,RESTAURANT,ristorante
+40.798661,16.924619,ov_il_mago_della_pizza_40.7987_16.9246,Il Mago della Pizza,RESTAURANT,ristorante
+40.798417,16.924386,ov_124_food_40.7984_16.9244,124 Food,RESTAURANT,ristorante
+40.798304,16.925362,ov_pizza_e_bottega_40.7983_16.9254,Pizza e Bottega,RESTAURANT,ristorante
+40.798494,16.925324,ov_sbavo_40.7985_16.9253,Sbavo,RESTAURANT,ristorante
+40.798141,16.924436,ov_l_altra_corte_pizzeria_40.7981_16.9244,L'Altra Corte Pizzeria,RESTAURANT,ristorante
+40.798023,16.921979,ov_il_rifugio_40.7980_16.9220,Il Rifugio,RESTAURANT,ristorante
+40.797797,16.920100,ov_salotto_mescolanze_e_specialita_40.7978_16.9201,Salotto Mescolanze e Specialita,RESTAURANT,ristorante
+40.797918,16.922581,ov_dimora_sovrana_40.7979_16.9226,Dimora Sovrana,RESTAURANT,ristorante
+40.797661,16.920900,ov_lo_snoopy_40.7977_16.9209,Lo Snoopy,RESTAURANT,ristorante
+40.797442,16.919658,ov_osteria_s_lucia___pizzeria_40.7974_16.9197,Osteria S.Lucia - Pizzeria,RESTAURANT,ristorante
+40.800044,16.927577,ov_pasticceria_grand_cru_40.8000_16.9276,Pasticceria GRAND CRU,RESTAURANT,ristorante
+40.800081,16.927775,ov_munir_pizzeria_40.8001_16.9278,MUNIR Pizzeria,RESTAURANT,ristorante
+40.800081,16.927775,ov_sushi_gio_40.8001_16.9278,Sushi Gio,RESTAURANT,ristorante
+40.800081,16.927775,ov_la_kantina_40.8001_16.9278,La Kantina,RESTAURANT,ristorante
+40.795634,16.929489,ov_nero_carbone_braceria_40.7956_16.9295,Nero Carbone braceria,RESTAURANT,ristorante
+40.796922,16.923434,ov_io_gusto_bio_di_antonio_tria_40.7969_16.9234,Io Gusto Bio di Antonio Tria,RESTAURANT,ristorante
+40.797080,16.917370,ov_gustami_pizzeria_40.7971_16.9174,Gustami Pizzeria,RESTAURANT,ristorante
+40.795272,16.918176,ov_noipizza_40.7953_16.9182,NoiPizza,RESTAURANT,ristorante
+40.794937,16.922739,ov_gioia_di_pasta_40.7949_16.9227,Gioia Di Pasta,RESTAURANT,ristorante
+40.794251,16.920619,ov_mesa_libre_40.7943_16.9206,Mesa libre,RESTAURANT,ristorante
+40.794280,16.923802,ov_grill___barbecue_40.7943_16.9238,Grill & Barbecue,RESTAURANT,ristorante
+40.792969,16.918771,ov_vineriaroccacellarii_40.7930_16.9188,VineriaRoccaCellarii,RESTAURANT,ristorante
+40.784467,16.893172,ov_country_club__gioia_40.7845_16.8932,Country CLUB  Gioia,RESTAURANT,ristorante
+40.771215,16.836491,ov_i_sassini_40.7712_16.8365,I Sassini,RESTAURANT,ristorante
+40.778776,16.851161,ov_agriturismo_la_masseria_de_palma_40.7788_16.8512,Agriturismo La Masseria De Palma,RESTAURANT,ristorante
+40.777422,16.925812,ov_vetreria_vebad_40.7774_16.9258,vetreria vebad,RESTAURANT,ristorante
+40.755274,16.910588,ov_masseria_bosco_petraro_40.7553_16.9106,Masseria Bosco Petraro,RESTAURANT,ristorante
+40.750508,16.909332,ov_la_cicerchia_40.7505_16.9093,La Cicerchia,RESTAURANT,ristorante
+40.737720,16.866220,ov_ristorante_gallo_trani_40.7377_16.8662,Ristorante Gallo Trani,RESTAURANT,ristorante
+40.742250,16.811993,ov_masseria_capo_iazzo_40.7423_16.8120,Masseria Capo Iazzo,RESTAURANT,ristorante
+40.709938,16.822622,ov_la_dimora_dei_peuceti_40.7099_16.8226,La Dimora dei Peuceti,RESTAURANT,ristorante
+40.726083,16.836463,ov_pizzeria_dongiovanni_40.7261_16.8365,Pizzeria Dongiovanni,RESTAURANT,ristorante
+40.724539,16.892332,ov_agriturismo_regno_di_marzagaglia_40.7245_16.8923,Agriturismo Regno di Marzagaglia,RESTAURANT,ristorante
+40.949967,17.299225,ov_osteria_del_borgo_antico_40.9500_17.2992,Osteria del Borgo Antico,RESTAURANT,ristorante

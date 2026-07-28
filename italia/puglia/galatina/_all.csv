@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type
-# Galatina — Tutti i POI
+# Galatina -- Tutti
 40.175998,18.158447,osm_pronto_soccorso_ospedale_santa_caterina__40.1760_18.1584,Pronto Soccorso Ospedale Santa Caterina Novella,hospital,hospital
 40.177314,18.168224,osm_zona_franca_40.1773_18.1682,Zona Franca,ristorante,ristorante
 40.180016,18.162442,osm_la_conceria_40.1800_18.1624,La Conceria,ristorante,ristorante
@@ -7,3 +7,138 @@
 40.176732,18.128786,osm_agriturismo_masseria_latronica_40.1767_18.1288,Agriturismo Masseria Latronica,ristorante,ristorante
 40.173838,18.169530,osm_anima___cuore_40.1738_18.1695,Anima & Cuore,ristorante,ristorante
 40.177707,18.164659,osm_pizzeria_la_torre_40.1777_18.1647,Pizzeria la Torre,ristorante,ristorante
+40.176141,18.158485,ov_hospital_santa_caterina_novella_40.1761_18.1585,Hospital Santa Caterina Novella,HOSPITAL,hospital
+40.175355,18.156630,ov_centro_trasfusionale_galatina_40.1754_18.1566,Centro trasfusionale Galatina,HOSPITAL,hospital
+40.169444,18.163588,ov_dr__flavio_carrozzo_40.1694_18.1636,Dr. Flavio Carrozzo,HOSPITAL,hospital
+40.129260,18.122370,ov_gior__40.1293_18.1224,Giorè,RESTAURANT,ristorante
+40.144011,18.170004,ov_don_vincenzo_ricevimenti_40.1440_18.1700,Don Vincenzo Ricevimenti,RESTAURANT,ristorante
+40.154380,18.166030,ov_pescheria_sapore_di_mare__noha_di_galati_40.1544_18.1660,"Pescheria Sapore di mare, Noha di Galatina.",RESTAURANT,ristorante
+40.153854,18.166922,ov_ristorante_signoria_40.1539_18.1669,Ristorante Signoria,RESTAURANT,ristorante
+40.151715,18.166011,ov_centoundici_40.1517_18.1660,Centoundici,RESTAURANT,ristorante
+40.151052,18.165000,ov_pizzeria_pasticceria_bar_madagascar_40.1511_18.1650,Pizzeria Pasticceria Bar Madagascar,RESTAURANT,ristorante
+40.181162,18.168503,ov_mcdonald_s_40.1812_18.1685,McDonald's,RESTAURANT,ristorante
+40.180070,18.162521,ov_ristorante_la_conceria_40.1801_18.1625,Ristorante La Conceria,RESTAURANT,ristorante
+40.178778,18.165323,ov_binario_73_40.1788_18.1653,Binario 73,RESTAURANT,ristorante
+40.179326,18.162704,ov_incoho_40.1793_18.1627,Incoho,RESTAURANT,ristorante
+40.177880,18.166238,ov_sonora_40.1779_18.1662,Sonora,RESTAURANT,ristorante
+40.177090,18.176190,ov_l_angolo_del_gusto_40.1771_18.1762,L'Angolo del Gusto,RESTAURANT,ristorante
+40.177187,18.178984,ov_brusco___pub___bruschetteria_al_metro_40.1772_18.1790,Brusco • Pub & Bruschetteria al Metro,RESTAURANT,ristorante
+40.176669,18.178357,ov_la_torre___pizzeria_con_forno_a_legna_40.1767_18.1784,La Torre | Pizzeria con Forno a Legna,RESTAURANT,ristorante
+40.176105,18.161959,ov_hanami_sushi_40.1761_18.1620,Hanami Sushi,RESTAURANT,ristorante
+40.175437,18.172130,ov_meeting_pucceria_40.1754_18.1721,Meeting Pucceria,RESTAURANT,ristorante
+40.174641,18.169595,ov_dento_sushi_40.1746_18.1696,Dento Sushi,RESTAURANT,ristorante
+40.174511,18.167979,ov_kalasole_restaurant_40.1745_18.1680,Kalasole Restaurant,RESTAURANT,ristorante
+40.174612,18.164224,ov_rosticceria_moscara_40.1746_18.1642,Rosticceria Moscara,RESTAURANT,ristorante
+40.174656,18.165385,ov_impastello_40.1747_18.1654,Impastello,RESTAURANT,ristorante
+40.174997,18.167802,ov_pizza_mania___rosticceria___catering_40.1750_18.1678,Pizza Mania • Rosticceria & Catering,RESTAURANT,ristorante
+40.175317,18.169727,ov_braceria_40.1753_18.1697,Braceria,RESTAURANT,ristorante
+40.175243,18.167676,ov_pizzicheria_40.1752_18.1677,Pizzicheria,RESTAURANT,ristorante
+40.175291,18.166972,ov_dinastya_sushi_di_galatina_40.1753_18.1670,Dinastya sushi di Galatina,RESTAURANT,ristorante
+40.174800,18.159909,ov_il_gusto_40.1748_18.1599,Il Gusto,RESTAURANT,ristorante
+40.175048,18.156530,ov_i_due_trappeti_40.1750_18.1565,I Due Trappeti,RESTAURANT,ristorante
+40.173121,18.170175,ov_nonna_lilia_40.1731_18.1702,Nonna Lilia,RESTAURANT,ristorante
+40.173884,18.167163,ov_stella_del_mare_restaurant_40.1739_18.1672,Stella del Mare Restaurant,RESTAURANT,ristorante
+40.173982,18.169803,ov_clinica_del_gusto_40.1740_18.1698,Clinica del Gusto,RESTAURANT,ristorante
+40.174013,18.171032,ov_salumeria_di_turno_40.1740_18.1710,Salumeria Di Turno,RESTAURANT,ristorante
+40.173865,18.170716,ov_peperino_40.1739_18.1707,Peperino,RESTAURANT,ristorante
+40.173853,18.169485,ov_anima_e_cuore_40.1739_18.1695,Anima e Cuore,RESTAURANT,ristorante
+40.173731,18.169494,ov_il_covo_della_taranta_40.1737_18.1695,Il Covo della Taranta,RESTAURANT,ristorante
+40.173905,18.173589,ov_basilico_pizza_and_food_40.1739_18.1736,Basilico Pizza and Food,RESTAURANT,ristorante
+40.173478,18.172461,ov_corte_del_fuoco_40.1735_18.1725,Corte del Fuoco,RESTAURANT,ristorante
+40.173087,18.173252,ov_meat_n_burger___galatina_40.1731_18.1733,Meat'n'Burger • Galatina,RESTAURANT,ristorante
+40.165649,18.164491,ov_la_campina_40.1656_18.1645,La Campina,RESTAURANT,ristorante
+40.168971,18.163696,ov_il_ghiottone_40.1690_18.1637,Il Ghiottone,RESTAURANT,ristorante
+40.172985,18.171109,ov_tipozero_40.1730_18.1711,Tipozero,RESTAURANT,ristorante
+40.172670,18.171772,ov_il_fienile_ristorante_40.1727_18.1718,Il Fienile Ristorante,RESTAURANT,ristorante
+40.172514,18.171993,ov_trattoria_santa_caterina_sapori_del_sale_40.1725_18.1720,Trattoria santa caterina sapori del salento,RESTAURANT,ristorante
+40.172320,18.164580,ov_trattoria_da_sorpiera_40.1723_18.1646,trattoria da sorpiera,RESTAURANT,ristorante
+40.171944,18.165642,ov_pantagruel_40.1719_18.1656,Pantagruel,RESTAURANT,ristorante
+40.172406,18.172472,ov_la_focacceria_degli_orsini_40.1724_18.1725,La Focacceria degli Orsini,RESTAURANT,ristorante
+40.171747,18.167193,ov_ristorante_matambre_40.1717_18.1672,Ristorante Matambre,RESTAURANT,ristorante
+40.171105,18.160043,ov_punto_e_pasta_40.1711_18.1600,Punto e Pasta,RESTAURANT,ristorante
+40.170846,18.162929,ov_artigiana_cucina_tipica_salentina_40.1708_18.1629,Artigiana Cucina Tipica Salentina,RESTAURANT,ristorante
+40.176800,18.128731,ov_agriturismo_masseria_latronica_40.1768_18.1287,Agriturismo Masseria Latronica,RESTAURANT,ristorante
+40.206862,18.107548,ov_portici_salentini_40.2069_18.1075,Portici Salentini,RESTAURANT,ristorante
+40.208268,18.103372,ov_il_covo_delle_streghe_40.2083_18.1034,Il Covo delle Streghe,RESTAURANT,ristorante
+40.209780,18.158850,ov_tenuta_masseria_spallaccia_40.2098_18.1589,Tenuta Masseria Spallaccia,RESTAURANT,ristorante
+40.219870,18.154828,ov_masseria_spallaccia_azienda_agrituristic_40.2199_18.1548,Masseria Spallaccia Azienda Agrituristica,RESTAURANT,ristorante
+40.241825,18.164790,ov_ristorante_orto_e_cucina_puntarelle_40.2418_18.1648,Ristorante Orto e Cucina Puntarelle,RESTAURANT,ristorante
+40.155316,18.165527,ov_l_edicola_galatina_40.1553_18.1655,L'Edicola Galatina,RESTAURANT,bar_cafe
+40.158450,18.154923,ov_contrada_roncella_40.1584_18.1549,Contrada Roncella,RESTAURANT,bar_cafe
+40.162730,18.181234,ov_easy_caf__more_galatina_40.1627_18.1812,EASY CAFÉ&more Galatina,RESTAURANT,bar_cafe
+40.153883,18.166976,ov_quadro_cocktail_bar_40.1539_18.1670,Quadro Cocktail Bar,RESTAURANT,bar_cafe
+40.154851,18.163029,ov_tribal_caf_40.1549_18.1630,Tribal Caf,RESTAURANT,bar_cafe
+40.152791,18.167866,ov_dado_caf__40.1528_18.1679,DADO cafè,RESTAURANT,bar_cafe
+40.152398,18.166507,ov_fidas_noha_40.1524_18.1665,FIDAS NOHA,RESTAURANT,bar_cafe
+40.181908,18.168765,ov_q8_galatina_40.1819_18.1688,Q8 Galatina,RESTAURANT,bar_cafe
+40.178914,18.170376,ov_jigger_40.1789_18.1704,Jigger,RESTAURANT,bar_cafe
+40.178778,18.169656,ov_caffeina2o21_40.1788_18.1697,Caffeina2o21,RESTAURANT,bar_cafe
+40.179586,18.164181,ov_roomscaffe__40.1796_18.1642,RoomsCaffe',RESTAURANT,bar_cafe
+40.177692,18.165986,ov_drunk_lounge_bar_40.1777_18.1660,Drunk Lounge Bar,RESTAURANT,bar_cafe
+40.178243,18.179768,ov_bar_leonardo_40.1782_18.1798,Bar Leonardo,RESTAURANT,bar_cafe
+40.176939,18.168480,ov_bar_s__antonio_40.1769_18.1685,Bar S. Antonio,RESTAURANT,bar_cafe
+40.177360,18.168189,ov_zona_franca_b_b_40.1774_18.1682,Zona Franca B&B,RESTAURANT,bar_cafe
+40.175457,18.172089,ov_pub_la_staffa_40.1755_18.1721,Pub La Staffa,RESTAURANT,bar_cafe
+40.175680,18.168228,ov_oasi_bar_galatina_40.1757_18.1682,Oasi Bar Galatina,RESTAURANT,bar_cafe
+40.176227,18.166904,ov_gran_caffe_40.1762_18.1669,Gran Caffe,RESTAURANT,bar_cafe
+40.175970,18.172845,ov_osteria_da_pierone_xxx_40.1760_18.1728,Osteria da Pierone XXX,RESTAURANT,bar_cafe
+40.174535,18.167959,ov_i_vitelloni_bistrot_40.1745_18.1680,I Vitelloni Bistrot,RESTAURANT,bar_cafe
+40.174267,18.169201,ov_keys_bar_40.1743_18.1692,Keys Bar,RESTAURANT,bar_cafe
+40.174430,18.169454,ov_ai_calici_40.1744_18.1695,Ai Calici,RESTAURANT,bar_cafe
+40.174655,18.167117,ov_caff__del_corso_40.1747_18.1671,Caffè del Corso,RESTAURANT,bar_cafe
+40.174769,18.164814,ov_caf__mon_amour_40.1748_18.1648,Café Mon Amour,RESTAURANT,bar_cafe
+40.174834,18.168839,ov_bar_delle_rose_40.1748_18.1688,Bar delle Rose,RESTAURANT,bar_cafe
+40.173200,18.170502,ov_tana_del_lupo_40.1732_18.1705,Tana del Lupo,RESTAURANT,bar_cafe
+40.174072,18.167185,ov_caffe_lenee_40.1741_18.1672,Caffe Lenee,RESTAURANT,bar_cafe
+40.173997,18.169059,ov_arry_s_bar_galatina_40.1740_18.1691,Arry's Bar Galatina,RESTAURANT,bar_cafe
+40.174007,18.169570,ov_trattoria_piazza_san_pietro_40.1740_18.1696,Trattoria Piazza San Pietro,RESTAURANT,bar_cafe
+40.174028,18.169170,ov_mad__caffetteria_40.1740_18.1692,Madì Caffetteria,RESTAURANT,bar_cafe
+40.173882,18.169712,ov_madr__drinks___cucina_40.1739_18.1697,Madrè Drinks & Cucina,RESTAURANT,bar_cafe
+40.173861,18.169131,ov_jamila_galatina_40.1739_18.1691,Jamila galatina,RESTAURANT,bar_cafe
+40.173895,18.168758,ov_caffe_alighieri_40.1739_18.1688,Caffe Alighieri,RESTAURANT,bar_cafe
+40.173730,18.169727,ov_vin_ria_40.1737_18.1697,Vinória,RESTAURANT,bar_cafe
+40.173650,18.167936,ov_tonico_e_stai_bene_40.1737_18.1679,TONICO e stai bene,RESTAURANT,bar_cafe
+40.173295,18.173342,ov_loris_bar_40.1733_18.1733,Loris Bar,RESTAURANT,bar_cafe
+40.165728,18.161154,ov_mew_40.1657_18.1612,MEW,RESTAURANT,bar_cafe
+40.168472,18.176151,ov_free_covo_galatina_40.1685_18.1762,Free Covo Galatina,RESTAURANT,bar_cafe
+40.168355,18.173120,ov_kiosketto_da_giampiero_40.1684_18.1731,Kiosketto da Giampiero,RESTAURANT,bar_cafe
+40.169093,18.156176,ov_art_cafe_40.1691_18.1562,Art Cafe,RESTAURANT,bar_cafe
+40.170687,18.170676,ov_cafe_albert_40.1707_18.1707,Cafe Albert,RESTAURANT,bar_cafe
+40.169213,18.163824,ov_dolci_e_dintorni_galatina_40.1692_18.1638,Dolci e Dintorni Galatina,RESTAURANT,bar_cafe
+40.168605,18.172491,ov_caty_bar_40.1686_18.1725,Caty Bar,RESTAURANT,bar_cafe
+40.172804,18.173207,ov_birrificio_artigianale_old_476_40.1728_18.1732,Birrificio Artigianale Old 476,RESTAURANT,bar_cafe
+40.172542,18.169170,ov_antica_rivendita_40.1725_18.1692,Antica Rivendita,RESTAURANT,bar_cafe
+40.172782,18.171503,ov_bar_caty_40.1728_18.1715,Bar Caty,RESTAURANT,bar_cafe
+40.172556,18.171972,ov_caffe_della_basilica_40.1726_18.1720,Caffe della Basilica,RESTAURANT,bar_cafe
+40.172348,18.164951,ov_eurobet_galatina_agenzia_40.1723_18.1650,Eurobet Galatina Agenzia,RESTAURANT,bar_cafe
+40.171287,18.164968,ov_caffe_sport_40.1713_18.1650,Caffe Sport,RESTAURANT,bar_cafe
+40.171048,18.159696,ov_bar_parioli_40.1710_18.1597,Bar Parioli,RESTAURANT,bar_cafe
+40.192440,18.167554,ov_fuoricitta_cafe_40.1924_18.1676,Fuoricitta Cafe,RESTAURANT,bar_cafe
+40.208907,18.108906,ov_blunt_40.2089_18.1089,Blunt,RESTAURANT,bar_cafe
+40.208246,18.105332,ov_kioskobar_collemeto_40.2082_18.1053,Kioskobar Collemeto,RESTAURANT,bar_cafe
+40.174520,18.169501,osm_eros_pasticceria_40.1745_18.1695,Eros Pasticceria,bar_cafe,bar_cafe
+40.173986,18.169370,osm_eden_2_0_40.1740_18.1694,Eden 2.0,bar_cafe,bar_cafe
+40.169048,18.163795,osm_dolci_e_dintorni_40.1690_18.1638,Dolci e dintorni,bar_cafe,bar_cafe
+40.174021,18.169687,osm_vanesio_40.1740_18.1697,Vanesio,bar_cafe,bar_cafe
+40.174782,18.168746,osm_chalet_delle_rose_40.1748_18.1687,Chalet delle Rose,bar_cafe,bar_cafe
+40.158758,18.158931,ov_centro_ippico_sant_eligio_40.1588_18.1589,Centro Ippico Sant'Eligio,GYM,palestra
+40.153021,18.167686,ov_phisica_asd_40.1530_18.1677,Phisica asd,GYM,palestra
+40.152116,18.167647,ov_be_move_40.1521_18.1676,Be Move,GYM,palestra
+40.180393,18.184511,ov_bodylife_40.1804_18.1845,BodyLife,GYM,palestra
+40.180608,18.167970,ov_sporting_club_the_one_40.1806_18.1680,Sporting CLUB the ONE,GYM,palestra
+40.177619,18.162822,ov_oistros_40.1776_18.1628,Oistros,GYM,palestra
+40.178416,18.167838,ov_palestra_zen_shin_40.1784_18.1678,Palestra Zen Shin,GYM,palestra
+40.178320,18.180210,ov_piazzetta_g__fedele_via_soleto___galatin_40.1783_18.1802,Piazzetta G. Fedele via Soleto - Galatina,GYM,palestra
+40.178250,18.185773,ov_palazzetto_dello_sport_fernando_panico_40.1783_18.1858,Palazzetto dello Sport Fernando Panico,GYM,palestra
+40.176696,18.175204,ov_palestra_champions_40.1767_18.1752,Palestra Champions,GYM,palestra
+40.175978,18.161251,ov_wita___aerial_acrobatic_centre_40.1760_18.1613,WITA - Aerial Acrobatic Centre,GYM,palestra
+40.173600,18.164886,ov_in_es_centro_yoga_40.1736_18.1649,In•es Centro Yoga,GYM,palestra
+40.170520,18.164720,ov_new_dance_studio_ballet_40.1705_18.1647,New dance studio ballet,GYM,palestra
+40.172251,18.163802,ov_palestra_vitasnella_40.1723_18.1638,Palestra vitasnella,GYM,palestra
+40.170829,18.164964,ov_family_sport_40.1708_18.1650,Family Sport,GYM,palestra
+40.171642,18.166218,ov_a_s_d__dance_art_40.1716_18.1662,A.s.d. Dance Art,GYM,palestra
+40.171199,18.158169,ov_centro_ginnastica_decathlon_40.1712_18.1582,centro ginnastica decathlon,GYM,palestra
+40.183241,18.168406,ov_360_piscina_palestra_40.1832_18.1684,360 Piscina Palestra,GYM,palestra
+40.184324,18.200372,ov_demos_fitness_40.1843_18.2004,Demos Fitness,GYM,palestra
+40.174382,18.168835,ov_castello_castriota_scanderbeg_40.1744_18.1688,Castello Castriota Scanderbeg,MONUMENT,monumento
+40.175055,18.167733,ov_museo_d_arte__pietro_cavoti__museo_civic_40.1751_18.1677,Museo d’Arte “Pietro Cavoti” Museo Civico,MUSEUM,monumento
