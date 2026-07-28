@@ -180,7 +180,9 @@ def query_overture(con, bbox, categories):
 def query_overture_cities(con, bbox):
     s,w,n,e = [float(x) for x in bbox.split(",")]
     sql = f"""
-    SELECT ST_Y(geometry) as lat, ST_X(geometry) as lng, names.primary as name
+    SELECT ST_Y(ST_Centroid(geometry)) as lat,
+           ST_X(ST_Centroid(geometry)) as lng,
+           names.primary as name
     FROM read_parquet('{S3_DIVISIONS}', filename=true, hive_partitioning=1)
     WHERE subtype = 'locality'
       AND bbox.xmin BETWEEN {w} AND {e}
