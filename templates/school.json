@@ -1,0 +1,13 @@
+{
+  "banner": { "icon": "🏫", "title": "{name}", "subtitle": "Scuola", "color": "#FBC02D" },
+  "sections": [
+    {"type":"menu","title":"Attività","items":[
+      {"name":"Lezione","price":"€0,00","emoji":"📚","action":{"type":"service","need":"fun","gain":20}},
+      {"name":"Esercizio","price":"€5,00","emoji":"✍️","action":{"type":"service","need":"fun","gain":15}},
+      {"name":"Ricreazione","price":"€0,00","emoji":"⚽","action":{"type":"service","need":"fun","gain":10}}
+    ]},
+    {"type":"text","title":"Orari","content":"Lun-Ven: 08:00-13:00 / 14:00-18:00\nSab: 09:00-13:00"},
+    {"type":"action","title":"Iscriviti","emoji":"🔑","action":{"type":"service","need":"social","gain":25}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"🌐","url":"{website}"}
+  ]
+}

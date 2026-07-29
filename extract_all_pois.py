@@ -59,6 +59,10 @@ CATEGORIES = [
     ("bars_cafes", "bar_cafe"),
     ("gyms",       "palestra"),
     ("landmarks",  "monumento"),
+    ("government", "ufficio_pubblico"),
+    ("banks",      "banca"),
+    ("post_offices","ufficio_postale"),
+    ("libraries",  "biblioteca"),
 ]
 
 OSM_QUERIES = {
@@ -66,6 +70,10 @@ OSM_QUERIES = {
     "restaurants":'"amenity"~"restaurant|fast_food|pizzeria"',
     "bars_cafes": '"amenity"~"bar|cafe|pub"',
     "gyms":       '"leisure"="fitness_centre"',
+    "government": '"amenity"~"townhall|courthouse|registration_hall|job_centre"|"office"="government"',
+    "banks":      '"amenity"="banking"',
+    "post_offices":'"amenity"="post_office"',
+    "libraries":  '"amenity"="library"',
 }
 
 OSM_LANDMARK_TAGS = [
@@ -79,6 +87,8 @@ OSM_LANDMARK_TAGS = [
 OV_BUILDING_TYPE = {
     "hospitals":"HOSPITAL", "restaurants":"RESTAURANT",
     "bars_cafes":"RESTAURANT", "gyms":"GYM", "landmarks":"MONUMENT",
+    "government":"GOVERNMENT", "banks":"BANK",
+    "post_offices":"POST_OFFICE", "libraries":"LIBRARY",
 }
 
 OV_CATEGORY_MAP = {
@@ -87,6 +97,10 @@ OV_CATEGORY_MAP = {
     "bars_cafes": ["bar","cafe","pub","brewery"],
     "gyms":       ["gym","fitness_studio","sport_or_fitness_facility"],
     "landmarks":  ["museum","monument","castle","place_of_worship"],
+    "government": ["government","courthouse","town_hall","public_administration"],
+    "banks":      ["bank","financial_institution"],
+    "post_offices":["post_office"],
+    "libraries":  ["library"],
 }
 
 def norm_name(name):
@@ -106,6 +120,10 @@ TEMPLATE_MAP = {
     "bars_cafes": "bar.json",
     "gyms": "gym.json",
     "hospitals": "hospital.json",
+    "government": "government.json",
+    "banks": "bank.json",
+    "post_offices": "post_office.json",
+    "libraries": "library.json",
 }
 
 def generate_poi_page(name, cat_key, building_type, website, region_slug, city_slug, lat, lng, repo_dir):
@@ -401,7 +419,7 @@ def main():
 
             # Aggiorna contatori citta
             if slug not in city_counts:
-                city_counts[slug] = {"name": slug, "h":0, "r":0, "b":0, "g":0, "l":0}
+                city_counts[slug] = {"name": slug, "h":0, "r":0, "b":0, "g":0, "l":0, "gov":0, "bank":0, "post":0, "lib":0}
 
             # Recupera nome citta originale
             for city, k, line in ov_pois + osm_pois:
@@ -414,6 +432,10 @@ def main():
             elif cat_key == "bars_cafes": city_counts[slug]["b"] += added
             elif cat_key == "gyms":       city_counts[slug]["g"] += added
             elif cat_key == "landmarks":  city_counts[slug]["l"] += added
+            elif cat_key == "government": city_counts[slug]["gov"] += added
+            elif cat_key == "banks":      city_counts[slug]["bank"] += added
+            elif cat_key == "post_offices": city_counts[slug]["post"] += added
+            elif cat_key == "libraries":  city_counts[slug]["lib"] += added
 
         print()
 

@@ -1,0 +1,13 @@
+{
+  "banner": { "icon": "🏦", "title": "{name}", "subtitle": "Banca", "color": "#37474F" },
+  "sections": [
+    {"type":"menu","title":"Operazioni","items":[
+      {"name":"Deposita","price":"€0,00","emoji":"💵","action":{"type":"deposit","need":"money","gain":0}},
+      {"name":"Prelievo","price":"€0,00","emoji":"💶","action":{"type":"withdraw","need":"money","gain":0}},
+      {"name":"Converti","price":"€0,00","emoji":"💰","action":{"type":"convert","need":"money","gain":0}}
+    ]},
+    {"type":"text","title":"Orari","content":"Lun-Ven: 08:30-13:00 / 14:30-17:30\nSab: 08:30-12:30"},
+    {"type":"action","title":"Deposita Denaro","emoji":"💴","action":{"type":"deposit","need":"money","gain":0}},
+    {"type":"link","title":"Vedi Sito Web","emoji":"🌐","url":"{website}"}
+  ]
+}

@@ -43,6 +43,10 @@ CATEGORIES = [
     ("restaurants",'"amenity"~"restaurant|fast_food"',           "ristorante"),
     ("bars_cafes", '"amenity"~"bar|cafe|pub"',                  "bar_cafe"),
     ("gyms",       '"leisure"="fitness_centre"',                 "palestra"),
+    ("government", '"amenity"~"townhall|courthouse|registration_hall|job_centre"|"office"="government"', "ufficio_pubblico"),
+    ("banks",      '"amenity"="banking"',                         "banca"),
+    ("post_offices",'"amenity"="post_office"',                      "ufficio_postale"),
+    ("libraries",  '"amenity"="library"',                          "biblioteca"),
 ]
 
 LANDMARK_TAGS = [
