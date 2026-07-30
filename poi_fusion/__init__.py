@@ -128,17 +128,19 @@ def run_fusion(
     
     source_labels = {
         "os": "OSM",
-        "w": "Wikidata", 
+        "w": "Wikidata",
         "o": "Overture",
         "g": "GeoNames",
-        "a": "Tutte"
     }
-    
+
     source_names = []
-    for key in source_filter:
-        if key in source_labels:
-            source_names.append(source_labels[key])
-    
+    if source_filter == "a":
+        source_names = [name for name, _ in SOURCE_PRIORITY]
+    else:
+        for key in source_filter:
+            if key in source_labels:
+                source_names.append(source_labels[key])
+
     print(f"Fonti selezionate: {', '.join(source_names) if source_names else 'Tutte'}")
     print(f"Modalità: {'aggiornamento' if mode == 'update' else 'da zero'}")
 
