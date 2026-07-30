@@ -32,7 +32,7 @@ def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
     return f"""
 [out:json][timeout:180];
 ({body});
-out center {body} 25;
+out center 25;
 """.strip()
 
 
