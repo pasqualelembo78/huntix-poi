@@ -13,8 +13,6 @@ from typing import Iterator
 from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
 from poi_fusion.regions import Region
-
-
 DUCKDB_VERSION = "v1.2.1"
 DUCKDB_URL = f"https://github.com/duckdb/duckdb/releases/download/{DUCKDB_VERSION}/duckdb_cli-linux-amd64.zip"
 
@@ -52,6 +50,11 @@ def _install_duckdb() -> str:
         return ""
 
 
+S3_GLOB = "s3://overturemaps-us-west-2/release/2026-07-22.0/theme=places/type=place/*"
+
+# Bbox Italia approssimativo per filtrare velocemente via parquet row-group stats
+IT_BBOX = "ST_Intersects(geometry, ST_PolygonEnvelope(6.5, 36.5, 19.0, 47.5))"
+
 DUCKDB_SCRIPT_TEMPLATE = """
 INSTALL httpfs;
 LOAD httpfs;
@@ -71,19 +74,10 @@ SELECT * EXCLUDE (bbox, geometry),
        websites,
        socials,
        emails
-FROM read_parquet('s3://overturemaps-us-west-2/release/2026-07-22.0/theme=places/type=place/*',
+FROM read_parquet('{s3_glob}',
                   filename=true, hive_partitioning=true)
-WHERE UPPER(REPLACE(REPLACE(admin_region, '-', ''), '_', '')) LIKE '%IT%'
-  AND confidence > 0.5
-  {region_filter};
-"""
-
-
-REGION_FILTER = """
-  AND subdivisions IS NOT NULL
-  AND list_contains(list_filter(
-       subdivisions, x -> x IS NOT NULL
-     ), '{region_name}')
+WHERE {bbox_filter}
+  AND confidence > 0.5;
 """
 
 
@@ -142,16 +136,25 @@ class OvertureExtractor(BaseExtractor):
             print("  [DUCKDB] Database già caricato")
             return True
         try:
-            region_filter = ""
-            if self.region and self.region.overture_region:
-                region_filter = REGION_FILTER.format(region_name=self.region.overture_region)
-            script = DUCKDB_SCRIPT_TEMPLATE.format(region_filter=region_filter)
+            script = DUCKDB_SCRIPT_TEMPLATE.format(s3_glob=S3_GLOB, bbox_filter=IT_BBOX)
             print("  [DUCKDB] Caricamento dati Overture in corso...")
-            subprocess.run(
+            result = subprocess.run(
                 [self.duckdb_bin, self.db_path, "-c", script],
-                capture_output=True, timeout=600,
+                capture_output=True, text=True, timeout=600,
             )
+            if result.returncode != 0:
+                print(f"  [DUCKDB] ERRORE: {result.stderr[:500]}")
+                return False
             print("  [DUCKDB] Caricamento completato")
+            # Verifica righe caricate
+            count_res = subprocess.run(
+                [self.duckdb_bin, self.db_path, "-json", "-c", "SELECT count(*) AS cnt FROM places"],
+                capture_output=True, text=True, timeout=30,
+            )
+            if count_res.returncode == 0 and count_res.stdout.strip():
+                import json
+                cnt = json.loads(count_res.stdout.strip().split("\n")[0])["cnt"]
+                print(f"  [DUCKDB] {cnt} POI italiani caricati")
             return True
         except Exception as e:
             print(f"  [WARN] Overture DuckDB load failed: {e}")
