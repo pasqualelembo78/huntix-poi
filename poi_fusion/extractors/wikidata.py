@@ -52,16 +52,19 @@ LIMIT 10000
 
 
 def _build_sparql(categories: list[str], region: Region | None) -> str:
-    cat_values = "\n    ".join(
-        f"(wd:{wd_id} \"{cat}\")"
-        for cat in categories
-        for wd_label, wd_cat in [WD_CATEGORIES.get(cat, ("", ""))]
-        if wd_label
-    )
+    cat_values = []
+    for cat in categories:
+        entry = WD_CATEGORIES.get(cat)
+        if not entry:
+            continue
+        sparql_expr, _ = entry
+        # extract Q ID from e.g. "wdt:P31/wdt:P279* wd:Q16917"
+        qid = sparql_expr.split("wd:")[-1].split()[0]
+        cat_values.append(f"(wd:{qid} \"{cat}\")")
     region_filter = ""
     if region:
         region_filter = f"?item wdt:P131/wdt:P131* wd:{region.wikidata_qid} ."
-    return SPARQL_TEMPLATE.format(cat_values=cat_values, region_filter=region_filter)
+    return SPARQL_TEMPLATE.format(cat_values="\n    ".join(cat_values), region_filter=region_filter)
 
 
 def _run_sparql(query: str) -> list[dict]:

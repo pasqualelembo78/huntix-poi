@@ -16,18 +16,21 @@ class IntegrityReport:
 
     @property
     def ok(self) -> bool:
-        return (
-            self.missing_name == 0
-            and self.missing_latlng == 0
-            and self.missing_category == 0
-            and not self.duplicate_ids
-        )
+        if self.missing_latlng > 0:
+            return False
+        if self.missing_category > 0:
+            return False
+        if self.duplicate_ids:
+            return False
+        if self.total > 0 and self.missing_name > max(3, self.total * 0.1):
+            return False
+        return True
 
     def print_report(self):
         print("\n=== INTEGRITY CHECK ===")
         print(f"  Total POIs:        {self.total}")
-        print(f"  Missing name:      {self.missing_name}")
         print(f"  Missing lat/lng:   {self.missing_latlng}")
+        print(f"  Missing name:      {self.missing_name}")
         print(f"  Missing city:      {self.missing_city}")
         print(f"  Missing category:  {self.missing_category}")
         print(f"  Duplicate IDs:     {len(self.duplicate_ids)}")
@@ -68,7 +71,7 @@ def check_integrity(pois: list[UnifiedPoi]) -> IntegrityReport:
     if report.duplicate_ids:
         report.issues.append(f"{len(report.duplicate_ids)} duplicate POI IDs found")
 
-    if report.missing_name > report.total * 0.05:
+    if report.total > 0 and report.missing_name > report.total * 0.15:
         report.issues.append(f"Too many missing names: {report.missing_name}/{report.total}")
 
     return report

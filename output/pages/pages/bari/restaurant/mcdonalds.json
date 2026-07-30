@@ -1,0 +1,48 @@
+{
+  "id": "osm_node_281771861_41.1192_16.8698",
+  "name": "McDonald's",
+  "name_it": "McDonald's",
+  "name_en": "McDonald's",
+  "lat": 41.1192043,
+  "lng": 16.8698259,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
+  "address": {
+    "street": "Via Sparano da Bari",
+    "housenumber": "159",
+    "city": "Bari",
+    "postcode": "70121",
+    "country": "IT"
+  },
+  "contact": {
+    "phone": "+390805283038",
+    "email": "",
+    "website": ""
+  },
+  "hours": "Mo-Fr,Su 06:30-00:30; Sa 06:30-01:30",
+  "description": "",
+  "wikipedia_url": "",
+  "ids": {
+    "osm": "node/281771861",
+    "wikidata": null,
+    "geoname": null,
+    "overture": null
+  },
+  "provenance": {
+    "name": "osm",
+    "name_it": "osm",
+    "name_en": "osm",
+    "lat": "osm",
+    "lng": "osm",
+    "street": "osm",
+    "housenumber": "osm",
+    "city": "osm",
+    "postcode": "osm",
+    "phone": "osm",
+    "email": "osm",
+    "website": "osm",
+    "hours": "osm",
+    "description": "osm"
+  }
+}
