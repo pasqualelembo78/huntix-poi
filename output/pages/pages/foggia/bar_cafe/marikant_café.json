@@ -3,7 +3,7 @@
   "name": "Marikant Café",
   "name_it": "Marikant Café",
   "name_en": "Marikant Café",
-  "lat": 41.4612742,
+  "lat": 41.461274,
   "lng": 15.554881,
   "category": "bar_cafe",
   "building_type": "RESTAURANT",
@@ -30,19 +30,19 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "street": "existing",
+    "housenumber": "existing",
+    "city": "existing",
+    "postcode": "existing",
+    "phone": "existing",
+    "email": "existing",
+    "website": "existing",
+    "hours": "existing",
+    "description": "existing"
   }
 }

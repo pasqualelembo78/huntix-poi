@@ -3,8 +3,8 @@
   "name": "Sarni",
   "name_it": "Sarni",
   "name_en": "Sarni",
-  "lat": 41.5906907,
-  "lng": 15.5007181,
+  "lat": 41.590691,
+  "lng": 15.500718,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
@@ -30,11 +30,11 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "hours": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "hours": "existing"
   }
 }

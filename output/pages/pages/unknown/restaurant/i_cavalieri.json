@@ -4,7 +4,7 @@
   "name_it": "I Cavalieri",
   "name_en": "I Cavalieri",
   "lat": 41.465339,
-  "lng": 15.5438246,
+  "lng": 15.543825,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
@@ -30,19 +30,19 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "street": "existing",
+    "housenumber": "existing",
+    "city": "existing",
+    "postcode": "existing",
+    "phone": "existing",
+    "email": "existing",
+    "website": "existing",
+    "hours": "existing",
+    "description": "existing"
   }
 }
