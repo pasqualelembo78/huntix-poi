@@ -1,6 +1,7 @@
 from __future__ import annotations
 import os
 import time
+import traceback
 
 from poi_fusion.schema import UnifiedPoi
 from poi_fusion.regions import Region
@@ -8,8 +9,54 @@ from poi_fusion.extractors import OsmExtractor, OvertureExtractor, WikidataExtra
 from poi_fusion.matcher import PoiMatcher
 from poi_fusion.merger import PoiMerger
 from poi_fusion.exporter import export_csv, export_csv_extended, export_json_pages, export_provenance_report
+from poi_fusion.integrity import check_integrity
 
 DEFAULT_CATEGORIES = ["hospital", "restaurant", "bar_cafe", "gym", "monument", "government", "bank", "post_office", "library"]
+
+SOURCE_PRIORITY = [
+    ("OSM",       lambda r: OsmExtractor(bbox=r.bbox if r else None)),
+    ("Wikidata",  lambda r: WikidataExtractor(region=r)),
+    ("Overture",  lambda r: OvertureExtractor(region=r)),
+    ("GeoNames",  lambda r: GeoNamesExtractor(region=r)),
+]
+
+
+def _run_source(ext, categories, collected, output_dir):
+    name = type(ext).__name__
+
+    cats_to_fetch = categories
+    if collected:
+        cats_with_data = set()
+        for poi in collected:
+            if poi.category:
+                cats_with_data.add(poi.category)
+        missing = [c for c in categories if c not in cats_with_data]
+        if missing:
+            cats_to_fetch = missing
+            print(f"  -> {name} filling gaps: {missing}")
+        else:
+            all_count = len(collected)
+            low_cats = []
+            for cat in categories:
+                count = sum(1 for p in collected if p.category == cat)
+                if count < 3:
+                    low_cats.append(cat)
+            if low_cats and len(low_cats) < len(categories):
+                cats_to_fetch = low_cats
+                print(f"  -> {name} boosting low categories: {low_cats}")
+
+    count = 0
+    t0 = time.time()
+    try:
+        for poi in ext.extract(cats_to_fetch):
+            collected.append(poi)
+            count += 1
+    except Exception as e:
+        traceback.print_exc()
+        print(f"  [FAIL] {name}: {e}")
+    elapsed = time.time() - t0
+    print(f"  [{name}] {count} POIs in {elapsed:.1f}s")
+    return count
 
 
 def run_fusion(
@@ -18,31 +65,18 @@ def run_fusion(
     region: Region | None = None,
 ) -> list[UnifiedPoi]:
     categories = categories or DEFAULT_CATEGORIES
-
     os.makedirs(output_dir, exist_ok=True)
 
     region_label = region.name if region else "Tutta Italia"
     print(f"\nRegione: {region_label}")
     print(f"Categorie: {', '.join(categories)}")
+    print(f"Ordine fonti: {', '.join(name for name, _ in SOURCE_PRIORITY)}")
 
     all_pois: list[UnifiedPoi] = []
-    extractors = [
-        OsmExtractor(bbox=region.bbox if region else None),
-        OvertureExtractor(region=region),
-        WikidataExtractor(region=region),
-        GeoNamesExtractor(region=region),
-    ]
 
-    for ext in extractors:
-        name = type(ext).__name__
-        print(f"\n[{name}] Extracting {categories}...")
-        t0 = time.time()
-        count = 0
-        for poi in ext.extract(categories):
-            all_pois.append(poi)
-            count += 1
-        elapsed = time.time() - t0
-        print(f"  -> {count} POIs in {elapsed:.1f}s")
+    for src_name, src_factory in SOURCE_PRIORITY:
+        ext = src_factory(region)
+        _run_source(ext, categories, all_pois, output_dir)
 
     print(f"\nTotal raw POIs: {len(all_pois)}")
 
@@ -70,4 +104,7 @@ def run_fusion(
     export_provenance_report(clusters, report_path)
     print(f"Provenance report: {report_path}")
 
-    return merged
+    integrity = check_integrity(merged)
+    integrity.print_report()
+
+    return merged, integrity
