@@ -3,7 +3,7 @@
   "name": "McDonald's",
   "name_it": "McDonald's",
   "name_en": "McDonald's",
-  "lat": 41.0894103,
+  "lat": 41.08941,
   "lng": 16.863743,
   "category": "restaurant",
   "building_type": "RESTAURANT",
@@ -30,19 +30,19 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "street": "existing",
+    "housenumber": "existing",
+    "city": "existing",
+    "postcode": "existing",
+    "phone": "existing",
+    "email": "existing",
+    "website": "existing",
+    "hours": "existing",
+    "description": "existing"
   }
 }

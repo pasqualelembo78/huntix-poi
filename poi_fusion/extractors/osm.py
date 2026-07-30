@@ -159,29 +159,39 @@ class OsmExtractor(BaseExtractor):
             if self._progress_cb:
                 self._progress_cb(pct)
 
-            for attempt in range(2):
-                try:
-                    query = _build_osm_query(categories, bbox)
-                    elements = _run_overpass(query)
-                    time.sleep(3)
-                    for el in elements:
-                        tags = el.get("tags", {})
-                        cat = _category_from_tags(tags, categories)
-                        if not cat:
-                            continue
-                        poi = self._el_to_poi(el, tags, cat)
-                        if poi:
-                            yield poi
-                    break
-                except urllib.error.HTTPError as e:
-                    if e.code == 429 and attempt == 0:
-                        time.sleep(20)
-                    else:
+            for attempt in range(5):
+                    try:
+                        query = _build_osm_query(categories, bbox)
+                        elements = _run_overpass(query)
+                        time.sleep(5)
+                        for el in elements:
+                            tags = el.get("tags", {})
+                            cat = _category_from_tags(tags, categories)
+                            if not cat:
+                                continue
+                            poi = self._el_to_poi(el, tags, cat)
+                            if poi:
+                                yield poi
+                        break
+                    except urllib.error.HTTPError as e:
+                        if e.code == 429:
+                            wait = 20 * (attempt + 1)
+                            print(f"\n    [RETRY] tile {idx+1}/{n_tiles}: 429 → attesa {wait}s...")
+                            time.sleep(wait)
+                        elif e.code == 504:
+                            if attempt < 3:
+                                wait = 10 * (attempt + 1)
+                                print(f"\n    [RETRY] tile {idx+1}/{n_tiles}: 504 → attesa {wait}s...")
+                                time.sleep(wait)
+                            else:
+                                print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e} (dopo {attempt+1} tentativi)")
+                                break
+                        else:
+                            print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e}")
+                            break
+                    except Exception as e:
                         print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e}")
                         break
-                except Exception as e:
-                    print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e}")
-                    break
 
     def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
         lat = el.get("lat") or el.get("center", {}).get("lat")

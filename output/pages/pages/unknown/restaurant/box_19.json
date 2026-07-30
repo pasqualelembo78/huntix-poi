@@ -4,7 +4,7 @@
   "name_it": "Box 19",
   "name_en": "Box 19",
   "lat": 41.883471,
-  "lng": 16.1767582,
+  "lng": 16.176758,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
@@ -30,19 +30,19 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "street": "existing",
+    "housenumber": "existing",
+    "city": "existing",
+    "postcode": "existing",
+    "phone": "existing",
+    "email": "existing",
+    "website": "existing",
+    "hours": "existing",
+    "description": "existing"
   }
 }

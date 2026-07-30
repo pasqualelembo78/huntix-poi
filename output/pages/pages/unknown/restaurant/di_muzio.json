@@ -3,8 +3,8 @@
   "name": "Di Muzio",
   "name_it": "Di Muzio",
   "name_en": "Di Muzio",
-  "lat": 41.2660751,
-  "lng": 15.9067016,
+  "lat": 41.266075,
+  "lng": 15.906702,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
@@ -30,19 +30,10 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing"
   }
 }

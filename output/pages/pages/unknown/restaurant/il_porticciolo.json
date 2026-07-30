@@ -3,8 +3,8 @@
   "name": "Il Porticciolo",
   "name_it": "Il Porticciolo",
   "name_en": "Il Porticciolo",
-  "lat": 40.0722126,
-  "lng": 15.5250656,
+  "lat": 40.072213,
+  "lng": 15.525066,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
@@ -30,19 +30,11 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing",
+    "phone": "existing"
   }
 }

@@ -3,8 +3,8 @@
   "name": "Banca Popolare di Milano",
   "name_it": "Banca Popolare di Milano",
   "name_en": "Banca Popolare di Milano",
-  "lat": 41.3278502,
-  "lng": 15.7060315,
+  "lat": 41.32785,
+  "lng": 15.706031,
   "category": "bank",
   "building_type": "BANK",
   "poi_type": "bank",
@@ -30,19 +30,10 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing"
   }
 }

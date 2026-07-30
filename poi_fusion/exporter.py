@@ -86,7 +86,7 @@ def export_provenance_report(clusters: list[list[UnifiedPoi]], path: str):
             "id": base.id,
             "name": base.effective_name(),
             "merged_from": len(cluster),
-            "sources": ", ".join(p.provenance.get("name", str(p.source_guess())) for p in cluster),
+            "sources": ", ".join(p.provenance.get("name", p.source_guess()).value if isinstance(p.provenance.get("name", p.source_guess()), Source) else str(p.provenance.get("name", p.source_guess())) for p in cluster),
             "conflicts": "; ".join(conflicts),
         })
     with open(path, "w", encoding="utf-8") as f:

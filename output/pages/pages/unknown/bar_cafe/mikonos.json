@@ -3,7 +3,7 @@
   "name": "Mikonos",
   "name_it": "Mikonos",
   "name_en": "Mikonos",
-  "lat": 40.4777723,
+  "lat": 40.477772,
   "lng": 15.117412,
   "category": "bar_cafe",
   "building_type": "RESTAURANT",
@@ -30,19 +30,10 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing"
   }
 }

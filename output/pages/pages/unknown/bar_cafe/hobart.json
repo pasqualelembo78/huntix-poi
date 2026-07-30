@@ -3,8 +3,8 @@
   "name": "Hobart",
   "name_it": "Hobart",
   "name_en": "Hobart",
-  "lat": 41.2520143,
-  "lng": 16.4760086,
+  "lat": 41.252014,
+  "lng": 16.476009,
   "category": "bar_cafe",
   "building_type": "RESTAURANT",
   "poi_type": "bar_cafe",
@@ -30,19 +30,10 @@
     "overture": null
   },
   "provenance": {
-    "name": "osm",
-    "name_it": "osm",
-    "name_en": "osm",
-    "lat": "osm",
-    "lng": "osm",
-    "street": "osm",
-    "housenumber": "osm",
-    "city": "osm",
-    "postcode": "osm",
-    "phone": "osm",
-    "email": "osm",
-    "website": "osm",
-    "hours": "osm",
-    "description": "osm"
+    "name": "existing",
+    "name_it": "existing",
+    "name_en": "existing",
+    "lat": "existing",
+    "lng": "existing"
   }
 }
