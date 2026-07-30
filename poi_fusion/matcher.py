@@ -1,7 +1,6 @@
 from __future__ import annotations
 import math
 from collections import defaultdict
-from typing import Callable
 
 from poi_fusion.schema import UnifiedPoi
 
@@ -9,6 +8,7 @@ from poi_fusion.schema import UnifiedPoi
 MAX_MERGE_DISTANCE_M = 80
 MAX_FUZZY_DISTANCE_M = 200
 MIN_NAME_SIMILARITY = 0.75
+GRID_CELL_DEG = 0.002
 
 
 def _haversine_m(p1: UnifiedPoi, p2: UnifiedPoi) -> float:
@@ -27,10 +27,12 @@ def _name_similarity(a: str, b: str) -> float:
         return 1.0
     if a in b or b in a:
         return 0.9
-    # Levenshtein ratio
     max_len = max(len(a), len(b))
     if max_len == 0:
         return 1.0
+    # Quick reject: length difference too large for similarity > 0.75
+    if abs(len(a) - len(b)) > max_len * 0.25:
+        return 0.0
     dist = _levenshtein(a, b)
     return 1.0 - (dist / max_len)
 
@@ -48,36 +50,82 @@ def _levenshtein(a: str, b: str) -> int:
     return prev[-1]
 
 
+def _grid_key(lat: float, lng: float) -> tuple[int, int]:
+    return (int(lat / GRID_CELL_DEG), int(lng / GRID_CELL_DEG))
+
+
 class PoiMatcher:
     def __init__(self, max_distance_m: float = MAX_MERGE_DISTANCE_M, fuzzy_distance_m: float = MAX_FUZZY_DISTANCE_M):
         self.max_distance = max_distance_m
         self.fuzzy_distance = fuzzy_distance_m
 
     def cluster(self, pois: list[UnifiedPoi]) -> list[list[UnifiedPoi]]:
-        clusters: list[list[UnifiedPoi]] = []
-        assigned: set[int] = set()
+        if len(pois) < 2:
+            return [[p] for p in pois]
 
-        for i, poi in enumerate(pois):
-            if i in assigned:
-                continue
-            cluster = [poi]
-            assigned.add(i)
-            for j in range(i + 1, len(pois)):
-                if j in assigned:
-                    continue
-                other = pois[j]
-                if self._is_match(poi, other):
-                    cluster.append(other)
-                    assigned.add(j)
-            clusters.append(cluster)
-        return clusters
+        n = len(pois)
+        parent = list(range(n))
+
+        def find(x: int) -> int:
+            while parent[x] != x:
+                parent[x] = parent[parent[x]]
+                x = parent[x]
+            return x
+
+        def union(x: int, y: int):
+            rx, ry = find(x), find(y)
+            if rx != ry:
+                parent[ry] = rx
+
+        # Phase 1: exact ID match
+        id_map: dict[str, int] = {}
+        for i, p in enumerate(pois):
+            for attr in ["osm_id", "wikidata_id", "geoname_id", "overture_id"]:
+                vid = getattr(p, attr, None)
+                if vid:
+                    key = f"{attr}:{vid}"
+                    if key in id_map:
+                        union(id_map[key], i)
+                        break
+                    id_map[key] = i
+
+        # Phase 2: spatial + name match within same category
+        by_cat: dict[str, list[int]] = defaultdict(list)
+        for i, p in enumerate(pois):
+            by_cat[p.category].append(i)
+
+        for cat, indices in by_cat.items():
+            cat_pois = [(i, pois[i]) for i in indices]
+            grid: dict[tuple[int, int], list[int]] = defaultdict(list)
+            for local_i, (global_i, p) in enumerate(cat_pois):
+                grid[_grid_key(p.lat, p.lng)].append(local_i)
+
+            for local_i, (gi, p) in enumerate(cat_pois):
+                gk = _grid_key(p.lat, p.lng)
+                for dlat in (-1, 0, 1):
+                    for dlng in (-1, 0, 1):
+                        for local_j in grid.get((gk[0] + dlat, gk[1] + dlng), []):
+                            if local_j <= local_i:
+                                continue
+                            gj, other = cat_pois[local_j]
+                            if find(gi) == find(gj):
+                                continue
+                            if self._is_match(p, other):
+                                union(gi, gj)
+
+        # Collect clusters
+        cluster_map: dict[int, list[UnifiedPoi]] = defaultdict(list)
+        for i, p in enumerate(pois):
+            cluster_map[find(i)].append(p)
+
+        return list(cluster_map.values())
 
     def _is_match(self, a: UnifiedPoi, b: UnifiedPoi) -> bool:
-        # Exact ID match
         if self._id_match(a, b):
             return True
-        # Coordinate proximity + name similarity
         dist = _haversine_m(a, b)
+        if dist > self.fuzzy_distance:
+            return False
         sim = _name_similarity(a.effective_name(), b.effective_name())
         if dist < self.max_distance and sim > MIN_NAME_SIMILARITY:
             return True
