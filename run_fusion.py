@@ -32,7 +32,9 @@ def main():
 
     print(f"\nDone. {len(merged)} POIs exported.")
 
-    if integrity.ok:
+    if len(merged) == 0:
+        print("Nessun POI estratto. Push annullato.")
+    elif integrity.ok:
         print("Integrità OK -> push automatico")
         _git_push("output")
     else:

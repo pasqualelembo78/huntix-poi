@@ -86,54 +86,79 @@ class OsmExtractor(BaseExtractor):
     def __init__(self, bbox: str | None = None):
         self.bbox = bbox
 
+    OVERPASS_RETRY_SLEEP = 30
+
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
-        bbox = self.bbox or "41.5,12,47.5,19"  # default Italy
-        query = _build_osm_query(categories, bbox)
-        elements = _run_overpass(query)
-        time.sleep(2)
-
-        for el in elements:
-            tags = el.get("tags", {})
-            cat = _category_from_tags(tags, categories)
-            if not cat:
+        bbox = self.bbox or "41.5,12,47.5,19"
+        for cat in categories:
+            elements = None
+            for attempt in range(2):
+                try:
+                    query = _build_osm_query([cat], bbox)
+                    elements = _run_overpass(query)
+                    break
+                except urllib.error.HTTPError as e:
+                    if e.code == 429:
+                        print(f"    [RATE-LIMIT] {cat}, aspetto {self.OVERPASS_RETRY_SLEEP}s...")
+                        time.sleep(self.OVERPASS_RETRY_SLEEP)
+                    elif e.code == 504:
+                        print(f"    [TIMEOUT] {cat}, salto")
+                        break
+                    else:
+                        print(f"    [SKIP] {cat}: {e}")
+                        break
+                except Exception as e:
+                    print(f"    [SKIP] {cat}: {e}")
+                    break
+            if elements is None:
                 continue
+            time.sleep(10)
+            for el in elements:
+                tags = el.get("tags", {})
+                tagged_cat = _category_from_tags(tags, [cat])
+                if not tagged_cat:
+                    continue
+                poi = self._el_to_poi(el, tags, tagged_cat)
+                if poi:
+                    yield poi
 
-            lat = el.get("lat") or el.get("center", {}).get("lat")
-            lng = el.get("lon") or el.get("center", {}).get("lon")
-            if lat is None or lng is None:
-                continue
+    def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
+        lat = el.get("lat") or el.get("center", {}).get("lat")
+        lng = el.get("lon") or el.get("center", {}).get("lon")
+        if lat is None or lng is None:
+            return None
 
-            name, name_it, name_en = _clean_name(tags)
-
-            poi = UnifiedPoi(
-                id=f"osm_{_osm_id_str(el).replace('/', '_')}_{lat:.4f}_{lng:.4f}",
-                category=cat,
-                osm_id=_osm_id_str(el),
-                wikidata_id=tags.get("wikidata"),
-                name=name,
-                name_it=name_it,
-                name_en=name_en,
-                lat=lat,
-                lng=lng,
-                street=tags.get("addr:street", ""),
-                housenumber=tags.get("addr:housenumber", ""),
-                city=tags.get("addr:city", "") or tags.get("addr:town", "") or tags.get("addr:village", ""),
-                postcode=tags.get("addr:postcode", ""),
-                phone=_clean_phone(tags.get("phone", "") or tags.get("contact:phone", "")),
-                email=tags.get("email", "") or tags.get("contact:email", ""),
-                website=tags.get("website", "") or tags.get("contact:website", ""),
-                hours=tags.get("opening_hours", ""),
-                description=tags.get("description", ""),
-            )
-            poi.provenance = {f: self.source for f in [
-                "name", "name_it", "name_en", "lat", "lng",
-                "street", "housenumber", "city", "postcode",
-                "phone", "email", "website", "hours", "description",
-            ]}
-            if tags.get("wikidata"):
-                poi.provenance["wikidata_id"] = self.source
-            yield poi
-
+        name, name_it, name_en = _clean_name(tags)
+        if not name:
+            return None
+        poi = UnifiedPoi(
+            id=f"osm_{_osm_id_str(el).replace('/', '_')}_{lat:.4f}_{lng:.4f}",
+            category=cat,
+            osm_id=_osm_id_str(el),
+            wikidata_id=tags.get("wikidata"),
+            name=name,
+            name_it=name_it,
+            name_en=name_en,
+            lat=lat,
+            lng=lng,
+            street=tags.get("addr:street", ""),
+            housenumber=tags.get("addr:housenumber", ""),
+            city=tags.get("addr:city", "") or tags.get("addr:town", "") or tags.get("addr:village", ""),
+            postcode=tags.get("addr:postcode", ""),
+            phone=_clean_phone(tags.get("phone", "") or tags.get("contact:phone", "")),
+            email=tags.get("email", "") or tags.get("contact:email", ""),
+            website=tags.get("website", "") or tags.get("contact:website", ""),
+            hours=tags.get("opening_hours", ""),
+            description=tags.get("description", ""),
+        )
+        poi.provenance = {f: self.source for f in [
+            "name", "name_it", "name_en", "lat", "lng",
+            "street", "housenumber", "city", "postcode",
+            "phone", "email", "website", "hours", "description",
+        ]}
+        if tags.get("wikidata"):
+            poi.provenance["wikidata_id"] = self.source
+        return poi
 
 def _clean_phone(p: str) -> str:
     if not p:

@@ -96,7 +96,20 @@ class WikidataExtractor(BaseExtractor):
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         query = _build_sparql(categories, self.region)
-        results = _run_sparql(query)
+        try:
+            results = _run_sparql(query)
+        except Exception as e:
+            print(f"    [WARN] Wikidata query failed: {e}")
+            if self.region:
+                print("    [RETRY] senza filtro regione")
+                query = _build_sparql(categories, None)
+                try:
+                    results = _run_sparql(query)
+                except Exception as e2:
+                    print(f"    [SKIP] Wikidata: {e2}")
+                    return
+            else:
+                return
         time.sleep(1)
 
         for row in results:
