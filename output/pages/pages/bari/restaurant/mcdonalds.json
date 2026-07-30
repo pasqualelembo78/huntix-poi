@@ -1,30 +1,30 @@
 {
-  "id": "osm_node_281771861_41.1192_16.8698",
+  "id": "osm_way_1303471430_41.0894_16.8637",
   "name": "McDonald's",
   "name_it": "McDonald's",
   "name_en": "McDonald's",
-  "lat": 41.1192043,
-  "lng": 16.8698259,
+  "lat": 41.0894103,
+  "lng": 16.863743,
   "category": "restaurant",
   "building_type": "RESTAURANT",
   "poi_type": "restaurant",
   "address": {
-    "street": "Via Sparano da Bari",
-    "housenumber": "159",
+    "street": "Tangenziale di Bari",
+    "housenumber": "",
     "city": "Bari",
-    "postcode": "70121",
+    "postcode": "",
     "country": "IT"
   },
   "contact": {
-    "phone": "+390805283038",
+    "phone": "",
     "email": "",
     "website": ""
   },
-  "hours": "Mo-Fr,Su 06:30-00:30; Sa 06:30-01:30",
+  "hours": "Mo-Th 07:00-00:00; Fr-Su 07:00-01:00",
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/281771861",
+    "osm": "way/1303471430",
     "wikidata": null,
     "geoname": null,
     "overture": null

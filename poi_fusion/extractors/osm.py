@@ -2,7 +2,6 @@ from __future__ import annotations
 import json
 import time
 import re
-import math
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -14,14 +13,25 @@ from poi_fusion.extractors.base import BaseExtractor
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 USER_AGENT = "Huntix-POI-Fusion/1.0"
-TILE_SPLIT_FIRST = 2  # first split: 2x2 tiles
-TILE_SPLIT_MAX = 4     # max split: 4x4 tiles
+TILE_SPLIT_FIRST = 2
+TILE_SPLIT_MAX = 4
 
 
-def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
-    sets = []
-    for cat in categories:
-        rules = CATEGORY_MAP[cat]["osm"]
+def _rules_to_blocks(rules, bbox: str) -> list[str]:
+    if isinstance(rules, list):
+        blocks = []
+        for rule_set in rules:
+            parts = []
+            for key, val in rule_set.items():
+                if isinstance(val, list):
+                    vals = "|".join(v.replace("_", r"[ _]") for v in val)
+                    parts.append(f'[{key}~"{vals}"]')
+                else:
+                    parts.append(f'[{key}="{val}"]')
+            tag_str = "".join(parts)
+            blocks.append(f'  node{tag_str}({bbox});\n  way{tag_str}({bbox});\n  relation{tag_str}({bbox});')
+        return blocks
+    else:
         parts = []
         for key, val in rules.items():
             if isinstance(val, list):
@@ -30,13 +40,16 @@ def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
             else:
                 parts.append(f'[{key}="{val}"]')
         tag_str = "".join(parts)
-        sets.append(f'  node{tag_str}({bbox});\n  way{tag_str}({bbox});\n  relation{tag_str}({bbox});')
+        return [f'  node{tag_str}({bbox});\n  way{tag_str}({bbox});\n  relation{tag_str}({bbox});']
+
+
+def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
+    sets = []
+    for cat in categories:
+        rules = CATEGORY_MAP[cat]["osm"]
+        sets.extend(_rules_to_blocks(rules, bbox))
     body = "\n".join(sets)
-    return f"""
-[out:json][timeout:300];
-({body});
-out center;
-""".strip()
+    return f"[out:json][timeout:300];\n({body});\nout center;"
 
 
 def _run_overpass(query: str) -> list[dict]:
@@ -65,21 +78,36 @@ def _split_bbox(bbox: str, n_lat: int, n_lon: int) -> list[str]:
     return tiles
 
 
-def _category_from_tags(tags: dict, categories: list[str]) -> str | None:
-    for cat in categories:
-        rules = CATEGORY_MAP[cat]["osm"]
-        match = True
+def _tags_match_rules(tags: dict, rules) -> bool:
+    if isinstance(rules, list):
+        for rule_set in rules:
+            for key, val in rule_set.items():
+                actual = tags.get(key, "")
+                if isinstance(val, list):
+                    if not any(actual == v or actual.startswith(v) for v in val if v):
+                        break
+                else:
+                    if actual != val and not actual.startswith(val):
+                        break
+            else:
+                return True
+        return False
+    else:
         for key, val in rules.items():
             actual = tags.get(key, "")
             if isinstance(val, list):
                 if not any(actual == v or actual.startswith(v) for v in val if v):
-                    match = False
-                    break
+                    return False
             else:
                 if actual != val and not actual.startswith(val) and not (key == "amenity" and val == "hospital" and tags.get("healthcare") == "hospital"):
-                    match = False
-                    break
-        if match:
+                    return False
+        return True
+
+
+def _category_from_tags(tags: dict, categories: list[str]) -> str | None:
+    for cat in categories:
+        rules = CATEGORY_MAP[cat]["osm"]
+        if _tags_match_rules(tags, rules):
             return cat
     return None
 
@@ -118,16 +146,22 @@ class OsmExtractor(BaseExtractor):
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         full_bbox = self.bbox or "41.5,12,47.5,19"
-        yield from self._extract_bbox(categories, full_bbox, depth=0)
+        total = 0
+        for poi in self._extract_bbox(categories, full_bbox, depth=0, progress=(1, 1)):
+            total += 1
+            yield poi
 
-    def _extract_bbox(self, categories: list[str], bbox: str, depth: int) -> Iterator[UnifiedPoi]:
-        lat_min, lon_min, lat_max, lon_max = _parse_bbox(bbox)
-        area = (lat_max - lat_min) * (lon_max - lon_min)
-
+    def _extract_bbox(self, categories: list[str], bbox: str, depth: int,
+                      progress: tuple[int, int] | None = None) -> Iterator[UnifiedPoi]:
         query = _build_osm_query(categories, bbox)
         try:
+            if progress:
+                p = f" [{progress[0]}/{progress[1]}]" if progress[1] > 1 else ""
+            else:
+                p = ""
             elements = _run_overpass(query)
-            time.sleep(5)
+            count = len(elements)
+            time.sleep(2)
             for el in elements:
                 tags = el.get("tags", {})
                 cat = _category_from_tags(tags, categories)
@@ -141,14 +175,14 @@ class OsmExtractor(BaseExtractor):
                 split = min(TILE_SPLIT_FIRST * (2 ** depth), TILE_SPLIT_MAX)
                 subtiles = _split_bbox(bbox, split, split)
                 total = len(subtiles)
-                print(f"    [SPLIT] area {area:.2f}°² → {total} tiles (depth {depth})")
+                print(f"    [SPLIT] {total} tile (depth {depth})")
                 for idx, sub_bbox in enumerate(subtiles):
-                    print(f"      tile {idx+1}/{total}...")
-                    yield from self._extract_bbox(categories, sub_bbox, depth + 1)
+                    yield from self._extract_bbox(categories, sub_bbox, depth + 1,
+                                                  progress=(idx + 1, total))
             else:
-                print(f"    [SKIP] bbox {bbox}: {e}")
+                print(f"    [SKIP] {e}")
         except Exception as e:
-            print(f"    [SKIP] bbox {bbox}: {e}")
+            print(f"    [SKIP] {e}")
 
     def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
         lat = el.get("lat") or el.get("center", {}).get("lat")

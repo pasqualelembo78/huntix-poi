@@ -30,7 +30,7 @@ CATEGORY_MAP = {
     "bar_cafe": {"osm": {"amenity": ["bar", "cafe", "pub"]}, "wikidata": ["Q187456", "Q30022"], "overture": ["bar", "cafe", "pub"]},
     "gym": {"osm": {"leisure": "fitness_centre"}, "wikidata": "Q214400", "overture": ["gym", "fitness_studio"]},
     "monument": {"osm": {"tourism": ["attraction", "museum", "castle"], "historic": ["monument", "castle", "archaeological_site", "memorial"]}, "wikidata": ["Q33506", "Q4989906"], "overture": ["museum", "monument", "castle"]},
-    "government": {"osm": {"amenity": ["townhall", "courthouse"], "office": "government"}, "wikidata": ["Q207129", "Q105543609"], "overture": ["government", "courthouse", "town_hall"]},
+    "government": {"osm": [{"amenity": ["townhall", "courthouse"]}, {"office": "government"}], "wikidata": ["Q207129", "Q105543609"], "overture": ["government", "courthouse", "town_hall"]},
     "bank": {"osm": {"amenity": "bank"}, "wikidata": "Q41187", "overture": ["bank", "financial_institution"]},
     "post_office": {"osm": {"amenity": "post_office"}, "wikidata": "Q28564", "overture": "post_office"},
     "library": {"osm": {"amenity": "library"}, "wikidata": "Q7078", "overture": "library"},

@@ -171,8 +171,13 @@ class OvertureExtractor(BaseExtractor):
             )
             if result.returncode != 0:
                 return
-            rows = json.loads(result.stdout)
-            for row in rows:
+            stdout = result.stdout.strip()
+            if not stdout:
+                return
+            for line in stdout.split("\n"):
+                if not line.strip():
+                    continue
+                row = json.loads(line)
                 poi = self._row_to_poi(row, cat)
                 if poi:
                     yield poi

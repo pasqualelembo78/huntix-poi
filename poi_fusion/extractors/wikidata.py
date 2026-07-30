@@ -100,16 +100,17 @@ class WikidataExtractor(BaseExtractor):
             results = _run_sparql(query)
         except Exception as e:
             print(f"    [WARN] Wikidata query failed: {e}")
-            if self.region:
-                print("    [RETRY] senza filtro regione")
-                query = _build_sparql(categories, None)
-                try:
-                    results = _run_sparql(query)
-                except Exception as e2:
-                    print(f"    [SKIP] Wikidata: {e2}")
-                    return
-            else:
+            results = []
+
+        if self.region and not results:
+            print("    [RETRY] senza filtro regione")
+            query = _build_sparql(categories, None)
+            try:
+                results = _run_sparql(query)
+            except Exception as e:
+                print(f"    [SKIP] Wikidata: {e}")
                 return
+
         time.sleep(1)
 
         for row in results:
