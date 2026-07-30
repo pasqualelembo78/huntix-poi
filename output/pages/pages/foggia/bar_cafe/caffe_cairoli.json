@@ -1,17 +1,17 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_1520436375_41.4618_15.5481",
+  "name": "Caffe Cairoli",
+  "name_it": "Caffe Cairoli",
+  "name_en": "Caffe Cairoli",
+  "lat": 41.4618153,
+  "lng": 15.5480951,
+  "category": "bar_cafe",
+  "building_type": "RESTAURANT",
+  "poi_type": "bar_cafe",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
+    "street": "Corso Benedetto Cairoli",
+    "housenumber": "1",
+    "city": "Foggia",
     "postcode": "",
     "country": "IT"
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/1520436375",
     "wikidata": null,
     "geoname": null,
     "overture": null

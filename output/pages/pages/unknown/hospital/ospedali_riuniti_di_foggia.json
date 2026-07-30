@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_20126738_41.4567_15.5239",
+  "name": "Ospedali Riuniti di Foggia",
+  "name_it": "Ospedali Riuniti di Foggia",
+  "name_en": "Ospedali Riuniti di Foggia",
+  "lat": 41.4566509,
+  "lng": 15.5238544,
+  "category": "hospital",
+  "building_type": "HOSPITAL",
+  "poi_type": "hospital",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,8 +24,8 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
-    "wikidata": null,
+    "osm": "way/20126738",
+    "wikidata": "Q30270204",
     "geoname": null,
     "overture": null
   },
@@ -43,6 +43,7 @@
     "email": "osm",
     "website": "osm",
     "hours": "osm",
-    "description": "osm"
+    "description": "osm",
+    "wikidata_id": "osm"
   }
 }

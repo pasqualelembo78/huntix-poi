@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_138778829_41.4415_15.5711",
+  "name": "IV Circoscizione",
+  "name_it": "IV Circoscizione",
+  "name_en": "IV Circoscizione",
+  "lat": 41.4415296,
+  "lng": 15.5710801,
+  "category": "government",
+  "building_type": "GOVERNMENT",
+  "poi_type": "government",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/138778829",
     "wikidata": null,
     "geoname": null,
     "overture": null

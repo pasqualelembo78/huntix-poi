@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_10276312504_41.4636_15.5511",
+  "name": "Banco BPM",
+  "name_it": "Banco BPM",
+  "name_en": "Banco BPM",
+  "lat": 41.4635625,
+  "lng": 15.5511486,
+  "category": "bank",
+  "building_type": "BANK",
+  "poi_type": "bank",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/10276312504",
     "wikidata": null,
     "geoname": null,
     "overture": null

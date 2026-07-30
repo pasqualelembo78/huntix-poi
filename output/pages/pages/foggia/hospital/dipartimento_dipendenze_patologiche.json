@@ -1,18 +1,18 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_5784845069_41.4699_15.5394",
+  "name": "Dipartimento Dipendenze Patologiche",
+  "name_it": "Dipartimento Dipendenze Patologiche",
+  "name_en": "Dipartimento Dipendenze Patologiche",
+  "lat": 41.4698976,
+  "lng": 15.5394218,
+  "category": "hospital",
+  "building_type": "HOSPITAL",
+  "poi_type": "hospital",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
-    "postcode": "",
+    "street": "Via San Severo",
+    "housenumber": "54",
+    "city": "Foggia",
+    "postcode": "71121",
     "country": "IT"
   },
   "contact": {
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/5784845069",
     "wikidata": null,
     "geoname": null,
     "overture": null

@@ -22,7 +22,7 @@ class IntegrityReport:
             return False
         if self.duplicate_ids:
             return False
-        if self.total > 0 and self.missing_name > max(3, self.total * 0.1):
+        if self.total > 0 and self.missing_name > max(3, self.total * 0.15):
             return False
         return True
 

@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_365213625_41.4566_15.5577",
+  "name": "La Piadineria",
+  "name_it": "La Piadineria",
+  "name_en": "La Piadineria",
+  "lat": 41.4565926,
+  "lng": 15.5576567,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/365213625",
     "wikidata": null,
     "geoname": null,
     "overture": null

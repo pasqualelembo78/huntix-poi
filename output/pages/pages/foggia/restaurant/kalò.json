@@ -1,30 +1,30 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_10296621123_41.4477_15.5353",
+  "name": "Kalò",
+  "name_it": "Kalò",
+  "name_en": "Kalò",
+  "lat": 41.4477052,
+  "lng": 15.5352593,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
-    "postcode": "",
+    "street": "Via Vincenzo Gioberti",
+    "housenumber": "130",
+    "city": "Foggia",
+    "postcode": "71122",
     "country": "IT"
   },
   "contact": {
     "phone": "",
     "email": "",
-    "website": ""
+    "website": "https://www.pizzeriakalo.it/"
   },
   "hours": "",
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/10296621123",
     "wikidata": null,
     "geoname": null,
     "overture": null

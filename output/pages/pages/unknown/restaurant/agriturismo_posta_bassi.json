@@ -1,30 +1,30 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_3732137193_41.5122_15.5973",
+  "name": "Agriturismo Posta Bassi",
+  "name_it": "Agriturismo Posta Bassi",
+  "name_en": "Agriturismo Posta Bassi",
+  "lat": 41.5122277,
+  "lng": 15.5973022,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
+    "street": "SS89 - Garganica",
+    "housenumber": "SS89 Km. 196+200",
     "city": "",
     "postcode": "",
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+390881700155",
     "email": "",
-    "website": ""
+    "website": "https://www.postabassi.it/"
   },
-  "hours": "",
+  "hours": "Tu-Su, PH 12:30-15:00, 19:30-23:30; Mo off",
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/3732137193",
     "wikidata": null,
     "geoname": null,
     "overture": null

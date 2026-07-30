@@ -1,10 +1,10 @@
 {
-  "id": "osm_way_349818247_40.6307_15.8068",
+  "id": "osm_node_6126678602_41.4528_15.5555",
   "name": "UniCredit Bank",
   "name_it": "UniCredit Bank",
   "name_en": "UniCredit Bank",
-  "lat": 40.630712,
-  "lng": 15.806827,
+  "lat": 41.4528069,
+  "lng": 15.5555463,
   "category": "bank",
   "building_type": "BANK",
   "poi_type": "bank",
@@ -24,16 +24,25 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "way/349818247",
+    "osm": "node/6126678602",
     "wikidata": null,
     "geoname": null,
     "overture": null
   },
   "provenance": {
-    "name": "existing",
-    "name_it": "existing",
-    "name_en": "existing",
-    "lat": "existing",
-    "lng": "existing"
+    "name": "osm",
+    "name_it": "osm",
+    "name_en": "osm",
+    "lat": "osm",
+    "lng": "osm",
+    "street": "osm",
+    "housenumber": "osm",
+    "city": "osm",
+    "postcode": "osm",
+    "phone": "osm",
+    "email": "osm",
+    "website": "osm",
+    "hours": "osm",
+    "description": "osm"
   }
 }

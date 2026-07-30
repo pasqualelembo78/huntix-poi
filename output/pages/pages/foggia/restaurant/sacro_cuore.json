@@ -1,22 +1,22 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_5764330660_41.4669_15.5355",
+  "name": "Sacro Cuore",
+  "name_it": "Sacro Cuore",
+  "name_en": "Sacro Cuore",
+  "lat": 41.4669274,
+  "lng": 15.5354885,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
-    "postcode": "",
+    "street": "Viale Candelaro",
+    "housenumber": "80",
+    "city": "Foggia",
+    "postcode": "71121",
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+393298152236",
     "email": "",
     "website": ""
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/5764330660",
     "wikidata": null,
     "geoname": null,
     "overture": null

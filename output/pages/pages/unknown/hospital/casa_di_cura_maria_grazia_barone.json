@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_69969259_41.4556_15.5471",
+  "name": "Casa di Cura \"Maria Grazia Barone\"",
+  "name_it": "Casa di Cura \"Maria Grazia Barone\"",
+  "name_en": "Casa di Cura \"Maria Grazia Barone\"",
+  "lat": 41.4556355,
+  "lng": 15.5471352,
+  "category": "hospital",
+  "building_type": "HOSPITAL",
+  "poi_type": "hospital",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/69969259",
     "wikidata": null,
     "geoname": null,
     "overture": null

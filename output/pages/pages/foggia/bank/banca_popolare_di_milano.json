@@ -1,17 +1,17 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_3684779080_41.4618_15.5489",
+  "name": "Banca Popolare di Milano",
+  "name_it": "Banca Popolare di Milano",
+  "name_en": "Banca Popolare di Milano",
+  "lat": 41.4618213,
+  "lng": 15.5489309,
+  "category": "bank",
+  "building_type": "BANK",
+  "poi_type": "bank",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
+    "street": "Piazza Umberto Giordano",
+    "housenumber": "18",
+    "city": "Foggia",
     "postcode": "",
     "country": "IT"
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/3684779080",
     "wikidata": null,
     "geoname": null,
     "overture": null

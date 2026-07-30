@@ -1,0 +1,40 @@
+{
+  "id": "osm_node_1520458650_41.4641_15.5542",
+  "name": "Kebab",
+  "name_it": "Kebab",
+  "name_en": "Kebab",
+  "lat": 41.4641017,
+  "lng": 15.5542075,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
+  "address": {
+    "street": "",
+    "housenumber": "",
+    "city": "",
+    "postcode": "",
+    "country": "IT"
+  },
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": ""
+  },
+  "hours": "Mo-Th,Sa 11:30-01:00; Fr 14:30-01:00; Su 17:00-01:00",
+  "description": "",
+  "wikipedia_url": "",
+  "ids": {
+    "osm": "node/1520458650",
+    "wikidata": null,
+    "geoname": null,
+    "overture": null
+  },
+  "provenance": {
+    "name": "osm",
+    "name_it": "osm",
+    "name_en": "osm",
+    "lat": "osm",
+    "lng": "osm",
+    "hours": "osm"
+  }
+}

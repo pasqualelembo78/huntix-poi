@@ -1,30 +1,30 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_405228336_41.4628_15.5273",
+  "name": "Bruschetteria - Paninoteca di Mario Forcella",
+  "name_it": "Bruschetteria - Paninoteca di Mario Forcella",
+  "name_en": "Bruschetteria - Paninoteca di Mario Forcella",
+  "lat": 41.4627942,
+  "lng": 15.5273372,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
+    "street": "Via Nedo Nadi",
     "housenumber": "",
-    "city": "",
-    "postcode": "",
+    "city": "Foggia",
+    "postcode": "71122",
     "country": "IT"
   },
   "contact": {
     "phone": "",
     "email": "",
-    "website": ""
+    "website": "https://www.facebook.com/pages/Mario-Forcella/151803948191811"
   },
   "hours": "",
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/405228336",
     "wikidata": null,
     "geoname": null,
     "overture": null

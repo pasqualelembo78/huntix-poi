@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_406674644_41.4555_15.5266",
+  "name": "Ristobar",
+  "name_it": "Ristobar",
+  "name_en": "Ristobar",
+  "lat": 41.4555339,
+  "lng": 15.5266151,
+  "category": "bar_cafe",
+  "building_type": "RESTAURANT",
+  "poi_type": "bar_cafe",
   "address": {
     "street": "",
     "housenumber": "",
@@ -16,7 +16,7 @@
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+390881732455",
     "email": "",
     "website": ""
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/406674644",
     "wikidata": null,
     "geoname": null,
     "overture": null

@@ -1,22 +1,22 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_9868731614_41.4635_15.5471",
+  "name": "Osteria La Giara",
+  "name_it": "Osteria La Giara",
+  "name_en": "Osteria La Giara",
+  "lat": 41.4634594,
+  "lng": 15.5471311,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
+    "street": "Via Saverio Altamura",
+    "housenumber": "34",
     "city": "",
     "postcode": "",
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+390881206920",
     "email": "",
     "website": ""
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/9868731614",
     "wikidata": null,
     "geoname": null,
     "overture": null

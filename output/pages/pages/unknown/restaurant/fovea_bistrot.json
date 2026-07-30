@@ -1,18 +1,18 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_13443099101_41.4637_15.5553",
+  "name": "FOVEA Bistrot",
+  "name_it": "FOVEA Bistrot",
+  "name_en": "FOVEA Bistrot",
+  "lat": 41.4636724,
+  "lng": 15.5552784,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
+    "street": "Via Monte Sabotino",
+    "housenumber": "11",
     "city": "",
-    "postcode": "",
+    "postcode": "71121",
     "country": "IT"
   },
   "contact": {
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/13443099101",
     "wikidata": null,
     "geoname": null,
     "overture": null

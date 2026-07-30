@@ -1,16 +1,16 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_4941941123_41.4553_15.5608",
+  "name": "La saporita",
+  "name_it": "La saporita",
+  "name_en": "La saporita",
+  "lat": 41.4552695,
+  "lng": 15.5607859,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
+    "street": "Viale Giuseppe Di Vittorio",
+    "housenumber": "111",
     "city": "",
     "postcode": "",
     "country": "IT"
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/4941941123",
     "wikidata": null,
     "geoname": null,
     "overture": null

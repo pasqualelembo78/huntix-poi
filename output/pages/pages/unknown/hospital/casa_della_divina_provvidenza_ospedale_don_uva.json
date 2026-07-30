@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_69969030_41.4696_15.5278",
+  "name": "Casa della Divina Provvidenza Ospedale \"Don Uva\"",
+  "name_it": "Casa della Divina Provvidenza Ospedale \"Don Uva\"",
+  "name_en": "Casa della Divina Provvidenza Ospedale \"Don Uva\"",
+  "lat": 41.4696406,
+  "lng": 15.5278252,
+  "category": "hospital",
+  "building_type": "HOSPITAL",
+  "poi_type": "hospital",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/69969030",
     "wikidata": null,
     "geoname": null,
     "overture": null

@@ -1,18 +1,18 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_1520468960_41.4613_15.5496",
+  "name": "Kebab House",
+  "name_it": "Kebab House",
+  "name_en": "Kebab House",
+  "lat": 41.4612828,
+  "lng": 15.5495778,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
-    "postcode": "",
+    "street": "Via Umberto Garofalo",
+    "housenumber": "16",
+    "city": "Foggia",
+    "postcode": "71121",
     "country": "IT"
   },
   "contact": {
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/1520468960",
     "wikidata": null,
     "geoname": null,
     "overture": null

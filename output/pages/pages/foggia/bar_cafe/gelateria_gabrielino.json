@@ -1,17 +1,17 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_3686909511_41.4620_15.5504",
+  "name": "Gelateria Gabrielino",
+  "name_it": "Gelateria Gabrielino",
+  "name_en": "Gelateria Gabrielino",
+  "lat": 41.4620002,
+  "lng": 15.5503882,
+  "category": "bar_cafe",
+  "building_type": "RESTAURANT",
+  "poi_type": "bar_cafe",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
+    "street": "Piazza Umberto Giordano",
+    "housenumber": "66",
+    "city": "Foggia",
     "postcode": "",
     "country": "IT"
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/3686909511",
     "wikidata": null,
     "geoname": null,
     "overture": null

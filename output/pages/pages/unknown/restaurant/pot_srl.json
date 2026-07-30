@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_1989261619_41.4648_15.5554",
+  "name": "POT srl",
+  "name_it": "POT srl",
+  "name_en": "POT srl",
+  "lat": 41.4647549,
+  "lng": 15.5554115,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
     "street": "",
     "housenumber": "",
@@ -16,7 +16,7 @@
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+390881721959",
     "email": "",
     "website": ""
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/1989261619",
     "wikidata": null,
     "geoname": null,
     "overture": null

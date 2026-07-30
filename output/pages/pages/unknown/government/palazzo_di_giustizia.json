@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_405339724_41.4494_15.5486",
+  "name": "Palazzo di Giustizia",
+  "name_it": "Palazzo di Giustizia",
+  "name_en": "Palazzo di Giustizia",
+  "lat": 41.4493891,
+  "lng": 15.5485533,
+  "category": "government",
+  "building_type": "GOVERNMENT",
+  "poi_type": "government",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,8 +24,8 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
-    "wikidata": null,
+    "osm": "way/405339724",
+    "wikidata": "Q134715119",
     "geoname": null,
     "overture": null
   },
@@ -43,6 +43,7 @@
     "email": "osm",
     "website": "osm",
     "hours": "osm",
-    "description": "osm"
+    "description": "osm",
+    "wikidata_id": "osm"
   }
 }

@@ -1,30 +1,30 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_411907212_41.4622_15.5432",
+  "name": "Municipio di Foggia",
+  "name_it": "Municipio di Foggia",
+  "name_en": "Municipio di Foggia",
+  "lat": 41.4621857,
+  "lng": 15.5432063,
+  "category": "government",
+  "building_type": "GOVERNMENT",
+  "poi_type": "government",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
+    "street": "Corso Giuseppe Garibaldi",
+    "housenumber": "58",
+    "city": "Foggia",
     "postcode": "",
     "country": "IT"
   },
   "contact": {
-    "phone": "",
-    "email": "",
-    "website": ""
+    "phone": "+390881792111",
+    "email": "urp@cert.comune.foggia.it",
+    "website": "https://www.comune.foggia.it/"
   },
   "hours": "",
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/411907212",
     "wikidata": null,
     "geoname": null,
     "overture": null

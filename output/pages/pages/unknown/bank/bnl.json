@@ -1,16 +1,16 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_7613047368_41.4580_15.5375",
+  "name": "BNL",
+  "name_it": "BNL",
+  "name_en": "BNL",
+  "lat": 41.4580323,
+  "lng": 15.5374985,
+  "category": "bank",
+  "building_type": "BANK",
+  "poi_type": "bank",
   "address": {
-    "street": "",
-    "housenumber": "",
+    "street": "Viale Ofanto",
+    "housenumber": "49",
     "city": "",
     "postcode": "",
     "country": "IT"
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/7613047368",
     "wikidata": null,
     "geoname": null,
     "overture": null

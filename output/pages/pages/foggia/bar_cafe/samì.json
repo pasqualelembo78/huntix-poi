@@ -1,17 +1,17 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_3681425824_41.4535_15.5637",
+  "name": "Samì",
+  "name_it": "Samì",
+  "name_en": "Samì",
+  "lat": 41.453461,
+  "lng": 15.5636549,
+  "category": "bar_cafe",
+  "building_type": "RESTAURANT",
+  "poi_type": "bar_cafe",
   "address": {
-    "street": "",
-    "housenumber": "",
-    "city": "",
+    "street": "Viale Giuseppe Di Vittorio",
+    "housenumber": "237",
+    "city": "Foggia",
     "postcode": "",
     "country": "IT"
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/3681425824",
     "wikidata": null,
     "geoname": null,
     "overture": null

@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_node_13836995242_41.4591_15.5413",
+  "name": "Pizzeria by Zio Tom",
+  "name_it": "Pizzeria by Zio Tom",
+  "name_en": "Pizzeria by Zio Tom",
+  "lat": 41.4590555,
+  "lng": 15.5413187,
+  "category": "restaurant",
+  "building_type": "RESTAURANT",
+  "poi_type": "restaurant",
   "address": {
     "street": "",
     "housenumber": "",
@@ -16,7 +16,7 @@
     "country": "IT"
   },
   "contact": {
-    "phone": "",
+    "phone": "+393683055811",
     "email": "",
     "website": ""
   },
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "node/13836995242",
     "wikidata": null,
     "geoname": null,
     "overture": null

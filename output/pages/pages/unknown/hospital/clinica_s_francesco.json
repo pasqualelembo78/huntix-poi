@@ -1,13 +1,13 @@
 {
-  "id": "osm_node_4063115589_41.4639_15.5467",
-  "name": "Poste Italiane",
-  "name_it": "Poste Italiane",
-  "name_en": "Poste Italiane",
-  "lat": 41.4638589,
-  "lng": 15.5467411,
-  "category": "post_office",
-  "building_type": "POST_OFFICE",
-  "poi_type": "post_office",
+  "id": "osm_way_405221384_41.4436_15.5445",
+  "name": "Clinica S. Francesco",
+  "name_it": "Clinica S. Francesco",
+  "name_en": "Clinica S. Francesco",
+  "lat": 41.4436244,
+  "lng": 15.5445281,
+  "category": "hospital",
+  "building_type": "HOSPITAL",
+  "poi_type": "hospital",
   "address": {
     "street": "",
     "housenumber": "",
@@ -24,7 +24,7 @@
   "description": "",
   "wikipedia_url": "",
   "ids": {
-    "osm": "node/4063115589",
+    "osm": "way/405221384",
     "wikidata": null,
     "geoname": null,
     "overture": null
