@@ -13,8 +13,7 @@ from poi_fusion.extractors.base import BaseExtractor
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 USER_AGENT = "Huntix-POI-Fusion/1.0"
-TILE_SPLIT_FIRST = 2
-TILE_SPLIT_MAX = 4
+MAX_TILE_DEG = 0.3  # max tile size in degrees (~30km) — guarantees no 504
 
 
 def _rules_to_blocks(rules, bbox: str) -> list[str]:
@@ -149,38 +148,22 @@ class OsmExtractor(BaseExtractor):
         self._progress_cb = cb
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
-        full_bbox = self.bbox or "41.5,12,47.5,19"
-        yield from self._extract_bbox(categories, full_bbox, depth=0, pct_range=(0, 100))
+        lat_min, lon_min, lat_max, lon_max = _parse_bbox(self.bbox or "41.5,12,47.5,19")
+        n_lat = max(1, int((lat_max - lat_min) / MAX_TILE_DEG))
+        n_lon = max(1, int((lon_max - lon_min) / MAX_TILE_DEG))
+        tiles = _split_bbox(f"{lat_min},{lon_min},{lat_max},{lon_max}", n_lat, n_lon)
+        n_tiles = len(tiles)
 
-    def _extract_bbox(self, categories: list[str], bbox: str, depth: int,
-                      pct_range: tuple[float, float]) -> Iterator[UnifiedPoi]:
-        query = _build_osm_query(categories, bbox)
-        try:
+        for idx, bbox in enumerate(tiles):
+            pct = (idx / n_tiles) * 100
             if self._progress_cb:
-                self._progress_cb(pct_range[0])
-            elements = _run_overpass(query)
-            if self._progress_cb:
-                self._progress_cb(pct_range[1])
-            time.sleep(5)
-            for el in elements:
-                tags = el.get("tags", {})
-                cat = _category_from_tags(tags, categories)
-                if not cat:
-                    continue
-                poi = self._el_to_poi(el, tags, cat)
-                if poi:
-                    yield poi
-        except urllib.error.HTTPError as e:
-            if e.code == 429:
-                print(f"\n    [RATE-LIMIT] aspetto 30s...")
-                time.sleep(30)
-                if self._progress_cb:
-                    self._progress_cb(pct_range[0])
+                self._progress_cb(pct)
+
+            for attempt in range(2):
                 try:
+                    query = _build_osm_query(categories, bbox)
                     elements = _run_overpass(query)
-                    if self._progress_cb:
-                        self._progress_cb(pct_range[1])
-                    time.sleep(5)
+                    time.sleep(3)
                     for el in elements:
                         tags = el.get("tags", {})
                         cat = _category_from_tags(tags, categories)
@@ -189,24 +172,16 @@ class OsmExtractor(BaseExtractor):
                         poi = self._el_to_poi(el, tags, cat)
                         if poi:
                             yield poi
-                    return
-                except Exception:
-                    pass
-
-            if e.code in (504, 429) and depth < 2:
-                n = TILE_SPLIT_FIRST * (depth + 1)
-                subtiles = _split_bbox(bbox, n, n)
-                total = len(subtiles)
-                print(f"\n    [SPLIT] {total} tile (depth {depth})")
-                for idx, sub_bbox in enumerate(subtiles):
-                    sub_start = pct_range[0] + (pct_range[1] - pct_range[0]) * idx / total
-                    sub_end = pct_range[0] + (pct_range[1] - pct_range[0]) * (idx + 1) / total
-                    yield from self._extract_bbox(categories, sub_bbox, depth + 1,
-                                                  pct_range=(sub_start, sub_end))
-            else:
-                print(f"\n    [SKIP] {e}")
-        except Exception as e:
-            print(f"\n    [SKIP] {e}")
+                    break
+                except urllib.error.HTTPError as e:
+                    if e.code == 429 and attempt == 0:
+                        time.sleep(20)
+                    else:
+                        print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e}")
+                        break
+                except Exception as e:
+                    print(f"\n    [SKIP] tile {idx+1}/{n_tiles}: {e}")
+                    break
 
     def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
         lat = el.get("lat") or el.get("center", {}).get("lat")
