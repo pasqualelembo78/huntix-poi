@@ -1,13 +1,55 @@
 from __future__ import annotations
 import json
 import os
+import shutil
+import stat
 import subprocess
 import tempfile
+import urllib.request
+import zipfile
+from pathlib import Path
 from typing import Iterator
 
 from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
 from poi_fusion.regions import Region
+
+
+DUCKDB_VERSION = "v1.2.1"
+DUCKDB_URL = f"https://github.com/duckdb/duckdb/releases/download/{DUCKDB_VERSION}/duckdb_cli-linux-amd64.zip"
+
+
+def _find_duckdb() -> str:
+    path = shutil.which("duckdb")
+    if path:
+        return path
+    local = os.path.join(os.path.dirname(__file__), "..", ".duckdb", "duckdb")
+    if os.path.isfile(local) and os.access(local, os.X_OK):
+        return os.path.abspath(local)
+    return ""
+
+
+def _install_duckdb() -> str:
+    path = _find_duckdb()
+    if path:
+        return path
+    dest_dir = os.path.join(os.path.dirname(__file__), "..", ".duckdb")
+    os.makedirs(dest_dir, exist_ok=True)
+    zip_path = os.path.join(dest_dir, "duckdb.zip")
+    bin_path = os.path.join(dest_dir, "duckdb")
+    print(f"  [DUCKDB] Downloading {DUCKDB_URL}...")
+    try:
+        urllib.request.urlretrieve(DUCKDB_URL, zip_path)
+        with zipfile.ZipFile(zip_path, "r") as zf:
+            zf.extract("duckdb", dest_dir)
+        st = os.stat(bin_path)
+        os.chmod(bin_path, st.st_mode | stat.S_IEXEC | stat.S_IXGRP | stat.S_IXOTH)
+        os.remove(zip_path)
+        print(f"  [DUCKDB] Installed at {bin_path}")
+        return bin_path
+    except Exception as e:
+        print(f"  [WARN] DuckDB install failed: {e}")
+        return ""
 
 
 DUCKDB_SCRIPT_TEMPLATE = """
@@ -78,11 +120,17 @@ class OvertureExtractor(BaseExtractor):
     def __init__(self, db_path: str | None = None, region: Region | None = None):
         self.db_path = db_path or os.path.join(tempfile.gettempdir(), "overture_places.duckdb")
         self.region = region
+        self.duckdb_bin = ""
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
+        self.duckdb_bin = _find_duckdb()
+        if not self.duckdb_bin:
+            self.duckdb_bin = _install_duckdb()
+        if not self.duckdb_bin:
+            print("  [SKIP] DuckDB non disponibile")
+            return
         if not self._ensure_loaded():
             return
-
         for cat in categories:
             query = CAT_QUERIES.get(cat)
             if not query:
@@ -91,16 +139,19 @@ class OvertureExtractor(BaseExtractor):
 
     def _ensure_loaded(self) -> bool:
         if os.path.exists(self.db_path) and os.path.getsize(self.db_path) > 1_000_000:
+            print("  [DUCKDB] Database già caricato")
             return True
         try:
             region_filter = ""
             if self.region and self.region.overture_region:
                 region_filter = REGION_FILTER.format(region_name=self.region.overture_region)
             script = DUCKDB_SCRIPT_TEMPLATE.format(region_filter=region_filter)
+            print("  [DUCKDB] Caricamento dati Overture in corso...")
             subprocess.run(
-                ["duckdb", self.db_path, "-c", script],
+                [self.duckdb_bin, self.db_path, "-c", script],
                 capture_output=True, timeout=600,
             )
+            print("  [DUCKDB] Caricamento completato")
             return True
         except Exception as e:
             print(f"  [WARN] Overture DuckDB load failed: {e}")
@@ -115,7 +166,7 @@ class OvertureExtractor(BaseExtractor):
         """
         try:
             result = subprocess.run(
-                ["duckdb", self.db_path, "-json", "-c", sql],
+                [self.duckdb_bin, self.db_path, "-json", "-c", sql],
                 capture_output=True, text=True, timeout=120,
             )
             if result.returncode != 0:

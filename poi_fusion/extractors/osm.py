@@ -2,6 +2,7 @@ from __future__ import annotations
 import json
 import time
 import re
+import math
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -13,6 +14,8 @@ from poi_fusion.extractors.base import BaseExtractor
 
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 USER_AGENT = "Huntix-POI-Fusion/1.0"
+TILE_SPLIT_FIRST = 2  # first split: 2x2 tiles
+TILE_SPLIT_MAX = 4     # max split: 4x4 tiles
 
 
 def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
@@ -30,7 +33,7 @@ def _build_osm_query(categories: list[str], bbox: str | None = None) -> str:
         sets.append(f'  node{tag_str}({bbox});\n  way{tag_str}({bbox});\n  relation{tag_str}({bbox});')
     body = "\n".join(sets)
     return f"""
-[out:json][timeout:180];
+[out:json][timeout:300];
 ({body});
 out center;
 """.strip()
@@ -42,8 +45,24 @@ def _run_overpass(query: str) -> list[dict]:
         data=urllib.parse.urlencode({"data": query}).encode(),
         headers={"User-Agent": USER_AGENT},
     )
-    with urllib.request.urlopen(req, timeout=200) as resp:
+    with urllib.request.urlopen(req, timeout=300) as resp:
         return json.loads(resp.read()).get("elements", [])
+
+
+def _parse_bbox(bbox: str) -> tuple[float, float, float, float]:
+    parts = [float(x) for x in bbox.split(",")]
+    return parts[0], parts[1], parts[2], parts[3]
+
+
+def _split_bbox(bbox: str, n_lat: int, n_lon: int) -> list[str]:
+    lat_min, lon_min, lat_max, lon_max = _parse_bbox(bbox)
+    dlat = (lat_max - lat_min) / n_lat
+    dlon = (lon_max - lon_min) / n_lon
+    tiles = []
+    for i in range(n_lat):
+        for j in range(n_lon):
+            tiles.append(f"{lat_min + i*dlat},{lon_min + j*dlon},{lat_min + (i+1)*dlat},{lon_min + (j+1)*dlon}")
+    return tiles
 
 
 def _category_from_tags(tags: dict, categories: list[str]) -> str | None:
@@ -80,47 +99,56 @@ def _osm_id_str(el: dict) -> str:
     return f"{'node' if el['type'] == 'node' else 'way'}/{el['id']}"
 
 
+def _clean_phone(p: str) -> str:
+    if not p:
+        return ""
+    p = re.sub(r"[^\d+]", "", p)
+    if p.startswith("+39") and len(p) >= 12:
+        return p
+    if p.startswith("0") and len(p) >= 9:
+        return "+39" + p
+    return p
+
+
 class OsmExtractor(BaseExtractor):
     source = Source.OSM
 
     def __init__(self, bbox: str | None = None):
         self.bbox = bbox
 
-    OVERPASS_RETRY_SLEEP = 30
-
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
-        bbox = self.bbox or "41.5,12,47.5,19"
-        for cat in categories:
-            elements = None
-            for attempt in range(2):
-                try:
-                    query = _build_osm_query([cat], bbox)
-                    elements = _run_overpass(query)
-                    break
-                except urllib.error.HTTPError as e:
-                    if e.code == 429:
-                        print(f"    [RATE-LIMIT] {cat}, aspetto {self.OVERPASS_RETRY_SLEEP}s...")
-                        time.sleep(self.OVERPASS_RETRY_SLEEP)
-                    elif e.code == 504:
-                        print(f"    [TIMEOUT] {cat}, salto")
-                        break
-                    else:
-                        print(f"    [SKIP] {cat}: {e}")
-                        break
-                except Exception as e:
-                    print(f"    [SKIP] {cat}: {e}")
-                    break
-            if elements is None:
-                continue
-            time.sleep(10)
+        full_bbox = self.bbox or "41.5,12,47.5,19"
+        yield from self._extract_bbox(categories, full_bbox, depth=0)
+
+    def _extract_bbox(self, categories: list[str], bbox: str, depth: int) -> Iterator[UnifiedPoi]:
+        lat_min, lon_min, lat_max, lon_max = _parse_bbox(bbox)
+        area = (lat_max - lat_min) * (lon_max - lon_min)
+
+        query = _build_osm_query(categories, bbox)
+        try:
+            elements = _run_overpass(query)
+            time.sleep(5)
             for el in elements:
                 tags = el.get("tags", {})
-                tagged_cat = _category_from_tags(tags, [cat])
-                if not tagged_cat:
+                cat = _category_from_tags(tags, categories)
+                if not cat:
                     continue
-                poi = self._el_to_poi(el, tags, tagged_cat)
+                poi = self._el_to_poi(el, tags, cat)
                 if poi:
                     yield poi
+        except urllib.error.HTTPError as e:
+            if e.code in (504, 429) and depth < 3:
+                split = min(TILE_SPLIT_FIRST * (2 ** depth), TILE_SPLIT_MAX)
+                subtiles = _split_bbox(bbox, split, split)
+                total = len(subtiles)
+                print(f"    [SPLIT] area {area:.2f}°² → {total} tiles (depth {depth})")
+                for idx, sub_bbox in enumerate(subtiles):
+                    print(f"      tile {idx+1}/{total}...")
+                    yield from self._extract_bbox(categories, sub_bbox, depth + 1)
+            else:
+                print(f"    [SKIP] bbox {bbox}: {e}")
+        except Exception as e:
+            print(f"    [SKIP] bbox {bbox}: {e}")
 
     def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
         lat = el.get("lat") or el.get("center", {}).get("lat")
@@ -131,6 +159,7 @@ class OsmExtractor(BaseExtractor):
         name, name_it, name_en = _clean_name(tags)
         if not name:
             return None
+
         poi = UnifiedPoi(
             id=f"osm_{_osm_id_str(el).replace('/', '_')}_{lat:.4f}_{lng:.4f}",
             category=cat,
@@ -159,13 +188,3 @@ class OsmExtractor(BaseExtractor):
         if tags.get("wikidata"):
             poi.provenance["wikidata_id"] = self.source
         return poi
-
-def _clean_phone(p: str) -> str:
-    if not p:
-        return ""
-    p = re.sub(r"[^\d+]", "", p)
-    if p.startswith("+39") and len(p) >= 12:
-        return p
-    if p.startswith("0") and len(p) >= 9:
-        return "+39" + p
-    return p
