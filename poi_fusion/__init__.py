@@ -9,7 +9,7 @@ from poi_fusion.regions import Region
 from poi_fusion.extractors import OsmExtractor, OvertureExtractor, WikidataExtractor, GeoNamesExtractor
 from poi_fusion.matcher import PoiMatcher
 from poi_fusion.merger import PoiMerger
-from poi_fusion.exporter import export_csv, export_csv_extended, export_json_pages, export_provenance_report
+from poi_fusion.exporter import export_csv, export_csv_extended, export_json_pages, export_provenance_report, load_csv_extended
 from poi_fusion.integrity import check_integrity
 
 DEFAULT_CATEGORIES = ["hospital", "restaurant", "bar_cafe", "gym", "monument", "government", "bank", "post_office", "library"]
@@ -116,6 +116,7 @@ def run_fusion(
     categories: list[str] | None = None,
     output_dir: str = "output",
     region: Region | None = None,
+    mode: str = "fresh",
 ) -> list[UnifiedPoi]:
     categories = categories or DEFAULT_CATEGORIES
     os.makedirs(output_dir, exist_ok=True)
@@ -124,8 +125,25 @@ def run_fusion(
     print(f"\nRegione: {region_label}")
     print(f"Categorie ({len(categories)}): {', '.join(categories)}")
     print(f"Fonti ({len(SOURCE_PRIORITY)}): {', '.join(n for n, _ in SOURCE_PRIORITY)}")
+    print(f"Modalità: {'aggiornamento' if mode == 'update' else 'da zero'}")
 
     all_pois: list[UnifiedPoi] = []
+
+    # In modalità update, carica POI esistenti e segnali come EXISTING
+    existing_pois: list[UnifiedPoi] = []
+    if mode == "update":
+        csv_path = os.path.join(output_dir, "poi_extended.csv")
+        if os.path.exists(csv_path):
+            existing_pois = load_csv_extended(csv_path)
+            n_existing = len(existing_pois)
+            if n_existing > 0:
+                print(f"\n  Caricati {n_existing} POI esistenti da {csv_path}")
+                # Segna tutti come EXISTING per priorità nel merge
+                from poi_fusion.schema import Source
+                for p in existing_pois:
+                    for field in list(p.provenance.keys()):
+                        p.provenance[field] = Source.EXISTING
+                all_pois.extend(existing_pois)
     n_sources = len(SOURCE_PRIORITY)
     extract_pct = 50
 

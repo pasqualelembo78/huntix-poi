@@ -3,26 +3,28 @@ from __future__ import annotations
 from poi_fusion.schema import UnifiedPoi, Source
 
 
+_EX = Source.EXISTING
+
 FIELD_PRIORITY: dict[str, list[Source]] = {
-    "name": [Source.WIKIDATA, Source.OSM, Source.GEONAMES, Source.OVERTURE],
-    "name_it": [Source.OSM, Source.WIKIDATA],
-    "name_en": [Source.OSM, Source.GEONAMES, Source.WIKIDATA],
-    "lat": [Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES],
-    "lng": [Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES],
-    "street": [Source.OSM, Source.OPENADDRESSES, Source.WIKIDATA],
-    "housenumber": [Source.OSM, Source.OPENADDRESSES],
-    "city": [Source.OSM, Source.GEONAMES, Source.WIKIDATA, Source.OVERTURE],
-    "postcode": [Source.OSM, Source.GEONAMES, Source.WIKIDATA],
-    "phone": [Source.OSM, Source.WIKIDATA, Source.OVERTURE],
-    "email": [Source.OSM, Source.WIKIDATA],
-    "website": [Source.OSM, Source.WIKIDATA, Source.OVERTURE],
-    "hours": [Source.OSM],
-    "description": [Source.WIKIDATA, Source.OSM],
-    "wikipedia_url": [Source.WIKIDATA],
+    "name": [_EX, Source.WIKIDATA, Source.OSM, Source.GEONAMES, Source.OVERTURE],
+    "name_it": [_EX, Source.OSM, Source.WIKIDATA],
+    "name_en": [_EX, Source.OSM, Source.GEONAMES, Source.WIKIDATA],
+    "lat": [_EX, Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES],
+    "lng": [_EX, Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES],
+    "street": [_EX, Source.OSM, Source.OPENADDRESSES, Source.WIKIDATA],
+    "housenumber": [_EX, Source.OSM, Source.OPENADDRESSES],
+    "city": [_EX, Source.OSM, Source.GEONAMES, Source.WIKIDATA, Source.OVERTURE],
+    "postcode": [_EX, Source.OSM, Source.GEONAMES, Source.WIKIDATA],
+    "phone": [_EX, Source.OSM, Source.WIKIDATA, Source.OVERTURE],
+    "email": [_EX, Source.OSM, Source.WIKIDATA],
+    "website": [_EX, Source.OSM, Source.WIKIDATA, Source.OVERTURE],
+    "hours": [_EX, Source.OSM],
+    "description": [_EX, Source.WIKIDATA, Source.OSM],
+    "wikipedia_url": [_EX, Source.WIKIDATA],
 }
 
 SOURCE_WEIGHT: dict[Source, int] = {s: i for i, s in enumerate([
-    Source.WIKIDATA, Source.OSM, Source.GEONAMES, Source.OVERTURE, Source.OPENADDRESSES, Source.OPENDATA,
+    _EX, Source.WIKIDATA, Source.OSM, Source.GEONAMES, Source.OVERTURE, Source.OPENADDRESSES, Source.OPENDATA,
 ])}
 
 MERGE_FIELDS = [
@@ -92,7 +94,7 @@ class PoiMerger:
         return "", None
 
     def _pick_best_latlng(self, cluster: list[UnifiedPoi]) -> tuple:
-        priority = [Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES]
+        priority = [_EX, Source.OSM, Source.WIKIDATA, Source.OVERTURE, Source.GEONAMES]
         for src in priority:
             for poi in cluster:
                 if poi.provenance.get("lat") == src:

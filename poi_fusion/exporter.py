@@ -4,7 +4,7 @@ import json
 import os
 from typing import Iterator
 
-from poi_fusion.schema import UnifiedPoi
+from poi_fusion.schema import UnifiedPoi, Source
 
 
 CSV_HEADER = ["lat", "lng", "id", "name", "building_type", "type", "url", "page_type"]
@@ -91,6 +91,62 @@ def export_provenance_report(clusters: list[list[UnifiedPoi]], path: str):
         })
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
+
+
+def load_csv_extended(path: str) -> list[UnifiedPoi]:
+    pois = []
+    with open(path, "r", encoding="utf-8") as f:
+        reader = csv.reader(f, lineterminator="\n")
+        for row in reader:
+            if not row or row[0].startswith("#"):
+                continue
+            if len(row) < len(CSV_HEADER_EXTENDED):
+                continue
+            (lat_str, lng_str, pid, name, name_it, name_en,
+             building_type, poi_type,
+             street, housenumber, city, postcode,
+             phone, email, website, hours,
+             description, wikipedia_url,
+             osm_id, wikidata_id, geoname_id, overture_id,
+             provenance_str) = row[:len(CSV_HEADER_EXTENDED)]
+
+            prov: dict[str, Source] = {}
+            try:
+                raw = json.loads(provenance_str)
+                for k, v in raw.items():
+                    try:
+                        prov[k] = Source(v)
+                    except ValueError:
+                        prov[k] = Source.OPENDATA
+            except (json.JSONDecodeError, TypeError):
+                prov = {}
+
+            poi = UnifiedPoi(
+                id=pid,
+                name=name,
+                name_it=name_it,
+                name_en=name_en,
+                lat=float(lat_str) if lat_str else 0.0,
+                lng=float(lng_str) if lng_str else 0.0,
+                category=poi_type or "",
+                street=street or "",
+                housenumber=housenumber or "",
+                city=city or "",
+                postcode=postcode or "",
+                phone=phone or "",
+                email=email or "",
+                website=website or "",
+                hours=hours or "",
+                description=description or "",
+                wikipedia_url=wikipedia_url or "",
+                osm_id=osm_id or None,
+                wikidata_id=wikidata_id or None,
+                geoname_id=geoname_id or None,
+                overture_id=overture_id or None,
+                provenance=prov,
+            )
+            pois.append(poi)
+    return pois
 
 
 def _slugify(name: str) -> str:

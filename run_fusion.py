@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 import os
+import shutil
 import subprocess
 import sys
 
@@ -25,22 +26,27 @@ def main():
     region = prompt_region()
 
     output_dir = "output"
+    mode = "fresh"
     if os.path.exists(output_dir):
         try:
-            answer = input(f"\n'{output_dir}/' già esiste. Sovrascrivere? [s/N]: ").strip().lower() or "n"
+            answer = input(f"\n'{output_dir}/' già esiste. [S]ovrascrivere, [A]ggiungere nuovi POI, [N]on fare nulla? [s/A/n]: ").strip().lower() or "a"
         except (EOFError, KeyboardInterrupt):
             answer = "n"
-        if answer != "s":
+        if answer == "n":
             print("Annullato.")
             return
-        import shutil
-        shutil.rmtree(output_dir)
+        if answer == "s":
+            shutil.rmtree(output_dir)
+            mode = "fresh"
+        else:
+            mode = "update"
 
     from poi_fusion import run_fusion
     merged, integrity = run_fusion(
         categories=DEFAULT_CATEGORIES,
         output_dir=output_dir,
         region=region,
+        mode=mode,
     )
 
     print(f"\nDone. {len(merged)} POIs exported.")

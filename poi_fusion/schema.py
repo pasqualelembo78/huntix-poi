@@ -6,6 +6,7 @@ from typing import Optional
 
 
 class Source(Enum):
+    EXISTING = "existing"
     OSM = "osm"
     OVERTURE = "overture"
     WIKIDATA = "wikidata"
@@ -15,12 +16,13 @@ class Source(Enum):
 
 
 SOURCE_RANK = {
-    Source.WIKIDATA: 0,
-    Source.OSM: 1,
-    Source.GEONAMES: 2,
-    Source.OVERTURE: 3,
-    Source.OPENADDRESSES: 4,
-    Source.OPENDATA: 5,
+    Source.EXISTING: 0,
+    Source.WIKIDATA: 1,
+    Source.OSM: 2,
+    Source.GEONAMES: 3,
+    Source.OVERTURE: 4,
+    Source.OPENADDRESSES: 5,
+    Source.OPENDATA: 6,
 }
 
 
