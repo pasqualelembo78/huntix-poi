@@ -306,8 +306,24 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
         city_pois[city_slug]["gyms"].append(p["line"])
+        all_pois.append(p["line"])
+    print()
+    time.sleep(5)
+
+    # --- BARS & CAFES ---
+    print("🔍 bars_cafes...")
+    q = f'[out:json][timeout:120];(node["amenity"~"bar|cafe|pub"]({bbox});way["amenity"~"bar|cafe|pub"]({bbox}););out center tags;'
+    elements = query_overpass(q)
+    pois = parse_pois(elements, "bar_cafe", cities_cache)
+    print(f"  📦 {len(pois)} POI totali")
+    for p in pois:
+        city = p["city"] or "sconosciuta"
+        city_slug = normalize_name(city)
+        if city_slug not in city_pois:
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
+        city_pois[city_slug]["bars_cafes"].append(p["line"])
         all_pois.append(p["line"])
     print()
     time.sleep(5)
@@ -318,7 +334,6 @@ def main():
     q = f'[out:json][timeout:120];({lm_union});out center tags;'
     els = query_overpass(q)
     all_landmarks = parse_pois(els, "monumento", cities_cache)
-    # Deduplicate landmarks
     seen_lm = set()
     unique_landmarks = []
     for p in all_landmarks:
@@ -330,8 +345,78 @@ def main():
         city = p["city"] or "sconosciuta"
         city_slug = normalize_name(city)
         if city_slug not in city_pois:
-            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": []}
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
         city_pois[city_slug]["landmarks"].append(p["line"])
+        all_pois.append(p["line"])
+    print()
+    time.sleep(5)
+
+    # --- GOVERNMENT ---
+    print("🔍 government...")
+    gov_tags = [
+        '"amenity"="townhall"', '"amenity"="courthouse"',
+        '"amenity"="registration_hall"', '"amenity"="job_centre"',
+        '"office"="government"',
+    ]
+    gov_union = ";".join([f'node[{t}]({bbox});way[{t}]({bbox})' for t in gov_tags])
+    q = f'[out:json][timeout:120];({gov_union});out center tags;'
+    elements = query_overpass(q)
+    pois = parse_pois(elements, "ufficio_pubblico", cities_cache)
+    print(f"  📦 {len(pois)} POI totali")
+    for p in pois:
+        city = p["city"] or "sconosciuta"
+        city_slug = normalize_name(city)
+        if city_slug not in city_pois:
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
+        city_pois[city_slug]["government"].append(p["line"])
+        all_pois.append(p["line"])
+    print()
+    time.sleep(5)
+
+    # --- BANKS ---
+    print("🔍 banks...")
+    q = f'[out:json][timeout:120];(node["amenity"="bank"]({bbox});way["amenity"="bank"]({bbox}););out center tags;'
+    elements = query_overpass(q)
+    pois = parse_pois(elements, "banca", cities_cache)
+    print(f"  📦 {len(pois)} POI totali")
+    for p in pois:
+        city = p["city"] or "sconosciuta"
+        city_slug = normalize_name(city)
+        if city_slug not in city_pois:
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
+        city_pois[city_slug]["banks"].append(p["line"])
+        all_pois.append(p["line"])
+    print()
+    time.sleep(5)
+
+    # --- POST OFFICES ---
+    print("🔍 post_offices...")
+    q = f'[out:json][timeout:120];(node["amenity"="post_office"]({bbox});way["amenity"="post_office"]({bbox}););out center tags;'
+    elements = query_overpass(q)
+    pois = parse_pois(elements, "ufficio_postale", cities_cache)
+    print(f"  📦 {len(pois)} POI totali")
+    for p in pois:
+        city = p["city"] or "sconosciuta"
+        city_slug = normalize_name(city)
+        if city_slug not in city_pois:
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
+        city_pois[city_slug]["post_offices"].append(p["line"])
+        all_pois.append(p["line"])
+    print()
+    time.sleep(5)
+
+    # --- LIBRARIES ---
+    print("🔍 libraries...")
+    q = f'[out:json][timeout:120];(node["amenity"="library"]({bbox});way["amenity"="library"]({bbox}););out center tags;'
+    elements = query_overpass(q)
+    pois = parse_pois(elements, "biblioteca", cities_cache)
+    print(f"  📦 {len(pois)} POI totali")
+    for p in pois:
+        city = p["city"] or "sconosciuta"
+        city_slug = normalize_name(city)
+        if city_slug not in city_pois:
+            city_pois[city_slug] = {"city_name": city, "hospitals": [], "restaurants": [], "bars_cafes": [], "gyms": [], "landmarks": [], "government": [], "banks": [], "post_offices": [], "libraries": []}
+        city_pois[city_slug]["libraries"].append(p["line"])
         all_pois.append(p["line"])
     print()
 
@@ -342,11 +427,13 @@ def main():
     total_cities = 0
     total_files = 0
     city_coords = {}  # city_slug -> {lat_sum, lng_sum, count, city_name}
+    CAT_KEYS = ["hospitals", "restaurants", "bars_cafes", "gyms", "landmarks",
+                "government", "banks", "post_offices", "libraries"]
     for city_slug, data in sorted(city_pois.items()):
         city_dir = os.path.join(region_dir, city_slug)
         os.makedirs(city_dir, exist_ok=True)
         all_city_lines = []
-        for cat_key in ["hospitals", "restaurants", "bars_cafes", "gyms", "landmarks"]:
+        for cat_key in CAT_KEYS:
             lines = data[cat_key]
             if lines:
                 filepath = os.path.join(city_dir, f"{cat_key}.csv")
@@ -360,7 +447,7 @@ def main():
             total_files += 1
         # Track city coordinates (centroid)
         lat_sum, lng_sum, count = 0.0, 0.0, 0
-        for cat_key in ["hospitals", "restaurants", "bars_cafes", "gyms", "landmarks"]:
+        for cat_key in CAT_KEYS:
             for line in data[cat_key]:
                 parts = line.split(",")
                 if len(parts) >= 2:
@@ -376,17 +463,24 @@ def main():
                 "name": data["city_name"],
                 "h": len(data["hospitals"]),
                 "r": len(data["restaurants"]),
+                "b": len(data["bars_cafes"]),
                 "g": len(data["gyms"]),
                 "l": len(data["landmarks"]),
+                "gov": len(data["government"]),
+                "bank": len(data["banks"]),
+                "post": len(data["post_offices"]),
+                "lib": len(data["libraries"]),
             }
         total_cities += 1
 
     # Save region index (_citta.csv) with coordinates
     index_file = os.path.join(region_dir, "_citta.csv")
     with open(index_file, "w", encoding="utf-8") as f:
-        f.write("# lat,lng,citta,slug,ospedali,ristoranti,palestre,monumenti\n")
+        f.write("# lat,lng,citta,slug,ospedali,ristoranti,bar_cafe,palestre,monumenti,governo,banche,poste,biblioteche\n")
         for city_slug, coords in sorted(city_coords.items()):
-            f.write(f"{coords['lat']:.6f},{coords['lng']:.6f},{coords['name']},{city_slug},{coords['h']},{coords['r']},{coords['g']},{coords['l']}\n")
+            f.write(f"{coords['lat']:.6f},{coords['lng']:.6f},{coords['name']},{city_slug},"
+                    f"{coords['h']},{coords['r']},{coords['b']},{coords['g']},{coords['l']},"
+                    f"{coords['gov']},{coords['bank']},{coords['post']},{coords['lib']}\n")
 
     # Save region summary (flat CSV for app)
     region_file = os.path.join(region_dir, "_all.csv")
@@ -430,7 +524,7 @@ def main():
         subprocess.run(["git", "add", "."], cwd=repo_dir, check=True)
         subprocess.run(["git", "commit", "-m", f"POI {region_name} — {total_cities} città, {len(all_pois)} POI"], cwd=repo_dir, check=True)
         subprocess.run(["git", "remote", "set-url", "origin", remote_url], cwd=repo_dir, check=True)
-        result = subprocess.run(["git", "push", "origin", "main"], cwd=repo_dir, capture_output=True, text=True)
+        result = subprocess.run(["git", "push", "origin", "test"], cwd=repo_dir, capture_output=True, text=True)
         if result.returncode == 0:
             print("\n🎉 Push completato!")
         else:

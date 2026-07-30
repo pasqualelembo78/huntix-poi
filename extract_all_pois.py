@@ -147,7 +147,7 @@ def generate_poi_page(name, cat_key, building_type, website, region_slug, city_s
     os.makedirs(pages_dir, exist_ok=True)
     with open(os.path.join(pages_dir, f"{slug}.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    return f"https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/{region_slug}/{city_slug}/pages/{slug}.json"
+    return f"https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/test/italia/{region_slug}/{city_slug}/pages/{slug}.json"
 
 # ────────────────────── OSM ──────────────────────
 def query_osm(query_str, retries=3):
@@ -492,12 +492,16 @@ def main():
                 "name": info["name"],
                 "h": info["h"], "r": info["r"], "b": info["b"],
                 "g": info["g"], "l": info["l"],
+                "gov": info["gov"], "bank": info["bank"],
+                "post": info["post"], "lib": info["lib"],
             }
 
     with open(os.path.join(region_dir, "_citta.csv"), "w", encoding="utf-8") as f:
-        f.write("# lat,lng,citta,slug,ospedali,ristoranti,bar_cafe,palestre,monumenti\n")
+        f.write("# lat,lng,citta,slug,ospedali,ristoranti,bar_cafe,palestre,monumenti,governo,banche,poste,biblioteche\n")
         for slug, c in sorted(city_coords.items()):
-            f.write(f"{c['lat']:.6f},{c['lng']:.6f},{c['name']},{slug},{c['h']},{c['r']},{c['b']},{c['g']},{c['l']}\n")
+            f.write(f"{c['lat']:.6f},{c['lng']:.6f},{c['name']},{slug},"
+                    f"{c['h']},{c['r']},{c['b']},{c['g']},{c['l']},"
+                    f"{c['gov']},{c['bank']},{c['post']},{c['lib']}\n")
 
     # 6. _all.csv regionale (leggendo i _all.csv delle citta)
     print("Creazione _all.csv regionale...")
@@ -555,7 +559,7 @@ def main():
             f"POI {region_name} -- {len(all_region)} POI (OSM+Overture unificato)"],
             cwd=repo_dir, check=True)
         subprocess.run(["git", "remote", "set-url", "origin", remote_url], cwd=repo_dir, check=True)
-        result = subprocess.run(["git", "push", "origin", "main"],
+        result = subprocess.run(["git", "push", "origin", "test"],
             cwd=repo_dir, capture_output=True, text=True)
         if result.returncode == 0:
             print("\nPush completato!")
