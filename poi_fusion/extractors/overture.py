@@ -13,8 +13,9 @@ from typing import Iterator
 from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
 from poi_fusion.regions import Region
-DUCKDB_VERSION = "v1.2.1"
-DUCKDB_URL = f"https://github.com/duckdb/duckdb/releases/download/{DUCKDB_VERSION}/duckdb_cli-linux-amd64.zip"
+
+# DUCKDB_VERSION = "v1.2.1"
+# DUCKDB_URL = f"https://github.com/duckdb/duckdb/releases/download/{DUCKDB_VERSION}/duckdb_cli-linux-amd64.zip"
 
 
 def _find_duckdb() -> str:
@@ -111,8 +112,8 @@ def _overture_category(basic_cat: str, categories_list: list | None) -> str | No
 class OvertureExtractor(BaseExtractor):
     source = Source.OVERTURE
 
-    def __init__(self, db_path: str | None = None, region: Region | None = None):
-        self.db_path = db_path or os.path.join(tempfile.gettempdir(), "overture_places.duckdb")
+    def __init__(self, region: Region | None = None):
+        self.db_path = os.path.join(tempfile.gettempdir(), "overture_places.duckdb")
         self.region = region
         self.duckdb_bin = ""
 
@@ -136,7 +137,13 @@ class OvertureExtractor(BaseExtractor):
             print("  [DUCKDB] Database già caricato")
             return True
         try:
-            script = DUCKDB_SCRIPT_TEMPLATE.format(s3_glob=S3_GLOB, bbox_filter=IT_BBOX)
+            bbox_filter = IT_BBOX
+            if self.region and self.region.bbox:
+                lat_min, lon_min, lat_max, lon_max = map(float, self.region.bbox.split(","))
+                bbox_filter = f"ST_Intersects(geometry, ST_PolygonEnvelope({lat_min}, {lon_min}, {lat_max}, {lon_max}))"
+                print(f"  [DUCKDB] Filtro bbox regione: {self.region.name}")
+
+            script = DUCKDB_SCRIPT_TEMPLATE.format(s3_glob=S3_GLOB, bbox_filter=bbox_filter)
             print("  [DUCKDB] Caricamento dati Overture in corso...")
             result = subprocess.run(
                 [self.duckdb_bin, self.db_path, "-c", script],
@@ -146,7 +153,6 @@ class OvertureExtractor(BaseExtractor):
                 print(f"  [DUCKDB] ERRORE: {result.stderr[:500]}")
                 return False
             print("  [DUCKDB] Caricamento completato")
-            # Verifica righe caricate
             count_res = subprocess.run(
                 [self.duckdb_bin, self.db_path, "-json", "-c", "SELECT count(*) AS cnt FROM places"],
                 capture_output=True, text=True, timeout=30,
@@ -205,8 +211,6 @@ class OvertureExtractor(BaseExtractor):
             addr = addresses[0]
             city = addr.get("locality", "")
             street = addr.get("street", "")
-            if not city:
-                city = addr.get("region", "")
 
         phones = row.get("phones") or []
         phone = phones[0] if phones else ""

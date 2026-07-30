@@ -1,0 +1,14 @@
+{
+  "last_release": "2026-07-22.0",
+  "last_run": "2026-07-30T14:29:40.879060+00:00",
+  "theme": "places",
+  "type": "place",
+  "bbox": {
+    "xmin": 39.7,
+    "ymin": 15.0,
+    "xmax": 42.1,
+    "ymax": 18.8
+  },
+  "backend": "geoparquet",
+  "output": "/root/giochi/poi/data/overture/italia/places.parquet"
+}

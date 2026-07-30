@@ -27,7 +27,24 @@ def main():
 
     output_dir = "output"
     mode = "fresh"
-    if os.path.exists(output_dir):
+    skip_osm = False
+    
+    csv_files = ["poi.csv", "poi_extended.csv"]
+    existing_csvs = [f for f in csv_files if os.path.exists(os.path.join(output_dir, f))]
+    
+    if existing_csvs:
+        try:
+            answer = input(f"\nI file CSV {', '.join(existing_csvs)} già esistono. Sovrascrivere POI source? [s/N]: ").strip().lower() or "n"
+        except (EOFError, KeyboardInterrupt):
+            answer = "n"
+        
+        if answer == "s":
+            mode = "fresh"
+        else:
+            print("Sovrascrizione POI saltata.")
+            skip_osm = True
+    
+    if not skip_osm and os.path.exists(output_dir):
         try:
             answer = input(f"\n'{output_dir}/' già esiste. [S]ovrascrivere, [A]ggiungere nuovi POI, [N]on fare nulla? [s/A/n]: ").strip().lower() or "a"
         except (EOFError, KeyboardInterrupt):
@@ -41,12 +58,27 @@ def main():
         else:
             mode = "update"
 
+    source_modes = {
+        "os": "OSM",
+        "w": "Wikidata", 
+        "o": "Overture",
+        "g": "GeoNames",
+        "a": "Tutti"
+    }
+    try:
+        answer = input(f"\nSeleziona fonti: [o] OSM, [w] Wikidata, [o]verture, [g]eoNames, [a] tutte? [a]: ").strip().lower() or "a"
+    except (EOFError, KeyboardInterrupt):
+        answer = "a"
+    
+    sources_to_use = answer if answer in source_modes else "a"
     from poi_fusion import run_fusion
+    
     merged, integrity = run_fusion(
         categories=DEFAULT_CATEGORIES,
         output_dir=output_dir,
         region=region,
         mode=mode,
+        source_filter=sources_to_use,
     )
 
     print(f"\nDone. {len(merged)} POIs exported.")

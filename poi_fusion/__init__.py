@@ -117,6 +117,7 @@ def run_fusion(
     output_dir: str = "output",
     region: Region | None = None,
     mode: str = "fresh",
+    source_filter: str = "a",
 ) -> list[UnifiedPoi]:
     categories = categories or DEFAULT_CATEGORIES
     os.makedirs(output_dir, exist_ok=True)
@@ -124,7 +125,21 @@ def run_fusion(
     region_label = region.name if region else "Tutta Italia"
     print(f"\nRegione: {region_label}")
     print(f"Categorie ({len(categories)}): {', '.join(categories)}")
-    print(f"Fonti ({len(SOURCE_PRIORITY)}): {', '.join(n for n, _ in SOURCE_PRIORITY)}")
+    
+    source_labels = {
+        "os": "OSM",
+        "w": "Wikidata", 
+        "o": "Overture",
+        "g": "GeoNames",
+        "a": "Tutte"
+    }
+    
+    source_names = []
+    for key in source_filter:
+        if key in source_labels:
+            source_names.append(source_labels[key])
+    
+    print(f"Fonti selezionate: {', '.join(source_names) if source_names else 'Tutte'}")
     print(f"Modalità: {'aggiornamento' if mode == 'update' else 'da zero'}")
 
     all_pois: list[UnifiedPoi] = []
@@ -144,10 +159,20 @@ def run_fusion(
                     for field in list(p.provenance.keys()):
                         p.provenance[field] = Source.EXISTING
                 all_pois.extend(existing_pois)
+
     n_sources = len(SOURCE_PRIORITY)
     extract_pct = 50
 
-    for idx, (src_name, src_factory) in enumerate(SOURCE_PRIORITY):
+    # Filtra extractors a seconda della selezione
+    extractor_indices = []
+    for idx, (src_name, _) in enumerate(SOURCE_PRIORITY):
+        if src_name in source_names:
+            extractor_indices.append(idx)
+    if not extractor_indices:
+        extractor_indices = list(range(n_sources))
+
+    for idx in extractor_indices:
+        src_name, src_factory = SOURCE_PRIORITY[idx]
         ext = src_factory(region)
         pct_start = (idx / n_sources) * extract_pct
         pct_end = ((idx + 1) / n_sources) * extract_pct
@@ -172,7 +197,8 @@ def run_fusion(
     print(f"  ├ singletons: {singletons}")
     print(f"  ├ multi-fonte: {multi}")
     print(f"  ├ overlap medio: {avg_overlap:.1f} POI per cluster")
-    print(f"  ├ duplicati: {removed} ({removed/len(all_pois)*100:.1f}%)")
+    pct_dedup = (removed / len(all_pois) * 100) if all_pois else 0.0
+    print(f"  ├ duplicati: {removed} ({pct_dedup:.1f}%)")
 
     _print_progress(65, "Merge in corso...")
     t0 = time.time()
@@ -186,7 +212,8 @@ def run_fusion(
     print(f"  ├ raw: {len(all_pois)} POI da {n_sources} fonti")
     print(f"  ├ cluster: {len(clusters)}")
     print(f"  ├ finali: {len(merged)}")
-    print(f"  ├ rimossi: {removed_after_merge} ({removed_after_merge/len(all_pois)*100:.1f}%)")
+    pct_merge = (removed_after_merge / len(all_pois) * 100) if all_pois else 0.0
+    print(f"  ├ rimossi: {removed_after_merge} ({pct_merge:.1f}%)")
     _print_cat_counts(merged)
 
     _print_progress(78, "Export CSV...")
