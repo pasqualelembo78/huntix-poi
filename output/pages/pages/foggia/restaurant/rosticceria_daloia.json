@@ -3,7 +3,7 @@
   "name": "Rosticceria D'Aloia",
   "name_it": "Rosticceria D'Aloia",
   "name_en": "Rosticceria D'Aloia",
-  "lat": 41.465602,
+  "lat": 41.4656023,
   "lng": 15.538203,
   "category": "restaurant",
   "building_type": "RESTAURANT",
@@ -30,19 +30,19 @@
     "overture": null
   },
   "provenance": {
-    "name": "existing",
-    "name_it": "existing",
-    "name_en": "existing",
-    "lat": "existing",
-    "lng": "existing",
-    "street": "existing",
-    "housenumber": "existing",
-    "city": "existing",
-    "postcode": "existing",
-    "phone": "existing",
-    "email": "existing",
-    "website": "existing",
-    "hours": "existing",
-    "description": "existing"
+    "name": "osm",
+    "name_it": "osm",
+    "name_en": "osm",
+    "lat": "osm",
+    "lng": "osm",
+    "street": "osm",
+    "housenumber": "osm",
+    "city": "osm",
+    "postcode": "osm",
+    "phone": "osm",
+    "email": "osm",
+    "website": "osm",
+    "hours": "osm",
+    "description": "osm"
   }
 }
