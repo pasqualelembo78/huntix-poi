@@ -87,8 +87,8 @@ def _run_source(ext, categories, collected, output_dir, phase_pct_start: float, 
 
     progress_callback = getattr(ext, "set_progress_callback", None)
     if progress_callback:
-        def on_tile(pct_tile):
-            overall = phase_pct_start + (phase_pct_end - phase_pct_start) * pct_tile / 100
+        def on_tile(osm_pct):
+            overall = phase_pct_start + (phase_pct_end - phase_pct_start) * osm_pct / 100
             _print_progress(overall, f"[{src_index}/{total_sources}] {name}{gap_label}")
         ext.set_progress_callback(on_tile)
 

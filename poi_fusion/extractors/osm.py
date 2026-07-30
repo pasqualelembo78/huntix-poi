@@ -150,23 +150,18 @@ class OsmExtractor(BaseExtractor):
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         full_bbox = self.bbox or "41.5,12,47.5,19"
-        total = 0
-        for poi in self._extract_bbox(categories, full_bbox, depth=0, progress=(1, 1)):
-            total += 1
-            yield poi
+        yield from self._extract_bbox(categories, full_bbox, depth=0, pct_range=(0, 100))
 
     def _extract_bbox(self, categories: list[str], bbox: str, depth: int,
-                      progress: tuple[int, int] | None = None) -> Iterator[UnifiedPoi]:
+                      pct_range: tuple[float, float]) -> Iterator[UnifiedPoi]:
         query = _build_osm_query(categories, bbox)
         try:
-            if progress and self._progress_cb:
-                before = (progress[0] - 0.5) / progress[1] * 100
-                self._progress_cb(max(0, before))
+            if self._progress_cb:
+                self._progress_cb(pct_range[0])
             elements = _run_overpass(query)
-            if progress and self._progress_cb:
-                after = progress[0] / progress[1] * 100
-                self._progress_cb(min(100, after))
-            time.sleep(2)
+            if self._progress_cb:
+                self._progress_cb(pct_range[1])
+            time.sleep(5)
             for el in elements:
                 tags = el.get("tags", {})
                 cat = _category_from_tags(tags, categories)
@@ -176,20 +171,42 @@ class OsmExtractor(BaseExtractor):
                 if poi:
                     yield poi
         except urllib.error.HTTPError as e:
-            if e.code in (504, 429) and depth < 3:
-                split = min(TILE_SPLIT_FIRST * (2 ** depth), TILE_SPLIT_MAX)
-                subtiles = _split_bbox(bbox, split, split)
-                total = len(subtiles)
-                print(f"    [SPLIT] {total} tile (depth {depth})")
-                for idx, sub_bbox in enumerate(subtiles):
+            if e.code == 429:
+                print(f"\n    [RATE-LIMIT] aspetto 30s...")
+                time.sleep(30)
+                if self._progress_cb:
+                    self._progress_cb(pct_range[0])
+                try:
+                    elements = _run_overpass(query)
                     if self._progress_cb:
-                        self._progress_cb((idx / total) * 100)
+                        self._progress_cb(pct_range[1])
+                    time.sleep(5)
+                    for el in elements:
+                        tags = el.get("tags", {})
+                        cat = _category_from_tags(tags, categories)
+                        if not cat:
+                            continue
+                        poi = self._el_to_poi(el, tags, cat)
+                        if poi:
+                            yield poi
+                    return
+                except Exception:
+                    pass
+
+            if e.code in (504, 429) and depth < 2:
+                n = TILE_SPLIT_FIRST * (depth + 1)
+                subtiles = _split_bbox(bbox, n, n)
+                total = len(subtiles)
+                print(f"\n    [SPLIT] {total} tile (depth {depth})")
+                for idx, sub_bbox in enumerate(subtiles):
+                    sub_start = pct_range[0] + (pct_range[1] - pct_range[0]) * idx / total
+                    sub_end = pct_range[0] + (pct_range[1] - pct_range[0]) * (idx + 1) / total
                     yield from self._extract_bbox(categories, sub_bbox, depth + 1,
-                                                  progress=(idx + 1, total))
+                                                  pct_range=(sub_start, sub_end))
             else:
-                print(f"    [SKIP] {e}")
+                print(f"\n    [SKIP] {e}")
         except Exception as e:
-            print(f"    [SKIP] {e}")
+            print(f"\n    [SKIP] {e}")
 
     def _el_to_poi(self, el: dict, tags: dict, cat: str) -> UnifiedPoi | None:
         lat = el.get("lat") or el.get("center", {}).get("lat")
