@@ -86,7 +86,7 @@ class OsmExtractor(BaseExtractor):
     def __init__(self, bbox: str | None = None):
         self.bbox = bbox
 
-    def extract(self, categories: list[str], regions: list[str] | None = None) -> Iterator[UnifiedPoi]:
+    def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         bbox = self.bbox or "41.5,12,47.5,19"  # default Italy
         query = _build_osm_query(categories, bbox)
         elements = _run_overpass(query)

@@ -1,14 +1,16 @@
 from __future__ import annotations
+import json
 import os
 import subprocess
 import tempfile
 from typing import Iterator
 
-from poi_fusion.schema import UnifiedPoi, Source, CATEGORY_MAP
+from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
+from poi_fusion.regions import Region
 
 
-DUCKDB_SCRIPT = """
+DUCKDB_SCRIPT_TEMPLATE = """
 INSTALL httpfs;
 LOAD httpfs;
 INSTALL spatial;
@@ -30,7 +32,16 @@ SELECT * EXCLUDE (bbox, geometry),
 FROM read_parquet('s3://overturemaps-us-west-2/release/2026-07-22.0/theme=places/type=place/*',
                   filename=true, hive_partitioning=true)
 WHERE UPPER(REPLACE(REPLACE(admin_region, '-', ''), '_', '')) LIKE '%IT%'
-  AND confidence > 0.5;
+  AND confidence > 0.5
+  {region_filter};
+"""
+
+
+REGION_FILTER = """
+  AND subdivisions IS NOT NULL
+  AND list_contains(list_filter(
+       subdivisions, x -> x IS NOT NULL
+     ), '{region_name}')
 """
 
 
@@ -64,10 +75,11 @@ def _overture_category(basic_cat: str, categories_list: list | None) -> str | No
 class OvertureExtractor(BaseExtractor):
     source = Source.OVERTURE
 
-    def __init__(self, db_path: str | None = None):
+    def __init__(self, db_path: str | None = None, region: Region | None = None):
         self.db_path = db_path or os.path.join(tempfile.gettempdir(), "overture_places.duckdb")
+        self.region = region
 
-    def extract(self, categories: list[str], regions: list[str] | None = None) -> Iterator[UnifiedPoi]:
+    def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         if not self._ensure_loaded():
             return
 
@@ -81,8 +93,12 @@ class OvertureExtractor(BaseExtractor):
         if os.path.exists(self.db_path) and os.path.getsize(self.db_path) > 1_000_000:
             return True
         try:
+            region_filter = ""
+            if self.region and self.region.overture_region:
+                region_filter = REGION_FILTER.format(region_name=self.region.overture_region)
+            script = DUCKDB_SCRIPT_TEMPLATE.format(region_filter=region_filter)
             subprocess.run(
-                ["duckdb", self.db_path, "-c", DUCKDB_SCRIPT],
+                ["duckdb", self.db_path, "-c", script],
                 capture_output=True, timeout=600,
             )
             return True
@@ -104,7 +120,6 @@ class OvertureExtractor(BaseExtractor):
             )
             if result.returncode != 0:
                 return
-            import json
             rows = json.loads(result.stdout)
             for row in rows:
                 poi = self._row_to_poi(row, cat)

@@ -5,8 +5,9 @@ import urllib.parse
 import urllib.request
 from typing import Iterator
 
-from poi_fusion.schema import UnifiedPoi, Source, CATEGORY_MAP
+from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
+from poi_fusion.regions import Region
 
 
 SPARQL_ENDPOINT = "https://query.wikidata.org/sparql"
@@ -35,6 +36,7 @@ SELECT ?item ?itemLabel ?itemDescription ?coord ?website ?phone ?email ?street ?
   ?item wdt:P31/wdt:P279* ?type ;
         wdt:P625 ?coord ;
         wdt:P17 wd:Q38 .
+  {region_filter}
   OPTIONAL {{ ?item wdt:P856 ?website. }}
   OPTIONAL {{ ?item wdt:P1329 ?phone. }}
   OPTIONAL {{ ?item wdt:P968 ?email. }}
@@ -49,14 +51,17 @@ LIMIT 10000
 """.strip()
 
 
-def _build_sparql(categories: list[str]) -> str:
+def _build_sparql(categories: list[str], region: Region | None) -> str:
     cat_values = "\n    ".join(
         f"(wd:{wd_id} \"{cat}\")"
         for cat in categories
         for wd_label, wd_cat in [WD_CATEGORIES.get(cat, ("", ""))]
         if wd_label
     )
-    return SPARQL_TEMPLATE.format(cat_values=cat_values)
+    region_filter = ""
+    if region:
+        region_filter = f"?item wdt:P131/wdt:P131* wd:{region.wikidata_qid} ."
+    return SPARQL_TEMPLATE.format(cat_values=cat_values, region_filter=region_filter)
 
 
 def _run_sparql(query: str) -> list[dict]:
@@ -76,15 +81,18 @@ def _coord_from_wkt(wkt: str) -> tuple[float, float] | None:
     import re
     m = re.search(r"Point\(([\d.-]+)\s+([\d.-]+)\)", wkt)
     if m:
-        return float(m.group(2)), float(m.group(1))  # (lat, lng) from Point(lng lat)
+        return float(m.group(2)), float(m.group(1))
     return None
 
 
 class WikidataExtractor(BaseExtractor):
     source = Source.WIKIDATA
 
-    def extract(self, categories: list[str], regions: list[str] | None = None) -> Iterator[UnifiedPoi]:
-        query = _build_sparql(categories)
+    def __init__(self, region: Region | None = None):
+        self.region = region
+
+    def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
+        query = _build_sparql(categories, self.region)
         results = _run_sparql(query)
         time.sleep(1)
 

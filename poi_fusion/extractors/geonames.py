@@ -1,16 +1,17 @@
 from __future__ import annotations
 import json
 import time
-import urllib.request
 import urllib.parse
+import urllib.request
 from typing import Iterator
 
-from poi_fusion.schema import UnifiedPoi, Source, CATEGORY_MAP
+from poi_fusion.schema import UnifiedPoi, Source
 from poi_fusion.extractors.base import BaseExtractor
+from poi_fusion.regions import Region
 
 
 GEONAMES_API = "http://api.geonames.org/searchJSON"
-GEONAMES_USER = "demo"  # Replace with real GeoNames username
+GEONAMES_USER = "demo"
 
 
 GEONAMES_FEATURE_CODES = {
@@ -29,10 +30,11 @@ GEONAMES_FEATURE_CODES = {
 class GeoNamesExtractor(BaseExtractor):
     source = Source.GEONAMES
 
-    def __init__(self, username: str = GEONAMES_USER):
+    def __init__(self, username: str = GEONAMES_USER, region: Region | None = None):
         self.username = username
+        self.region = region
 
-    def extract(self, categories: list[str], regions: list[str] | None = None) -> Iterator[UnifiedPoi]:
+    def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         for cat in categories:
             yield from self._query_category(cat)
 
@@ -52,6 +54,8 @@ class GeoNamesExtractor(BaseExtractor):
                 "username": self.username,
                 "style": "FULL",
             }
+            if self.region:
+                params["adminCode1"] = self.region.iso_code.split("-")[-1]
             url = f"{GEONAMES_API}?{urllib.parse.urlencode(params)}"
             try:
                 req = urllib.request.Request(url, headers={"User-Agent": "Huntix-POI-Fusion/1.0"})
@@ -65,7 +69,7 @@ class GeoNamesExtractor(BaseExtractor):
                 start_row += max_rows
                 if start_row >= total:
                     break
-                time.sleep(1)  # rate limit
+                time.sleep(1)
             except Exception as e:
                 print(f"  [WARN] GeoNames query failed for {cat} at row {start_row}: {e}")
                 break
