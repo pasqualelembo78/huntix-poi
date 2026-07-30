@@ -70,8 +70,8 @@ OSM_QUERIES = {
     "restaurants":'"amenity"~"restaurant|fast_food|pizzeria"',
     "bars_cafes": '"amenity"~"bar|cafe|pub"',
     "gyms":       '"leisure"="fitness_centre"',
-    "government": '"amenity"~"townhall|courthouse|registration_hall|job_centre"|"office"="government"',
-    "banks":      '"amenity"="banking"',
+    "government": '"amenity"~"townhall|courthouse|registration_hall|job_centre"',
+    "banks":      '"amenity"="bank"',
     "post_offices":'"amenity"="post_office"',
     "libraries":  '"amenity"="library"',
 }
@@ -281,6 +281,16 @@ def osm_category_query(cat_key, bbox):
     if cat_key == "landmarks":
         parts = ";".join([
             f'node[{t}]({bbox});way[{t}]({bbox})' for t in OSM_LANDMARK_TAGS
+        ])
+        return f'[out:json][timeout:120];({parts});out center tags;'
+    if cat_key == "government":
+        gov_tags = [
+            '"amenity"="townhall"', '"amenity"="courthouse"',
+            '"amenity"="registration_hall"', '"amenity"="job_centre"',
+            '"office"="government"',
+        ]
+        parts = ";".join([
+            f'node[{t}]({bbox});way[{t}]({bbox})' for t in gov_tags
         ])
         return f'[out:json][timeout:120];({parts});out center tags;'
     tq = OSM_QUERIES[cat_key]
