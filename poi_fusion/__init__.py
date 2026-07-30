@@ -1,5 +1,6 @@
 from __future__ import annotations
 import os
+import sys
 import time
 import traceback
 
@@ -20,6 +21,18 @@ SOURCE_PRIORITY = [
     ("GeoNames",  lambda r: GeoNamesExtractor(region=r)),
 ]
 
+TOTAL_PHASES = 5
+
+
+def _print_progress(pct: float, label: str):
+    bar_len = 30
+    filled = int(bar_len * pct / 100)
+    bar = "█" * filled + "░" * (bar_len - filled)
+    sys.stdout.write(f"\r  [{bar}] {pct:.0f}%  {label}    ")
+    sys.stdout.flush()
+    if pct >= 100:
+        sys.stdout.write("\n")
+
 
 def _print_cat_counts(pois: list[UnifiedPoi], label: str = ""):
     if not pois:
@@ -31,7 +44,7 @@ def _print_cat_counts(pois: list[UnifiedPoi], label: str = ""):
     print(f"  {label}[{'  '.join(parts)}]")
 
 
-def _run_source(ext, categories, collected, output_dir):
+def _run_source(ext, categories, collected, output_dir, phase_pct_start: float, phase_pct_end: float):
     name = type(ext).__name__
 
     cats_to_fetch = categories
@@ -43,7 +56,6 @@ def _run_source(ext, categories, collected, output_dir):
         missing = [c for c in categories if c not in cats_with_data]
         if missing:
             cats_to_fetch = missing
-            print(f"  -> {name} filling gaps: {missing}")
         else:
             low_cats = []
             for cat in categories:
@@ -52,14 +64,22 @@ def _run_source(ext, categories, collected, output_dir):
                     low_cats.append(cat)
             if low_cats and len(low_cats) < len(categories):
                 cats_to_fetch = low_cats
-                print(f"  -> {name} boosting low: {low_cats}")
-
-    if cats_to_fetch:
-        print(f"  -> {name} fetching: {cats_to_fetch}")
 
     count = 0
     cat_count: dict[str, int] = {}
     t0 = time.time()
+    last_pct = -1
+
+    # Hook into OSM progress
+    progress_callback = getattr(ext, "set_progress_callback", None)
+    if progress_callback:
+        def on_tile(pct_tile):
+            src_share = 0.8  # tile progress = 80% of source time
+            overall = phase_pct_start + (phase_pct_end - phase_pct_start) * src_share * pct_tile / 100
+            _print_progress(overall, f"{name} ({cats_to_fetch})")
+
+        ext.set_progress_callback(on_tile)
+
     try:
         for poi in ext.extract(cats_to_fetch):
             collected.append(poi)
@@ -67,10 +87,12 @@ def _run_source(ext, categories, collected, output_dir):
             cat_count[poi.category] = cat_count.get(poi.category, 0) + 1
     except Exception as e:
         traceback.print_exc()
-        print(f"  [FAIL] {name}: {e}")
+        print(f"\n  [FAIL] {name}: {e}")
+
     elapsed = time.time() - t0
+    _print_progress(phase_pct_end, f"{name}: {count} POI in {elapsed:.1f}s")
     parts = [f"{c}: {n}" for c, n in sorted(cat_count.items()) if n > 0]
-    print(f"  [{name}] {count} POIs in {elapsed:.1f}s  [{', '.join(parts)}]")
+    print(f"  {', '.join(parts)}")
     return count
 
 
@@ -88,62 +110,51 @@ def run_fusion(
     print(f"Ordine fonti: {', '.join(name for name, _ in SOURCE_PRIORITY)}")
 
     all_pois: list[UnifiedPoi] = []
+    n_sources = len(SOURCE_PRIORITY)
+    extract_pct = 50  # extraction = 50% of total progress
 
-    for src_name, src_factory in SOURCE_PRIORITY:
+    for idx, (src_name, src_factory) in enumerate(SOURCE_PRIORITY):
         ext = src_factory(region)
-        _run_source(ext, categories, all_pois, output_dir)
+        pct_start = (idx / n_sources) * extract_pct
+        pct_end = ((idx + 1) / n_sources) * extract_pct
+        _run_source(ext, categories, all_pois, output_dir, pct_start, pct_end)
 
-    print(f"\n{'='*50}")
-    print(f"FASE 2: DEDUP")
-    print(f"{'='*50}")
-    print(f"Raw POIs totali: {len(all_pois)}")
-    _print_cat_counts(all_pois, "per categoria: ")
-
+    _print_progress(52, "Dedup in corso...")
     matcher = PoiMatcher(max_distance_m=80)
     clusters = matcher.cluster(all_pois)
+
     singletons = sum(1 for c in clusters if len(c) == 1)
     multi = sum(1 for c in clusters if len(c) > 1)
-    print(f"Cluster: {len(clusters)} (singoli: {singletons}, multi-fonte: {multi})")
-    if multi > 0:
-        overlap_sizes = [len(c) for c in clusters if len(c) > 1]
-        print(f"  overlap max: {max(overlap_sizes)}, medio: {sum(overlap_sizes)/len(overlap_sizes):.1f}")
+    _print_progress(62, f"Dedup: {len(clusters)} cluster ({singletons} singoli, {multi} multi-fonte)")
 
-    print(f"\n{'='*50}")
-    print(f"FASE 3: MERGE")
-    print(f"{'='*50}")
+    _print_progress(65, "Merge in corso...")
     merger = PoiMerger()
     merged = [merger.merge_cluster(c) for c in clusters]
-    print(f"Merged POIs: {len(merged)}")
-    _print_cat_counts(merged, "per categoria: ")
 
     removed = len(all_pois) - len(merged)
-    if removed:
-        print(f"Rimossi {removed} duplicati ({removed/len(all_pois)*100:.1f}%)")
+    _print_progress(75, f"Merge: {len(merged)} POI ({removed} duplicati rimossi)")
 
-    print(f"\n{'='*50}")
-    print(f"FASE 4: EXPORT")
-    print(f"{'='*50}")
+    _print_progress(78, "Export CSV...")
     csv_path = os.path.join(output_dir, "poi.csv")
     export_csv(merged, csv_path)
-    print(f"CSV (8-col): {csv_path}")
 
     csv_ext_path = os.path.join(output_dir, "poi_extended.csv")
     export_csv_extended(merged, csv_ext_path)
-    print(f"CSV extended: {csv_ext_path}")
+    _print_progress(85, "Export JSON pages...")
 
     json_dir = os.path.join(output_dir, "pages")
     n_cities = len(set(p.city or "unknown" for p in merged))
     export_json_pages(merged, json_dir)
-    print(f"JSON pages: {json_dir}/ ({len(merged)} pagine, {n_cities} città)")
+    _print_progress(92, "Export report...")
 
     report_path = os.path.join(output_dir, "provenance_report.json")
     export_provenance_report(clusters, report_path)
-    print(f"Provenance report: {report_path}")
 
-    print(f"\n{'='*50}")
-    print(f"FASE 5: INTEGRITY CHECK")
-    print(f"{'='*50}")
+    _print_progress(95, "Integrity check...")
     integrity = check_integrity(merged)
+    _print_progress(100, "Completato!")
+    print()
+
     integrity.print_report()
 
     return merged, integrity

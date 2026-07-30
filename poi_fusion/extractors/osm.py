@@ -143,6 +143,10 @@ class OsmExtractor(BaseExtractor):
 
     def __init__(self, bbox: str | None = None):
         self.bbox = bbox
+        self._progress_cb = None
+
+    def set_progress_callback(self, cb):
+        self._progress_cb = cb
 
     def extract(self, categories: list[str]) -> Iterator[UnifiedPoi]:
         full_bbox = self.bbox or "41.5,12,47.5,19"
@@ -155,12 +159,13 @@ class OsmExtractor(BaseExtractor):
                       progress: tuple[int, int] | None = None) -> Iterator[UnifiedPoi]:
         query = _build_osm_query(categories, bbox)
         try:
-            if progress:
-                p = f" [{progress[0]}/{progress[1]}]" if progress[1] > 1 else ""
-            else:
-                p = ""
+            if progress and self._progress_cb:
+                before = (progress[0] - 0.5) / progress[1] * 100
+                self._progress_cb(max(0, before))
             elements = _run_overpass(query)
-            count = len(elements)
+            if progress and self._progress_cb:
+                after = progress[0] / progress[1] * 100
+                self._progress_cb(min(100, after))
             time.sleep(2)
             for el in elements:
                 tags = el.get("tags", {})
@@ -177,6 +182,8 @@ class OsmExtractor(BaseExtractor):
                 total = len(subtiles)
                 print(f"    [SPLIT] {total} tile (depth {depth})")
                 for idx, sub_bbox in enumerate(subtiles):
+                    if self._progress_cb:
+                        self._progress_cb((idx / total) * 100)
                     yield from self._extract_bbox(categories, sub_bbox, depth + 1,
                                                   progress=(idx + 1, total))
             else:
