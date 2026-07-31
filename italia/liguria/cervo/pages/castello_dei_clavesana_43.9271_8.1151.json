@@ -1,0 +1,41 @@
+{
+  "banner": {
+    "icon": "🏰",
+    "title": "Castello dei Clavesana",
+    "subtitle": "Monumento",
+    "color": "#5D4037"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Informazioni",
+      "content": "Benvenuto a {name}.\nUno dei luoghi più affascinanti da visitare."
+    },
+    {
+      "type": "action",
+      "title": "Scatta una Foto",
+      "emoji": "📷",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "action",
+      "title": "Leggi la Storia",
+      "emoji": "📖",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.cervo.com/?it%2Fmuseo-etnografico-del-ponente-ligure-%60franco-ferrero%60-e-la-mostra-permanente-%60donne-di-liguria%2Fil-museo-etnografico-del-ponente-ligure-%60franco-ferrero%60%2F&q=gAbjs5IbOKP6S1Ma%2F1liUA%3D%3D#T_42"
+    }
+  ]
+}

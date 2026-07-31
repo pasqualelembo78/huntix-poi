@@ -1,0 +1,41 @@
+{
+  "banner": {
+    "icon": "🏰",
+    "title": "Castello di Schio",
+    "subtitle": "Monumento",
+    "color": "#5D4037"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Informazioni",
+      "content": "Benvenuto a {name}.\nUno dei luoghi più affascinanti da visitare."
+    },
+    {
+      "type": "action",
+      "title": "Scatta una Foto",
+      "emoji": "📷",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "action",
+      "title": "Leggi la Storia",
+      "emoji": "📖",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.comunedischio.it/webcam/foto.php?foto=3a8e57c4dee6c5e7542ecde67e2cda7e&fs=1&rg=1&ft=1"
+    }
+  ]
+}

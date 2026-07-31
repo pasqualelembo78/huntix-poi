@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "Armonia Danza e Studio",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=Armonia+Danza+e+Studio&stick=H4sIAAAAAAAA_-NgU1I1qDA0NjROS0k2Skm0NDJNTEyyMqhINTE0sExJMzc3MDZOM0xLXcQq5liUm5-XmajgkphXlaiQqhBcUpqSmQ8AguZfsUIAAAA&hl=it&mat=CdyKyFxGwW0hElYBEKoLaQ2_chPObhmb410GJPn-kPX31UW-sWWcy_sEEEqQzL_omnEb7iTpOiBpf4aXNbjEY2_7-acUNFOyHkDTRLZhSRkMsv68Czqc6EawuAOA2qpO3w&authuser=0&ved=2ahUKEwjYyZLEod6HAxVXgf0HHdXEMrQQ-MgIegQIIxAd"
+    }
+  ]
+}

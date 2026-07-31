@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Bar interno ospedale Busto Arsizio",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=bar+ospedale+busto&sxsrf=ALiCzsZkWlJj9U20WTwxcYlNSxUyKFCBHg%3A1659121238179&source=hp&ei=Vi7kYqvrB66FhbIPrNyqgAQ&gs_ssp=eJzj4tVP1zc0TM5NS0lJMTYyYLRSNagwMbcws0hKTTYyNDK0ME8ytzKoSDROM08xN00xTklKS0mzMPYSSkosUsgvLkhNScxJVUgqLS7JBwANyhZt&oq=bar+ospedale+busto&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyCwguEIAEEMcBEK8BMgYIABAeEBYyBggAEB4QFjIFCCEQoAE6BwgjEOoCECc6DQguEMcBEK8BEOoCECc6BAgjECc6CgguEMcBEK8BEEM6BAgAEEM6CwguEIAEEMcBENEDOgsIABCABBCxAxCDAToKCC4QxwEQrwEQJzoFCAAQgAQ6CAgAEIAEEMkDOgUIABCSAzoLCAAQgAQQsQMQyQM6CAgAEIAEELEDOhEILhCABBCxAxCDARDHARCvAToICAAQHhAWEApQlAhY_0Zg4VFoAXAAeAGAAf4JiAGXN5IBDjEuMTEuMS4zLjYtMi4ymAEAoAEBsAEP&sclient=mobile-gws-wiz-hp"
+    }
+  ]
+}

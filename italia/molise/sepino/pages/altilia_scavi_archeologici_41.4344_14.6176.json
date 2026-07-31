@@ -1,0 +1,41 @@
+{
+  "banner": {
+    "icon": "🏰",
+    "title": "Altilia scavi archeologici",
+    "subtitle": "Monumento",
+    "color": "#5D4037"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Informazioni",
+      "content": "Benvenuto a {name}.\nUno dei luoghi più affascinanti da visitare."
+    },
+    {
+      "type": "action",
+      "title": "Scatta una Foto",
+      "emoji": "📷",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "action",
+      "title": "Leggi la Storia",
+      "emoji": "📖",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://archeologicamolise.beniculturali.it/index.php?en/185/sepino-la-citt-romana="
+    }
+  ]
+}

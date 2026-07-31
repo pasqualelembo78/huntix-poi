@@ -1,0 +1,41 @@
+{
+  "banner": {
+    "icon": "🏰",
+    "title": "Tempio del Divo Romolo",
+    "subtitle": "Monumento",
+    "color": "#5D4037"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Informazioni",
+      "content": "Benvenuto a {name}.\nUno dei luoghi più affascinanti da visitare."
+    },
+    {
+      "type": "action",
+      "title": "Scatta una Foto",
+      "emoji": "📷",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "action",
+      "title": "Leggi la Storia",
+      "emoji": "📖",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=184229&pagename=57"
+    }
+  ]
+}

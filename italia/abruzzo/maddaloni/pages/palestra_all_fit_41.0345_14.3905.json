@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "Palestra All Fit",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F393755422755%3Ftext%3DCiao%252521%252520Vorrei%252520maggiori%252520informazioni%252520sul%252520voucher%252520sportivo%252520della%252520Regione%252520Campania%26fbclid%3DPAZXh0bgNhZW0CMTEAAacZA5kPHp5obMyHRhp9c7p5EPK1AR9wS4HGNcr-EL9JaBNCiSovBJnQOTZEOA_aem_SRkKk-whGIlsZJ8EROpoNg&e=AT0sLfUrHrS2o9slkM4qhDx8LH1PEbcKVi6Mt02G3zG4yj1ck08XAa8tv7U5itzdAx8vlefzWDDxdZKbOi4YRVfl1rHMOzL3aoYMQ7Q"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Mangia e Bevi Restaurant",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.consiglionazionaleforense.it/web/cnf/ricerca-avvocati?p_auth=wxnyx4SM&p_p_id=ricercaunificata_WAR_cnfricercaunificataportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Rifugio Bar",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=rifugiobar&rlz=1CDGOYI_enSI964SI964&oq=rifugiobar&aqs=chrome..69i57j46i13i175i199i512l2j0i13i512j46i13i175i199i512l5.2141j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8#ip=1&lpg=cid:CgIgAQ%3D%3D&wptab=si:AEcPFx7eHRJU0tWbjC5cc2C2rVygfPuoetC2JDc0IDqLp89f-DhBGPW6RobpMRYpzm1CMwxwyLfGQH0KOsldrOBLucy4XabihC8e1ArpqVcrZF_G-SoHWs1ol7ZeSQKHMaYUU-lu8oL3Jnzk9rCK6UpiIebgYWRhDrLqUhq7nzYntqOUs6uAfIM%3D"
+    }
+  ]
+}

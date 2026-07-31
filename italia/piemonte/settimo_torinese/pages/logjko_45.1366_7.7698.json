@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Logjko",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=logjko+2.0&sca_esv=555d3cc0e65e2078&sxsrf=ADLYWIL-4NOfebj7LuEG5fYitdb1_qQ0_Q%3A1730143943927&source=hp&ei=x-YfZ4PTNduCi-gPq9q64A4&iflsig=AL9hbdgAAAAAZx_011w43kpCgPhIaxipg0tJoH_LDlqj&gs_ssp=eJzj4tVP1zc0LLTMMiguTDMwYLRSNagwMbewMDdMNTZJNjFLTk42tDKosDBINjFMS042s0gzTkw0S_biyslPz8rOVzDSMwAAYJ8SlQ&oq=logjko&gs_lp=Egdnd3Mtd2l6IgZsb2dqa28qAggAMgsQLhiABBjHARivATILEC4YgAQYxwEYrwEyBxAAGIAEGAoyBxAAGIAEGAoyEBAuGIAEGMcBGAoYjgUYrwEyDRAuGIAEGMcBGAoYrwEyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGApIpSlQuQdY8RdwAXgAkAEAmAGlAaABogWqAQM0LjK4AQHIAQD4AQGYAgegAskFqAIKwgIQEC4YxwEYJxjqAhiOBRivAcICBxAjGCcY6gLCAg0QLhjRAxjHARgnGOoCwgITEC4YgAQYxwEYJxiKBRiOBRivAcICBBAjGCfCAgoQIxiABBgnGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjRAxjHAcICERAuGIAEGLEDGIMBGMcBGK8BwgIOEC4YgAQYxwEYjgUYrwHCAgoQABiABBhDGIoFwgITEC4YgAQYsQMY0QMYQxjHARiKBcICCxAuGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAg0QLhiABBhDGNQCGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICDhAuGIAEGLEDGMcBGK8BwgIQEC4YgAQY0QMYQxjHARiKBcICBRAuGIAEwgIFEAAYgATCAgoQABiABBjJAxgKwgILEAAYgAQYkgMYigWYAwySBwM0LjOgB-Jb&sclient=gws-wiz#vhid=33:/g/11q9j0sqf0&vssid=menu-viewer-entrypoint"
+    }
+  ]
+}

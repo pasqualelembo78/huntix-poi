@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Michele e Monica Semplicemente Servito",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fsemplicementeservito.it%2FPresentazione.pdf%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaZVel44Zv5yhwNFRnzuD2vshJTjOAfkUHbyC-RTuoPO7q7-Syr1rwQ1l6E_aem_Z2Mw6ZOOCMseNC-Fi7f-ug&e=AT35oDBVMJx055pvv5sGESUfR31Efp4kDRbieVhgIUbG_DecsRKYtaoWqb5E4SFLI4hiDOK4yHEDbGzcl-xmbwjNVE0xvMHiGWnPjA"
+    }
+  ]
+}

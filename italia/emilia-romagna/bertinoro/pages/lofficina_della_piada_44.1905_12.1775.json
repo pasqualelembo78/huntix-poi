@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "L'Officina Della Piada",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?client=ms-android-xiaomi-terr2-rso2&sca_esv=c6485aeb6a717754&sxsrf=AE3TifN8xdArzK6SFvvuJCaAjwigLB4-WQ%3A1757873069658&q=men%C3%B9+l%27officina+della+piada&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzQFV_Kw0s9ZdUXrWSpJ75-STUQbjtYq4YK1Dxq4TW2vALhKgkMds91RgKp10GeasouVCTGBz10Al-_N9VVCqi8dZVftN6fsJjKRydEnEh5ROQ5JufnZgyiDLD7Fe71XxVOORuJOVdvXmsIBHzlKoQiMcoq6U&si=AMgyJEsXJrqhozHurZVJRsmQipUUsugTarH9LKHbghBLYaD2QHaa7GxqPpwQDmDKpmETeR3Y-SYmtIUK0Jn3oiIl4SkjSzg6jC3_FDa-5e-4VN2mSuKkbIMp5I75dU-NzwoQLmfcLiGJM9wae5c_ooas5LtO6CVF5w%3D%3D&sa=X&sqi=2&ved=2ahUKEwiygoK_69iPAxVOlP0HHWvJH6QQxKsJKAB6BAgPEAE&ictx=1"
+    }
+  ]
+}

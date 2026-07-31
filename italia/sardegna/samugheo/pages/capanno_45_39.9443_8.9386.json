@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Capanno 45",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://capanno45.wixsite.com/capanno-45?fbclid=PAAabod3k8SlTG7cJtVpE8JCnBdIIXbtyK6R2nJFdlbQ2mCfIBA9PLAofecS4_aem_Ac8Nsf-1vUW36tUwDh81rIDvyTy3JG5ZqM1lYm0ITq0E2qEVS5fW8GXYGx_RWvVQ5oM"
+    }
+  ]
+}

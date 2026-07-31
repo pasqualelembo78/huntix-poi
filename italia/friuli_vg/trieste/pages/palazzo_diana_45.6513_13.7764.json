@@ -1,0 +1,41 @@
+{
+  "banner": {
+    "icon": "🏰",
+    "title": "Palazzo Diana",
+    "subtitle": "Monumento",
+    "color": "#5D4037"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Informazioni",
+      "content": "Benvenuto a {name}.\nUno dei luoghi più affascinanti da visitare."
+    },
+    {
+      "type": "action",
+      "title": "Scatta una Foto",
+      "emoji": "📷",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "action",
+      "title": "Leggi la Storia",
+      "emoji": "📖",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.visit-trieste.it/en/visita/arte-e-cultura/65-le-architetture/stile-eclettico/111-palazzo-della-ras.html"
+    }
+  ]
+}

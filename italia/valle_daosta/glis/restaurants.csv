@@ -1,3 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.309443,7.969565,osm_migros_take_away_46.3094_7.9696,Migros Take Away,ristorante,ristorante,
-46.316056,7.985873,osm_saltina_46.3161_7.9859,Saltina,ristorante,ristorante,
+# glis -- restaurants
+46.308870,7.969508,ov_migros_take_away_46.3089_7.9695,Migros Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/glis/pages/migros_take_away_46.3089_7.9695.json,custom
+46.311028,7.977563,ov_restaurant_terminus_46.3110_7.9776,Restaurant Terminus,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/glis/pages/restaurant_terminus_46.3110_7.9776.json,custom
+46.316056,7.985873,osm_saltina_46.3161_7.9859,Saltina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/glis/pages/saltina_46.3161_7.9859.json,custom

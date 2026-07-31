@@ -1,0 +1,61 @@
+{
+  "banner": {
+    "icon": "📮",
+    "title": "Ufficio postale Collestrada",
+    "subtitle": "Ufficio Postale",
+    "color": "#2196F3"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Servizi",
+      "items": [
+        {
+          "name": "Posta",
+          "price": "€1,00",
+          "emoji": "📬",
+          "action": {
+            "type": "service",
+            "need": "social",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Pacchi",
+          "price": "€2,00",
+          "emoji": "📦",
+          "action": {
+            "type": "service",
+            "need": "social",
+            "gain": 10
+          }
+        },
+        {
+          "name": "Documenti",
+          "price": "€1,50",
+          "emoji": "✏️",
+          "action": {
+            "type": "service",
+            "need": "social",
+            "gain": 10
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Ven: 08:00-13:00 / 14:00-17:30\nSab: 08:00-12:30"
+    },
+    {
+      "type": "action",
+      "title": "Invia Pacchetto",
+      "emoji": "📮",
+      "action": {
+        "type": "service",
+        "need": "social",
+        "gain": 20
+      }
+    }
+  ]
+}

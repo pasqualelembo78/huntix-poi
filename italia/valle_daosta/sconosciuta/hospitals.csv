@@ -1,20 +1,21 @@
 # lat,lng,id,name,building_type,type,url,page_type
-45.939276,6.714928,osm_sancellemoz_45.9393_6.7149,Sancellemoz,hospital,hospital,
-45.755019,7.737931,osm_casa_di_cura_per_la_salute_della_mente_45.7550_7.7379,Casa Di Cura Per La Salute Della Mente,hospital,hospital,
-45.714524,7.881750,osm_ambulatorio_45.7145_7.8818,Ambulatorio,hospital,hospital,
-45.825828,7.714936,osm_volontari_soccorso_valle_d_ayas_45.8258_7.7149,Volontari Soccorso Valle d'Ayas,hospital,hospital,
-45.584293,7.812177,osm_ambulatorio_medico_45.5843_7.8122,Ambulatorio Medico,hospital,hospital,
-45.715167,7.737291,osm_ambulatorio_comunale___sede_provvisoria__45.7152_7.7373,Ambulatorio Comunale - sede provvisoria sino settembre 2022,hospital,hospital,
-46.457467,6.939002,osm_clinic_les_alpes_46.4575_6.9390,Clinic Les Alpes,hospital,hospital,
-45.827419,7.821988,osm_ambulatorio_medico_45.8274_7.8220,Ambulatorio Medico,hospital,hospital,
-46.492217,6.769539,osm_cabinet_m_dical_46.4922_6.7695,Cabinet médical,hospital,hospital,
-46.457873,6.854353,osm_h_pital_riviera_chablais__site_de_la_pro_46.4579_6.8544,"Hôpital Riviera-Chablais, Site de la Providence",hospital,hospital,
-45.740555,7.313698,osm_h_pital_r_gional_d_aosta_umberto_parini_45.7406_7.3137,Hôpital régional d'Aosta Umberto Parini,hospital,hospital,
-45.717461,7.241298,osm_istituto_clinico_valle_d_aosta_45.7175_7.2413,Istituto Clinico Valle d'Aosta,hospital,hospital,
-45.935034,6.641001,osm_h_pitaux_du_mont_blanc___site_de_sallanc_45.9350_6.6410,Hôpitaux du Mont-Blanc - Site de Sallanches,hospital,hospital,
-46.377825,6.920111,osm_espace_sant__rennaz_46.3778_6.9201,Espace Santé Rennaz,hospital,hospital,
-46.236282,7.388853,osm_clinique_romande_de_r_adaptation_sion_46.2363_7.3889,Clinique romande de réadaptation Sion,hospital,hospital,
-45.913020,6.707290,osm_clinique_parassy_45.9130_6.7073,Clinique Parassy,hospital,hospital,
-45.740490,7.314095,osm_accettazione_covid_45.7405_7.3141,Accettazione Covid,hospital,hospital,
-46.068398,6.581462,osm_cmpa___cattpa_de_cluse_46.0684_6.5815,CMPA / CATTPA de Cluse,hospital,hospital,
-46.316740,7.981927,osm_spitalzentrum_oberwallis_brig_46.3167_7.9819,Spitalzentrum Oberwallis Brig,hospital,hospital,
+# sconosciuta -- hospitals
+45.939276,6.714928,osm_sancellemoz_45.9393_6.7149,Sancellemoz,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/sancellemoz_45.9393_6.7149.json,custom
+45.755019,7.737931,osm_casa_di_cura_per_la_salute_della_mente_45.7550_7.7379,Casa Di Cura Per La Salute Della Mente,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/casa_di_cura_per_la_salute_della_mente_45.7550_7.7379.json,custom
+45.714524,7.881750,osm_ambulatorio_45.7145_7.8818,Ambulatorio,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/ambulatorio_45.7145_7.8818.json,custom
+45.825828,7.714936,osm_volontari_soccorso_valle_d_ayas_45.8258_7.7149,Volontari Soccorso Valle d'Ayas,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/volontari_soccorso_valle_dayas_45.8258_7.7149.json,custom
+45.584293,7.812177,osm_ambulatorio_medico_45.5843_7.8122,Ambulatorio Medico,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/ambulatorio_medico_45.5843_7.8122.json,custom
+45.715167,7.737291,osm_ambulatorio_comunale___sede_provvisoria__45.7152_7.7373,Ambulatorio Comunale - sede provvisoria sino settembre 2022,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/ambulatorio_comunale_-_sede_provvisoria__45.7152_7.7373.json,custom
+46.457467,6.939002,osm_clinic_les_alpes_46.4575_6.9390,Clinic Les Alpes,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/clinic_les_alpes_46.4575_6.9390.json,custom
+45.827419,7.821988,osm_ambulatorio_medico_45.8274_7.8220,Ambulatorio Medico,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/ambulatorio_medico_45.8274_7.8220.json,custom
+46.492217,6.769539,osm_cabinet_m_dical_46.4922_6.7695,Cabinet médical,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/cabinet_mdical_46.4922_6.7695.json,custom
+46.457873,6.854353,osm_h_pital_riviera_chablais__site_de_la_pro_46.4579_6.8544,Hôpital Riviera-Chablais, Site de la Providence,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/hpital_riviera-chablais_site_de_la_provi_46.4579_6.8544.json,custom
+45.740555,7.313698,osm_h_pital_r_gional_d_aosta_umberto_parini_45.7406_7.3137,Hôpital régional d'Aosta Umberto Parini,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/hpital_rgional_daosta_umberto_parini_45.7406_7.3137.json,custom
+45.717461,7.241298,osm_istituto_clinico_valle_d_aosta_45.7175_7.2413,Istituto Clinico Valle d'Aosta,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/istituto_clinico_valle_daosta_45.7175_7.2413.json,custom
+45.935034,6.641001,osm_h_pitaux_du_mont_blanc___site_de_sallanc_45.9350_6.6410,Hôpitaux du Mont-Blanc - Site de Sallanches,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/hpitaux_du_mont-blanc_-_site_de_sallanch_45.9350_6.6410.json,custom
+46.377825,6.920111,osm_espace_sant__rennaz_46.3778_6.9201,Espace Santé Rennaz,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/espace_sant_rennaz_46.3778_6.9201.json,custom
+46.236282,7.388853,osm_clinique_romande_de_r_adaptation_sion_46.2363_7.3889,Clinique romande de réadaptation Sion,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/clinique_romande_de_radaptation_sion_46.2363_7.3889.json,custom
+45.913020,6.707290,osm_clinique_parassy_45.9130_6.7073,Clinique Parassy,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/clinique_parassy_45.9130_6.7073.json,custom
+45.740490,7.314095,osm_accettazione_covid_45.7405_7.3141,Accettazione Covid,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/accettazione_covid_45.7405_7.3141.json,custom
+46.068398,6.581462,osm_cmpa___cattpa_de_cluse_46.0684_6.5815,CMPA / CATTPA de Cluse,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/cmpa_cattpa_de_cluse_46.0684_6.5815.json,custom
+46.316740,7.981927,osm_spitalzentrum_oberwallis_brig_46.3167_7.9819,Spitalzentrum Oberwallis Brig,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/sconosciuta/pages/spitalzentrum_oberwallis_brig_46.3167_7.9819.json,custom

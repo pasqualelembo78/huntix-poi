@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "La Cave Enoteca Wine Bar",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://fwtrack.tableo.com/fsales/email/track/click?hash=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7Im11c3RoIjoiaHR0cHM6Ly9hcHAudGFibGVvLmNvbS9yL19WeWFySEciLCJsaW9uIjoiMTMxODc0IiwiZ29yaWxsYSI6IjJmMDg4ODJjYTgiLCJ0aWdlciI6ImZ3dHJhY2sudGFibGVvLmNvbSJ9LCJpYXQiOjE3NTYzMTE3NTl9.Ev5eIT3EuN1jnBpObAAdKQzWv_6GkTwhgssg6NVOk3s%7EeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7ImhvcnNlIjoibWFyaW9kYW5nZWxvMDJAZ21haWwuY29tIiwiY2FtZWwiOiIyZjA5NTE4YTM0In0sImlhdCI6MTc1NjMxMTc1OX0.lVZsOUNekHWYHMPNQQzQMmT6D-VVrx4kzS7J2-pYtOs"
+    }
+  ]
+}

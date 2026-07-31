@@ -1,8 +1,25 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.172095,7.184964,osm_caf__de_la_poste_46.1721_7.1850,Café de la Poste,ristorante,ristorante,
-46.173595,7.195869,osm_restaurant_des_bains_46.1736_7.1959,Restaurant des Bains,ristorante,ristorante,
-46.172113,7.185085,osm_caveau_de_saillon_46.1721_7.1851,Caveau de Saillon,ristorante,ristorante,
-46.171157,7.187704,osm_st_laurent_46.1712_7.1877,St-Laurent,ristorante,ristorante,
-46.159639,7.167187,osm_relais_de_la_sarvaz_46.1596_7.1672,Relais de la Sarvaz,ristorante,ristorante,
-46.172076,7.185355,osm_le_nouvo_bourg_46.1721_7.1854,Le Nouvo Bourg,ristorante,ristorante,
-46.168507,7.183583,osm_accademia_della_pizza_46.1685_7.1836,Accademia della Pizza,ristorante,ristorante,
+# Saillon -- Tutti
+46.159869,7.167157,ov_relais_and_camping_of_sarvaz_46.1599_7.1672,Relais and Camping of Sarvaz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/relais_and_camping_of_sarvaz_46.1599_7.1672.json,custom
+46.168487,7.183499,ov_accademia_della_pizza___saillon_46.1685_7.1835,Accademia della Pizza - Saillon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/accademia_della_pizza_-_saillon_46.1685_7.1835.json,custom
+46.172088,7.185008,ov_caf__restaurant_de_la_poste_46.1721_7.1850,Café Restaurant de la Poste,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/caf_restaurant_de_la_poste_46.1721_7.1850.json,custom
+46.172105,7.185479,ov_nouvo_bourg_46.1721_7.1855,Nouvo Bourg,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/nouvo_bourg_46.1721_7.1855.json,custom
+46.171220,7.187712,ov_caf__restaurant_st_laurent_46.1712_7.1877,Café Restaurant St-Laurent,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/caf_restaurant_st-laurent_46.1712_7.1877.json,custom
+46.173462,7.195650,ov_burger_bar_46.1735_7.1956,Burger Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/burger_bar_46.1735_7.1956.json,custom
+46.172095,7.184964,osm_caf__de_la_poste_46.1721_7.1850,Café de la Poste,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/caf_de_la_poste_46.1721_7.1850.json,custom
+46.173595,7.195869,osm_restaurant_des_bains_46.1736_7.1959,Restaurant des Bains,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/restaurant_des_bains_46.1736_7.1959.json,custom
+46.172113,7.185085,osm_caveau_de_saillon_46.1721_7.1851,Caveau de Saillon,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/caveau_de_saillon_46.1721_7.1851.json,custom
+46.171157,7.187704,osm_st_laurent_46.1712_7.1877,St-Laurent,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/st-laurent_46.1712_7.1877.json,custom
+46.159639,7.167187,osm_relais_de_la_sarvaz_46.1596_7.1672,Relais de la Sarvaz,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/relais_de_la_sarvaz_46.1596_7.1672.json,custom
+46.172076,7.185355,osm_le_nouvo_bourg_46.1721_7.1854,Le Nouvo Bourg,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/le_nouvo_bourg_46.1721_7.1854.json,custom
+46.168507,7.183583,osm_accademia_della_pizza_46.1685_7.1836,Accademia della Pizza,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/accademia_della_pizza_46.1685_7.1836.json,custom
+46.170378,7.185578,ov_luisier_vin_saillon_46.1704_7.1856,Luisier Vin Saillon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/luisier_vin_saillon_46.1704_7.1856.json,custom
+46.172087,7.185168,ov_caveau_de_saillon_46.1721_7.1852,Caveau de Saillon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/caveau_de_saillon_46.1721_7.1852.json,custom
+46.174740,7.190750,ov_tea_room_moliceiro_46.1747_7.1908,Tea Room Moliceiro,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/tea_room_moliceiro_46.1747_7.1908.json,custom
+46.165863,7.173729,ov_les_terres_de_panache_46.1659_7.1737,Les Terres de Panache,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/les_terres_de_panache_46.1659_7.1737.json,custom
+46.182148,7.187728,ov_via_ferrata_farinetta_46.1821_7.1877,Via Ferrata Farinetta,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/via_ferrata_farinetta_46.1821_7.1877.json,custom
+46.173560,7.195596,ov_les_bains_de_saillon_46.1736_7.1956,Les Bains de Saillon,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/les_bains_de_saillon_46.1736_7.1956.json,custom
+46.164157,7.183184,ov_loco_ski_academy_46.1642_7.1832,Loco Ski Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/loco_ski_academy_46.1642_7.1832.json,custom
+46.171633,7.185249,ov_mus_e_de_la_fausse_monnaie_46.1716_7.1852,Musée de la fausse monnaie,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/muse_de_la_fausse_monnaie_46.1716_7.1852.json,custom
+46.172046,7.184740,ov_bourg_de_saillon_46.1720_7.1847,Bourg de Saillon,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/bourg_de_saillon_46.1720_7.1847.json,custom
+46.172507,7.187004,osm_biblioth_que_scolaire_et_communale_de_sa_46.1725_7.1870,Bibliothèque scolaire et communale de Saillon,biblioteca,biblioteca,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/saillon/pages/bibliothque_scolaire_et_communale_de_sai_46.1725_7.1870.json,custom

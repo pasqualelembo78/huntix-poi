@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏛️",
+    "title": "Piazza Stella Aragona",
+    "subtitle": "Museo",
+    "color": "#455A64"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mostre",
+      "content": "Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."
+    },
+    {
+      "type": "menu",
+      "title": "Attività",
+      "items": [
+        {
+          "name": "Visita Guidata",
+          "price": "€0",
+          "emoji": "📖",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Laboratorio",
+          "price": "€0",
+          "emoji": "🎨",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Esplora",
+      "emoji": "🔍",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=piazza+stella+aragona&client=firefox-b-ab&dcr=0&source=lnms&sa=X&ved=0ahUKEwj7ydLop4zaAhUO2qQKHTNlBRQQ_AUICSgA&biw=1920&bih=902&dpr=1"
+    }
+  ]
+}

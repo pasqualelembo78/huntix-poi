@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏛️",
+    "title": "Galata Museo del Mare",
+    "subtitle": "Museo",
+    "color": "#455A64"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mostre",
+      "content": "Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."
+    },
+    {
+      "type": "menu",
+      "title": "Attività",
+      "items": [
+        {
+          "name": "Visita Guidata",
+          "price": "€0",
+          "emoji": "📖",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Laboratorio",
+          "price": "€0",
+          "emoji": "🎨",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Esplora",
+      "emoji": "🔍",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.galatamuseodelmare.it/eventi-mostre/un-piccolo-sommergibile-due-oceani-1941/?_gl=1%2Aczrnrd%2A_up%2AMQ..%2A_ga%2AMTI1ODc1MjYxMS4xNzcwOTczMDkx%2A_ga_P0TB36NKFE%2AczE3NzA5NzMwOTEkbzEkZzEkdDE3NzA5NzMwOTgkajUzJGwwJGgw&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnJwGJ84Xg1YYE_-XO9yeAS1-DqNCOKYAPYGSdu1IuVc1mKhCU7gd0eSS9nfU_aem__pEJj6RNC_xuwihazK6n0w"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏛️",
+    "title": "Museo Civico d'Arte Moderna e Contemporanea G.Sciortino-Monr",
+    "subtitle": "Museo",
+    "color": "#455A64"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mostre",
+      "content": "Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."
+    },
+    {
+      "type": "menu",
+      "title": "Attività",
+      "items": [
+        {
+          "name": "Visita Guidata",
+          "price": "€0",
+          "emoji": "📖",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Laboratorio",
+          "price": "€0",
+          "emoji": "🎨",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Esplora",
+      "emoji": "🔍",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151756&pagename=57"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Mimmo's",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://cdn.qr-code-generator.com/account8538481/44804672_27.pdf?Expires=1734036889&Signature=TQsAva062F3KHOPjpFd7F4%7EzoLblLFXFUu2er3ZUEYXWvnvAl8MD28BwjfC5jj1SJRYQO51zElIBHURN%7ETj2gkxfTk-AR8kAL4Ozkjxq0KipX9DsxKudBa4PmHepiv5ynBqaQSTpifuTEwe%7EP8H9hL2Hw4UMPBnUnLDskLzdv6p1RTbe5fjX8gC1pcnmSWPh73NP-087s1GKRO4Kvip9KDv8lVtjE4-1xGRUOnsugq4TGe5ZD5it2%7E1l9MDu43QQ4V8k7XKYX6iictmOMcQnM45Y%7E35LU53UVwIQvA-ETilbErLYn-qfALRB0vJ92H%7EcX%7EH-JSq7LOQ8qvSjRkImIg__&Key-Pair-Id=KKMPOJU8AYATR"
+    }
+  ]
+}

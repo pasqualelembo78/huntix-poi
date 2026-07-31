@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Insoljto Ristorante",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/maps/uv?hl=it&pb=%211s0x132cbc09c05b0417%3A0x707205a5f8f9184d%212m22%212m2%211i80%212i80%213m1%212i20%2116m16%211b1%212m2%211m1%211e1%212m2%211m1%211e3%212m2%211m1%211e5%212m2%211m1%211e4%212m2%211m1%211e6%213m1%217e115%214s%2Fmaps%2Fplace%2Finsoljto%2F%4044.106134%2C12.3305343%2C3a%2C75y%2C7.99h%2C90t%2Fdata%3D%2A213m4%2A211e1%2A213m2%2A211sfSltSGY-v10tmu8TjbaYLg%2A212e0%2A214m2%2A213m1%2A211s0x132cbc09c05b0417%3A0x707205a5f8f9184d%215sinsoljto+-+Cerca+con+Google&imagekey=%211e2%212sfSltSGY-v10tmu8TjbaYLg&sa=X&ved=0ahUKEwiJuae2gPvaAhWDiywKHUs5DPYQpx8IeTAK"
+    }
+  ]
+}

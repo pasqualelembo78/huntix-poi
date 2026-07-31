@@ -1,0 +1,51 @@
+{
+  "banner": {
+    "icon": "🏥",
+    "title": "Ospedale di Cittadella - Ex Entrata",
+    "subtitle": "Ospedale",
+    "color": "#37474F"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Pronto Soccorso",
+      "content": "Aperto 24/7 per emergenze.\nPer urgenze chiama il 118."
+    },
+    {
+      "type": "menu",
+      "title": "Servizi",
+      "items": [
+        {
+          "name": "Visita Medica",
+          "price": "€0",
+          "emoji": "💊",
+          "action": {
+            "type": "consume",
+            "need": "hygiene",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Controllo",
+          "price": "€0",
+          "emoji": "🛡️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 10
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Fai una Visita",
+      "emoji": "💊",
+      "action": {
+        "type": "consume",
+        "need": "hygiene",
+        "gain": 35
+      }
+    }
+  ]
+}

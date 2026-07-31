@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏛️",
+    "title": "Museo Archeologico Nazionale Giorgio Asproni Nuoro",
+    "subtitle": "Museo",
+    "color": "#455A64"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mostre",
+      "content": "Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."
+    },
+    {
+      "type": "menu",
+      "title": "Attività",
+      "items": [
+        {
+          "name": "Visita Guidata",
+          "price": "€0",
+          "emoji": "📖",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Laboratorio",
+          "price": "€0",
+          "emoji": "🎨",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Esplora",
+      "emoji": "🔍",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://portale.museiitaliani.it/b2c/buyTicketless/79529c51-a128-42ae-afce-108b18bd4c3d%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAabLqplUN_z5vLIUBQnLgtUnnkDECY-XRSUb2Q2pK2T7r93WLvWge06HUNA_aem_7H6wG4XLHBgUryN8hPXikQ"
+    }
+  ]
+}

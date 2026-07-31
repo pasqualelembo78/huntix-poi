@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏛️",
+    "title": "Museo Etnografico Palazzo Atzori",
+    "subtitle": "Museo",
+    "color": "#455A64"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mostre",
+      "content": "Scopri le opere esposte a {name}.\nVisite guidate disponibili su prenotazione."
+    },
+    {
+      "type": "menu",
+      "title": "Attività",
+      "items": [
+        {
+          "name": "Visita Guidata",
+          "price": "€0",
+          "emoji": "📖",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Laboratorio",
+          "price": "€0",
+          "emoji": "🎨",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Esplora",
+      "emoji": "🔍",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.sardegnacultura.it/j/v/253?s=18968&t=1&v=2&c1=2125&c=2487"
+    }
+  ]
+}

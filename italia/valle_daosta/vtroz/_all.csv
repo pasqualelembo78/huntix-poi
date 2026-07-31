@@ -1,9 +1,33 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.227456,7.281886,osm_relais_du_valais_46.2275_7.2819,Relais du Valais,ristorante,ristorante,
-46.206148,7.278658,osm_botza_beach_46.2061_7.2787,Botza Beach,ristorante,ristorante,
-46.219999,7.265613,osm_la_cambuse_46.2200_7.2656,La Cambuse,ristorante,ristorante,
-46.224300,7.283671,osm_la_madeleine_46.2243_7.2837,La Madeleine,ristorante,ristorante,
-46.225795,7.281378,osm_kebab_v_troz_46.2258_7.2814,Kebab Vétroz,ristorante,ristorante,
-46.220679,7.267510,osm_le_raisin_46.2207_7.2675,Le Raisin,ristorante,ristorante,
-46.215227,7.274944,osm_le_palais_des_petits_cochons_46.2152_7.2749,Le Palais des Petits Cochons,ristorante,ristorante,
-46.223660,7.284562,osm_aux_vergers_46.2237_7.2846,Aux Vergers,ristorante,ristorante,
+# Vétroz -- Tutti
+46.203929,7.284472,ov_valtraiteur_s_rl_46.2039_7.2845,Valtraiteur Sàrl,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/valtraiteur_srl_46.2039_7.2845.json,custom
+46.209470,7.278810,ov_le_botza_46.2095_7.2788,Le Botza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/le_botza_46.2095_7.2788.json,custom
+46.224328,7.283833,ov_caf__madeleine_vetroz_46.2243_7.2838,Café Madeleine Vetroz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/caf_madeleine_vetroz_46.2243_7.2838.json,custom
+46.223650,7.284438,ov_aux_vergers_46.2237_7.2844,Aux Vergers,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/aux_vergers_46.2237_7.2844.json,custom
+46.225628,7.292194,ov_kidam_46.2256_7.2922,Kidam,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/kidam_46.2256_7.2922.json,custom
+46.226071,7.281963,ov_pizzitalia_46.2261_7.2820,PizzItalia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/pizzitalia_46.2261_7.2820.json,custom
+46.225861,7.282043,ov_cafe_des_amignes_46.2259_7.2820,Cafe des Amignes,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/cafe_des_amignes_46.2259_7.2820.json,custom
+46.227478,7.281710,ov_relais_du_valais_46.2275_7.2817,Relais du Valais,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/relais_du_valais_46.2275_7.2817.json,custom
+46.225488,7.279939,ov_jia_ming_46.2255_7.2799,Jia Ming,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/jia_ming_46.2255_7.2799.json,custom
+46.225512,7.278733,ov_coucou_sushi_v_troz_46.2255_7.2787,Coucou Sushi Vétroz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/coucou_sushi_vtroz_46.2255_7.2787.json,custom
+46.215307,7.274846,ov_le_palais_des_petits_cochons_46.2153_7.2748,Le Palais des Petits Cochons,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/le_palais_des_petits_cochons_46.2153_7.2748.json,custom
+46.220026,7.265791,ov_restaurant_la_cambuse___v_troz_46.2200_7.2658,Restaurant La Cambuse à Vétroz,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/restaurant_la_cambuse_vtroz_46.2200_7.2658.json,custom
+46.206148,7.278658,osm_botza_beach_46.2061_7.2787,Botza Beach,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/botza_beach_46.2061_7.2787.json,custom
+46.219999,7.265613,osm_la_cambuse_46.2200_7.2656,La Cambuse,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/la_cambuse_46.2200_7.2656.json,custom
+46.224300,7.283671,osm_la_madeleine_46.2243_7.2837,La Madeleine,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/la_madeleine_46.2243_7.2837.json,custom
+46.225795,7.281378,osm_kebab_v_troz_46.2258_7.2814,Kebab Vétroz,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/kebab_vtroz_46.2258_7.2814.json,custom
+46.220679,7.267510,osm_le_raisin_46.2207_7.2675,Le Raisin,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/le_raisin_46.2207_7.2675.json,custom
+46.223660,7.284562,osm_aux_vergers_46.2237_7.2846,Aux Vergers,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/aux_vergers_46.2237_7.2846.json,custom
+46.216464,7.275234,ov_texas_tavern_46.2165_7.2752,Texas Tavern,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/texas_tavern_46.2165_7.2752.json,custom
+46.225502,7.278857,osm_mad_eo_46.2255_7.2789,Mad Eo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/mad_eo_46.2255_7.2789.json,custom
+46.225458,7.279306,osm_le_caveau_46.2255_7.2793,Le Caveau,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/le_caveau_46.2255_7.2793.json,custom
+46.201313,7.290509,ov_gamsion_46.2013_7.2905,Gamsion,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/gamsion_46.2013_7.2905.json,custom
+46.203848,7.285633,ov_party_foot_46.2038_7.2856,Party Foot,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/party_foot_46.2038_7.2856.json,custom
+46.205081,7.282980,ov_sportisim_46.2051_7.2830,SportiSim,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/sportisim_46.2051_7.2830.json,custom
+46.225555,7.283032,ov_natfit_center_46.2256_7.2830,Natfit Center,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/natfit_center_46.2256_7.2830.json,custom
+46.225770,7.282633,ov_ski_club_v_troz_46.2258_7.2826,Ski-club Vétroz,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/ski-club_vtroz_46.2258_7.2826.json,custom
+46.225277,7.282572,ov_espace_surya_m_46.2253_7.2826,Espace Surya'M,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/espace_suryam_46.2253_7.2826.json,custom
+46.217359,7.276169,ov_manege_de_vetroz_46.2174_7.2762,Manege de Vetroz,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/manege_de_vetroz_46.2174_7.2762.json,custom
+46.217761,7.270523,ov_s_verine_dance_academy_46.2178_7.2705,Séverine Dance Academy,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/sverine_dance_academy_46.2178_7.2705.json,custom
+46.219220,7.265390,ov_alp_in_training_lab_46.2192_7.2654,Alp'in Training Lab,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/alpin_training_lab_46.2192_7.2654.json,custom
+46.225739,7.279970,osm_poste_1963_v_troz_46.2257_7.2800,Poste 1963 Vétroz,ufficio_postale,ufficio_postale,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/vtroz/pages/poste_1963_vtroz_46.2257_7.2800.json,custom

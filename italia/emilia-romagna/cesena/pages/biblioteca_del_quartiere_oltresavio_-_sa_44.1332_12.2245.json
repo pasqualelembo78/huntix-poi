@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "📚",
+    "title": "Biblioteca del Quartiere Oltresavio - San Mauro in Valle",
+    "subtitle": "Biblioteca",
+    "color": "#1565C0"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Sezioni",
+      "items": [
+        {
+          "name": "Leggi",
+          "price": "€0,00",
+          "emoji": "📚",
+          "action": {
+            "type": "service",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Cerca",
+          "price": "€5,00",
+          "emoji": "🔍",
+          "action": {
+            "type": "service",
+            "need": "fun",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Studio",
+          "price": "€0,00",
+          "emoji": "📖",
+          "action": {
+            "type": "service",
+            "need": "fun",
+            "gain": 10
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Ven: 08:00-19:00\nSab: 09:00-18:00\nDom: 09:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi Libro",
+      "emoji": "📗",
+      "action": {
+        "type": "service",
+        "need": "fun",
+        "gain": 25
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.oltresaviobiblioteca.it/"
+    }
+  ]
+}

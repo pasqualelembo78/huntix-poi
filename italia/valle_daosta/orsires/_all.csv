@@ -1,9 +1,25 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.028544,7.143597,osm_le_quai_de_l_ours_h_tel_terminus_46.0285_7.1436,Le Quai de l'Ours/Hôtel Terminus,ristorante,ristorante,
-46.053377,7.149953,osm_le_catogne__g_te_restaurant_46.0534_7.1500,"Le Catogne, Gîte Restaurant",ristorante,ristorante,
-46.028171,7.144376,osm_l_ourson_46.0282_7.1444,L'Ourson,ristorante,ristorante,
-46.026534,7.124797,osm_alpina_46.0265_7.1248,Alpina,ristorante,ristorante,
-46.030363,7.115597,osm_au_club_alpin_46.0304_7.1156,Au Club Alpin,ristorante,ristorante,
-46.025393,7.122810,osm_belv_d_re_46.0254_7.1228,Belvédère,ristorante,ristorante,
-46.029983,7.116477,osm_le_cabanon_46.0300_7.1165,Le Cabanon,ristorante,ristorante,
-46.050274,7.183808,osm_restaurant_de_la_pasay_46.0503_7.1838,Restaurant de la Pasay,ristorante,ristorante,
+# Orsières -- Tutti
+46.028103,7.144500,ov_le_saint_bernard_46.0281_7.1445,Le Saint-Bernard,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/le_saint-bernard_46.0281_7.1445.json,custom
+46.028618,7.143526,ov_caf__restaurant_quai_de_l_ours_46.0286_7.1435,Café Restaurant Quai de l'Ours,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/caf_restaurant_quai_de_lours_46.0286_7.1435.json,custom
+46.030590,7.146105,ov_valhalla_pizza_bar_46.0306_7.1461,Valhalla Pizza Bar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/valhalla_pizza_bar_46.0306_7.1461.json,custom
+46.019028,7.132729,ov_chez_zeza_46.0190_7.1327,Chez Zeza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/chez_zeza_46.0190_7.1327.json,custom
+46.027798,7.120640,ov_mimi_s_lounge_46.0278_7.1206,Mimi's Lounge,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/mimis_lounge_46.0278_7.1206.json,custom
+46.035503,7.099140,ov_bon_abri_46.0355_7.0991,Bon Abri,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/bon_abri_46.0355_7.0991.json,custom
+46.029926,7.116680,ov_restaurant_le_cabanon_46.0299_7.1167,Restaurant Le Cabanon,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/restaurant_le_cabanon_46.0299_7.1167.json,custom
+45.982843,7.122876,ov_la_kabana_45.9828_7.1229,La Kabana,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/la_kabana_45.9828_7.1229.json,custom
+46.003858,7.125355,ov_caf__du_ch_telet_46.0039_7.1254,Café du Châtelet,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/caf_du_chtelet_46.0039_7.1254.json,custom
+45.908602,7.112760,ov_alpage_et_buvette_des_ars_45.9086_7.1128,Alpage et Buvette des Ars,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/alpage_et_buvette_des_ars_45.9086_7.1128.json,custom
+46.028544,7.143597,osm_le_quai_de_l_ours_h_tel_terminus_46.0285_7.1436,Le Quai de l'Ours/Hôtel Terminus,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/le_quai_de_lourshtel_terminus_46.0285_7.1436.json,custom
+46.053377,7.149953,osm_le_catogne__g_te_restaurant_46.0534_7.1500,Le Catogne, Gîte Restaurant,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/le_catogne_gte_restaurant_46.0534_7.1500.json,custom
+46.028171,7.144376,osm_l_ourson_46.0282_7.1444,L'Ourson,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/lourson_46.0282_7.1444.json,custom
+46.026534,7.124797,osm_alpina_46.0265_7.1248,Alpina,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/alpina_46.0265_7.1248.json,custom
+46.030363,7.115597,osm_au_club_alpin_46.0304_7.1156,Au Club Alpin,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/au_club_alpin_46.0304_7.1156.json,custom
+46.025393,7.122810,osm_belv_d_re_46.0254_7.1228,Belvédère,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/belvdre_46.0254_7.1228.json,custom
+46.029983,7.116477,osm_le_cabanon_46.0300_7.1165,Le Cabanon,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/le_cabanon_46.0300_7.1165.json,custom
+46.050274,7.183808,osm_restaurant_de_la_pasay_46.0503_7.1838,Restaurant de la Pasay,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/restaurant_de_la_pasay_46.0503_7.1838.json,custom
+46.029391,7.144992,ov_les_400_coups_46.0294_7.1450,Les 400 Coups,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/les_400_coups_46.0294_7.1450.json,custom
+46.026970,7.120816,ov_broc_n_pub_46.0270_7.1208,Broc'n pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/brocn_pub_46.0270_7.1208.json,custom
+46.026183,7.122270,ov_brasserie_pro_forteresse_46.0262_7.1223,Brasserie Pro Forteresse,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/brasserie_pro_forteresse_46.0262_7.1223.json,custom
+46.023588,7.143308,ov_biblioth_que_ludoth_que_orsi_res_46.0236_7.1433,Bibliothèque Ludothèque Orsières,LIBRARY,biblioteca,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/bibliothque_ludothque_orsires_46.0236_7.1433.json,custom
+46.023588,7.143308,osm_biblioth_que_communale_46.0236_7.1433,Bibliothèque communale,biblioteca,biblioteca,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/orsires/pages/bibliothque_communale_46.0236_7.1433.json,custom

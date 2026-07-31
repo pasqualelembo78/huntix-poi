@@ -1,9 +1,11 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.295063,7.395102,osm_brasserie_dahu_46.2951_7.3951,Brasserie Dahu,ristorante,ristorante,
-46.296753,7.398692,osm_le_raccard___cr_perie_46.2968_7.3987,Le Raccard - Crêperie,ristorante,ristorante,
-46.297646,7.398999,osm_chez_anja_et_hubi_46.2976_7.3990,Chez Anja et Hubi,ristorante,ristorante,
-46.297738,7.399333,osm_ice_cube_anzere_46.2977_7.3993,Ice Cube Anzere,ristorante,ristorante,
-46.297547,7.400108,osm_au_chalet_46.2975_7.4001,Au Chalet,ristorante,ristorante,
-46.297074,7.396991,osm_burger_terrasse_46.2971_7.3970,Burger Terrasse,ristorante,ristorante,
-46.295920,7.397135,osm_le_panorama_46.2959_7.3971,Le Panorama,ristorante,ristorante,
-46.297928,7.404894,osm_h_tel_restaurant_la_poste_46.2979_7.4049,Hôtel Restaurant La Poste,ristorante,ristorante,
+# anzre -- restaurants
+46.295717,7.396596,ov_zazabar_46.2957_7.3966,Zazabar,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/zazabar_46.2957_7.3966.json,custom
+46.297053,7.397285,ov_burger_terrasse_46.2971_7.3973,Burger Terrasse,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/burger_terrasse_46.2971_7.3973.json,custom
+46.295063,7.395102,osm_brasserie_dahu_46.2951_7.3951,Brasserie Dahu,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/brasserie_dahu_46.2951_7.3951.json,custom
+46.296753,7.398692,osm_le_raccard___cr_perie_46.2968_7.3987,Le Raccard - Crêperie,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/le_raccard_-_crperie_46.2968_7.3987.json,custom
+46.297646,7.398999,osm_chez_anja_et_hubi_46.2976_7.3990,Chez Anja et Hubi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/chez_anja_et_hubi_46.2976_7.3990.json,custom
+46.297738,7.399333,osm_ice_cube_anzere_46.2977_7.3993,Ice Cube Anzere,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/ice_cube_anzere_46.2977_7.3993.json,custom
+46.297547,7.400108,osm_au_chalet_46.2975_7.4001,Au Chalet,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/au_chalet_46.2975_7.4001.json,custom
+46.295920,7.397135,osm_le_panorama_46.2959_7.3971,Le Panorama,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/le_panorama_46.2959_7.3971.json,custom
+46.297928,7.404894,osm_h_tel_restaurant_la_poste_46.2979_7.4049,Hôtel Restaurant La Poste,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/anzre/pages/htel_restaurant_la_poste_46.2979_7.4049.json,custom

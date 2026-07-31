@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Il Minestraio",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=il+minestraio+chiusdino&client=safari&sca_esv=1e22c0f3b30bddf3&sca_upv=1&hl=it-it&biw=430&bih=739&ei=craTZrCpGOPs7_UPgMabiAw&gs_ssp=eJzj4tZP1zcsSTOtzMo2MmC0UjWoMDQ2srRItTQzSTEzMzJKM7UyqEg1TUu0NDIzNDNNNE8zT7T0Es_MUcjNzEstLilKzMxXSM7ILC1OyczLBwBIgRd3&oq=il%C2%A0&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgRpbMKgKgIIADILECkYgAQYxwEYrwEyChAuGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyDhAuGIAEGLEDGIMBGIoFMgoQLhiABBhDGIoFMg4QLhiABBixAxiDARiKBTINEC4YgAQYQxjUAhiKBTILEAAYgAQYsQMYgwFI4CBQwwVYoRpwAngAkAEBmAGPAaABuA6qAQQ2LjExuAEByAEA-AEBmAIMoAKTCagCEcICChAAGLADGNYEGEfCAhMQLhiABBiwAxhDGMgDGIoF2AEBwgIKECkYgAQYsQMYCsICBRAAGIAEwgIIEC4YgAQYsQPCAggQABiABBixA8ICEBAuGAMY5QIY6gIYjAMYjwHCAhAQABgDGOUCGOoCGIwDGI8BwgISEAAYAxjlAhjqAhgKGIwDGI8BwgILEC4YgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAZgDlQGIBgGQBg66BgQIARgIkgcDNy41oAeGlQI&sclient=mobile-gws-wiz-serp"
+    }
+  ]
+}

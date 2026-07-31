@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "What's Up Bar",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=bar+whatsapp+san+salvo&client=safari&hl=it&sxsrf=APq-WBvDUiC0Bn0xgyJgucE0yo4cN1fApw%3A1646087528289&ei=aE0dYtWAEY69kgWpxqfgAg&oq=bar+whats+up+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATIECAAQDTIECAAQDTIGCAAQDRAeMgYIABANEB4yBggAEA0QHjIGCAAQFhAeMgYIABANEB4yBggAEBYQHjoHCCMQsAMQJzoHCAAQsAMQDToJCAAQsAMQBxAeOgsIABCwAxAHEAoQHjoJCAAQsAMQDRAeOgsIABCwAxANEAUQHkoECEEYAVClBVilBWDTEGgAcAB4AIAB1gGIAbICkgEFMS4wLjGYAQCgAQHIARHAAQE&sclient=mobile-gws-wiz-serp#trex=m_t:lcl_akp,rc_f:rln,rc_ludocids:7506010791950715651,ru_gwp:0%252C7,ru_lqi:ChZiYXIgd2hhdHNhcHAgc2FuIHNhbHZvWhgiFmJhciB3aGF0c2FwcCBzYW4gc2Fsdm-SAQNiYXKqARQQASoQIgxiYXIgd2hhdHNhcHAoBw,ru_phdesc:y9IUdPHqU80,trex_id:yeER1d"
+    }
+  ]
+}

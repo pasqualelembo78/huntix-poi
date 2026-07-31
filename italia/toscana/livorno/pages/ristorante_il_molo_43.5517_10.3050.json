@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Ristorante Il Molo",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=ristorante+il+molo+livorno&client=safari&hl=it-it&ei=VlSnYJrfD4SN9u8P6NCBoA0&gs_ssp=eJzj4tVP1zc0TDI3Ls9ONjExYLRSNagwNEoxTbU0TzNPSTRNs0w0tjKosDA3MDEyMDUxT0xKMktMSfOSKsosLskvSswrSVXIzFHIzc_JV8jJLMsvyssHAMGhGWw&oq=rist&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATIECAAQQzIKCC4QxwEQrwEQQzIECAAQQzIKCC4QxwEQrwEQQzIICC4QxwEQrwEyCAgAELEDEIMBMggIABCxAxCDATICCAA6BAgAEEc6CwgpEMcBEK8BEJMCOgYIABAWEB46BQghEKABOg0IKRDHARCvARBDEJMCOg4ILhCxAxCDARDHARCvAToCCC46BQgAELEDOgUIABDJAzoFCAAQkgM6CAguELEDEIMBOg4ILhCxAxCDARDHARCjAjoLCC4QsQMQxwEQowI6AggpOgUILhCxA1DosMwJWNCIzQlg_5HNCWgAcAF4AIABjwKIAZoVkgEGMC4xNi4ymAEAoAEBsAEEyAEIwAEB&sclient=mobile-gws-wiz-serp#sbfbu=1&pi=ristorante%20il%20molo%20livorno"
+    }
+  ]
+}

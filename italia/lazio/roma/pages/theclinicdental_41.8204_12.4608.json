@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏥",
+    "title": "TheClinicdental",
+    "subtitle": "Ospedale",
+    "color": "#37474F"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Pronto Soccorso",
+      "content": "Aperto 24/7 per emergenze.\nPer urgenze chiama il 118."
+    },
+    {
+      "type": "menu",
+      "title": "Servizi",
+      "items": [
+        {
+          "name": "Visita Medica",
+          "price": "€0",
+          "emoji": "💊",
+          "action": {
+            "type": "consume",
+            "need": "hygiene",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Controllo",
+          "price": "€0",
+          "emoji": "🛡️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 10
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Fai una Visita",
+      "emoji": "💊",
+      "action": {
+        "type": "consume",
+        "need": "hygiene",
+        "gain": 35
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://theclinicdental.ru/RhQHVDfK?utm_creative=%7B%7Bad.name%7D%7D&utm_campaign=%7B%7Bcampaign.id%7D%7D&utm_source=%7B%7Bsite_source_name%7D%7D&utm_placement=%7B%7Bplacement%7D%7D&adset_id=%7B%7Badset.id%7D%7D&ad_id=%7B%7Bad.id%7D%7D&adset_name=%7B%7Badset.name%7D%7D"
+    }
+  ]
+}

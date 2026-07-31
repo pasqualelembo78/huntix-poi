@@ -1,0 +1,57 @@
+{
+  "banner": {
+    "icon": "🏥",
+    "title": "Centre Hospitalier des Escartons",
+    "subtitle": "Ospedale",
+    "color": "#37474F"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Pronto Soccorso",
+      "content": "Aperto 24/7 per emergenze.\nPer urgenze chiama il 118."
+    },
+    {
+      "type": "menu",
+      "title": "Servizi",
+      "items": [
+        {
+          "name": "Visita Medica",
+          "price": "€0",
+          "emoji": "💊",
+          "action": {
+            "type": "consume",
+            "need": "hygiene",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Controllo",
+          "price": "€0",
+          "emoji": "🛡️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 10
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Fai una Visita",
+      "emoji": "💊",
+      "action": {
+        "type": "consume",
+        "need": "hygiene",
+        "gain": 35
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "http://www.parkopedia.fr/parking/parc_de_stationnement/centre_hospitalier_des_escartons/05100/brian%C3%A7on/?vendor=here"
+    }
+  ]
+}

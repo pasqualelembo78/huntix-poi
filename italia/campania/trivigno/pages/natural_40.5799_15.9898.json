@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Natural",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=natural+bar+trivigno&sca_esv=89608f5d4155dccd&sca_upv=1&ei=zHTuZqnBIbyD9u8Pt5ux6AM&gs_ssp=eJzj4tVP1zc0LLPMzjM1MzE2YLRSMagwNDa2SE1LNDVLNTRINUiytDKoMDKzTEk1TzFJSrMwsDQ19BLJSywpLUrMUUhKLFIoKcosy0zPywcACXgWUg&oq=natural+bar+trivign&gs_lp=Egxnd3Mtd2l6LXNlcnAiE25hdHVyYWwgYmFyIHRyaXZpZ24qAggAMgsQLhiABBjHARivATIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMhoQLhiABBjHARivARiXBRjcBBjeBBjgBNgBAUjkO1AAWNMpcAJ4AZABAJgBjAGgAa4RqgEENi4xNbgBAcgBAPgBAZgCGKACpCPCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAggQLhiABBixA8ICBBAAGAPCAiAQLhiABBixAxjRAxiDARjHARiXBRjcBBjeBBjgBNgBAcICChAAGIAEGEMYigXCAhAQLhiABBixAxhDGIMBGIoFwgIKEC4YgAQYQxiKBcICBRAuGIAEwgILEC4YgAQYsQMYgwHCAggQABiABBixA8ICExAuGIAEGLEDGNEDGEMYxwEYigXCAg0QABiABBixAxhDGIoFwgIQEC4YgAQY0QMYQxjHARiKBcICFBAuGIAEGLEDGMcBGJgFGJoFGK8BwgIOEC4YgAQYxwEYjgUYrwHCAhEQLhiABBixAxiDARjHARivAcICBRAAGIAEwgIdEC4YgAQYxwEYjgUYrwEYlwUY3AQY3gQY4ATYAQHCAiMQLhiABBixAxjHARiYBRiaBRivARiXBRjcBBjeBBjgBNgBAcICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIIEAAYFhgeGA_CAgYQABgWGB7CAgUQIRigAcICBRAhGJ8FmAMAugYGCAEQARgUkgcIMy4yMC44LTGgB8WDAg&sclient=gws-wiz-serp"
+    }
+  ]
+}

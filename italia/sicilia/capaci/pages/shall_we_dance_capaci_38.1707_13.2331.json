@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "Shall We Dance Capaci",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=scuola+di+danza+capaci&client=safari&sca_esv=594112619&channel=iphone_bm&sxsrf=AM9HkKlPJgCn1eMdvqqejKjqmizqxupDkg%3A1703724264365&ei=6MSMZfz1Fairi-gP__mFWA&oq=scuol&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgVzY3VvbCoCCAAyChAjGIAEGIoFGCcyBBAjGCcyBBAjGCcyDhAAGIAEGIoFGJIDGLgEMgsQABiABBiKBRiSAzINEAAYgAQYigUYQxjJAzIKEAAYgAQYigUYQzIREC4YgAQYigUYsQMYgwEY1AJI5DxQ0w5Y-jRwAXgBkAEAmAGgAaAB4hGqAQQwLjE3uAEByAEA-AEBwgIWEC4YgAQYigUYxwEYrwEYsAMYjgUYJ8ICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgITEC4YgAQYigUYQxjIAxiwA9gBAcICExAuGEMYgAQYigUYyAMYsAPYAQHCAhMQLhivARjHARiABBiKBRiOBRgnwgIQEC4YQxiDARixAxiABBiKBcICChAAGIAEGBQYhwLCAgUQABiABMICChAuGIAEGBQYhwLCAhMQLhiABBiKBRjHARivARiOBRgnwgIQEC4YgAQYigUYQxixAxiDAcICCBAuGLEDGIAEwgIIEAAYgAQYsQPCAggQLhiABBixA8ICChAuGIAEGIoFGCfCAgoQLhiABBiKBRhDwgIOEC4YgAQYigUYsQMYgwHCAgsQLhiABBixAxiDAcICCxAAGIAEGLEDGIMBwgIFEC4YgATiAwQYACBBiAYBkAYRugYECAEYCA&sclient=mobile-gws-wiz-serp#trex=m_t:lcl_akp,rc_f:rln,rc_ludocids:9011442504710353792,ru_gwp:0%252C7,ru_lqi:ChZzY3VvbGEgZGkgZGFuemEgY2FwYWNpSPfP75-AroCACFokEAAQARgAGAEYAhgDIhZzY3VvbGEgZGkgZGFuemEgY2FwYWNpkgEMZGFuY2Vfc2Nob29sqgFWCggvbS8wNnpkahABKgoiBnNjdW9sYSgHMiAQASIcjhSVkBXduoJCjN9A2OCCnG-1THunDxRnFcDZKzIaEAIiFnNjdW9sYSBkaSBkYW56YSBjYXBhY2k,trex_id:yh5Dgf&lpg=cid:CgIgAQ%3D%3D"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "L'Ottavo Senso - Ristorante Pizzeria",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=l+ottavo+senso+ristorante+pizzeria&client=safari&sca_esv=87428cc8fad3a684&channel=iphone_bm&sxsrf=ADLYWIJuZ0pS7RLyATyqtApcWnIFYVG_nw%3A1732777515965&source=hp&ei=KxZIZ_fsOLyj5NoPuomQgAI&oq=ristorante+pizzaria+l+ottavo+senso&gs_lp=EhFtb2JpbGUtZ3dzLXdpei1ocCIicmlzdG9yYW50ZSBwaXp6YXJpYSBsIG90dGF2byBzZW5zbyoCCAAyCRAAGBYYyQMYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSKPmAVCJBVjvsAFwB3gAkAEAmAH-AqAB3UiqAQgwLjEuMzcuMbgBAcgBAPgBAZgCLqACskuoAg_CAgcQIxgnGOoCwgINEC4Y0QMYxwEYJxjqAsICChAjGIAEGCcYigXCAhAQLhiABBjRAxjHARgnGIoFwgIQEC4YgAQYxwEYJxiKBRivAcICCxAAGIAEGLEDGIMBwgIFEC4YgATCAg4QABiABBixAxiDARiKBcICBRAAGIAEwgILEC4YgAQYxwEYrwHCAggQABiABBixA8ICDhAAGIAEGJIDGLgEGIoFwgILEAAYgAQYkgMYigXCAggQABiABBjJA8ICCxAAGIAEGLEDGMkDwgIOEC4YgAQYxwEYmAUYrwHCAgcQABiABBgKwgINEC4YgAQYxwEYChivAcICChAAGIAEGMkDGArCAgcQABiABBgNwgINEC4YgAQYxwEYDRivAcICCRAAGIAEGAoYDcICBhAAGA0YHsICEBAuGIAEGMcBGJgFGA0YrwHCAggQABgIGA0YHsICBxAhGKABGArCAggQABiiBBiJBcICCxAAGAgYyQMYDRgewgITEC4YgAQYxwEYmAUYmQUYDRivAcICFBAuGBYYxwEYmAUYmQUYChgeGK8BwgIIEAAYgAQYogSYAwqSBwg3LjAuMzguMaAHh78D&sclient=mobile-gws-wiz-hp&dlnr=1&sei=SxZIZ-mENKfZ5NoPks7L-AQ"
+    }
+  ]
+}

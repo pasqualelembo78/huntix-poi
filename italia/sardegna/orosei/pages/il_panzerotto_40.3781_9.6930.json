@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Il Panzerotto",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?sxsrf=ALeKk03TJPMwlzRKOh0Aw72xC77VLWj2Qw%3A1587566700116&ei=ZVigXuu3BYqbkwW437foDQ&q=il+panzerotto+attivit%C3%A0+orosei&oq=il+panzerotto+attivit%C3%A0+orosei+&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoICCEQFhAdEB46BQghEKABULEdWPYtYJ4vaABwA3gAgAGxAYgB-gmSAQMwLjiYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=2ahUKEwjLsd7povzoAhXNAewKHSqyA0MQvS4wBXoECAwQIQ&uact=5&npsic=0&rflfq=1&rlha=0&rllag=40407202%2C9730243%2C4523&tbm=lcl&rldimm=8912083694669336743&lqi=Ch5pbCBwYW56ZXJvdHRvIGF0dGl2aXTDoCBvcm9zZWlaOQoXaWwgcGFuemVyb3R0byBhdHRpdml0w6AiHmlsIHBhbnplcm90dG8gYXR0aXZpdMOgIG9yb3NlaQ&rldoc=1&tbs=lrf%3A%211m4%211u3%212m2%213m1%211e1%211m4%211u2%212m2%212m1%211e1%212m1%211e2%212m1%211e3%213sIAE%2Clf%3A1%2Clf_ui%3A2&rlst=f#rlfi=hd:"
+    }
+  ]
+}

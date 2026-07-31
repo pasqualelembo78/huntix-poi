@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Thai House Restaurant Seregno",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=thai+house+restaurant+seregno&client=ms-android-oppo-rvo3&sca_esv=559602811&sxsrf=AB5stBh_ZuWKO0LU0z2V0072Pq5pZpP1VA%3A1692844508749&ei=3MHmZLuoLZntkgWfyomQBQ&oq&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIgAqAggAMgoQIxiKBRjqAhgnMgcQIxjqAhgnMg8QIxiKBRgTGIAEGOoCGCcyChAjGIoFGOoCGCcyBxAjGOoCGCcyDxAjGIoFGBMYgAQY6gIYJzIKECMYigUY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIKECMYigUY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIHECMY6gIYJzIKECMYigUY6gIYJ0ihDVAAWABwAngAkAEAmAHHAaABxwGqAQMwLjG4AQHIAQD4AQGoAg_CAgoQIxiwAhiwAxgn4gMEGAEgQYgGAZAGAQ&sclient=mobile-gws-wiz-serp"
+    }
+  ]
+}

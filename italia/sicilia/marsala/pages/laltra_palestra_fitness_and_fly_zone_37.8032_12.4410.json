@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "L'Altra Palestra Fitness and Fly Zone",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?q=a.s.d.+l%27altra+palestra+fitness+%26+fly+zone&sca_esv=571840155&hl=it&authuser=0&sxsrf=AM9HkKnVP760cYqegLWH9aQslPcNPq2V0Q%3A1696847776295&ei=oNcjZarHEYeAi-gPj5qsyAs&oq=a.s.d.+l%27altra+palestra+fitness+%26+fly+zone&gs_lp=Egxnd3Mtd2l6LXNlcnAiKmEucy5kLiBsJ2FsdHJhIHBhbGVzdHJhIGZpdG5lc3MgJiBmbHkgem9uZSoCCAAyBxAAGB4YsANI66UBUABYAHACeACQAQCYAdMQoAHTEKoBAzktMbgBAcgBAOIDBBgBIEGIBgGQBgE&sclient=gws-wiz-serp"
+    }
+  ]
+}

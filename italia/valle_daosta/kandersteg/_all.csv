@@ -1,13 +1,28 @@
 # lat,lng,id,name,building_type,type,url,page_type
-46.499366,7.675561,osm_bl_mlisalp_46.4994_7.6756,Blümlisalp,ristorante,ristorante,
-46.495147,7.674771,osm_victoria_46.4951_7.6748,Victoria,ristorante,ristorante,
-46.497511,7.683165,osm_rendez_vous_46.4975_7.6832,Rendez-vous,ristorante,ristorante,
-46.495927,7.674156,osm_cafe_restaurant_au_vieux_chalet___hotel_46.4959_7.6742,CAFE RESTAURANT AU VIEUX CHALET & Hotel,ristorante,ristorante,
-46.494628,7.674042,osm_schweizerhof_46.4946_7.6740,Schweizerhof,ristorante,ristorante,
-46.496850,7.674133,osm_bernerhof_46.4969_7.6741,Bernerhof,ristorante,ristorante,
-46.493190,7.672598,osm_antico_46.4932_7.6726,Antico,ristorante,ristorante,
-46.497735,7.714675,osm_berghaus_oeschinensee_46.4977_7.7147,Berghaus Oeschinensee,ristorante,ristorante,
-46.473115,7.639930,osm_bergrestaurant_lohner_46.4731_7.6399,Bergrestaurant Lohner,ristorante,ristorante,
-46.497490,7.713916,osm_berghotel_oeschinensee_46.4975_7.7139,Berghotel Oeschinensee,ristorante,ristorante,
-46.495632,7.674106,osm_adler_46.4956_7.6741,Adler,ristorante,ristorante,
-46.493092,7.672162,osm_krauterei_edelweiss_46.4931_7.6722,Krauterei Edelweiss,ristorante,ristorante,
+# Kandersteg -- Tutti
+46.492464,7.649512,ov_restaurant_allmenalp_46.4925_7.6495,Restaurant Allmenalp,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/restaurant_allmenalp_46.4925_7.6495.json,custom
+46.495069,7.674481,ov_restaurant_ritter_46.4951_7.6745,Restaurant Ritter,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/restaurant_ritter_46.4951_7.6745.json,custom
+46.495541,7.671641,ov_bahnhofbuffet_kandersteg_46.4955_7.6716,Bahnhofbuffet Kandersteg,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/bahnhofbuffet_kandersteg_46.4955_7.6716.json,custom
+46.493225,7.672706,ov_hotel_restaurant_spycher_46.4932_7.6727,Hotel Restaurant Spycher,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/hotel_restaurant_spycher_46.4932_7.6727.json,custom
+46.493190,7.672598,ov_pizzeria_antico_46.4932_7.6726,Pizzeria Antico,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/pizzeria_antico_46.4932_7.6726.json,custom
+46.497570,7.682170,ov_arva_berghaus_am_oeschinensee_46.4976_7.6822,Arva Berghaus am Oeschinensee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/arva_berghaus_am_oeschinensee_46.4976_7.6822.json,custom
+46.497540,7.683218,ov_restaurant_rendez_vous_46.4975_7.6832,Restaurant Rendez-vous,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/restaurant_rendez-vous_46.4975_7.6832.json,custom
+46.497589,7.714065,ov_berghotel_oeschinensee_46.4976_7.7141,Berghotel Oeschinensee,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/berghotel_oeschinensee_46.4976_7.7141.json,custom
+46.499366,7.675561,osm_bl_mlisalp_46.4994_7.6756,Blümlisalp,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/blmlisalp_46.4994_7.6756.json,custom
+46.495147,7.674771,osm_victoria_46.4951_7.6748,Victoria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/victoria_46.4951_7.6748.json,custom
+46.497511,7.683165,osm_rendez_vous_46.4975_7.6832,Rendez-vous,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/rendez-vous_46.4975_7.6832.json,custom
+46.495927,7.674156,osm_cafe_restaurant_au_vieux_chalet___hotel_46.4959_7.6742,CAFE RESTAURANT AU VIEUX CHALET & Hotel,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/cafe_restaurant_au_vieux_chalet_hotel_46.4959_7.6742.json,custom
+46.494628,7.674042,osm_schweizerhof_46.4946_7.6740,Schweizerhof,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/schweizerhof_46.4946_7.6740.json,custom
+46.496850,7.674133,osm_bernerhof_46.4969_7.6741,Bernerhof,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/bernerhof_46.4969_7.6741.json,custom
+46.493190,7.672598,osm_antico_46.4932_7.6726,Antico,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/antico_46.4932_7.6726.json,custom
+46.497735,7.714675,osm_berghaus_oeschinensee_46.4977_7.7147,Berghaus Oeschinensee,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/berghaus_oeschinensee_46.4977_7.7147.json,custom
+46.473115,7.639930,osm_bergrestaurant_lohner_46.4731_7.6399,Bergrestaurant Lohner,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/bergrestaurant_lohner_46.4731_7.6399.json,custom
+46.497490,7.713916,osm_berghotel_oeschinensee_46.4975_7.7139,Berghotel Oeschinensee,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/berghotel_oeschinensee_46.4975_7.7139.json,custom
+46.495632,7.674106,osm_adler_46.4956_7.6741,Adler,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/adler_46.4956_7.6741.json,custom
+46.493092,7.672162,osm_krauterei_edelweiss_46.4931_7.6722,Krauterei Edelweiss,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/krauterei_edelweiss_46.4931_7.6722.json,custom
+46.483332,7.665839,ov_crystal_46.4833_7.6658,Crystal,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/crystal_46.4833_7.6658.json,custom
+46.495124,7.674462,ov_skibar_46.4951_7.6745,Skibar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/skibar_46.4951_7.6745.json,custom
+46.493180,7.670380,ov_sport_pub_kandersteg_46.4932_7.6704,Sport Pub Kandersteg,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/sport_pub_kandersteg_46.4932_7.6704.json,custom
+46.493049,7.672224,osm_krauterei_edelweiss_46.4930_7.6722,Krauterei Edelweiss,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/krauterei_edelweiss_46.4930_7.6722.json,custom
+46.494540,7.671294,ov_kunsteisbahn_kandersteg_46.4945_7.6713,Kunsteisbahn Kandersteg,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/kunsteisbahn_kandersteg_46.4945_7.6713.json,custom
+46.495097,7.672219,ov_langlaufschule_edelweiss_46.4951_7.6722,Langlaufschule Edelweiss,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/kandersteg/pages/langlaufschule_edelweiss_46.4951_7.6722.json,custom

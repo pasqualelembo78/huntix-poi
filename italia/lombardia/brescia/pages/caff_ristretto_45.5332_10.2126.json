@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍺",
+    "title": "Caffé Ristretto",
+    "subtitle": "Bar & Caffè",
+    "color": "#E65100"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Caffetteria",
+      "items": [
+        {
+          "name": "Caffè",
+          "price": "€1,20",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 15
+          }
+        },
+        {
+          "name": "Cappuccino",
+          "price": "€1,50",
+          "emoji": "☕",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        },
+        {
+          "name": "Cornetto",
+          "price": "€1,50",
+          "emoji": "🥐",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Birra Piccola",
+          "price": "€3,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Aperitivo",
+          "price": "€5,00",
+          "emoji": "🍸",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Analcolico",
+          "price": "€2,50",
+          "emoji": "🥤",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 18
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Lun-Sab: 07:00-22:00\nDom: 08:00-13:00"
+    },
+    {
+      "type": "action",
+      "title": "Prendi un Caffè",
+      "emoji": "☕",
+      "action": {
+        "type": "consume",
+        "need": "thirst",
+        "gain": 20
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.it/search?q=caffe+ristretto+brescia&client=safari&hl=it-it&sxsrf=ALiCzsaZ0eyYrSGez7sg8vjE8gEAwsmIHQ%3A1668018562937&ei=gvFrY5_rOJ2Qxc8P0uGIkAI&gs_ssp=eJzj4tVP1zc0TLeoLEwpKzMxYLRSMagwMbcwNDczSzU0S041NTBPszKosDRMTTS1BHIMTEyTU5O9xJMT09JSFYoyi0uKUktK8hWSilKLkzMTAWgvF88&oq=caffe+ristretto&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADINCC4QxwEQrwEQsAMQJzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIKCAAQRxDWBBCwAzIHCAAQsAMQQzIHCAAQsAMQQzISCC4QxwEQrwEQyAMQsAMQQxgBMgwILhDIAxCwAxBDGAEyDAguEMgDELADEEMYATIMCC4QyAMQsAMQQxgBMgwILhDIAxCwAxBDGAEyDAguEMgDELADEEMYAUoECEEYAFAAWABgrwxoAXAAeACAAQCIAQCSAQCYAQDIARHAAQHaAQQIARgI&sclient=mobile-gws-wiz-serp#wptab=si:AC1wQDAtx2BbmyBmykHcHVhKaK47_LXmVZ833UYuyvH37yK78hXUYfJDcYspocuzGbOaNGOdYyDbQRZ1OQhb5k5PpeNZZ5xRHpT-ooayPqBJqrzdYrkKwpjeDzveRyxefV8h1-8l6NFJ"
+    }
+  ]
+}

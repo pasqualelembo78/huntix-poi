@@ -1,9 +1,21 @@
 # lat,lng,id,name,building_type,type,url,page_type
-45.514881,7.855167,osm_ristorante_il_veliero_45.5149_7.8552,Ristorante Il Veliero,ristorante,ristorante,
-45.514467,7.858449,osm_ai_navigli_45.5145_7.8584,Ai Navigli,ristorante,ristorante,
-45.523636,7.857312,osm_balmetto_mercando_45.5236_7.8573,Balmetto Mercando,ristorante,ristorante,
-45.507391,7.826380,osm_ristorante_il_balmetto_45.5074_7.8264,Ristorante Il Balmetto,ristorante,ristorante,
-45.513118,7.856532,osm_al_mulino_45.5131_7.8565,Al Mulino,ristorante,ristorante,
-45.505746,7.856482,osm_polipazzo_45.5057_7.8565,Polipazzo,ristorante,ristorante,
-45.513771,7.855173,osm_mille_gusti_pizza_kebab___grill_45.5138_7.8552,Mille Gusti Pizza Kebab & Grill,ristorante,ristorante,
-45.511467,7.856883,osm_sicily_45.5115_7.8569,Sicily,ristorante,ristorante,
+# borgofranco_divrea -- restaurants
+45.505037,7.828004,ov_i_sapori_di_casa_nostra_45.5050_7.8280,I Sapori di Casa Nostra,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/i_sapori_di_casa_nostra_45.5050_7.8280.json,custom
+45.507236,7.826781,ov_il_balmetto_45.5072_7.8268,Il Balmetto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/il_balmetto_45.5072_7.8268.json,custom
+45.505750,7.856359,ov_ristorante_polipazzo___ristorante_di_pes_45.5058_7.8564,Ristorante Polipazzo | Ristorante di Pesce Borgofranco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/ristorante_polipazzo_ristorante_di_pesce_45.5058_7.8564.json,custom
+45.515716,7.838471,ov_viridian_45.5157_7.8385,Viridian,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/viridian_45.5157_7.8385.json,custom
+45.512156,7.855289,ov_sa_mesa_ristorante_pizzeria_45.5122_7.8553,Sa Mesa Ristorante Pizzeria,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/sa_mesa_ristorante_pizzeria_45.5122_7.8553.json,custom
+45.512345,7.855410,ov_route26_45.5123_7.8554,Route26,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/route26_45.5123_7.8554.json,custom
+45.513820,7.855312,ov_mille_gusti_pizza_kebab_and_grill_45.5138_7.8553,Mille Gusti Pizza Kebab and Grill,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/mille_gusti_pizza_kebab_and_grill_45.5138_7.8553.json,custom
+45.514410,7.858508,ov_ai_navigli_45.5144_7.8585,Ai Navigli,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/ai_navigli_45.5144_7.8585.json,custom
+45.515025,7.855072,ov_il_veliero_45.5150_7.8551,Il Veliero,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/il_veliero_45.5150_7.8551.json,custom
+45.516276,7.872948,ov_il_giardino_ristorante_bar_borgofranco_d_45.5163_7.8729,Il Giardino Ristorante Bar Borgofranco d'Ivrea,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/il_giardino_ristorante_bar_borgofranco_d_45.5163_7.8729.json,custom
+45.523363,7.857230,ov_rocapartida_45.5234_7.8572,Rocapartida,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/rocapartida_45.5234_7.8572.json,custom
+45.523760,7.857276,ov_balmetto_mercando_45.5238_7.8573,Balmetto Mercando,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/balmetto_mercando_45.5238_7.8573.json,custom
+45.514881,7.855167,osm_ristorante_il_veliero_45.5149_7.8552,Ristorante Il Veliero,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/ristorante_il_veliero_45.5149_7.8552.json,custom
+45.514467,7.858449,osm_ai_navigli_45.5145_7.8584,Ai Navigli,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/ai_navigli_45.5145_7.8584.json,custom
+45.507391,7.826380,osm_ristorante_il_balmetto_45.5074_7.8264,Ristorante Il Balmetto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/ristorante_il_balmetto_45.5074_7.8264.json,custom
+45.513118,7.856532,osm_al_mulino_45.5131_7.8565,Al Mulino,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/al_mulino_45.5131_7.8565.json,custom
+45.505746,7.856482,osm_polipazzo_45.5057_7.8565,Polipazzo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/polipazzo_45.5057_7.8565.json,custom
+45.513771,7.855173,osm_mille_gusti_pizza_kebab___grill_45.5138_7.8552,Mille Gusti Pizza Kebab & Grill,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/mille_gusti_pizza_kebab_grill_45.5138_7.8552.json,custom
+45.511467,7.856883,osm_sicily_45.5115_7.8569,Sicily,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/valle_daosta/borgofranco_divrea/pages/sicily_45.5115_7.8569.json,custom

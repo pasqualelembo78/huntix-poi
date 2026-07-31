@@ -1,0 +1,103 @@
+{
+  "banner": {
+    "icon": "🍕",
+    "title": "Osteria degli aviatori",
+    "subtitle": "Ristorante",
+    "color": "#C62828"
+  },
+  "sections": [
+    {
+      "type": "menu",
+      "title": "Pizze",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": "€5,00",
+          "emoji": "🍕",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 30
+          }
+        },
+        {
+          "name": "Diavola",
+          "price": "€6,00",
+          "emoji": "🌶️",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 32
+          }
+        },
+        {
+          "name": "Capricciosa",
+          "price": "€7,00",
+          "emoji": "🥚",
+          "action": {
+            "type": "consume",
+            "need": "hunger",
+            "gain": 33
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "title": "Bevande",
+      "items": [
+        {
+          "name": "Acqua",
+          "price": "€1,00",
+          "emoji": "💧",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Birra",
+          "price": "€4,00",
+          "emoji": "🍺",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Vino",
+          "price": "€5,00",
+          "emoji": "🍷",
+          "action": {
+            "type": "consume",
+            "need": "thirst",
+            "gain": 30
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Orari",
+      "content": "Mar-Dom: 12:00-15:00 / 19:00-23:00\nLun: Chiuso"
+    },
+    {
+      "type": "action",
+      "title": "Ordina",
+      "emoji": "🛫️",
+      "action": {
+        "type": "consume",
+        "need": "hunger",
+        "gain": 40
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://www.google.com/search?client=ms-android-xiaomi-rvo3&cs=1&sca_esv=f7df469154024ccc&biw=393&bih=786&sxsrf=ADLYWIJ13RRdUnYaE3DA1Zmj7qocUMJhhA%3A1721613184674&q=Osteria+degli+aviatori&uds=ADvngMj6RcRnYsTsmpsGDF6hEm_uZjebWfPCOpk7u1wk-JmadLQtMfhl1YHo8Pl-F9LsSobqIsqIeOGG3jcJ9c4trQQE4fleSb7jEdxeenl1pboA50_Pn22h7tEwvR3rRSnicLr6EdrVsjFeKQNTrvK5BrJRVFE8wA&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgMTNWQfji5BXrDYhly5xoqk3mx2zt_yXpWEP6cq3LzEeHhb6xlpSRSYrzYaaeorN1t4I8sDaPZy11CAzey0drkD17od9&sa=X&ictx=1&stq=1&lei=gLudZui9KP_87_UP2cGCyAM"
+    }
+  ]
+}
