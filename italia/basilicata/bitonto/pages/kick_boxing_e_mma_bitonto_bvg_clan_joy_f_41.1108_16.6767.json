@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "KICK BOXING e MMA bitonto BVG Clan (joy fitness)",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://l.instagram.com/?u=https%3A%2F%2Fwww.joyfitnesscenter.com%2Fevents%2Fkick-boxing%2F%3Ffbclid%3DPAAaYXvSK4YzNeBAZdSlu42J5lXfycuDdQT-rD0gVgx24iIQZl07ZlC2AfRds&e=AT2GRWu34-YV5vGKpcpDIluZi51COdUzkgAcgmxz9_g51fM7d607O7B7RTzDxZ6iLth6fwqf2KCupzhGXuj_iZOnILPQLJwhNuL52Fk"
+    }
+  ]
+}

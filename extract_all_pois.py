@@ -9,7 +9,10 @@ Strategia:
   - Processa una categoria alla volta per tenere la RAM leggera
   - Scrive su file CSV per città, poi genera riepiloghi
 
-Uso: python3 extract_all_pois.py
+Uso:
+  python3 extract_all_pois.py              -> Processa tutte le regioni
+  python3 extract_all_pois.py --region 7   -> Processa solo la regione #7 (Lazio)
+  python3 extract_all_pois.py --region lazio -> Processa solo il Lazio per slug
 """
 import json, urllib.request, urllib.parse, re, time, os, subprocess, sys, math
 
@@ -286,28 +289,11 @@ def osm_category_query(cat_key, bbox):
     tq = OSM_QUERIES[cat_key]
     return f'[out:json][timeout:120];(node[{tq}]({bbox});way[{tq}]({bbox}););out center tags;'
 
-# ────────────────────── MAIN ──────────────────────
-def main():
-    print("=" * 55)
-    print("  Huntix POI Extractor — OSM + Overture Maps (unificato)")
-    print("=" * 55)
-    print()
-
-    repo_dir = os.path.dirname(os.path.abspath(__file__))
-    print(f"Repo: {repo_dir}\n")
-
-    print("Scegli la regione:\n")
-    for k, (n, _) in sorted(REGIONS.items(), key=lambda x: int(x[0])):
-        print(f"  [{k:>2}] {n}")
-    print()
-    choice = input(">>> Numero (1-20): ").strip()
-    if choice not in REGIONS:
-        print("Scelta non valida.")
-        return
-
-    region_name, bbox = REGIONS[choice]
-    region_slug = norm_name(region_name)
-    print(f"\n  {region_name} — {bbox}\n")
+# ────────────────────── PER-REGION PROCESSOR ──────────────────────
+def process_region(region_name, region_slug, bbox, repo_dir, con, global_regional_files):
+    print(f"\n{'=' * 55}")
+    print(f"  Processing: {region_name} — {bbox}")
+    print(f"{'=' * 55}\n")
 
     region_dir = os.path.join(repo_dir, "italia", region_slug)
     os.makedirs(region_dir, exist_ok=True)
@@ -316,14 +302,6 @@ def main():
     print("Carico citta da OSM...")
     cities_cache = load_osm_cities(bbox)
     print(f"  {len(cities_cache)} luoghi\n")
-
-    # Connessione DuckDB + Overture
-    print("Connessione a Overture Maps (S3)...")
-    con = duckdb.connect()
-    con.execute("INSTALL spatial; LOAD spatial;")
-    con.execute("INSTALL httpfs; LOAD httpfs;")
-    con.execute("SET s3_region='us-west-2';")
-    print("  Connesso\n")
 
     # Carica citta Overture per reverse geocoding
     print("Carico citta da Overture...")
@@ -439,8 +417,6 @@ def main():
 
         print()
 
-    con.close()
-
     # 4. _all.csv per ogni citta (unendo i file categoria)
     print("Creazione _all.csv per citta...")
     for slug, info in city_counts.items():
@@ -515,17 +491,122 @@ def main():
         if region_name not in existing_regions:
             f.write(f"{region_name},{region_slug}\n")
 
+    # Collect regional _all.csv for global merge
+    global_regional_files.append(os.path.join(region_dir, "_all.csv"))
+
     # 8. global_pois.csv
     print("Aggiornamento global_pois.csv...")
     global_file = os.path.join(repo_dir, "global_pois.csv")
+    all_lines = []
+    for rf in global_regional_files:
+        if os.path.exists(rf):
+            with open(rf, "r", encoding="utf-8") as f:
+                for line in f:
+                    if not line.strip().startswith("#") and line.strip():
+                        all_lines.append(line.strip())
     added, total = merge_csv(global_file,
-        "Huntix Global POI -- Tutte le regioni (OSM+Overture)", all_region)
+        "Huntix Global POI -- Tutte le regioni (OSM+Overture)", all_lines)
 
     print(f"\n{'=' * 55}")
-    print(f"  Completato!")
+    print(f"  Completato {region_name}!")
     print(f"   {len(city_counts)} citta")
     print(f"   Global: +{added} nuovi / {total} totali")
     print(f"{'=' * 55}\n")
+
+    return len(city_counts)
+
+
+# ────────────────────── MAIN ──────────────────────
+def main():
+    print("=" * 55)
+    print("  Huntix POI Extractor — OSM + Overture Maps (unificato)")
+    print("=" * 55)
+    print()
+
+    repo_dir = os.path.dirname(os.path.abspath(__file__))
+    print(f"Repo: {repo_dir}\n")
+
+    # Parse CLI args (optional) per batch/selective processing
+    import argparse
+    parser = argparse.ArgumentParser(description="Extract POI data for Italian regions")
+    parser.add_argument("--region", type=str, default=None,
+                        help="Process single region by number (1-20) or slug name (e.g. lazio)")
+    parser.add_argument("--all", action="store_true",
+                        help="Process all 20 regions automatically (no interactive prompt)")
+    parser.add_argument("--no-push", action="store_true",
+                        help="Skip git push prompt")
+    args, _ = parser.parse_known_args()
+
+    # Determine which regions to process
+    regions_to_process = []
+
+    if args.all:
+        regions_to_process = list(REGIONS.values())
+        region_label = "TUTTE LE REGIONI"
+    elif args.region:
+        if args.region in REGIONS:
+            region_name, bbox = REGIONS[args.region]
+            regions_to_process.append((region_name, bbox))
+        else:
+            target_slug = norm_name(args.region.lower())
+            for k, (n, b) in REGIONS.items():
+                if norm_name(n) == target_slug:
+                    regions_to_process.append((n, b))
+                    break
+        if not regions_to_process:
+            print(f"Region '{args.region}' non trovata.")
+            return
+        region_label = args.region
+    else:
+        # Interactive mode
+        print("Scegli la regione:\n")
+        for k, (n, _) in sorted(REGIONS.items(), key=lambda x: int(x[0])):
+            print(f"  [{k:>2}] {n}")
+        print("  [ 0] TUTTE LE REGIONI")
+        print()
+        choice = input(">>> Numero (0-20): ").strip()
+        if choice == "0":
+            regions_to_process = list(REGIONS.values())
+            region_label = "TUTTE LE REGIONI"
+        elif choice in REGIONS:
+            region_name, bbox = REGIONS[choice]
+            regions_to_process.append((region_name, bbox))
+            region_label = region_name
+        else:
+            print("Scelta non valida.")
+            return
+
+    # Connessione DuckDB + Overture (shared across all regions)
+    print(f"Connessione a Overture Maps (S3)...")
+    con = duckdb.connect()
+    con.execute("INSTALL spatial; LOAD spatial;")
+    con.execute("INSTALL httpfs; LOAD httpfs;")
+    con.execute("SET s3_region='us-west-2';")
+    print("  Connesso\n")
+
+    global_regional_files = []
+    total_cities = 0
+
+    for region_name, bbox in regions_to_process:
+        region_slug = norm_name(region_name)
+        cities_count = process_region(region_name, region_slug, bbox, repo_dir, con, global_regional_files)
+        total_cities += cities_count
+
+    con.close()
+
+    print(f"\n{'=' * 55}")
+    print(f"  {region_label} COMPLETE!")
+    print(f"   {total_cities} citata totali")
+    print(f"{'=' * 55}\n")
+
+    if args.no_push:
+        return
+    print(f"  {region_label} COMPLETE!")
+    print(f"   {total_cities} citta totali")
+    print(f"{'=' * 55}\n")
+
+    if args.no_push:
+        return
 
     # GIT PUSH
     resp = input(">>> Push su GitHub? (s/N): ").strip().lower()
@@ -542,7 +623,7 @@ def main():
     try:
         subprocess.run(["git", "add", "."], cwd=repo_dir, check=True)
         subprocess.run(["git", "commit", "-m",
-            f"POI {region_name} -- {len(all_region)} POI (OSM+Overture unificato)"],
+            f"POI {region_label} — {total_cities} cities (OSM+Overture unificato)"],
             cwd=repo_dir, check=True)
         subprocess.run(["git", "remote", "set-url", "origin", remote_url], cwd=repo_dir, check=True)
         result = subprocess.run(["git", "push", "origin", "main"],

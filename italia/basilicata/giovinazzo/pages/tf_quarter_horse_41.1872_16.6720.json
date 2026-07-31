@@ -1,0 +1,67 @@
+{
+  "banner": {
+    "icon": "💪",
+    "title": "TF Quarter Horse",
+    "subtitle": "Palestra & Fitness",
+    "color": "#FF6F00"
+  },
+  "sections": [
+    {
+      "type": "text",
+      "title": "Benvenuto",
+      "content": "Vieni ad allenarti da {name}! \nTrovi attrezzature moderne e istruttori qualificati."
+    },
+    {
+      "type": "menu",
+      "title": "Attrezzatura",
+      "items": [
+        {
+          "name": "Pesi Liberi",
+          "price": "€0",
+          "emoji": "🏋️",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 25
+          }
+        },
+        {
+          "name": "Cardio",
+          "price": "€0",
+          "emoji": "🏃",
+          "action": {
+            "type": "consume",
+            "need": "fun",
+            "gain": 20
+          }
+        },
+        {
+          "name": "Yoga",
+          "price": "€0",
+          "emoji": "🧘",
+          "action": {
+            "type": "consume",
+            "need": "sleep",
+            "gain": 15
+          }
+        }
+      ]
+    },
+    {
+      "type": "action",
+      "title": "Allenati",
+      "emoji": "🏋️",
+      "action": {
+        "type": "consume",
+        "need": "fun",
+        "gain": 30
+      }
+    },
+    {
+      "type": "link",
+      "title": "Vedi Sito Web",
+      "emoji": "🌐",
+      "url": "https://maps.apple.com/?auid=14935258313327148225&ll=41.187789%2C16.646670&lsp=7618&q=Posizione+selezionata&t=m"
+    }
+  ]
+}
