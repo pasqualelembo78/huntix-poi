@@ -1,5 +1,6 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# venezia -- landmarks
+# venezia -- landmarks.csv
+40.959770,15.810995,ov_scuola_grande_di_san_marco_40.9598_15.8110,Scuola Grande di San Marco,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/scuola_grande_di_san_marco_40.9598_15.8110.json,custom
 45.314860,12.313475,ov_piccolo_museo_della_laguna_sud_45.3149_12.3135,Piccolo Museo della Laguna sud,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/piccolo_museo_della_laguna_sud_45.3149_12.3135.json,custom
 45.395308,12.358675,ov_batteria_ca_bianca_angelo_emo_45.3953_12.3587,Batteria Ca'Bianca Angelo Emo,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/batteria_cabianca_angelo_emo_45.3953_12.3587.json,custom
 45.413880,12.368559,ov_museo_laboratorio_navale_falconi_45.4139_12.3686,Museo Laboratorio Navale Falconi,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/museo_laboratorio_navale_falconi_45.4139_12.3686.json,custom
@@ -123,8 +124,6 @@
 45.484720,12.418785,ov_lace_museum_45.4847_12.4188,Lace Museum,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/lace_museum_45.4847_12.4188.json,custom
 45.497645,12.417327,ov_tirchello_45.4976_12.4173,Tirchello,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/tirchello_45.4976_12.4173.json,custom
 45.498280,12.411774,ov_casa_museo_andrich_45.4983_12.4118,Casa Museo Andrich,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/casa_museo_andrich_45.4983_12.4118.json,custom
-45.505146,12.441850,ov_la_cura_45.5051_12.4418,La Cura,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/la_cura_45.5051_12.4418.json,custom
-45.502510,12.277430,ov_terra_antica_45.5025_12.2774,Terra Antica,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/terra_antica_45.5025_12.2774.json,custom
 45.499642,12.257429,ov_biennale_cimm_45.4996_12.2574,Biennale CIMM,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/biennale_cimm_45.4996_12.2574.json,custom
 45.495248,12.236170,ov_castello_di_mestre_45.4952_12.2362,Castello di Mestre,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/castello_di_mestre_45.4952_12.2362.json,custom
 45.492974,12.243274,ov_museo_forte_marghera_45.4930_12.2433,Museo Forte Marghera,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/museo_forte_marghera_45.4930_12.2433.json,custom
@@ -136,3 +135,6 @@
 45.456570,12.356910,ov_museo_del_vetro_45.4566_12.3569,Museo del Vetro,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/museo_del_vetro_45.4566_12.3569.json,custom
 45.456145,12.355405,ov_murano_museo_a_45.4561_12.3554,Murano Museo A,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/murano_museo_a_45.4561_12.3554.json,custom
 45.454033,12.351601,ov_fondazione_berengo_art_space_45.4540_12.3516,Fondazione Berengo Art Space,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/fondazione_berengo_art_space_45.4540_12.3516.json,custom
+45.505146,12.441850,ov_la_cura_45.5051_12.4418,La Cura,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/la_cura_45.5051_12.4418.json,custom
+45.502510,12.277430,ov_terra_antica_45.5025_12.2774,Terra Antica,MUSEUM,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/terra_antica_45.5025_12.2774.json,custom
+45.454616,9.163695,ov_leone_di_san_marco_45.4546_9.1637,Leone di San Marco,MONUMENT,monumento,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/venezia/pages/leone_di_san_marco_45.4546_9.1637.json,custom

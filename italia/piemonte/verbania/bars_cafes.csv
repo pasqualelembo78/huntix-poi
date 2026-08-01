@@ -1,12 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# verbania -- bars_cafes
-45.967538,8.416866,ov_enoteca_rapule__45.9675_8.4169,Enoteca Rapule',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/enoteca_rapule_45.9675_8.4169.json,custom
-45.946949,8.470787,ov_bar_la_rustica_45.9469_8.4708,Bar La Rustica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_la_rustica_45.9469_8.4708.json,custom
-45.939397,8.462732,ov_bar_caffe_novecento_45.9394_8.4627,Bar Caffe Novecento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_caffe_novecento_45.9394_8.4627.json,custom
-45.929971,8.464321,ov_i_mastri_del_lago_45.9300_8.4643,I Mastri del lago,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/i_mastri_del_lago_45.9300_8.4643.json,custom
-45.942931,8.472845,ov_jack_fruit_healthy_lifestyle_45.9429_8.4728,Jack-Fruit Healthy Lifestyle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/jack-fruit_healthy_lifestyle_45.9429_8.4728.json,custom
-45.945744,8.490076,ov_bar_maggiore_45.9457_8.4901,Bar Maggiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_maggiore_45.9457_8.4901.json,custom
-45.945916,8.489765,ov_lollypop_45.9459_8.4898,Lollypop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/lollypop_45.9459_8.4898.json,custom
+# verbania -- bars_cafes.csv
 45.934870,8.527340,ov_bar_caffe_stanglini_45.9349_8.5273,Bar caffe stanglini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_caffe_stanglini_45.9349_8.5273.json,custom
 45.931329,8.539484,ov_estremadura_cafe_45.9313_8.5395,Estremadura Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/estremadura_cafe_45.9313_8.5395.json,custom
 45.931051,8.540294,ov_caffe_stanglini_45.9311_8.5403,Caffe Stanglini,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/caffe_stanglini_45.9311_8.5403.json,custom
@@ -84,3 +77,11 @@
 45.937461,8.579820,osm_caf__del_parco_45.9375_8.5798,Cafè del Parco,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/caf_del_parco_45.9375_8.5798.json,custom
 45.923034,8.552351,osm_c_est_la_vie_45.9230_8.5524,C'est La Vie,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/cest_la_vie_45.9230_8.5524.json,custom
 45.927296,8.544337,osm_suna_beach__pool___lounge_bar_45.9273_8.5443,Suna Beach- Pool & Lounge Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/suna_beach-_pool_lounge_bar_45.9273_8.5443.json,custom
+45.921121,8.549916,osm_the_flag_45.9211_8.5499,The Flag,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/the_flag_45.9211_8.5499.json,custom
+45.967538,8.416866,ov_enoteca_rapule__45.9675_8.4169,Enoteca Rapule',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/enoteca_rapule_45.9675_8.4169.json,custom
+45.946949,8.470787,ov_bar_la_rustica_45.9469_8.4708,Bar La Rustica,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_la_rustica_45.9469_8.4708.json,custom
+45.939397,8.462732,ov_bar_caffe_novecento_45.9394_8.4627,Bar Caffe Novecento,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_caffe_novecento_45.9394_8.4627.json,custom
+45.929971,8.464321,ov_i_mastri_del_lago_45.9300_8.4643,I Mastri del lago,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/i_mastri_del_lago_45.9300_8.4643.json,custom
+45.942931,8.472845,ov_jack_fruit_healthy_lifestyle_45.9429_8.4728,Jack-Fruit Healthy Lifestyle,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/jack-fruit_healthy_lifestyle_45.9429_8.4728.json,custom
+45.945744,8.490076,ov_bar_maggiore_45.9457_8.4901,Bar Maggiore,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/bar_maggiore_45.9457_8.4901.json,custom
+45.945916,8.489765,ov_lollypop_45.9459_8.4898,Lollypop,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/verbania/pages/lollypop_45.9459_8.4898.json,custom

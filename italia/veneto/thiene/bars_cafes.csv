@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# thiene -- bars_cafes
+# thiene -- bars_cafes.csv
 45.689136,11.481776,ov_dolomiti_house_mai_stufi_45.6891_11.4818,Dolomiti House MAI STUFI,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/dolomiti_house_mai_stufi_45.6891_11.4818.json,custom
 45.690839,11.482496,ov_minas_bar_45.6908_11.4825,Minas Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/minas_bar_45.6908_11.4825.json,custom
 45.690446,11.467115,ov_bar_ristorante_fuori_orario_45.6904_11.4671,Bar Ristorante Fuori Orario,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bar_ristorante_fuori_orario_45.6904_11.4671.json,custom
@@ -10,8 +10,6 @@
 45.685600,11.483971,ov_caff__ch_ri_45.6856_11.4840,Caffè Chéri,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/caff_chri_45.6856_11.4840.json,custom
 45.678013,11.473315,ov_iqos_reseller___max_bar_tabaccheria__thi_45.6780_11.4733,"IQOS RESELLER - Max Bar Tabaccheria, Thiene",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/iqos_reseller_-_max_bar_tabaccheria_thie_45.6780_11.4733.json,custom
 45.673780,11.486192,ov_spritz_garden___santo_di_thiene_45.6738_11.4862,SPRITZ GARDEN - Santo di Thiene,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/spritz_garden_-_santo_di_thiene_45.6738_11.4862.json,custom
-45.675689,11.502327,ov_bruschetteria_birreria_da_mi_e_ti_45.6757_11.5023,Bruschetteria Birreria Da Mi e Ti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bruschetteria_birreria_da_mi_e_ti_45.6757_11.5023.json,custom
-45.587967,11.500777,ov_il_ginetto_45.5880_11.5008,Il Ginetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/il_ginetto_45.5880_11.5008.json,custom
 45.702470,11.396969,ov_eternity_caf__45.7025_11.3970,Eternity Cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/eternity_caf_45.7025_11.3970.json,custom
 45.712450,11.476520,ov_gr8_laboratorio_di_pasticceria_45.7124_11.4765,Gr8 Laboratorio di Pasticceria,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/gr8_laboratorio_di_pasticceria_45.7124_11.4765.json,custom
 45.713352,11.468474,ov_bar_pesa_45.7134_11.4685,Bar Pesa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bar_pesa_45.7134_11.4685.json,custom
@@ -51,7 +49,6 @@
 45.702946,11.488973,ov_caffe_vecchio_veneto_45.7029_11.4890,Caffe Vecchio Veneto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/caffe_vecchio_veneto_45.7029_11.4890.json,custom
 45.703507,11.489308,ov_bar_dolce_vita_45.7035_11.4893,Bar Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bar_dolce_vita_45.7035_11.4893.json,custom
 45.699098,11.487133,ov_bar_al_cantinon_45.6991_11.4871,Bar Al Cantinon,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bar_al_cantinon_45.6991_11.4871.json,custom
-45.709648,11.500897,ov_confine_caf__45.7096_11.5009,Confine Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/confine_caf_45.7096_11.5009.json,custom
 45.711498,11.497568,ov_tropical_caffe_45.7115_11.4976,Tropical Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/tropical_caffe_45.7115_11.4976.json,custom
 45.711437,11.497324,ov_velox_cafe_45.7114_11.4973,Velox Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/velox_cafe_45.7114_11.4973.json,custom
 45.703878,11.482731,osm_il_portico_45.7039_11.4827,Il Portico,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/il_portico_45.7039_11.4827.json,custom
@@ -67,3 +64,6 @@
 45.694728,11.480494,osm_101caffe__45.6947_11.4805,101Caffe',bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/101caffe_45.6947_11.4805.json,custom
 45.711554,11.468857,osm_origini_caff__45.7116_11.4689,Origini Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/origini_caff_45.7116_11.4689.json,custom
 45.706962,11.481049,osm_villa_6___sharing_bar_45.7070_11.4810,Villa 6 - Sharing Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/villa_6_-_sharing_bar_45.7070_11.4810.json,custom
+45.675689,11.502327,ov_bruschetteria_birreria_da_mi_e_ti_45.6757_11.5023,Bruschetteria Birreria Da Mi e Ti,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/bruschetteria_birreria_da_mi_e_ti_45.6757_11.5023.json,custom
+45.587967,11.500777,ov_il_ginetto_45.5880_11.5008,Il Ginetto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/il_ginetto_45.5880_11.5008.json,custom
+45.709648,11.500897,ov_confine_caf__45.7096_11.5009,Confine Café,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/thiene/pages/confine_caf_45.7096_11.5009.json,custom

@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# foggia -- bars_cafes
+# foggia -- bars_cafes.csv
 41.482620,15.529721,ov_4ever_cafe__41.4826_15.5297,4EVER Cafe',RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/4ever_cafe_41.4826_15.5297.json,custom
 41.484703,15.689290,ov_borgo_tavernola__foggia__41.4847_15.6893,Borgo Tavernola (foggia),RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/borgo_tavernola_foggia_41.4847_15.6893.json,custom
 41.416036,15.654745,ov_c_c_caff__in_cialde_e_capsule_41.4160_15.6547,C&C Caffè in Cialde e Capsule,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/cc_caff_in_cialde_e_capsule_41.4160_15.6547.json,custom
@@ -199,7 +199,6 @@
 41.471244,15.556557,ov_rebeers_birrificio_41.4712_15.5566,Rebeers Birrificio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/rebeers_birrificio_41.4712_15.5566.json,custom
 41.474866,15.557216,ov_extra_tentazioni_41.4749_15.5572,Extra Tentazioni,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/extra_tentazioni_41.4749_15.5572.json,custom
 41.443988,15.501943,ov_coffee_show_41.4440_15.5019,Coffee Show,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/coffee_show_41.4440_15.5019.json,custom
-41.441763,15.496529,ov_archi_bar_41.4418_15.4965,Archi bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/archi_bar_41.4418_15.4965.json,custom
 41.363853,15.527795,ov_borgo_segezia_41.3639_15.5278,Borgo Segezia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/borgo_segezia_41.3639_15.5278.json,custom
 41.435339,15.966590,ov_the_seaport_pub_41.4353_15.9666,The Seaport Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/the_seaport_pub_41.4353_15.9666.json,custom
 41.461815,15.548095,osm_caffe_cairoli_41.4618_15.5481,Caffe Cairoli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/caffe_cairoli_41.4618_15.5481.json,custom
@@ -208,7 +207,7 @@
 41.461274,15.554881,osm_marikant_caf__41.4613_15.5549,Marikant Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/marikant_caf_41.4613_15.5549.json,custom
 41.449922,15.566363,osm_wasabi_caf__41.4499_15.5664,Wasabi Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/wasabi_caf_41.4499_15.5664.json,custom
 41.461033,15.529257,osm_moody_jazz_caf__41.4610_15.5293,Moody jazz cafè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/moody_jazz_caf_41.4610_15.5293.json,custom
-41.459628,15.529594,osm_bar__pasticceria__gelateria_dolce_grazia_41.4596_15.5296,Bar, pasticceria, gelateria Dolce Grazia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/bar_pasticceria_gelateria_dolce_grazia_41.4596_15.5296.json,custom
+41.459628,15.529594,osm_bar__pasticceria__gelateria_dolce_grazia_41.4596_15.5296,"Bar, pasticceria, gelateria Dolce Grazia",bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/bar_pasticceria_gelateria_dolce_grazia_41.4596_15.5296.json,custom
 41.465701,15.566271,osm_tolleranza_zero_41.4657_15.5663,Tolleranza Zero,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/tolleranza_zero_41.4657_15.5663.json,custom
 41.453461,15.563655,osm_sam__41.4535_15.5637,Samì,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/sam_41.4535_15.5637.json,custom
 41.467322,15.546535,osm_caff__dell_alba_41.4673_15.5465,Caffè dell'Alba,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/caff_dellalba_41.4673_15.5465.json,custom
@@ -217,3 +216,4 @@
 41.466749,15.562950,osm_gran_caff__moderno_41.4667_15.5629,Gran Caffè Moderno,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/gran_caff_moderno_41.4667_15.5629.json,custom
 41.468262,15.536598,osm_gate_caff__41.4683_15.5366,Gate Caffè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/gate_caff_41.4683_15.5366.json,custom
 41.455623,15.548730,osm_a_r_p_a__puglia___dipartimento_foggia_41.4556_15.5487,A.R.P.A. Puglia - Dipartimento Foggia,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/arpa_puglia_-_dipartimento_foggia_41.4556_15.5487.json,custom
+41.441763,15.496529,ov_archi_bar_41.4418_15.4965,Archi bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/foggia/pages/archi_bar_41.4418_15.4965.json,custom

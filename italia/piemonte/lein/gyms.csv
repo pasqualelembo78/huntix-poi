@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# lein -- gyms
+# lein -- gyms.csv
 45.166390,7.712537,ov_bowling_leini_45.1664_7.7125,Bowling Leini,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/bowling_leini_45.1664_7.7125.json,custom
 45.166273,7.712467,ov_accademia_del_balletto_45.1663_7.7125,Accademia del Balletto,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/accademia_del_balletto_45.1663_7.7125.json,custom
 45.177315,7.709990,ov_palestra_vsics_45.1773_7.7100,Palestra VSICS,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/palestra_vsics_45.1773_7.7100.json,custom
@@ -17,3 +17,4 @@
 45.184477,7.730593,ov_virility_45.1845_7.7306,Virility,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/virility_45.1845_7.7306.json,custom
 45.182831,7.726672,ov_geco_move_45.1828_7.7267,Geco Move,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/geco_move_45.1828_7.7267.json,custom
 45.204750,7.691410,ov_gian_luca_camoletto_cavalli_sportivi_45.2047_7.6914,Gian Luca Camoletto Cavalli Sportivi,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/gian_luca_camoletto_cavalli_sportivi_45.2047_7.6914.json,custom
+45.185088,7.729476,osm_fitness_love_45.1851_7.7295,Fitness Love,palestra,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/fitness_love_45.1851_7.7295.json,custom

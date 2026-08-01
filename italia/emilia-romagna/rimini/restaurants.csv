@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# rimini -- restaurants
+# rimini -- restaurants.csv
 43.978863,12.468755,ov_agriturismo_villa_santa_cristina_43.9789_12.4688,Agriturismo Villa Santa Cristina,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/agriturismo_villa_santa_cristina_43.9789_12.4688.json,custom
 44.000219,12.474963,ov_ristorante_da_rinaldi_44.0002_12.4750,Ristorante Da Rinaldi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/ristorante_da_rinaldi_44.0002_12.4750.json,custom
 44.020679,12.453831,ov_la_caserma_44.0207_12.4538,La Caserma,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/la_caserma_44.0207_12.4538.json,custom
@@ -839,7 +839,7 @@
 44.047381,12.600419,osm_la_giungla_44.0474_12.6004,La Giungla,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/la_giungla_44.0474_12.6004.json,custom
 44.063487,12.586297,osm_mala_strana_44.0635_12.5863,Mala Strana,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/mala_strana_44.0635_12.5863.json,custom
 44.065209,12.583472,osm_la_bottega_rossopomodoro_44.0652_12.5835,La Bottega Rossopomodoro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/la_bottega_rossopomodoro_44.0652_12.5835.json,custom
-44.031178,12.619969,osm_ivo_la_piada_e_l_oliveto_44.0312_12.6200,Ivo,la piada e l'oliveto,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/ivola_piada_e_loliveto_44.0312_12.6200.json,custom
+44.031178,12.619969,osm_ivo_la_piada_e_l_oliveto_44.0312_12.6200,"Ivo,la piada e l'oliveto",ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/ivola_piada_e_loliveto_44.0312_12.6200.json,custom
 44.073706,12.560208,osm_elyte_sushi_44.0737_12.5602,Elyte Sushi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/elyte_sushi_44.0737_12.5602.json,custom
 44.056923,12.586946,osm_prima_o_poi_44.0569_12.5869,Prima O Poi,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/prima_o_poi_44.0569_12.5869.json,custom
 44.108804,12.510650,osm_il_nido_44.1088_12.5107,Il Nido,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/il_nido_44.1088_12.5107.json,custom
@@ -877,7 +877,6 @@
 44.060540,12.569588,osm_osteria_io_e_simone_44.0605_12.5696,Osteria io e Simone,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/osteria_io_e_simone_44.0605_12.5696.json,custom
 43.886927,12.079961,osm_hotel_ristorante_di_druda_gaetano_43.8869_12.0800,Hotel Ristorante di Druda Gaetano,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/hotel_ristorante_di_druda_gaetano_43.8869_12.0800.json,custom
 44.061015,12.570162,osm_pinsallegra_44.0610_12.5702,PinsAllegra,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/pinsallegra_44.0610_12.5702.json,custom
-44.061944,12.568494,osm_waikiki_pok__44.0619_12.5685,Waikiki Poké,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/waikiki_pok_44.0619_12.5685.json,custom
 44.005029,12.537179,osm_baldoria_brewpub_44.0050_12.5372,Baldoria Brewpub,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/baldoria_brewpub_44.0050_12.5372.json,custom
 44.051609,12.498509,osm_notevolo_44.0516_12.4985,Notevolo,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/notevolo_44.0516_12.4985.json,custom
 44.059903,12.590139,osm_barrumba_44.0599_12.5901,Barrumba,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/emilia-romagna/rimini/pages/barrumba_44.0599_12.5901.json,custom

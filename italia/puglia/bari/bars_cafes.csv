@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# bari -- bars_cafes
+# bari -- bars_cafes.csv
 41.082635,16.782498,ov_macondo_pub_indipendente_41.0826_16.7825,Macondo Pub Indipendente,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/macondo_pub_indipendente_41.0826_16.7825.json,custom
 41.096059,16.835327,ov_sidney_caffe_41.0961_16.8353,Sidney Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/sidney_caffe_41.0961_16.8353.json,custom
 41.086629,16.861936,ov_experience_caf__41.0866_16.8619,Experience cafè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/experience_caf_41.0866_16.8619.json,custom
@@ -120,17 +120,9 @@
 41.096631,16.965323,ov_pampa_beach_bar_41.0966_16.9653,Pampa Beach Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/pampa_beach_bar_41.0966_16.9653.json,custom
 41.089638,16.990566,ov_il_sommelier_clandestino_41.0896_16.9906,Il Sommelier Clandestino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_sommelier_clandestino_41.0896_16.9906.json,custom
 41.089620,16.990619,ov_cafe_chic_41.0896_16.9906,Cafe Chic,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cafe_chic_41.0896_16.9906.json,custom
-41.088102,17.001180,ov_frizz_cafe_41.0881_17.0012,Frizz Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/frizz_cafe_41.0881_17.0012.json,custom
-41.088104,17.001292,ov_cambusa_41.0881_17.0013,Cambusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cambusa_41.0881_17.0013.json,custom
-41.088163,17.001189,ov_ibassifondi_41.0882_17.0012,IBassifondi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ibassifondi_41.0882_17.0012.json,custom
-41.088040,17.001610,ov_17_y_20_41.0880_17.0016,17 Y 20,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/17_y_20_41.0880_17.0016.json,custom
-41.086736,17.006454,ov_ske_41.0867_17.0065,SKE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ske_41.0867_17.0065.json,custom
-41.086852,17.000800,ov_enoteca_della_torre_41.0869_17.0008,Enoteca Della Torre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/enoteca_della_torre_41.0869_17.0008.json,custom
-41.087720,17.000080,ov_lido_san_giorgio_41.0877_17.0001,Lido San Giorgio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lido_san_giorgio_41.0877_17.0001.json,custom
 41.087612,16.999160,ov_miramare_41.0876_16.9992,Miramare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/miramare_41.0876_16.9992.json,custom
 41.087406,16.999792,ov_bar_las_vegas_torre_a_mare_41.0874_16.9998,Bar Las Vegas Torre a Mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/bar_las_vegas_torre_a_mare_41.0874_16.9998.json,custom
 41.086952,16.999857,ov_barati__41.0870_16.9999,Baratiè,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/barati_41.0870_16.9999.json,custom
-41.086891,17.000577,ov_torre_mare_41.0869_17.0006,Torre mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/torre_mare_41.0869_17.0006.json,custom
 41.087080,16.998355,ov_lieto_spirito_pub_41.0871_16.9984,Lieto Spirito pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lieto_spirito_pub_41.0871_16.9984.json,custom
 41.087059,16.998708,ov_on_off_stutalacapa_41.0871_16.9987,On-Off Stutalacapa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/on-off_stutalacapa_41.0871_16.9987.json,custom
 41.087773,16.997317,ov_cantinero_bad_habits_41.0878_16.9973,Cantinero Bad Habits,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cantinero_bad_habits_41.0878_16.9973.json,custom
@@ -685,3 +677,11 @@
 41.128037,16.867559,osm_bar_i_templari_41.1280_16.8676,Bar I Templari,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/bar_i_templari_41.1280_16.8676.json,custom
 41.118766,16.858689,osm_bar_marvulli_41.1188_16.8587,Bar Marvulli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/bar_marvulli_41.1188_16.8587.json,custom
 41.121005,16.869972,osm_il_chiosco_41.1210_16.8700,IL cHiOsCo,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/il_chiosco_41.1210_16.8700.json,custom
+41.088102,17.001180,ov_frizz_cafe_41.0881_17.0012,Frizz Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/frizz_cafe_41.0881_17.0012.json,custom
+41.088104,17.001292,ov_cambusa_41.0881_17.0013,Cambusa,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/cambusa_41.0881_17.0013.json,custom
+41.088163,17.001189,ov_ibassifondi_41.0882_17.0012,IBassifondi,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ibassifondi_41.0882_17.0012.json,custom
+41.088040,17.001610,ov_17_y_20_41.0880_17.0016,17 Y 20,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/17_y_20_41.0880_17.0016.json,custom
+41.086736,17.006454,ov_ske_41.0867_17.0065,SKE,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/ske_41.0867_17.0065.json,custom
+41.086852,17.000800,ov_enoteca_della_torre_41.0869_17.0008,Enoteca Della Torre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/enoteca_della_torre_41.0869_17.0008.json,custom
+41.087720,17.000080,ov_lido_san_giorgio_41.0877_17.0001,Lido San Giorgio,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/lido_san_giorgio_41.0877_17.0001.json,custom
+41.086891,17.000577,ov_torre_mare_41.0869_17.0006,Torre mare,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/puglia/bari/pages/torre_mare_41.0869_17.0006.json,custom

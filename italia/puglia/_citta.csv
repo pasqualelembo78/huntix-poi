@@ -1,839 +1,329 @@
 # lat,lng,citta,slug,ospedali,ristoranti,bar_cafe,palestre,monumenti
-41.124218,16.725321,70057 Palese (BA),70057_palese_ba,0,0,0,0,0
-41.908940,15.168915,71010 Chieuti (FG),71010_chieuti_fg,0,0,0,0,0
-41.178191,15.632327,71022 Ascoli Satriano (FG),71022_ascoli_satriano_fg,0,0,0,0,0
-41.191469,15.812478,71042 Cerignola,71042_cerignola,0,0,0,0,0
-41.067087,15.316329,83059 Vallata (AV),83059_vallata_av,0,0,0,0,0
-40.623843,15.182489,84022 Campagna (SA),84022_campagna_sa,0,0,0,0,0
-39.841973,16.245003,87010 Castrovillari (CS),87010_castrovillari_cs,0,0,0,0,0
-40.144961,15.357601,Abatemarco,abatemarco,0,0,0,0,0
-40.507032,15.799041,Abriola,abriola,0,0,0,0,0
-41.158750,15.331727,Accadia,accadia,0,0,0,0,0
-40.490630,16.149881,Accettura,accettura,0,0,0,0,0
-40.179283,15.026208,Acciaroli,acciaroli,0,0,0,0,0
-40.794542,15.939975,Acerenza,acerenza,0,0,0,0,0
-40.736662,15.054664,Acerno,acerno,0,0,0,0,0
-39.723855,16.092474,Acquaformosa,acquaformosa,0,0,0,0,0
-39.917168,18.237964,Acquarica del Capo,acquarica_del_capo,0,0,0,0,0
-40.082511,15.448399,Acquavena di Roccagloriosa,acquavena_di_roccagloriosa,0,0,0,0,0
-40.895081,16.841746,Acquaviva delle Fonti,acquaviva_delle_fonti,0,0,0,0,0
-39.520121,16.414288,Acri,acri,0,0,0,0,0
-41.001454,16.874362,Adelfia,adelfia,0,0,0,0,0
-40.054110,16.053011,Agromonte Magnano,agromonte_magnano,0,0,0,0,0
-40.362086,15.011741,Agropoli,agropoli,0,0,0,0,0
-39.914735,15.823360,Aieta,aieta,0,0,0,0,0
-40.493321,15.085401,Albanella,albanella,0,0,0,0,0
-40.594844,16.029791,Albano di Lucania,albano_di_lucania,0,0,0,0,0
-40.785176,17.238586,Alberobello,alberobello,0,0,0,0,0
-41.431134,15.122941,Alberona,alberona,0,0,0,0,0
-39.921782,16.493224,Albidona,albidona,0,0,0,0,0
-39.958173,16.378684,Alessandria del Carretto,alessandria_del_carretto,0,0,0,0,0
-39.891522,18.335560,Alessano,alessano,0,0,0,0,0
-40.063179,18.057766,Alezio,alezio,0,0,0,0,0
-40.175486,15.432464,Alfano,alfano,0,0,0,0,0
-40.309481,16.238483,Aliano,aliano,0,0,0,0,0
-39.939725,18.088993,Alliste,alliste,0,0,0,0,0
-40.827501,16.554843,Altamura,altamura,0,0,0,0,0
-40.528491,15.098659,Altavilla Silentina,altavilla_silentina,0,0,0,0,0
-39.692199,16.143278,Altomonte,altomonte,0,0,0,0,0
-39.944206,16.603166,Amendolara,amendolara,0,0,0,0,0
-39.979444,18.384655,Andrano,andrano,0,0,0,0,0
-40.937972,15.324840,Andretta,andretta,0,0,0,0,0
-41.221123,16.293457,Andria,andria,0,0,0,0,0
-41.226815,16.298935,Andria (BT),andria_bt,0,0,0,0,0
+41.124218,16.725321,70057 Palese (BA),70057_palese_ba,0,1,0,0,0
+41.908940,15.168915,71010 Chieuti (FG),71010_chieuti_fg,0,1,0,0,0
+41.178191,15.632327,71022 Ascoli Satriano (FG),71022_ascoli_satriano_fg,0,1,0,0,0
+41.191469,15.812478,71042 Cerignola,71042_cerignola,0,2,0,0,0
+41.158750,15.331727,Accadia,accadia,0,7,3,1,0
+39.917168,18.237964,Acquarica del Capo,acquarica_del_capo,0,0,0,1,0
+40.895081,16.841746,Acquaviva delle Fonti,acquaviva_delle_fonti,2,65,26,14,1
+41.001454,16.874362,Adelfia,adelfia,2,25,17,10,1
+40.785176,17.238586,Alberobello,alberobello,1,82,44,6,3
+41.431134,15.122941,Alberona,alberona,0,5,2,1,0
+39.891522,18.335560,Alessano,alessano,0,16,14,3,1
+40.063179,18.057766,Alezio,alezio,0,21,13,6,1
+39.939725,18.088993,Alliste,alliste,0,33,7,2,2
+40.827501,16.554843,Altamura,altamura,4,159,84,43,9
+39.979444,18.384655,Andrano,andrano,0,11,12,1,1
+41.221123,16.293457,Andria,andria,3,183,139,57,9
 40.893746,17.242003,Antonelli,antonelli,0,0,0,0,0
-41.120641,15.291457,Anzano di Puglia,anzano_di_puglia,0,0,0,0,0
-40.518125,15.913583,Anzi,anzi,0,0,0,0,0
-41.784926,15.445919,Apricena,apricena,0,0,0,0,0
-40.443926,15.250396,Aquara,aquara,0,0,0,0,0
-40.987673,15.475746,Aquilonia,aquilonia,0,0,0,0,0
-40.130385,18.130021,Aradeo,aradeo,0,0,0,0,0
-41.151915,15.091094,Ariano Irpino,ariano_irpino,0,0,0,0,0
-40.295095,16.071622,Armento,armento,0,0,0,0,0
-40.342959,18.090437,Arnesano,arnesano,0,0,0,0,0
-40.153238,15.209952,Ascea,ascea,0,0,0,0,0
-41.204073,15.571664,Ascoli Satriano,ascoli_satriano,0,0,0,0,0
-40.899895,15.639495,Atella,atella,0,0,0,0,0
-40.455818,15.545453,Atena Lucana,atena_lucana,0,0,0,0,0
-40.560407,15.429085,Auletta,auletta,0,0,0,0,0
-40.901735,15.104260,Avellino,avellino,0,0,0,0,0
-40.349307,17.716558,Avetrana,avetrana,0,0,2,0,0
-40.754373,15.737455,Avigliano,avigliano,0,0,0,0,0
-40.822512,15.082885,Bagnoli Irpino,bagnoli_irpino,0,0,0,0,0
-40.149099,18.354410,Bagnolo del Salento,bagnolo_del_salento,0,0,0,0,0
-40.634849,15.561379,Balvano,balvano,0,0,0,0,0
-40.861020,16.015030,Banzi,banzi,0,0,0,0,0
-40.689337,15.581577,Baragiano,baragiano,0,0,0,0,0
-40.692624,15.576176,Baragiano Scalo,baragiano_scalo,0,0,0,0,0
-41.116480,16.862524,Bari,bari,0,0,0,0,0
-41.081637,16.787564,Bari Sardo,bari_sardo,0,0,0,0,0
-40.945355,15.674500,Barile,barile,0,0,0,0,0
-41.316247,16.278718,Barletta,barletta,0,0,0,0,0
-40.456254,15.022076,Battipaglia,battipaglia,0,0,0,0,0
-40.749659,15.546523,Bella,bella,0,0,0,0,0
-40.422891,15.312598,Bellosguardo,bellosguardo,0,0,0,0,0
-39.627491,15.852034,Belvedere Marittimo,belvedere_marittimo,0,0,0,0,0
-40.399428,16.732446,Bernalda,bernalda,0,0,0,0,0
-41.402604,15.198099,Biccari,biccari,0,0,0,0,0
-41.022509,16.710551,Binetto,binetto,0,0,0,0,0
-41.012039,15.364112,Bisaccia,bisaccia,0,0,0,0,0
-41.238429,16.500748,Bisceglie,bisceglie,0,0,0,0,0
-39.516542,16.270402,Bisignano,bisignano,0,0,0,0,0
-41.039917,16.748417,Bitetto,bitetto,0,0,0,0,0
-41.107855,16.686249,Bitonto,bitonto,0,0,0,0,0
-41.040944,16.827081,Bitritto,bitritto,0,0,0,0,0
-39.562503,15.880701,Bonifati,bonifati,0,0,0,0,0
-41.100583,15.002804,Bonito,bonito,0,0,0,0,0
-39.971574,16.621886,Borgata Marina,borgata_marina,0,0,0,0,0
-41.415064,15.653750,Borgo Incoronata (FG),borgo_incoronata_fg,0,0,0,0,0
-40.063152,18.322063,Botrugno,botrugno,0,0,0,0,0
-39.909736,16.171875,Bova Marina,bova_marina,0,0,0,0,0
-41.252587,15.344489,Bovino,bovino,0,0,0,0,0
-40.474020,15.635343,Brienza,brienza,0,0,0,0,0
-40.634501,17.934526,Brindisi,brindisi,0,0,0,0,0
-40.601859,15.914053,Brindisi Montagna,brindisi_montagna,0,0,0,0,0
-40.636546,15.377073,Bucciano,bucciano,0,0,0,0,0
-40.630153,15.375589,Buccino,buccino,0,0,0,0,0
-40.274864,15.621076,Buonabitacolo,buonabitacolo,0,0,0,0,0
-39.683813,15.863513,Buonvicino,buonvicino,0,0,0,0,0
-40.544867,15.498383,Caggiano,caggiano,0,0,0,0,0
-41.843007,15.758882,Cagnano Varano,cagnano_varano,0,0,0,0,0
-40.896017,15.368880,Cairano,cairano,0,0,0,0,0
-40.771504,15.224371,Calabritto,calabritto,0,0,0,0,0
-40.588059,16.192595,Calciano,calciano,0,0,0,0,0
-40.250988,18.280320,Calimera,calimera,0,0,0,0,0
-40.903112,15.430396,Calitri,calitri,0,0,0,0,0
-39.571431,16.815933,Calopezzati,calopezzati,0,0,0,0,0
-39.506321,16.760876,Caloveto,caloveto,0,0,0,0,0
-40.471555,15.847257,Calvello,calvello,0,0,0,0,0
-40.147746,16.134981,Calvera,calvera,0,0,0,0,0
-40.008959,15.372368,Camerota,camerota,0,0,0,0,0
-40.643568,15.114269,Campagna,campagna,0,0,0,0,0
-40.670148,15.119038,Campagna, Campania,campagna_campania,0,0,0,0,0
-40.398070,18.018805,Campi Salentina,campi_salentina,0,0,0,0,0
-40.617543,16.114911,Campomaggiore,campomaggiore,0,0,0,0,0
-41.952517,15.047679,Campomarino,campomarino,0,0,0,0,0
-40.300474,17.564637,Campomarino di Maruggio,campomarino_di_maruggio,0,0,0,0,0
-40.304184,15.293935,Campora,campora,0,0,0,0,0
-40.729575,15.925494,Cancellara,cancellara,0,0,0,0,0
-41.139256,15.518434,Candela,candela,0,0,0,0,0
-40.094949,16.504220,Canna,canna,0,0,0,0,0
-40.253279,15.294561,Cannalonga,cannalonga,0,0,0,0,0
-40.165687,18.366060,Cannole,cannole,0,0,0,0,0
-41.214011,16.075425,Canosa di Puglia,canosa_di_puglia,0,0,0,0,0
-40.467126,15.022317,Capaccio,capaccio,0,0,0,0,0
-40.423857,15.006482,Capaccio-Paestum,capaccio-paestum,0,0,0,0,0
-40.440701,15.021666,Capaccio Paestum,capaccio_paestum,0,0,0,0,0
-40.451352,15.012727,Capaccio Scalo,capaccio_scalo,0,0,0,0,0
-40.908517,17.347030,Capitolo,capitolo,0,0,0,0,0
-40.818374,15.231648,Caposele,caposele,0,0,0,0,0
-40.260278,18.244845,Caprarica di Lecce,caprarica_di_lecce,0,0,0,0,0
-41.043977,16.920926,Capurso,capurso,0,0,0,0,0
-41.363676,15.694680,Carapelle,carapelle,0,0,0,0,0
-40.141286,16.089855,Carbone,carbone,0,0,0,0,0
-40.780490,15.223240,Cardito,cardito,0,0,0,0,0
-39.506186,16.936064,Cariati,cariati,0,0,0,0,0
-41.026629,15.203933,Carife,carife,0,0,0,0,0
-40.348415,17.986065,Carmiano,carmiano,0,0,0,0,0
-40.464587,17.398031,Carosino,carosino,0,0,0,0,0
-40.718857,17.678455,Carovigno,carovigno,0,0,0,0,0
-40.191802,18.344786,Carpignano Salentino,carpignano_salentino,0,0,0,0,0
-41.846326,15.856535,Carpino,carpino,0,0,0,0,0
-40.189399,15.130001,Casal Velino,casal_velino,0,0,0,0,0
-40.496649,18.122808,Casalabate,casalabate,0,0,0,0,0
-41.234009,15.008145,Casalbore,casalbore,0,0,0,0,0
-40.230462,15.674223,Casalbuono,casalbuono,0,0,0,0,0
-40.156907,15.633718,Casaletto Spartano,casaletto_spartano,0,0,0,0,0
-41.617727,15.097267,Casalnuovo Monterotaro,casalnuovo_monterotaro,0,0,0,0,0
-41.578639,15.113352,Casalvecchio di Puglia,casalvecchio_di_puglia,0,0,0,0,0
-40.960262,16.920781,Casamassima,casamassima,0,0,0,0,0
-40.021093,18.155879,Casarano,casarano,0,0,0,0,0
-40.623878,15.798742,Case Pace,case_pace,0,0,0,0,0
-40.174312,15.543217,Caselle in Pittari,caselle_in_pittari,0,0,0,0,0
-39.726379,16.494951,Cassano al Ionio,cassano_al_ionio,0,0,0,0,0
-39.760038,16.405397,Cassano all'Ionio,cassano_allionio,0,0,0,0,0
-40.886365,16.763385,Cassano delle Murge,cassano_delle_murge,0,0,0,0,0
-40.871594,15.027897,Cassano Irpino,cassano_irpino,0,0,0,0,0
-40.322588,16.626434,Cassino,cassino,0,0,0,0,0
-41.045418,15.179482,Castel Baronia,castel_baronia,0,0,0,0,0
-40.420957,15.228629,Castel San Lorenzo,castel_san_lorenzo,0,0,0,0,0
-40.488371,15.217822,Castelcivita,castelcivita,0,0,0,0,0
-40.926774,15.043662,Castelfranci,castelfranci,0,0,0,0,0
-41.311755,15.087516,Castelfranco in Miscano,castelfranco_in_miscano,0,0,0,0,0
-40.785943,15.432171,Castelgrande,castelgrande,0,0,0,0,0
-40.884013,17.167245,Castellana Grotte,castellana_grotte,0,0,1,0,0
-40.576693,16.932751,Castellaneta,castellaneta,0,0,0,0,0
-40.462592,16.937643,Castellaneta Marina,castellaneta_marina,0,0,0,0,0
-41.311335,15.480416,Castelluccio dei Sauri,castelluccio_dei_sauri,0,0,0,0,0
-40.005205,15.979080,Castelluccio Inferiore,castelluccio_inferiore,0,0,0,0,0
-40.181723,15.944489,Castelluccio Superiore,castelluccio_superiore,0,0,0,0,0
-41.342096,15.198999,Castelluccio Valmaggiore,castelluccio_valmaggiore,0,0,0,0,0
-40.530580,16.046685,Castelmezzano,castelmezzano,0,0,0,0,0
-40.207709,15.160545,Castelnuovo Cilento,castelnuovo_cilento,0,0,0,0,0
-41.583765,15.118956,Castelnuovo della Daunia,castelnuovo_della_daunia,0,0,0,0,0
-40.814567,15.288087,Castelnuovo di Conza,castelnuovo_di_conza,0,0,0,0,0
-40.158024,15.983452,Castelsaraceno,castelsaraceno,0,0,0,0,0
-40.087599,15.347992,Castorano,castorano,0,0,0,0,0
-40.274578,18.258534,Castri di Lecce,castri_di_lecce,0,0,0,0,0
-40.181843,18.290001,Castrignano de' Greci,castrignano_de_greci,0,0,0,0,0
-39.828763,18.342394,Castrignano del Capo,castrignano_del_capo,0,0,0,0,0
-40.004313,18.425720,Castro,castro,0,0,0,0,0
-40.188471,16.186507,Castronuovo di Sant'Andrea,castronuovo_di_santandrea,0,0,0,0,0
-39.993292,16.478903,Castroregio,castroregio,0,0,0,0,0
-39.816430,16.208414,Castrovillari,castrovillari,0,0,0,0,0
-40.915692,16.253278,Catania,catania,0,0,0,0,0
+41.120641,15.291457,Anzano di Puglia,anzano_di_puglia,0,2,1,0,0
+41.784926,15.445919,Apricena,apricena,1,29,23,8,2
+40.130385,18.130021,Aradeo,aradeo,0,22,11,4,0
+40.342959,18.090437,Arnesano,arnesano,0,7,7,2,0
+41.204073,15.571664,Ascoli Satriano,ascoli_satriano,0,14,12,2,3
+40.349307,17.716558,Avetrana,avetrana,0,18,22,3,1
+40.149099,18.354410,Bagnolo del Salento,bagnolo_del_salento,0,7,0,1,0
+41.116480,16.862524,Bari,bari,60,1051,685,219,31
+41.316247,16.278718,Barletta,barletta,11,236,255,82,14
+41.402604,15.198099,Biccari,biccari,0,5,1,1,2
+41.022509,16.710551,Binetto,binetto,0,2,1,0,0
+41.238429,16.500748,Bisceglie,bisceglie,2,162,133,37,8
+41.039917,16.748417,Bitetto,bitetto,0,21,14,4,1
+41.107855,16.686249,Bitonto,bitonto,3,118,111,45,5
+41.040944,16.827081,Bitritto,bitritto,1,31,8,11,0
+41.415064,15.653750,Borgo Incoronata (FG),borgo_incoronata_fg,0,1,0,0,0
+40.063152,18.322063,Botrugno,botrugno,0,6,2,1,1
+41.252587,15.344489,Bovino,bovino,0,9,5,2,3
+40.634501,17.934526,Brindisi,brindisi,6,217,143,74,15
+41.843007,15.758882,Cagnano Varano,cagnano_varano,0,17,17,1,1
+40.250988,18.280320,Calimera,calimera,0,16,7,4,4
+40.398070,18.018805,Campi Salentina,campi_salentina,2,22,19,8,2
+41.139256,15.518434,Candela,candela,0,9,6,1,2
+40.165687,18.366060,Cannole,cannole,0,4,2,0,1
+41.214011,16.075425,Canosa di Puglia,canosa_di_puglia,1,57,35,14,9
+40.908517,17.347030,Capitolo,capitolo,0,0,1,0,0
+40.260278,18.244845,Caprarica di Lecce,caprarica_di_lecce,0,9,4,0,3
+41.043977,16.920926,Capurso,capurso,0,25,8,12,0
+41.363676,15.694680,Carapelle,carapelle,0,8,5,2,0
+41.593359,14.975969,Carlantino,carlantino,0,2,2,0,0
+40.348415,17.986065,Carmiano,carmiano,1,16,15,11,0
+40.464587,17.398031,Carosino,carosino,0,8,15,5,0
+40.718857,17.678455,Carovigno,carovigno,0,83,53,4,6
+40.191802,18.344786,Carpignano Salentino,carpignano_salentino,0,12,4,0,1
+41.846326,15.856535,Carpino,carpino,0,3,7,1,0
+40.496649,18.122808,Casalabate,casalabate,0,1,0,0,0
+41.617727,15.097267,Casalnuovo Monterotaro,casalnuovo_monterotaro,0,0,3,0,1
+41.578639,15.113352,Casalvecchio di Puglia,casalvecchio_di_puglia,0,3,3,0,0
+40.960262,16.920781,Casamassima,casamassima,1,42,33,17,2
+40.021093,18.155879,Casarano,casarano,5,44,29,20,0
+40.886365,16.763385,Cassano delle Murge,cassano_delle_murge,3,44,15,12,0
+40.884013,17.167245,Castellana Grotte,castellana_grotte,2,58,45,12,3
+40.576693,16.932751,Castellaneta,castellaneta,1,53,33,12,2
+40.462592,16.937643,Castellaneta Marina,castellaneta_marina,0,1,0,0,0
+41.311335,15.480416,Castelluccio dei Sauri,castelluccio_dei_sauri,0,3,5,1,0
+41.342096,15.198999,Castelluccio Valmaggiore,castelluccio_valmaggiore,0,6,2,0,1
+41.583765,15.118956,Castelnuovo della Daunia,castelnuovo_della_daunia,0,5,3,0,0
+40.274578,18.258534,Castri di Lecce,castri_di_lecce,0,7,9,1,0
+40.181843,18.290001,Castrignano de' Greci,castrignano_de_greci,1,7,9,3,1
+39.828763,18.342394,Castrignano del Capo,castrignano_del_capo,0,49,21,4,1
+40.004313,18.425720,Castro,castro,0,27,16,2,2
 41.160058,16.739469,Catino,catino,0,0,0,0,0
-40.318049,18.193388,Cavallino,cavallino,0,0,0,0,0
-40.646295,17.516301,Ceglie Messapica,ceglie_messapica,0,0,0,0,0
-40.642094,17.473068,Ceglie Messapico,ceglie_messapico,0,0,0,0,0
-41.020295,16.927037,Cellamare,cellamare,0,0,0,0,0
-40.097126,15.391409,Celle di Bulgheria,celle_di_bulgheria,0,0,0,0,0
-41.326829,15.181239,Celle di San Vito,celle_di_san_vito,0,0,0,0,0
-40.471743,17.964723,Cellino San Marco,cellino_san_marco,0,0,0,0,0
-40.045450,15.293883,Centola,centola,0,0,0,0,0
-40.194614,15.247780,Ceraso,ceraso,0,0,0,0,0
-39.840720,16.400190,Cerchiara di Calabria,cerchiara_di_calabria,0,0,0,0,0
-40.056156,18.441738,Cerfignano,cerfignano,0,0,0,0,0
-41.264343,15.902877,Cerignola,cerignola,0,0,0,0,0
-40.046740,16.348861,Cersosimo,cersosimo,0,0,0,0,0
-39.542107,16.125678,Cervicati,cervicati,0,0,0,0,0
-39.512907,16.131611,Cerzeto,cerzeto,0,0,0,0,0
-41.075200,15.150330,Cesinali,cesinali,0,0,0,0,0
-39.516369,15.936732,Cetraro,cetraro,0,0,0,0,0
-40.643476,17.510525,Céglie Messápica,cglie_messpica,0,0,0,0,0
-40.113157,16.204746,Chiaromonte,chiaromonte,0,0,0,0,0
-41.879019,15.167194,Chieuti,chieuti,0,0,0,0,0
-40.880732,15.032371,Chiusano di San Domenico,chiusano_di_san_domenico,0,0,0,0,0
-40.348048,15.110091,Cicerale,cicerale,0,0,0,0,0
-40.412813,16.158519,Cirigliano,cirigliano,0,0,0,0,0
-40.749448,17.415852,Cisternino,cisternino,0,0,0,0,0
-39.551420,15.878810,Cittadella,cittadella,0,0,0,0,0
-39.811740,16.315500,Civita,civita,0,0,0,0,0
-40.066702,18.431430,Cocumola,cocumola,0,0,0,0,0
-40.094035,15.926017,Cogliandrino,cogliandrino,0,0,0,0,0
-40.086845,18.166871,Collepasso,collepasso,0,0,0,0,0
-40.714010,15.283743,Colliano,colliano,0,0,0,0,0
-40.243078,16.459154,Colobraro,colobraro,0,0,0,0,0
-40.510099,15.204903,Controne,controne,0,0,0,0,0
-40.644357,15.215770,Contursi,contursi,0,0,0,0,0
-40.654875,15.241071,Contursi Terme,contursi_terme,0,0,0,0,0
-40.964239,17.115327,Conversano,conversano,0,0,0,0,0
-40.859960,15.334851,Conza della Campania,conza_della_campania,0,0,0,0,0
-40.269608,18.050702,Copertino,copertino,0,0,0,0,0
-41.146535,16.406534,Corato,corato,0,0,0,0,0
-39.673363,16.504925,Corigliano,corigliano,0,0,0,0,0
-39.618034,16.578870,Corigliano-Rossano,corigliano-rossano,0,0,0,0,0
-39.642284,16.516155,Corigliano Calabro,corigliano_calabro,0,0,0,0,0
-40.157666,18.255970,Corigliano d'Otranto,corigliano_dotranto,0,0,0,0,0
-39.558618,16.602344,Corigliano Rossano,corigliano_rossano,0,0,0,0,0
-40.434182,15.376738,Corleto Monforte,corleto_monforte,0,0,0,0,0
-40.384134,16.040854,Corleto perticara,corleto_perticara,0,0,0,0,0
-39.887739,18.372940,Corsano,corsano,0,0,0,0,0
+40.318049,18.193388,Cavallino,cavallino,1,26,16,17,0
+40.646295,17.516301,Ceglie Messapica,ceglie_messapica,3,76,42,8,4
+40.642094,17.473068,Ceglie Messapico,ceglie_messapico,0,1,0,0,0
+41.559246,14.979609,Celenza Valfortore,celenza_valfortore,0,2,2,0,0
+41.020295,16.927037,Cellamare,cellamare,0,7,6,2,0
+41.326829,15.181239,Celle di San Vito,celle_di_san_vito,0,3,0,0,1
+40.471743,17.964723,Cellino San Marco,cellino_san_marco,0,14,13,3,1
+40.056156,18.441738,Cerfignano,cerfignano,0,1,0,0,0
+41.264343,15.902877,Cerignola,cerignola,4,131,81,40,2
+40.643476,17.510525,Céglie Messápica,cglie_messpica,0,1,0,1,0
+41.879019,15.167194,Chieuti,chieuti,0,4,2,1,0
+40.749448,17.415852,Cisternino,cisternino,1,81,32,11,4
+40.066702,18.431430,Cocumola,cocumola,0,1,0,0,0
+40.086845,18.166871,Collepasso,collepasso,0,14,7,2,1
+40.964239,17.115327,Conversano,conversano,3,72,47,17,7
+40.269608,18.050702,Copertino,copertino,4,31,34,14,2
+41.146535,16.406534,Corato,corato,2,99,70,29,1
+40.157666,18.255970,Corigliano d'Otranto,corigliano_dotranto,0,22,12,3,3
+39.887739,18.372940,Corsano,corsano,0,8,9,5,0
 40.936493,17.211844,Cozzana,cozzana,0,0,0,0,0
-40.375832,16.487817,Craco,craco,0,0,0,0,0
-40.359056,16.495562,Craco Peschiera,craco_peschiera,0,0,0,0,0
-40.606306,17.231809,Crispiano,crispiano,0,0,0,0,0
-39.515880,16.723898,Cropalati,cropalati,0,0,0,0,0
-40.602070,15.728990,Cropani,cropani,0,0,0,0,0
-39.600845,16.778226,Crosia,crosia,0,0,0,0,0
-40.149184,18.315756,Cursi,cursi,0,0,0,0,0
-40.123812,18.197417,Cutrofiano,cutrofiano,0,0,0,0,0
-41.226059,15.388938,Deliceto,deliceto,0,0,0,0,0
-39.687678,15.817915,Diamante,diamante,0,0,0,0,0
-40.001124,18.397771,Diso,diso,0,0,0,0,0
-40.602706,15.050818,Eboli,eboli,0,0,0,0,0
-40.072707,16.094716,Episcopia,episcopia,0,0,0,0,0
-40.442086,17.727809,Erchie,erchie,0,0,0,0,0
-41.324524,15.160799,Faeto,faeto,0,0,0,0,0
-40.425260,17.375938,Faggiano,faggiano,0,0,0,0,0
-39.560370,16.057586,Fagnano Castello,fagnano_castello,0,0,0,0,0
-40.114302,16.172419,Fardella,fardella,0,0,0,0,0
-40.834193,17.392606,Fasano,fasano,0,0,0,0,0
-40.842643,17.358026,Fasano Di Brindisi,fasano_di_brindisi,0,0,0,0,0
-40.370821,15.249510,Felitto,felitto,0,0,0,0,0
-39.936480,18.116192,Felline,felline,0,0,0,0,0
-40.499872,16.454652,Ferrandina,ferrandina,0,0,0,0,0
-40.498683,16.456323,Ferrandina MT,ferrandina_mt,0,0,0,0,0
-40.808623,15.724650,Filiano,filiano,0,0,0,0,0
-39.723056,16.169316,Firmo,firmo,0,0,0,0,0
-41.341558,16.217709,Fiumara,fiumara,0,0,0,0,0
-41.078712,15.139762,Flumeri,flumeri,0,0,0,0,0
-41.456151,15.553815,Foggia,foggia,0,0,0,0,0
-41.019032,15.020746,Fontanarosa,fontanarosa,0,0,0,0,0
-40.456609,15.109538,Fonte,fonte,0,0,0,0,0
-40.859960,15.853553,Forenza,forenza,0,0,0,0,0
-40.090649,15.323629,Foria,foria,0,0,0,0,0
-40.152990,15.701175,Fortino,fortino,0,0,0,0,0
-40.752227,17.582108,Fossò,foss,0,0,0,0,0
-40.431137,17.473994,Fragagnano,fragagnano,0,0,0,0,0
-40.531581,17.584283,Francavilla Fontana,francavilla_fontana,0,0,0,0,0
-40.067432,16.207780,Francavilla in Sinni,francavilla_in_sinni,0,0,0,0,0
-39.809658,16.399425,Francavilla Marittima,francavilla_marittima,0,0,0,0,0
-39.832780,16.261320,Frascineto,frascineto,0,0,0,0,0
-41.015986,15.101959,Frigento,frigento,0,0,0,0,0
-40.149603,15.322556,Futani,futani,0,0,0,0,0
-39.841869,18.371088,Gagliano del Capo,gagliano_del_capo,0,0,0,0,0
-40.174056,18.165709,Galatina,galatina,0,0,0,0,0
-40.147294,18.067571,Galatone,galatone,0,0,0,0,0
-40.288786,16.141786,Gallicchio,gallicchio,0,0,0,0,0
-40.055334,17.991741,Gallipoli,gallipoli,0,0,0,0,0
-40.979898,16.875000,Gallo d'Alba,gallo_dalba,0,0,0,0,0
-40.248486,18.203424,Galugnano,galugnano,0,0,0,0,0
-40.559830,16.231638,Garaguso,garaguso,0,0,0,0,0
-40.835394,16.015837,Genzano di Lucania,genzano_di_lucania,0,0,0,0,0
-41.007289,15.069951,Gesualdo,gesualdo,0,0,0,0,0
-41.049686,16.918940,Ghisalba,ghisalba,0,0,0,0,0
-41.425237,15.049082,Gildone,gildone,0,0,0,0,0
-40.930954,15.735226,Ginestra,ginestra,0,0,0,0,0
-40.521992,16.802667,Ginosa,ginosa,0,0,0,0,0
-40.280763,15.225765,Gioi,gioi,0,0,0,0,0
-40.797890,16.921339,Gioia del Colle,gioia_del_colle,0,0,0,0,0
-41.186756,16.670452,Giovinazzo,giovinazzo,0,0,0,0,0
-40.096797,18.370655,Giuggianello,giuggianello,0,0,0,0,0
+40.606306,17.231809,Crispiano,crispiano,1,32,25,10,2
+40.149184,18.315756,Cursi,cursi,0,7,5,1,1
+40.123812,18.197417,Cutrofiano,cutrofiano,0,27,18,3,3
+41.226059,15.388938,Deliceto,deliceto,0,7,7,1,1
+40.001124,18.397771,Diso,diso,0,6,6,2,0
+40.442086,17.727809,Erchie,erchie,0,11,11,1,0
+41.324524,15.160799,Faeto,faeto,0,5,3,0,0
+40.425260,17.375938,Faggiano,faggiano,0,5,6,3,1
+40.834193,17.392606,Fasano,fasano,4,165,87,36,6
+40.842643,17.358026,Fasano Di Brindisi,fasano_di_brindisi,0,1,0,0,0
+39.936480,18.116192,Felline,felline,0,1,0,0,0
+41.456151,15.553815,Foggia,foggia,23,351,217,105,16
+40.431137,17.473994,Fragagnano,fragagnano,0,8,12,4,0
+40.531581,17.584283,Francavilla Fontana,francavilla_fontana,1,79,80,23,5
+39.841869,18.371088,Gagliano del Capo,gagliano_del_capo,2,14,9,2,1
+40.174056,18.165709,Galatina,galatina,4,58,58,19,2
+40.147294,18.067571,Galatone,galatone,0,30,26,12,1
+40.055334,17.991741,Gallipoli,gallipoli,4,203,84,13,12
+40.979898,16.875000,Gallo d'Alba,gallo_dalba,0,1,0,0,0
+40.248486,18.203424,Galugnano,galugnano,0,1,0,0,0
+40.521992,16.802667,Ginosa,ginosa,2,57,41,10,3
+40.797890,16.921339,Gioia del Colle,gioia_del_colle,2,75,40,21,7
+41.186756,16.670452,Giovinazzo,giovinazzo,1,89,45,12,1
+40.096797,18.370655,Giuggianello,giuggianello,0,9,5,0,1
 39.847189,18.337828,Giuliano di Lecce,giuliano_di_lecce,0,0,0,0,0
-40.392577,15.094049,Giungano,giungano,0,0,0,0,0
-40.142641,18.410129,Giurdignano,giurdignano,0,0,0,0,0
-40.391108,16.145843,Gorgoglione,gorgoglione,0,0,0,0,0
-40.631448,16.283184,Grassano,grassano,0,0,0,0,0
-40.820982,16.420618,Gravina in Puglia,gravina_in_puglia,0,0,0,0,0
-41.244867,15.166748,Greci,greci,0,0,0,0,0
-39.742206,15.836546,Grisolia,grisolia,0,0,0,0,0
-40.535427,17.432885,Grottaglie,grottaglie,0,0,0,0,0
-41.067306,15.064023,Grottaminarda,grottaminarda,0,0,0,0,0
-40.603229,16.386629,Grottole,grottole,0,0,0,0,0
-40.284389,15.893314,Grumento Nova,grumento_nova,0,0,0,0,0
-41.012071,16.710947,Grumo Appula,grumo_appula,0,0,0,0,0
-40.402505,17.948583,Guagnano,guagnano,0,0,0,0,0
-40.959816,15.217888,Guardia Lombardi,guardia_lombardi,0,0,0,0,0
-40.359211,16.088248,Guardia Perticara,guardia_perticara,0,0,0,0,0
-42.457001,18.492482,Herceg Novi,herceg_novi,0,0,0,0,0
-42.471870,18.472100,Igalo,igalo,0,0,0,0,0
-41.461525,15.548189,Incoronata,incoronata,0,0,0,0,0
-40.745074,16.242629,Irsina,irsina,0,0,0,0,0
-41.908762,15.859737,Ischitella,ischitella,0,0,0,0,0
-41.963607,15.026500,Isernia,isernia,0,0,0,0,0
-42.117305,15.494231,Isole Tremiti,isole_tremiti,0,0,0,0,0
-40.159813,15.369978,Ispani,ispani,0,0,0,0,0
-42.460022,18.424585,Konavle,konavle,0,0,0,0,0
-41.052607,15.428259,Lacedonia,lacedonia,0,0,0,0,0
-40.129592,15.761876,Lagonegro,lagonegro,0,0,0,0,0
-39.955384,15.961312,Laino Borgo,laino_borgo,0,0,0,0,0
-39.936658,15.976569,Laino Castello,laino_castello,0,0,0,0,0
-40.396387,17.248006,Lama,lama,0,0,0,0,0
-39.532601,16.195048,Lamezia Terme,lamezia_terme,0,0,0,0,0
+40.142641,18.410129,Giurdignano,giurdignano,0,10,2,1,0
+40.820982,16.420618,Gravina in Puglia,gravina_in_puglia,6,106,69,21,2
+40.535427,17.432885,Grottaglie,grottaglie,3,70,60,21,4
+41.012071,16.710947,Grumo Appula,grumo_appula,3,19,11,5,0
+40.402505,17.948583,Guagnano,guagnano,0,7,2,2,1
+42.457001,18.492482,Herceg Novi,herceg_novi,0,2,0,0,0
+42.471870,18.472100,Igalo,igalo,0,0,0,0,1
+41.461525,15.548189,Incoronata,incoronata,0,1,0,0,0
+41.908762,15.859737,Ischitella,ischitella,0,17,7,2,0
+42.117305,15.494231,Isole Tremiti,isole_tremiti,0,15,6,3,0
+42.460022,18.424585,Konavle,konavle,0,3,2,1,0
+40.396387,17.248006,Lama,lama,0,0,1,0,0
 40.643235,17.318956,Lanzo di Martina Franca,lanzo_di_martina_franca,0,0,0,0,0
-40.626901,16.798076,Laterza,laterza,0,0,0,0,0
-40.624837,16.797452,Laterza, Puglia,laterza_puglia,0,0,0,0,0
-40.551911,17.722655,Latiano,latiano,0,0,0,0,0
-40.079130,16.018005,Latronico,latronico,0,0,0,0,0
-40.301156,15.031800,Laureana Cilento,laureana_cilento,0,0,0,0,0
-40.459337,15.971779,Laurenzana,laurenzana,0,0,0,0,0
-40.046661,15.861923,Lauria,lauria,0,0,0,0,0
-40.039569,15.836240,Lauria Inferiore,lauria_inferiore,0,0,0,0,0
-40.329115,15.339745,Laurino,laurino,0,0,0,0,0
-40.167952,15.406109,Laurito,laurito,0,0,0,0,0
-41.049021,15.797170,Lavello,lavello,0,0,0,0,0
-40.786881,15.304169,Laviano,laviano,0,0,0,0,0
-40.356582,18.177164,Lecce,lecce,0,0,0,0,0
-40.353433,18.172586,Lecce (LE),lecce_le,0,0,0,0,0
-40.356367,18.178214,Lecce, Puglia,lecce_puglia,0,0,0,0,0
-40.519579,18.088987,Lendinuso,lendinuso,0,0,0,0,0
-40.019746,15.386717,Lentiscosa,lentiscosa,0,0,0,0,0
-40.385029,17.315948,Leporano,leporano,0,0,0,0,0
-40.376113,17.308404,Leporano Marina,leporano_marina,0,0,0,0,0
-40.302721,18.139188,Lequile,lequile,0,0,0,0,0
-40.279607,18.138716,Lequille,lequille,0,0,0,0,0
-41.880354,15.346454,Lesina,lesina,0,0,0,0,0
-40.290120,17.994512,Leverano,leverano,0,0,0,0,0
-40.402985,15.001051,Licinella-Torre Di Paestum,licinella-torre_di_paestum,0,0,0,0,0
-40.362108,16.834864,Lido di Metaponto,lido_di_metaponto,0,0,0,0,0
-40.195960,16.698570,Lido di Policoro,lido_di_policoro,0,0,0,0,0
-40.878744,15.183455,Lioni,lioni,0,0,0,0,0
-40.317891,18.220872,Lizzanello,lizzanello,0,0,0,0,0
-40.392423,17.447348,Lizzano,lizzano,0,0,0,0,0
-40.128402,17.994648,LOCALITA' LA REGGIA,localita_la_reggia,0,0,0,0,0
-41.159270,15.938342,Loconia,loconia,0,0,0,0,0
-40.758458,17.328536,Locorotondo,locorotondo,0,0,0,0,0
-41.503223,15.338694,Lucera,lucera,0,0,0,0,0
-39.934034,18.319840,Lucugnano,lucugnano,0,0,0,0,0
-39.739967,16.126382,Lungro,lungro,0,0,0,0,0
-40.270897,15.099101,Lustra,lustra,0,0,0,0,0
-40.350222,15.254256,Magliano Vetere,magliano_vetere,0,0,0,0,0
-40.119538,18.298831,Maglie,maglie,0,0,0,0,0
-39.716134,15.852409,Maierà,maier,0,0,0,0,0
-39.607343,16.063419,Malvito,malvito,0,0,0,0,0
-39.533881,16.873539,Mandatoriccio,mandatoriccio,0,0,0,0,0
-40.368241,17.650772,Manduria,manduria,0,0,0,0,0
-41.623343,15.909514,Manfredonia,manfredonia,0,0,0,0,0
-41.226700,15.181200,Manocalzati,manocalzati,0,0,0,0,0
-39.987642,15.719879,Maratea,maratea,0,0,0,0,0
-40.363056,16.687473,Marconia,marconia,0,0,0,0,0
-41.375410,16.149903,Margherita di Savoia,margherita_di_savoia,0,0,0,0,0
-39.963394,18.403406,Marina di Andrano,marina_di_andrano,0,0,0,0,0
-40.149304,15.164494,Marina di Ascea,marina_di_ascea,0,0,0,0,0
-40.006850,15.359980,Marina di Camerota,marina_di_camerota,0,0,0,0,0
-40.429712,16.889332,Marina di Ginosa,marina_di_ginosa,0,0,0,0,0
-39.958863,15.738536,Marina di Maratea,marina_di_maratea,0,0,0,0,0
-40.349840,17.369830,Marina di Pulsano,marina_di_pulsano,0,0,0,0,0
-39.909807,18.391896,Marina Serra,marina_serra,0,0,0,0,0
-40.996436,16.527675,Mariotto,mariotto,0,0,0,0,0
-40.418964,15.726265,Marsico Nuovo,marsico_nuovo,0,0,0,0,0
-40.350160,15.840540,Marsico Vetere,marsico_vetere,0,0,0,0,0
-40.354730,15.824456,Marsicovetere,marsicovetere,0,0,0,0,0
-40.202418,18.302452,Martano,martano,0,0,0,0,0
-40.239353,18.257291,Martignano,martignano,0,0,0,0,0
-40.700763,17.336207,Martina Franca,martina_franca,0,0,0,0,0
-40.309832,17.562872,Maruggio,maruggio,0,0,0,0,0
-40.907359,15.828658,Maschito,maschito,0,0,0,0,0
-40.587527,17.116894,Massafra,massafra,0,0,0,0,0
-40.090844,15.446124,Massicelle,massicelle,0,0,0,0,0
-40.667555,16.601405,Matera,matera,0,0,0,0,0
-40.818062,15.236721,Materdomini,materdomini,0,0,0,0,0
-40.031102,18.133306,Matino,matino,0,0,0,0,0
-41.705800,16.062123,Mattinata,mattinata,0,0,0,0,0
-40.385321,15.026829,Mattine,mattine,0,0,0,0,0
-40.278321,18.389304,Melendugno,melendugno,0,0,0,0,0
-40.999689,15.648238,Melfi,melfi,0,0,0,0,0
-39.971675,18.120772,Melissano,melissano,0,0,0,0,0
-41.110640,15.051495,Melito Irpino,melito_irpino,0,0,0,0,0
-40.154080,18.291872,Melpignano,melpignano,0,0,0,0,0
-40.558877,17.806771,Mesagne,mesagne,0,0,0,0,0
-40.570301,17.804765,Mesagne (BR),mesagne_br,0,0,0,0,0
-40.371703,16.804274,Metaponto,metaponto,0,0,0,0,0
-40.360727,16.834461,Metaponto Lido,metaponto_lido,0,0,0,0,0
-40.000482,18.300169,Miggiano,miggiano,0,0,0,0,0
-40.570247,16.501098,Miglionico,miglionico,0,0,0,0,0
-40.083477,18.424143,Minervino di Lecce,minervino_di_lecce,0,0,0,0,0
-41.093408,16.089041,Minervino Murge,minervino_murge,0,0,0,0,0
-41.053728,15.016551,Mirabella Eclano,mirabella_eclano,0,0,0,0,0
-40.286324,16.162572,Missanello,missanello,0,0,0,0,0
-41.086577,16.785136,Modugno,modugno,0,0,0,0,0
-40.246542,15.268974,Moio della Civitella,moio_della_civitella,0,0,0,0,0
-41.058872,17.088061,Mola di Bari,mola_di_bari,0,0,0,0,0
-41.199667,16.594245,Molfetta,molfetta,0,0,0,0,0
-41.215221,16.547905,Molfetta (BA),molfetta_ba,0,0,0,0,0
-41.193403,16.586985,Molfetta, Puglia,molfetta_puglia,0,0,0,0,0
-40.238592,15.867373,Moliterno,moliterno,0,0,0,0,0
-42.450374,18.436993,Molunat,molunat,0,0,0,0,0
-39.537725,16.186158,Mongrassano,mongrassano,0,0,0,0,0
-40.941250,17.298954,Monopoli,monopoli,0,0,0,0,0
-41.243888,15.254751,Montaguto,montaguto,0,0,0,0,0
-40.287553,16.561374,Montalbano Jonico,montalbano_jonico,0,0,0,0,0
-40.160073,15.328988,Montano Antilia,montano_antilia,0,0,0,0,0
-40.338848,15.536846,Monte San Giacomo,monte_san_giacomo,0,0,0,0,0
-41.712226,15.948404,Monte Sant'Angelo,monte_santangelo,0,0,0,0,0
-41.199241,15.034684,Montecalvo Irpino,montecalvo_irpino,0,0,0,0,0
-40.260563,15.014569,Montecorice,montecorice,0,0,0,0,0
-41.324636,15.010994,Montefalcone di Val Fortore,montefalcone_di_val_fortore,0,0,0,0,0
-40.363849,15.194677,Monteforte Cilento,monteforte_cilento,0,0,0,0,0
-40.037952,16.573904,Montegiordano,montegiordano,0,0,0,0,0
-40.503984,17.373900,Monteiasi,monteiasi,0,0,0,0,0
-41.160310,15.259231,Monteleone di Puglia,monteleone_di_puglia,0,0,0,0,0
-40.844093,15.021747,Montella,montella,0,0,0,0,0
-40.927699,15.035589,Montemarano,montemarano,0,0,0,0,0
-40.563534,17.338853,Montemesola,montemesola,0,0,0,0,0
-41.032367,15.971077,Montemilone,montemilone,0,0,0,0,0
-40.294331,15.984997,Montemurro,montemurro,0,0,0,0,0
-40.444959,17.415001,Monteparano,monteparano,0,0,0,0,0
-40.323160,18.095869,Monteroni di Lecce,monteroni_di_lecce,0,0,0,0,0
-39.976743,18.323498,Montesano Salentino,montesano_salentino,0,0,0,0,0
-40.283131,15.666569,Montesano sulla Marcellana,montesano_sulla_marcellana,0,0,0,0,0
-40.550251,16.666246,Montescaglioso,montescaglioso,0,0,0,0,0
-40.997699,15.535070,Monteverde,monteverde,0,0,0,0,0
-40.706864,15.253257,Montoro,montoro,0,0,0,0,0
-39.847349,16.135332,Morano Calabro,morano_calabro,0,0,0,0,0
-39.842130,18.288268,Morciano di Leuca,morciano_di_leuca,0,0,0,0,0
-40.138268,15.543615,Morigerati,morigerati,0,0,0,0,0
-39.884689,15.984820,Mormanno,mormanno,0,0,0,0,0
-40.914491,15.252649,Morra De Sanctis,morra_de_sanctis,0,0,0,0,0
-41.510165,15.106612,Motta Montecorvino,motta_montecorvino,0,0,0,0,0
-39.659783,16.022854,Mottafollone,mottafollone,0,0,0,0,0
-40.646271,17.032741,Mottola,mottola,0,0,0,0,0
-40.108226,18.339668,Muro Leccese,muro_leccese,0,0,0,0,0
-40.752431,15.490047,Muro Lucano,muro_lucano,0,0,0,0,0
-40.253281,15.124027,Napoli,napoli,0,0,0,0,0
-40.178261,18.005816,Nardò,nard,0,0,0,0,0
-40.081395,15.805361,Nemoli,nemoli,0,0,0,0,0
-40.109123,18.112444,Neviano,neviano,0,0,0,0,0
-40.100214,16.480552,Nocara,nocara,0,0,0,0,0
-40.788882,17.120048,Noci,noci,0,0,0,0,0
-40.035398,18.328729,Nociglia,nociglia,0,0,0,0,0
-40.087986,16.331337,Noepoli,noepoli,0,0,0,0,0
-41.038624,16.990479,Noicattaro,noicattaro,0,0,0,0,0
-40.132520,16.622195,Nova Siri,nova_siri,0,0,0,0,0
-39.969830,16.621657,Novara,novara,0,0,0,0,0
-40.223113,15.291774,Novi Velia,novi_velia,0,0,0,0,0
-40.376690,18.049450,Novoli,novoli,0,0,0,0,0
-40.886898,15.085306,Nusco,nusco,0,0,0,0,0
-40.356640,15.049353,Ogliastro Cilento,ogliastro_cilento,0,0,0,0,0
-40.650118,15.018329,Olevano sul Tusciano,olevano_sul_tusciano,0,0,0,0,0
-40.695085,15.235953,Oliveto Citra,oliveto_citra,0,0,0,0,0
-40.535520,16.185259,Oliveto Lucano,oliveto_lucano,0,0,0,0,0
-40.254783,15.122869,Omignano,omignano,0,0,0,0,0
-40.772630,15.966339,Oppido Lucano,oppido_lucano,0,0,0,0,0
-41.315071,15.629178,Ordona,ordona,0,0,0,0,0
-40.496272,17.644565,Oria,oria,0,0,0,0,0
-40.050771,16.449185,Oriolo,oriolo,0,0,0,0,0
-40.303064,15.193043,Orria,orria,0,0,0,0,0
-41.283548,15.277081,Orsara di Puglia,orsara_di_puglia,0,0,0,0,0
-39.793890,15.887193,Orsomarso,orsomarso,0,0,0,0,0
-41.326575,15.711327,Orta Nova,orta_nova,0,0,0,0,0
-41.332900,15.723435,Ortanova,ortanova,0,0,0,0,0
-40.020836,18.402600,Ortelle,ortelle,0,0,0,0,0
-40.736686,17.574585,Ostuni,ostuni,0,0,0,0,0
-40.150903,18.481263,Otranto,otranto,0,0,0,0,0
-40.462620,15.318810,Ottati,ottati,0,0,0,0,0
-40.324653,15.647121,Padula,padula,0,0,0,0,0
-40.420273,15.011200,Paestum,paestum,0,0,0,0,0
-40.607346,16.976014,Palagianello,palagianello,0,0,0,0,0
-40.575322,17.037424,Palagiano,palagiano,0,0,0,0,0
-40.931374,15.980563,Palazzo San Gervasio,palazzo_san_gervasio,0,0,0,0,0
-40.391687,18.303790,Palermo,palermo,0,0,0,0,0
-41.153578,16.765849,Palese,palese,0,0,0,0,0
-41.156334,16.766004,Palese Bari,palese_bari,0,0,0,0,0
-40.039090,15.295728,Palinuro,palinuro,0,0,0,0,0
-40.036334,18.192372,Palla,palla,0,0,0,0,0
-40.121080,18.342009,Palmariggi,palmariggi,0,0,0,0,0
-40.793923,15.937164,Palmi,palmi,0,0,0,0,0
-41.056719,16.703119,Palo del Colle,palo_del_colle,0,0,0,0,0
-40.659502,15.293912,Palomonte,palomonte,0,0,0,0,0
-39.525480,16.674467,Paludi,paludi,0,0,0,0,0
-41.224162,15.272575,Panni,panni,0,0,0,0,0
-39.546451,16.850767,Paola,paola,0,0,0,0,0
-39.883464,15.917733,Papasidero,papasidero,0,0,0,0,0
-40.049322,18.125488,Parabita,parabita,0,0,0,0,0
-39.665623,16.296514,Parenti,parenti,0,0,0,0,0
-39.825781,18.321917,Patù,pat,0,0,0,0,0
-40.373342,15.736527,Paterno,paterno,0,0,0,0,0
-40.969536,15.036329,Paternopoli,paternopoli,0,0,0,0,0
-40.226817,15.231212,Pattano,pattano,0,0,0,0,0
-40.523532,15.001157,Pellezzano,pellezzano,0,0,0,0,0
-40.271863,15.021045,Perdifumo,perdifumo,0,0,0,0,0
-40.282316,15.182431,Perito,perito,0,0,0,0,0
-40.582292,15.112501,Persano,persano,0,0,0,0,0
-40.541015,15.451040,Pertosa,pertosa,0,0,0,0,0
-41.944589,16.021706,Peschici,peschici,0,0,0,0,0
-40.645874,15.166774,Pesco Sannita,pesco_sannita,0,0,0,0,0
-40.841016,15.393147,Pescopagano,pescopagano,0,0,0,0,0
-40.532372,15.373076,Petina,petina,0,0,0,0,0
-40.820925,17.429431,Pezze Di Greco,pezze_di_greco,0,0,0,0,0
-40.347656,15.372210,Piaggine,piaggine,0,0,0,0,0
-39.585463,16.097539,Pianette,pianette,0,0,0,0,0
-40.641691,15.630525,Picerno,picerno,0,0,0,0,0
-40.747691,15.861970,Pietragalla,pietragalla,0,0,0,0,0
-41.542146,15.128640,Pietramontecorvino,pietramontecorvino,0,0,0,0,0
-39.545700,16.853452,Pietrapaola,pietrapaola,0,0,0,0,0
-40.513826,16.066700,Pietrapertosa,pietrapertosa,0,0,0,0,0
-40.575830,15.775824,Pignola,pignola,0,0,0,0,0
-40.595523,15.781883,Pignola di Basilicata,pignola_di_basilicata,0,0,0,0,0
-40.100449,15.241137,Pisciotta,pisciotta,0,0,0,0,0
-40.303945,18.271479,Pisignano LE,pisignano_le,0,0,0,0,0
-40.368465,16.653658,Pisticci,pisticci,0,0,0,0,0
-39.711306,15.808538,Platì,plat,0,0,0,0,0
-39.889930,16.438746,Plataci,plataci,0,0,0,0,0
-40.053559,18.378136,Poggiardo,poggiardo,0,0,0,0,0
-41.824167,15.365449,Poggio Imperiale,poggio_imperiale,0,0,0,0,0
-40.918314,16.256095,Poggiorsini,poggiorsini,0,0,0,0,0
-40.073027,15.522420,Policastro Bussentino,policastro_bussentino,0,0,0,0,0
-40.205922,16.682366,Policoro,policoro,0,0,0,0,0
-40.991618,17.217208,Polignano a Mare,polignano_a_mare,0,0,0,0,0
-40.514740,15.498232,Polla,polla,0,0,0,0,0
-40.180533,15.048036,Pollica,pollica,0,0,0,0,0
-40.520591,16.540340,Pomarico,pomarico,0,0,0,0,0
-41.924888,15.612052,Pontedera,pontedera,0,0,0,0,0
-40.269599,17.874608,Porto Cesareo,porto_cesareo,0,0,0,0,0
-39.935745,18.390446,Porto di Tricase,porto_di_tricase,0,0,0,0,0
-41.914137,15.007925,Portocannone,portocannone,0,0,0,0,0
-40.542809,15.225240,Postiglione,postiglione,0,0,0,0,0
-40.639390,15.802982,Potenza,potenza,0,0,0,0,0
-40.245992,15.183105,Pozzuoli,pozzuoli,0,0,0,0,0
-39.895893,15.781472,Praia a Mare,praia_a_mare,0,0,0,0,0
-40.394775,15.522786,Prato Perillo,prato_perillo,0,0,0,0,0
-41.112585,15.164042,Pratola Serra,pratola_serra,0,0,0,0,0
-39.893219,18.259945,Presicce,presicce,0,0,0,0,0
-39.902359,18.257694,Presicce-Acquarica,presicce-acquarica,0,0,0,0,0
-40.334803,15.067373,Prignano Cilento,prignano_cilento,0,0,0,0,0
-40.373572,17.355163,Pulsano,pulsano,0,0,0,0,0
-40.849358,17.118992,Putignano,putignano,0,0,0,0,0
-40.636952,15.104541,Quadrivio,quadrivio,0,0,0,0,0
-39.967820,18.077663,Racale,racale,0,0,0,0,0
-40.976933,15.670939,Rapolla,rapolla,0,0,0,0,0
-40.625146,15.565511,Rapone,rapone,0,0,0,0,0
-40.140440,17.985760,Recetto,recetto,0,0,0,0,0
-40.624988,15.449038,Ricigliano,ricigliano,0,0,0,0,0
-41.646447,15.577642,Rignano Garganico,rignano_garganico,0,0,0,0,0
-40.923044,15.659091,Rionero in Vulture,rionero_in_vulture,0,0,0,0,0
-40.905047,15.727704,Ripacandida,ripacandida,0,0,0,0,0
-40.083083,15.748558,Rivello,rivello,0,0,0,0,0
-40.101626,16.600391,Rocca Imperiale,rocca_imperiale,0,0,0,0,0
-40.957681,15.164410,Rocca San Felice,rocca_san_felice,0,0,0,0,0
-40.439693,15.166947,Roccadaspide,roccadaspide,0,0,0,0,0
-40.436663,17.390023,Roccaforzata,roccaforzata,0,0,0,0,0
-40.096028,15.455429,Roccagloriosa,roccagloriosa,0,0,0,0,0
-40.209930,16.206513,Roccanova,roccanova,0,0,0,0,0
-41.102817,15.460240,Rocchetta Sant'Antonio,rocchetta_santantonio,0,0,0,0,0
-41.927046,15.879800,Rodi Garganico,rodi_garganico,0,0,0,0,0
-40.210669,15.426430,Rofrano,rofrano,0,0,0,0,0
-39.620552,16.169978,Roggiano Gravina,roggiano_gravina,0,0,0,0,0
-40.111493,15.225474,Roma,roma,0,0,0,0,0
-40.619140,15.442735,Romagnano al Monte,romagnano_al_monte,0,0,0,0,0
-40.399846,15.344585,Roscigno,roscigno,0,0,0,0,0
-39.972888,16.613067,Roseto Capo Spulico,roseto_capo_spulico,0,0,0,0,0
-41.371622,15.094102,Roseto Valfortore,roseto_valfortore,0,0,0,0,0
-39.587337,16.624111,Rossano,rossano,0,0,0,0,0
-39.612011,16.627571,Rossano Stazione,rossano_stazione,0,0,0,0,0
-41.748068,15.006654,Rotello,rotello,0,0,0,0,0
-39.950670,16.043638,Rotonda,rotonda,0,0,0,0,0
-40.171502,16.538681,Rotondella,rotondella,0,0,0,0,0
-39.984858,18.247980,Ruffano,ruffano,0,0,0,0,0
-40.717929,15.678541,Ruoti,ruoti,0,0,0,0,0
-41.008982,17.004215,Rutigliano,rutigliano,0,0,0,0,0
-40.299776,15.075024,Rutino,rutino,0,0,0,0,0
-40.845540,15.538250,Ruvo del Monte,ruvo_del_monte,0,0,0,0,0
-41.111783,16.482563,Ruvo di Puglia,ruvo_di_puglia,0,0,0,0,0
-40.380666,15.388368,Sacco,sacco,0,0,0,0,0
-40.390610,15.596005,Sala Consilina,sala_consilina,0,0,0,0,0
-40.536629,16.317334,Salandra,salandra,0,0,0,0,0
-40.245597,15.145224,Salento,salento,0,0,0,0,0
-40.618374,15.050108,Salerno,salerno,0,0,0,0,0
-40.382235,17.964000,Salice Salentino,salice_salentino,0,0,0,0,0
-39.848622,18.254331,Salve,salve,0,0,0,0,0
-40.452048,15.330073,Salvitelle,salvitelle,0,0,0,0,0
-40.887103,16.948323,Sammichele di Bari,sammichele_di_bari,0,0,0,0,0
-41.415039,15.017290,San Bartolomeo in Galdo,san_bartolomeo_in_galdo,0,0,0,0,0
-39.798261,16.167497,San Basile,san_basile,0,0,0,0,0
-40.256721,16.257198,San Brancato,san_brancato,0,0,0,0,0
-40.057108,18.334199,San Cassiano,san_cassiano,0,0,0,0,0
-40.391151,18.297547,San Cataldo,san_cataldo,0,0,0,0,0
-40.390634,18.305792,San Cataldo di Lecce,san_cataldo_di_lecce,0,0,0,0,0
-40.305989,18.169876,San Cesario di Lecce,san_cesario_di_lecce,0,0,0,0,0
-40.674261,16.065308,San Chirico Nuovo,san_chirico_nuovo,0,0,0,0,0
-40.190231,16.077191,San Chirico Raparo,san_chirico_raparo,0,0,0,0,0
-39.578396,16.425902,San Cosmo Albanese,san_cosmo_albanese,0,0,0,0,0
-40.054463,16.274471,San Costantino Albanese,san_costantino_albanese,0,0,0,0,0
-39.571334,16.362655,San Demetrio Corone,san_demetrio_corone,0,0,0,0,0
-40.447641,17.923952,San Donaci,san_donaci,0,0,0,0,0
-40.306277,18.092496,San Donato di Lecce,san_donato_di_lecce,0,0,0,0,0
-39.690073,16.074366,San Donato di Ninea,san_donato_di_ninea,0,0,0,0,0
-40.814652,15.552560,San Fele,san_fele,0,0,0,0,0
-41.301493,16.068965,San Ferdinando di Puglia,san_ferdinando_di_puglia,0,0,0,0,0
-40.758021,15.792034,San Giorgio,san_giorgio,0,0,0,0,0
-39.579735,16.454185,San Giorgio Albanese,san_giorgio_albanese,0,0,0,0,0
-40.464940,17.369862,San Giorgio Ionico,san_giorgio_ionico,0,0,0,0,0
-40.457301,17.379153,San Giorgio Jonico,san_giorgio_jonico,0,0,0,0,0
-40.111202,16.388852,San Giorgio Lucano,san_giorgio_lucano,0,0,0,0,0
-39.581900,16.454230,San Giorgio Monferrato,san_giorgio_monferrato,0,0,0,0,0
-40.055098,15.483089,San Giovanni a Piro,san_giovanni_a_piro,0,0,0,0,0
-41.699703,15.721280,San Giovanni Rotondo,san_giovanni_rotondo,0,0,0,0,0
-40.659897,15.392221,San Gregorio Magno,san_gregorio_magno,0,0,0,0,0
-39.818904,16.438510,San Lorenzo Bellizzi,san_lorenzo_bellizzi,0,0,0,0,0
-39.672406,16.290250,San Lorenzo del Vallo,san_lorenzo_del_vallo,0,0,0,0,0
-39.502727,16.210016,San Mango Piemonte,san_mango_piemonte,0,0,0,0,0
-40.974230,15.002190,San Mango sul Calore,san_mango_sul_calore,0,0,0,0,0
-39.579902,16.162341,San Marco Argentano,san_marco_argentano,0,0,0,0,0
-41.716623,15.654459,San Marco in Lamis,san_marco_in_lamis,0,0,0,0,0
-41.529357,15.013414,San Marco la Catola,san_marco_la_catola,0,0,0,0,0
-40.240239,16.053632,San Martino d'Agri,san_martino_dagri,0,0,0,0,0
-41.869882,15.012188,San Martino in Pensilis,san_martino_in_pensilis,0,0,0,0,0
-40.449737,17.507114,San Marzano di San Giuseppe,san_marzano_di_san_giuseppe,0,0,0,0,0
-40.216380,15.039542,San Mauro Cilento,san_mauro_cilento,0,0,0,0,0
-40.485984,16.249500,San Mauro Forte,san_mauro_forte,0,0,0,0,0
-40.122298,15.287841,San Mauro la Bruca,san_mauro_la_bruca,0,0,0,0,0
-40.630686,17.632272,San Michele Salentino,san_michele_salentino,0,0,0,0,0
-41.841725,15.564986,San Nicandro Garganico,san_nicandro_garganico,0,0,0,0,0
-39.848623,15.793066,San Nicola Arcella,san_nicola_arcella,0,0,0,0,0
-41.058409,15.200102,San Nicola Baronia,san_nicola_baronia,0,0,0,0,0
-39.847711,15.790059,San Nicola dell'Alto,san_nicola_dellalto,0,0,0,0,0
-40.089877,15.282128,San Nicola di Centola,san_nicola_di_centola,0,0,0,0,0
-41.315931,15.630543,San Nicola, Isole Tremititremiti,san_nicola_isole_tremititremiti,0,0,0,0,0
-40.417343,17.836058,San Pancrazio Salentino,san_pancrazio_salentino,0,0,0,0,0
-40.036682,16.334210,San Paolo Albanese,san_paolo_albanese,0,0,0,0,0
-41.734150,15.253496,San Paolo di Civitate,san_paolo_di_civitate,0,0,0,0,0
-40.450972,15.488071,San Pietro al Tanagro,san_pietro_al_tanagro,0,0,0,0,0
-39.587360,15.864479,San Pietro Apostolo,san_pietro_apostolo,0,0,0,0,0
-40.308785,17.691558,San Pietro in Bevagna,san_pietro_in_bevagna,0,0,0,0,0
-40.305658,18.126863,San Pietro in Lama,san_pietro_in_lama,0,0,0,0,0
-40.496176,18.007136,San Pietro Vernotico,san_pietro_vernotico,0,0,0,0,0
-41.148001,16.740447,San Pio,san_pio,0,0,0,0,0
-40.424443,15.476236,San Rufo,san_rufo,0,0,0,0,0
-40.033056,15.287912,San Severino,san_severino,0,0,0,0,0
-40.010392,16.147645,San Severino Lucano,san_severino_lucano,0,0,0,0,0
-41.685547,15.380060,San Severo,san_severo,0,0,0,0,0
-40.963396,15.216812,San Sossio Baronia,san_sossio_baronia,0,0,0,0,0
-39.659054,16.025292,San Sosti,san_sosti,0,0,0,0,0
-40.655683,17.705170,San Vito dei Normanni,san_vito_dei_normanni,0,0,0,0,0
-40.087488,18.346718,Sanarica,sanarica,0,0,0,0,0
-39.590084,15.871385,Sangineto,sangineto,0,0,0,0,0
-40.995278,16.794742,Sannicandro di Bari,sannicandro_di_bari,0,0,0,0,0
-41.883712,15.577104,Sannicandro Garganico,sannicandro_garganico,0,0,0,0,0
-40.129981,18.006307,Sannicola,sannicola,0,0,0,0,0
-40.179353,15.256491,Santa Barbara,santa_barbara,0,0,0,0,0
-39.585183,16.088556,Santa Caterina Albanese,santa_caterina_albanese,0,0,0,0,0
-40.047502,18.449794,Santa Cesarea Terme,santa_cesarea_terme,0,0,0,0,0
-39.815179,15.849439,Santa Domenica Talao,santa_domenica_talao,0,0,0,0,0
+40.626901,16.798076,Laterza,laterza,0,36,28,7,2
+40.551911,17.722655,Latiano,latiano,3,25,23,4,2
+40.356582,18.177164,Lecce,lecce,14,513,346,120,38
+40.519579,18.088987,Lendinuso,lendinuso,0,1,1,0,0
+40.385029,17.315948,Leporano,leporano,0,35,19,7,1
+40.302721,18.139188,Lequile,lequile,0,17,10,7,0
+40.279607,18.138716,Lequille,lequille,0,0,0,1,0
+41.880354,15.346454,Lesina,lesina,0,40,16,5,1
+40.290120,17.994512,Leverano,leverano,0,39,22,6,2
+40.317891,18.220872,Lizzanello,lizzanello,0,25,11,8,1
+40.392423,17.447348,Lizzano,lizzano,0,16,17,6,1
+40.128402,17.994648,LOCALITA' LA REGGIA,localita_la_reggia,0,1,0,0,0
+41.159270,15.938342,Loconia,loconia,0,0,1,0,0
+40.758458,17.328536,Locorotondo,locorotondo,1,59,29,9,2
+41.503223,15.338694,Lucera,lucera,4,64,40,17,4
+39.934034,18.319840,Lucugnano,lucugnano,0,1,0,0,0
+40.119538,18.298831,Maglie,maglie,3,72,44,14,3
+40.368241,17.650772,Manduria,manduria,2,107,76,18,4
+41.623343,15.909514,Manfredonia,manfredonia,6,139,97,33,7
+41.375410,16.149903,Margherita di Savoia,margherita_di_savoia,0,51,30,9,1
+39.963394,18.403406,Marina di Andrano,marina_di_andrano,0,1,0,0,0
+40.429712,16.889332,Marina di Ginosa,marina_di_ginosa,1,1,0,0,0
+40.349840,17.369830,Marina di Pulsano,marina_di_pulsano,0,0,1,0,0
+39.909807,18.391896,Marina Serra,marina_serra,0,1,0,0,0
+40.996436,16.527675,Mariotto,mariotto,0,1,0,0,0
+40.202418,18.302452,Martano,martano,0,22,21,4,0
+40.239353,18.257291,Martignano,martignano,0,2,3,0,0
+40.700763,17.336207,Martina Franca,martina_franca,4,189,89,33,7
+40.309832,17.562872,Maruggio,maruggio,1,33,19,4,1
+40.587527,17.116894,Massafra,massafra,4,66,52,27,2
+40.031102,18.133306,Matino,matino,0,15,14,3,2
+41.705800,16.062123,Mattinata,mattinata,0,42,11,1,3
+40.278321,18.389304,Melendugno,melendugno,2,80,43,6,4
+39.971675,18.120772,Melissano,melissano,0,11,8,3,0
+40.154080,18.291872,Melpignano,melpignano,0,7,5,0,0
+40.558877,17.806771,Mesagne,mesagne,1,81,61,23,2
+40.000482,18.300169,Miggiano,miggiano,0,5,6,0,0
+40.083477,18.424143,Minervino di Lecce,minervino_di_lecce,0,13,5,3,0
+41.093408,16.089041,Minervino Murge,minervino_murge,0,24,11,3,4
+41.086577,16.785136,Modugno,modugno,4,85,45,28,0
+41.058872,17.088061,Mola di Bari,mola_di_bari,0,69,37,22,4
+41.199667,16.594245,Molfetta,molfetta,7,141,100,41,7
+41.215221,16.547905,Molfetta (BA),molfetta_ba,0,1,0,0,0
+42.450374,18.436993,Molunat,molunat,0,2,0,0,0
+40.327801,17.496678,Monacizzo,monacizzo,0,1,0,0,0
+40.941250,17.298954,Monopoli,monopoli,3,259,128,45,7
+41.712226,15.948404,Monte Sant'Angelo,monte_santangelo,2,40,21,3,5
+40.503984,17.373900,Monteiasi,monteiasi,0,7,5,2,0
+41.160310,15.259231,Monteleone di Puglia,monteleone_di_puglia,0,4,4,1,0
+40.563534,17.338853,Montemesola,montemesola,0,5,4,1,0
+40.444959,17.415001,Monteparano,monteparano,0,2,5,1,1
+40.323160,18.095869,Monteroni di Lecce,monteroni_di_lecce,0,14,16,9,0
+39.976743,18.323498,Montesano Salentino,montesano_salentino,0,3,5,0,0
+39.842130,18.288268,Morciano di Leuca,morciano_di_leuca,0,27,6,3,1
+41.510165,15.106612,Motta Montecorvino,motta_montecorvino,0,2,4,0,0
+40.646271,17.032741,Mottola,mottola,1,40,22,13,1
+40.108226,18.339668,Muro Leccese,muro_leccese,1,13,5,7,3
+40.178261,18.005816,Nardò,nard,5,133,75,21,14
+40.109123,18.112444,Neviano,neviano,0,5,6,3,0
+40.788882,17.120048,Noci,noci,2,61,31,11,0
+40.035398,18.328729,Nociglia,nociglia,0,2,1,0,1
+41.038624,16.990479,Noicattaro,noicattaro,1,24,36,14,0
+40.376690,18.049450,Novoli,novoli,1,10,11,3,2
+41.315071,15.629178,Ordona,ordona,0,3,3,1,2
+40.496272,17.644565,Oria,oria,1,50,25,7,4
+41.283548,15.277081,Orsara di Puglia,orsara_di_puglia,0,15,4,1,0
+41.326575,15.711327,Orta Nova,orta_nova,2,29,30,7,1
+41.332900,15.723435,Ortanova,ortanova,0,0,1,0,0
+40.020836,18.402600,Ortelle,ortelle,0,7,4,2,0
+40.736686,17.574585,Ostuni,ostuni,2,185,99,24,7
+40.150903,18.481263,Otranto,otranto,0,138,43,8,5
+40.607346,16.976014,Palagianello,palagianello,0,27,12,6,2
+40.575322,17.037424,Palagiano,palagiano,0,23,20,7,0
+41.153578,16.765849,Palese,palese,0,2,5,1,0
+40.036334,18.192372,Palla,palla,0,1,0,0,0
+40.121080,18.342009,Palmariggi,palmariggi,0,5,2,0,2
+41.056719,16.703119,Palo del Colle,palo_del_colle,3,27,18,5,2
+40.049322,18.125488,Parabita,parabita,0,17,15,7,4
+39.825781,18.321917,Patù,pat,0,20,4,2,2
+41.944589,16.021706,Peschici,peschici,0,87,29,4,2
+40.820925,17.429431,Pezze Di Greco,pezze_di_greco,0,2,0,0,0
+41.542146,15.128640,Pietramontecorvino,pietramontecorvino,0,6,1,0,3
+40.303945,18.271479,Pisignano LE,pisignano_le,0,1,0,0,0
+40.304519,18.268846,Pisingano,pisingano,0,1,0,0,0
+40.053559,18.378136,Poggiardo,poggiardo,1,15,14,8,4
+41.824167,15.365449,Poggio Imperiale,poggio_imperiale,0,5,2,0,0
+40.918314,16.256095,Poggiorsini,poggiorsini,0,5,5,0,0
+40.991618,17.217208,Polignano a Mare,polignano_a_mare,1,155,73,9,5
+40.269599,17.874608,Porto Cesareo,porto_cesareo,0,102,40,10,1
+39.935745,18.390446,Porto di Tricase,porto_di_tricase,0,1,0,0,0
+39.902359,18.257694,Presicce-Acquarica,presicce-acquarica,0,19,15,2,1
+40.373572,17.355163,Pulsano,pulsano,0,56,26,5,3
+40.849358,17.118992,Putignano,putignano,5,70,49,25,3
+39.967820,18.077663,Racale,racale,1,33,25,10,3
+41.646447,15.577642,Rignano Garganico,rignano_garganico,0,8,3,0,1
+40.436663,17.390023,Roccaforzata,roccaforzata,0,5,3,0,0
+41.102817,15.460240,Rocchetta Sant'Antonio,rocchetta_santantonio,0,3,3,0,0
+41.927046,15.879800,Rodi Garganico,rodi_garganico,0,50,21,1,1
+41.371622,15.094102,Roseto Valfortore,roseto_valfortore,0,6,2,0,0
+39.984858,18.247980,Ruffano,ruffano,0,26,17,7,2
+41.008982,17.004215,Rutigliano,rutigliano,1,32,27,6,4
+41.111783,16.482563,Ruvo di Puglia,ruvo_di_puglia,7,73,74,14,2
+40.382235,17.964000,Salice Salentino,salice_salentino,0,10,15,4,0
+39.848622,18.254331,Salve,salve,0,53,17,2,0
+40.887103,16.948323,Sammichele di Bari,sammichele_di_bari,0,19,13,2,2
+40.057108,18.334199,San Cassiano,san_cassiano,0,9,6,1,0
+40.305989,18.169876,San Cesario di Lecce,san_cesario_di_lecce,1,13,10,6,1
+40.447641,17.923952,San Donaci,san_donaci,0,8,8,5,0
+40.306277,18.092496,San Donato di Lecce,san_donato_di_lecce,0,13,7,2,0
+41.301493,16.068965,San Ferdinando di Puglia,san_ferdinando_di_puglia,0,25,23,11,0
+40.301944,18.403910,San Foca,san_foca,0,1,0,0,0
+40.464940,17.369862,San Giorgio Ionico,san_giorgio_ionico,0,1,3,3,0
+40.457301,17.379153,San Giorgio Jonico,san_giorgio_jonico,1,26,17,11,1
+41.699703,15.721280,San Giovanni Rotondo,san_giovanni_rotondo,9,74,48,14,3
+41.716623,15.654459,San Marco in Lamis,san_marco_in_lamis,1,24,9,4,1
+41.529357,15.013414,San Marco la Catola,san_marco_la_catola,0,3,2,0,0
+40.449737,17.507114,San Marzano di San Giuseppe,san_marzano_di_san_giuseppe,0,20,16,6,0
+40.630686,17.632272,San Michele Salentino,san_michele_salentino,0,18,9,2,0
+41.841725,15.564986,San Nicandro Garganico,san_nicandro_garganico,0,12,17,4,1
+41.315931,15.630543,San Nicola Isole Tremititremiti,san_nicola_isole_tremititremiti,0,1,0,0,0
+40.417343,17.836058,San Pancrazio Salentino,san_pancrazio_salentino,0,13,15,5,0
+41.734150,15.253496,San Paolo di Civitate,san_paolo_di_civitate,1,10,8,1,2
+40.308785,17.691558,San Pietro in Bevagna,san_pietro_in_bevagna,0,1,1,0,0
+40.305658,18.126863,San Pietro in Lama,san_pietro_in_lama,0,4,5,1,0
+40.496176,18.007136,San Pietro Vernotico,san_pietro_vernotico,2,24,25,13,0
+41.148001,16.740447,San Pio,san_pio,0,0,1,0,0
+41.685547,15.380060,San Severo,san_severo,2,101,62,37,3
+40.655683,17.705170,San Vito dei Normanni,san_vito_dei_normanni,1,39,43,14,4
+40.087488,18.346718,Sanarica,sanarica,0,2,1,0,0
+40.995278,16.794742,Sannicandro di Bari,sannicandro_di_bari,1,18,10,4,0
+41.883712,15.577104,Sannicandro Garganico,sannicandro_garganico,0,6,3,0,0
+40.129981,18.006307,Sannicola,sannicola,0,28,16,1,0
+40.047502,18.449794,Santa Cesarea Terme,santa_cesarea_terme,0,28,7,1,1
 40.848588,17.276154,Santa Lucia Ai Monti,santa_lucia_ai_monti,0,0,0,0,0
-40.124915,17.997497,Santa Maria al Bagno,santa_maria_al_bagno,0,0,0,0,0
-39.770896,15.879734,Santa Maria del Cedro,santa_maria_del_cedro,0,0,0,0,0
-39.796274,18.361557,Santa Maria di Leuca,santa_maria_di_leuca,0,0,0,0,0
-39.796146,18.355916,Santa Maria di Leuca, Puglia,santa_maria_di_leuca_puglia,0,0,0,0,0
-40.076753,15.521119,Santa Marina,santa_marina,0,0,0,0,0
-39.552695,16.312102,Santa Sofia d'Epiro,santa_sofia_depiro,0,0,0,0,0
-39.623430,15.987835,Sant'Agata di Esaro,santagata_di_esaro,0,0,0,0,0
-41.153002,15.383991,Sant'Agata di Puglia,santagata_di_puglia,0,0,0,0,0
-40.843044,15.369082,Sant'Andrea di Conza,santandrea_di_conza,0,0,0,0,0
-40.454395,15.349560,Sant'Angelo a Fasanella,santangelo_a_fasanella,0,0,0,0,0
-40.928212,15.176747,Sant'Angelo dei Lombardi,santangelo_dei_lombardi,0,0,0,0,0
-40.542305,15.566564,Sant'Angelo le Fratte,santangelo_le_fratte,0,0,0,0,0
-40.316585,15.061495,Sant'antuono Di Copersito,santantuono_di_copersito,0,0,0,0,0
-40.256504,16.260147,Sant'Arcangelo,santarcangelo,0,0,0,0,0
-40.470362,15.483226,Sant'Arsenio,santarsenio,0,0,0,0,0
-40.792728,16.756121,Santeramo in Colle,santeramo_in_colle,0,0,0,0,0
-40.790933,15.666498,Sant'Ilario di Atella,santilario_di_atella,0,0,0,0,0
-41.163254,16.750266,Santo Spirito,santo_spirito,0,0,0,0,0
-40.805966,15.325774,Santomenna,santomenna,0,0,0,0,0
-40.232783,15.558132,Sanza,sanza,0,0,0,0,0
-40.324038,16.652527,Saonara,saonara,0,0,0,0,0
-40.074351,15.628261,Sapri,sapri,0,0,0,0,0
-39.760524,16.155308,Saracena,saracena,0,0,0,0,0
-40.247315,15.889090,Sarconi,sarconi,0,0,0,0,0
-40.345983,15.582823,Sassano,sassano,0,0,0,0,0
-40.492655,15.689889,Sasso di Castalda,sasso_di_castalda,0,0,0,0,0
-40.561510,15.666919,Satriano di Lucania,satriano_di_lucania,0,0,0,0,0
-40.402168,17.557201,Sava,sava,0,0,0,0,0
-40.856992,17.411577,Savelletri,savelletri,0,0,0,0,0
-40.878592,17.403772,Savelletri BR,savelletri_br,0,0,0,0,0
-41.230111,15.182670,Savignano Irpino,savignano_irpino,0,0,0,0,0
-40.572120,15.553167,Savoia di Lucania,savoia_di_lucania,0,0,0,0,0
-40.244872,15.552927,Saza,saza,0,0,0,0,0
-39.809441,15.793043,Scalea,scalea,0,0,0,0,0
-40.693603,15.573545,Scalo di Baragiano,scalo_di_baragiano,0,0,0,0,0
-41.089987,15.299127,Scampitella,scampitella,0,0,0,0,0
-40.251863,16.701438,Scanzano Ionico,scanzano_ionico,0,0,0,0,0
-40.252280,16.709965,Scanzano Jonico,scanzano_jonico,0,0,0,0,0
-40.053642,15.491796,Scario,scario,0,0,0,0,0
-40.666273,16.840659,sconosciuta,sconosciuta,0,3,2,0,0
-40.090476,18.297381,Scorrano,scorrano,0,0,0,0,0
-40.128271,18.105010,Seclì,secl,0,0,0,0,0
-40.905202,15.259303,Senerchia,senerchia,0,0,0,0,0
-40.158458,16.280638,Senise,senise,0,0,0,0,0
-41.806090,15.159461,Serracapriola,serracapriola,0,0,0,0,0
-40.237885,15.024125,Serramezzana,serramezzana,0,0,0,0,0
+40.124915,17.997497,Santa Maria al Bagno,santa_maria_al_bagno,0,1,0,0,0
+39.796274,18.361557,Santa Maria di Leuca,santa_maria_di_leuca,0,1,2,0,0
+41.153002,15.383991,Sant'Agata di Puglia,santagata_di_puglia,0,5,1,0,1
+40.792728,16.756121,Santeramo in Colle,santeramo_in_colle,3,75,36,25,0
+41.163254,16.750266,Santo Spirito,santo_spirito,0,7,9,0,0
+40.402168,17.557201,Sava,sava,0,34,34,12,5
+40.856992,17.411577,Savelletri,savelletri,0,1,2,0,0
+40.878592,17.403772,Savelletri BR,savelletri_br,0,1,0,0,0
+40.090476,18.297381,Scorrano,scorrano,1,6,6,3,1
+40.128271,18.105010,Seclì,secl,0,4,3,1,1
+41.806090,15.159461,Serracapriola,serracapriola,0,5,8,0,1
+40.183484,18.353921,Serrano,serrano,0,1,0,0,0
 40.692162,17.762929,Serranova,serranova,0,0,0,0,0
-41.281935,16.191101,Serravalle Scrivia,serravalle_scrivia,0,0,0,0,0
-40.586555,15.170422,Serre,serre,0,0,0,0,0
-40.258180,15.089970,Sessa Cilento,sessa_cilento,0,0,0,0,0
-40.724725,15.293924,Siano,siano,0,0,0,0,0
-39.749873,16.492470,Sibari,sibari,0,0,0,0,0
-40.581414,15.295813,Sicignano degli Alburni,sicignano_degli_alburni,0,0,0,0,0
-40.135463,15.529582,Sicilì,sicil,0,0,0,0,0
-40.147581,18.197079,Sogliano Cavour,sogliano_cavour,0,0,0,0,0
-40.195549,18.203583,Soleto,soleto,0,0,0,0,0
-39.640613,16.541926,Soriano Calabro,soriano_calabro,0,0,0,0,0
-39.938809,18.300224,Specchia,specchia,0,0,0,0,0
-39.673788,16.306190,Spezzano Albanese,spezzano_albanese,0,0,0,0,0
-40.966093,16.092529,Spinazzola,spinazzola,0,0,0,0,0
-40.268672,15.968543,Spinoso,spinoso,0,0,0,0,0
-40.016862,18.364318,Spongano,spongano,0,0,0,0,0
-40.447958,18.055649,Squinzano,squinzano,0,0,0,0,0
-40.562436,17.217105,Statte,statte,0,0,0,0,0
-40.233028,15.099062,Stella Cilento,stella_cilento,0,0,0,0,0
-40.223208,18.229326,Sternatia,sternatia,0,0,0,0,0
-40.400741,16.232208,Stigliano,stigliano,0,0,0,0,0
-40.311759,15.252660,Stio,stio,0,0,0,0,0
-41.289325,15.770126,Stornara,stornara,0,0,0,0,0
-41.257824,15.725499,Stornarella,stornarella,0,0,0,0,0
-40.318769,18.280496,Strudà,strud,0,0,0,0,0
-41.021246,15.114282,Sturno,sturno,0,0,0,0,0
-40.020448,18.238068,Supersano,supersano,0,0,0,0,0
-40.026864,18.340685,Surano,surano,0,0,0,0,0
-40.389256,18.137607,Surbo,surbo,0,0,0,0,0
-40.402748,17.281838,Talsano,talsano,0,0,0,0,0
-40.457332,17.254991,Taranto,taranto,0,0,0,0,0
-39.615411,16.259225,Tarsia,tarsia,0,0,0,0,0
-39.956684,18.213947,Taurisano,taurisano,0,0,0,0,0
-39.984062,18.070459,Taviano,taviano,0,0,0,0,0
-40.126369,16.153661,Teana,teana,0,0,0,0,0
-40.385182,15.533135,Teggiano,teggiano,0,0,0,0,0
-40.857248,15.254404,Teora,teora,0,0,0,0,0
-41.129479,16.544461,Terlizzi,terlizzi,0,0,0,0,0
-41.982952,15.005438,Termoli,termoli,0,0,0,0,0
-40.694173,15.238866,Terracina,terracina,0,0,0,0,0
-39.613507,16.306586,Terranova da Síbari,terranova_da_sbari,0,0,0,0,0
-39.665052,16.339104,Terranova da Sibari,terranova_da_sibari,0,0,0,0,0
-39.974811,16.281355,Terranova di Pollino,terranova_di_pollino,0,0,0,0,0
-39.910517,18.365668,Tiggiano,tiggiano,0,0,0,0,0
-40.584825,15.691818,Tito,tito,0,0,0,0,0
-40.592034,15.699996,Tito Scalo,tito_scalo,0,0,0,0,0
-40.687425,15.994700,Tolve,tolve,0,0,0,0,0
-39.523829,16.182943,Torano Castello,torano_castello,0,0,0,0,0
-40.319072,15.055461,Torchiara,torchiara,0,0,0,0,0
-40.506318,18.066317,Torchiarolo,torchiarolo,0,0,0,0,0
-40.938074,15.109543,Torella dei Lombardi,torella_dei_lombardi,0,0,0,0,0
-40.997281,16.653398,Toritto,toritto,0,0,0,0,0
-40.108919,15.634016,Torraca,torraca,0,0,0,0,0
-40.836401,17.471033,Torre Canne,torre_canne,0,0,0,0,0
-41.918215,15.570988,Torre Mileto,torre_mileto,0,0,0,0,0
-40.127974,15.474210,Torre Orsaia,torre_orsaia,0,0,0,0,0
-40.309836,17.495912,Torre Ovo,torre_ovo,0,0,0,0,0
-39.838657,18.207566,Torre Pali,torre_pali,0,0,0,0,0
-40.467646,17.739453,Torre Santa Susanna,torre_santa_susanna,0,0,0,0,0
-41.691153,15.293726,Torremaggiore,torremaggiore,0,0,0,0,0
-40.328916,17.496357,Torricella,torricella,0,0,0,0,0
-40.953755,17.301554,Tortolì,tortol,0,0,0,0,0
-39.921196,15.773623,Tortora,tortora,0,0,0,0,0
-40.141456,15.613003,Tortorella,tortorella,0,0,0,0,0
-40.376379,15.755770,Tramutola,tramutola,0,0,0,0,0
-41.274126,16.421259,Trani,trani,0,0,0,0,0
-39.870252,16.534286,Trebisacce,trebisacce,0,0,0,0,0
-40.026912,15.783915,Trecchina,trecchina,0,0,0,0,0
-40.401235,15.112896,Trentinara,trentinara,0,0,0,0,0
-40.412410,18.078591,Trepuzzi,trepuzzi,0,0,0,0,0
-41.060163,15.249860,Trevico,trevico,0,0,0,0,0
-40.621836,16.138570,Tricarico,tricarico,0,0,0,0,0
-39.934040,18.357382,Tricase,tricase,0,0,0,0,0
-41.067080,16.925076,Triggiano,triggiano,0,0,0,0,0
-41.083280,16.947080,Triggiano (BA),triggiano_ba,0,0,0,0,0
-41.355338,16.088738,Trinitapoli,trinitapoli,0,0,0,0,0
-40.571389,16.001442,Trivigno,trivigno,0,0,0,0,0
-41.365292,15.315342,Troia,troia,0,0,0,0,0
-40.072070,18.098502,Tuglie,tuglie,0,0,0,0,0
-40.917899,17.019745,Turi,turi,0,0,0,0,0
-40.245485,16.476228,Tursi,tursi,0,0,0,0,0
-39.896066,18.140545,Ugento,ugento,0,0,0,0,0
-40.102108,18.451082,Uggiano la Chiesa,uggiano_la_chiesa,0,0,0,0,0
-40.325517,17.700896,Urmo,urmo,0,0,0,0,0
-41.815973,15.014293,Ururi,ururi,0,0,0,0,0
-39.585576,16.433150,Vaccarizzo Albanese,vaccarizzo_albanese,0,0,0,0,0
-40.668363,15.909695,Vaglio Basilicata,vaglio_basilicata,0,0,0,0,0
-41.042990,16.884139,Valenzano,valenzano,0,0,0,0,0
-40.972808,15.270124,Vallata,vallata,0,0,0,0,0
-40.343436,15.369347,Valle dell'Angelo,valle_dellangelo,0,0,0,0,0
-41.064901,15.251632,Vallesaccarda,vallesaccarda,0,0,0,0,0
-40.229161,15.264737,Vallo della Lucania,vallo_della_lucania,0,0,0,0,0
-40.168652,16.448113,Valsinni,valsinni,0,0,0,0,0
-40.740283,15.269429,Valva,valva,0,0,0,0,0
-40.333776,17.962273,Veglie,veglie,0,0,0,0,0
-40.959770,15.810995,Venezia,venezia,0,0,0,0,0
-40.960756,15.816673,Venosa,venosa,0,0,0,0,0
-39.751527,15.908070,Verbicaro,verbicaro,0,0,0,0,0
-40.316264,18.312165,Vernole,vernole,0,0,0,0,0
-40.101990,15.583944,Vibonati,vibonati,0,0,0,0,0
-41.903340,15.958048,Vico del Gargano,vico_del_gargano,0,0,0,0,0
-41.883380,16.165419,Vieste,vieste,0,0,0,0,0
-40.602430,15.507766,Vietri di Potenza,vietri_di_potenza,0,0,0,0,0
-39.980238,16.100978,Viggianello,viggianello,0,0,0,0,0
-40.391013,15.846921,Viggiano,viggiano,0,0,0,0,0
-40.575128,17.476152,Villa Castelli,villa_castelli,0,0,0,0,0
-40.803944,15.105836,Villaggio Laceno,villaggio_laceno,0,0,0,0,0
-40.969216,15.094722,Villamaina,villamaina,0,0,0,0,0
-40.075448,15.590273,Villammare,villammare,0,0,0,0,0
-41.113232,15.153168,Villanova del Battista,villanova_del_battista,0,0,0,0,0
-39.814670,16.481578,Villapiana,villapiana,0,0,0,0,0
-42.445659,18.494862,žvinje,vinje,0,0,0,0,0
-41.496530,15.053892,Volturara Appula,volturara_appula,0,0,0,0,0
-40.213743,15.159782,Volturara Irpina,volturara_irpina,0,0,0,0,0
-41.481253,15.128403,Volturino,volturino,0,0,0,0,0
-41.455878,15.958118,Zapponeta,zapponeta,0,0,0,0,0
-40.205941,18.247604,Zollino,zollino,0,0,0,0,0
-41.139419,15.209823,Zungoli,zungoli,0,0,0,0,0
-42.443452,18.497250,Zvinje,zvinje,0,0,0,0,0
+40.147581,18.197079,Sogliano Cavour,sogliano_cavour,0,5,8,2,0
+40.195549,18.203583,Soleto,soleto,0,9,6,1,0
+39.938809,18.300224,Specchia,specchia,0,23,7,0,1
+40.966093,16.092529,Spinazzola,spinazzola,0,11,11,4,0
+40.016862,18.364318,Spongano,spongano,0,9,7,4,0
+40.447958,18.055649,Squinzano,squinzano,2,25,17,10,1
+40.562436,17.217105,Statte,statte,1,11,10,4,0
+40.223208,18.229326,Sternatia,sternatia,0,6,6,1,0
+41.289325,15.770126,Stornara,stornara,0,14,12,0,0
+41.257824,15.725499,Stornarella,stornarella,0,10,4,1,0
+40.318769,18.280496,Strudà,strud,0,0,1,0,0
+40.020448,18.238068,Supersano,supersano,0,10,5,1,0
+40.026864,18.340685,Surano,surano,0,8,3,1,0
+40.389256,18.137607,Surbo,surbo,0,21,15,4,0
+40.402748,17.281838,Talsano,talsano,0,1,0,1,0
+40.457332,17.254991,Taranto,taranto,30,433,279,117,20
+39.956684,18.213947,Taurisano,taurisano,0,13,19,3,0
+39.984062,18.070459,Taviano,taviano,0,36,22,13,0
+41.129479,16.544461,Terlizzi,terlizzi,1,82,102,21,2
+39.910517,18.365668,Tiggiano,tiggiano,0,5,5,2,1
+40.506318,18.066317,Torchiarolo,torchiarolo,0,17,15,4,1
+40.997281,16.653398,Toritto,toritto,1,18,9,1,1
+40.836401,17.471033,Torre Canne,torre_canne,0,2,0,0,0
+40.276828,18.418098,Torre Dellorso,torre_dellorso,0,1,0,0,0
+41.918215,15.570988,Torre Mileto,torre_mileto,0,1,0,0,0
+40.309836,17.495912,Torre Ovo,torre_ovo,0,0,1,0,0
+39.838657,18.207566,Torre Pali,torre_pali,0,0,1,0,0
+40.467646,17.739453,Torre Santa Susanna,torre_santa_susanna,0,15,17,10,2
+41.691153,15.293726,Torremaggiore,torremaggiore,4,30,24,12,1
+40.328916,17.496357,Torricella,torricella,0,41,16,9,1
+41.274126,16.421259,Trani,trani,6,229,161,46,9
+40.412410,18.078591,Trepuzzi,trepuzzi,1,22,16,8,0
+39.934040,18.357382,Tricase,tricase,3,69,56,15,3
+41.067080,16.925076,Triggiano,triggiano,3,49,27,19,0
+41.083280,16.947080,Triggiano (BA),triggiano_ba,0,1,0,0,0
+41.355338,16.088738,Trinitapoli,trinitapoli,0,19,19,8,2
+41.365292,15.315342,Troia,troia,0,15,9,4,2
+40.072070,18.098502,Tuglie,tuglie,0,11,9,3,2
+40.917899,17.019745,Turi,turi,0,22,17,5,0
+39.896066,18.140545,Ugento,ugento,0,86,48,11,3
+40.102108,18.451082,Uggiano la Chiesa,uggiano_la_chiesa,0,16,10,0,1
+40.325517,17.700896,Urmo,urmo,0,1,1,0,0
+41.042990,16.884139,Valenzano,valenzano,0,28,24,17,1
+40.333776,17.962273,Veglie,veglie,0,21,17,12,0
+40.316264,18.312165,Vernole,vernole,0,32,12,4,2
+41.903340,15.958048,Vico del Gargano,vico_del_gargano,1,50,14,3,6
+41.883380,16.165419,Vieste,vieste,0,171,47,14,5
+40.019707,18.417420,Vignacastrisi,vignacastrisi,0,1,0,0,0
+40.575128,17.476152,Villa Castelli,villa_castelli,0,17,14,2,1
+42.445659,18.494862,žvinje,vinje,0,0,1,1,0
+41.496530,15.053892,Volturara Appula,volturara_appula,0,0,2,0,0
+41.481253,15.128403,Volturino,volturino,0,4,2,1,0
+41.455878,15.958118,Zapponeta,zapponeta,0,11,14,5,0
+40.205941,18.247604,Zollino,zollino,0,4,5,2,1

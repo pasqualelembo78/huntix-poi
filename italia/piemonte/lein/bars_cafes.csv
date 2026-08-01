@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# lein -- bars_cafes
+# lein -- bars_cafes.csv
 45.185218,7.700778,ov_caff__500_bistrot_45.1852_7.7008,Caffè 500 Bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/caff_500_bistrot_45.1852_7.7008.json,custom
 45.151423,7.723622,ov_dubai_coffee_lounge_45.1514_7.7236,Dubai Coffee Lounge,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/dubai_coffee_lounge_45.1514_7.7236.json,custom
 45.160020,7.716204,ov_casa_delle_cialde_45.1600_7.7162,Casa delle Cialde,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/casa_delle_cialde_45.1600_7.7162.json,custom
@@ -22,3 +22,4 @@
 45.204733,7.709173,ov_oscargroup_45.2047_7.7092,Oscargroup,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/oscargroup_45.2047_7.7092.json,custom
 45.196178,7.723289,ov_bar_paolino_45.1962_7.7233,Bar Paolino,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/bar_paolino_45.1962_7.7233.json,custom
 45.198750,7.724145,ov_bar_mara_45.1988_7.7241,Bar Mara,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/bar_mara_45.1988_7.7241.json,custom
+45.183496,7.715348,osm_excelsior_caf__45.1835_7.7153,Excelsior Café,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/lein/pages/excelsior_caf_45.1835_7.7153.json,custom

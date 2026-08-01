@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# luino -- restaurants
+# luino -- restaurants.csv
 46.070349,8.768805,ov_rifugio_forcora_46.0703_8.7688,Rifugio Forcora,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/rifugio_forcora_46.0703_8.7688.json,custom
 46.000881,8.782048,ov_pizzeria_circolo_di_pianazzo_46.0009_8.7820,Pizzeria circolo di Pianazzo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/pizzeria_circolo_di_pianazzo_46.0009_8.7820.json,custom
 46.002828,8.772484,ov_agriturismo_voeuja_lago_maggiore_46.0028_8.7725,Agriturismo Voeuja Lago Maggiore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/agriturismo_voeuja_lago_maggiore_46.0028_8.7725.json,custom
@@ -62,6 +62,6 @@
 46.001252,8.741127,osm_epoke_46.0013_8.7411,Epoke,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/epoke_46.0013_8.7411.json,custom
 46.000555,8.739259,osm_il_leon_d_oro_46.0006_8.7393,Il Leon d’Oro,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/il_leon_doro_46.0006_8.7393.json,custom
 46.001948,8.746565,osm_la_luinese_46.0019_8.7466,La Luinese,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/la_luinese_46.0019_8.7466.json,custom
-46.001156,8.741583,osm_pizza__pasta_e_basta_46.0012_8.7416,Pizza, Pasta e Basta,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/pizza_pasta_e_basta_46.0012_8.7416.json,custom
+46.001156,8.741583,osm_pizza__pasta_e_basta_46.0012_8.7416,"Pizza, Pasta e Basta",ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/pizza_pasta_e_basta_46.0012_8.7416.json,custom
 45.996690,8.752462,osm_la_rustica_45.9967_8.7525,La Rustica,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/la_rustica_45.9967_8.7525.json,custom
 45.994737,8.733590,osm_mcdonald_s_45.9947_8.7336,McDonald's,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/lombardia/luino/pages/mcdonalds_45.9947_8.7336.json,custom

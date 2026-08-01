@@ -1,8 +1,6 @@
-# lat,lng,id,name,building_type,type,url,page_type
-Valle d'Aosta,valle_daosta,
-Puglia,puglia,
-Basilicata,basilicata
+# nome,slug
 Abruzzo,abruzzo
+Basilicata,basilicata
 Calabria,calabria
 Campania,campania
 Emilia-Romagna,emilia-romagna
@@ -13,9 +11,11 @@ Lombardia,lombardia
 Marche,marche
 Molise,molise
 Piemonte,piemonte
+Puglia,puglia
 Sardegna,sardegna
 Sicilia,sicilia
 Toscana,toscana
 Trentino-A.A.,trentino-aa
 Umbria,umbria
+Valle d'Aosta,valle_daosta
 Veneto,veneto

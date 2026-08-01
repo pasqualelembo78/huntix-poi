@@ -1,8 +1,11 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# santa_maria_di_sala -- bars_cafes
+# santa_maria_di_sala -- bars_cafes.csv
 45.479929,12.029841,ov_bar_dolce_vita_45.4799_12.0298,Bar Dolce Vita,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/bar_dolce_vita_45.4799_12.0298.json,custom
 45.479029,12.029829,ov_box_caf__wine_bar_45.4790_12.0298,BOX Café Wine Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/box_caf_wine_bar_45.4790_12.0298.json,custom
 45.485727,12.032268,ov_voodoo_child_pub_45.4857_12.0323,Voodoo Child Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/voodoo_child_pub_45.4857_12.0323.json,custom
+45.489454,12.009518,ov_bar_ea_vecia_de_spade_45.4895_12.0095,Bar Ea Vecia de Spade,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/bar_ea_vecia_de_spade_45.4895_12.0095.json,custom
+45.483442,12.000895,ov_dall_acqua_bar_filovia_45.4834_12.0009,Dall'Acqua Bar Filovia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/dallacqua_bar_filovia_45.4834_12.0009.json,custom
+45.478946,12.029914,osm_2f_box_caf__wine_bar_45.4789_12.0299,2F Box Café Wine Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/2f_box_caf_wine_bar_45.4789_12.0299.json,custom
 45.504915,12.034075,ov_kanpai_45.5049_12.0341,Kanpai,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/kanpai_45.5049_12.0341.json,custom
 45.504878,12.034016,ov_caffe_diemme_45.5049_12.0340,Caffe Diemme,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/caffe_diemme_45.5049_12.0340.json,custom
 45.504588,12.036476,ov_residence_45.5046_12.0365,Residence,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/residence_45.5046_12.0365.json,custom
@@ -11,8 +14,6 @@
 45.507167,12.023583,ov_bar_al_puntogiusto_45.5072_12.0236,BAR Al Puntogiusto,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/bar_al_puntogiusto_45.5072_12.0236.json,custom
 45.506028,12.021520,ov_blackrose_live_events_45.5060_12.0215,Blackrose Live Events,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/blackrose_live_events_45.5060_12.0215.json,custom
 45.506061,12.025354,ov_caffetteria_leonardo_da_vinci_45.5061_12.0254,Caffetteria Leonardo Da Vinci,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/caffetteria_leonardo_da_vinci_45.5061_12.0254.json,custom
-45.489454,12.009518,ov_bar_ea_vecia_de_spade_45.4895_12.0095,Bar Ea Vecia de Spade,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/bar_ea_vecia_de_spade_45.4895_12.0095.json,custom
-45.483442,12.000895,ov_dall_acqua_bar_filovia_45.4834_12.0009,Dall'Acqua Bar Filovia,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/dallacqua_bar_filovia_45.4834_12.0009.json,custom
 45.509783,12.022034,ov_stireria_orchidea_45.5098_12.0220,Stireria orchidea,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/stireria_orchidea_45.5098_12.0220.json,custom
 45.515842,12.021762,ov_pasticceria_bido_45.5158_12.0218,Pasticceria Bido,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/pasticceria_bido_45.5158_12.0218.json,custom
 45.521406,12.014668,ov_los_angeles_bar_45.5214_12.0147,Los Angeles Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/los_angeles_bar_45.5214_12.0147.json,custom
@@ -23,4 +24,3 @@
 45.521583,12.014386,osm_caff__don_cortez_45.5216_12.0144,Caffè Don Cortez,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/caff_don_cortez_45.5216_12.0144.json,custom
 45.505378,12.030276,osm_la_gineria_45.5054_12.0303,La Gineria,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/la_gineria_45.5054_12.0303.json,custom
 45.506506,12.022062,osm_paninoteca_napoleon_45.5065_12.0221,Paninoteca Napoleon,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/paninoteca_napoleon_45.5065_12.0221.json,custom
-45.478946,12.029914,osm_2f_box_caf__wine_bar_45.4789_12.0299,2F Box Café Wine Bar,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/santa_maria_di_sala/pages/2f_box_caf_wine_bar_45.4789_12.0299.json,custom

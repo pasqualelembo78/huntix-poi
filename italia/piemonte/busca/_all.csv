@@ -1,11 +1,15 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# Busca -- Tutti
-44.518177,7.478304,osm_croce_rossa_italiana_44.5182_7.4783,Croce Rossa Italiana,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/croce_rossa_italiana_44.5182_7.4783.json,custom
-44.538498,7.349986,ov_reis_cibo_libero_di_montagna_44.5385_7.3500,REIS Cibo Libero di Montagna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/reis_cibo_libero_di_montagna_44.5385_7.3500.json,custom
+# busca -- Tutti
 44.522290,7.517974,ov_trattoria_las_vegas_44.5223_7.5180,Trattoria Las Vegas,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/trattoria_las_vegas_44.5223_7.5180.json,custom
-44.498746,7.492488,ov_il_chiosco_44.4987_7.4925,Il Chiosco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/il_chiosco_44.4987_7.4925.json,custom
 44.480269,7.501549,ov_locanda_zi__pepe__44.4803_7.5015,Locanda Zi' Pepe',RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/locanda_zi_pepe_44.4803_7.5015.json,custom
 44.480140,7.501700,ov_al_solito_posto_44.4801_7.5017,Al Solito Posto,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/al_solito_posto_44.4801_7.5017.json,custom
+44.495412,7.504473,ov_pista_motard_busca_44.4954_7.5045,Pista Motard Busca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/pista_motard_busca_44.4954_7.5045.json,custom
+44.480801,7.504532,ov_j__fitzgerald_english_pub_44.4808_7.5045,J. Fitzgerald English pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/j_fitzgerald_english_pub_44.4808_7.5045.json,custom
+44.480216,7.505399,ov_il_chiosco_44.4802_7.5054,Il Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/il_chiosco_44.4802_7.5054.json,custom
+44.495414,7.504604,ov_kartodromo_di_busca_44.4954_7.5046,Kartodromo di Busca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/kartodromo_di_busca_44.4954_7.5046.json,custom
+44.518177,7.478304,osm_croce_rossa_italiana_44.5182_7.4783,Croce Rossa Italiana,hospital,hospital,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/croce_rossa_italiana_44.5182_7.4783.json,custom
+44.538498,7.349986,ov_reis_cibo_libero_di_montagna_44.5385_7.3500,REIS Cibo Libero di Montagna,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/reis_cibo_libero_di_montagna_44.5385_7.3500.json,custom
+44.498746,7.492488,ov_il_chiosco_44.4987_7.4925,Il Chiosco,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/il_chiosco_44.4987_7.4925.json,custom
 44.478369,7.444904,ov_osteria_fuorimano_44.4784_7.4449,Osteria Fuorimano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/osteria_fuorimano_44.4784_7.4449.json,custom
 44.496377,7.477225,ov_trattoria_l_ecole_44.4964_7.4772,Trattoria L'Ecole,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/trattoria_lecole_44.4964_7.4772.json,custom
 44.513272,7.472320,ov_i_due_mondi_44.5133_7.4723,I Due Mondi,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/i_due_mondi_44.5133_7.4723.json,custom
@@ -22,10 +26,7 @@
 44.496341,7.477351,osm_trattoria_l__cole_44.4963_7.4774,Trattoria l'École,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/trattoria_lcole_44.4963_7.4774.json,custom
 44.521192,7.476888,ov_rock__n__roll_cafe_44.5212_7.4769,Rock 'n' Roll Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/rock_n_roll_cafe_44.5212_7.4769.json,custom
 44.524871,7.480297,ov_sherwood_pub_44.5249_7.4803,Sherwood Pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/sherwood_pub_44.5249_7.4803.json,custom
-44.495412,7.504473,ov_pista_motard_busca_44.4954_7.5045,Pista Motard Busca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/pista_motard_busca_44.4954_7.5045.json,custom
 44.500535,7.491747,ov_publicaf__44.5005_7.4917,Publicafé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/publicaf_44.5005_7.4917.json,custom
-44.480801,7.504532,ov_j__fitzgerald_english_pub_44.4808_7.5045,J. Fitzgerald English pub,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/j_fitzgerald_english_pub_44.4808_7.5045.json,custom
-44.480216,7.505399,ov_il_chiosco_44.4802_7.5054,Il Chiosco,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/il_chiosco_44.4802_7.5054.json,custom
 44.496422,7.475819,ov_la_virgola_44.4964_7.4758,La Virgola,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/la_virgola_44.4964_7.4758.json,custom
 44.510113,7.484215,ov_bar_busca_44.5101_7.4842,Bar busca,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/bar_busca_44.5101_7.4842.json,custom
 44.514687,7.472837,ov_bar_900_44.5147_7.4728,Bar 900,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/bar_900_44.5147_7.4728.json,custom
@@ -44,7 +45,6 @@
 44.528090,7.473250,ov_scuderia_san_quintino_44.5281_7.4733,Scuderia San Quintino,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/scuderia_san_quintino_44.5281_7.4733.json,custom
 44.534383,7.492295,ov_centro_ippico_baby_horse_44.5344_7.4923,Centro Ippico Baby Horse,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/centro_ippico_baby_horse_44.5344_7.4923.json,custom
 44.505400,7.489780,ov_fitness_academy_asd_busca_44.5054_7.4898,Fitness Academy ASD Busca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/fitness_academy_asd_busca_44.5054_7.4898.json,custom
-44.495414,7.504604,ov_kartodromo_di_busca_44.4954_7.5046,Kartodromo di Busca,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/kartodromo_di_busca_44.4954_7.5046.json,custom
 44.502042,7.490912,ov_a_tu_per_tu____boutique_gym_44.5020_7.4909,A tu per tu -  Boutique Gym,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/a_tu_per_tu_-_boutique_gym_44.5020_7.4909.json,custom
 44.498792,7.491648,ov_12022_sport_44.4988_7.4916,12022 Sport,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/12022_sport_44.4988_7.4916.json,custom
 44.516455,7.477686,ov_palestra_body_style_44.5165_7.4777,Palestra Body Style,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/busca/pages/palestra_body_style_44.5165_7.4777.json,custom

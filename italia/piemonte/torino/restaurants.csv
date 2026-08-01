@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# torino -- restaurants
+# torino -- restaurants.csv
 45.073855,7.546660,ov_torino_borgo_san_paolo_45.0739_7.5467,Torino Borgo San Paolo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/torino_borgo_san_paolo_45.0739_7.5467.json,custom
 45.075827,7.562133,ov_la_mimosa_45.0758_7.5621,La Mimosa,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/la_mimosa_45.0758_7.5621.json,custom
 45.077682,7.620105,ov_il_cavaliere_45.0777_7.6201,Il Cavaliere,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/il_cavaliere_45.0777_7.6201.json,custom
@@ -1835,7 +1835,6 @@
 45.071119,7.681890,ov_san_tommaso_45.0711_7.6819,San Tommaso,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/san_tommaso_45.0711_7.6819.json,custom
 45.071190,7.682079,ov_kebab_pizza_il_castello_45.0712_7.6821,Kebab Pizza Il Castello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/kebab_pizza_il_castello_45.0712_7.6821.json,custom
 45.071084,7.681945,ov_ristorante_dai_borboni_45.0711_7.6819,Ristorante Dai Borboni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/ristorante_dai_borboni_45.0711_7.6819.json,custom
-45.071119,7.681936,ov_ristorante_dai_borboni_45.0711_7.6819,Ristorante Dai Borboni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/ristorante_dai_borboni_45.0711_7.6819.json,custom
 45.071416,7.680927,ov_ristorante_peppino_45.0714_7.6809,Ristorante Peppino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/ristorante_peppino_45.0714_7.6809.json,custom
 45.070780,7.681120,ov_burger_king_45.0708_7.6811,Burger King,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/burger_king_45.0708_7.6811.json,custom
 45.070848,7.681287,ov_cantina_torino_dai_borboni_45.0708_7.6813,Cantina Torino Dai Borboni,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/cantina_torino_dai_borboni_45.0708_7.6813.json,custom
@@ -2667,7 +2666,7 @@
 45.072350,7.679119,osm_lao_45.0724_7.6791,Lao,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/lao_45.0724_7.6791.json,custom
 45.067283,7.696585,osm_la_panzerotteria___apulian_street_food_45.0673_7.6966,La Panzerotteria - Apulian Street Food,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/la_panzerotteria_-_apulian_street_food_45.0673_7.6966.json,custom
 45.075712,7.679967,osm_casa_antoine_45.0757_7.6800,Casa Antoine,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/casa_antoine_45.0757_7.6800.json,custom
-45.082615,7.698418,osm_karibu_open__catering_sostenibile_45.0826_7.6984,Karibu Open, catering sostenibile,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/karibu_open_catering_sostenibile_45.0826_7.6984.json,custom
+45.082615,7.698418,osm_karibu_open__catering_sostenibile_45.0826_7.6984,"Karibu Open, catering sostenibile",ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/karibu_open_catering_sostenibile_45.0826_7.6984.json,custom
 45.071529,7.698517,osm_pizzeria_regina_2000_45.0715_7.6985,Pizzeria Regina 2000,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/pizzeria_regina_2000_45.0715_7.6985.json,custom
 45.076299,7.685645,osm_combo__bar___restaurant_45.0763_7.6856,Combo  Bar - Restaurant,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/combo_bar_-_restaurant_45.0763_7.6856.json,custom
 45.066795,7.691316,osm_chuan_xiang_ju_45.0668_7.6913,Chuan Xiang Ju,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/chuan_xiang_ju_45.0668_7.6913.json,custom
@@ -2721,3 +2720,4 @@
 45.040582,7.653124,osm_m___bun_45.0406_7.6531,M** Bun,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/m_bun_45.0406_7.6531.json,custom
 45.110712,7.701219,osm_nonna_maria_45.1107_7.7012,Nonna Maria,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/nonna_maria_45.1107_7.7012.json,custom
 45.042134,7.672715,osm_eccellenze_italiane_45.0421_7.6727,Eccellenze Italiane,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/eccellenze_italiane_45.0421_7.6727.json,custom
+43.723408,10.391972,ov_tacorriendo_de_lupita_43.7234_10.3920,TacoRRiendo de Lupita,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/piemonte/torino/pages/tacorriendo_de_lupita_43.7234_10.3920.json,custom

@@ -1,1411 +1,593 @@
 # lat,lng,citta,slug,ospedali,ristoranti,bar_cafe,palestre,monumenti
-44.440014,12.017376,Флоренция,,0,3,0,0,0
-43.860880,10.764118,Масса-э-Коцциле,--,0,1,0,0,0
-45.316669,11.825665,35020 Carrara S. Giorgio (PD),35020_carrara_s_giorgio_pd,0,1,0,0,0
-45.448874,11.845137,35100 Padova,35100_padova,0,3,0,0,0
-45.410944,11.233210,37038 Soave (VR),37038_soave_vr,0,1,0,0,0
-45.289799,11.181076,37050 Isola Rizza (VR),37050_isola_rizza_vr,0,1,0,0,0
-44.612620,11.414112,40010 Bentivoglio (BO),40010_bentivoglio_bo,0,2,0,0,0
+44.962727,9.905523,29017 Fiorenzuola d'Arda (PC),29017_fiorenzuola_darda_pc,0,2,0,0,0
 44.427795,11.598356,40024 S. Pietro Terme (BO),40024_s_pietro_terme_bo,0,2,0,0,0
 44.456138,11.279404,40033 Casalecchio di Reno (BO),40033_casalecchio_di_reno_bo,0,1,0,0,0
 44.530979,11.292786,40100 Bologna,40100_bologna,0,3,1,0,0
 44.661810,10.855837,41100 Modena,41100_modena,0,1,0,0,0
+44.743900,10.163480,43014 Medesano (PR),43014_medesano_pr,0,1,0,0,0
+44.486746,9.939624,43042 Berceto (PR),43042_berceto_pr,0,1,0,0,0
 44.879670,11.570316,44100 Ferrara,44100_ferrara,0,5,0,0,0
-45.041900,11.709240,45023 Costa di Rovigo (RO),45023_costa_di_rovigo_ro,0,1,0,0,0
-45.066119,10.843968,46031 Bagnolo S. Vito (MN),46031_bagnolo_s_vito_mn,0,1,0,0,0
 44.217263,12.177348,47032 Bertinoro (FC),47032_bertinoro_fc,0,3,0,0,0
-44.116120,12.407880,47039 Savignano sul Rubicone (,47039_savignano_sul_rubicone_,0,1,0,0,0
-43.949744,12.191434,47043 Mercato Saraceno,47043_mercato_saraceno,0,1,0,0,0
 44.403233,12.045872,48026 Russi (RA),48026_russi_ra,0,2,0,0,0
-44.343094,11.846827,48027 Solarolo (RA),48027_solarolo_ra,0,2,0,0,0
-43.729508,11.332891,50012 Bagno a Ripoli (FI),50012_bagno_a_ripoli_fi,0,2,0,0,0
-43.776199,11.247888,50100 Firenze,50100_firenze,0,1,0,0,0
-43.802292,11.201549,50127 Firenze,50127_firenze,0,1,0,0,0
-43.538937,11.563910,52025 Montevarchi (AR),52025_montevarchi_ar,0,1,0,0,0
-43.657731,12.051656,52036 Pieve S. Stefano (AR),52036_pieve_s_stefano_ar,0,2,0,0,0
-43.668304,10.524945,56021 Cascina (PI),56021_cascina_pi,0,1,0,0,0
-43.580957,11.536991,57027 San Giovanni Valdarno (A,57027_san_giovanni_valdarno_a,0,1,0,0,0
-43.894814,12.879593,61100 Pesaro (PU),61100_pesaro_pu,0,1,0,0,0
-45.370134,11.790409,Abano,abano,0,1,0,0,0
-45.355478,11.785110,Abano Terme,abano_terme,4,70,45,24,2
-44.020862,10.850229,Abetone,abetone,0,2,0,0,0
-44.125730,10.693937,Abetone Cutigliano,abetone_cutigliano,0,31,11,6,2
-43.625680,12.672907,Acqualagna,acqualagna,0,33,17,1,4
-43.948302,12.415905,Acquaviva,acquaviva,1,8,3,5,0
-45.050791,12.058249,Adria,adria,5,42,37,16,4
-43.901921,11.004303,Agliana,agliana,0,36,30,14,0
-45.170640,11.959903,Agna,agna,0,3,7,1,0
-45.192679,11.954680,AGNA (PD),agna_pd,0,0,0,1,0
-45.328365,11.579332,Agugliaro,agugliaro,0,8,1,0,0
-45.312311,11.277314,Albaredo d'Adige,albaredo_dadige,0,9,11,4,0
-43.883081,10.685123,Alberghi di Pescia,alberghi_di_pescia,0,1,0,0,0
-45.346949,12.326329,Alberoni,alberoni,0,1,0,0,0
-45.361776,11.593924,Albettone,albettone,0,7,2,1,0
-45.356484,11.862310,Albignasego,albignasego,3,55,37,19,0
-44.618517,10.606510,Albinea,albinea,3,27,12,3,2
+43.948302,12.415905,Acquaviva,acquaviva,1,9,3,5,0
+44.951815,9.514571,Agazzano,agazzano,0,8,6,0,0
+44.452453,9.711715,Albareto,albareto,0,10,7,2,0
+44.472240,9.719820,Albareto di Borgo Val di Taro,albareto_di_borgo_val_di_taro,0,0,1,0,0
+44.618517,10.606510,Albinea,albinea,3,28,12,3,2
 44.511615,12.034697,Alfonsine,alfonsine,0,23,18,6,3
-45.338521,11.403256,Alonte,alonte,1,4,0,1,1
-45.373795,10.921114,Alpo,alpo,0,3,2,0,0
-45.495521,11.474466,Altavilla Vicentina,altavilla_vicentina,0,5,0,0,0
+44.886823,9.957824,Alseno,alseno,0,19,10,5,1
+44.903814,9.361394,Alta Val Tidone,alta_val_tidone,0,14,6,1,0
 44.656541,11.509729,Altedo,altedo,0,1,0,0,0
 44.148589,10.972806,Alto Reno Terme,alto_reno_terme,0,23,19,3,3
-43.818715,10.683377,Altopascio,altopascio,0,45,24,10,0
-43.816111,10.680556,Altopascio (LU),altopascio_lu,0,1,0,0,0
-44.427836,11.598708,Ancona,ancona,0,1,0,0,0
-43.541078,12.049039,Anghiari,anghiari,0,26,10,3,3
-45.140360,11.889620,Anguillara Veneta,anguillara_veneta,0,7,6,0,0
-45.400348,11.474748,Anterivo,anterivo,0,0,0,0,0
 44.551389,11.203696,Anzola dell'Emilia,anzola_dellemilia,0,33,16,2,1
-43.555299,12.437916,Apecchio,apecchio,0,18,10,1,0
-45.492525,10.940866,Arbizzano,arbizzano,0,2,0,0,0
 44.623401,10.725155,Arceto,arceto,0,0,2,0,0
-43.537267,12.954512,Arcevia,arcevia,0,10,4,1,6
-45.366515,11.295111,Arcole,arcole,0,12,3,3,1
-45.478783,11.537315,Arcugnano,arcugnano,0,29,6,3,1
-45.470529,11.539368,Arcugnano, Veneto,arcugnano_veneto,0,1,0,0,0
 44.621527,11.420117,Area Produttiva Castello Bentivog,area_produttiva_castello_bentivog,0,1,0,0,0
-43.536916,11.864350,Arezzo,arezzo,0,18,6,3,1
 44.611259,11.356168,Argelato,argelato,0,27,16,4,1
 44.621293,11.831940,Argenta,argenta,5,60,42,15,5
-44.939447,12.176993,Ariano nel Polesine,ariano_nel_polesine,0,12,5,0,1
-45.271270,11.718155,Arquà Petrarca,arqu_petrarca,0,22,10,1,3
-45.017675,11.737567,Arquà Polesine,arqu_polesine,0,6,1,0,1
-45.265950,11.736470,Arqua Petrarca,arqua_petrarca,0,0,1,0,0
-45.216321,11.931502,Arre,arre,0,6,4,1,1
-45.273525,12.028539,Arzerello,arzerello,0,2,1,0,0
-45.274098,12.052939,Arzergrande,arzergrande,0,8,2,0,0
-45.499770,11.361570,Arzignano,arzignano,0,1,0,0,0
-45.304476,11.446102,Asigliano Veneto,asigliano_veneto,0,1,0,0,0
-43.822055,12.571958,Auditore,auditore,0,1,0,0,0
-45.448530,11.844781,autostradale,autostradale,0,1,0,0,0
-43.577638,11.246369,Badia A Passignano,badia_a_passignano,0,0,1,0,0
-45.405496,11.743215,Badia Calavena,badia_calavena,0,0,1,0,0
-45.093586,11.493022,Badia Polesine,badia_polesine,2,23,21,7,2
-43.820256,10.655331,Badia Pozzeveri,badia_pozzeveri,0,1,0,0,0
-43.793973,11.878503,Badia Prataglia,badia_prataglia,0,0,1,0,0
-43.725915,12.155412,Badia Tedalda,badia_tedalda,0,10,1,0,1
 44.426532,11.990474,Bagnacavallo,bagnacavallo,1,38,23,6,3
 44.389834,11.829212,Bagnara di Romagna,bagnara_di_romagna,0,4,5,1,1
-44.015692,10.602000,Bagni di Lucca,bagni_di_lucca,0,22,10,5,4
 44.647732,10.745707,Bagno,bagno,0,1,1,0,0
-43.739702,11.321272,Bagno a Ripoli,bagno_a_ripoli,10,54,23,15,6
 44.656883,11.250185,Bagno di Piano,bagno_di_piano,0,1,0,0,0
 43.861607,11.975032,Bagno di Romagna,bagno_di_romagna,1,44,24,7,3
-45.185417,11.893268,Bagnoli di Sopra,bagnoli_di_sopra,0,5,4,1,0
-45.007192,11.500895,Bagnolo di Po,bagnolo_di_po,0,3,3,1,0
 44.762301,10.672154,Bagnolo in Piano,bagnolo_in_piano,1,12,11,3,1
-45.085614,10.864958,Bagnolo San Vito,bagnolo_san_vito,0,21,8,5,0
 44.481560,10.620784,Baiso,baiso,1,12,3,2,0
-45.497841,10.868664,Balconi di Pescantina,balconi_di_pescantina,0,1,1,0,0
-45.454556,12.072522,Ballò,ball,0,2,2,0,0
-45.450820,12.073223,Ballò di Mirano,ball_di_mirano,0,1,0,0,0
-45.250703,11.676018,Baone,baone,0,15,2,0,0
 44.129513,11.199761,Baragazza,baragazza,0,1,2,0,0
-45.404302,11.562032,Barbarano Mossano,barbarano_mossano,0,11,5,3,1
-45.408277,11.536924,Barbarano Vicentino,barbarano_vicentino,0,2,0,1,0
-44.022530,11.258870,Barberino,barberino,0,1,0,0,0
-43.990597,11.238662,Barberino di Mugello,barberino_di_mugello,0,55,15,8,2
-43.552889,11.187419,Barberino Tavarnelle,barberino_tavarnelle,0,48,19,4,2
-43.535463,11.169669,Barberino Val d'Elsa,barberino_val_delsa,0,4,0,0,0
-43.733300,11.683300,Barbiano,barbiano,0,0,1,0,0
-45.107812,11.706732,Barbona,barbona,0,1,0,0,0
-44.696948,10.523975,Barco,barco,0,1,0,0,0
-44.691497,10.504134,Barco, Emilia-Romagna,barco_emilia-romagna,0,1,0,0,0
-45.479466,10.758223,Bardolino,bardolino,0,1,0,1,0
-43.955717,10.567345,Barga,barga,0,1,1,0,0
+44.696948,10.523975,Barco,barco,0,3,0,0,0
+44.622202,9.728948,Bardi,bardi,0,14,6,1,3
 44.654183,11.553882,Baricella,baricella,0,11,6,5,0
-43.722795,10.872879,Bassa,bassa,0,1,0,0,0
-45.000000,11.000000,Bassano del Grappa,bassano_del_grappa,0,1,0,0,0
-45.452763,10.891492,Bassone,bassone,0,1,0,0,0
+44.693870,10.354114,Basilicanova,basilicanova,0,0,1,0,0
 44.726289,11.000047,Bastiglia,bastiglia,0,6,3,1,1
-45.291380,11.783802,Battaglia Terme,battaglia_terme,0,5,6,2,2
-44.506136,11.086970,Bazzano,bazzano,1,10,5,0,0
-44.178040,11.275750,Bedonia,bedonia,0,1,0,0,0
-45.380241,11.213221,Belfiore,belfiore,0,4,4,2,0
-43.715304,12.373123,Belforte all'Isauro,belforte_allisauro,1,1,3,2,1
-44.153014,12.460751,Bellaria,bellaria,0,0,1,0,0
-44.141545,12.469033,Bellaria-Igea Marina,bellaria-igea_marina,0,102,87,15,6
-44.131490,12.478043,bellaria igea marina,bellaria_igea_marina,0,2,0,0,0
-43.798405,12.995100,Bellocchi,bellocchi,0,1,2,0,0
-44.625382,11.414555,Bentivoglio,bentivoglio,2,16,7,2,3
-45.062917,11.254055,Bergantino,bergantino,0,5,5,1,2
+44.506136,11.086970,Bazzano,bazzano,1,11,6,0,0
+44.178040,11.275750,Bedonia,bedonia,0,25,10,2,1
+44.141545,12.469033,Bellaria-Igea Marina,bellaria-igea_marina,0,105,89,15,6
+44.625382,11.414555,Bentivoglio,bentivoglio,2,18,7,2,3
+44.510409,9.969736,Berceto,berceto,0,18,8,1,5
 44.978844,11.981598,Berra,berra,0,0,0,0,0
 44.442730,11.098520,Bersagliera,bersagliera,0,1,0,0,0
 44.158282,12.143968,Bertinoro,bertinoro,0,51,11,5,2
-45.133155,11.945002,Beverare,beverare,0,0,1,0,0
+44.983886,9.996474,Besenzone,besenzone,0,2,0,0,0
+44.773461,9.609040,Bettola,bettola,0,14,11,2,0
 44.766142,11.107837,Bevilacqua,bevilacqua,0,2,1,0,0
-44.676212,10.503296,Bibbiano,bibbiano,0,3,3,1,0
-43.702379,11.820630,Bibbiena,bibbiena,2,26,14,11,3
-44.001995,11.799040,Biella,biella,0,2,0,0,0
-43.729210,10.670913,Bientina,bientina,0,29,14,12,3
-45.170096,10.874662,Bigarello,bigarello,0,2,0,0,0
-45.290791,10.571540,Birbesi,birbesi,0,0,1,0,0
-43.896153,11.321049,Bivigliano Vaglia,bivigliano_vaglia,0,1,0,0,0
+44.676212,10.503296,Bibbiano,bibbiano,0,16,16,5,2
 44.863117,11.685225,Boara,boara,0,1,0,0,0
-45.114820,11.787332,Boara Pisani,boara_pisani,0,10,5,2,0
-44.497650,11.345939,Bologna,bologna,83,1597,1019,343,121
+44.779263,9.383420,Bobbio,bobbio,1,23,12,1,4
+44.497650,11.345939,Bologna,bologna,83,1599,1019,343,121
 44.513582,11.378993,Bologna (BO),bologna_bo,0,2,0,0,0
-44.516965,11.347955,Bologna, Emilia-Romagna,bologna_emilia-romagna,0,1,0,0,0
-44.499915,11.350170,Bologna, Emilia Romagna,bologna_emilia_romagna,0,1,0,0,0
 44.490103,11.313843,Bologns,bologns,0,1,0,0,0
 44.508399,11.343874,Bolonia,bolonia,0,1,0,0,0
 44.746250,11.033548,Bomporto,bomporto,0,20,13,4,0
-45.243259,11.289413,Bonavigo,bonavigo,0,2,1,0,0
 44.393810,12.001820,Boncellino,boncellino,0,0,0,1,0
 44.900668,11.403698,Bondeno,bondeno,1,33,15,7,3
-45.460797,12.148961,Borbiago,borbiago,0,1,0,0,0
+44.722466,9.795416,Bore,bore,0,4,3,0,0
 44.049962,12.177891,Borello,borello,0,1,0,0,0
-44.903887,10.551603,Boretto,boretto,0,10,8,1,3
-45.353575,10.723217,Borghetto,borghetto,0,1,0,0,0
-45.354015,10.724159,Borghetto di Valeggio sul Mincio,borghetto_di_valeggio_sul_mincio,0,5,3,0,0
+44.903887,10.551603,Boretto,boretto,0,11,8,1,3
 44.013078,12.357485,Borghi,borghi,0,8,4,3,1
-43.988059,10.540366,Borgo a Mozzano,borgo_a_mozzano,0,22,13,4,2
 43.944043,12.451989,Borgo Maggiore,borgo_maggiore,4,17,9,10,1
-45.032124,11.120934,Borgo Mantovano,borgo_mantovano,2,15,5,5,1
-43.646260,12.275098,Borgo Pace,borgo_pace,0,8,3,0,2
-43.960017,11.389896,Borgo San Lorenzo,borgo_san_lorenzo,6,52,27,20,8
 44.276450,11.591965,Borgo Tossignano,borgo_tossignano,0,13,4,4,0
 44.256940,11.865853,Borgo Tuliero,borgo_tuliero,0,2,0,0,0
-45.224944,11.537418,Borgo Veneto,borgo_veneto,0,12,9,5,0
-45.101661,10.783385,Borgo Virgilio,borgo_virgilio,0,30,14,12,4
-45.042407,11.212839,Borgocarbonara,borgocarbonara,0,8,1,0,0
+44.490556,9.775773,Borgo Val di Taro,borgo_val_di_taro,2,22,18,4,1
+45.012894,9.447309,Borgonovo Val Tidone,borgonovo_val_tidone,3,14,16,6,2
 44.599104,10.635846,Borzano,borzano,0,1,0,0,0
-45.005040,11.772669,Bosaro,bosaro,0,6,3,0,0
-45.211994,11.361748,Boschi Sant'Anna,boschi_santanna,0,3,3,0,0
 44.880069,12.218737,Bosco Mesola,bosco_mesola,0,2,0,0,0
-45.269108,11.939264,Bovolenta,bovolenta,0,8,6,4,0
-45.261935,11.113786,Bovolone,bovolone,1,28,22,20,0
-45.470198,11.446234,Brendola,brendola,2,15,6,6,1
-44.864293,10.516142,Brescello,brescello,1,9,4,2,1
-45.410574,11.233836,Brescia,brescia,0,1,1,0,0
-44.906226,10.573654,Bresso,bresso,0,1,0,0,0
+44.864293,10.516142,Brescello,brescello,1,17,5,4,1
 44.220342,11.770297,Brisighella,brisighella,1,47,10,4,6
-45.451408,11.283071,Brognoligo,brognoligo,0,0,1,0,0
-45.300214,11.991683,Brugine,brugine,0,8,11,4,0
-44.284758,10.587962,Bubbiano,bubbiano,0,1,0,0,0
-45.408123,11.231706,Buccinasco,buccinasco,0,1,0,0,0
-43.503849,11.612181,Bucine,bucine,0,1,1,0,0
+44.686085,9.648259,Bruzzi,bruzzi,0,1,0,0,0
 44.546509,11.536507,Budrio,budrio,2,32,27,14,3
-43.882169,10.736080,Buggiano,buggiano,0,22,14,5,0
-43.887541,10.735364,Buggiano Castello,buggiano_castello,0,1,0,0,0
 44.133337,12.334826,Bulgarnò,bulgarn,0,0,1,0,0
-45.427610,11.955070,Busa di Vigonza,busa_di_vigonza,0,1,0,0,0
-45.464728,10.854451,Bussolengo,bussolengo,3,78,40,26,2
-43.733269,10.593568,Buti,buti,0,22,8,0,1
-43.730814,10.575898,Buti (PI),buti_pi,0,1,0,0,0
-45.348793,11.005635,Buttapietra,buttapietra,0,8,7,5,0
+44.969979,10.051835,Busseto,busseto,0,22,12,1,6
 44.617914,11.453747,Cà de Fabbri,c_de_fabbri,0,0,0,0,0
-45.116200,12.139575,Ca' Briani,ca_briani,0,1,0,0,0
 44.618454,11.452998,Ca' De Fabbri,ca_de_fabbri,0,0,1,0,0
-45.437554,12.438020,Ca' Savio,ca_savio,0,0,1,0,0
-44.948756,12.325752,Ca' Tiepolo,ca_tiepolo,0,1,0,0,0
-44.777444,10.612267,Cadelbosco di Sopra,cadelbosco_di_sopra,0,16,10,6,0
-45.454120,11.905992,Cadoneghe,cadoneghe,0,23,12,14,0
+44.777444,10.612267,Cadelbosco di Sopra,cadelbosco_di_sopra,0,16,9,6,0
+44.976657,9.832710,Cadeo,cadeo,0,15,10,2,2
 44.549658,11.399809,Cadriano,cadriano,0,1,0,0,0
-43.549976,12.639963,Cagli,cagli,1,45,26,4,3
 44.548406,11.133819,Calcara,calcara,0,0,1,0,0
-43.725824,10.519842,Calci,calci,1,20,7,6,5
-43.678953,10.604563,Calcinaia,calcinaia,2,32,13,15,2
-43.753612,12.920896,Calcinelli,calcinelli,0,5,7,1,0
 44.556960,11.278481,Calderara di Reno,calderara_di_reno,0,23,20,14,0
-44.453109,11.196630,Calderino,calderino,0,1,0,0,0
-44.464901,11.198859,Calderino di Monte San Pietro,calderino_di_monte_san_pietro,0,1,0,0,0
-45.413191,11.170059,Caldiero,caldiero,0,20,7,2,0
-43.864935,11.170181,Calenzano,calenzano,2,72,39,18,6
-45.479550,12.030008,Caltana,caltana,0,1,0,0,0
-44.993930,11.363377,Calto,calto,0,0,3,0,0
-45.395546,10.885690,Caluri,caluri,0,2,0,0,0
-43.832098,10.912232,Camaiore,camaiore,0,1,0,0,0
-45.354446,12.109668,Campagna Lupia,campagna_lupia,0,13,5,4,2
+44.453109,11.196630,Calderino,calderino,0,2,0,0,0
+45.081204,9.601991,Calendasco,calendasco,0,10,3,1,1
+44.602523,10.128871,Calestano,calestano,0,8,5,0,1
 44.836942,10.762361,Campagnola Emilia,campagnola_emilia,0,7,6,3,0
-44.781497,10.519783,Campegine,campegine,0,11,4,2,0
-43.846583,11.143288,Campi,campi,0,1,0,0,0
-43.827379,11.136024,Campi Bisenzio,campi_bisenzio,1,89,43,16,3
+44.781497,10.519783,Campegine,campegine,0,12,4,2,0
 44.319815,12.215826,Campiano,campiano,0,0,1,0,0
-45.335742,11.538071,Campiglia dei Berici,campiglia_dei_berici,0,4,0,1,0
-45.456950,11.474911,Campo San Martino,campo_san_martino,0,1,0,1,0
-45.489523,11.919306,Campodarsego,campodarsego,0,12,9,6,0
-45.491785,11.751699,Campodoro,campodoro,0,3,2,2,0
 44.687723,10.853616,Campogalliano,campogalliano,0,24,15,12,2
-45.336263,12.056199,Campolongo Maggiore,campolongo_maggiore,0,16,12,6,1
-45.383362,12.082203,Camponogara,camponogara,1,20,8,6,0
-45.391217,11.814766,Camposampiero,camposampiero,0,1,0,0,0
 44.796508,11.161276,Camposanto,camposanto,0,5,2,0,0
 44.150729,11.085832,Camugnano,camugnano,0,19,3,0,3
 44.662101,10.616000,Canali,canali,0,1,0,0,0
-44.931483,11.689864,Canaro,canaro,0,6,3,0,2
-43.696543,12.694214,Canavaccio,canavaccio,0,0,1,0,0
-45.037693,11.504268,Canda,canda,0,2,0,0,0
-45.219820,11.991578,Candiana,candiana,0,3,2,0,0
-44.008516,11.121399,Cantagallo,cantagallo,0,13,2,0,2
-43.501223,12.633253,Cantiano,cantiano,0,0,0,0,1
-44.553464,12.013979,Caorle,caorle,0,0,1,0,0
-43.547668,11.583565,Capalbio,capalbio,0,0,0,1,0
-43.826192,11.142949,Capalle,capalle,0,1,0,0,0
+44.569705,10.416789,Canossa,canossa,0,18,1,1,3
+45.050842,9.863190,Caorso,caorso,1,12,11,0,0
 43.898645,12.454809,Capanne,capanne,0,1,0,0,0
-43.584335,10.673239,Capannoli,capannoli,1,11,3,4,1
-43.851248,10.573007,Capannori,capannori,3,103,63,29,5
 44.139789,12.244429,Capocolle,capocolle,0,1,0,0,0
-43.561870,11.847659,Capolona,capolona,0,17,7,5,0
-43.742402,10.981988,Capraia e Limite,capraia_e_limite,0,7,5,5,1
-43.742460,10.976072,Capraia E Limite Fl,capraia_e_limite_fl,0,0,0,0,0
-44.781814,10.508249,Caprara di Campegine,caprara_di_campegine,0,1,0,0,0
-43.637707,11.980659,Caprese Michelangelo,caprese_michelangelo,0,11,2,1,2
-43.706443,10.505197,Caprona,caprona,0,1,1,0,0
-45.362068,11.638512,Carbonara,carbonara,0,0,1,0,0
-45.190700,11.615982,Carceri,carceri,0,1,0,0,0
-43.808409,11.024160,Carmignano,carmignano,0,32,11,8,1
-43.782707,12.332544,Carpegna,carpegna,0,11,4,1,1
+44.909090,9.788979,Carpaneto Piacentino,carpaneto_piacentino,1,25,16,6,1
 44.782508,10.885557,Carpi,carpi,3,183,101,62,3
 44.169021,11.089149,carpineta(BO),carpinetabo,0,1,0,0,0
 44.453949,10.541634,Carpineti,carpineti,0,12,2,1,2
-45.284180,11.843770,Carrara San Giorgio,carrara_san_giorgio,0,1,0,0,0
 44.426706,11.351151,Carteria Di Sesto,carteria_di_sesto,0,1,0,0,0
-43.773915,12.921196,Cartoceto,cartoceto,0,26,14,8,0
-45.271031,11.868003,Cartura,cartura,0,7,3,1,0
 44.553635,12.282048,Casalborsetti,casalborsetti,0,2,0,0,0
 44.534466,12.278480,Casalborsetti RA,casalborsetti_ra,0,1,0,0,0
-45.190551,11.466669,Casale di Scodosia,casale_di_scodosia,0,7,3,4,0
-44.486332,11.259528,Casalecchio,casalecchio,0,2,0,0,0
-44.479227,11.266337,Casalecchio di Reno,casalecchio_di_reno,5,106,49,38,6
-44.488707,11.249483,Casalecchio Gran Reno,casalecchio_gran_reno,0,1,0,0,0
-45.167109,11.194663,Casaleone,casaleone,0,9,6,1,0
+44.479227,11.266337,Casalecchio di Reno,casalecchio_di_reno,5,109,49,38,6
 44.292569,11.568579,Casalfiumanese,casalfiumanese,0,13,5,1,1
-44.581036,10.746446,Casalgrande,casalgrande,0,40,28,13,1
-44.992538,10.547264,Casalmaggiore,casalmaggiore,0,1,0,0,0
-45.316028,11.911967,Casalserugo,casalserugo,0,9,6,8,0
-45.140101,10.545267,Casatico,casatico,0,1,1,0,0
-43.675479,11.529172,Cascia,cascia,0,0,1,0,0
-43.527040,10.618802,Casciana Terme,casciana_terme,0,3,0,0,0
-43.570863,10.605027,Casciana Terme Lari,casciana_terme_lari,0,39,17,10,3
-43.675066,10.539655,Cascina,cascina,2,34,30,15,2
-45.385229,10.600999,Cascina Prendaino di Sopra,cascina_prendaino_di_sopra,0,1,0,0,0
+44.581036,10.746446,Casalgrande,casalgrande,0,41,28,13,1
+44.994467,9.572522,Casaliggio,casaliggio,0,1,1,0,0
 43.985720,12.605943,Case Cattani,case_cattani,0,1,0,0,0
-45.409714,10.886837,Caselle,caselle,0,0,1,0,0
-45.414674,11.812926,Caselle di Selvazzano,caselle_di_selvazzano,0,0,1,0,0
-45.411732,10.899728,Caselle di Sommacampagna,caselle_di_sommacampagna,0,1,1,0,0
-44.516882,10.512472,Casina,casina,0,10,4,2,0
+44.516882,10.512472,Casina,casina,0,22,10,2,2
 44.596529,10.864864,Casinalbo,casinalbo,0,2,0,0,0
-43.816018,12.589061,Casinina,casinina,0,0,1,0,0
 44.224352,11.628719,Casola Valsenio,casola_valsenio,0,16,10,5,1
-43.933825,10.808991,Casore del Monte,casore_del_monte,0,0,1,0,0
-45.454269,11.901012,Castagnara,castagnara,0,0,2,0,0
-45.115350,11.411490,Castagnaro,castagnaro,0,4,2,1,0
-45.438689,11.607689,Castegnero,castegnero,0,5,2,4,0
+44.586490,10.034384,Cassio,cassio,0,1,0,0,0
 44.328063,11.787834,Castel Bolognese,castel_bolognese,1,18,14,9,1
 44.593257,11.309451,Castel Campeggi,castel_campeggi,0,1,0,0,0
 44.287729,11.007533,Castel d'Aiano,castel_daiano,0,13,4,1,1
-45.188299,10.975042,Castel d'Ario,castel_dario,0,14,6,4,3
-45.359879,10.947668,Castel d'Azzano,castel_dazzano,0,22,11,6,1
 44.426739,11.432845,Castel dei Britti,castel_dei_britti,0,2,0,0,0
 44.212415,11.501727,Castel del Rio,castel_del_rio,0,6,3,0,2
 44.152293,11.014063,Castel di Casio,castel_di_casio,0,11,6,4,0
-43.648486,11.820275,Castel Focognano,castel_focognano,0,8,7,0,0
 44.435198,11.640568,Castel Guelfo di Bologna,castel_guelfo_di_bologna,0,19,8,2,0
-44.570168,11.356349,Castel Maggiore,castel_maggiore,5,48,27,17,1
-44.573653,11.362204,Castel Maggiore, Emilia-Romagna,castel_maggiore_emilia-romagna,0,0,1,0,0
-43.736204,11.687558,Castel San Niccolò,castel_san_niccol,0,8,4,1,0
+44.570168,11.356349,Castel Maggiore,castel_maggiore,5,50,28,17,1
+45.064558,9.437172,Castel San Giovanni,castel_san_giovanni,1,30,32,10,1
 44.402983,11.577973,Castel San Pietro Terme,castel_san_pietro_terme,4,86,40,26,1
-45.428641,10.523580,Castel Venzago,castel_venzago,0,0,1,0,0
-45.122893,11.453674,Castelbaldo,castelbaldo,0,3,4,0,0
-45.215805,10.893409,Castelbelforte,castelbelforte,0,7,5,3,0
-45.463418,11.238173,Castelcerino,castelcerino,0,1,0,0,0
 43.783572,12.162442,Casteldelci,casteldelci,0,2,0,0,2
-43.606166,10.973586,Castelfiorentino,castelfiorentino,1,38,25,10,6
-43.723664,10.724676,Castelfranco di Sotto,castelfranco_di_sotto,1,17,12,8,2
 44.592630,11.057017,Castelfranco Emilia,castelfranco_emilia,3,63,41,20,4
-43.624632,11.542029,Castelfranco Piandiscò,castelfranco_piandisc,1,17,9,5,1
-44.998218,11.647206,Castelguglielmo,castelguglielmo,0,2,5,0,0
 44.514268,10.723150,Castellarano,castellarano,1,35,18,11,1
-45.380020,10.673165,Castellaro Lagusello,castellaro_lagusello,0,1,0,0,0
-43.607860,12.978681,Castelleone di Suasa,castelleone_di_suasa,0,2,3,1,1
+44.856517,9.869650,Castell'Arquato,castellarquato,0,41,11,1,2
 44.441540,11.066650,Castelletto,castelletto,0,1,0,0,0
-43.549404,11.268221,Castellina in Chianti,castellina_in_chianti,0,5,0,0,0
 44.680734,11.302172,Castello d'Argile,castello_dargile,0,9,4,1,0
 44.439193,11.047431,Castello di Serravalle,castello_di_serravalle,1,1,0,0,0
-45.153508,10.643821,Castellucchio,castellucchio,0,12,10,2,1
-45.017905,11.314712,Castelmassa,castelmassa,1,7,6,0,0
-45.037767,11.295863,Castelnovo Bariano,castelnovo_bariano,0,3,0,1,1
+44.872787,10.329215,Castelnovo,castelnovo,0,1,0,0,0
 44.812886,10.567091,Castelnovo di Sotto,castelnovo_di_sotto,0,12,10,8,0
-45.440245,10.742959,Castelnuovo del Garda,castelnuovo_del_garda,0,49,19,9,2
+44.501746,10.422154,Castelnovo Ne' Monti,castelnovo_ne_monti,0,1,0,0,0
 44.560885,10.926309,Castelnuovo Rangone,castelnuovo_rangone,0,32,21,10,2
-44.504303,10.916128,Castelvetro,castelvetro,0,1,0,0,0
+44.504303,10.916128,Castelvetro,castelvetro,0,19,12,3,0
 44.506656,10.936087,Castelvetro di Modena,castelvetro_di_modena,0,40,15,2,3
-44.502948,11.450157,Castenaso,castenaso,1,34,21,11,3
-43.532929,11.759551,Castiglion Fibocchi,castiglion_fibocchi,0,6,1,0,0
+44.502948,11.450157,Castenaso,castenaso,1,34,23,12,3
 44.144407,11.178492,Castiglione dei Pepoli,castiglione_dei_pepoli,2,26,11,4,1
-45.378518,10.511627,Castiglione delle Stiviere,castiglione_delle_stiviere,0,13,10,11,0
-45.476133,10.948909,Castro,castro,0,0,1,0,0
+44.882973,10.062314,Castione Marchesi,castione_marchesi,0,1,0,0,0
 44.173922,11.949785,Castrocaro Terme e Terra del Sole,castrocaro_terme_e_terra_del_sole,0,23,11,3,1
 44.831231,11.339016,Casumaro,casumaro,0,1,0,0,0
 43.964867,12.738145,Cattolica,cattolica,1,117,85,18,3
-45.439256,12.453064,Cavallino,cavallino,0,0,1,0,0
-45.461037,12.498334,Cavallino-Treporti,cavallino-treporti,0,113,45,8,2
-45.487381,12.537980,Cavallino - Treporti,cavallino_-_treporti,0,2,0,0,0
-45.134897,12.094393,Cavarzere,cavarzere,2,12,25,4,0
 44.833732,11.024112,Cavezzo,cavezzo,0,18,11,5,0
 44.697260,10.530623,Cavriago,cavriago,1,26,12,7,3
-45.349935,10.602410,Cavriana,cavriana,0,13,7,2,4
-43.535109,11.480877,Cavriglia,cavriglia,1,19,5,1,1
-45.438526,12.074599,Cazzago,cazzago,0,1,2,0,0
-45.468162,11.208911,Cazzano di Tramigna,cazzano_di_tramigna,0,4,2,0,0
 44.727069,10.549856,Cella,cella,0,1,0,0,0
-45.483628,11.180215,Cellore VR,cellore_vr,0,1,0,0,0
-43.605672,10.548270,Cenaia,cenaia,0,1,0,0,0
-45.017191,11.374321,Ceneselli,ceneselli,0,3,3,1,0
 44.743165,11.296108,Cento,cento,5,76,66,19,11
-43.531338,10.593526,Ceppato,ceppato,0,0,1,0,0
-45.194747,11.211763,Cerea,cerea,1,41,20,11,2
-45.048439,11.895675,Ceregnano,ceregnano,0,7,3,4,0
-45.262570,10.566959,Ceresara,ceresara,0,6,5,1,2
-45.123910,10.784375,Cerese,cerese,0,1,0,0,0
-45.111529,10.782678,Cerese di Virgilio,cerese_di_virgilio,0,1,0,0,0
-45.304318,10.641373,Cereta,cereta,0,0,1,0,0
+44.679363,9.335818,Cerignale,cerignale,0,3,1,0,0
 44.388907,10.614623,Cerredolo,cerredolo,0,1,0,0,0
-43.760827,10.859379,Cerreto Guidi,cerreto_guidi,0,21,13,9,2
-43.552174,11.049033,Certaldo,certaldo,0,40,27,15,7
-45.399857,11.697526,Cervarese Santa Croce,cervarese_santa_croce,1,12,4,7,2
-44.260111,12.349620,Cervia,cervia,4,290,110,32,3
-44.265340,12.358187,Cervia RA,cervia_ra,0,1,0,0,0
+44.649050,9.295740,Cerreto Alpi,cerreto_alpi,0,0,1,0,0
+44.260111,12.349620,Cervia,cervia,4,291,110,32,3
 44.138912,12.243158,Cesena,cesena,9,284,166,104,7
 44.195784,12.396514,Cesenatico,cesenatico,2,265,118,32,7
-43.904041,12.417896,Chiesanuova,chiesanuova,0,2,0,0,0
-43.839743,10.718728,Chiesina Uzzanese,chiesina_uzzanese,0,13,17,4,0
-45.208382,12.286804,Chioggia,chioggia,5,211,124,32,7
-45.485042,12.191453,Chirignago,chirignago,0,3,0,0,0
-43.661301,11.879879,Chitignano,chitignano,0,3,1,0,1
-43.711168,11.910857,Chiusi della Verna,chiusi_della_verna,1,11,4,3,0
-45.291602,11.673987,Cinto Euganeo,cinto_euganeo,0,19,5,1,1
-43.513310,12.130031,Citerna,citerna,0,6,2,1,0
-43.506130,12.226934,Città di Castello,citt_di_castello,0,8,4,2,0
-43.934697,12.447357,Città di San Marino,citt_di_san_marino,0,4,2,0,1
+44.925789,9.970921,Chiaravalle della Colomba,chiaravalle_della_colomba,0,2,0,0,0
 44.024548,11.982836,Civitella di Romagna,civitella_di_romagna,0,22,13,1,3
-43.674595,11.822668,Civitella in Val di Chiana,civitella_in_val_di_chiana,0,1,0,0,0
 43.947599,12.035202,Civorio,civorio,0,1,0,0,0
-45.253446,12.127261,Codevigo,codevigo,0,16,5,0,0
 44.842904,12.136466,Codigoro,codigoro,1,26,29,8,1
 44.818056,10.745885,Cognento,cognento,0,1,0,0,0
-45.471322,10.742327,Colà,col,0,1,0,0,0
-45.471927,10.743282,Colà di Lazise,col_di_lazise,0,0,0,0,0
-45.471297,10.742383,Cola' Di Lazise,cola_di_lazise,0,1,0,0,0
-43.821040,12.739141,Colbordolo,colbordolo,0,4,0,0,0
-43.508088,10.615928,Collemontanino,collemontanino,0,1,0,0,0
-43.748453,12.914691,Colli al Metauro,colli_al_metauro,1,29,16,5,1
-45.310274,11.384907,Cologna Veneta,cologna_veneta,2,16,9,3,2
-45.420632,11.178037,Colognola ai Colli,colognola_ai_colli,1,16,11,3,0
-44.693844,12.228873,Comacchio,comacchio,2,242,94,20,11
-43.793118,11.057104,Comeana,comeana,0,1,0,0,0
-45.038930,10.558744,Commessaggio,commessaggio,0,2,1,0,0
-44.032131,12.389353,Compiano,compiano,0,0,1,0,0
-43.785543,11.359400,Compiobbi,compiobbi,0,0,0,0,0
-45.187603,12.014205,Cona,cona,0,9,2,3,0
-45.210522,11.139760,Concamarise,concamarise,0,3,2,1,0
+44.787106,9.420555,Coli,coli,0,9,0,1,0
+44.750630,10.217071,Collecchio,collecchio,1,36,31,7,4
+44.769167,10.378611,Coloreto,coloreto,0,1,0,0,0
+44.930880,10.368822,Colorno,colorno,1,18,12,4,2
+44.693844,12.228873,Comacchio,comacchio,2,242,95,20,11
+44.032131,12.389353,Compiano,compiano,0,9,3,0,1
 44.916350,10.986249,Concordia sulla Secchia,concordia_sulla_secchia,0,11,11,1,1
 44.535728,11.846383,Conselice,conselice,1,9,9,4,3
-45.229399,11.875130,Conselve,conselve,3,24,24,8,0
 44.890972,11.820922,Copparo,copparo,3,38,26,9,3
-45.002311,12.092981,Corbola,corbola,0,4,4,0,0
-44.043167,10.520026,Coreglia Antelminelli,coreglia_antelminelli,0,13,7,3,2
 43.974577,12.576608,Coriano,coriano,0,32,17,12,2
-43.640830,12.994490,Corinaldo,corinaldo,0,0,0,0,1
+44.519158,10.131479,Corniglio,corniglio,0,5,0,0,0
 44.755663,11.310994,Corporeno,corporeno,0,0,2,0,0
-43.570220,12.192973,Corposano,corposano,0,1,0,0,0
 44.766677,10.778323,Correggio,correggio,4,55,37,19,4
-44.931634,10.613745,Correggioverde,correggioverde,0,0,1,0,0
-45.218514,12.098020,Correzzola,correzzola,0,12,6,2,0
-43.603023,11.808699,Corteolona,corteolona,0,0,1,0,0
-45.049090,11.697589,Costa di Rovigo,costa_di_rovigo,0,6,0,1,1
-45.449404,11.301050,Costalunga,costalunga,0,1,1,0,0
-45.238349,10.972382,Costermano,costermano,0,0,1,0,0
+44.709001,9.369507,Corte Brugnatella,corte_brugnatella,0,2,2,0,0
+44.996427,9.922075,Cortemaggiore,cortemaggiore,1,13,10,1,1
+44.790363,10.087842,Costamezzana,costamezzana,0,2,0,0,0
 44.385748,11.919481,Cotignola,cotignola,2,18,8,3,2
+45.072547,9.629500,Cotrebbia Nuova,cotrebbia_nuova,0,2,0,0,0
 44.519097,11.134741,Crespellano,crespellano,0,9,6,0,0
-43.580976,10.542667,Crespina Lorenzana,crespina_lorenzana,1,18,10,6,0
-44.988188,11.826356,Crespino,crespino,0,5,3,0,2
 44.727267,11.156582,Crevalcore,crevalcore,4,26,20,9,0
-43.801984,12.972552,Cuccurano,cuccurano,0,2,3,0,0
-45.367946,11.788330,Curtarolo,curtarolo,0,0,1,0,0
-45.132930,10.730345,Curtatone,curtatone,0,33,11,15,2
-45.152703,10.725537,Curtatone (MN),curtatone_mn,0,1,0,0,0
-45.377649,10.800311,Custoza,custoza,0,4,0,0,0
-44.119999,10.727412,Cutigliano,cutigliano,0,2,0,0,0
-45.466119,10.549091,Desenzano,desenzano,0,4,0,0,0
-45.472440,10.539184,Desenzano Brescia,desenzano_brescia,0,1,0,0,0
-45.463327,10.548484,Desenzano del Garda,desenzano_del_garda,2,186,103,32,6
-43.891961,11.528358,Dicomano,dicomano,0,7,6,1,1
 44.070316,12.228363,Diolaguardia,diolaguardia,0,1,0,0,0
-43.981296,12.490255,Dogana,dogana,0,1,2,0,0
-45.423058,12.079567,Dolo,dolo,5,46,26,15,2
+43.981296,12.490255,Dogana,dogana,0,2,2,0,0
 43.954577,12.470488,Domagnano,domagnano,1,11,4,7,0
-44.955356,10.634950,Dosolo,dosolo,0,4,6,0,0
-45.393803,10.912173,Dossobuono,dossobuono,0,10,8,0,0
 44.125906,11.887525,Dovadola,dovadola,0,9,2,0,1
-44.372738,11.634627,Dozza,dozza,0,28,13,8,2
-45.307478,11.821053,Due Carrare,due_carrare,0,17,12,5,2
+44.372738,11.634627,Dozza,dozza,0,29,16,8,2
 44.668627,10.599491,Emilia,emilia,0,1,0,0,0
-43.715522,10.944190,Empoli,empoli,11,146,90,43,8
-45.238820,10.968554,Erbè,erb,0,3,4,1,0
-45.430651,10.667641,Erbusco,erbusco,0,1,0,0,0
-45.220426,11.658098,Este,este,0,78,67,17,3
 44.872746,10.809744,Fabbrico,fabbrico,0,9,5,4,1
-45.295302,11.687527,Faedo,faedo,0,1,0,0,0
 44.289272,11.885385,Faenza,faenza,8,179,117,65,22
 44.326506,11.904144,Faenza (RA),faenza_ra,0,1,0,0,0
 43.924960,12.499976,Faetano,faetano,0,0,1,1,0
 43.985052,12.503832,Falciano,falciano,0,1,1,0,0
 44.203255,10.790628,Fanano,fanano,1,22,10,5,2
-43.832915,12.978114,Fano,fano,0,35,21,5,1
-43.573119,10.512050,Fauglia,fauglia,0,10,7,1,1
-43.841433,12.969023,Fenile,fenile,0,0,1,0,0
-43.679501,12.649893,Fermignano,fermignano,0,31,20,10,0
-44.832311,11.621302,Ferrara,ferrara,24,469,291,141,38
-45.407200,11.003760,Ferrara di Monte Baldo,ferrara_di_monte_baldo,0,1,0,0,0
+44.706168,9.560110,Farini,farini,0,11,5,1,0
+44.690839,10.242976,Felino,felino,0,13,8,5,1
+44.832311,11.621302,Ferrara,ferrara,24,470,291,141,38
 44.845787,11.602533,Ferrara (FE),ferrara_fe,0,1,0,0,0
-43.758309,11.203703,FI,fi,1,0,0,0,0
-44.951388,11.434706,Ficarolo,ficarolo,0,3,3,1,0
-43.807877,11.303420,Fiesole,fiesole,2,43,13,4,5
-45.417439,12.032445,Fiesso d'Artico,fiesso_dartico,1,16,9,6,0
-44.958640,11.605042,Fiesso Umbertiano,fiesso_umbertiano,1,3,7,1,0
-43.629460,11.460920,Figline e Incisa Valdarno,figline_e_incisa_valdarno,4,61,32,26,2
-43.626774,11.453306,Figline Valdarno,figline_valdarno,0,9,5,1,0
+44.638494,9.503716,Ferriere,ferriere,0,11,5,1,0
+44.862241,10.065014,Fidenza,fidenza,4,88,56,19,6
 44.836241,11.281254,Finale Emilia,finale_emilia,4,37,30,7,2
 44.539119,10.825711,Fiorano Modenese,fiorano_modenese,2,55,51,15,4
 43.910543,12.458087,Fiorentino,fiorentino,0,4,3,1,0
-44.164506,11.334300,Firenuola(FI),firenuolafi,0,0,1,0,0
-43.775886,11.252305,Firenze,firenze,74,1933,895,365,186
-43.785491,11.224473,Firenze (FI),firenze_fi,0,1,0,0,0
-43.731117,11.220613,Firenze Galluzzo,firenze_galluzzo,0,0,1,0,0
-43.772103,11.249402,Firenze, Tuscany,firenze_tuscany,0,0,1,0,0
-44.133387,11.364124,Firenzuola,firenzuola,0,35,12,3,5
+44.930433,9.908714,Fiorenzuola d'Arda,fiorenzuola_darda,2,57,45,10,2
 44.794764,11.989274,Fiscaglia,fiscaglia,0,14,12,8,0
 44.171949,10.646928,Fiumalbo,fiumalbo,0,5,3,3,0
 44.133466,11.987335,Fiumana di Predappio,fiumana_di_predappio,0,1,0,0,0
-43.773406,11.250993,Florença,florena,0,2,0,0,0
-43.773854,11.253270,Florence,florence,1,32,13,2,3
-43.774680,11.258824,Florence, Tuscany,florence_tuscany,0,1,0,0,0
-43.765370,11.257972,Florenz,florenz,0,2,0,0,0
-44.133597,11.600756,Fognano,fognano,0,1,1,0,0
-45.455720,12.049650,Follina,follina,0,1,0,0,0
 44.259745,11.560977,Fontanelice,fontanelice,0,12,3,0,1
-43.604378,10.701660,Forcoli,forcoli,0,0,0,0,0
-44.221109,12.047724,Forlì,forl,14,339,284,117,26
-44.212667,12.018372,Forlì, Emilia-Romagna,forl_emilia-romagna,0,1,0,0,0
-44.219229,12.055439,Forli,forli,0,4,0,2,0
+44.874941,10.164028,Fontanellato,fontanellato,0,25,10,4,4
+44.840671,10.195000,Fontevivo,fontevivo,0,13,11,5,0
+44.221109,12.047724,Forlì,forl,14,344,284,119,26
 44.187540,12.125835,Forlimpopoli,forlimpopoli,2,45,26,11,2
 44.573734,10.849809,Formigine,formigine,2,77,30,37,1
 44.793365,11.873925,Formignana,formignana,0,1,0,0,0
-43.671481,10.572889,Fornacette,fornacette,0,0,0,0,0
-44.010964,10.555441,Fornoli,fornoli,0,1,0,0,0
-45.385190,12.047050,Fossò,foss,0,13,10,2,0
+44.683659,10.098459,Fornovo di Taro,fornovo_di_taro,1,16,6,5,1
 44.923133,11.035233,Fossa di Concordia,fossa_di_concordia,0,0,0,0,0
 44.843737,10.908697,Fossoli di Carpi,fossoli_di_carpi,0,1,0,0,0
-43.686601,12.809716,Fossombrone,fossombrone,2,31,25,7,1
 44.892792,11.653030,Francolino,francolino,0,0,1,0,0
-44.980112,11.699558,Frassinelle Polesine,frassinelle_polesine,0,2,2,0,0
 44.274549,10.547449,Frassinoro,frassinoro,0,9,2,2,0
-45.029310,11.643898,Fratta Polesine,fratta_polesine,0,7,4,0,1
 44.146694,12.100109,Fratta Terme,fratta_terme,0,2,0,0,0
-43.634157,12.902706,Fratte Rosa,fratte_rosa,0,6,1,0,0
-43.764137,12.374741,Frontino,frontino,0,4,0,0,1
-43.516760,12.734358,Frontone,frontone,1,12,8,2,1
-43.740088,10.790481,Fucecchio,fucecchio,2,52,33,27,2
-44.594953,11.379626,Funo,funo,0,2,1,0,0
-44.594921,11.369667,Funo di Argelato,funo_di_argelato,0,1,1,0,0
-44.470643,11.963137,Fusignano,fusignano,0,17,9,1,2
-44.467604,11.959528,Fusignano, Emilia-Romagna,fusignano_emilia-romagna,0,1,0,0,0
-45.420277,12.256540,Fusina,fusina,0,1,1,0,0
-43.964498,12.760478,Gabicce Mare,gabicce_mare,0,47,26,3,0
-43.963894,12.773366,Gabicce Monte,gabicce_monte,0,0,1,0,0
+44.978604,10.080186,Frescarolo,frescarolo,0,1,0,0,0
+44.594953,11.379626,Funo,funo,0,3,2,0,0
+44.470643,11.963137,Fusignano,fusignano,0,18,9,1,2
 44.205497,10.961156,Gaggio Montano,gaggio_montano,0,15,11,6,3
-44.955838,11.530679,Gaiba,gaiba,0,5,1,0,0
 44.776733,11.674920,Gaibanella,gaibanella,0,1,0,0,0
 43.999850,11.904137,Galeata,galeata,0,11,4,0,1
 44.744630,11.423265,Galliera,galliera,0,6,6,1,0
-44.732146,11.554075,Gallo,gallo,0,1,0,0,0
-45.305269,11.728397,Galzignano Terme,galzignano_terme,0,14,5,1,3
-43.529797,10.927380,Gambassi,gambassi,0,2,0,0,0
-43.539906,10.955504,Gambassi Terme,gambassi_terme,0,21,8,1,1
-45.450978,11.343151,Gambellara,gambellara,0,6,3,0,1
 44.114696,12.337627,Gambettola,gambettola,1,33,27,10,0
-45.444470,10.587140,Gandellino,gandellino,0,1,0,0,0
-44.806333,10.511931,Gattatico,gattatico,0,2,0,0,0
+44.806333,10.511931,Gattatico,gattatico,0,15,6,2,1
 44.148957,12.417027,Gatteo,gatteo,0,40,23,7,1
 44.170586,12.435291,Gatteo a Mare,gatteo_a_mare,0,1,0,0,0
 44.655697,10.678969,Gavasseto,gavasseto,0,1,0,0,0
-45.035412,11.958197,Gavello,gavello,0,0,1,0,0
-45.196406,10.587402,Gazoldo degli Ippoliti,gazoldo_degli_ippoliti,0,10,6,1,2
-45.489527,12.213559,Gazzera,gazzera,0,1,0,1,0
-45.160970,10.980051,Gazzo,gazzo,0,1,0,0,0
-45.147185,11.104604,Gazzo Veronese,gazzo_veronese,0,6,3,0,0
-45.073186,10.571464,Gazzuolo,gazzuolo,0,7,2,0,0
+44.949536,9.558833,Gazzola,gazzola,0,12,0,0,2
 43.896571,12.558234,Gemmano,gemmano,0,3,0,1,0
-44.795302,10.875578,Genova,genova,0,1,0,0,0
-45.065362,11.449206,Giacciano con Baruchella,giacciano_con_baruchella,0,4,3,0,0
-45.348677,11.820063,Giarre,giarre,0,0,1,0,0
+44.555590,9.932657,Ghiare di Berceto,ghiare_di_berceto,0,0,0,0,0
 44.392638,12.074945,Godo,godo,0,0,1,0,0
-45.253092,10.671322,Goito,goito,1,22,14,9,1
-44.634070,10.684217,Gombio, Castelnovo Ne' Monti,gombio_castelnovo_ne_monti,0,1,0,0,0
-44.954324,10.823866,Gonzaga,gonzaga,2,10,6,2,0
+44.634070,10.684217,Gombio Castelnovo Ne Monti,gombio_castelnovo_ne_monti,0,1,0,0,0
 44.843756,12.276142,Goro,goro,0,12,5,1,1
-43.941241,12.772223,Gradara,gradara,0,27,8,1,6
+44.992904,9.627753,Gossolengo,gossolengo,0,14,2,0,0
+45.013732,9.560405,Gragnano Trebbiense,gragnano_trebbiense,1,10,7,2,1
 44.287772,11.884991,Granarolo,granarolo,0,1,0,0,0
 44.550495,11.431818,Granarolo dell'Emilia,granarolo_dellemilia,2,22,13,8,0
-45.422930,11.455256,Grancona,grancona,0,2,0,0,0
-45.175195,11.709655,Granze,granze,0,7,3,0,0
-45.096053,11.773662,granzette,granzette,0,1,0,0,0
-43.594494,11.386260,Greve,greve,0,0,0,1,0
-43.597017,11.312779,Greve in Chianti,greve_in_chianti,0,57,16,4,4
-44.001374,11.396863,Grezzano,grezzano,0,1,0,0,0
-45.042873,11.750227,Grignano Polesine,grignano_polesine,0,1,0,0,0
-45.479577,11.700064,Grisignano di Zocco,grisignano_di_zocco,0,7,10,3,0
+44.933817,9.671608,Grazzano Visconti,grazzano_visconti,0,2,1,0,1
 44.240534,11.117054,Grizzana Morandi,grizzana_morandi,0,12,4,2,3
-45.177099,11.061203,Grontardo,grontardo,0,0,1,0,0
-45.496946,11.655376,Grumolo delle Abbadesse,grumolo_delle_abbadesse,0,3,1,0,0
+44.695975,9.599554,Groppallo,groppallo,0,2,0,0,0
+44.833642,9.722617,Gropparello,gropparello,0,9,2,0,3
 44.890943,10.627353,Gualtieri,gualtieri,0,13,9,3,3
-44.977994,11.797806,Guarda Veneta,guarda_veneta,0,4,1,1,0
 44.915715,10.657765,Guastalla,guastalla,1,32,22,14,2
-45.318775,10.581960,Guidizzolo,guidizzolo,0,11,7,2,0
 44.405118,10.954682,Guiglia,guiglia,0,16,2,2,3
 44.396847,10.949479,GUuiglia,guuiglia,0,1,0,0,0
-44.142432,12.470013,Igea Marina,igea_marina,0,1,1,0,0
-45.469717,11.177431,Illasi,illasi,0,10,7,5,1
 44.359300,11.710037,Imola,imola,11,197,138,75,10
-43.699198,11.242340,Impruneta,impruneta,1,38,8,12,1
-43.738797,12.798444,Isola del Piano,isola_del_piano,0,3,0,0,0
-45.270141,11.011050,Isola della Scala,isola_della_scala,1,39,11,8,1
-45.074766,12.342423,Isola di Albarella,isola_di_albarella,0,2,0,0,0
-45.284834,11.202271,Isola Rizza,isola_rizza,1,10,5,0,1
-45.174245,12.319816,Isola Verde,isola_verde,0,0,1,0,0
-45.494014,12.612791,Jesolo,jesolo,0,122,76,9,1
+45.078545,9.615824,Incrociata,incrociata,0,1,0,0,0
 44.884707,11.983306,Jolanda di Savoia,jolanda_di_savoia,0,4,2,0,0
-43.937384,11.127954,La Briglia,la_briglia,0,0,0,0,0
-43.728902,10.603532,La Croce,la_croce,0,0,1,0,0
-43.648117,10.810473,La Serra,la_serra,0,2,0,0,0
-43.565708,10.689443,La Sterza,la_sterza,0,0,1,0,0
-43.616894,12.181438,La Villa,la_villa,0,1,0,0,0
 44.767769,12.136787,Lagosanto,lagosanto,2,7,8,2,0
 44.365275,11.215690,Lama di Reno,lama_di_reno,0,1,0,0,0
 44.300724,10.722227,Lama Mocogno,lama_mocogno,0,10,6,2,1
-43.864156,10.581195,Lammari,lammari,0,1,0,0,0
-43.822084,10.899909,Lamporecchio,lamporecchio,1,24,10,4,2
-45.472859,11.534855,Lapio,lapio,0,1,0,0,0
-43.827780,10.870837,Larciano,larciano,1,17,8,4,2
-43.576823,10.593773,Lari,lari,0,4,3,0,0
-43.757432,11.097602,Lastra a Signa,lastra_a_signa,1,50,21,11,2
-43.507793,11.700742,Laterina,laterina,0,3,0,1,0
-43.508938,11.701427,Laterina Pergine Valdarno,laterina_pergine_valdarno,0,5,2,1,0
-45.431523,11.130551,Lavagno,lavagno,2,17,10,3,1
+44.631023,10.266494,Langhirano,langhirano,3,41,19,9,6
 44.565856,11.873589,Lavezzola,lavezzola,0,1,0,0,0
 44.532596,11.231634,Lavino di Mezzo,lavino_di_mezzo,0,1,0,0,0
-45.479323,10.734023,Lazise,lazise,0,64,24,2,0
-44.076208,11.808699,Lecco,lecco,1,0,0,0,0
-45.188114,11.297324,Legnago,legnago,6,77,44,19,2
-45.347512,11.962531,Legnaro,legnaro,0,31,9,9,0
-45.408886,11.932495,Legnaro (PD),legnaro_pd,0,0,0,0,0
-43.915796,11.224234,Legri,legri,0,1,0,0,0
-45.082484,11.598567,Lendinara,lendinara,0,21,19,11,2
-45.416698,12.369060,Lido,lido,0,0,1,0,0
+44.633656,10.301909,Lesignano de' Bagni,lesignano_de_bagni,0,15,8,4,3
 44.411631,12.301221,Lido Adriano,lido_adriano,0,1,0,0,0
 44.669991,12.243123,Lido degli Estensi,lido_degli_estensi,0,4,0,0,0
 44.700540,12.239912,Lido degli Scacchi,lido_degli_scacchi,0,1,0,0,0
 44.327363,12.335877,Lido di Classe,lido_di_classe,0,3,0,0,0
-45.492645,12.601717,Lido di Jesolo,lido_di_jesolo,0,0,3,0,0
 44.722102,12.237144,Lido Di Pomposa,lido_di_pomposa,0,2,0,0,0
 44.300296,12.342895,Lido Di Savio,lido_di_savio,0,1,0,0,0
-44.653194,12.251229,Lido di Spina,lido_di_spina,0,0,1,0,0
-44.653099,12.249057,Lido di Spina - Comacchio (Fe),lido_di_spina_-_comacchio_fe,0,0,0,0,1
-45.388363,12.354480,Lido di Venezia,lido_di_venezia,0,1,3,0,0
-44.737073,12.243133,Lido Nazioni, Comacchio,lido_nazioni_comacchio,0,0,1,0,0
-45.470425,11.847109,Limena,limena,1,27,11,13,0
+44.653194,12.251229,Lido di Spina,lido_di_spina,0,0,1,0,1
 44.328175,11.665727,Linaro,linaro,0,0,1,0,0
 44.533745,11.300787,Lippo,lippo,0,1,0,0,0
 44.325250,11.332006,Livergnano,livergnano,0,1,0,0,0
 44.175453,10.871362,Lizzano Belvedere,lizzano_belvedere,0,1,0,0,0
 44.162054,10.861864,Lizzano in Belvedere,lizzano_in_belvedere,0,21,11,5,0
-43.524098,11.866798,località ponte alla Chiassa,localit_ponte_alla_chiassa,0,0,1,0,0
+44.962969,9.614916,Loc. Borgo di Rivalta,loc_borgo_di_rivalta,0,1,0,0,0
 44.268935,11.323550,Loiano,loiano,1,16,6,5,0
-45.430844,10.514177,Lonate,lonate,0,0,1,0,0
-45.455519,10.522624,Lonato,lonato,0,4,1,0,0
-45.428531,10.524347,Lonato del Garda,lonato_del_garda,1,33,7,7,1
-43.860844,11.581051,Londa,londa,0,5,3,1,0
-45.473529,11.606434,Longare,longare,1,9,12,3,0
 44.084228,12.333131,Longiano,longiano,1,27,16,4,5
-45.383839,11.385562,Lonigo,lonigo,1,40,22,9,3
-43.536327,10.534312,Lorenzana,lorenzana,0,0,1,0,0
-45.067554,12.190061,Loreo,loreo,0,7,3,2,3
-43.589263,11.648399,Loro Ciuffenna,loro_ciuffenna,0,26,8,1,3
-45.290303,11.621690,Lozzo Atestino,lozzo_atestino,0,5,8,1,1
-43.845596,10.506150,Luca,luca,0,0,1,0,0
-43.849325,10.511898,Lucca,lucca,9,271,151,46,26
-43.851313,10.530681,Lucca, Toscana,lucca_toscana,0,1,0,0,0
-43.773419,12.936976,Lucrezia,lucrezia,0,1,8,0,0
-45.435270,10.881253,Lugagnano,lugagnano,0,1,2,0,0
-45.439785,10.864324,Lugagnano di Sona,lugagnano_di_sona,0,1,1,0,0
+44.812269,9.840121,Lugagnano Val d'Arda,lugagnano_val_darda,0,6,9,2,0
 44.429565,11.910499,Lugo,lugo,5,77,57,21,11
-43.729081,12.438411,Lunano,lunano,0,5,5,1,0
-43.856647,10.567066,Lunata,lunata,0,0,0,0,0
-45.093372,11.677097,Lusia,lusia,0,9,3,0,0
 44.953137,10.707086,Luzzara,luzzara,0,13,9,3,0
-43.809872,12.451918,Macerata Feltria,macerata_feltria,1,6,2,2,0
 44.155440,12.329817,Macerone,macerone,0,1,0,0,0
-45.406371,10.929605,Madonna di Dossobuono,madonna_di_dossobuono,0,1,0,0,0
-45.391464,11.359066,Madonna di Lonigo,madonna_di_lonigo,0,1,0,0,0
 43.873165,12.300904,Maiolo,maiolo,0,2,0,1,0
 44.688645,11.505102,Malalbergo,malalbergo,0,25,7,5,0
-45.436565,12.204630,Malcontenta,malcontenta,0,0,2,0,0
 44.729211,10.649850,Mancasale,mancasale,0,1,0,0,0
-45.372001,11.844139,Mandria,mandria,0,1,0,0,0
-45.156576,10.792755,Mantova,mantova,11,211,140,62,31
-45.159308,10.794834,Mantua,mantua,0,1,0,0,0
-44.522544,10.872260,Maranello,maranello,4,62,34,9,1
-45.464944,12.123779,Marano,marano,0,2,0,0,0
+44.522544,10.872260,Maranello,maranello,4,62,34,9,2
 44.450933,10.950353,Marano sul Panaro,marano_sul_panaro,1,25,8,11,2
-45.410419,11.538705,Marano Vicentino,marano_vicentino,0,1,0,1,0
-45.099985,10.592131,Marcaria,marcaria,0,11,10,3,0
-45.204134,12.072550,Marcon,marcon,0,1,1,0,0
-45.467532,12.219222,Marghera,marghera,1,22,5,0,0
-43.879680,10.759320,Margine Coperta-Traversagna,margine_coperta-traversagna,0,0,0,1,0
-43.837983,10.691032,Marginone,marginone,0,0,1,0,0
 44.486152,12.281618,marina di ravenna,marina_di_ravenna,0,4,2,0,0
-44.513986,12.274297,Marina Romea,marina_romea,0,8,3,0,0
-44.511777,12.273424,Marina Romea (RA),marina_romea_ra,0,0,1,0,0
-43.884617,10.571906,Marlia,marlia,0,0,1,0,0
-43.948413,10.784873,Marliana,marliana,1,14,3,1,1
-45.242593,10.743677,Marmirolo,marmirolo,0,11,9,6,1
-44.073684,11.615541,Marradi,marradi,0,17,4,0,0
-45.406044,11.986497,Martellago,martellago,0,0,0,1,0
-45.089036,11.250000,Martinengo,martinengo,0,0,1,0,0
+44.513986,12.274297,Marina Romea,marina_romea,0,8,4,0,0
 44.338924,11.203937,Marzabotto,marzabotto,0,20,10,3,2
-45.499560,11.017570,Marzana,marzana,0,1,0,0,0
-45.319936,11.867766,Maserà di Padova,maser_di_padova,0,15,16,5,0
-45.113080,11.495189,Masi,masi,0,2,6,1,0
 44.787453,11.797625,Masi Torello,masi_torello,0,2,3,0,0
 43.989483,12.366546,Masrola,masrola,0,1,0,0,0
-43.879908,10.757334,Massa e Cozzile,massa_e_cozzile,0,25,9,12,0
-43.863872,10.766274,Massa E Cozzile (PT),massa_e_cozzile_pt,0,1,0,0,0
 44.447836,11.821487,Massa Lombarda,massa_lombarda,0,20,13,4,0
 44.733690,10.699124,Massenzatico,massenzatico,0,0,0,0,0
+44.735617,10.109861,Medesano,medesano,0,29,19,7,5
+44.533516,10.313983,Mediano,mediano,0,0,0,0,0
 44.484211,11.636538,Medicina,medicina,2,26,20,11,1
-45.329140,10.521868,Medole,medole,0,5,5,2,2
 44.843636,11.063630,Medolla,medolla,0,22,8,6,0
-45.191129,11.516495,Megliadino San Vitale,megliadino_san_vitale,0,11,3,1,0
-45.450440,11.897847,Meianiga,meianiga,0,0,1,0,0
-45.450021,11.899765,Mejaniga,mejaniga,0,1,0,0,0
-45.064766,11.196826,Melara,melara,0,4,2,2,0
 44.120875,12.060767,Meldola,meldola,3,25,20,5,4
-45.459232,11.994066,Mellaredo,mellaredo,0,0,1,0,0
-45.086551,11.435962,Menà,men,0,0,0,0,0
-43.634109,11.234590,Mercatale in Val di Pesa,mercatale_in_val_di_pesa,0,1,1,0,0
-43.648356,12.332834,Mercatello sul Metauro,mercatello_sul_metauro,0,7,5,0,2
-43.870305,12.491816,Mercatino Conca,mercatino_conca,0,2,1,1,0
-43.781264,11.255965,Mercato San Severino,mercato_san_severino,0,0,1,0,0
-43.978662,12.184466,Mercato Saraceno,mercato_saraceno,2,28,9,3,0
-45.054021,11.554426,Merlara,merlara,1,5,2,0,0
+43.978662,12.184466,Mercato Saraceno,mercato_saraceno,2,29,9,3,0
 44.906414,12.220233,Mesola,mesola,0,15,10,4,2
-45.490051,12.239238,Mestre,mestre,1,31,16,3,0
-45.443980,11.753534,Mestrino,mestrino,0,20,10,9,0
-45.483374,11.126351,Mezzane di Sotto,mezzane_di_sotto,0,8,1,1,0
-45.485422,11.133446,Mezzane di Sotto (VR),mezzane_di_sotto_vr,0,1,0,0,0
-44.466151,12.086404,Mezzano,mezzano,0,0,1,0,0
-45.322372,11.811393,Mezzavia,mezzavia,0,0,1,0,0
+44.916936,10.429929,Mezzani,mezzani,0,1,0,0,0
 44.773602,11.937802,Migliarino,migliarino,0,3,1,0,0
 44.791333,11.979174,Migliaro,migliaro,0,1,1,0,0
-44.221591,11.088549,Milano,milano,0,2,2,0,0
 44.279298,12.348359,Milano Marittima,milano_marittima,0,6,1,0,0
 44.276963,12.347012,Milano Marrittima,milano_marrittima,0,0,0,0,0
-45.240153,11.345378,Minerbe,minerbe,0,5,4,0,0
 44.619719,11.483857,Minerbio,minerbio,0,21,10,6,1
-45.440089,12.149964,Mira,mira,2,70,40,17,1
 44.812643,11.431201,Mirabello,mirabello,0,1,0,0,0
 44.031091,12.621586,Miramare di Rimini,miramare_di_rimini,0,1,0,0,0
-44.883829,11.076022,Mirandola,mirandola,5,57,37,19,2
-44.891160,11.076786,Mirandola Modena,mirandola_modena,0,0,1,0,0
-45.488336,12.102333,Mirano,mirano,4,82,53,28,1
-45.491126,12.116217,Mirano (VE),mirano_ve,0,1,0,0,0
+44.883829,11.076022,Mirandola,mirandola,5,57,38,19,2
 43.973242,12.691133,Misano Adriatico,misano_adriatico,1,93,38,20,1
-45.477746,11.059827,Mizzole,mizzole,0,0,1,0,0
 44.643118,10.925237,Modena,modena,34,688,422,187,36
-44.639060,10.951388,Modena, Emilia-Romagna,modena_emilia-romagna,0,2,0,0,0
+44.639060,10.951388,Modena Emilia-Romagna,modena_emilia-romagna,0,2,0,0,0
 44.153288,11.788717,Modigliana,modigliana,2,11,9,4,2
-43.782936,11.791913,Moggiona,moggiona,0,0,0,0,0
-44.936278,10.915624,Moglia,moglia,0,11,6,3,0
 44.612243,11.661710,Molinella,molinella,3,26,15,16,0
-43.806896,12.857844,Mombaroccio,mombaroccio,0,8,3,2,1
 44.445668,10.731201,Moncerrato,moncerrato,0,0,0,1,0
 43.855399,12.664444,Mondaino,mondaino,0,8,2,0,1
-43.670156,12.975134,Mondavio,mondavio,0,6,6,1,1
 44.746077,11.684628,Monestirolo,monestirolo,0,0,1,0,0
 44.214730,11.323881,Monghidoro,monghidoro,0,18,9,4,3
-45.494174,10.547154,Moniga Del Garda,moniga_del_garda,0,0,1,0,0
-45.237765,11.750657,Monselice,monselice,4,68,47,18,6
-43.864351,10.818179,Monsummano Terme,monsummano_terme,2,45,35,21,5
-45.232168,11.464921,Montagnana,montagnana,2,27,25,11,3
-43.553203,10.899179,Montaione,montaione,0,24,5,1,1
 44.755752,11.575376,Montalbano,montalbano,0,1,0,0,0
-43.952167,11.018549,Montale,montale,0,21,11,7,0
-44.575306,10.907414,Montale Rangone,montale_rangone,0,0,1,0,0
 44.337952,11.150019,Montasico,montasico,0,1,0,0,0
-43.910172,10.678457,Monte a Pescia,monte_a_pescia,0,1,0,0,0
-43.839202,12.413952,Monte Cerignone,monte_cerignone,0,1,4,0,1
-43.872586,12.471932,Monte Grimano Terme,monte_grimano_terme,0,3,1,0,0
-43.857415,12.765405,Monte Porzio,monte_porzio,0,1,0,0,0
 44.436885,11.168822,Monte San Pietro,monte_san_pietro,0,42,14,6,2
-43.873135,10.508100,Monte San Quirico (Lucca),monte_san_quirico_lucca,0,0,0,0,0
-44.076208,11.808699,Monte Vidon Corrado,monte_vidon_corrado,0,0,0,0,1
 44.136431,10.887390,Monteacuto delle Alpi,monteacuto_delle_alpi,0,1,0,0,0
 44.551525,10.693236,Montebabbio,montebabbio,0,1,0,0,0
-45.460851,11.384025,Montebello Vicentino,montebello_vicentino,0,16,8,4,1
-43.829674,11.487850,Montebonello,montebonello,0,1,0,0,0
 44.360603,11.496569,Montecalderaro,montecalderaro,0,1,0,0,0
-43.811765,12.643332,Montecalvo in Foglia,montecalvo_in_foglia,0,11,7,2,0
-43.847396,10.662273,Montecarlo,montecarlo,0,29,5,3,2
-43.881599,10.774042,Montecatini-Terme,montecatini-terme,0,5,4,1,1
-43.885018,10.774242,Montecatini-Terme Tuscany,montecatini-terme_tuscany,0,1,0,0,0
-43.896156,10.789153,Montecatini Alto,montecatini_alto,0,2,0,0,0
-43.883340,10.781535,Montecatini Terme,montecatini_terme,5,119,66,11,8
-45.475513,11.268667,Montecchia di Crosara,montecchia_di_crosara,0,12,12,1,0
-44.111089,11.385435,Montecchio,montecchio,0,1,0,0,0
-45.495253,11.429723,Montecchio Maggiore,montecchio_maggiore,0,20,20,10,2
+44.702122,10.451943,Montecchio Emilia,montecchio_emilia,1,28,17,4,4
 44.311420,10.767460,Montecenere,montecenere,0,0,0,0,0
-44.764885,10.592998,Montechiarugolo,montechiarugolo,0,0,1,0,0
+44.764885,10.592998,Montechiarugolo,montechiarugolo,1,27,14,2,2
 43.836787,12.363880,Montecopiolo,montecopiolo,0,6,1,0,2
 44.262836,10.738090,Montecreto,montecreto,0,8,2,2,1
-43.813259,12.698983,Montefabbri,montefabbri,0,0,1,0,0
-43.734255,12.830535,Montefelcino,montefelcino,0,4,3,0,0
-43.580290,11.303319,Montefioralle,montefioralle,0,1,0,0,0
 43.887487,12.611234,Montefiore Conca,montefiore_conca,0,11,5,1,2
 44.353506,10.608767,Montefiorino,montefiorino,0,7,4,0,2
-45.430922,11.288603,Monteforte d'Alpone,monteforte_dalpone,0,12,15,3,0
-43.577478,10.755084,Montefoscoli,montefoscoli,0,1,0,0,0
-45.451914,11.661779,Montegalda,montegalda,0,7,5,1,2
-45.438171,11.660267,Montegaldella,montegaldella,0,10,2,2,0
 43.909967,12.486559,Montegiardino,montegiardino,0,1,1,0,0
 43.859290,12.691387,Montegridolfo,montegridolfo,0,10,2,0,1
-45.329475,11.784666,Montegrotto Terme,montegrotto_terme,2,54,36,23,2
-43.847891,12.782763,Montelabbate,montelabbate,0,11,12,4,0
 44.045012,12.266330,Monteleone,monteleone,0,1,0,0,0
-43.890035,12.473692,Montelicciano,montelicciano,0,1,0,0,0
-43.727753,11.016893,Montelupo Fiorentino,montelupo_fiorentino,1,34,24,13,3
-43.739467,12.936018,Montemaggiore al Metauro,montemaggiore_al_metauro,0,3,3,0,0
-43.734887,10.542005,Montemagno,montemagno,0,1,0,0,0
-43.749169,11.612488,Montemignaio,montemignaio,0,4,1,0,0
-43.918722,11.039038,Montemurlo,montemurlo,0,45,25,11,2
 43.925356,12.193184,Montepetra,montepetra,0,1,0,0,0
 44.323077,11.415899,Monterenzio,monterenzio,0,15,6,2,4
-43.929240,12.569096,Montescudo,montescudo,0,1,0,0,0
-43.929499,12.554525,Montescudo-Monte Colombo,montescudo-monte_colombo,0,14,6,7,2
+43.929499,12.554525,Montescudo-Monte Colombo,montescudo-monte_colombo,0,15,6,7,2
 44.262158,10.935319,Montese,montese,0,16,4,1,3
-43.652826,11.079600,Montespertoli,montespertoli,0,48,15,11,5
-43.525605,11.567625,Montevarchi,montevarchi,3,39,26,14,6
 44.472749,11.087684,Monteveglio,monteveglio,0,6,2,1,0
 44.072450,12.296937,Montiano,montiano,0,7,2,0,0
-45.378785,11.451067,Monticello di Lonigo,monticello_di_lonigo,0,1,0,0,0
+45.091935,9.938220,Monticelli d'Ongina,monticelli_dongina,0,17,11,1,1
+44.726792,10.395114,Monticelli Terme,monticelli_terme,0,1,0,0,0
 44.378323,11.007721,Montombraro,montombraro,0,0,0,0,0
-43.559197,12.035110,Montone,montone,0,1,0,0,0
-43.676781,10.748401,Montopoli in Val d'Arno,montopoli_in_val_darno,1,26,10,5,3
-45.462390,11.062962,Montorio,montorio,0,0,1,1,0
-45.492260,11.359148,Montorso Vicentino,montorso_vicentino,0,4,6,2,0
-45.381243,10.683567,Monzambano,monzambano,0,30,8,5,4
 44.289990,11.252441,Monzuno,monzuno,0,15,7,6,1
 43.913380,12.648138,Morciano di Romagna,morciano_di_romagna,0,28,10,6,1
 44.407265,11.775293,Mordano,mordano,1,7,6,3,0
-43.740366,11.150331,Mosciano,mosciano,0,1,0,0,0
-45.034717,10.757974,Motteggiana,motteggiana,0,4,5,1,0
-45.308256,10.821150,Mozzecane,mozzecane,1,24,7,2,0
+44.749861,9.738696,Morfasso,morfasso,0,10,0,1,1
+44.568916,9.882399,Mormorola,mormorola,0,0,0,0,0
 44.509410,11.110030,Muffa,muffa,0,1,0,0,0
-45.413791,11.247918,Mulazzano,mulazzano,0,0,1,0,0
-45.456204,12.354317,Murano,murano,0,1,0,0,0
 43.920596,12.452066,Murata,murata,0,0,1,0,0
-45.403476,10.725968,Muscoline,muscoline,0,0,1,0,0
-45.425686,11.588837,Nanto,nanto,0,4,4,2,0
-45.428929,10.973655,Negrar di Valpolicella,negrar_di_valpolicella,0,10,4,7,1
-45.179474,11.062373,Nogara,nogara,2,16,14,2,1
-45.281317,10.882219,Nogarole Rocca,nogarole_rocca,0,15,4,1,1
+44.552673,10.322725,Neviano degli Arduini,neviano_degli_arduini,0,6,7,2,5
+44.938592,9.372436,Nibbiano,nibbiano,0,0,0,0,1
+44.808017,10.166549,Noceto,noceto,1,26,11,12,5
 44.678663,11.037254,Nonantola,nonantola,0,31,21,8,3
 43.899290,12.287764,Novafeltria,novafeltria,2,25,14,9,2
-45.430384,10.673192,Novara,novara,0,1,0,0,0
 44.842101,10.727590,Novellara,novellara,1,26,17,10,4
-45.413482,11.957986,Noventa Padovana,noventa_padovana,1,25,19,12,0
-45.290522,11.541508,Noventa Vicentina,noventa_vicentina,1,24,14,8,0
-45.411988,11.992724,Noventana,noventana,0,0,0,1,0
 44.869031,10.921810,Novi di Modena,novi_di_modena,1,19,12,6,0
-44.886978,12.325900,Oca Marina,oca_marina,0,0,1,0,0
-44.907236,11.601696,Occhiobello,occhiobello,4,24,25,11,0
-45.311596,11.123065,Oppeano,oppeano,0,22,17,4,0
-45.317576,11.106870,Oppeano-Vallese,oppeano-vallese,0,0,1,0,0
-43.686213,12.962523,Orciano di Pesaro,orciano_di_pesaro,0,2,2,0,0
-43.779327,10.660865,Orentano,orentano,0,0,1,0,0
-45.346919,11.457559,Orgiano,orgiano,0,2,2,0,0
-45.456542,11.882946,Orsago,orsago,0,0,1,0,0
-44.598910,11.866940,Orsara Bormida,orsara_bormida,0,1,0,0,0
-43.682170,11.742275,Ortignano Raggiolo,ortignano_raggiolo,0,2,0,0,0
-43.805823,11.175831,Osmannoro,osmannoro,0,2,0,0,0
-45.221027,11.609499,Ospedaletto Euganeo,ospedaletto_euganeo,1,8,6,2,0
-45.135982,10.608927,Ospitaletto,ospitaletto,0,0,1,0,0
 44.749035,11.936101,Ostellato,ostellato,0,18,5,3,1
+44.804667,10.080695,Osteria del Sole,osteria_del_sole,0,1,0,0,0
 44.429069,11.517629,Osteria Grande,osteria_grande,0,0,1,0,0
-43.862887,12.779564,Osteria Nuova,osteria_nuova,0,1,0,0,0
-45.074044,11.142926,Ostiglia,ostiglia,0,21,12,4,0
+44.622007,9.336367,Ottone,ottone,1,3,3,0,0
 44.434142,11.473257,Ozzano dell'Emilia,ozzano_dellemilia,0,39,20,12,2
-45.469116,10.721896,Pacengo,pacengo,0,2,2,0,0
-45.467906,10.713236,Pacengo di Lazise,pacengo_di_lazise,0,1,0,0,0
-45.493452,10.513726,Padenghe sul Garda,padenghe_sul_garda,0,12,3,0,0
-45.406677,11.881614,Padova,padova,54,732,493,223,55
-45.411804,11.894092,Padova (PD),padova_pd,0,1,0,0,0
-45.432505,11.864891,Padova, Veneto,padova_veneto,0,1,1,0,0
-45.401072,11.838407,Padua,padua,0,3,3,0,0
-43.959970,12.536260,Pagazzano,pagazzano,0,0,0,0,0
-45.324213,11.155316,Palù,pal,0,1,3,0,0
 44.353179,10.662898,Palagano,palagano,0,7,8,1,0
-43.603172,10.749049,Palaia,palaia,0,19,8,1,2
-43.618372,10.769407,Palaia (Pi),palaia_pi,0,0,1,0,0
-43.537275,12.913530,Palazzo d'Arcevia,palazzo_darcevia,0,1,0,0,0
-44.114102,11.547543,Palazzuolo sul Senio,palazzuolo_sul_senio,0,12,3,2,1
 44.407477,11.502999,Palesio,palesio,0,1,0,0,0
-43.544798,11.315945,Panzano in Chianti,panzano_in_chianti,0,2,1,0,0
-44.986822,12.028493,Papozze,papozze,0,2,2,0,0
-45.491399,10.801292,Pastrengo,pastrengo,0,12,1,1,1
+44.800175,10.327211,Parma,parma,37,627,507,169,46
 44.334917,10.835318,Pavullo nel Frignano,pavullo_nel_frignano,3,60,29,14,4
-43.553544,10.727467,Peccioli,peccioli,0,20,12,6,3
 44.587432,10.508138,Pecorile,pecorile,0,1,0,0,0
-43.696130,12.495880,Peglio,peglio,0,0,1,0,0
-44.992045,10.850013,Pegognaga,pegognaga,0,12,9,3,1
-45.323294,12.043809,Pegolotte,pegolotte,0,1,0,0,0
-43.778164,11.490907,Pelago,pelago,2,13,7,4,2
-45.291581,12.307856,Pellestrina,pellestrina,0,1,0,0,0
+44.738481,9.924651,Pellegrino Parmense,pellegrino_parmense,0,6,1,1,0
 43.816640,12.259470,Pennabilli,pennabilli,0,10,7,1,7
-43.568324,12.840152,Pergola,pergola,1,21,17,9,1
-45.259949,11.789405,Pernumia,pernumia,0,4,5,2,0
+44.819726,9.502010,Perino,perino,0,0,1,0,0
 43.906387,12.240335,Perticara,perticara,0,0,1,0,0
-43.904266,12.895981,Pesaro,pesaro,14,399,190,117,20
-45.484326,10.875107,Pescantina,pescantina,0,28,22,14,2
-45.433640,10.710351,Peschiera,peschiera,0,1,0,0,0
-45.439953,10.688102,Peschiera del Garda,peschiera_del_garda,5,142,58,14,5
-43.903755,10.688117,Pescia,pescia,5,63,27,10,11
-43.790663,12.718499,Petriano,petriano,0,4,4,1,0
-45.134899,11.987054,Pettorazza Grimani,pettorazza_grimani,0,2,2,1,0
-45.127725,11.544540,Piacenza d'Adige,piacenza_dadige,0,1,1,0,0
-43.741702,12.968318,Piagge,piagge,0,1,1,0,0
+45.044585,9.694949,Piacenza,piacenza,22,328,313,97,18
 44.333848,11.190523,Pian di Venola,pian_di_venola,0,0,1,0,0
 44.215505,10.514400,Piandelagotti,piandelagotti,0,1,0,0,0
-43.728369,12.405419,Piandimeleto,piandimeleto,0,3,3,0,1
-45.452122,12.032077,Pianiga,pianiga,0,19,7,6,2
+44.939216,9.415122,Pianello Val Tidone,pianello_val_tidone,0,14,5,2,2
 44.395513,11.355121,Pianoro,pianoro,2,46,15,14,4
 44.331027,10.834620,Piantacroce di Pavullo nel Fri,piantacroce_di_pavullo_nel_fri,0,1,0,0,0
-43.929103,10.691697,Pietrabuona,pietrabuona,0,1,0,0,0
 44.247871,10.987065,Pietracolora,pietracolora,0,0,1,0,0
 43.953928,12.371679,Pietracuta,pietracuta,0,1,0,0,0
-43.520829,12.436332,Pietralunga,pietralunga,0,1,0,0,0
-43.797855,12.371047,Pietrarubbia,pietrarubbia,0,2,1,0,1
-43.874682,10.796995,Pieve a Nievole,pieve_a_nievole,0,17,12,9,0
 44.712893,11.307270,Pieve di Cento,pieve_di_cento,1,27,8,5,3
+44.797985,10.047023,Pieve di Cusignano,pieve_di_cusignano,0,1,0,0,0
 44.001570,12.068067,Pieve di Rivoschio,pieve_di_rivoschio,0,1,0,0,0
 44.302661,11.842201,Pieve Ponte,pieve_ponte,0,0,1,0,0
-43.675368,12.042132,Pieve Santo Stefano,pieve_santo_stefano,0,10,8,3,2
 44.188274,10.589887,Pievepelago,pievepelago,0,18,4,1,1
 44.239891,12.157036,Pievequinta (FC),pievequinta_fc,0,1,0,0,0
-45.479355,11.059768,Pigozzo, Verona,pigozzo_verona,0,1,0,0,0
 44.221663,12.372920,Pinarella,pinarella,0,1,0,0,0
 44.242803,12.367070,Pinarella di Cervia,pinarella_di_cervia,0,3,0,0,0
-45.000418,11.642406,Pincara,pincara,0,2,1,3,0
-43.586578,12.515248,Piobbico,piobbico,1,11,5,1,1
-45.294971,12.034617,Piove di Sacco,piove_di_sacco,5,55,41,17,2
-43.670508,10.582369,Pisa,pisa,0,1,0,2,0
-43.936266,10.914677,Pistoia,pistoia,13,300,158,78,22
-44.045224,10.753979,Piteglio,piteglio,0,0,0,0,1
-45.221881,10.534436,Piubega,piubega,0,2,3,1,0
+44.916155,9.483436,Piozzano,piozzano,0,11,1,1,0
 44.537219,11.078167,Piumazzo,piumazzo,0,1,0,0,0
-45.328675,10.834314,Pizzoletta,pizzoletta,0,2,0,0,0
-43.506175,11.177425,Poggibonsi,poggibonsi,0,2,0,0,0
-43.817364,11.053094,Poggio a Caiano,poggio_a_caiano,0,17,5,5,4
-43.770928,11.056367,Poggio Alla Malva,poggio_alla_malva,0,1,0,0,0
+44.958214,9.686011,Podenzano,podenzano,1,17,15,1,0
 44.006281,12.394916,Poggio Berni,poggio_berni,0,1,0,0,0
 44.433259,11.608214,Poggio Piccolo,poggio_piccolo,0,2,0,0,0
 44.761110,11.511731,Poggio Renatico,poggio_renatico,0,13,12,4,1
-44.975672,11.123525,Poggio Rusco,poggio_rusco,0,18,11,9,0
 44.006809,12.400452,Poggio Torriana,poggio_torriana,0,19,9,1,2
-45.300302,11.498492,Pojana Maggiore,pojana_maggiore,0,6,7,0,0
-44.968437,11.756416,Polesella,polesella,0,12,8,2,0
+45.020710,10.086313,Polesine Parmense,polesine_parmense,0,2,0,0,0
+45.017925,10.106174,Polesine Zibello,polesine_zibello,0,15,2,4,3
 44.354113,10.726710,Polinago,polinago,0,3,2,2,2
-45.314820,11.955382,Polverara,polverara,0,4,3,2,0
-44.927716,10.592696,Pomponesco,pomponesco,0,5,5,0,0
-43.622510,10.624925,Ponsacco,ponsacco,0,29,25,15,1
-45.195310,11.582010,Ponso,ponso,0,4,2,2,0
-43.794243,11.426676,Pontassieve,pontassieve,1,58,28,14,1
-43.862248,11.503909,Pontassieve (FI),pontassieve_fi,0,1,0,0,0
-43.744416,10.769402,Ponte a Cappiano,ponte_a_cappiano,0,1,0,0,0
-43.690610,10.896753,Ponte a Elsa,ponte_a_elsa,0,1,0,0,0
-43.743250,11.293706,Ponte A Ema,ponte_a_ema,0,4,0,0,0
-43.726160,11.773969,Ponte A Poppi,ponte_a_poppi,0,1,0,0,0
-43.813786,11.063644,Ponte all'Asse,ponte_allasse,0,2,0,0,0
-43.843171,10.750491,Ponte Buggianese,ponte_buggianese,0,15,17,5,0
-43.801237,12.363098,Ponte Cappuccini,ponte_cappuccini,0,1,0,0,0
-45.408985,11.542142,Ponte di Barbarano,ponte_di_barbarano,0,0,0,1,0
+44.860975,9.646663,Ponte dell'Olio,ponte_dellolio,2,18,8,2,1
 43.816347,12.241226,Ponte Messa,ponte_messa,0,1,0,0,0
 44.465213,11.510093,Ponte Rizzoli,ponte_rizzoli,0,0,1,0,0
-45.366561,11.919156,Ponte San Nicolò,ponte_san_nicol,1,29,10,20,0
-45.366922,11.929030,Ponte San Nicolo',ponte_san_nicolo,0,1,0,0,0
-45.370519,11.920480,Ponte San Nicolo' (PD),ponte_san_nicolo_pd,0,1,0,0,0
-45.362941,11.938257,Ponte San Nilcolò,ponte_san_nilcol,0,1,0,0,0
-43.980459,12.408364,Ponte Verucchio,ponte_verucchio,0,1,0,0,0
-45.021567,11.810748,Pontecchio Polesine,pontecchio_polesine,0,3,2,1,0
-43.660908,10.637261,Pontedera,pontedera,6,117,69,28,4
+44.824732,10.212241,Ponte Taro,ponte_taro,0,2,1,0,0
 44.879934,11.607024,Pontelagoscuro,pontelagoscuro,0,0,1,0,0
-45.248340,12.024089,Pontelongo,pontelongo,0,6,5,1,1
-45.122854,10.892648,Pontemerlano,pontemerlano,0,0,2,0,0
-45.412733,10.683833,Ponti sul Mincio,ponti_sul_mincio,0,14,2,0,0
-43.744743,11.781729,Poppi,poppi,0,38,9,1,2
-43.836662,10.615024,Porcari,porcari,0,17,14,10,2
+44.994487,9.799337,Pontenure,pontenure,0,12,16,1,1
+44.525265,9.741785,Porcigatone,porcigatone,0,1,0,0,0
 44.146003,10.986855,Porretta,porretta,0,1,0,0,0
 44.157048,10.974660,Porretta Terme,porretta_terme,1,4,3,0,0
 44.017681,11.745952,Portico di Romagna,portico_di_romagna,0,0,0,1,0
 44.006489,11.739860,Portico e San Benedetto,portico_e_san_benedetto,0,7,2,1,0
-45.198036,10.790238,Porto Mantovano,porto_mantovano,2,28,18,17,0
-44.923262,12.383784,Porto Tolle,porto_tolle,1,45,20,6,0
-45.030767,12.240705,Porto Viro,porto_viro,2,43,30,11,0
-45.030014,12.218292,Porto Viro, Veneto, Italy,porto_viro_veneto_italy,0,0,0,1,0
 44.700274,11.808681,Portomaggiore,portomaggiore,1,24,16,3,0
-45.341976,10.890207,Povegliano Veronese,povegliano_veronese,0,8,9,7,0
-44.843834,10.538249,Poviglio,poviglio,1,10,10,2,0
-45.403315,10.630233,Pozzolengo,pozzolengo,0,12,11,3,2
-45.304456,10.714508,Pozzolo,pozzolo,0,0,1,0,0
-45.194103,11.793239,Pozzonovo,pozzonovo,0,6,7,2,0
-45.364754,11.744411,Praglia di Teolo,praglia_di_teolo,0,1,0,0,0
-43.877513,11.090743,Prato,prato,26,447,263,114,25
-43.874298,11.105633,Prato (PO),prato_po,0,2,0,0,0
+44.843834,10.538249,Poviglio,poviglio,1,11,11,2,0
+44.805576,10.475670,Praticello,praticello,0,0,0,0,0
 44.734233,10.663147,Pratofontana,pratofontana,0,1,0,0,0
-45.227899,11.654970,Pratola Serra,pratola_serra,0,0,1,0,0
-43.862099,11.300232,Pratolino,pratolino,0,0,1,0,0
-43.783811,11.725452,Pratovecchio,pratovecchio,0,5,1,0,0
-43.796013,11.711367,Pratovecchio Stia,pratovecchio_stia,0,13,7,4,6
 44.109101,11.970762,Predappio,predappio,0,22,6,2,3
 44.162600,12.023450,Predappio Alta,predappio_alta,0,1,0,0,0
 43.966624,11.781179,Premilcuore,premilcuore,0,6,3,0,0
-45.280612,11.408613,Pressana,pressana,0,2,2,1,0
 44.448288,10.714047,Prignano sulla Secchia,prignano_sulla_secchia,0,11,3,1,0
-43.776064,12.825225,Pu,pu,0,1,0,0,0
-43.502638,11.881537,puglia,puglia,0,0,1,0,0
-44.526265,11.414905,qQuarto inferiore,qquarto_inferiore,0,1,0,0,0
-45.329676,10.788844,Quaderni,quaderni,0,2,2,0,0
-43.855180,10.980928,Quarrata,quarrata,3,67,34,14,1
-44.531469,11.418988,Quarto Inferiore,quarto_inferiore,0,1,1,0,0
-44.632897,10.547667,Quattro Castella,quattro_castella,0,23,7,4,0
-45.038219,11.039757,Quingentole,quingentole,0,3,2,1,2
-45.006010,10.985045,Quistello,quistello,2,11,6,6,1
-43.523511,11.357706,Radda in Chianti,radda_in_chianti,0,6,1,1,0
+44.531469,11.418988,Quarto Inferiore,quarto_inferiore,0,2,1,0,0
+44.632897,10.547667,Quattro Castella,quattro_castella,0,48,22,5,5
 44.484360,10.591670,Ramiseto,ramiseto,0,1,0,0,0
 44.417324,11.348789,Rastignano,rastignano,0,1,0,1,0
 44.732279,11.091162,Ravarino,ravarino,0,16,4,2,0
 44.414845,12.223494,Ravenna,ravenna,18,661,319,141,36
 44.396000,12.179168,Ravenna (RA),ravenna_ra,0,1,0,0,0
 44.305434,11.974079,Reda,reda,0,1,0,0,0
-45.164093,10.510935,Redondesco,redondesco,0,1,1,1,0
-43.689272,11.505923,Reggello,reggello,0,49,18,10,5
-44.713440,10.588129,Reggio,reggio,0,0,0,0,0
-44.698587,10.631606,Reggio Emilia,reggio_emilia,3,45,16,5,0
+44.698587,10.631606,Reggio Emilia,reggio_emilia,3,46,16,5,0
 44.744484,10.608623,Reggio Emilia (RE),reggio_emilia_re,0,1,0,0,0
-44.696250,10.631177,Reggio nell'Emilia,reggio_nellemilia,28,431,287,149,20
+44.696250,10.631177,Reggio nell'Emilia,reggio_nellemilia,28,431,288,150,20
 44.916494,10.804603,Reggiolo,reggiolo,0,26,17,4,2
-45.054927,11.132430,Revere,revere,0,1,0,0,0
-44.001417,12.652524,Riccione,riccione,4,292,162,52,4
-43.735652,11.433739,Rignano sull'Arno,rignano_sullarno,0,12,5,5,2
+44.869564,9.782106,Rezzano,rezzano,0,0,0,0,0
+44.001417,12.652524,Riccione,riccione,4,293,162,52,4
 44.261256,11.672101,Rilo Terme,rilo_terme,0,0,1,0,0
-44.057564,12.569229,Rimini,rimini,11,882,477,198,25
+44.057564,12.569229,Rimini,rimini,11,881,477,198,25
 44.813438,10.799447,Rio Saliceto,rio_saliceto,0,12,7,2,0
 44.266175,11.733362,Riolo Terme,riolo_terme,1,20,8,5,1
 44.227960,10.665437,Riolunato,riolunato,0,4,5,3,0
 44.955004,11.843992,Riva del Po,riva_del_po,0,8,10,0,0
-45.179803,10.679327,Rivalta sul Mincio,rivalta_sul_mincio,0,2,2,0,0
+44.898158,10.317256,Rivarolo di Torrile,rivarolo_di_torrile,0,1,0,0,0
 44.037783,12.611855,Rivazzurra Di Rimini,rivazzurra_di_rimini,0,1,0,0,0
-45.460572,10.567722,Rivoltella,rivoltella,0,1,0,0,0
+44.926360,9.600336,Rivergaro,rivergaro,0,35,16,5,1
 44.950162,11.757360,Ro,ro,0,0,3,0,0
-45.408578,11.228296,Robbio,robbio,0,1,1,0,0
 44.236518,11.005322,Rocca Pitigliana BO,rocca_pitigliana_bo,0,1,0,0,0
-43.648732,11.626016,Rocca Ricciarda,rocca_ricciarda,0,1,0,0,0
 44.065453,11.844261,Rocca San Casciano,rocca_san_casciano,0,5,4,0,0
-44.953369,10.641383,Roccabianca,roccabianca,0,1,0,0,0
-45.186073,10.659367,Rodigo,rodigo,0,15,3,6,2
+44.988574,10.251310,Roccabianca,roccabianca,0,4,2,1,3
 44.890118,10.861262,Rolo,rolo,0,5,6,1,1
-44.692054,11.850055,Roma,roma,0,0,1,1,0
-45.070747,10.761007,Romanore,romanore,0,1,0,0,0
-44.135894,11.246901,Rome,rome,0,0,0,0,0
-45.477226,11.301272,Roncà,ronc,0,9,2,1,1
-45.456566,10.710137,Ronchi,ronchi,0,1,0,0,0
-43.580391,12.656250,Ronchi dei Legionari,ronchi_dei_legionari,0,0,0,1,0
-45.329830,11.238513,Ronco all'Adige,ronco_alladige,0,7,2,1,0
-44.383841,11.985456,Roncobello,roncobello,0,0,0,1,0
 44.738328,10.579049,Roncocesi,roncocesi,0,1,1,0,0
-45.121127,10.937429,Roncoferraro,roncoferraro,0,14,6,2,1
 44.050929,12.282336,Roncofreddo,roncofreddo,0,22,6,1,0
-43.818610,12.992228,Rosciano,rosciano,0,0,1,0,0
-45.342428,10.811711,Rosegaferro,rosegaferro,0,1,1,0,0
-45.101378,12.299723,Rosolina,rosolina,1,61,24,8,0
-45.076044,12.242333,Rosolina (Rovigo),rosolina_rovigo,0,1,0,0,0
-45.272579,10.783795,Roverbella,roverbella,0,19,11,1,1
-45.264441,11.248620,Roverchiara,roverchiara,0,6,1,0,0
-45.268302,11.448852,Roveredo di Guà,roveredo_di_gu,0,0,0,1,0
-45.065230,11.791334,Rovigo,rovigo,21,146,126,59,8
-45.376680,11.655912,Rovolon,rovolon,0,28,6,5,0
-45.364961,11.664447,Rovolon, Padova,rovolon_padova,0,1,0,0,0
-45.424153,11.805033,Rubano,rubano,1,46,21,16,0
+45.051137,9.598336,Rottofreno,rottofreno,1,26,12,8,0
+44.964813,9.854091,Roveleto,roveleto,0,1,0,0,0
 44.651288,10.525520,Rubbianino,rubbianino,0,0,1,0,0
-44.655807,10.780416,Rubiera,rubiera,1,50,21,16,0
-44.654495,10.766491,Rubiera (RE),rubiera_re,0,1,0,0,0
-43.827679,11.499307,Rufina,rufina,0,13,6,2,0
+44.655807,10.780416,Rubiera,rubiera,1,51,21,16,0
 44.373943,12.043138,Russi,russi,1,35,19,6,3
 44.406985,12.113777,S Michele,s_michele,0,1,0,0,0
-43.559110,12.583600,Sa Caletta,sa_caletta,0,1,0,0,0
-45.037573,10.555375,Sabbioneta,sabbioneta,0,5,2,0,1
-45.406637,11.750338,Saccolongo,saccolongo,1,11,9,5,0
 44.555391,11.235150,Sacerno,sacerno,0,1,0,0,0
-43.752381,11.194087,Sacndicci,sacndicci,0,0,1,0,0
+44.727382,10.224306,Sala Baganza,sala_baganza,0,19,6,7,4
 44.609013,11.265251,Sala Bolognese,sala_bolognese,0,10,10,8,1
 44.154596,12.384064,Sala di Cesenatico,sala_di_cesenatico,0,0,0,0,0
-44.981091,11.424648,Salara,salara,0,1,3,0,0
-45.373555,11.729168,Saletto,saletto,0,4,1,0,0
-45.404868,10.723129,Salionza,salionza,0,1,0,0,0
-45.403388,10.725935,Salionze,salionze,0,0,1,0,0
-45.238822,11.081074,Salizzole,salizzole,0,11,3,2,0
-43.755491,12.914752,Saltara,saltara,0,1,2,0,0
+44.817114,9.984869,Salsomaggiore Terme,salsomaggiore_terme,1,48,35,18,5
 43.887482,12.677816,Saludecio,saludecio,0,11,2,0,2
 44.267195,11.712869,Salvalle di Sopra,salvalle_di_sopra,0,1,0,0,0
-45.489624,12.158096,Salzano,salzano,0,1,0,0,0
-43.591785,11.199906,Sambuca,sambuca,0,0,1,0,0
-44.088788,11.009043,Sambuca Pistoiese,sambuca_pistoiese,0,7,2,0,0
-44.366715,10.948738,Samone,samone,0,0,0,0,0
-45.169265,10.852457,San,san,0,1,0,0,0
-43.837553,10.917970,San Baronto,san_baronto,0,2,1,0,0
 44.725924,11.580083,San Bartolomeo In Bosco,san_bartolomeo_in_bosco,0,1,0,0,0
-45.028758,11.585516,San Bellino,san_bellino,0,1,1,0,1
-45.447890,10.674022,San Benedetto di Lugana,san_benedetto_di_lugana,0,1,0,0,0
-45.041247,10.918720,San Benedetto Po,san_benedetto_po,0,29,7,1,1
 44.195133,11.238428,San Benedetto Val di Sambro,san_benedetto_val_di_sambro,0,17,10,2,0
 44.578255,11.875378,San Biagio,san_biagio,0,0,1,0,0
 44.225083,11.905439,San Biagio Vecchio,san_biagio_vecchio,0,1,0,0,0
-45.399075,11.274445,San Bonifacio,san_bonifacio,5,66,47,15,1
+45.012463,9.690633,San Bonico,san_bonico,0,1,0,0,0
 44.800467,11.411946,San Carlo,san_carlo,0,1,0,0,0
-43.691954,10.514104,San Casciano,san_casciano,0,0,1,0,0
-43.649492,11.185906,San Casciano in Val di Pesa,san_casciano_in_val_di_pesa,0,71,21,12,8
-43.655415,11.193473,San Casciano Val di Pesa,san_casciano_val_di_pesa,0,0,0,0,0
-44.165149,11.688481,San Cassiano,san_cassiano,0,1,0,0,0
 44.570904,11.029604,San Cesario sul Panaro,san_cesario_sul_panaro,0,22,8,6,1
 43.923488,12.639343,San Clemente,san_clemente,0,12,8,7,0
-43.882155,10.577621,San Colombano,san_colombano,0,0,1,0,0
-45.340058,11.768836,San Daniele Zona Agricola,san_daniele_zona_agricola,0,1,0,0,0
-43.547620,11.225785,San Donato in Poggio,san_donato_in_poggio,0,1,0,0,0
 44.841860,11.142224,San Felice sul Panaro,san_felice_sul_panaro,0,18,13,4,1
-45.484366,10.867172,San Floriano,san_floriano,0,1,0,0,0
-45.400392,11.475036,San Germano dei Berici,san_germano_dei_berici,0,0,0,0,0
-44.972182,11.022427,San Giacomo delle Segnate,san_giacomo_delle_segnate,0,4,1,0,1
-43.514463,11.038502,San Gimignano,san_gimignano,0,8,0,0,1
-43.839803,11.106437,San Giorgio a Colonica,san_giorgio_a_colonica,0,1,0,0,0
-45.173878,10.858989,San Giorgio Bigarello,san_giorgio_bigarello,0,15,13,4,0
-45.164963,10.841701,San Giorgio di Mantova,san_giorgio_di_mantova,0,1,1,0,0
-43.702055,12.978428,San Giorgio di Pesaro,san_giorgio_di_pesaro,0,0,1,0,0
 44.645177,11.375203,San Giorgio di Piano,san_giorgio_di_piano,0,21,7,5,0
+44.935153,9.737234,San Giorgio Piacentino,san_giorgio_piacentino,0,21,5,4,0
 44.909154,10.980414,San Giovanni,san_giovanni,0,1,0,0,0
 43.918350,12.726495,San Giovanni A Marignano,san_giovanni_a_marignano,0,0,1,0,0
-44.967327,11.080582,San Giovanni del Dosso,san_giovanni_del_dosso,0,5,0,0,0
 43.941723,12.712731,San Giovanni in Marignano,san_giovanni_in_marignano,0,37,14,18,3
 44.641994,11.189437,San Giovanni in Persiceto,san_giovanni_in_persiceto,2,78,46,21,3
-45.382623,11.036545,San Giovanni Lupatoto,san_giovanni_lupatoto,2,61,41,23,1
 44.640009,11.186904,San Giovanni Persiceto,san_giovanni_persiceto,0,1,0,0,0
-43.564995,11.531630,San Giovanni Valdarno,san_giovanni_valdarno,2,33,25,11,3
 44.074826,12.563405,San Giuliano Mare,san_giuliano_mare,0,1,0,0,0
-44.518282,11.146961,San Giuliano Terme,san_giuliano_terme,0,1,0,1,0
-43.538847,12.187142,San Giustino,san_giustino,0,18,16,12,3
-43.551725,11.703345,San Giustino Valdarno,san_giustino_valdarno,0,0,2,0,0
-43.915369,11.644111,San Godenzo,san_godenzo,0,5,6,1,1
-44.466745,11.414784,San Lazzaro di Savena,san_lazzaro_di_savena,2,98,34,45,4
-44.472800,11.402142,San Lazzaro di Savena (BO),san_lazzaro_di_savena_bo,0,1,0,0,0
+44.761583,10.447923,San Ilario di Enza,san_ilario_di_enza,0,0,1,0,0
+44.466745,11.414784,San Lazzaro di Savena,san_lazzaro_di_savena,2,99,34,45,4
 43.918268,12.360015,San Leo,san_leo,0,16,5,1,6
-43.606292,12.936962,San Lorenzo in Campo,san_lorenzo_in_campo,0,12,9,3,2
-44.035295,10.813685,San Marcello Pistoiese,san_marcello_pistoiese,1,1,2,0,0
-44.039460,10.836117,San Marcello Piteglio,san_marcello_piteglio,2,20,12,7,5
-43.935831,12.447594,San Marino,san_marino,0,42,25,3,14
-44.777724,11.587107,San Martino,san_martino,0,1,0,0,0
-45.420201,11.091538,San Martino Buon Albergo,san_martino_buon_albergo,1,47,31,17,0
-45.101139,10.520005,San Martino dall'Argine,san_martino_dallargine,0,5,3,2,1
+43.935831,12.447594,San Marino,san_marino,0,45,27,3,15
 44.033223,12.463511,San Martino dei Mulini,san_martino_dei_mulini,0,1,1,0,0
-45.436245,10.603983,San Martino della Battaglia,san_martino_della_battaglia,0,3,0,0,0
-45.125685,11.882636,San Martino di Venezze,san_martino_di_venezze,0,10,5,1,0
 44.730462,10.786100,San Martino in Rio,san_martino_in_rio,1,11,7,3,2
-44.183394,11.994659,San Martino in Strada,san_martino_in_strada,0,1,0,0,0
-45.017406,10.627384,San Matteo delle Chiaviche,san_matteo_delle_chiaviche,0,1,0,0,0
 44.163731,12.445924,San Mauro a Mare,san_mauro_a_mare,0,7,6,0,0
 44.129210,12.425672,San Mauro Pascoli,san_mauro_pascoli,0,34,28,7,1
-45.113719,10.575917,San Michele Di Marcaria,san_michele_di_marcaria,0,0,1,0,0
-43.681832,10.834902,San Miniato,san_miniato,2,79,40,25,11
-43.693224,10.842776,San Miniato Basso,san_miniato_basso,0,2,1,0,0
-44.360256,12.079302,San Pancrazio,san_pancrazio,0,0,1,0,0
-43.714658,10.814986,San Pierino,san_pierino,0,1,1,0,0
-43.963829,11.324257,San Piero A Sieve,san_piero_a_sieve,0,0,1,0,0
+45.053959,9.607316,San Nicolò a Trebbia,san_nicol_a_trebbia,2,1,2,0,0
 43.857150,11.976201,San Piero in Bagno,san_piero_in_bagno,0,2,3,0,0
-45.186442,11.282082,San Pietro,san_pietro,0,0,1,0,0
-45.246450,11.196061,San Pietro di Morubio,san_pietro_di_morubio,0,7,3,1,0
-45.488881,10.904901,San Pietro in Cariano,san_pietro_in_cariano,0,6,7,1,0
 44.702683,11.407411,San Pietro in Casale,san_pietro_in_casale,2,21,22,7,2
-45.317836,12.315679,San Pietro in Volta,san_pietro_in_volta,0,1,0,0,0
-45.243572,11.818915,San Pietro Viminario,san_pietro_viminario,0,4,3,1,0
+45.024855,9.943516,San Pietro in Cerro,san_pietro_in_cerro,0,2,0,0,2
+44.630349,10.425134,San Polo d'Enza,san_polo_denza,0,13,9,5,0
 44.888051,10.993088,San Possidonio,san_possidonio,0,8,0,3,0
 44.796151,11.026627,San Prospero,san_prospero,0,15,5,3,0
 44.672055,10.576022,San Rigo,san_rigo,0,1,0,0,0
-43.576454,12.118778,San Sepolcro,san_sepolcro,0,1,0,0,0
+44.923944,10.229582,San Secondo Parmense,san_secondo_parmense,1,7,11,5,2
 44.261331,12.214323,San Zaccaria (RA),san_zaccaria_ra,0,1,0,0,0
-45.181752,11.158446,Sanguinetto,sanguinetto,0,4,8,0,0
-43.567000,11.530070,Sanremo,sanremo,0,0,1,0,0
-43.571162,12.135843,Sansepolcro,sansepolcro,1,68,27,11,7
-45.189230,11.623151,Santa Caterina d'Este,santa_caterina_deste,0,4,1,1,0
-44.892194,10.536774,Santa Croce,santa_croce,0,1,0,0,0
-43.723520,10.760272,Santa Croce sull'Arno,santa_croce_sullarno,1,19,14,10,0
-43.695620,10.693464,Santa Maria a Monte,santa_maria_a_monte,0,20,19,8,1
-45.482902,12.024359,Santa Maria di Sala,santa_maria_di_sala,0,8,6,4,0
-44.900590,11.607644,Santa Maria Maddalena,santa_maria_maddalena,0,1,1,0,0
-44.201735,12.188005,Santa Maria Nuova,santa_maria_nuova,0,0,1,0,0
+44.892194,10.536774,Santa Croce,santa_croce,0,2,0,0,0
 43.922622,11.859670,Santa Sofia,santa_sofia,1,32,9,3,0
 44.660650,11.131741,Sant'Agata Bolognese,santagata_bolognese,0,17,8,7,1
 43.862166,12.206893,Sant'Agata Feltria,santagata_feltria,0,9,2,0,2
 44.429890,11.893758,Sant'Agata sul Santerno,santagata_sul_santerno,0,11,4,1,0
 44.776728,11.427641,Sant'Agostino,santagostino,0,4,0,0,0
-45.496947,11.943723,Sant'Andrea di Campodarsego,santandrea_di_campodarsego,0,1,0,0,0
-45.335037,12.006781,Sant'Angelo di Piove di Sacco,santangelo_di_piove_di_sacco,0,17,10,9,2
-43.665265,12.412102,Sant'Angelo in Vado,santangelo_in_vado,0,10,12,2,2
-44.590467,11.953125,Sant'Anna d'Alfaedo,santanna_dalfaedo,0,1,0,0,0
-45.198300,10.792370,Sant'antonio,santantonio,0,1,0,0,0
-45.041455,11.823728,Sant'Apollinare,santapollinare,0,1,0,0,0
 44.061079,12.446570,Santarcangelo di Romagna,santarcangelo_di_romagna,3,102,43,16,7
-45.188214,11.703890,Sant'Elena,santelena,0,6,3,1,0
-43.689549,12.872848,Sant'Ippolito,santippolito,0,10,4,1,0
+44.757075,10.455376,Sant'Ilario d'Enza,santilario_denza,0,23,11,6,0
 44.318331,12.165212,Santo Stefano-Carraie,santo_stefano-carraie,0,0,0,1,0
-43.942340,10.986596,Santomato,santomato,0,1,0,0,0
-45.133847,11.636458,Sant'Urbano,santurbano,0,4,2,2,0
-45.381115,11.970078,Saonara,saonara,1,10,12,3,1
-45.422543,11.409971,Sarego,sarego,0,10,7,0,0
-45.008040,11.417930,Sariano,sariano,0,0,1,0,0
-45.422454,11.806093,Sarmeola (PD),sarmeola_pd,0,1,0,0,0
+44.862792,9.739569,Sariano di Gropparello,sariano_di_gropparello,0,1,0,0,0
+45.059304,9.501523,Sarmato,sarmato,0,3,5,2,1
 43.921681,12.131605,Sarsina,sarsina,0,18,5,3,3
-44.060937,11.155285,Sasseta,sasseta,0,1,0,0,0
-44.408016,11.248179,Sasso Marconi,sasso_marconi,0,61,18,21,5
-43.690732,12.481616,Sassocorvaro,sassocorvaro,0,2,0,0,0
-43.791841,12.517136,Sassocorvaro Auditore,sassocorvaro_auditore,2,14,8,3,4
+44.408016,11.248179,Sasso Marconi,sasso_marconi,0,62,18,21,5
 43.890254,12.522185,Sassofeltrio,sassofeltrio,0,2,2,1,0
-43.512322,12.867080,Sassoferrato,sassoferrato,0,2,1,1,2
 44.265364,11.500624,Sassoleone,sassoleone,0,1,0,0,0
 44.543152,10.783266,Sassuolo,sassuolo,6,105,67,49,0
 44.523650,12.113377,Savarna,savarna,0,2,0,0,0
 44.474663,11.021355,Savignano sul Panaro,savignano_sul_panaro,0,28,8,8,0
-44.105913,12.404752,Savignano Sul Rubicone,savignano_sul_rubicone,3,71,29,20,4
+44.105913,12.404752,Savignano Sul Rubicone,savignano_sul_rubicone,3,72,29,20,4
 44.430046,11.228728,Savigno,savigno,0,2,0,0,0
 44.335785,12.263053,Savio,savio,0,1,0,0,0
-45.470208,12.084575,Scaltenigo,scaltenigo,0,3,2,0,0
-44.602046,10.691529,Scandiano,scandiano,4,75,57,15,4
-43.755410,11.170683,Scandicci,scandicci,3,97,57,31,3
-44.011522,11.359010,Scarperia,scarperia,0,5,2,0,2
-43.982890,11.344513,Scarperia e San Piero,scarperia_e_san_piero,1,32,14,8,4
-43.658621,11.188589,S.Casciano V.P.,scasciano_vp,0,0,1,0,0
+44.602046,10.691529,Scandiano,scandiano,4,76,57,15,4
 44.812333,11.314047,Schivenoglia,schivenoglia,0,2,0,0,0
-44.503302,11.536484,sconosciuta,sconosciuta,184,6646,5091,199,0
-43.829595,11.021097,Seano,seano,0,0,0,0,0
-43.881991,10.582878,Segromigno,segromigno,0,0,1,0,0
-43.869369,10.592675,Segromigno in Piano,segromigno_in_piano,0,1,0,0,0
-43.517952,12.200268,Selci Lama,selci_lama,0,1,0,1,0
 44.556619,11.627618,Selva Malvezzi,selva_malvezzi,0,1,0,0,0
-45.395544,11.803330,Selvazzano Dentro,selvazzano_dentro,1,45,25,23,2
-44.995952,11.313642,Sermide e Felonica,sermide_e_felonica,0,8,5,5,3
-43.506504,12.744536,Serra Sant'Abbondio,serra_santabbondio,0,0,2,0,0
 44.431224,10.807964,Serramazzoni,serramazzoni,0,32,10,2,3
-43.977603,12.489064,Serravalle,serravalle,3,29,19,17,0
-45.063514,11.071659,Serravalle a Po,serravalle_a_po,0,1,3,3,0
-43.541997,12.496782,Serravalle di Carda,serravalle_di_carda,0,0,0,0,0
-43.885531,10.882496,Serravalle Pistoiese,serravalle_pistoiese,0,47,12,6,2
-43.747958,12.866020,Serrungarina,serrungarina,0,1,0,0,0
+43.977603,12.489064,Serravalle,serravalle,3,33,19,17,2
 44.739667,10.614800,Sesso,sesso,0,0,1,0,0
 43.758300,12.234887,Sestino,sestino,0,6,0,1,1
-43.821361,11.208823,Sesto,sesto,0,1,0,0,0
-43.829342,11.203919,Sesto Fiorentino,sesto_fiorentino,3,109,48,30,4
-43.833264,11.198932,Sesto Fiorentino - FI,sesto_fiorentino_-_fi,0,1,0,0,0
 44.461615,11.726754,Sesto Imolese,sesto_imolese,0,1,0,0,0
 44.231599,10.761830,Sestola,sestola,1,24,10,5,2
-43.788754,11.104589,Signa,signa,0,38,19,19,5
-45.475532,10.609767,Sirmione,sirmione,0,138,41,12,3
-45.461772,10.635295,Sirmione del Garda,sirmione_del_garda,0,0,1,0,0
-43.582065,12.671545,Smirra,smirra,0,2,0,0,0
-45.420774,11.231598,Soave,soave,0,31,12,5,2
-45.195654,10.722589,Soave di Porto Mantovano,soave_di_porto_mantovano,0,1,0,0,0
+44.727124,9.767581,Settesorelle,settesorelle,0,1,0,0,0
+44.954293,10.270389,Sissa,sissa,0,2,1,0,0
+44.941680,10.260167,Sissa Trecasali,sissa_trecasali,0,14,10,2,2
 43.988589,12.262758,Sogliano al Rubicone,sogliano_al_rubicone,2,19,5,2,6
-44.352517,11.845512,Solarolo,solarolo,0,11,7,2,1
-45.186232,11.745349,Solesino,solesino,0,21,6,3,0
-45.369892,10.564207,Solferino,solferino,0,12,6,3,4
+44.352517,11.845512,Solarolo,solarolo,0,13,7,2,1
 44.746350,10.930189,Soliera,soliera,1,27,21,12,0
 44.727783,10.903580,Soliera (MO),soliera_mo,0,1,0,0,0
-45.404557,10.850471,Sommacampagna,sommacampagna,0,58,20,10,2
-45.433674,10.841341,Sona,sona,2,33,21,11,2
+44.638852,9.973545,Solignano,solignano,0,7,2,0,1
+44.927100,10.120214,Soragna,soragna,0,13,8,5,5
 44.743600,11.020884,Sorbara,sorbara,0,1,0,0,0
-45.198473,10.995465,Sorgà,sorg,0,9,6,1,1
-45.359103,11.506913,Sossano,sossano,0,8,9,1,0
-45.205218,12.295692,Sottomarina,sottomarina,0,2,0,0,0
-45.213224,12.295476,Sottomarina Lido,sottomarina_lido,0,0,1,0,0
+44.843789,10.442265,Sorbolo,sorbolo,0,1,1,0,0
+44.847425,10.462104,Sorbolo a Levante,sorbolo_a_levante,0,0,1,0,0
+44.875780,10.443075,Sorbolo Mezzani,sorbolo_mezzani,0,14,8,4,1
 44.748301,10.975935,Sozzigalli,sozzigalli,0,0,1,0,0
 44.183625,11.190693,Sparvo,sparvo,0,0,1,0,0
 44.531528,10.849561,Spezzano,spezzano,0,1,0,0,0
-43.728215,10.936609,Spicchio-Sovigliana,spicchio-sovigliana,0,0,0,0,0
 44.536193,11.012858,Spilamberto,spilamberto,0,29,19,13,3
-45.489891,12.162960,Spinea,spinea,1,46,36,16,0
-45.060119,10.512305,Spineda,spineda,0,0,2,0,0
 43.922397,11.981971,Spinello,spinello,0,1,0,0,0
-45.146843,11.372984,Spinimbecco,spinimbecco,0,0,1,0,0
-45.139822,11.757485,Stanghella,stanghella,0,11,8,1,1
-43.801527,11.708214,Stia,stia,0,2,0,0,2
-44.927616,11.566672,Stienta,stienta,1,2,7,1,0
 44.472458,11.118320,Stiore,stiore,0,0,1,0,0
-45.411084,12.008616,Stra,stra,0,13,7,3,2
-43.658056,11.296352,Strada In Chianti,strada_in_chianti,0,0,0,0,0
-43.659054,11.298118,Strada In Chianti, Greve In Chianti,strada_in_chianti_greve_in_chianti,0,1,0,0,0
-45.149633,11.819489,Stroppare,stroppare,0,1,0,0,0
-43.577377,11.878415,Subbiano,subbiano,1,20,8,5,1
-45.073621,11.009424,Sustinente,sustinente,0,6,2,0,0
-45.151123,11.168209,Sustinenza,sustinenza,0,1,0,0,0
-44.995135,10.750289,Suzzara,suzzara,2,35,29,16,2
-44.993637,12.222504,Taglio di Po,taglio_di_po,0,14,17,3,1
+44.945276,9.645467,Suzzano,suzzano,0,1,0,0,0
+44.796544,10.015369,Tabiano Castello,tabiano_castello,0,1,0,0,0
 43.906948,12.290186,Talamello,talamello,0,7,2,5,1
-43.588032,11.796337,Talla,talla,0,4,1,0,0
-43.566680,11.194457,Tavarnelle Val di Pesa,tavarnelle_val_di_pesa,0,5,1,0,0
-43.826195,12.597518,Tavoleto,tavoleto,0,4,1,0,1
-43.874395,12.733973,Tavullia,tavullia,0,12,8,6,0
-45.392437,11.817266,Tencarola di Selvazzano Dentro,tencarola_di_selvazzano_dentro,0,0,0,2,0
-45.353600,11.701613,Teolo,teolo,0,49,10,6,1
-45.485032,11.897657,terraglione,terraglione,0,1,0,0,0
-43.543445,11.637707,Terranova Bracciolini,terranova_bracciolini,0,1,0,0,0
-43.554073,11.592351,Terranuova Bracciolini,terranuova_bracciolini,0,57,19,9,1
-45.245473,11.904526,Terrassa Padovana,terrassa_padovana,0,8,0,2,0
-45.145982,11.412836,Terrazzo,terrazzo,0,0,1,0,0
+44.771304,10.445840,Taneto,taneto,0,1,1,0,0
+44.608531,10.069884,Terenzo,terenzo,0,6,1,0,2
 44.797331,11.396430,Terre del Reno,terre_del_reno,0,20,15,8,1
-43.698935,12.953349,Terre Roveresche,terre_roveresche,0,6,6,2,2
-43.542643,10.682350,Terricciola,terricciola,1,17,7,5,1
-45.225654,11.533645,Tezze sul Brenta,tezze_sul_brenta,0,0,0,0,0
+44.520301,10.193456,Tizzano Val Parma,tizzano_val_parma,1,7,2,0,1
 44.386704,10.560500,Toano,toano,1,8,8,3,1
 44.329853,11.059007,Tolè,tol,0,2,0,0,0
-45.287738,10.822763,Tormine,tormine,0,1,0,0,0
+44.454737,9.560151,Tornolo,tornolo,0,6,0,0,0
 44.077704,12.482100,Torre Pedrera,torre_pedrera,0,3,0,0,0
-45.334516,11.725458,Torreglia,torreglia,0,42,11,2,0
-45.092484,11.308515,Torretta,torretta,0,1,0,0,0
-43.783927,11.239203,Toscana,toscana,0,0,0,0,0
-44.386318,11.630722,Toscanella,toscanella,0,0,1,0,0
-44.383512,11.637400,Toscanella di Dozza,toscanella_di_dozza,0,1,2,0,0
-43.756591,12.666684,Trasanni,trasanni,0,0,0,0,0
-44.229415,11.055827,Traversetolo,traversetolo,0,0,1,0,0
+44.656688,10.278407,Torrechiara,torrechiara,0,0,1,0,0
+44.895914,10.347389,Torrile,torrile,0,5,8,2,0
+44.229415,11.055827,Traversetolo,traversetolo,0,30,16,7,4
+44.860305,9.542367,Travo,travo,0,15,4,2,2
 44.554332,11.319529,Trebbo Di Reno,trebbo_di_reno,0,1,0,1,0
-45.026718,11.463264,Trecenta,trecenta,1,1,3,1,0
+44.925747,10.256806,Trecasali,trecasali,0,1,0,0,0
 44.068056,11.741009,Tredozio,tredozio,0,9,5,1,0
-45.463241,12.463222,Treporti,treporti,0,1,2,0,0
 44.817323,11.893080,Tresigallo,tresigallo,0,1,0,0,0
 44.825093,11.883017,Tresignana,tresignana,0,9,8,3,0
-45.266064,10.930746,Trevenzuolo,trevenzuolo,0,6,1,1,0
-45.205473,11.837032,Tribano,tribano,0,9,4,3,0
-43.831214,10.637887,turchetto,turchetto,0,1,1,0,0
-44.009434,10.578234,Tuscania,tuscania,0,1,0,0,0
-43.692317,10.524147,Uliveto Terme,uliveto_terme,0,1,1,0,0
-45.197019,11.443159,Urbana,urbana,0,6,1,1,0
-43.663676,12.526072,Urbania,urbania,2,20,25,7,5
-43.729783,12.637746,Urbino,urbino,4,86,42,14,9
-43.980393,11.124759,Usella,usella,0,0,0,0,0
-43.880494,10.711365,Uzzano,uzzano,0,10,3,6,1
-45.331923,11.657782,Vò,v,0,2,0,0,0
 44.578883,10.909107,Vagli Sotto,vagli_sotto,0,1,0,0,0
-43.877298,11.300309,Vaglia,vaglia,1,15,4,1,2
-43.958528,11.125136,Vaiano,vaiano,0,20,16,4,3
-45.417251,11.459243,Val Liona,val_liona,0,8,2,1,0
-45.359418,10.735652,Valeggio sul Mincio,valeggio_sul_mincio,3,94,26,13,1
-45.265897,11.687397,Valle San Giorgio,valle_san_giorgio,0,1,0,0,0
-43.845153,12.759573,Vallefoglia,vallefoglia,1,27,24,14,0
-45.354838,10.735920,Valleggio sul Mincio,valleggio_sul_mincio,0,0,1,0,0
-45.299263,11.660970,Valnogaredo,valnogaredo,0,1,0,0,0
+44.967134,9.781471,Valconasso,valconasso,0,2,0,0,0
+44.578283,9.885135,Valmozzola,valmozzola,0,2,0,0,1
 44.474896,11.095499,Valsamoggia,valsamoggia,2,88,43,25,2
 44.183170,12.421790,Valverde Di Cesenatico,valverde_di_cesenatico,0,1,0,0,0
-45.231890,11.814127,Vanzo (San Pietro Viminario),vanzo_san_pietro_viminario,0,1,0,0,0
 44.452689,10.762702,Varana,varana,0,0,1,0,0
-45.441919,11.715145,Veggiano,veggiano,1,4,5,3,0
-43.952278,10.722509,Vellano,vellano,0,0,1,0,0
-45.436509,12.335655,Venedig,venedig,0,1,0,0,0
-45.439520,12.336971,Veneza,veneza,0,1,0,0,0
-45.445537,12.313064,Venezia,venezia,21,1350,602,142,134
-45.404795,12.366216,Venezia Lido,venezia_lido,0,1,0,0,0
-45.483200,12.276800,Venezia Mestre,venezia_mestre,0,0,0,1,0
-45.433100,12.314900,Venezia VE,venezia_ve,0,0,0,0,0
-45.437258,12.333723,Venezia, Venice, Veneto,venezia_venice_veneto,0,1,0,0,0
-45.438647,12.334444,Venice,venice,0,30,10,0,4
-45.469430,12.240068,Venice-Mestre,venice-mestre,0,0,0,0,0
-45.440584,12.338014,Venise,venise,0,1,0,0,0
-45.430400,12.323177,Venizia,venizia,0,0,1,0,0
+44.680016,10.005936,Varano de' Melegari,varano_de_melegari,0,12,3,2,2
+44.660068,9.849992,Varsi,varsi,0,6,1,0,0
+44.512536,10.399518,Vedriano,vedriano,0,1,0,0,0
 44.087585,11.953125,Ventasso,ventasso,0,1,0,0,0
 44.282891,11.100030,Vergato,vergato,3,21,10,7,3
 43.804683,12.056636,Verghereto,verghereto,0,16,5,1,1
-44.056849,11.152249,Vernio,vernio,0,15,6,1,1
-45.436440,10.988755,Verona,verona,38,1034,596,263,52
-45.413600,10.985700,Verona - Borgo Roma,verona_-_borgo_roma,0,1,0,0,0
-45.437500,10.997000,Verona, Veneto,verona_veneto,0,1,0,0,0
-45.329595,11.323615,Veronella,veronella,0,5,6,2,0
-43.996465,12.429457,Verucchio,verucchio,0,39,14,9,1
-45.121018,11.725046,Vescovana,vescovana,0,4,3,0,0
-44.604069,10.580976,Vezzano sul Crostolo,vezzano_sul_crostolo,0,10,5,8,0
-44.942971,10.541110,Viadana,viadana,2,28,30,13,4
-44.547489,10.599440,Viano,viano,0,17,6,2,1
-43.845409,10.516433,Viareggio,viareggio,0,0,1,0,0
-43.933935,11.464020,Vicchio,vicchio,0,24,10,5,2
-45.448181,12.120622,Vicenza,vicenza,0,7,5,2,0
-43.615702,11.108729,Vico D'Elsa,vico_delsa,0,3,0,0,0
-44.052715,10.696714,Vico Pancellorum,vico_pancellorum,0,1,0,0,0
-43.700458,10.569111,Vicopisano,vicopisano,1,36,17,7,5
+44.804641,9.860978,Vernasca,vernasca,0,21,3,1,0
+43.996465,12.429457,Verucchio,verucchio,0,45,19,11,1
+45.023226,9.679133,Verza,verza,0,0,1,0,0
+44.513547,10.351160,Vetto,vetto,0,2,0,0,0
+44.604069,10.580976,Vezzano sul Crostolo,vezzano_sul_crostolo,0,11,5,9,0
+44.547489,10.599440,Viano,viano,0,17,7,2,1
 44.846321,11.503174,Vigarano Mainarda,vigarano_mainarda,0,17,10,2,2
 44.859700,11.519897,Vigarano Pieve,vigarano_pieve,0,0,1,0,0
-45.318689,10.943655,Vigasio,vigasio,0,10,6,6,0
-45.179124,11.625670,Vighizzolo d'Este,vighizzolo_deste,0,1,0,0,0
 44.483027,11.006406,Vignola,vignola,2,60,35,15,6
-45.172794,11.327946,Vigo,vigo,0,1,0,0,0
-45.467832,11.873212,Vigodarzere,vigodarzere,0,19,10,5,0
-45.390457,12.005492,Vigonovo,vigonovo,1,21,12,10,0
-45.436661,11.970540,Vigonza,vigonza,1,60,31,21,2
-45.141617,11.360943,Villa Bartolomea,villa_bartolomea,0,12,6,3,0
-43.932006,10.631431,Villa Basilica,villa_basilica,0,4,1,0,0
-43.792430,10.687697,Villa Campanile,villa_campanile,0,1,0,0,0
-45.109709,11.441595,Villa d'Adige,villa_dadige,0,0,0,0,0
-45.169949,11.668364,Villa Estense,villa_estense,0,6,5,1,0
+44.816406,9.900069,Vigoleno di Vernasca,vigoleno_di_vernasca,0,1,0,0,0
 44.696040,10.637860,Villa Minozzo,villa_minozzo,0,0,0,1,0
-45.000526,11.113941,Villa Poma,villa_poma,0,0,1,0,0
-45.023949,11.123217,Villa Poma, Lombardia,villa_poma_lombardia,0,1,0,0,0
 44.399837,11.854222,Villa San Martino,villa_san_martino,0,1,0,0,0
 43.994587,12.417374,Villa Verrucchio,villa_verrucchio,0,0,1,0,0
-44.005734,12.431142,Villa Verucchio,villa_verucchio,0,5,5,2,0
-45.071584,11.892131,Villadose,villadose,0,6,9,1,1
-45.360326,10.856860,Villafranca di Verona,villafranca_di_verona,6,98,59,34,2
-45.475258,11.801312,Villafranca Padovana,villafranca_padovana,1,11,8,4,0
-45.397931,11.525414,Villaga,villaga,1,6,1,1,1
 44.568095,10.764497,Villalunga,villalunga,0,1,0,0,0
-45.015434,11.687832,Villamarzana,villamarzana,0,2,0,0,0
-43.739168,12.935930,Villanova,villanova,0,0,1,0,0
-45.061407,11.639888,Villanova del Ghebbo,villanova_del_ghebbo,0,6,5,1,0
-45.490286,11.972183,Villanova di Camposampiero,villanova_di_camposampiero,0,7,2,1,0
-44.499293,11.430831,Villanova Di Castenaso,villanova_di_castenaso,0,0,2,1,0
 44.833259,11.808626,Villanova di Denore,villanova_di_denore,0,0,1,0,0
-45.402565,11.268898,Villanova di San Bonifacio,villanova_di_san_bonifacio,0,1,0,0,0
-44.991148,11.953573,Villanova Marchesana,villanova_marchesana,0,1,1,0,0
-45.490641,11.971987,Villanuova di Camposampiero,villanuova_di_camposampiero,0,0,1,0,0
-44.975454,10.644145,Villastrada,villastrada,0,0,2,0,0
-45.144517,11.025242,Villimpenta,villimpenta,0,3,2,0,1
-44.493510,11.338305,Vimercate,vimercate,0,0,0,0,0
-43.754854,10.926472,Vinci,vinci,1,39,30,9,4
-45.092431,10.789782,Virgilio,virgilio,0,1,0,0,0
-45.324174,11.642652,Vo',vo,0,44,5,4,1
-45.328870,11.620565,Vo' Vecchio,vo_vecchio,0,0,0,0,0
+44.966497,9.979881,Villanova sull'Arda,villanova_sullarda,1,1,2,0,3
 44.759890,11.739121,Voghiera,voghiera,0,12,11,1,1
-43.516652,11.381133,Volpaia,volpaia,0,3,0,0,0
-45.319739,10.665639,Volta Mantovana,volta_mantovana,1,42,22,8,1
-43.571531,10.971385,Volterra,volterra,0,0,0,0,1
 44.220738,12.381913,Zadina,zadina,0,2,0,0,0
-45.475775,11.374009,Zermeghedo,zermeghedo,0,5,5,0,0
-45.369662,11.116271,Zevio,zevio,1,19,19,7,0
-45.355908,11.344580,Zimella,zimella,0,11,3,0,0
+44.665734,9.286078,Zerba,zerba,0,1,0,0,0
+44.982357,9.455491,Ziano Piacentino,ziano_piacentino,0,16,3,1,2
 44.379758,11.027818,Zocca,zocca,0,24,11,0,7
 44.490821,11.238200,Zola pedrosa,zola_pedrosa,0,0,1,0,0
 44.493211,11.218066,Zola Predosa,zola_predosa,0,45,20,13,3
 44.487311,11.246856,Zona Industriale Via Del Lavoro,zona_industriale_via_del_lavoro,0,1,0,0,0
-45.432325,11.508111,Zovencedo,zovencedo,0,9,2,0,0

@@ -1,7 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# Villaverla -- Tutti
-45.612742,11.509661,ov_joia_ristorante_caffe_45.6127_11.5097,Joia Ristorante Caffe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/joia_ristorante_caffe_45.6127_11.5097.json,custom
-45.645288,11.507217,ov_pizzeria_dal_moro_45.6453_11.5072,Pizzeria Dal Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/pizzeria_dal_moro_45.6453_11.5072.json,custom
+# villaverla -- Tutti
 45.647320,11.492460,ov_trattoria_benetti_romeo_45.6473_11.4925,Trattoria Benetti Romeo,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/trattoria_benetti_romeo_45.6473_11.4925.json,custom
 45.637541,11.486677,ov_agriturismo_el_gran_45.6375_11.4867,Agriturismo El Gran,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/agriturismo_el_gran_45.6375_11.4867.json,custom
 45.654386,11.494347,ov_leon_d_oro_45.6544_11.4943,Leon d'Oro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/leon_doro_45.6544_11.4943.json,custom
@@ -20,12 +18,14 @@
 45.651202,11.494299,ov_maistrello_cafe_45.6512_11.4943,Maistrello Cafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/maistrello_cafe_45.6512_11.4943.json,custom
 45.650799,11.491852,ov_trandy_caffe_45.6508_11.4919,Trandy Caffe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/trandy_caffe_45.6508_11.4919.json,custom
 45.650450,11.493977,ov_central_bar_45.6504_11.4940,Central Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/central_bar_45.6504_11.4940.json,custom
-45.651109,11.500992,ov_centro_porte___finestre_45.6511_11.5010,Centro Porte & Finestre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/centro_porte_finestre_45.6511_11.5010.json,custom
 45.657808,11.493331,ov_hypnoticafe_45.6578_11.4933,HypnotiCafe,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/hypnoticafe_45.6578_11.4933.json,custom
 45.657130,11.493350,ov_pasticceria_carollo_45.6571_11.4934,Pasticceria Carollo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/pasticceria_carollo_45.6571_11.4934.json,custom
-45.613026,11.508868,ov_aquarea_vicenza_45.6130_11.5089,Aquarea Vicenza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/aquarea_vicenza_45.6130_11.5089.json,custom
 45.650250,11.472310,ov_para_cycling_memorial_valter_corradin_45.6502_11.4723,Para-Cycling Memorial Valter Corradin,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/para-cycling_memorial_valter_corradin_45.6502_11.4723.json,custom
 45.653592,11.485366,ov_share_care_45.6536_11.4854,Share Care,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/share_care_45.6536_11.4854.json,custom
 45.649351,11.498145,ov_evoluzione_danza_45.6494_11.4981,Evoluzione Danza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/evoluzione_danza_45.6494_11.4981.json,custom
 45.658474,11.490881,ov_activa_palestra_45.6585_11.4909,Activa Palestra,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/activa_palestra_45.6585_11.4909.json,custom
 45.652149,11.492302,ov_biblioteca_civica_di_villaverla_45.6521_11.4923,Biblioteca Civica di Villaverla,LIBRARY,biblioteca,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/biblioteca_civica_di_villaverla_45.6521_11.4923.json,custom
+45.612742,11.509661,ov_joia_ristorante_caffe_45.6127_11.5097,Joia Ristorante Caffe,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/joia_ristorante_caffe_45.6127_11.5097.json,custom
+45.645288,11.507217,ov_pizzeria_dal_moro_45.6453_11.5072,Pizzeria Dal Moro,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/pizzeria_dal_moro_45.6453_11.5072.json,custom
+45.651109,11.500992,ov_centro_porte___finestre_45.6511_11.5010,Centro Porte & Finestre,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/centro_porte_finestre_45.6511_11.5010.json,custom
+45.613026,11.508868,ov_aquarea_vicenza_45.6130_11.5089,Aquarea Vicenza,GYM,palestra,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/villaverla/pages/aquarea_vicenza_45.6130_11.5089.json,custom

@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# foligno -- bars_cafes
+# foligno -- bars_cafes.csv
 42.934636,12.675169,ov_bikers_bar___foligno_42.9346_12.6752,Bikers Bar - Foligno,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bikers_bar_-_foligno_42.9346_12.6752.json,custom
 42.931401,12.703417,ov_foligno_caff__42.9314_12.7034,Foligno Caffé,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/foligno_caff_42.9314_12.7034.json,custom
 42.936226,12.705177,ov_circolo_ricreativo_sterpete_42.9362_12.7052,Circolo Ricreativo Sterpete,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/circolo_ricreativo_sterpete_42.9362_12.7052.json,custom
@@ -80,8 +80,6 @@
 42.982869,12.723864,ov_dreams_bar_42.9829_12.7239,Dreams Bar,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/dreams_bar_42.9829_12.7239.json,custom
 42.982692,12.739623,ov_bar_ristorante__morico_42.9827_12.7396,Bar Ristorante  Morico,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_ristorante_morico_42.9827_12.7396.json,custom
 42.983130,12.753520,ov_la_fenice_42.9831_12.7535,La Fenice,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/la_fenice_42.9831_12.7535.json,custom
-43.034035,12.894203,ov_birrificio_colfiorito_43.0340_12.8942,Birrificio Colfiorito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/birrificio_colfiorito_43.0340_12.8942.json,custom
-43.031470,12.893591,ov_bar_altobelli_43.0315_12.8936,Bar Altobelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_altobelli_43.0315_12.8936.json,custom
 42.934010,12.721030,ov_il_circolo_42.9340_12.7210,Il Circolo,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/il_circolo_42.9340_12.7210.json,custom
 42.931482,12.723994,ov_iqos_partner___bar_tabacchi_caffe_roma___42.9315_12.7240,"IQOS PARTNER - Bar Tabacchi Caffe Roma, Foligno",RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/iqos_partner_-_bar_tabacchi_caffe_roma_f_42.9315_12.7240.json,custom
 42.929380,12.724000,ov_moka__cafe_and_bakery_42.9294_12.7240,Mokaè cafe and bakery,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/moka_cafe_and_bakery_42.9294_12.7240.json,custom
@@ -93,7 +91,7 @@
 42.912121,12.722093,ov_touchdown_bistrot_42.9121_12.7221,Touchdown bistrot,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/touchdown_bistrot_42.9121_12.7221.json,custom
 42.972614,12.687143,osm_bar_l_angolo_verde_42.9726_12.6871,Bar L'angolo Verde,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_langolo_verde_42.9726_12.6871.json,custom
 42.952810,12.698814,osm_pub_hofbr_u_m_nchen_42.9528_12.6988,Pub Hofbräu München,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/pub_hofbru_mnchen_42.9528_12.6988.json,custom
-42.952922,12.698785,osm_gelateria__pasticcieria__caffetteria_inf_42.9529_12.6988,Gelateria, Pasticcieria, Caffetteria Infraportas,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/gelateria_pasticcieria_caffetteria_infra_42.9529_12.6988.json,custom
+42.952922,12.698785,osm_gelateria__pasticcieria__caffetteria_inf_42.9529_12.6988,"Gelateria, Pasticcieria, Caffetteria Infraportas",bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/gelateria_pasticcieria_caffetteria_infra_42.9529_12.6988.json,custom
 42.951058,12.701529,osm_bar_parco_dei_canap__42.9511_12.7015,Bar Parco dei Canapè,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_parco_dei_canap_42.9511_12.7015.json,custom
 42.955720,12.704045,osm_drogheria_luccioli_42.9557_12.7040,Drogheria Luccioli,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/drogheria_luccioli_42.9557_12.7040.json,custom
 42.960822,12.699812,osm_bar_50_50_42.9608_12.6998,Bar 50 50,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_50_50_42.9608_12.6998.json,custom
@@ -101,3 +99,5 @@
 42.977866,12.864831,osm_bar_circolo_acli_volperino_42.9779_12.8648,Bar Circolo Acli Volperino,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_circolo_acli_volperino_42.9779_12.8648.json,custom
 42.955821,12.706589,osm_o__ma_42.9558_12.7066,O' ma,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/o_ma_42.9558_12.7066.json,custom
 42.954581,12.700302,osm_baraonda_42.9546_12.7003,Baraonda,bar_cafe,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/baraonda_42.9546_12.7003.json,custom
+43.034035,12.894203,ov_birrificio_colfiorito_43.0340_12.8942,Birrificio Colfiorito,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/birrificio_colfiorito_43.0340_12.8942.json,custom
+43.031470,12.893591,ov_bar_altobelli_43.0315_12.8936,Bar Altobelli,RESTAURANT,bar_cafe,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/umbria/foligno/pages/bar_altobelli_43.0315_12.8936.json,custom

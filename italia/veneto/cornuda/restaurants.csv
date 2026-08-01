@@ -1,5 +1,5 @@
 # lat,lng,id,name,building_type,type,url,page_type
-# cornuda -- restaurants
+# cornuda -- restaurants.csv
 45.630667,12.164014,ov_nord_ristorazione_srl_45.6307_12.1640,Nord Ristorazione SRL,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/nord_ristorazione_srl_45.6307_12.1640.json,custom
 45.815753,12.013072,ov_pizzeria_da_michele_45.8158_12.0131,Pizzeria da Michele,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/pizzeria_da_michele_45.8158_12.0131.json,custom
 45.817173,12.012638,ov_pizzeria_trattoria_montello_45.8172_12.0126,Pizzeria Trattoria Montello,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/pizzeria_trattoria_montello_45.8172_12.0126.json,custom
@@ -7,10 +7,6 @@
 45.813438,12.012378,ov_mcdonald_s_45.8134_12.0124,McDonald's,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/mcdonalds_45.8134_12.0124.json,custom
 45.813806,12.006792,ov_blu_tavola_calda_45.8138_12.0068,Blu Tavola Calda,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/blu_tavola_calda_45.8138_12.0068.json,custom
 45.815504,12.001875,ov_agriturismo_valle_in_piano_45.8155_12.0019,Agriturismo Valle In Piano,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/agriturismo_valle_in_piano_45.8155_12.0019.json,custom
-45.840865,11.970363,ov_la_beccaccia_45.8409_11.9704,La Beccaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/la_beccaccia_45.8409_11.9704.json,custom
-45.837478,11.993301,ov_osteria_al_vecchio_torcio_45.8375_11.9933,Osteria Al Vecchio Torcio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/osteria_al_vecchio_torcio_45.8375_11.9933.json,custom
-45.840551,11.993924,ov_ristorante_casa_bedin_45.8406_11.9939,Ristorante Casa Bedin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/ristorante_casa_bedin_45.8406_11.9939.json,custom
-45.830238,11.990520,ov_osteria_al_cacciatore_45.8302_11.9905,Osteria al Cacciatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/osteria_al_cacciatore_45.8302_11.9905.json,custom
 45.832496,12.004116,ov_pizzeria_pizza_one_45.8325_12.0041,Pizzeria Pizza One,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/pizzeria_pizza_one_45.8325_12.0041.json,custom
 45.832207,12.009885,ov_100__pizza_45.8322_12.0099,100% Pizza,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/100_pizza_45.8322_12.0099.json,custom
 45.832682,12.011336,ov_chezdino_45.8327_12.0113,Chezdino,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/chezdino_45.8327_12.0113.json,custom
@@ -26,3 +22,7 @@
 45.832797,12.031649,ov_le_corderie_45.8328_12.0316,Le Corderie,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/le_corderie_45.8328_12.0316.json,custom
 45.832219,12.031702,ov_dongbei_take_away_45.8322_12.0317,Dongbei Take Away,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/dongbei_take_away_45.8322_12.0317.json,custom
 45.834502,12.021065,osm_ristorante_bragosso_45.8345_12.0211,Ristorante Bragosso,ristorante,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/ristorante_bragosso_45.8345_12.0211.json,custom
+45.840865,11.970363,ov_la_beccaccia_45.8409_11.9704,La Beccaccia,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/la_beccaccia_45.8409_11.9704.json,custom
+45.837478,11.993301,ov_osteria_al_vecchio_torcio_45.8375_11.9933,Osteria Al Vecchio Torcio,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/osteria_al_vecchio_torcio_45.8375_11.9933.json,custom
+45.840551,11.993924,ov_ristorante_casa_bedin_45.8406_11.9939,Ristorante Casa Bedin,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/ristorante_casa_bedin_45.8406_11.9939.json,custom
+45.830238,11.990520,ov_osteria_al_cacciatore_45.8302_11.9905,Osteria al Cacciatore,RESTAURANT,ristorante,https://raw.githubusercontent.com/pasqualelembo78/huntix-poi/main/italia/veneto/cornuda/pages/osteria_al_cacciatore_45.8302_11.9905.json,custom
